@@ -27,7 +27,7 @@ Inside of the dataset folder you can find ~1000 text files. These are files that
 
 4. **tools/**
 
-The tools folder contains three scripts to OCR, create XML files to be fed to a Solr search engine, and a simple implementation of a generative machine learning model to run with the CREST Archive documents.
+The tools folder contains three scripts to OCR, create XML files to be fed to a Solr search engine, and a [simple implementation of a generative machine learning model](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) to run with the CREST Archive documents.
 To OCR a folder with documents, please refer to the `ocr_tool/convert_all.sh` script. Or you may simply run the `get_text.py` script. Note that *this script takes in an input file as an argument*. The OCR tool we are using here is [doc2text](https://github.com/jlsutherland/doc2text).
 
 ## 3. Contact Information
