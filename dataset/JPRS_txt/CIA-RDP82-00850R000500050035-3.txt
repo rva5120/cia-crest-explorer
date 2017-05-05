@@ -1,0 +1,1706 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10459
+
+15 April 1982
+
+East Europe Report
+
+SCIENTIFIC AFFAIRS
+(FOUO 1/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and beaks, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Hhere no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli.
+cies, views or attitudes of the U.s. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OHNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+EAST EUROPE REPORT
+SCIENTIFIC AFFAIRS
+
+(£0110 1/82)
+
+CONTENTS
+
+IﬁTERNATIGlAL AFFAIRS
+
+Automatic Stabilized Platform for Interkosmos Solar Program
+Described
+(Frantiaek Rubes, et a1.3 AUTMATIZACE, No 11, 1981)...
+
+Microprocessor Systems, Computer Component Base in cm
+
+Outlined
+(Eduard Schliksbier; WEIR! OBZOR, No 10,
+
+1981)...-oooo-ccoocuoulooooooocoo-o.coco-oooocaoooccooo
+
+CZECHOSIDVAKIA
+
+Minister Outlines 1981-1985 Metallurg Tasks
+(Ladislav Gerle; HUTNICKB us'rr, No 1, 1982)
+
+Metal Recycling Saves Energy, Hard Currency
+(Antonin Radvanovsky; ELBKTRO‘I‘ECHNICK! OBZOR, Dec 81) .
+
+~a- [III-EE-GS POL?!
+
+FOR OFFICIAL USE ONLY
+AUTOMATIC STABILIZED PLATFORM FOR INTBRKOSHDS SOLAR PROGRAM DESCRIBED
+
+Prague AUTOMATIZACE in Czech No 11, 1981 pp 276-282
+
+[Article by Eng Frantisek Rubes, Eng Jiri Ruzicka and Eng Jiri Recek,
+Research Institutes Development and Operations Base, Prague-Bechovice: "An
+Automatic Stabilized Platform in the Interkosmos Program"]
+
+[Text] This article describes the main characteristics
+of the equipment in the ASP-SKAN automatic stabilized
+
+platform, which was developed for the new AUOS-S satel-
+lites to be used in the Interkosmos program for the
+
+study of solar radiation. The ASP-SKAN is an electro-
+mechanical system for precise orientation of high-
+resolution astronomical instruments.
+
+1. Introduction
+
+The development of rockets and space flight in the past two decades (1960-
+1980) has made it possible to transport astronomical measuring instruments
+(telescopes, spectrometers and the like) outside the earth's atmosphere. The
+placing of scientific measuring instruments in automatic space stations has
+increased the possibilities for studying short-wave radiation from bodies in
+space (e.g., ultraviolet and x-ray radiation from the sun), which is absorbed
+by the earth's atmosphere. Automatic space stations make it possible to con-
+duct nearly continuous astronomical observation free from the disturbing
+
+effects of the earth's atmosphere, thus markedly increasing the effective-
+ness of astronomical observation.
+
+As part of international cooperation in the Interkosmos program. the Soviet
+Union has developed the new AUOS-S satellites (Automatic Universal Orbital
+Station-Sun), which will be used to study the sun from earth orbit. The
+AUOS-s satellite is capable of triaxial orientation in space. Its longitudi-
+nal ax'n is oriented toward the center of the sun with an accuracy within a
+
+few minutes of arc. It is in a nearly circular orbit at an altitude of 500 km
+
+and an active life of 6 months is expected. ’
+
+Bccnuxe of the high resolution of the optics in the astronomical measuring
+instrument (within 10 seconds of are). the error in stabilization of the
+optical axis must be within a few seconds of arc. In 1974, specialists of
+
+l
+FOR‘OFFNJAI.US£(MNLY
+I‘VR Ufflbll‘h UOD Ul‘hl
+
+the Space Physics working group in the Interkosmos program issued the
+specifications for the development of the ASP-SW automatic stabilised
+platform, which will he placed aboard an AUOS-S satellite and will carry
+
+astronomical instruments intended for study of x-rays from the sun. The
+specifications called for resolution of the above-mentioned problem of pre-
+
+cisely orienting the optical axes of astronomical instruments toward a
+specified area of the sun, as well as support of other program functions.
+
+The task of developing and producing the electromechanical system for the
+
+ASP-SKA“ was assigned to the Research Institutes Development and Operations
+Base (VPZ) in Bechovice. The requester and principal coordinator of the task
+
+on the Czechoslovak side is AsU [Institute of Astronomy] CSAV [Czechoslovak
+Acadeuy of Sciences] in Ondrejov. The Space Research Institute (11(1) of the
+
+USSR Academy of Sciences in Moscow was designated manager and coordinator of
+technical design on the Soviet side. An economic specification for the
+
+design was that Czechoslovak or can components must be used. Micro-
+processors could not he used in the design because none with high reliability
+
+were available during the development and testing stage. An attempt was made
+to assure maximum equipment reliability from the very beginning of develop-
+ment work. Material and design tests carried out during development affected
+the design of the final working model. But these matters, as well as a
+description of the simlation of the weightless state, are outside the scope
+of the present article.
+
+2. Characteristics of the ASP-SKAN Equipment
+
+The ASP-SW, which carries two devices for studying solar activity, performs
+the following functions:
+
+3. Automatic compensation of errors in the orientation of the orbital sta-
+tion and definition of the relative coordinate system for measurement of the
+
+motions described in points b through d;
+
+b. Orientation of the optical axes of the astronomical instruments to a
+specific point on the solar disk;
+
+c. Line scanning of the image of the solar disk by mechanical movement, i.e.,
+"coarse scan";
+
+d. Line scanning of a selected section of the solar disk by mechanical move-
+
+ment, i.e., "fine scan";
+
+e. Automatic organization of functions under points b through d into a
+selected program mode;
+
+f. Provision of the necessary information on equipment operation to the
+telemetric system.
+
+Functions a and f are carried out independently, while functions b through e
+are chosen by external comand. The external comands also specify the
+coordinate values, in the relative system, which are required for the activ-
+
+ities in points b and d.
+
+2
+FOR OFFICIAL USE ONLY
+3. Technical Description
+
+The ASP-SKAS equipment consists of mechanical and electronic sections con-
+nected by cables (see Fig. 3.0).
+
+ 
+
+Fig. 3.0. ASP—SKAN platforr with mockup of scientific instrument and auxil—
+
+iary test frame holding a sclat simulator and equipment for simulating
+weightlessness.
+
+The mechanical section, whi<h i: the functional part of the system. is
+dvhigued to operate in open space (vacuum, weightless condition and the like).
+
+lhe tiectxonin «action provides power to the mechanical section and controls
+its operation. With the ex‘eption of the position sensor, the electronic
+
+suction is contained in the electronics unit. which is intended for opera—
+rion In Ihe rllmate-controllcd environment of the sealed part of the satellite.
+
+1.1 lkwuw’ptlnu of the Neuhanical Section
+
+ﬁne klnnnutir orxuuirntion of the platf01m's mechanical design is shown in
+Fig. ‘5.|.
+
+1
+Ton OFFICIAL USE ONLY
+scanning
+WM diagram of
+
+“ ”2:?! orientation “WW ”It". 3‘571-5“¢':.3”€z
+
+    
+
+‘“god of AUOS-S motor
+
+   
+
+I
+v. |. I m... a 5.???
+\\:5357 w satellite L 9
+Fig. 3.1. Kinematic diagram of ASP-SKAN.
+Key:
+1. Measuring instrument frame 8. Disk malt for sensing motor
+2. masuring instrument steps
+3. Arm for solar sensors 9. Step motor
+4. Ball circulating screw 10. Body of A008 satellite
+5. Disk mask for sensing of middle SC. Solar sensor
+and end positions SH. Adjustment servomechanism
+6. Photoelectric sensors 9.. Length of swinging arm
+7. Photoelectric sensors
+
+The bodies of the two lower adjustment servomechanisms SHE: and SHBZ are fixed
+to the body 10 of the satellite. The extensible part of adjustment servo-
+
+mechanism SHez ends in a ball-and—socket joint with radial expansion, while
+the extensible part of adjustment servomechanism SM82 ends in a ball-and-
+
+socket joint with crosswise expansion. The upper part of the fixed leg of
+the platform ends in a ball-and-socket joint located at the origin of the
+
+three-dimensional rectangular coordinate system x2, y2, 22.
+
+The lower part of instrument frame 1 is attached to the joints described
+above. Arm 3 for the solar sensors is attached to the upper part of instru-
+
+ment frame 1 in similar fashion by upper adjustment servomechanisms SMs1 and
+51181, the bodies of which are fixed to the arm. The one-coordinate solar
+
+sensors SC: and 8C3 are fixed at the midpoints of the solar sensor arm. The
+scientific measuring instrument (or instrumnts) 2 is fixed to instrument
+
+frame 1 with its optical axis perpendicular to the yz-zz plane. The x2 axis
+is parallel to the longitudinal axis of the AUOS-s satellite, which is
+
+1;
+FOR OFFICIAL USE ONLY
+approximately oriented toward the center of the sun, with an error of several
+minutes of are. by a separate stabilizing system.
+
+The origin of the two-coordinate relative system c, B is the center of the
+solar disk, to which the system is oriented; it is determined by using the
+
+two one-coordinate solar sensors SCc and 5C3. Lower servomechanism suez is
+electrically connected to directional sensor scc, and the pair SHBZ and 5C3
+are similarly connected. The directional error recorded by the solar sensors
+SC is electromechanically compensated by displacement of the movable parts of
+lower servombchanisms SHsz and snag. This linkage assures continuous stabili-
+zation of the platform. The optical axis of measuring instrument 2 is shifted
+to a specified point on the image of the solar disk by simultaneous specifi-
+cation of the required displacement to a pair of opposing adjustment
+servomechanisms, either She; and Shel or 5H8; and SMBl, with the direction of
+displacement of the upper servomechanism having the opposite sign from that
+
+of the lower.
+
+With this linkage, angular displacement of instrument frame 1 does not dis-
+turb thc orientations of the optical axes of solar sensors SC. so that the
+
+stabilization of the platform described above is not affected. Scanning is
+analogous to the shifting of the optical axis to a specified point, since
+
+the process involves a program-controlled succession of coordinate shifts.
+
+For illustration purposes, we present some kinematic parameters of the ASP-
+SKAN equipment for a maximum motor stepping frequency of 200 Hz in the coarse
+
+scan mode:
+
+--step motor speed 300 rpm
+--rotary speed of ball circulating screw 20 rpm
+—-translational speed of nut of ball circulating
+screw 1 mm/sec
+--angular speed ratio, motor/platform 21.6 ° 103
+--angular velocity t, B of platform 1.65 ° 10“3 rad/sec
+--angular acceleration t, B of platform 5.81 ' 10" rad/sec2
+--operating displacement of screw drive for
+platform shift of 1§0' of arc ilz mm
+—-maximum mechanical displacement of screw drive le mm
+--scrcw drive displacement to achieve platform
+shift of l" of arc 0.0033 mm
+--moment of inertia of instrument frame and
+instrument (calculated max value) 25 kg-m2
+
+Host of the parts of the ASP-SKAN system are made of light aluminum alloys.
+
+Conventional machine materials (stainless steel, bronze, brass and the like)
+are used for the most important moving parts. The structural members and
+
+drive assemblies of the servomechanisms, which perform the precision adjust-
+ments, are prestressed to limit play. Si.ce operation takes place in the
+
+deep vacuum of space. parts in sliding contact are lubricated with a micro-
+layer of solid H082 (molybdenum sulfide) lubricant.
+
+FCWICHHHCIA1.USE(MVLY
+a V.‘ HI I I‘vll‘h U0.- Vl‘hl
+
+The servomechanisms contain a set of optoelectronic sensors which sense:
+
+a. The end positions of servomechanism displacements;
+b. The sign of the deviation from the central position;
+c. Motor stepping.
+
+The mechanical part of the ASP-SKAN is protected against overload and vibra-
+tion during launch of the carrier rocket by an arresting device which is
+released by pyrotechnical means when in orbit (not shown in Fig. 3.1).
+
+3.2 Description of Electrical Part
+
+The organization of the set of electrical components, as shown in Fig. 3.2,
+strongly resembles a microprocessor system. The electronic section contains
+the following principal components: voltage transformer, control logic,
+working counter, working memory, servo control unit and buffer memory.
+Because the principle that data must change during equipment operation only
+by increments of 1 was consistently adhered to, a three-decade reversible
+counter is used to handle the data.
+
+The equipment responds to commands which have been checked by the command
+receiver unit. The purpose of this unit is to provide a certain degree of
+noise immunity by testing the command's length. After checking. the com-
+mands are executed in order of priority by the control logic unit. Another
+type of incoming signal is the "point coordinate designations," which are
+the data required for displacement of the platform in order to orient the
+optical axes of the astronomical instruments toward a selected point on the
+solar disk for fine scanning to be performed. The data are stored for sub-
+sequent use in the coordinate register, consisting of nonvolatile memory
+which need not be refreshed after each passage through the earth's shadow,
+when the power is off. The final types of signal to which the instrument
+responds are those from the solar sensors, the end position markers, the
+markers of the mechanical Iidpoints of the platform movement range, and
+
+servomotor steps. The mechanical midpoint markers allow calibration of the
+coordinate system relative to the center of the sun.
+
+The internal operation of the movement control can best be explained using
+Fig. 3.3. The curve for platform position is shown in the figure in a
+coordinate system whose origin is oriented toward the center of the solar
+disk by means of the signals from the solar sensors. In this coordinate
+system, the platform and its scientific instruments are controlled by servo-
+motors with a digital link. The position of the platform is read off in
+incremental form and the direction of motion is determined by step disks
+located on the motors, which are controlled by the servo control unit; the
+position is expressed in step increments. The columns on the figure repre-
+sent the division of the platform's position into motor steps; above and
+below the curve and at the bottom of the figure are shown the changes in the
+states of the memories for "difference," "path" and “absolute magnitude”
+respectively which result from stepping in the directions shown. The figure
+
+shows a step with the designation CERTBR, covered by the mechanical center
+marker, which during calibration initializes all of the memories described
+
+6
+FOR OFFICIAL USE ONLY
+to the specified coordinates. In sections A, C, and D the dotted line shows
+a displacement by +4 steps of the actor in the required path, while B and 3
+
+show a displacement of -6 steps.
+
+.., C
+
+‘ M l
+Apnly 1’ 0% we Mu
+
+     
+ 
+ 
+
+    
+
+g—
+;
+_
+
+.Mae J
+EMWK
+
+        
+   
+  
+      
+
+    
+
+   
+
+’Ill’
+
+ 
+
+\\\\\\“\\\‘
+E \
+‘ h
+_| _ _ E :
+I ”or.” W .:
+g he's-I that": M_______
+w x \ §
+' s
+
+l i ‘ t . -
+ﬁlm try km connector
+Fig. 3.2. Block diagram of ASP-5m equipment.
+
+a. Sign of point coordinates
+
+b. Address and setting for memory readout or entry
+c. COARSE SCAN or FINE SCAN performed
+
+d. Clearing. entry and up or down counting
+
+e. Information on zero value, odd number. etc.
+f. Memory entry
+
+g. Samples within line, clearing of counter
+
+[Key continued on following page]
+
+7
+FOR OHICIAL USE ONLY
+I'UK UI'I'ILIAI. U3: UNI»!
+
+Correction, timing and required direction of motion
+
+Motor steps
+
+Control of multiplexer for monitoring equipment operation
+Signaling on operation, synchronization of peripherals
+Signal of passage through extreme and central positions of coordinates
+0.40, 0.41, odd and even lines
+
+Required servo speed
+
+Commands
+
+Power
+
+Specification of point coordinates
+
+Command receiver
+
+Voltage transformer
+
+Coordinate register (nonvolatile memory)
+
+Control logic (time base generator, controllers, etc.)
+"Absolute magnitude" of B or t
+
+\
+
+"Difference" for .3 or a
+
+"Path" for 8 or c
+
+Line number
+
+Working memory
+
+Constant recoder
+
+Condition flip-flops
+
+working counter
+
+Speed memory
+
+Line number memory
+
+Absolute position of '3 (memory)
+Absolute position of u (Emory)
+Buffer memory
+
+Sample counter
+
+Servo control unit
+
+Coordinate extreme position signals
+Solar sensors
+
+Step sensors
+
+    
+ 
+ 
+    
+
+Servomotors
+CEN'fER
+I1 ‘ ' | 5 I ' -"Difference " above the curve
+4| 9 deltas "1| 2"3' ”’1’ '
+a I" t 7'??? '0 . "Path," below the curve
+‘ 5;: f {Lil I Changeover from "path" to "difference"
+’ I” J 2 ' . (and vice versa
+0 ‘ "2
+' I
+i 5 Possible burst during "path"
+-1
+E ' I l | v
+‘Gl-SH -:|-2 -! 0 01 " '5'!- "Absolute magnitude"
+
+_ Stabilization of position
+----- Required path, four motor steps long
+
+Fig. 3.3. Recording of state in working memory.
+
+8
+FOR OFFICIAL USE ONLY
+The activity described above is performed by the other units shown in
+
+Fig. 3.2. The working memory holds the independent addresses for each
+coordinate and for the line number, which designates the length and direc-
+tion of the path during scanning by means of the constant recoder unit.
+Permanent functions always include suitable entry of data into the working
+counter (from the working memory, coordinate register and constant recoder),
+loading of the working counter (clearing, incrementing or decrementing by
+
+l or by 0), and entry of the condition of the working counter into working
+memory and into the other units.
+
+This activity cycles through all addresses of working memory.
+
+The buffer memory unit is intended for asynchronous parallel transmission of
+data from the electronic unit to the telemetry unit, which transmits it in
+suitable form to the ground receiving station. This method is used to trans-
+
+ndt information on the absolute position of the platform, the number of the
+line being scanned, and the sample number within the scan line (from the
+
+sample counter). In addition. information on the activity currently being
+performed (scan, line, correction and the like) is transmitted.
+
+The transmission of test parameters is a completely independent operation
+controlled from the test apparatus. For this purpose, after the test equip-
+ment is plugged into the connector, the buffer memory and multiplex circuits
+are operated on in such a way that the instantaneous state of the circuits in
+question is shown on the test equipment panel. The circuits which are used
+
+only for testing are powered by the test equipment. and only during tests.
+3.3 The Servosysten
+
+Since the kinematic arrangement of the platform which is used allows us to
+consider it as independently controlled in each dimension, the servosystem
+
+is divided into two independent associated channels, B and t. Each channel
+performs two independent tasks: stabilizing the position of the platform
+
+relative to the center of the sun. and moving the platform in response to
+commands from the logical unit. This is done by having the servosystem
+indupendently control the mutual deviation between the two frames of the
+platform and the deviation of this pair of frames from the front surface of
+the station. Fig. 3.h illustrates the situation in channel a and also shows
+the significance of the angular designations c1, c2 and £5 used below. A
+block diagram of channel n is shown in Fig. 3.5a.
+
+The position is stabilized by a regulating circuit which includes solar
+sensor SC. preamplifier P2, correction circuit KO. servoamplifier 822. motor
+
+M2, mechanical drive P2, element DZ representing the dynamic properties of
+the design, and kinematic sum element Ks.
+
+9
+FOR OFFICIAL USE ONLY
+Fig. 3.4. Geometric relations: 8. center of solar disk; RSC, solar sensor
+
+arm; RAP, astronomical instrument frame; 0 2 , station axis; 01, optical axis
+of astronomical instrument, oo, optical ax s of solar sensor.
+
+ 
+
+A +72%:
+":50-
+n ' '
+r—“"-w ’ 2.--- .. __--.=.--1 Pr:-
+| .C""- . "1... 5—:
+- on” .— —— -3+ __ _~'.—. —,-.-.:
+
+ 
+
+- ‘.. -:..<.;-.. . .--_.. .__. _ ...___.._.._......-__..-.
+
+Fig. 3.5. Block diagram of servosystem. (Note: Adjustment - increment of
+position)
+
+Key:
+A. Sign of extreme position D. Required speed
+B. Position increment E. Sign of extreme position
+C. Logic section F. Position increment
+
+The solar sensor measures the regulating error so of the position stabilizing
+circuit and converts it into an analog electrical signal. A Cassegrainian
+optical system projects the solar disk on the image plane, in which is located
+a diaphragm with a pair of parallel slits. The slits pass light from oppos-
+ing parts of the image of the solar disk onto two silicon photodiodes connec-
+ted in antiparallel. 1he pair of photodiodes feed to the low-input
+
+1'0
+FOR OFFICIAL USE ONLY
+FOR OFF" ’IAI. USP. ONLY
+
+resistance preanplifiers a current proportional to the difference between the
+incident light fluxes and relatively independent of the temperature. Since
+the difference between the light fluxes depends on the transverse displace-
+ment of the image of the solar disk relative to the slits, the sensor output
+current is an odd function of the error so. The preamplifier both acts as a
+current-to-voitage converter and, by means of linear feedback, adjusts the
+transfer characteristic of the sensor to a form approximating the hyperbolic
+arcsine. This assures that the beginning of the curve is sufficiently steep
+and also that it is monotone over a wide range of regulating departures.
+
+The correction circuit is of a proportional integrating type with a non-
+minimal phase element to assure stability of the loop, which is disturbed
+principally by element D2. The integrating component assures precise
+tracking even when the station is turning at constant velocity.
+
+The servoampiifior-motor system constitutes an astatic velocity-type servo-
+mechanism whose design is shown in detail in Pig. 3.5b. To the axle of
+
+motor M is attached the photoelectric rotor position sensor SPR, using a 2-bit
+Gray code. The change in the sensor output resulting from turning of the
+rotor produces in pulse generator 61 a pulse of constant width and amplitude
+whose polarity depends on the direction of rotation. The average value of
+the pulse gives the actual rotation speed. while the required speed is speci-
+fied by input voltage "c' The difference between these two voltages. i.e.,
+the speed error. is processed by integrator I, the output voltage from which
+thus expresses the deviation in the servomechaniam's position. The sum of
+the integrator output voltage and the input voltage ue, which is designated
+ur, controls the Speed of the motor. Because of the unavailability of a
+suitable DC commutatorless motor, we used an SHR 300-300 step motor with
+active rotor, which allows such operation as a result of its relatively small
+stall torque. The solar is fed a voltage proportional to the absolute value
+of voltage "r by the controlled switching voltage regulator RN. Commutation
+of the windings is performed electronically by commutator K according to the
+sign of the voltage or and the output of sensor SPR, whose divisions match
+the organization of the stator fields.
+
+Mechanical drive P2 converts the rotation of the motor into changes in the
+angle :2 between the optical axes of the astronomical instruments and the
+longitudinal axis of the station. Term DZ represents the effect of the
+inertial masses and the piiability of the construction and exerts an effect
+in the higher frequencies, where it is partially compensated by correction
+circuit K0. Kinematic element KS assigns to angle :2 an angle :1 determined
+
+by the other branch of the servosystem; the resulting angle expresses the
+deviation of the optical axis of the solar sensor from the longitudinal axis
+
+of the station. The solar sensor balances this deviation against the devia-
+tion of the renter of the solar disk from the station axis and processes the
+regulating error to by the nethod described.
+
+Sincr the position stabilization circuit constantly makes the optical axis
+or the solar sensor truck the center of the solar disk, the task of the pro-
+
+gram position control is to control the deviation of the instrument frame
+from the solar sensor frame. i.e., angle :1. This is performed by a hybrid
+
+regulating clrcuit with a digital measuring element contained in the logical
+
+11
+FOR omcul. USE ONLY
+FOR 0FFI(1AL USE ONLY
+
+part of the control system. This element compares the required displacement
+value with the constantly changing value :1, which is measured incrementally
+using intonation provided by sensor 39111. It uses the comparison results,
+in accordance with the programmed function of the platform, to specify the
+speed and direction of movement. Digital analog converter CAP converts this
+information, in the form of parts of a constant time function, to an analog
+voltage. Since the platform and astronomical instruments have considerable
+moments of inertia, the reaction moments resulting from abrupt movement could
+have a negative effect on the stability of the station. Accordingly, an
+acceleration limiter 02 is placed between the digital-analog converter and
+the servoamplifier to assure a smooth transition between the discrete speed
+values, using constant acceleration of an acceptable magnitude.
+
+To prevent changes in the angle :1 from disrupting the activity of the
+stabilization circuit, angle C2 is simultaneously controlled in the reverse
+direction in the same manner, providing a difference term in the input of
+servoamplifier $22. For correct operation the servomechanism controlling
+angles :1 and :2 must have the same transfer characteristics. This is the
+reason for their relatively great complexity.
+
+lo. Operation and Functions of the ASP-SKAN Equipment
+
+4.1 Release and Correction
+
+The first operation in orbit is release of the system on cor-sand from earth
+(one-time action); in this operation, the mechanical part of the equipment,
+which was secured against overload, is released. After each passage out of
+the earth's shadow, the ASP-SKAN equipment always carries out automatic
+calibration of the coordinate system, by means of a correction procedure,
+after the power is turned on. In the initial part of the correction, the
+
+frames are held in the central positions of their ranges of movement for a
+period of obOut 6.5 minutes after the power is turned on. After the end of
+
+this period, which is reserved for stabilizing the position of the orbital
+station, the platform orients itself by means of the solar sensors. Follow-
+ing this correction, which is also performed if some servomechanism reaches
+its extreme position, the platform is ready to operate in any chosen mode.
+
+4.2 Platform Working Modes
+
+The operation or the platform is smarlzed in Table 4.1, which is organized
+in term of the commands received from the station control unit (BUS). Mode
+is used in case of low solar activity and mode 2 in case of medium or high
+solar activity. The programmed activity ends with the reception of a new
+comaud of the same or higher priority or with shutting off of the power.
+
+A request for a single coarse scan or fine scan has a higher priority than
+commands calling for modes 1-4. A request to record an eruption is produced
+by the command ZAP 2, which has the highest priority.
+
+12
+FOR OFFICIAL USE ONLY
+Table 4.1. Survey of Activities of ASP-3m System.
+[C. SCAN - coarse scan; P. SCAN - fine scan]
+
+I POVIL cor-nandl equipment activit OWN“? ustmt
+——.—__.._____-
+
+nun: z —.’ stun -—. VIL. ans ~—. on. ”on.
+Node 1 ' WT" '
+
+OHM—e ILL? am *9 CA8. PMDL. :
+
+I—e "all, -—D 0'“? -——e ILL? w —-O M PBODL.
+
+ 
+  
+
+ 
+
+ 
+ 
+      
+
+ 
+
+ 
+   
+
+ 
+
+ 
+
+ 
+   
+ 
+
+     
+ 
+
+“RID -—-e onus? —-o "Allin PLO“
+
+train 3' sum. rotosr
+
+srnan —. VILIYM-—e o A
+min—3'3““
+BTBID—o 03M% 1. mx-—. 0
+
+snap —. onus:
+CENTER AREA
+
+earn: 3 Mode 3
+
+“3“! Mode 1.
+. SCAerutr s'n'x
+
+. SCAN nun ens
+
+ 
+
+  
+
+ 
+
+       
+
+WI
+
+  
+    
+
+; run one o
+. —————_.
+S as no an; F. S M
+I‘. . ~
+- minim"
+MP 8 + DRP
+
+ 
+
+   
+
+ 
+
+M
+o spouts! Posnlnus maniac sumo! 04 “an 9: 1QP§E§G§§1§§ node “4)
+
+The names of the operations presented in the table are:
+
+CENTER—orientation of the platform to the center of the so1ar disk and
+stabilization on this point;
+
+AREA—-tranafer to the central point of a chosen area of the solar disk and
+
+stabilization on this point; the coordinates of this point are supplied to
+the ASP-SKAN equipment in advance;
+
+COARSE SCAN. PINE SCAN--controlled movement as described below;
+TIME DELAY-point stabilization for a period of about 4.5 minutes.
+
+In case of an eruption, the counnd ZAP 2 is executed after performance of
+the operations CENTER and AREA. Release from the performance of FINE SCAN
+requires reception of the comand BRIO-ZAP l and completion of the AREA
+operation. Termination of the FINE SUN operation requires silultaneous
+
+reception of commands ZAP 3 and DRP. The durations of the individual opera-
+tions are shown in Table 4.2.
+
+Table 6.2. Durations of Individual Operations .
+
+l l "'"“l
+r ti c AR C F. SCAN “A“ any D ‘1
+OloxOPcra on m I maﬁa-r I km "1 l I i us: soon.
+
+Pnoxenxs 1'“;
+AVG . DURATION
+
+ 
+
+ 
+
+    
+ 
+
+ 
+
+1
+FOROFHClAiUSEONLY
+I'Uﬂ vrrauna. we. Vl‘lsl
+
+The operations COARSB SCAN and rum SCAN are shown in Fig. Ll. FINE SCAII is
+COARSB SCAN magnified 16 tines. As can be seen from the figure, the scans
+have 39 active lines (nuiaered 1-39); here they are specified both in ninutes
+
+of arc and in notor steps. Because of differences in the frequency of.
+sanpling of the aeasurenents (within the scan line, by the scientific
+
+instruments), different scanning speeds are chosen within the lines; these
+are called by conands ZAP l, ZAP 2, ZAP 3 and NP. In addition, in order to
+
+prevent disruption of the operation of the satellite's stabilising system,
+each scanning line has speedup and braking loops with contact acceleration
+
+and deceleration.
+
+A
+
+ 
+
+Fig. 10.1. Graph of scanning notion
+
+Key:
+A. Outline of solar disk D. Pine scan
+B. Coarse scan 8. Shift to area
+C. Line
+
+4.3 Description of Functions
+
+The requirements regarding autonated stabilisation of the ASP-SKAN platfor-
+
+result in routines of differing degrees of coaplexity. The-simplest routine
+is stabilisation of the platforn on a point, which in practice is the most
+
+frequent activity and whose perfornance characteristics prinarily affect the
+precision of platforn operation. Other routines involve platform functions
+performed directly [i.e., without the need to organise a prograr.) (centering,
+transfer to a givenlarea). The most coqylex routines are those for progressed
+actions (generation of seaming mtions, generation of a sequence of opera-
+tions during correction and eruption operations and the like). In addition,
+
+FORMUSEONLY
+FOR OFHCIAL USE ONLY
+
+A .
+1C".
+.5.
+
+ptov‘lulml is made for the specification of an arbitrary succession of
+routines, but the platform must perform them with the predetermined
+
+priority. Accordingly. flowcharts were chosen to determine the operation
+of the Asr-sm platform; these can cover the operation of the equipment in
+any state.
+
+10.3.1. Command Priority Flowchart (Fig. 6.2)
+
+This diagram deals with asynchronous control of the ASP—5m platform. The
+diagram shows clearly the priority of execution of individual col-lands, as
+
+well as their storage in case of deferred execution. For clarification, the
+flowchart notes only the terms "...RBQUIRED?" which cover the state between
+
+the arrival of the external caused and completion of the required procedure.
+In practice, commands are ignored only when a coarse or fine scan isbeing
+
+transmitted. Hhen END OF PROGRAM is reached, the platform stabilizes at the
+last point. The subroutines "...procedure" are outlined in Figs. 6.3 and 6.4.
+
+ 
+
+Fig. 14.2. Command priority flowchart
+
+Key:
+A. COARSE SCAN or FINE SCAN J. Comand DNP ZAP 3 received?
+8. Correction required? K. Execute isolated scans
+C. ERUPTION subroutine required? I... Execute modes 1-4
+I). Power turned on H. mus 1-4
+I-'.. Center. clear and start time delay N. Isolated scan required"
+I". Arrival at end switch of coordinate 0. Setting of nonvolatile
+6. Enable fine scans memory for nodes 1-5 _
+ﬂ. Execute CORRECTION subroutine P. Conand ignored
+I. lixecute BRUPTION subroutine Q. End of program
+
+15
+
+FOR OFFICIAL USE ONLY
+ma 0mm“. USE ONLY
+
+4.3.2. Flowchart for Main Controller (Fig. 4.3)
+
+This diagram gives a detailed description of the generation of individual
+operations. The equipment operates asynchronously and, when necessary,
+cyclically, and accordingly operation is interrupted by initializing the train
+controller every time "Begin ...procedure" occurs. Calibration of the coordi-
+nate system is initiated by the fact that every procedure begins with the
+CENTER operation, which, as can be seen from Fig. 4.4, cowares the contents
+of the memories. The flowchart shows that the generated activity is stopped
+only in case of the decision elements "CHANGE IN AREA SPECIPI-T" and "FINE
+SCAN SELECTBDt'". This means that economical utilization of the equip-ant
+requires that the relevant couands arrive the right time. The "Operation"
+subroutines are diagranncd in Figs. 4.4 and 4.5.
+
+A. Begin ERUPTION, isolated scan,
+or nodes 1-4
+
+8. Main controller initialized
+
+C. Designation of area for node 1
+
+1). Mode 1: second part?
+
+E. CENTER operation
+
+F. Mode 4?
+
+G. COARSB SCAN or node 1, part 1?
+
+ﬂ. Specification of area changed?
+
+I. AREA operation
+
+J. ERUPTIOII?
+
+K. Fine scans enabled?
+
+L. lbde 3?
+
+H. SCAN operation
+
+N. Pine scans enabled?
+
+0. tbde l or 2?
+
+P. Tine delay. about 4.5 minutes
+
+Q. END
+
+ 
+
+Fig. 4.3. Flowchart for main controller
+
+16
+POI! OFFICIAL USE ONLY
+Fig. 4.4. Flowchart for auxiliary circuits
+
+Begin AREA or SéAN operation
+Enter required path’ for 8 and e; atop 101.0
+Centering of. B coord lnate?
+
+[Key continued on following page]
+
+17
+FOR OFFICIAL USE ONLY
+lintOFFﬂJAL.USE(ﬂVLY
+
+D. Stepping of 8 motor?
+B. Set "absolute magnitude" 8 at zero; step 0.1
+
+P. Adjust "absolute magnitude“ 8; step KR.l
+
+G. Centering of e coordinate?
+
+H. Stepping of 8 motor?
+
+I. Set 'ahsolute nagnitude" c at zero; step KR.2
+J. Adjust "absolute magnitude" e; step KR.2
+
+K. Centering of B coordinate?
+
+L. Stepping of 8 motor?
+
+M. "Path" for 8 required?
+
+N. Is "path" for 8 zero?
+
+0. Is "difference" for 8 zero and in agreement with servo direction?
+P. Adjust "difference" for 8; step KR.3
+
+Q. Set "difference" for B at zero; step xn.3
+
+R. Set "path" for 8 at zero; step KR.‘
+
+s. Adjust'"pothW fcr 8; step Kk.b
+
+T. Centering oi e coordinate?
+
+U. Stepping of 6 motor?
+
+v. Is "path" for t required?
+
+V2. Is "path" for c zero?
+
+w. Is "difference" for c zero and in agreement with servo direction?
+X. Adjust "difference" for a; step KR.S
+
+Y. Set "difference" for c at zero; step KR.S
+
+2. Set "path" for e at zero; step KR.6
+
+AA. Adjust."path" for s; step KR.6
+
+BB. Initialize main controller?
+
+cc. "Path" for e performed?
+
+DD. Adjust line number; step KR.7
+
+BE. Begin new entry?
+
+FF._Emit "End of AREA or SCAN Operation"; step KR.7
+68. Set line number at zero; step KR.7
+
+6.3.3. Flowchart for Auxiliary Controller (Fig. 4.5)
+
+This flowchart describes the permanent computation cycle, carried out in eight
+steps designated KR.0 through KR.7. The computation cycle is modified'only on
+the basis of external conditions, but these must occur before step Kk.0 and
+last at least to the end of step KR.6, which is carried out by the main con-
+troller. Between the end of an operation (and forced clearing of the main
+controller) and the.beginning of a new operation, and also between individual
+
+motor steps, at least one computation cycle is performed. It is clear from
+the diagram that each coordinate is controlled separately. that all required
+paths (including those of scan lines) are entered during step KR.0, and that
+
+auxiliary conputations (scan line number) and decisions are made during
+step KR.7.
+
+18
+FilltnﬂﬂtlAl.lﬂHE(MﬁLY
+A. Begin correction procedure
+
+B. Centering of coordinate 28
+
+C. Centering of coordinate 2:
+
+D. CENTER operations
+
+3. Tine delay continuing?
+
+P. Tine delay continuing?
+
+C. Center nether of 28 found?
+
+a. Center writer of 2: found?
+
+I. Centering of coordinates 8.
+28c, 2c conpleted‘l
+
+J. End of procedure
+
+K. Beginning of emu opera-
+tion
+
+L. Centering of B coordinate
+
+M. Centering of e coordinate
+N. Center narker of 8 found?
+
+0. Center marker of e found?
+P. Centering of B and c coordi-
+
+nates completed?
+Q. End of operation
+
+R. Also sets "absolute dinen-
+aion," "difference" and
+"path" at zero
+
+ 
+
+Fig. 4.5. Flowchart for auxiliary controller
+
+5. Conclusions
+
+In building the apparatus, we used primarily the technological experience of
+many specialized organizations in Czechoslovakia, thus assuring the requisite
+
+quality. For ground testing of the equipment, we used a special test bench to
+sinulate weightleasness and the disruptive influence of the stabilizing notion
+of the satellite. The neesureaents themselves were node by position sensing
+
+using an LA 3000 interferometer; the neesurenent data were evaluated with an
+
+HP 2m: computer. The measurement results confirmed that the system had the
+intended properties.
+
+COPYRIGHT: SNTL, Nakladatelstvi Technicke Literatury. Prague, 1981
+
+8480
+C30: 2402/26
+
+19
+FOR OFFICIAL USE ONLY
+roa 0mm]. vs: onu
+
+INTERNATIONAL AFEAIRS
+
+MICROPROCESSOR SYSTEMS, COMPUTER COMPONENT EASE IN CEHA OUTLINED
+
+Prague ELBKTROTBCHNICKY 03203 in Czech No 10, 1981 pp 578-581
+
+[Article by Eng Eduard Schliksbier, CSc, Research Institute of High-Voltage
+Electrical Engineering, Prague-Bechovice: ”Microprocessors and Their Trends"]
+
+[Excerpt] The Component Base in the CEHA Countries
+
+Currently the CEHA countries are devoting considerable attention to developing
+semiconductor memories and microprocessors. In Czechoslovakia, semiconductor
+components are developed and produced primarily by Tesla Roznov and Tesla
+Piestany. Two promising basic sets of components are being developed.
+
+a. The NH 3000 series of Schottky TTL [transistor-transistor logic] bipolar
+circuits. The basic circuits are the HE 3001 microprogram control circuit. the
+NH 3002 two-bit processor and the NH 3003 look-ahead carry generator; the HE
+3205; HE 3212, HE 3214, HE 3216 and MR 3226 are auxiliary circuits. The demand
+for all of these types of circuits will be met from 1981 on. To simplify the
+use of MH 3000 series circuits it is planned to add to the already available
+development system an emulator module and microprogram memory, including the
+necessary service software. One advantage of the HR 3000 bit-slice processor
+system is its high degree of versatility. with arbitrary word length and
+structure and a user-selectable instruction set. However, constructing a
+«system is complex.
+
+b. The 8080 unipolar microprocessor system. The basis of this system (equiva-
+lent to the Intel "CS-80) is the HEB 8080 eight-bit central processor with the
+NH 8224 clock circuit and MB 8228 system control unit. In addition there are
+the already-mentioned HE 3205, HH3212, MB 3214. MB 3216 and MB 3226 units and
+the new HE 8255 parallel interface circuit and HR 8251 "SARI [universal synchro-
+nous-asynchronous receiver-transmitter]. Deliveries of the complete set of
+components from an experimental production facility are expected to start in
+1982.
+
+The standard set of microprocessor systems includes memory circuits, some of
+which are already available. Bipolar memories include the MB 7689 64-bit RAM.
+
+the MB 763 201 256-bit RAH, the HR 74 188 256-bit BPROM and the MB 748 287
+lOZé-bit EPROK. The M3 74 $187 lOZé-bit ROM and the NH 74 8571 2048-bit EPROH
+are in preparation. For the future, the unipolar memory circuits are oriented
+
+20
+INJR OFF1C1A1.lﬂﬂE(NVLY
+FOR OPHCIAL USE ONLY
+
+toward CMOS and NMOS with silicon or floating gates. Some representative types
+are the M88 1902 static RAM and a static RAM equivalent to the I 2102A (both
+
+1,024 bits), a dynamic RAM equivalent to the MK allG-Pé (16 Kbit), and a REPEOM
+equivalent to the I 8708 (8 xbit).
+
+In the viet Union, microprocessor circuits and memories are designed using
+S-TTL, I L and ECL [Schottley TTL, integrated injection logic, emitter-coupled
+logic] technology, and for the future an attempt is being made to make then
+compatible at the level of individual logic and memory nodules on boards. The
+K-589 series, equivalent to the MB 3000 series of bipolar circuits, is in series
+production. Also available is the fast K-584 IKl 6-bit processor (equivalent to
+the [Texas Instruments] SBP0600). Production of the 8080 unipolar microprocessor
+system (designated K-580 I180) has begun; in until 1980 it was provided in
+flat-pack form, and since then it has been available in dual in-line packaging.
+Also available is a series of RAM and PROM units with capacities up to 8 Kbit
+using various types of bipolar technology. Import of selected components from
+the Soviet Union is the responsibility of the Tesla 0? 012 [supply and engineer-
+ing services establishment] in Prague.
+
+East Germany has developed and is currently producing the 0-80800 8—bit micro-
+processor, which is also available in Czechoslovakia. Also being successfully
+produced is an'equivalent to Zilog'a 280. Bulgaria is concentrating its micro—
+processor research on an equivalent to the [Motorola] M6800 and its supporting
+circuits. Bipolar memory units are being developed and produced in Hungary as
+well, including a PROM with the standard designation TM 622 (2 Kbit) and the
+TM 624 6-Kbit PROM. Romania is also preparing to develop bipolar S-TTL memory
+units.
+
+Thus development in the microprocessor field in the socialist countries is
+being supported with components analogous to tested world standards, in addi-
+
+tion to which original-design components compatible with various kinds of
+circuitry are being developed.
+
+Development Systems and Industrial Microprocessor Systems in Czechoslovakia
+
+Microprocessor equipment allows even less specialized users to design micro-
+computers. Accordingly, Czechoslovak organizations are preparing auxiliary
+hardware which will aid in the development of microcomputer hardware and soft-
+wars.
+
+The simplest resident devices include the MDT 1000 16-bit bipolar microprocessor,
+developed by VUMS [Research Institute of Mathematical Machines] Prague. This
+
+is a multiboard microprocessor using 881 and MSI integrated circuits. 0f
+similar design is the T? 8 8-bit processor produced by VUVBT [Research Institute
+of Vacuum Blectro-Technology] in Zilina, which is intended primarily for data
+collection, control of manufacturing processes, and scientific experimentation.
+The PROMES [expansion unknown] organization in Prague has used the I 8080 micro-
+processor to build the TEMS-Ol single-board microcomputer.
+
+One of the foremost resident systems based on microprocessor development systems
+is the MVS, already developed by Tesla Kolin. This is intended for the develop-
+ment of the hardware configuration and software of systems using the 8080 micro-
+
+21 .
+son oat-1cm. vs}: ONLY
+FOR OFFICIAL USE ONLY
+
+processor. It allows entry of programs in a symbolic language, conversion into
+machine language, program revision in machine-language and source-language form,
+debugging and testing of peripherals. The MVS system is produced in two varie-
+ties, the HVS 800 and HVS 801, which differ in the processor unit. In the HVS
+801 this is a three-board unit built from circuits available on the Czechoslovak
+market. The HVS 300 contains a single-board processor. The DDS-80. another
+microprocessor modular system, has been developed by VUT [Telecommunications
+Research Institute] in Prague. It is intended for the development. production
+and servicing of associated telecommunications measuring equipment. Development
+systems containing single-board processors have also been perfected by VUVT
+[Research Institute of Data Processing Technology] in Zilina and VUAP in Prague.
+
+Host systems may also be used for microcomputer program development. VUHS has
+used the ADT minicomputer as a development system for the 8080 microprocessor.
+The system software includes the 8080/ADT Cross Assembler program and the
+8080/ADT simulation program. Ilnltﬁydrometeorological Institute] in Prague has
+».a similar development system available.
+
+Modular industrial microprocessor systems include a special unit for interfacing
+with the environment. These are used to design microprocessor-based control
+systems. One example is the modular microprocessor system developed by Tesla
+Kolin national enterprise using the 8080 microprocessor. which is intended for
+controlling machine tools. The MIKROSAT system of VUAP Prague intended for
+similar purposes, is in the final stage of development. The DARIS system is
+intended for control of power-production facilities. The PFC-4 polyprocessor
+control system has been designed by CKD-Polovodice [Ceskomoravska-Kolban-Danek
+Semiconductors] in Prague. In 1981, the K 1510 control microprocessor system
+based on the U808 D microprocessor was imported from East Germany; also in pro-
+duction is the K 1520, based on the 2-80 microprocessor.
+
+Conclusion
+
+Qualitative and quantitative changes in microcomputers result especially from
+technological progress. Development of auxiliary equipment such as cheap per-
+ipherals, analog-digital and digital-analog converters and auxiliary circuits
+results from microcomputer system development. Thus this technical field is
+becoming the most important aspect of electronics and data processing in
+Czechoslovakia, and accordingly the scope of this article makes it impossible
+to describe in detail all aspects of the current status and development of
+microprocessor equipment.
+
+COPYRIGHT: SNTL, Nakledatelstvi Technicke Literatury, Prague, 1981
+
+8480
+050: 2602/16
+
+22
+Finl(“ﬁﬁC]A1.USE(MVLY
+MINISTER OUTLINES 1981—1985 HE‘I‘AILURGY TASKS
+Prague EUTNICKE LISTY in Czech No l, 1982 pp 1, 2
+
+[Article by Eng Ladislav Gerle, Scc, deputy premier of the 0883 Government:
+"Tasks of Metallurgy in the Seventh Five-Year Plan"]
+
+[Text] During the era of the building of socialism extraordinary attention
+was paid to the development of metallurgy in the 0883. The growth of our
+metallurgical production enabled us to develop individual industries and,
+above all, engineering and construction. The consumption of metallurgical
+products was rapidly increasing. The 0889. produced 1,000 kg, and consumed
+more than 7,000 kg of steel per citizen, thus reaching one of the highest
+levels on the international scale. The high level of consumption of. metallur-
+gical products in our national economy also underlines certain shortcomings
+and problems in production as well as in the area of processing of ferrous
+metals, such as a low share of high-grade steel and cost-efﬁcient profiles
+in consumption; the obsolescence of certain technologies in production and
+processing also exerted a negative effect.
+
+The prolonged trend of continuous growth in the volume of production and
+consequently, also in the consumption of metals is unacceptable for the CSSR.
+The 16th crcz Congress stipulated that the level achieved in metallurgical
+production must be maintained in the coming years. Any further growth of
+engineering production and of all other sectors of our national economy is
+incumbent on the annual achievement of 10.5 to 5 percent relative savings of
+metals.
+
+This task cannot be regarded simply-as a problem for consumer sectors but
+also as the main' objective of our metallurgy. If in the past we viewed the
+development of metallurgy as an increase in the volume of production, at
+present we must consider it as the development of quality and utility value
+of metallurgical products.
+
+This development in our metallurgy as well as in fuel and energy economy is
+not unexpected. State goal-oriented programs were adopted for fuel, energy
+and metal economy toward the end of the Sixth Five-Year Plan. Their approval
+was preceded by analyses in individual national economic sectors and by com-
+parison with other countries. According to the estimate, we need approximately
+30 percent more steel and energy in the CSSR than in comparable industrially
+
+23
+non OFFICIAL use ONLY-
+advanced countries to create comparable national revenue. This is due to
+high specific consumption of energy in metallurgical works and to inadequate
+value added to steel and thus, also energy, in machine engineering. If the
+volume of metallurgical production is decisive for many branches of our
+national economy, we may speak equally of sources of energy whose stunts and
+structure also limit our metallurgical production. For the first time ever
+this year, a plan for metallurgical production based on the limits of our
+energy balance was stipulated.
+
+In 1981, our government weighed the main problems of the current situation,
+the preconditions and trends for the further development of Czechoslovak
+metallurgical industry. In terms of our national economy, its basic function
+as the base for machine engineering, electrical engineering,-construction and
+other industries was' reemphasized. Questions concerning the quality and the
+line of metallurgical products manufactured from steel and nonferrous metals
+appeared conspicuously in the forefront. Especially the development of elec-
+trical engineering, consumer industry and power engineering depends totally
+on the dananded line of products made from nonferrous metals, alloys and high-
+trade steel.
+
+The standard of metallurgical production is narrowly connected with the con-
+ditions prevailing in the base of production and technology. The programs
+for development organized during the Sixth Five-Year Plan are investment-
+intensive and only their comprehensive exploitation may bring about the
+necessary economic efficiency. This concerns above all the so-called pipe
+and atomic programs and the related new capacities in the Tube _Rolling and
+Iron Works in Chomutov, the State Iron Works in Podbrezova, the Poldi United
+Steel Works, National Enterprise, in Kladno, and the Iron Works in Veseli nad
+Horavou and in Vitkovice. The development of converter steel production was
+organized in the Great October Socialist Revolution Iron Works in Trinec and
+the production of high-capacity equipment was concentrated in the East
+Slovakia Iron Works in Kosice and in the New Hetallurgidal Works of Klement
+Gottwald in Ostrava. The necessary restriction of investment development
+programs will also be reflected in our national economy as investment :cuts
+
+in our metallurgy. More than ever we must focus on repair of metallurgical
+equipment not only to ensure reliability of production but especially to
+introduce programs of reconstruction and modernization in order to improve
+the quality and consumption of power.
+
+Furthermore, the management of scientific and technoldgical development must
+correspond with the new situation. Its plans must be linked with other parts
+of the plan, particularly with the plan for production, economy and re-
+placement of capital assets. Relevant are only those solutions whose results
+may be applied in production to cut the costs, material, power and raw-
+mnterial inputs and to improve the useful value of production. The tasks of
+technological development must be dealt with continuously in the following
+
+directions: .
+
+—-in the production of good-quality metallurgical coke from the deteriorating
+coal charge;
+
+21;
+FOR OFFICIAL USE ONLY
+ouuun FOR OFFICIAL USE ONLY
+
+-—by reducing specific fuel consumption in production of pig iron, steel and
+metal shaping; '
+
+—-by utilizing waste heat and secondary sources of energy;
+
+-—by better utilization of metal substances; by controlled processing of
+metallurgical waste, metallurgical ashes, sludge and dumps;
+
+--by introducing new types of steel, metal alloys and lines of metallurgical
+products for the machine engineering and electrical engineering industries;
+
+--by improving labor productivity and the working environment, and by de-
+creasing the ecologically harmful effects of metallurgical works.
+
+Toward the end of 1981 the Federal Assembly approved the law on the Seventh
+Five-Year Plan. Over the coming months it will be specified in the form of
+detailed plans for the VHJ [economic production units], enterprises and
+plants. It is imperative to approach our labor with the plan in a creative
+manner and not with the traditionally specified tasks. The government
+stresses the plan as a means to fulfill the basic tasks in metallurgical
+production and in utilization of metals as well as in fuel and energy economy
+much more emphatically than during the first year of implementation of the
+regulations contained in the Set of Measures. Over the past 30 years
+Czechoslovak metallurgy successfully established important economic potentials.
+Now we must use them efficiently so that they continue to serve as a base and
+moreover, as a resource for problems facing the Czechoslovak economy.
+
+comment: sm, Statni Nakladatelatvi Technicke Literatury, Prague, 1982
+
+9004 I
+080: 2’0 02/ 26
+
+25
+me omcm. use ONLY
+FOR‘0FFKJAI.USE(NNLY
+
+CZBCBOSIDVAKIA
+
+METAL RECYCLING SAVES ENERGY, HARD CURRENCY
+Prague BLBKTROTECHNICKY OBZOR in Czech Dec 81 pp 673-674
+[Article by Eng Antonin Radvanovsky: "Waste of Raw‘ﬂaterial?"]
+
+[Text] The scrap metal industry (PKO): it does not sound very attractive.
+It is little known to the public, is underrated, and hitherto has frequently
+
+been considered something tolerated somewhere on the outskirts of the
+advanced Czechoslovak industrial complex.
+
+Even the name "industry" puzzles the layman. The concepts of "industry" and
+"scrap" are opposed in his logic. What can scrap have in common with the
+concept of a modern industry? For surely the latter typically has to do with
+
+machinery, transport facilities, domestic appliances-in short, useful new
+products. "hat has this to do with scrap, useless matter which the ordinary
+
+citizen is happy to ignore and is glad to get rid of twice a year on "Iron
+Heck."
+
+The scrap metal industry--a seeming union of opposites. Chance rather than
+design has bound up the past and the present together in this name. A con-
+flict between the long since unjustified view of secondary raw material which
+persists in the consciousness of the general public and its extreme importance
+to the national economy.
+
+To consider this raw material as waste, as is rather common today, is in
+
+reality more than an anachronism. The idea is more than a century out of
+date, because with the introduction of the open-hearth process toward the end
+
+of the last century scrap metal ceased to be useless inert matter and became
+a raw material-~at first, to be sure, as a tolerated substitute, but later as
+
+a suitable addition to the charge, and today as an essential component. This
+is something that e well-versed professional would know.
+
+But even he does not always deal with scrap metal like a good manager. For
+
+otherwise it would not be the case that, for example, of the 200,000 tons of
+alloy steel cuttings which Rovosrot [scrap metal enterprise] receives from
+
+mechanical industry suppliers, only 15 percent is unmixed. Some 117,000 tons
+of alloy steel is mixed with other scrap in machining plants every year, which
+
+destroys its value. This loses society at least 1,000 tons of chromium, 500
+tons of nickel, 100 tons of molybdenum and considerable quantities of other
+
+valuable alloy additives.
+
+FORIOFFKJAIIUSB(MVLY
+The situation is similar as regards conservation of nonferrous metals.
+Mixtures of copper alloys with tin, zinc, or lead amount to 5,500 tons a
+year. Because with available technologies we are capable of removing only
+copper fron this mixture, year after year we are poorer by fully 1,000 tons
+of zinc, 200 tons of lead and 70 tons of tin. The situation is the same
+with aluminum alloys. If scrap operations were managed responsibly in the
+machining plants, it would be possible, without additional measures, to
+increase deliveries of nonferrous scrap to the metallurgical industry by
+8.8 percent in the case of zinc and by almost a quarter in the case of tin.
+
+Obviously, our opening statement about the misconceptions regarding scrap
+
+metal and its value to society apply rather broadly-not only to housewives
+and pensioners or other "uninformed" persons, but to certain economic work?
+era as well. The facts presented show that secondary metal-containing raw
+
+materials are handled unecononically and at variance with the interests of
+society, even where they are the basic materials of the production process
+
+and where there would be every reason to expect that every kilogram would be
+used effectively.
+
+A responsible attitude toward secondary metal-containing raw materials is
+governed by a simple proportion: the more metal we save, the less we must
+import-«and imports are by no means cheap.
+
+He now import almost a full range of metal ores and pure metals. Their prices
+on world markets are increasing rapidly. In the 1970's, the prices of iron
+ores on capitalist markets increased 20 percent, while copper ores increased
+in price by 56 percent, aluminum ores by 138 percent, zinc ores by 160 per-
+cent, and tin ores by fully 390 percent. Even though a substantial part of
+our imports cone from the Soviet Union and other socialist countries at
+favorable prices, the increase in the price of iron ores alone on non-
+socialiet markets costs us a quarter of a billion more foreign exchange
+korunas annually than it did in 1970. The rising spiral of prices con-
+tinues. It is estimated that world supplies of certain metals will last only
+a few more decades, which supports the supposition that prices will rise
+further. Accordingly, it is the duty of everyone society gives the right of
+handling the country's metal supply to use it responsibly, effectively and in
+the interests of all.
+
+External factors are not the only ones to play a role, even though they are
+unquestionably important. One of our economy's basic tasks is increasing
+efficiency. And the use of scrap metals is very promising as regards effi-
+ciency. It is a domestically available, easily obtainable and very cheap raw
+material.
+
+The expenditure on collection, preparation and transport of a ton of scrap
+iron is less than Kcs 180. To produce the same quantity of pig iron we must
+expend Kcs 1,717. The processing of a ton of nonferrous metal from scrap
+costs an average of Kcs 790, while the purchase prices of primary raw mate-
+rials are many times higher. In 1980 the price was Kcs 35,596 per ton for
+copper, Kca 15,821 per ton for lead, Kcs 23,416 per ton for aluminul, and
+Ken 269,507 per ton for tin. This speaks clearly in favor of scrap.
+
+27
+IN3R Oﬂﬂﬂ(1A[.lﬂﬂE(MVLY
+But there is another important advantage. The use of scrap metal consid-
+erably decreases transport costs. This is'because metal content is about
+55 percent for iron ores, 5-6 percent for zinc ores, 2-3 percent for lead
+ores, 0.5-1 percent for copper ores and 0.2-0.6 percent for tin ores: a
+large amount of dross is transported in the ore.
+
+In contrast, scrap metal contains almost 100 percent metal. If instead of
+the 3.3 million tons of scrap metal which Kovoarot delivered to the metal-
+lurgists in 1980, it were necessary to transport the equivalent quantity of
+ore, the railroads would have had to load and transport over considerable
+distances an additional several tens of thousands of railcars.
+
+The use of scrap metals has a favorable effect on the energy balance, which
+is becoming increasingly important to society. For every ton of iron pro-
+ducted from scrap metal, 0.5 tons of blast furnace coke is saved. A ton of
+steel produced from scrap yields a saving of 8,500 th, a ton of lead 9,000
+th, a ton of zinc 9,500 kﬂh, a ton of copper 11,800 kﬂh and a ton of alumi-
+num 62,000 kWh. If scrap metal deliveries to the metallurgical industry in
+1980 had to be replaced by primary raw materials, their processing would
+have required an increase of 3.2 CV in power consumption. These are real
+values which cannot be ignored.
+
+The scrap metal industry embarked on the path of socialist development 30
+years ago. It has given almost a third of a century of useful service to
+the development of the national economy. During this time, as the industry's
+importance for the development of the national economy has increased
+steadily, its nature has changed substantially. Today the mission, work and
+processes of the Kovoarot national enterprise are fundamentally different.
+From an industry which once was fused in the public consciousness with the
+image of the scrap man with his wagon and his cry of "Rage, leather, iron,"
+the scrap metal industry has changed into an organization which not only
+collects large quantities of scrap metal, but also processes it using modern
+industrial techniques and delivers it to the metallurgical industry.
+
+During their existence, Kovosrot's facilities have delivered more than 60
+million tons of iron and more than 3 million tons of nonferrous metals to the
+metallurgical industry. The uninformed public frequently sees Kovosrot's
+mills through the lens of the Raw Materials Collection Enterprise's purchase
+points. But this is an image from the remote past of this industry. In 1952
+
+the construction of new, modern facilities began, and in 1958 Kovosrot began
+an intensive transition to large-scale industrial scrap processing. This was
+
+a matter of sheer necessity, for the metallurgical industry's demands for
+increased deliveries of scrap metals were increasing not by a few percent,
+but by tens of percent annually. Kovosrot's equipment holdings gradually
+adapted to this requirement. From 1958, with the beginning of large-scale
+baling of scrap, through 1980, the volume of industrially processed scrap
+increased 13-fold. Now baling cutting, breaking, fragmenting and other
+processes are used to handle almost 2 million tons of scrap steal a year;
+almost a third of scrap steel delivered to the metallurgical industry comes
+from baling presses.
+
+EB
+Ft”!(ﬂﬂﬂ(1Al.USElDNlY
+The introduction of technology into the operations of the scrap metal indus-
+try led to an increase in labor productivity and to higher quality raw
+materials deliveries. One important benefit of baling was a 10-fold increase
+in the iron content of processed light scrap, which resulted in a decrease
+in the number of cars required for transport, but ends itself especially
+felt at the furnaces, where charging time was decreased and melting time was
+eliminated or decreased. One hydraulic shears for cutting heavy scrap
+replaced the work of 20 or more gas cutters, and similar effects resulted
+from the gradual introduction of breakers, rams and other mechanisms. The
+construction of a modern production-equipment base is unquestionably one of
+the most important successes in the still-brief history of the scrap metal
+
+industry.
+
+But technical progress is forging rapidly ahead. What was modern only
+yesterday is barely satisfactory today, and tomorrow will be a byword for
+obsolescence. This applies doubly to the growth industries, of which the
+scrap metals industry is unquestionably one.
+
+Only further modernization can assure that the industry will fulfill its
+demanding tasks for the seventh and eighth five-year plans. Trifles are not
+involved. By 1990, deliveries of ferrous metals must be increased 26 percent
+and those of nonferrous metals by at least a fifth. A substantially greater
+increase is expected in the case of the most important nonferrous metals:
+
+130 percent for aluninum, and 146 percent for lead.
+
+Without the installation of new machinery and the introduction of the most
+modern technologies, the assignments included in the CPCZ's economic policy
+directives and in the economic plans could not be mastered. One approach is
+to speed up technical progress. Accordingly, new machines and processes are
+steadily appearing in the production process. A considerable contribution to
+the handling of ferrous metals will be the expanded baling of chips and the
+construction of shredder mills. During the Seventh Five-Year Plan, baling
+will increase from the current 30,000 tons to roughly 120,000 tons a year.
+The handling of light obsolete scrap such as auto bodies, refrigerators,
+washing machines and the like in shredders is to achieve a level of 280,000
+tone by the beginning of the Eighth Five-Year Plan. This would mean that
+
+the scrap metal industry would be approaching the worldwide peak in this area.
+
+Gravinetric classification in heavy suspensions and hydrometallurgicsl
+
+processes will be introduced in nonferrous metal preparation plants in the
+future, and it is also planned to introduce classification technologies based
+on deep cooling.
+
+Thus, without exaggeration, the Seventh Five-Year Plan can be called the
+five-year plan of new technology. This is a direction which has been fully
+approved by the highest economic bodies of party and state. Their support is
+expressed in CSSR Government Decree No 282 of 28 August 1980.
+
+In comparison with previous five-year plans, the volume of investment is to
+
+increase more than twofold; it will financially cover all of the main pro-
+posed directions of technical development. Thus the government has decided
+
+29
+FOR OFFICIAL use ONLY
+FOR OFFICIAL USE ONLY
+
+to alleviate the grave situation in the transport of scrap netals. according
+it the sane preferential treatment in railway transport which prior to
+
+1 January 1981 was accorded only to fuels and export goods. The state docu-
+ment also includes several economic. organisational and legislative measures
+designed to produce a greater incentive for stepping up the intensity of
+collection both at plants and among the populace. In particular, such is
+expected from revamping the functions of scrap supervisors at the plants.
+
+The first fruits of these positive approaches are already beginning to be
+evident, so that the way is clear for the scrap metal industry to fulfill
+its demanding task for the Seventh Five-Year Plan.
+
+COPYRIGET: sun, Nakladatelstvi Technicke Literatury, Prague, 1981
+
+8480
+(30: 2402/27 am
+
+30
+FOR OFFICIAL USE ONLY

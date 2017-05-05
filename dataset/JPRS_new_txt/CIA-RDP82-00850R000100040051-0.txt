@@ -1,0 +1,3659 @@
+APPROVED FOR RELEASE: 2007/02/0’: CIA-Ropoz-ooosonooo1oooaooe1-o
+FOR OFFICIAL USE ONLY
+
+JPRS L/8415
+23 April 1979
+
+TRANSLATIONS ON USSR SCIENCE AND TECHNOLOGY
+PHYSICAL SCIENCES AND TECHNOLOGY
+(FOUO 23/79)
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000100040051-0
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted. with the original phrasing and
+other characteristics retained.
+
+llcadlincs, editorial reports, and material enclosed in brackets
+I] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given. the infor-
+nation was eumrised or extracted.
+
+Unfamiliar names rendered phonetically or transliteratcd are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies. views or attitudes of the u.s. Government.
+
+COPYRIGHT MUS AND REGULATIONS GOVERNING WNERSNIP OF
+MATERIALS “PRODUCED HEREIN REQUIRE THAT DISSBHINATION
+OF THIS PUBLICATION BE RESTRICTED MON-101M. USE ONLY.
+P518108
+
+FOR OFFICIAL USE ONLY
+
+JPRS 12/8415
+23 April 1979
+
+TRANSLATIONS ON USSR SClEHCE AND TECHNOLOGY
+
+PHYSICAL SCIENCES AND. TECHNOLOGY
+(rooo 23/79)
+
+Commas
+
+The Influence of Optical Byeten Ahez-ratione on the Main
+Para-etc" of a Theml Scanning View:
+(a. V. Whov, et a1; onmmcmam
+mm', no n, 1%) OQOOOOOOCOOOOOOOOOOOOOO
+
+An Analyeie of the )btmlocical capability of a Coherent
+Optical Method of Ibnitorins the Dupe oi’ Couple:
+Surfaces
+
+(V. A. Kudryavteev, V. 8. Bhapov; cum)-
+mcmn mummy lo 11, 1978)
+
+Reeulta and Develop-ental Proapecte in Optical Ceranica
+(t. K. Volynete; cum-mncmmn
+mm”" ’0 n, 1978) OOOOOOOOOOOOOOCOOOOOOOO
+
+The Baeic Principles of the Autontion of the Ptoceea
+oi’ Shaping Astronomical Optica
+(A. u. Prokhorov, et a1.; mum-mum
+”mm" m n, 1m) OCOIIOOOODOOOOOOOOOOIIO
+
+The Selection of the audition for the Wing or
+large Optical Couponente
+(A. P. Boedanov, et al.) ammo-momma
+mm'. no 11' lm) OOOIOOOOOOOOOOODOOO'OOO
+
+Cent Couponente of Buperinvar for Optical Inatrunnte
+(8. V. Rahinovich, ct al.) cam-mm
+”mm" '0 n, 1m) OOOOOOCOOOOOIOOOCOOOCOO
+
+The Statistical Characteristice of Optical Radiation
+Attenuation in the Ground layer or the Atnoephere
+(Swine. Mt“)
+
+(V. L. Pilippev, et a1.) cum-momma
+mmm" no u, 1W8) 0....0"........I.....
+
+oa- [:u-ossn-nscr
+
+P‘OR OFFICIAL USE ONLY
+
+PAGE
+
+110
+
+30
+
+F000]
+FOR OFFICIAL USE ONLY
+
+comm-s (Continued)
+
+.
+
+A Hut Scanning Viewer for Quality Control in the
+humbly o: the Stator. o: mectricnl inching:
+(I. II. manhunt», at 3.1.; camo-
+mumn mamm' , lo 11, 1978)...
+
+WMIGS
+hinder of matron-neitntton Energy in Condensed
+lbdia
+- (V. n. Acranovtch, M. D. mania) Panes
+
+mu ammo vozmmm v
+mmanmm 83mm, 1978)
+
+ob-
+
+POR OFFICIAL US! ONLY
+FOR 0P?ICIAL USE ONLY
+
+PHYSICS
+
+UDC 621.385.326
+
+THE INFLUENCE OF OPTICAL SYSTEM ABERRATIONS 0N T“! MAIN PARAHBTBRS OF A
+TNBRHAL SCANNING VIBHBR
+
+Leningrad OPTIxo-HBKHANICEESKAXA Paouxsunannosr' in Russian No ll. 1978
+pp 3-5
+
+(Article by B.V. Ukhov, v.6. Klochhova. 0.x. Krasnihov and 3.x. benza.
+manuscript received 16 Nov 77]
+
+[Text] Questions related to the influence of the aberrations
+of the optical system of a thermal viewer on the angular
+resolving power and the signal to noise ratio are treated.
+Quantitative results are derived for various values of the
+time constant of the photodetector.
+
+We shall assume that the thermal viewer observes an object which takes the
+form of two infinitely long strips. perpendicular to the direction of the
+line scanning. The width of these strips and the spacing between them cor-
+responds to the instantaneous viewing angle of the thermal viewer, which we
+shall assume to be equal with respect to the line and frame. Let the x
+axis coincide with the direction of the line by line scanning, while the y
+axis corresponds to the frame scanning direction. we shall attempt to take
+into account the influence of the dimensions of the effective circle of con-
+fusion of the optical system on the waveform of the anplifier output signal
+and the basic parameters of the equipment.
+
+In a real optical system. aberrations and diffraction scattering Il] wash
+out the images. where this blurring can be characterised by a scattering
+function h(x, y, x'. y'). According to the literature [1], the distribution
+of the irradiance B(x. y) in the iasga plane of the optical system for the
+case of an irradiance 21(x'. y') in the objective field is determined by
+means of the convolution integral:
+
+etm- 3‘ I £.(a’.r)h(x.y.t'-y’)a‘ey'.
+
+He shall approximate the scattering function with the gaussian function, some-
+thing which is justified with a sufficient degree of precision for many actual
+
+optical systems:
+_ -r74 -'
+N:.y.r.r)- .21}. J’JLHLM.
+
+1
+
+MD AWFVIV new MV
+FOR OFFICIAL USE ONLY
+
+In this case. the distribution of the irradiance. correanonding to the object
+in the form of one strip, will be defined by the expression:
+
+on.
+
+Bunk-£0 f Is'nﬂlﬂmx
+
+xw-hiiRlmaids-arr:-
+
+l
+.0
+em- 2’: e"? a
+vhere 0(2) - V is the probability integral; a u
+a constant; a is the size of the area of the photodetector.
+
+The sensitive eleaent of the photodetector observes the iaage by virtue of
+
+moving the letter along the x axis. This leans the change in the irradiance
+of the receiver urea 8(x. t) with respect to tine has the fora [l]:
+
+emu-eu—mug-[eHag—meg”-
+«boa-an.
+
+vhere v is the rate of travel of the image with respect to the receiver
+area.
+
+The signal level at the output of an inertialeas photodetector vith uniform
+sensitivity c over the area is:
+
+a. ' f %
+“0-1-3; faunas,-
+4-;
+
+a .
+--5;[(a+u)om-+un-monw)+
++(a-w)0h(a-ml+
+
+‘ ' +725-%exp[--¥(a+u)']-
+~7m-xv(%"'£)+y—2-%wl-¥<~-~rll-
+
+Here, the factor lla2 is introduced in front of the integral for the purpose
+
+of normalization. To siaplify the writing, we shall introduce the diaension-
+leee para-eter 6 - ya. In this case, the function I(t) Hill assuaa the fora:
+
+I(o--:‘-[(l+7')e [so 4.31-5100 {)4}
++(I-é)e[o(l—é)]+
++7?m'-"v[-%'-(I+%)'l-
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+~73:%“P[-;(%)s]+
+
++v’x%°"[-¥('-'1-)'ll-
+
+(1)
+
+where r - e/v.
+
+One can find the signal et the output of a photodetector with s pulse response
+of
+
+9| (0-’.-~s
+
+where B is the tile constant. by wesns o! a Duhslel integrsl [l]:
+a
+{I'm-JIMMI-na. (2)
+
+By substituting 1(0) iron (1), and tskina the integral (2), us find
+
+aim-PHI +é--,';)e[t(l +%)]+
++ ”,-epr-n1+v)+-§][I+0[t(n+é—
+puree-440%)?
+-~(=-w)o('é)-%-»(-~+::)x
+xl'+°['§-?g)]l-I%éwl-~?(%)'J+
+“+T('-7+F)’['('-é)]+
++mexp[-w-n+§]{l “Hé-I-
+_-%)H+v%-‘-«v[-¥(%-t)'l~
+
+The signal is fed iron the output of the photodetector to the input of en
+amplifier. which hes a finite pessbsnd At. He shall easule that the scanning
+
+rate is rather high, so that (a >> fa [f3 - fupper' in - (1°..,] and the
+equivalent noise bendwidth of the snplifier at“ S f3. i.e., the influence of
+
+photodetector noise with s spectrel density of l/f can be disregarded. Under
+these conditions, one can sssune that the pulse response of the snplifier is:
+
+3
+FOR OFFICIAL us: ONLY
+vhere
+
+FOR OFFICIAL USE ONLY
+
+”(O-ca“.
+"h/s-
+
+(6)
+
+He derive the signal at the output of the amplifier by secondarily enploying
+the Duhsnel integral of thefunction (3) for the case of pulse response (6):
+
+l
+uw-‘fmw-ua.
+
+As a result of integration, we have:
+
+where
+
+Figure l.
+
+- [h :
+U(')-T(.e]-2~+..|)n (s)
+
+..-(é+n-'—$;'-)o[t(-:-+n) -
+-f7rl—.m[-m+m+
++$l{'+°['(%+~-%)I}+
++7’ﬁm[-¥(%+-)'J+
++ %|_',—.np[-t(l+m)+-$-lx
+
+xth-(éu-em-
+
+  
+
+a; ammmmmmmr u u
+
+The quantity 5 as a function
+of the circle of confusion
+
+D; The numbers on the curves
+correspond to the values of
+Br
+
+Expression (5) defines the signal
+when «canning one strip in the field
+of the objectives. To obtain the
+signal vhich appears when two strips
+are scanned. based on our hypo-
+thesis, which are located in the
+field of the objectives. it is nec-
+essary to add to the signal defined
+by function (5) the ease signal
+shifted in time by the alount 21’:
+
+"and” ' U(I)+U(I—‘.’e). (6)
+
+The output signal corresponding to
+the following values of the diameter
+of the circle of confuction D, de-
+fined vith respect to the 0.5 level
+was computed on a ”Minsk-32” con-
+
+puter using forlulas (5) and (6) when 8 - l and c - l: 0, 0.2a, 0.3a. 0.ba.
+0.5a, 0.6a, 0.7a. 1.0a and 1.3a for a set of values of or ranging in an
+
+h
+
+FOR OFFICIAL USE ONLY
+FOR OHICIAL US! ONLY
+
+interval iron 3 to 12 with a atep of 0.05, and for at I 2, A. 8 and O. The
+reaultina curves have two mine and Iinila between then. He ahall deaisnate
+the value of the function at the tint naxiaun 01 and at the ainiaua 02. and
+03 at the eacond mime. laced on than extra-a1 valuea o! the function.
+the aitea o! the relative dip in the curvaa were coaputed:
+
+£5422... _ u,
+
+t-—v-u—,;,
+“W-.. (7)
+
+0 +0
+where the quantity u - "' 27: is proportional to the ratio of the
+
+average value of the aisnal to the aean aquara value of the noiae. Aa followa
+
+froa expreaaion (7). the quantity E. which is proportional to the ratio of the
+value of the dip to the scan aquare value of the noiaa, can eerve aa a charac-
+teristic for the optinality of the optical-electronica ayetea.
+
+Shown in Figure l is t ae a function
+
+(g o! the dinner of the circle of con-
+
+as Euaion for varioua valuea of the tine
+
+a! constant of the photodetector; the
+
+g: plotted curvee correapond to the opti-
+a: ‘ n- choice of the paaaband of the
+
+m uplifier. i.e.. to that value or or,
+
+g: which providea (or a nan-In of z.
+
+a:
+
+0 Sioilar curvaa are shown (or the
+ma’”“‘”“" ”‘1” quantity 3 in Figure 2. The calcu-
+lation deaonatrated that the optima
+value of or practically doea not de-
+pend on the dinner of the circle of
+contuaion. and la approxinately equal
+to 3.75. It followa fro- thie that
+the value of the aianal wavefor-
+factor. It“, in the ferrule for cal-
+culating the upper boundary frequency
+[2] ia:
+
+Figure 2. The relative dip 3 aa a
+function of the diabetar
+of the circle of confuaion
+D. The nunhera on the
+curvea correapond to the
+valuea of 81'.
+
+in equal to 0.6.
+
+5
+ton orucm. use out!
+FOR OFFICIAL USE ONLY
+
+The curvee ahovn in Fisurea l and 2 can aerve aa the basic for quantitative
+aatiaatee o! the power and angular reaolvins povere of a thermal viewer when
+the circle of confueion o! the optical ayatea variee within broad li-ita.
+
+BIBLIOGRAPIIY
+
+l. Sheatov N.S.. ”Vydeleniye opticheakikh aignalov na tone eluchaynykh ponekh"
+{'"I’he Diecrinination of Optical Signele Against a Background of Random
+Interferenca”], Moscow. Sovetakoya Radio Publiehere. 1967.
+
+2. Karlzhanakiy Ye.Ya., Kiroahnikov HAL, GI? [OPTICAL-ECWICAL INDUSTRY].
+1970, No 9. p 39.
+
+COPYRIGRT: Optiko-ﬂekhanicheakaya Pro-yehlennoat’. 1978
+
+8225
+cs0: 811M976
+
+6
+FOR OFFICIAL USE ONLY
+M OFFICIAL USE ONLY
+
+PHYSIC8
+
+UDC 620.179.18:681.786
+
+AN ANALYSIS OF THE HETROLOGICAL CAPABILITY OF A com OPTICAL mam OP
+MONITORING 1113 SW8 0? COIN.“ SURIACBS
+
+Leningrad OPTIKO-MANICHBSKAYA PRMSELWOST' in Russian No 11, 1978
+pp 8-10
+
+[Article by V.A. Kudryavtsev, v.s. Shapov and candidate in the engineering
+sciences v.1. Shanin, asnuscript received 17 Feb, 1978]
+
+[Text] An estimate is given for the astrological capa-
+bilities of an optical nathod of aonitoring the shape .
+of couples: surfaces, based on the spatial coding of in-
+foraation and optical filtration. The dependence of
+
+the mim- of the correlation response on the change
+
+in the radius of the surface and the paraaeters of the
+encoding grating is deaonstreted. The requirements
+placed on the orientation of products during the test-
+ing are deternined.
+
+An optical procedure for autonatically Ionitoring the shape of couple:
+
+surfaces, based on spatial encoding of the intonation and optical natched
+filtration was studied in the literature [1 - 3]. Its physical principles.
+specific features and areas of application were discussed. and taco-enda-
+
+tions were also given as regards the selection and topology of the eleaents
+in the structural configuration of the nonitor system
+
+This article is devoted to a theoretical analysis of the netrological capa-
+bilities of the nethod and the deter-ination of the requirenents placed on
+the orientation of the products at the aonitor position.
+
+In accordance with the algoritha adopted for inforaation processing. the
+characteristic of the surface being monitored (suitable or reject) is given
+based on the magnitude of the correlation response of the quality control
+system, which is mathematically described by the expression:
+
+K..a(0)-l'n¢x.r. Oh may: 0+I0w. (I) (l)
+
+where Q is a variable parameter which characterizes the state of the
+surface being checked; 1: and y are the coordinates of the filtration
+
+7
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+plane; t1 is the amplitude'transmittance of the transparency with the image
+of the reference standard surface; t2 is the amplitude transmittance of the
+transparency with the image of the surface being monitored; * is the sign
+for a correlation operation.
+
+Thus, to calculate the correlation response as a function of the change in
+the shape of the surface and its orientation with respect to the original
+position, it is necessary to know the amplitude transmittance t(x. y), the
+synthesis of which in the procedure proposed here is sccosplished using the
+configuration shown in Pigure l. The collimated light flux of source 1.
+which is produced by optical system 2, passes through the encoding grating
+3 and falls on the surface of the product being monitored 6. As a result,
+a pattern is observed on the surface, the shrne of which is uniquely re-
+lated to the curvature of the surface and the viewing angle a, forced by
+the illumination and observation axes. Objective 5 forms the image of the
+surface being checked in its rear focal plane. It is represented on trans-
+parency 6 which is fed to the input of the information processing channel.
+
+The structure of the image on the transparency is determined by three factors:
+the encoding grating, the condition of the surface and the viewing angle.
+Hhen checking a batch of identical products. the parameters of the encoding
+grating and the viewing angle are constant. and consequently, the structure
+of the image depends entirely on the condition of the surface.
+
+The research which has been carried out in this direction has made it possible
+to establish the fact that the images of such surfaces. such as cylindrical,
+conical, spherical and all possible combinations of then. when illuminated
+through an encoding grating in the form of a system of alternating transparent
+and opaque lines, take the form of a set of bands of an elliptical type.
+
+Taking into account what has been presented here, as well as the fact that
+the majority of products produced by industry consists of surfaces of the
+types enumerated above, we shall limit ourselves to a treatment of the case
+of the quality control of products with a cylindrical surface. we shall per-
+form the calculations only for the maximum of the correlation response, some-
+thing which corresponds to the physical conditions for estimating it.
+
+Let the product be positioned so that the direction of illumination is perpen-
+dicular to its surface and the generatrix of the surface is parellel to the
+horizontal plane. If the radius of the cylindrical surface is called R,
+
+and the width of a line in the encoding grating is a. then the transmittance
+of the transparency for one line in the surface image can be written as
+follows:
+
+' 'P'lr|'=lh V’Ei- ue--+
+Ill-F" +ec0se>a>V -ys'u... (2)
+0s ocuseuon oceans.
+
+[0 in the remaining region]
+
+8
+FOR OFFICIAL USE ONLY
+POR OPPICIAL US! ONLY
+
+I 3 g
+I . Such e formulation for the tronuittence
+: "B ‘H w proeuppoeoe 100 percent noduletion o! the
+‘ X recording Iediu- of the treneperency.
+ooeething which ie eeeured by the euiteble
+>( . eolection of the exposure tint and the way
+
+it ie proceeeed.
+
+Figure l. The configuretion for
+mtheeie of the tune-
+perenciee.
+
+Following the eubetitution of (2) in (1).
+integration end noneliution. ve obtein
+the following expreeeion for the deter-i-
+netlon of the minu- of the correletion
+reeponeez
+
+[. +£3.22 +3;
+_ n! i=7»?!- erteln gun) I (3.1)
+
+up. A>n—I+VI'-:".~<I:
+e-c
+
+Film" ‘7)”
+-(’%‘)VT-"-f—‘)"l+
++g'z{u+c)YI‘-ﬁﬁ_cf‘-
+
+—mm(e+e)]r (3.2)
+epA<-—I+Vi———al".l<l:
+[" 3'“'(";)‘a‘+
++ m.-::.l}l' (u)
+mA>l—-+V-":\.l>lz
+[ﬁ‘enmI-I W17)!-
+
++ a (encoac- q YEW].
+
+A n— 1:1. l.
+I” < I+Ya at“)
+
+K.‘l. A) -
+
+when
+
+FOR OFFICIAL USE OIlLY
+FOR OFFICIAL USE ONLY
+
+no is the radius of the reference standard surface. and 0' < a < 90'.
+
+Portulas (3.1) and (3.2) correspond to the case of monitoring a surface with
+a radius less than the reference standard one, while (3.3) and (3.6) cor-
+respond to the case where the radius is greater than the reference standard
+one. Curves for Ka(n) are shown in Figure 2 for three different values of
+the parameter A and a viewing angle of o - 65'. The family of curves to
+the left of the ordinate corresponds to n < l, and those to the right. to
+n > i. It can be seen fron the graph. that the sensitivity of the asthod
+
+to the ascertaining of deviations in the shape of the surface being tested
+from the reference standard surface increases with a decrease in the line
+width a in the encoding grating. A quantitative analysis of expression
+(3). taking into account the actual characteristics of objectives which
+
+are produced. denonstrated that the relative sensitivity. defined as the
+ratio of the amount of the deviation 63 to the size of the requisite radius.
+R. is on the order of 10’3 - 10“. Its noxious value is achieved when:
+
+a - 10%?
+
+where D is the size of the objective aperture in the inforlation processing
+channel; P is its resolving power.
+
+The nature of the sensitivity (AR/R) an a function of the para-eter A for
+
+several threshold levels of K“ of practical interest is illustrated in
+Figure 3.
+
+  
+     
+    
+
+bemoan.”
+\
+
+leﬂ’l‘dl ma:
+
+Maseruaywuu 13“ In
+
+ 
+
+Figure 2. The laxisun of the figure 3. the sensitivity AR/R as
+
+correlation response as a function a function of the para-star A.
+of the variation in the radius of
+
+the surface being sonitored.
+
+10
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+my.
+
+0‘ Having on to the classes of precision
+1‘ ‘ in the nochining of ourtsces which
+ere in (ores in the systen of the
+industriel sector stenderd. it is not
+diﬂicult to cone to the conclusion
+thet the neth developed here per-
+
+- - nits the nonitoring of products nonu-
+I i ' '0 ”'5 lectured in eccordence with the sec-
+
+ond clone of precision.
+
+  
+
+Figure lo. The snount of the reduction It use presueed up to now thet the
+in the noxinun of the cor- positions of the nonitored end cel-
+relotion response es s tunc- ibretion reference producte coincide.
+tion of the orientstion of Under ectuel conditions.though. by
+the product in e trensvsree virtue of deetebilising tectors.
+plone. nisnetching is to be onticipeted
+between the positions of the prodcute.
+He shell conoider its influence on
+
+the nognitude of the correletion re-
+sponee noxinun.
+
+It is well known iron the theory of opticel notched filtrstion [6] thet the
+nognitude of the correlation response tells off when the onguler orientstion
+of the insge being onelyzod does not egree with thet of the reference stenderd
+(in the horizontel end verticel plenee). In our cose, s rotetion of the pro-
+duct in the horizontel plsne is equivelent to e chenge in the viewing engle c.
+It io not difficult tron expreesion (3) to (ind the reletive reduction in the
+correletion reeponoe min. which will be equol to:
+
+mum-{I-lr-Erﬁ—“ll-
+
+An enelysis of the resulting function ehowe thet s dewietion of the product
+
+fro. the requisite position by 10 - 15' leodo to o reduction in the correle-
+tion response noxinun by l2. i.e. to e chenge in it by on enount which cennot
+be relisbly recorded beceuee of the instebility end fluctueting noise of the
+photodetector [5]. Providing for the precision indiceted here in the orien-
+
+tstion o! the products et the test position preeents no difficulties using
+existing equip-sat.
+
+To determine the requirernmts plsccd on the otiontetion of products in the
+tronsvsrse plone. we shell nshe use of the feet [A] thet the corroletion re-
+sponse of the opticel devices for notched tiltretion. when the onguler posi-
+tion of the inege being onolysed chonges, depends on it contiguretion. In
+this csse. the greetest criticslity is observed when enelyting inogeo with
+e contour in the torn of streight lines. Por this reeson. we eetineted the
+influence or the precision in the setting of the product in the troneverse
+plene on the correletion reeponoe using the exenple of the product in the
+
+11
+FOR OFFICIAL USE ONLY
+FOR OHICIAL USE ONLY
+
+tern of a rectangle. The trana-ittence oi the transparency in thie caee hae
+the torn:
+I (a. y) - mi tar/I) mu (m).
+
+(0
+where I m [ale m
+
+m'(‘)"0 a man. More;
+
+h ie the width of the rectangle and l ia ite length.
+
+Alter eubetituting (6) in (1). integration and nor-alizetion. we derive the
+expreeeion for the calculation of the correlation reaponee maxi-um
+
+Km: Lin-[I -[(-'i$;£)u wrap»-
+- ll: am] It (0],.
+
+where y ie the angle of rotation of the product in the traneveree plane.
+
+Shown in Figure 6 are the auounte of reduction in the correlation reeponae
+maxim- ae a function of a geonetric factor (l/h) for three valuea of the
+angle 7. It can be aeen from a conparieon of the curvee that in the cane of
+e geonetric factor 3 5. a reduction in the correlation reeponee latitu- by
+12 ie achieved with a deviation of the product fro. the requieite poaition
+lOulS', vhich, ae haa already been noted. can be aeeured.
+
+Conclueiona
+
+1. An optical procedure for auto-etically Ionitcring the ehape of couple:
+aurfecee haa a relative eeneitivity on the order of 10-3-1040, i.e., allove
+for the quality control of producta belonging to the eecond clue of pre-
+ciaion.
+
+2. The deviation of a product when it in oriented in a teet poaition fro- the
+requieite poaition by 10—15' haa practically no effect on the quality of the
+teat operation; it in not difficult to aoeure ouch precieion in the orientation
+of the product.
+
+“BMW!“
+
+1. Hirovitekiy 0.1.. Saneonov G.A.. Shanin V.l.. union-mm I amour“.
+1972, Vol 17. No 6, pp 1280 - 1285.
+
+2. Hill 9.3.. ?ennington K.S., PROC. 1228. 1972, No 6. p 22-36.
+
+12
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+3. Van der Lost A.. 1333 TRANS.. 1966, Vol 2, p 139-1‘5.
+
+a. m an mt. e: .11., mummnm mxommonm [mum mm.
+nacrmrcsl. 1968, No 3. pp 53-67.
+
+5. Kovalcvakiy V.A.. "Howdy opctul'nykh ruheniy v rupozmvanu
+
+izobruhonty" ["th Solution nothodn in has. Recognition"), Moscow,
+Nnu‘u Publishers. 1976.
+
+COPYRIGIIT: Opuko-mmntchuhya Pro-ynhlennou'. 1978
+
+8225
+cso: ems/976
+
+13
+to: 07mm. 033 ONLY
+FOR OFFICIAL 083 MY
+
+PHYSICS
+
+UDC 663.3:666.22:562.68
+RESULTS AND DBVMPHENTAL PROSPECTS IN OPTICAL 633M168
+
+Leningrad OPTIWICHESKAYA PRNYSWST' in Russian No ll. 1978
+pp 39-61
+
+[Article by candidste in the sciences. F.K. Volynets. manuscript received
+12 April. 1978]
+
+[Text] The main optical. physical and chenical charac-
+teristics of optical ceramics. obtained by the nethod of
+gas pressing are given. Its most promising arena of
+application are indicated.
+
+The birth of optical ceramics - the polycrystalline class of optical materi-
+als - was due to the developmental needs of optical science and engineering,
+and in particular, to the widescale introduction of thernal viewing into the
+national economy which started at the beginning of the 1950's. Optical
+natsrials were required in this regard which have a high nechanical strength
+and good transparency in the IR region of the spectrum. Classical optical
+materials. silicate glasses and monocrystals. did not possess the indicated
+combination of properties. The former. though having good structural charac-
+teristics, as is well known, are opaque in the region of the spectrun above
+3.5 um. while the letter, on the other hand, while having good transparency
+in the IR region are nechanically anisotropic. and for this reason. as a rule.
+are no: structural materials. In this regard. the development of polycrystal-
+line optical materials proved to be necessary. since only they could conbine
+isotropicity of mechanical properties with high transparency in the IR range
+of the spectrum. Such an assessnsnt and prognosis were confirmed by three
+factors:
+
+1) Nature has created a number of polycrystalline silicate minerals, which
+are distinguished by exceptionally high mechanical strength (nephrite.
+agate. etc.):
+
+2) Spectroscopists have developed the so-callcd lnr method of studying the
+
+absorption spectra of various materials by pressing then into potassium
+bromide;
+
+lh
+P0! OPPICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+3) The development of ceramic technology led to the creation of a production
+technology at the and of the 1960's for a very dense tool ceramic.
+
+In this way the problem use reduced to the development of fabrication
+
+technology procedures for polycrystalline materials. uhich possessed the
+following:
+
+a) A porosity one to two orders of magnitude lower then that of tool
+ceramic (0.3-0.03 vol.!, instead of 3-52). because of which they be-
+coae transparent in the optical andevenin the visible range of electro-
+magnetic radiation;
+
+b) Considerably greater strength then tablets of rat;
+c) Transparency in various IR spectral ranges. right up to 30-50 us.
+
+This condition necessitated the applicability of the procedure being worked
+out for the fabrication o! polycrystalline optical materials lrom substances
+
+belonging to various classes of chemical conpounds: oxides, fluorides. chal-
+cogenides.
+
+He started work on the creation of ceramics in 1959. Seaples oi various
+materials were obtained during l96l-l967. however. intense developmental
+vork on the physical and chemical fundamentals of the production technology
+for optical ceramics and all of their coaponents (rsu materials, production
+equipment, uays of producing blanks o! the requisite dimensions. shapes and
+quality) were started in 1968.
+
+The so-celled "hot pressing" asthod tor a dispersed powder was taken as the
+basis for the solution of the problem. The factors governing the choice were
+as follows: in the first place. this procedure is distinguished by its
+universality and provides for obtaining optical ceramics from various sub-
+stances, including those from lov temperature variants in some cases, and
+secondly. lov relative pressing temperatures (II 0.66 IT, fusionl) open up
+
+the possibility or deriving blanks with a fine crystalline structure, with-
+out turning to the introduction of additives which inhibit secondary recrys-
+tallization. A reduction in the average size of the grain is important fro-
+tha standpoint of increasing mechanical strength, heat resistance. as well as
+reducing light scattering in the case where ceramics are fabricated from op-
+tically anisotropic materials and the electro—opticel characteristics of
+optical Eeroelactric care-ice: thirdly. the method is distinguished by its
+econoay: the simultaneous action of temperature and pressure per-its not only
+a substantial in the compaction temperature, but also approsimately a
+doubling of the compaction rate. In this case. the derivation of the material
+and the blanks in simple shapes are combined in one operation. The fact that
+the blanks were characterised by a very small ratio of height to disaster
+(1:10) promoted the selection oi this production technology procedure.
+
+15
+POI! OFFICIAL nee mm
+FOR OFFICIAL USE ONLY
+
+The kinetics of the colpaction of both Ionaphese dispersed powders and
+powders alloyed with different additives was studied in particular. The
+investigations were carried out using three different schemes:
+
+1) The degree of cospaction o is a function of the teaperature t' for a
+constant heating rate dt'ldt and a constant pressure p:
+
+O-“rhr :
+'7‘.)
+2) The degree of cospsction is a function of the pressure for the case of
+a constant defornation rate I dtldt and a constant tesparsture:
+
+o - up)“ .t:
+3?
+
+3) The degree of coepaction is a function of ties with a constant temperature
+and pressure: 9 ' f(t)to.p.
+
+The studies of the coepaction kinetics using these scheees were necessary
+in the theoretical plan to establish the operative ele-entary nechanises
+
+of the lease transfer: and along with this, they were analogs of the basic
+stages of the technological process: cold pressing. heating, the application
+of pressure and ssintainance under pressure at the pressing tesperature.
+These studies were carried out using both specially designed dilatoeetric
+installations and an all—purpose teat eachine. The structure of the sasples
+obtained. the kinetics of secondary recrystallization. the texture for-ation
+sechanisu, the dependence of sicrohsrdness 'and transparency on the pressing
+conditions. and in some cases, the teaperature dependence of the ultisate
+strength and yield limit. as well as the radial gradients of the density and
+texture in the blanks, were all studied simltaneously using the lethods of
+density neasureuent, spactrophotosetry. optical interferometry in white and
+polarized light. as well as buy structural analysis and optical polariza-
+tion analysis.
+
+The studies were carried out using samples of eateriala of interest for op-
+tical science and engineering. and additionally. which differed substantially
+in the type of chesical bond, the structure of the crystal lattice. and which
+also belonged to different classes of chesical cospounds: ngz. Hgo, Zns.
+ZnSe, Cds, Cd'i'e, BaPz, Ca? . PbClz, Pbtz. Cal. Y203, u253, etc. The powders
+which were studied differe by were then two orders of Iagnitude as regards
+the degree of fineness (the average grain size fluctuated fro. 0.1 to 10.0
+ml and more).
+
+The studies were conducted in a broad range of tharsodynenic paraneters:
+
+tesperatures up to 1.600' c. pressures up to 5.0 t/cnz. exposure tines of up
+to 180 sinutes and a residual pressure down to 10" In ﬁg. '
+
+16
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+A decision in favor of the vacuum praseing variant was made right at the out-
+set of the work for the following reasons. The presence of air in the pores
+retards the compaction of the briquetts and induces selective absorption bands
+due to the interaction of the material with the moisture and oxygen in the air.
+Horeover, the presence of gases at high pressure in the pores oi the resulting
+optical ceramic reduces its mechanical strength, something which is especially
+pronounced when the temperature increases, and along with this, complicates
+
+the process of cooling the blank and its subsequent annealing. Pressing in a
+vacuum permits obtaining an optical ceramic from materials which oxidise
+
+easily in an air atmosphere. as well as the use of easily oxydizable heat
+
+resistant molybdenum alloys for the fabrication of the components of compres-
+sion molds.
+
+The extensive experimental material made it possible to establish the fact
+
+that the basic elesenary mechanism of mass transfer during the action of s
+relaivc temperature of 0.5-0.8 If“. and a pressure of l.0-3.0 t/cm2 are slip
+along the crystallographic planes (translational and twinning). and slip along
+the boundaries of the grains, as well as the ascertaining of the exceptionally
+important role played by the secondary recrystallisation processes in attaining
+erelativedeneity of the briquette of more than 0.99. The secondary recrystal-
+lization activates slip along grain boundaries, and when a certain temperature
+is reached, causes the transition of the briquette to a state of superplssti-
+city. The degree of intensity of secondary recrystallisation which provides
+for attaining a level of compaction practically equal to the theoretical level,
+over an exposure time of 30-60 minutes under a pressure of I2.0 tlcm2 has
+
+been quantitatively determined. It consists in an increase in the average
+grain size of three to five times. Pressing at temperatures which provide for
+meeting this condition is equivalent to pressing during phase transformations.
+
+In fact, the entire volume of the briquette is subjected to recrystallization
+in this case.
+
+The important part played by recrystallization processes is also determined
+
+by a number of other factors. In the first place, the relationship of the
+velocities of grain boundary migration and the movement of a pore located at
+the grain boundary determines the probability of pore capture by the growing
+grains. Along with an increase in the probability of pore capture, the level
+of compaction end the transparency of the ceramic are reduced. Secondly.
+secondary recrystallisation produces the structure of the ceramic, and along
+with this. also a number of its properties. The mechanical strength of a
+polycrystal is related primarily to grain size. when deriving optical ceramics
+from anisotropic substances, grain size determines the position of the short-
+wave boundary of ceramic transparency, and in connection with the fact that
+when the grain size approaches the wavelength of the light passing through,
+
+its losses increase sharply due to scattering. inhibiting secondary recrystal-
+lization in these cases by means of changing the pressing conditions or intro-
+
+ducing special additives permits a substantial increase in the transparency
+of ceramics in the shortwave region of the spectrum.
+
+1?
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+And finally. there is yet one sore governing law which underscores the excep-
+tional part played by the secondary recrystallization processes when fabri-
+cating optical ceramics: performing the pressing with the indicated intensity
+of secondary recrystallization makes it equivalent to the process of growing
+monocrystals. The difference consists in the fact that in the case of prea-
+sing, the specific crystallization surface is quite large (=l-10 mzlg). where
+this crystallization occurs at low temperatures (-2/3 Tgu.,’K) of the material
+being pressed and at very high pressures (-2.0 t/cmz). Establishing this
+governing law pointed out the possibility of obtaining luminescent optical
+ceramics. alloyed with those additives which cannot be introduced into a
+crystal lattice when growing crystals from a melt.
+
+The facts adduced above allow us to call the pressing process under the con-
+ditions indicated here "recrystallization pressing.” Such a designation un-
+ambiguously defines the nature of the physical and chemical processes which
+provide for attaining the theoretical density. as well as the conditions for
+its realization. The establishing of the governing laws considered here
+permit the determination of the parameters of the pressing process. by working
+from the physical and chemical parameters of the powder. In particular, de-
+creasing the averaga grain size in the initial powder from 10 to 0.1 um makes
+it possible to reduce the relative pressing temperature Eros 0.75-0.8 down
+
+to 0.55-0.6 Tfu. 'K. or by 200-500' on the Kelvin scale.
+
+Moreover, it also became possible to formulate the technical apecifictions
+for the original powders, in which their suitability for the fabrication of
+an optical ceramic is determined not by a technological sample test, but by
+their physical and chemical parameters. which. in turn, derive from the re-
+quisite microstructure of the ceramic being obtained and the capabilities of
+the production equipment. Along with this, the capability of fabricating an
+optical ceramic from any optically isotropic or weakly anisotropic material
+was placed on a solid footing. The justification for this position is con-
+firned by the photograph of samples of optical ceramics. which is shown in
+the figure.
+
+Simultaneously with the working out of the physical and chemical principles
+
+of the fabrication technology for optical ceramics, a procedure was created
+
+for synthesizing the starting materials and equipment. which permitted as early
+as 1968 undertaking the development of a production process for the fabrics-
+tion of the requisite blanks of optical ceramics based on magnesium fluoride.
+
+A number of production processes were worked out which provide for obtaining
+blanks in the smplest shapes with a diameter of up to 350 mm at pressing temp-
+eratures up to l.200° C. Series production of optical ceramics has been organ-
+ized on the basis of these blanks.
+
+Searches for heat resistant structural materials based on molybdenum. which
+assure operability of compression molds at temperatures up to 1,500' c and
+pressures up to 2.5 t/cmz were undertaken in the past decade in conjunction
+with institutes engaged in the development of metals. This circumstance will
+
+18
+ran OFFICIAL use ONLY
+IOR OPPICIAL USE ONLY
+
+produce a completely new situ-
+ation in the plan for the de-
+velopment and application of
+optical ceramics. A decisive
+factor in their development is
+not the capabilities of the
+production equipment, but
+rather the vital needs of op-
+tical science and engineering.
+In this case. in accordance with the mutual conditionality of the phenomena.
+such broad, essentially unliaitad experimental capabilities in the design of
+optical ceramics with new optical, physical. chemical and operational proper-
+ties, or new combinations of them. in turn permit optical ceramics partici-
+pating to a more marked degree in accelerating the development of optical
+scinece and engineering. It is well known that the products list and the
+quality of optical materials will serve as one of the indicators of the level
+of the nation's optical science and engineering.
+
+ 
+
+Of course. it does not follow from this that the technological production
+procedures for the fabrication of blanks of optical components using the
+method of recrystallization pressing, both one-sided and isostatic pressing
+are not subject to refinement for the purpose of reducing the manufacturing
+labor intensity and increasing their quality. One of the most urgent tasks
+is the automation of the production process. It is becoming economically
+justified and necessary in connection with the large series production of
+blanks of optical ceramics. This is an extraordinarily complex problem.
+However. it should be noted that several of the physical and chemical pre-
+requisites for its solution have already been found.
+
+Extensive and systematic research into the physical, physical chemistry and
+operational characteristics of optical ceramics has been undertaken simul-
+taneously with their development and introduction into production.
+
+The study of properties of optical ceramics has not only promoted an expan-
+sion of the applications areas and an acceleration of the rates of intro-
+duction of optical ceramics as an optical structural material. but has also
+made it possible to ascertain the effectiveness of their application in other
+fields of optical engineering. we should primarily point out the construc-
+tion of objective lenses. Chalcogenide and certain optical oxide ceramics
+are the most promising, which possess a refractive index equal to or greater
+than 2.0, as well as fluoride ceramics. which permit compensating for their
+chromatic aberration. Because of the monophase aspect (single component
+aspect) of optical ceramics they are characterised by a rather high optical
+homogeneity (in - 10-3-10'§ at a wavelength of l um), which completely
+permits their application in lane systems. This is also being promoted by
+the success achieved in recent years in increasing the transparency of opti-
+.cal ceramics in the visible region of the spectrum. which permits not only
+the visual adjustment of instruments, but also their operation in this region
+of the spectrum. The index of absorption of optical ceramics amounts to
+
+19
+ran omcm. use our
+FOR OP7ICIAL USE ONLY
+
+' 10‘1 cn'l. However, there is a basis for obtaining optical ceramics with
+an index of absorption one to two orders of magnitude lower. The solution
+of this problem will permit the wide utilisation of optical ceramics in gas
+laser engineering, and expand the possibility for their application in the
+construction of objectives.
+
+An important factor which promotes the introduction of optical ceramics in
+the construction of objectives would be the development of a production
+process for the manufacture of blanks with even one surface. including an
+asphcrical surface, which does not require additional cold working machining.
+The theoretical possibility of solving this problem has been confirmed for
+
+a long time by individual experiments. but there is as yet no technological
+process. Such a situation is explained by the complexity of the problem,
+and it can be said, its elegance, which requires knowledge of the quanti-
+tative relationships between the shape generating surfaces of the compres-
+sion mold and the resulting blank, which are due to the relationship between
+the modulus of elasticity. the coefficient of thermal expansion and the co-
+efficients of heat conductivity of the material of the compression mold and
+the ceramic being fabricated. Moreover, the deserved attention has not been
+devoted to the solution of this problem, although it promises a considerable
+technical and economic effect.
+
+Also promising is the application of optical ceramics in spectral instrument
+construction as the windows of cells, the substrates of absorption and inter-
+ference light filters, reflective light filters, etc., especially in a spec-
+tral range of lZ-oZS um.
+
+The study of the physical and chemical nature of the processes involved in
+the fabrication of optical ceramics by the method of recrystallisation pres-
+sing has indicated the possibility of obtaining luminescent optical ceramics.
+These ceramics are promising for devices which visualise radiation: neutron,
+electron, x-ray, ultraviolet and infrared radiation. Such an assessment is
+due to two arguments. On one hand. optical ceramics, in contrast to lumi-
+nescent glasses and monocrystals, possesses a high luminescence light yield,
+which is comparable to the light yield of powder luminophors (2-10 candles/U).
+0n the other hand, it is just as strong as glass and monocrystals, and com-
+bines the batter qualities of all of the well known luminescent materials.
+Along with this, the technological process of recrystallization pressing
+provides for the capability of fabricating a luminescent optical ceramic from
+practically all of the well well known powder luminophors.
+
+Considerable effectiveness is anticipated from the introduction of electro-
+optical ceramics into optical information processing equipment as the working
+medium for high speed multichannel modulators and page generators for holo-
+graphic systems. The use of electro-opticel ceramics will make it possible
+to boost the operational speed by three to four orders of magnitude as com-
+pared to liquid crystal cells. The promise of magneto-optical ceramics
+should likewise be noted. Experience has demonstrated the effectiveness of
+
+20
+FOR OFFICIAL USE ONLY
+m OFFICIAL USE ONLY
+
+the application of optical carnica in tha aolution ot a nun-hat of spacial
+problem (tho input window of radiation racaivara. directional radiation
+acattcrara. high intanaity plaau light aourcaa. coating optica, atc.).
+Tho proniaing outlook for tho application of optical «rallies in various
+acianca and ansinoarins. which won diocuaaad hora, allov for tha conclu-
+
+aion that tha clan of polycryatallina optical utariala has juat boson
+its period of intanaiva dualopaant.
+
+COPYRIGIm Optiko-Kakhanichaokaya Pro-yahlannoat', 1978
+
+8225
+cs0: 811M976
+
+21
+FOR OFFICIAL US! ONLY
+IOR OFFICIAL USE ONLY
+
+PHYSICS
+
+UDC 535.313.2
+
+THE BASIC PRINCIPLES 0? TB! ADTOHATION 0? TBS PROCESS OF SHAPING ASTRO-
+NOHICAL OPTICS
+
+Leningrad OPTIKO-HBKHANICHBSKAXA PROHYSHLENNOST' in Russian No 11. 1978
+pp 62-65
+
+[Article by Academician A.H. Prokhorov, and candidates in the sciences
+Ye.V. Truehin and E.A. Vitrichenkol
+
+[Text] Possible methods of controlling the process of
+shaping optical surfaces with the use of computers are
+analyzed. It is shown that an efficient way of auto-
+mating the shaping process is real time program control
+of the local pressure of a small tool on the component.
+
+A whole series of difficulties arise in the fabrication of astronomical
+optics with large dimensions. These difficulties are primarily related
+
+to the fact that it is necessary to maintain a certain mathematical surface
+within a precision of a few hundredths of a micrometer on a large optical
+surface area; figured in square meters.
+
+The solution of the problem is impeded. for example, by the following factors.
+In the first case, nonuniformity of the hardness over the surface of the blank
+itself leads to a differing degree of removal of the material with equal ma-
+chining conditions. In the second place, the imperfection of the optical
+machine tool. as well as effects of its alignment lead to various types of
+errors in the optical surface. Ihirdly. temperature effects related to in-
+homogeneous heating of the component and the tool in the machining process
+also lead to errors. Pourthly. nonuniformity in feeding the polishing sus-
+pension to the point of contact of the optical component with the tool also
+
+has an effect. Fifthly, the imperfection of the tool and its wear cause
+additional errors [13].
+
+The existing practice of optical manufacturers is based on experience and
+intuition. and not on precise data concerning the technological process.
+Such practive leads to the fact that the process of fabricating the optical
+surfaces is not a convergent one, i.e.. in the process of working on a com-
+ponent, the practicing optical worker improves the quality of the components
+
+22
+FOR OFPICIAL USE ONLY
+1'0! ORIGIN. 08! 6M?
+
+aone of the tine. but part of the tine ie involuntarily apent degrading it.
+For thie raaeon. outlaye for the fabrication of large optical aurfacea
+prove to he unjuetifiahly high.
+
+with the operational method adopted. the quality of the finiehed optical
+product dependa on the ekill of the experienced optical worker. Ihie intro-
+ducee a euhjective factor into optical technology. for exanple. one optical
+worker "can” nanufacture a certain conponent with high quality. vhila another
+vill not achieve thie quality in any amount of machinging time.
+
+A any out of the eituation which haa developed can he the autonation of the
+shaping prouaee ueing computer equipment. In thie cue. the technological
+procaea vill hecone a etrictly convergent one. i.e.. in each proceeaing
+
+aeeaion. the optical eurface vill only he inprovad. and noreovar. the pro-
+
+ceee would hecole independent of the peraonal experience of the experienced
+optical vorker.
+
+It vould be extremely tempting to deeign a fully autonated installation for
+the febricetion of optical eurfacea. In thie caae. checking the ehepe of
+the eurface and the ahaping proceea iteelf (grinding or poliahing) ehould he
+acconpliahed in real tine. Unfortunately, not only ia Ionitoring of the
+shape of the eurface during ita proceaaing not realized at the preaent time.
+but there are not even any ideaa of how to do thie in the i-ediate future.
+For thie reaeon, the proceaa can he done only in an autonated manner. but
+not autonatically.
+
+The noat important guarantee of aucceaa in fabricating an optical eurface
+
+ia operationally tinely quantative nonitoring of ita ahape. ae well aa the
+linking of thie nonitoring to the technological procaea. Thia quaation ie
+not diecueaed in thie article. Since quantitative checking of ground eurfacea
+ie juat now being developed [26]. it ia nore convenient to begin the auto-a-
+tion vith the poliahing etage. where the methode of checking are rather vell
+corked out.
+
+The repid development of digital engineering haa opened up new poaaihilitiee
+for optical technology. It it well knovn that the application of computera
+has caused a revolution in mathematical optica [6]. Digital end analog elec-
+tronic equipment haa exerted a conaiderahle influence on the proceduree for
+etudying optical componenta and ayatema. In particular. the procaeaing of
+memaurementa ueing the ﬂartman method ia carried out vith a computer [2.
+
+22, 25 - 27], and work hee begun on the automation of liartman photograph
+neaeurenente [28). Analog equipnent it need for the quantitative ahadov
+Foucault-Pilhert method Ill, 19, 23]. Digital and analog equipment in uned
+in the interferonetric teating of optical componente [17, 18].
+
+The firet atepe have alao been taken in the field of the application of digi-
+tal engineering to the autonation of the eheping proceea Illa, 16. 29].
+
+23
+Iron outcm. use om
+FOR OPVICIAL US! ONLY
+
+Possible Hays of Automating the Shaping Process
+
+In accordance with a hypothesis of Preston [20. ll). the justification for
+which has been repeatedly verified [8. 16]. the following relationship is
+observed in the process of machining an optical surface (grinding or polish-
+‘ng) for each of its elements:
+
+db " K (51a 520 “3) mt» (1)
+
+where dh is the amount of material removed; dt is the elemental machining
+time; p is the specific pressure of tool on the component: w is the veloci-
+ty of the tool with respect to the component. It is atechnologicel constant
+which depends on the component material al. the tool material a; and the
+properties of the abrasive material a3.
+
+An elementary analysis of formula (1) shows that in principle, we can con-
+trol four technological functions:
+
+«The machining time for each elemental area:
+"The velocity of the tool with respect to the component:
+—The trajectory of the tool on the optical surface;
+
+«The pressure (force) of the tool on the component.
+
+A combination control procedure is also possible.
+
+It is difficult to control the first three functions independently of the
+influence of the other functions. In this sense, the breakdoam in control
+
+methods discussed in the following (with the exception of pressure control)
+is conditional.
+
+Control of the local pressure of the tool on the component does not depend
+on the remaining technological parameters. This is the most important
+merit of the method.
+
+Control of the Machining Time
+
+We shall consider two methods of controlling the machining time: direct
+control and the mask method. These methods can also be considered control
+of the tool trajectory.
+
+Direct control of the machining time was realised in the following manner
+[10]. Three small tools were positioned on guides. making an angle of
+
+120°. The component (a plane mirror 1 meter in diameter) was broken down
+into annular zones with a width of 0.1 m. and the machining time for each
+
+2’;
+NR 05710:“. US! ONLY
+[0R ORIGIN. 083 ONLY
+
+zone was cosputed fro. the fornula of [1). The tool pressure was constant.
+and the change in velocity was taken into account.
+
+The advantages of the aethod are the sinplicity of the realisation and the
+possibility of total autdaation. There are two drawbacks to this procedure.
+In the first case, it is inpossible with this nethod to elininste local
+errors: soreover. it is well known that for astronosical nirrors. it is
+specifically this type of error which is characteristic [3). Secondly. he-
+cause of the discrete nature of the sachining. there is an edge effect. i.e..
+tonal errors arise. the site of which are approxisately equal to the sire
+
+of the cones into which the couponent is subdivided.
+
+The suit aethod, worked out by the Taesnek group [9] was based on the use of
+s full-site tool. the working surface of which was node in the for- of lohss.
+The shape of the lobes was conputed so as to provide the requisite renoval
+o asterial.
+
+A nerit of the nask nethod is the sbsccnco of edge effects inherent in netth
+in which a snail tool is used. included anong the drawbacks are the couple:-
+ity of realizing the nethod. which is related to the necessity of fabricating
+a special tool for each nachitring session. and the fundanental inpossibility
+of eliminating non-axial ay-etric errors.
+
+Controlling the Tool Speed
+
+The velocity of the tool with respect to the cosponeot has three conponents:
+the rotational velocity of the conponent. the rotational velocity of the tool
+and the velocity related to the notion of the carrier. Because of the large
+anoun: of systen inertia. control of the velocities is difficult for astro-
+nomical nirrors. but in nachine tools of the"Start” type. velocity control
+has been realised for the upper link using a stall tool.
+
+In a mother of foreign patents lilo. 15]. netth of velocity control of the
+conponent have been described. hut these nethods are hardly applicable to
+large products.
+
+Controlling the Trajectory of the Tool
+
+This nethod was realized .by the Anerican conpany ”ltek“ us. 16]. A tra-
+jectory which provided for the requisite renoval of laterial was realised
+using a specially designed nachine tool. which per-itted arbitrarily sowing
+the snail tool in two nutually perpendicular directions. The trajectory is
+calculated beforehand on a cosputer. The nethod was successfully tested in
+the fabrication of nirrors with a dimter of about a neter. Over several
+hours of finishing. a surface quality was successfully achieved with a neon
+square error of AMO. sonething which satisfies flarechal’s condition [30].
+
+2S
+roe onxcuu. use ONLY
+PO! OWICIAI. USS ONLY
+
+The control procedure reelited by the ”lteh" coepany can be applied to the
+eethod of eechining tiee control. eince the trajectory ie figured by work-
+ing free the proportionality between the expoeure tiee end the requisite
+level of reeovel.
+
+An article by eeeocietee of enother Aeericen coepeny. ”Perkin-Blur".
+appeared not long ego [29]. which deecribee en even eore refined techno-
+logical eyetee. including e coeputer.
+
+The eejor eerit of the eyeteee indiceted here ie the poeeibility of eliei-
+neting local errore and febriceting coeponente with e coeplex ehape. for
+exuple, off-exie pereboloide. The tingle drewbeck ie the neceeeity of e
+epeciel eechine tool.
+
+The febrication of euch e eechine tool. ee well ae e epecial tool for the
+eirror ie e neceeeery condition for the reelieetion of all control eethode
+deecribed above. eoeething which eubetentielly coeplicetee the epplicetion
+of theee eethode in indeetry. eince two difficultiee eriee here: the firet
+of thee ie of en econoeic nature end ie releted to the neceeaity of replet-
+ing the cot of eechine toole. eoeething which leade to large outleye of
+tint and equipeent. The eecond ie of e peychologicel neture. end to over-
+coee it cen prove to be even eore coeplex. Optical eechine toole heve
+changed little over recent decedee. and experienced opticel workere have
+becoee ueed to then end eccmleted coneidereble experience in working with
+thee. In the ceee of the repleceeent of the eechine toole. the experience
+acquired in working with thee in loet and there erieee the neceeeity of
+edditionel treining of the opticel febricetore.
+
+The eutoeetion eethod beeed on controlling the preeeure of a eeell tool in
+free of theee drewbecke. Any opticel eechine tool need in industry cen be
+eeployed without eubetential reworking for the realization of this eethod.
+
+Controlling the Tool Preeeure
+
+in one of the firet etteepte to echieve control of the eeteriel reeovel by
+
+eeene of werying the preeeure [6]. the control effect wee not obtained. The
+reaeon wee found in the feet thet e full-eited tool wee eeployed. lt ie ob-
+vioue that in e preeeure control eode. it ie neceeeary to uee e eeell tool.
+
+the theory for which wee developed in [7. 8 end ll].
+
+We ehell poee the following problee. ly eeene of reel tiee control of the
+locel preeeure of a eeell tool on e coeponent in e conventionel opticel
+eechine tool. it ie neceeeery to gein the cepability of fabricating optical
+eurfacee of high quelity end elieinete any errore. bet the tolerence of
+the coeponent heve the fore h(x. y). In eccordance with foreule (1), it
+ie neceeeery to produce a force p(x. y) in the fore:
+
+I“. y) m II (3. WWW). (2)
+
+26
+M ORIGIN. US! OIL?
+FOR OWICIAL 088 ONLY
+
+Here o in the current radiuo of the zone; the function Ho) deter-ineo the
+eeteriel renoval at a conatent praeaure [12]; It in a technological con-
+atant; and ‘1‘ io the aachining tine. In the derivation of formula (2).
+
+ve neglect the iinite eiee of the tool. but exporinonte conducted by no ohov
+that thio eethod can be oucceoefully onployod.
+
+The noot important Iorita of tho nothod are: tho capability of autonating
+any optical nechino tool without aubotantially reworking it; autonation
+ainplicity ueing e conputor in the control node; the poeoibility of eachin-
+ing conponenta with a couple: ahape and eliminating any typea of errore;
+the abocence of edge etiecte related to the uae of a nail tool.
+
+Becauoa of the convergence of the ahaping proceoa being controlled. the
+tiniehing operation can be accelerated by tone of tineo. and it ie aleo
+poaoible to ilprove the quality of the iiniahed coeponont by oovoral tinea.
+
+Concluaion
+
+Tho proceao of ohaping optical ourfacoa can be autoloted in any vaye, but
+it ia preferable to employ real the control of the local preaouro of n
+onall tool on the conponent ueing a control colputor. when thio nethod ia
+
+uaod, there ia no need to nenufacturo new nodela of optical eachino toola
+or complex toolo.
+
+Because of the uae of the conventional notion of the tool over the ourface
+of the part (opindle rotation and hernonic oocillation of the upper link)
+in the propoood control ayeton. edge etfecta related to e onell tool do
+not ariae. It proveo poeeible to fabricate conponcnto with a coeplu ahape
+and eliminate any typee of orrora in the optical ouri’aco. The technical
+automation oquipnont oxieting at the preaent tile pernit the aolution of
+thio problem. Laboratory and plant tooto of e breed-boarded oyaten which
+realizeo the principle cited here have dalonetrated the pro-ice of thio
+
+approach.
+BIBLIOGRAPHY
+
+l. leskin, 6.11.. et a]... IZV. SPE‘I’S. ASTROPIZ. OBSEV. [PROCEEDIMS Ol’ THE
+SPECIALIZ. ASTROPHYSICAL OBSERVATORIZSI, 1975, Vol 7. p 182.
+
+2. Vitrichenko 3.5., Katogerov P.K., Lipovetokaye V.6.. 12V. spars. AS‘I'ROFIZ.
+OBSERV.. 1975, Vol 7. p 167.
+
+3. Vitrichenko E.A.. A511“. 2m. [JOURNAL 0' AW], 1976, V01 53.
+p 660.
+
+6. Dvornilwv Adi" et al., GD [onrxo-mmrcmsuu PRMSIILMOST' «-
+[TIIE OPTICAL MECHANICAL INDUSTRY]. 1960, No 11, p 6.
+
+27
+FOR OFFICIAL USE ONLY
+5.
+6.
+
+7.
+8.
+9.
+10.
+11.
+12.
+
+13.
+14.
+15.
+16.
+
+17.
+18.
+
+19.
+20.
+
+21.
+22.
+23.
+26.
+25.
+26.
+
+POI! OPPICIAI. US! ONLY
+
+Krupenkovn 2.1.. Grudinn 11.1.. Below n.s.. (HP. 1973. No 9. p 30.
+
+Leonova V.II.. "Mao-aunts!” ruchctov opttchuktkh tutu” (“Automating
+iggofalculutonn of Optical hum"). "new. Hanhinouroyoniyo Pubuuhon.
+Lyoyannyy Yu.|t.. our. 1972. No 7. p 5.
+
+Lynyannyy Yu.K.. «1P. 1976. No 5. p 21.
+
+Lyoyannyy Yu.l€.. Tunnnk l..8.. (MP. 1973. No 7. p 51.
+
+Popov 6.11.. Popova H.I.. MP. 1970. No 3, p ‘6.
+
+Sutbrntov 11.11.. (HP. 1958. No 9. p 37.
+
+Sutbntov 11.1!” ”Spuvochntk “Woman-printoutrattan” (”The Inuruun:
+Builder's “Indirect”, Moscow. mobs“. 1962. Gupta: 6.
+
+‘l'uonck 1.8.. (HP, 1970. No 8. p 60.
+Mpden R.. US Patent. 1971. No 3.556.576.
+Mpdcn 3.. Punch Patent. 1971. No 1.601.566.
+
+Mpdcn IL. chonoush 3.. Ritchie P.R.. APPL. 0PT.. 1972. Vol 11, No 12.
+p 2,739.
+
+button 0.. Connie A.. Lat“ 11.. APPL. MP” 1968. No 7. p 125.
+
+Munnorlin 6.11.. Tcyutu 6.11.. OPTICAL SPECTRA. 1975. Vol 9. No 13.
+p 3.2360
+
+Philbort 11.. OPTICA AC'I'A. 1967. V01 14. No 2. p 169.
+
+Preston P.. MACHINES 100101. 0? m soc. 0P cuss mower, 1927, Vol 20.
+No 2.
+
+Preston P.. Till GLASS INDUSTRY. 1928. Vol 9. No 2. p 3.
+
+Shulte 0.11.. APP!“ 0PT.. 1968. Vol 7. no 1. p 119.
+
+Hilton 8.6.. APPL. 0PT., 1975. V01 16. No 1. p 2.286.
+
+labia LY... Kuzncuov A.I.. Roxov VJ... (HP. 197‘. No 11. p 80.
+Zvorcv V.A.. 0: n1., (MP. 1977. No 2, p 16.
+
+ZVC".V VOAO. .t .10. m. 1977. NO 3. P 3.
+
+28
+FOR OFFICIAL US! ONLY
+FOR OFFICIAL 088 ONLY
+
+270 Zvorev Ver. at .10. W. 1977. No ‘. p 30
+
+28. Cheben Yu.V.. et ah. "Noveye cekhntke v celeekopoetroyenu” ["Nov
+Equipment in “releecope Conetmctton”]. 1978. No 6.
+
+29. Jon.. ReAe. APP!” 0913. 19". v01 16. p 257e
+30. Herechel Ae.me D'OPTo. 1977. Vol. 26, p 257.
+
+OOPYRIGIIT: Opuko-Hekhentcheekeye Pro-yehlennoet'. 1978
+
+8225
+cso: emu/976
+
+29
+FOR OFFICIAL I183 ONLY
+FOR OPTICIAL US! ONLY
+
+PHYSICS
+
+UDC 681.7.02
+
+TN! SELECTION OF THE CONDITIONS FOR THE MACHINING 0? LARGE OPTICAL CON-
+PONBNTS
+
+Leningrad OPTlKo-NEKRANICNBSKAYA PROHYSNLBNNOST' in Russian No ll, 1970
+pp 65-49
+
+[Article by candidate in the sciences A.P. logdsnov, Phd. in the sciences
+L.S. Teesnek. and V.A. Ivanov. nsnuscript received 16 March. 1978]
+
+[Text] Questions of the choice of ways of machining
+optical cosponents with large overall dimensions are
+analysed. A procedure is described for selecting the
+machining conditions. the basis of which is an ele-
+mentary law governing the wear and a gradient method
+of seeking the linimum of e function of several vari-
+ables. .
+
+Increasing the precision end curtailing the tile end labor intensity of
+the fabrication of the surfaces of large optical components is usually re-
+
+lated to the precision in forecasting their weer during grinding end polish-
+lnss
+
+Although new methods of sachining large components with a ”mask”. a flexible
+tool [1] are beginning to find application in practice, a study of the pos-
+sibility of controlling the process of shaping surfaces on eristing machine
+tools by means of calculating the nachining modes is of unquestionable
+theoretical and practical interest. It is also important to perform such
+research for the case of machining slell optical components. including nodu-
+lsr ones, since the kinesstic characteristics of the sachine tools are
+practically the same in both cases. we shall assume that the optical ma-
+chine tool during the machining process provides for constant angular ro-
+tstional velocities of the conponent A and the tool in as well as oscille-
+tions of the surface of the tool either in some plane parallel to the axis
+of the component and offset free it by a spacing I. or around sane axis
+which is parallel to the axis of the part. In the projection onto a plane
+perpendicular to the axis of the part. the indicated types of trajectories
+of the center of the tool are shown in figure I.
+
+30
+ION OPTICIAL US! ONLY
+FOR OVPICIAL USE ONLY
+
+He ehall eeeune that the quantity E. which in accordance with the type of
+trajectoriee indicated characteritee the diaplacenent of the center of the
+tool with reepect to the center oi oecillationa in the direction of the
+plane of oecilletiona of the tool center, or perpendicular to a atraight
+
+line which peeeee through the point Q1 and 0'. changea in accordance with
+the einueoidal law:
+
+3 - A ein r(t + to)
+
+where r. A. t and to are reepactively the angular frequency of the oacil-
+latione. the anplitude o! the oecilletione. the nachining tine, and a con-
+
+etent. which without violating the generality of the argunente can be con-
+eiderad equal to care.
+
+He ehall characterize the nachining
+node by the eet of waluea of the
+paranetera n. w. r, A. B. c and D.
+He ehall conditionally underatand
+the control of the nachining proceaa
+to he the eelection iron the epecified
+rangee of veluea of the indicated
+para-etera of the nechining node
+which providee for a ninilmn of the
+aun of deviatione of the deeign value
+for natarial renoval iron the requi-
+eite value. expreeeed in tarne of
+Figure 1. For the explanation of the the ahaolute Iagnitude. at all pointe
+fort of the trajectoriee: on the eurfece of the optical part.
+
+Key: 1. Optical pert;
+
+ 
+
+2 An hi i The wear of the eurfece of an aeper-
+‘ '; t"'¥ 9° “‘ icel part with enall deviatione iron
+, ;:.;.:‘:'r‘i, a ephere in the direction to ite nor-
+" The centiz o; the al at the point "1/2 for a fixed value
+° £11 : £ of n2]: (Pigure l), aaeuning that the
+oac " on; o ale-eatery law governing the wear in
+t""°‘°” ° accordance with the reeulte of paper
+[2] ie oheerved, can he repreaented
+in the torn:
+
+41%.}. v)-2c.5‘p:g.21. ,): 1,!)x
+
+xU(-’,’l . ’7", p. V)dp.
+
+where V ie the rate of travel of the center of tool 01. the conponenta
+on the 0K, 0! and 02 axee are V‘. V, and V, (ehown in Pigure l in a picture
+of the pointe oi the part and the tool in the 0!! plane): P and U are
+the contact preeeure and the relative velocity at the point “1/2 and a of
+the eurface o! the part reepectively; C. ie a conetnat for the given
+
+(2)
+
+31
+’0! OPPICIAL US! ONLY
+FOR OFFICIAL USE ONLY
+
+machining node; 00 it e iixed velue of the angle 0: "/2 ie helf of the die-
+noter o! e circle at the euriece of the tool which peeeee through the point
+ll [2. e of the eurtece of the pert with the center loceted on the 001 exit;
+2 h/Z) in e coefficient which ehowe whet pert of the indicated circle be-
+longe to the working eurtece o! the tool.
+
+It wee deemed in deriving fornule (2) thet the weer within the bounde of
+one ennuler tone of the opticel pert ie the eene, i.o.. it doee not depend
+on the engle e. The ferrule for the velocity lion/2. Ila/2. e. V), which
+entere into tor-ule (2). hee the following tore:
+
+(3)
+where U- V'U.I + 3+ U2. '
+U.--0y-(z-2e)-,+(.v-N ~.- v.,..
+Uy-m-(x-x‘)”l+(z-xﬂ)'l-V". (O)
+
+U,-(y-y“)0.+(x-&.)'y-Vm.
+
+The quentitiee :01, ml end :01 incorporeted in fort-ole (6). for exeeple,
+
+for e trajectory of the tint kind cen be computed from the following
+fomulee (Figure l):
+
+“-8, y“: t V(Tln).—-B'.
+where the+or- eigne ere teken depending on whether the center of the tool
+in loceted in the poeitive or negetiwe helf-plene on with reepect to Y:
+
+’S-R“(3:, 4')”. V8,: =0.
+
+(1 -C) I (5)
+V.,,-Anlgn(y,,.—C)toe ‘éT—T .
+
+Vuu- Vaudm).
+
+(C can eeeme both poeitive end negetive veluee).
+
+'l'he weer of the eurfece of the pert et the point “1/2 in the lechining
+
+proceee coneidered here for the firet kind of trejectory cen be towputed
+front the fourth:
+
+rm
+4: twill-Jr glean, V)“
+O
+
+“UP-4" -V)l‘=(~’4’)+
+rm
+
++ i [*(~’-1-'o-’:”~V)*-
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL I188 ONLY
+
+“(4'5"- V)]"(4‘)+
+
++1, 4.3: —v)]d:(4jz). (6)
+
+where the I. I! end 1!! being conpered correspond to the I, I! end 11!
+sections of the trejectory (Figure l); «(Hz/2) is the ties the center of
+
+the tool 01 is loceted et the point Ila/2. ‘l'he ersuesnts ere sinilsr for
+the second kind of trejectoriee.
+
+The tine «Irma/2) cen be expressed in terns of the perenetere'indiceted
+ebove by neene o! the tomlex
+
+”1 aly
+d‘ (3 )O-V'ei .
+In which the nuleretor end denoeinetor correspond to the position of the
+center of the tool cherecterieed by the coordinetee (5).
+
+Thus. with the essuaptions Iede here in the eyebols edopted. the set of -
+vslues of the pereneters n. r, u. A. l. c end D correspond to en
+efficient eechining node when they setieiy the equelity:
+
+TI» 4:1 -”'t'%‘)ld(%)~
+
+not (as ’I ”o A. B. C. D)=Bll'l|ﬂ.
+(7)
+
+where h3(ll1/2) is the requisite uteriel remove]. iron the surfece of the
+optics]. pert.
+
+He shell seerch for this Iinieul in the following feshion. teking into
+account the iect thet in the reuse of verietion in the pereneters n. r,
+
+m, A. B. c end D, generelly epeekins, there cen exist e number of locsl
+mini-s of expression (7). The renge o! verietion of eech of the pereseters
+is broken down into eubrenges. which ere equel for the seke of definitenees.
+Tekins the centers of the eubreesee es the velues of the perenetere. we
+
+coepile ell possible sets of these veluee. excluding only those which do
+not setiety the nechinin; process. for which:
+
+WW>%~-p..
+
+where ”l is the einieun penissible species between the center of the tool
+end the edge of the pert.
+
+Further, teking the sets indiceted here sequentielly es the initiel sp-
+proxinntione, the einiee of the function gun, on, r, A, B. c. D) ere
+
+33
+ron onxcm. use our
+FOR OFFICIAL 083 ONLY
+
+nought by the gradient method of [3]. The eet correaponding to the leaet
+of than
+
+one... 9.0., r-r“
+
+A-A,. 8-3,. c-c,. 0-0,
+
+in taken aa the deaired eolution. The volune of calculation work in earth-
+ing for the linin- of function (7) can he curtailed if the following func-
+
+tion is lonula (6): .,
+”('3'1. '3’"- V(Vn V3" V1,)
+
+in repreaented in a Taylor'a eeriea in the vicinity of the point (111/2,
+
+(€1.43. V(O. v,. 0))
+
+depending on whether leI ; IVyI or not:
+
+Ia(-’,’L, 41:. mm. v,. v»)-
+=a(.';L,-’;t. V(V,. 0. 09+
++‘|(V;) V,+C.(V,) "at
+441.4%. mg. v,. V.))--
+“(41.41. no. v,. o»)+
++0.06) V.+Ca(V,)V..
+
+(8)
+where 010,). b1(vx), a101,), and C20,) are certain conatant coefficienta.
+
+To calculate the valuee of the function h(ll I2, 82/2, VW‘.V"V:)). it it
+nacneeary to coapute the valuaa Mill/2, 32A, V(Vm0,0)) and hall/2,
+“2/9, V(O,V,.o)) beforehand for fixed veluee of V,‘ and V, fro- the region
+o! their variation. ea well ae the coordinatea a101,). bﬁvx). 01013;) and
+cam). and to lie: than in a table.
+
+The valuee of the functiona (8) ahould he couputed by uaing the property
+
+of their aonotonicity in the following unner. we ahall detenine the
+
+fire: ten on the right aidee of equatione (8) from the data of the indi-
+cated table, eaeuing that the veluee:
+
+h $.41. wv. 0.0)).
+a -’,’t.-’,"-. we. v,.0))
+
+3h
+’0! OFFICIAL 083 ONLY
+FOR OFFICIAL USE ONLY
+
+in the intervals between two adjacent tabuler values change in accordance
+
+with a linear law. The reaaining terns are found by means of the table
+coefficients.
+
+'rabla: Grinding Nodes for a Mirror with e Diaaetar of 1.260 I.
+
+A. --
+
+£ 93 8 g
+M N O 32
+980 OIO O |
+220 N O 20
+
+W m 0 l0
+"0 m 0 O
+no N 0 I.
+I lo a: O 8
+l” N 0 0
+110 an 0 l0
+"0 mo 0 O
+I IO m 0 I
+"0 M O l
+I 10 2.0 O 0
+"O 223 O 7
+I” m 0 7
+
+ 
+
+The proposed procedure for the calculetions of the aechining nodes for
+large optical cosponents was run on a Minsk-32" electronic digital cow-
+puter. A spherical uirror with a disseter of 1.260 an and a radius of
+the sphere equal to 50.000 - was ground. end a large parabolic reflector
+was polished. The first of the reflectors indicated was sachined with
+
+a tool having a diueter of 850 n. In both aschining instances, the
+center of the tool moved along a trajectory of the first kind. The range
+of variation in the values of the parsuetere 9. A, I and c in the first
+machining case were as follows:
+
+0.15 g n g 5 r.p.s.; 0 g r g 9 vath/uin [unknown units per minute];
+03a. 3. cacao-n.
+
+The precision which was achieved is characterized by a uni-u- deviation
+of the actual shape of the surface iron that required shouting : 0.6 um.
+After this, the grinding was terminated. Shown in Figures 2 and 3 are
+curves Kl—Kld (K1 is the original curve) which characterize the deviations
+of the actual shape of the surface frou that required over 17 sechining
+sessions. and the aachining nodes are given in the table. The radius of
+the requisite surface shape following each aschining session was i-pre-
+cieely detersined. since the require-cuts placed on the precision of its
+determination were not high. Calculations showed that the curves hull/2)
+are saooth. with no uore than two taxi-a. and by selecting the wachining
+lode using the procedure proposed here. and executing a number of grind-
+ing sessions, one can assure a reliable approxi-ation of the actual shape
+of the surface to that required.
+
+35
+ron orncm. use om:
+Figure 2. Curves characterizing the deviation of the actual shape of the
+mirror surface free that required.
+
+Along with this. a redistribution of the contact pressure occurs during
+the grinding process in the region of contact between the surface of the
+part and the tool. due to the excursion of the tool beyond the edge of the
+part. Thus. in the fourth end eighth sessions (the i-th session effects
+the transition from one surface shape to another, vhich is characterized
+by the i-th and the (i + l)-th curves), which were also designated for
+
+the purpose of determining the pereissible excursion of the tool beyond the
+edge of the part end the departure in which was equal to lore than 212 an,
+it was recorded that the design value of the wear differed free the actual
+wear (the actual was greater than the design value) at the points ill/2 -
+
+I 450 II and 625 Is by 1.35 and more than 2.7 tines respectively. In
+the eleventh session, during an excursion of the tool of 82 II, differences
+at the points cited above were recorded in the aeount of 1.25 times and
+1.9 tines greater, while in the majority of the retaining sessions, when
+r/a .<_ 10 and the excursion amounted to about 50 an. the differences were
+1.2 and 1.5 tines greater respectively. The differences in the predicted
+surface shape. 'I'nich are characterized by the P. K and i curves can
+
+be seen in figures 2 and 3.
+
+Since the laws governing the surface wear of the part when the tool runs
+out beyond its edge are stable ones, two cases of accounting for this are
+of interest: replacing MRI/2) in foreula (7) by h(l11/2)k(ﬂ1/2), where
+hall/2) are coefficients which have to be determined experinentelly, as
+in the grinding variant considered here (such accounting, as shown in
+Figure 3. per-its successfully dealing with a difficulty traditional for
+optical workers - the elimination of the "hunp" in front of the edge of
+
+36
+FOR OFFICIAL USE ONLY
+’0R OFFICIAL 083 ONLX
+
+the pert): the deteninetion of the design value for the wear hon/2,
+“2/2. V) and h(ll1/2. "2/2. -V) taking into account the nonunifonity in
+the distribution of the contact pressures. based on methods for solving
+contact problem in the shaping of optical surfaces. During the polishing
+of the pert in different machining sessions. the instability in the ro-
+tational speed of the tool was registered in n vide range (the sire of
+
+the velocity varied by three tines, while the direction changed to the
+opposite direction). with large swings in the oscillations of the tool
+
+(2A). such instability leads to errors in the predicting of the surface
+IhIpee
+
+To increase the precision in forecasting the shape of the surface during
+
+polishing. it is expedient to stabilise the ansulsr rotational of the
+tool.
+
+BIBLIOGRAPHY
+
+l. Tecsnek L.s.. (HP [m OPTICAL maxim. INDUSTRY]. 1970. no 8. p 60.
+2. Bosdsnov A.P.. 'rsesnek L.S., M. 1976, No 3. p 52.
+
+3. Korn 6.. Korn 1.. ”Spravochnilt po utsustilte dlye neuchnykh rebotnikov“
+
+["Kotheaetics handbook for Scientific Workers"). Hoscov, Neuka Publishers,
+1973.
+
+COPYRIGBT: Optiko-Hekhenicheskeya Proayshlennoat', 1978
+
+8225
+CSO: 81hh/976
+
+37
+ran onlcm. us: omr
+FOR OFFICIAL 08! ONLY
+
+PHYSICS
+
+00¢ 669.018.28: “9.018.672
+CAST coupomms OP SUPERINVAR FOR OPTICAL tumours-rs.
+
+Leningrad OPTIKO-HZKIMNIORBSKAYA "MSWST' in Rualian No II. 1973
+pp 69-51
+
+[Article by SW. Rabinovich, Candidate of the Sciencee ILA. Sidorenlw.
+NJ). Kharchult, and candidate of the Sciencee Ada. Ioffa. nanuecript re-
+colved 3 April, 1978]
+
+{Text} The uae of structural lateriala which have a Iinilul tenperature
+coelficient of linear expanaion (ms) ie eaaential in aeauring operational
+preciaion in a clinatic range or talparaturea of dewicee for varioua pur-
+poeea. The correct choice of letal ntariala with a epecified 110.: ie of
+
+particular inportance for the fabrication of nountinse for optical coupo-
+nontl.
+
+Hhen ueing nateriala with a rm cloee to that of slaea. the ninilun level
+of etreeeee ia Iaintained in the slum-to which the abacence of Motor--
+
+- tiona in an optical ayotcn ia related. ‘l'o fabricate natal conponenta which
+operate in conjunction with quartz slate. the uae of euperinvar (alloy
+32m. 6081‘ [State Ste ardl 10996-66) ie the noet pro-ieins. lte m
+doea not exceed 1 0 l deg-1, which it very clone to the m of quartz
+glue (0.2-4.5 1 . 10-6 deg-1, cost 15130-69). but the 32 m Alloy ie
+aupplied only in the for- o! roll atock, eonethins which becauu of the
+poor nechinability linita the poeeibility of ueing thia alloy. eapecially
+for parts with a couple: ahape. In thia regard. the production of caat
+parte from 32 m alloy ie an extrelely urgent problea for the nechenical
+optics induatry. eince it ellowa for expanding the producte list and eharply
+reducing the labor inteneity of co-ponent fabrication.
+
+The neceoaity aroaa in the naatery of ehaped caating fro- the 32 an alloy
+to carry out a nulber of atudiee. eince ita apecial featuree were aacertained.
+such an the pretence of a cellular aubetructure and a coneiderable tendency
+
+ 
+
+* Eda. Kaufun and In“. Lunina participated in the work.
+
+38
+FOR ORIGIN. US! ONLY
+FOR OFFICIAL 083 ONLY
+
+to fore hot crecks. ‘l‘he liquetion of the eejor coeponente of the elloy
+with respect to the cross-section of the cello wee studied with the
+"Rush-$46” x-rey epoctrue enelyeer. It wee detenined thet nickel end
+copper liquete et the bounderiee. while cobelt does so towerds the center
+of the cello et e mime scetter in the concontretions of 4. 0.5 end
+0.52 reepectively (tor essples with e dieeeter of 10 u). leceuse of ii-
+quetion oi the ole-onto over the croee-section. e celluler substructure ie
+undesirehle. end ior this reeeon. conditions were found under which it ie
+not formed. Seeples of 32 m elloy were welted by the nethod of zonsl
+Belting with herdenine retee of iron 0.55 to 8 n/ein. The triele were
+cerried out ueine en “Kristell nu" inetelletion in e vscuu (5 . 10’5 ton»).
+It wee round thet the celluler substructure for sseplss of with e dieeeter
+of 5-7 1- does not eriee st herdenine retee which do not exceed 1 -lllll.
+
+IABEB l
+The Chemical Composition of the Costing Alloy 32 m
+
+ 
+
+ﬁle-eat Content Blelent Conteni
+“m“ by Height. x “m“ by Height, x
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nickel ”-32.5 Rere eerth fro- the 0.06—0.20
+group: ceriue. lenthe-
+nue. preseodyeiue,
+neodyliua. totel
+
+cob.lt 3oz..‘e2 sulfur : 0002
+Copper 0.6-0.8 Phoophorous ; 0.02
+Si]. icon 0 .02—0. 15 Iron lie-e inder
+
+ 
+
+It is well known thet to elieinete e celluler euhetructure. it ie neceseery.
+along with e eini-ue herdenins rete, to heve e minu- teepereture gredient
+[1]. but for the cut elloy m. such conditions ere herdly feeeible in
+prectice when ueing the nethode of sheped outing need in industry. In this
+regerd, further reeeerch wee cerriod out to deter-inc the chuicel coopoei-
+tion of the ceet elloy which essures the working cherecterietice where the
+celluler euhetructure is present.
+
+The cheaicel coepoeition of the elloy wee detenined for the febricetion of
+ehepe costings coins invent-out petterne (Teble 1) [2], which provide for
+e me of no Iore then 1 . 10-6 deg-1 in e tenpereture tense of 1 100’ c
+
+39
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL I188 ONLY
+
+TAB 2
+
+The Statistical Processing of the Results of “assuring the reaperature
+Coeiiicianta of Linear Expansion of Cast Superinvar as a Function of the
+Nickel Content
+
+ 
+
+Co.“ a.
+I”! m
+
+ 
+
+. a ran-
+nm-mo-o ‘12:?! m sutepo W
+“.0“. MN “0
+s 20-: °c l“
+
+3| .13 LO! 0 30.3 0.11
+31.18 0.7:! II 7
+no no: m :33? 31
+
+ 
+
+32.0 0.03 '0 $0.57 0.97
+m 0.30 M $ 0.“? 0”
+39.9 0.05 2| 3°55 0.“
+m 0.07 35 20.53 0.90
+m ".50 II 3'03) 0.73
+3” 0.75 N was 0.6.
+0‘." 0.0!, In 30.3 0.“
+35.0 I.” 0 20.3 m
+
+E
+
+Key: l. Nickel content by weight. 2;
+2. Teaperature coefficient of linear expansion.
+deg‘1 - 10'6 in e range of 20—100' c;
+3. Number of leasurenents:
+6. Confidence interval. deg"1 . 10-6;
+5. Confidence level.
+
+Notes: 1. For alloys with a 11m of lean than 1 . 10-6 deg'l, the confi-
+dence interval was chosen so as to detenine the confidence level fro oh-
+taining a m of no son than 1 - l0“6 deg‘l.
+
+2. Seaplea having deviations in the nickel content of 1 0.151 were
+coabined in one group as regards nickel content;
+
+3. The content of the reaaining couponenta (by weight. 1): Co 3.37-
+6.03 Cu 0.68—0.93: c 0.01—0.028: Si 0.037—0.l$; s g 0.02; P g 0.02.
+
+In. The statistical proceesing was perforled in accordance with the
+procedur. described in the literature [3].
+
+ 
+
+as well as optimal production technology properties. It was detenined
+
+that the oinim rm of the alloy is achieved when the nickel content is
+increased by 0.52 (Table 2) as coapared to the rolled product (0081' 10995-66).
+The introduction of rare earth Ietale perlitted an increase in the cracking
+resistance of the alloy. An investigation of the influence of ceriue.
+lanthanum yttriua and the H1173 and lﬂ‘s60 nixed Ietala showed that the last-
+inue crack resistance was assured when rare earth netala were introduced in
+
+b0
+'08 OFFICIAL USE ONLY
+FOR OFFICIAL US! ONLY
+
+the tern of nixed natal «mo in the aaount of 0.25! of the weight of the
+charge. The nechanical propartiaa of the alloy were atudied uaing aaaplaa
+
+fabricated by inveataant pattern caeting. and their average valuaa are
+given in Tabla 3.
+
+TABLE 3
+
+1‘ r Cut in Allo
+
+      
+ 
+
+ 
+   
+
+   
+  
+    
+
+ 
+
+ 
+
+11 . .
+‘I‘mepary- w' “" "pom 9n e
+Wane mm
+no ntnma- m «an. mum eastern.
+m.°c ‘37:: ' "’dw ’“"'""" menu. S lure-Ila. -
+
+   
+
+~10. m «.0 20 an
+'g 4&3: % 3’: 602% I:
+no no 20.0 m m no.0
+
+ 
+
+Kay: 1. ‘i'eat teaperetura, 'c;
+2. ‘raneila atrength. "-1;
+3. Yield point. Raf/u 3
+6. Percentage elongation. x:
+5. Relative reduction. 2;
+6. Iapact atrangth, kg! - talc-2;
+
+"area: 1. Seaplaa in accordance with 0051' 1697-61. 1150-65 and 9656-60. The
+tenaile teata were periorned on an lit-63 oachine at a rate of 1.25 n/ain.
+Five aaaplea were teated at each teaparature. To deter-inc the impact
+strength. eeven anplea each are teatad on an 21-30 pendult- he-er in
+accordenca uith 0081' 9455-60 and 9656-60;
+
+2. The chalical coapoaition of the alloy fro- uhich the aaaplea were
+tabriceted (by weight. 1): Ni - 32.9; 8o - 3.73 Si - 0.12; Cu - 0.73: lin -
+0.32: Ce - 0.061; La - 0.031; 3 - 0.02; P - 0.02; c - 0.027: P - the rain-
+dar.
+
+ 
+
+ 
+
+The induetrial proceae (or Ielting 32mm alloy for ahaped outing Innufacture
+doea not differ aa a whole (to. the production technology adopted for pre-
+ciaion nickel-iron alloya, and there are only a few apecial featurea. The
+oclting in the open high frequency induction furnace ahould be forced. For
+couple: caatinga. it in deairable to perforn the Ielting and pouring in a
+vocuua. The li'l'ahO nixed aetal ia introduced into a ladel under a jet fol-
+lowing the prelilinary denudation of the alloy. for which ferrouanganeae,
+ferroailicon and alulinun vara uaed in our caae. The teoparatura for fil-
+ling the petterna uea 1.510-1.sso°. Uaing the developed technology.
+
+'01
+FOR ORIGIN. US! ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Cuttings of the JZNKD alloy.
+
+Shuped culling: for five denigntttona unto fubrtcnted, tun of vhtch are
+shown in the figure; the III. of the castings vac 0.25-1.7 kg, and the
+thtckncnn of the walls um. 6-15 In.
+
+BIBLIOGRAPHY
+
+1. Chalnorl 3., "Teortya :ntvordevcniya" ("The Theory of Freez1n3"]. Moscow.
+Hetlllurgtyn Publishers. 1968. p 153-162.
+
+2. Ioffc A.Yl., at n1., Patch: No. 501111. IYUL. IZOIR. [BULLETING 0P
+INVENTIONS], 1976, No 6.
+
+J. Zaydel' A.N.. "Olhtbkl ignoranty {latchelkikh vollchin" ["Brrors 1n the
+Heanutenont of Physical Quantities”). Leningrad, Rank: Publishers, 1975.
+
+COPYRIGHE: Optiko-Hckhnntchcnklyl Pronylhlennult’. 1978
+
+8225
+cso: emu/976
+
+he
+FOR OPPICIAL USE ONLY
+FOR OFFICIAL US! ONLY
+
+PHYBICS
+
+"DC 351.521.3:593.52
+
+‘l‘llS STATISTICAL CWCTKRISTICS OI OPTICAL MIA?!“ ATTWM'ION IR 11!!
+GROUND LAYER 0? I‘ll! mom (SWIM, ADM)
+
+Leningred OﬂlWlmMﬂ PRMSWST' in Ruesien No ll. 1978
+pp 58-62
+
+[Article by V.L. Pilippov. v.9. lvenov end A.8. Hekerov, senuecript received
+16 Novesber. 1977]
+
+[Text] The sein etetieticel cherecteristice of dete ob-
+teined in the study of eeroeol ettenuetion of visible
+
+end infrered redietion in hetee, foggy hues end heree
+with driule ere enelyted.
+
+Deepite the incressed value of intonetion in recent yeere concerning the
+veriebility of the spectrel opticel density of eeroeole under werious weether
+conditions. the feeeibility end conﬁdence level of the forecesting of the
+IR trenesittencc of e turbid etloephere fro- the dete of seesureeents in the
+visible renge of the spectrum renein. ee before. disputed issues. The pro-
+blee tekes on perticuler urgency when discussing the penieeibility of ex-
+trepoleting the dete of locel seeeuresents to regions with eieiler geogreph-
+icel end clisetic conditions. Teking this into eccount, the euthore con-
+
+sider it expedient to continue the diecussion of the uteriele obteined. be-
+ginning in 1970.
+
+Considering the conclusions of e nuaber of euthors of the coneidereble
+weakening of the correletion between verietions ofthe coefficients a; in the
+visible renge of the spectru- end when X z. 2 us, the renge of wevelengths
+which is discussed in this peper. without de-eging the quelitetive infom-
+tion conteined in the leteriel es e whole. wee limited to l I 0.55-6.0 III,
+end the eerosol ettenuetion fectore were determined in the treneeittence
+”windows" close to wevelengthe of 0.55. 0.83, 1.06, 1.18. 1.66. 2.09 end
+3.97 we. The weether conditions considered here ere eeeocieted with the
+spring end eutuen periods. A coepsretively lerge diversity of opticel con-
+ditione is cherecterietic o! the ground leyer of sir. where theee conditions
+cennot be successfully described by e single sodel. even in the cese where
+the sodeling encospesees only individuel cherecterietics of the nedius, es
+for exuple. the epectrel dependence end veriebility of the redietion et-
+tenuetion fectors in e breed renge of the epectrus.
+
+'03
+m omcm. use ONLY
+FOR OPPICIAL USE ONLY
+
+The analysis of the results of the experinental studies of the variations of
+the aerosol attenuation factors shows that for the spring and autusn periods.
+the nejority of recorded spectral relationships e - 0(A) can he associated
+with four qualitatively different classes. types of "optical weather” [2):
+haze. foggy haze, fog and haze with drizzle. we shall consider in particular
+the analysis of the results of the statistical processing of the spectral
+functions of the aerosol attenuation factors for hares. hates with drizzle and
+foggy hates. Based on the conditions of the experisent. the factors urea
+
+in r
+ax . e- Lx .
+
+where r is the spectral trensaittence in the range of l; L is the length of
+the opt cal path. specified by a finite nusher of spectral points. This scene
+that the result of a single seasurssent of the attenuation factors. which takes
+the fore of a tendon function [3]. can be treated as the realisation of an
+n-disensionsl vector. where n is the number of values of l chosen over the
+spectrum. The Iain statistical characteristics of this Vector will he the
+
+average values: . ' u
+.‘o-wz .h‘
+
+(N is the nusher of realizations in the sasple statistical enseshle). the
+correlation astrix is:
+
+’W-J'v’rSiva-"att-E.)
+
+or the norlalised correlation satrix is:
+
+5132-1
+
+h}.- 5's“ (1. l. 2. . N;
+‘0 k-'. 2. u. , II),
+
+ 
+
+where the dispersion is
+
+o2 - s l .
+A1 at i
+
+The average spectral functions I}. which detaraine the conditions for horse
+(N - 700. 3 I. g g 20 In. 1.01 g f 5. 901). hsses with drizzle (N - 150).
+and foggy hares ( - 300, 1 It: 5 5H g 10 in, f > 902) in various weather
+situations, which can be characterized by specified limits on the meteorological
+visibility range $3 and the relative husidity f, are shown in the figure. The
+results of calculating the nor-slised correlation Iatrices for the statistical
+ensembles indicated above are illustrated in Table 1 (A is for hazes. B for
+fogs. and c for hazes with drizzle). Table 2 contains the corresponding esti-
+estss oi the confidence intervals. cosputed for espirical correlation coef-
+ficients of 90.55; Mk)’
+
+hh
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL "8! ONLY
+
+The deta of Tables 1 end 2 indicate that
+for the eerosol stetes or the steosphere
+studied here, e characteristic feature is
+‘ the close interrelationship between the
+“b"; vsristions do; in various sections of the;
+1 apectrun. including where l - 0.35 - 2 no
+end l > 2 un. The infatuation obtained
+with this contradicts the conclusions'of
+the suthors of pepers [1. 6. 5]. in accord-
+ence with which the observed substantial
+weakening of the correlation between veris-
+'a! tions in the "eerosol trsnnittance" of
+g the steosphere in the visible end IR regions
+m of the spectrun is related to the difference
+between the sources end nechenisls for the
+trenstonetions of finely dispersed psrti-
+cle trections which are responsible for the
+ettenuetion of rediation in the visible
+A: y 1 3 4m renge end the lsrge dispersed aerosols
+which deternine the ettenuetion of IR red-
+istion (in our cese. the sonewhat lower
+values of the correlation coefficients p; A
+:ﬁ:u::;°.:he.::::::::°:u::::o:: in the Table (A) are undoubtedly prinsril§ k
+
+due to the neesurelent errors of the optical
+"l “M" the following conditions: density of the hates. the sverege value of
+
+.,.
+§§
+
+e. "see;
+
+b. F088! M“: which for l > 1 in was 3 0.1).
+
+c. lieu with driule; Thus, the esseurensnt results penit once
+The stall circles are the cel- sgein noting the fact that the proqu of
+culstion results. reproducing the spectrel curve of the
+
+aerosol ettenuetion factore ox on the
+basis of neasurenente of "0'55 or 5H has s good besis.
+
+The results of a quentitative conperison of the cheracteristics obtained touch
+on a second inportant sspect, where these chsracteristics correspond to the
+conditions of the Zvenigorodsh scientific ststion o! the Institute of Atone-
+pheric Physics of the USSR Acede-y o! Sciences [1. 2]. This circustence
+gives direct evidence of the (set thst the processes of the conversion of
+aerosol fornetions in the regions of the treasure-onto are likewise the seas.
+Also to be tsken into account is the fact thet the justification for the
+conclusions reeched follows fro. the results of the eynchronous neeeurennts
+of vsrietions in the dispersion couposition of the aerosols for the case of
+particle sizes tron 0.1 to 10 u- (61. The letter hsve shown thet in (h.
+process oi toning s foggy hue. the lerge dispersed frection of the aerosols
+is pri-srily (or-ed es s result or the condensetion-coagulstion growth of
+
+the sesllest psrticles (r g 0.1 .. 0.8 on).
+
+with tho "breeking up” of a foggy hate, the lsrge aerosols upon evaporating
+agsin change over to the region of null particles, i.e.. the ettenuetion of
+rodistion in both the vieible and IR regions of the spectru- is spperently
+due to psrticles of an identicel neture.
+
+'6
+run omcm. usr ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+nuts 1
+mass
+
+w w m m m w I’”"" "
+m LO 0.9M om as o 4 mu m o u
+o.» I.0 0.952 «oim 0331 m om 0393 3‘35
+Loo In on em on om «no mo
+
+A m to am mo 0.»: mos om
+{‘33 1.0 $3” 0300' ”a; 31:?
+W In ohm w
+0.» Lo m m 0 ms I
+w 1.0 3233 33.1 323 on «'33 mm: 1.7%
+
+5 I.“ 1.0 0.“ 0,990 0.”) 0.57 0.” 1”
+m m on: w on: om mo
+52:: m an m cm mu
+m ‘ m m ml
+0.85 l.0 ms 0 n m on m om m m
+m 1.0 0:331 om on 3.913 on m 3'.»
+
+a Leo I.» om om on em on: mu
+m 1.0 on can on on m
+'23: 0.: nn'u'" 033': 323 3?:
+am l.o m was
+
+ 
+
+\
+
+For the purpose of obtaining sore conplete infatuation on the ststisticsl
+chsrscteristics of serosol sttenustion. the eigen-wslues sk end the eigen-
+vectors Sk(h) were cosputsd for esch of the correlstion Istrices BIAoi!An1kl.
+The eigen-vslues sk end the first two eigen-vectors 81(1) end 52(1)
+
+sre given in stles 3 end 6 respectively. It csn be shown [7. 8] thst even
+the first two eigen-vectors are sufficient to reproduce the spectrsl curve
+ox with so error o: no sore then 31.
+
+ 
+
+TABLE 2
+M
+(1) 1“ I. Ins
+mm" ' on “min-[El 3”
+2 a»... :0." um um gm: gem sou:
+tyisms susu e. 0.00! t 00)! 1 0.00 W 0.” 0.0!?
+{3; nm. c «we.» tom 30"” *om ﬁns icon iom
+
+Key: 1. type of situstion;
+2. ﬂexes
+3. toggy here:
+6. “see with drizzle.
+
+R6
+FOR OFFICIAL USE ONLY
+FOR OHICIM. US! ONLY
+
+my: 3
+l 2
+
+K lulu __Tylueeee men llum e to
+
+‘l h ‘0 I I. ‘h 74
+I mo 01 0.2) 90 2.01 09
+2 07 o 8
+2 $333? a '5’ F” 3.2? :ﬁ"
+6 ml In W IN 0M” IN
+3. M23 ”20 w
+3. m QM WI
+
+ 
+
+Key: 1. Item
+2. foggy here;
+3. here with drirtle.
+
+Regerdleee of the poeeihilitiee repreeented hy the dete of Tehlee l -— 6.
+
+in prectice it ie frequently lore convenient in celcnleting the coefficients
+of eeroeol ettenuetion to «ploy the procedure propoeed in [12]. Per thie
+reeeon. in thie peper, juet en in [12]. the following reletionehip wee
+edopted for the epproxiletion of the neen etetieticel curvee heing die-
+cueeed. which deter-nine the epectrel curve of the coefficient u in the
+windowe of eteoepheric treneperency:
+
+“A - “0.55h0 + all-“2
+
+The weluee of the capiricel coefficiente no, n1 end n; which were ohteined
+by the method of leeet equeree. end which define the epectrel curve of a},
+erc ehown in Tehle S for no.” 0 l. The circlee in the figure for the
+indicated weether conditione correepond to the reeulte of celculetione
+ueing the expreeeion given here for the epectrel curve of the coefficient
+I), which etteete to the good egreenent of the dete (the epproxinetion error
+ie 3 51).
+
+ 
+
+mu ,. (1) (2) (3)
+
+lum- luue new-m M t m
+
+3.0) 3.0) 3.0) 3.0) an)
+
+0.4. ~02 0M6 -o.m 0.46 — I
+$3 as: w an 2952 as: -°'”
+:3 an? 325 a -°m w ‘W
+zoo on m m a: ‘33:: :33
+W 0.25! 0.0! 0.267 0.113 0.300 MI!
+
+Key: 1. lieu;
+2. foggy here:
+3. here with drizzle.
+
+h?
+roe omcm. use our
+POI! OFFICIAL 083 ONLY
+
+TABLE 5
+mmtm' | .. l -. | ., |"“""::::::r"°°~<2>
+3 nuns 0.1 0.“ l3 l-M
+' M -
+§3§ mm :: :3: a: 2:. ”
+
+ 
+
+ 
+
+Key: 1. Heather conditions (spring-eutunn);
+2. beta fro- the literature on n2 us - l9];
+3. llese;
+lo. Peggy here:
+5. here with drizzle.
+
+The corresponding welues of the lore precise coefficients no end n1. end the
+expor 4t n2 for the types of opticsl weether considered here ere close in
+ten“ of their size to those known from the litereture (see [9—131), end
+elso correspond to the reco-endstione of [12]. It is necessery to note
+only the difference of the qusntity n2 from ‘l'eble S, where this difference
+is of precticel eignificence end releted to the lore cereful breekdown of
+tho initisl dets in this paper for the purpose of eliminsting fros consid-
+eretion those spectre which were ectuslly ohteined under conditions of rein.
+
+In generelizing the enslysis seterisls presented here for the results of
+en orthogonel breekdown of the field of eerosol ettenuetion of redietion
+in the ground leyer of the etnosphere. we shell egein underscore the right-
+fulness of using the expression given ehove for the purpose of celculeting
+the coefficients ox for eech of the opticsl situstions under discussion.
+
+In conclusion, the euthors consider it their duty to express their grsti-
+tude to r.v. Spiridonovs for essieting in processing the seesureeent results
+on coeputer.
+
+BIDLIOGMPRY
+l. Georgiyevskiy Yu.8.. et sl., 12V AN 8588, FAQ [PROCEEDINGS 0? 11m USSR
+
+ACADDW OP SCIENCES. ATMOSPHERIC AND 00th PWSICS], 1973. Vol 9. No 6,
+P 655e
+
+2. umber: c.v.. 12v. AN sssn, no. 1961. Vol 3. no 9. p 936.
+
+3. Pugechew V.S.. "‘l'eoriye slucheynykh funktsiy" ["‘l'he Theory of Rondo-
+Functions"). Pimtgi: Publishers. 1962.
+
+6. Georgiyevskiy Yu.S.. IN. AN 8588. FAO, 1969, Vol 5. No l», p 376.
+
+B8
+POI! OFFICIAL USE ONLY
+5.
+6.
+
+7.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+POO. OWICIAI. USE ONLY
+
+Lakttonov A.c., at 11.. IN. All 8883. no. 1973. Vol 9. No 2, p 138.
+
+Filippov v.1... at 31., GI? [m OPTIWICAL INDUSTRY], 197‘. No 1.
+p 3b.
+
+Obukhov A.N.. 12". M 8883. 801'. "Goofizﬂu" [PROCEEDINGS 01’ m3 088]!
+ACADM OF SCIENCES, GBOWYSICS SERIES]. 1960. No 3. p 632.
+
+Holkovich ".8” "Opttchookiyo toolodovontyo amour)- oo oputntkov“
+
+["Opttcol Invoottsationo of tho Atnoophoro fro- 8ot3111too"], Moscow.
+Nouko Publtohon. 1973.
+
+Vol: P.. "Opttk do. Dun-too. Ilandbuch do: Oooph." ["‘l'ho Option of Rose.
+
+Goophyoico Handbook”). 3“.th by 3. Make and Moon". Vol III. Borntnogor
+Publishero. Berlin. 1956.
+
+Yunze Kl», "Khhtchukty oootov 1 udtookttvnoot' ntoootory" ["Tho chemical
+Composition of tho Atooophoro"). Mir anohoro. 196$.
+
+Zuyov VJ... “Ruprootanyo vtdtnykh 1 IK-voln v otnoofero” [”‘l'ho
+Propagation of Viotblo and Infrurod Haven in the Atmosphere”. Sovotokoye
+Radio Publtohon. 1970.
+
+Filippov v.1... Him-yout- S.O., 12V. WZOV, PIZIKA [PROCEEDINGS 01’ m
+“1688!! EDUCATIONAL INSTITUTES, PHYSICS], 1972. No 10, p 103.
+
+Toropovo ‘r.P., ot o1.. 1n the co11octton. "Polo nuoyonnogo uluchentya
+v :anoy atloototo” ["‘l'ho Field of Scattered inﬂation in the Barth's
+Atmophoroﬂ, Ann-Au. Pubnohln; Home of tho Kazakh $81!. 1971..
+
+COPYRIGHT: Optiko-Horhlntchukoya Pro-yohlonnoot'. 1978
+
+8225
+cso: emu/976
+
+#9
+you onxcm. use ONLY
+M OFFICIAL USE ONLY
+
+P318108
+
+UDC 621.386 .326. 23
+
+A REM? scmnoc VIM FOR QMLITY CONTROL IN m ASSDBLY OP m STA'I'ORS
+OF ELECTRICAL WINES
+
+Leningred OPTIKO-WANICKBSKAYA msnmmr' in Rueeien No 11, 1978
+pp "-75
+
+[Article by Phd. in the eciencee Hm. Hiroehnikov, 11.x. lvenve. P.P
+
+Rudehee, LA. Zhukov. K.S. Kerepetyen end ‘r.D. Katine. eenuecript received
+19 April. 1978]
+
+[Text] In recent yeere. coneidereble ettention hee been devoted in our
+country to the introduction of nondeetructive quelity control nethode for
+induetriel producte for teetins then during tebricetion end operetion.
+
+:4, 7 e 9
+I" ' '
+
+ 
+
+Figure 1. Functional diesren of the thee-eel ecenning viewer
+
+A epecielieed eodel of e thee-ml viewer wee deeisned to reeliee the thernel
+viewing nethod o! nondeetructive quelity control of the eeeenhly of the
+etetore of electricel nechinee. in perticuler. the etetore of high power
+
+turhogeneretore end eynchronoue conneneetore. for the purpoee of eecertein-
+ing ehort-circuited leninetione in the eolid leee of steel.
+
+A functionel echenetic of the but viewer ie ehovn in Pisure l. The rout-
+ing ecenner, which incorporetee the objective 1 end inclined reflector 2,
+
+50
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL U58 ONLY
+
+effects the element by element circular inspection of the internal surface
+of the stator being studied. Infrared radiation from a surface element is
+focused by the objective on the sensitive area of photoresistor 3. where
+
+a temperature difference exists between two adjacent surface elements. an
+electrical signal is generated at the terminals of the photoresistor. which
+is proportional to this difference. and which following amplification in
+voltage amplifiers 6 and 7 and current amplifier 8, is fed to the electrodes
+of the recording block 9. where a line by line black and white half-tone
+
+image of the object is reproduced on electrochemical paper in the form of
+n "heat map."
+
+ 
+
+Figure 2. A "heat map" of the interior surface of a turbogenerstor
+stator.
+
+Simultaneously with the amplification of the signal by gamma corrector 8,
+the volt-ampere characteristic of the recording block is equalized. some-
+
+thing which permits increasing the number of visible half-tones in the
+image being reproduced.
+
+with the simultaneous rotation of thescenner and the travel of the optical
+head at a fixed rate along the stator by means of the self-propelled chasis,
+
+fhe entire internal surface is sequentially examined along the threaded
+drive line without omissions and superimpositions.
+
+A "heat map" of the internal surface of a turbogenerator stator is shown
+in Figure 2.
+
+An uncooled photoresistor of lead selenide (SFé-l) with a sensitive area
+size of l x 1 mm is used as the radiation detector.
+
+51
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure 3. General view of the inetrunent.
+
+The objective haa three leneea (one lena in nade of lithium fluoride and
+two are made of calcium fluoride) with a relative aperture of 1.33. a
+
+focal diatance of 133.6 In and a magnification of 0.2. The diameter of
+
+the circle of confueion in a apectral range of 1.8—4.8 um ia no sore than
+0.5 In.
+
+The heat viewer haa the following technical and operational characteristics:
+
+Angular reaolution 20 angular minutea
+Threahold aenaitivity to a temperature
+
+drop at a level of +25' c 1'
+
+Focusing range 500-4500 III
+Range of working tenperaturea +10-O-70' C
+working apectral range 1.8—6.8 um
+Inspection travel rate along the
+
+length of a product 10 m/aec
+
+The aize of a horizontal record line 180 m
+
+The heat viewer ia etructurally deaigned in the for: of two blocka: an
+
+optical head mounted on a self-propelled chaaeia, and a recording block.
+Both blocks are connected together by an electrical cable.
+
+52
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+A general View 0! the device is shown in Figure 3. This inument can
+also find application in tho study of the hour. field of the ourfncu of
+various cylindrical products.
+
+BIBLIOGWKY
+
+1..Hiroshnikov “.11.. "Tcoruichukiye omovy optiko-cloktronnykh priborov"
+["rho Theoretical Principles of 0pcronic Devices”). Leningrad,
+mohinouroyaniyo Nut-hon. 1977, p 600.
+
+2. Bykov VAL, mmzcnasxm STARTSII [ELECTRICAL mm STATIONS], 1977,
+No 5, p 31.
+
+3. Hiroohnikov Km, 0: 11.. Patent No. 612825, 31:01.. 12033. [BULLETIN
+or Imam-Ions]. 1976, No 29.
+
+COPYRIGHT: Opciko-Hekhnnichuluya Proayohlonnou'. 1978
+
+8225
+cso: emu/976
+
+53
+
+4% ran ontcm. usefomx
+FOR OFFICIAL USE ONLY
+
+PUBLICATIONS
+
+006 539.1
+TRANSFER OF lLBCTRON-BXCITATION INBRGY IN CONDENSED MEDIA
+
+Moscow Panznos runner: BLBKTIDNNOGO VOZBUZHDENIYA v KONDBNSIROVANNYKﬂ SRBDAKN
+in Russisn 1978 signed to press 13 Apr 78 pp 3-20
+
+[Annotetion. table of contents. preface end introduction froe book by
+
+v. H. Agrenovich end M. D. Gelanin. Isdstel'stvo "Route." 6.000 copies.
+383 pages]
+
+[Text] This eonogrsph is the first book in world litsreture dedicated to
+the sequentisl presentation of the besic results of theoreticel investige-
+tions of the trensfer of energy from electron excitation in condensed eedie.
+The special feetures of energy trensfer in amorphous and crystelline media
+are considered in close rsletionship to their opticel properties end. in
+psrticulsr. in relstion to the effect of energy transfer on the lueinescence
+chsrscteristics. verious nechanises of energy transfer are discussed
+(resonance transfer of excitations. excitons. radietion trensfer). as well
+as speciel feetures of energy transfer at high excitation levels. The
+ieportsnt role played by the energy transfer of electron excitetion in the
+analysis of numerous opticel, photoelectric redietion end other properties
+of crystsls. solutions. biologicel substances. etc.. is widely known.
+
+This book is intended for scientific workers (physicists. cheeists. biolo-
+gists). es well as gredusts students and upper class-en in these specialties
+
+who. in their investigstions. encounter prohieee of energy trensfer of
+electron excitation.
+
+5" .
+YOK orncm. use our
+I’OR ORIGIN. USE ONLY
+
+‘l‘ehle of contents
+
+Prefeoe
+Introduction
+
+Ohepter i
+
+Ric-emery ect of energy trensfer
+
+Approxiution of e two-level syste-
+Dipole-dipole interaction
+
+Trenefers in e queei-continucue epectrun.
+Foreter's theory
+
+Effect of polerisehility of the nediul
+
+Dipcle-quedrupcle end exchen‘e interecticne
+
+mepter 2
+
+Energy trenefer in solutions
+
+1.
+2.
+
+Dipole-dipole trenefer in eclid eclutione
+Dipole-dipole energy trenefer in liquid eoluticne
+
+Ohepter 3
+
+Effect of sediun on the epeed of energy trensfer end epectre
+of soleouler cryctels
+
+1.
+2
+
+32
+u.
+
+5.
+6.
+7.
+
+Introduction. Nethod cf the ective field
+
+Psrnittivity of cubic crysteh
+
+Active field end permittivity of enisctrcpic cryetele
+Pereittivity of nixed cryetelline solutione end poleri-
+setion of ebcrpticn doped bende
+
+mercy of reeonence interection between ilpIn-ity
+noleculee
+
+m teking into ecccmt higher nultipclee in the active
+field nethod
+Concluding rend-kn
+
+Chepter to
+
+Problem in the theory of electronic ercitsticne in molecular
+crystels
+
+1.
+
+2.
+
+Introduction. ﬂesiltonien of the crystel in the concept
+
+of secondery quentieetion. Prcoeceee of urging end
+division of Icleculer emitstione
+
+Bucitcn-phcnon interecticn. Coherent end incoherent
+(“locelised”) mitcnc
+
+55
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+'reblo of Oontente (continued)
+
+3. hoohenicel end couloeb oxcitcne when teking into ecccunt
+eixing ecloculer configuretione. Oertein identitiee
+
+lb. Oecilletion exoitcne. Biplane“
+
+5. Collective proportiee or e eyetoe o! long-lite
+oecilleting oxcitcne
+
+6. Electronic biencitono of hnkol'
+
+7. Theory of reeonenoo interecticn betueen eoleculee ct
+iepm'itiee. leoheniee ot virtunl excitcne end virtuel
+phonone
+
+8. Dipole eceent trenei‘er. thet detereinee the inteneity of
+ebeorption of light by the ilpurity
+
+9. Abeorpticn epoctre end lueineocaleo of the iepurity
+center
+
+10. Probebility of energy treneter of electron excitetion
+iron the donor to the eccoptor end the role of
+correletione between the diepleceeente of the etcee
+eurrounding thee. not trenefer
+
+11. Poleritone. long we‘re-length edge of exciton ebeorption
+bends end the poleritcn Iocheniee ct exciton lueineeoence
+
+12. 8tcoheetic nodel of exciton-phonon interecticn in
+eoloculer cryetele
+
+Ghepter 5
+
+Theory of kinetic perenetere thet deternine the epeed of mergy
+
+trenefer by excitone
+
+1.
+2.
+
+3.
+u.
+
+5.
+
+6.
+7e
+
+8.
+9o
+
+Introduction
+
+Generel expreeeicn tor the diffusion coefficient of
+eeell redive exciton.
+
+nobility of incoherent ('locelieed") exciton-
+Length of free peth end diffusion coefficient of
+coherent excitone
+
+Scettoring of coherent excitone by inuritiee end
+defects in the oryetelline etmcturo
+
+kcitcn trnpping by inpurity eoloculoe
+
+Btcitcn ditto-ion in the etocheetic ecdel. Coherent
+end incoherent notion of the exciton
+
+Bieoleculer ennihileticn of excitcne
+
+Effect of inhoeogeneoue broedening end Anderecn
+lccelieetion cf exciteticne on the epoed or energy
+trenefer to iepm-ity ecleculee. lonreeonent tan-fer
+proceeoee
+
+56
+FOR OFFICIAL use ONLY
+
+116
+122
+
+128
+131
+
+1'59
+151
+
+162
+168
+18"
+
+189
+
+191
+195
+
+210
+216
+
+230
+FOR OFFICIAL USE ONLY
+
+Table of Contents (Continued)
+Chapter 6
+Phenomenological theory of exciton eigretion
+
+1. Boundaries of applicability of diffusion approxieation.
+Quasi-single diaeneional end quasi-two diaensional systeas
+
+2. Theory of trapping an exciton by the ispurity. use of
+anal]. concentrations
+
+3. Probability of trapping exoitone by the inpurity in
+the asth of Viper-hits cells
+
+10. Effect of fluctuations in the trap distribution on the
+speed of exciton trapping
+
+5. Special features of exciton condensation in seni-
+conductors ‘
+
+6. Effect of radiation transfer of energy on the
+exciton distribution in space and tine. hecroscopic
+characteristics of exciton luainescence
+
+7. Attenuation tine of luainescence of a seai-infinite
+crystal
+
+8. Spectrun and attenuation ties of lueinescence of finite
+thickness crystals. Annihilation of excitons and the
+role of reabaorption
+
+mapter 7
+
+hperiaental investigations of kinetic paraaetere that
+detersine the energy transfer of electron excitation in
+crystals
+
+1. Introduction. coooperative lunineecence
+2. Radiation energy transfer. Gasparison with the
+
+theory of reabsorpticn
+3. nperiaental investigations of the exciton diffusion
+
+in soleoular crystals
+
+a. Investigations of energy transfer of electron
+excitation in crystals by spectroscopic asthcds with
+tine resolution
+
+Chapter 8
+
+Metallic attenuation of excitons. Miton rearrange-ants and
+exciton reactions on the aetal boundary
+
+1. Introduction. mergy transfer of electron excitation
+on the surface
+
+2. Theory of snall radius surface excitons taking into
+account field penetration of the netal. General
+
+correlations
+
+57
+FOR OFFICIAL USE ONLY
+
+310
+312
+316
+
+323
+
+336
+
+339
+'0! OFFICIAL US! ONLY
+
+Teble of contents (Continued)
+
+3. Surface excitons in the urea of frequencies of intre-
+
+soieculsr transfers 3“
+u. Metallic attenuation of incoherent excitons. The
+role of the "deed” sons 351
+
+5. Attenueticn and adsorption of esell radius excitone
+on the boundary dividing the eclecular cryatel --
+
+estel or saniocnductor 355
+6. hetellic sttsnusticn of coherent exoitons effects
+
+of spstial dispersion end W [expeneion unknown] 390
+Bibliomphy 370
+Alphsbeticel Index 382
+Preface
+
+hergy transfer of electron excitetion in liquid end solid bodies is one of
+the host Mantel problems in condensed-state eodern physics. This.
+problss is univereel since the energy or electron excitstion is en inter-
+nsdiste process between the initial sot of electron excitstion end those
+finsl processes in which electron energy is utilised. In this connection.
+the study of sechsnises of electron energy. transfer end. in psrticulsr.
+the study of their efficiency is found to be necessary in investiptins
+
+the intersotions between verious kinis of rediations and s substance in all
+those cases where one is interested not only in the very fact of absorption
+
+of radiation energy. but slso in those phone-ens thet originste. in this
+osse. in the absorbing sediul. -
+
+Lusinescence. redistion physics snd redistion chesistry. photosynthesis.
+biochesistry end bioensrgetics -- this is e for iron colpreheusive list of
+nodern science erees where sass-5y trsnster of electron excitstion is of
+principsl isportence.
+
+In the lest 30 yesrs. slang with investigstione of liquid solutions. investi-
+gations of energy trends: of electron: exoitstion developed ecst intensive-
+ly in crystels. This wee due not only to the general progress of the
+developeent of sxperinentsl end theoretical physics of solids. but she to
+nuserous sppliosticns. In particular. energy transfer of electron“ excite-
+tion in cryetsls is used widely in dot sloping various kinds of lu’ainsscent
+solids, scintillstcrs end esterisls used in qusntue electronics (laser
+crystals end solutions). One resson for the stilulstion of wide investig-
+tions of energy ligation of electron excitation in organic crystsls is
+
+the presence of sensitised lueinsscence. so well es s possible role of energy
+sigration in biclogicsl systeas. These investiptions are used in en sttespt
+to ensue:- a cudinsl question for bioenargetics - "how does energy control
+
+Eiﬁsl sctivity? How does it put s live mohine in lotion?” (stint D'yerdi)
+
+58
+Pan OFFICIAL use out?
+FOR OFFICIAL USE ONLY
+
+The problea of electronic excitation energy transfer as e whole.bas be-
+
+ccse so broad and aultifaceted that it is very difficult to reflect it in
+all its aspects. Therefore. the authors of this book do not pretend to have
+exhausted all sides of this probles. To a certain extent. the selection
+
+of the saterial presented is subjective. In choosing the uterial. we strove
+to cover. besides the theoretical bases. those probleas which appear to be
+the scat developed at present and are scat frequently used for the inter-'
+pretation of an experiaent. 0n the other hand. we strove to indicate the
+liaits of the applicability of the theory as well as to point out problesa
+still unsolved. Regrettably. certain important areas of energy transfer in-
+vestigations have still not been touched upon or touched upon only in the
+fora of references to respective original papers. These areas include the
+effect of the aagnetic field on transfer with the participation of triplet
+levels of organic aoleoules. transfer in biological systeas and a great nua-
+bsr of other. acre special problens. '
+
+Excellent systea nodels scat frequently used for studying energy transfer
+are solecular liquids and solecular crystals. as well as crystals activated
+by rare-earth ions. The basic rules for energy transfer of electronic ex-
+citation ltnown at present were discovered precisely by investiating the
+optical and photoelectric properties of these substances.
+
+This monograph is dedicated to discussing the theoretical results obtained
+in such studies. hperisental data is used only in cases where it ssh-en it
+possible to show how well the theory sex-see with the experiaent.
+
+A fuller presentation of experimental investigations say be found in the
+sonogrsph "Non-Radiation Transfer of Electron Excitation Energy" by Ye. N.
+Boduncv. V. L. Yereolayev. Ye. s. Sveshnikova and T. A. Shakhverdov.
+
+The special features of energy transfer in amorphous and crystalline Isdia
+are considered in close relation to their optical qualities and. in particu-
+lar. in connection with the effect of energy transfer on the lusinsscence
+crnracteristic. Various aechanisn of energy transfer (resonant transfer of
+excitations. excitcns. radiation transfer) are discussed. as are special
+features of energy transfer at high excitation levels.
+
+Host of the problese touched upon in this book were practically untouched on
+in literature. Therefore. it is possible that there say be inaccuracies in
+the book. The authors will be grateful for any critical resorts which they
+hope to take into account in acne fore in the future.
+
+He would like to express our special gratitude to those nunerous Soviet and
+foreign colleagues who sent us copies of their papers. The authors are
+grateful to P. P. Peofilov for a nusbar of criticisms which were taken into
+account in the final version of the unuscript.
+
+59
+ron OFFICIAL us: 0va
+NR OFFICIAL US! ONLY
+
+Introduction
+
+mergy treneter tron excited etc-s. ions and noleculee to unercited ~- in a
+phenclencn occurring widely in neture. we encounter this phenclenon m-
+quently when the concentration of interacting particles and the life of the
+excited state are great enough. Il'he sinpleet and cost graphic nnifeetaticn
+of energy transfer is attenuation of the lunineecence occurring es a result
+of the interaction of excited and unencited noleoulee or. ccnveceely. the
+eensitisation ct luninescence. i.e.. the origination of nolecule lunines-
+cence previously unsuited.
+
+In condensed Iedia. phencnene related to energy transfer and deectivetion of
+excited nclecule were alreedy discovered in early investignticne of fluores-
+cence in solutions of organic paints. It is precisely in these investigations
+that depolariseticn ct luaineecence end ettenmtion ct ite concentration.
+occurring when the concentration of the solution increeees. as well an atten-
+uation of luninescence by extrenecus substances. were observed for the firet
+tile.
+
+Originally. attenpts were node to consider luninescence attsnmtion in liquid
+solutions enalcgoue to the interecticn between nolecules or stone in gases on
+the beeis o! a concept of "collisions of the second kind." This tern, in-
+troduced at first for designating procesees of collision: between excited
+atone and electrons. sccclpsnied by the clungecvsr c! excitation energy of
+atone into the kinetic energy of the electrons. cue to be used later for
+all processes leading to the deectivaticn cf the excited state [2].
+
+8. I. Vavilov firet attenpted to explain fluorescence attenueticn or liquid
+soluticne es s reg-alt or collisione of excited noleculee with noleculee cf
+the attenuator [ . this cpproach led to succese in the cone of ﬂuorescence
+ettenustion of solutions by extraneous colorless attenuators. especially
+sfter the special features of nclecule notion in liquide were taken into
+account. As is well known. the nunbar of collisions in ideal solutions is
+deternined by the gee-kinetic {mule end does not depend on viscmity. how.
+ever. the statistic of collision in liquids differs fro- the statistic of
+collisions in genes -- collisions in liquids are not distributed unifcrlly.
+but follow in certain series. Since the first ccllieicn (so-celled 'wm')
+already usually leade to attenueticn. the kinetics of attenuation in deter-
+nined by diffusion and, therefore, depende greet]: on the viscosity of the
+solution. 8. I. Vavilov was the first to turn his attention to this circul-
+etance. The diffusion theory or attenusting lusinescence by extraneous
+colorless ettenuatcre. which he developed with 3. Is. Sveshnikov [to]. bond
+on Sholukhcvekiy's theory of ccsgulnticn. agrees well with the experinsnt.
+
+However. an attenpt to apply mum concepts to concentrated attenuation
+and depolarisaticn. crigineting under the street of interaction between
+equsl ncleculee. wee found to be msuccesstul. The weak dependence of these
+
+phenccsns on the viecoeity of the ecluticn indiceted thet under these condi-
+tions the short period of action taken into account in [3, b] is not enough
+and. eecenticlly. another appcnech is needed.
+
+60
+FOR OPPICIAL USE ONLY
+NR OVPICIAI. USE ONLY
+
+J. Psrrin H; was the first to suggest and later I. Porrin [6;] suggested in
+greater ds 1 thet concentration phencaene in luainesoent so uticns any be
+explained by “nolecular induction." i.e.. reacts acting interaction between
+the excited aolecule end the unexcited one. sinilar to the interaction be—
+tween classical electronic dipole oscillators. within the framework of this
+ettreotive end basically correct ides there were not. however. taken into
+cagsideration the effects of relaxation that led to quantitatiVely wrong re-
+s ts.
+
+In connection with the lac): of a satisfactory aicrctheory of energy transfer.
+8. I. Vavilov. in hie following papers [7] on concentretion phenom. pro-
+ceeded along the my of building the phenoasnological theory. he introduced
+the probability of transfer es en eapirical value proportional to concentre-
+tion. His idce wee thet concentration phenoaena -- attenuation and depolari-
+zation -- are due to one end the ease process of energy transfer. It was
+accused thereby that attenuation occurs beceuae pert of the trensfer acts is
+eccoapenied by deeotivetion of both interacting nolecules (”transfers with
+attenuation”). Such a process appeared probable at one tine in connection
+with the drop in luainescence output at anti-Stokes excitation [8] pre'snt
+in fluorescent solutions.
+
+Subsequently. however. the viewpoint on concentration depolarization and
+concentration attenuation as a single process was not confined. As shown by
+V. L. Lovshin [9].in a case of concentration ettenuetion. it is due to energy
+transfer fron excited aoleculee to nonluainescent ( or luninescent in another
+eras of the spectrun) diners. Nevertheless. s. I. Vevilov'e ideas on the
+role of "inductive resonance" in energy trensfer were fruitful end greatly
+stiaulsted experimental and theoretical investigations in which any iapor-
+tent rules for energy transfer were later estebliehsd. It has thus been
+shown that attenuation of luminescence b absorbing substances is related to
+the value of the overlapping of spectra E10]. The pepcr by P. P. Feofilov
+end 3. Ya. 8veshnikov [ii] established t a relationship between attenuation'
+and the period of the excitation stats etc.
+
+The first satisfactory theory of energy transfer in a condensed asdiua for
+aolecules with brand spectre was developed by Forster [12]. This theory is
+based on the perturbation theory in the adiabatic approxintion. It proposed
+that energy transfer occurs due to week dipole-dipole intereotion between
+nolecules. The interaction is essuaed to be so week that it does not change
+the initial cpticel spectre of the aclecules. Under these conditions. ibrster
+was able to show that the probability of energy transfer can actually be
+expressed by the intesrel of luainescence spectre overlapping and absorption
+of interacting aoleculss.
+
+Forster wee also the first to average probabilities of transfer in accordance
+with the totality of aolscules in the solid solution end obtain fornulas that
+could be substantiated by experiasnts. Forster's theory preserved its full
+iapottance and is borne out by experinents in cases where conditions for its
+epplicability are fulfilled.
+
+61
+non orncm. use own
+FOR OFFICIAL "8! ONLY
+
+Subsequently Forster's theory was generalised in the paper by Better [13]
+
+for cases of sultipcle and echisage interactions. Its further developsent
+consisted of taking into consideration various cosplicating circuntances
+such as. for axasple. the diffusion action during the lifetise of the excited
+state. In view of the fact that ibrster's theory is an approxisation. lisits
+for its applicability were discussed any tiaes in the following years. In
+particular. in' 8] in using the classical scdel of two dipole oscillators
+with friction. ter's forsula was obtained only to such an approxisation
+where the lifetiae of excitation in the acceptor is any tiles less than the
+tise of the reverse transfer. Robinson and hosch [in] case to a siailar
+conclusion within the framework of quantu-sschsnical considerations. Fbrster
+hinself diacmed the applicability conditions of his theory [‘05 . lie pro-
+duced a classification of interaction types. according to which initial
+theory applies to the case of a ”very weak relationship.“
+
+The question of the applicability liaits of Porster's theory was also con-
+sidered in a great number of papers which used the satrir density sethcd.
+It is precisely in these papers that the role of relaxation processes and
+energy transfer phencsena are clarified scat fully. and clear-out criteria
+for the applicability of those or other approxisations are given (see fur-
+th” 0111). s
+
+Thus. the elesentary act of ”inductive-resonance" energy transfer is con-
+sidered as the result of weak interaction between two sclecules -- a donor
+and an acceptor of energy. The effects of energy transfer observed in the
+experiaent. for exasple. eensitisation or attenuation of luainescence. say be
+considered a result of action of independent elesentary acts of transfer.
+This concept is correct for sufficiently diluted solutions in an optically
+inert transparent solvent.
+
+As a rule. ispurity solecules in the solution fora a spatially disordered
+systen. Therefore. the excitation energy of the ispurity and the energy of
+its resonance interaction with the environaent are randcs values. generally
+speaking. different for various ispurity centers. As a result. the analysis
+of the problea of clergy transfer of electronic excitation to scleculee of
+the inpurity is essentially cosplicated relating it. in principle to the
+problel of electrical conductivity of spatially disordered asdia 150].
+
+This aspect of energy transfer to ispurity solscules in crystals becoses
+especially isportant at low tesperatures and in cases where the nonunifors
+width of the ispurity absorption line is great. not only as coapared to its
+unifors width. but also exceeds the energy of resonance interaction between
+the iapurity solsoulea at an average distance between then. In this case.‘
+in particular. nonresonance processes of enarq transfer. accoapanied by
+generation or destruction of phonons of the lattice or by an other of its
+eleasntary excitations. are also essential. It is precisely these kinds of
+processes that destroy the localisation of states in disordered aedia and
+asks it possible to transfer energy to ispurity scleculee at fairly low con-
+;gotrations of the ispurity. predicted by Anderson in 1958 (chap. V. section
+
+62
+FOR orncm. use cum!
+FOR OFFICIAL USE ONLY
+
+An essentially different physical picture of energy transfer of electron
+excitation originates in crystals where. due to the translation sysaetry.
+excitation is possible of any elesentary cell of the crystal or of any of
+the conponent crystals of the scleculea. As is well known. in this case.
+energy transfer say be due to the action of quasi-particles ~- exoitons.
+The fundssental idea of excitons put forth in i931 by Ya. I. Frankel' 15].
+which plays such a great role in the sodern physics of solids. is rela ed
+directly also to the energy transfer seohaniea in crystals. This was es-
+pecially clearly realised in 1938 when Frank and Teller.in an article
+entitled ”Migration and photocheaical action of excitation energy in crys-
+tals" [16] for the first tile posed the question on how the energy. absorbed
+by sons cell in the crystal. can migrate in the crystal and then can be
+utilised for a photocheaical or sose other process at any other fairly re-
+loved point. In this connection. it is stressed in [16] that a "crystal
+consists of identical eleaentary cells for-ed by atcas. solecules or groups
+of stone. acleculee or ions. If the crystal is excited. the excitation my
+be localised in any of these elssentary cells. Such localised excitation
+
+does not ccnfcrs to a stationary state. The relationship between particles
+in the crystal and resonance. due to the identity of elesentary cells. will
+lead to the excitation energy sigrating free one cell to another." Quali-
+tative discussions in [16] based on results of investigations by Ya. I.
+henkel' E15] and Peisrls [1?] touch upon my probleas. to acne extent. of
+nonradist onal energy transfer of electron excitation in crystals which
+also reasin urgent at present. In 16]. energy transfer by wave packets. as
+well as energy transfer by lccalis (noncoherent) excitons .ere talked about.
+In the latter case. theme-activated transitions. as well as the tunnel ef-
+
+fect (at low tenperatures) are indicated as the causes for exciton sigrstions.
+Although in the characteristic of exciton propagation in the crystal. the
+words "diffusion process" are used only for incoherent axcitcnsa for wave
+packets there is also used the concept of the length of the free path and the
+strong change in the direction of motion of the exciton (but not its energy)
+which must originate when excitons are scattered by phonons. Also a nuaber
+
+of state-ants is rule in [16] on the aechsniea of interaction between excitcns.
+crystal defects and its surface and. in particular. on the sechaniea of trap-
+ping'an exciton by foreign sclecules. 'rhus. Frank and Teller [16] actually
+forsulated an entire progras of theoretical investigations.
+
+In about the ease years. intensive experisental investigations of energy
+transfer in crystals began. In particular. Bowen [18] undertook. for the
+first tine. a broad study of the effect of snll ascunts of ilpurities on
+the lusinescence of aoleculsr crystals. lie showed that lusinescence of crys-
+tals is subjected sostly to the effect of ispurities that absorb light
+strongly in the spectrua area of pure crystal lusinescsnce. The presence
+
+of such ispuritiee reduces the lusineecence intensity of the basic substance
+and the reduction in intensity is sccospanisd by a reduction in the length
+of the drop in the glow of the crystal. Bowen stressed that the nonradio-
+tion transfer aechsniss plays the basic role. i.e.. the sechaniss that does
+not accospany the forntion of luainescence photons of the basic substance.
+
+63
+roe orncuu. use owu
+FOR OFFICIAL USE ONLY
+
+The first uperiaents on energy transfer by emcitons in halide-alkaline
+crystals were nade by Apker and Taft 19]. They observed the transfer of
+energy by ercitons to F-osnters (for tar axperisents on halide-alkaline
+crystals. see [20]. [21]). The results of investigations of the scbilities
+
+of excitons in crystals of inert gases (Ne. Ar. Xe obtained recently are
+cited in [22].
+
+The nobility of excitons in seniocnduotor crystals (Ven'ye-llotta ercitons).
+due to stall effective assess and corporatively weak exciton-phonon inter-
+action. was found to be so high (the diffusion coeffic ant for ercitons for
+acne crystals reaches a value in the order of Dg1030I /eso: for cczarison
+we will indicate the v lug of the diffusion coefficient for singlet excitons
+in enthrsoene DsJXiO‘ on /sec). that its study required using special sethods
+E23]. Successful seam-Lents of D in seeiconductors were lads only recently
+n connection with the investigation of their lunineecence at 'high concentra-
+tions of excitons.
+
+energy transfer in seeioonductors is made by coherent exoitons (diffusion of
+wave packets). In such crysta . due to the noroscopically large values of
+the Bohr radii 3f eroigona r; z 50 to 100A). already at concentrations of
+excitons as r' 43 10 1/c . an entire series of new phenosens is observed
+(biexcitons. electron-hole drops). the study of which constitutes at present
+an entirely new direction of seaiccnductor physics [2‘0 . In particular. in
+investigating the phenosene sentioned. not only the so ility of individual
+excitons becosss urgent. but also the nobility of various kinds of exciton
+ccaplexes (for exasple. electron-hole drops). effects of interactions between
+these conplexes etc. [25]. Boss of the results discussed in this book say
+also be used to characterise the properties of the Van'ye-lbtta axcitons (for
+exasple. the tssperature dependence of the diffusion coefficient. individual
+probless of kinetics and lusinescsnce of excitons). Moreover. to stress the
+nature of problem originating thereby. special features of the growth of
+electron-hole drops in gsrmniue are discussed in sosewhat greater detail (in
+Chap. 6). aowever. a full discussion of the collective properties of excitons.
+biexcitons. electron-hols drops and other possible exciton cosplexes is be-
+
+yond the scope of this book and will require. without doubt. the writing of
+special reviews and nonographs.
+
+Returning to the theory of exciton energy transfer in eoleculsr and ion crys-
+tals. we will note that at first this theory developed. to a certain extent.
+independently of the theory of energy transfer between sclecules in solutions.
+
+Only such later. at the end of the fii‘ties.was the closest tie between then
+realized to the full extent.
+
+Concepts on the diffusion nature of exciton action were used for the first
+ties in a paper by In. I. Xarkhenin and V. Ye. lashhrev [26] for interpret-
+ing experisents (for calculating the relationship between the intensity of
+surface annihilation of excitons in cuzo and abs ion coefficient of the
+exciting light It): in a paper by A. II. Paydysh [35‘ for calculating the de-
+pendence on k of the speed of trapping scroitons in aolecular crystals [28]
+by i-purities; as well as in paper [29] (when evaluating for anthracene
+
+6b
+ran orncm. us: 0va
+FOR OWICIM. USE ONLY
+
+controlled by diffusion of excitons the speed of their trapping by nephthacene.
+see Chap. 7). Later. in [30]. Si]. there was forsulated a sore general
+integral-differential equation or exciton concentration in which. along with
+exciton diffusion. account was also taken of the change in their concentration
+due to reabsorption of the lusinescence light.
+
+The idea of exciton diffusion was found to be very fruitful and describing
+exciton sigration in the diffusion approxieation was Justified in nest cases.
+At present. in spite of the difference noted in the transfer sschanisss in
+solutions and crystals. their ccmson nature became clear to a considerably
+greater degree. This oceson nature consists not only of the fact that an
+elementary act of transfer is due frequently. in this or another case. by one
+end the ease type of intonation (for sxssple. dipole-dipole). but also by
+
+the fact that there is a continuous transition fro- cases of transfer solecule-
+donor -- solecule acceptor in solutions to the case of energy sigration along
+identical sclecules in solutions and. finally. to sigration of excitons in a
+crystal. The diffusion approach spans not only considering the diffusion of
+molecules in a solution. but also the diffusion of excitations along molecules.
+as well as diffusion of excitone. Finally. the concept of energy transfer by
+coherent and incoherent excitons corresponcs (according to Forster) to cases
+
+of strong and weak interaction between solecules.
+
+The concept of the contents of this book can be obtained by the reader by
+acquainting himself with the table of contents and leafing through the book
+rapidly. here. therefore. we will lisit ourselves only to several ressrks.
+
+The first two chapters of the book are dedicated basically to the theory of
+energy transfer in solutions. In particular, the first chapter considers en
+elssentary act of energy transfer between two interacting solecular systems
+located at a given distance from each other. In this. and a nuaber of other
+chapters. the authors strove to eisplify the presentation as such as possible
+in order to lake clear the physical bases of the theory. At the ease tine. we
+considered it advisable to utilise in the first chapter the concept of a den-
+sity matrix as applied to a two-level systes.i.e.. the approach which becess
+popular in connection with the developaent of quentus electronics. In spite
+of the prisitive initial model. this approach sakes it possible to understand
+the physical essence of various approximations in the theory and asks rough.
+but realistic evaluations of the order of ngnitude of the probability value
+of energy transfer.
+
+The first chapter also presents For-star's theory which. as already noted.
+played a nest isportant role in the develop-ant of the entire energy trans-
+fer problem.
+
+The second chapter considers netth and results of averaging the probability
+of transfer according to the totality of sclscules of energy donors and ac-
+ceptors. In this chapter. Forster's result is reproduced as well as certain
+of its refinesents. Also presented in detail is the theory that takes into
+account the effect of solecular action in a liquid solution. 01' the huge
+
+65
+ran OFFICIAL use 0va
+FOR OFFICIAL USE ONLY
+
+0
+the second chapter shows only maples of several neasureunts which indicate
+how well the theory is confiraed by experiaent. if conditions of applicability
+of the theory are set and the necessary expariaental precautions are observed.
+
+physical values and those siorcecopic characteristics of the crystal which.
+in the final result. detersine the intensity of the processes of energy trans-
+fer of electronic excitation in crystals.
+
+How. on the basis of experiaental data of energy transfer in crystals. can one
+Judge which excitone (coherent or incoherent) sake the basic contribution to
+the energy transfer? Row to find the diffusion coefficient of excitone in this
+or another crystal? that is the aechanisn of interaction between excitona and
+ispur" ice and division boundaries of aedia? that is the role of radiation
+transfer? that are the special features of energy transfer between iapurity
+Ioleculee in crystals and what is the role of the satrix in this case?
+
+This is a partial list of questions which not be answered to soae approxi-
+aation in deriving the above-sentioned correlations. Chapters 3 to 8 of this
+book are basically dedicated to discmaing these.
+
+In particular. Chap. 3 considers using the ssthod of an active field. the
+effect of the crystalline aatrix on the energy of the resonance interaction of
+the ispurity noleculee with each other which leads to a nonrediational energy
+transfer of electronic excitation between then. If the distance between is-
+purity soleoules is great oospared to the else of the eleaentary cell of the
+crystal. the effect of the Iatrix on the energy of the resonance interaction
+is deterained aainly by the pernittivity of the Iediun. In this connection.
+calculations of the energy of resonance interaction between the solecules of
+the ispurity as well as calculations of the tensor of the peraittivity of the
+matrix are found to be inseparably tied together as shown in Chap. 3. Since.
+on the other head. the peraittivity tensor deter-nines the optical properties
+of the nediua. the above-sentiened nature of the presentation sakes it possible
+to trace sequentially the relationship between the speed of nonrediational
+energy transfer asong sclecules of the ispurity and optical properties of the
+aatrix and. in particular. the structure of its exciton spectra.
+
+mapter '6 contains the presentation of those individual results of the exciton
+theory (for exasple. the proble- of exciton-phonon interaction is discussed).
+which are used in Chap. 5 for calculating their kinetic para-stars that deter-
+aine the speed of energy transfer. Also diseased are the properties of bi-
+phonon and exciton states. the presence of which. generally speaking. my af-
+fect the kinetics of collisions between owl-particles (in particular. the
+speed of bisolecular annihilation of excitons). Horsover. in Chad: is se-
+quentially developed a aicroscopic theory of electron excitation energy
+transfer between ilpurity aolecules which the it possible to trace the
+effect of virtual axoitona on the speed of transfer as well as to take into
+
+66
+ran orncm. use 0va
+FOR OWICIM. USE ONLY
+
+account the effects of resonsnce interaction between the impurity aoleoulss
+and the satrix.
+
+In the exciton area of the spectrua. electronic excitations -- excitona and
+quanta of the electrosagnetic field in any crystals and. in particular. in
+sany luminescent crystals interact so strongly. unlike gases or vapors. that
+in order to describe correctly their properties (nobility. luminescence and
+absorption spectra) at low tesperatures.it is sore adequate to use concepts..
+not of excitona or photon. but polsritons. i.e.. quasi-particles originating
+at strong exciton-photon interaction. In this connection. Chap. It shows how
+the use of these concepts sakes it possible to tie-in within the fraaswork of
+a single physical picture a rather wide circle of phenosena such as. for ex—
+asple. the nonradiational and radiational energy transfer of electron
+excitation. exciton absorption and luainescence etc.
+
+Chapter 5 is dedicated to the theory of the nobility of excitons end the
+theory of their interaction with aolecules of the ispurity and with each other.
+Also discussed in this chapter are the special features of energy transfer of
+electron excitation. along the ilpurity eolecules. Anderson's localizations
+of excitations and nonresonance processes. In Chap. 5.the basic attention is
+concentrated on calculations of respective kinetic paraseters which. in Chap.
+6. where the phenomenological theory of exciton sigratione is developed. are
+assused to be already given. It is precisely the results of the phenosenologi-
+cal theory that are usually coapared with experiaental data.and the values of
+kineeatic paraaetsrs are detersined on the basis of such a coaparison. In
+
+this connection. in Chap. 6. there is made a calculation of experissntally
+determined values such as. for exasple. the quantus output of luainescence
+
+and the ties of its attenuation, the quantus output of sensitised lusinescence
+etc.
+
+A review of the results of the experinental investigation of energy transfer
+by excitona is given in Chap. 7. This chapter is basically devoted to a cos-
+parison with the theories of rsdiational and nonradiational energy transfer.
+in particular. of that experimental data which say be used for the evaluation
+of kinetic para-stars and. in particular. for the evolution of the diffusion
+coefficient of excitona and its tesperature dependence. It is precisely
+according to the nature of this dependence (chap. '6) that it is possible to
+judge whether coherent or incoherent ("localised") excitona transfer the
+energy in this or another crystal. in other words. is diffusion of wave pack-
+ets or diffusion in accordance with a sodel of tendon transitions of excita-
+tions along the nodes of the lattice taking place.
+
+Chapter 8. the last. discusses physical phencsena which say occur due to the
+interaction between excitona at the boundary of the crystal and attenuating
+excitona on the natal surface. In a certain sense. questions and situations
+originating here are very sisilsr to those discussed in Gap. 13 when analysing
+the sechsnisn of interaction between the exciton and the attenuating impurity
+(thore -- excitona localised in the ispurity. here -- excitona localised at
+the boundary between aedia etc.). At the same tine. when analysing natal
+
+67
+you ovncm. use 0va
+FOR OFFICIAL USE ONLY
+
+attenuation. a nunber of interesting possibilities open up. Thus. by the
+speed of aetal attenustion of excitons it is possible to Judge not only the
+value of the diffusion coefficient of exoitona and the nature of ite notion.
+but slao electron resrrsngessnts on the dielectric-sets). boundary. capable
+of tor-ins a “dead lone” etc. This direction of investigations or energy
+transfer by exoitons (energy transfer to the surface) is still in the initial
+stage of its developsent and. We hope thst the discussion here of problems
+
+relgted to this direction will stimlete the formistion of further investi-
+gat ona.
+
+OOPYRIGM‘: Glsvnaya redskteiya fisiko-natenstioheskoy literstury isdstel‘stva
+“ﬂank”. 1978
+
+229!
+(SO: 1870 m
+
+68
+FOR orncuu. us: ONLY

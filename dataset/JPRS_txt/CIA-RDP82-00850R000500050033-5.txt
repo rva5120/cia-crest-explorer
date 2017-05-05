@@ -1,0 +1,1158 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10457
+
+14 April 1982
+
+Worldwide Report
+
+TELECOMMUNICATIONS POUCY,
+RESEARCH AND DEVELOPMENT
+
+(FQUO 9/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books. but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+WORLDdIIf. REPORT
+TELEcomumcmous POLICY, RESEARCH AND DEVELOPMENT
+
+CPOUO 9/82)
+CONTENTS
+ASIA
+JAPAN
+Telecommunication Liberalization Examined
+(NIKON KEIZAI SHIHBUN, various dates) ................
+
+"EST EUROPE
+
+FRANCE
+
+Ariane 4 Expects 43 Percent of Market From 1986 to 1990
+(Pierre Langereux; AIR ET COSMOS, 6 Feb 82) ......ﬂ...
+
+Potential Marketa. Launch Reliability
+Geostationary Satellite Launch Coat
+
+Briefs
+Ariane Operational Launch in April
+
+Ariane Launch Set for April
+
+-.-' [In-ww-uo
+
+FOI10i1lC1A1.USE(NVLY
+TELECOMMUNICATION LIBERALIZATION WINE
+
+Tokyo NIHON KBIZAI SHIMBDN in Japanese 18. 19, 24. 25 tab 82
+(18 Feb 82 p 3]
+
+[Text]
+
+Postal Services Ministry Tale-Communications Policy Bureau Director
+General HORIZUHI held a press conference on the 17th, and stated
+as follows on the problem of liberalizing data communications: "In
+regard to the revising of the Public Tele«Communications Law this time,
+private information and communications enterprise operators will not
+be permitted to offer high-level information and communications services
+(VAN)." So saying, .e clarified the outlook that the contents of the
+proposed liberalization of data communications will be limited to
+fields excluding high-level information and communications services,
+for the time being. Therefore, the possibility has also appeared that
+the overall opening of the market for data communications, as sought by
+information and communications business circles and the economic and
+industrial circles, will be delayed on a large scale.
+
+In connection with the problem of liberalizing data communications,
+the Government-LOP side has already decided on a policy to incorporate a
+revised Public Tele-Communications Law in a "package bill concerning
+the re-adjustment or rationalization of [projects which require]
+permission or approval," instead of enacting a new law. At the press
+conference held on that day, HORIZUMI also said, "The actual situation
+is such that this time, the enactment of a new law (as called for by
+the Postal Services Hinistry) has become difficult." Thus, he formally
+expressed his intention to give up submitting a new'data-communications
+bill (bill concerning added-value data transmission services) to the
+current Diet session.
+
+However, the Postal Services Ministry says, "The preconditions
+(including the preservation of communications secrets) for the
+llberalizing of high-level information and communications services as to
+private information and communications enterprise operators have still not
+been established (through negotiations with HITI)" (Bureau Director
+
+1 .
+FOR OFFICIAL USE ONLY
+General HORIZUHI). Thus, the Ministry plans not to include the
+liberalization of high-level information and communications services
+(added-value data transmission services) in the Public Tale-Communications
+Law Revision Bill, though it had decided to do that.
+
+As for the revising of the Law this time, the proposed liberalization
+will be limited (1) to "joint use" of communications circuits by two
+or more companies, and (2) to "use by others," in-which private
+communications enterprise operators will lease communications circuits
+from the Nippon Telegraph and Telephone Public Corporation and sub-lease
+them to other enterprises, and which will not be accompanied by any
+message exchange (meaning the transmitting of information as is,
+without changing the contents thereof, as in the case of the telephone).
+This means that approval will Virtually not be granted to the
+liberalization of message exchange, which liberalization will be
+indispensable for private information and communications enterprise
+operators to offer high-level information and communications services, or
+to the connection of public communications circuits, specific communications
+circuits, and public communications circuits (so-called public-specific-
+pubiic connection) which is necessary for the establishment of
+information-processing networks.
+
+On the other hand, HITI intends to seek strongly the Postal
+Services Hinistry's overall opening of the market for data communications,
+on the strength of the Provisional Administrative Affairs Research
+Council's recommendation calling for the overall liberalization of
+data communications. For this reason, the focal point has shifted to
+the problem of whether the proposed liberalization in the field of
+high-level information and communications services will be incorporated
+in the Public Tele—Communications Law Revision Bill this time.
+
+[19 Feb 82 p 3]
+
+{Text}
+
+The problem of whether efforts should be made to cope with the
+proposed liberalization of data communications through the enactment
+of a new law (data communications law) or through the revising of the
+existing law (Public Tele-Communications Law), on which problem the
+assertions of the Postal Services Ministry and MITI yere in a sharp
+conflict, has come to an end along the line of revising the Law no;
+in force, with the Postal Services Hinistry's having given up
+establishing a new law. The reason for this is that the Postal
+Services Ministry's view urging the establishment of a new approval or
+permission system was not accepted, due to the large-scale current of
+administrative reform, calling for the re-adjustment or rationalization
+of [projects which require] approval or permission. With this as a
+turning point, however, the Ministry has shifted to the tactic of
+restricting the liberalization this time. The focal point is whether
+high-level communications services, which can also be said to be the
+
+2 r
+FOR OFFICIAL USE ONLY
+nucleus of the proposed liberalization of data communications, will
+be included among the objects of the liberalization through the
+revising of the Law this time. The Postal Services Ministry intends
+to give up liberaliting high-level communications services, but
+MITI and industrial circles concerned are showing strong repulsion
+against this. The problem of liberalizing data communications will
+enter its second round of development as to how far the scope of
+liberalization should be expanded.
+
+"Has the Postal Services Ministry really given up enacting a
+new law?" News about Postal Services Minister MINOHA’s statement,
+which said that "the PoStal Services Ministry has given up enacting a
+new law," was conveyed to the Government-LOP side on the 16th. At
+that time, MITI leaders looked as if they were unable to quite believe
+[the news]. On the other hand, the Postal Services Ministry administrative
+officials concerned were also bewildered, as they were unaule to
+grasp the real intention of the Postal Services Minister.
+
+The major reason why a decision was rapidly reached to give up
+the planned enactment of a new law, was the Provisional Administrative'
+Affairs Research Council's second recommendation calling for the
+re-adjustment or rationalization of the approval or permission system.
+The Government-LB? side earlier decided to cope with the proposed
+liberalization of data communications through a "bill concerning the
+package handling of the re-adjustment or rationalization of the
+approval or permission system." The atmosphere within the LDP was
+as represented by the view that "such a bill (as a new bill called for
+by the Postal Services Ministry), which will necessitate the granting
+of approval or permission, cannot be included in the proposed bill
+calling for the re-adjustment or rationalization of the approval or
+permission system" (LDP Administrative and Financial Affairs Research
+Council Chairman HASHIMOTO). Moreover, at a Cabinet meeting, slated
+for the 19th, the Government will decide to "respect the Provisional
+Administrative Affairs Research Council's recommendation." The large-
+scale current of administrative reform by the Government and the LDP
+as one body can be said to have become connected with the settlement
+of the problem in the form of revising the Law now in force.
+
+However. the Postal Services Ministry has not made overall concessions,
+though it has given up the planned enactment of a new law. .Rather,
+it is resorting to the tactic of rolling back with the substantial
+contents, in place of discarding the formal problem of whether [the
+situation should be settled] through the enactment of a new law or
+through [the revising of] the Law now in force. The first step for
+that purpose was the emergency press conference which Postal Services
+Ministry Tale-Communications Policy Bureau Director General MCRIZUMI-
+hold on the 17th. MORIZUMI definitely stated as follows: "The
+preconditions (including the preservation of communications secrets
+and co-ordination of fields between private industrial circles
+
+concerned and the Nippon Telegraph and Telephone Public Corporation
+
+3 ;
+FOR OFFICIAL USE ONLY
+[NTT]) for the liberalizing of high-level communications services (VAN)
+
+as to private information and communications enterprise operators have
+still not been established through negotiations with MITI. If, this time,
+efforts are to be made to cope with the situation only through the
+revising of the Law now in force, private information and communications
+enterprise operators cannot be permitted to offer high-level
+communications services."
+
+This means that the POStal Services Ministry is still not changing
+its posture, to the effect that high—level communications services
+cannot be extended except under a new law. It also says that it will
+give up the proposed liberalization in the field of high-level
+communications services, in which field it has been planning to
+carry out partial liberalization in the form of enacting a new law.
+if it is said that the existing Law alone should be revised. It is
+thus carrying out operations to submit a new bill to the next Diet
+session, as expected at the very beginning, with its usual persevering
+posture seen when the three Ministers reached agreement on the
+establishment of a new postal individual annuity system and the
+handling of the Postal Savings Deliberation Council's recommendation.’
+When asked if “this will result in delaying the liberalization of
+data communications," Bureau Director General MORIZUHI replied,
+
+"The Government office, which has jurisdiction over the data
+communications-connected legislation, is the Postal Services Hinistry.
+His logic is that unless the Postal Services Ministry moves, the bill
+cannot be submitted [to the Diet].
+
+If the Postal Services Ministry's assertions are to be accepted, then
+the proposed liberalization will be limited to the following cases
+through the revising of the Law this time: (1) "Joint use" of
+communications circuits by two or more companies; (2) "use by others,"
+in which private information and communications enterprise operators
+will lease communications circuits from NTT and sub-lease them to
+other enterprises, and which will not be accompanied by any message
+exchange (meaning the transmitting of information as is, without
+changing the contents thereof, as in the case of the telephone); and
+(3) the connection of computers through the use of personal circuits.
+This means that approval will virtually not be granted to the
+liberalization of message exchange, which liberalization will be
+indispensable for private information and communications enterprise
+operators to offer high-level information and communications services,
+or to the connection of public communications circuits, specific
+communications circuits, and public communications circuits, which
+connection is necessary for the establishment of information-processing
+networks.
+
+This field of high-level communications services is a star field
+in regard to the liberalization of data communications. Unless that
+
+field is liberalized to private information and communications enterprise
+operators this time, the realization of the future image of the
+
+a .
+FOR OFFICIAL USE ONLY
+data-communications liberalization age, in which simultaneous conferences
+will be held on the television screen, for example, between the Tokyo
+head office and its branch offices in Sapporo, Fukuoka, and other
+
+remote areas, will be delayed to that extent.
+
+Therefore, from the stand that "if the field of high-level com-
+munications services is not liberalized, it will decrease the meaning
+of liberalizing data communications," hITI intends to carry out
+strong activities to secure the inclusion of the liberalization of
+the high-level communications service-field in a reVision bill concerning
+the Law now in force. It is the Provisional Administrative Affairs
+Research Council's second recommendation which supports HITI's
+assertions. The recommendation notes as follows: (i) In connection
+with the use of data-communications circuits, liberalization should ‘
+be carried out, with the exception of the system of exchanging .
+messages alone, with an unspecified large number of persons as the
+objects; (2) in order to clarify the scope of the minimum necessary
+degree of restrictions, a negative-list formula (formula calling for
+liberalization in principle and also the listing of plans which cannot
+be carried out) should be adopted; and (3) in regard to mutual connection,
+the standards for granting approval should be clarified when a separate-
+approval system is carried out. In short, the recommendation calls for
+the overall liberalization of data communications.-
+
+The proposed liberalization of data communications cannot but be said
+to be incomplete unless the field of high—level communications systems
+and exchange of messages are liberalized. In that meaning,.future
+negotiations between the Postal Services Ministry and HITI on the
+scope of the substantial liberalization may be said to be an important
+testing place, from the standpoint of liberalizing data communications.
+
+(Note) high-level communications services (VAN) mean that data will
+be exchanged and processed, between the data communications systems
+of different companies through the connection of their own respective
+computers with NTT's communications circuits, and through the
+establishment of networks which will use those computers as switchboards.
+This is the most developed form_of data communications. Private
+information and communications enterprise operators are planning such
+services as a future image of data communications services. They are
+also said to be added-value communications services.
+
+V
+
+*ﬁﬁtkt‘kﬁﬁ*
+
+S .
+FOR.OFFNJA1.USE13NLY
+The Postal Services Hinistgx's and MITI'a Wave of Thinking as to Liberaliza-
+
+tion of Data Communications
+
+ 
+
+Postal Services .HITI
+Ministry
+(1) Joint use (by companies
+
+which have continuous
+
+business relations)
+
+No message switching Liberalization in Liberalization in
+principle principle
+
+Message switching Only between com— Liberalization in
+
+panics which have principle
+close business
+
+relations
+(2) Use by others
+No message switching Liberalization in Liberalization in
+principle principle
+Message switching
+Between specific persons Report systemﬁ Liberalization in
+principle
+Between non-specific APPP°val system* Liberalization ex-
+persons eluding message
+' switching which will
+impede services by
+NTT
+(3) Mutual connection
+Public circuits-specific
+circuits Liberalization ex— Liberalization in
+cluding message principle
+switching -
+Public-specific-public
+circuits Separate approval Liberalization in
+principle
+
+(Note) The asterisked systems will not be included in the revising of
+the Law this time. .
+
+[24 Feb 82 pp 1-2)
+[Text]
+
+The Postal Services Ministry formulated the general outline of a
+Public Tele—Communications Law revision bill in connection with the
+problem of liberalizing the use of data communications circuits, and
+obtained the general approval thereof at a meeting of the LDP Policy
+Board Communications Department (Chief: Yoshihide MORI), held on the
+morning of therzyth. The general outline has been drawn up, accompanying
+the fact that in response to the Provisional Administrative Affairs
+Research Council's second recommendation concerning the proposed
+re—adjustment of the approval or permission system, the planned submitting
+of a new bill (data communications bill) to the current Diet session
+
+has been given up. Under the general outline, the utilization of
+
+data communications circuits, which utilization is banned at present,
+
+will be liberalized to a rather great extent, in the information-processing
+field. however, it blocks the road leading to the liberalization of
+high-level communications services (VAN) which are expected to develop
+
+in the future. The Ministry will submit its revision bill gen-
+
+eral outline to the Administrative Management Agency on the same day.
+However, MIT! and the Administrative Management Agency are showing
+repulsion against the Postal Services Ministry's second draft on the
+strength of the Provisional Administrative Affairs Research Council's
+recommendation calling for the overall liberalization of data
+
+communications. Complications will probably arise before the problem can
+be settled.
+
+In regard to data communications, information will be processed
+through the direct connection of computers and communications functions, as
+in the case of the National Railways' Green (TN: First Class Ticket) Windows
+and the banks‘ on-line systems. They are said to be the third communications,
+after telegraph and the telephone. At present, restrictions are being carried
+out on the private information and communications enterprise operators'
+leasing exclusive-use circuits from the Nippon Telegraph and Telephone
+Public Corporation (MTT) and their processing information. Industrial
+circles concerned have strongly criticized that this has been
+impeding the development of industries.
+
+At the very beginning, the Postal Services Ministry had planned to
+liberalize the use of data communications circuits through the revising
+of the Public Tele-Communications Law now in force, and also through
+the enactment of a new data communications law. It had also intended
+to put up a new net of approval or permission over the field of data
+communications in the form of establishing a new law. The LDP
+Administrative and Financial Affairs Research Council, etc., criticized
+this plan, from the stand that it "will go against the current of
+administrative reform." The Ministry has finally decided to give up
+enacting a new law and to submit a revision bill as to the existing
+Law to the current Diet session. ‘
+
+Under the Postal Services Ministry's second revision-bill general
+outline, the use of communications circuits by companies, which have
+business relations with each other or with one another, will be
+liberalized, in regard to the “joint use" of such circuits by two or
+«are companies. Also, as regards the exchange of messages (meaning
+the transmitting of information as is, without changing the contents
+thereof, as in the case of the telephone), it will be approved, for the
+first time, if it is to be carried out between or among companies
+
+7
+FOR OFFICIAL USE ONLY
+PU“ VI‘I'ILIRI. UOI‘. UI‘LI
+
+which have close business connections with each other or with one another.
+It will become possible to establish communications systems, for
+
+example, between manufacturing industrialists and retail business-persons,
+between tourism enterprisers and hotel-keepers, and between transportation
+enterprises: and warehousing enterprisers, which systems have been
+
+banned up until now.
+
+With regard to "use by others," which is regarded as a focal point,
+from the standpoint of fostering and developing the private information
+and communications services, and in which information and communications
+enterprise operators will lease circuits from NTT and sub-lease them
+to other enterprises, it will be liberalized if it is for data-
+processing purposes. However, in regard to high-level communications
+services which will be accompanied by the exchange of messages, and
+which the Postal Services Ministry had planned to incorporate in the
+proposed new law, [the liberalization thereof] will not be approved,
+partly for the reason that "it is impossible to preserve communications
+secrets through the revising of the Law now in force." Therefore,
+under the Postal Services Ministry's draft plan, it will be impossible
+for private information and communications enterprise operators to offer
+such high-level communications services as computer communications services
+or mail services (services for transmitting documents for office
+automation).
+
+Moreover, concerning the connection of public communications circuits,
+specific communications circuits, and public communications circuits
+(so-called public-specific-public connection) which will become indispensable
+for private information and communications enterprise operators to
+offer information-processing networks, it will be placed under an
+individual approval system, on the grounds that there is fear of its
+causing the utilization of services similar to telegraph and telephone
+services which are the regular services of NTT. The connection of
+public communications circuits with specific communications circuits
+(public-specific connection) will not be approved, either, in the case
+of carrying out message exchange.
+
+ﬁztkkkfzkktﬁ
+
+Far Removed from Overall Liberalization, MITI to Show Reoulsion
+
+In connection with the Postal Services Ministrst draft plan for the
+liberalization of data communications, HIT! intends to show strong
+repulsion, from the stand that the exchange of messages in regard to
+use by others will be limited in actual substance, and that it is far
+from the overall liberalization of data communications, as sought
+by hITI up until now. It also intends to press for a large-scale
+revision of the Postal Services Ministry's draft plan.
+
+In regard to the Postal Services Ministry's draft plan, HITI has
+particularly taken up the following points as problems: (1) The
+
+8 .
+FOR OFWWCJAI.USEGDNLY
+information-processing system (such as mail services), including
+
+message exchange as to use by others, has not been approved, and the
+oroposed use by others will also be inconsistent with the Provisional
+Administrative Affairs Research Council's reconmendation calling for
+liberalization in principle; (2) in the case of use by others, the scope
+of liberalization will be limited, when compared with joint use, and
+this will be disadvantageous for medium and small enterprises which .
+cannot but rely on the networks to be established by information-processing
+enterprisers: and (3) the concrete contents of the planned liberalization
+are not clear, because they will be decided on the basis of the
+
+Postal Services Ministry Ordinance or on the basis of the standards
+
+for granting approval.
+
+MITI plans to sound out the Postal Services Ministry on its way
+of thinking as to these concrete problematical points and to seek the
+revising of the Public Tele-Communications Law in the form of rollouing
+MITI's basic policy for securing the overall liberalization of data
+communications.
+
+ﬁﬁkﬁz‘zaﬁnfzﬁ' .
+
+Gist of the Postal Services Ministry's Draft Plan for Liberalization
+
+of Data Communications
+
+ 
+
+Following is the gist of the Postal Services Ministry's draft plan
+for liberalizing the use of data communications circuits:
+
+1. Joint Use of Specific Communications Circuits: The individual
+approval system concerning the joint use of specific communications
+circuits shall be abolished, and at the same time, the Postal Services
+Ministry Ordinance shall be revised as follows:
+
+(i) Necessary communications for services, which have continuous
+
+transactions, can be freely established if they are for data-processing
+purposes.
+
+(2) If they are State organizations, local public entities,
+two or more persons who engage in the same line of business, or
+persons who have close business relations with each other, [the use
+of communications circuits], including the utilization of telegraph and
+telephone services, can be freely secured, though it has not been
+approved up until now.
+
+2. Joint Use of Public Comunications Circuits: Restrictions on
+the joint use of electronic computers, etc.. shall be abolished,
+with regard to contracts for the use of public communications circuits.
+
+. 3. Use of Specific Communications Circuits by Others: The standards
+concerning use by others, as set forth in Paragraph l, Article 55-13
+of the Public Tele—Communications Law, shall be revised, while
+
+9 .
+FOR OFFICIAL USE ONLY
+I'UK UI‘I‘ILIAL UDL UIVL'
+
+30.. 0.5200
+LEI-8.3.0... 0:2 05 no coma—>3.
+
+:3 0:8 .00
+$028.01.. 0128 0.2. we 0301.8.
+
+:3 0:03035'3-0”:
+0:2 0..» on 03:... 2.9 we c2521
+
+12.9.9.0 53 02.6.3: yo coma—>0:
+
+.2329.» .5.— 020330 no :30?!—
+
+0uca..q?5 buss:
+26:3... .336 0.2 .0 c3013..
+
+02.0595 >533:
+acutﬁom .329. a... ho 033:0:
+
+sci—.31." 0..»
+3:: 0:730 no 5053.
+
+.130: .2530... «333...: .3 .31....
+02:000.. 03 00..- 3.) 31.950 Soda-oasis
+9:95 1.... 64:02.0 .039:— uo c3uu0ccoo
+
+5:0 c0423 0n 0.5.38.0
+0.030! 00015. .05 0a 4.3.. 0:39.? 23.00
+$5.008 3:00..- 660 039.... no 63.30.88
+
+:5. ..
+0.. 1:: £059.80 .Iolouau 3 00:08:00
+
+.0022:
+manna-£5008 8.80.. no: .13... 0500009...
+5;: .026 to no 8056-00 3 «5000098
+
+30.3085. 0.3 nelson-.800 .0350 3’5005
+
+1:: .02.. 2330330 .3. 3:0 03.008
+
+.00.: on .24..
+002......— acnuguouauaunv Lou 02.330 .0 05
+
+.30 .3253 0A 1:: 0030.30 9:0 3:
+v...- aaouu0a0u no 0!. 0..» Indie—0.3 50:32:04:
+‘53:: 00050.5 002.. 9.1.2. we 03... 0.3 5
+9c... .3303.— 000003 .13: .30.. «o no 09059000 3
+”300009.:— 0u0n.rou£ 05 9.152.!»qu .9."an
+b33305 .13.. £02.. .3333“? 0:000:
+
+01:000..
+on St. 267...... 02 2:: 5355-000 E00002!
+0:0 €2.3qu- 0A :1. 2.80 05 :0 33.3500:
+
+:3 Zia—w 0.: 5:: 95.50 Lou. :0...—
+
+0:59;“.
+«co—unuuciloo
+Suﬁ..— vzl .Uumuuono
+Jung no :3 505.8
+
+loucaa
+.32....- «33:2:
+2» no :3 .33..
+. .
+20%.. .a Cu squat:
+
+as no 2:21:35.
+
+09.2.5.0
+duo-00. new ne’er—5.2
+
+060. 007300.- uo .501.—
+
+55.9.0
+0.0000. no... 43.9.9.2
+
+loom ue c3309.“—
+
+ 
+
+a..c:..umc:lu.d 38 mo coquauzzcns .3. 52¢ :95 019335.. 00u~>50w .303.
+
+10
+FOR OFFICIAL USE ONLY
+restrictions on use by others shall be eased on a large scale, in order
+to enable the free use of circuits for data-processing purposes.
+
+u. Mutual Connection of Specific Communications Circuits and
+Public Communications Circuits: In reference to the connection of
+specific communications circuits and public communications circuits,
+the individual approval system shall be abolished, and efforts shall be
+made to enable the connection thereof under the certain standards to be
+prescribed by a Postal Services hinistry ordinance. Moreover, the connec-
+
+tion of public communications circuits, specific communications circuits, and
+
+public communications circuits can be secured with approval, though
+i: has not been approved up until now.
+
+5. Connection to Electronic Computers, Etc., to Be Installed by
+Others: Connection to electronic computers to be installed by
+contractors under the use-by-others system and to electronic computers,
+etc., to be installed by others involved in the contracts can be secured
+if it comes under the certain standards to be prescribed by a Postal
+Services Ministry ordinance, or if it obtains individual approval.
+
+3
+
+6. Installation of Input and Output Equipment, Etc.: The Public
+Corporation or companies can offer input and output equipment, etc.,
+
+to contractors for the use of specific communications circuits or
+contractors for the use of public communications circuits.
+
+Supplementary Note: When the Public Tele-Communications Law is
+partially revised, in order to consolidate the use of data communications
+circuits, the strengthening of the Penal Regulations, which is an
+urgent task, shall be carried out.
+
+(1) In regard to persons who engage in public tele-communications
+serVices, the provisions of the Penal Regulations concerning their
+obligation to preserve secrets shall be strengthened.
+
+(2) The amounts of fines, mentioned in the Penal Regulations,
+shall be revised.
+
+naanannaen
+
+[25 Feb 82 p 3]
+
+[Text]
+
+MITI on the 2uth formulated an opinion of criticism, to the effect
+that the general outline of a Public Tale-Communications Law revision
+bill, drawn up by the Postal Services Ministry in connection with the
+problem of liberalizing data conmunications, "is still far from liberal-
+ization." HITI says that if the Postal Services Ministry's draft plan
+
+11
+FOR 0F?1C1A1.USE‘ONLN
+run Vl'l'lkiﬂla U93. Vl‘b!
+
+is to be followed, then problems will remain as to the following points:
+(1) The scope of liberalization is indefinite; therefore, there is the
+fear that depending on how it is operated, it may violate the Provisional
+Administrative Affairs Research Council's recommendation calling for
+the liberalization of data communications, as a general principle; and
+(2) this will prove disadvantageous for the processing of information
+
+by medium and small enterprises, which are unable to have their own
+computers, when compared with big enterprises. MITI will strongly
+request the improvement of these points in the course of the Postal
+Services Ministry's drawing up a draft revision bill, from now. But the
+Ministry is not changing its posture of revising the Law along the
+
+line of its general outline. For this reason, further complications
+
+are expected before early ﬁarch, when a final decision is expected to be
+reached on the revision bill.
+
+Data communications mean the processing of information through the
+direct connection of computers and communications functions, as in
+the case of the on-line systems of banks. Due to the vigorous
+renewal of technology and the appearance of new forms of services
+in rapid succession, voices calling for the liberalization of the use '
+[of data communications circuits] have become stronger, centering on the
+enterprises and information-processing services business-persons
+who use computers. In response to this request. the Postal Services-
+Ministry drew up its revision-bill general outline on the 2uth. In regard
+to the general outline, MITI points out that there are concrete'problems
+as to the liberalization of "message exchange" and "use by others."
+
+Message exchange means the transmitting of information as is,
+without changing the contents thereof, as in the case of the telephone,
+even if it goes through a computer. Data communications for processing
+large amounts of information will inevitably include message exchange.
+However, the contents of the Postal Services Ministry's draft plan
+are such that depending on how the Postal Services Ministry Ordinance
+is operated, message exchange can be restricted,in actual substance.
+
+The stand of HITI is that there is fear of its violating the Provisional
+Administrative Affairs Research Council's recommendation which emphasizes
+that "message exchange should be liberalized,in principle."
+
+Use by others means that information-processing-enterprisers will
+lease circuits from the Nippon Telegraph and Telephone Public Corporation
+(NTT) and sub-lease them to other enteprises. The main objects for the
+joint use of communications circuits by two or more companies are
+big enterprises. while [those for use by others] are medium and small
+enterprises which are unable to have their own computers. However,
+under the Postal Services Ministry's draft plan, use by others will be
+restricted strictly, compared with joint use. HITI says, "For example,
+when trying to establish business contacts by telegram through the
+use of data communications circuits, it will not be permitted in the
+case of use by others, though it will be possible, in the case of
+joint use. There is the fear that this may cause gaps in information
+
+12
+FOR‘DFFKJA1.USE(NVLY
+services. which can be used, between medium and small enterprises and
+big enterprises.
+
+*kaﬁﬁﬁk ﬁfth
+
+Prime Minister Orders Co-ordination of Views between MIT! and Postal
+Services Ministrz -- Data Communications
+
+Postal Services Minister MINOHA called on Prime Minister SUZUKI
+at the Prime Minister's Official Residence on the 2uth, and explained
+the outline of the Ministry's draft of a Public Tele-Communications
+Law concerning the liberalization of the use of data communications
+circuits, which draft was submitted to the LDP Communications
+Department on the same day. In this connection, the Prime Minister
+ordered the continuation of studies between MITI and the Postal
+Services Ministry as to high-level communications services and other
+parts on which co-ordination has still not been carried out between
+the two sides. Moreover, concerning the part which is included in
+the Provisional Administrative Affairs Research Council's second
+
+recommendation, but which is excluded from the Postal Services
+Ministry's draft plan this time, the Prime Minister presented a request,
+
+saying, "I want you to explain it fully to the ProVisional Administrative
+Affairs Research Council."
+
+COPYRIGHT: Nihon Keizai Shimbunsha 1982
+
+C80: 4106/90
+
+13
+FOR OFFICIAL USE ONLY
+ARIANB 4 BXPECTS 43 PERCENT OF MARKET FROM 1986 TO 1990
+Potential Markets, Launch Reliability
+Paris AIR ET COSMOS in French 6 Feb 82 pp 34-35
+
+[Article by Pierre Langereux]
+
+[Text] The Arianespace company has tor the first time released, during the meet-
+ing on the future European launcher, the results of a new market study relating
+to the Ariane 4 launcher for the period 1986-1990. This study, carried out in
+1981 with the help of the Sligos company, based on an informationeprocessing
+simulation of the satellite market for the period 1985-1991. has been used parti-
+cularly to determine what configurations of Ariane 4 rockets will be the most
+suited to that market and to quantify the system-response parameters of the
+Arianespace company's operations. enabling appropriate guidelines to be drawn up
+for the latter. The results, presented by B. Guillaumat of Arianespace. place
+the potential market, in terms of the number of satellites that could be launched
+
+by Ariane A over the 5-year period 1986-1990, at between 50 and 62 satellites,
+these figures representing two estimates (medium and high) of the new European
+launcher's ability to penetrate the potential global market.
+
+The simulation took into account the Ariane 4 launcher that will be available by
+the beginning of 1986 for operational use, in six configurations (depending upon
+the use of two or four solid—propellant and/or liquid-propellant boosters) with
+nose cones 4 meters in diameter and 9.5 to 13 meters in height depending upon the
+mission (single or double launchings). These six configurations were selected as
+the best suited on the basis of the following criteria:
+
+--Mininization of the number of launchers used for any given scenario (specifying
+a number of satellites to be launched);
+
+--Minimization of the overall cost of the launchings (which takes into account,
+on the one hand, the actual cost of a given launching and, on the other hand. the
+fill factor for the launcher):
+
+--Hinimization of the risks inherent in the dispersion of the overall launch
+
+costs of a given scenario. depending upon the launch dates actually requested by
+the potential clients. To eliminate the effect of individual cases, a large
+
+15
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+number of configurations of dates were drawn up for each scenario. Each mission
+model thus generated yielded its own multiple launching associations, hence a
+dispersion of costs. Furthermore, for each mission model several sets of asso-
+ciations are possible, account taken of degrees of freedom. Optimization yields
+launchings at minimum cost, the others falling within a cost spread of around
+
+5 percent.
+
+The performance characteristics of the six configurations of Ariane 4 launchers
+that have been chosen for launchings into geostationary transfer orbit will
+enable single launchings of satellites weighing respectively: 2,000 kg (Intelsat
+5A or direct-TV satellites), 2,600 kg (enhanced direct-TV satellites), 3,000 kg,
+3,200 kg, 3,700 kg (Intelsat 6) and 4,200 kg (enhanced Intelsat 6). The same
+configurations with the SPBLDA expansion unknown] system (375 kg) will enable 7
+double launchings respectively as follows: 1,450 kg (Telecon or direct TV) and
+775 kg (meteorological): 1,450 kg (Telecom of direct TV) and 1,175 kg (Telecom):
+1,450 kg (Telecom or direct TV) and 1,375 kg (Telecom or direct TV); 2,000 kg
+(Intelsat 5A or direct TV) and 1,325 kg (Telecom or direct TV); 2,450 kg (direct
+TV) and 1,373 kg (Telecom or direct TV). Satellites weighing 3,000 kg (enhanced
+SPOT [Earth Observation Probe System]) can also be launched in the single-launch
+mode into heliosynchronous' orbit.
+
+The study took .nto account only the period 1986-1990, considering the years 1985
+and 1991 only as representing baundary conditions. Ariane's potential market is
+thus estimated at 178 satellites over the 1985-1991 period (7 years) and at 143
+satellites over the 1986-1990 period (5 years). The world market (outside the
+USSR and not counting U. S. military satellites) for the same periods is, respec-
+tively, estimated at 238 and 207 satellites. Taking into account only satellites
+covered by current, scheduled, known or planned programs, the simulation has in-
+tentionally underestimated the potential market for the period 1988-1991 in the
+interest of realism. The world and potential markets have been broken down into
+five country groupings, ten types of missions, two types of orbits (heliosynchro-
+nous and geostationary): and nine classes of satellites (see tables).
+
+The simulation has in particular identified the possibilities of association of
+satellites permitting double launchings with Ariane 4, the criterion used for
+this selection having been the determination of a minimum launching cost for a
+given mission model, and this criterion being subject to adjustments in actual
+practice to deal with inevitable delays attributable to the-satellites. The
+simulation thus yielded more “realistic' possibilities of association within a
+deviation of around 5 percent from the minimum-cost association.
+
+Thus, the study has resulted in the following findings: Ariane 4 can expect to
+launch between 50 and 62 satellites (medium and high estimates) during the period
+considered (1986-1990), representing a penetration of 35 to 45 percent into the
+potential market. This will represent between 32 and 41 launchings (single and
+double combined) in 5 years, or a little over 6 to 8 launchings per year (an
+estimate that is compatible with the xourou complex's launching capabilities).
+The launch coefficient, which takes into account a certain mission scrub rate,
+attributable either to the launcher or the satellite, is estimated at 15 percent.
+These market assumptions yield a mean fill factor of 08-89 percent for the number
+of missions and the period considered.
+
+15
+FOR OFFICIAL USE ONLY
+Ariane Launcher'e Potential Market for 1986-1990 (Source: Arianegggcez
+
+Country
+Grouping
+
+ 
+
+Europe
+United States
+
+International
+bodies
+
+Other developed
+
+countries
+
+Developing
+countries
+
+Total Market:
+
+1985-1991
+(7 years)
+
+1986-1990
+(5 years)
+
+ 
+
+Tbtal Market“
+
+ 
+
+share
+Satel- (per-
+lites cent}
+43 16.6
+135 52.3
+24 9.3
+25 9.7
+31 l2.l
+
+- 258 100
+
+207 -
+
+Ariane's Potential Market- 1986-1990
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Medium Bstinate High Estimate
+
+Share Share Share
+
+Satel- (per- Satel- (per- Satel- (per-
+
+lites cent) lites cent} lites cent!
+43 24.2 30 88 34 100
+55 30.9 4 22 6 33
+
+24 13.5 4 9.5 6 14.3
+25 14.1 6 25 . 6 25
+31 17.3 6 24 _;§L__ -40
+178 69 - - - -
+143 - so - 62 -
+
+__________________________.___._______.._...__._._.______________..________
+* Worldwide. except USSR and other communist countries.
+
+16
+
+FIIIOFFKJAI.USE(NVLY
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000600050033-5
+
+' I‘UK UI'I'ILIAL Ubb UIVLI
+
+Ariane Market Forecasts: 1986-
+
+ 
+
+ 
+
+Pent
+I Item E
+
+Market penetration (percent):
+Ariane potential 3!
+Worldwide z
+
+Satellites launched by Arianex
+Total
+In low orbits
+
+' In geostationary orbits
+Total launched weight (tons)
+
+Number of launches
+Single
+Double
+Total
+
+Average launches per year (5 years)
+Number of satellites per rocket (average)
+
+Pill factor (percent):
+single launching: - 8
+Double launchings - 9
+
+Average ' 8
+_____________.____———-———-
+
+COPYRIGHT: A. 8 C. 1982
+
+- 17
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007102109: ClA-RDP82-00860R000600060033-6
+Geostationary Satellite Launch Cost
+Paris AIR ET cpsms in French 6 Feb 82 p 35
+
+{'Article by Pierre Langereux]
+
+{Excerptj Geostationary Satellite Launch Costs.
+(Source: BSA [European Space Agench)
+
+       
+
+ 
+
+       
+      
+ 
+      
+ 
+      
+
+uﬁﬁluns (2) Mme so than. mm on m..., (6) c.“ u a...“
+(3) 0:ch (4)1vmkzien 5)Gurnc~one “Hal. 3 am“ m
+
+ 
+
+ 
+
+Ihmulomm —
+
+ 
+
+am 26 12 new
+"no use
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+\._'2_A'-I~o ML 0 :90“. — a nun
+31w- *3”? wr. __«_~s._* ‘_'_if_!__w =1 ‘7»?—
+II: sumo o SSHS-A o ‘09:: nun __ __' 1M _ _; Im a 4m
+til-um. 0 ms _ _ ___2I I50 ___—. . 223:) a) 3m
+' Shame 0 Congo: -___—___' - ___Emo __ so um
+
+ 
+
+ 
+
+In Shun. + onoulm Image)
+
+In SMII 9 Fence. 9 men
+
+ 
+
+'Note: These estimates are based on the following (1981) costs of launchers:
+
+1 Shuttle $60 million. 1/2 Shuttle I30 million, 1 Ariane 44 L $70 million,
+
+1/2 Ariane 44 L $40 million. The (1981) costs of upper stages are: 1 ms (solid)
+$30 million, 1 Centaur (cryogenic) $30 million. 1 SSUS-A (solid) $16 nillion.
+
+1 8808-0 (solid) $10 million. 1 perigee motor (liquid) $20 million, and 1 apogee
+motor (liquid) $2 million. The integrated propulsion system (IPS) serving as
+perigee and apogee motor is calculated at $8 million.
+
+ 
+
+ 
+
+Key:
+1. Launchers. 5. Geostationary orbit- kg.
+2. Payload weight in orbit. 6. Launch cost.
+3. Low orbit- kg. 7. Cost as/payload ratio - $/kg.
+4. Transfer orbit- kg. 8. shuttle + 198.
+
+COPYRIGHT: A. 8 C. 1982
+
+9238
+C80: 5500/2118
+
+18
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+FRANCE
+
+1982 (tentatively, after 20 April) with two European geostationar satellites--
+MARECS-Z and SIRIO-2--that will use for the first time the SYLDA Ariane Double
+Launch System] developed by Arianespace. This first operational launch (L5).
+which follows four flight test launches (Ll through L4) carried out between
+December 1979 and December 1981, will also be the first launch of the "promotion-
+a1 series" that is being sponsored by the BSA. Seven operational launches are
+planned under this promotional series, four in 1982 and three in 1983. Subsequent
+launches, after September 1983. will be done by the private company Arianespace.
+
+partici sting in the program. Text [Paris AIR ET COSMOS in French 6 Feb 82
+p 35] COPYRIGHT: A. a c. 1932
+
+ARIANE LAUNCH SET FOR APRIL--1he first operational launch of the new European Ariane
+rocket is currently planned for 22 or 23 April of this year, at Kourou (French
+Guyana); its payload will be two new European geostationary satellites, HARECS B and
+Sirio 2. This will be the fifth launch of the Ariane rocket, which is henceforth
+qualified after the success of three out of four flight tests conducted between
+December 1979 and December I981. This will also be the first launch carried out
+with the new double launch system, SYLDA, specially developed by Aerospatiale.
+
+SYLDA is an adapter shaped like an enormous egg, made of carbon fibers for reasons
+of lightness and rigidity. One of the satellites is placed inside, while the other
+is attached to SYLDA; after insertion into orbit, the latter opens in two, to
+release the satellite placed inside. The satellite HARECS B is the second European
+maritime telecommunications satellite built under BSA direction, for the new
+organization for maritime telecommunications by means of Inmarsat satellites. The
+satellite Sirio 2 is a new European experimental satellite built in Italy for ESA.
+Sirio 2 will have two missions: distribution of data (treated images) from the
+European meteorologic satellites Heteostat (HDD experiment), and synchronization of
+atomic clocks by laser telemetry accross the Atlantic (LASSO experiment). [Text]
+
+[Paris AIR ET COSMOS in French 20 Feb 82 p 37] [COPYRIGHT: AIR ET COSMOS I982]
+1|,023
+
+END
+C50: 5500/2136 19
+FOR OFFICIAL USE ONLY

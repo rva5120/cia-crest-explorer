@@ -1,0 +1,2676 @@
+FOR OFFICIAL L'SE ONLV
+
+JPRS L/10068
+23 October 1981
+
+USSR Report
+
+ENGINEERING AND EQUIPMENT
+
+(FOUO 6/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[I are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGFTIAMS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODCCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10068
+23 October 1981
+
+USSR REPORT
+
+ENGINEERING AND EQUIPMENT
+(P000 6/ 8 1)
+
+CONTENTS
+
+NUCLEAR ENERGY
+Modeling Transient and Emergency Modes on Simulation Trainer ........ 1
+
+Performance of Leningrad Nuclear Electric Power Station Reviewed .... 6
+
+Analysis of Equipment Failure at Active Soviet Nuclear Power
+Stations mt‘ m-hho Reactors .00...00000000000000...cocooeeooooo 12
+
+Design Measures To Ensure Operability of Nuclear Electric Plants
+With M Reactors Under Energemcy Conditions .... 1?
+
+Investigation of Efficiency of Decontaninating ERIK-1000 Coolant
+0f ﬁansuranium Elements 0......0I.0...OOIOOOOOOOIOI...00.000000... 21‘
+
+Thermophysical Properties of working Fluids of Gas-Phase
+Nuclear. ReSCmr .0...000.000.0000...0..DID-OIOOOOOOOOOO00.0.0000... 27
+
+INwS'I'RIAI. TECHNOImY
+Modeling on Computer System for Automated Design of Industrial
+
+RDbOts Ooeoeeeeeeee00.00.ee.I...neocouyeeeeoeeeoooeoeeoe_eeoeeoeeeeo 29
+
+Classification and Technological Criteria for Controlling
+IndDStrial Robots 0.0000.oeoI...oeoooooeooooolooeeeoooe0.000.000...
+
+E: E;
+
+Technological MHD Installations and Processes .......................
+TESTING AND MATERIALS
+Antifriction Coatings on Titanium Alloys Products ..a................ he
+
+Carrying Capacity of Working Blades of Gas-Turbine Digines
+Under vibration loads COOOOOOOCCIO..II.O.COOOOOOOOOOOICOOIOOOOOO... 51
+
+- a - [III - USSR - 2].? SET P000]
+FOR OFFICIAL USE ONLY
+
+nucnran ENERGY
+
+UDC [621.311.25:621.039].007:658.386
+MODELING TRANSIENT AND EMERGENCY MODES 0N SIMULATION TRAINER
+Moscow ELEKTRICHESKIYE STANTSII in Russian No 8, Aug 81 pp 9-11
+
+(Article by candidate of the engineering sciences 8.6. Huradyan and engineers
+A.A. Ayrapetyan and 0.3. Babadzhanyan. Yerevan Affiliate of the All-Union Scientific
+Research Institute for Nuclear Power Stations]
+
+[Text] Unforeseen deviations from the specified operating mode are possible at the
+AES's in service because of disruptions in the operation of the production process
+systems, equipment or power unit monitoring and control systems [1].
+
+In such situations, which are called nonstandard in the following, the operational
+personnel of the power unit should quickly determine the source of the deviation
+and take the requisite steps to restore normal operating conditions for the power
+unit. Incorrect actions by the operating personnel in nonstandard situations fre—
+quently lead to serious emergencies, and for this reason, reaction speed and error
+free action on the part of the operators when controlling the operational modes of
+AES power units take on special significance, and special teaching and training
+centers (UTTs) are being created for then, where these centers are equipped with
+trainers and other technical instruction tools.
+
+Faults occur randomly in the systems of ABS power units and constant readiness.on
+the part of the operators during their shift work is required for the timely detec-
+tion and elimination of the faults, something which also explains the stressful
+nature of their activity.
+
+Operators go through training in the simulators in both teaching and testing modes.
+In the teaching mode. operator training in the simulator is carried out in accord-
+ance with previously composed scenarios, in which specific nonstandard situations
+are studied. The entire instructional course program is broken down into topics,
+upon the completion of which there is a test of the mastery of the material which
+has been covered. Upon completing the training course, operators in the teaching
+and training centers go through final certification and receive appropriate skill
+certifications [2].
+
+In order to reproduce as completely as possible the work conditions of the opera-
+tors on shift duty in the training simulator (the stressful psychological and
+physiological state and the constant readiness for intervention in the power unit
+control system). it is expedient during testing to simulate the random nature of
+the occurrence of defects in the power unit systems.
+
+IIMRCHﬂﬂCIAl.lEﬂ£(HVLY
+FOR OFFICIAL USE ONLY
+
+A method of simulating nonstandard situations in trainers for situations which occur
+in a power unit, taking into account the random nature of their occurrence, is
+treated in the following.
+
+Nonstandard situations in a power unit can be caused both by defects within a power
+unit (defects in equipment, in control and monitor systems) and by external effects
+(for example, a sudden drop in the electrical load, operator errors in controlling
+the power unit, etc.) [3]. As a rule, operators using the power unit monitoring
+system do not detect the basic cause of the occurrence of nonstandard situations.
+but rather a certain condition of the production process system which is a conse-
+quence of the disruptions or deviations which have occurred.
+
+Logic and dynamic mathematical models of a power unit are reproduced in the simula-
+tion trainer, where these models are developed on the basis of the calculated de-
+sign configurations of the production process systems, including a specified com-
+plement of modeled equipment. The locations and nature of the defects being simu-
+lated in the trainer are ascertained by means of preliminary analysis in the calcu-
+lated design configurations. As a result of doing this work, the set of those para-
+meters is determined (the coefficients and variables) for the mathematical models,
+
+a change in which within a specified range (either continuously or in discrete
+steps) leads to the reproduction of the nonstandard situations in the trainer. It
+is not precluded that it will be necessary to incorporate supplemental logic or
+differential equations to introduce a certain class of defects into the mathematical
+models of the power unit.
+
+Defects in equipment, operational failures and deviations from specified operating
+conditions of the production process systems of a power unit, which are termed
+perturbations in the following, can be broken down qualitatively into three classes.
+
+The first class includes perturbations which as a rule do not lead to emergency
+situations. For example, the failure of individual controls, transducers, etc.
+Such perturbations are most frequently encountered during the process of operating
+ABS power units.
+
+The second class includes perturbations which, if there is no operator intervention,
+can lead to emergency situations. Examples of such perturbations are the loss of
+reactor controls, failures in opening or closing gate valves, in turning pumps on
+or off, etc.).
+
+The third class includes perturbations which necessarily produce emergency situa-
+tions. For example, a break in the pipes of the primary loop of power units with
+VVER's [water-moderated, water-cooled power reactors], the sudden disconnection of
+the main circulation pumps. the loss of power by the station, etc. Perturbations
+of this kind are encountered comparatively rarely. Since the simulation trainers
+are designed for the purpose of instruction, it is apparent that the probability
+of occurrence of perturbations must be changed in them as compared to actual power
+units.
+
+The occurrence probability for the first class of perturbations can be reduced in
+the simulation trainer, since operators can acquire the requisite operational ex-
+
+perience for such situations on an actual power unit. And vice-verse, the proba-
+bility of the occurrence of the third class of perturbations must be increased
+
+2
+FOR_OWTNCJA1.USE(MNLY
+FOR‘0FFKJA1.USEIONL¥
+
+in the trainers, since their occurrence entails serious consequences, and in this
+case, the probability of teaching operators the actions to take in such situations
+is small with an actual unit.
+
+The random nature of the occurrence of nonstandard situations can be simulated by
+means of a random number generator [4].
+
+A random number generator periodically (for example, with a period equal to the
+integration step) generates numbers in an interval (a, b), which is broken down
+into two parts (a, c) and (c, b), in which case, the size of the interval (c, b)
+
+is much greater than the size of the interval (a, c). If the random number falls
+in the interval (c, b), it is assumed that there is no perturbation. In turn, the
+interval (a, c) is broken down into small intervals, the number of which corresponds
+to the number of possible perturbations, while the width of the intervals corres-
+ponds to the probability of their occurrence. If the random number generator has
+produced a number in the interval (a1, c1) 62 (a, c), this means that the perturba-
+tion with the corresponding number i has been selected.
+
+As was noted earlier, both discrete and continuous input parameters are included
+in the set of perturbations. If a discrete input parameter corresponds to the
+interval (at. c1). then when the random number x falls at any point in the range
+(a1. c1). the given discrete perturbation is selected. However, if a continuous
+variable corresponds to the interval (a1, c1), the probability of the appearance
+of values of which likewise changes continuously over this range, than the choice
+of the values of the variable can be made in two ways. The input of the values of
+the input parameter can be digitized, breaking the interval (a1, c1) down into sub-
+intervals, the width of which is proportional to the probability of the appearance
+of discrete values of the input parameter. The choice of the values of the input
+parameter can likewise be made by means of a certain function of the randomrnumber
+x, similar to the distribution function for the probabilities of the appearance of
+the values of this parameter.
+
+As an example of the second method, we shall consider the case where with an in-
+crease in the value T [T£E(To, T1)]. the probability of its appearance falls off
+continuously:
+
+T=.- To cxp |u(.\'—-a.)’].
+
+"he" u=ln(T./7'o)/(c.---a.)’.
+
+The probability of the occurrence of an arbitrary perturbation is:
+
+ 
+
+ﬂ—C
+.4==;::;.
+while the probability of the occurrence of the perturbation corresponding to the
+interval (a1, c1) is: a:_"
+q": one"
+I
+[t is apparent that qstls m. where Z is the number of perturbations.
+i‘..l
+
+The monitoring process in the simulation trainer using the method considered here
+for perturbation input is accomplished as follows.
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The specified input mode is set in the trainer and the random ntnber generator is
+triggered. The input of an arbitrary perturbation (from the selected set) into the
+production process being simulated should be accomplished during a time to, deter-
+mined from procedural and psychological considerations. If we assume that there are
+n drawings over the time t, then the probability that one arbitrary perturbation
+will be selected during this time is
+
+o - 1- (1-0)“
+
+It is apparent that with a sufficiently large n, the probability of selecting any
+perturbation tends to unity. ‘
+
+The coordinate of the point c on the segment (a, b) for specified values of to
+and the drawing rate R is determined from the following expression:
+
+c - a - (a - hm - (1-0)1’“°l.
+where no is the integer part of the expression kto.
+
+The production process parameters begin to change the moment the perturbations are
+fed in; the operator should be capable of eliminating the defects and restoring
+the normal operating conditions of the power unit through his own actions.
+
+The entire course of the check exercise is recorded and the corresponding printout
+is fed out at the end of the exercise.
+
+In AES operational practice, it is possible for not just one emergency (nonstandard)
+situation to arise. but a chain of emergency situations, one after the other. Two
+methods can be used to simulate such superimposed complex nonstandard situations.
+
+In the first method, the complex nonstandard situation is included as one pertur-
+bation in the interval (a, c). In this case, the choice of the complex nonstandard
+situation has a probability
+
+in
+
+1-1
+of being made, where m is the number of complex perturbations. With the choice
+
+of the i-th complex perturbation, the program is started which specifies the seque-
+nce for the input of the simple perturbations.
+
+In the second case, a complex nonstandard situation can be created by repeatedly
+feeding in perturbations, turning on the random number generator at a different
+frequency for each subsequent step of the drawing (the time segment from one selec-
+ted nonstandard situation to the next). In this case, it becomes possible to
+create complex perturbations as the need arises. It is apparent that the choice
+
+of the same perturbation in different steps of the drawing cannot be tolerated,
+
+and for this reason, following the choice of a perturbation. the interval (a1, c1)
+corresponding to it is added to (c, b).
+
+An advantage of this method is the fact that one can create a rather large number
+of complex nonstandard situations with the superimposition of two. three or more
+
+h
+IN)! 0FTWC]AI.USEI(NNLY
+FOII OFFICIAL USE ONLY
+
+perturbations from the specified set of perturbations. For example, with the
+superimposition of three perturbations, the overall number of complex nonstandard
+situations will be equal to Z(Z - l)(l - 2).
+
+The time allocated in the trainer for each student in the teaching mode is limited,
+and for this reason, the trainees during the training process can in practice study
+only a portion of the nonstandard and emergency situations modeled in the simula-
+tion trainer. All of the situations provided for simulation can Le reproduced in
+the testing modes using the proposed method, i.e., the traineee will sometimes be
+confronted by situations with which they are familiar only from theoretical exer-
+cises. In conclusion, it must be noted that the method considered here provides for
+simulation of operator's work conditions in simulator for on-line power units,
+something which allows us to hope for a more objective estimate of their level of
+training. Moreover, during the process of training in the simulator, the operators
+will also acquire definite psychological and physiological skills when working in
+nonstandard situations.
+
+BIBLIOGRAPHY
+
+1. "0b avarii na ABS 'Tri—Hayl-Aylend-Z'" ["On the Accident at 'Three Mile Island'
+Nuclear Power Station"], ATOHNAYA ENERGIYA, 1979, Vol 47, No 1.
+
+2. Nuradyan 8.6., Kashirin V.H., "Sisteny podgotovki operatorov AES" ["A Training
+Systan for Nuclear Power Station Operators"], ELEKTRICHESKIYE STANTSII
+[ELECTRICAL POWER STATIONS], 1981, No l.
+
+3. "Analiz avariy" ["Accident Analysis"], in the book,"Bezopasnost' yadernoy
+energetiki" ["Nuclear Power Engineering Safety"], edited by J. Past and L.
+Weaver, Moscow, Atomizdat, 1980.
+
+a. "Shornik nauchnykh programm na FORTRAN!" ["A Collection of Scientific Programs
+in FORTRAN"], Moscow, Statistika Publishers, 1974, No 1.
+COPYRIGHT: Energoizdat, "Elektricheskiye stantsii", 1981.
+
+8225
+C50: 8164/1824-8
+
+5
+FOR OFFICIAL use onur
+FOI.OFINC1Al.lﬂﬂE(MVLY
+
+UDC 621.311.25:621.039.004
+PERFORMANCE OF LENINGRAD NUCLEAR ELECTRIC POUER STATION REVIEWED
+Moscow BLEKTRICHESKIYE STANTSII in Russian No 8, Aug 81 pp 6-9
+[Article by engineer A.P. Yeperin, Leningradskaya ABS]
+
+[Text] The 1970's were marked by the rapid exoansion of a new area
+in the field of power engineering. This new area was born in the Soviet Union in
+
+1954 with the start of the first nuclear electric power station in the world in
+Ohninsk.
+
+A widescale program of nuclear power station construction in the European region
+
+of the USSR was planned through the directives of the 24th and 25th CPSU Congresses.
+An even more ambitious program of ABS construction was approved at the 26th CPSU
+Congress.
+
+The progress in the development of our nation's nuclear power engineering is linked
+to no small extent with the creation of the Leningradskaya Nuclear Electric Power
+Station imeni v.1. Lenin.
+
+The construction of the station was started in 1967, while the main unit with an
+electrical capacity of 1,000 MU having an RBHK-IOOO reactor and two 500 NH turbine
+generators was brought on line in December of 1973. In July of 1975, the second
+unit of the station with the same reactor went on line at the industrial load.
+
+In 1975, the construction of the second stage of the station was started: the third
+and fourth power sets with capacities of 1,000 MB each. The third power unit was
+placed in service in December of 1979, while on February 9th, 1981; the creators
+
+of the Leningradskaya ABS (LABS) marked a new victory: the fourth power unit was
+brought on line at the industrial load. The socialist obligations assumed by
+
+the collectives of builders. installers, alignment workers as well as operational
+workers in honor of the 26th Congress of the Communist Party of the Soviet Union
+were successfully completed with this event. The Leningradskaya ABS became one of
+the largest nuclear power stations in the world when the fourth unit was brought
+
+on line.
+
+The operation of the first and subsequent units of the station has made it possible
+to accumulate invaluable experience which was used in the design of other units
+and nuclear electric power stations with RBHK [channel type, graphite moderated
+high power] reactors. In this case, deficiencies were found in the project plan
+and design solutions. and ways of eliminating them were determined. Custom-made
+
+6
+FOR OFINCJAl.lEﬂE(NVLY
+it possible to begin the design of the next series of AES's with RBHK reactors.
+but now with a capacity 50 percent higher (the RBHK-lSOO). In this case, the core
+dimensions of the reactor will remain practically the same as for the 1,000 MW
+reactor (the RBHK-lOOO). This has become possible because of the development of
+
+a new type of fuel cassette with heat exchange intensifiers. which have been
+tested successfully at the Leningradskaya ABS.
+
+system (SUZ). which incorporates three systems of automatic controllers for the
+overall reactor power and a system of local automated controllers and protection
+to maintain the'power within the specified range in individual regions of the reac-
+tor core. A SFKRE system (physical monitoring of the liberated energy distribution)
+
+This system, as a part of the complex with the "Skala" centralized monitoring sys-
+tem, which is designed around specialized computers, continuously performs calcula-
+tions to determine the thermal engineering reliability of each production process
+channel of the reactor. The operator who controls and monitors reactor operation
+receives continuous data from this system in the form of light signaling and print-
+out charts. This makes it possible to perform a timely analysis of changes in the
+
+drical case. Thus, the cladding seal BlaLls monitoring system, as part of a com-
+plex with the loading and unloading machine, makes it possible to maintain the
+purity in the circulation loop through the reactor and provide for a normal radia-
+
+FOR 0F?1(JAI.[EHE(MVLV
+FOR ()I-‘l-‘ﬂ 1M. USE ONLY
+
+In case of an emergency shutdown of a unit, the designers and project planners have
+provided systems for screaming the reactor and subsequently cooling the core. In
+this case, special attention has been devoted to the reliability of the electrical
+power supply for the station shutdown mechanisms which participate in these opera-
+tions. Besides the traditional ways of boosting the electrical power supply relia-
+bility for the station, a diesel electric power generator is additionally installed
+which is started automatically by the actuation signals for the emergency protection
+aMpmuusdunkﬂpwufmthrﬂnuemwrmwhquM.
+
+Despite the fact that the water flowing through the reactor core has a relatively
+high radioactivity, this nonetheless is no threat to the safety of the servicing
+personnel. Such a situation is assured by the fact that all of the production pro-
+cess systems with the radioactive coolant are made as tight systems and housed in
+special protective boxes. Possible leakage of the radioactive water is localized
+by means of a system for trap water collection and processing, as well as intent-
+ional leaks. The water which is processed and purified by this system is returned
+to the production process loop.
+
+The liquid radioactive wastes which appear during the process of cleaning and re-
+processing the production process loop water are directed via a special route into
+special tanks for further reprocessing and subsequent burial of the highly radio-
+active residue. The atmospheric purity of the ambient air basin and the air in
+the rooms is maintained by means of production process and overall ventilation ex-
+change systems, the operational mode of which provides for clean air delivery to
+attended rooms and exhaust with subsequent purification in special filters from
+unattended rooms. Following the filters, the air is ejected through a ventilation
+pipe 150 meters high.
+
+Despite the reliability of the steps taken to protect the servicing personnel and
+the environment against radiation, there is an automated dosimetric monitoring sys-
+tem at the station for the gamma radiation level, as well as the concentration of
+radioactive gases and aerosols in the most important production rooms and in the
+air ejected through the ventilation stack. The cleanliness of the wall surfaces
+of the rooms and the production process equipment is checked periodically as well
+as the presence of radioactivity in the atmospheric air, the water basin, soil.
+vegetation and foodstuffs. The monitoring system confirms the reliability of the
+adopted protective measures.
+
+Operational experience with the first two units of the station, and the increase
+in the stringency of the requirements placed on assuring the safety of AES's and
+protecting the environment, as well as the achievements of science and engineering,
+have necessitated new design solutions for individual equipment and production
+process questions in the design of the third and fourth units of the station.
+
+All of this was responsible for a number of special features of the third and fourth
+units as compared to the RBHK-lOOO reactors which had gone on line previously:
+
+—-The modular layout of the main and auxiliary installations and production process
+systems, which makes it possible to resolve questions of repairing the equipment
+and fittings in a nonoperating unit relatively simply and preclude errors by
+personnel during changeovers;
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+--The improvement of the system for containing the products from a loss of seal
+accident by containers and tanks in emergencies, related to pipe breakages in the
+multiple forced circulation (HPTa) loop:
+
+brought about a marked change in the layout of the main building, the systems housed
+in it and have predetermined specific features of the start~up and alignment work
+as well as the physical and power starts of a unit.
+
+A major features of starting a reactor of the third and fourth units is the fact
+that two percent enriched fuel is used in the initial charge of all fuel rods in
+them for the first thme in reactors of this type.
+
+rods and the supplemental moderators (DP's), as well as setting up a full scale
+load while meeting the requirements of nuclear safety.
+
+central cavity of a fuel cassette as an additional means of compensating for
+excess reactivity in the physical start program. In contrast to all of the
+previous RBHK-lOOO reactors. the charging of the third unit reactor took place
+with water present in the production process channel (TK's) of the multiple
+forced circulation loop.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+calculations based on two-dimensional programs; experiments were run to determine
+
+reactivity effects in order to obtian data for running three-dimensional computa-
+tional programs.
+
+A set of start-up and alignment operations and experiments was performed during
+the power start period, which made it possible to check and more precisely specify
+the characteristics and operational modes of the equipment, the production process
+systems at various power levels, including the neutron physics characteristics of
+
+brickwork, as well as effects caused by activation and reactor radiation, i.e.,
+check the quality of the biological shieldings; the radio-chemical composition of
+the coolant for all loOpa; the radiation status in the rooms and on site. as well
+as the dynamic characteristics of the unit. The control point settings for the
+protection, interlocking and signaling were also made more precise during this
+same period; the safety valves and the automatic control systems were adjusted;
+
+as well as the pre-assembly examination of the pumping equipment. fittings. elec-
+trical equipment, etc.) and their self-sacrificing labor made it possible to
+bring the fourth unit of the station on line within a curtailed timefrane. The
+
+months after the physical start and only 1.5 months after the physical start of
+the fourth unit.
+
+The station staff finished 1980, the concluding year of the 10th Pive~Year Plan,
+with good results:
+
+-—The five-year plan for electrical power output was fulfilled on November 6,
+1980, and the plan for power generation was fulfilled on November 17, 1980;
+
+r—The annual plan for electrical power output was fulfilled on December 18 and
+that for power generation on December 20;
+
+10
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+--'l'he installed capacity utilization factor was 73 percent, despite the fact that
+the installed capacity of the third power unit was mastered in the first half-year
+following start-up;
+
+--The production cost per KHH of electrical power was reduced by 14.1 percent and
+amounted to 0.797 kopeck/KHH.
+
+Based on the results of the All-Union Socialists Competition of 1980, the station
+staff was awarded the challenge Red Banner of the CPSU Central Comittee. the USSR
+Council of Ministers, the All-Union Central Trade Union Council and the Komsonol
+Central Comittee, as well as the memorial medal "For High Work Quality and Effic-
+iency in the 10th Five-Year Plan", which was entered on the All-Union Board of
+Honor of the USSR Exhibition of National Economic Achievaents.
+
+The Leningradskaya ABS ineni V.I. Lenin has become the major supplier of electric
+power to the Leningrad Power Administration system. The plan for electric power
+generation in 1981 is 22.6 billion KHH. By the end of the year, the total anount
+of electrical power generated bv the station from the time it was started will
+reach 100 billion KW“.
+
+Thu successes of the staff of the Leningradsksya ABS imeni V.I. Lenin once again
+underscore the correctness of the party and goverment policy related to the further
+development of power engineering in our nation and inspire confidence that the tasks
+ahead in this field will be carried out successfully.
+
+COPYRIGHT: Energoizdat, "Elektricheskiye stantsii", 1981.
+
+8225
+C50: 8144/1826—3
+
+11
+FOR OFFICIAL USE ONLY
+lNJR‘OI1ﬂC1AL.U§I§CNVLY
+
+UDC 621.039.58'68
+
+ANALYSIS OF EQUIPMENT FAILURE AT ACTIVE SOVIET NUCLEAR POHER STATIONS HITH VVER-440
+REACTORS
+
+Moscow ATOMNAYA ENERGIYA in Russian Vol 50. No 6. Apr 81 (manuscript received
+14 Nov 80) pp 248-250
+
+[Article by F. Ya. Ovchinnikov, L. H. Voronin. B. B. Baturov. A. A. Abagyan and
+S. A. Lesnoy]
+
+[Text] One of the major trends in development of nuclear power in the Soviet Union
+is construction of nuclear electric facilities with water-cooled water~moderated
+power reactors [VVER). The first power facility with a VVBR-ZIO was put into in-
+dustrial operation in 1964 at the Novocherkassk Nuclear Electric Plant. A large
+series of power facilities with vvrn-aao reactors has been put into operation since
+1971 in the USSR and several other nations (East Germany. Bulgaria. Finland. Czecho-
+slovakia) with technical assistance from the Soviet Union.
+
+Operation has confirmed the correctness of engineering decisions in design develop-
+ments, as well as conformance of the actual working characteristics of power facili-
+ties to the projected levels. Operational experience has also enabled determina-
+tion of ways to further improve equipment and technological systems in accordance
+with increasing requirements for safety and reliability of nuclear electric plant
+operation.
+
+Safety problems for normal working conditions can be considered completely solved.
+However. for emergency conditions these problems need further research. Interna-
+tional experience in the development of nuclear power shows that the very concept
+of "safety" and the methods of achieving it are undergoing continuous changes in
+connection with massive construction of nuclear power facilities and the search
+
+for rational. technically feasible means of ensuring safety. VVER reactors of
+
+the first generation had shielding and localizing systems corresponding to the
+limited scale of a maximum credible accident that was accepted at the time. Con-
+siderable emphasis was placed on the factor of keeping the nuclear electric plant
+far from populated areas. The safety systems in power facilities with unified
+VVER-hho reactors that are now being introduced are designed for counteracting
+
+more extensive damage up to and including a break in the pipelines of the main
+circulation loop with maximum diameter for which the consequences of an accident
+are potentially more serious. Obviously it is very difficult to solve this problem
+by technical means alone, i. e. by using hardware to meet all safety requirements
+in building a nuclear electric plant that does not subject the surrounding environ-
+ment to at least a slight risk of contamination. All efforts in the area of safety
+
+12
+FOR(NﬂﬂK]Al.US€(NWLY
+
+should be directed toward reducing the degree of risk. Such efforts will be fruit-
+ful only upon condition of inseparable combination of technical safety facilities
+with a high level of organization in utilizing these facilities.
+
+Experience in the operation of nuclear electric plants throughout the world shows
+that while we are developing and constantly improving hardware for preventing and
+localizing large accidents (up to and including instantaneous transverse rupture
+of maximum-diameter pipelines), we need to be just as serious in working out and
+perfecting methods and means of preventing and clearing up so-called "minor acci-
+dents." In large part. these methods and means are the same as those aimed at
+ensuring the reliability of nuclear power plants as sources of energy. since any
+disruptions in the operation of mafor equipment that are due to failures and de—
+fects lead to power limitations for purposes of preventing deviations of the param-
+eters of the facility beyond safe limits. In other words. to ensure safety. a
+reduction in reliability predetermines the necessity of placing constraints on
+the working conditions of a facility.
+
+Comprehensive in-depth analysis of equipment operation to find the weakest links
+
+in technological systems of nuclear electric plants and improve their reliability
+has been a matter of course since the startup of the first VVER power facilities.
+Since 1977. a unified system has been in operation in the USSR for collecting data
+on failures and defects of nuclear electric plant equipment. The acquisition of
+reliable information enables isolation of the most typical failures that lead to
+emergency outages. unplanned down time and reduced economic efficiency of nuclear
+electric plants. Timely determination of the causes of equipment failures and
+defects (especially for the equipment of systems having to do with the safety of
+
+a nuclear electric plant) means that effective work can be done on improving this
+equipment from the design stage to final operational use. For the sake of'conveni—
+ence of such analysis and evaluation of the influence of failures and defects on
+the operational reliability and safety of nuclear electric plants. equipment has
+been divided into groups in accordance with functional designation. The table
+shows the spectrum of distribution of failures of equipment by percentages as typi-
+cal of power facilities with VVER-AAO reactors.
+
+In analyzing the information, consideration was taken of all kinds of failures.
+
+both complete and partial, that lead or may lead to limitations in the operation
+
+of major equipment. as well as those failures that do not affect normal operation
+
+of power facilities due to the secondary nature of equipment. or built-in redundancy.
+The table shows that 11.3: of the failures pertain to equipment of the primary
+circuit having the greatest significance from the standpoint of ensuring reliability
+and safety of the nuclear electric plant. Failures of reactor equipment. including
+the control system. amount to ~61..failures of steam generators 3.51. and of pipe-
+lines—-less than 11. This shows the fairly high level of reliability of the main
+circulation loop. The remaining 88.7% of failures and defects pertains mainly
+
+to equipment that is not specific to nuclear electric plants and is typical of
+conventional power facilities.
+
+A large number of failures (-381) pertain to monitoring and control instrumenta-
+
+tion. However, this has almost no effect on the reliability of the power facility
+since it most frequently involves instruments and communication lines with adequate
+backup. Analysis of the statistics of equipment failures for 1977-1979 showed that
+
+13
+FO!!0FFNJA1.USE(NVLY
+Primary Circuit Equipment:
+
+INJI.0511CJAL USIICNQLY
+
+Equipment Group
+
+reactor equipment
+steam generator equipment
+main circulation pumps
+main shutoff gates
+pipelines
+For the Group
+Turbine-Unit Group:
+turbines
+condensers
+steam-superheater separators
+regenerative heaters
+For the Group
+Pump Equipment of All Kinds
+Fittings (Except for Main
+Shutoff Gates
+Blower Equipment
+Compressor Equipment
+Electrical Equipment:
+turbogenerators
+electric pump drives
+electric drives of control
+assemblies
+breakers, disconnects
+For the Group
+Monitoring and Control
+Instrumentation:
+primary instruments
+secondary instruments
+communication lines
+For the Group
+
+TOTAL
+
+ 
+    
+ 
+  
+ 
+
+Distribution of Failures and Defects of Equipment in Nuclear Electric Plants
+Hith VVER Power Facilities According to Functional Groups
+and Individual Kinds of Equipment
+
+Number of Failures
+per Unit per Year
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+   
+   
+     
+
+     
+   
+ 
+ 
+
+a o a
+
+ﬂOO~ws~
+o
+“O‘DV5‘U
+
+a-o
+
+  
+ 
+   
+   
+     
+
+     
+
+.—
+Nt-UINNO
+
+mu~o~o-c
+
+ 
+   
+ 
+ 
+
+ 
+
+  
+ 
+    
+
+     
+  
+ 
+ 
+ 
+ 
+  
+   
+
+as.
+U‘HN
+
+NO U0“
+
+ 
+     
+
+UN.-
+u—QQ O‘VD
+
+p.-
+
+the most characteristic defects are welding flaws (up to 321) and hidden flaws
+
+in materials (up to 282).
+
+Failures and damage through fault of servicing personnel
+
+amount to less than 71. which is evidence of a rather high skill level.
+
+To work out requirements for equipment reliability (which are especially necessary
+on the stages of design and manufacture), reliability indices are calculated on
+
+the basis of statistical data on equipment failure.
+for rcstorable items is the parameter of failure rate m(t).
+
+One such very important index
+Because of the com-
+
+paratively small volume of the statistical sample, only point values of w(t) have
+
+been obtained. withOut estimation of the confidence level.
+
+Nevertheless. these
+
+1h
+
+FOR 0F11C1A1.US£¢DNLY
+FOR OFFNJAL.USE1)NLY
+
+values of m(t) establish a lower limit of reliability and can be used as primary
+normalized data in the design. manufacture and utilization of equipment. For
+example m(t) in hr'1 for the reactor is (1.6-2.1)olO‘5, for the steam generators
+-—8.2'10‘5. for the reactor control system--6.2-10'”. for the main circulation
+pump-—2.6°10's. for the turbine-8-10’5. Comparison of these data with those avail—
+able for equipment of non-Soviet nuclear electric plants shows that they are com-
+pletely comparable if consideration is taken of the fact that ordinarily only total
+failures are considered in calculations of w(t) in non-Soviet practice.
+
+The given information shows that failures and flaws apply mainly to subsidiary
+equipment. or to auxiliary systems of major equipment. Therefore these is no re-
+duction in the reliability and safety of the nuclear electric plant as a whole.
+This is evidenced by the stable and high level of the coefficient of utilization
+of installed power of vvra-aao power facilities: in 1970 this index was 72.62,
+in I978——80.7Z. in l9?9--73.8z.
+
+We point cut that the optimum coefficient of utilization of installed power for
+power facilities with VVER—Aéo reactors in the USSR is 801, which corresponds to
+7000 hours of operation of the equipment at rated power per year. This is deter-
+mined by estahlished periodicity and standards of duration of repairs of major
+equipment (reactor equipment, turbines and so on).
+
+Analysis of the structure of the coefficient of utilization of installed power
+shows that underuse of installed capacities associated with unplanned repairs and
+equipment defects. i. e. due to down time having a direct relation to reliability
+and safety of the nuclear electric plant. amounts to no more than 3.71. whereas
+this index was 82 in the early years of operation of VVBR-aéo reactors. This is
+evidence of an appreciable improvement in the reliability of major equipment over
+the elapsed period.
+
+Continued work in the following major areas will ensure retention of the attained
+reliability level and further improvement:
+
+perfection of equipment design;
+
+improving the quality of the equipment during manufacture and the quality of in-
+stallation as a basis for operational safety and reduction of the probability of
+failures and damage. Programs of quality control have been developed and imple-
+mented at the manufacturing plants for major equipment. All equipment arriving
+
+at the nuclear electric plant goes through a pre-inatllation entry inspection.
+improvements are being made in the technology of installation and welding processes.
+and in methods and equipment for quality control on welding jobs;
+
+checking the condition of equipment during utilization with application of up-
+to—date methods for early detection of defects;
+
+improving and increasing the technical level of utilization;
+improving the efficacy of supervision for observance of directive and normative-
+
+tcchnical documents in the process of manufacture. installation and utilization
+of nuclear electric plant equipment;
+
+15
+ron omcut use onu
+IN)! OWTWCJAI.USHE(MNLY
+
+improving the skill of personnel working in the nuclear electric plant, and syste-
+
+matic personnel safety training in accordance with specially developed compre-
+hensive programs.
+
+0n the whole. experience in utilization of WBR-440 power facilities brings us
+to the conclusion that they are sufficiently highly reliable and safe.
+
+COPYRIGHT: Energoizdat. "Atounaya energiya". 1981
+
+6610
+(:80: 8144/1354
+
+16
+FOR 0mCIAI. USE ONLY
+FOR1MHHCJAI.USE(NVLY
+
+UDC 621.039.58
+
+DESIGN MEASURES TO ENSURE OPERABILITY OF NUCLEAR ELECTRIC PLANTS "III! M “ACTORS
+UNDER EMERGENCY CONDITIONS
+
+Moscow ATOMNAYA ENERCIYA in Russian Vol 50, No b. Apr 81 (manuscript received
+14 Nov 80) PP 251-254
+
+[Article by 1. Ya. Yemel'yanov. S. P. Kuanetsov and Yu. H. Charkashov] '
+
+[Text] A number of advantages of REM! uranium-graphite boilingdwater channel reac-
+tors have brought about their extensive use in nuclear power in the USSR [Ref. 1].
+RBHK reactors are characterized in particular by high reliability thanks to moni-
+toring and control of parameters of individual process channels. and also replace-
+ment of the fuel assembly without shutting down the reactor.
+
+In successful operation at the present time are seven power facilities with RBHK
+reactors having [000 H" of electric power; a program has been worked out and is
+being implemented on constructing and utilizing several more reactors. Design,
+construction and utilization experience has enabled us to go on to construction
+
+of the RBHK-1500--a channel reactor of the sane design and dimensions with power
+of 1500 HHe.
+
+ 
+
+Fig. 1. Schematic diagram of the circulation loop of the RINK-1000: l--reactor;
+
+2--separator; 3-main circulating pump; b—-1evel regulator; 5--preseure regulator;
+
+6-—turbogenerator; 7-wster tank; 8--punpe of self-contained emergency reactor
+
+cooling system (BRCS); 9--pUIped storage unit of sacs; lO--fast-action valve of
+
+BRCS; ll--pressurized collector; lZ--diatributing group collector; 13-rncs col-
+lector; [6-flow limiters
+
+17
+FINICHNNC]A1.USE!MVLY
+FIMICHHWCIAL USE:CHﬂlY
+
+The fundamental heating arrangement of the RINK-1000 (Fig. l) is typical of one-
+loop boiling-water reactors. The coolant is circulated through the reactor by
+eight main circulating pumps. two of which are backup units. Steam separation
+
+is done in four separators of gravity type. and the saturated steam then goes to
+the turbines and to the intermediate steam superheaters. Two turbogenerators are
+installed on each power unit with RBMK-IOOO reactor.
+
+The RINK parameters are monitored by a centralized control system based on computer
+equipment. The system provides operating personnel with visual and recorded in-
+formation on the operation and condition of components of the structure.
+
+Energy distribution through the volume of the core is monitored by a physical con-
+trol system that includes radial and heightwise intrareactor sensors. An algorithm
+for calculating the power of all process channels with respect to discrete reference
+points. i. e. bv channels with sensors, is realized in the PRIZHA program for the
+plant computer that is part of the centralized control system. The program uti-
+lizes characteristics of radial energy distribution obtained by a program of physi-
+cal calculation on an external computer. and also the position of the control rods
+at the same instant of time when the physical calculation is done. These data
+
+are fed to the plant computer via punched tape.
+
+The power of the process channels is periodically calculated upon order by the
+operator. The results are used to correct the energy distribution. On-the-spot
+control of energy distribution is done by operational personnel directly in accor-
+dance with the readings of the intrareactor sensors.
+
+The distribution of coolant flowrate through the process channels is monitored
+
+by flowmeters installed at the inlet to each channel. The reactor design provides
+for on-the-spot control of the distribution of water flowrate through the process
+channels by changing the position of the channel regulating and cutoff valves.
+
+The capability of measuring and controlling the water flowrate in each process
+channel is a distinguishing feature of the RBHK; this capability ensures the re-
+quired maneuverability of the distribution of reserves before a heat exchange crisis
+upon a change in the power of the reactor or radial energy distribution.
+
+Leaky fuel elements and loss of integrity of channel pipes are detected in ample
+time by systems for monitoring gas tightness of fuel element cladding and the integ-
+rity of each process channel pipe.
+
+The reactor control system is designed with consideration of requirements of nuclear
+and radiation safety. For example, local automatic controller and local scram
+systems are provided to prevent unsteady deformations of energy distribution. For
+purposes of maintaining power conditions of operation of the facility when complete
+shutdown of the reactor is not required, provisions are made in the reactor control
+system for rapid controllable power reduction in some cases. in addition to the
+conventional facilities for complete damping of the chain reaction. These provi-
+sions include disconnection of some main circulating pumps, reduction of the water
+level in the separators. reduction of feed water flowrate. partly disconnecting
+
+or dumping the load by turbogenerators in the unit, increasing the energy intensity
+of the fuel elements and the like. The various types of emergency protection are
+actuated by signals of equipment malfunction.
+
+18
+
+INJR!OFIWCJAI.IJSEI(HQLY
+FKMI(MHH(JAI.IRSEI(MVLY
+
+To study emergency conditions. a mathematical model was developed including equa—
+tions of kinetics. hydrodynamics and heat exchange. and algorithms for operation
+
+of equipment and systems for automatic control of nuclear electric plant parameters.
+Comparison of the results of calculations done with the aid of the model. with
+
+data on individual dynamic processes that have occurred in operating nuclear elec-
+tric plants showed that the model satisfactorily describes the dynamics of a power
+facility. Some emergency conditions. mainly involving a transition to natural
+circulation. were studied on special model stands.
+
+This paper discusses the results of investigation of emergency conditions caused
+only by total de-energizing of the power facility. disruptions in the feed water
+supply system. and breaks in large pipelines of the circuit.
+
+When the facility is de-energized. emergency equipment operates that scrams the
+reactor; early in the accident. the core is cooled by main circulating pumps that
+
+do not immediately stop. and then by natural circulation of the coolant. For re-
+liable cooling of the reactor during this period, the main circulating pumps must
+have fairly large flywheel masses. and for this purpose special flywheels are in-
+corporated into their design. A diesel generator facility is automatically switched
+in to supply emergency feed pumps, the pumps of the emergency reactor cooling system
+and the like, that are necessary for carrying off the residual energy release in
+
+the reactor.
+
+The major parameters of the power fa-
+cility in the state of de-energizing
+are shown in Pig. 2. At the beginning
+of the transient process, Q is somewhat
+higher than G, i. e. in this period
+
+the average subcritical power reserve
+through the reactor is less than the
+rated value. However. calculations
+show that the reserve to the heat ex-
+change crisis in the most stressed
+channels does not fall below unity.
+Thus it can be stated that in the early
+period of accidental de-energizing
+
+the reactor parameters do not go beyond
+safe limits.
+
+ 
+
+Fig. 2. Emergency state of de-energizing Within 30-35 a after de-energizing
+
+of the_facility: l--relative neutrgn of the main circulating pumps of the
+power N; 2-—relative thermal power Q; power facility. the core is being cooled
+3--re1at1ve coolant flowrate G; 4--level by natural circulation of the coolant.
+H in the separators; 5—-pressure P in and the stability and intensity of
+
+the separators this circulation depend in large mea—
+
+sure on several factors such as the
+design of the loop. the pressure therein. change in temperature and flowrate of
+the feed water and so on. To determine the reliability of core cooling in the
+mode of natural circulation. a set of experiments was done both on the techno-
+logical model stand. and on the reactors of the first and third power units at
+
+19
+FOR OFTﬁCJAL USIiCHVLY
+FOR OFFICIAL USE ONLY
+
+the Leningrad Nuclear Electric Plant. Steady-state and transient conditions were
+studied with various parameters influencing the development and intensity of natural
+
+circulation. As a result, the parameters were determined that ensure reliable
+cooling of the reactor with natural circulation.
+
+system of feed water supply have enabled determination of the conditions of safe
+operation of the facility, and elaboration of requirements for the equipment and
+for action by operational personnel in such emergency situations.
+
+state there are slight and even changes in technological parameters. and therefore
+it is not required to introduce any auxiliary protection of the equipment. To
+bring the reactor power into line with the altered feed water flowrate it is suf-
+ficient to reduce the power manually by adjusting the controller setting. When
+two or more feed pumps are disconnected at the same time. the emergency protection
+
+ensures safety of the facility by automatically reducing the reactor power to a
+safe level.
+
+The transient process with disconnec-
+tion of two feed pumps and operation
+of emergency protection in accordance
+with a signal of reduction in the flow-
+rate of feed water by 251 of the current
+value (Pig. 3) is characterized by
+2'0 :0 w 5' u n u the following: anautomatic regulator
+time 3 reduces reactor power to 601 of the
+' rated level with slight overcontrol;
+Pig. 3. Emergency state of disconnection maximum deviation of the level in the
+of two feed pumps (l-S, see Pig._2; 6-- separators is observed within 50 8.
+relative flowrate of feed water Gnoe) and amOunts to 150 an, after which
+the level is recovered; the steam pres-
+sure in the separators is maintained at a level close to the nominal value by means
+
+          
+
+'ll.‘ ' '0 70
+
+rate reduction below 502 of the current value. In this state. the water supply
+
+to the circulation loop by emergency feed pumps is ~10! of the nominal level; these
+pumps are energized within 10-20 3 after cessation of the supply of feed water.
+Studies have shown that cessation of the feed water flow leads to a reduction of
+the level in the separators. This can cause undesirable trapping of steam on the
+downcomers of the loop. cavitation cutoff of main circulating pumps. and impediments
+to the development of natural circulation. To prevent the level from falling in
+the separators, the main circulating pumps are disconnected. which slows down the
+rate of reduction of steam content in the core and outlet lines of the reactor.
+
+As a result. less water is required from the separators to replace the steam in
+
+the circulation loop.
+
+20
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The state of cessation of the supply of
+feed water with disconnection of the
+main circulating pumps is analogous
+
+to the state of de—energizing of the
+facility. which has been found to be
+safe. The main parameters of the power
+unit in this state are shown.in Fig. 4.
+Analysis shows the following:
+
+the rate of reduction in thermal power
+is greater than the rate of falloff
+
+in water flowrate throughout the entire
+transient process, which is evidence
+
+of reliable cooling of the core;
+
+ 
+
+time, s
+
+Fig. 4. Emergency state of disconnection maximum drop in the level in the sepa—
+of all four feed pumps (1-5, see Fig. 2) rators is observed within 75 s. and
+
+then the level begins to rise; the
+steam pressure in the separators decreases at the beginning of the process, then
+becomes somewhat higher than nominal. and after 72 s the pressure stabilizes at
+the nominal level.
+
+instantaneous cessation of the supply of feed water accompanied by disconnection
+
+of the main circulating pumps. Therefore the main circulating pumps are disconnected
+with a delay of ~9 s after emergency protection operates in power facilities with
+RBMK reactors upon a signal of reduction in the feed water flowrate below 502 of
+
+the current value. The core is cooled down by natural circulation of the coolant.
+
+It is assumed that the most serious emergency situations can arise when large pipe-
+lines of the power facility are ruptured. The design provides for technical facili-
+ties that prevent discharge of the steam-gas mixture into the service areas. and
+especially beyond the limits of the nuclear electric plant. Host typical damage
+
+to the circulating loop is breaks in small tubing (drains. impulse lines and the
+like). Rupture of a large pipeline is extremely improbable. Experiments on full-
+scale specimens have shown that a leak is possible in pipelines with diameter
+
+of ~800 mm at a pressure of 8.5-9.5 HPa if fatigue cracks are ~75: of the wall
+thickness in depth. and ~b70 mm long [Ref. 2]. Inspection of the metal guarantees
+that there will be no sudden rupture of the pipeline. since the critical dimensions
+of defects are large. and they should be detected in planned shutdowns of the fa-
+cilities. During inspection. the metal is examined and checked by special tech-
+niques (ultrasonic flaw detection. acoustic emission). In spite of this, the de-
+sign of the nuclear electric plant provides for measures to ensure safety in case
+of instantaneous transverse rupture of the largest pipeline.
+
+At the initial instant the leakage is about 6 metric tons per second in the case
+of complete instantaneous rupture of a pipe 300 mm in diameter, and ~60 metric
+tons per second for such rupture of a pipe 900 mm in diameter. As a result of
+analysis of emergency situations. two independent signals have been selected for
+operation of emergency reactor protection: a rise in pressure in the rooms where
+the pipelines of the loop are accommodated. and a reduction of the level in any
+
+21
+FOR‘OFFKJAI.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+separator to a value that exceeds
+its deviation from the nominal
+under transient conditions.
+
+The most dangerous pipeline rup-
+
+ture is one on the pressure side
+
+of a main circulating pump, since
+
+this instantaneously cuts off
+
+the supply of coolant to the
+
+channels of the emergency half
+
+of the reactor. It is just such
+
+a hypothetical accident that
+
+has dictated the fast-action
+
+emergency reactor cooling system
+
+(ERCS). its maximum capacity
+(about 1.1 metric tons per second)
+
+Fig. 5. Change of pressure in RBHK-IOOO circu-
+
+lation loop upon rupture of a pressurized col- and minimum time Of discharge
+
+lector 900 mm in diameter: l-—pressure in Of all the coolant from the ener-
+
+, __ gency loop (10-12 s). Fig. 5
+separators. 2 pre:::f:c::rthe pressurized shows the pressure change in
+
+ 
+
+rupture of 900 mm pressurized collector of a main circulating pm!» Coolant from
+the ERCS is fed to the channels of this half to prevent damage to the fuel elenents.
+
+Water from the EROS is sent to each distributing group collector, and to avoid
+nonproductive discharge of the water through the cross section of the break in
+
+the pressurized collector, check valves are provided at the inlet to the distrib-
+uting group collector. The ERCS consists of two subsystems (see Fig. l): the
+main subsystem with pumped-storage unit. and a prolonged cooling subsystem with
+special pumps and tanked water reserves. The cooling water is supplied from bot-
+tles. and after they are emptied the water is supplied by pumps to the BROS of
+
+loss of integrity of the circuit.
+FOR Ol-TICMI. USE ONLY
+
+which is not surpassed even in the case of complete instantaneous rupture of the
+largest pipeline. thanks to special condensation devices of the bubble: type, a
+system of bypass valves, sprinklers and heat exchangers.
+
+REFERENCES
+
+l. Dollezhai'. N. A., Yemel'yanov, 1. Ya.. 'Xsnal'nyy yademyy energeticheskiy
+reaktor" [Channel-Type Nuclear Power Reactor]. Moscow. Atonizdat. 1980.
+
+2. Rivkin. Ye. Yu. et al.. TEPLOENERGBTIKA, No II, 1978, p 71.
+COPYRIGHT: Energoizdat, "Atomaya energiya", [981
+
+6610
+(ISO: 811010/13510
+
+23
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.029.536.141.
+
+INVESTIGATION OF EFFICIENCY OF DECONTAHINA'I‘ING ”MK-[000 COOLANT 0P TRANSURANI'UH
+ELEMENTS
+
+Moscow ATOHNAYA ENERGIYA in Russian Vol 50, No 6. Apr 81 (manuscript received
+11 Feb 80) pp 274-275
+
+[Article by A. H. Vorob'yev and N. P. Starcdonovs]
+
+[Text] For purposes of radiation safety at nuclear electric plants of all types.
+both Soviet and non-Soviet. provisions are made for purifying the water coolant
+
+of radionuclides. The bypass purification facilities at nuclear electric plants
+are intended for extracting products of corrosion. soluble salts and radionuclides
+from the purging water. In nuclear electric plants with RBMK reactors, 200 cu. m
+of water per hour is purified with total volume of the multiple forced circulation
+loop of ~1200 m3. The water is taken off from the pressure side of the main circu-
+lating pumps. and after appropriate treatment and cooling to loo-50°C it is sent
+
+to a purification facility, where it goes in sequence through mechanical (hydraulic
+perlite), mixed cationic-anionic exchange (RU-2. AV-l7) and trapping filters. The
+process includes monitoring for pH, hardness. CI' content. products of corrosion
+(iron. copper). specific electrical conductivity and content of some radionuclides
+before and after purification. The purified coolant is heated to 270'!) and returned
+to the circuit.
+
+In addition to radionuclides of corrosion origin and fission products. the water
+of the multiple forced circulation loop may be contaminated with a—emitters that
+are formed as a consequence of slight surface contamination of the fuel elements
+with uranium or migration of radionuclides from defective fuel elements. Accumu-
+lation of transuranium elements in nuclear fuel was studied in Ref. 1, 2. It was
+shown that sequential capture of neutrons in the fuel forms a large quantity of
+isotopes of plutonium. americium and curium that are quite dangerous from the radia-
+tion standpoint. For example. 19 kg of 2”mp. ~700 kg of isotopes of plutonium.
+>100 kg of isotopes of americium and >2 kg of curium are formed after a three-
+ycnr run in 80 metric tons of fuel with 3.31 “50 enrichment at a reactor power
+of 1000 MW [Ref. 2].
+
+Unfortunately, we have been unable to locate any published data on the coefficients
+of diffusion of transuranium elements from intact and leaky fuel elements. However.
+this quantity can be roughly estimated by considering the similarity of properties
+
+of lanthanides and actinides. For example, if the relative diffusion of iodine and
+
+21:
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+cesium from leaky fuel elements is taken as 1. then diffusion is equal to 10'” for
+cerium [Ref. 3]. In case of severe loss of integrity of fuel elements and contact
+between fuel and coolant, there may be a considerable increase in this parameter.
+
+in emergency situations with fuel meltdown. o-emitters may play a decisive part
+
+in raising the radioactivity of the coolant and formation of the radiation environ-
+ment at the nuclear electric plant and its surroundings. In this connection. coolant
+purification takes on special significance.
+
+To study the effectiveness of bypass decontamination with respect to transuranium
+elements. the content of 23’“p, plutonium isotopes. 2“All and “’01: was determined
+in the coolant before and after purification. The studies were done in different
+periods of operation of the nuclear electric plant. The “’Np content was deter-
+mined by a y—spectrometric method using a semiconductor Ge(Li) detector. Identifi—
+cation was done simultaneously with respect to five peaks (210, 228, 278. 316 and
+334 keV) . Americ ium and curium were determined by radiochemical methods based
+
+on precipitation on bismuth phosphate after the plutonium had been oxidized to
+
+the hexavalent state. Reduced plutonium (III) or (IV) was then also coprecipitaterl
+with bismuth phosphate. The o-activity count (100% efficiency) was then done in
+
+a layer of solid scintillator (Zns) by the technique of Ref. 1. With background
+
+of 0.2 pulse/minute. the sensitivity of the method was 10'13 Gill (1 Gil-3.700 101°
+disintegrat ions per second). The error of determination was :20! [Ref. 2].
+
+Content of u—elitters in the water of the
+multiple forced circulation loop. Ci/l Table l
+
+ 
+  
+
+   
+ 
+  
+
+Initial (up to one year) u own-u u '1 hr" l:-2)-Ilr'= I In-
+(I 'n ur" I'm-10'" (' 1‘ l" ..
+.055; of integrity of fuel l-IU" 56-Ilr‘" ‘3 1- .
+
+'ormal I u mun-N
+elements ‘I
+
+Table 1 summarizes averaged data of investigation of the content of o-emitters
+
+in water for different periods of operation of a nuclear electric plant. Calcu-
+lations show that the content of transuranium elements in the initial period of
+utilization [(1-5) 40'” 61/11 is due mainly to surface contamination of fuel
+elements with uranium during fabrication. As the length of the run increases.
+microcracks appear in the cladding. and the content of transuranium elements in
+
+the coolant increases by two orders of magnitude. A further increase in the content
+of these elements (to [0'9 Ci/Z) is observed with occurrence of defective fuel
+elements subject to replacement. Some time after their replacement, the concen-
+tration of a-emitters in the coolant again stabilizes at a level of (l-lO)-10‘“
+
+Ci/l.
+
+Table 2 gives some results of evaluation of the efficiency of bypass purification
+of transuranlum elements on nuclear electric plants with RBHK-lOOO reactors.
+
+This table shows that the water purification factors with respect to the indicated
+transuranium elements are fairly close. and are equal to 3000 in the case of fresh
+
+25
+so: omcut use ONLY
+FOR OFFICIAL USE ONLY
+
+Table 2 charging of the filters with ion-exchange
+
+resins. about 1000 after 5-8 months,
+
+Efficiency °f bypass removal of and 25-100 after 9 months on this charge.
+transuranium elements from coolant Individual values of RP"! for a filter
+service period of 5-8 months amount to
+1025 for neptunium, 985 for plutonium
+and 750 for curium.
+
+The degree of removal of transuranium
+
+. 4,... “4"... elements from the coolant on ion-exchange
+. 4"" (Mn-u filters is higher than for radionuclides
+:31: 9113: of corrosion and fission origin. These
+.104. H..." results are to be expected since it is
+'33: ”3:: known that the strength of sorption of
+1:”... 2130'" cations on KU-Z resin increases with
+
+increasing cation charge. The radionu-
+clides of interest to us are arranged
+
+in the following sequence with respect
+to the strength of bonding to the cation
+exchange resin: Cs<3a. Sr<Y. La. Ce,
+An, Cm<Ru<Zr. Nb<Np. Pu. The bypass
+purification factors for removal of trans-
+uranium elements from the coolant are
+an order of magnitude higher than for
+other radionuclides. Removal of trans-
+uranium elements is good when steam is
+separated from water in drum separators:
+
+“"m s-"’Cm .. - 3.3.10“!
+‘40-»
+3.m~n the corresponding purification factors
+
+Mu“: ' are 10"-10 , . e. the steam going to
+("w- the turbines is nearly free of a-emitters.
+
+Thus the standard purification system
+
+in nuclear electric plants with RENE-1000
+reactors ensures effective removal of
+neptunium. plutoniul, emericium and curium
+from the coolant.
+
+REFERENCES
+
+l. Gabeskiriya, V. Ya. et a1.. ATOI‘NAYA
+BNEECIYA, Vol 44, No S, 1978, p 446.
+
+2. Roman. S.. in “Proc. Advisory Group ﬂeeting on Transactinium Isotopes Nuclear
+Date". Karlsruhe, 3-7 Nov 1975. Vol I, p 39.
+
+3. Cohen. D.. "Voprosy yadernoy energetiki" [Problems of Nuclear Power], Moscow,
+Atomizdat. 1958.
+
+4. Tsenter. E. H. et al.. in: Dozimetricheskiye i radiometricheskiye metodiki"
+[Dosimetric and Radiometric Methods], Moscow. Atomizdat. 1966, p 404.
+
+S. Starodonova. N. P.. GICIYENA I SANITARIYA, No [0. 1978, p 68.
+COPYRIGHT: Energoizdat. "Atomnaya energiya". 1981
+
+6610
+C80: 8144/1354
+
+ 
+
+26
+FOR OFFICIAL USE ONLY
+FOR‘OFINCJAI.1EIE(NNLY
+
+"DC 533.9
+
+THERHOPHYSICAL PROPERTIES OF HORKING FLUIDS OP GAS-PHASE NUCLEAR REACTOR
+
+Moscow TEPLOFIZICHESKIYE SVOYSTVA RABOCHIKH SRED GAZOFAZNOGO YADKRNOGO RBAKIORA
+in Russian 1980 (signed to press 1 Aug 80) PP 2. 295
+
+[Annotation and table of contents from book "Thermophysical Properties of working
+Fluids of a Gas-Phase Nuclear Reactor". by Viktor Konstantinovich Gryaznov, Igor'
+L'vovich Iosilevskiy, Yuriy Georgiyevich Krasnikov, Nina Ivanovna Kuznetsova.
+Vladimir lvanovich Kucherenko. Galina Borisovna Lappo, Boris Nikolayevich Lomakin,
+Georgiy Alekseyevich Pavlov, Eduard Yevgen'yevich Son and Vladimir Yevgen'yevich
+Fortov. Atomizdat. 1800 copies, 30‘ pages]
+
+[Text] An analysis is made of the current state of the theory of calculation of
+
+the thermodynamic, transport and optical properties of gases at high pressures
+
+and temperatures, and the state of experimental research in the physics of a non-
+ideal completely or partly ionized plasma. Numerical calculations are done on
+
+the thermophysicai properties of plasma of working fluids used in a gas-phase nuclear
+reactor--a1kali metals, uranium. hydrogen and their mixtures--over a wide range
+
+of temperatures and pressures.
+
+The book is a review and a reference. and may be of use to specialists working
+directly with gas—phase reactors. and also to engineers and scientists specializing
+in different areas of low-temperature plasma physics.
+
+Tables 19. figures 106. references 465.
+
+Contents page
+Editor's Preface 3
+Chapter I: Thermodynamic Properties 6
+1.1. General characteristics of the behavior of thermodynamic functions of
+working fluids 6
+[.2. Asymptotic methods of describing the thermodynamics of a weakly nonideal
+plasma 16
+[.3. Thermodynamics of a strongly nonideal plasma 20
+[.4. Component makeup of a partly ionized nonideal plasma 32
+1.5. Accounting for the influence of the fluid on the state of an atom. Model
+calculations by the Hartree-Fok ano Thomas-Fermi method 61
+1.6. Methods of calculating the composition and thermodynamic functions of a
+multicomponent nonideal plasma 47
+27
+
+IKHlCNHHCIAI.USE(lNLY
+Ft”!(lﬂﬂ(]Al.lﬂNE(ﬂVLV
+
+1.7. Discussion of results of calculation. Comparison with data of other calcu-
+
+lations 57
+Chapter 2: Transfer Coefficients of a Nonideal Plasma 66
+2.1. Qualitative description of processes of transfer of heat, mass. momentum
+
+and charge in a gas-phase nuclear reactor 66
+2.2. Kinetic theory of a weakly nonideal plasma 70
+2.3. Theory of nonequilibrium processes in nonideal media 79
+2.6. Model approaches to determination of electronic coefficients of transfer
+
+of a nonideal plasma 92
+2.5. Effective transfer coefficients of a multielsment nonideal plasma 101
+2.6. Methods of calculating the transfer coefficients of a nonideal plasma.
+
+Discussion of the results of calculation 109
+Chapter 3: Optical Properties of Gases and Plasma 119
+3.1. Radiation transfer in a gas-phase nuclear reactor. Elementary processes
+
+of absorption in a plasma of working fluids 119
+3. 2. Bremsstrahlung absorption on ions and atoms 121
+3. 3. Photoionization of atoms. ions and molecules 122
+3. 6. Absorption in atomic lines 129
+3.5. Molecular absorption 132
+3. 6. influence of nonideality on optical properties of plasma 138
+3. 7. Discussion of method and results of calculations of the optical charac-
+
+teristics of working fluids 166
+Chapter 6: Generation and Diagnosis of a Nonideal Plasma 167
+.6. l. Particulars of experimental investigation of nonideal plasma 167
+6. 2. Electric methods of producing nonideal plasma 151
+6.3. Dynamic methods in nonideal plasma physics 160
+6.6. Nonidesl plasma condensation 169
+6.5. Comparison of experimental and theoretical data on thermodynamics 175
+6.6. Comparison of experimental and theoretical data on transfer coefficients 181
+6.7. Comparison of experimental and theoretical data on optical properties 186
+Chapter 5: Thermophysical Properties of Working Fluids of a Gas-Phase
+
+Reactor 190
+References 291
+
+COPYRIGHT: Atomizdat. 1930
+
+6610
+C80: 1861/159
+
+28
+FOR OFFICIAL USE ONLY
+
+INDUSTRIAL TECHNOImI
+
+UN 621.007.523 681.3
+
+MODELING ON COMPUTER SYSTEM FOR AUTOMATED DESIGN OF INDUSTRIAL ROBOTS
+
+Moscow VB’I‘NIK WMROYBIIYA in Bmlen lo 5. Ihy 81 pp 7-9
+
+[Artlcle by V. V. Verenteov. cendidete of teclmi ecimcee. K. F. Krevchenko.
+engineer and M. I. Poceyev. candidate of technlce sciences]
+
+[Text] Industrial robote (PR). ee ehoun by en enelyeie of their techicel cherec-
+terietice. were designed beeicelly ecconding to four hineeetic erase-onto (n5. 1).
+About 75 percent of the Pa heve the him-tic errenseeent ehown in Fig. In: the
+remining three mengenente (Figs. lb. 1o, id) ere and in PR 10. 5 end 3 percent
+respectively of the total nunber of developed PR [1. 2]. In deeiyune PR mine
+
+the indicated kinentic errengenente. it ie neceeeery to execute teirly einiler
+operatione. In perticuler. they include: the eelection of the kinettic mense-
+nent of the PR on the beeie of the given technological groceee end the indiceted
+working zone to be serviced; the preperetion of the dynellc equetion for the PR
+
+end its drivee; the formletion of linitetione ilpoeed on the eyeten: the calcu-
+
+lation of the heelc perenetere of the Pl! nechenien end its drives: the deeig: of
+the control systen of the PR; the optinleetion of the dynellc. tine-tic end pre-
+cielon cherecterietice of the PB adhering to the inpoeed linltetione; the torntion
+of the layout drawing of the PR. ite driven. control eyetel. etc.
+
+f1)? r” f‘
+
+(c) (d)
+
+Fig. 1. Kinenetic errengenent of men-um robote (Pa).
+
+29
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The eiaiiarity of these operations in designing the multiplicity of PR for various
+purposes attests to the urgency of the problea of creating coaponents and systens
+for an autontsd design of industrial robots (803 P2). that aseunea the achieve-
+aent of all the enuaeratsd operations on a conputer with the possibility of a
+dialogue betueen the designer and the coaputer to achieve an optin result.
+
+Investigations have shown the possibility of creating the SLPR PB. It Inst repre-
+sent the totality of subsystem. oriented toward iaplenenting certain design
+solutions. Bach subsystea mat contain algorithas for finding the desiai paras-
+sters of the nnipulator. the control syste- and or their own individual unite.
+These include algorithm for deter-ining the para-stars of the nnipulator's ars.
+taking into account its elasticity. kinentic characteristics. load etc.; the
+
+algorithm for the detersination of the parameters of the gripping device. taking
+into account the properties of the loads being transferred. the tine lag. loads
+etc.: the algorithss for calculating the paraaeters of the drives. taking into
+account the coabination of their love-ant etc. i sufficiently developed SAFE PR
+must also have a bank of stored deaiai solutions to use in sililar situations.
+
+01 this basis an SAPR PR ny be represented in the fora of a block diagra- (Fig. 2)
+
+Subagstsn for selecting a kineaatic arrangeaent (of asnipulator, gripping device
+etc. ‘
+
+V
+Subsysten for establishing linitationa
+
+Subayatea for using the bank of stored data ._____.___.__————I if“
+
+no
+
+Subsystem for calculating basic para-store of nnipulator. era
+gipping device. drive etc. 1
+
+Subsystsa for optinising paraseters
+
+i
+Subsystea for iapoeing liaitations on the desist paraaeters. taking
+into account GCBT. nterials used. standard parts etc.
+
+i
+Subsystes for toning the drawing of the arrange-ant ¢—-—-———
+
+Fig. 2. block diagran of the M PB
+
+Individual subayatens were simulated on the Yes-1030 coaputsr to check the panel-
+bility of creating the SAPR PR. The simlation included a calculation of the
+basic parameters of the sechaniea and drives of the unipulator (Pig. 3). Such
+an algorithn nkee it possible to calculate and optiaise the basic para-store of
+the aanipulator with a pneunatic drive that provides a sinima cycle tile. No
+provision is lads in this algoritha tor a dialogue with the coaputer and for
+preparing the arrange-ant drawing. A Isthod of statistical trials (the Hunts
+
+Carlo aethod) is used here to find the optiaal solution. as well as a syste-tic
+
+30
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+approach that inpliee the consideration of the nnipulator aechaniam eymten, taking
+its drive alone, an well as the determination of the optin parmnetere of the
+manipulator nachaniaa and ita drive under the condition of the coabined love-ante
+of the links for forward and reverse atrokee of the gripping device in accelerating
+and decelerating nodes. taking into account the eluticity of the outgoing link.
+
+ 
+
+Fig. 3. Kinematic amngenent of a nnipulator with a pneumatic drive:
+
+1. rack It. outgoing link
+2. pneumatic cylinder for lifting the 5. load
+ehat‘t
+
+3. pneuutic cylinder for radial
+advancement of the outgoing link
+
+31
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Since the notion of the outgoing link of the nnipulator along the vertical is
+
+not related to other actions in the given amngeaent. the drives. therefore. for
+only turning and advancing are considered in the described part of the simlation
+algorithm It is assuaed that reciprocal action mountic cylinders are need in
+each of these drives. The rotating part or the unipulator is aounted on a cog
+wheel; the action to it tron the rod of the turning menutic drive is transaitted
+by a rack or chain.
+
+leing into account the elasticity of the outgoing link of the nnimlator. the
+dynaaic equations of ite nation and the characteristics changes in preseuree in
+
+the cheaters or the pneulatic cylinders of the drives my be represented in the
+nondieeneional fora ae follows:
+
+2:33.01l_o")-5’e_2p'm+wn§.
+
+.W. m
+'1--ﬂ.(°...-o..,)+a.(n Humani: (2,
+
+3 _ _ m + L') 5+ iv} + 6.43.» ; (3)
+I. I O
+
+ 
+
+h .
+°" =. (Th. [“‘B"(°u)"°:|(| ; u)
+1, .. k .
+t: m- [Mwww-dncl. (5)
+where
+P I .L 1'
+ou-Ti—‘I o‘.—l P‘ o a": Pt: I
+P
+on! ‘1‘;
+[here ”{1- 0p. 0m- on: n are pressures in the
+charge and discharge chambers of the monastic cylinders of the drives according
+to coordinates ‘37 and Y; z Pin-VquPn: -- measures in the
+
+charge and discharge chaabere of the pneu-tic cylindere of the drives according
+to coondinatee g! and v] (of the shaft turning and are advancing drives)]
+
+32
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+“3 -‘ (here x -- coordinate of the piston position of the turning shsft drive;
+8" -- Spieton stroke); 5: =55}: [hereF -- piston sree of shsﬂ. turning drive;
+Pu -- sir pressure in the monastic ninM -—'ra.(u'2 -- coeffioimt of speed
+
+trsnssiseiom r -- radius of the dividing circulfermce of the cog wheel of the
+mm -5 -- mm of 10nd; C_ 2’3"“; (52:3 -- solent of insrtis of the
+
+ 
+
+second and third link with respect to axis s: .1; -- unseat of inertie of the
+
+fourth link with respect to the verticsl exis. psesing through the center of use
+
+or the link)]; on: if" . oh-%L (here hr '0 -- pressures in chsrge
+
+ 
+
+and discharge chssbers of the pneuntic cylinders of the PR drives sccording to
+the x and y coordinates; 5.1—3— (here “l uni-at. .
+
+-- use of are;
+"I. e ‘ 5‘
+
+Sy -- piston stroke of drive for loving ere); 3,-7‘? (here at. -- proportion-
+ality coefficient); "=’ % (here 1 -- coordinste of piston position of drive
+
+9 I
+for sovin srs : L' = here I. = 1 If 1 -- distsnce tron the sxis of
+8 ) éL ( m + e
+y 5,4- I5
+
+the shaft to the center of the use of the en: L -- length of the ere)
+
+FM"
+34! (M. 'l m’)
+
+0, (here Fy -- piston ares of drive for saving on);
+
+ 
+
+AxS a
+—_L. n a
+B'"M.+Mc‘ 5' m.+m.
+
+. ‘ __
+(here «'3 -- proportionslity coefficient): t = T [here- 1= V link 12 (1.13- M ~-
+
+deflection of the center of sees of the ere during its deflection oecillstions and
+its components according to coordinstes 3: sad 1)] A g V 61‘ 1- or
+
+(A. M. “y -- given accuracy of positioning end 1'58 30.900th alone the " sod
+y coordinates“:
+
+3:. 351
+
+”It - 5x ' ﬂu “ —3MRS' [a “"Ls
+
+. 33
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+(here 8 -- Young's eodulue; J -- noeent of inertie of the croee eection of the ere
+with respect to ite longitudinal exie); R -- univereel gee conetent];
+
+III I In
+
+muss-57:. fit-75573;
+
+01ere IL. 1;, efficienciee of the inlet hole ereee of charge chubere
+
+of the pneuntic cylinders of driven for turning the ehert end loving the ere);
+
+k 3 8.28 coefficient; g..-—fs’:-.
+
+(en-l-f-iéL
+at
+
+here
+( ”°" 9" -- heretul volueee of cherge end dieoherge clue-here);
+
+‘9 (on). V (”u)
+
+functions of air coneueptiom
+g3“! -- nondieeneionel coordinatee x and n (”“4” -- index
+
+In solving the eyetee of equetione (1) - (5) the following veluee ere given:
+force of gravity of the coated loed c. axilel eotione 8x end 8, in accordence
+
+with coondinetee x and y end precieion of poeitioning Ax along exie x.
+
+to be detox-lined ere: meee e3 end I“ of the [lieu-tic cylinder end outgoing
+link, eoeent of inertia J93) of linke 2 end 3 or the PR with reepect to exie
+
+a. Ionent or inertia .12) of the outgoing link ’0 with reepect to the exie thet
+peeeee through the center of the nee. end the design pore-atom of the driven
+piston arena of pneuntic cylindere I“ end I?" Volunee of the cherge end diecherge
+chanbere "o,i”‘o,2’ ’0.1’ ’0,2‘ the effective ereee of the inlet end outlet holee
+of the charge end diecherge cheebere 1'. 11,. I;,.- I:., s the
+perenetere of the hydraulic type breking device: the dieeetere of the deeper
+pieton end of the by-peee tubing 1) end d; the dynneic viecoeity coefficient )( of
+
+the braking fluid; the length of the braking eection 11..
+
+31:
+
+FOR OFFICIAL USE ONLY
+FOR OFI-‘IOAL USE ONLY
+
+Functional lisitations ore isposed on the solution of the oyster of equations
+(1) - (5) as follows:
+
+ 
+
+oU < I; °t.: >o,: (6)
+.. I dxr3L-‘J .. _
+£1 <ﬁ7(—;7+hv). (7)
+° ._°"_ ' —3El .
+‘M‘uw I) 1/ m...» ' ‘8’
+where o" .. .22; In... Win-Hm; n. - stnoophoric pressure.
+
+Condition (6) requires that the pressure in the working chasber of tho pneuntic
+
+cylinder should not exceed the pressuro in tho nin. while the pressure in the
+discharge chesher should not exceed the etnosphorio pressure. condition (7)
+requires that the asplituds of tho deflection oscillations of link i in the braking
+node and the syston oainet tho stop should not exceed the value of positioning
+accuracy 4 x of tho nnipulatod' (n3. 3). condition (8) requires thst the as-
+plitude of dofloctim oscillatims of link 1. vhu it is epinet the stop. should
+not exceed the value of the precision occureoy of the unipulstod‘.
+
+In selecting optinl systes parsnoters. giva: the initial values of p; . the syste-
+of equations (1) - (5) is solved in the accelerating node for toward snd reverse
+
+notions of the gripping device. A ooshinstion of systo- porsnotors is found by
+
+the nothod of statistical trials thst would povido a niniul tile ‘1'!) of the ‘
+
+nnipulator notion; the realisation of this tile is achieved by selecting the
+
+instants of connecting the drives. Omsidod'ing tho notim of tho syston in the
+braking node and solving the systes of oqustial (i) - (5). taking into account
+linitations (6) - (8). paranotors of the braking devices ore found that provide
+
+ninisal tine T1. of braking. Tho pan-store obtained of the nnipulstor nocheniss .
+its drives and braking devices provide for tho nini-Is tins of psessgs between
+
+end positions of the systos Tnin = 5*?!"
+
+do n result of calculations for the initisl dots G: 6.3K: 8 = 0.079 s: 8 30.3 I:
+Ax -3o.025 -. we obtained porn-store sun-nun in the this. The: pr‘vido
+passage tine Tp 3 1.6 seconds at the following instsnto of drive connections:
+
+for the fomrd novonont of tho systen. the drive for advancing the an is 0.3
+seconds later than the connection or the drive for turning the mm for the
+
+35
+FOR OFFICIAL us: ONLY
+FOR OFFICIAL USE ONLY
+
+reveree novenent of the eyeten. the connection of the drive for turning the ehaft
+ie 0.2 eeconde later than the connection of the drive for advancing the an.
+
+Table
+
+Paranetere for the turning drive (in the nunerator) and the drive for radial
+notion (in the denouinator)
+
+ 
+
+Note. Index 1 correeponda to the charge chanber. index 2 -- to the diecharse
+cmbue
+
+in order to check that the mutate found are optimal, a nnipulator that hae
+the characteristics ehovn in the Table wee deeigned and mufactured. Ite teete
+indicated that the paeeage tine between extrene poeitione nae 1.65 eeconde. The
+instante of connecting the drivee for turning the daft and advancing the an were
+
+changed any tines in the teete. other para-etere of the nnipulator. in particu-
+lar
+
+.' D
+:.l"1.2";.l";.2' 7-
+
+were also changed and led to a reduction in lineage tine Tp by nore than 5 peromt.
+
+Thle confine the optinlity of the paranetere found and the authenticity of the
+algorithn for their determination.
+
+36
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+313mm
+
+1. Belmin. PJI. “Industrial Robots.“ Hoocow. WMBOYUIYB.19?5.
+W0 pages
+
+2. “Develop-om of Robot muipunt Abroad.” (lieu-uh of the Thin! International
+
+Sylpoaiul on Industrial Robots). NIIMSII Sciatific Research Institute of
+Inching Building and Metal Vol-king]. i9? . 88 pages.
+
+CMRIGRI‘: Isdatel’stvo ”hlhinoctroyniyo“. 'Vootnik mhinontroyuiyu'. i981
+
+2291
+C80: 1861/1910-A
+
+37
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Moscow VBTNIK MASHINGTROIBIIYA in Russian No 5. May 81 pp 3-6
+[Article by A. A. Panov, candidate of technical sciences]
+
+[Text] Industrial robots [PR] have rapid readjustability. This PR property is
+characterized by the following: method and degree of accessibility of programing
+the task on moving the parts, and the number and type of instructions; the cost of
+programing the task on moving the parts. changing the program and resdjustsent.
+as well as require-eats for the autontic control hardware of the progrssing and
+the skill of the service personnel; reprocessable progras structures, including
+
+At present. PR of the first generation are the most widely used; in the future. the
+utilization of program control systems will mks it possible to find the solution
+
+for the prevailing number of problems on loving processed parts, as well as to
+change the functions of the control. storing and processing of data.
+
+The increasing costs of using robots in production are concerned primily with the
+automatic control hardware of the PR.
+
+The following requirements are demnded of the PR control system: control of the
+movements of the gripping device (tool) in the working zone in accordance with a
+
+given program for loving the parts: prograsing for various working modes; providing
+for interaction with the technological equip-ant when it is used in a complex
+automted system; executing functions of interoperational monitoring.
+
+The origination, in practice. of various control system is due to the following:
+the multiplicity of PR design versions that have original features: technical
+
+progress in the deVelopment of automatic control hardware using microelectronics:
+
+38
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+technical characteristic on the type and degree of free movelents of the PR, the
+type of system control and prograling nethod; trends in the develop-ent of auto-e.-
+
+Prog-a- nanipulators ny be classified in the following manner according to types
+of control systems and conditions of application.
+
+1. PR progran’ PR are considered progranble, whose readjustmt is implemented
+by means of congosing a corresponding movement control and introducing this pro-
+gram into the control system. A rigidly prograsable nanipulator has a constant
+program in the control system; changing it is done by an adjuster.
+
+Such control is used basically in sinple PR of the cycle loaders type. Positional
+control systems make it ossible to produce point-by-point positioning in the work-
+ing space where the gripftool) loves; a mnctional love-ant relationship. predeter-
+mined by the control system. exists between these points.
+
+The loop control systems achieve a functional relationship in the move-ant of axes;
+the grips (tools) trace out strictly defined loop lines in the working zone pre-
+sented by the program. The use of this or another loop control systel is determined
+by the nobility of the structurally preset domes of freedom of novement of the
+axis.
+
+Two versions of loop control are used in practice, differing in the prograaing' of
+the data processing within the systel with the direction of the motion loop line
+called nultipoint control; the programing is inplenented by “motion along the loop."
+in cases where the notion loops are produced with conplex notion shapes. for example.
+when applying varnish-paint coatings with a continuous direction of the loop line,
+the programing is implemented, as a rule. by "starting-up and storing" and. in re-
+producing the program. the notion loop between the points is obtained by interpola-
+tion. .
+
+3. Nondigital and digital programed control system. Nondigital programed control
+systems are lost frequently used in conbination with PR in which the preset positions
+are fixed by loans of regulated stops. can etc. The ﬂexibility of such a system
+depends to a great dense on the type and capacity of the memory. Nunsrioal pro-
+gramed control system (GhPU) are reading devices using numerical values as signs
+
+of the path data and synbols for instructions. as well as coded data. The posi-
+tions of a preset path in the form of nulerical data are a component of the notion
+program; positioning of the path may be progrased with respect to the given values
+of the positions. the number of various positions along each axis, the frequency of
+origination of certain given positions in the notion cycle and. if necessary. my
+
+be easily corrected. Due to data coding and the use of a corresponding nesory. a
+great number of progra- steps. instructions and data may be achieved and reproc-
+essed.
+
+1:. Special and universal control system. If a control systel is designed for a
+
+certain type of PR or probless of the notion of a type of part. it represents a
+special solution.
+
+39
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000400060045-2
+
+FOR OFFICIAL USE ONLY
+
+50.300 00 0HOH0
+
+-0000 o>aanuu< .mnasoaopuuHou
+no auaHuna on» 000 pguanaua>
+I00 000 00009.00 0......' .8 00000
+0000000 0000 0>00 00.3.. 0003
+:0H00 00 0.300 00.... :0 00:30.5
+
+0003030 0000.50.00 0300.30.00
+0 00 00.250000 0H0>.0 .3390
+0.3 H0300 3.000000 :93 0H00
+
+:03 50390 00308055 3093
+
+0:0 00 0003000.“ 03 H0833
+
+00.33003
+
+300 0H 000.3005 H9350 0:3 00
+000005.300 0:9 00.593 3:00
+:26: 0.3 :H :05» 00300033
+0» 003.3000 030.930 00500
+:00 0.00 000303300." H9350
+
+u5|00.000|.dlu 00l00
+
+0 capaa
+
+.H000: 00H: 00.300000 .3
+
+000.30051 H9308 :00.» 3000091300 000 Mo H000: 000
+00 HHO: 00 503003300 no 0.30330 5.0300 0:0 0.000
+000 no H000: :03» 0 .«0 0309 0:0 00 000000 H9330
+0:3 .3 00330 00.50.00 000026: 2.00000 00.0500»...
+
+0 an .000 3000.6: 003.3: “Ev 00030 0030303
+
+0.3.0030 .«0 000300000 003:
+
+300026: H9308 003.3000 003000080 3030300:
+1.300 7000 0000000300 000 .3308 0000: 03 003.“:
+umooou 300:0 000 003.0000 .«0 00300300300 50.300300
+00.3.0000 .0000» 00300000 00.“ 0:030:50 00 00.30099
+
+003003000 00 303
+
+0:0 0503.000 .00 00:00:0>:00 Hahn—:00 .00 000» 0:0 :00:
+0030000.... 00030000 33000 .0003 H0300 000 0050 003
+00300000 .3 500300.305 0.9.5030 00 0000: an 0000005:
+00 3.3000 500303005 00 003038.30 .0H000 00.5000
+
+ 
+
+H9380
+0:030:20
+
+smﬂduﬂ—Hﬁv:
+II 2.23..
+
+mm
+.058...
+
+: .guﬁ”:
+In 00000m
+
+H93000
+00.50.00
+
+«3.; mm
+In 30.3.0
+
+00.. 00
+00:0» 00
+
+140
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007IOW09: ClA-RDP82-00850R000400060045-2
+Table 1 (continued)
+:riteria for ggtgiging dat
+
+nth from sensor of positi
+Lalysis of position of cls
+is deternined indirectly.
+
+,ional tactile. optical an
+,especially for the analys
+1d recognition of the obje
+FOR OFFICIAL USE ONLY
+
+Control systems intended to solve Inltipurpose control problem should be called
+uniVersal systems; they are implemented primarily by developing and storing special
+control functions. i.e., by developing means of programing. Under concrete condi-
+tions. the developnent of special software my also be required.
+
+In creating special control systems. the designer determines. based on the required
+control functions, the control volume. convenience in servicing. as well as produc-
+tion possibilities etc.. the necessary groups of structural components and units.
+Thus, for simple cases, pneumatic control systems are specified. New developments
+of special ChPU system should include miniconputers.
+
+Universal control system should have built-in mini- or microcomputers or be con-
+nected to a central computer.
+
+Progralned control systems in principle are not meant for processing paths and mo-
+tions on a digital oasis as compared to freely programed Chm computer systems.
+
+Prograsing problems on moving parts span all actions for preparing motion programs
+and introducing them into the control system. The motion prograa contains all the
+
+control functions intended to implement the concrete problem of PR control.
+
+The control system must provide econonical programing according to the requirements
+for their application and readjustability when complying with special features of
+motion. The basic requirements not include conunience for the consumer and. if
+possible, the least laborious preparation of the program and the easiest correct-
+ability and optimization. Methods for data introduction and prom-ins should be
+classified according to the place of programing and the type of control system.
+
+Programing methods are selected according to conditions for the use of PR and. at
+the same time, must satisfy the requirements mentioned above. Programing at the
+site of use is very convenient because the programer usually does not need special
+knowledge, and special auxiliary means for programing are not required. However,
+
+in a number of cases of PR use, especially for comprehensive automtion of assembly.
+programing outside the boundaries of the work position (external programing) is re-
+quired. In this case. the program is nude up when preparing for work and is recorded
+on the progran carrier assigned to the control systen. Such programing Inst be
+used only in those cases where programing at the site is inpossible or inexpedieunt
+(for example. the motion task due to its complexity. or switching with the process
+at the working position does not lend itself to description: implementing control
+functions which nay be programed only when preparing for work; or the PR receives
+control data from central control).
+
+When the PR is programed at the worker position. after the motion cycle is deter-
+mined. all the necessary data for designing the program is fed directly into the
+control system.
+
+Prograning by motion cycles of parts is limited by the program cycle. i.e.. the
+motion cycle is designed as a sequence of instructions for direct control of motors
+of axes and grips. inputs and outputs etc.. and is implemented manually. The
+notion paths are adjusted by means of stops or position sensors directly on the PR;
+
+therefore, they are not a component part of the motion program.
+
+1.2
+FOR OFFICIAL USE ONLY
+Bod
+
+gn- cycle; :3 --- path 01
+. diagnostics. Sons 001
+FOR OFFICIAL USE ONLY
+
+The input of data into the program memory may be done unually by adjusting, con-
+necting, pushing an operator's pushbutton etc. with the motion reading exhibited
+on the control panel. and automatically by functional switches due to which data
+is transferred to the addressed places in the memory, i.e.. by the self-teaching
+method. A PR programed at the site whose program also includes path conditions
+
+in the component parts of the program, along with the motion cycle, is called
+freely programble.
+
+Specified motions are adjusted nnually in the required sequence. In this case,
+the motion cycle and. the path conditions are stored step-by-step. The PR position
+is determined by the path sensors which feed data on the path.
+
+To produce motion along the loop, the grip(tool) is directed nnually along the
+desired motion loop during the adjustment mode and the trajectory is autontically
+stored as a sequence of points. The number of points stored per unit of time must
+
+be such that a sufficiently precise reproduction of the programed motion line is
+made automatically.
+
+As a rule. programing requires special documentation. equipment and devices for
+
+preparing, converting. checking. correcting program and transferring data to the
+memory. All tasks on motion data met be compiled fully at the stage of work
+
+preparat ion .
+
+The improvement of external PR programing methods is achieved by a similar method
+of programing nechine tools with 01m.
+
+The use of mechanical program carriers cam discs, rigidly secured by cams, is a
+
+special case of external programing only for simple PR. When readjusting. the
+program carrier is replaced or readjusted anew.
+
+An approxinte control system using coded data my be implemented by special cod-
+ing on program carriers, punched tape. diode ntrices or semiconductor memories.
+
+Specialised program languages which are subdivided into simple languages oriented
+toward a specific problem and languages of a higher order are used; they differ
+in complexity of control functions and in the volume of reprocessed data.
+
+The motion program recorded in the corresponding language, up to the time that it
+my be placed in the program memory, lust be translated into the elementary control
+language. There is also the possibility of converting instructions in specialized
+languages directly into control instructions (by means of interpreters). Prob-
+lem oriented languages are used primarily in connection with universal control
+
+system for the solution of complex problem for mltimachine tool servicing and
+assembly operations.
+
+In external programing. problems on the motion of an industrial robot on the site
+of its use, mixed prograning is also utilised.
+
+bl;
+FOR OFFICIAL USE ONLY
+Conclusions
+
+An analysis of control system and prograling nethods for PR ukss it possible to
+establish a relationship between the control system type, methods of programing,
+the control application field and the content of notion program. Based on these
+general criteria. it is possible to classify control system. In practice. some
+control system criteria may be found in combination when only s part of the de-
+
+grees of notion belong to positioning. The type of control system is deternined
+according to the optinl variation of a positioning robot with a given scourscy
+
+and quick action which my be achieved by nthenticsl simulation of its motions.
+
+CCPYRIGHTI Izdatel'stvo “Hashinostrovsniyc”, "Vestnik unshinoscroyeniya", 1981
+
+2291
+C50: 1861/ 1910-A
+
+1:5
+son omcul. use ONLY
+FOR‘OFFKJAI.USE(NVLY
+
+UDC 532.538.4
+TECHNOLOGICAL HHD INSTALLATIONS AND PROCESSES
+
+Kiev TEKHNOLOCICHBSKIYB HOD USTANOVKI I PROTSBSSY in Russian 1980 (signed to press
+21 Oct 80) pp 22, 189-190
+
+[Annotation and table of contents from book "Technological Hun Installations and
+Processes”. by Anatoliy Pedorovich Kolesnichenko. Institute of Electrodynamics.
+UkSSR Academy of Sciences. Izdatel'stvo "Naukova dumka". 1000 copies. 192 pages]
+
+[Text] This monograph examines qualitative and spatial transformations in bounded
+regions filled with an electrically conductive liquid or gas and placed in physical
+fields: electric, magnetic and gravitational. Included among such transformations
+are changes in the form of energy and energy transfer--conversion of electromagnetic
+energy to heat and mechanical work, transfer of heat and mass of the conductive
+fluid under the influence of various combinations of electromagnetic. capillary
+
+and thermoconductive factors. Resulta of theoretical and experimental research
+
+are given on a new class of HHD phenomena--capillary effects that arise during
+
+arc and induction treatment of metals. New techniques for processing alloys are
+described that are based on the use of MED effects.
+
+The book is intended for scientists. engineers and technicians interested in the
+development and use of HHD installations.
+
+Figures 82. table 1, references 119.
+
+Contents page
+Preface 3
+Principal symbols 6
+Chapter I: Principal Equations of Magnetohydrodynamics 9
+Chapter 2: Hub Phenomena in Electric-Arc welding 18
+I. Body and surface forces in electrically conductive droplets. jets and
+
+plasma [8
+2. Shape of the boundaries of phase transformations as a cylindrical electrode
+
+is melted by a welding arc 30
+3. Quasi-steady states of the free surface of droplets and jets of electrode
+
+metal 40
+
+a. Drop formation and transport during arc melting of a cylindrical electrode #6
+5. Drop formation and transport of electrode metal in welding by direct
+current with superposition of current pulses 54
+
+L6
+IND! 0F1ﬂ€lAl.lEﬂi(ﬂ'LY
+
+6. Drop formation and transport of melt in electric arc welding with unsteady
+
+electrode feed 57
+7. Drop formation in modulation of magnetic pressure of noncontracting arcs 59
+Chapter 3: MED Granulation of Hetals 61
+1. HHD methods of controlling dissociation of free electrically conductive
+
+jets 61
+2. Free electrically conductive jets under the effect of sign-alternating
+
+electromagnetic forces in the sources 69
+3. Conditions of dissociation of free jets placed in a longitudinal alternating
+
+magnetic field 81
+4. Conditions of production of spherical particles 83
+5. HBO dispersers of liquid metals and alloys 90
+Chapter 6: MED Heat and Mass Transfer in Induction Hclting Furnaces 102
+1. Eddy pattern of electromagnetic forces and nechanises that produce uni-
+
+directional motion 104
+2. Pressure developed by active sections of the channel 108
+3. Hydraulic drag of induction channels 113
+A. Simulation of heat and mass transfer processes in the channels of induction
+
+furnaces 115
+5. Modeling of industrial induction furnaces 136
+Chapter 5: HHD Devices Based on Piston Gas-Liquid Flows 139
+1. Physical essence of processes in accelerated gas-liquid flows 161
+2. Formation of piston flows 106
+3. Stable forns of gas-liquid interfaces. Change in mass of a liquid
+
+batch during acceleration 150
+a. Dispersal of a liquid batch and mass transfer 158
+5. lnterphase heat exchange in the channels of acceleration devices 162
+6. Model of motion of liquid batches of variable lass 167
+7. Losses during acceleration of piston flow. Efficiency and other param-
+
+eters of acceleration devices based on piston flows 171
+8. Example of calculation of a device for accelerating piston flows 176
+References 182
+
+COPYRIGHT: lzdatel'stvo "Naukova dumka". 1980
+
+6610
+C50: 1861/154
+
+b7
+
+FOI1OFFKJA1.USI(IILY
+FOR OFFICIAL USE ONLY
+
+one 621.?93.669.2'&8
+ANTIFRICTIQI COtTINGS OI TITANIUM ALLOYS rumors
+Moscow V511”! WINDSTROYBGIYA in Russian lo 5. lb: 81 p 47
+
+[Article by V. I. Latatuysv, cand. of tech. sciences and G. N. Canny. engineer]
+
+[Text] It is well known Ei-S] that it is extrelel! difficult to deposit good
+
+bonding coatings on titan ua and its alloys due to the forntion of oxide file on
+their surfaces.
+
+when the oxide file is rsnoved by etching by using a sixture of nitric and hydro-
+Iluoric acids there is observed a strong hydrogen absorption on the titaniua surface
+due to the for-stion of a hydride (0.06“ and acre of hydrogen in the outer layers).
+
+The presence of the hydride filn reduces sharply the adhesion of the coating to
+the titanius and deteriorates the strength characteristics. i.e.. increases the
+brittleness of the hotel. It is proposed [2] that annealing (“OD-500°C) reaoves
+the hydrogen. and the adhesive properties of the electroplating are iaproved.
+
+A new and very prosising asthod .is one for depositing nickel-phosphorus coatings
+
+by cheaical nickel plating (m) with acid and alkali (ansoniun) solutions [6-9]
+on the titanius and its alloys.
+
+The phosphorus content (2-15) in the coating isparts specific properties: great
+hardness and higher antifriction properties which ukes it possible to utilise
+W to solve the probles of screwing parts ads of titaniun alloys together when
+they are subjected to high loads. Tests were ads on sanples of the ”2-1 and the
+vr-zo alloys. Preliainary tests on the W in solutions of well-known conpounds
+(cosr 9.0a7-75) indicated that titaniua slloys either cannot be nickel plated or
+fora a coating with poor adhesion.
+
+m the basis of recommendations 7-8]. investigations were ads on the preparation
+of the surface of the titaniua a loys before cheaical nickel plating (before each
+chenical operation the parts were washed thoroughly in running water for 2 to g
+sinutss) by first degreasing in ornnic solvents (sasoiine,dichioroethsne etc.
+
+for 5 to 10 ainutes. then in an alkaline solution for 5 to 10 Iinutes at a tea~
+perature of 60 to 70°C.
+
+118
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The oxide filn was reeoved in solutions of sulfuric or hydrochloric acids at vari-
+
+ous tenperaturee and tiles. The best results were obtained by pickling in concentra-
+ted hydrochloric acid at 501500 for 8 to 10 Iinutee (2 to 3 nicronetere are etched
+
+off). Too lengthy etching destroys the surface due to autocatalyeis. For exalple.
+15 to 20 aicroeeters are etched off.
+
+The lost critical operation is the activetion of the titaniun alloy surface '-
+the deposition of a thin file (approxintely 0.1 nice-outer) of nickel that cata-
+lyzes the KhN process.
+
+A solution' consisting of 150 to 250 gran/liter or nickel sulfate and 100 to 120
+nilliliters/liter of hydrochloric scid at 20 to 25°C was taken as a basis. The
+activation tine was 5 to 10 seconds.
+
+After thorough mhing in running water. the salplee were illediately i-ereed in
+the KhN solution. In this case. solution “D“ was used which consisted of 20 to 30
+gran/liter of nickel sulfate, 20 to 25 gran/liter of sodiun hypophoephite. 10
+
+to 15 gran/liter of sodiun acetate. 0.003 gran/liter of thiouree and 2 nilliliters/
+
+liter of acetic acid. at a teaperature of 90 '3: 2°C and a speed of 20 to 25 aicro-
+asters/hour.
+
+For removing hydrogen and increasing adhesion. the sanplee were heat-treated
+in air at 000°C for 2 hours. The adhesion of the plating let the (HST requiresente.
+
+The developed technology solves the proble- of depositing an antieoui‘i' nickel-
+phosphorus plating on threaded parts ude of titaniun alloys.
+
+nmlmn
+i. Colner. A et al. J. Electrochen. 800. ll 11. 100. 1953.
+
+2. Layner. V. I. ”hodern Electroplating.“ Moscow. lletallurgiya. i967, 3814 pages.
+
+3. Ginberg. A. ll. “Electrolytic Deposition of Natale on Alueinue." Leningrad.
+Sudproxis. 1957. 167 pages.
+
+16. Vernik. 8.; Pinner. R. ”meaical and mectrochenical Treat-ant of Aluainun and
+its Alloys.” Translated fro- the hglieh. Lningud. Swim-gin. 1960. 322
+pages.
+
+5. Veyner. Ya. V.. moyan, h. A. “Technology of Electrochesicel Coatings.”
+Leningrad. hashinoetroyeniye. 197?. 1068 pegee.
+
+6. Gorbunova, K. $1.; Nikiforova. A. A. ”Physio-cheeical Principles of the (heli-
+cei Nickel-Plating Process.“ USSR Acedeny of Sciences. 1970. 20? pages.
+
+‘Val'eyunene. Ya. N. Solution for activating titaniue before cheaical nickel
+plating. Author's certificate 185182.
+
+149
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+7. Latatuyov. V. 1.: Gunny. G. IL: Doniaov. A. D. “m1 coating by the Choucol
+Process. Alt. kn. lad-v0. 1968. 208 pages.
+
+8. Nimdrova. L. I. “an-1m Hothodn for mu Costing." ﬂuted by P. H.
+Vyacheshvov. “meow. lbshlnootroyontyo. 197'}. 1016 pages.
+
+9. Vlohenkov. S. A. “Queucal and moctrochodcd Hothods for Dopamine Eta].
+Coatings.“ Moscow. bohinoctroyenlyo. 1975. 312 pages.
+
+CMRIGHM Imtol'atvo "lhshinostroymiyo','Vutu1k mhlnootroyoniyo". 1981
+
+2291
+C50: 1861/1944;
+
+50
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.638.62-226-2
+
+CARRYING CAPACITY OF HORKING BLADES 0F GAS-TURBINE ENGINES UNDER VIBRATION LOADS
+
+Kiev NESUSHCHAYA SPOSOBNOST' RABOCHIKH LOPATGK GAMURBINNYKH DVIGATELKY PR1 VIBRATSI-
+ONNYKH NAGRUZHENIYAKH in Russian 1981 (signed to press 29 Dec 80) pp b. 313-316
+
+[Annotation and table of contents from book "Carrying Capacity of Working Blades
+of GasdTurbine Engines Under Vibration Loads". by Valeriy Trofimovich Troshchenko.
+academician, UkSSR Academy of Sciences, Valentin Vladimirovich Hatveycv, Boris
+Alekseyevich Gryaznov. Sergey Semenovich Gorodetskiy and Anatoliy Beynaminovich
+Roytman. Institute of Strength Problems. UkSSR Academy of Sciences, lzdatel'atvo
+"Naukova dumka", 1000 copies, 316 pages]
+
+[Text] This monograph gives the procedure and results of investigation of fatigue
+of high-temperature alloys subjected to complex thermomechanical loading. and also
+the fatigue of working blades of turbines and compressors in gas—turbine engines
+with consideration of their changes during utilization. A method is described
+
+for modeling experimental loads for turbine blades (experimental facilities). Data
+are given on the damping properties of turbine blade materials. lock joints of
+compressor and turbine blades, and also on the damping capability of working blades
+that is due to aerodynamic drag of the ambient flow and structural hysteresis with
+consideration of operating conditions. An examination is made of methods of re-
+
+= ducing the dynamic stress on blades by using structural damping and dissipation
+
+of the energy of vibrations in the material. Recommendations are made for increas-
+ing the carrying capacity of the turbine blades in gas-turbine engines.
+
+- For scientists, engineers and technicians dealing with problems of developing and
+using gas-turbine engines.
+
+Figures 245. tables 38, references 209.
+
+Contents 9889
+Preface 5
+Chapter 1: General Information on Operational Damage to Compressor and Turbine
+Working Blades 7
+l. Hajor factors that influence the carrying capacitv and service life of
+working blades 7
+2. Typical types of damage to the blades of the axial compressor and turbine 22
+3. Indices of operational reliability of gas-turbine aircraft engines 37
+51
+
+IIHRCHHNCJAI.IENICHVLY
+thaptcr 2:
+
+hapter 3:
+
+Imp
+
+hap
+
+o
+
+nap
+
+:' fe
+JPY
+
+)IO
+50:
+
+POI! OFFICIAL USE ONLY
+
+Durability of Turbine Blade Materials
+Hethods of studying the durability of high-temperature alloys
+
+Influence of high temperature on the durability of turbine blade alloys
+Durability of high-temperature alloys under conditions of combined action
+
+of mechanical and thermal cyclic stresses
+
+Methods of Studying the Carrying Capactiy of Working Blades
+
+Methods of testing Blades for durability
+
+The UL-l facility for studying durability under room-temperature and high-
+
+temperature conditions
+
+44
+44
+57
+
+64
+78
+78
+
+90
+
+The VL-2 automated vibration stand for studying fatigue under conditions of
+programmed load and temperature variation
+
+Statistical processing of the results of mechanical tests
+hnpter 4: Investigation of Fatigue of Working Blades
+Influence of operational and technological factors on fatigue of working
+
+blades
+
+Damage to turbine blades after operational failure
+Influence of testing conditions on the microstructure and type of fracture
+
+of working blades
+
+ter 5: Methods of Studying the Damping Capacity of Working Blades
+Damping characteristics and methods of determining them
+Systems for automating the process of determining characteristics of
+
+vibration damping
+
+Investigation of the damping properties of turbine blade materials
+Investigation of the damping capacity of lock joints
+
+Investigation of aerodynamic damping of vibrations
+
+Investigation of damping of vibrations in a centrifugal force field
+ter 6: Investigation of the Damping Capacity of Working Blades
+
+Damping properties of turbine blade materials
+Damping capacity of lock joints
+
+Aerodynamic vibration damping
+
+Vibration damping in a centrifugal force field
+
+ter 7: improving the Vibrational Reliability of Working Blades
+Optimizing the damping properties of turbine blade materials
+Improving the characteristics of aerodynamic vibrational damping
+
+Increasing the damping capability of lock joints
+
+Improving the vibrational reliability of pairwise shrouded blades
+
+1!ch98
+
+RIGHT: Izdatel'stvo "Naukova dumka", i981
+
+1861/153
+
+EHD
+
+5?
+
+FOR 0FF1C1A1.USE(NWLY
+
+95
+103
+228
+
+118
+129
+
+144
+155
+156
+
+166
+175
+187
+204
+213
+220
+220
+237
+258
+270
+281
+281
+286
+291
+298
+302

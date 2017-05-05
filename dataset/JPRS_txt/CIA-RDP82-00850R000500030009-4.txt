@@ -1,0 +1,2140 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10301
+4 February 1982
+
+USSR Report
+
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+(FOUO 1/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the u.s. Government.
+
+COPYRIGHT LAMS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10301
+4 February 19
+
+USSR REPORT
+
+ENGINEERING AND EQUIPMENT
+(r000 1/82)
+
+- CONTENTs
+MARINE AND SHIPBUILDING
+
+Abstracts of Articles in Collection 'HARINE POWER ENGINEERING AND
+FUELUTILIZATION'............................................... 1
+
+Abstracts of Articles in Collection 'STRBNG‘I'H AND SRANOKI'HINBSS
+or swam sulPs'......O...0.0.0....IOOIUIUIOOC......‘OOOOCOOOO 5
+
+Abstracts Tron Collection 'HORKS OF THE CENTRAL SCIENTIFIC
+RESEARCH INSTITUTE OF THE NAVY: AUTGIATION 0? OCEAN-
+GOING SNIPS'......................................,............. B
+NUCLEAR ENERGY
+Nuclear Reactor Fuel Channels and Fuel Elenents. .. .. .. ...... .. .. .. ll:
+Equipment and Tooling for Repair of Channel Type Atonic Reactors. . 15
+Repair Equipment and Tooling for Vessel Type Atomic Reactors. . . . . . l8
+INDUSTRIAL TECHNOLOGY
+Systems-Morphological Approach in Designing Atonic Equipnent. . . . . . 22
+
+Selected Abstracts From Collection 'EXPERIMENTAL STUDY AND
+DIAmsIs 0F RomTS'0I0..........OOOOOOOOQOOOOOOOOIOOCI0.000.... 25
+
+HIGH-ENERGY DEVICES . OPTICS AND PHOTOGRAPHY
+Macroscopic and Molecular Processes in Gas Lasers. . . . . . . . . . . . . . . . . 32
+
+Electric-Arc Converters With Interelectrode Inserts............... 34
+
+- a - [III - USSR - 21F SST FOUOE
+"FOR OFFICIAL USE ONLY
+
+MARINE A!!!) SHIPBUILDING
+
+ABSTRACTS 017 ARTICLES IN COLLECTION 'HARINE POWER ENGINEERING AND
+FUEL UTILIZATION'
+
+Leningrad TRUDY TSENWAL'NCXEO NAUCHNO-ISSIEDOVARL'SKOGO INSTITUTA HORSMO rm:
+
+SUDOVAYA ENERGBTIKA I TOPLIVOISPOL'ZOVANIYE in Msian No 260, 1980 (signed to press
+20 Oct 80) pp 109-111
+
+UDC 629.12-8
+PU'I'I‘ING WWI! Pm PLANT SYS‘I'BIB FOR SPECIALIZED SHIPS
+
+[Abstract of article by Haslov, V.V., and Peotanov, a.v.]
+
+[Text] The authors discuss the structure of power plant systems with low- and
+media-revolution internal codmstion engines that have been built in recent years,
+along with the outfitting of these systems with auxiliary equiment. Technical and
+operating requirements for the structure of. these systems and their production as
+complete units have been developed. Figures 10: references 6.
+
+00¢ 621.431.748621.436/-192
+WIQUB FOR PREDICTIM THE RELIABILITY or MARINE DIESEL ENGINES
+
+[Abstract of article by Karpov, 10.8.]
+
+[Text] The author proposes a technique for predicting the reliability indicators of
+marine diesel engines that is based on the use of the reliability indicators of the
+
+basic assemblies of the engine in question in comarison with a base indicator, be-
+cause of the various improvements in assemblies that have been modernized that make
+
+it possible to make a quantitative evaluation of the degree of improvement in their
+reliability. Figures 2.
+
+UDC 629. 12-8:53.08
+0N WTIC-BHISSION DIWTIC SYS‘IBHS
+
+[Abstract of article by Ignatov, v.N.]
+
+[Text] 'lhe author discusses the problems connected with, the basic construction
+principles, and the use of acoustic-enission equipment used in technical diagnos—
+tics. He presents the results of experimental data on the use, under both marine
+
+1
+
+FOR OFFICIAL USE ONLY
+a so.- scenes—la.“ av... v. one
+
+and laboratory conditions. of the acoustic-emission equipment that has been devel-
+oped. Figures 3; references 6.
+
+UDC 621.438
+
+THE POSSIBILITY OF USING THE AI-ZO GAS TURBINE ENGINZ AS THE AIR SOURCE IN A
+PNEUMATIC WASHING SYSTEM
+
+[Abstract of article by Eeslik, Ya.?., Selyugin, N.G., and chrebnik, N.V.]
+
+[Text] The authors present the results of bench tests of an AI-zo aviation gas tur-
+bine engine with increased counterpressure beyond the turbine and air takeoff beyond
+the compressor. They also describe the stand and the noise suppressors at the com-
+pressor's air intake and the gas's point of discharge from the turbine. Figures 5;
+references 4.
+
+00C 621.438
+
+INVESTIGATION OF THE PUNCTIONING OP PNEUMATIC WASEING DEVICES UNDER PULL-SCALE
+OPERATING CONDITIONS
+
+[Abstract of article by Gitel'man, A.I.. Selyugin, 8.6., and Levykin, B.P.]
+
+[Text] The authors give the results of an investigation of the performance of a
+
+pneumatic washing device under various operating conditions. They also present a
+technique for determining the air source's basic parameters according to the drop in
+pressure at the compressor's intake. Figures 8: references 2.
+
+UDC 629.12-757.42
+RATIONALITY OF TRE UTILIZATION OF HEATING OF A SBIP'S HULL TO COMBAT ICING
+[Abstract of article by Roslik. Ya.P., and Selyugin, “.6.)
+
+[Text] The authors discuss the heating of a ship's hull as one method for eliminat-
+ing and preventing icing. They present a calculative technique, the heat transfer
+coefficients. and specific energy consumption required for efficient utilization of
+heating. They also compare their calculations with the results of a full-scale ex-
+periment. Figures 4; references 5.
+
+00¢ 629.12.066
+
+POWER INDICATORS OF MODERNIZBD, THREE-SPEED. INDUCTION MOTORS IN THE ELECTRIC
+DRIVE 0? MARINE CARGO-HOTSTING HACNINERY
+
+[Abstract of article by Babayev, A.M., Baranov. L.N., and Brovkin, 3.5.)
+[Text] The authors discuss the possibility of using the working characteristics of
+
+three-speed, induction motors with modernized rotors to calculate static and dy-
+namic losses and determine the values of the temperature excesses of stator windings
+
+on the basis of data from operational tests of electric drives on the motorship
+”Kemeonolets Uzbekistana." Figures 9: references 3.
+
+2
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 629.125.001.5
+
+mmsuc WEISS (I m HAIR DIESEL ”BEAMS C!’ THE 'VITYAZ"
+mm CRANE. WITH BONED/38 DIESEL mamas
+
+[Abstract of article by noshakov. v.1., and Yel'nik. LG.)
+[Text] The authors discuss questions concerning the vibration and noise or main
+
+diesel generators of the 240:: type, with 6Chn30/38 diesel engines. that have been
+installed on the ”Vityaz" floating crane. Figures 4.
+
+1100 621.125.001.5
+
+ANALYTICAL INVESTIGATIGI OF THE NATURE or THE CHANGE IN STEAM PARAMETERS IN THE
+VOLUME IN Pm OF THE TURBINE IN TRANSITIMAL MDES
+
+[Abstract of article by Basalygin, G.H.]
+
+[Text] The author formulates a system. based on the First Law of Thermodynamics,
+that makes it possible to investigate the actual nature of the change in steam pa-
+rameters, with due consideration for the variable value of the polytropic exponent,
+
+in the steal: cheater between the regulating valve and the turbine's nozzles. Pig-
+ures 3; references 3.
+
+one 629.12.06:628
+A CHEMICOHEGHNICAL £11100 0? UTILIZING mm RESIwES IN TANICERS
+[Abstract of article by Bol'shakov, V.P., and Reshetnikov. I.P.]
+[Text] The authors discuss the physicochenical characteristics of the petroleum
+residues that torn in tankers. They then present a technique for preparing washed-
+out crude oil for use in bunkers. Figure 1.
+
+use 629.12.06:628
+
+ON THE DEVEIDPHENI' OP NOZZLE-TYPE WIZIM DEVIQS FOR THE UTILIZATION 0?
+PETMLEUH ﬁESIDOES THAT FOR! G SHIPS
+
+[Abstract of article by Reshetnikov, I.P.]
+[Text] The author presents the operating parameters of nozzle-type homogenizing de-
+vices that are designed with the help of cavitation theory and methods from the di-
+mensional analysis of similarity and nodeling.
+
+UDc 621.125
+
+SPECIAL FEATURES 0? m DETERMINATICN O? 11!! TRANSIENT TEMPERATURE or THE HEATED
+SURFACE O? A MARINE STEAM TURBINE'S "(1181108
+
+[Abstract of article by Volosov, H.I.l
+
+ma OFFICIAL us: only
+I V” U. I l\-Iﬂh ‘IUO. ‘II‘Aa.
+
+[Textl The author examines the effect of the opening in which the thermocouple is
+installed on the error in determining the transient temperature of a heated surface.
+He points out the possibility of a theoretical evaluation of this distortion by the
+
+solution of a unidimensional transient thermal conductivity problem. Figures 3:
+references 6.
+
+00¢ 629. 12-52
+
+MATHEMATICAL MODELS FOR AN AUTOMATED SYSTEM FOR CONTROLLING THE HEATING 0P VISCOUS
+CARGOES IN SEAGOING TANKERS
+
+[Abstract of article by Moshnyanskiy. 8.1-2, and Hul'ko, v.1.)
+
+[Text] The authors present a mathematical description of the processes involved in
+the heating of viscous cargoes in seagoing tankers. Figures 4; references 10.
+
+0'00 629 . 12-52 .001 . S
+
+CAICULATION OF THE PROCESSES INSURING THE OPERATIONAL RELIABILITY OP FUEL
+BUNKERAGE
+
+[Abstract of article by Hosnyanskiy. A.P.. and Hul'ko, v.1.)
+
+[Text] The authors present a technique for the mathematical modeling, using elec-
+tric network models. of the processes in a coil preheating system that support the
+operation of fuel bunkersge. Figures lo; references 6.
+
+[DC 621.125.52
+
+CAVITATION AS A MEANS OF INCREASING THE EFFICIENCY OF COMBUSTION OP HEAVY FUELS IN
+DIESEL ENGINES
+
+[Abstract of article by Seliverstov, H.V.]
+
+[Text] The author discusses the process of the appearance of cavitation and the
+basic factors affecting its intensity during the movement of fuel through the nozzle
+apparatus of diesel engine injectors. He substantiates the possibility of creating
+nozzle units capable of providing highly efficient fuel atomization through the or-
+ganization and control of cavitation processes in the fuel jet. Figure 1: refer-
+ences 3.
+
+COPYRIGHT: Tsentral'nyy ordena Trudovogo Krasnogo Znameni nauchno-issledovatel'skiy
+institut mrskogo flota (TsNIIMF), 1980
+
+11746
+CSO: 1861/46
+
+NR OFFICIAL USE ONLY
+FOR OFHCIAL USE ONLY
+
+ABSTRACTS 0? ARTICLES IN COLLECTION 'STRBNGTII AND SEAUORTHINESS 0F
+SEAGOING SHIPS'
+
+Leningrad TRUDY mm'nooo WISSMM'M ms'rmrra nonsxoco m:
+PROCHNOS‘I" I nonsmomvs mmsm MESH!!! SUM in mssian No 258, 1980 pp 91-92
+
+UDC 629.12:539.4
+
+mmmmmmmmmmmmnsmmmm
+STRENGTH
+
+[Abstract of article by Hakeinadahi, 3.1.]
+
+[Text] The authors discusses the shortening of the fatigue life of structures be-
+cause of a regular change in the average load level in ccebination with the simulta-
+neous effect of a rando- anplitudinal ccuponent. He suggests a technique for allow-
+ing for this type of loading when setting strength norm. rigures 2, references 3.
+
+UDC 629.12.002.3
+
+INVESTIGATIW OF THE WMCS 0? 0962 51331. FOR m PURPOSE W 55m
+SMNWWMWPORFATIGUB
+
+[Abstract of article by Haksinadshi, A.1.. and Kutesinskiy, V.P.l
+[Text] The authors analyse the results of fatigue tests of sasples of 0962 steel
+under complex loading. They present data on fatigue crack growth rates as a func-
+tion of the average stresses, as well as for regular changes in the latter. Figures
+8: references 9.
+
+UDC 629.12.004.23
+PREDICI'ING THE WHICH. STATS G THE “01.18 W OPERATING SHIPS
+[Abstract of article by Markosov, G.V.l
+[Text] The author presents a method of predicting the technical state of ship hulls
+
+on the basis of a statistical analysis of materials Iran the prerepair survey of de-
+fects in ship hulls. Figures ll: references 2.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+UDC 629.123:56.004.4
+STRUCTURAL PROVISIONS FOR m SAFETY OF TANKERS WIT}! SEALED BALLAST TANKS
+
+[Abstract of article by Hel'nikov. A.H.]
+
+[Text] The author analyzes the possible consequences of disrupting the hermetic
+state of the cargo holds in tankers having sealed ballast tanks. He also formulates
+the requirements for the performance 0! hull-welding operations during the assembly
+of the hull structures of such ships. References 3.
+
+UDC 629.12.011
+
+GENERAL RELATIONSHIPS OP MAGNETIC, MECHANICAL AND mm PWBRTIBS AND STATES W
+SHIP STRUCTURES
+
+[Abstract of article by Guzeyev, v.1.)
+[Text] The author discusses the general relationships among the magnetic, mechani-
+
+cal and thermal properties and states of steel ship structures on the basis of the
+theory of hysteresis processes. Figure 1; references 4.
+
+UDC 629.12.004.6(083)
+
+SPECIAL ALWABLB "BAR NORHS
+[Abstract of article by Haksimadzhi, A.I., and Briker. A.s.l
+
+[Text] The authors present the basic methodological propositions that must be used
+during the development of special wear norms for a given series 0: ships. They sub-
+stantiate the advantages of the individual approach and point out the sources that
+make it possible to reduce the volume of repair work when these norms are used.
+Figures 6; references 6.
+
+UDC 629.122624.04
+DETERMINING THE KINEMATIC AND PM]! PARAMETERS 0? RESTRICTED TORSICN IN CONNECTICN
+
+WITH A 'DOUBLB-PEAKBD' DISTRIBUTION OF THE NRSINAL W ALONG T68 LENGTH O? A
+SHIP
+
+[Abstract of article by Ul'yanova, L.I.l
+[Text] The author presents a solution of the differential equation for restricted
+torsion when there is "double-peaked" distribution of the external torsional mo-
+ments. Shealso discusses the question of the effect of a ship's dimensions on its
+stressed state under torsion. Figures 2; references 2.
+
+UDC 629.125.82039.073.243.4:532.59
+
+MAIN PART OF THE DIS'IIJRBING FORCES OF A SKEG SVP DURING ROLLING IN RESPWSE TO IaATf
+ERAL HAVE ACTION
+
+[Abstract of article by Bogdanov, 3.1.]
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+[Text] The author explains a method for determining the righting hydrostatic and
+main part of disturbing hydrodynanic forces and their ascents during rolling of a
+skeg hovercraft lying broadside to regular. progressive wave action. He also
+presents calculating formulas derived vith due consideration for nonlinearity
+
+with respect to the righting noneut. Figures 6; references lo.
+
+UDC 656.61.052.484
+
+mm CRI'lERIm FOR SEWING SRIPS WITH DYNAMIC MAINTENANCE PRINCIPLES
+[Abstract of article by Bogdanov, 11.1., and Strelyayev. LIL]
+
+[Text] The authors explain a method for determining the weather criterion for ships
+
+with dynamic naintenanc principles that are sailing in ballast. They also present
+
+an.example of the calculations for a hovercraft of the skeg type. Figures 2;
+references 2.
+
+Doc 629.12.073.243.4:532.59
+DETERMINING PRICTIGIAL DRAG DURING ROLLING OF A SHIP
+[Abstract of article by Kanenskaya, Ye.n.l
+
+[Text] The author discusses the oscillations of an elliptical body of revolution
+
+with a constant frequency around its longitudinal axis of sysmetry in a uniform in-
+cident flow. In connection with this. she also obtains approximate solutions for
+the problem of the oscillations of a circular cylinder. Pigures 2: references 7.
+
+00¢ 629.12:S32.321
+
+STABILITY G A 831? WITH A sun-rm CARGO UNDER 8m MDI‘I'IQIS
+[Abstract of article by Kondrikov, D.V.]
+
+[Text] The author proposes to account for cargo novability for a ship encountering
+irregular wave action. He finds a zone of safe ship stability that has ”upper“ and
+”lower" boundaries. Figures 2: references 2.
+
+BBC 629.123.561.07
+AN ALGORITHM AND PROGRAM FOR WIRING THE BASIC CHARACTERISTICS OF GAS CARRIERS
+[Abstract of article by Artsykova. A.A.]
+
+[Text] The author presents an algorithm for calculating the basic technical charac-
+teristics and economic indicators of gas-carrying ships of different architectural-
+
+structural types. She discusses the special features of the progran drawn up on
+the basis of the proposed algorithm, which program is written in the FORTRAN-Iv a1-
+gorith-ic language for use with a Yasl020 computer. Figures 3.
+
+COPYRIGHT: Tsentral'nyy ordena Trudovogo Krasnogo marteni nauchno-issledovatel'skiy
+institut uorskogo flota (TsNIIHP); 1980
+
+11746
+
+cso: 1861/47
+
+FOR OFFICIAL USE ONLY
+HM Ul'l'lt IAI. USE ONLY
+
+ABSTRACTS FROM COLIECTION 'HORKS OF THE CENTRAL SCIENTIFIC RESEARCH INSTITUTE
+OF THE NAVY: AUTOMATION OP OCEAN-GOING SHIPS'
+
+Leningrad TRUDY TSBNTRAL'NOGO NAUCHNO-ISSLEDOVAIEL'SKOGO INSTITUTA
+HORSKOGO PLOTA: ANTOHATIZAISIYA HORSKIKH SUDOV in Russian No 259, 1980
+(signed to press 24 Oct 80) pp 108-111
+
+[Abstracts from collection "works of the Central Scientific Research Institute
+of the Navy: Automation of Ocean-Going Ships", edited by Yu. I. Panin,
+Leningradskoye otdeleniye itdatel'stva "Transport", 1410 copies, 111 pages]
+
+UDC 629.12-8-52
+
+CALCULATING OPERATING FACTORS “BEN EVALUATING THE EFFICIENCY OF AUTOMATION
+EQUIPMENT FOR PONER INSTALLATIONS
+
+[Abstract of article by Savin, B. V.)
+
+[Text] A methodology is exanined for calculating the operating and engineering
+factors in problems associated with evaluation of the efficiency of automation
+equipment for power installations, taking into consideration pecu1iarities in
+forming economic savings for automation equipment and establishing connections
+between the technical and operating characteristics of the means of production
+and the economic indicators and operating evaluation of the ship's work.
+Mathematical expressions are given for deter-ining components of economic
+savings. Peculiarities in making statistical estimates of technical effective-
+ness indicators of automated subjects and of the economic activity of a snip are
+analyzed. Figure 1. table 1, references 3.
+
+FOR OFFICIAL USE ONLY
+FOR (IFFI‘1AI. l'SF. ONLY
+
+UDC 629.12.073.286:532.5
+AUTONATING CONTROL OF SEA-GOING PROBBRTIBS OP SHIPS UNDER STORM CONDITIONS
+[Abstract of article by Kondrikov, D. V.]
+
+[Text] Possible schemes are proposed for control of ship safety with regard
+
+to slamming. summpability and loss of stability. Safety criteria are calculated
+as a function of statistical motion parameters which are determinable either
+
+by sensors or by calculation. Figures 2, references 3.
+
+UDC 656.61.052:65.011.56
+EXPERIMENTAL RESEARCH IN commas-comm) SHIP COURSE
+[Abstract of article by Antonenko, V. A.]
+
+[Text] The formulation and results of an experiment studying control of the
+course of a ship by a digital computer which is a part of an automated naviga-
+tion complex are examined. Recommendations are given for selection of coeffi-
+cients for strengthening the principle of control of a ship. Figures 2.
+
+UDC 629.12.053
+
+PROSPECTS FOR USING LASER TECHNOLOGY FOR AUTOMATIC CONTROL OF THE MOVEMENT
+OP LARGE-CAPACITY SHIPS DURING HOORING
+
+[Abstract of article by Ignstovich, B. I. and Rakitin, V. D.]
+
+[Text] A brief substantiation of the necessity of using systems for automatic
+control of the movement of large-capacity ships during mooring. Comparative
+characteristics for all available systems are presented, and their principal
+shortcomings are pointed out. Laser systems are singled out in particular as
+the most promising, as systems which will provide the navigator with all
+necessary information about ship movement and position relative to the wharf.
+Figures 2. table 1, references 10.
+
+UDC 6Z9.12:S32.321
+
+TESTING THE STABILITY OF A ROCKER USING ANGULAR RAMP
+[Abstract of article by Belozerov, G. I.]
+
+[Text] The urgency of controlling ship stability with the aim of insuring its
+operating safety is shown. A method is proposed for determining the metacentric
+height by using a lowered angular ramp, using ship healing as a test. Simple
+calculations based on heel angle measurements make it possible to test the
+initial stability of the ship rapidly, almost without ceasing loading operations.
+
+FOR OFFICIAL USE ONLY
+FUR (ll- I-’l('IAI. USE ONLY
+
+UDC 656.61.052.14:527.62
+
+EVALUATING ACCURACY IN DETERMINING SHIP POSITION COORDINATBS BASED OR DATA
+FROM AUTOHATBD DORAN TRANSPONDERS
+
+[Abstract of article by Komarov, s. 11.]
+
+[Text] The possibility of improving the accuracy of determination of ship
+position using automated single-channel doran transponders by calculating the
+
+effect of tropospheric and ionospheric refraction is examined. Figure 1,
+references 2.
+
+UDC 656. 61.052 :65.011.56
+AUTONATED NAVIGATI ONAL INFORMATION RECORDING SYSTEMS
+
+[Abstract of article by Kokolov. N. P.]
+
+[Text] Topics in the study of the characteristics of input streams of naviga-
+tional information for recording and documentation are examined. A description
+of the operating process for an automated navigational intonation recording
+and documentation systal is given, on the basis of which functional dependences
+of the magnitudes characterizing the influence of input stream parameters.
+servicing and methods of system organization on its work quality are determined.
+Figures 3, table 1, references 6.
+
+UDC 629.12.011.1
+
+AUTOMATED DESIGN OF EXTERNAL NULL SHAPE
+[Abstract of article by Kovalev, V. A. and Myachin, V. F.]
+
+[Text] Two-parameter curves are presented which permit two-dimensional sections
+of complex surfaces, e.g. the hull of a ship, to be described mathalatically.
+Methods for controlling the shape of the curves by changing their parameters
+
+are demonstrated. Figures 6, references lo.
+
+UDC 656.61.052:65.0ll.56+[621.431.7lo:621.636-52]:53.08
+USING Lk-TRANSPORHS IN SHIP AUTOMATION PROBLEMS
+[Abstract of article by Sobolev, L. 6.]
+
+[Text] The concepts of the L-derivative and the L-integral are introduced
+and their geometric interpretation is given. Using them. practical problems
+are solved in the processing of experimental data for automation systems for
+shipbuilding processes and technical diagnostics for marine diesel engines.
+Examples of the practical use of en L-transform to solve a series of problems
+in the theory control autonation are presented. Figures 9, tables 3,
+references 5.
+
+10
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 629.12-52
+EXPERIMENTAL INVESTIGATION OF L-APBRIODIC LINK
+[Abstract of article by Kiselev, A. H. and Burdsnov, V. 1.]
+
+[Text] The results of an experimental investigation of a new class of automatic
+control systems with variable coefficients are examined. The transient charac-
+teristics of the L-aperiodic link are presented, demonstrating a number of ad-
+
+vantages as compared with ordinary aperiodic links. Figures ’0, references 2.
+
+000 629.12—52-192
+METHOD OF EVALUATING RELIABILITY INDICATORS 0P SHIP AUTOMATION DEVICES
+[Abstract of article by Sobolev. L. G. and Smirnov, V. 8.]
+
+[Text] A methodology is proposed for developing factual data on the reliability
+of ship automation devices, with the aim of determining indicators of a stable
+value for device failure rate and their break-in period.
+
+The example is given of the practical use of the proposed methodology for
+evaluating these values based on data on the reliability of non-Soviet centralized
+automated control systems which are in use on a group of sea-going ships.
+
+Figures 2, references 5.
+
+UDC 629.12.037.16
+
+INVESTIGATING STRESS REGULATION PROCESSES IN THE DIESEL VARIABLE-PITCH SCREW
+PROPULSION UNIT UNDER SNELL NNDI‘I'IONS
+
+[Abstract of article by Zalitis, V. A.]
+[Text] The dynamics of a double loop system of stress regulation in a diesel
+variable-pitch screw propulsion unit under swell conditions is studied. A
+mathematical model of the system is presented which realizes nonlinear control
+algorithms and a nonlinear function of the change in hydrodynamic stress on
+the screw when the ship rolls. A computation methodology is also set out.
+Figures 3, tables 2, references 2.
+
+UDC 621.181:629.12
+DYNAMICS OF AUXILIARY SHIP BOILER
+[Abstract of article by Galanin, A. A.]
+[Text] Indicators characterizing the operation of an auxillary ship boiler in
+
+stationary mode with two-position regulation of steam pressure. Figures 3,
+references 2.
+
+11
+
+FOR OFFICIAL USE ONLY
+HIK "I'M! h“. USI‘. UNI.‘
+
+UDC 621.313.333:629.12.001.5+629.12.066
+
+SIMULATION MODELING OF INDUCTION MOTOR
+[Abstract of article by Tsvetkov, V. V.]
+
+[Text] A method is presented for constructing a mathematical model of an
+induction motor, a model which has been improved to the point of implementation
+in a program which simulates the fundamental processes in the motor. Data
+from catalogues are the initial data for the model. Application of the model
+simplifies significantly calculations associated with appearance of rotor
+current displacement and permits the necessary set of characteristics of basic
+types of squirrel cage induction motors to be obtained in the shortest time.
+Figures 5, references 6.
+
+UDC 629.12.066:621.311.2-l92
+EVALUATING HAINTAINABILITY INDICATORS FOR AUTOMATED ELECTRIC POWER PLANTS
+[Abstract of article by Bykov, B. 3., Hyachin. V. F., Poznik, V. 6.]
+
+[Text] The task of insuring a prescribed probability that a ship's automated
+electric power plant will be in working condition is examined on the basis of
+an analysis of a Markov model of conditions. An approximate solution linking
+the average time for restoring the power plant to functions of the model's
+other parameters is given on the basis of a graphic-operational method. A
+
+numerical example is given. Figures 2.
+
+"DC 656.61.052.7-52
+AUTOMATION AND HBCHANIZATION 0F MOORING OPERATIONS WHEN USING SYNTHETIC HAHSERS
+
+[Abstract of article by Bocharov, V. V. and Ivanov, L. P.]
+
+[Text] Questions in determining the necessary minimum number of turns of
+hawsers made from synthetic materials when the hawsers are put onto the drum
+(warping drum) of hawser windlasses.
+
+The experimental data which were obtained from testing 4 hawsers made from
+diverse materials displayed a good convergence with calculations and are
+used in the creation of autOmated hawser mechanisms. Figures 4, table 1.
+
+12
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 629.12-52.004
+SELECTING PLAN FOR HAIRTEMNCE WORK AND REPAIR 01? SHIP manner: DEVICES
+[Abstract of article by Kononenko. V. I. and Petrav, V. P.]
+[Text] Typical work conponents for maintenance work and repair of ship
+autonation devices are presented. Plans for maintenance and repair are
+examined as a function of the complexity of the automation devices. Recon-_ .
+
+undations are made on the advisability of their repair or replaces-cut.
+Figures 3, tables 2.
+
+COPYRIGHT: Tsentral'nyy ordena Trudovogo Krasnogo Znaneni nauchno-iasledovatel'skiy
+institut norakogo flota (19mm). 1980
+
+91910
+080: 1861/45
+
+13
+
+FOR OFFICIAL USE ONLY
+I’UB UI’O’ILIAL Val. UI‘LI
+
+NUCLEAR ENERGY
+
+UDC 621.039.548
+NUCLEAR REACTOR FUEL CHANNELS AND PU3L ELEMENTS
+
+Moscow TBKHNOLOGICHBSKIYB KANALY I TBPLOVYDBLXAYUSHCHIYE ELEMENT? YADBRNYKH
+REAKTOROV in Russian 1981 (signed to press 9 Mar 81) pp 2, 113
+
+[Annotation and table of contents from book “Nuclear Reactor Fuel Channels and Fuel
+Elements", by Georgiy Nikolayevich Ushakov, Energoizdat, 1,630 copies,
+113 pages)
+
+[Text] manner;
+
+The author explains features of the functioning of nuclear reactor fuel elements (TVEL)
+along with the technical requirements for them and the basic directions for their
+further improvement. He discusses questions related to the purpose and layout of
+
+fuel assemblies, elements and fuel channels in nuclear reactors and de-
+scribes their basic characteristics. He also discusses the designs of the TVBL's
+used in existing reactors and those being developed for prospective projects.
+
+This book is intended for engineering and technical workers engaged in the develop-
+ment and operation of nuclear reactors in AES's.
+
+TABLE OF CONTENTS
+
+Page
+Chapter 1. TVEL Designs. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.1. Technical Requirements for TVEL's . . . . . . . . . . . . . . . . . . . . . 3
+1.2. Structural Elements of a TVBL . . . ..... . . . . . . . . . . . . . . . 5
+1.3. Geometric Shapes of TVEL's. . . . . . . . . . . . . . . . . . . . . . . . . 15
+1.4. Testing TVEL's. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+1.5. Damages to TVEL's During Operation. . . . . . . . . . . . . . . . . . . . . 60
+Chapter 2. Nuclear Reactor Fuel Assemblies and Fuel Channels. . . . . . . . . . 67
+2.1. Classification and Operating Conditions of Assemblies and Channels. . . . . 67
+2.2. Direct-Flow. Pipeless and Single-Pipe Reactor Fuel Channels . . . . . . . . 73
+2.3. Fuel Assemblies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+2.4. Fuel Cassettes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+2.5. Hultipipe Fuel Channels . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+
+List of Reccmuended Literature . . . . . . . . . . . . . . . . . . . . . . . . . 112
+COPYRIGHT: Energoizdat, 1981
+
+11746
+
+C80: 1861/42-3 15
+
+FOR¢0FFNJAI.USE(NVLY
+FI”!(NNNC]AI.USEIMVLV
+
+III
+
+006 621.3ll.25:621.039.5
+EQUIPMENT AND TOOLING FOR REPAIR OF CHANNEL TYPE AIOHIC RBACTORS
+Moscow ATOHNYYE ELBKTRICHESKIYE STANTSII in Russian No 2. 1979 pp 136-138
+[Article by A. Ya. Shvets and A. C. Kuznetsov]
+
+[Text] Operating experience with channel reactors has shown that working relia-
+bility depends in great measure on the availability of a well conceived and developed
+repair technique and reliably operating repair equipment and facilities.
+
+The repair facilities for channel reactors differ from those for vessel reactors
+
+in lower mass. but are much more complicated in their kinematic chains. Fittings
+and attachments are worked out for a specific technological process. Some standar-
+dization in equipment is achieved by using identical drives. grapplere and configu-
+rations. Reactors at the Beloyarsk and Bilibino nuclear electric plants are struc-
+turally quite different, and each plant has its own technological processes and
+repair facilities. The Energiya Scientific Production Association in cooperation
+with the Beloyarsk and Kursk nuclear power plants is doing research on developing
+new technology for repairing reactors and individual components. In conformity
+with the new technology, a greatIu-mar of repair facilities and devices are now
+being developed and aade.
+
+In extraction of the process channels at the BARS [expansion not given] nuclear
+electric plant. there was a possibility of wedging. A device was made for cutting
+off a partly extracted and wedged channel. Before the channel is extracted, the
+device is installed on its head and connected to a remote control system. As the
+channel is being extracted. the device is raised to a certain height and follows
+along with the channel as it moves. In case of necessity. the operator can use
+remotely controlled clamps to fasten the attachment to the channel and sever it
+with a cutting tool. In case the cutting tool breaks. a spare cutting head is
+provided on the attachment.
+
+Hhen extracting process channels that are situated alongside the channels of the
+reactor control system, the available cutting tools cannot be used to cut off the
+head because the clearances are very small. To do this operation. devices have
+been made for cutting off the head right down to where the steam chamber is opened.
+The cutting is done by a core drill with automatic feed. working time of the at-
+tachment is 30 minutes.
+
+Extraction of shut-down channels required containers for transportation. These
+containers are made with double walls between which iron shot is poured.
+
+15
+
+FOR1OFFKJAI.USE(HVLY
+IND! OFINCIAL USIZCMULY
+
+Since extraction on emergency tuel elements involves crumbling of the fuel. devices
+have been developed for cleaning the cells with the use of both mechanical devices
+and hydraulic heads. In mechanical cleaning of the cell the devices had reliable
+packing preventing emission of contaminated particles into the central building.
+Brushes were moved by a machine tool.
+
+To free the tubes of the fuel elements from the steam chamber of the process channel
+heads, a drilling head was developed enabling simultaneOusly drilling out three
+tubes. A distinguishing feature of this head is the close spacing of holes. The
+
+drill is rotated by a central distribution gear. The gear is driven by a series-
+produced pneumatic machine.
+
+The considerable experience accumulated by Leningrad Nuclear Electric Plant in
+repairs of RBMK-Z reactors enables determination of the most feasible solutions
+in designing repair equipment and facilities.
+
+At Energiya Scientific Production Association. research has been done on developing
+a set of attachemnts for repair of process channels. The following devices have
+been developed: for cutting off a whisker joint. for replacing an extracted part
+of a valve. for extracting a process channel. and for cutting off the head of the
+reactor control system.
+
+In the process of reactor operation. it has been found that the installed weld
+
+of the stack may be broken. For this case. technology has been developed for block-
+ing the process channel and replacing the stack. To perform these operations,
+
+the following devices have been developed:
+
+1) for electric-contact cutting of the steam-water lines;
+
+2) for cutting the stack;
+
+3) for dressing the seam of the stack;
+
+a) for turning down 6 121;
+
+5) grabs for transporting the stack;
+
+6) separate centering devices and gages.
+
+For welding in the new stack. a specialized organization has developed a welding
+device in cooperation with the Energiya Scientific Production Association that
+
+welds in the new stack and provides the necessary reinforcement.
+
+Nuclear power plants should give serious consideration to preparation of attachments
+and devices for performing operations. To solve these problems at the Kursk Nuclear
+Electric Plant. two stands have been developed: a stand that simulates the stack
+zone. and a full-scale trainer stand for adjustments of all kinds of tools and
+instruments. Considerable headroom is needed for the latter stand.
+
+This stand is accommodated in the central building. The stand has four channels.
+
+which brings the facility very close to reality. Since the stand is quite high
+(more than 16 m). the metal structural components are made in sections. Erection
+
+16
+
+FOR‘OFWKJAI.USE(NVLY
+51DR‘0ITWCJAI.IISEZ(HNLY
+
+.4
+
+'rIl
+of the structural components is started on the floor level of the central building.
+and the metal structure is lowered as production proceeds. The channel simulators
+are installed last. These are of tubular design with interchangeable elements.
+Replacement of elements is simple, and as a rule is done without disassembling
+the channels. This solution is due to the fact that mechanical treatment of the
+elements is done when adjusting tools. Some zones of the channel are cut out.so
+that the operation of the cutting heads can be observed. Graphite brickwork is
+simulated in the stand. Special mechanisms are provided to create the effects
+of destruction of the brickwork. These mechanisms can create effects of breaking
+the rods of the brickwork. canting of individual elements and so on. The stand
+is equipped with a large number of obsnrvation areas. Vertical ladders are provided
+for access to these areas. All these areas have local lighting, compressed air
+tubes and intake ventilation to provide the necessary exchange of air. 0n the
+lower area of the stand is a rolling platform with a lifting table used to raise
+tools for doing operations on the lower level of the reactor. Along the stand
+is a shaft through which attachments are passed. The crane of the central building
+is used to raise and lower tools and attachments.
+
+The following technological processes can be done on the trainer stand: replacement
+of a process channel. replacement of a casing. straightening graphite brickwork.
+cleaning brickwork. The following devices are aligned on the stand: for measuring
+the end displacement of a whisker weld. for cutting off the tubes of the steam-
+water line, for extracting a process channel, for extracting reactor control rods
+when the cable breaks. for extracting a thermocouple. for cutting off the upper
+casing. for cutting off a whisker weld. automatic whisker welder. for cutting off
+calatches. for cutting down a whisker weld. breaking and extracting a channel of
+the reactor control system. for cutting bellows and so on.
+
+COPYRIGHT: Izdatel'stvo "Energiya". 1979
+
+6610
+080: 8146/0260
+
+17
+
+FOR‘OFFKJAI.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+UDC [621.311.25:621.039](06)
+REPAIR EQUIPMENT AND TOOLING FOR VESSEL TYPE ATOMIC REACTORS
+Moscow ATOHNYYE ELEKTRICHESKIYB STANTSII in Russian No 2. 1979 pp 132-136
+[Article by A. Ya. Shvets and A. G. Kuznetsov]
+
+[Text] Years of operating experience with vessel type nuclear reactors have shown
+that successful use necessitates development of a complex of devices enabling in-
+spection and repair of the reactor vessels and equipment inside the vessel. The
+All-Union Heat Engineering Institute imeni P. E. Dzerzhinskiy has developed a thick«
+walled container for vessel inspection. An operator inside the container inspects
+the inner walls of the vessel through inspection ports along a helical line around
+the walls of the container. But experience has shown that it is difficult to make
+repairs on vessels as the container has no vertical drive. Lack of a drive makes
+it necessary to move tools and attachments through passageways located at different
+heights. which is difficult to do in a restricted space. For the Kola Nuclear
+Electric Plant. engineering plans were developed for an autonomous container, and
+from these plans the Energiya Scientific Production Association made two versions
+of devices for inspection and repair of reactor vessela-the URI-l and DEX-2. The
+first one is now in use at the Kola Nuclear Electric Plant. The URK-l facility
+
+for inspection and repair of a reactor vessel is a cab that carries two operators.
+who are protected from radiation exposure by double steel walls between which lead
+shot is poured. Shielded inspection ports made of special glass are provided in
+the walls and floor of the cab. The cab is equipped with the Krug-2 device that
+enables mechanical treatment of the inside walls of the reactor. In addition.
+there are passageways in the walls of the cab through which hose manipulators can
+be operated when necessary. In the botton of the cab is a hatch that can be opened
+for access to the reactor floor. There is a block and tackle with lifting capacity
+of 0.5 metric ton for raising the hatch and for lowering heavy items from the con-
+tainer to the floor.
+
+Inspection and repair in the vicinity of the upper branch pipes are done through
+an extension tube with sliding door. There is an inspection port in the door.
+
+The cab is equipped with intake ventilation for adequate air exchange and slight
+pressurization. Since the operators in the cab must work in pressuirzed suits.
+the cab has an air supply for breathing. The zone of inspection is illuminated
+
+by spotlights controlled from inside the cab. The cab contains a local control
+panel and telephone equipment. and there is a recess for installing nondestructive
+inspection devices. The radiation environment is monitored inside the cab and
+
+on its Outside walls by dosimeters that send readings to a central control panel.
+
+18
+
+FOR OFFICIAL USE ONLY
+F1)!‘0FFI(1AI.INSE§CHNLY
+
+The operators enter the cab thraugh a vertical hatch. descending by a ladder. The
+hatch is composite. made up of two sections; conduits and ducts pass inside the
+hatch (airways, electrical. monitoring and measurement instrumentation conduits).
+Commutation of electrical equipment is done by plugs. The hatch is square in shape
+and has double walls. Lead sheets are packed between the walls. The hatch is
+attached to the cab by pins. and the whole unit can be located in the vertical
+plane in any of eight positions 1200 an apart. The outerwalls of the hatch are
+provided with lugs for fixing in these positions. Falling into these lugs are
+longitudinal shafts mounted in levers that pivot on pins set in two rockers. Sus-
+pended from these same rockers are four pneumatic cylinders with rods secured to
+stationary brackets. When compressed air is fed to the cylinders. the rods move
+out and rotate the levers. freeing the lugs of the hatch. but this can occur only
+if the lugs are somewhat elevated above the axles of the rocker arms. Disengagement
+is impossible unless this elevation has taken place. This prevents accidental
+freeing of the hatch and cab from the restraining device.
+
+In case of necessity. the cab can be raised to the extreme upper position and fixed
+there even in the absence of compressed air. For this purpose. beneath the lugs
+
+on the walls are bevels over which the shafts will be brought out of engagement
+
+as the cab and hatch are raised. The cab restraint system is installed on a rotat-
+ing frame that bears on a base through a support bearing. The frame is rotated
+
+by a gear train driven by an electric motor. The rotating frame and base have
+radiation shielding. For installation of the facility. ears are provided in the
+upper section of the hatch into which pins fit that engage with a crossbeam carried
+by a hook on the crane of the central reactor building.
+
+For doing inspections and repairs on the vessel. the URK-l is first assembled with
+the hatch and rotating platform on a special stand; by means of the crossbeam.
+
+the assembled container is grapsed by the crane of the central building. and placed
+in the reactor. In doing this. the cab may be placed in any of the eight positions.
+The positions are selected so that neighboring inspection zones overlap. During
+inspection and repair in a single position. the hook of the crane is disengaged
+from the crossbeam. In case of necessity. an operator can rotate the cab through
+360°. and stop it at the point required for inspection and repair.
+
+Changing from one position to another is handled by the crane of the central build-
+ing. The operators working in the cab must leave it during this change. The walls
+and floor of the cab and hatch have a covering that can be decontaminated. The
+total mass of the facility is 137 metric tons. The overall dimensions of the cab.
+hatch and platform permit railroad transportation. The lead shot is removed during
+transportation. The mass of the heaviest component in this case is 15 metric tons.
+
+Utilization of the URK-l has enabled precise determination of the radiation environ-
+ment inside the cab. as well as evaluation of convenience of servicing and technical
+capabilities. These results have been the basis for a second model of the container
+-—the URK-2—-with design and development incorporating the following changes:
+
+the cab is raised and lowered by an autonomous hoisting mechanism with all its
+actuating elements in 'the "clean" zone so that they can be serviced by repair person-
+
+the Krug-l device that enables mechanical treatment of the walls and floor of the
+reactor with control from the cab; shielding thickness has been increased; provisions
+have been made for doing inspection operations on the vessel with nondestructive
+
+monitoring equipment.
+19
+
+FiﬂlfﬂﬂﬁCJAl.lﬁﬂi(NﬁLY
+FOR OFFICIAL USE ONLY
+
+Passageways [or installation of additional repair attachments are provided in the
+walls of the cab. Construction of the URK-Z is comparatively simple. and it is
+designed for repair under nuclear electric plant conditions.
+
+For doing jobs on inspection and repair of reactor vessels. the URK-Z is assembled
+on a scaffolding. The hook of the crane of the central building that is used to
+
+lift the crossbeam has a hoisting capacity of 250 metric tons. The hook raises
+
+the facility above the scaffold and transports it to the reactor. After the facility
+has been lined up over the reactor. it is lowered until it is stopped by the joining
+with the reactor. After the URK-Z container has been installed on the main joining.
+the crossbeam is disengaged from the hatch, and set aside in the central building.
+The container is connected to the life support systems. power supply. compressed
+
+air. to the central control panel and systems for communication. television. moni-
+toring and measurement instrumentation and radiation monitoring systems.
+
+From this instant the facility is considered ready for operation. Elevation and
+rotation of the cab can be controlled from the central or local panel. Since the
+hoisting mechanism is a step-by-step type. raising and lowering are done in stages.
+all operations of staged raising and lowering being done automatically. In case
+of necessity. the cab can be raised by the crane of the central building. The
+hoisting mechanism is backed up by a second interlocking system that enables smmoth
+descent of the cab to a lower position. The operator controls the mechanisms from
+the local control panel. and can set the cab in any place to be inspected and re-
+paired.
+
+To inspect and repair the bottom of the shaft. a container has been developed that
+is a square chamber with rollers installed on the bottom. A vertical tilter is
+placed on the rollers that is rotated from two chains wound on a drum that is turned
+by a worm drive. The worm is turned manually. Welded inside the tilter are two
+horizontal strips: one for installing bottom plates of the V-210 reactor. and
+
+the other for VVER-bbo reactors. For shielding servicing personnel. the chamber
+
+is filled with water. and the top of the reactor is covered with additional shield-
+ing plates. Inspection and repair of bottom plates is done from above. In doing
+this. one plate is removed that is situated opposite the row of shielding tubes
+
+to be repaired. In case of necessity. the tilter is turned through the required
+angle (up to 180°). enabling inspection and repair of the top and bottom of the
+cover.
+
+To replace shielding tubes in the V-210 reactor. a device has been developed for
+cutting the weld of the shielding tube and breaking it. The weld is cut by cutters
+installed in a cutting head. The cutting head is turned by a pneumatic motor through
+a gear train.
+
+For extracting the reactor shaft. a special device has been developed that is a
+platform with vertical walls. The bottom and walls of the platform are thickened
+
+to reduce the radiation background. The platform carries four brackets in which
+there are two extensible shafts apiece. The brackets can change position within
+
+a range of 2-3°. Gates are made in the walls. through which the straps that hold
+the shaft against the vessel can be clamped and released. The platform is suspended
+on four bars fastened to a cruciform crossbeam. The ends of the crossbeam terminate
+in hydraulic jacks. 0n the crossbeam is an eyebolt to engage the book of the crane
+
+20
+
+FOR OFFICIAL USE ONLY
+POI OFFICIAL USE ONLY
+
+of the central building. Between the crossbeam and platform is a ladder by which
+servicing personnel can descend to the platform.
+
+To remove the shaft. the device is lowered by the crane of the central building
+into the reactor until it is stopped by contact of the hydraulic jacks with the
+main joining. Then the shafts are extended. In case they do not line up with
+
+the holes in the shaft. screw jacks are used to shift the brackets until the shafts
+line up with the holes. After all shafts have been fixed in position, the gates
+are opened and the straps are unfastened. The straps are stacked on the platform.
+and the repair personnel leave. The hydraulic jacks are then used to break the
+shaft loose. which may require a force of up to 50 metric tons. The crane of the
+
+central building is used to hoist and remove the shaft.
+
+At nuclear electric plants it is important to reduce the volume of soft radioactive
+waste that must be disposed of by burial. It is difficult to use existing presses
+
+for this purpose as they are cumbsersome and are not adaptible to decontamination.
+Because of this. the "Briket-l" press has been developed for compacting radioactive
+waste. This press reduces the volume of soft wastes by eightfold. The ram develops
+a force of 32 metric tons. All components of the press that come into contact
+
+with radioactive waste are made of stainless steel. The press is remotely controlled.
+The compacted waste is manually handed. and ejected by a horizontal hydraulic cylin-
+der. The press Iasses three metric tons and takes up 12 sq. m of space.
+
+COPYRIGHT: Izdatel'stvo "Bnergiya". 1979
+
+0610
+cs0: slab/0260
+
+21
+
+FOI¢0FFKJA1.USE(N§LY
+s we. we e swan» Hue. nan...
+
+INDUSTRIAL W
+
+UDC 621.039:519.1.001.2
+
+SYSTDB-HORPHOIDGICAL APPROACH IN DESIGNING ATOMIC EQUIPMENT
+
+Moscow Konsmmm o mmzsovmn am mu: svsmm-uomocrcansm
+P0010100 v WIMMII in msian 1981 (signed to press 27 now 80) pp 2. 189-190
+
+[Annotation and table of contents free book "l'o the Designer, on the Designing of
+Atomic Equipment: The Systems-Horphological Approach in Designing". by Viktor
+Hikhaylovich Kapustyan and Yuriy Aleksandrovich Hakhotenko. Atmizdat,
+
+5,000 copies. 191 pages]
+
+['l‘ext] NATION
+
+The authors suggest a coatinatory concept of working with alternatives that differs
+from the well-known concepts in that great cal-pression of factual and graphic data
+is achieved in it. may develOp fundanentally new systems-morphological optimiza-
+
+morphological approach in this book. In particular. the authors explain the princi-
+ples of the nathenatical apparatus for the echelon-by-echelon calculations used to
+solve optimization problem in designing.
+
+This book is intended for designers of new equipuent and is indispensable for spe-
+cialists in various branches of machine and tool building, scientific workers spe-
+cializing in the field of decision-naking theory in designing, and graduate students
+and students in high-level courses in Vuz's. It can also he used as a teaching aid
+when upgrading the qualifications of engineering and technical personnel. Figures
+
+53; references 90. .
+
+TABLEWWS
+
+Foreword.................................... 3
+
+Chapter 1. Systems Analysis of creative Designing Processes. . . . . . . . . . . 15
+1.1.LifeCycleofauodel........................... 15
+1.2. mesimplestCycleofCreativehctivity. .. . . . . . . .. .. . . 18
+
+22
+
+FOR OFHCIAL USE ONLY
+e es
+s so
+
+HHHHo—HH
+.
+
+oaqomau
+.
+
+o
+
+MaterialnevelsofDesigning.......................
+PrelininarySyste-ization.......................
+
+Principles of the Economy of Labor During Equipment Development . . . .
+”sult'mmmgmulovos..o...o.............
+
+Processes'mathretheneverseofaorrouing. . . . . . . . . . . . . .
+Channels for the Emergence of Losses During Development . . . .
+. The Generalized Recovery and Borrowing Process and the sisplest Criterion '
+
+e
+e
+O
+s
+e
+
+s
+s
+
+forthesignificanceofldeas.......................
+1.10.80menesults...............................
+Bibliography..................................
+
+chapter 2. Systems-Morphological Analysis of Creative Design Processes (the Be-
+
+sicCoubinatoryConcept).......................
+
+Zaicky'sldea............
+Selection and Selection Criteria. . .
+.0 The Convergent Optimisation Process.
+.11. Conjugate Optimization . . . . . . .
+2.12. Working With Limitations . . . . . .
+
+o
+o
+
+NNNNNNNMNNM
+O
+
+Hooqwuaunw
+e
+
+o
+
+o
+
+o
+e
+e
+
+o
+
+o
+
+o
+
+e
+
+o
+
+o
+
+2.13. She Necessity of Supplementing the Coebinatory Pile.
+
+2.14. Supplementing the Pile with Infornation on the Environment and Technology
+
+2.15.50meResults............
+Bibliography...............
+
+Chapter 3. me Combinatory Memory. . . .
+3.1.!heMemory'snole.........
+3.2. The Combinatory Menory's Mechanism.
+3.3. An Bxanple of Recall ..... . . .
+3.4.SoneConc1usions. . . . . . . . . . .
+Bibliography...............
+
+sees
+
+e
+g
+o
+o
+e
+
+e
+o
+o
+s
+o
+
+“I. BIOCk Tree- C 0 O O O 0 O I O O I 0 O O 0 C O O O O O O O I O O O O O
+CosbinatorySetsofDesigns.......................
+Alternatives and Kombinanty [possibly Combinations] as Paired Concepts.
+TheComhinatoryFile..........................
+Strips of Alternatives as Hierarchical Choice Levels in Design Problems
+sisplification of the Geometric Form of the Cabinatory Pile. . .
+BohelonsandClusters......................
+
+eeeeseeet
+
+sees
+eeosesos
+
+e
+o
+o
+e
+0
+e
+e
+
+0
+
+Chapter 4. The Role of Alternatives in Creative Processes.
+
+4.1. working with Alternatives in Engineering Graphics . . . . . . .
+4.2. working with Alternatives When choosing a Goal and When
+
+0
+e e e e
+O 8 I D
+e s v s
+e
+e s s e
+o t o s
+s o s s
+e e o e
+
+s
+e
+O
+o
+e
+o
+s
+o
+e
+
+eeoeaeooe
+
+eeeoe
+
+Removing aModel
+
+rmmimDQOOOOOIOOOOOOOOOCOOOOOOOCOOO
+4.3. working With Alternatives When Designing Processes. . . . . . . . . . . .
+4.4. working With Alternatives When Making Engineering Predictions . . . . . .
+Bibliography..................o..c......o..o.
+
+Chapter 5. Controlling the Configuration of a Model in the Design Process. .
+
+5.1. Cmfiguration Control . . . . . . . . . .
+5.2. Replenishing the Configuration Data Pi1e.
+5.3. Principles of Configuration Monitoring. .
+5.4. General Pattern of Configuration Control.
+Bibliography.................
+
+23
+
+s
+e
+e
+s
+a
+
+ooooe
+
+FOR OFFICIAL USE ONLY
+
+e o s o I
+e s e o e
+e v e o e
+e s o e e
+I
+s o e s e e
+
+o
+e
+s
+e
+
+pesoseovooee
+
+eso-
+
+oeoose
+
+Page
+19
+20
+30
+38
+42
+43
+
+46
+50
+51
+
+52
+52
+53
+54
+S7
+76
+82
+84
+85
+86
+89
+89
+91
+92
+93
+95
+98
+
+98
+98
+103
+111
+118
+118
+
+118
+118
+
+124
+129
+143
+153
+
+154
+154
+156
+160
+169
+171
+I you an o n‘nou v9.1 vu‘ul
+
+Page
+Chapter6.'meOriginof'rechnosystmtics . . . . . . . . . . . . . . . . . . . 171
+6.1. Prerequisites for 'I'edmoaystematics . . . . . . . . . . . . . . . . . . . . 171
+6.2. me Role of Concepts in rechnosystemtics . . . . . . . . . . . . . . . . . 173
+6.3. 1119 Initial Stage of Technosystenatics. . . . . . . . . . . . . . . . . . . 183
+
+Bibliography..................................185
+Conclusion. What Does the Systems-Morphological Approach offer the Designer?. . 186
+Indcx......................................187
+COPYRIGHT: Atomizdat, 1981
+
+11746
+C50: 1861/42
+
+210
+
+FOR OFFICIAL USE ONLY
+UDC 621.14
+SELECTED ABSTRACTS FROM COLLECTION 'EXPERIHBNTAL STUDY AND DIAGNOSIS OF ROBOTS'
+
+Moscow EKSPERIHENTAL'NOYE ISSLEDOVANIYE I DIAGNOSTIROVANIYE ROBOTOV in Russian 1981
+(signed to press 5 Hay 81) pp 181-184
+
+[Abstracts from collection 'Experimental Study and Diagnosis of Robots.‘ edited by
+
+Ye. c. Nakhapetyan, USSR Academy of Sciences, Division of Mechanics and Control Proces-
+ses. Institute of Mechanical Engineering imeni A. A. Blagonravov. Izdatel'stvo "Nauka".
+1950 copies, 184 pages]
+
+UDC 621.14
+
+QUALIMETRY AND THE DIAGNOSIS OF ROBOTS
+[Abstract of article by Nakhspetyan, Ye. G]
+
+[Text] The article discusses questions involving selection of measurable and recordable
+parameters on the basis of conditions under whichrobots will be employed. It contains
+tables of the levels of quality analysis for robot linear and angular positioning mech-
+anisms. The most important complex quality indicators are indicated for these mecha-
+nisms with experimental values presented for these indicators as determined with respect
+to a number of robots with varying types of drive. Tables - 6; bibliography - 5 titles.
+
+UDC 620.1.08
+
+THE PROBLEM OF SELECTING MEANS OF COLLECTING QUALIHETRIC INFORMATION IN STUDYING
+AUTOMATIC MACHINES AND INDUSTRIAL ROBOTS
+
+[Abstract of article by Herzlyakov, A. A.]
+
+[Text] This selection examines questions associated with the preparation of experi-
+mental studies of automatic production equipment and industrial robots with respect to
+selection of the necessary primary measuring transducers (sensors). It discusses a
+method of selecting sensors based upon use of the results of statistical analysis of
+
+a number of dynamic parameters of the processes under study. It sets forth an engi-
+neering approach to the selection of sensors with the required metrologicsl and infor-
+mational characteristics. Illustrations - 5; bibliography - 4 titles.
+
+25
+
+F0R10FFKJAI.USE(NQLY
+MIR (ll-I'll IAL USE ONLY
+
+UDC 007.52.00|.h
+
+REQUIREMENTS FOR CERTIFICATION TESTS OF INDUSTRIAL ROBOTS
+
+[Abstract of article by Kolpashnikov. S. N., Konyukhov, A. 6., Korytko, I. B. and
+Chelpanov. I. 3.]
+
+[Text] This article establishes the need for a unified system of state certification
+for industrial robots. It discusses specific methods of establishing standards for
+basic indicators. It proposes a method of experimentally establishing accuracy indica-
+tors for positioning and orientation under both static and dynamic conditions. Illus-
+trations - 3; bibliography - 8 titles.
+
+UDC 62-501.72
+HALF-SCALE MODELING DEVICE FOR EXPERIMENTAL STUDY OF A MANIPULATION ROBOT
+
+[Abstract of article by Dorotov. V. V.. Moiseyenkov, V. A., Rakhnanov, Ye. V. and
+Shvedov, V. N.]
+
+[Text] This work deals with the application of a method of physical modeling in the
+process of designing manipulation systems. The use of physical models makes it pos-
+sible to check not only the basic characteristics of the system under study, but to
+
+test its components and assemblies as well. As an example the work looks at variants
+of the principles governing construction of a modeling device to study a manipulator
+having flexible components. It describes the design of one version of such a device
+as well as some results of a study of its dynamics for purposes of comparison with
+the dynamics of the manipulator, results characterizing the degree of similarity of
+the dynamic characteristics of the two. Illustrations - 5; bibliography - b titles.
+
+UDC 681.516.75
+EXPERIMENTAL FACILITY FOR THE STUDY OF INTERACTIVE ROBOT-CONTROL SYSTEMS
+[Abstract of article by Chernorutskiy, G. s. and Sibrin. A. P.]
+[Text] This article examines aspects of the experience accumulated in constructing
+facilities comprising a dynamic test stand, a computer and peripheral equipment and
+
+designed for half-scale modeling of dynamic processes and of the functioning of the
+sensitization of robots. Illustrations - 6; bibliography — 7 titles.
+
+UDC 621.519
+
+M-6000-COMPUTER DEVELOPMENT OF A HOCKUP FOR STUDYING OPERATOR-MANIPULATOR SYSTEMS
+
+[Abstract of an article by Orlova. G. N. and Tyves, L. 1.]
+
+[Text] This article describes a mockup for studying operator-manipulator systems and
+contains the program supporting the experiment as well as results of preliminary exper-
+iments. Illustrations - 3; bibliography - 2 titles.
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+UDC 621.9.06
+
+DYNAMIC TESTS OF A SECOND-GENERATION INDUSTRIAL ROBOT
+[Abstract of an article by Anan'yeva, Ye. 6., Klebanova. 0. N. and Nakhapetyan]
+
+[Text] This article deals with dynamic methods of testing the positioning mechanisms
+
+of an industrial robot. It describes a method of studying a robot and presents test
+results. It compares obtained robot characteristics with passport data. The work
+demnstrates the effect of the rigidity of the positioning mechanisms upon the precision
+with which is worked out the given exponential law of motion. It presents the results
+of a study of a robot in the "receive command," "search" and "position part“ modes.
+Tables - 5; illustrations - 3; bibliography - 1 entry.
+
+UDC 007.52
+
+DIGITAL-COMPUTER MODELING AND EXPERIMENTAL STUDY OF THE DYNAMICS OF INDUSTRIAL ROBOTS
+HITH PNEUMATIC DRIVE
+
+lAbsttuct of an article by Karklin'sh. A. K. and Raynes, Ya. K.)
+
+[Text] The selection examines the role of computer modeling and experimental studies
+of the dynamics of industrial robots (1R) with pneumatic drive in the process of their
+design and operation. It describes the apparatus emloyed in experimental studies of
+IR. The work contains results of experimental study of a specific robot and compares
+them with those obtained by computer modeling. Tables - I; illustrations - 6: bibliog-
+raphy - lo titles.
+
+UDC 007.52:62—85
+
+SELECTING DESIGN AND PARAMETERS OF BRAKING MECHANISMS FOR THE PNEUMATIC DRIVE 0?
+AUTOMATIC MANIPULATORS
+
+[Abstract of an article by Kreynin, G. V. and Solntseva. K. 5.]
+
+[Text] This work examines the results of comparative analyses of different methods of
+braking large mobile masses. The modulus of rotation of an automatic manipulator was
+employed in these studies. Rotation was achieved by means of a rack-and-pinion mecha-
+nism actuated by two pneumatic cylinders. The mass of the moving parts reduced to a
+coupon rod for the two cylinders was 7000 kg. Illustrations - 2; bibliography - 2 ti-
+tles.
+
+UDC 62.-62.387
+
+SELECTING THE PARAMETERS OI" HYDRAULIC SHOCK ABSORBERS FOR THE PNEUMATIC DRIVE OF
+INDUSTRIAL ROBOTS
+
+[Abstract of an article by Tsukhanov. Ye. A.. Yashina. M. A. and Gets. V. 5.]
+
+[Text] This article examines a method of selecting the parameters of a hydraulic
+shock absorber with continuously varying aperture areas with limited pressure, acceler-
+ation or braking stroke. It presents results of tests of a model hydraulic shock ab-
+
+sorber braking a pneumatic drive. results confirming theoretical conclusions. Illus-
+trations - 4; tables - l; bibliography - 2 titles.
+
+27
+
+FOR OFFICIAL USE ONLY
+[“1“ Off“ [AL U3: UNL'
+
+[UDC omitted in original]
+
+OPTIMIZING MOVEMENTS OF INDUSTRIAL ROBOTS IN SHEET-METAL STAMPING OPERATIONS
+[Abstract of an article by Semenov, Ye. 1., Shchegoleva, A. P. and Suleymanov, 3.]
+
+[Text] This article presents results of experimental study of a group of mechanical
+parameters of the PR-lOI and UH-l industrial robots insuring optimal trajectories of
+the working devices with the equipment in the given sheet-metal-stamping configuration.
+The PR-IOI is optimized by integrating movements with respect to two coordinates (rota-
+tion-extension). the UH-l by determining trajectories with respect to time minimum as a
+function of arm sweep and angular rotation with equal pressure differentials in the
+hydraulic cylinders at the moment of braking. Illustrations - 7; bibliography - 2 ti-
+tles.
+
+‘ UDC 621.9.06
+
+STUDY AND QUALIMETRIC METHODS OF EVALUATING THE EFFICIENCY OF INDUSTRIAL ROBOTS WITH
+PNEUHETIC DRIVE
+
+[Abstract of an article by Anan'yeva. Ye. 6., Velikov, R. V., Pavlova. T. T., Rosin, 8.
+sh. and shvetskov. V. N.]
+
+[Text] This article deals with experimental study and qualimetric methods of evaluating
+the efficiency of industrial robots with pneumatic drive. It describes a standard ex-
+perimental procedure and presents the basic results of a study of the positioning mech-
+anisms of two industrial robots. It gives a number of qualimetric coefficients charac-
+terizing the speed of a robot, the level of the dynamic loads acting upon the position-
+ing mechanisms and the precision with which has been worked out the given law of motion.
+The work compares the two robots with respect to the results of the experimental study
+and to qualimetric coefficients. Tables - 3; illustrations - 4; bibliography - 2 titles.
+
+UDC 621.9.06
+EXPERIMENTAL STUDY OF AN INDUSTRIAL ROBOT WITH AN ELECTROHYDRAULIC CONTROL SYSTEM
+
+[Abstract of an article by Anan'yeva. Ye. 0.. Nironov, A. I.. Nakhapetyan, Ye. 6., 801-
+datskiy, Ye. P. and Chelyshev, V. A.]
+
+[Text] This article deals with experimental studies of an industrial robot with an
+electrohydraulic control system. It describes a standard experimental procedure per-
+mitting determination of basic quality indicators during sequential functioning of
+
+robot mechanisms and indicates special features of the procedure associated with study
+of the effect of the variable gear ratio of the horizontal arm-movement mechanism. It
+gives results of a study of the mechanisms of the robot's vertical and horizontal arm
+movements and of the mechanisms of colunn and gripper rotation. The work compares the
+characteristics of the model tested with those of a robot of analogous design. Tables -
+- 3; illustrations - 3; bibliography - 3 titles.
+
+28 ‘
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL "SF. ONLY
+"DC 031.9.00
+
+DETERMINING THE BASIC CHARACTERISTICS OF AN INDUSTRIAL CANTRY ROBOT
+[Abstract of an article by Anan'yeva, Ye. G. and L'vov. D. Ye.]
+
+[Text] This article discusses a study of an industrial gantry robot. It describes
+the procedure employed in testing the robot and presents the results of the test, It
+indicates how this procedure differs from the standard procedure. these differences
+
+sternung from the special features of this particular robot design. The work discusses
+the results of a study of oscillations of the traverse along both the longitudinal and
+transverse axes occurring during robot operation. It gives values of quality coeffi-
+cients, permitting comparison of the design of the robot tested with other designs.
+Tables - 3; illustrations - 3; bibliography - 2 titles.
+
+UDC 621.9.06:007.52
+STUDY OF A MANIPULATOR MECHANISM WITH HIGH-SPEED PILMING
+
+[Abstract of an article by Kravchenko. N. F.]
+
+0
+
+[Text] This work describes a procedure for testing the kinematic, dynamic and preci-
+sion parameters of a manipulator mechanism by high-speed filming of its movements. It
+presents the results of kinematic. dynamic and precision tests of the SHT-700 manipula-
+tor. Illustrations - 3; bibliography - 4 titles.
+
+UDC 621.9.06
+STUDY OF THE EFFECT OF DYNAMIC FORCES ON ROBOT ARM MOVEMENT
+[Abstract of an article by Anan'yev, A. “.1
+
+[Text] Criteria permitting evaluation of the precision of robot arm movement are pre-
+sented. It is shown that the precision with which a given arm movement trajectory is
+reproduced is a function of robot parameters and the distribution of motion between
+drives. The work demonstrates the deviation of a robot arm from a desired trajectory
+as a result of the effect of dynamic forces. Table - l; illustrations - 5; bibliogra-
+phy - 2 titles.
+
+UDC 681.532
+
+STUDY OF METHODS OF ENHANCING THE PRECISION 0F MANIPULATION ROBOT POSITIONING WITH THE
+USE OF ADDITIONAL POSITIONAL FEEDBACK TO THE COMPUTER
+
+[Abstract of an article by Kuzetenko, A. 5.. Lomaka. M. V. and Pedorov, V. P.)
+
+[Text] This article describes the use of an automated test for correcting control in-
+puts for degree of manipulation robot (HR) mobility for the purpose of enhancing posi-
+
+tioning precision.
+
+The work examines two categories of MR positioning error occurring during the movement
+of the HR working device. errors which are difficult to anticipate and describe analyt-
+ically and errors resulting from insufficiently accurate information from sensors for
+the processes in question. 0n the basis of the example of potentiometric positional
+sensors. the work studies the causes and nature of measuring-potentiometer error and
+examines a variety of ways to take them into account and to enhance the precision of
+
+29
+
+FOR OFFICIAL USE ONLY
+I'UK "if“ IAI. “3". UNIJ
+
+Ihc Infurmntlnn recrived from those sruaors. It proposes methods of lncreauing the
+precision of HR positioning by means of control computers in the control loop. It
+presents practical test results. Tables - l; illustrations - 3; bibliography - 3 ti-
+tles.
+
+UDC 621.01
+ANALYSIS OF HYDRAULIC CONTROL DEVICES OF INDUSTRIAL ROBOTS MOVING ON THO COORDINATBS
+[Abstract of an article by Levitskiy. D. N.)
+
+[Text] This work analyzes a hydraulic control device with movement in two coordinates
+
+for the purpose of insuring planned gripper braking and of enhancing positioning preci-
+sion within a short time cycle. Gripper movement is determined in cylindrical coordi-
+nates. The braking device is designed as a controllable throttle having independent
+drive. Geometrical parameters of the braking device are calculated on the basis of
+conditions associated with braking with constant negative acceleration. Illustrations -
+- 2; bibliography 3 titles.
+
+UDC 007.52:681.S
+ALGORITHM FOR IDENTIFYING OBJECTS ON A DISCRETE INFORMATIONAL SURFACE
+[Abstract of an article by Lashko. Ye. B. and Salamandra, B. L.]
+
+[Text] This article presents an algorithm for tracing the contOur of an object lying
+on a discrete informational surface; it discusses evaluative characteristics of objects
+on the basis of which they are identified. Illustrations - 2; bibliography - 5 titles.
+
+UDC 007.52:681.5
+
+ONE METHOD OF TACTILE SENSITIZATION OF ROBOTS
+
+[Abstract of an article by Yevstigneyev. V. N., Koliskor, A. Sh.. Modestov, M. B. and
+Chudov, V. A.]
+
+[Text] This selection examines the tactile sensitization of robots to obtain informa-
+tion about the form of objects with the use of autonomous sensitizers; it establishes
+the possibility of using several contact and nonéontact sensors as robot sensitizers.
+
+It presents algorithms determining control inputs to robot component drives with the
+use of these sensors. Illustrations - 6; bibliography - 11 titles.
+
+UDC 621.0l:629.l.033.3
+
+THE PROBLEM OF DYNAMICALLY STABLE. SYMMETRICAL WALKING-MACHINE GAITS
+
+[Abstract of an article by Korenovskiy, V. V.]
+
+[Text] This article establishes dynamically stable gaits for 4- and 6-legged walking
+machines on the basis of state phase stability criteria. It is demonstrated that in
+
+the case of both quadrupeds and hexapods. the greatest number of dynamically stable
+gaits is to be obtained from phases of the nonstable state both in the direcr'on of
+
+movement and counter to it. To achieve substantially larger regions of stable loco-
+motion with phases of lateral instability requires considerable rates of walking-machine
+
+movement. illustrations - 2; bibliography - 1 title.
+
+30
+
+FOR 0FNK]A[.USE(JNLY
+FOR OFFICIAL USE ONLY
+
+unc 621.01:629.'1';‘633.3
+mom. or A ammo DEVICE
+
+[Abstract of an article by Umnov. N. V.. Pogrebnyak. A. Ya.. Bal'shanov. D. TsI'and
+Andrianov. N. A.]
+
+[Text] This article describes a systematic model of a 6-legged walking device equipped
+with orthogonal operating mechanisls. It discusses lethods by which walking systems
+
+may be turned. The work also presents the results of experimental studies. Illustra-
+tions - 6; bibliography - 8 titles.
+
+unc 62.506.3 +,oo7.sz
+FORMULATION OF THE LOGIC PROBLEM IN INDUSTRIAL-ROBOT DIAGNOSTICS
+
+[Abstract of an article by Surnin. B. N. and Shushko. D. A.l
+
+[text] This work elaborates a number of diagnostic concepts, states the basic task in-
+
+volved in industrial-robot diagnostics and presents working formulas for calculating
+the probabilities of various industrial-robot (IR) states. It treats the special fea-
+
+tures of IR diagnostics as an inforlational problem and proposes working formulas con-
+structed in both Kalbek's [transliterated] and Shannon's terms for calculating one of
+
+the basic quality characteristics of information value--the diagnostic importance of a
+schele of criteria. In presents in conclusion an example of analysis of inforaation
+
+value on the basis of results of analysis of test data. Tables - 3; bibliography - 4
+titles.
+
+oopvucar: Izdatel'stvo "Nauka", 1981
+
+8963
+0302 1861/56
+
+31
+
+FOR 0i1ﬂ€1Al.USE¢)NLN
+HIGH-ENERGY DEVICES, OPTICS AND PHOTOGRAPHY
+
+UDC 621.375.8
+MACROSCOPIC AND MOLECULAR PROCESSES IN GAS LASERS
+
+Moscow MAKROSKOPICNESKIYE I HOLEKULYARNYYE PROTSBSSY V GAZDVYKH [AZERAKB in
+Russian 1981 (signed to press 10 Mar 81) pp 2, 200
+
+[Annotation and table of contents from book "Macroscopic and Molecular Processes
+in Gas Lasers", by Vladimir Nikolayevich Karnyushin and Rem Ivanovich Soloukhin.
+Atomizdat, 1700 copies. 200 pages]
+
+[Text] Annotation
+
+This book explains questions of the physics and technology of flow-through gas
+lasers with rotational oscillatory transitions. Macroscopic and molecular
+processes are examined in detail in gas-discharge lasers with convective cooling
+of the working medium and gas dynamic lasers with near-resonant oscillatory
+exchange in the region of supersonic flux mixing. A considerable amount of
+attention is devoted to analyzing experimental findings and explaining the in-
+fluencc of the various factors on the power characteristics of flow-through
+laser systems.
+
+The book is intended for a broad group of specialists interested in problems of
+developing and applying laser technology, and for teachers, graduate students
+and senior students in engineering and physics courses.
+
+'hno tables, 89 illustrations, 613 bibliographic references.
+
+Table of Contents
+
+Foreword 3
+Chapter 1. General theoretical Questions 5
+§l. Problems and methods of flowbthrough laser theory 5
+52. Equations of classical electrodynamics 6
+53. Physical principles of quantum mechanics 10
+54. Energy levels of atoms and molecules 14
+55. Elements of optical resonator theory 19
+56. Kinetic theory of collision processes 30
+57. Equations of gas dynamics 35
+References 44
+32
+
+FOR OFFICIAL USE ONLY
+Chapter 2. Collision and Radiation Processes in Gas Lasers
+
+58. Simple model of quantum generator
+
+59. Gas Bun: pumping methods
+
+510. Electron distribution function and energy balance in gas discharge
+511. Kinetic theory of collision and radiation processes in gas lasers
+References .
+
+Chapter 3. Physics and Technology of Space Discharge in Dense Gases
+
+512. Atmospheric pressure gas-discharge lasers
+
+513. Methods for'preliminary ionization of working medium in TBA-lasers
+514. Physical processes during space discharge ignition phase
+
+515. Space discharge instability in dense gases
+
+References
+
+Chapter 4. Gas Dynamic and Transport Processes in Gas Lasers
+
+516. Application of gas dynamic processes in laser technology
+517. Destructive gas dynamic processes in gas discharge lasers
+References
+
+Chapter 5. Plow-Through Gas Discharge Lasers
+
+518. Gas-discharge lasers with selective excitation in mixing region
+519. Gas-discharge continuous coz-lasers with convective cooling
+520. Pulsed-periodic gas-discharge lasers
+
+521. Chemical lasers with gas-discharge initiation
+
+References
+
+Chapter 6. Gas Dynamic Lasers
+
+522. Schematic diagram of gas dynamic laser
+
+523. Gas dynamic freezing
+
+524. Quasi-unidimensionnl flow of nonequilibrium medium in gas
+dynamic laser channel
+
+References
+
+Chapter 7. Selectively Excited Gas Dynamic Lasers
+
+525. Operating principle of laser with selective thermal excitation
+
+526. Choice of mixing scheme
+
+527. Relaxation processes. Losses of oscillating energy in mixing region
+528. Modeling processes in shock-tube gas dynamic lasers
+
+529. Measurement of gain and generation modes
+
+530. Fluctuation of inversion in gas dynamic perturbations
+
+531. Resonant (10.6 um) absorption in heated CO;
+
+532. Methods of diagnosing gas laser media
+
+References
+
+COPYRIGHT: Atumizdat. 1981
+
+6900
+CSQ 1861/57 33
+
+FOR 0F1ﬂC]Al.USE¢DNLY
+
+65
+
+65
+51
+61
+66
+79
+
+81
+
+81
+85
+92
+102
+108
+
+110
+
+110
+119
+129
+
+130
+
+130
+135
+142
+165
+148
+
+149
+
+169
+151
+
+157
+162
+
+163
+
+163
+167
+172
+177
+185
+188
+192
+195
+198
+mu ill-I'll IAI. “3'. ONLY
+
+UDC S37.527;533.9
+ELECTRIC-ARC CONVERTERS HIT" INTERELECTRODE INSERTS
+
+Novosibirsk ELEKTRODUGOVYYE GENERATORY s HEZHELEKTRODNYHI VSTAVKAMI in Russian 1981
+(signed to press 5 Jun 81) pp 2. 220-221
+
+[Annotation and table of contents from book "Electric-Arc Converters with Interelectrode
+Inserts." by Mikhail Fedorovich Zhukov, Anatoliy Stepanovich An'shakov. Ivan Hikhaylo-
+vich Zasypkin. Yuriy Vasil'yevich Kurochkin. Vladimir Petrovich Lukashov and Aleksandr
+Vasil'yevich Pustogarov. USSR Academy of Sciences, Siberian Division. Institute of Ther-
+mal Physics, lzdatel'stvo "Nauka", Siberian Division, [000 copies, 222 pages]
+
+[Text] This monograph presents the results of theoretical and experimental studies of
+
+the electrophysicai and thermophysical processes occurring in arcs burning in plasma-
+trons with HEV [interelectrode inserts]. Pulsation characteristics of a turbulent flow
+
+with an are burning in it are measured; data are presented on the electrical field in-
+tensity of an arc in a turbulent gas flow. Set forth as well are the theoretical basis
+
+and results of experimental studies of heat exchange between the arc and the gas flow
+and of the use of slot injection and the injection of gas through the porous wall of
+
+the MEV to increase plasmotron thermal efficiency and Output. The work discusses the
+effect of the application of an external magnetic field on electric arc characteristics
+and a number of special types of plasmotrons with HEV (plasmotrons with gas-vortex MEV.
+cemposite HEV etc.). Material presented here may provide a basis for the development of
+efficient high-enthalpy generators of low-temperature plasma.
+
+The book is intended for scientists, engineers and students in institutions of higher
+education Specializing in the field of the study and use of low-temperature plasma.
+
+Illustrations — ILI; bibliography - 180 entries.
+
+Table of Contents
+
+Designations used in the study ........ ........... ... ..... . ...... .............. 3
+Introduction . ....................... .... ..... .............. ...... ............. 8
+Chapter I. An electric arc in a long cylindrical channel ..................... l7
+5 I.|. Distinguishing characteristics of the flow of a cold gas in a long
+cyclindrical channel ....... ..... ................. ...... ........... --
+S l.2. Distinguishing characteristics of an are burning in a long
+cylindrical channel ......... ........ ................. ..... ........ 25
+§ 1.3. The gas-dynamic method of changing arc voltage ......... ........ ... 37
+5 |.4. Length of initial channel section ................................. AB
+5 |.5. Velocity and pulsation characteristics of are components .......... #5
+S l.6. Spectral analysis of the pulsations of an are burning in the transi-
+tion portion of a flow into a submerged space .......... .......... . 5k
+34
+
+FOR OFFICIAL USE ONLY
+i l.7.
+Chapter 2.
+5 2.1.
+‘2020
+5 2.3.
+
+Chapter 3.
+
+5 3.1.
+5 3.2.
+S 3.3.
+S 3.4.
+Chapter 4.
+5 4.1.
+5 4.2.
+5 4.3.
+S 4.4.
+S 4.5.
+chapter 5.
+
+Venue:
+
+UIUU|U|
+O
+
+#wNv—
+.
+
+FOR OFFICIAL USE ONLY
+
+Bases for theoretical-experimental study or are pulsations with the
+application of multiple Monte Carlo modeling
+Generalized equations for arc field intensity
+Measurement of are field intensity ..............................
+Arc field intensity as a function of governing parameters in the
+first section of the channel ....................................
+Arc field intensity as a function of governing parameters in the
+high-turbulence section of the channel ..........................
+Integrated study of the arc and the effect of an external magnetic
+field on its local characteristics
+Integrated study of the arc .....................................
+The effect of an axial magnetic field upon an electric arc
+Radial profile of temperatures in the electric arc chamber
+Measuring local temperatures of a nonstationary asymmetrical arc ..
+Heat exchange in an electric arc chamber
+Heat exchange in the initial section
+Heat exchange in the section of developed turbulent gas flow and
+the effectiveness of the gas screen
+Heat exchange in the output electrode of a plasmotron with an in-
+terelectrode insert ........... ..... .............................
+
+Thermal efficiency of a plasmotron with MEV
+An electric-arc low-temperature plasma generator with a gas-vortex
+
+“EV ........... ................ ..................................
+
+An electric arc in a permeable channel with an intense injection of
+
+gas
+Heat exchange in a plasmotron with composite HEV sections
+Organization and characteristics of the process
+
+Analysis of the energy balance
+Relationship between discharge parameters and flow and heat-
+
+exchange processes in a porous wall
+
+sconce... ooooo 0.00.00.00.00...
+
+oooaoo
+
+coo-o.
+
+oooooo-oooooc-o-oooo-ooo
+
+oooooooo oooooooo 000.00.00.00
+
+coo ..... ooo-o-ooeoooooooooooo
+
+oooooooeoooeoouedoooo
+
+ooooooocooooooooooo ....... olooooooeooooooeoeooooooooooehooooo
+
+ooooooo
+
+ooooooooooooooooo
+
+I0.0.00000.00.000.00.0000.00.00...
+
+cooocoo.ooooooooooooooooooooo
+
+5 5.5. Thermohydraulic analysis of the porous wall of the HEV ..........
+
+S 5.6. Temperature and pressure distribution in the porous wall of the HEV
+
+Chapter 6. Experimental study of a discharge in a permeable channel ........
+S 6.l. Aerodynamics of gas flow in the channel of a plasmotron with a
+
+porous insert ................................ ...... .............
+
+S 6.2. Thermal and electrical characteristics of the discharge .........
+
+Bibliography .............. ...... ............................................
+
+Bibliography name index
+
+ocan...oone...tsoc.-coo-opo-one.coo-oooo-oouooooooooo
+
+UIPYRICHT: Izdatel'stvo "Nauka". I981.
+
+8963
+
+CSO 1861/55
+
+- gun -
+
+35
+
+FOR OFFICIAL USE ONLY

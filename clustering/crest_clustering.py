@@ -72,7 +72,7 @@ if len(args) > 0:
 #			...
 #		folder2
 #		...
-dataset = load_files("/home/grads/rva5120/doc2text/tools/ocr_tool/dataset")
+dataset = load_files("/home/grads/rva5120/cia-crest-explorer/dataset")
 print(dataset.filenames)
 
 # Print Dataset Statistics
@@ -221,7 +221,7 @@ print("Creating Document Tree if necessary...")
 
 # Make new folder for this run
 folder_name = 'clusters_'+str(true_k)
-path = r'/export/home2/grads/rva5120/doc2text/clusters/'+folder_name
+path = r'/export/home2/grads/rva5120/cia-crest-explorer/clustering/'+folder_name
 if not os.path.exists(path):
 	os.makedirs(path)
 	print("Directory created: "+path)

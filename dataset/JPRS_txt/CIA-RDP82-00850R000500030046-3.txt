@@ -1,0 +1,3781 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10337
+19 February 1982
+
+USSR Report
+
+METEOROLOGY AND HYDROLOGY
+
+No. 12. December 1981
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+I) are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10337
+19 February 1982
+
+USSR REPORT
+
+METEOROLOGY AND HYDROLOGY
+No. 12, December 1981
+
+Translations or abstracts of all articles of the Russian-language
+
+monthly journal METEOROLOGIYA I GIDROLOGIYA published in Moscow by
+Gidrometeoizdat.
+
+CONTENTS
+
+*Air Surface Temperature Forecasting for 48 and 60 Hours in Advance............. 1
+
+*cOrrelation Between Temporal and Spatial Intervals in Numerical Heather
+
+Predictionoooo0.00000IOOOOOC0.00009......OOOOOOOOOOOOOOIIDOCOOOOOOOOOOOOOOI'O 2
+*Global Temperature Trend in Cenozoic........................................... 3
+
+*Friction and Air Heat Exchange With Surface During Transport of Sand, Salt and
+
+Ice Partlclesoeooaeaaaseespatterorreoneoeaooaoea...asseoooooeoeoeoleoeaaaasbe 5
+
+*Prevailing Wind at Altitudes 80-100 km at Different Longitudes During Winter
+and spring 1976-1977....IOI0'...OO...OOOOOCOCUQOCCO...0.....COCOOO.DOCOOOOOOO 6
+
+Effect of Radiation on Turbulent Cloud Hediuﬂ....o.....c.....................-. 7
+
+*Peatures of Mass Exchange During Collision of Water Droplets of Noncomparable
+
+$1220.00...oneneaeooeeaeoeease-e...aoeooaeoooeeaseooeeaeseevooeaeaeoeoeseeeee 18
+
+*Computation of Vertical Turbulent Fluxes in Near-Hater Atmospheric Layer Over
+Ocean in Tropical Latitudes.....o...o.-..................................o... 19
+
+Objective Analysis of Ocean Surface Temperature in Northern Hemisphere......... 20
+*
+Tsunami of 23 November 1969 on Kamchatka and Features of Its Development....... 29
+
+*River Flow as Dissipative System............................................... 30
+
+1"Spatial Correlation Functions of Maximum Hater Discharges in Mountain Rivers... 31
+FOR OFFICIAL USE ONLY
+
+*Influence of Climatic Conditions on Variability of Yields of Green Mass of
+Perennial areas“ in RSPSRUOOO0.0....................IIOCOUCOOCOOOOOOOIOOOOOOC
+
+*lnterannual Changes in Atmospheric Zonal Circulation in Northern Belisphere
+During Five‘Yur Period.IQCO0.0IQO'OIOOIOOIICO0C000......IOCOCIOIIICCOOOOOOI.
+
+*long-Range Forecasting of Mariana Water Levels During Ice Jams on Ansara at
+
+hunks...toooooone.oooooooooooooooooeno...oooooooooooooooooooosoooouoootoooo
+
+*Autumn Growing Season of Grassy Plants in Moderately High Elevations of
+
+central “usesoooooooooooolooooooooooeooosoooooooooooaooooooo'oooooooooboos.
+
+Measurement of Paraueters of Wave-Covered Surface From Shipboard...............
+Remote Registry Unit for Float Automatic Level Recorder........................
+
+conferences, Meetings and seninarsoooeoooooooooocooeosoooeooooooooooocoooooosoo
+
+*Mtes Fro. Abroadoololit.00...OOOOIOOIO.IIOOOOOOOIOIOOOIICOOODO0.0000DOOIOOO...
+*Annivetsary of Birth of Yu. M. Shokal'skiy (1856-1960).........................
+
+Index of Articles Published in 'HBTEOROLOGIYA I GIDROLOGIYA' in 1981...........
+
+*Denotes items which have been abstracted.
+
+- b -
+
+FOI‘OFHKJAI.USEIDNIN
+
+32
+
+33
+
+35
+36
+44
+49
+56
+
+58
+
+59
+FOI‘OFEKJAI.USEIDNL¥
+
+UDC 551.509.323
+AIR SURFACE TEMPERAIURE FORECASTING FOR 68 AND 60 HOURS IN ADVANCE
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 (manuscript received
+22 May 81) PP 5-13
+
+[Article by A. I. Snitkovskiy, candidate of geographical sciences, USSR Hydro-
+meteorological Scientific Research Center]
+
+for the first day. The HOS concept was used in developing an archives of data for
+predicting temperature for 48 and 60 hours. The initial data selected were for
+1976-1980 - 226 cases of minimum and maximum temperatures separately for each
+
+of the four seasons. The breakdown of the archives into four parts made it pos-
+sible to take into account the characteristics of seasons of the year. The author
+arrived at a list of the potential predictors for solving this problem. It was
+found that the easiest season for prediction was autumn and winter the most dif-
+ficult. Beginning in March 1980 the derived regression equations were used daily
+
+in preparing temperature forecasts for 68 and 60 hours. Checking of the tempera-
+
+of maximum temperatures using the derived regression equations was somewhat poorer
+than a synoptic forecast. Accordingly, the procedure was corrected in order to
+
+rectify this situation. Now the prediction of minimum temperature for 68 hours is
+approximately 20! better than a synoptic forecast and the prediction of maximum
+temperature for 60 hours is better than a synoptic forecast on the average is 5-
+
+102. An example of the forecast is given. Tables 5; references: 2 Russian.
+
+FOI'OFHKJAI.USI(MVLY
+M “PILDAL 03'. URL!
+
+UDC 551.509.313
+CORRELATION BETWEEN MORAL AND SPATIAL INTRRVALS IN NUMERICAL HEATHER ' "EDICTICN
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 12. Dec 81 (manuscript received
+3 Apr 81) pp 16-21.
+
+[Article by V. H. Kadyshnikov. candidate of physical and mathematical sciences,
+and V. H. Ryazantseva, USSR Hydrometeorological Scientific Research Center]
+
+[Abstract] The basis of numerical methods for short-range weather prediction is
+the approximate integration of the equations of a hydrostatic atmosphere. When
+using explicit finite-difference integration schemes the ratio of the temporal
+
+and spatial intervals must be related to the velocity of propagation of the front
+of wave disturbances by the Coursnt criterion, otherwise linear instability arises.
+In order to find this velocity it is necessary to examine a corresponding linear—
+ized system of equations, determine the energy interval for it and for wave solu—
+tions obtain the ratio of ﬁne energy flux to its density, that is, find the velo-
+city of propagation of wave energy. The maximum of this parameter for all wave
+
+numbers will also be the sought-for wave front velocity. The authors illustrate
+this first in the enmple of the equations for a barotropic atmosphere. Then the
+horizontal velocity of propagation of the wave front in a baroclinic atmosphere
+
+is determined and finally, it is shown that the wave front is not propagated ver-
+tically in a hydrostatic atmosphere. Accordingly, the temporal interval in finite-
+difference models of a baroclinic atmosphere is dependent in explicit schemes only
+on the horizontal resolution. The velocity of wave front propagation in these mod-
+els only slightly exceeds the corresponding value for a barotropic atmosphere, so
+that the interval can be the same as in barotropic models. The temporal interval
+is not dependent on the vertical resolution. This circumstance is well known in
+numerical forecasting, but its validation has evidently never before appeared in
+the literature. Figures 1; references: 9 Russian.
+
+MWMONLY
+FIIICMNHCJAI.1EHE(NVLY
+
+UDC 551.526.36
+
+GLOBAL TEMPERATURE TREND IN CENOZOIC
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 (manuscript received
+31 Mar 81) PP 25-35
+
+[Article by I. I. Borzenkova, candidate of geographical sciences, State Hydrolog-
+ical Institute]
+
+[Abstract] This is a generalization of the results of determination of paleotem-
+peraturea by the oxygen isotopic method for the analysis of organogenic residues
+of marine plankton and benthos microfauna and also data from a paleobotanic anal-
+ysis of fossil flora over the course of the Cenozoic (last 60-65 million years).
+The presented materials on the nature of change in parameters of mean water tem-
+perature and air temperature over the continents in different latitude zones lead
+to the following conclusions. 1. During the course of the last 60 million years
+
+at all latitudes in both hemispheres there has been a gradual decrease in temper-
+ature of the air and ocean (surface and deep layers), against whose background
+there were considerable variations in the direction of warming-and cooling. 2. Af-
+ter the temperature maximum in the Early Eocene a gradual temperature decrease be-
+gan, particularly strongly expressed in the high and middle latitudes. 3. Over
+
+the course of the Oligocene (38-22 million years ago) at all latitudes there was
+
+a predominance of a relatively cold climate with temperatures in the equatorial
+and tropical latitudes lower than at the present time. 6. The temperature increase
+beginning at all latitudes at the end of the Oligocene ended with the temperature
+maximum in the Early Miocene when the air and water temperatures in the equatorial
+latitudes attained values close to those of today. This period was the only period
+in the course of the entire Cenozoic when there was a considerable positive tem-
+perature trend. 5. The Early Miocene temperature maximum ended with a new temper-
+ature decrease in the high and middle latitudes which developed to the end of the
+Miocene and continued in the Pliocene. 6. The temperature regime of the equatorial
+and tropical latitudes in the course of the Miocene and Pliocene remained virtual-
+ly unchanged; the temperatures in the Late Miocene attained values characteristic
+of the Late Eocene. 7. The temperature difference between the pole and equator
+changed during the course of the Cenozoic by a factor of almost 3 from values less
+than 10°C in the Early Eocene to 30°C in the Late Pliocene. Due to insignificant
+temperature variations in the low latitudes during the second half of the Cenozoic
+(Miocene-Pliocene) a change in the gradient occurred only due to a temperature de-
+crease in the high and middle latitudes. 8. A sharp decrease in water and air tem-
+perature in the Middle and Late Miocene led to the formation of permanent glacier
+covers in the polar regions. first in the southern hemisphere and then in the
+
+l!“l(lﬂﬂ(1Al.USE(l¢LY
+toe (”Flush use; umu
+
+Middle Pliocene also in the northern hemisphere. In this connection, over the course
+of more than 10 million years there was a clearly expressed asymetry of the earth's
+climte when in the absence of glacier covers in the northern hemisphere the gla-
+ciation in the southern hemisphere already attained its present-day extent about
+
+11 million years ago, that is, whereas the permanent glacier cover in the northern
+hemisphere appeared no sooner than 3 million years ago. 9. The northern hemisphere
+remained ice-free up to the beginning of the Pliocene, although individual traces
+of local momtain glaciations, such as in Alaska, date to 9-10 million years ago.
+The permanent glacier cover in Greenland began to form abOut 3.1-3.5 million years
+ago. The most ancient precipitation containing information on the presence of sea-
+sonal ice in the Arctic dates back some 6.5-5.0 million years ago. A permanent ice
+cover in the Arctic basin appeared only about 0.9-0.8 million years ago as a re-
+
+sult of a marked decrease in global temperature. Figures 2; references 30: 6 Rus-
+sian, 24 Western.
+
+FOR OFFICIAL USE ONLY
+FOI|0FFKJAI.USE(NNLY
+
+UDC 551.511.6
+
+FRICTION AND AIR HEAT EXCHANGE WITH SURFACE DURING TRANSPORT 0P SAND, SALT AND
+ICB PARTICLES
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian 80 12, Dec 81 (manuscript received
+31 Mar 81) pp 36-40
+
+[Article by 0. K. Zakharova, candidate of physical and mathematical sciences,
+State Hydrological Institute]
+
+[Abstract] On the basis of solution of the equation for the dynamics of the sur-
+face.air layer it is possible to compute the characteristics of sand particles in
+deserts. The saltation of particles with the diameter d occurs with satisfaction
+
+of the relationship _2 2
+1° 9’. Paar/Pairsd<1~
+
+where v* is the dynamic velocity of the flow, ‘Dair is the density of air,)° a
+
+and d are the density and diameter of the particles. 3 is the acceleration of free
+falling. The presence of saltating particles in the air changes the dynamic charac-
+teristics of the flow. The method is applicable for computing the transport of par-
+ticles of an identical diameter and a stipulated density. This article gives the
+results of solution of the problem of air heat exchange with surfaces consisting
+
+of unconsolidated material. The examination is applied to deserts. the shores of
+dessicated lakes covered with salt and ice surfaces. The results were obtained on
+the basis of numerical solution of a system of equations for thermal conductivity
+and dynamics taking the presence of heat sources in the air into account. For sal-
+tating particles of sand, salt and ice with a diameter of 3-6-10" m the author
+has obtained expressions for the coefficients of heat exchange and resistance for
+the level 2 m above the surface. These coefficients increase with wind velocity
+and are approximately twice as great in the case of moderate winds and three times
+greater during winds of hurricane force than in the case of absence of transport
+of particles by an air flow. Figures 2; references 5: A Russian, 1 Western.
+
+lNDI‘OFFICIAL UEI:(NVLV
+FOR (”"ILMI. use UNI-I
+
+UDC 551. 557. 3(670. 318) (571.62)
+
+PREVAILING WIND AT ALTITUDBS 80-100 KM AT 011m WGITUDES DURING "INTER AND
+SPRIIB 1976-1977
+
+Moscow WOROIDGIYA I GIDROLOGIYA in Russian No 12, Dec 81 (manuscript received
+31 Mar 81) pp 61-45 '
+
+[Article by N. A. Maharov, Institute of Experimental Meteorology]
+
+[Abstract] A continuous cycle of observations was made from Decoder 1976 through
+June 1977 at Khabarovsk (59°N, 135°E) in the Far East for the purpose of study-
+ing the wind regime at altitudes 80-100 km. A comparative analysis was made of
+
+the wind regime over Far Eastern and European regions using the results of long-
+term measurements at Obninsk (SS'N, 38'3). The experimental data revealed that
+long-term series of the mean hourly wind velocity values in the meteor zone con-
+tain a broad spectrum of variations with periods from several hours to a year. For
+the purpose of discriminating changes in wind velocities with periods more than
+
+a day the time series of mean hourly values of the meridional and zonal components
+of wind velocity during the entire period of observations were subjected to har-
+monic analysis. The data indicated that zonal flows predominated over IOIabarovsk
+at altitudes 80-100 kn during most of the investigated period. In the behavior of
+the seasonal variation of the zonal component ‘of the wind there are the same reg-
+ularities which are revealed on the basis of long-term measurements at European
+aiddle-latitude stations, that is, westerly winds with velocities up to 20 m/sec
+during the winter season, restructuring to easterly at the beginning of spring,
+easterly winds in spring and at the end of spring to early summer, the setting-in
+of a some: regime of circulation with westerly winds. Accordingly, the results of
+measurements at Khabarovsk and Obninsk indicate that in general the seasonal varia-
+tion of the prevailing wind at altitudes 80-100 km is similar over the Far Eastern
+and European regions. Figures 2, tables 1; references 9: 7 Russian, 2 Western.
+
+mommussoutv
+F0R1OFFICIAI.lEiE(MVLY
+
+UDC 551.509.616:621.37S.826
+
+EFFECT OF RADIATION 0N TURBULENT CLOUD MEDIUM
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 (manuscript received
+31 Mar 81) pp 46-55
+
+[Article by R. Kh. Almayev, candidate of physical and mathematical sciences, and
+L. P. Semenov, doctor of physical and mathematical sciences, Institute of Experi-
+mental Meteorology)
+
+[Text] Abstract: The authors investigated fluctuations
+in the intensity of transmitted laser radiation
+arising during the clearing of a turbulent cloud
+medium. In the approximation of geometrical optics
+and using the smooth perturbations method expres-
+sions are derived for the dispersion of fluctua-
+tions of the radiation intensity level. It is
+shown that the presence of fluctuations of the
+real and fictitiOus components of the dielectric
+constant of the cleared medium leads to the ef-
+fect of a partial compensation of intensity fluc-
+tuations. The changes in the profiles of mean
+characteristics of the cleared cloud medium, as-
+sociated with fluctuations of the radiation act-
+ing on the medium, are computed.
+
+The problem of artificial modification of clouds and fogs by laser radiation for
+the purpose of creating extended zones of clearing, without the presence of drop-
+lets (for example, see [a] and the references therein) has been attracting great
+attention. Interest in this problem is dictated primarily by the fundamental pos-
+sibility of the use of cleared zones for-practical purposes. In [A], for example,
+there is a discussion of the possibility of using the clearing effect for improv-
+ing visibility over airport landing strips and for increasing the effectiveness of
+operation of an optical signaling system in the presence of clouds and fogs.
+
+As is well known. the principle for the clearing of cloud media by laser radiation
+is based on the evaporation of cloud droplets due to the absorption of the energy
+of radiation of definite wavelengths. In addition to the principal effect, an in-
+crease in medium transparency during interaction between radiation and the cloud.
+
+accompanying effects arise which are associated with the nonuniform heating of the
+air by evaporating droplets. In particular, during clearing of the turbulent cloud-
+
+medium random nonunifornities of temperature, liquid water content and the diel-
+ectric constant are induced in addition to that existing prior to modification
+
+FOI:OFIWC141.USEJDNIN
+(II. We Isms; voo- vnua
+
+[1, 3, 5]. Depending on the modification conditions, the parameters of the medium
+and the radiation beam, the intensity of the induced fluctuations can vary in a
+wide range and considerably exceed the values observed in the undisturbed medium [1,
+3, 5]. One of the most important mechanisms of the development of fluctuations of
+medium parameters is the mechanism of mixing of spatial inhomogeneities by the ran-
+dom wind field [1,5]. §pecif1cs of formation of inhomogeneities of the dielectric
+constant 6 in the cloud medium during the propagation of radiation is determined,
+first of all, by the fact that heating of the medium occurs by means of heat trans-
+fer from the heated droplets, and second, because of the peculiarities of evolution
+of the disperse fraction under the influence of radiation. The random field 5 in
+the cloud medium to be cleared in turn is a source of scattering and attenuation
+
+of the transmitted radiation. The fluctuations of intensity of radiation arising in
+this case and their influence on the mean characteristics of the medium to be clear-
+ed are examined in this article.
+
+Assume that the transmitted beam of laser radiation of the initial radius a0 With
+the initial divergence 6% is propagated along the z-axis in an aerodisperse medium
+occupying the region a) O and carried by a wind with a fluctuating velocity and
+forms a cleared region in it which is characterized by a random field of the induc-
+ed complex dielectric constant 6 . We will assume that the influence of the drop-
+lets is limited to a nonuniform attenuation of the transmitted coherent part of the
+wave, whereas the radiation scattered by the droplets is completely carried beyond
+the limits of the beam. Such an assumption is correct for the optically narrow
+beams 2a «0‘1 considered here on paths with ’Cog'fnmwto, ‘Eo are the attenua-
+tion coefgicient and the optical thickness of the undisturbed cloud medium). Ac-
+cording to [7]. in the atmosphere €11,525 for the densest clouds and 2a0<l m.
+
+In this case the disperse medium can be considered quasicontinuous and it can be as-
+sumed that the induced fluctuations of e in the modification zone are caused primar-
+ily by turbulent mixing. Since the dimensions of the inhomogeneities arising in the
+medium are 1)}. the propagation of radiation in the medium can be described by an
+equation for the complex phase of an electromagnetic wavelﬁin a parabolic approx-
+bastion
+
+undo—Z+.\_v+(‘-.u'y+2k’(t+—.;—+‘—;)-o. (1)
+
+Here H!- In E. E - Aeis; A, § are the amplitude and phase of the electromagnetic
+wave; k is the wave number; a, e' are the mean and fluctuation changes of the di-
+electric constant of the medium to be cleared, equal respectively to
+
+01 ' 1- , _ 3' ., 1'
+
+(71"),(T- To)+" —. ‘ _(W)p 1 + I T! (2)
+where T, r'.éI, oL' are the mean and fluctuation components of temperature and the
+attenuation coefficient of the medium, To is the temperature of the undisturbed
+medium.
+
+The spatial distribution of E is described by the expression
+
+a—: a?“ .. €")+"% e_" - (3)
+
+INDI‘OFIWCIAI.USEICHNLY
+FOR G'FICIAL USE ONLY
+
+where . ..
+9.3 . ‘ , _ (1—3,) am a. .
+“‘77—. 3:. .[d-"(X’.y.z) ""—3—.:. ‘(77'),' (a)
+
+is a function of the thermal effect of the radiation; F , FT are coefficients,
+averaged for the droplet spectrum, determining the fract on of radiation energy
+absorbed by a droplet from the beam and the fraction from the absorbed radiation
+energy expended on the evaporation of the droplet [4, 9]; W0 is the liquid water
+content of the undisturbed medium; I. is the specific heat of evaporation of water;
+Cl, is the heat capacity of a unit volume of air; I is the intensity of radiation; V0
+is mean wind velocity, coinciding in direction with the x-axis.
+
+It can be seen from (3) that 8 rapidly tends to saturation with an increase in the
+thermal effect function. The latter occurs with movement of the observation point
+in the direction of an increase in the optical transparency of the medium to be
+cleared.
+
+Here we will mention another peculiarity of the considered problem: the presence
+of fluctuations of the fictitious part of E , which, as will be demonstrated here-
+after, lead to the appearance of new effects. Making use or‘ the smallness of fluc-
+tuations of the dielectric constant 8' 4 l, we will seek the solution of (l) in
+the approximation of the smooth perturbations method. We will write the first two
+
+equations for this method:
+
+2ih‘3-—'f‘+aur,+(v,w,y+2r(t +17)=o, (5)
+
+2 it 23?+.\;W,+2 :1"er +k’:' =0.
+(6)
+
+Equation (5) is nonlinear, and not only due to presence of the term (Vﬁfﬂ, but
+also as a result of the dependence of S on A7- caused by the effect of me ium
+clearing. A solution of (S) was found in [8] in the approximation of geometrical
+
+optics. Such a solution is correct for paths with the extent zékag - 2d (for ex-
+ample, for so - 20 cm, A- 10.6;1. m, zd - 25 km). Assuming the solution of (5) to
+be known, henceforth we will concentrate our emphasis on solution of equation (6).
+He will assume that all, - )Lk + 181,, 1r - 0, 1, where )L is the amplitude level of
+the radiation, X0 - 1n A0, $1 = ln A/Ao. Since, as a rule, ao>10 (9-0 is the
+minimum scale of the fluctuations of 2'), in (6) it is possible to omit the term
+V; YIVLXO, having the order of
+
+3—OAL‘II
+and write an equation for 9/1 in the form
+
+95
+
+2M 01 +51- vl+2IV3SOVqul+k’.'=o- (7)
+
+The 8' value is found in [1]:
+
+z'=(—K'§-il3)’;~IV;. (j=xv y). (8)
+
+where
+
+9
+FOR OFFICIAL USE ONLY
+FOR OFFIGAL USE ONLY
+
+'0
+
+"=5? “=55. Franc". aﬁidx’ﬁ.
+
+PJ - (x', y). V' is the pulsation component of wind velocity.
+
+He will neglect the nonlinear divergence of the beam of modifying radiation in com-
+
+parison with the initial value:v‘Soﬁkgo [8]. Assuming that theo igin of coor-
+dinates is situated on the axis of the radiation beam, we select 30 in the form
+
+'9’: [W W} (9)
+
+where F is the radius of curvature of the wave front along the j-axis at the entry
+into th medium; - z/F . Taking (8) and (9) into accOunt, from equation (7) we
+obtain the following expression for 1411(p, 2):
+
+W9. =17(—t.+h.\\-.T.r,-9 (2'. 2)9‘”(2 :)x (10)
+
+e— ' '
+"he" de9’ F; (9. 2’) V, (9 (no! "(“13”, MI’. 0},
+
+F=(xp,(z'. 2‘. vp,(z’.=)). Mz’ z)=—.—I7’}-g—;l. (l=x.y)-
+
+Here and in the text which follows the recurrent indices on the parameters I', V, 5,
+
+P , p indicates emanation. The claring of cloud media in regular regimes of evapor-
+ation of droplets along adequately extended paths can be achieved only by use of
+broad beams of modifying radiation [10]. Accordingly, without substantial linita-
+tions it can be assumed that s<ka8. Due to the rapidly oscillating exponent the
+principal contri ution to the integral for ;' in expression (10) is from the re-
+gion ao>|p'- Pl“? (Jz/ , I 8.) Since the characteristic spatial scale of
+change of the function is of t2 e order of so, can be considered a smooth func-
+tion at the scales [3' ~13: 7k, Q°<ao and on this Pgasis it can be removed from the
+integral for p' Expressing the V' (hf) value through its Fourier transform
+
+gd (2, i) and integrating (10) for 'with allowance for what has been stated above,
+we obtain a'
+
+v. (9. z)-—--’;-(—«. “PM“? mi: 1”fo
+
+ 
+
+H3“-8)n(:9)
+
+xe‘“x;(12')exn‘-—r-—.(I=X.y) 7 (11)
+
+Using (ll) and assming a local homogeneity and isotropicity of wind velocity fluc-
+tuations and their 6 -correlation in the direction of the z-axis, we obtain an ex-
+pression for the dispersion of fluctuations of the level of intensity of the modify-
+
+ing beam
+«in, p) yrhzl: Re {Sdr’ Fl“: 2 ’) F,(E. z’n‘d’xx
+a (12)
+
+.. ‘2 _.
+x¢[.(z’v ‘)[| __ cxp{_i_‘_:m}]'+ﬂki‘;x
+
+* The condition for the indicated neglecting, obtained in a "stipulated field" ap-
+
+proximation, has the form 1.“)
+0°) —2— " ‘0‘»:
+
+10
+
+FOR OHIO“. USE ONLY
+FOR OFFICIAL USE ONLY
+
+x Re U dz'F, (E. 2') F, (i, 3') who" (3" Z, x
+
+ 
+
+ll:( .._ i ll '0
+X[l+exp’- 3 32p (3 1)} }+2Rl’a,s,
+
+9"? n
+
+«iii-“,6. 2') x (12)
+
+XF- <5 2714'». (a. 3:11:14;th .
+
+where éjku', 3;) is the spectral tensor of wind velocity fluctuations;
+
+RelB], ImIB] denotes separation of the real and fictitious parts of B,
+x.-=2 1.. I, k, that, y.
+
+In the approximation of geometrical optics (Ir? 00) expression (12) coincides with
+the expression obtained in [2].
+
+In (12) the first term, proportional to 6%, determines the fluctuations of the
+level of intensity of radiation caused by scattering on temperature inhomogeneities
+$’(Re 6'); the second term, proportional to s 2, determines fluctuations of radia-
+tion caused by fluctuations of optical thickness (In 5'). The third term describes
+fluctuations of radiation associated with cross-correlation of Re 5' and In 5'.
+
+The presence of the second and third terms in (12) reflects the specific features
+of clearing of a cloud medium.
+
+Fluctuations of the level of intensity of radiation in a medium to be cleared are
+nonh geneous and nonisotropic. This is indicated by the presence of the products
+P ( , z')Pk(§, z') in (12). Thus, laser modification of a cloud medium, character-
+iied initially by homogeneous and isotropic fluctuations of the parameters, leads
+to a qualitative change in its stochastic properties. We will note another pecul-
+iarity in behavior of fluctuations of the intensity level in the medium to be
+cleared. Formula (12) shows that the sign on the last term is dependent on the sign
+on 8 (35/) Tp. For most gases (ac/a 1') <0 and therefore in the considered case
+£1< , and accordingly, the third term 12) is negative. The latter means that the
+presence of the cross-correlation Re 5 'and In 6' in a medium with (dc/J T)<0 leads
+to a decrease in the 0'; value in comparison with a case when Re 5' and 1135' are
+not correlated. The degree of compensation is determined by the parameters of the
+beam and medium to be cleared.
+
+A graphic interpretation of the cross-compensation effect can be obtained by exam-
+ining a single event of interaction of radiation with an individual random inhomo-
+geneity E . Since 1‘
+
+Ree'~— w)" F, V}.
+P
+
+and 1m £'~FJV'J, in a medium with (ac/a 1') <0 a random increase in the velocity
+of transport V' )0 leads to a simultaneous increase in Re 5' and 1m 5'. A local
+increase in Re e' in turn causes a focusing of the radiation incident on the inhomo-
+geneity 5'. that is, increases the intensity of radiation due to the inhomogeneity.
+0n the other hand, a synchronous increase in In 9' is equivalent to an additional
+attenuation of the radiation. that is, exerts an effect inverse to Re E'. With a
+decrease in the velocity of transport (v'j<0) a change in Re 5' leads to a
+
+11
+
+FOR OPTICAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+decrease in the intensity of radiation and a change in In 5' accordingly leads to
+its increase. In media with ()6 / a ‘1')>0 the indicated mechanisms are in phase
+and lead to an increase in fluctuations of X1.
+
+We will compute 6% for the spectrum of fluctuations of wind velocity in the fore
+
+_.._.—..‘ ..---~——--.—._...—....—..—.—
+
+4’1: 0‘)" — qua“ y: ) "W“ e‘ "“3" (13)
+
+ 
+
+and the symetric initial beam divergence 90 x - 90 -9 0(p*.py I,p). In (13) "m
+
+. 5. 92/ l CY }. are the structural characteristic Xnd internaly scale of wind
+velocity 91cc uatgons respectively, 5 is the Kronecker symbol. Substituting (13)
+into (12) and making computations, we Strain
+
+ow. M35“; comm (4;); MW? ﬁx
+
+xRe l(|+11)"‘—ll+§—'5'-50 'gﬁwjdfﬁéoﬂ't (m
+
+saw I ‘ -‘
++ —5— 62 -..,.;m [(7); dr’FﬁE, 3’) In: (I + mm+
+
++ 6 «'1... .,c3, .3314: (2— z’)p(z’, z)F7(E. 2').
+0
+
+where _ (I-x’n (1'. 1):}...
+7 — . .
+
+ 
+
+r (x) is a game function; 7‘0 - 21r/L ; L0 is the characteristic maximum scale of
+
+wind velocity fluctuations. determining the induced fluctuations 1m 6'. A rigorous
+
+choice of the L0 value is not possible. an evaluation off 9 can be obtained taking
+n
+
+into account the conditions of smallness of the relative w d velocity fluctuations
+in the atmosphere [6]:
+
+J2 - VTZIVTS 0.1.
+
+-12 ”2/3 ,. 2/3
+Assuming v ~ 0 V0 L0 (L0 is the external scale of turbulent pulsations V),
+
+we find LOS 63Lo.
+
+we will examine2 two limiting situations: a) D l -- approximation of geometrical op-
+tics, b) D - 1312/1191 - in this case diffraction on 5 fluctuations is important.
+
+a) Approximatigy of geometrical optics. gue to the inequality D41 we can write
+that (1 + 17) 5x1 + 5/6 1r + 5/72 y + and formula (11.) is reduced to the
+following expression:
+
+.. . ., _ .
+62(2.p)=-;-q:§:2’r(+)§dr’(r—s’)'x
+
+Xp'(x'.x)F:(?.z’) + Egi’cexgmqjamin + (15)
+
+12
+
+m OFI'IGAL USE ONLY
+FOR OFFIOAL USE ONLY
+
+'
++ *’ C’vcmhll‘l‘ﬁ) jab—rm“. z’)p(z’.r). m.)
+
+The dependence of the first term in (15') on the internal scale of fluctuations 1.0
+is similar to the dependence of 0,2‘ on obtained for the case of e "pure" turbu-
+lent atmosphere with an 6 spectrum of tee type (13) [6]. The dependence of the
+third correlation term on [0 is considerably weaker than the first. The value of
+the second term is determined by the scale 1.? of fluctuations of the dielectric
+
+constant since the greatest changes in radia ion intensity are related to macro-
+scale fluctuations of optical thickness.
+
+He will compute the square of fluctuations of the intensity level in the clearing
+zone in the approximation of geometrical optics for paths with the extent 2a-
+<2<F. we will characterize the cleari zone in the cloud medium by the consi-
+tion q(z,p )“qo($)-°‘o z)l, where qo( ) - q(z,p)L¢.o is the value of the ther-
+mal effect function at the cloud medium boundary. In egrating for s' in (15), we
+
+ 
+
+ 
+
+obtain
+
+‘ I -2 I ‘ ’
+
+°’,(z.o)== m; C’v-.u’..’r(%)‘ "q *3” *3 ””'+ (16)
++ 3;::=C€‘;sla';e-ﬂ[q’ f q + 4' 4’ ﬂy!“-
+3
+_, r (ac-«W + . m1-
+,0 _
+.t "0
+
+where ‘10:. 54171.“;
+
+It can be seen from (16) that fluctuations in the intensity level decrease with an
+increase in the degree of clearing of the medium ((1 value). The minimum of the
+fluctuations in the clearing zone for radiation beam with an intensity decreasing
+from the center of the beam to the edge is attained in the plane y - 0, where the
+degree of clearing is maximal.
+
+Now we will evaluate the effect of compensation of fluctuations of the radiation
+
+intensity level in the clearing zone. Comparing the first and third terms in (16),
+we find that - -
+[a] 24:, c, a}. 3. (new ,
+
+~
+
+—— _— ~ _—.___ - “In a ‘ ‘ '
+I. (l 3,, WJ. (0|) :7 03”(|_:1') W0 1| It“, (17)
+d'
+P
+
+3
+
+It can be seen from (17) that the role of compensation of fluctuations increases
+with an increase in #1., 060 and the internal turbulence scale.
+
+A comparison of the contributions of fluctuations of the real and fictitious parts
+of 8' to 0'2 for typical values of cloud meditaa parameters indicates that in the
+
+geometrical optics approximation the contribution of In i' is usually small.
+
+13
+
+FOROFFICIALUSEONLY
+f” UI‘I .bmh M Vl‘lal
+
+b) Now we will examine the 1m: n91. In this case (1 + 1r)5’6"7”/ 6 1:
+(cos SIT/12 + i sin 51r/12)
+
+and expression (14) for 012‘ acquires the following form:
+‘- 3=2 . ' " ' '
+'2“'PI=T*"‘C’v"F(%‘)['n°°‘%§-2t.x
+
+X 5‘“ hr] J 42’ (z — z'w'n"? (x'. z) E; m + “—25 x
+
+X Q’3‘3”’§ 61' F; (E: 2') + 6:’ke.e,C-;,zgli {x
+i ‘ (18)
+x 42’ (z — :’)p (2’. 2) F3“. 1’)-
+
+It follows from (18) that the second term, responsible for the X fluctuations. caus-
+ed by pulsations of optical thickness, coincides with the corresponding term in the
+approximation of geometrical optics (see (15)). The latter is associated with the
+fact that the principal contribution to this term is from gacroscale inhomogeneit-
+ies 9', diffraction on which for paths with an extent I: Io<z<ka3 is insignif-
+icant.
+
+In the clearing zone for paths with the extent 2°! 61< z<P formula (18) is reduced
+to the form
+
+. " := l . 5 l _.. n ‘ .
+
+¢;(z.9):= 4- ‘54:; k’l‘C;,I‘(-o.-)l'(-6~)e 4(1, cos-Fi—‘thsln TIP“
+7 . e (19)
+
+X“, + -%q+ {'31 +95!) + 15% V‘G'm-‘ge'nh'i-q + “17+ 93’) *-
+
++ ﬁlm: ﬂaw-"(0’ + 2e + 5;- + 93,)
+
+0
+
+Comparison of expressions (19) and (16) shgws that the application of the results
+of geometrical optics to the region z>k 10 leads to an exaggeration of the fluctu-
+ations caused by scattering on thermal-inhomogeneities of E by a factor of
+
+my?"
+a. k
+
+It follows from (19) that there is a substantial increase in the role of fluctua-
+tions of the intensity level caused by pulsations of the optical thickness for
+extended paths: the contributions of fluctuations of the intensity level due to the
+real and fictitious parts of 8' on the paths z)k1% in the clearing zone can be
+comparable.
+
+The O i distribution in the entire volume of the beam, including the transition
+zone, was computed numerically using formula (18) and is represented in Fig. l. The
+figure shows that the nature of the distribution of the intensity fluctuations in
+the beam cross section is determined primarily by the relationship of qo(0) and
+0‘02. In the case of a poorly cleared medium (curve 110(0) - 1), the radiation fluc—
+tuations in the beam cross section increase with movement from its windward edge
+
+16
+
+FOROFFICIALUSEONLY
+lillCHﬂﬂClAl.llﬂi¢H§LY
+
+(8- -l) to the leeward edge (5 I l). Hith qo(0)23 there is a clearly expressed
+maximum of the intensity fluctuations which is displaced to the windward side of
+the beam with an increase in qo(0). In the clearing zone the intensity fluctua-
+tions decrease sharply with an increase in q0(0). We note that the nature of the
+behavior of a; in dependence on g, qo(0) is similar and agrees entirely with the
+behavior of 5 fluctuations [1].
+
+ 
+
+Fig. 1. Typical distribution of induced fluctuations of intensity level of modify-
+ing radiation along axis 57' I x/a in section y I 0, fI 3 for different values of
+parameter qo(0) I 1, 3, 5, 7 and ﬂ(aL°P)"1 I 0.05.
+
+we will discuss the problem of change in the mean characteristics of the medium to
+be cleared (temperature, liquid-water content, transparency) caused by pulsations
+of the modifying radiation. In [3], where a study was made of the problem of clear-
+ing of the cloud medium by radiation with an intensity fluctuating at the entry
+into the cloud, it was demonstrated that the presence of intensity fluctuations of
+the modifying radiation should lead to a smoothing of the profiles of the mean
+characteristics of the medium in comparison with a case when the modification is
+accomplished by radiation with regular parameters. The intensity of the indicated
+effect is determined by the dispersion cr2 of fluctuations of the thermal effect
+function q. For the case considered here it can be assumed that
+
+t .
+2., 2 22 w r 2"
+[m _ correlation] °.. m0) ,0 in ms.y.z)e,«.y.x). (20)
+
+where . ° _ ~71?) .
+I") — ’.(o)'
+
+T(r) is the mean radiation intensity in the medium to be cleared; Pc is the cor-
+relation radius of the )- fluctuations; a; was stipulated by formula 2%).
+
+Numerical computations of change in the mean characteristics of the medium to be
+cleared due to the induced q fluctuations, stipulated by expression (20), carried
+
+out for a large set of cloud and radiation beam parameters, indicated that in the
+considered situation these changes are insignificant. As indicated by an analysis,
+the latter is attributable to the fact that the fluctuations of radiation
+
+15
+
+FOROFFICIALUSEONLY
+roe mun. USU. ONLY
+
+intensity, determining (7:. are small both in regions with a high degree of clear-
+ing, due to the smallness of the a pulsations induced in the medium, and in re-
+gions with a low degree of clearing due to a considerable attenuation of radia-
+tion by nonevaporating cloud droplets.
+
+We note in conclusion that the investigation of the induced )6 fluctuations was
+carried out without allowance for the influence of gas absorption of radiation on
+the formation of 8 fluctuations. Such an examination is correct for dense clouds
+and fogs when “ONE (0! 8 is the coefficient of attenuation of radiation by the
+gas component of the atmosphere). As indicated by the analysis, gas absorption
+can change the distribution of 8 fluctuations in the region
+
+._. _. 12‘3' ..___
+[f - s - sea] Diallinb—l.
+BIBLIOGRAPHY
+
+1. Almayev, R. Kh., Nerushev, A. P. and Semenov, L. P. "Fluctuations of Tempera-
+ture and Liquid-Hater Content in the Zone of Clearing of a Cloud Medium."
+IZV. AN SSSR: FIZIKA ATMOSPERY I OKEANA (News of the USSR Academy of Sci-
+ences: Physics of the Atmosphere and Ocean), Vol 14, No 3, 1978.
+
+2. Almayev, R. Kh. and Semenov, L. P., "Fluctuations of Parameters of Radiation
+Modifying a Cloud Medium Caused by the Mixing Mechanism,” TBZISY DOKLADOV
+12-y VSESOYUZNOY KONPERENTSII P0 RASPROSTRANENIYU RADIOVOLN (Summaries of Re-
+ports at the 12th All-Union Conference on Radio Have Propagation). Tomsk, Part
+2, 1978.
+
+3. Almayev. R. Kh. and Svirkunov, P. 8., "Role of Laser Radiation Fluctuations in
+Clearing of Disperse Media," PIS'MA V ZhT? (Letters to the Journal of Technical
+Physics). Vol 6, No 12, 1978.
+
+a. Volkovitskiy, 0. A., "Experimental Investigation of the Influence of Radiation
+of 002 Lasers on a Droplet Cloud Medium," METEOROLOCIYA I CIDROLOGIYA (Meteor-
+ology and Hydrology), No 9, 1977.
+
+S. Volkovitskiy, 0. A., Didenko, N. K. and Pinchuk. S. D.. "Appearance of Optical
+Inhomogeneities in the Clearing of a Turbulent Cloud Medium," TRUDY IEM (Trans-
+actions of the Institute of Experimental Meteorology), No 18(71), 1978.
+
+6. Curvich, A. 5., Kon, A. 1., Mirnov, V. L. and Khmelevtsev. s. s.. LAZERNOYE IZ-
+LUCHENIYE V TURBULENTNOY ATMOSFERB (Laser Radiation in a Turbulent Atmosphere),
+Moscow, Nauka, 1976.
+
+7. Zuyev, V. Ye. and Ksbsnov, M. V., PERENOS OPTICHESKIKH SIGNALOV V ZZMNOY ATMO-
+
+SFERE (V USLOVIYAKH POMEKB) (Transfer of Optical Signals in Earth's Atmosphere
+(Under Noise Conditions)), Moscow. Sovetskoye Radio. 1977.
+
+8. Nerushev, A. P. and Semenov, L. P., "Propagation of a Light Beam in an Evapor-
+ating Liquid-Drop Medium in the Presence of 'Hind' Refraction," KVANTOVAYA
+ELEKTRONIKA (Quantum Electronics), Vol 3, No 6, 1976.
+
+16
+
+FilllﬂﬁﬂCIAl.USEllVLY
+9.
+
+10.
+
+FOR OFFICIAI.UEIZCHVLY
+
+Senenov, L. P., “Evaporation of a Water Droplet in the Radiation Field,"
+TRUDY IBM (Transactions of the Institute of Experimental HeteoroloSY). No
+
+18(71), 1978.
+
+Sedunov, Yu. S. and Seuenov, L. P., "Geometry of a Clearing Zone in a Cloud
+With an Arbitrary Wind Field," DOKLADY AN SSSR (Reports of the USSR Academy
+
+of Sciences), Vol 236, 1977.
+
+17
+
+FOR10FFKJA1.USE(NQLY
+F08 oil-lust. use; ONLY
+
+UDC 551.576.1
+FEATURES OF MASS EXCHANGE DURING COLLISION OF WATER DROPLBTS 0F NONOOHPARABLB 8123
+
+Moscow HHEOROLOGIYA I GIDROIDGIYA in Russian No 12, Dec 81 (manuscript received
+31 Mar 81) pp 56-60
+
+[Article by A. V. Kolpakov and S. M. Kontush. candidate of physical and
+mathematical sciences, Odessa State University].
+
+experieents for investigating the phenomenon of partial coalescence of droplets at
+the tile of collision of droplets of noncomparable sizes. The experiments were
+carried out with droplets with a radius 50‘ r1<150pm which collided with target
+droplets with a radius 500<R€1500um with a change of velocity in the range 20<
+v14 200 cn/sec. The experimental apparatus is described. The authors derived func-
+tional expressions relating the parameters of the droplets before and after col-
+lisions and the partial coalescence mechanism is explained. Expressions are also
+derived which determine the limits of existence of partial coalescence for a stip-
+ulsted range of change of the collision parameters. All this not only makes it pos-
+sible to take into account the existence of the partial coalescence phenomenon
+when designing different kinds of aerosol apparatus, but also to control actively
+the various processes changing the value of the input parameters. The results once
+again indicate the need for a separate examination of experimental studies on the
+value of the r1/R parameter because when this parameter has substantially different
+values it is necessary to expect a prevalence of different processes. Figures 3;
+
+references 12: 8 Russian, 10 Western.
+
+18
+ml WHOM. USE ONLY
+FOI1OFFIJA1.USE(NVLY
+
+UDC 551.551.8
+
+COMPUTATION OF VERTICAL TURBULENT FLUXES IN NEAR-HATER ATMOSPHERIC LAYER OVER OCEAN
+IN TROPICAL LATITUDES
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 (manuscript received
+31 Mar 81) PP 61-68
+
+[Article by T. P. Hasagutov, Institute of Experimental Meteorology]
+
+[Abstract] It is generally recognized that the turbulent exchange of heat, momentum
+and moisture through the ocean-atmosphere interface plays a highly important role
+in the formation of weather over the earth. But at the present time there is no
+technical possibility for organizing measurements of these characteristics by a
+direct method on the necessary scale. Moreover, it is virtually impossible to or-
+ganize measurements of fluxes of these substances, for example, in a zone occupied
+by a tropical cyclone. This accounts for the fact that during recent years an ef-
+fort has been made to develop indirect methods for computing the fluxes of heat,
+momentum and moisture on the basis of data from standard meteorological observa-
+tions. However, on the basis of direct experimental data it has recently been dem-
+onstrated that the presently widely used indirect methods for computing the fluxes
+of heat and momentum on the basis of data from mass hydrometeorological observa-
+tions do not provide the accuracy required for practical purposes. This article out-
+lines an improved method with application of the great volume of recently acquired
+experimental data, for example, data on the structure of turbulence in the near-
+water layer of the atmosphere obtained in "ATEX-69," "BOHEX-69," "ATEP-74" and on
+
+a number of other expeditions. The author has obtained an explicit form of the de-
+pendence of the energy exchange coefficients on the characteristics of the flux and
+sea surface roughness. These results are used in formulating a refined scheme for
+computing the fluxes of heat, moisture and momentum on the basis of data from stan-
+dard meteorological observations. Figures 6; references 23: 12 Russian, 11 Western.
+
+19
+
+FINICM"HC1AI.[EIE(NVLY
+lIlR‘urrI\4AI.\alsanvml
+
+UDC 551.463.6(215-17)
+
+.OBJBCTIVE ANALYSIS 0? OCEAN SURFACE TEMPERATURE IN NORTHERN HENISPHBRB
+
+Hoscov HETEOROLOGIYA I GIDROLOGIYA in Russian No 12, 1981 (manuscript received
+14 Apr 81) pp 69-76
+
+[Article by A. N. Bagrov, candidate of physical and mathematical sciences, and
+N. N. Koahevnikova, USSR Hydrometeorological Scientific Research Center]
+
+[Text] Abstract: The article describes a scheme
+for the objective analysis of the tempera-
+ture field of the ocean surface in the north-
+ern hemisphere by the optimum interpolation
+method. The analysis is made using data from
+shipboard observations accumulated during a
+five-day period. The data were subjected to
+climatic and horizontal checking. The scheme
+was applied using a BBSH-6 electronic comput-
+_er in FORTRAN algorithmic language. The re-
+sults of the analysis are fed out for the
+points of intersection of a grid 2.5 x 2.5'
+covering the entire northern hemisphere (ex-
+cept for the territory of the land and polar
+regions). Recommendations are given for fur-
+ther improvement of the results.
+
+Anomalies of the thermal state of the ocean surface exert a substantial influence
+on meteorological processes in the atmosphere. Objective analysis of ocean sur-
+face temperature is also intended for taking into account nonadiabatic factors in
+
+different prognostic models of the atmosphere. In addition, in the future it is
+desirable that the results of this analysis replace the manual analysis of ocean
+
+surface temperature now employed at the USSR Hydrometeorological Center, involving
+manual plotting of a great volume of data on the map.
+
+In a study by V. A. Avdeyev [2] a scheme was proposed for objective analysis of
+water temperature for the North Atlantic. But it was oriented on an antiquated
+
+technology and never entered into operational practice. Our analytical scheme, as
+well as that described in [2], is based on the optimum interpolation method and
+
+in many respects conforms to the operational scheme given in [3] for analysis of
+surface meteorological fields (including the air temperature fields). The same as
+scheme [3], it is applied using FORTRAN language with s BBSH-G electronic computer.
+
+20
+FOITOFFKJAI.USE(N§LY
+FOR‘051WC1AI.(EHE(NVLY
+
+Initial data. As the initial data in the analysis use is made of synoptic tele-
+grams (in the KN-09 code) from commercial and scientific research ships in which,
+in addition to other information, data on temperature of the ocean surface are
+given. The number of such summaries from the northern hemisphere arriving at the
+USSR Hydrometeorological Center at any main observation time (0000 or 1200 GMT)
+averages 650. The commercial ships from which the overwhelming number of shipboard
+telegrams arrives for the most part sail along standard routes. Thus, information
+for the northern hemisphere is distributed extremely nonuniformly: in addition to
+regions of vigorous marine shipping, from which even some excess of observational
+data is obtained, there are some extensive regions which are extremely poorly cov-
+ered by data. As a rule these are the tropical regions of the Pacific and Atlantic
+Oceans. Since the temperature of the ocean surface is an extremely inert character-
+istic, and also due to the inadequate volume of data received for one observation
+time, in oceanological practice at the present time it is customary to "mix" these
+data for a five-day period, that is, plot all the information arriving during a
+five-day period. In actuality, in regions of vigorous shipping only some part of
+all the arriving summaries is plotted, whereas in poorly covered regions all the
+water temperature summaries are plotted.
+
+Although data on water temperature of the ocean surface are transmitted with an
+accuracy to 0.1°C, the actual accuracy of these measurements is probably consider-
+ably lower and does not exceed il°C, but according to the considerations of some
+authors, :1.5°c [8]. This occurs as a result of the primitive technique for the
+measurements themselves, mixing of the water surface layer due to ship movement,
+etc. In addition, the observations are not made by professional observers and
+therefore a rather high percentage of error is obtained. The plotting of this in-
+formation on one map helps in averaging it somewhat and facilitates checking. In
+Our work on the objective analysis of temperature of the ocean surface we also
+"mixed" data on water temperature for a five-day period, as this is now done in
+
+oceanological practice.
+
+We made use of the already existing techniques of the operational data processing
+system organized for the purposes of numerical short-range forecasting on a BBSH—
+
+6 electronic computer employed at the USSR Hydrometeorological Center. All the hy-
+drometeorological data from the communication channels are fed to the magnetic tapes
+of a "Minsk—32" electronic computer. Then at the necessary moments in time ("cut-off
+times") through a special inter-machine communication channel it is transmitted to
+a BESH—é electronic computer. The "cutoff time" for a regional operational fore-
+cast is 2.5 hours, but for a hemispherical forecast -- 5.5 hours from the moment of
+
+observation. During these times it is possible to receive about 75 and 951 of all
+
+the shipboard synoptic telegrams respectively relating to a particular observation
+time (it should be noted that the shipboard synoptic summaries lag considerably be-
+hind similar telegrams from land stations in the northern hemisphere). In the Bash-
+6 electronic computer the arriving information, including shipboard synoptic tele-
+grams, is subjected to primary processing [5]. As a result, "hard" formats of ship-
+board telegrams are obtained, that is, such formats in which each meteorological
+element corresponds to a definite place. In this process repeated summaries are
+eliminated, there is some syntactical control of communications, etc. After com-
+puting the regional and hemispherical forecast the processed initial data for each
+observation time are accumulated through a data bank system (authors - V. A. Ants-
+ypovich, V. R. Al'tshuler) in a special five-day cyclic archives (author of pro-
+gram -- A. Yu. Birkgan). We use information from this archives for computing an
+
+analysis of ocean surface temperature.
+21
+
+FOIioFFﬂJAl.USE(MVUY
+I'UK WPILIAL USI- Win!
+
+In this analytical scheme an important role for shacking and interpolation pur-
+poses is played by the climatic characteristics t and oF(norm and standard devia-
+tion) of the water temperature field. As the t fields we used the mean monthly
+characteristics at the points of intersection of a 5 x 5° grid from the American
+DST-6 archives, registered on magnetic tapes in the international format and
+available at the USSR Hydrometeorological Center. It was important that these
+fields are smoothly continued onto the _territory of the land. A comparison of
+these fields with the climatic fields t available to us revealed their good cor-
+respondence. The monthly fields of the mean square variability were taken from
+magnetic tapes prepared at the Swedish Hydrometeorological Institute for the pro-
+cessing of data in FCGE level-II form [7). These fields, in our opinion, corres-
+pond well to the geographical distribution of CT; although they are somewhat un-
+derstated in absolute value. Special mathematical support for the readout of cli-
+matic data was created by A. H. Gofen and A. D. Naumov.
+
+Preliminary checking. First all the data on ocean surface temperature are subject-
+ed to some preliminary checking. For this purpose the ship coordinates and water
+temperatures are selected from the formats of the shipboard synoptic telegrams.
+
+Ships in the southern hemisphere are excluded, as well as data for ships with in-
+correct coordinates. that is, ships whose coordinates erroneously fell on the
+
+land, not at sea. There is also a rough' 'climatic checking" of communications
+
+on water temperature on the basis of the degree of their deviations from the cli-
+matic values. Using the ship's coordinates from the 5° grid_ in which the climatic
+values are stipulated there is a bilinear interpolation of t and Ofvalues for
+
+this ship. All_ the shipboard communications on water temperature t falling beyond
+the framework tiacr are considered erroneous. This type of checking henceforth
+
+can be made more effective if instead of climate one uses the results of an anal-
+sis of water temperature for the preceding five-day period. A subsequent more pre-
+cise type of checking is already carried out within the framework of the optimum
+interpolation method.
+
+Interpolation; horizontal checking. As the interpolation method we used the well-
+known optimum interpolation method based on use of the statistical characteristics
+of the fields to be analyzed. This method has won wide recognition and is finding
+increasingly wider use in the analysis and assimilation of different meteorolog-
+ical fields. It is assumed that the fields of deviation of a meteorological field
+from the norm are homogeneous and isotropic. For the water temperature field this
+assumption is more or less satisfied.
+
+Then computations of the value of a meteorological element at a point of intersec-
+tion of a regular grid (or at a ship being checked) are accomplished using the
+formula
+
+t «5+ t'.
+n s 12:!“ I (1)
+
+Here Eb is the climatic water temperature value at a grid point of intersection (at
+the ship to be checked); t'1 - t1 - t1 are the deviations of water temperature
+
+from climate at the influencing ships (we took only four influencing ships); p1
+
+are the weights of the influencing ships, which are determined by solution of a
+system of linear equa:ions
+
+22
+
+I")! 0F1ﬂ€1Al.lﬂﬂE(NULY
+FOR OFFICIAL USE ONLY
+
+J
+20:91;+'P1"l= I‘M (i: '- 2’ 3v 4"
+m . (2)
+
+where p. are the corresponding values of the normalized autocorrelation function;
+n- 0.02 is a term specially introduced into the matrix diagonal for better con-
+
+ditionality of the system of equations.
+
+The problem of the autocorrelation function for ocean surface temperature has not
+yet been investigated adequately. Difficulties in determining the water tempera-
+ture spatial correlation functions are related to the absence of a constant net-
+work of stations in the ocean which would ensure simultaneous observations of
+water temperature in different regions of the ocean, such as, for example, synoptic
+stations on the land. We know of results of an investigation of autocorrelation
+functions [1, 6] which are contradictory. The autocorrelation functions p-(r) ob-
+tained in [1], in our opinion, are improbable because the correlation coefficient
+remains extremely high for distances, of even more than 2,000 km. which is prob-
+ably attributable to failure to take the measurement errors into account. As
+‘14“) we took the power-law expression
+
+Mr): (1 + %) exp (—' {—). (3)
+where r is the distance in thousands of kilometers, 1. - 0.35.
+
+An autocorrelation function of the type (3) is used in an analysis of the surface
+meteorological fields [3] and is close to the air temperature autocorrelation
+function. Source [6] presented statistical investigations of the water temperature
+fields on the basis of expeditionary data and one of the autocorrelation functions
+obtained there is close to that which we adopted.
+
+The checking of the communicated initial data on water temperature is accomplished
+by the horizontal checking method [lo] by an interpolation of values from the four
+ships closest to the particular ship. As in any interpolation method it is import-
+ant here that all the influencing ships insofar as possible uniformly surrounded
+the particular grid point of intersection (ship to be checked). Accordingly, in
+the scheme the search for influencing ships is carried out in such a way that
+
+not only the nearest influencing ships were selected, but also that insofar as
+possible they be situated in all four quadrants surrounding the particular point
+of intersection (ship to be checked). The discrepancy between the temperature con-
+municated by the ship and the interpolated value A t is comared with the theoret-
+ical interpolated error, increased by several times. The need for such an increase
+is attributable to the fact that in a number of cases there is an impairment in
+the condition which we adopted concerning the homogeneity and isotropicity of the
+fields of deviations from the norms. The possible interpolation error is computed
+using the formula
+
+‘I’Ef; N, V:, (A)
+.4,
+where F. - 1-2, piyoi is the theoretical measure of the interpolation error;
+t-l
+
+0’13 the standard deviation of water temperature; N - 10 is an empirically select-
+ed factor.
+
+23
+
+FOR OFFICIAL USE ONLY
+HM Ufa-tutu. use out:
+
+The F, parameter is essentially dependent on the density of the network of ships
+and their relative locations and also on the autocorrelation function used. The
+
+N factor was selected in such a way that insofar as possible shipboard communica-
+tions with incorrect data were rejected and correct comunicstions were retained.
+If in the horizontal checking it appears that I A t|< E, the data for the ship
+to be checked are considered correct. However, if |A tl>V§, there is an error in
+the initial data -- for the ship to be checked, or for some one of the influencing
+ships. For solving this problem use is also made of informtion from a fifth near-
+1ying ship and interpolation is carried out for the ship to be checked with alter-
+nate exclusion of data for each of the four initially selected ships. If in all
+four cases 'At|>\/E remains, it is obvious that the data for the ship to be
+checked are incorrect and they are rejected; otherwise it is seemed that the data
+for one of the surrounding ships are erroneous (which will be checked in turn).
+Detailed information on all types of checking is printed out.
+
+Horizontal checking is ineffective in those rare cases when ships in a row com-
+municate incorrect information with an error in one and the same direction. In
+these cases either a more preliminary checking (on the basis of deviation of the
+analysis for the preceding five-day period from the field), or, sometimes, the re-
+peated carrying out of the horizontal checking procedure can be of assistance.
+
+Search for influencing ships. In a rapid search for the influencing ships use is
+made of the so-called "machine map" method. For this purpose a square is construct-
+ed on a map of the northern hemisphere in a stereographic projection at a scale of
+1:30 000 000. This square is described around the circumference of the equator,
+which is in turn broken down into 160 x 160 small squares with 5-mm sides on a
+blank map (150 km at latitude 60°). We require that in each such small square there
+will be no more than two influencing ships; preference is given to data for later
+times from the five-day period. The remaining information is considered excess and
+is discarded. This limitation is related to the electronic computer memory; it en-
+ables us to have a network of more uniformly spaced ships.
+
+The octal numbers of one or two ships are entered in each such square; if not one
+ship falls in a square, it remains empty. Using this number it is easy and quick to
+find the Cartesian coordinates of the ship, data on temperature for the ship in the
+form of deviations from climate, conditional index, etc. present in the individual
+data masses. In the search for influencing data the first step is to determine the
+stall square corresponding to the interpolation point (ship to be checked); then
+the search for the nearest nonempty squares begins. The search is carried out in
+
+a spiral with a gradual increase in radius to a maximum of 1500 km. In addition,
+the already mentioned symmetrization of search in four quadrants is introduced. If
+the ship is situated closer than 50 km from the interpolation point, the interpol-
+ation is not carried out and the point is assigned the water temperature value at
+this ship. If there is not a single ship within the radius of maximum search, the
+point is assigned the climatic value.
+
+Results. Interpolation is carried out at the points of intersection of a grid meas-
+uring 2.5" x 2.S° for the region of the entire northern hemisphere with the excep-
+
+tion of the land and polar regions (to the north of 70°“). As an example of the
+computations we give the results of an analysis of water temperature during the
+
+2!.
+
+FOR OFFICIAL USE ONLY
+FOR¢OFFKJAI.USE(MILY
+
+five-day period 11-15 June 1980. For technical reasons during this period we used
+information only for the two principal observation times - 0000 and 1200 GMT; for
+0000 hours the "cutoff time" was 2.5 hours, and for 1200 hours - 5.5 hours. The
+
+volume of arriving data and the volume of data discarded as a result of different
+kinds of checking and the adopted search system are as follows:
+
+Total shipboard telegrams received.................... 6095
+of which the number from the southern hemisphere is. 492
+ships with land coordinates....................... 115
+
+no data on water temperature...................... 624
+no climatic checking.............................. 236
+did not enter into "machine map".................. 1632
+enter into "machine map".......................... 2998
+did not undergo horizontal checking............... 105
+useful comunications-IOIOII.00....OOIOOOIOIIOOCOC 2893
+
+r: 7 m :o
+IIIIIIIIIII
+' n I! :7 A
+
+III IIIIIIII
+. :r u :5 m :7 u
+.IIIIIIIIIII
+ﬂ '
+,, Z’E I
+I} II
+., ,, “I x ,, IIIII
+M ’1 1! I,
+IIIIIIIIIIIII
+2o
+”IIIIIIIIIII
+0 ' ' JO ‘0 0 U
+
+Fig. l. lnforma:ion for the North Atlantic on the availability of information in
+"machine nap." 31-15 June 1980.
+
+ 
+      
+   
+   
+   
+   
+     
+
+In particular, we see that there are great losses of information due to the system
+for the search of influencing ships which we used. We nose that for interpolation
+purposes it is best to have a dense and uniform observation grid. In actuality, a
+dense network of water temperature observations is available only along standard
+
+sea routes. In these regions there are even significant losses of information due
+to our search system.
+
+25
+
+FOR OFFICIAL USE ONLY
+Figure 1 schensti
+10° squares. The
+
+as are very great. Th1 utable to the fact that an extremely busy shipping
+lane passes only along the northern shore of the Scandinavian peninsula, whereas the
+O
+
+nap" and carry out interpolation in a denser regular grid of points, such as l x 1'.
+
+Figure 2, as a comparison, give maps of manual (operational) and objective analyses
+of water temperature for the North Atlantic for 11-15 June 1980. These naps agree
+
+entirely satisfactorily. we note some inevitable smoothing of the results of ob-
+FOR(NHWCJA1.USE(NVLY
+
+maximum differences at individual points of intersection attained 3°C (primarily
+due to an inadequately rigorous checking system).
+
+The USSR Hydrometeorological Center is now receiving a considerable quantity of Am-
+
+erican data from satellite sounding of the atmosphere in the SAT!“ code. In addi-
+tion to other meteorological information the SATEH sumaaries also contain tempera-
+tures of the underlying surface (land or sea). It would be desirable to use these
+data for supplementing the information for poorly covered regions, primarily for
+the tropics. However, it was found that the water temperature values present in
+these satellite summaries very poorly agree with data from shipboard observations;
+some of them contain blunders.
+
+The computation time when using the scheme is about 10 minutes on a DESK-6 elec-
+tronic computer. The scheme is now undergoing operational testing.
+
+Other possible ways to improve the quality of objective analysis can be the follow~
+ing:
+
+1. Participation in the analysis of all the information for all available observa-'
+tion times, because this can somewhat improve the results in poorly studied re-
+gions.
+
+2. Use of the results of analysis of the preceding five-day period instead of cli-
+matic data.
+
+3. Carrying out of investigations of water temperature autocorrelation functions in
+different regions of the northern hemisphere.
+
+4. Inclusion in the analysis of data from satellite sounding on temperature of the
+underlying surface (in the case of improvement of their quality).
+
+5. Telescoping of the scheme for individual most interesting regions.
+
+6. Inclusion in the analysis (as reference points) of data from more precise water
+temperature measurements - summaries from scientific research ships. buoy observ-
+ations, and also data from the upper level of abyssal measurements (BATHY, TBSAK).
+
+BIBLIOGRAPHY
+
+l. Avdeyev, V. A., "Investigation of the Statistical Hacrostructure of Water Tem-
+perature at the Ocean Surface." TRUDY VSESOYUZNOY KONFERENTSII HOLODYKH UCHEN-
+YKH GIDROMETSLUZHBY SSSR. OKEANOLOGICHBSKIYE RASCHETY I PROGNOZY (Transactions
+of the All-Union Conference of Young Scientists of the USSR Hydrometeorological
+Service. Oceanological Computations and Predictions), Leningrad, 1972.
+
+2. Avdeyev, V. A.. "Plotting of Water and Air Temperature in the North Atlantic,"
+TRUDY GIDROHETTSENTRA SSSR (Transactions of the USSR Hydrometeorological Cen-
+ter). No 127, 1973.
+
+3. Bagrov, A. N. and Loktionova, Ye. A., "Objective Analysis of Surface Meteorolog-
+ical Fields for the Northern Hemisphere on a BBSH-6 Electronic Computer,"
+
+TRUDY GIDROMETTSENTRA SSSR (Transactions of the USSR Hydrometeorological Cen-
+ter), No 196, 1978.
+
+27
+
+FOIIOFFKJAI.USE(NVLY
+I‘VO Wrounh we. Una-I
+
+Belousov, S. I», et al., OBRABOTKA OPERATIVNOY METEOROIDGICHESKDY INPORHATSII
+
+s POHOSHCH'YU ELEKTRONNYKH VYCHISLITBL'NYKH HASEIN (Processing of Operational
+meteorological Infornation Using Electronic Computers), Leningrad, Gidroneteo-
+izdat, 1968.
+
+Kastin, 0. H. and Semendyayev, K. A., SISTEHA PERVICHNOY OBRABOTKI METEOROIDG-
+ICHESKOY INPORHATSII (System for Primary Processing of Meteorological Data),
+Leningrad, Gidroneteoizdat, 1973.
+
+Sukhovey, V. P. and Suvorova, H. 1., "Investigation of the Spatial Statistical
+Structure of Hacroscale Hydrological Fields," HDRSKIYB GIDROFIZICHESKIYE IS-
+SLBDOVANIYA (Marine Hydrophysical Investigations), No 6, Izdaniye HG! AN
+UkSSR, Sevastopol', 1971.
+
+CIuCCher, H. L. and Davis, 0. M” US NAVY MARINE CLIMATIC ATLAS OF THE WORLD,
+Vol 8, NAVAIR 50-10-54, 1969. -
+
+Gemmill, H. and Larson, L., "Real-Tine Ocean Thermal Structure Analysis,"
+PAPERS SUBMITTED TO THE JOINT IOC/HMO SEMINAR ON OCEANOGRAPHIC PRODUCTS AND
+THE IGOSS DATA PROCESSING AND SERVIQS SYSTEM, Dbscov, 2-6 April 1979.
+
+28
+
+FOR‘OFFKJAI.USE(HVLY
+FOR€DFFKJALINHEONIN
+
+UDC 551.466.62:550.3h(57l.66)
+
+TSUNAMI 0F 23 NOVEMBER 1969 ON KAHCHAIKA AND FEATURES OF ITS DEVELOPMENT
+
+Moscow METEOROLOGIYA I GIDROLDGIYA in Russian No 12. Dec 81 (manuscript received
+26 Mar 81) pp 77-83
+
+[Article by Yu. A. Zayakin, Petropavlovsk-Kamchatskaya Hydrometeorological Observa-
+tory] .
+
+[Abstract] An earthquake with an intensity 3 - 7.7 and a hypocenter depth 30 kn
+occurred on 23 November 1969 at a distance of 35 km to the east of Cape Osernoy
+under the floor of the Bering Sea continental slope. Such an earthquake is a rath-
+er rare phenomenon and was the strongest earthquake of this century in the western
+part of the Bering Sea. A tsunami is also a rare phenomenon in the western part of
+the Bering Sea. The earthquake and tsunami of 1969 have refuted the idea that this
+region is free of strong earthquakes and taunamis and this necessitates amendments
+to tsunami-earthquake regionalization. Figure l is a map representing the focus of
+the tsunami of 23 November 1969; Figure 2 is a map showing the travel time of tsu—
+nami propagation. The tsunami had a complex focal mechanism. The tsunami was form—
+ed as a result of changes in bottom relief and due to an underwater slide. The in-
+fluence of the latter was more important. This is indicated by the southern part
+
+of the tsunami focus, lying beyond the limits of the focal region of the earth-
+quake, as well as the good comparability of tsunami wave energy, computed under the
+condition of formation of the tsunami by a suspension flow,witb the energy actually
+observed. Despite the fact that the strong earthquake of 23 November in the Bering
+Sea, causing the reported tsunami, was unique in this century, on a preliminary
+basis a tsunamigenic region must be defined in this zone. It is a continuation of
+the Kurile-Kamchatkan tsunamigenic zone to the north, along the continental slope,‘
+to parallel 58°. The most dangerous sector of the coast, really subject to a threat
+of a tsunami, is situated opposite the defined zone from the Kamchatkan Peninsula
+to 02ernyy Peninsula. Figures 2, tables 2; references: 9 Russian.
+FOR OFFICIAL USE ONLY
+
+UDC $56.52:556.53
+RIVER PLOW AS DISSIPATIVE SYSTEM
+
+[Article by V. I. Nikora, Odessa Hydrometeorologicel Institute]
+
+[Abstract] In 19107 H. A. Velikanov outlined three fundamental principles which must
+be applied in an approach to the study of the channel process. These principles are:
+interaction between flow and channel. limitedness of natural complexes and minimum
+of energy dissipation, representing application of the ideas of Rayleigh and Helm-
+holtz to the "flow-channel" system. Although the first two principles have been
+accepted without special objections, the third has been subjected to acute critic-
+ism. Accordingly, the author has reexamined this problem from the point of view of
+the theory of dissipative structures. With respect to structure, the following as-
+sunptions are made in this study: 1. The systea is thermodynanically open, that is,
+there can be an exchange of matter and (or) energy with the median. 2. The dynamic
+equations of the pertinent system are nonlinear. 3. Deviations from equilibriun
+exceed critical values. 4. Microscopic processes occur "cooperatively" (consistent-
+ly). The "flow-channel" physical system fully corresponds to these assumptions. It
+is clear that it is thermodynamically open, its dynamic equations are nonlinear,
+microscopic processes occur cooperatively. it is far from thermodynamic equilibrium
+and therefore the development of structures in it is possible. Investigation of a
+river from the point of view of the theory of dissipative structures can be carried
+out at three scale levels: 1) microscale -- a short river reach in which its hy-
+draulics is interrelated to bottom nicroforms; 2) mesoscale - a river reach of con-
+siderable extent, whose hydraulics form mesoforma; 3) macroacale - the river as a
+whole. Depending on the level at which the "flow-channel" system is investigated.
+the input external factors must be stipulated (for example, when examining the riv-
+
+tive structures is entropy. which is a measure of the unordered character of the
+system. Proceeding on this basis, the author demonstrates that the principle of
+a minimum of energy dissipation proposed by M. A. Velikanov corresponds to the
+Prigogine-clensdorf fundamental principle of a minimum of entropy production ap.
+plied to fluvial hydraulics. Figures 1; references: 8 Russian.
+
+30
+
+FINI¢MHWCIAL USEZCMVLY
+ROI OFIWCIAI.lEﬂB(H‘LY
+
+UDC 556.535.3
+SPAIIAL CORRELAIION FUNCTIONS OF HAXIHDM HATER DISCHARBES IN HOUNTAIN RIVERS
+
+Moscow HBTBOROLOGIYA I GIbROLOGIYA in Russian No 12, Dec 81 (manuscript received
+20 Apr 81) pp 89-93
+
+[Article by H. A. Mamedov. candidate of technical sciences, Azerbaijan State Uni-
+versity] '
+
+[Abstract] A study was made of the spatial structure of variations of maximal water
+discharges in mountain rivers of Transcaucasia and Dagestanskaya ASSR. The paired
+correlation coefficients method was used employing a "Minsk-32" electronic conputer
+in accordance with a program prepared at the State Hydrological Institute. It was
+found that the mean elevation of the drainage basins in mountain regions exerts a
+substantial influence on the formation of maximum runoff. The spatial correlation
+function was represented in the form of the dependence of the paired correlation
+coefficients on the difference in the mean elevations of the drainage basins. The
+investigation involved conputing the spatial correlation functions for the maximum
+high—water discharges of rivers on the southern and northeastern slopes of the
+Greater and Lesser Caucasus and the naximun discharges of flood waters of rivers
+
+on the southern slo e of the Greater and Lesser Caucasus and elsewhere. The correl-
+ation line r - f(| HI) was constructed with allowance for the computed mean weight-
+ed values of the paired correlation coefficients for each elevation gradation, assum-
+ed equal to |£§HI - 200 m. The spatial correlation functions of maximum high-water
+discharges were computed on the basis of 881 paired correlation coefficient values
+and for flood waters - using 215 such values. It was established that in mountainous
+areas the values of the paired correlation coefficients are dependent not only on
+the distance between the centers of drainage basins, but also on the difference in
+the mean elevations of the drainage basins. For mountain rivers the spatial correla-
+tion function for maximum discharges can be represented in the form r - f(JIAED.
+Figures 3; references: 5 Russian.
+
+31
+
+FOIIOIIHCJAI.UBIJUNEN
+POI OFFICIAL use: out!
+
+UDC 551.583:632.21.3(470)
+
+INFLUENCE 0P CLIHAIIC CONDITIONS 0“ VARIABILITY OF YIELDS 0P GREEN MASS OP
+PBRBNNIAL GRASSBS IN RSPSR
+
+Moscow HETBOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 (manuscript received
+6 Apr 81) pp 96-101
+
+[Article by V. M. Hokiyevskiy. candidate of agricultural sciences, and N. K. Shal-
+yavina, All-Union Scientific Research Institute of Agricultural Meteorology]
+
+[Abstract] The paper gives an analysis of variability of the yields of green mass
+of perennial grasses in the RSFSR in relation to climatic conditions. Mean oblast
+data and data averaged for individual economic regions were used for the period
+from 1961 through 1979, that is, for a period of 19 years. The analysis indicated
+that the yields of grasses vary considerably from year to year. Table 1 gives stat-
+istical data on the yields of green mass of perennial grasses by economic regions
+and oblasts with information on yield increments over the course of the 19-year
+period. In all economic regions there was a substantial increase in the yields of
+grasses during the considered period. The greatest increases were in the European
+RSFSR in the Volga, Central Chernorem and Northern Caucasus economic regions. In
+the Asiatic BSPSR the yield increment was considerably lower, especially in the Far
+Eastern region. High yield increments were obserVed in the Volgo-Vyatskiy, Central
+Chernozem, Volga and Northern Caucasus economic regions, attributable not only to
+an increase in the quantities of mineral fertilizers applied, but also due to an
+increase in the areas of cultivation of grasses in irrigated lands. Table 2 gives
+the frequency of recurrence of deviations of yields of green mass of perennial
+grasses from the trend line as a result of meteorological conditions. Relatively
+low yield variations occur in the Northwestern and Central regions. Over most of the
+territory of the RSPSR climatic conditions make it possible to obtain stable yields.
+Figure 2 is a map of climatic variability of the yields of green mass of perennial
+grasses in the RSPSR. There is a tendency to an increase in the yield variation co-
+efficient as a result of meteorological conditions from northwest to southeast.
+This agrees with the general tendency to a decrease in precipitation and an in-
+crease in evaporability in this direction. These findings make it possible to pre-
+dict yields for a long time in advance, assuming an unchanged level of agricultural
+technology. Figures 2, tables 2; references: 7 Russian.
+
+32
+
+IMHI(IﬂﬂC1Al.UEIi(H'LY
+FOI:OI15CJAI.IIHI(”WLY
+
+UDC 551.513(515-17)
+
+INTERANNUAL CHANGES IN ATMOSPHERIC ZONAL CIRCULATION IN NORTHERN HEHISPHERB
+DURING FIVE-YEAR PERIOD
+
+Moscow METEOROLOCIYA I GIDROLOGIYA in Russian No 12, Dec 81 (manuscript received
+21 May 81) pp 102-104
+
+[Article by G. Ye. Vayndiner, T. L. Hukhina, V. P. Gladilins and L. L. Karakova,
+USSR Hydrometeorological Scientific Research Center]
+
+[Abstract] Some results of an analysis of year-to-year changes in zonal circulation
+in the northern hemisphere over the five-year period beginning 1 January 1976 are
+given. The intensity of zonal circulation is characterized by the index of zonal
+circulation “/0 (die the angular velocity of the air relative the earth, die
+the angular velocity of the earth's rotation. (At the present time the zonal in-
+dex aria) is widely used in practical work and in developing physicostatistical
+weather forecasting methods for different times in advance.) In characterizing the
+year-to-year changes in zonal circulation the authors computed the mean annual and
+mean monthly values of the indices of zonal circulation at the levels of the iso-
+baric surfaces 700 and 500 mb. Use was made of the daily values of the indices,
+computed in the process of preparation of experimental hydrodynasic long-range
+forecasts of deviations of the mean monthly air surface temperatures and absolute
+topography of the SOO-mb surface from the norm for the northern hemisphere, com-
+puted on a reutine basis on a DESK-6 electronic computer by the section on planet-
+ary dynamics of the atmosphere and hydrodynamic long-range weather forecasting at
+the USSR Hydrometeorological Center. The results are summarized in two tables and
+two figures. These show that the intensity of zonal circulation in the course of
+the considered period was subjected to great year—to-yesr changes. Considerable
+negative anomalies of the circulation indices appeared early in 1977, 1978, 1980
+and 1981. Great positive anomalies of the indices were discovered in early 1976,
+in the spring and autumn of 1977, and late in 1978 and 1979. Zonal circulation was
+
+considerably weakened during 1980. Figures 2, tables 2; references 8: 7 Russian,
+1 Western.
+
+33
+
+FOI‘OFFKJA1.USE(NNLY
+FOR OFFICIAL USE ONLY
+
+UDC 556. 535. 24656 . 535. 54-556. 06(282. 251. 2)
+
+LONG-RANGE NEBCASTING 01' HAXIMUH HATER LEVELS DURING ICE JAMS (N ANGARA
+A'l' RAMA
+
+Moscow WWWIYA l GIDROLOGIYA in Russian No 12. Dec 81 (manuscript received
+8 Dec 80) pp 105-107
+
+[Article by V. N. Karnovich, candidate of technical sciences, and T. V. Kuleshovs,
+Scientific Research Institute of Hydraulic Engineering]
+
+[Abstract] Almost every year the breaking-up of the Angers in its lower reach is
+scconpanied by the formation of ice jams. The greatest jams during the last 20
+
+years were observed on 18-26 Hay 1973 when the water and ice rose more than 12 m
+
+above low-water level on the Angers. inflicting great material losses. In order to
+
+develop a method for long—range prediction of the naxinun water levels during ice
+jam ()1 all) on the Angers the authors analyzed the following long-tern series of
+data fron hydro-eteorological observations: t - sum of negative mean daily air
+temperatures for the period of ice cover; 2t -— a parameter indirectly charac-
+terizing the thickness of the ice cover; 31“ (on —- maxi-In water level in initial
+period of ice cover; I —- duration of setting-in of ice cover. The analysis (using
+the correlation of II as with the indicated factors) indicated that not one of the
+considered factors, {siren by itself, with an adequate accuracy deternines the maxi-
+nun water level during ice jams. However, it appears that the decisive factor deter-
+mining ice jam formation on the Angers is the conditions for setting-in of the ice
+cover in autumn. A figure shows the dependence H3“ - f (“ice for.) for the Angara
+at Kanenka obtained by the authors using data from long-tern series of hydroutsor-
+ological date (27 cases of floods); the correlation coefficient for this dependence
+is r - 0.81. The equation for long-range forecasting of maximum water levels during
+
+its jams on the Angers can be represented in the general fora:
+
+ﬂjan ' f0‘ice form T) (1)
+
+with the factors indicated in equation (1)
+it was possible to derive a numerical prognostic equation for the Angers at Kamenka
+
+“jam - 1.53 Rice for“ + 13.77 T - 1‘3. (2)
+
+A forecast of maximum water levels during ice jams on the Angers at Kenenka can be
+aede not less than 5-5.5 months in advance. The method can be applied for other
+
+rivers. Figures 1, tables 1; references: 4 Russian.
+F0!‘0FFKJAI.USE¢MWLY
+
+UDC 551.50:58l.543(575)
+
+AUTUMN GROWING SEASON 0? GRASSY PLANTS IN HDDERAIELY HIGH ELEVATIONS OF CENTRAL
+ASIA
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 (manuscript received
+18 Feb 81) PP 107-108
+
+[Article by Yu. S. Lynov, candidate of biological sciences, Chatkal'skiy
+Mountain-Forest State Preserve]
+
+[Abstract] A study was made of the influence exerted by the conditions of the hy-
+drothermal regime on the course of the autumn growing season at moderately high
+elevations (1000-2000 m) in Central Asia and the productivity of green mass. An-
+alysis of data for such areas made it possible to derive a regression equation
+describing the influence of temperature and precipitation sums during the autumn
+period on productivity. The limits of applicability of the equation are: 50-160
+mm of precipitation, temperature sum 300-500°C. A considerable influence on the
+course of seasonal development of plants is exerted by endogenous factors caused
+by the biology of the plants themselves, especially during the late summer period
+and in the reproductive phases of development. During the autumn growing season,
+during the advent of winter, the development of plants is also held back by endo-
+genous factors. A comparison of indicators of seasonal development during periods
+identical with respect to hydrothermoregime conditions: autumn (October—November)
+and spring (mid-February to late March) indicates that spring is more important:
+in spring the development is more clearly expressed, there are more vegetating
+species and the productivity of the above-ground part is greater. Although in
+spring and autumn the length of day differs by l-1.S hours. this factor cannot be
+regarded as important because the length of day exerts a greater influence on the
+rate of the reproductive phases (flowering, maturing of fruits), whereas in aut-
+unn there is a predominance of the growth phases. It is clear that the differences
+in the indicators of autumn and spring development are attributable for the most
+part to the influence of endogenous factors during the autumn period. This influ-
+ence must be taken into account in computations of the autumn productivity of green
+mass. References: 5 Russian.
+
+35
+
+ltllClﬂﬂClAl.lﬂﬂE(NVLY
+FOI‘OFFKJAI.USE(MVLY
+
+UDC 551.66.086
+MEASUREMENT OF PARAMETERS OP WAVE-COVERED SURFACE PROM SHIPBOARD
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 12. Dec 81 (manuscript received
+28 Oct 80) PP 109-113
+
+[Article by I. P. Trubkin, candidate of physical and mathematical sciences, State
+Oceanographic Institute]
+
+[Text] Abstract: The article describes a unit for
+measuring the slopes and rises of the wave-
+covered sea surface used by the author in
+work on the scientific research ship ”Akad-
+emik Korolev" during the period of the Soviet-
+American microwave experiment. The author gives
+the results of an analysis of possible distor-
+tions of the spectral components of slopes during
+drift and rolling of the ship.
+
+Experhmental data on wind waves obtained in the open sea are of great scientific
+and practical interest. Measurement apparatus has been developed for the collec-
+tion of these data [2, 7, 15]. However, known apparatus is still far from perfect
+and does not always meet the formulated requirements. In such a case the need arises
+for developing new measurement apparatus best taking into account the special fea-
+
+tures of the experiment.
+
+During the period of the Soviet-American microwave experiment (SAHBx-76) special-
+ists aboard the scientific research ship "Akademik Korolev" carried out measure-
+ments of the slopes and rises of the wave-covered sea surface. These measurements
+were made for the purpose of interpreting data on radio emission of the sea surface
+obtained using microwave apparatus installed aboard the ship. The developed methods
+and apparatus made it possible to register the rises and slopes of the wave-covered
+surface in two mutually perpendicular directions relative to the ship. The slopes
+were measured using wire sensors cut into a finite-difference circuit. The signal
+characterizing the surface slope in the selected direction was discriminated using
+a differential measurement circuit. The rises were determined using two sensors
+(wire and accelerometric) whose signals were subjected to mathematical processing
+on shipboard using an electronic computer.
+
+The apparatus consists of wire sensors, accelerometer, measurement unit and record-
+er. The design of the sensors is represented schematically in Fig. 1. It includes
+
+four transducers 1. each of which is a high-resistance nonoxidizing wire (Nichrome
+£30.36). The wire is drawn between two rings 2. Attachments in the form of rings
+
+36
+
+FOI‘OFiWCIAI.LEI1(HVLY
+FOR OFFICIAL USE ONLY
+
+were used for the purpose of ensuring the minimum influence of waves on rotation
+
+of the sensors in the horizontal plane. The sensors were placed in the ship's prow.
+A weight 3 with a mass of about 20 kg was suspended to the lower ring. The upper
+
+ring by means of flexible couplings lb was fixed in the horizontal plane. The wire
+sensors were submerged in the water to half their length. The distance between the
+wires was selected in accordance with [11], taking into account the frequency
+
+range of the measured process and the level of instrumental errors. The accelero-
+
+meter 5 of the tensometric type (measurement range :1 g) was attached on the ship
+above the wire sensors.
+
+ 
+
+Fig. 1. Diagram of design of wire sensors and their positioning in prow part of ship.
+
+The block diagram of the apparatus (Fig. 2) shows the wire sensors 1 in the form of
+changeable resistances Ill-Rio, situated along the axes of Cartesian coordinates XOY.
+The current source for these sensors is an amplitude-stabilized a-c generator of
+an acoustic frequency 2. The difference circuits 3-5 serving for the discrimination
+of the relative change in the level of the input signals constitute differential
+a-c amplifiers. Circuits 3 and 5 serve for discriminating the differences of the
+
+—signals of the wire sensors, whereas circuit 4 discriminates the-difference between—-
+the signals of the sensor R1 and the reference signal 00 serving for compensation
+of the constant component of the output voltage of the transducer. The amplitude-
+phase demodulators 7-9 are for discriminating the envelopes of the output signals
+of the difference circuits and the d-c amplifiers 10-13 are for amplifying signals
+from the amplitude-phase dcmodulators and from the tensometric accelerometer 6.
+The signals are registered using a multichannel loop oscillograph 110.
+
+37
+
+FOR OFFICIAL USE ONLY
+PW Uruguu. USI- Vl‘hl
+
+ 
+
+Pig. 2. Block diagram of apparatus for measuring slopes and rises of wave-covered
+surface from on shipboard.
+
+Principal characteristics of described measurement apparatus:
+
+Range of measured slopes - *11/6 rad
+
+Range of measurement of relative displacements of sea surface and ship - *5 m
+Distance between wire sensors -- 0.5 m
+
+Length of sensor wires - 12 m _
+Limiting error in measuring each of registered signals - not more than 52
+
+The operating principle of the apparatus is essentially as follows. The wire sensors,
+fed an amplitude-stabilised a-c current, transform the sea level fluctuations into
+changes in resistivities, linearly determining the amplitudes of the output volt-
+ages of the sensors. The difference circuits 3 and 5 discriminate and amplify the
+voltages of a-c current whose envelopes are proportional to the slopes of the wave-
+covered surface in the directions of the 0X and CY axes. The circuit 4 discriminates
+a voltage whose envelope is proportional to the relative vertical displacements of
+the wave-covered surface and ship. The envelopes of the signals of the difference
+circuits are discriminated by means of amplitude-phase demodulators. The accelero-
+meter transforms the vertical acceleration of ship movement into an electric signal
+which after amplification, the same as the signals for slopes and relative displace-
+
+ments. is registered on the tape of a multichannel loop oscillograph.
+
+With the use of the described apparatus it is important to take into account the
+possible distortions of the measured characteristics caused by drift or rolling of
+the ship. In general form problems of this type were formulated in [4, 13] and
+solutions were obtained. However, a quantitative evaluation of the possible errors
+in determining the spectrum of slopes was not made. We will evaluate the mentioned
+error, assuming that the sensors measuring the slopes move at a constant rate in an
+arbitrary direction. We will denote the components of the velocity of movement of
+the sensors, projected onto the axes of the Cartesian coordinate system, by u and v.
+
+IND! OIIJCJAI.IEHI(HULY
+FOR OFFICIAL l5! ONLY
+
+We will seek a solution of the formulated problem within the framework of a linear
+spectral model of wind waves. than the slopes of the wave-covered sea surface in
+the direction of the X-axis, coinciding with the main direction of wave propaga-
+tion, can be described by the expression MU) _ Hue—moan? ”up x
+
+IO.
+
+. (1)
+x [lurowul +hunew—un.
+
+where 80:, 0’) is a random stationary process with independent increments related
+to the energy spectrum of waves 80:, a!) by the expression [11]
+
+< ‘5“. 0015‘“. H!) II 3“,. w) (Md 0
+
+ut, vt are the components of the horizontal spatial vector characterizing the move-
+ment of the sensors; k - (k, 6 ) is the wave vector stipulated in polar coordinates;
+a) is angular frequency; t is time.
+
+Using the dispersion expression a) 2 - gk adopted in the linear theory of wind waves,
+
+we transform expression (1): ‘ _._ ..
+MU) -£Ilcm“d£(7 0) exp (hat).
+
+a (2)
+
+where .
+
+m
+v-(T) (score +usln0)~-l.
+
+It follows from (2) that with movement of the sensors the slopes of the waves, meas-
+ured in the direction of the x-axis, will have a time scale transformed by a factor
+of V . This change in scale finds reflection in the frequency region. The spectra:
+of the transformation process in this case can be represented by the expression
+
+[3] N
+3(a) - 91-2 3(3)
+
+V
+
+If, using the dispersion expression, we express the two-dimensional spectrum of
+slopes as a function of only two arguments [8] S x(k,0) - S(k, 6)k2 cos 29 and take
+into account the changes in the wave number modulus with I. change in the time scale
+
+I: (ﬂy) - 732- N“).
+
+then it is possible to obtain an expression for the spectrum of slopes of the trans-
+formed process -
+__.H 3,,(10) . s(—:,)' s — Mono. (3)
+
+The two-dimensional wave spectrum is written in the form [6]
+
+Shani 'osn ‘ Ir“
+(. 3cm. (). —-§-<e..,--2..,
+
+Taking into account that the distortions of the spectral components of slopes dur-
+ing movement of the sensors will be maximum in the high-frequency region, and it is
+precisely they which in this case are of interest, we will represent the wave number
+spectrum by its approximation in the equilibrium region [12]:
+
+' ' 50).“.
+
+39
+POI OFFICIAL USE ONLY
+POI OFFICIAL USE ONLY
+
+Then, from (3) we obtain
+3:0. 9) * 'é'llv'h": cos-'0. (k)
+
+In integrating (4) for all 0 , we find
+~ 3 .. .. . .
+:.(k)-nt"[1- ; 7:- x (1%.: + +w)].
+
+Hence it is easy to obtain the sought-for expression for the relative error in the
+spectrum of slopes, measured in the general direction of wave propagation:
+
+. ... — _._._-_‘.__.
+
+~
+
+.0 _s “-1 3:.
+
+’ A.) '*.:x - (5)
+5 l '
+
+X(T"+T")'
+
+Performing similar computations, it is possible to obtain an expression for the
+relative error in the spectrum of slopes measured in the direction perpendicular to
+the general direction:
+
+_. a .
+‘y-W(U~ +o’).
+
+(6)
+
+It follows from (5), (6) that with an increase in the velocity of movement of the
+sensors the errors in determining the spectrum of slopes increase quadratically.
+The maximum errors will be observed during movement of the sensors along the gener-
+al direction of wave propagation. If we stipulate the level of the maximum admis-
+sible error in determining the spectrum of slopes at 102. the region of undistorted
+values will be limited by a curve corresponding to the wavelengths
+
+1:5.(91'5: .
+For example, with a velocity of ship drift u - 0.5 m/sec there will be a distortion
+
+of the spectral components of the slopes corresponding to wavelengths shorter than
+1.3 m, and with u - 1.0 m/sec - shorter than 5.3 m.
+
+Now we will evaluate the influence of the ship's rolling on the spectrum of measured
+slopes of the wave-covered sea surface. He will assume that the slopes ’7‘ are meas-
+ured 1n the plane perpendicular to the ship's diametral plane. The true slope in the
+selected direction is denoted by '21 and the slope of the wire sensors caused by the
+ship's rolling by ’72. In this case the measured value will be ’7: - ’11 + r12.
+Since the nx process is determined by the sum of two dependent random processes,
+its frequency spectrum 8x09) can be expressed by the sum of the auto- and cross-
+correlation spectra of the termsr—-——-- -
+5, (~)..$.(u)(l+|¢(e)l=_
++0(u)+¢' (0)]. (7)
+
+ 
+
+where 810“) is the spectrum of slopes; §( 0’) is the transfer function for the
+ship's rolling.
+
+Then the relative error of the spectrum of slopes will be equal to
+
+’00
+
+roe OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+3"...)
+hum -l-|¢(~)|.i
+N») 0 Mn). (8)
+
+15 the tragfer function for the ship's rolling is represented in exponential form
+(a!) u I ((J)| exp[-1(f(w)], then ._-_-.. -._. ._ .. ..._..._ . .._.... ..
+. u-l.¢(-)I=+i0(-)!|¢"M-.-‘H-’1.
+
+’.;'3
+us: — .2):—4 mar” '
+
+According to [1], '0‘ )l
+I -
+
+- - .32..
+N) ml: .3").
+
+where 01 is a proportionality factor, 4’0 is 'the characteristic frequency of oscil-
+lations of the ship; r is the linear coefficient of resistance to rolling.
+
+As a result we obtain I - a-u,
+
+--—r—.-—-+
+7‘ (”mm-44”.:
+
+2“,”.
+
++ “-3 --')’1’-i ﬂv'l‘" " (9)
+
+2” \
+~:-~=;'
+
+ 
+
+x cos (am:
+
+For a quantitative evaluation of the level of errors, for a ship with a displacement
+of 7000 tons, in accordance with [l] we will assxme: d- 0.5, 0’0 - 0.532 rad/sec,
+
+r - 0.1. Then, if we stipulate the level of errors in the spectrum of measured
+slopes at 10%, using (9) it is possible to find the limiting frequency «’1 deter-
+mining the region of undistorted spectral values. For the particular examplg by use
+of the iteration method it is possible to find Ulmz1._2_5 rad/sec.
+
+ 
+
+_£ig..3. Sample of records obtained using the described measurement apparatus. ’73:, '1’
+are the wave slopes; n is the relative displacement of the sea surface and ship;
+7-. is the acceleration of the ship's rolling.
+
+The results show that the ship's rolling causes considerable distortions of the
+spectral components of slopes at frequencies close to the frequency of character-
+istic oscillations of the ship 0’0. With an increase in frequency relative to 0’0
+the level of errors Y,‘ decreases rapidly. In an ideal case the correction of dis-
+tortions caused by rolling can be accomplished using the known transfer function
+
+41
+
+FOR OFFICIAL USE ONLY
+run Ute-Lu“. var. 01‘s.!
+
+‘04)). However, a precise determination of this function is a complex problem.
+However, if the maximum of the spectrum of slopes corresponds to a frequency great-
+er than es and «a , then, subjecting the measured process to high-frequency fil-
+tering witg a cutoff frequency ‘Qlim it is possible to obtain records whose spectral
+characteristics will not be essentially dependent on the ship's rolling.
+
+The error in the spectrum of slopes, measured in the longitudinal direction of the
+ship, caused by longitudinal pitching, can be evaluated similarly using the trans-
+fer function for pitching. In this case in order to exclude the signal companents
+
+determined by pitching the resulting records of the slopes can also be subjected to
+
+high-frequency filtering with a cutoff frequency found from computations.
+
+We note that the ship's rolling also exerts an influence on the vertical component
+of acceleration, measured using an accelerometer at the point of placement of the
+wire sensors. It is possible_§o evaluate this,in{luengg‘_gsing the known expression
+
+[1‘] ',uA,Iinﬂ+A,(‘—:':;!Bm-+
+
+I
+A.
++ m +tg’1v)(ll+trl)lm'
+
+where Ax ’2 are the components of acceleration in the coordinate system related
+to the ship; ,6 is the pitching angle; 9’ is the angle of side-to-side rolling.
+
+(10)
+
+It follows from (10) that with small rolling angles the sought-for vertical compon-
+ent of ship acceleration R; will for the most part be determined by the vertical
+component of acceleration Ax» measured with the accelerometer.
+
+The results of this analysis indicate that using the described apparatus it is pos-
+sible to measure the slopes and rises of the wave-covered surface from a ship with
+
+drift velocities less than 1 m/sec and with rolling angles less than ilO’; then the
+measurement error does not exceed 10!.
+
+The primary processing of the measurement data obtained using the described appar-
+atus was carried out using a shipboard computer. First the records, represented in
+the form of curves on the tape of the loop oscillograph (Pig. 3), were transformed
+into a digital form and punched on a paper tape by means of an analog-digital con-
+verter-recorder [S]. In order to determine the displacements of the wave-covered
+sea surface the accelerations of the ship's rolling were twice integrated with sub-
+
+sequent high-frequency filtering of the series with a Bartlett filter [9] and then
+subtracted from the values of a number of relative displacements measured by means
+
+of a wire sensor.
+
+BIBLIOGRAPHY
+l. Blagoveshenskiy, S. N. sad-Kholodiliny-ﬁv-ﬂvyiSPRAQOCENIK,PO STATIKE I DINAMIKE
+KORABLYA (Handbook on Statics and Dynamics of a Ship), Vol 2, Leningrad, Sudo~
+stroyeniye, 1976.
+
+2. Glukhovskiy, B. Kh. and Vilenskiy, Ya. G., "Open-Sea Wave Meter," METEOROLOGIYA
+I GIDROLOGIYA (Meteorology and Hydrology), No 12, 1956.
+
+3. Jenkins, 6. and Watts, 0., SPEKTRAL‘NYY ANALIZ I YEGO PRILOZHENIYA (Spectral An-
+alysis and Its Applications), Part 1, Moscow, Mir, 1971.
+
+42 ‘
+
+F0!!OFFKJAI.USE¢NULY
+4o
+
+5.
+
+6‘
+
+7.
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15-
+
+FOI OFFICIAL [SE ONLY
+
+Zagorodnikov, A. A., "Dependence of the Results of Measuring the Parameters
+of Haves on Velocity of the Carrier," TRUDY COIN (Transactions of the State
+Oceanographic Institute), No 117, 1973.
+
+Kozlov, H. V., "System for Automated Collection and Processing of Data on
+Haves Using Minsk-22 and Minsk-32 Electronic Conputers," TEDDY COIN, No 126,
+1975.
+
+Krylov, Yu. H., Strekalov, S. S. and Tsyplukhin, V. 17., "Investigation of the
+Angular Energy Spectrum of Wind Haves," IZV. AN SSSR: PIZIKA AMSPERY I
+OKEANA (News of the USSR Academy of Sciences: Physics of the Atmosphere and
+Ocean), Vol 2, No 7, 1966.
+
+Haksinov, V. A., "Shipboard Have Recorder," 1100‘! COIN, No 103, 1970.
+Hatushevskiy, G. V., "Investigation of the Correlation Between the True and
+
+Mean Slopes of the Wave-Covered Sea Surface," IZV. AN SSSR: PIZIKA AMSFERY
+I OKEANA, Vol 5, No A, 1969.
+
+Natushevskiy, G. V. and Prival'skiy, V. Ye., "Filtering of Time Series in By-
+drometeorology," OKEANOLOGIYA, Vol 8, No 3, 1968.
+
+Honin, A. S. and Yaglom. A. 11., STATISTICHESMYA GIDRONEIGIANIKA (Statistical
+Nydromechanics), Part 2, mscow, Nauka, 1967.
+
+Trubkin, I. P., "Evaluation of Error in Measuring Slopes of Nave-Covered Sea
+Surface by Finite-Difference Method," TEDDY COIN, No 144, 1979.
+
+Phillips, 0. 11., DINAMIKA VERKHNEGO SLOYA OKEANA (Dynamics of the Upper Layer
+in the Ocean), Leningrad, Gidrometeoizdat, 1980.
+
+Snyder, R. L., "On the Estimation of the Directional Spectru- of Surface Grav-
+ity Nave From a Prograued Aircraft Altimeter," J. GEOPHYS. “5., Vol 78, No
+9, 1973.
+
+Taira, K., Takeda, A. and Ishikawa, K. A., "A Shipborne Nave-Recording System
+With Digital Data Processing," J. OCEANOGR. SOC. JAPAN, V01 27, No ’0, 1971.
+
+Tucker, M. A., "Shipborne Have Recorder," TRANS. INST. NAV. ARCIlIT., London,
+Vol 1.8, 1956.
+
+63
+
+FOR OFFICIALUSEONLY
+F0.‘0FF"JAI.US£(JVLY
+
+UDC 556.03
+REMOTE REGISTRY UNIT FOR FLOAI AUTOMATIC HATER LEVEL RECORDER
+
+Moscow HBTEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 (manuscript received
+31 Mar 81) PP 113-115
+
+[Article by I. H. Shenderovich, candidate of technical sciences, and L. S. Kleben,
+Scientific Research Institute of Instrument Making]
+
+[Text] Abstract: The article describes the design
+and technical specifications of remote ap-
+paratus for observation of water level in
+rivers, lakes, reservoirs and coastal re-
+gions of seas and oceans. The apparatus de-
+veloped at the Scientific Research Inst-
+itute of Instrument Making has success-
+fully undergone state acceptance tests and
+has been included in the USSR Register of
+Measurement Instruments.
+
+Instrumental observations of the water level in rivers, lakes, reservoirs and in
+the coastal zone of seas and oceans at most hydrological stations both in the USSR
+and abroad are made using different types of float automatic recorders. These in-
+struments are reliable in operation, simple to service and their readings are vir-
+tually unaffected by change in water density and tenperature. However, they also
+have a number of shortcomings. among which the most important is the lack of re-
+mote transmission of data on the measured water level values. This complicates
+work with the instrument, since it is necessary to wind the clock and remove the
+tapes on a regular basis. In addition. during a period of critical changes in lev-
+e1, for example, during floods and taunamis, when there is a need for routine ob-
+servation of the water level. when the level gage is remote from the building of
+the hydrometeorological station. it becomes virtually impossible to use it.
+
+A number of-anthors'f17'21'have repeatedly made attempts to construct float level
+gages with remote transmission of data, but for a number of reasons they have not
+
+been widely employed and have not been industrially produced or introduced in the
+network of hydrological stations.
+
+Specialists of the Scientific Research of Instrument Making of the USSR State Com-
+mittee on Hydrometeorology and Environmental Monitoring during 1978-1979 develop-
+ed a unit by means of which network float automatic water level recorders of the
+
+44
+
+FtHICIﬂﬂKIAl.U§£1NULY
+IN)! 05F1C1Al.lﬂﬂE(NVLY
+
+SUM, SUV-H and GR-38 type, already in operation in the field, acquire an additional
+quality -- remote registry of level values measured with the float automatic re-
+corder. This unit, which has been called the 'remote registry unit' (index number
+AZhN3.009.000), consists of two components: transducer and recorder, shown in the
+photograph. The transducer in the remote registry unit is mounted directly in the
+SUV complex, installed over the tide gage well. and serves for transforming the
+angle of rotation of its float wheel into an electric signal. The recorder, situat-
+ed in the room of the hydrometeorological station, receives data on the water level
+and registers it on a standard Len-2 graph paper. In addition, in this recorder pro-
+vision is made for the possibility of data output for the purpose of its continuous
+accumulation on a technical carrier.
+
+ 
+
+Fig. 1. Remote registry unit for float automatic water level recorder. At left --
+recorder, at right - transducer (for SUM complex).
+
+The operating principle for the remote registry unit [4] is based on a d-c bridge
+circuit with a balancing system involving use of a reversible electric motor. The
+
+arms of the measuring bridge are two precision PPHL multiturn potentiometers: one
+detects the rotation of the float wheel of the SUV complex and is placed in the
+transducer; the second is for balancing the bridge circuit and is situated in the
+
+recorder.
+
+The remote registry unit has the following technical specifications:
+-- range of registered water level values - from 30 to 1200 cm H20 (depending on
+
+the design of the unit);
+-- input signal of remote registry unit -- number of revolutions of transducer axis
+
+from 2 to 20;
+
+45
+
+FOR OFFICIAL USE ONLY
+FOIIOFWKJAI.USE(HVLY
+
+- output signal - movement of arm with pen and mark of recorder -- 300 mm;
+
+- limit of principal error with respect to input signal -— $0.51 of measurement
+range, with respect to output signal - $1.5 mm;
+
+- distance of transmission - up to 5 km, electric current from sources of d-c
+current. voltage 12 V;
+
+- computed probability of faultless operation in course of 10 000 hours - not
+less than 0.9.
+
+Three modifications of the unit were developed. These were intended for use in an
+
+outfit with float automatic recorders of the SUM. SUV-H ("Valday") and GR—38 types,
+which differ from one another in the designs of the transducers.
+
+Table 1
+Design of unit Type of automatic level Range of water level
+recorder measurement, cm
+
+DU—300—I SUM 300
+DU—éOO-I . 600
+DU-lZOOeI 1200
+DU-30-II SUV~H 30
+DU-60-II "Valday" 60
+DU—lSO- 150
+DU-300-II 300
+DU-300-III GR-38 300
+DU-600—III 600
+
+The transducers for all modifications of the units consist of a reducer with a defin-
+ite reduction factor. the final link in which is a multiturn precision PPHL potentio-
+meter. The input axis of the transducer carries either a pinion or a toothed wheel
+which is connected to one of the wheels of the transmission mechanism of the cor-
+responding automatic level recorder. In addition. they differ from one another with
+respect to the point of attachment to the level gages. The reduction factors of the
+transducers were selected in such a way that regardless of the number of revolutions
+of their input axis in the working range the potentiometer axis makes 20 revolutions.
+All three modifications of the transducers with their installation in the correspond-
+ing automatic level recorders do not require any additional mechanical changes in
+
+their parts and can be placed in already used automatic level recorders without
+stopping the latter.
+
+With respeCt to design. the recorder is a cylinder with a diameter of 220 mm and a
+
+height of 350 mm. Its main components are a clock mechanism with drum, reducer driv-
+en into rotation by a DPM-ZO electric motor. electronics unit, zero-setter with con-
+
+trol contacts, a vertical guide screw kinematically connected to the reducer and
+
+66
+
+FOIIH"WC1AI.USE¢IVLY
+FOIIOFIICIALlJSE‘ONlN
+
+serving for movement of a carriage, a supporting arm with pen, mark and perman-
+ent magnet along a drum and a vertical scale for visual readout of level values.
+
+The electrical connection of units of the remote registry unit, that is, the trans-
+ducer and recorder. with one another is accomplished using a three-strand line with
+a resistance of each strand not greater than 50 ohm.
+
+The circuit diagram of the remote registry unit in an equilibrium state is a bal-
+anced bridge consisting of the potentiometers for the transducer and recorder and
+a zero-setting unit, whose input voltage in this case is equal to 0 when the con-
+tacts are open. With a change in water level the automatic water level recorder
+comes into motion, which results in movement of the potentiometer slide and as a
+consequence, an unbalancing of the bridge and the appearance of a voltage across
+the input of the zero-setting unit. At this time the different control contacts
+close, which determines the direction of water level change. Accordingly, the re-
+versible electric motor is cut in and the direction of rotation of its axis is de-
+pendent on the polarity of the imbalance voltage of the circuit. An electric motor,
+connected through a reducer with the slide of a potentiometer installed in the re-
+corder, moves it up to the moment of circuit balancing. At the same time, the el-
+ectric motor, also through a reducer, moves along the guide screw a carriage with
+the pen and mark by a value proportional to the water level change. A second relay
+in the circuit is used for the output of a signal when the water level attains
+critical heights - the maximum and minimum water levels. It is triggered with
+closing of one of the magnetically controlled contacts mounted on the recorder sup-
+port and corresponding to the extremal level values.
+
+A calibration device was developed for carrying out laboratory tests and checking
+the remote registry unit. Developed in three variants, it simulates the angles of
+rotation of the float wheel of a specific type of automatic wave level recorder
+[3]. With respect to design it constitutes a mechanical counter of revolutions
+with two scales. The error in reading the angle of rotation of the transducer axis
+in the remote unit mounted on the device does not exceed 45 minutes. The calibra-
+tion device has undergone metrological certification at the Moscow Standardiza-
+tion and Hetrology Center.
+
+The remote registry unit for float automatic level recorder has successfully under-
+gone testing and has been included in the State Register of Measurement Instruments
+
+which have undergone state tests and which have been certified by the USSR Gos-
+standart for standard production and use in the USSR.
+
+G. N. Mar, 8. A. Polimonov and A. L. Kuskov, specialists at the Scientific Research
+Institute of Instrument Making, took an active part in developing, adjusting and
+testing the remote registry—uniEFI‘rm .
+
+ 
+
+BIBLIOGRAPHY
+
+l. Popandopulo, G. K., Zubova, L. A., Shenderovich, I. H. and Volkovs, 0. A..
+"Attachment to Automatic water Level Recorder," USSR AUTHOR'S CERTIFICATE,
+173430.
+
+47
+
+FIHICHHWCJAL.USI10NLN
+roe OFFICIAL USE ONLY
+
+2. Dimksysn, A. 14., CIDlDIDGICHESKIYB PRIBORY (Rydrolosicsl Instruments), Lenin-
+grad, Gidroueteoizdat, 1972.
+
+3. nebsn, L. 8., Her, G. N., Eydinov, A. and shenderovich, I. H., “Hetrologicel
+Support of Checking and Testing of Remote Apparatus for Plant Automatic Level
+
+Recorders,“ TRUDY NIIP (Transactions of the Scientific Research Institute of
+Instrument Making), No 41, 1981.
+
+(08
+
+FOROI’FICIALUSEONLY
+FOR OFFIC1A1.1EIE(HNLY
+
+CONFERENCES, MEETINGS AND SEMINARS
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 pp 116-119
+
+[Article by L. V. Rukhovets, L. F. Yermakova, Yu. 0. Slatinskiy and N. N. Podgay-
+skiy]
+
+[Text] An All-Union Conference on "Present Status and Problems in Dynamic Meteorol-
+ogy" was held at the Main Geophysical Observatory during the period 22-24 April
+
+1981. The conference was dedicated to the 60th anniversary of the Soviet school of
+dynamic meteorology. In the early 1920's A. A. Fridman organized a Mathematics Bur-
+eau in the Main Physical Observatory and thereby laid the beginning of the Soviet
+school of dynamic meteorology.
+
+The objective of this conference was not only an evaluation of the successes attain-
+ed by the Soviet school of dynamic meteorology during a 60~year period, but also
+the outlining of the prospects for its further development._ -
+
+The conference sessions were attended by about 150 persons representing 39 organ-
+izations of the State Committee on Nydrometeorology and Environmental Monitoring,
+the USSR Academy of Sciences, Ministry of Education, Academies of Sciences of the
+union republics and other departments. The participants included specialists from
+Moscow, Leningrad, Kiev, Minsk, Tashkent, Tbilisi, Alma-Ate, Novosibirsk, Odessa,
+Kazan', Perm and other cities.
+
+The subject matter of the conference sessions was represented by four sections:
+
+1. History of creation of the Soviet school of dynamic meteorology.
+
+2. Methods for the hydrodynamic prediction of weather.
+
+3. Numerical modeling of general circulation of the atmosphere and climate.
+
+a. Investigations of atmospheric processes by the methods of dynamic meteorology.
+
+In accordance with these sections of the program in the course of the first two
+days there were conference sessions at which requested reports were presented.
+
+In a report by Academician A. M. Obukhov entitled "A. A. Pridman and N. Ye. Kochin
+-- Founders of Geophysical Hydrodynamics" there was a timely evaluation of the work
+of A. A. Fridman and N. Ye. Kochin with the influence of this work on subsequent
+investigations in the field of dynamic meteorology being considered.
+
+49
+
+mommuspmv
+to“ UI'I'ILIAI. 03!. URL!
+
+A report by Academician P. Ya. Polubarinova-Kochina, entitled "Activity of the
+Mathematics Bureau of the Main Physical Observatory," was devoted to the history
+of formation of the Soviet school of dynamic meteorology. The report gave inter-
+esting details relating to the history of creation of some classical studies of
+
+A. A. Pridman, N. Ye. Kochin, L. V. Keller and I. A. Kibel'. The recollections
+
+of P. Ya. Polubarinova-Koehina concerning these outstanding scientists, the pecul-
+iarities of their human characters and diversions were heard with interest by the
+
+conferees.
+
+v. M. Pasetakiy developed his report "0n the History of the Dynamic Meteorology
+Section of the Main Geophysical Observatory" on the basis of an analysis of little—
+
+known archival materials. The report described the scientific-historical conditions
+under which the Soviet school of dynamic meteorology was formed. A number of docu-
+ments were cited showing how A. A. Fridman validated the idea of creating the Math-
+
+ematics Bureau.
+
+A report by H. I. Yudin, entitled "Principal Stages in the Development of Dynamic
+meteorology in the USSR," dealt with problems relating to the history of creation
+and development of the Soviet school of dynamic meteorology and the present-day
+problems in this science and also the prospects of its development. The speaker
+told about the principal achievements of the Soviet school of dynamic meteorology
+in the 1920's and 1930's and examined the matter of the sequence of investigations.
+The author pointed out the successive nature of formulation of a number of highly
+important problems and approaches to their solution. M. I. Yudin noted that the
+successive nature of the investigations in many respects distinguished the Soviet
+school of dynamic meteorology and that this is also characteristic of today, al-
+though the scope of the problems to be solved has increased by many times and the
+problems themselves have become much more complex.
+
+The subject matter of the conference, devoted to hydrodynamic weather forecasting,
+was represented by two reports.
+
+H. A. Petrosyants and V. P. Sadokov, in a report entitled "Hydrodynamic Methods
+for Short-Range Heather Forecasting," characterized in detail the principal direc-
+tions in research carried out at the USSR Hydrometeorological Center in the field
+of short-range weather forecasting. The authors traced the close relationship be-
+tween the fundamental studies of I. A. Kibel' in this field and further investiga-
+tions. Emphasis was on investigations in the field of mesometeorology directed to
+the development of local (mesometeorological) weather forecasts. These investiga-
+tions, to which I. A. Kibel' also made a major contribution, have now been
+
+brought to the stage of formulation of a model having prognostic importance.
+
+A report—by'§:_A. Mashkovich. entitled "Use of the Methods of Dynamic Heteorolugy*-
+in Middle-Range Forecasting," was devoted to an exposition of hydrodynamic methods
+for the forecasting of meteorological elements for intermediate-length periods;
+these are based on use of the spectral approach. Investigations in this direction,
+initiated by a study of Ye. N. Blinova in 1943, are now being developed intensive-
+ly at the USSR Hydrometeorological Center, at the Main Geophysical Observatory and
+
+at other institutes.
+
+50
+
+FOI‘OFFKJAI.USE(MNLY
+NI! OFFICIAL USE ONLY
+
+three reports were devoted to the problem of numerical modeling of general cir-
+culation of the atmosphere and climate. '
+
+A report by Academician G. I. Harchuk and V. P. Dymnikov, entitled "Modeling of
+Climate and Its Changes," gave a formulation of the general principles lying at
+the basis of solution of the problem of hydrodynamic modeling of climate and its
+changes, caused by different factors. The application of these principles was
+illustrated in the examples of models of climate developed at the Computation Cen-
+ter of the Siberian Department of the USSR Academy of Sciences.
+
+The report of G. P. Kurbatkin, corresponding member, USSR Academy of Sciences, en-
+titled "Influence of the Ocean on the Dynamics of Climate,“ contained a new ap-
+proach to solution of problems in the theory of climate, making it possible to
+evaluate the influence of nonadiabatic factors of different spatial scale on the
+mechanisms of climatic change. In particular, this approach will make it possible
+to evaluate the contribution of processes transpiring in the ocean on the dynamics
+of climate.
+
+Ye. P. Borisenkov and V. P. Meleshko. in a report entitled "Investigation of Gener-
+al Circulation of the Atmosphere," presented the results of work on study of the
+patterns of general circulation of the atmosphere using a number of models of dif-
+
+ferent complexity developed at the Main Geophysical Observatory. Using these models
+it was possible not only to study the patterns of the existing regime of general
+
+circulation of the atmosphere, but also to evaluate its possible changes as a re-
+sult of anonalous sources of anthropogenic and nonanthropogenic origin. Using one
+of the developed models, a study was also made of some features of the circulation
+regime of Mars.
+
+A. M. Yaglom, in a report entitled "Fridman-Keller Equations for the Moments of
+Turbulent Pulsations and the Problem of Their Closure," gave a detailed analysis
+of investigations devoted to one of the most important problems in the theory of
+turbulence - the so-called "closure problem."
+
+A report by L. T. Matveyev discussed the principal problems of cloud dynamics. In
+order to clarify the peculiarities of formation and structure of macroscale cloud
+cover fields a numerical solution was obtained for a system of equations in hydro-
+thermodynamics for a turbulent atmosphere. Some characteristics of the global
+cloud cover field are considered, in particular, the dependence of the the dis-
+tribution for the quantity of clouds on the averaging area.
+
+The last day of the conference sessions was devoted to "stand" reports in which a
+number of problems in dynamic meteorology were considered.
+
+The following studies were presented:
+
+1. V. A. Shnaydman (Odessa Hydrometeorological Institute). "Theoretical and Prac-
+tical Aspects of Boundary Layer Physics."
+
+2. V. M. Kadyshnikov (USSR Hydrometeorological Center). "Role of Turbulence in the
+Setting-In of a Geostrophic Balance of Macroscale Atmospheric Movements."
+
+51
+
+FOR OFFICIAL USE ONLY
+’0‘ OFFICIAL USE UNLY
+
+3. L. V. Berkovich (USSR Hydrometeorological Center). "Nonadiabatic Hemispherical
+Model of the Atmosphere for Prediction for Several Days in Advance."
+
+0. Yu. P. Perevedentsev, M. A. Vereshchagin, V. V. Gur'yanov and K. H. Shantalinsk-
+1y (Kazan' University). "Some Results of Investigation of Meridional Transports of
+Matter and Energy in the Free Atmosphere."
+
+5. V. V. Khvedelidze (Tbilisi University). "Wave Propagation in Atmosphere With
+Allowance for the Simultaneous Influence of Orography and the Beta Effect."
+
+6. V. I. Hartem'yanov (Central Asian Scientific Research Institute) "Choice of
+Reckoning Levels Vertically in Forecasting Schemes in Dependence on Horizontal
+Resolution."
+
+7. V. V. Shpotov (Central Asian Scientific Research Institute). "Formulation and
+Analysis of Computation Properties of Semi-Implicit Schemes for Integration With
+the Second and First Orders of Accuracy."
+
+A resolution adopted by the conference notes the considerable successes attained by
+the Soviet school of dynamic meteorology. in many respects standing at the fore-
+front of modern meteorological science.
+
+The conference reconnended the development of research in the following fundamental
+directions:
+
+-- improvement in numerical methods for short-, intermediate- and long-range weath-
+er forecasting;
+
+-- development of a hydrodynamic theory of climate and general circulation of the
+atmosphere;
+
+-- formulation of a theory of atmospheric turbulence;
+
+-- study of mesometeorological phenomena and local processes;
+
+-— improvement in methods for parameterization of the most important physical pro-
+cesses in the atmosphere;
+
+-- investigation of interaction between the ocean and atmosphere.
+
+It was decided to hold an All-Union Conference on Dynamic Meteorology and Its Prin-
+cipal Practical Applications during the current five-year plan and also to hold
+special working conferences regularly on the use of the methods of dynamic meteor-
+ology in numerical models of climate and weather forecasting, especially with re-
+spect to the parameterization of hydrological processes and the atmospheric boun-
+dary layer, cloud formation processes, etc.
+
+The conference also noted the immediate need for preparing a new textbook on dynamic
+meteorology for colleges in which there would be a systematic exposition of the
+
+modern aspects of this science and in which proper attention would be given to the
+historical development of the ideas and methods used in dynamic meteorology.
+
+It was decided that a collection of papers from the conference he prepared for pub-
+iication.
+
+52
+
+FINICHWHCJAI.U§E¢DNLY
+L. V. Rukhovets
+
+A conference-seminar on methods for determining contaminating substances in sea bot-
+tom deposits was held during the period 23-28 March at the Sevastopol' Division of
+the State Oceanographic Institute. The conference—seminar was attended by represen-
+tatives of the State Oceanographic Institute, Azerbaijan, Amderma, Georgian, Kazakh,
+Murmansk, Northern and Ukrainian Administrations of Hydrometeorology and Environmen-
+tal Monitoring. The conferees examined the peculiarities involved in determining
+
+administrations of hydrometeorology and environmental monitoring. Under the method-
+ological direction of the State Oceanographic Institute they annually carry out a
+great volume of observations. In the Black Sea basin alone subdivisions of the
+Ukrainian, Northern Caucasus and Georgian Administrations of Hydrometeorology and
+Environmental Monitoring during 1976-1980 made more than 350,000 hydrochemical ob-
+servations, including about 100,000 in the mouth regions of the Danube, Dnepr, Don,
+Kuban and Rioni. At the same time, investigations of bottom deposits for the time
+being have not been fully developed in the marine network.
+
+The participants in the conference-seminar noted that in connection with the in-
+creased attention to the problem of preservation of the sea medium from contamina-
+tion the study of the surface layer of bottom deposits both within the continental
+shelf and in the abyssal zone of the seas is now becoming one of the timely problems
+at network hydrochemical laboratories. Accumulating a considerable part of the con-
+taminating substances entering the sea, the bottom deposits are an integral indi-
+cator of the degree of their contamination. 0n the basis of the results of an an-
+alysis of the bottom deposits, which in contrast to a water mass are a more static
+and conservative zone, it is possible to evaluate the degree of the anthropogenic
+influence on the hydrometeorological regime in different regions of the sea.
+
+regions of the shelf, in the case of heavy waves can favor a secondary contamina-
+tion of sea waters. The level of accumulation of chemical substances in the bottom
+deposits is determined by the total effect of a great many factors, but all other
+conditions being equal, the intensity of accumulation is highly dependent on the
+mineralogical and granulometric composition of the bottom material, that is, in-
+creases with transition from sandy to clayey ground and from coarsely disperse to
+finely disperse (pelitic) fractions.
+
+53
+l-‘OII UFHLIAL use unu
+
+In characterizing the introduced unified methods for determining contaminating sub-
+stances in bottom deposits it was noted, in particular, that in the process of ac-
+cumulation of heavy metals in the bottom material an active role is played by nat-
+ural sorbents - complex formers, as a result of which the nature of distribution
+of many metals in the bottom material is closely associated with the content of
+natural organic substances in them. Such a consistency was established for most
+
+of the elements, a determination of which is provided for by the used methods.
+
+The mechanism of this consistency is related to the peculiarities of the molecular
+structure of some organic compounds, which in this case play the role of complex
+formers and sorbents in the water-bottom material system. For example, the migra-
+tion of mercury (especially in organic form) occurs with the active participation
+of the biomass in the surface layer of bottom deposits. For chemical compounds of
+other metals (copper, lead, cadmium, etc.) there was found to be a dependence of
+migration on natural aorbents of mineral origin.
+
+In discussing the material-technical support of work for introduction of unified
+methods for determining contaminating substances in sea bottom deposits the par-
+ticipants in the conference-seminar emphasized that in this problem there is need
+for more active assistance on the part of the State Committee on Hydrometeorology
+and Environmental Monitoring and local administrations of the Hydrometeorological
+Service. In particular, it was noted that it is necessary to accelerate the output
+of new modifications of samplers (corers, dredges, etc.) and in the hydrochemical
+laboratories of the key hydrometeorological observatories in all basins organize
+
+a system for the internal and external monitoring of adherence to methods for carry-
+ing out the most complex and responsible work. It was noted that each year it is
+desirable to carry out training of specialists in the sea network in the field of
+gas-fluid chromatography and atomic absorption spectrophotometry.
+
+In the adopted resolution the participants in the conference-seminar formulated a
+number of priority tasks for the further development of hydrochemical investiga-
+tions and monitoring of the state of bottom deposits in basins.
+
+L. F. Yermakova and Yu. G. Slatinskiy
+
+A coordination conference on improvement in the hydrological study of the territory
+of Sverdlovskaya Oblaat was held in Sverdlovsk on 17 February. It was organized on
+
+the initiative of the Ural Administration of Hydrometeorology and Environmental
+Monitoring. It was attended by representatives of a number of scientific research
+and planning institutes, production-technical enterprises, the oblast sanitary-epi-
+demiological station and other organizations.
+
+The conferees heard reports on the prospects for rationalization and further devel-
+opment of the network of hydrological stations over the territory of the oblast, on
+measures for improving reciprocal hydrological information, on coordination of in-
+terdepartmental efforts in improving hydrological study of the territory of the
+oblast and organization of hydrological reserves in the Urals.
+
+An adequately high level of hydrological study of the Ural region was noted. On
+
+all the major and intermediate rivers hydrological engineering investigations were
+made. The exploitation of water resources is also expanding. In the oblast there are
+
+no longer any rivers which are not used by national economic organizations.
+
+54
+
+FOR OFF"3A1.USE(HVLY
+FOR OFFICIAL USE ONLV
+
+Numerous hydraulic structures regulating runoff, the discharge of industrial efflu-
+ent, and the great number of water supply boreholes substantially changed the nat-
+ural regime of the water features. The hydrological characteristics and parameters
+obtained earlier no longer reflect the present-day water regime. An acute need has
+arisen for study of the impaired regime of rivers and lakes and also for solution
+of the problem of creating hydrological reserves.
+
+The conferees emphasized that the success of the expanded and deepened hydrological
+study of the territory under conditions of a disrupted regime for solution of the
+national tasks of inventorying of waters and conducting the USSR Water Survey to
+
+a considerable degree will be dependent on the coordination of efforts of the ad-
+ministrations of the Hydrometeorological Service and all interested organizations
+and departments.
+
+The conference assigned to the Sverdlovsk Hydrometeorological Observatory the task
+of preparing a plan of measures for coordination of interdepartmental efforts for
+improving the hydrological study of the territory of Sverdlovskaya Oblast in 1981-
+1985.
+
+It was deemed necessary to strengthen checking of the volumes of water intake and
+discharge of industrial runoff and improve the determination of water discharge
+from dams and other structures.
+
+The conference recommended that major water users organize year—round runoff posts
+with the methodological assistance of the Ural Administration of Hydrometeorology
+
+and Environmental Monitoring.
+
+It was proposed that interested organizations annually send to the Sverdlovsk Hy-
+drometeorological Observatory their proposals on development of the hydrolog-
+ical network.
+
+it was pointed out to departmental organizations that it is inadmissible to send
+requests and programs to the Nydrometeorological Archives at a late date for ob-
+
+taining permission for the carrying Out of hydrological work or delaying the
+sending of data on the work done by them.
+
+A resolution was adopted calling for the petitioning of the Sverdlovsk Oblast Bx-
+ccutive Committee for the creation of hydrological reserves at the headwaters of
+a number of regions in the oblast.
+
+The opinion was expressed that it is desirable to hold coordination conferences on
+hydrological study of the territory not less than once every other year.
+
+N. N. Podgayskiy
+
+SS
+
+FOI¢0FFHJAJ.USE(NWLY
+son woman. on was
+
+NOTES PRO“ ABROAD
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 pp 119-120
+
+[Article by B. I. silkin]
+
+[Abstract] During the last thousand years some of the phases of activation of vol-
+canic activity on the earth have coincided in time with macroscale climatic
+changes. However, an analysis of cause-and-effect relationships in the presence
+
+of two fluctuating systems is usually difficult. Such an attempt, limited to the
+time interval between 1870 and 1970, has now been made by Doctor s. Porter at the
+University of Washington. The periods of advance of glaciers in the northern hemi-
+sphere were 1880-1895, 1910-1925 and the time from the mid-1950's through the pres-
+ent time. In the southern hemisphere they do not coincide with the northern hemi-
+sphere: there the advance of glaciers occurred in the mid-1870's and 401108 the
+period from 1906 through 1910, the first half of the 1930's and the late 1940's.
+Studying ice cores obtained by drilling in both hemispheres, S. Porter, in addi-
+tion to absence of synchronism in the glaciation cycles, discovered that in each
+case the period of advance of glaciers coincides with a time interval during which
+the deposition of acid-bearing substances ejected in the course of volcanic erup-
+tions increases. This is easily traced in the glaciers of both Greenland and Ant-
+arctica. Thus, at least during the last century it is possible to speak of the
+presence of a cause-and-effect relationship between volcanic activity and glacia-
+tions operative independently in the two hemispheres.
+
+ﬁtt
+
+An environmental contamination bank has been established at Aachen, in West Ger-
+many. Until now measures for contending with contamination in West Germany have
+frequently been impeded by the.lack of a clear picture of the preceding state of
+the medium. In West Germany there are ten groups, established since 1979, for col-
+lecting data in this field. The new data bank was organised at the Institute of
+Atomic Energy Research. It will coordinate all work along these lines. In the first
+stage the bank will concentrate its attention in the field of data relating to nan
+himself, his food chain and habitat. This includes the collection of samples of
+human blood, liver, fatty tissue and certain food products such as fish, mollusks,
+
+wheat and milk. Other samples include algae, soils, grass, earthworms and various
+insects. Their content of hydrocarbons, pesticides and toxic metals will be ans
+
+alyzed. Each sample will be analyzed immediately upon receipt and then at equal
+time intervals. The storage of samples is in dust-impermeable rooms at tempera-
+
+tures in some cases attaining -190'c. These rooms have an emergency cooling system.
+
+56
+
+initOFFKJA1.USIlIVLY
+FIIICHHNC1A1.USE(MVLY
+
+*“i’k
+
+In April 1981 American scientists began carrying out the four-year program CODE
+(Coastal Ocean Dynamics Experiment), the objective being study of the dynamics of
+coastal waters in the Pacific Ocean washing the northwestern shores of California.
+
+In the course of these studies they are collecting diversified information on the
+processes exerting an influence on the development of currents, on wind fields,
+physics of the upper layers of the ocean and its coastal part, sea level, pressure
+at the bottom in the shelf zone, seasonal circulation and other parameters. Over
+
+a distance of 97 km along the coast anchored velocity meters are being set out, to-
+gether with instrumentation for measuring current direction. Participating in the
+experiment are scientific research ships of the University of Oregon and the
+Scripps Oceanographic Institute, as well as the national laboratory at Boulder.
+Other participants will include the Geological Survey, NASA and NOAA.
+
+S7
+
+FOI‘OFFKJAI.USE(MVLY
+FOIilﬂﬂLlhltﬂﬂWUNLl
+
+ANNIVERSAR! OF BIRTH 0? Yu. M. SHOKAL'SKIY (1856-1950)
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 pp 120-121
+
+[Article by V. M. Chuvashov]
+
+[Abstract] This year marks the 125th anniversary of the birth of Yuliy Mikhaylo-
+vich Shokal'skiy, outstanding Russian and Soviet oceanographer, meteorologist and
+cartographer. After studying at the Marine Institute, he spent two years in the
+Navy, after which he became a student at the Marine Academy in the hydrography
+division. During 1880-1882 he headed the marine meteorology section of the Main
+Physical Observatory. Between 1882 and 1907 he taught at the Marine Institute and
+then through 1930 at the Marine Academy. From 1925 to his death he was also a pro-
+fessor at Leningrad University. Meanwhile, during 1907-1912 he headed the meteor-
+ology section of the Hydrographic Administration and from 1925 through 1931 he
+
+was directcr of the State Cartographic Institute. On his initiative and with his
+direct participation various neasures were undertaken for investigating the re-
+gime of water basins. He was responsible for numerous aerological and ice observa-
+tions. He organized oceanographic expeditions for studying the Black Sea. Be made
+large-scale observations of currents in the Baltic, Black, Caspian and Far Eastern
+seas. He organised publication of the first YEARBOOKS 0P TIDBS and established
+
+the Sevastopol' Marine Observatory. Yu. M. Shokal'skiy was one of the supporters
+and founders of study and exploitation of the Northern Sea Route. As early as 1883
+he was an advocate of study of the Arctic and Antarctica. A major result of his in-
+vestigations was the generalizing work OKEANOGRAPIYA (0ceanography)(l9l7). In this
+monograph the scientist for the first time pointed out the interrelationship of
+processes and phenomena transpiring in ocean and sea waters and also in the world
+ocean and atmosphere. The scientist published about 1,500 scientific works - mono-
+graphs, articles, atlases and reference books with an astonishing breadth in vir-
+tually all fields of geography. Shokal'skiy was an outstanding cartographer and
+headed work on compilation of maps of the relief of Russia. He calculated the area
+of the Asiatic part of Russia and the lengths of major rivers. He played a major
+role in the preparation of innumerable atlases. Be participated in preparations
+for the Second International Polar Year and represented the USSR at many inter-
+national geophysical congresses. Yuliy Mikhsylovich devoted 58 years of his sci-
+entific activity to work in the Geographical Society. Between 1917 and 1931 he was
+chairman and thereafter was honorary chairman. He was a doctor of geographical
+sciences, a doctor of physical and mathematical sciences, a corresponding member
+of the USSR Academy of Sciences and an honorary member of countless societies in the
+USSR and abroad. His contributions to the development of Russian and Soviet geo-
+graphy were enormous. References: 5 Russian. '
+
+S8
+
+FOIIOIIICIAI.USE4DNlN
+IIIl(NﬂﬂK1Al.lIIE(ﬂ'LY
+
+INDEX 01’ ARTICLES PUBLISHED 111"}8TBOROIDGIYA I GIDROWIYA' IN 1981
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 12, Dec 81 pp 122-128
+[Unsigned index]
+
+[Text]
+
+Avdyushin, S. I. "Heliogeophysical Service, Its Tasks and Prospects for Develop-
+ment," No 6, pp 63-76
+
+Israel, Yu. A. ”Principal Results and Prospects for the Development of Hydrometeor-
+ology and Environmental Monitoring," No 6, pp 5-18.
+
+"Twenty-Fifth Anniversary of Soviet Research in Antarctica," No 1, pp 5-12.
+Meteorology
+
+Avaste, O. A., Kyarner, 0. Yu. and Keevallik, 8. Kb. "Quantity of Clouds in Zone
+bS’N—kS’S Over the Earth," No 7, pp 54-60.
+
+Adamenko, V. N., Bogdanov, A. L. and Novorotskiy, P. V. "Evaluation of the Spatial-
+Temporal Variability of Components of the Heat and Water Balance in the Eastern
+Part of the naykal-Amur Railroad Route," No 11, pp 58-70.
+
+Alekseyeva-Obukhova, I. A. and Petrichenko, I. A. “Use of Observational Data on
+Clauds in Numerical Forecasting of Air Surface Temperature," No 9, pp 35-40.
+
+Almsyev, R. Kh. and Semenov, L. P. "Effect of Radiation on s Turbulent Cloud Medi-
+um." No 12, pp 46-55.
+
+Aloyan, A. Ye., Yordanov, D. L. and Penenko, V. V. "Numerical Model of Transport of
+Impurities in the Atmospheric Boundary Layer," No 8, pp 32-63.
+
+Aloyan, A. Ye., Yordanov, D. L. and Penenko, V. V. "Paramstsrization of Surface
+Layer with Variable Height," No 1, pp 37-66.
+
+Andrash, U. and Shenk, R. "Computation of Transport of Substances Contaminating
+Air," No 3, pp 56-58.
+
+Arabadzhi, V. I. "Possibility of Predicting Lightning Discharges," “0 3, pp 107-108.
+
+59
+
+lili¢ﬂﬂﬂChULlﬁli(lVLY
+M (”'le USE. UNIJ
+
+Bakirbayev, B. and Kostyukov, V. V. "Determination of Parameters of Correlation
+Functions in Process of Objective Analysis of Hydrometeorological Fields," No
+10, pp 108-110.
+
+Biryulina, H. 5. "Modeling of an A Priori Set of Solutions of Inverse Problem and
+Stability of Optimum Plans of Ozone Satellite Experiment," No A, pp 45-51.
+
+Borzenkova, I. I. "Global Temperature Trend in the Cenozoic," No 12, pp 25-35.
+
+Borisenkov, Ye. P. "Study of Climate and Its Practical Aspects," No 6, pp 32-48.
+
+Borisenkov, Ye. P., Neleshko, V. P. and Sokolov, A. P. "Influence of Upper-Level
+Cloud Cover on Thermal Regime and Atmospheric Circulation," No 11, pp 5-17.
+
+Bryukhan', F. P. and Cuterman, I. G. [deceased] "Climatic Characteristics of Ver-
+tical Hind Shears in Atmospheric Surface Layer Over USSR." No 5, pp 17-23.
+
+Bryukhan', P. P. “Indirect Computation of Characteristics of Prevailing Hind."
+No 8, pp 15-18.
+
+Budyko, H. I.. Byutner, E. K., Vinnikov, K. Ya., Golitsyn, G. S., Drozdov, 0. A.
+and Karol', I. L. "Anthropogenic Changes in Global Climate," No 8, pp 5-14.
+
+Budyko, H. I. and Yefimova, N. A. "Influence of Carbon Dioxide on Climate," No 2,
+pp 5-17.
+
+Budyko, M. I. "Change in Atmospheric Thermal Regime in Phanerozoic." No 10, pp 5-10.
+Budyko, H. I. "Present Status of Investigations of Climate," No 6. pp 49-62.
+
+Buykov, H. V., nodnarchuk, Yu. V. and Simeonov, P. ”Evaluation of Effectiveness of
+Antihail Protection in Bulgaria," No 2, pp 69-56.
+
+Buykov, H. V. and thorost'yanov, V. I. "Numerical Modeling of Diurnal Evolution of
+Atmospheric Boundary Layer in Clouds and Pogo," No 6, pp 35-44.
+
+Byutner, B. K., Zakharova, O. K., Turchinovich, I. Ye. and Lapenis, A. G. "Anthro-
+pogenic Changes in Carbon Dioxide Concentration in Atmosphere in the Next Fifty
+Years," No 3, pp 18-31.
+
+Vayndiner, G. Ye.. Hukhina, T. L.. Gladilina, V. P. and Kazakov. L. L. "Interan-
+nual Changes in Zonal Circulation in the Northern Hemisphere in the Course of
+a Five-Year Period," No 12, pp 102-104.
+
+Vinnikov, K. Ya. and Croysman, P. Ya. "Empirical Analysis of the Influence of 602
+on Modern Changes in Hean Annual Air Surface Temperature of the Northern Hemi-
+sphere," No 11. pp 30-63.
+
+Vinogradova, L. I. and Shakina, N. P. "Vertical Circulation in the High-Altitude
+Frontal Zone Over Western Siberia and Krasnoyarskiy Kray," No 8. pp 26-31.
+
+60
+
+INJR OIIICJAI.lEﬂE(ﬂVLY
+FOR‘OFFHJAI.USE(NVLY
+
+Cavrilov, A. S. and Petrov, Yu. S. "Evaluation of the Accuracy in Determining Tur-
+bulent Flows by Standard Hydrometeorological Measurements Over the Sea," No 6,
+pp 52-59.
+
+Cavrilov, V. P. and Kostrikov, A. A. "Scattering and Transport of a Claud of Input-
+ity in the Tropoaphere," No 10, pp 19-25.
+
+Gavrilov, V. P. "Determination of the Coefficient of Turbulent Diffusion," No 3,
+PP 66-53 a
+
+Cirdyuk, G. V. and Malevskiy-Malevich, S. P. ”Method for Computing Effective Radi-
+ation of the Ocean Surface Vith Allowance for Different Cloud Levels," No 10,
+pp 46-52.
+
+Gordin, V. A. "Method for Computing Heat Plow Into the Soil Prom Temperature," No
+1, pp 54-60.
+
+Gruza, G. V. and Apasova, Ye. C. "Climatic Variability of Monthly Precipitation
+Sums in the Northern Hemisphere," No 5, pp 5-16.
+
+Gruza, G. V., Kleshchenko, L. K. and Ran'kova, 3. Ya. "Prediction of Mean Monthly
+Air Temperature Over the Northern Hemisphere Using an Automated Scheme of Group
+
+Analogs," No 2, pp 28-39.
+
+Cruza, C. V. and Ran'kova, E. Ya. "Use of Analogs in Evaluating the Predictability
+and Long-Range Prediction of the Fields of Mean Monthly Air Temperature," No 1,
+pp 13-22.
+
+Devan, A. K. "Variations in the Intensity of the Summer Indian Monsoon Using Satel-
+lite Cloud Data," No 2, pp 55-61.
+
+Didenko, N. K., Ivanov, V. N., Korovin, V. Ya. and Smirnov, V. V. "Modeling of Ther-
+mals," No 5, pp 24-32.
+
+Dinevich, L. A. "Some Features of Structure and Evolution of ﬂail Cumulonimbus
+Clouds," No 9, pp 41-49.
+
+Dobryshman, Ye. M. "Analysis of Simplest Zonal Models of Circulation of the Equa-
+torial Atmosphere," No 9, pp 12-22.
+
+Disycheva, N. Ye. and Krigel', A. M. "Parameters of Thermal Stratification of the
+Planetary Boundary Layer," No 1, pp 102-105.
+
+Drozdov, 0. A. "Formation of Moistenlng of the Land With Variations in Climate,"
+No 1., pp 17-23.
+
+Dushkin, P. K. "Prediction of Radiation and Radiation-Effective Pogo," No 9, pp
+50-57.
+
+Zakharova, 0. K. "Friction and Heat Exchange of Air With the Surface in the Pres-
+ence of Transport of Sand, Salt and Ice Particles,“ No 12, pp 36-b0.
+
+61
+
+F0!‘0FFKJA1.USE(HMLY
+UU"UII"JAI.0&I|M‘LI
+
+Zimin, B. I. "Correlationnetveen Electrification of mmderstorm Clouds and Pre-
+cipitation," No 8, pp 66-51.
+
+Zolo'tarev, V. N. and Uspensltiy, B. D. "Prediction of Surface Air Humidity," No 1,
+pp 23-28.
+
+Ivanov, V. P., Maslennikov, P. A., Sidorenko, V. I. and Filippov, V. 1.. "Features
+of Variations of Microstructure of Aerosols," No 5, pp 33-38.
+
+Imyanitov, I. M. "Structure and Conditions of Development of Thunderstorn Clouds,"
+No 3, pp 5-17.
+
+Nigel', L. Kh. and Depikash, Ye. R. "Motion of Particles on a Rotating Sphere,"
+No 1, pp 67-53.
+
+Kabanov, A. S. and Klykov, A. Ye. "Axisynetric Problem of Free Convection and
+Nmerical Experiaents Hith Dynamic Effect on a Cumulus Cloud," No 7, pp 46-53.
+
+Kagan, R. L. and Khlebnikova, Ye. 1. "Influence of Density of Network of Stations
+on Characteristics of Variability of Interpolated Values," No 5, pp 39-67.
+
+Kadyshnikov, V. M. and Ryazantseva, V. M. "Correlation Between Temporal and Spatial
+Intervals in Ntmerical Weather Forecasting," No 12, pp 16-26.
+
+Kadyshnikov, V. M. "Telescoped Scheme for Hydrodynamic Short-Range Heather Pore-
+casting," No 2, pp 18-27.
+
+Kashtanov, A. P. and Novikov, B. M. "Role of Hydrogen Peroxide ([1202) in Formation
+of Mesospheric Clouds," No 7, pp 105-107.
+
+Kenzhibayev, A. '1‘. and Petrichenko, I. A. "Improvement of Method for Predicting In-
+tensity and Quantity of Precipitation During Harm Period," No 3, pp 103-106.
+
+Kokin, G. A., Ryazanova, L. A. and Tulinov, G. 1'. "Influence of Solar Activity on
+the Temperature Regime of the Atmosphere in the Polar Region," No 6, pp 105-112.
+
+Kolpakov, A. V. and Kontush, s. M. "Features of Mass Exchange During the Collision
+of Water Droplets of Noncomarable Sizes," No 12, pp 56-60.
+
+Koprovs, L. 1., Utkin, Ye. F. and Bakhmatov, A. Ye. "Results of Checking of Methods
+for Determining Temperature of the Water Surface From the 'Meteor' Artificial
+Earth Satellite," No 7, pp 61-69.
+
+Krivolutskiy, A. A. "Discrimination of Traveling Haves Prom Experimental Data," No
+10, pp 102-106.
+
+Krichak, S. 0. "Nonadiabatic mdel of Atmosphere Using Full Equations for Predicting
+Meteorological Elements Over Europe," No 7, pp 18-26.
+
+Kuznetsov, V. V. and Pavlova, L. N. "Optical Properties of Clouds," No 10, pp 60-43.
+
+62
+
+FOR OFFICIAL In ONLY
+FOI:0I1HCJAI.lEﬂE(HNLY
+
+Kutsenko, 3. Ya. "Numerical Investigation of Frontogenesis With Allowance for
+Phase Transitions," No 9, pp 23-34.
+
+Ionilina, L. Ye. "Influence of Highlands in the Asiatic USSR on Glaze-Hoarfrost
+Deposits." No 8, pp 52-57.
+
+Lopatenko, S. V. and Kontush, S. M. "Charge Separation During Partial Coalescence
+of Droplets," No 11, pp 54-57.
+
+Makerov, N. A. "Prevailing Wind at Altitudes 80-100 kn at Different Longitudes
+During "inter and Spring 1976-1977," No 12, pp 41-45.
+
+Harten'yanov, V. I. "Evaluation of Statistical Interrelationship of Horizontal
+and Vertical Resolutions in Geopotential Field," No 11, pp 49-53.
+
+Martsinkevich, L. M. "Two-Channel SH? Radiometric Method for Determining Hind
+Velocity From a Satellite,” No 3, pp 59-67.
+
+Masagutov, T. P. "Computation of Vertical Turbulent Flows in Near-Water Layer of
+Atmosphere Over the Ocean in Tropical Latitudes," No 12, pp 61-68.
+
+Masterskikh, M. A. "Computation of Wind Velocity During Gusts in Narrow Zones of
+Cold Fronts," No 11. pp 93-94.
+
+Matveyev, Yu. L. and Soldatenko, S. A. "Model of Cloud Cover on Stationary Front,"
+No 2, pp 40-48.
+
+Makhon'ko, K. P. and Rabotnova, P. A. "Concentration of Mineral Dust in the Atmo-
+sphere Over the Territory of the USSR," No 1, pp 61-65.
+
+Milyutin, Ye. R. and Yaremenko, Yu. I. "Experimental Investigation of Correlation
+of Meteorological Range of Visibility and Altitude of the lover Cloud Boundary,"
+No 3, pp 32-38.
+
+Minina, L. 8., Petrosyants, M. A. and Portnyagin, Yu. I. "Seasonal Restructuring of
+Circulation in the Meteor Zone (80-100 km) and Their Relationship to Processes
+in the Stratosphere." No 9, pp 5-11.
+
+Mokhov, I. I. "Influence of CO; on the Thermal Regime of the Earth's Climatic Sys-
+tem," No 6. pp 24-34. .
+
+Musayelyan. Sh. A., Tavadyan, A. D. and Shteynbok, D. B-.’ ’Dynamic-Statistical Para-
+neterization of the Process of Thermal Effect of the Ocean on the Atmosphere,"
+No 10. pp 11-18.
+
+Muchnik, V. M. "Distribution of Precipitation Over the Territory of the Experimental
+Meteorological Polygon," No 10, pp 34-39.
+
+Nikitin, A. Ye. "Investigation of the Energy Cycle in a Model of General Circulation
+of the Atmosphere Developed at the USSR Hydrometeorological Center." No 8, pp 19-
+25.
+
+63
+
+FOI10l11CLAl.lﬂﬂl(lVLY
+rm WI‘IMIIII U“ Vl‘hl
+
+Nuriakhmetova, H. P. "Comparative Analysis of Methods for Computing Turbulent
+Flows of Heat and Moisture From the Ocean Into the Atmosphere," Ho 7, pp 70-76.
+
+Orlova, I. C. and Petisov, L. P. "Chlorated Hydrocarbons in the Hear-Hater Layer of
+the Atmosphere Over the North Atlantic," No 4, pp 60-64.
+
+Pavlova, L. N. "Visibility of Light signals in a Crystalline Fog," Ho 2, pp 108-109.
+
+Pataleyev, V. A. "Allowance for Heat Receipts From Solar Radiation on Sloping Sur-
+faces," Ho 9, pp 75-78.
+
+Petrosyants, M. A. "Weather Forecasting: Status and Immediate Tasks," Ho 6, pp 19-
+31.
+
+Pinus, H. 2. and Kapicanova, T. P. "Some Features of the Energetics of Cyclonic For-
+mations in the Temperate Latitudes," Ho 6, pp 5-16.
+
+Pokrovskiy, 0. M. and Kaygorodtsev, A. Ye. "Information Content of Global Systems
+for Observing Total Ozone Content," No 7, pp 36-45.
+
+Polkhov, A. P. "Prediction of the Hovaya Zemlya Born Using the Canonical Correla-
+tion Method," No 5, pp 59-64.
+
+Polkhov, A. P. and Terziyev, F. 8. "Prediction of Evaporation Pogs by the Quadratic
+Discriminant Analysis Method," No 9, pp 58-66.
+
+Romanova, N. A., Kool', L. V. and Romanov, Yu. A. "Structure of Atmospheric Pres-
+sure and Hind Hear the Equator in the Central Pacific Ocean," No 7, pp 102-105.
+
+Rossov, V. V. "Formation of a Stratiform Cloud Cover and Page on Hydrological
+Fronts," No 10, pp 110-112.
+
+Rubinshteyn, K. G. and Shilyayev, V. 3. "Method of Variational Assimilation of Ver-
+tical Climatic Fields of Temperature and Ceopotential," Ho 10, pp 26-33.
+
+Snitkovskiy, A. I. "Short-Range Forecasting of Precipitation," No 7, pp 5-17.
+
+Snitkovskiy, A. I. "Prediction of Air Temperature at Surface for 48 and 60 Hours,"
+No 12, pp 5-13.
+
+Tooming, Kh. G. "Correlation Between Mean Annual Albedo and Short-Have Radiation
+Balance Values With These Same Indices in Early Spring," Ho 5, pp 68-52.
+
+Fedulova, M. N., Borodina, A. V. and Shuvalov, A. V. "Use of Composite Analog in
+Physicostatistical Method for Forecasting Weather for 5-10 Days," No 1, pp 29-36.
+
+Khain, A. P. "Numerical Modeling of Passage of Tropical Cyclone Onto Land," Ho 9,
+pp 67-74.
+
+Khrgian, A. Kh. "Methods of Dendroclimatology in Studying History of Climate,"
+Ho 11, pp 18-29.
+
+66
+
+FINI¢IHWC1A1.USE(HVLY
+FOR OFFICIAL USE ONLY
+
+Chapurskiy, L. I. "Brightness Variations of Cloud Fields in Observations From Differ-
+ent Altitudcs." No 5. pp 53-58.
+
+Cholekh, I. V. "Investigation of Convergence of Scheme of Dry Convective Adaptation
+in Models of Macroscale Atmospheric Processes," No 10, pp 105-107.
+
+Sharifullin, N. K. and Romanov, L. N. "Moving Checking and Evaluation of Alterna-
+tive Models," No 3, pp 39-65.
+
+Shmerlin, B. Ya. "Investigation of Patterns of Movement of Mscroscale Eddies Rela-
+tive to a Purely Zonal Flow," No 7, pp 27-35.
+
+Yurov, A. G. "Distribution of Temperatures and Turbulent Near-Hall Currents With
+Allowance for Stratification of Air Flow," No 11, pp lob-68.
+
+Hydrology
+
+Alekseyev, c. A. "Joint Determination of Statistical Parameters, Lengthening and
+Modeling of Time Series and Reduction to Long-Term Period," No 5, pp 70-81.
+
+Anisimova, Ye. P., Ivlev, I. I. and Speranskaya, A. A. "Computation of Turbidity
+Profile in Flow With Transported Sediments," No 8, pp 92-96.
+
+Antonov, A. Ye. "Complex Prediction of Interannual Variability of Inflow of North
+Sea Haters Into Baltic According to Data From On-Shore Observations," No 3,
+pp 76-79.
+
+Bagrov, A. N. and Kozhevnikova, N. N. "Objective Analysis of Ocean Surface Temper-
+ature in Northern Hemisphere," No 12, pp 69-76.
+
+Bagrov, N. A. "Mean Slope of Drainage Basins," No 9, pp 111-114.
+
+Baryshnikov, N. B. and Subbotina, Ye. S. "Dependence of Slopes of Free Surface on
+Morphometric marscteristics of Channel and Floodplain," No 1, pp 82-88.
+
+Blatov, A. S. "Hydrological Structure and Energy Reserve of Eddies in the Main Black
+Sea Current," No 7, pp 86-93.
+
+Bogachev, A. 6., Volkova, G. 8.. Kvon, V. I. and Pilatova, '1'. N. "Numerical Model-
+ing of Hind-Induced Currents in Lakes," No 7, pp 94-101.
+
+Boyarinov, P. H. "Case of Upwelling in Southern Part of Lake Onega," No 1, pp 72-75.
+
+Buzuyev, A. Ya. and Fedyakov, V. Ye. "Variability of Ice Conditions on Ship Navi-
+gation Routes,“ No 2, pp 69-76.
+
+Byshev, V. I. and Snopl av, V. 6. "Influence of Cold Synoptic Ocean Eddies on Trajec-
+tory and Evolution of Tropical Cyclones," No 10, pp 53-57.
+
+Vladimirov, 0. A. "Lagging Effects in Ocean-Atmosphere System and Their Modeling,"
+No 4, pp 77-8‘.
+
+65
+
+FOR OFFICIAL USE ONLY
+I'UI ul'rayun. we Vina
+
+Gavrilyuk, R.V . "Possibility of Seasonal Prediction of Water Temperature in
+North Atlantic," No 4. pp 71-76.
+
+Ginsburg, A. I. "Methodological Problems in Measuring Temperature and Salinity in
+the Ocean Boundary Layer," No 4, pp 65-70.
+
+Grinval'd, D; I., Nikora, V. I. and Boyko, T. V. "Statistical Characteristics of
+the Ridged Relief of the River Bottom," No 8, pp 87-91.
+
+Crishin, N. I. "Mechanism of Detachment of Hard Particles From Bottom by a Tur-
+bulent Flow of Fluid," No 5, pp 82-91.
+
+Grishin, N. N. "Influence of Hard Particles on the Kinematics of the Fluid Flow
+Transporting Them," No 2, pp 86-91.
+
+Dmitriyev, P. A. and Pivovarov, S. V. "Distribution of Hydrocarbons in Freshly Pall-
+en Snow and in Ice at 'Severnyy Polyus-ZZ' Station (According to Observations of
+1977-1978)," No 5. pp 65-69.
+
+Yelshin, Yu. A. "Thermal Runoff of Rivers in the European Territory of the USSR,"
+No 9, pp 85-93.
+
+Zholudev, V. D. "Mechanisms of Formation of the Upper Quasihomogeneous Layer of the
+Ocean," No 11, pp 77-82.
+
+Zayakin, Yu. A. "Tsunami of 23 November 1969 on Kamchatka and Features of Its De-
+velopment," No 12, pp 77-83.
+
+Zotov, Yu. G., Nasterov, Yu. P. and Saks, S. Ye. "Spatial Variability of Current
+Fields in Shallow-Hater Zone of Shelf," No 9. pp 79-84.
+
+Inishev, N. C. "Use of a Stochastic Model of Travel Time for Computing High-Hater
+Hydrograph (In Example of Chulym Rivet)," No 9, pp 9h-100.
+
+Karaushev, A. V. and Heyerovich, L. N. "Model of Formation of Stationary Zone of
+Contamination in Water Bodies," No 1, pp 105-107.
+
+Karnovich. V. N. and Kuleshova, T. V. "Long-Range Prediction of Maximum Water Lev-
+els During Ice Jams on the Angara River at Kamenka,“ No 12, pp 105-107.
+
+Kogan, B. A. and Orlov, N. P. "New Ice Forecasting Methods for the Northwestern
+Atlantic," No 11, pp 71-76.
+
+Komlev, A. H. "Joint Evaluation of the Intraannual and Long-Term Probability of
+Exceeding Hean Daily Hater Discharges," No 11, pp 97-100.
+
+Kopylov, A. P. "Hean Level of Drainage Basin Slopes," No 9, pp 109-111.
+
+Kostsov, G. V. "Experimental Validation of Computations of Race of water Runoff
+Along the Plowed Surface of Slopes," No 3. pp 93-96.
+
+66
+
+INJI‘OFIWCJA1.USEIHNLY
+FOR OFFICIAL USE ONLY
+
+Liser, I. Ya. "Expressions for Predicting Maximum Ice Jam (Ice Run) Water Levels
+During the Opening-Up of Siberian Rivers," “0 11, pp 83-87.
+
+Makin, V. K. "Interaction of Swell Raves With a Head Wind," Nb ll, pp 95-97.
+
+Mamedov, M. A. "Spatial Correlation Functions of Maximum Hater Discharges of Moun-
+tain Rivers," No 12, pp 89-93.
+
+Moskvin, Yu. P. "Evaluation of Applicability of Different Methods for Determining
+Evaporation From a Hater Surface in the Zone of Bummocked Swamps," No 3, pp 112-
+115.
+
+Nezhikhovskiy, B. R. "Influence of Errors in Statistical Characteristics on the Ac-
+curacy of Optimum Interpolation," No 2, pp 77-85.
+
+Nesterov, Ye. 8. "One Mechanism for Formation of Macroscale Hater Temperature Anour
+alies in the Ocean," No 1, pp 66-71.
+
+Nikora, V. I. "River Flow as a Dissipative System," No 12, pp 84-88.
+
+Noskov, V. G. "Laboratory Investigations of the Influence of Structures for the Pro-
+tection of Leningrad Against Inundations on Water Level Rise in the Gulf of Pin-
+land," No 1, pp 76-81.
+
+Ponomarev, V. I. and Gazova, L. A. "Diagnostic Model of Circulation of Water and Ice
+in the Arctic Basin,“ No 3, pp 68-75.
+
+Raspopin, G. A. and Kovalev, Ye. A. "Computation of Dynamics of River Flows Under
+Nonstationary Conditions," No 10, pp 79-87.
+
+Rumyantaev, V. A. and Kondrat'yev, S. A. "Use of Radar Data in Hydrodynamic Model
+of Rainwater Runoff with Distributed Parameters," No 3, pp 86-92.
+
+Ryabinin, V. E. "Model of Circulation of a Baroclinic Ocean Under the Influence
+of Wind and the Heat Flow From the Atmosphere," No 8, pp 58-70.
+
+Sklyarenko, V. L. "Some Methodological Problems in Application of the Main Compon-
+ents Method in Investigations of River Runoff Fields," No 8, pp 71-77.
+
+Sokolov, A. A. "Principal Results and Prospects for Development of Research in the
+Field of Hydrology in Relation to the Problems of Shifting of Part of the Runoff
+of Northern Rivers to the South," No 6, pp 87-98.
+
+Terziyev, F. S and Goptarev, N. P. "Kara-Bogaa-Gol Gulf and the Caspian Sea Prob-
+lem," No 2, pp 62-68.
+
+Treshnikov, A. F. and Terziyev, F. 8. "Modern Problems of Research in the Field of
+Oceanography," No 6, pp 77-86.
+
+Trubkin, I. P. "On the Angular Spectrum of Wind Waves," No 10, pp 67-71.
+
+67
+
+FOI‘OFFKJAI.USI(MVLY
+rust WIILML UM UNA-I
+
+Fedorov, K. N. “Physical Structure of the Ocean Surface Layer," No 10, pp 58-66.
+
+Pilippov, Ye. M. "Status of Problem of Study of Element-Salt Composition of Sea
+Haters by the Nuclear Physics Method," No 3, pp 80-85.
+
+Pridrikh, G., Kochergin, V. P., Klimok, V. I., Protasov. A. V. and Sukhorukov. V. A.
+
+"Numerical Experiments Using a Model of Upper Layer of the Ocean." No 7, pp 77-
+85.
+
+Khristoforov, A. V. “Evaluation of Parameters of Distribution of Probabilities
+of River Runoff Values," No 8, pp 78-86.
+
+Shishkayev. s. M. and Yegorov. A. N. "Method for Computing the Thermal Conductivity
+Coefficient of Bottom Deposits of Large Shallow-Water Lakes (In Example of Lake
+Kubenskoye)," No lo, pp 85-92.
+
+Shmakov, V. M. "Supply of Solar Energy to Reservoirs in the Dnepr Cascade," No 10,
+Pp 72-78.
+
+Shtykov, V. I. "Determination of the Filtration Coefficients of Cohesive Bottom
+Haterials in a Frozen State Through Their Kinetic Specific Surface," No 3,
+pp 109-112.
+
+Agrometeorology
+
+Anisimov, 0. A. and Nenzhulin, G. V. "Modeling the Radiation Regime in the Plant
+Cover," No 10, pp 88-93.
+
+Garmaahov, V. N. and Selivanov, A. N. "Influence of Meteorological Factors on the
+Yield of Spring Barley," No 7, pp 107-110.
+
+Gringof, I. G. and Kel'chevskaya, L. s. "Direction of Investigations for Supplying
+the National Economy With Agroclimatic Information," No lo, pp 93-102.
+
+Gringof, I. G. and Khvalenskiy, Yu. A. "Principal Results of Agrometeorological
+Investigations in the Tenth Five-Year Plan and Prospects for Their Further De-
+
+velopment," No 6, pp 99-104.
+
+Ksendz, A. T., Savchuk, L. P. and Pokrishchenko, V. N. “Regulation of Phytoclimate
+as a Means for Validating the Components of Hatched Crops," No 8, pp 97-101.
+
+Lynov, Yu. 5. "Autumn Growing Season of Grassy Plants at Intermediate Elevations in
+Central Asia," No 12, pp 107-108.
+
+Hakhmudov, K. "Determination of Losses to Cotton Pros llailfalls at Different Stages
+in Its Development," No 3, pp 97-102.
+
+Mokiyevskiy, V. H. and Shalyavina, N. K. "Influence of Climatic Conditions on Vari-
+ability of Yields of Green Mass of Perennial Grasses in the RSPSR," No 12, pp
+910-101.
+
+68
+
+FOR OFFICIAL USE ONLY
+lNJI‘OFFICJAI.I£SIi(HVLY
+
+Muromtsev, N. A. "Influence of Temperature on Potential of Soil Moisture and Its
+Accessibility for Plants," No 5,_pp 92-98.
+
+Polevoy, A. N. "Dynamic-Statistical Methods for Predicting Yield of Agricultural
+Crops," No 2, pp 92-102.
+
+Pigareva, L. G. "Agrometeorological Conditions, Crop Yield and Quality of Spring
+"heat Grain," No 10, pp 96-101.
+
+Svisyuk, I. V. "Rate of Growth and Development of Winter Wheat During Winter Thaws,"
+No 11, pp 88-92.
+
+Eyyubov, A. D. and Ragimov, Kh. Sh. "Influence of Meteorological Conditions on the
+Quality of Pomegranate Fruits," No 1, pp 98-101.
+
+Global Atmospheric Research Program (CARP)
+
+Belousov, S. L. and Gofen, A. M. "Use of an Electronic Computer in Organizing an
+Archives of Data on Analyses of Meteorological Fields Obtained Under the F668
+Program," No 2. pp 103-107.
+
+Durkov, V. A., Zubin, A. 3., Titov, V. D. and Kharlemov, A. I. "Spatial-Temporal
+Variability of Current Discharges in PGGB Atlantic Equatorial Polygon," No 9,
+pp 101-108.
+
+Volkov, Yu. A., Yelagina, L. G. and Koprov, D. M. "Investigation of Heat Flows in
+the Near-Hater Layer of the Atmosphere Under the Atlantic Tropical Experiment
+Program," No 8, pp 102-109.
+
+Dobryshman, Ye. M. and Sitnikov. I. G. "Analysis of Wave Disturbances of a Synoptic
+Scale in TROPEX-72 and GATE," No 5, pp 99-108.
+
+Kondrat'yev, K. Ya. "Remote Sounding of the Atmosphere Prom Satellites in the F668
+Period," No 4, pp 103-111.
+
+Kondtat'yev, K. Ya. "Preliminary Results of Implementation of the F063," No 6, pp
+113-121.
+
+Peskov, B. Ye., Zhelnin. A. A. and Shupyatskiy, A. B. "Thermodynamic Conditions in
+Convective Cloud Cover and Precipitation at the Equator (According to MONEX
+Data)," No 4, pp 111-116.
+
+Debatable Questions
+
+Yurchak, B. S. "Optimum Measurement of Radar Parameters of Meteorological Features,"
+No 4, pp 117-121.
+
+Instruments, Observations. Processing
+
+69
+
+FOI‘OFIﬂClAl.lEﬂE(MVLY
+I'm ("III-MI. USE URL!
+
+BagautdinOV, A. A., Krysov, V. P., Pakhomova, T. M. and Pushistov, P. Yu. "Some
+Applications of the 'Heatherman-Electronic Computer' Dialogue System in 0p-
+erational Processing of Data and Numerical Heather Forecasting," No 8. pp 110-
+116.
+
+Bovsheverov, V. M., Kallistratova, M. A., Knyazev, L. V., Gorelik, A. G. and
+Yegorov, M. Yu. "Radio Apparatus of a System for Thermal Sounding of the At-
+mosphere by the Backseattering Method," No 3, pp 120-123.
+
+Gavrilov, A. A. "Information Yield of Meteor Radar Stations Used in Measuring the
+Wind in the Upper Atmosphere," No 5. pp 109-114.
+
+Yelanskiy. N. F.. Truttae, Yu. L. and Matveyeva, 0. A. "Experimental Investigations
+of UV Radiation in the Lower Atmosphere," No 7, pp 111-116.
+
+Kofman, R. I. and Monakhov, A. V. "Application of Computer Graphics for Visual Rep-
+resentation of Archives of Meteorological Data," No 5, pp 117-119.
+
+Koshel'kov, Yu. P. "Matching of Temperature Values in Mesosphere Measured by Dif-
+ferent Rocket Sounding Systems," No 3. pp 116-120.
+
+Masagutov, T. F. "Computation of Air Humidity Over Sea Prom Air and Water Tempera-
+ture," No 5, pp 114-117.
+
+Rudenko, S. L. and Solomakhov, A. Yu. "Automatic Generation of Programs for the De-
+coding of Meteorological Summaries," No 1, pp 113-116.
+
+Toktomyshev, S. 2h. and Tolbayev, L. K. "Measurement of Ozone Concentration in the
+Troposphere," No 2, pp 110-112.
+
+Trubkin, I. P. "Measurement of Parameters of Have-Covered Surface Prom Shipboard,"
+No 12, pp 109-113.
+
+Usol'tsev, V. A. "Model Means for Measuring Air Humidity at Negative Temperatures,"
+No 1, pp 108-113.
+
+Shenderovich, I. M. and Kleban, L. 8. "Remote Recording Unit for Float Water Level
+Recorder," No 12, pp 113-115.
+
+Reviews and Consultations
+Berestovskiy, I. P. and Viktorov, S. V. "Role of Promising Space Systems in Imple-
+
+menting Oceanographic Section of the world Climate Research Program,“ No 10,
+pp 113-119.
+
+Drofa, A. S. and Katsev, I. L. "Some Problems in Visibility Through Clouds and
+Pegs," Mo 11, pp 101-109.
+
+Kolokolov, V. P. "Activity of the World Data Center on Atmospheric Electricity,"
+No 2, pp 119-120.
+
+70
+
+FOR OIIICJA1.1EIE(NVLY
+FOIIOFIICLALIINECMNLY
+
+Musayelyan, Sh. A. "Work of an Unofficial Conference of HMO Experts on Long-Range
+Weather Forecasting," No 9, pp 115-118.
+
+Exchange of Work Experience
+
+Voyevodin, V. A. and Nurzin, A. I. "Experience in Scientific-Operational Hydro-
+meteorological and Ice Support of Winter Voyages in the Arctic," No 8, pp 115-117.
+
+skripnik, N. P. "Experience in Using a Couple: System for Quality Control of work
+at Aerometeorological Stations of the Ukrainian Administration of Hydrometeor-
+ology and Environmental Monitoring," No 1, pp 117-119.
+
+Snitkovskiy, A. I. and Chistyakov, A. D. "Meteorological Support of the USSR Hydro-
+neteorological Center for the XXII Olympic Games in Moscow," No 2, pp 113-118.
+
+From the History of Science
+
+Brodskiy, A. V. "Piftieth Anniversary of the Main Aeroneteorological Center," No
+2, pp 121-124.
+
+Krichak, S. 0. and Pinus, N. 2. "Experimental and Synoptic Investigations of the
+Atmosphere in the Hork of 0. G. Krichak (Seventieth Anniversary of His Birth),"
+No 11, pp 110-113.
+
+Rakhnanov, V. V. "Meteorological Activity of I. N. Ul'yanov (One Hundred Piftieth
+Anniversary of His Dirth)," No 7, pp 117-118.
+
+Tolstobrov, B. "Piftieth Anniversary of the Leningrad Hydrometeorological Insti-
+tute," No 3, pp 126-127.
+
+Criticism and Bibliography
+
+Alekseyev, G. A. RASCHETY STOKA REX I VREHENNYKB VODOTOKOV (Computations of Runoff
+of Rivers and Interim Watercourses), Izd-vo Voronezhskogo Universiteta, 1979,
+
+200 pages, No 1, pp 120-121.
+
+Baryshnikov, N. B. RBCHNAYA CIDROMETRIYA I UCHBT VODNYKH RESURSOV (Fluvial Hydro-
+metry and Determination of Water Resources), by I. F. Karasev, Leningrad,
+Gidrometsoizdat, 1980, No 6, p 122.
+
+Boykova, 0. V. LED. PIZICHESKIYE SVOYSTVA. SOVREHENNYYE HETODY GLYATSIOLOGII
+(Ice. Physical Properties. Modern Methods in Glaciology), by V. V. Dogorodskiy,
+Leningrad, Gidroneteoizdat, 1980, 386 pages, No 5, p 120.
+
+Vendrov, S. L. KOHPLEKSNYYE ISSLEDOVANIYA VODOKHRANILISHCH, VYP III. 'MOZHAYSKOYE
+VODOKHRANILISHCHB (Hultisided Investigations of Reservoirs, No III. 'Hozhaysk-
+
+oye Reservoir), edited by V. D. Bykov and K. K. Bdel'shteyn, Moscow, Izd-vo
+M00, 1979, 399 pages, No 1, pp 121-122.
+
+71
+
+FOI‘OFFKJAI.USE(NNLY
+run UPI-aunt. woe. vnus
+
+Dibobes, I. K. and Hazarov, I. H. EKOLOCIYA I KONTRDL' SOSTOYANIYA PRIRDDNOY 3830!
+(Ecology and Monitoring State of the Environment), by Yu. A. Israel', Leningrad.
+Cidrometeoizdat, 1979, No a. pp 122-123.
+
+Karol', I. L. and Frol'kis, V. A. FIZIKA AIHDSPBRY I PROBLSHA KLIHAIA (Physics of
+the Atmosphere and the Climate Problem), collection of articles edited by G. S.
+
+Golitsyn, corresponding member USSR Academy of Sciences, and A. H. Yaglom,
+professor, Moscow, Nauka, 1980, No 7, pp 119-120.
+
+Nikolayev, A. C. ATHOSPERA ZEHLI S 'SALYUTA-6' (Earth's Atmosphere From the 'Sal-
+yut-6'), by A. I. Lazarev, V. V. Kovalenok, A. S. Ivanchenkov and S. V. Avskyan,
+Leningrad, Gidrometeoizdat, 1981, No 11, pp 114-115.
+
+Sirotenko, 0. D. AGROPIZICHESKIYE, AGROHETBOROLOGICHESKIYE I AGROTBKHNICHESKIYB
+osm Pnocnmnaovmru UROZHAYA (Asrophyucal, Agrometeorological and Agro-
+
+engineering Principles of Yield Programming), by I. S. Shatslov and A. P. Chad-
+novskiy, Leningrad, Gidrometeoizdat, 1980, No 10, pp 120-121.
+
+Tolatikhin. N. I. and Tolstikhin, 0. N. KAIALOG NALEDEY ZONY BAH. VYPUSK I. NALBDI
+VERKHNEY CHASTI BASSEYNA R. CHAR! (Catalogue of Ice Encrustations in the-Zone
+of the Baykal-Amur Railroad Line. Issue I. Ice Bncrustations of Upper Part of
+Chara River Basin), Leningrad, Gidrometeoizdat, 1980, No 8, pp 118-119.
+
+Purman, H. Sh. POLEVYYE ISSLEDOVANIYA NALEDEY (Field Investigations of Ice En-
+crustations), by V. R. Alekseyev and B. L. Sokolov, Leningrad, Gidrometeoizdat,
+1980, No 3, pp 126-125.
+
+Kharchenko, S. I. and Tsytsenko, K. V. ANTRDPOGENNYYE IZMENENIYA VODNOSTI REX
+(Anthropogenic Changes in Liquid Water Content of Rivers), by I. A. Shiklomanov,
+Leningrad, Cidrometeoizdat, 1979, 300 pages, No 2, pp 125-126.
+
+Letters to Editors
+
+Gidrometeoizdat. "Letter to Editor," No 9, p 128.
+
+Personalities
+
+"c. A. Alekseyev (70th Anniversary of His Birth)," No 4, p 12‘.
+"V. A. Belinskiy (75th Anniversary of His Birth), No 1, p 124.
+
+"N. L. Byzova (60th Anniversary of Her Birth)," No 6, p 123.
+"S. S. Cnygerov (70th Anniversary of His Birth)," No 10, pp 123-124.
+"I. A. Gol'tsberg (75th Anniversary of His Birth)," No 7, p 121.
+
+"C. V. Gruzs (50th Anniversary of Her Birth)," No 8, p 120.
+
+"I. G. Guterman (70th Anniversary of His Birth)," No 2, pp 127—128; "I. C. Outer-
+man (1911-1951)," No 5, pp 127-128.
+
+72
+
+IIIICIHHCIA1.LEIECHWLY
+FOI(ﬂﬂWCDULlEEUONLY
+
+"F. P. Davitaya (1911-1979)," No 11, pp 127-128.
+
+"P. K. Yevseyev (1911-1966)," No 9, pp 127-128.
+
+"Ye. S. Korotkevich: Auard of Title of Hero of Socialist Labor," No S, p 121.
+"n. s. Kulik (1907-1980)," No 3, p 128.
+
+“N. G. Leonov (60th Anniversary of His Birth)," No 10, pp 126-125.
+
+"P. S. Lineykin (1910-1981)," No 8, pp 126-127.
+
+"A. S. Honin (60th Anniversary of His Birth)," No 10, pp 122-123.
+
+"T. V. Pokrovskaya (1900-1981)," No 10, p 128.
+
+"B. G. Rozhdestvenskiy (70th Anniversary.of His Birth)," No 11, p 116.
+
+"Ye. S. Rubinshteyn (90th Anniversary of His Birth)." No 1, p 123; ”Ye. S. Rubin-
+shteyn (1891-1981)." No 11, pp 126-127.
+
+"C. G. Svanidze (60th Anniversary of His Birth)," No 9, pp 119-120.
+
+"Ye. S. Selezneva (75th Anniversary of Bis Birth),".No S, p 121.
+
+"List of workers of the State Committee on Hydrometeorology and Environmental Hon-
+itoring Granted Awards for Active Participation in the Organization and Imple-
+mentation of Soviet Antarctic Expeditions and Major Scientific Contributions
+to Study of Antarctica," No 7, pp 121-124.
+
+"List of Hbrkers of the State Committee on Hydrometeorology Granted Awards for In-
+plementing the Tasks of the Tenth Five-Year Plan and Successes Attained in the
+Hydrometeorological Support of the National Economy," No 9, pp 121—126.
+
+"A. Yo. Cherunkov (60th Anniversary of His Birth)," “0 9, pp 120-121.
+
+"C. I. Shauov (1891-1956)," No 8, pp 127-128.
+
+"N. S. Shishkin (1912-1981)," No 7, p 128.
+
+"Yu. H. Shokal'skiy (1856-1940)," No 12, pp 120-121.
+
+COPYRIGHT: "Heteorologiya i gidrologiya", 1981
+
+5303
+050: 1864/6 — END -
+
+73
+FOI:0FIICIAI.lEI!(ﬂULY

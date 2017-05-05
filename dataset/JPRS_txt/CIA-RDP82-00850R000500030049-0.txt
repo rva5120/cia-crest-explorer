@@ -1,0 +1,602 @@
+l-‘OR ()Fl-‘lflr'ﬁ. 158}: ONLY
+
+JPRS L/10340
+19 February 1982
+
+Worldwide Report
+
+TELECOMMUNICATIONS POLICY,
+RESEARCH AND DEVELOPMENT
+
+(FOUO 3/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcrihed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.3. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/I
+
+1 9 Pebn
+
+WORLDWIDE REPORT
+TELECOMMUNICATIONS POLICY, RESEARCH AND DEVELOPMENT
+(POUO 3/82)
+
+CONTENTS
+
+UORLWI DE AFFAIRS
+
+Pan-European Satellite Broadcasting Planned
+(Kenneth Golsing; 111E TIMES, 18 Jan 82).
+
+USSR
+
+Automatic lbnitoring of SVPc-ZPG Equipment
+(I. G. Gasin, et a1.; VBSTNIK SWAZI, Aug 81)..............
+
+Briefs
+Large-Scale Integrated Circuits
+
+WEST EUROPE
+
+NATIONAL AFFAIRS
+Briefs
+. French Help Australians Hith Satellite
+
+British Participate in German Satellite
+French-German Satellite Delayed
+
+-a-- un-ww-uo
+
+L'ﬂﬂ Am" a I IIGI.‘ I‘M. ‘1
+FOR OFFICIAL USE ONI.\
+
+HORLDHIDE AFFAIRS
+
+PAN-EUROPEAN SATELLITE BROADCASTING PLANNED
+PHl8l607 London THE TIMES in English 18 Jan 82 p 3
+[Kenneth Golsing report: "European Satellite TV Trial To Start in Spring")
+
+[Text] The first Pan-European experiment to prepare for direct broadcasting by
+satellite is likely to begin this Spring, when Britain, Austria, West Germany and
+Italy. will in turn present a week's programmes, the best of their cutout, on
+closed-circuit television.
+
+An assessment of the experiment will follow; but experts believe that there is an
+extremely strong chance of success. Hany difficulties have to be solved but a
+full service could be possible by the end of the decade.
+
+Representatives of the four countries will meet in Geneva on Thursday and Friday
+to make arrangements. The first week of the experiment will probably be in the
+Spring, the second in the Summer and the others in the Autumn and Winter.
+
+Five other countries are interested in providing programmes for the service:
+Holland, the Irish Republic, Portugal, Switzerland and Belgium (Flemish). Those
+interested in receiving the service are Malta, Tunisia, Spain, Algeria and Belgium
+(French).
+
+The first of many conferences on broadcasting by satellite was held in Dublin 5
+years ago. In 1980 European Broadcasting Union representatives met in Venice to
+discuss an offer from the European Space Agency of free use for television experi-
+ments of the two broadcasting channels planned for their L-SAT (large satellite)
+
+project.
+
+The meeting resulted in the formation of a group of experts from the broadcasting
+organizations of Britain (Independent Broadcasting Authority/Independent Television
+Companies Association), France (TF1), Germany (ARD), Italy, Austria, Holland, Por-
+tugal and Sweden.
+
+The L—SAT project is planned to begin in 1986. The British Government has announced
+that it will subscribe one-third of the cost (77m pounds); the other big partner
+is Italy, also one-third, and participants include Canada, Holland, Switzerland,
+
+Austria, Belgium. Spain and Denmark.
+
+This year's experiment will attempt to come to terms with such difficulties as copy-
+right, and the provision of a multi-sound signal allowing viewers in different
+
+countrks to tune to their own language.
+
+cso: 5500/2102 1
+son omcw. us: ONLY
+I'UK WHLIAL USE ONLY
+
+USSR
+
+AUTOMATIC MONITORING OF SVVG-ZPG EQUIPMENT
+Moscow VBSTNIK SVYAZI in Russian No 8, Aug 81 pp 29-32
+[Article by I. G. Gasin, c. B. zlotnik. and S. P. Ivanitskiy, engineers of TTsUHs-7]
+
+[Text] The progressive method of operating repeater stations (U?) with maintenance
+by an emergency call which is being introduced widely in the network provides for
+automatic monitoring of the equipment of repeater stations and line channels and
+transmission of a fault signal when they are damaged to the residence of a techni-
+cian (or, if necessary, to other services). The article "How Repeater Stations Are
+Serviced 'by Call'" ("Vestnik avyazi", 1976, No 11) examines the designs of circuits
+for monitoring line channels of transmission systems via balanced and coaxial cables
+and the delivery of a "Fault" signal when the line channel is damaged in the section
+
+served by the repeater station.
+
+However, besides the line channel equipment, many UP also have group equipment whose
+work must also be monitored. The Territorial Monitoring Center of Intercity Tele-
+phone Communications and Television No 7 (TTsUHS-7) developed and introduced a de-
+vice which makes it possible to monitor the SVPG-ZPG separation equipment used wide-
+ly in the network.
+
+The SVPG-ZPG bay separates two primary groups from the spectrum of the line channel
+of the transmission system K-60: instead of the two groups separated in the trans-
+mission, two other primary groups are introduced in the same spectrum. The sepa-
+rated four groups (two of one direction and two of the other) are monitored by al-
+ternate connection to the pilot channel receiver PKK of 84.14 kHz with the aid of
+the scanning circuit of the equipment; however, the groups introduced to transmis-
+sion are not monitored. The device developed by TTsUHS-7 automatically monitors the
+primary groups introduced into the trmsnission; if there is a fault, it determines
+the section of the damage (in a monitored or in a nonmonitored equipment) and forms
+“Damage" signal when there is a fault in the monitored equipment. This makes it pos-
+sible, firstly, to monitor the entire equipment of the SVPG-ZPG bay, including its
+transmitting part and, secondly, to prevent unjustified calls to the technical pre-
+sonnel when another (transmitting) UP is damaged.
+
+For monitoring the condition of the transmitting part of the SVPC-ZPG equipment,
+group KCh are isolated from the line channel on transmission. when their level de-
+viates beyond the triggering limits of the "emergency" relay, a signal about the
+malfunctioning of the transmitting part of the equipment of the given UP forms in
+
+IND! OIIWCIAI.lEﬂE(HVLY
+FOR OFFICIAL USE ONLY
+
+the PKK (12.61 dB) (it is understood here and hereafter that the groups introduced
+into transmission are formed at the given station, and are not transitory). Then,
+in order to determine whether or not the receiving part of the separation equipment
+is in good order, the KCh level of this group in the line channel is monitored. If
+this level is normal, it can be said that the monitored equipment is damaged; if the
+deviation from the norm at this point exceeds 2.61 dB, then the damage is beyond the
+limits of that UP.
+
+Thus, instead of four monitoring points provided for by the SVPG-ZPG equipment, 12
+points are monitored (additionally, four points in the line channel in reception and
+four in transmission).
+
+All points are monitored in succession by the PKK 84.14 which is located in the
+SVPG-ZPG equipment (Figure l). The interrogation cycle begins with the position in
+which the scanning circuit is set by pressing the button "Start" in the PU [control
+panel] of the ARU [automatic level control]. The PKK 84.14 monitors the first group
+being separated and delivers one of the three signals: "Normal”, "Emergency", or
+"Adjustment". If the Kch level is normal in the group, when the cadence pulse ar-
+rives, PKK is switched to contrvl of the same group on transmission in the line chan-
+nel. If the "Adjustment" signal arrives, scanning stops and the amplification of
+the PPR of the PC of the group is changed in the direction of the normal level of
+KCh. When the norm is reached (or when a pulse arrives from the time relay RV), PKK
+switches to monitoring this group on transmission in the line channel.
+
+It PKK delivers the signal "Emergency", the device interrogates the memory cell
+
+which stored information on whether or not the Kch level of the given primary group
+in the spectrum of the line channel is normal. At the time of the initial connec-
+tion, there is no such information in the memory cell (state "0"), and PKK is switch-
+ed to monitoring the KCh level of the damaged group in the line channel. If the
+
+KCh level is not within normal limits at that point too. the scanning continues and
+the receiver is connected for monitoring the same group on transmission -- the dam-
+age is not in the monitored equipment. If there is no emergency signal from PKK
+during the interrogation of the damaged group in the line channel (this corresponds
+to a damage in the monitored equipment), the memory cell is switched to the state
+
+"1" and PKK is connected again to the damaged group. At that time (as a result of
+"1" state of the memory cell), the scanning stops; the pointer indicator of PKK
+
+shows the Kch level of the damaged group; a signal is switched on which can be trans-
+mitted to the residence of the maintenance personnel and to other services.
+
+When the group is monitored on transmission, and when there is no "Emergency" sig-
+nal from PKK, the scanning continues, PKK is connected for monitoring the second
+isolated group. However, if the KCh level in the group on transmission is not with~
+in normal limits and PKK delivered an "Emergency" signal, then the scanning stops
+and the emergency signaling is switched on: a damage in the transmitting part of
+
+the monitored equipment; at that time, the pointer indicator of PKK shows the group
+KCh level of the damaged group. The monitoring of the three remaining groups is
+done in the same way.
+
+The four separated Pc are connected to PKK with the aid of diode relays HP -1 --
+
+HP -4 contained in the SVPG-ZPG equipment which are controlled from the automatic
+control unit (Figure 2). The primary groups monitored in the line channel are
+
+FOIiHNﬂClALI£NE¢MNLY
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000500030049-0
+
+FOR OFFICIAL USE ONLY
+
+‘ ﬂmulun-pmlmm no 2pm.: (1)
+
+”lulu "om ,ayra'
+mm It nu
+pa rum". (3)
+
+     
+
+Key
+
+   
+   
+  
+
+ 
+  
+  
+    
+
+luau”
+“killing.
+tpynru I
+
+A no hm
+Mme: I _
+trawl £57.?!
+
+[HI-(Ivan
+
+       
+   
+  
+
+  
+
+Mank- : I non-pun-
+I’luﬂ’l lair-cc.
+gun-rut
+man nun:
+
+   
+
+l6)Muilllll A: I
+ll'lll'alz -
+my m, u:
+
+        
+  
+
+   
+
+"mun I up!!! n Radar.
+Bummer ma unuw
+
+    
+
+(17)
+
+All," (I‘)
+
+   
+   
+   
+
+   
+
+- (4) u .mwlzn 18 .
+#75551: «a: #4735. )l
+
+fut-um“: n: In:
+
+19) Juan.” Imynu
+u an":
+
+Figure 1. Algorithm of Automatic Monitoring of SVPG-
+2P6
+13. Monitoring of damaged group in the line channel
+16. Emergency in group I. Indication of group I. Sca
+delivered to residence
+
+15. Damage in monitored equipment. Memory cell switch
+16. Damage is not in the monitored equipment
+
+17. Monitoring of group I on transmission. Memory cal
+18. Emergency in group I on transmission. Scanning at
+
+residence
+19. Monitoring of group II on reception
+
+4
+FOI‘OFFKJAI.USE¢NULY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00860R000500030049-0
+connected to PKK with the aid of diode relays HP -5 and ‘EP -6. Since group IV.
+in the line channel is in the spectrum of 60-108 kHz (group Kch 84.14 kHz), it is
+not required to convert it for monitoring PKK 84.10, and it is only amplified in the
+unit YC 60-108. Group v in the line channel is in the spectrum of 12-60 kHz (erup
+KCh 35.86 kHz), therefore, for monitoring its PKK 8é.14, group V is subjected to
+conversion with the aid of a carrier frequency Of 120 kHz. having first passed the
+FNCh [low-pass filter] A -60 which filters signals of other groups. The filtra-
+tion, conversion and amplification are performed in the standard ﬂﬂp UI‘- 5
+unit.
+
+(1)140- 5'”-
+
+  
+
+Pigure 2. Diagram of Connections of PKK 86.14 kHz to Primary
+GrOups and Line Channels
+
+Key: 1. Line channels 4. Separated primary groups
+2. Transmission 5. Group
+3. Reception 6, kHz
+7. PKK
+
+Diode relays ﬂP-6 and AP -6 pass signals only during the interrogation of the
+line channels and work alternately: AP-S switches on during the interrogation of
+group IV. and nP-o during the interrOgation of group V.
+
+Connection to the line channels on a transmission is acc0mplished through line
+diode relays ﬂP-7, ﬂ? -8 and high-resistance resistors Rl-Rh. Relay HP -7
+is switched on during the monitoring of the groupaii the direction 8 -A; relay
+
+n? -8 -- during the monitoring of the group of the direction A - 8. Since
+the monitoring of the group KCh in the line channel on reception is done rarely. in
+order to increase the cross talk attenuationfnﬂltransmissionto reception,connection
+to the line channel on reception is done with the aid of electromagnetic relays of
+the RES-9 type and high-resistance resistors RS-Rs. Relay P2 is switched on when
+it is necessary to monitor the groups of the Ac E direction; relay P3 -- B -A
+direction. Resistors R9 and R10 serve for matching the output resistances of the
+diode relays 11P-7 and ZIP -8 with the input resistances of units YC 60-108 and
+“Up HP ‘5.
+
+5
+
+FOR OiIUCJAl.USE¢NNLY
+I‘M Ul'fll Ill. UM. UNI.‘
+
+The number of monitored points is increased by using an additional shift register
+consisting of three R-S triggers (Figure 3). The additional shift register together
+with the main shift register consisting of four triggers which are in the scanning
+circuit of SVPG-ZPG make it possible to obtain 12 states of the registers which cor-
+respond to 12 required points of monitoring.
+
+ 
+
+Figure 3. Circuit Diagram of Shift Registers
+Key: 1. Multivibrator
+2. Contacts 21-22 of relay Pl...Pa
+of PU ARU
+3. Additional shift register
+a. Main shift register
+5. Biased multivihrator
+
+The outputs of the triggers, through the logic circuits (not shown in Figure 3),
+control the switching of the diode relays 11? 1-111" 8. In each of the registers,
+one trigger is always in the "1" position, and the remaining are in the "Zero" po-
+sition. For example, when the “Start" button is pressed, triggers T'll and T's 2
+are set to the "1" position. In the mode of normal functioning, i.e., when there
+is no "Emergency" signal from PKK, Tr‘2 is bypassed by the contacts of relay Pl.
+Moreover, there is an auxiliary trigger T¢v0 with a counting input (upper left in
+Figure 3).
+
+The monitoring of the groups in the mode of normal functioning progesses in the
+following manner. The auxiliary trigger Taro passes each second pulse from the
+plate of the multivibrator in the PU ARU unit to the input of the additional shift
+register. With each positive pulse passing to the input of the register, its trig-
+
+gers Tdrl and T 4‘3 change their states, the states of these triggers being oppo-
+site to one another.
+
+If T'Ll is in the "I" state. then one of the separated groups is monitored; if To 3
+is in the "I" state, then one of the groups on transmission is monitored. When T-u3
+changes from the "1" state to the "0" state, the differentiated positive pulse from
+its output goes to the input of the main shift register in the PU ARU unit, at which
+time the next trigger of the main register changes to the "1" state.
+
+6
+
+FOI'OFFKJAI.USE(NULY
+FOR OFFICIAL USE ONLY
+
+Depending on which of the triggers of the main register is in the "1" state, one of
+the four separated (introduced) groups is switched to PKK.
+
+When there is a failure in a separated grOup, signals from PKK are delivered and at
+that time the relay P1 is switched on, shunting with its contacts the contacts of
+the group relays in PU ARU and restoring the passage circuit of cadence pulses.
+Other contacts of Pl switch the output of T’tl to the input of T’tz. preparing its
+switching to the "1" state, which corresponds to the monitoring of the damaged group
+on reception in the line channel. At that time one of the line relays P2 or P3 is
+switched on.
+
+During the switching of one control group to another, it is possible that the con-
+tacts of the relay "Emergency" in PR! touch each other instantaneously, which could
+lead to errors in the evaluation of the state of the channels. Therefore, the re-
+ception of information about the state of the channels is done in the second half
+
+of the time unit when the "Emergency" relay of PR! has already assumed the establish-
+ed position. For this, with the aid of trigger T'LO, each time unit (the time be-
+tween two consecutive pulses at the input of the additional register) is divided
+into two half cycles and interrogation of the "Emergency“ relay of YKK is done dur-
+ing the second half cycle, when T1—0 is in the "1" state.
+
+The location of the damaged section is determined during the monitoring of damaged
+group in the spectrum of the line channel. If no damage signal is received in this
+case from PKK, then it is taken as a damage of the monitored equipment, the memory
+cell switches to the "l" state, the biased multivibrator generates a single positive
+pulse which sets the additional shift register to the initial position, and PKK re-
+turns to monitoring the separated damaged group. A damage signal arrives again from
+PKK, however, since the memory cell is now in the "1" state, the logic device pro-
+duces a signal about a damage in the monitored equipment; at the same time, relay
+
+P1 in the automatic control unit switches offzthe cadence pulse circuit breaks, and
+scanning stops. When the damage is corrected, the group relay in the PU ARU unit
+
+is switched off, the cadence pulse circuit is restored and scanning of the monitored
+points starts again. If during the monitoring of the damaged grOup there is a dam-
+age signal from PKX in the spectrum of the line channel (damage is not in the moni-
+tored equipment), then, with the arrival of the next cadence pulse, trigger Tlr3 of
+the additional register is set into the "1" position, which corresponds to the mon-
+itoring of the damaged group on transmission; the contents of the memory cell are
+erased.
+
+if a damage signal arrives from PKK during the monitoring of a grOup on transmis-
+sion, then, firstly, there forms a signal about a damage of the group in the trans~
+mitting part of the monitored equipment and, secondly, relay P6 switches on whose
+contacts break the cadence pulse circuit and stop scanning. At a normal group KCh
+level in the line channel on transmission, the arrival of the next cadence pulse
+returns the additional register to the initial state, and the shift register T1.II
+in the main shift register assumes the "1" state, which corresponds to the monitor-
+ing of the second group on reception. The algorithms of the monitoring of all four
+separated groups is analogous. ignaling about damages of a group are performed
+with the aid of a special relay whose contacts deliver "ground" into the signaling
+circuit.
+
+FINI<IFFICIAL.U§HE(H§LY
+FOR OFFICIAL USE ONLY
+
+The device is designed in the form of three blocksarranged in free areas of the
+SVPG-ZPG bay, an automatic control unit, and two standard units YC 60-108 and ﬂﬁp
+nt‘-5. The circuit of the automatic control unit is arranged on three plates; it
+has four plates of the diode relays [1? 5-11? 8.
+
+An automatic control unit was installed and has been operating steadily at one of
+the repeater stations maintained "on call". There were instances of damages in the
+transmitting part of the monitored equipment which were determined by the device
+described here and were effectively corrected.
+
+The same principle can be used to organize monitoring of other equipment of repeater
+stations. for example, the bay for separating secondary groups SWG and the group
+conversion hay SGP.
+
+COPYRIGHT: Izdatel'stvo "Radio i svyas'", 1981
+
+10,233
+cso: 5500/1009
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR
+
+LARGE-SCALE INTEGRATED CIRCUITS -- Microelectronics and optical electronics pro-
+
+ducts of high level of integration which ensure high technical and economic indexes
+are used widely in the latest comunications equipment, particularly in the equip-
+ment for local networks. Specialized large-scale integrated circuits (BIS) are be-
+
+the USSR Ministry of Comunicstions, mus presented a report on "Specialised BIS as
+the Basis of the Development of Digital Communication Syetems" which dealt with the
+
+subscribers' digital optoelectronic data transmission systems and showed that the
+majority of BIS for these systems can be produced on the basis of the series-produc-
+
+"Radio 1 avyaz'", I98l7 10,233
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+INTERNATIONAL AFFAIRS
+
+BRIEFS
+
+FRENCH HELP AUSTRALIANS WITH SATELLITE--The French company Hatra has just signed
+with the Australian National University a protocol of agreement providing for the
+transfer of technology for carrying out the "Starlab" project, in the eventuality
+of selection of the French firm and its associate British Aerospace for construc-
+tion of the future AUSSAT Australian telecosuunications satellites. Starlab is a
+joint project among Australia, the United States and Canada for building a large
+space telescope to be put into orbit by the American Space Shuttle in 1989. Aus-
+tralia is participating in this project with the supplying of a considerable part
+of the future telescope's instrumentation--in partiCular, s photon-counter system.
+The Australian participation in the Starlab project is reported to total about
+
+SA 2’4 million. Prof Don Mathewson, director of the Mt Stromlo-Siding Springs ob-
+servatory, is responsible for Starlab's Australian instrumentation. The signing of
+the agreement between Hatra and the Australian university follows the information
+visits by Hatra engineers to Australia and by representatives of the Mt Stromlo ob-
+servatory to Hatra in recent months. This compensation agreement places the com-
+pany Satcom International, in which Matra and British Aerospace are associated, in
+a good position in relation to its competitors in the AUSSAT project. The Austra-
+lian government desires to obtain from the future contractors about one-feurth of
+the amount of the AUSSAT program contract in the form of space-technology transfer.
+This would be a means for Australia to train its industry in space techniques, with
+a View to future projects. [Text] [Paris AIR ET COSMOS in French 12 Dec Bl p 43]
+
+H267
+
+BRITISH PARTICIPATE IN GERMAN SATELLITE--Great Britain has decided to collaborate
+in the PRC project for the ROSAT scientific satellite, which is to be launched at
+the beginning of l987 for study of X-rays. The British Science and Engineering Re—
+search Council (SERC) will participate to the extent of 5 percent, or 8.75 million
+pounds, in this project that totals nearly Fr 2 billion! The SERC will furnish an
+0.5-m telescope making it possible to detect X-rays of longer wavelength and over a
+wider field than the satellite's British 0.8-1: satellite. ROSAT will seek in par-
+ticular X-ray sources 100 times weaker than those discovered to date, notably by
+the American READ, the British Ariel 6, and the Japanes Hskucho satellites. It is
+thought that it should thus discover 100,000 new X-ray sources, of which it will
+study :everal thousand in detail. The specialists are expecting a lot from ROSAT,
+which will be three times more sensitive than the American HEAD 2 satellite, alias
+"Einstein Laboratory." The ROSA'I‘ satellite will go into service after the European
+EXOSAT satellite, which will be launched in 1982, and before the future AXA“ satel-
+lite of NASA, which should be launched in the aid-1990's. [Text] [Paris AIR ET
+COSMOS in French 19 Dec 8l p 60] 11267
+
+10
+
+FOR OFFICIAL USE ONLY
+non OFFICIAL USE ONLY
+
+FRENCH-GERMAN SATELLITE DELAYED-launching of the first two experimental di-
+rect television satellites, TDF 1 for France and TV SAT for Germany, has
+been postponed for about 6 months due to delay in setting up industrial fa-
+cilities for the program, official sources state. Delivery of the satel-
+lites is now planned for 5 February 1985 in the case of TV SAT, and 5 May
+
+1985 for TDF 1, which will postpone launching until May 1985 for the German
+satellite and September 1985 for the French. The firm Telediffusion de
+
+France, which will use TDF 1, would have preferred its satellite to be orbi-
+ted in July 1985, but that launching slot is now reserved on a priority ba-
+sis for the ESA [European Space Agency? Giotto comet probe, whose launching
+on 10 July 1985 is imperative so that it may overfly Halley's Comet when
+
+the latter next appears. The experimental satellites TDF 1 and TV SAT will
+be built by the Franco-Germ group Eurosatellite Gmbﬁ, which includes the
+French firms Aerospatiale and Thomson-(SF, and the German firms HEB and ma-
+Telefunken. An initial contract for DH 100 million has already been signed
+this year for the preliminary phase of the work. The builders are now await-
+ing the major contract, which in principle is to be 31 ed in March 1982.
+[5er [Eerie AIR m cosmos in French 2 Jan 82 p t+§7 Article by Pierre
+Langereug] ﬁomxomr: A. a c. 19837 6145
+
+C80: 5500/ 2081 END
+
+11
+
+FOR OFFICIAL USE ONLY

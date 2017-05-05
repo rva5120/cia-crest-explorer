@@ -1,0 +1,2999 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10149
+
+1 December 1981
+
+USSR Report
+
+METEOROLOGY AND‘HYDROLOGY
+
+No. 9. September 1981
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE-ONLY
+
+JPRS L/10149
+1 December 1981
+
+USSR REPORT
+METEOROLOGY AND HYDROLOGY
+No. 9, September 1981
+
+Translations or abstracts of all articles of the Russian-language
+monthly journal MBTBOROLOGIYA I GIDROLOGIYA published in Moscow by
+Gidrometeoizdat .
+
+CONTENTS
+
+*Seasonal Reatructurings of Circulation in the Meteor Zone (80-100 km) and
+Their Relationship to Stratospheric Processes.................................. 1
+
+*Analysis of Very Simple Zonal Models of Circulation of the Equatorial
+
+AmospherEeoosessencesasaaoaaasooasoeooeaeesssosseessssovosaeooosoooosoesaassse 2
+
+*
+Numerical Investigation of Frontageneais Hith Allowance for Phase Transitions.. 3
+
+*Use of Observational Data on Clouds in Numerical Forecasting of Surface
+
+Air Tmeratureesaassssooosseoooosoooooesooeaoesssessassss'ssesssoooeoaaoososes 5
+
+Some Features of Structure and Evolution of Hail-Generating Cumuloninbua Clouds 6
+‘Prediction of Radiation and Radiation-Advective Poss........................... l7
+*Prediction of Evaporation Poss by the Quadratic Discriminant Analysis Hethod... l8
+‘Nunerical Modeling of Tropical Cyclone Landfall................................ 19
+*Allouance for Heat Receipts Prom Solar Radiation on Slant Surfaces............. 20
+
+Spatial Variability of Current Fields in the Shallow Water Part of the Shelf... 21
+*Heat Runoff of Rivers in European Territory of USSR............................ 28
+
+*Use of a Probabilistic Travel-Tine Model in Computing the'high-Water Rydrograph
+(In the Example of the Chuly‘ll River)....u...nnuunun...n.u.......o.... 29
+
+'Spatiai-Temporal Variability of Current Discharges in the F662 Atlantic
+Equatorial Polygon..nn....u”a.na.oioo.u......nn.uu...oo...unoon... 30
+
+* Denotes items which have been abstracted.
+FOR OFFICIAL USE ONLY
+
+*Considerations on Determining Mean Watershed Slopes.............................
+*Further Considera'ions on Hean Watershed Slopes.................................
+
+Work of an Unofficial Conference of WHO Experts on Long-Range Weather
+
+Forecastinoooosooepeooososoaoasotsssoooolosootsoooosso.ooeoosoooooesosossssosoo
+
+*SiXticth Birthday of Givi Cedeonovich Svanidze..................................
+‘Sixtieth Birthday of Arkadiy Yefrenovich Cherenkov..............................
+Awards Given to Soviet Meteorologist: and Oceanographera........................
+
+*Obituary of Petr Karpovich Yeweyev (1911‘1964)osoooeeooossooaooosoeeoeooesooaaa
+
+* Denotes items which have been abstracted.
+
+- b -
+FOR OFFKJAI.US£1ONLY
+
+31
+32
+
+33
+
+“0
+61
+
+62
+
+58
+FOI:0IFNCJAI.[EHE(M'LY
+
+UDC 551.513(215-17)
+
+SEASONAL RBSTRUCTURINGS 0F CIRCULATION IN THE METEOR ZONE (80-100 IN) AND THEIR
+RELATIONSHIP TO STRAIOSPHERIC PROCESSES
+
+Moscow HETBOROLOGIYA I GIDROLOGIYA in Russian No 9, Sep 81 (manuscript received
+20 Feb 81) pp 5-11
+
+[Article by L. S. Hinina. doctor of geographical sciences, M. A. Petrosyants,
+professor. and Yu. I. Portnyagin, candidate of physical and mathematical sciences,
+USSR Hydrometeorologicsl Scientific Research Center and Institute of Experimental
+Meteorology]
+
+[Abstract] The authors, on the basis of an analysis of the results of long-term
+wind measurements by the method of radar observation of meteor trails. endeavored
+to clarify the most important patterns of the wind regime st altitudes 80-100 km
+for periods of seasonal restructurings of circulation. A study was also made of
+the problem of the relationship between the characteristic times of development
+of seasonal restructuring processes at the altitudes of the meteor zone and in the
+stratosphere. It was found that the spring restructuring of circulation occurs
+rather consistently at different altitudes. Characteristic changes in some wind
+regime parameters are observed in the middle latitudes at altitudes 80-100 km
+
+as early as March, that is, substantially earlier than in the corresponding lati-
+tude zone of the stratosphere. This is possibly associated with low atmospheric
+density at the altitudes of the meteor zone. and as a result. its low inertia. In
+such a case the considerably earlier spring restructuring in the meteor zone of
+the temperate latitudes in comparison with the stratosphere is evidence of its
+more rapid reaction to radiation conditions changing during the spring. In the
+meteor zone the transition from a stable summer regime of circulation to a winter
+regime is briefer and is expressed less clearly than the transition from winter
+to summer. In contrast to the spring regime, the autumn restructuring of circul-
+ation in the meteor zone lags by almost 1 1/2 months in comparison with the
+stratomesospheric circulation. The process of spring restructuring of circulation
+in the meteor zone is therefore of the greatest interest from the prognostic point
+of view. It can be surmised that a determination of the date of the spring re-
+structuring at altitudes 80-100 km on the basis of data from radiometeor stations
+will be extremely useful in predicting the restructuring of stratospheric circul-
+ation and for further improvement in long-range weather forecasting methods. Pig-
+ures 4; references: 10 Russian.
+
+lllltlﬂﬂCJAl.lﬁlE(NULY
+FOI(INHC1AI.USI(HVLY
+
+ANALYSIS OF VERY SIMPLE ZONAL MODELS OF CIRCULATION OF THE EQUAIORIAL ATMOSPHERE
+
+Moscow METEOROLOGIYA I GIDROIDGIYA in Russian No 9, Sep 81 (manuscript received
+5 Mar 81) PP 12-22
+
+[Article by Ye. M. Dobryshman, professor, Institute of Atmospheric Physics]
+
+[Abstract] One of the features of atmospheric dynamics in the equatorial zone,
+where the role of nonlinear interaction and vertical movements even in the small
+terms of Coriolis acceleration is great, is a great diversity of possible circul-
+ation mechanisms. If there is a more or less clearly expressed zonal flow, the
+zonal velocity component u (usually easterly in the troposphere) varies with time
+and coordinates more weakly than the meridional v and vertical w components. With-
+in the framework of zonal models, that is, with discarding of the derivatives of
+
+r (along the equator) there can be different regimes for v and w with one and the
+same zonal component u. Taking this into account, the author presents a qualita-
+tive analysis of a nonlinear system of equations describing very simple zonal
+models of circulation mechanisms in the equatorial zone. It is shown that the sys-
+tem has two stationary points. One, corresponding to a stationary geostrophic zon-
+al flow, is an unstable saddle point, whereas the second, corresponding to a sta-
+tionary easterly zonal flow in the presence of the meridional velocity component,
+is a degenerate node. The node is stable if in the case of an easterly flow the
+meridional component is directed toward the equator. This can be interpreted as
+stability of the Northeast Trades in the northern hemisphere and the Southeast
+Trades in the southern hemisphere. These findings are compared with data collected
+during the GATE program. There is a good agreement between the theory and observa-
+tional data. Figures 5: references 9: 8 Russian, 1 western.
+
+FOR1OFFHJAI.USEINNLY
+FINRIJFF1C1AI.tEﬂE(NVLY
+
+UDC 551.515.8
+NUMERICAL INVESTIGATION OF FRONTOGENESIS "Ila ALLOHANCB FOR PHASE TRANSITIONS
+
+Moscow HETEORDLOGIYA I GIDRDLOGIYA in Russian No 9, Sep 81 (manuscript received
+24 Feb 81) pp 23-36
+
+[Article by B. Ya. Kutsenko, Central Aerological Observatory]
+
+[Abstract] The article describes a numerical model of formation of a front and fron-
+tal stratiform cloud cover in the entire thickness of the troposphere, including the
+tropopause layer and the stratospheric layer adjacent to it. The described model was
+formulated on the basis of a joint solution of a system of nonlinear equations of
+motion, heat transfer equations, equations for the balance of humidity and liquid
+water content. It is shown that the degree of influence of the phase transitions of
+moisture on circulation in the frontal tone is dependent on atmospheric stratifica-
+tion. With a decrease in the stability of a warm air mass the frontal zone is inten-
+aified. The region of increased gradients of teapareture, specific moisture content
+and also vorticity has a much greater vertical extent. The following explains.the
+influence of the heat of phase transitions on the formation and evolution of a
+frontal zone in dependence on atmospheric stability. As a result of temperature ad-
+vection, under the influence of the macroscale deformstional wind field there is
+formation of a corresponding vertical distribution of macroscale divergence, and ac-
+cordingly, of ascending air movements. In addition to the macroscale wind field,
+
+a contribution to convergence at the lower levels of the atmosphere is also made by
+the boundary layer. Ascending movements lead to the appearance of a frontal cloud
+system with release of the heat of condensation. The degree of influence of phase
+transition processes on the characteristics of the frontal zone is dependent on at-
+mospheric stability. In the case of a very stably stratified warm air mass the phase
+transition processes exert virtually no influence on circulation in the frontal zone,
+forming under the influence of the macroscale velocity field. With a decrease in at-
+mospheric stability the influence of release of the heat of condensation on the dy-
+namics of frontal processes increases. The ascending movements, creating a condensa-
+tion zone, favor the appearance of a large additional energy source. This gives rise
+to a secondary closed transverse circulation‘vhich in the lower layers intensifies
+the effect of the macroscale wind field, creating an additional influx of heat and
+specific humidity. This leads to a considerable intensification of convergence, and
+accordingly, the velocity of ascending movements, as a result of which the release
+of the heat of condensation is intensified. The increasing temperature gradient
+causes an increase in the pressure gradient and a deepening of the disturbance. As
+
+a result, the frontal zone with time becomes increasingly sharper, there is an in-
+crease in the rate of its formation and an increase in the nonuniformity of meteor-
+ological elements in this zone. The intemification of the frontal zone will persist
+
+FOR OFTWCJAL USEZCMULY
+FOR OFFICIAL USE ONLY
+
+until the influence of turbulence is counteracted by the influence of frontogenetic
+factors. Transverse circulations in the frontal zones lead to the formation of re-
+gions of strong cyclonic and anticyclonic wind shears in the zone of maximal temper-
+ature contrasts. A sharp front appears in the field of specific moisture content,
+whose position coincides with the region of maxim gradients of other characteris-
+tics of meteorological elanents. The heights of the zones of increased gradients of
+
+temperature. specific moisture content, and also divergence and vorticity accordiin-
+ly increase vertically upward uith a decrease in atmospheric stability. Figures 3;
+
+references ll: 6 Russian, 5 western.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 551.509.313+551.509.323+551.576
+
+USE OF OBSERVATIONAL DATA ON CLOUDS IN NUMERICAL FORECASTING OF SURFACE
+AIR TEMPERATURE
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 9, Sep 81 (manuscript received
+17 Feb 81) pp 35-60
+
+[Article by I. A. Alekseyeva-Obukhova and I. A. Petrichenko. candidate of physical
+and mathematical sciences, USSR Hydrometeorological Scientific Research Center]
+
+{Abstract} Data from visual and satellite observations of clouds are used extensive-
+ly in synoptic work in short-range weather forecasting as necessary information in
+an examination of the thermal and humidity transformation of air masses. Despite
+this, observations of cloud cover are not used in a number of Soviet numerical
+schemes for the forecasting of meteorological elements. Certain numerical synoptic-
+hydrodynamic schemes are exceptions. However. in the latter data on the quantity of
+clouds are replaced by dew-point spreads by use of empirical expressions The use
+
+of this indirect method for taking cloud cover into account reduces the accuracy of
+the corresponding computations and this naturally has a negative effect on the fin-
+al results of synoptic-hydrodynamic forecasts of meteorological elements. In order
+to determine the possible errors associated with the indirect method for taking
+
+data on the quantity of clouds into account in forecasting schemes the authors carr-
+ied out numerical experiments for predicting air surface temperature. Among the dif-
+ferent types of averaging of dew-point spreads at different levels in the atmosphere
+in the prediction of surface air temperature the best result was from a variant of
+use of the dew-point spread at the single level 850 gPa. The use of initial data on
+cloud cover in the prediction of air surface temperature during the summer gives an
+advantage of 111 and in winter even 402 in comparison with the use of the dew-pont
+spread at the OSO-gPa level for these purposes. During the summer the accuracy in
+predicting air surface temperature increases considerably with the use of data on
+cloud cover or the dew-point spread for two observation times (0300 and 1500 hours)
+in comparison with one of these observation times. These and other data indicate
+
+the possibility of increasing the accuracy of short-range numerical forecasts of
+meteorological elements by including cloud cover information in the initial data.
+Under operational conditions the volume of data on cloud cover will be approximate-
+ly twice as great as the volume of data used in the numerical experiments and ac-
+cordingly it would be possible to obtain more precise results.than obtained in this
+study. Figures 2, tables 1; references: 13 Russian.
+
+FOR OFFICIAL USE ONLY
+FOR‘OFFICIAI.UEI:CH§LY
+
+UDC 551.509.616:551.509.617
+SOME FEATURES OF STRUC‘IURB AND EVOLUTION OF HAIL-GUERATING CUMULONIMBUS CLOUDS
+
+Moscow HETBOROLOGIYA 1 GIDROLOGIYA in Russian No 9. Sep 81 (manuscript received
+5 Jan 81) pp 61-109
+
+[Article by L. A. Dinevich. candidate of physical and mathematical sciences. Hol-
+davisn Republic Administration of the Hydrometeorological Service]
+
+[Text] Abstract: Statistical observational data were
+used in determining the polarization character-
+istics of a radar signal reflected from droplets
+of shower precipitation and hail. It is demon-
+strated that it is possible to detect hail on
+the basis of depolarization of the reflected
+signal. 0n the basis of signals detected from
+cumulonimbus clouds in shower. hail-threaten-
+ing and hail stages of development it is shown
+that it is possible to determine the hail-for-
+mation process with a reliability of 952 10-15
+minutes prior to the falling of bail to the
+ground. The collected data and the patterns es-
+tablished on their basis were used in develop-
+ing a method for determining the danger of hail
+falling from clouds and modification schemes.
+
+Formulation of Problem and Volume of Experimental Data
+
+Numerous investigations of convective clouds carried out in the USSR and abroad
+applicable to the problems involved in the artificial modification of hail clouds
+have considerably broadened our knowledge concerning cloud physics and the pro-
+cesses transpiring in them [5. 6. 10. 16]. However. there is also a whole series
+of problems requiring further investigation. The most important of these is ob-
+taining detailed information on the mechanisms of formation and growth of hail. as
+well as on differences in the structure of hail. hail-bearing. shower and cumulo-
+nimbus clouds.
+
+Such a problem is related to the fact that despite the relatively high effective-
+
+ness of antihail protection. attempts at the modification of hail clouds in many
+cases are fruitless.
+
+INJIiOFFICIAI.IIBI:(N'LY
+FOO¢IHWCJAI.USE(MULY
+
+An analysis of cases with negative modification results indicated that their
+causes can be reduced to methodological and organizational-technical. The or-
+ganizational-technical factors, despite their complexity, for the most part are
+understandable and in principle can be eliminated. The methodological factors
+for the most part are related to an inadequate knowledge of the structure of
+shower and hail clouds, which makes difficult the unambiguous determination of
+the degree of hail danger of clouds in an early stage in the hail-formation pro-
+cess and the places in the cloud where it is best to introduce artificial crys-
+tallization nuclei. A solution of these problems requires a deeper knowledge of
+the structure of clouds in different stages of their evolution.
+
+Several models of cumulonimbus clouds have now been developed [5, lb, 17, and oth-
+ers]. However, despite considerable successes in the field of study of cumulonimbus
+hail clouds, there is still no final clarification of the problem as to the part
+
+of the cloud in which the processes of formation, growth and falling of bail be-
+gin and how they transpire.
+
+In this article we give new data on the differences in structure of shower, hail-
+dangerous and hail cumulonimbus clouds. In order to clarify then we used the re-
+sults of ordinary radar observations of these clouds in Moldavia. supplemented by
+a polarization analysis of radar signals reflected from clouds [9]. supplementing
+the radar data we used the results of investigations of features of intracloud
+air currents using radioactive tracers [6. 15].
+
+These data make it possible with a great accuracy to solve the problems involved
+
+in routine detection of the moment of transition of clouds from the nonhail-danger-
+one stage to the hail-dangerous stage and to find the places in a cloud into which
+it is most desirable that a reagent be introduced.
+
+The essence of the polarization method for tracing the evolution of Cb for the most
+part is reduced to the following [18]: if the electric vector of an incident plane-
+polarized wave is parallel to one of the axes of the ellipsoid of the hydrometeor.
+a dipole moment component is excited only along this axis and there is no compon-
+ent along the axis perpendicular to the radio wave polarization plane. Accordingly,
+in this case the scattered wave will have the same polarization plane as the in-
+cident wave and there will be no transversely polarized coeponent of the electro-
+magnetic field scattered by hydrometeors.
+
+If the ellipsoids of the hydrometeors are arbitrarily oriented relative to the
+polarization plane, a depolarized signal component also appears in the scattered
+field.
+
+In general. the scattered energy is determined by the polarization plane of the
+incident wave. the spatial position of the reflecting particles and the degree of
+their asphericity. phase state and dielectric inhomogeneity.
+
+In the case of a random distribution of particles in space
+
+M - svhl I. —.-1—,(&" +%-EE’+'§'?’)' ’4 =.1: 5-?"
+
+ 
+
+FOIiOFFICIAI.UBEZ(NULY
+FOI‘OFFKJAI.USE(IVLY
+
+Here In is the intensity of the energy scattered in the polarization plane of the
+incident wave. 14_ is the intensity of the energy scattered in the plane orthogonal
+to the polarization plane of the incident wave, g and g' are the functions of ellip-
+ticity of a particle and its dielectric constant.
+
+At the same time it is known that cloud droplets. hailstones and raindrops differ
+considerably with respect to form and are oriented differently in space (1. 12].
+Cloud droplets are spherical and their predominantly horizontal orientation in
+space remains characteristic for raindrops. According to the experimental data of
+Henry and McCormick [20], large flattened drops are oriented for the most part in
+the horizontal plane and the deviation of their vertical axis does not exceed 10—
+15‘. At the same time. the hailstones have a random orientation.
+
+Accordingly. the difference in the form of raindrops and hailstones, as well as
+anisotropy (change in density and size along the radius) of the latter hydrometeor
+should differently reflect a plane-polarized wave. creating an orthogonal compon-
+ent. Therefore. knowing the quantitative values of the orthogonal component of the
+reflected radar signal for hailstones and droplets, it is possible to solve the
+inverse problem. that is. determine the presence of hail in clouds.
+
+0n the basis of the data cited above, over a period of years radar stations of the
+ARS-3H and "Uragan" types and a polarimeter developed at the Central Aerological
+Observatory [19] have been used in carrying out investigations of the characteris-
+tics of hydrometeors in shower and hail clouds. The observations involved obtain-
+ing vertical and conical sections in clouds situated at a distance up to 50 km
+from the radar. The radar radiated waves with horizontal polarization and received
+both orthogonal components.
+
+The method for such observations was described in detail in [9]. This complex of
+observations and registry of the signal occupies a time interval of not more than
+2 minutes, that is. the time during which there are virtually no significant
+changes in cloud structure. The matching of series of photographs made it pos-
+sible to determine the "relief" of intensity of the reflected signal and its de-
+- polarization structure in conical or vertical cloud sections.
+
+The described method was used in making observations of 123 hail and 117 shower
+clouds; the evolution of SO clouds was considered with their transition from
+shower to hail-dangerous and hail stages.
+
+Characteristics of Structure of Cumulonimbus Rain and Rail Clouds and Their Evolu-
+tion According to Data Obtained by the Polarization Research Hethod
+
+An analysis of the experimental data indicated that in all cases of the falling
+
+of hail in the vertical sections of Cb there were channels with an increased de—
+polarization value Ap ) -10 db, whereas among the 117 vertical sections of shower
+clouds there were only 5 such cases, accompanied by heavy showers without hail.
+Here the depolarization Ap - 10 lg PL/P' is the ratio of the intensity of the
+orthogonal component of the reflected signal to the main component or
+
+Ap:=:n. — n..
+
+where n; and n are the values of these components. db.
+
+8
+
+FOR OFIICIAI.USE(HVLY
+me OFFICIAL USE ONLY
+
+It should be noted that the maximum depolarization is created by water-encased
+aspherical hailstones. Although with a definite orientation of an individual par-
+ticle the transverse component for it may be absent, in general for a cloud or
+zone of precipitation consisting of a great number of randomly arranged par—
+ticles the mean depolarization value for the echo signal attains considerable
+levels.
+
+In the experiments which were carried out the actual place of the falling of hail
+dn the ground always coincided with the surface projection 0f .in enhanced (char-
+acteristic for hail) zone of depolarization in a cloud, detersined using a polar
+ized radar. The typical vertical sections of hail and shower clouds are shown in
+Pig. 1, where R is the distance to the radio echo, 8 is the altitude of the radio
+echo, lg z is radar reflectivity. 1°C is temperature read from the radiosonde
+measurement closest in time; the dashed lines correspond to the lg z inclines
+and the solid lines correspond to depolarization isolines.
+
+According to research data, in hail clouds with a channel of increased depolariz-
+ation extending to the earth's surface there was, in almost all cases, falling of
+hail to the ground. In shower clouds of a region of increased depolarization
+with Ap 3 -10 db the falling of hail was observed in only 102 of the cases. How-
+ever, these regions, being situated randomly, that is, in different parts of the
+cloud above the 0°C isotherm,did not undergo transition into a form characteris-
+tic for hail clouds. In 52 of the cases in shower clouds there was a channel of
+increased depolarization which touched the earth, but hail was not forthcoming
+from the clouds.
+
+Thus, an analysis of the cited results of the investigations indicated that mak-
+ing joint use of the depolarization characteristics of signals reflected from
+the clouds and the radar reflectivity value it is possible to classify clouds as
+hail and shower clouds. The zone of ambiguity (that is, the Ap and 1g 2 values
+at which both showers and hail can be observed) is extremely narrow and with a
+radar reflectivity lg z>3.2 falls in the limits from -10 to -15 db. (The meas-
+urement accuracy is A p 1-2 db.)
+
+The results served as a basis for determining the hail danger of clouds on the ba-
+sis of the polarization characteristics of the radar signal reflected from them.
+Then, for solving the formulated problem it was necessary:
+
+— to find an adequate method for predicting transition of a cloud from a nonhsil
+state to a hail stage not less than 10-15 minutes in advance;
+
+— to find a method for routine radar determination of the region in the cloud in
+which the process of formation and growth of hail transpires most rapidly and in-
+tensively.
+
+In order to solve these problems we used the data which we had accumulated on the
+evolution of the structure of cumulonimbus clouds in the course of their "life-
+time." Experience in routine work on the modification of hail processes gives
+basis for speaking of the absence (with existing technical apparatus) of .criteria
+which at any specific moment in cloud development would make possible an unambig-
+uous determination of its hail danger. The radar criteria [2] adopted at the
+present time can only divide clouds into hail and nonhail or with a definite
+
+FOIOFFICIALUSEONLY
+FOIIOFEMJAI.USE(NVLY
+
+accuracy evaluate the probability of their transition into a hail state. Even
+
+in those cases when the thermodynamic and serosynoptic characteristics of the
+atmosphere are favorable for the falling of hail,-it falls only from some of the
+clouds observed in these cases. It is possible to cite many examples when during
+the most intensive hailfalls in the group of clouds there were those which al-
+though having the same hail danger criteria did not yield any hail at all.
+
+In. 1‘:
+
+ 
+
+Fig. 1. Typical vertical sections of hail (a) and shower (b) clouds according to
+depolarization data. 1) isolines (Sp; 2) isolines n, db; 3) isolines lg a - 3.2;
+I.) region with Ap - -10 db.
+
+0n the basis of the possibilities of detecting hail particles by means of depolar-
+ization characteristics of the echo signal we analyzed data on the evolution of
+cumulonimbus clouds with their transition from shower to hail stages. The results
+of these investigations indicated that zones of increased depolarization are
+usually formed in clouds 10 or more minutes prior to the onset of the falling of
+hail. However, it is highly difficult to evaluate the dynamics of the life cycle
+of a cloud prior to the beginning of hail formation in it on the basis of the de-
+polarization characteristics of reflected signals. Moreover, in multicell clouds
+the different cells can be in different stages of development. Some of these may
+be in the hail stage already. whereas others may only be developing. Accordingly.
+prior to the onset of hail formation in clouds, in addition to the depolarization
+characteristics it is desirable that the hail danger of clouds be evaluated by
+the stochastic-statistical method [2, 6].
+
+Thus, the method for determining the hail danger of clouds is based on the follow-
+ing:
+
+10
+
+l")! 0iﬂﬂ€1al.lﬂiECﬂVLY
+FilR13FF1C1AI.lElE(NVLY
+
+l. The principal initial data for determining the hail danger of clouds are data
+on evolution of the structure of clouds, determined by changes in the degree of
+depolarization of radio echoes from regions within which lg z)’3.6. Reference is
+to the appearance in the radio echo region where lg z)’3.6 of considerable sec-
+tors of increased depolarization and the dropping of their lower boundary below
+the level of the isotherm o'c. The value lg zj>3.6 was selected because the inves-
+tigations revealed the absence of cases of the falling of hail from clouds in
+which there are no regions with a value lg z) 3.4.
+
+2. Data on the values of six radar parameters - per boun;
+Tnzm‘x; lg 2; h Ih+ [2] should serve as additional Bucharacteristicsx in ngpggaikoun
+
+ing the stage of cloud development in the prehsil period. These criteria are used
+in determining the complex hail danger criterion K?1 and P1 -- the total probabil-
+ity of the hail state of a cloud: .
+
+ 
+
+" "'72 n +In, ‘wh'
+
+[F- hail; Jl . shower] on: ﬂ '1
+
+where “haili . “showi are the numbers of cases of the falling of hail or showers
+respectively for a given value of the i-th parameter. The P - f(Kp ) value is de-
+termined statistically. For this purpose, on the basis of experimental radar data
+for a specific orographic region and simultaneous visual surface observations of
+falling precipitation a statistical series of KP values is prepared.
+
+During the initial period of cloud development, when the clouds still contain no
+regions with a value Ap> -10 db, it is possible to trace the dynamics of the
+cloud or cell in it using the method set forth in i2, 6] by means of one of six
+parameters, the most convenient of which are an per boun, “Zmax' lg 2 (recently
+in practical antihail protection work use has also been made of the H parameter
+at the level lg z - é.0) and the temperature at this level.
+
+If the value of at least one of the parameters is not characteristic for an unam-
+biguous determination of the stage of cloud development, it is necessary to employ
+the entire set of parameters.
+
+3. In order to obtain the depolarization characteristics of a signal it is neces-
+sary to use a radar set with the possibility for radiation of a plane horizontally
+polarized electromagnetic wave, reception of two orthogonal components of the re-
+flected signal and discrimination on the circular-scan display screen and "range-
+altitude" indicator of regions of isoechoes with stipulated devels of depolariza-
+tion and radar reflectivity exceeding the values
+
+Ap> -10 db. lg 93.1..
+
+In order to study the evolution of the depolarization structure of a cloud in the
+region of maximum radar reflectivity we constructed series of horizontal and ver-
+tical sections each 1- 2 minutes. An increase in the region with radar reflectivity
+lg z>3. I. in the zone with Ap) - 10 db, a decrease in its lower boundary, an in-
+crease in the horizontal gradient lip with a simultaneous decrease in the vertical
+gradient [3 p constitute a basis for assuming that the focus is hail dangerous.
+
+ll
+
+FOIIOFFKJA1.USE(HVLY
+FORtMﬂﬂCJAl.USE¢NVLY
+
+ 
+
+Fig. 2. Diagrams of development of cloud from shower to hail stage. 1) isolines
+
+n" db; 2) isolines n; db; 3) isolines lg z - 3.2; 6) region 4p; -10 db, the fig-
+ures denote the depolarization values.
+
+‘ I":
+
+m
+#31
+4m
+
+40:
+
+1}
+
+4k!
+
+   
+
+Pig. 3. Dimensions of axes of droplets freezing in the nucleus of a hailstone as
+a function of their diameter (a); nonograns for computing hailstone melting time
+
+(b) and dependence of coefficient of depolarization of a reflected signal on the
+configuration of ellipsoidal particles (c).
+
+12
+
+FOR OFFICIAL USE ONLY
+FIMIIJFFICLAL llﬂitﬂﬁlﬂ
+
+A typical scheme of development of a cloud fron the shower to the hail stages
+is represented in Fig. 2. We note that already on the basis of the position of
+the zone Ap>-10 db, shown in Fig. 2b, with a guaranteed probability of 952 and
+with an advance time of 10 minutes it is possible to conclude that there is a
+transition of the cloud into a hail stage.
+
+The advantage of the proposed nethod for detarnining hail danger of clouds is that
+it makes it possible to solve this problem with a high guaranteed probability 10-
+15 minutes prior to the beginning of falling of bail to the ground. The adequacy
+of such an advance tine for practical artificial modification work can be demon-
+strated by using Pig. 3.
+
+Figure 3a is a curve of the dependence of the ratios of the axes of droplets (a/
+b) freezing in the nucleus of a hailstone on their diameter D (constructed by G. s.
+Bartishvili).
+
+Figure 3b shows the nonograms of B. A. Geyvandov and I. P. Hazin [7] for computing
+the melting time of hailstones during their falling in the warm part of the atmo-
+sphere ('1' >'C) and under the condition that all the water forming during the
+melting is blown from it, as is characteristic, in the opinion of the authors, for
+hailstones with a radius exceeding 0.3 cm. Using the nomogram there is graphic so-
+lution of the equation
+
+Fm = (1 - P7") - *3 (I - P5") = k.” -'k,H‘.
+
+3.54040. + 8.3- 10-7 (4-4,“)
+_7°___
+
+. 4 . .o-2
+k,= 1.110 14’s.“ . (L’M’).
+
+*1 u ('flc‘L
+
+ 
+
+. -O
+k,- no a
+
+_ V’s .
+
+where P- the shows by how many times there was a decrease in the radius of the
+hailstone during falling; H is the upper level iron which hailstones, falling,
+begin to melt; or. and Y are the humidity and temperature gradients respectively;
+60 and do are the tenpersture and humidity at the cloud base: 6'0 is vapor elas-
+ticity at the hailstone surface; u is the velocity of ascending currents.
+
+Using these nouograns and the computation nethod cited in [9). it can be demonstrat-
+ed that n hailstone with a radius 10 In, with falling from an altitude of 3 km, a
+temperature at this altitude 0°C. a velocity of the vertical flow 5 m/sec and with
+the meteorological conditions most frequently encountered during hail processes,
+would have a radius 7 II. With these same atmospheric parameters a hailstone with
+
+a radius of 6 an, falling from an altitude of 3 Inn, at the earth will have a
+
+radius r - lo us.
+
+If we also take into account the increase in heat transfer as a result of'turbulent
+exchange, it can be expected that hailstones with a diameter of l on falling from
+an altitude of 3 Ion will reach the earth having a dianeter less than 5 mm.
+
+13
+FOR OFFICIAL USE ONLY
+I!!! CHEWCIAL HEIZCNVLY
+
+It is known that hailstones with a diameter of less than 5 mm will not inflict
+substantial damage on agricultural crops [10]. Accordingly. we will use a dis-
+meter d a S amnof hailstones falling to the earth as the minimum size of danger-
+ous hail. As stated above, at an altitude of 3 in these hailstones have a dia-
+meter d - 1 cm. According to the G. s. Bartishvili curve. such hailstones are
+aspherical and the ratio of the axes of the droplets freezing in their nucleus
+can exceed 0.3~0.6. with a random spatial orientation of these freezing droplets
+and assuming correctness of the wet growth hypothesis, using computations and
+the A. B. Shupyatskiy curve. taken from [9] and shown in Fig. 3c. it can be dem-
+onstrated that the depolarization coefficient for the reflected signal is M -
+15-172, where H - P; I?" , which corresponds to Ap} -10 db. According to this
+same curve, the minimum ratios of the axes of ellipsoidal particles, for which
+15p remains greater than ~10 db. is approximately equal to 0.7, which according
+to Fig. 3a corresponds to a hail diameter d - 4 mm. It follows from these approx-
+imate computations that in a cloud it is sufficient for there to be hailstonee
+with a radius greater than 2 mm and by means of polarization techniques and the
+developed method it is possible to detect them and proceed to modification with-
+out awaiting an increase in the hailstones to dangerous sizes (d;>10 mm).
+
+Using information on cloud structure, employing data on the depolarization of re-
+flected signals it is possible to determine the region of formation and growth of
+hail, and on the basis of the results of the investigations cited in [3, b, 6, 8],
+select the optimum scheme for introducing the reagent in order to prevent large
+hail.
+
+The generalized schemes for introducing the reagent can be represented in the fol-
+lowing way:
+
+1. with the discovery of individual small foci in a cloud in the region of the
+isotherms -lO,..., ~lS°C with the value A§p;> -10 db the reagent must be intro-
+duced at the level of the isotherms -a,..., -6°c in the entire region described
+by the isoline lg z) 3.1..
+
+2. If the zone of increased depolarization is situated in the leading or central
+part of the cloud lg z:>3.4, and its lower boundary has reached the level of the
+isotherm 0°C and continues to drop, the reagent must be introduced directly into
+this region, at the level of the isotherms -10..... -lS°C. closer to the level of
+the maximum rate of the ascending flow. The lower the lower boundary of the re-
+gion Ap) --10 db drops down, the more important it is to introduce the reagent
+under the level of the maximum velocity of the ascending flow, determined as the
+level of maximum radar reflectivity.
+
+3. If the zone of increased depolarization takes in the entire region 1g z)>3.4,
+including its rear part. and reaches the ground level, it is not necessary to
+introduce reagent into such a cell, since hail is already falling from it and
+the hail formation process ceases.
+
+In this case it is very important to note the formation of new cells near the
+decaying cell. These new cells are usually formed in a leading part of the cloud
+(relative to the direction of movement), but sometimes they can develop in the
+rear. If such cells, described by the isoline lg z;>3.6 appear. and especially
+at the level of the isotherms -10.....,-15°, the reagent must be introduced
+
+14
+
+FOI‘OFFKJAI.USEIIVLV
+FIHIGDFIWCJAI.IINE(HWLV
+
+directly into them, without awaiting the appearance of regions of increased de-
+polarization.
+
+In conclusion the author expresses sincere appreciation to Doctors of Physical and
+Mathematical Sciences A. B. Shupyatskiy and S. M. Shmeter for valuable advice in
+the work and to R. P. Tychin and T. Ye. Sizova for assistance given in the col-
+lection and processing of data.
+
+BIBLIOGRAPHY
+
+l. Bartishvili, c. 8., "Irregular Porno of Hailstones,“ TRUDY ZakNICMI (Transac-
+tions of the Transcaucasian Scientific Research Hydro-eteorological Insti-
+tute). No 25(31). 1969.
+
+2. Borovikov, A. M., Kostarev, V. V. and Shupyatskiy, A. 3., "Instrumentation
+and Method for Radar Observations of Evolution of Hell-Developed Cunulus
+and Cumuloninbus Clouds," TEDDY VSBSOYUZNOGO SOVBSHCHANIYA P0 ARTIVMYM VOZDEY-
+STVIYAM NA GRADOVYYE PROTSESSY (Transactions of the All-Union Conference on
+Artificial Modification of Mail Processes). 1964.
+
+3. Buykov, M. V., "Possibility of Formation of Large-Droplet Zone of Accumula-
+tion of Cloud Moisture on the Periphery of the Ascending Flow in a Cumulo-
+ninbus Cloud," TRUDY UkrNIGMI (Transactions of the Ukrainian Scientific Re-
+search Hydroneteorological Institute), No 179, 1980.
+
+4. Vebrene, B. K., Styro, B. 1., Dinevich, L. A., et al., "Hashing-Out of Radio-
+activity by Rain Droplets of Different Size,” TKUDY MEZHDUNARODNOY ROMPER-
+ENTSII P0 PIZICHESKIM ASPEKTAM ZAGRYAZNENIYA ATMDSFERY (Transactions of the
+International Conference on Physical Aspects of Atmospheric Contamination),
+Vil'nyus, 1974.
+
+S. Veyknan, Kh. K., ”Progress in Investigation of Hail Clouds," TRHDY VIII VSE—
+SOYUZNOY KONFERENTSII PO FIZIKE OELAKDV I AKTIVNYM VOZDEYSTVIYAM (Transac-
+tions of the Eighth All-Union Conference on Cloud Physics and Artificial
+Modification). Leningrad, 1970.
+
+6. Voronov. G. S., Gayvoronskiy, I. I. and Seregin, Yu. A.. "Investigations of
+Artificial Modification of Mail Processes." TRUDY VIII VSESOYDZMOY KONFBR-
+ENTSII P0 FIZIKE OBLAKOV I AKTIVNYM VOZDEYSTVIYAH, Leningrad, 1970.
+
+7. Geyvandov, E. A. and Mazin, I. P., "Simple Method for Computing the Melting
+of Hailstones During Falling," TRUDY TaAO (Transactions of the Central Aero-
+logical Observatory). No 51, 1963.
+
+8. Cronova, T. N., Dinevich, L. A., Mikandrov, V. Ys., Sveshnikov, G. 3., Toro-
+pova, M. 8.. Ungernan, T. M. and Shiahkin, R. 5., "Investigation of Chlorine
+Content in Precipitation in the Region of Implementation of Antihail work
+and Analysis of Several Cases of Modification for the Purpose of Hail Pro-
+tection," VESTNIK LCU (Herald of Leningrad State University), No 12, Vyp 2,
+1980.
+
+9. Dinevich. L. A. and Shupyntskiy, A. V., "Polarization Investigations of Hail
+Clouds in Moldavia," TRUDY TsAO, No 126, 1977.
+
+15
+
+FIIIGDFIIClAl.lﬂﬂE(HVLY
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+roaomauustomv'
+
+Zaychenko, N. H., Gayvoronskiy, I. I. and Dinevich, L. A., "Investigations
+of Hail Processes and Results of Antihail Protection in Moldavia," TRDDY
+HEZHDUNARDDRDY KONFERENTSII P0 AKIIVNYH VOZDBYSTVIYAM NA METEOROLOGICHBSKIYB
+PRDTSESSY (Transactions of the International Conference on Artificial Modif-
+ication of Meteorological Processes), Tashkent, 1973.
+
+Leakov, B. N., "Method for the Modification of winter Orographic Clouds in
+the Basin of Lake Seven," TRUDY UkrRIGHI, No 137, 1975.
+
+Litvinov, I. V., STRUKTURA AIHDSFERNYKH OSADKOV (Structure of Atmospheric
+Precipitation), Leningrad, Gidroneteoizdat. 1974.
+
+Hinervin, V. Ye., Horgunov, S. P. and Shupyatskiy, A. 3., "Polarization In~
+vestigations of the Structure of Cunuloninbua Clouds," TRUDY TsAD, No 95,
+1971.
+
+Sulakvelidze, c. K.. "Mechanism of Rail Pornation and Principle of Modifica-
+tion of the Rail Process," TRUDY VGI (Transactions of the High-Mountain Geo-
+physical Institute), No 14, 1969.
+
+Shalaveyus, S. 5., Vebra, 3. Yu., Dinevich, L. A., et a1., "Investigation
+of Character of Propagation and Hashing-Out of Poloniun-Zlo and Phosphorus-
+32 Introduced Into a Local Space of a Cumuloninbus Cloud," TRUDY HEZHDU-
+NARODNOY KDNFBRENTSII P0 FIZICHESKIM ASPEKIAH ZAGRYAZNBNIYA ATHOSFERY,
+Vil'nyus. 1974. ‘
+
+Shneter, S. H.. "Stages in the Development of Cunuloninbus Clouds and Char-
+acteristics of Distribution of Meteorological Parameters in Their Zone,"
+TRUDY TsA0,-No S3, 1964.
+
+Shneter, S. H.. PIZIKA KONVEKIIVNYKB OBLAKOV (Physics of Convective Clouds),
+Leningrad, Gidroneteoizdat, 1972.
+
+Shupyatskiy, A. B. and Horgunov, S. P., "Use of Elliptically Polarized Radio
+Waves for Investigating Clouds and Precipitation," DOKLADY AN SSSR (Reports
+of the USSR Academy of Sciences), Vol 140, No 3, 1961.
+
+Shupyatskiy, A. 8.. Dinevich. L. A. and Tychina, R. P., "Renata Sensing of
+Hail in Clouds Fran the Polarization Characteristics of a Radar Signal,"
+TRUDY TSAO, No 121, 1975.
+
+Henry, A. and McCormick, c. S., "Polarization Properties of Precipitation
+Particles Related to Storn Structure," Radio and Engineering Division,
+National Research Council of Canada. Ottawa, Ontario, Canada, 1973.
+
+16
+
+FOR'OFFKJA1.U8840NLN
+FOI:OFTWC1AL,USEIMVLY
+
+UDC 551.509.315+551.509.325
+
+PREDICTION OF RADIATION AND RADIATION-ADVBCTIVE P068
+
+Moscow WROLOGIYA I GIDROLOGIYA in Russian Do 9, Sep 81 (manuscript received
+24 Dec 80) pp 50-57
+
+[Article by P. K. Dushkin, candidate of physical and mathematical sciences]
+
+[Abstract] In an earlier article OﬂﬂnKDKHOCIYA I GIDROLOGIYA, No 2, 1980) the auth-
+or developed a method for the statistical alternative forecasting of radiation and
+radiation-advective fogs at Hoscow. Independent observational data were used in
+checking the success of the forecasts for various Hoscov airports. 0n the average
+estimates of the forecasts were at the level 0 - 0.60, where Q - l «IL-ﬂ, “and p
+are errors of the first and second kinds. A major series of observations has now
+made it possible to separate the sample data into three groups, rather than into two
+groups. as in the earlier study: No l - January. November. December, No 2 - Feb-
+ruary, October, No 3 - March, April. May, September. The number of the group is in
+essence a component of the vector-predictor. The other components used are: quantity
+of clouds in tenths in the form of two gradations “<5 and “>5, where N is the mean
+total quantity of clouds during the period _f_rom 1800 to 0600 hours; dew-point spread
+4518 at 1800 hours; averaged wind velocity V22 - 0.8 V22 + 0.16 V20 + 0.04 V13, V20,
+V22 are the wind velocities at the height of the vane. The alternative forecast of
+fog is made using the discriminant analysis method. The analysis shows that the pro-
+posed method has a clearly expressed regional character; for example, the graphs con-
+structed for Hoscov cannot be used for Khar'kov and Minsk. At present the methods em-
+ployed in predicting fogs are based on initial data for evening observations. It is
+important to have a method making it possible to predict fog formation on the basis
+of initial data obtained at earlier observation times. This problem is solved. It was
+found that the series of hourly meteorological observations necessary for construct-
+ing the discriminant functions graphs should be approximately 15 years. As a first
+approximation it is possible to use a sample of a lesser volume: 5- and 10-year ser-
+ies, combining groups Nos 1 and 2. This and other simplifications lessen the quality
+of the forecasts by 10-15%. The necessary accuracy in measuring air temperature must
+be 0.l°C. The area for which the forecast is valid is dependent on the physiographic
+character of the region. It must be determined experimentally. Figures 1. tables 7;
+
+references: 3 Russian.
+
+17
+
+FOR 0FT1C1AI.US£(NVLY
+FIIICNNNCJA1.USEGDNLY
+
+UDC 551.509.325+551.573(268.3)
+PREDICTION OF EVAPORATION FOGS BY THE QUADRATIC DISCRIMINANT ANALYSIS METHOD
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 9, Sep 81 (manuscript received
+2 Feb 81) pp 58-66
+
+[Article by A. P. Polkhov and P. s. Terziyev, candidates of geographical sciences,
+Murmansk Affiliate, Arctic and Antarctic Scientific Research Institute, and State
+Oceanographic Institute]
+
+[Abstract] The author proposes a new approach to the prediction of evaporation
+
+fogs based on the use of asynchronous correlations between the effect (the meteor-
+ological phenomenon) and its cause (thermodynamic state of the atmosphere). As the
+initial data for the forecast this makes it possible to use data taken from actual
+weather maps characterizing the thermodynamic state of the atmosphere (synoptic
+situation) on the eve of the considered phenomenon. Quadratic discriminant analysis
+is used as the mathematical approach. The investigated region was the northern
+coast of the Kola Peninsula, where during the cold half of the year (October-
+March) evaporation fogs are formed rather frequently. The study was based on the
+meteorological archives of the Murmansk Administration of the Hydrometeorological
+Service for the periods 1960-1965 and 1975-1979 in the form of surface and high-
+altitude weather charts and also TH—l meteorological tables. In the formulated
+problem synoptic situations are divided into two classes: class of fog-forming sit-
+uations and class of non-fog-forming situations. In turn, there are subclasses: a
+subclass of situations causing a strong fog with a horizontal visibility <'50 m;
+
+a subclass of situations causing moderate or weak fogs with horizontal visibilities
+<:500-50 m and <:1000-500 m. Such a forecast, involving preparation of initial in-
+formation, ita input into the computer, forecast and printout, is completely auto-
+mated and requires 5 minutes. This fog forecasting scheme provides for operations
+similar to those performed by a weatherman. The weatherman, like the "decision
+rule" derived in this study, analyzes the initial and future synoptic situations,
+scrutinizing the actual and predicted information for the fields P, 3350, H500,
+Tsutf' T850 in order to draw a conclusion concerning the possibility of develop-
+ment of an evaporation fog. However, the possibilities of the weatherman are more
+limited because he is unable to make an objective evaluation of the enormous vol-
+ume of data handled by the computer. Figures 1, tables 3; references: 17 Russian.
+IKII(NHHCIAI.USE1INLY
+
+UDC 551.515.2
+NUMERICAL MODELING OF TROPICAL CYCLONBIJUINMLL
+
+Moscow HETEOROLOGIYA I GIDRDLOGIYA in Russian No 9, Sep 81 (manuscript received
+12 Jan 81) pp 67-74
+
+[Article by A. P. Khain, candidate of physical and mathematical sciences, USSR Hy-
+drometeorological Scientific Research Center]
+
+[Abstract] A study was made of the reaction of a model tropical cyclone to a change
+in surface roughness. The model was based on the solution of primitive equations in
+z-coordinates. It includes a parameterization of convective and macroacale precip-
+itation, convective transport of heat and moisture and parameterization of the
+boundary layer. Nacroscale precipitation falls when the mixing ratio at the points
+of intersection of the finite-difference grid exceeds a saturating value. The moie-
+ture excess is condensed and forms macroscale precipitation. Convective precipita-
+tion is caused by condensation in cumulus clouds. Boundary layer parameteriaation
+was carried out by the Deardorff method, whose suitability for the conditions of a
+tropical cyclone has been confirmed. The method makes it possible. using the mean
+values of potential temperature, mixing ratio, velocity in the mixing layer, its
+height, surface temperature and roughness parameter to determine the fluxes of heat,
+moisture and momentum at the surface. It was found that the principal reason for
+attenuation of the model cyclone was a limitation of evaporation from the land sur-
+face. Attenuation of a tropical cyclone (TC) occurs when the moisture flows from
+the land surface do not exceed the moisture flows from the ocean surface which pre-
+vailed in the TC zone prior to its movement onto land. The attenuation of the Tc
+occurs the more rapidly the lesser the quantity of evaporation from the land sur-
+face. Hithout a limitation on evaporation an increase in roughness leads to an in-
+crease in the flows of heat and moisture, an increase in the convergence of mois-
+ture into the eye of the TC, and thus, an intensification of the TC. At the time
+
+of movement of the TC onto the land there is a brief increase in precipitation as
+
+a result of moisture convergence in the lover troposphere. In the first few hours
+after the TC moves onto the land the eye of the TC disappears and ascending move-
+ments develop at the center of the TC. with movement of the TC onto the land the
+radius of the maximum winds somewhat increases. An increase in pressure, decrease
+in integral moisture flows and attenuation of the TC begin when the land occupies
+the central zone under the TC. The central region therefore plays a decisive role
+in the attenuation of the TC over the land. Figures 6; references 13: 3 Russian,
+
+10 western.
+
+l9
+
+F0!:0Ilﬂ(1Al.UBEIMNLY
+FOIilﬂﬂC1A1.U$£(MVLY
+
+UDC 551.521J
+ALLOHANCE FOR HEAT RECEIPTS FROM SOLAR RADIATION 0N SLANT SURFACES
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 9. Sep 81 (manuscript received
+2 Dec 80) PP 75-78
+
+[Article by V. A. Pataleyev. Far Eastern Scientific Research Institute of Hydro-
+engineering and Land Improvement]
+
+[Abstract] In connection with construction of the Baykal-Amur Railroad and the in-
+creased volume of construction in the northeastern part of the country a precise
+allowance for the solar radiation balance on slopes is becoming especially impor-
+tant. Radiation computations are also necessary for determining photosynthetical-
+ly active radiation used by the plant cover in the photosynthesis process. that
+is, in evaluating the suitability of the territory for cultivation of agricultural
+crops, since in the northern regions the southern slopes, in contrast to a hor-
+izontal surface. often receive the quantity of photosynthetically active radiation
+necessary for the harvesting of stable yields. The author therefore has developed
+a method suitable for practical application which makes it possible to ascertain
+the quantity of heat from solar radiation incident on slant surfaces. The basis
+for the method is a generally accepted expression for the radiation balance of a
+slope which by means of the heat transfer coefficient and the temperature compon-
+ents for the slant surface is transformed into a linear algebraic equation with
+an unknown value of heating due to the effect of solar radiation. The solution of
+this equation is a formula making it possible to compute the receipts of solar en-
+
+ergy on the slant surfaces of artificial structures. Figures 1; references: 6 Rus-
+sian.
+
+20
+
+FOI‘DFHKJAI.USB(H‘LY
+F0!‘0FFKJAI.USE(IVLY
+
+UDC 551.665.S
+
+SPAIIAL VARIAﬁILITY OF CURRENT PIBLDS IN THE SHALLOH HATER PART OF THE SHELF
+
+Moscow METEOROLOGIYA l GIDROLOGIYA in Russian lo 9. Sep 81 (manuscript received
+22 Dec 80) PP 79-84
+
+[Article by Yu. 6. Zotov and Yu. P. Masterov and S. Ye. Saks, candidates of tech-
+nical sciences, Soyuztekhmorneftegaz]
+
+[Text] Abstract: A study was made of the prob-
+lem of determining the spatial variabil-
+ity of current fields constructed on the
+basis of data from a survey of currents
+in a polygon in the coastal zone of the
+sea. The method for evaluating the vari-
+ability of the current fields is based
+on an analysis of the random vectors.
+which are represented in a complex form
+Recommendations are given on the choice
+of an Optimum network of hydrological
+stations when carrying out geological
+engineering work in one of the regions
+of Southern Primor'ye, and an evaluation
+of the proposed method is presented.
+
+The matter of validating methods for hydroengineering work is assuming a timely
+importance in connection with the exploitation of mineral resources in the shelf
+zones of USSR seas. The results of such engineering field work are necessary both
+for the designing of petroleum and gas structures and in supporting construction
+and diving work and measures for preserving the environment. Waves and currents
+are the most important hydrological factors for technical work on the shelf. Due
+to the lack of reliable computation methods for studying the characteristics of
+currents. the principal method in specific sectors is in situ measurements.
+
+The problem of choosing the optimum distanca between stations for observing cur-
+rents is the most difficult in the planning of hydrological field work in the
+coastal zone of the shelf. This zone is characterized by an extremely differen-
+tiated and complex pattern of circulation of water masses with considerable spatial
+and temporal variability. A statistical analysis of the spatial characteristics of
+currents in characteristic polygons is the most acceptable method for validating
+the optimum distance between stations.
+
+21
+
+FOI‘OFFKJAL.USE(NNLY
+FOI!OFFK3A1.USE(HVLY
+
+At the present time the State Oceanographic Institute [4-6]. on the basis of aer-
+ial photographic survey work for the measurement of currents by means of dyes,has
+discovered some statistical patterns of change in current velocity in regions with
+straight shorelines far from capes and bays in the absence of islands and banks.
+In particular. in the coastal zone (up to 4 in from the shore) it is recommended
+that observation points be placed at an interval of 2 km in order to obtain a syn-
+chronous pattern of distribution of currents [6]. Directly near capes it is common
+to discover small circulatory systems (with a scale of about 10 km) [5].
+
+These recommendations and conclusions were based on a correlation analysis of abso-
+lute current velocity values [4] without allowance for change in current direction.
+Such an approach is legitimate when determining absolute current velocities but
+
+the mathematical approach employed by the authors does not make it possible to
+evaluate the variability of current directions.
+
+Other methods are also known for evaluating the correlation and spectral character-
+istics of the current fields [7]. For example, in [1]. for evaluating the spatial
+variability of the vector f eld the authors propose that the cosine of the angle
+between the vectors V3 and 2 be used as the parameter of degree of correlation.
+However, this p ramete determines only the degree of variability of the directions
+of the vectors 1 and 2 and does not take into account the variability of the ab-
+solute values. Accordingly. for obtaining more generalized characteristics of var-
+iability of the vector field it is desirable to carry out processing of the para-
+meters of currents not separately by components (direction. absolute value or two
+projections). but on the basis of the total velocity vectors.
+
+In this article we examine one of the possible variants of this evaluation and the
+first results of its testing in specific polygons. The linear variability of the
+current was determined by evaluating the correlations between two time series of
+observations carried out at two stations situated at different distances lib from
+one another. An evaluation of the spatial variability of currents was made by find-
+ing the correlations for all possible pairs of stations.
+
+The basis for the method is an analysis of random vectors represented in complex
+form [2]. This makes it possible. using one complex correlation coefficient, to
+express the degree of interrelationship between current direction and velocity.
+The current vector can be represented in complex form as
+
+[7, = 1', cos 6. + 111‘ ill! ‘1:
+where v1 is the absolute value of the current vector, ‘11 is current direction.
+
+The correlation moment of the two complex variables Vi and V; is represented as
+K- .' =Krlxl+KyI ’I+‘(K’i’i_K‘il’i);, . (1)
+
+V: V:
+
+where ,r, :.-. 9, cos a". y. = 1), sin a.: x, = v, cos :1; y, = o, sing,
+
+and Kx1x%- Kyiyz, Ky1x2v Kx1y§ are the correlation moments of the values (xlxz),
+(mm). mm . (ylxz). (xlyz .
+
+' 22
+
+F!”l(ﬂﬂﬂ(1al.lﬂﬂ£lﬂ1l¥
+where “I; mean, is the modulus of the mean current vector. ‘11 neon is the nean cur-
+rent direction.
+
+The correlation coefficient is
+
+K.‘
+- = -l. -
+' 7555? R‘ ‘3’
+I 1 '
+
+where R is the sodulus of the couple: correlation coefficient; Qis an argument
+characterizing the mean deviation of current directions with transition fro- one
+
+station to another.
+
+ 
+
+Pig. 1. Polygon of current nessurenents and diagram of zones of coastal circulation.
+l) boundaries of circulation zones; 2) hydrological stations.
+
+A numerical experinent was carried out for obtaining a physical understanding of
+the essence of these complex correlation coefficients. The dispersion 0'2 of the
+random value of the angle between two current velocity unit vectors was a vari-
+able. He selected the following O'gradations: 15, 30. b5. 60, 90 and 120°. It was
+assumed that the random value of current direction was distributed in conforlity
+to a normal law. Below we give the relationship between the modulus R and the
+standard deviation 0’ obtained in a numerical experiment:
+
+'- " (A)
+. Rze 1B5_
+
+23
+
+MOWUSEONLY
+FORIOFFNJAI.USE(NNLY
+
+It can be seen from (4) that, for example, with R - 0.6 the standard deviation is
+0" 160°, but with R . 0.1 0"- t127°.
+
+The method presented above was tested in the coastal zone of the Sea of Japan. As
+the experimental polygons we selected two morphologically different parts of the
+shelf. The first sector (Southern Primor'ye) is characterized by a complex configur-
+ation of the shore (Fig. 1). whereas the second sector (southwestern coast of Sakh-
+alin) is characterized by a straight shore.
+
+In evaluating the spatial variability of currents in the first sector we used the
+method of a survey of currents at fixed points situated at different distances
+from one another. He used: a) squares with sides 250. 500 and 1000 m (the surveys
+were made at the corners and centers of the squares); b) profiles perpendicular to
+the shoreline, the distances between which were 250. 500, 1000 and 2000 m (on each
+profile there were three measurement points: at depths 10, 20 and 30 m). The total
+number of measurement points for variant (a) was 11, and for variant (b) - 18.
+
+It was impossible to set out the appropriate number of automatically recording in-
+struments. Accordingly. we used the method of single depth measurements at fixed
+points with the VHH current meter. The network of profiles or squares was broken
+down by means of theodolite tie-in with the shore. A high-speed boat was used in
+making the measurements. The full cycle for surveying one square (with depth meas-
+urements at each of five points) required from 2 to 2.5 hours. It was assumed that
+during this period the general pattern of currents does not essentially change and
+the collected data can be interpreted approximately as the results of a simultan-
+eous survey.
+
+     
+
+m mum mu
+
+ 
+
+I 1 I “M
+
+Fig. 2. Dependence of modulus of correl— Fig. 3. Dependence of T argument of
+stion coefficient on diatancelll.between complex correlation coefficient on
+observation stations. 1. 2) values of R distance (11“
+
+modulus for variants (a) and (b) respec-
+
+tively: 3) value of R modulus R1(2.._5).
+
+In accordance with variant (a), in each square we carried out 20 measurement cycles
+and in accordance with variant (b) -- 18 cycles. He studied the characteristics of
+
+bottom currents, which are especially important for geological engineering problems
+and at the same time are the least studied.
+
+24
+
+F0!‘0FFKJA1.USE(MVLY
+FIIRCIWNCJA1.USE¢0NLY
+
+In the second sector (Sakhalin) there were six measurement cycles, each with 14
+points. The distances between profiles were 10 km, and between points on the pro-
+file ~- up to 1. Ian. .
+
+The results of processing of the series of observations of currents for three
+squares for the sector shown in Fig. l are represented in Figures 2 and 3. The
+moduli of the complex correlation coefficients vary in the range 0.16-0.72 and
+the corresponding values of their argument.99vary from 10 to 80°. The series of
+observations of currents at points situated not more than 200 m from one another
+are most closely correlated. The correlation coefficient modulus is 0.6 for this
+same distance. Its variation characteristic does not exceed 22.
+
+Figure 2 also shows the results of processing of current measurements along six
+profiles (variant (b)). With an increase in the distance (3 L between profiles
+
+the modulus of the correlation coefficient R decreases and at a distance greater
+than 2 km attains 0.1-0.15. with such distances between observation stations it
+
+is impossible to determine the presence of an interrelationship between individual
+points of the current field, that is, discriminate zones with a transport of water
+masses which is sustained in direction.
+
+Using the curve of the dependence of the correlation coefficient modulus R on dis-
+tance 13L, similar to the graph shown in Fig. 2, and expression (4), it is possible
+to select the optimum distance between stations in accordance with the required
+accuracy and engineering problem. For example, in the considered sector in the case
+of large-scale reconnaissance work in order to determine positions on the plan of
+circulatory movements of water masses the distance between adjacent stations must
+not exceed 200-300 m. 0n the other hand, when it is necessary to clarify the qual-
+itative picture of the field of currents, that is. to determine the general direc-
+tion of transport of water masses (the standard deviation of current direction is
+about 160°), it is possible to hold the interval between stations in the range
+600-700 m.
+
+In this same sector, using the R value, it is possible to discriminate characteris-
+tic zones of interrelated movement of bottom water masses (circulation. eddies,
+stationary currents). Two such zones are located in the region of capes (Fig. l)
+and are evidently determined by the influence of the shoreline. A third zone, sit-
+uated in a seaward direction. is in a region adjacent to the stationary Primor'ye
+Current. '
+
+The spatial and alongshore variability of currents in the second sector (Sakhalin
+Island) differs considerably from the variability of the coastal zone of Southern
+Primor'ye and is characterized by a transport of water masses which is sustained
+over the entire polygon. The correlation coefficient modulus R is not below 0.6
+with a distance between measurement points up to 30-40 km.
+
+In addition to the processing of results by the method described above, in order to
+determine the reciprocal influence of the entire group of measurement points we
+carried out processing of observations using the multiple correlation approach [3].
+As the experimental polygon we selected a sector in accordance with variant (a).
+The multiple correlation coefficient [3] is
+
+._——.. .- -......
+
+- "' l
+Rm. . .n = H - (1 - :1)“ ‘Rgu‘ ' ' - a " prm. . .(s-IMT'
+
+25
+
+FOI‘OFFNJAI.USE(NVLY
+FINI(HWNCJAI.IENE(HVLY
+
+where p is the number of variables; R13. kL is the special correlation coefficient
+between the variables X1 and X1 with exclusion of the influence of Xk and XL.
+
+Special coefficients of three or more variables are determined_using the formula
+
+R -R -R
+R = l7.d...p m..., 1‘...)
+"" ' IU-Ruai...pi('- M...)
+
+It can be seen from formula (5) that the special correlation coefficient of p vari-
+ables is determined by the coefficients of p - 1 variables. Accordingly, knowing
+the coefficients of two variables, it is possible to determine all the special cor-
+relation coefficients of three or more variables. The special correlation coef-
+ficients of two variables among all the combinations of series of observations at
+the corners and at the center of the square were computed using the formula (3).
+
+. (5)
+
+The values of the total multiple correlation coefficient 81(2,,,5) are given in
+Fig. 2. The correlation coefficients computed earlier using formula (3) can be re-
+garded as special coefficients relative to R1(2...5) for the case p - 2. It can be
+seen from Fig. 2 that the total coefficients give an upward limit of the field of
+scatter of the special coefficients. whereas the latter give more complete informa-
+tion on the spatial variability of the field of currents. Due to the great amount
+of work involved in computing the multiple correlation coefficients the problem of
+
+the need for using them requires further study and testing on the basis of adequate-
+ly representative data.
+
+Thus. after analyzing the results. the following conclusions can be drawn:
+
+1. The necessary density of the network of points where currents are observed is es-
+sentially dependent on the region where reconnaissance is carried out.
+
+2. In each new region when deternining the method for carrying out hydrological work
+it is necessary to perform preliminary work for determining the optimum network of
+hydrological stations in dependence on the tasks to be executed and on the require-
+ments for final information.
+
+3. The described method for studying the spatial variability of currents is the ba-
+sis for carrying out preliminary work for validating the density of hydrological
+stations in geological engineering work on the shelf.
+
+6. An evaluation of the spatial variability of the current field also requires fur-
+ther investigations of applicability of multiple correlation methods.
+
+BIBLIOGRAPHY
+1. Bugayets. A. N. and Dudenko, L. N., MATEHATICHBSKIYE HBTODY PR1 PROGNOZIROVANII
+HESTOROZHDENIY POLEZNYKH ISKOPAYEHYKH (Mathematical Methods in Predicting Hin-
+eral Deposits). Leningrad, Nedra, 1976.
+
+2. Venttsel', Ye. 8., TEORIYA VERDYATNOSTEY (Theory of Probabilities), Hoscow,
+Nauka, 1966.
+
+26
+
+FIN!(NHHC1A1.USEIHVLY
+3.
+
+7.
+
+IOI10FFKJA1.USE(NNLY
+
+Kendall, H. and Stuart. A., STATISTICHESKIYE VYVODY I SVYAZI (Statistical
+Conclusions and Correlations), Moscow. Nauka. 1973.
+
+Konovalova, I. 2., "Spatial Discreteness of Observations of Currents in the
+Coastal Zone of the Sea." OKEANOLOGIYA (Oceanology), V01 Ix, No 6, 1969.
+
+Konova1ovs, I. z. and Lagutin, B. 1.. "Sons Statistical Characteristics of
+Coastal Currents According to Results of an Aerial Photographic Survey."
+TRUDY GOINa (Transactions of the State Oceanographic Institute), No 95, 1968.
+Konovalova, I. Ye., Lagutin, B. L. and Ovsyannikova, 0. A., ”Deternination of
+Regime Characteristics of Currents in the Coastal Zone of Seas." TRUDY GOINa,
+No 112, 1972.
+
+Yampol'skiy, A. 0.. "Some Problems in the Method for Statistical Processing
+of Current Observations," OKEANOLOGIYA, Vol IX, No 1, 1969.
+
+27
+
+FOI1DFNKJA1.USItoNLY
+FOI‘OFFNJAI.US£(N§LY
+
+UDC 551.482.2(67)
+HEAT RUNOFF 0F RIVERS 1N EUROPEAN TERRITORY 0F USSR
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 9, Sep 81 (manuscript received
+19 Dec 80) PP 85-93
+
+[Article by Yu. A. Yelshin, Murmansk Territorial Administration of Hydrometeorology
+and Environmental Monitoring]
+
+[Abstract] Until now proper attention has not been given to the heat runoff in
+rivers. In the territory of the USSR the heat runoff characteristics have not
+
+been determined and have not been published, nor are there any special studies
+
+in this field. During 1979-1980 the author made computations of heat runoff in
+all the studied rivers of the Kola Peninsula and many rivers in Karelia, Arkhan-
+gel'skaya, Vologodskaya Oblasts and the Komi ASSR, rivers of the Baltic Sea basin
+and a number of rivers in the lover Volga region, Moldavia and Western Ukraine.
+For rivers in the "bite Sea basin, in addition to for individual rivers, the total
+heat runoff was computed for consolidated regions (Kola Peninsula, Karelia, Sever-
+nyy Kray) and for the basin as a whole. The total heat runoff for Lake Onega and
+Lake Ladoga was also determined..ﬂeat runoff was computed for 268 hydrological
+posts on rivers with a little-impaired regime having long (more than 10 years)
+observation series. It was possible to ascertain the dependence of the mean long-
+term heat runoff and the influence exerted on the heat runoff by a series of fac—
+tors; a formula is derived for computing the heat runoff; methods are given for
+computing the long-term variability and intraannual distribution of the heat run-
+off of rivers. The dependence of the mean seasonal water temperature of rivers on
+their volume is established. Figures 3, tables 4; references: 10 Russian.
+
+28
+IKIICNNNCIAI.USIIMNLY
+POI! OHIO“. USE ONLY
+
+UDC 556.16.01(571.1lo)
+
+[Article by N. G. Inishev, Tonal: State University]
+
+[Abstract] In this article, in the example of the 01qu River basin, the author
+develops a method for computing the high-Hater hydrogrsph. The method is based on
+an evaluation of lateral inflow on the basis of observations of water discharges
+
+use with an electronic computer. Other formlss are proposed for the lateral inflow
+probability density function along the length of the stream, taking into account
+the peculiarities of structure of the channel network, on the basis of which ex-
+pressions are obtained for the travel tine aoaents. The degree of detail consider-
+
+breakdown. The solution of this problem for the Chulyn River, which has sountain-
+ous, hilly and lowland reaches, is discussed. A model for computing the hydrograph
+of spring high water is formulated on the basis of the total inflow of water into
+the channel network with the use of the derived expressions. The validity of the
+
+high-water hydrographs. The sane parameters of the model can be used in years with
+different water discharge. Tables 2; references: 14 Russian.
+FIIICIﬂﬂCJAI.UBE1ONlN
+
+UDC 551.465.53(263)
+
+SPATIAL-TEMPORAL VARIABILITY OF CURRENT DISCHARGES IN THE PCGE ATLANTIC
+EQUATORIAL POLYGON
+
+Moscow HBTEOROLOGIYA I GIDROLOGIYA in Russian No 9, Sep 81 (manuscript received
+16 Feb 81) pp 101-108
+
+[Article by V. A. Burkov, doctor of geographical sciences, A. B. Zubin and V. B.
+Titov, candidates of geographical sciences, and A. I. Kharlamov, Institute of
+Oceanology, USSR Academy of Sciences]
+
+[Abstract] In 1979, during the P663, the Institute of Oceanology and its divisions
+carried out extensive hydrophysical measurements in an Atlantic equatorial polygon.
+The basic objective was a further investigation of the variability of currents
+(Southern Trades Current, Lomonosov Current and westerly Equatorial Intermediate
+Current) and associated oceanological characteristics. The observations in the
+polygon included current measurements along the merdians 23°30'H and 18°30'w in
+spring (10 March-2 May) and in summer (20 June—12 August) in the northern hemi-
+sphere, hydrological sections along these meridians and a summer hydrological sur-
+vey within the polygon and beyond its limits to the west and east. All the observa-
+tions were made on the spring and summer voyages of the scientific research ships
+"Akademik Kurchatov" and "Professor Shtokman." Both in spring and in summer the
+total duration of current measurements at automatic buoy stations was about 50 days
+-- this being one of the longest such series of equatorial currents in the Atlantic.
+This article gives an analysis of the spatial-temporal variability of discharges
+and some other current characteristics. The mean daily values of the zonal and mer-
+idional components of currents were computed for each observation horizon. Then
+these values were used in computing the mean discharges of zonal and meridional cur-
+rents. The zonal discharges were determined along the meridians 23°30' and 18°30'H
+for sections bounded by 1 1/2 degrees north and south latitude and the horizons
+
+15 and 250 m. The meridional discharges were determined along the parallels 1°30'S,
+0‘40'8, 0°00, O'éO'N and 1'30'N for sections bounded by 23'30’ and 18°30’U and the
+horizons 15 and 250 m. It was found-that the discharges of zonal currents vary ir-
+regularly with time and asynchronously along the flow with periods exceeding 30
+days. The discharges of meridional currents with periods close to the periods of
+
+meandering of the Lomonosov Current vary consistently along the meridians. The
+computed vertical velocity values do not exceed 1000-10‘5 cm/sec. The role of mer-
+
+idional flows in the weakening or strengthening of the Lomonosov Current is demon-
+strated. Figures 4, tables 3; references 11: 10 Russian, 1 western.
+
+30
+
+FORilﬂﬂClALIENICNVLY
+FOIloFFKJAl.USB¢MNLY
+
+UDC $56.0ll+556.515
+
+CONSIDERATIONS 0N DETERMINING MEAN WATERSHED SLOPBS
+
+Moscow HBTEOROLOGIYA l GIDROLOGIYA in Russian No 9, Sep 81 (manuscript received
+15 Sep 80) pp 109-111
+
+[Article by A. P. Kopylov, candidate of geographical sciences. State Hydrological
+Institute]
+
+[Abstract] The inadequate mathematical validity of the formulas proposed in the
+UNESCO publication REPRESENTATIVE AND EXPERIMENTAL BASIRS (1971) and in various
+
+studies published by G. A. Alekseyev has been clearly pointed out by the author
+
+of this critical cmnnunication in his article in HBTBOROLOGIYA I GIDROLOGIYA. No
+7, 1978. The principal reason for the negative evaluation of the formulas was
+
+that they do not take into account the degree of dissection of the watershed sur-
+face. The hypsographic curve for a watershed and the equivalent rectangular water-
+
+shed used in connection with these formulas do not carry information on slopes and
+therefore their use in computations is without justification. Nevertheless, this
+
+matter has been raised anew in an article by D. M. Rudritskiy in HBTBORDLOGIYA I
+GIDROLOGIYA, No l, 1980. This author endeavored to defend these poorly substantiat-
+ed formulas on the basis of assunptiona for which there is no backing and sought
+to discredit the Kopylov formulas on the basis of false assertions. Accordingly,
+this communication deals with the nest important of these errors in Kudritskiy's
+article. The communication appears to successfully refute the Kudritskiy thesis.
+References: 9 Russian.
+
+31
+
+FOIIHHNCUH.USE(NVLY
+FOI‘0FFK!AI.U§E(MVLY
+
+UDC 556.011+556.51!
+FURTHER CONSIDERATIONS 0N MEAN HATERSHBD SLOPES
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 9, Sep 81 (manuscript received
+13 Feb 81) pp 111—114
+
+[Article by N. A. Bagrov, professor, USSR Hydrometeorological Scientific Research
+Center]
+
+[Abstract] This article supplements the article by A. P. Kopylov in this same num-
+ber of HETEDROLOGIYA I GIDROLOGIYA (pp 109-111).-The author outlines several
+
+schemes for which the scan slope of a watershed is easily computed. The examples
+cited are for clarifying the geometrical concept of mean slope. The author fully
+supports the thesis presented by A. P. Kopylov with respect to the validity of
+
+his concepts. He completely rejects the arguments presented on this subject by
+
+D. M. Kudritskiy in METEOROLOGIYA I GIDROLOGIYA, No l. 1980; he feels further
+that debate on the subject should come to an end. In this short communication the
+author notes that mean slope characterizes well only uniform basins. He stresses
+
+that if the parts of the basin differ from one another with respect to orography,
+forest cover. etc., the examination of slopes must be made separately for uniform
+
+parts of the basin; these individual findings can then be brought together by use
+of a special parameter characterizing the orographic nonuniformity of the basin.
+The problems involved in obtaining such a parameter are discussed. Figures 3.
+
+32
+
+FOI‘DFFKJA1.USB(HVLY
+FUI‘OFFﬂJAl.USE(lVLY
+
+UDC 551.509.33
+WORK OF AN UNOFFICIAL CONFERENCE 0P HMO EXPERTS 0N LONG-RANGE HEATHER FORECASTING
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 9, Sep 81 (nanuscript received
+6 Feb 81) pp 115-118
+
+[Article by Sh. A. Husayelyan, doctor of physical and mathematical sciences, USSR
+Hydrometeorological Scientific Research Center]
+
+[Text] Abstract: The author briefly examines nat-
+erials from an unofficial conference of
+HMO experts on long-range weather forecast-
+ing (Geneva. 1-5 Septeaber 1980). This report
+gives sone data on the status of research on
+this problem in a number of countries. Infor-
+aation is given on the neasures which will be
+carried out in the future for further develop-
+
+nent of investigations of the considered prob-
+len.
+
+An unofficial conference of "MO experts on long-range weather forecasting (LRHF)
+for a month and a season in advance was held in Geneva during the period 1-5
+September 1980. The conference, organized by the HMO, was attended by the followb
+ing persons: the General Secretary of the HMO Hiin-Nielsen, Hiyakoda, Sonerville,
+Epstein and Gillan from the United States, Bengtsson fron the European Center for
+Medium-Range Weather Forecasts, Parker from the Heteorological Service of Great
+Britain, Koflan from the Meteorological Bureau of Australia. Kikuchi from the
+Japanese Meteorological Agency, the Director of the Department of Scientific
+Research at the WHO A. S. Zaytsev. the Director of the GARP Joint Planning Group
+Deyes, a consultant of the WHO Hbrld Climate Program Beauville, and also special-
+ists of the HBO Secretariat Bozhkov and Suzuki. sh. A. hussyelyan of the Soviet
+Union participated in the work of the conference.
+
+The conference was opened by the General Secretary of the HMO Hiin-Nielsen, who in
+his opening address stated, in particular, "Despite the fact that significant re-
+sults have not been obtained in the field of LR"? up to the present time over the
+course of a number of decades, nevertheless there is hope that long-range weather
+forecasting is possible. Hhen we speak of a limit of predictability of 1-2 weeks,
+reference is to existing models. If it is found that this is actually so, one
+
+must proceed in another direction: develop a new, more realistic strategy and
+
+for attaining the final objective travel a long and difficult path. The LR“?
+problem is a problem which must be solved by all working together. The repre-
+sentatives of the governments of many countries are very interested in the
+
+33
+
+FOIIOFFIJA1.USB(HNLY
+F!”l(lﬂﬂ(]Al.llﬂE(ﬂHLN
+
+development of new, more perfect LR"? methods. He have met in order to discuss
+the present status of the problem, to evaluate existing methods and outline
+further research and formulate a new strategy."
+
+The principal objective of the conference was a discussion. on the basis of re-
+view reports of “HO experts. of the status of the LR"? problem and the formula-
+tion of preliminary measures which are necessary for the further development of re-
+search on the considered problem. with respect to these measures, it was decid-
+
+ed to plan a publication TECHNICAL NOTES 0? THE “MD on LR“? which should deal
+
+with the following problems: empirical, statistical, dynamic and combined methods
+of LRHF, interaction between the ocean and atmosphere and allowance for these in
+the development of LR"? methods, and also the problem of atmospheric predictabil-
+ity. In addition. it was decided to organize and carry out a research conference
+on LRHF.
+
+Then the floor was given to Deyes. He told of the Horld Climatic Research Program
+in precise conformity to the report of the first session of the special committee
+which met in Amsterdam during the period 26 March-3 April 1980. He noted that a
+number of factors (cloud cover and radiation, ocean processes, sea ice, hydro-
+logical processes, etc.), playing an haportant role in the genesis of climate,
+are also exceptionally important in developing LRHF methods.
+
+Then the review reports of the experts were presented.
+
+Cilman told of the work of the Climatic Research Center of the United States
+National Heather Service. The Center gives monthly and seasonal (four times a
+year) weather forecasts. Numerical forecasts for five days, and also forecasts
+for intermediate times are used in determining the onset of the period for the
+preparation of monthly forecasts. These forecasts are disseminated to the United
+States Department of Energy and other organizations. In the preparation of month-
+ly forecasts use is made for the most part of mean five-day pressure pattern
+charts (surface charts are used less frequently). Particularly great attention
+is given to AT7 pressure pattern charts. Sometimes on these charts there are
+macroscsle pecuggarities of meteorological fields which change little with time.
+This makes it possible to employ the extrapolation procedure. The seasonal
+peculiarities of meteorological elements and fields are also taken into account.
+Temperature and precipitation anomalies are predicted. This year the predictions
+for summer were very poor. Earlier almost always only the kinematics of pressure
+formations was used. Investigations are now being made for taking other factors
+into account. Particularly great significance is being given to checking of the
+Namias hypothesis. Hork is continuing on a detailed study of the relationship
+between anomalies of water temperature at the ocean surface and deviations of
+the altitude of the 700-mb isobaric surface from the norm.
+
+Kikuchi presented a review of investigations made by the Japanese Meteorological
+Agency. In Japan experimental LR“? were first prepared in 1907 in order to supply
+interested organizations with information on summer weather conditions in the
+northern part of the country where rice fields are situated. Since 1962 LR“? have
+been compiled for the entire territory of the country and are published almost
+regularly (the only exception being 1949-1952).
+
+The Japanese Meteorological Agency regularly, on a routine basis, is issuing the
+following LRUP: monthly, three-monthly. for the cold and warm half-years.
+
+3b
+
+FORGIHHCIAI.USE(NNLY
+FOI¢HﬂﬂCJAl.USE(MNLY
+
+The monthly forecasts for each month are issued on the tenth day of the preced-
+ing month and are made more precise on its last day.
+
+Predictions are made for anomalies of mean temperature and the quantity of pre-
+cipitation for each of the regions in Japan and the synoptic situation is pre-
+dicted for each subsequent lO—day period.
+
+Three-month forecasts are issued on the 20th of each month. These same elements
+and mean weather conditions for each of the three subsequent months are predict-
+ed, including summer and winter respectively. A forecast for the warm half-year
+is issued on 20 March. and for the cold half-year on 10 October. These forecasts
+give the general characteristics of the anticipated weather, such as late spring.
+early autumn, etc.
+
+The following methods are used at the present time in the preparation of LBHF:
+Analogues Method
+The forecast is prepared in two stages:
+
+1) Selection of analogues for circulation conditions at the 5004mb isobaric sur-
+face.
+
+In choosing the analogues as a measure of similarity use is made of the percentage
+of coincidence with respect to the sign of the ATSOO anomaly in the current field
+and in the archival fields during this same calendar period of past years (a geo-
+graphical grid for the northern hemisphere with a uniform interval in latitude
+and longitude equal to 10° is used). Three groups of such evaluations are consider-
+ed:
+
+a) for hemispherical mean monthly fields this evaluation must be greater than the
+critical value;
+
+b) for fields averaged for 2. 6 and 6 five-day periods this evaluation must be
+over 501 [(only those points of intersection at which the current values of the AI
+AT 00 anomalies are greater than 1.280'are used (cris computed on the basis of ar-
+chival data at the selected point of intersection during this same calendar period
+of past years)];
+
+c) this evaluation must be greater than the critical value for the mean monthly
+fields when the computations include only points of intersection exerting an in-
+fluence on the specific object of the forecast (the asynchronous correlation co-
+efficient between the ATSOO anomaly at this point of intersection and the devia-
+tion of the mean monthly temperature or the precipitation total from the norm at
+
+a station in the considered region for the considered calendar period and a stip-
+ulated time in advance: one. two or three months - more than 0.3).
+
+The best variant of all the three enumerated analogues is used in the final stage
+of the forecast.
+
+2) Preparation of monthly forecasts of temperature and precipitation anomalies.
+
+In predicting the mean monthly temperature or the monthly sums of precipitation
+in a stipulated region use is made of data on the above-mentioned characteristics
+with a time shift of one, two or three months, after the analogues of atmospheric
+circulation have been selected for this case.
+
+35
+FORtlﬂﬂClALlﬂﬂ:0NlY
+l1)l10IFICJAI.lﬂﬂE(NVLV
+
+Correlation Hethod
+
+Use is made of asynchronous relationships with a time shift of one, two and three
+months between the mean monthly values of the altitude of the SOanb isobaric sur-
+face at each point of intersection of a 5° geographical grid for the northern hemi-
+sphere and the anomaly of mean monthly temperature for a particular meteorological
+station. Regions with the highest correlation coefficient are selected and a
+prognostic multiple regression equation is written for predicting the temperature
+anomaly at a particular station where the A1500 anomalies are the predictors.
+
+Extrapolation of Periodic Components Method
+
+s) A harmonic analysis of the mean 10-day zonal circulation indices is made at the
+SOO-mb level for the past 36 10—day periods. The two prevailing periods are dis-
+criminated and on this basis there is a prediction of the mean 5-day index of
+zonal circulation for one or even for three months. [In the USSR similar work has
+been done over a period of years by V. D. Reshetov.]
+
+b) A similar analysis is made for mean 10-day anomalies of altitudes of the 500~mb
+isobaric surfaces with use of data on 66 elapsed 10-day periods applicable to each
+point of intersection of the employed grid. This procedure is used for predicting
+the mean 10-day anomalies of altitudes of the SOO-mb isobaric surface for regions
+in the Far East.
+
+c) The above-mentioned harmonic analysis procedure with subsequent extrapolation
+of the periodic components is also used in computing the prognostic charts
+
+of the mean monthly anomaly of altitudes of the SOO-mb surface for the northern
+hemisphere. The mean monthly anomalies of the mentioned fields for the 29 success-
+ive elapsed months are used. The computations are made for each point in the em-
+ployed geographical grid in the northern hemisphere.
+
+d) Employing the results in a)-c), his synoptic experience and common sense. the
+forecaster makes a final decision.
+
+Forecasts of temperature anomalies for the period from 1977 through 1979 have the
+following guaranteed probability with respect to sign in percent:
+
+Int 10 days 2d 10 days 3d 10 days
+
+Monthly forecasts 66 62 52
+let month 2d month 3d month
+
+Three-month forecasts 58 58 58
+
+During this same period the precipitation forecasts have the following guaranteed
+probability:
+lst month 2d month 3d month
+
+Three-month forecasts 66 65 66
+
+The following scientific research work is being done in order to improve the qual-
+ity of LRHF:
+
+36
+
+ii)! OFiICIAJ.lEﬂB(MULY
+FOIOI'I'ICIALUSEONLY
+
+-- A four-level spectral model intended for monthly forecasts is being developed.
+- Existing methods are being improved by making use of three-dimensional data,
+
+in particular. for study of the vertical propagation of the blocking process,
+
+etc.
+
+-- Investigations are being made on the use of water t-perature at the ocean sur-
+face, snow cover and cloud cover distribution.
+
+-- Forecasting methods are being developed for the southern hemisphere. This, in
+the opinion of the speaker, should assist in improving the precipitation forecast.
+
+A review of LR"? investigations in the Soviet Union was given by the author almost
+completely on the basis of articles by N. A. Bagrov, Ye. N. Blinova, D. A. Ped',
+
+K. A. Vasyukov and N. I. Zverev. included in the collection of articles PYAT'DESYAT
+LET TSENTRU GIDROMBTEOROLOGICHESKIKB PWGNOZOV (Fifty Years at the Hydrometeorolog-
+ical Forecasting Center), 1979, and in accordance with an article published by
+Academician G. I. Marchuk entitled "Kydrodynamic Models in the Dynamics of the At-
+mosphere and Ocean," included in the collection of articles PROBLM SOVREHENNOY
+GIDROHETmROLocII (Problems in Modern Hydrometeorology) (Leningrad. Gidrometeoiz-
+dat, 1977). In addition, the review included some results obtained at the Hydro-
+meteorological Center using the cloud cover of the oceans in LRHF. The review
+
+was supplied with an extensive bibliography of LBW? investigations of Soviet auth-
+era.
+
+In the review by Parker (Meteorological Service of Great Britain) it was pointed
+out that in Great Britain 1.1M? have been issued since 1963 but soon such fore-
+casts will be suspended because no funds will be available for such work. For the
+time being the service will continue to issue forecasts for 5-15 and 16-25 days,
+which are being used by petroleum workers. Seasonal forecasts are prepared each
+three months and are issued by private organizations. These forecasts for the re-
+gion,taking in the territory of Great Britain and part of the territory of Europe,
+
+are prepared making use of the following methods:
+
+1. Analogues method. The review gave an analysis of the actual observational data,
+which. in the opinion of the speaker, demonstrates the basic possibility of pre-
+paring forecasts using analogues. It is shown that this method has a statistical-
+ly significant prognostic capability, although the results are not always satis-
+factory. The quality of analysis of mean monthly aerological charts, especially
+over the oceans, can eatert an influence on the process of selecting analogues.
+
+2. Sea water temperature. At the present time work is being done in Great Britain
+for improving the quality of analysis of the water temperature fields at the
+ocean surface. This can assist in improving the method for selecting analogues
+and investigations on the basis of numerical modeling.
+
+3. Numerical modeling. LR"? forecasts are precomputed for a month in advance using
+a f ive-level model with primitive equations. This model takes into account water
+temperature at the ocean surface, moist convection and also the radiation effects
+of clouds and the snow cover (using seasonal climatological data). The model was
+developed for the northern hemisphere. However, these forecasts are used in prac-
+
+tical work with great caution. Excessive polar anticyclogenesis creates great dif-
+ficulties.
+
+37'
+
+MWUSEONLY
+FIIR()FFIC1AI.lEﬂE(lNLY
+
+The decision on the anticipated types of weather is made on the basis of prog-
+nostic charts of surface pressure and the SOO-mb surface averaged for 10 days.
+
+5. Autoprojection method. This method is similar to the Japanese method for the
+extrapolation of periodic components with use of the main components of the con-
+sidered meteorological fields. Before conclusions can be drawn concerning the
+possibilities of the method it must be tested for a long time under routine con-
+ditions.
+
+5. Understanding of physical climatic system. Uork has begun on implementation
+
+of the joint project of the Meteorological Service of Great Britain, one of the
+universities and the European Center for Medium-Range Weather Forecasts. The pur-
+pose of this project is the creation of a specialized archives of global meteor-
+ological data and diagnostic data on a number of energy characteristics and
+
+study of the main climate-forming factors on the basis of a physical analysis of
+these data. It is proposed that the understanding of the physical climatic system
+be inproved in this way. The project has still not been completed.
+
+6. Interpretation of pressure formations in weather terms. The analogues method,
+nuserical models and the autoprojection method in the best case make it possible
+to obtain the prognostic fields of surface pressure and/or geopotential of the
+upper levels. The interpretation of these prognostic pressure fields in weather
+terms (precipitation, temperature) is not sluays obvious. The circulation types
+developed by Lamb in 1972 are used for solution of this problem.
+
+Koflan gave a review of LEW? investigations carried out at the Australian Meteor-
+ological Service. Empirical, statistical and numerical L8H? methods are being de-
+veloped in Australia. In particular, a study is made of the correlation between
+the field of velocities and the distribution of precipitation (the correlation
+coefficient is about 0.6-0.7). However, the inadequacy of observational data is
+sensed acutely. Two or three years are required in order to collect all the avail-
+able useful data.
+
+The Australian Bureau of Meteorological Experimental Forecasts operated during
+l9Sb-l97l. This period is divided into two parts: first -- from 1956 through
+1967; second -— from 1968 through 1971. During the first period LR"? work was
+directed by Karelski, an adherent to the Soviet Hul'tsnovskiy school. Karelski
+began his investigations of the considered problem for the Australian region in
+1951. The concepts "cyclonality" and "anticyclonality" were introduced; partic-
+ular attention was devoted to month-to-month anomalies of pressure formation sys-
+tems. Investigations have indicated that some types of circulation have a defin-
+itely conservative character in the course of natural periods up to a season or
+more. Beginning in 1968 the LR"? work was headed by Hafotti.
+
+The procedure of preparing a forecast involves the following stages:
+
+1. Analysis of atmospheric circulation on the basis of ATSOO and a surface pres-
+sure chart.
+
+2. Analysis of "cyclonality" and "anticyclonality" anomalies of the current month.
+3. Forecasting of atmospheric circulation in the coming month with an indication
+of the types of anticipated circulation.
+
+38
+
+FOI¢0FFKJAI.USE(HVLY
+FOI1DFFKJAL.UBE(NNLY
+
+4. A general description of the anticipated weather in the coming month for
+large geographical regions of Australia.
+
+For all years the mean evaluation of the forecasts for temperature is 561 and
+for precipitation 51!. In 1971 this work was suspended.
+
+During recent years, in connection with the awakening interest in the problem of
+climatic change, there have been a number of studies (walker, Lamb, Nichols and
+others) whose results make it possible to hope for the development of a new,
+more perfect LRHF method.
+
+During the discussion the position of the Soviet representative could be summaris-
+ed as follows: at the present time one of the most promising directions in LR"?
+research is a deeper study of the processes of interaction between the ocean and
+the atmosphere on the basis of the theoretical studies of Academician G. 1. Mar-
+chuk and Soviet proposals made within the framework of the "Rasrezy" (Profiles)
+program. This position agrees with the corresponding resolution of the HMO execu-
+
+tive committee. Hiin-Nielsen spoke out in support of the Soviet proposal. after
+which it was adopted.
+
+Then the conferees were informed by "MD officials that by way of preparation of
+the program for the working conference on time series of oceanographic sections
+(Tokio, 1981) there would be a conference of experts in the fourth quarter of 1980.
+
+In the course of further discussion of the LR"? problem the Soviet representative
+expressed his opinions concerning the importance of the problem of discriminating
+and parameterising the most important nonadiabatic factors and on a new interpreta-
+tion of the problem of atmospheric predictability. The conferees expressed their
+agreement with these ideas. An address by Somerville was of particular interest.
+He expressed most categorically that the principal efforts should be directed to
+the development of a new strategy on the LRHP problem different from that which is
+based on modern models of general circulation of the atmosphere. Using a model of
+general circulation he carried out numerical experiments with inclusion and exclu-
+sion of the principal physical processes taken into account in the model. It was
+found that the results of these experiments differ little from one another. Ac-
+cordingly. Somerville concluded that in modern models there is poor representa-
+tion of the principal physical processes. Therefore. such models cannot be used
+
+in LRHF.
+
+In discussing the problems relating to preparation of the HMO TECHNICAL NOTES on
+LR"? it was decided that the section entitled ”Empirical and Statistical L3H?
+Methods" would be written by Soviet specialists.
+
+The work of this conference revealed that although with respect to some problems
+the opinions of the experts somewhat diverged (which is inevitable in discussing
+such problems as LRHF), with respect to the main problem of international cooper-
+ation in solution of the considered problem the opinion of all the conferees was
+unanimous. It is felt that for success in carrying out investigations in this
+field, directed to the development of new LR“? methods which are better, more per-
+fect than those in existence, there is need for a good businesslike and mutually
+advantageous international cooperation among all the interested countries.
+
+39
+
+FOI‘OFFKJAI.USE(NNLY
+FOR¢DFFKJAI.USE(NVLY
+
+SIXTIETH BIRTHDAY 0F GIVI GEDRDHOVICH SVANIDZE
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 9, Sep 81 pp 119-120
+
+[Article by board members of the USSR State Committee on Hydrometeorology and En-
+vironmental Monitoring and personnel of the Transcaucasian Regional Scientific Re-
+search Institute]
+
+[Abstract] Professor Givi Cedeonovich Svsnidze, doctor of technical sciences, cor-
+responding member of the Georgian Academy of Sciences, marked his 60th birthday
+on 20 September. G. G. Svanidze, director of the Transcaucasian Regional Sci-
+entific Research Institute, is an outstanding scientist in the field of hydrology
+of the land, hydroelectric power and multisided use of water resources. Beginning
+in 1950 he worked at the Power Institute, where during 1958-1970 he headed the
+Division of Multisided Use of Hater Resources, which he organized. Since 1971
+
+he has headed the Hydrology Department at Tbilisi State University. In 1976 he
+was designated director of the Transcaucasian Scientific Research Hydrometeorolog-
+ical Institute (now the Tranacaucasian Scientific Research Institute). He was
+elected a corresponding member of the Georgian Academy of Sciences in 1979. G. G.
+Svanidze is the author of 150 scientific studies, including seven monographs. In
+his monographs OSNOVY RASCHETA RRGULIROVANIYA RECRHOGO STORA METODOM MONTE-RARLO
+(Principles for Computing Regulation of River Runoff by the Monte Carlo Method)
+and MATEMATICHBSKOYE MODELIROVANIYE GIDROLOGICHBSKIKH RYADOV (Mathematical Model-
+ing of Hydrological Series) he thoroughly investigated the possibilities of using
+statistical tests in the field of water management computations and theories of
+regulation of river runoff and developed new methods for computing reservoirs. For
+the first time he generalized stochastic computation methods for the case of a
+system of reservoirs. The methods which he proposed have been adopted into the
+practice of planning of a number of hydroelectric power stations in the USSR. G. G.
+Svanidze is one of the authors of the monographs VDDOKBOZYAYSTVBHHYY RADASTR SSSR.
+METODIKA SOSTAVLEHIYA (Water Management Inventory of the USSR. Compilation Method),
+GIDROEHERGETICHESKIYB RESURSY GRUZIHSKOY SSR (Hydroelectric Power Resources of the
+Georgian SSR), OPASNYYB GIDROMETEOROLOGICHESKIYE YAVLBNIYA NA KAVKAZB (Dangerous
+Hydrometeorological Phenomena in the Caucasus) and others. He directed prepara-
+tion of the fundamental 10-volume work ROMPLEKSNOYE ISPOL'ZOVANIYB VODHYKH RESUR-
+SOV GRUZINSKOY SSR (Multisided Use of Hater Resources in the Georgian SSR). The
+studies of Svanidze in the field of modeling of hydrological processes have laid
+the basis for a new scientific direction in the theory of regulation of river run-
+off which is successfully being developed st the scientific and planning insti-
+tutes of the USSR and also abroad. 6. G. Svanidze is one of the founders of modern
+stochastic hydrology. His reports have been presented at 30 international symposis
+and his works have been published in many languages.
+
+40
+
+FORiMHﬂCIAl.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+SIXTIBTH BIRTHDAY 0F ARKADIY YMMV!!!“ CWKOV
+
+Moscow HHEOROLOGIYA I GIDROLOGIYA in Russian No 9, Sep 81 pp 120-121
+
+[Article by board members of the USSR State Committee on Nydrometeorology and En—
+vironmental Monitoring and personnel of the Northern Caucasus Territorial Admin—
+istration of Nydrometeorology and Environmental Monitoring)
+
+[Abstract] Arkadiy Yefremovich Cherenkov, head of the Northern Caucasus Territor—
+ial Administration of Hydrometeorology and Environmental Monitoring, marked his
+60th birthday on 30 September 1981. Since his graduation from the Rostov Hydro-
+meteorological Technical School in 1940 he has been constantly affiliated with
+
+the Northern Caucasus Administration. Under his direction and with his direct par-
+ticipation there was restoration of the hydrological netuork of the Lower Don.
+Later. in the 1950's. he carried out a hydrograpbic investigation of the Don River
+and the rivers of the Sea of Azov area. In 1956 he was designated deputy head and
+in 1965 head of the Northern Caucasus Administration of the Nydrometeorological
+Service. Under his direction the administration is solving major problems in the
+hydrometeorological support of the developing national economy of important re-
+gions: Don, Kuban. Lover Volga and Northern Caucasus regions. He has always denot-
+ed special attention to agricultural production. Arkadiy Yefremovich has done much
+in supplying the required information to major construction projects: the Great
+Stavropol' Canal, Krasnodarsk Reservoir and rice systems, Atommash, and others. He
+has produced a number of important reference aids based on the results of study'of
+the hydrometeorological regime. Major studies are being carried out for investiga-
+tion of dangerous and especially dangerous hydroeeteorological phenomena, especial-
+ly in the mountains of the Northern Caucasus. Recently the administration has solv-
+ed a number of complex problems related to the technical reconstruction of the ser-
+vice. automation of the collection, processing and dissemination of hydrometeorol-
+ogical information and organizing observations and monitoring of environmental con-
+tamination. Such successes of the administration are largely attributable to the
+
+outstanding leadership of A. Ye. Cherenkov.
+FOI:OIIWC1A1.USIZ(HVLY
+
+AHARDS GIVEN T0 SOVIET HETEOROLOGISTS AND OCEANOGRAPHBRS
+
+Moscow HETEOROLOGIYA I CIDROLOGIYA in Russian No 9, Sep 81 pp 121-126
+
+[Unsigned article]
+
+[Text] For implementation of the goals of the Tenth Five-Year Plan and for the
+successes attained in hydrometeorological support of the national economy. or-
+ders and medals of the USSR have been awarded to the following workers of inst-
+itutes and organizations of the State Committee on Hydrometeorology and Environ-
+mental Monitoring:
+
+Order of Lenin
+
+Nikolay Nikolayevich Aksarin: Head of the Uzbek Republic Administration of the ﬂy-
+drometeorological Service and Director of the Central Asian Scientific Research
+Institute.
+
+Galina Alekseyevna Hiehina: engineer at the Yakutak Aviation Meteorological Cen-
+ter of the Yakutsk Territorial Administration of the Bydrometeorological Service.
+
+Order of the October Revolution
+
+Petr Prokof'yevich Laptiyev: former Head of the Transbaykal Territorial Adminis-
+tration of the Hydrometeorological Service.
+
+Sergey Konstantinovich Chcrkavskiy: Head of Administration at the State Committee
+on Hydrometeorology and Environmental Monitoring.
+
+Order of the Red Banner of Labor
+
+Liya Vasil'yevna Alekseyeva: Director of the Tallin Hydrometeorological Observa-
+tory of the Estonian Republic Administration of the Hydrometeorological Service.
+
+Shatly Babayev: Head of the Chagyl Meteorological Station of the Turkmen Republic
+Administration of the Hydrometeorological Service.
+
+Tofa Lyutfulla Bayramova: Section Head at the Azerbaydzhan Republic Administra-
+tion of the Hydrometeorological Service.
+
+Dmitriy Petrovich Bespalov: Section Head at the Main Geophysical Observatory.
+42
+
+INJI‘OFIICIAI.IEIE(IVLY
+FOI‘OIIHCJAI.IIIE(HULY
+
+Konstantin Yegorovich Vlasov: Head of the Buguruslan Aviation Meteorological Sta-
+tion of the Volga Territorial Administration of the Hydrometeorological Service.
+
+Anatoliy Hakarovich Grishchenko: Head of the Omolon Aviation Meteorological Ste-
+tion of the Kolyms Territorial Administration of the Hydrometeorologicsl Service.
+
+Tamara Fedorovna Zhevnyak: Head of the Aviation Meteorological Station of Kustan-
+ayskaya Hydrometeorological Observatory of the Kazakh Republic Administration of
+the Hydrometeorological Service.
+
+Semen Pavlovich Koznov: Head of the Northwestern Territorial Administration of the
+Bydrometeorological Service.
+
+Nikolay Nikolayevich Kolesnichenko: Head of the Northern Territorial Administra-
+tion of the Hydrometeorological Service.
+
+Valentina Petrovna Krasnysnskaya: Senior Scientific Specialist of the Far Eastern
+Scientific Research Institute.
+
+Galina Petrovna Kupchinskaya: Section Head, Heather Bureau of the Black Sea and
+Sea of Azov of the Ukrainian Republic Administration of the Hydrometeorological
+Service.
+
+Zinanda Georgiyevna Kurakova: Head of the Yelizovo Aviation Meteorological Station
+of the Kamchatkan Territorial Administration of the Hydrometeorological Service.
+
+Vadim Viktorovich Larin: Deputy Head of Administration of the State Committee on
+Hydrometeorology and Environmental Honitoring.
+
+Trofim Vasil'yevich Li: Head of the Novosibirsk Aviation Meteorological Center of
+the Heat Siberian Territorial Administration of the Hydrometeorological Service.
+
+Mikhail Hikhaylovich Hasalev: Head of the Kostroma Hydrometeorological Bureau of
+the Upper Volga Territorial Administration of the Hydrometeorological Service.
+
+Yegor Vasil'yevich Hesyats: Head of the Service of the Automated System for Data
+Transmission for the Far Eastern Territorial Administration of the Hydrometeorol-
+ogical Service.
+
+Vasiliy Grigor'yevich Pavlenko: Head of the Sakhalin Territorial Administration of
+the Nydrometeorological Service.
+
+Arvid Antonovich Pastors: Section Head in the Rise Heather Bureau of the Latvian
+Republic Administration of the Hydrometeorological Service.
+
+Yakov Pavlovich Popov: Head of the Murmansk Territorial Administration of the ﬂy-
+drometeorological Service.
+
+Vennnmin Aleksandrovich Semenov: Head of the Data Center at the All-Union Scientif-
+ic Research Institute of Hydrometeorologicsl Information.
+
+63
+
+FOI‘OPFEJAI.USIIMVLY
+FOIMOF11C1A|.US£IJNLY
+
+Viktor Petrovich Teslenko: Director of the Institute of Experimental Meteorology.
+
+Grigoriy Petrovich Tsyganov: Head of the Rostov Aviation Meteorological Center
+of the Northern Caucasus Territorial Administration of the Hydrometeorological
+Service.
+
+Lidiya Prokof’yevna Shevchik: senior engineer at the Bratsk Aviation Meteorolog-
+ical Station of the Irkutsk Territorial Administration of the Hydrometeorological
+Service.
+
+Pavel Yakovlevich Yukhta: senior engineer at the Hydrometeorological Observatory
+of the Ukrainian Republic Administration of the Hydrometeorological Service.
+
+Order of Friendship of Peoples
+
+Dmitriy Ivanovich Berezkin: Deputy Head of the Belorussian Republic Administra-
+tion of the Hydrometeorological Service.
+
+Mikhail Mikaylovich Danilyuk: Head of the Transcarpathian Bydroneteorological Bur-
+eau of the Ukrainian Republic Administration of the Hydrometeorological Service.
+
+Mikhail Chokkayavich Zalikhanov: Director of the High-Mountain Geophysical Insti-
+.tute.
+
+Nikolay Yefimovich Zakharchenko: Head of the Latvian Republic Administration of
+the Hydrometeorological Service.
+
+Stanislav Iosifovich Zachek: laboratory head at the Main Geophysical Observatory.
+
+Yevgeniy Mikhaylovich Ivsnov: captain of the scientific research ship "Akadenik
+Shirshov" of the Far Eastern Scientific Research Institute.
+
+Nikolay Petrovich Ivanov: senior electromechanic of the scientific research
+weather ship "Ernst Krenkel'" of the Odessa Division. State Oceanographic Inst-
+itute.
+
+Mikhail Petrovich Koretskiy: Deputy Head of the Transbaykal Territorial Admin-
+istration of the Hydrometeorological Service.
+
+Yevgeniy Georgiyevich Lomonosov: Deputy Director of the USSR Hydrometeorological
+Center.
+
+Galina Mikhaylovna Petrova: laboratory head at the Institute of Applied Geophys-
+ics.
+
+Yevgeniya Abranovna Red'ko: Head of the Service of the Automated System for Data
+Transmission of the Kazakh Republic Administration of the Hydrometeorological
+Service.
+
+Feliks Yakovlevich Rovinskiy: Section Head in the Laboratory for Monitoring the
+Environment and Climate.
+
+4d
+
+FOR‘OFFKJA1.USE(HVLY
+FOI‘OFFﬂJAl.USE(NVLY
+
+Civi Cedeonovich Svanidze: Director of the Tranacaucasian Regional Scientific
+Research Institute.
+
+Vladimir Pedorovich Suslov: Section Read at the Central Asian Scientific Research
+Institute.
+
+Boris Sergeyevich Tatarinov: Section Read at the Georgian Republic Administration
+of the Hydrometeorological Service.
+
+Yuriy Ivanovich Teterin: Section Head at the Computation Complex of the State
+Scientific Research Center for the Study of Natural Resources.
+
+Tamar Ivanovich Turmanidze: Head of the Georgian Republic Administration of the
+Hydrometeorological Service.
+
+Aleksandr Petrovich Fedoseyev: Section Read at the All-Union Scientific Research
+Institute of Agricultural Meteorology.
+
+Sergey Stepanovich Khodkin: Head of Administration at the State Committee on By-
+drometeorology and Environmental Monitoring.
+
+Sof'ya Vaginakovna Shaginyan: Head of the Armenian Republic Administration of the
+Hydrometeorological Service.
+
+Grigoriy Innokent'yevich Shcherbakov: Head of the Khomutovo Agrooeteorological Sta-
+tion of the Irkutsk Territorial Administration of the Hydrometeorological Service.
+
+Order "Emblem of Honor"
+
+Agabek Sogomonovich Avetisyan: senior technician of the Hartuni Meteorological Sta-
+tion of the Armenian Republic Administration of the Bydrometeorological Service.
+
+Anna Nikitichna Akop'yants: technician at the Sevastopol' Rydrometeorological 0b-
+servatory of the Northern Caucasus Territorial Administration of the Bydromsteor-
+ological Service.
+
+Leonid Petrovich Anan'yev: Head of the Tiksi Territorial Administration of the
+Hydrometeorological Service.
+
+Nikolay Hikheyevich Artyukhov: senior engineer of the Novokuznetak Aviation
+Meteorological Station of the Nest Siberian Territorial Administration of the ﬂy-
+drometeorological Service.
+
+Petr Anatol'yevich Bibinov: Head of the Service of the Automated System for Data
+Transmission of the Uzbek Republic Administration of the Hydrometeorological Ser-
+vice.
+
+Liliya Antonovna Borisova: senior engineer at the Cor'kiy Aviation Meteorological
+Station of the Upper Volga Territorial Administration of the Hydrometeorological
+Service.
+
+45
+
+INDI‘OIFICJAI.IEI§(H‘LY
+FOR‘OFFHJAI.USE(NVLY
+
+Mariya Matveyevna Bondar': Head of the "Sovkhoz Kara-Sn" Hydrometeorological
+Station of the Kirgiz Republic Administration of the Hydrometeorological Service.
+
+Nikolay Alekseyevich Bochin: Section Read at the State Committee on Hydrometeor-
+ology and Environmental Monitoring.
+
+Mikhayl Vssil'yevich Buykov: laboratory head at the Ukrainian Scientific Research
+Institute.
+
+Mariya Alekseyevna Verevkina: laboratory head at the Northern Caucasus Territor-
+ial Administration of the Hydrometeorological Service.
+
+Roman Solomonovich Golubov: laboratory head at the Kazakh Scientific Research
+Institute.
+
+Vladimir Dmitriyevich Grishchenko: junior scientific specialist at the Arctic and
+Antarctic Scientific Research Institute.
+
+Leonid Abramovich Dinevich: Head of the Antihail Service in the Moldavian Repub-
+lic Administration of the Hydrometeorological Service.
+
+Fishel' L'vovich Dlikman: laboratory head at the Institute of Applied Geophysics.
+
+Ivan Sergeyevich Yeremin: Head of the Irkutsk Territorial Administration of the
+Hydrometeorological Service.
+
+Yuriy Timofeyevich Zheltikov: head of the Volga Territorial Administration of the
+Hydrometeorologicsl Service.
+
+Oleg Georgiyevich Zhernovoy: senior engineer of the engineering team at the Kam-
+chatka Administration of the Hydrometeorological Service.
+
+Saveliy Ivanovich Zhidkov: Head of the Leninabad Hydrometeorological Bureau of
+the Tadzhik Republic Administration of the Hydrometeorological Service.
+
+Amirgali Zhusupkaliyev: Head of the Opornaya Meteorological Station of the Kazakh
+Republic Administration of the Hydrometeorological Service.
+
+Aron L'vovich Zlatin: Section Head at the Scientific Research Institute of Instru-
+ment Making.
+
+Irina Konstantinovna Ivanova: senior engineer at the Saratov Hydrometeorological
+Observatory of the Volga Territorial Administration of the Mydrometeorological
+Service.
+
+Zoya Mikhaylovna Izmaylovn: Chairman of the Joint Trade Union Committee of the
+Kirgiz Republic Administration of the Hydrometeorological Service.
+
+Vladimir Ivanovich Il'ysshenko: engineer at the Omsk Hydrometeorological Observa-
+tory of the Omsk Territorial Administration of the Mydrometeorological Service.
+
+46
+
+FOI!0FFKJA1.USE(IVLY
+F0!‘0FFHJA1.USE(HVLY
+
+Agrippina Grigor'yevna Ribereva: technician at the Ul'zutuyevskaya Meteorolog-
+ical Station of the Transbaykal Territorial Administration of the Hydrometeorol-
+ogical Service.
+
+Vladimir Hikhaylovich Klimovich: Head of the Calculations and Reports Bureau of
+the Amderna Territorial Administration of the Hydrometeorological Service.
+
+Leonid Dmitriyevich Kolesnikov: Section Head at the Arkhangel'sk Weather Bureau
+of the Northern Territorial Administration of the Hydrometeorological Service.
+
+Ivan Fomich Konoplin: Head of the Verkhne-Dubrovo Aerological Station of the Ural
+Territorial Administration of the Hydrometeorological Service.
+
+Vladimir Aleksandrovich Krupennikov: senior engineer at the Svcrdlovsk Heather
+Bureau of the Ural Territorial Administration of the Rydrometeorological Service.
+
+Yekaterina Grigor'yevna Kulik: engineer at the Cherkessk Hydrometeorological Bur-
+
+eau of the Northern Caucasus Territorial Administration of the Rydrometeorolog-
+icsl Service.
+
+Petr Hikhaylovich Lur'ye: Head of the Turkmen Republic Administration of the ﬂy-
+drometeorological Service.
+
+Lyudmila Alekseyevna Hatveyeva: Section Head at the Khabarovsk Hydrometeorolog-
+ical Observatory of the Far Eastern Administration of the Hydrometeorological
+Service.
+
+Bakitzhan Kudaybergenovich Haubaeov: Head of the Ayah-Run Meteorological Station
+of the Kazakh Republic Administration of the Hydrometeorological Service.
+
+Yuriy Vasil'yevich Hel'nichuk: Section Head at the Central Aerological Observa-
+tory.
+
+Nikolas Hikolovich Hikalayunas: Head of the Lithuanian Republic Administration of
+the Hydrometeorological Service.
+
+Tamara Ivanovna Hikhaylova: Head of the Leningrad Aviation Meteorological Station
+of the Northwestern Territorial Administration of the Hydrometeorological Service.
+
+Yuriy Nikiforovich Holohoyedov: senior engineer of the communications center at
+the Upper Volga Territorial Administration of the Hydrometeorological Service.
+
+Nikolay Romanovich Hyarikyanov: Section Head at the Yakutsk Territorial Adminis-
+tration of the Hydrometeorological Service.
+
+Adella Andreyevna Nazarova: senior scientific specialist at the Hydrochemical In-
+stitute.
+
+Boris Aleksandrovich Nebogatikov: senior engineer at Sadgorod Aerological Station
+of the Primor'ye Territorial Administration of the Hydrometeorological Service.
+
+47
+
+FOI10IFKJA1.USE(NVLY
+INDR‘OFIUCJAI.LEIE(HUIJV
+
+Tamilla Gasanovna Nedoshivina: Chief Editor of the State Scientific-Technical By-
+drometeorological Publishing House. -
+
+Nonna Alekseyevna Hikiforova: engineer at the Zhdanov Hydrometeorological Bureau
+of the Ukrainian Republic Administration of the Hydrometeorological Service.
+
+Aleksandra Vasil'yevna Nikolayeva: printer at the printing house of the State Com-
+mittee on Hydrometeorology and Environmental Monitoring. -
+
+Fedor Vasil'yevich Oblakov: Director of the Tuapse Hydrometeorological Technical
+School.
+
+Robert Surenovich Ovsepyan: Head of the Antihail Service of the Armenian Republic
+Administration of the Hydrometeorological Service.
+
+Nikolay Cavrilovich Potulov: Head of the Aerological Station of the Ural Hydro-
+meteorological Observatory of the Kazakh Republic Administration of the Hydro-
+meteorological Service.
+
+Petr Yurevich Pushistov: Director of the Heat Siberian Regional Scientific Re-
+search Institute.
+
+Gennadiy Vital‘yevich Rumyantsev: Head of the Kolyma Territorial Administration
+of the Hydrometeorological Service.
+
+Aleksey Alekseyevich Rybnikov: Section Head at the State Oceanographic Institute.
+
+Viktor Sergeyevich Ryazsnov: Head of the Upper Volga Territorial Administration of
+the Hydrometeorological Service.
+
+Valentina Aleksandrovna Safonova: technician at the Baku Heather Bureau of the
+Azerbaydzhan Republic Administration of the Hydrometeorological Service.
+
+Vera Afanas'yevna Semenova: senior engineer of the Domodedovo Affiliate of the
+Main Aviation Meteorological Center.
+
+Anna Fedorovna Skokova: aenior engineer of the Yuzhno-Sskhalinsk Weather Bureau of
+the Sakhalin Territorial Administration of the Hydrometeorological Service.
+
+Nikolay Hikhaylovich Skurikhin: Section Chief Designer of the Central Design Bur-
+eau of Hydrometeorological Instrument Making.
+
+Raisa Prokof'yevna Sosnovskays: Section Head at the Ukrainian Heather Bureau of
+the Ukrainian Republic Administration of the Hydrometeorological Service.
+
+Liya Ivanovna Stasevich: Head of the Pruzhany Meteorological Station of the Belo-
+russian Republic Administration of the Hydrometeorological Service.
+
+Hinel' Aiekaandrovna Sumina: senior engineer at the Donetsk Aviation Meteorolog-
+ical Station of the Ukrainian Republic Administration of the Hydrometeorological
+Service.
+
+#8
+
+FINICHNNCJAI.USI2CMULY
+FOI‘OFFHJAI.URE(NNLY
+
+Rinmn Semenovna Sukhachcva: Section Read at the State Committee on Hydrometeorol-
+ogy and Environmental Monitoring.
+
+Margarita Il'inchinichna Sukhova: senior engineer of the Igarka Aviation Meteorol-
+ogical Station of the Krasnoyarsk Territorial Administration of the Bydrometeor—
+ological Service.
+
+Nina Ivanovna Tayurskaya: head of the Leningrad Heather Bureau of the Northwest-
+ern Territorial Administration of the Bydrometeorological Service.
+
+Yuriy Petrovich Teplov: Director of the Pavlodar Bydrometeorological Observatory
+of the Kazakh Republic Administration of the Hydrometeorological Service.
+
+Aleksandra Ivanovna Ushakova: senior engineer at the Crimean Bydrometeorological
+Observatory of the Ukrainian Republic Administration of the Hydrometeorological
+Service.
+
+Vladimir Yakovlevich Pedorov: Director of the Tyumen Hydrometeorological Observa-
+tory of the Omsk Territorial Administration of the Bydrometeorological Service.
+
+Yuriy Sarkisovich Tsaturov: Head of Administration at the State Committee on Hydro-
+meteorology and Environmental Monitoring.
+
+Ivan Vasil'yevich Tsvetkov: Deputy head of Administration at the State Committee on
+Hydrometeorology and Environmental Monitoring. .
+
+Vladimir Afanas'yevich Cheban: head of the Communications Center at the Moldavian
+Republic Administration of the Rydrometeorological Service.
+
+Marina Aleksandrovna Cherkesova: Section Head of the Heather Bureau at the West
+Siberian Territorial Administration of the Mydrometeorological Service.
+
+Adam Valeriyevich Sheynov: Head of the Bakhta Radiometeorological Station at the
+Krasnoyarak Territorial Administration of the Bydrometeorological Service.
+
+Ninel' Nikitichna Shekhanina: Head of the Delgograd Mydrometeorologicel Bureau of
+the Territorial Administration of the Mydrometeorological Service of the Central
+Chernozem Oblaats.
+
+Igor' Alekaeyevich Shiklomanov: Deputy Director of the State Hydrological Insti-
+tute.
+
+Nntnl'ya Ivanovna shuleykin: Chief Engineer of the State Committee on ﬁydrometeor-
+ology and Environmental Monitoring.
+
+Tnt'yana Aiekaandrovna Brshtadt: engineer at the Murmansk Territorial Administra-
+tion of the Hydrometeorological Service.
+
+Medal "For Illustrious Bork"
+
+Khacik Vardsnovich Abramyan: technician at the Aparan Meteorological Station of
+the Armenian Republic Administration of the Bydrometeorological Service.‘
+
+49
+
+F0810FFKJAI.USB(NNLY
+FOI‘OFFKJAL.USE<DNLY
+
+Raise Aleksandrovna Antokhina: Section Read at the Krasnoyarsk Territorial Admin-
+istration of the Bydrometeorological Service.
+
+Viola Isaakovna Aunin': senior engineer at the Riga Weather Bureau of the Latvian
+Republic Administration of the Hydrometeorological Service.
+
+Cenriyetta Vol'demarovna Balyakina: Division Read at the Moscow Hydrometeorological
+Technical School.
+
+Nadezhda Falaleyevna Boyeva: Chief Bookkeeper at the State Committee on Hydrometeor-
+ology and Environmental Honitoring.
+
+Nina Ivanovna Budnik: Deputy Section Read at the Kazakh Republic Administration
+-of the Hydrometeorological Service.
+
+Lyudmila Vladimirovna Butalova: senior engineer at the Computation Center of the
+Main Geophysical Observatory.
+
+Anatoliy Tarasovich Buyalo: mechanic on the steamer at the Kiev Lake Station of
+the Ukrainian Republic Administration of the Hydrometeorological Service.
+
+Svetlana Aleksandrovna Vasil'yeva: Head of the Ishim Aviation Meteorological Sta-
+tion at the Omsk Territorial Administration of Hydrometeorology.
+
+Anatoliy Alekseyevich Velikodnyy: senior engineer at the Dikson Territorial Admin-
+istration of the Hydrometeorological Service.
+
+Nazim Gayazov: driver at the Western Kazakhstan Hydrometeorological observatory
+of the Kazakh Republic Administration of the Hydrometeorological Service.
+
+Ismet Khemdiyevich Diasamidze: Director of the Batumi Hydrometeorological Observ-
+atory of the Georgian Republic Administration of the Hydrometeorological Service.
+
+Valentina Vasil'yevna Dolgopolova: technician at the Kuban Mouth Station of the
+Northern Caucasus Territorial Administration of the Hydrometeorological Service.
+
+Vera Aleksandrovna Yelizarova: senior engineer at the State Committee on Hydro-
+meteorology and Environmental Monitoring.
+
+Lidiya Ivanovna Yemchenko: senior engineer of the Gor'kiy Weather Bureau of the
+Upper Volga Territorial Administration of the Bydrometeorological Service.
+
+Kuz'ma Petrovich Yermak: Head of the Onor Meteorological Station of the Sakhalin
+Territorial Administration of the Hydrometeorological Service.
+
+Alla Nikolayevna Zavodtsova: senior engineer at the Svetlovodsk Hydrometeorological
+Observatory of the Ukrainian Republic Administration of the Hydrometeorological
+Service.
+
+Gertrude Borisovna Zakharova: senior engineer of the Krasnoyarsk Hydrometeorolog-
+
+ical Observatory of the Krasnoyarsk Territorial Administration of the Hydro-steer-
+ological Service.
+
+50
+
+FIIICNWNCIAI.USE1DNLY
+FOR OFFICIAL USE ONLY
+
+Lidiya Stepanovna Zvyagintseva: senior technician of the Bins Aviation Meteoro-
+logical Station of the Azerbaydzhan Republic Administration of the Hydrometeorol-
+ogical Service.
+
+Zoya Hikhsylovna Ivanova: senior engineer at the Leningrad Hydrometeorological 0b-
+servatory of the Northwestern Territorial Administration of the ilydroneteorolog-
+icol Service.
+
+‘rat'yana Prokof'yevna Ivanova: senior engineer of the Kuybyshev Weather Bureau of
+the Volga Territorial Administration of the Hydrometeorological Service.
+
+Valentina Ivanovna Ignat'yeva: senior engineer of the liary Aviation Meteorolog-
+ical Station of the Turkmen Republic Administration of the Hydrometeorological
+
+Serv ice .
+
+Ninel' Sergeyevna Kazantseva: Section Read at the Ukrainian Republic Administra-
+tion of the Hydrometeorological Service.
+
+Galina Nikolsyevna Klyukvina: senior econolist of the State Couittee on Hydro-
+meteorology and Environmental Monitoring.
+
+Taisiys Yermolayevna Kovaleva: laboratory head at the Heat Siberian Scientific
+Research Institute.
+
+Galina Stepanovna Kopytova: senior technician of the Rybinsk Hydrometeorological
+
+Observatory of the Upper Volga Territorial Adninistration of the Bydrometeorolog-
+ical Service.
+
+Lyudmila Ivanovna Krasnovskaya: laboratory head at the Central Aerological Observ-
+story.
+
+Khabil Tushevich Kudayev: specialist at the Northern Caucasus Antihail Service.
+
+Lyudmila Pavlovna Kus'mina: Head of the authors Aviation Meteorological Station
+of the Uzbek Republic Administration of the Hydrometeorological Service.
+
+Vsleriy Vladimirovich Lukin: senior engineer at the Arctic and Antarctic Sci-
+entific Research Institute. '
+
+Aleksandr Nikolayevich Hartynov: radio station head at the Gur'yev Hydrometeoro-
+logical Observatory of the Kazakh Republic Adsinistration of the Hydrometeorolog-
+ical Service.
+
+Valeriya Nikolayevna Hichurina: senior engineer in the Bureau of Calculations and
+Reports at the Ural Territorial Administration of the Bydroneteorological Ser-
+vice.
+
+Anna Kikhaylovna Nozhenko: Section Head at the Kirgiz Republic Administration of
+the Hydrometeorological Service.
+
+Nina Ivanovna Nosacheva: Head of the Pyandzh Aviation Meteorological Station of the
+Tadzhik Republic Administration of the Hydrometeorological Service.
+
+51
+
+FOR OFFICIAL USE ONLY
+FIIICﬂNHCJAI.USE(NVLY
+
+Irina Georgiyevna Orlova: senior scientific specialist at the Odessa Division of
+the State Oceanographic Institute.
+
+Natsl'ya Dmitriyevna Pal'tseva: technician at the Pervomayskoye Hydrometeorolog-
+Vical Station of the West Siberian Territorial Administration of the hydrometeor-
+ological Service.
+
+Tamara Aleksandrovna Perlova: Chairman of the Joint Committee of Moscow Trade
+Unions of the State Committee on Hydrometeorology and Environmental Monitoring.
+
+Galina Stepanovna Podshivalova: senior engineer of the Birobidzhan Hydrometeorolog-
+icsl Bureau of the Far Eastern Territorial Administration of the Hydrometeorolog-
+ical Service.
+
+Klavdiys Nikolayevna Polyakova: senior scientific specialist at the USSR Hydro-
+meteorological Center.
+
+Yuriy Ivanovich Portnyagin: laboratory head at the Institute of Experimental
+Meteorology.
+
+Yekaterins Dmitriyevna Redikortseva: senior engineer of the communications center
+at the Ural Territorial Administration of the Hydrometeorological Service.
+
+Vsrvara Alekseyevna Samokhvalova: Section Head at the Kura Weather Bureau of the
+Territorial Administration of the Hydrometeorological Service of the Central
+Chernozem Oblasts.
+
+Aleksandra Lazarevna Sedinina: Head of the Teplyy Klyuch Aviation Meteorological
+Station of the Yakutsk Territorial Administration of the Hydrometeorological Ser-
+vice.
+
+Tat'yana Yevgen'yevna Sizova: engineer of the Antihail Service of the Moldavian
+Republic Administration of the Hydrometeorological Service.
+
+Boris Vladimirovich Solodkov: Head of the Kolva Hydrometeorological Station of
+the Northern Territorial Administration of the Hydrometeorological Service.
+
+Linda Yukhanovna Tartu: technician at the Pyarnu Meteorological Station of the
+Estonian Republic Administration of the Hydro-eteorological Service.
+
+Nikolay Ignat'yevich Tutubalin: senior engineer at the Pevek Mydrometeorological
+observatory of the Pevek Territorial Administration of the Hydrometeorological
+Service.
+
+Lyudmila Ivanovna Usova: junior scientific specialist of the State Hydrological
+Institute.
+
+Zinands Ivanovna Khazova: senior technician of the Karelian Hydrometeorological
+Observatory of the Northwestern Territorial Administration of the Hydroseteorolog—
+ical Service.
+
+Tat'yana Petrovna Khozyaykina: shop foreman at the Novosibirsk Computer Station.
+
+52
+
+FENR(HﬂﬂC1Al.USE{MULY
+FOR OFFICIAL USE ONLY
+
+Mikhail Ivanovich Tsukanov: senior technician at the Camel Hydrometeorological
+Observatory of the Belorussian Republic Administration of the Hydrometeorolog-
+icnl Service.
+
+Yelena Hikhaylovna Chesnokova: senior synoptic engineer at the Ulan-Ude Aviation
+Heteorological Station of the Tranabaykal Territorial Administration of the ﬂy-
+drometeorological Service.
+
+Lyudmila Grigor'yevna Shinegina: senior technician at the Anadyr' Bydrometeorolog-
+ical Observatory of the Kolyma Territorial Administration of the Hydrometeorolog-
+ical Service.
+
+Galina Ivanovna Shmotova: senior engineer at the Irkutsk Hydrometeorological Ob-
+
+servatory of the Irkutsk Territorial Administration of the Rydrometeorological
+Service.
+
+Larisa Grigor'yevnn Shtan'ko: senior engineer of the Astrakhan Hydrometeorological
+Observatory of the Northern Caucasus Territorial Administration of the Hydrometeor-
+ological Service.
+
+Medal "For Distinction in Work"
+
+Galina Sergeyevna Ahakumova: senior technician at the Voroahilovgrad Hydrometeoro-
+
+logical Bureau of the Ukrainian Republic Administration of the Hydrometeorological
+Service.
+
+Raisa Ivanovna Aksenova: senior technician at the Yemetak hydrometcorological sta-
+tion of the Northern Territorial Administration of the Hydrometeorological Ser-
+vice.
+
+Valentina Petrovna Alekseyeva: photooperator at the Conunications Center of the
+Volga Territorial Administration of the Hydrometeorological Service.
+
+Yelizaveta ll'inichna Anitskaya: Section Head at the Kuybyshev Hydrometeorological
+Observatory of the Volga Territorial Administration of the Hydrometeorological
+Service.
+
+Amalya Zavcnovna Asatryan: senior technician at the Yerevan "Yuzhnaya" Aviation
+Meteorological Stat ion of the Arnenian Republic Administration of the Hydrometeor-
+ologicai Service.
+
+Tamara Basagadayevn: junior technician at the Burgen' Meteorological Station of
+the Transbaykal Territorial Administration of the Hydrometeorological Service.
+
+Tat'yann Ivanovna Bczrukova: junior technician at the Uch-Akty Meteorological Sta-
+tion of the Kazakh Republic Administration of the Hydrometeorological Service.
+
+Vladimir Leonidovich Belov: senior technician at the Vyborg Hydrological Station
+of the Northwestern Territorial Administration of the Hydrometeorological Service.
+
+Vladislnv Ramazanovich Bolov: laboratory head at the High-hauntain Geophysical In-
+stitute.
+
+53
+
+FOR OFFICIAL USE ONLY
+FOR OFHCIAI. USE ONLY
+
+Lidiya Andreyevna Bulavinova: senior laboratory technician of the Kazakh Repub-
+lic Administration of the Hydrometeorological Service.
+
+Abram isayevich Buz: Section Head of the Vil'nyus Weather Bureau of the Lithuan-
+ian Republic Administration of the Hydrometeorological Service.
+
+Lidiya Innokent'ycvna Vanteyeva: observer at the Shankhar Gaging Station of the Ir-
+kutsk Territorial Administration of the Hydrometeorological Service.
+
+Nikolay Alekseyevich Voyt: Head of the L'gov Meteorological Station of the Territor-
+ial Administration of the Central Chernozem Oblasts.
+
+Nadezhda Petrnvna Vorob'yeva: senior laboratory technician of the Krasnoyarsk Terri-
+torial Administration of the Hydrometeorological Service.
+
+Valentina Fedorovna Glinskaya: Section Head at the Vladivostok Hydrometeorological
+Observatory of the Primor'ye Territorial Administration of the Hydrometeorological
+Service.
+
+Mariya Kuz'minichnn Gordeyeva: senior scientific specialist of the Far Eastern Sci-
+entific Research Institute.
+
+Nina Fedorovna Gorchak: senior engineer of the All-Union Scientific Research Insti-
+tute of Hydrometeorological Information.
+
+Murodmamad Davlyatmamadov: observer at the Khorogskoy Hydrological Post of the Hy-
+drometeorological Observatory of the Tadzhik Republic Administration of the Hydro-
+meteorological Service.
+
+Vasiliy Semenovich Dmitriyev: metal worker at the Central Design Bureau of Hydro-
+meteorological Instrument Making.
+
+Lyudmila Ivanovna Dotsenko: technician at the Nikopol'skaya Meteorological Station
+of the Ukrainian Republic Administration of the Hydrometeorological Service.
+
+Kim Ivanovich Yepishin: Head of the Sverdlovsk—Uktus Aviation Meteorological Sta-
+tion of the Ural Territorial Administration of the Hydrometeorological Service.
+
+Lidiya Fedorovna Yermakova: senior scientific specialist at the Sevastopol' Div-
+ision of the State Oceanographic Institute.
+
+Zinanda Hikhayiovna Zahara: senior technician at the Klepinino Agrometeorological
+Station of the Ukrainian Republic Administration of the Hydrometeorological Ser-
+vice.
+
+Nasihu Usmanovna Iskhakova: engineer at the Tashkent-Observatoriya Hydrometeoro-
+
+logical Station of the Uzbek Republic Administration of the Hydrometeorological
+Service.
+
+Amaliya Vaganovna Karmir-Harukyan: senior technician at the Georgian Republic
+Administration of the Hydrometeorological Service.
+
+54
+
+FOR‘OFFKJAI.USE(NVLY
+FOIIOFIICJAI.lEﬂE(HVLY
+
+Nikolay Sergeyevich Kim: senior scientific specialist of the Institute of Ex-
+perimental Meteorology.
+
+Vera Vasil'yevna Klabukova: senior laboratory engineer at the Northwestern Terri-
+torial Administration of the Hydrometeorological Service.
+
+Boris Kuz'mich Korolev: metalsmith-mechanic in the Experimental-Production workshop
+of the Central Aerological Observatory.
+
+Valentina Vasil'yevna Leshkova: senior engineer at the Weather Bureau of the Belo-
+russian Republic Administration of the Hydrometeorological Service.
+
+Yuriy Konstantinovich Martynyuk: head of the Hydrometeorological Training Station
+of the Vladivostok Hydrometeorological Technical School.
+
+Inna Linovna Medvedeva: laboratory head at the Ural Territorial Administration of
+the Hydrometeorological Service.
+
+Nina Petrovna Mezentseva: Head of the Dvinakoy Bereznik Aviation Meteorological
+Station of the Northern Territorial Administration of the Hydrometeorological Ser-
+vice.
+
+Muzaf far Mamed ugly Mirzoyev: junior technician of the Yardymly Bydroneteorolog—
+ical Station of the Azerbaydzhan Republic Administration of the Bydrometeorolog-
+
+ical Service.
+
+Zhaniya Ivanovna Miroshnikova: senior engineer at the Ukrainian Scientific Re-
+search Institute.
+
+Galina Alekaandrovna Mishina: senior engineer at the Khabarovsk Heather Bureau of
+the Far Eastern Territorial Administration of the Hydrometeorological Service.
+
+Inna Alekscyevna Moiseyenko-Ivanova: senior section engineer at the Heat Siberian
+Territorial Administration of the Hydrometeorological Service.,
+
+Nadezhda Borisovnn Moskalevn: engineer at the State Committee on Hydrometeorology
+and Environmental Monitoring.
+
+Nadezhda Borisovna Moskaleva: engineer of the State Committee on Hydrometeorology
+and Environmental Monitoring.
+
+Vol'f Yeselevich Osherov: Chief Inspector of the Gor'kiy Regional Meteorological
+Center.
+
+Nikolny Makarovich Petrov: observer at the Yatyrakha Post of Yakutsk Hydrological
+Station of the Yakutsk Territorial Administration of the Hydrometeorological Ser-
+vice.
+
+Zinnnda Vasil'yevnn Podol'skaya: Secretary to the Deputy Chairman of the State Com-
+mittee on Hydrometeorology and Environmental Monitoring.
+
+SS
+
+FOI‘OFFKJAI.USE(IVLY
+FOR‘OFFKJAI.USE(NVLY
+
+Margarita Vasil'yevna Pozdeyeva: Deputy Chief Bookkeeper of the State Scientific
+Research Center for Study of Natural Resources.
+
+Nonia lvanovna Polkanova: senior technician at the Petropavlovsk-Kamchatskiy By-
+drometeorological Station of the Kamchatka Territorial Administration of the ﬂy-
+drometcorological Service.
+
+Margarita Yegorovna Popova: radio operator at the szl-Orda Hydrometeorological
+Bureau of the Kazakh Republic Administration of the Hydrometeorological Service.
+
+Tat'yana Ivanovna Popova: photooperator at the Gor'kiy Regional Meteorological
+Center.
+
+Anna Petrovna Rozova: Section Head at the Central Volga Hydrometeorological'Ob-
+servatory.
+
+Nikolay Ivanovich Rumyantsev: Section Head at the Computation Center USSR Hydro-
+meteorological Center.
+
+Ella Mikhaylovna Sapozhnikova: senior engineer at the Weather Bureau of the Omsk
+Territorial Administration of the Hydrometeorologicai Service.
+
+Lyudmila Iosifovna Selezneva: engineer at the Kirov Hydrometeorological Observa-
+
+tory of the Upper Volga Territorial Administration of the Hydrometeorological
+Service.
+
+Galina Semenovna Sidorova: Head of the Alakurtti Hydrometeorological Station of
+the Murmansk Territorial Administration of the Hydrometeorological Service.
+
+Mariya Savel'yevna Sirosh: senior technician of the Bukhta Provideniya Hydrometeor-
+ological Bureau of the Pevek Territorial Administration of the Hydrometeorological
+Service.
+
+Anna Iosifovna Skvortsova: technician at the Slavgorod Hydrometeorological Station
+of the west Siberian Territorial Administration of the Hydrometeorological Service.
+
+Valentina Petrovna Smirnova: team leader at the State Hydrological Institute.
+
+Boris Leonidovich Sokolov: senior scientific specialist at the State Hydrological
+Institute.
+
+Sergoy Ivanovich Soldatov: electromechanic at the Communications Center of the Pri-
+mor'ye Territorial Administration of the Hydrometeorological Service.
+
+Alla Aleksandrovna Spiridonova: senior engineer at the Vorkuta Hydrometeorological
+Station of the Northern Territorial Administration of the Hydrometeorological
+Service.
+
+Biruta Petrovna Suyetene: junior technician at the Lazdiyay Meteorological Station
+of the Lithuanian Republic Administration of the Hydrometeorological Service.
+
+Ivan Vasil'yevich Tcrekhov: filer at the Moscow Repair-Construction Sector of the
+State Committee on Hydrometeorology and Environmental Monitoring.
+
+56
+
+FOI.OI1W(JAl.l£ﬂB(HVLY
+FOB1OFFKJAI.USE(NVLY
+
+Kaip Toktosunov: observer at the Chalna Hydrological Post of the Kirgiz Republic
+Administration of the Hydrometeorological Service.
+
+Kirill Grigor'yevich Khendogiy: senior technician at the Kotel'nyy Polar Station
+of the Tiksi Territorial Administration of the Hydro-eteorological Service.
+
+Irakliy Vasil'yevich Chogovadze: Section Head at the Transcaucasian Scientific Re-
+search Institute. -
+
+Kapitalina Anisimovna Shalyapina: senior uarehouseman at the Base for Material-
+Technical Supply of the State Committee on Hydrometeorology and Environmental
+Monitoring.
+
+Galina Fedorovna Shapiro: engineer at the Volgograd Aviation Meteorological Sta-
+tion of the Northern Caucasus Territorial Administration of the Hydroeeteorological
+Service.
+
+Tamara Anatol'yevna Shklyar: operator at the Regional Computation Center of the
+Far Eastern Territorial Administration of the Hydrometeorological Service.
+
+Damladzhon Yusupov: Head of the Ktylkishlak Hydrometeorological Station of the U:-
+bek Republic Administration of the Hydrometeorological Service.
+
+57
+FOI10FFKJAI.USE(H¥LY
+FOI‘OFFKJAL.USE|MNLY
+
+OBITUARY 0F PETR KARPOVICH YEVSEYEV (1911-1964)
+
+ological Service. who died in 1964, would have been age 70 on 1 September. He made
+
+the Great Fatherland Har he did much for organizing continuous meteorological sup-
+
+port of operations of the Red Army. During 1962-1943 he was assigned to London for
+discussions of exchange of meteorological data with the British. After discharging
+
+increasingly responsible tasks. in 1965 he was named to the post of deputy direc-
+tor of the Central Institute of Forecasts. Under his direction. in 1945-1967 the
+
+Committee on Conduct of the International Geophysical Year, as well as a member of
+the WHO Commission on Climatology. In April 1961 he was designated director of the
+newly created Joint Meteorological Computation Center, USSR Academy of Sciences.
+and the Main Administration of the Hydrometeorological Service, transformed in
+early 1964 into the Horld Meteorological Center. Transforming the center into an
+exceedingly well-regarded institute, he died on 20 June 1966 with brilliant plans
+still unfulfilled but with an outstanding legacy.
+
+COPYRIGHT: "Meteorologiya i gidrologiya". 1981
+
+5303 - END ~
+C80: 1866/3
+
+58
+
+FOR4OFFRIAI.USE(NVLY

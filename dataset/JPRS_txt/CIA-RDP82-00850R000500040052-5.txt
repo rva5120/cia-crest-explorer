@@ -1,0 +1,2866 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/ 10406
+
+22 March 1982
+
+USSR Report
+
+ELECTRONICS AND ELECTRICAL ENGINEERING
+(FOUO 3/82)
+
+FBIS FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.3. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+
+OF THIS PUBLICATION BB RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+(rouo 3/82)
+
+CONTENTS
+
+AEROSPACE AND ELECTRONIC SYSTEMS
+
+Evaluation of Parameters of Meteor Risk With Respect
+to Radar Observations. Part I: Statement of
+
+Problenoaaaaocooaooaooa-ooaoaoaoaoaooaoaooaoooooooooaoaoo 1
+
+Evaluation of Parameters of Meteor Riaka with Respect
+to Radar Observations, Part II: Approximation of
+Ionization curveoc0.0.00.0...IIOOOOOOOOI’IOOOOOOI0.0.00.0 2
+
+Recognition of Meteorological Objects by Energy Spectrum
+of Fluctuations of Echo signal Intensities............... 2
+
+Simulating Influx of Meteoric Matter along Radar
+Observers, Report 4: Determination of Some Parameters
+of RC‘COI'GEd Radio Meteors.aaooooeuoooooaaoooaaaooooooaaao 3
+
+Statistical Analysis of Time-Series Estimates of
+Parameters of weak Radio Meteors, Report 1:
+Formulation of the Prohluooaoooo'aoooaaaoo-nocoooooaaoao 3
+
+One Method of Evaluating Speed of Individual Radio
+
+Meteors-oaoooo-oaooooooooo-ooooooaooaaoooaoooaaaaoaaoooao ‘
+
+Device for Hookup of Statistical Quantity Analyzer to
+
+CODpUCEI..................-.....u.........o....-.......-. 4
+
+Automatic Goniometer, Report 1: Design Principles......... 5
+
+Automatic Gonioneter, Report 2: Preliminary Signal
+Processing............................................... 6
+
+Automatic Goniometer, Report 3: Primary Signal
+Processing............................-...o.n.u”nun 6
+
+- a - [III - USSR - 213 8!
+
+FOR OFFICIAL USE ONLY
+IKMIOFFKJAL.USE(NVLY
+
+Automatic Goniometer, Report 4: Software for Automatic
+
+Goniometer...............................................
+
+Synthesis of Two-Scale Antenna System of Meteor Radar
+Station Phase GonimterCOOOOC.00......IIIOOUOOOIOOOOOOII
+
+Some Problems of Investigating Effect of Nonlinear
+Properties of Radio Receiving Channel on Radar
+Station Quality Indices.........................,........
+
+Accuracy Limits of Recording Time Coordinate of Some
+Pulse Signals in Channel With Finite Passband............
+
+Possible Means of Construction and Selection of
+Multichannel Voltage-to-Code Converters for Radio
+Engineering Syste.a..........................-.......o...
+
+Autocorrelational Properties of Quasi-Periodic Pulse
+
+sequences........--c.........-..o.......o..u..ou.o......
+
+Accuracy of Measurement of Time Delay of Useful Signal
+Appearing With Interference Signal.......................
+
+Self-Contained Navigation by Means of Maps.................
+Extremum Correlation Navigation Systems....................
+
+Accuracy of Estimating Polar Coordinates of Objects by
+Optical Detection and Ranging............,...............
+
+ANTENNAS AND PROPAGATION
+
+Approximation Method of Calculating Parameters of
+Antenna Array Hith Passive Radiators.....................
+
+Slot Antenn‘a for Aircraft......ou.........................
+Microstrip Antennas........................................
+
+Quasi—Optimal Filtration in Coherent-Light Device for
+Measuring Polar Coordinates of Objects...................
+
+Accuracy of Measurement of Sound Velocity in Air With
+Doppler marOOOOOOOOOOOOOOOOIOOOOOIOOOIOOIOOGOOOOIOOO0..
+
+Estimation of Energy Spectrum of Doppler-Frequency
+Fluctuations During Radar-Acoustic Probing of
+Atmosphere......................;........................
+
+- b -
+
+FOR 0FF1C1AL USEZCMULY
+
+10
+
+10
+ll
+12
+
+13
+
+16
+lb
+15
+
+l6
+
+l7
+
+l7
+Use of Ultra-Short—Have Radio Emission for Perturbation of
+Ionoaphere....................................o.......... 18
+
+Aligned Scattering of Radio Haves by Artificial
+Inhomogeneities Produced by Radiation From Short-Have
+Transmitter With Oblique Beam............................ 18
+
+Methods of Theoretical and Experimental Investigation of
+Nonstationary Scattering and Radiation of Electromagnetic
+
+wachssseesassess-Doesoneaooooesoomeoasoooeaassseaoeoossa 19
+
+Problem of Potential Precision of Time Position fixation
+of Signal With Scale Comparison of Time Keepers.......... 20
+
+Forming and Quantization of Complex of Envelopes of
+Band‘Pa‘a Signals..........................u........-.-.o 21
+
+Feasibility of Forming Compound Signals with Equipment for
+Digital Frequency Synthesis.............................. 21
+
+Adaptive Compensation of Interference Signals Correlated
+on Long Time Interval.................................... 22
+
+Effect of Piniteness of Transmission Band on Maximum
+Error in Timing of Pulse Signals......................... 23
+
+Signal Identification by Spectrum in Basis of Discrete
+Exponential FunCtions....ooooooc.................o.o..... 23
+
+Signal Identification by General Karunen-Loev
+Indicators Determined From Energy Spectrum............... 24
+
+Signal Identification Prom Spectra Obtained by Analyzers
+of Parallel or Quasi-Parallel Type, Report 6:
+Simulation of Basic Identification Rules Involving
+Spectral Indicators...................................... 2‘
+
+Classification of Signals According to Energy Spectrum
+Under Conditions of A Priori Indeterminancy.............. 25
+
+Distribution of Pulse Amplitudes in Some Industrial
+Interference............................................. 25
+
+Similar Methods of Reception of Multifrequency Signals..... 26
+CIRCUITS AND SYSTEMS
+Determination of Volterra Kernels of Multidimensional
+
+Nonlinear Radioelectronic Circuits by Means of
+.nonlimar Input signala'OOOIOOO0.00.00.0000...OOIIOOOIOO 27
+
+FOR OFFICIAL USE ONLY
+FOR OFFNJA1.USE10NLY
+
+Signal for Circuit With Point-Contact Photoresistor in
+MaximumrSensitivity Mode.................................
+
+COMMUNICATIONS
+
+Waves in Nonhomogeneous Multiconductor Transmission
+Lines With Skin Effect...................................
+
+Calculating Electromagnetic Waves in Multiconductor
+Transmission Lines Using Matrix With Multiple Spectrum
+and Parameters Slowly Varying Along the Line.............
+
+Reflection Coefficient of Ellipsoidal Inhomogeneity in
+coaxial mnneIOOOOOOICOO'IOOOOOIOOCCOOOOIOOOOIOOIOOOOOOO
+
+Algorithm for Analysis of Signals in Nonhomogeneous
+Con-mnication Channels...................................
+
+Distribution of Doppler Frequency Shift in Meteor
+Communication Line.......................................
+
+Error in Calculation of Frequency Characteristics of
+Meteor Communication Channel.............................
+
+Method of Estimating Correlational Properties of Basic
+Characteristics of Meteor Cmmmunication Lines............
+
+Use of Codes in System of Remainder Classes for Data
+Transmission Over Meteor Channel, Report 1:
+Formulation of Problem...................................
+
+Use of Codes in System of Remainder Classes for Data
+Transmission Over Meteor Channel, Report 2:
+Error Detection and Correction Capability of Such
+
+CodeSoeeeeoeooeeooeeoosaeasasego-oeooeoeeaeoaaaeoaoooeooo
+
+Systems for Remote Control of High-Frequency and Medium-
+Frequency Radio Communications Bquipnent.................
+
+COMPONENTS, HYBRIDS AND MANUFACTURING TECHNOLOGY
+Modern Microelectronic Voltage-to-Frequency Converters.....
+
+Parameters of Strongly Coupled Cavity Resonators...........
+
+Effect of Cutoff Region on Characteristics of Irregular
+hetansular Resonator.........nonunuuunu.nu...
+
+- d -
+
+FOR‘0FFK]A[.USE1DNLY
+
+28
+
+29
+
+29
+
+30
+
+30
+
+31
+
+31
+
+32
+
+32
+
+33
+
+33
+
+35 '
+36
+
+36
+FOR OFFICIAL USE ONLY
+
+Graphical Representation of Dependence of Resonance
+Wavelengths on Geometrical Dimensions of Resonators.
+Report 3: Some Generalizations Based on Conformal
+
+Mapping..................................................
+
+Scattering Matrix of Array of Two Slits in Rectangular
+"aveWeOOOOOOOOOOO...0.000.000.0000...0.0.0...00.0.0...
+
+Investigation of Varactor Frequency Multiplier with
+Assistance of Functional Method..........................
+
+High-Frequency Amplifiers Based on Surface Acoustic
+
+Haves....................................................
+
+Some Features in Design of High-Speed Analog Cummutators...
+
+COMPUTERS
+
+Error of Finite-Length Discrete Simulation of Random
+Processes with Given Distribution and Correlation
+Function on Digital Computer.............................
+
+ELECTRON DEVICES
+.Extension of Operating Range of Gunn-Diode 0scillators.....
+Harmonic Generation in M-Type Traveling-Have Tubes.........
+
+Multifrequency Operation of Mérype Amplifier Hith
+Cathode in Interaction Space.............................
+
+Effect of Longitudinal Nonuniformity of Electrostatic
+Field on Characteristics of M-Type Traveling-Have
+
+Tube...o....oo....o..........o...........................
+
+Realization of Regime of Inverse Transformation in
+Automatic Phase Traveling-Dave Tubes.....................
+
+INSTRUMENTATION AND MEASUREMENTS
+
+Capacitive Vibration Transducer for Measuring Amplitudes
+of Mechanical Vibrations of Mounting Plates..............
+
+Investigation of Temperature Field of Circular Waveguide...
+
+Analysis of 2-Channel Interferoneter with Prismatic
+Light Dividers as System of Coupled Multipoles...........
+
+FOR OFFICIAL USE ONLY
+
+37
+
+37
+
+39
+
+‘0
+
+61
+41
+
+42
+
+62
+
+63
+
+66
+
+65
+FOR OFFICIAL USE ONLY
+
+MICROWAVE THEORY AND TBCRNIQUES
+
+Device for Investigation of Amplitude and Phase
+Instabilitiea of Highly Sensitive Microwave Sand
+m11f1er....0000000000000..0.000.000.0000...00......O...
+
+rowan ENGINEERING
+
+Exponential Voltage Generators With Control of
+Nonlinur1CYO0.0.0.0.0...O.IC0.0..OOOOOOOOIIOOOOOOOQOOQOO
+
+Measurement of Levels of Continuous Component of Audio-
+Frequency Interference Prom Power Network................
+
+Spectrum of Continuous Interference Conponent Prom
+PM: Network.00.00.00.0000.000.00IOIOIOOOOOOOOOOOOOOOO‘O
+
+QUANTUM ELECTRONICS, memo-omcs
+Transmission of Holograms in Real Time Scale...............
+Effect on Density of Information Recording of Loose
+
+Joining of Photo Effect Carrier to Screen of Cathode
+Ray ‘mbe Hith Fiber Face Plate...........................
+
+- f -
+
+FOR OFFICIAL USE ONLY
+
+66
+
+67
+
+47
+
+69
+
+$0
+AESOSPACE 6 ELECTRONIC SYSTEMS
+
+UDC 523.503
+
+EVALUATION OF PARAMETERS OF METEOR RISK RITE RESPECT TO RADAR
+OBSERVATIONS, PARI I: STAIEHENT 0P PROBLEM
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 29 Feb 80) pp 53-56
+
+VOLOSHCEUK, Yu. 1., candidate of technical sciences and KASBCEEYEV, L. 3.
+
+[Abstract] The development of space travel requires a detailed investiga—
+tion and production of solutions with respect to a number of applied
+questions. One of then is the safety of travel in cosmic space. According
+to a 1977 work from the literature, a risk of damage or destruction of
+space craft exists in the cosmos, as the result of an impact with meteor
+bodies. Because of the technical difficulties of collection and analysis
+of meteor substances directly in cosnic space, planners are forced to use
+in their calculations averaged evaluations which are based on investiga—
+tions of damages to aircraft returned to earth and a general prediction of
+the distribution of meteor substances in space near the earth. In the
+present work it is proposed to obtain the characteristics of meteor risk,
+allowing for the time and projectory of flights of cosmic apparatus by
+
+an indirect path--on the basis of an analysis of radar observations of the
+penetration of meteor bodies into the earth's atmosphere. This proposed
+method has determined limitations, e.g., with selectivity of the equipment
+used, and it does not give a complete picture of meteor phenomena. However.
+at the present-day stage it is the most successful method of determining
+the statistical characteristics of flights of meteor bodies into the space
+near the earth. A method is also proposed for obtaining a distribution law
+for the electron density of meteor trails with a uniform law of distribution
+of image points. ?igures 1: references A: 3 Russian, 1 Hestern in
+
+translation.
+[81-6415]
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 523 .503
+
+EVALUATION OF PARAMETERS 0F METEOR RISKS WITH RESPECT TO RADAR
+OBSERVATIONS, PART II: APROXIHATION 0P IONIZA‘I'I’JR CURVE
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 29 Feb 80) pp 56-58
+
+KASHCHEYEV, L. 3.
+
+[Abstract] Statistical processing of the results of radio-meteor observa-
+tion is connected with use of the vaporization curve of a meteor substance.
+This curve makes it possible to put into rigorous conformity the height
+
+of image points and the amplitude of a reflected signal for each separately
+taken trail. The curve of the linear electron density of the meteor trail
+is approximated by a third degree polynomial. The effect of the initial
+radius in the area of the maximum of the ionized curve is approximated by
+
+a linear equation. The results are presented of calculations, the precision
+of which is varified by the method of statistical tests. Figures 1;
+references: 6 Russian.
+
+[81-6615]
+
+UDC 551 . 1 501 .81-509 . 31108
+
+RECOGNITION OF METEOROLOGICAL OBJECTS BY ENERGY SPECTRUM OF FLUCTUATIONS
+0P ECHO SIGNAL INTENSITIES
+
+Khar'kov RADIOTBKHNIKA in Russian No 57, 1981
+(manuscript received 27 Feb 80) pp 69-78
+
+BBZRUK, V. M., KORYTTSEV, I. V., OHBL'CHENKO. V. A., candidate of
+technical sciences, PILIPENKO, Yu. L. and PRDSHKIN, Ye. 6., candidate of
+technical sciences
+
+[Abstract] An algorithmic method is proposed for construction of information
+criteria for meteor objects and automatic identification with respect to
+them. The energy spectrum of fluctuations of echo signal intensities is
+
+used as the initial description. The identification algorithm is based on
+the spectral-statistical method of identification (Karunen-Loeva). The
+algorithm makes it possible to construct an automated system for processing
+echo signals. The efficiency of the identification system was checked by
+
+the method of simulation modeling on a computer. Figures 3; tables 1;
+references: 11 Russian.
+
+[81-6b15]
+
+FOR OFHCIAL USE ONLY
+UDC 621.396
+
+SIMULATINC INFLUX 0F HETBORIC MATTER ALONG RADAR OBSERVERS.
+REPORT 4: DETERMINATION OF SOME PARAMETERS 0P RMRDED RADIO ERRORS
+
+Khar'kov RADIOTEICHNIKA in Russian No 67, 1978 pp 23-25
+
+KHOPOVA, I . P .
+
+[Abstract] The transformation operator for converting the parameters of a
+meteor particle such as its mass, velocity, trajectory etc. to parameters
+of the signal recorded by a receiver such as its amplitude-time character-
+istic, phase, delay time etc. has been established on the basis of the
+minimum-(ru)error criterion, according to a model which takes into account
+the processes of meteor trail formation and the reflection of radio waves
+by a meteor trail. with this operator available, it is now possible to
+estimate the initial distribution of meteor parameters not directly observ-
+able by the radar method. Accordingly, for the MARS high-sensitivity
+meteor measurements complex at the Khar'kov Institute of Radioelectronics
+there have been determined the dependence of the least recordable mass
+
+"0 on the velocity V, and the exponent n of the 8 - 80V“ relation for the
+ionization coefficient. Numerical experiments were made in order to calcu-
+late the diurnal variations of these parameters, to supplement inevitably
+inadequate measurements. According to these data. the velocity of meteors
+is maximum in September and minimum in March, their altitude is maximum
+during the day and minimum during the night. The differences of 20 km/s
+and 7 km, respectively, are equivalent to changes in the sensitivity of
+instruments. Figures 2; references: 3 Russia .
+
+[83-2615]
+
+UDC 621.396
+
+STATISTICAL ANALYSIS OF TIMB-SRIBS ESTIMATES OF PARAMETERS OP WEAK
+RADIO METEORS, REPORT 1: FORMULATION OF THE PROBLEM
+
+Khar'kov RADIOTEKHNIKA in Russian No (07, 1978 pp 69-71
+
+VOLOSHCHUK. Yu. 1., candidate of technical sciences, and HALYNYAK, H. 1.
+
+[Abstract] The statistical analysis of readings of a high-sensitivity
+radio meteor measurements complex is considered, specifically the problem
+of reliability of their interpretation. Representation of the readings of
+any meteor parameter in the form of a time series rather than lengthening
+of the period of averaging will ensure a higher reliability without smooth-
+ing the behavior of this parameter at the individual instants of time and
+thus masking its characteristics. An inspection of such random series
+reveals that they are nonstationary and contain seasonal camonents with
+various periods. Parametric analysis, particularly with the aid of models
+of autogression and a sliding mean. is most effective here and, although it
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+requires much a priori information, it yields very accurate estimates of
+these seasonal components. It also facilitates the study of the physical
+nature of phenomena which a time series describes. Figures 2; references 5:
+4 Russian, 1 Western (in translation).
+
+[83-2415]
+
+UDC 621-396
+
+ONE METHOD OF EVALUATING SPEED OF INDIVIDUAL RADIO METEORS
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 26 Feb 80) pp 58-63
+
+DAVIDENKO , H . G .
+
+[Abstract] A method is considered for an evaluation of meteor speed,
+which utilizes all the information included in the amplituda-time charac-
+teristics of a reflected signal, and is based on an analysis of spectral
+and correlation characteristics of the enveloping reflected signal.
+Formulas are derived which make it possible to model and analyze signals
+reflected from meteor trails with various values of the parameters R, A,
+V. The method was checked by the real signals of a radar station of the
+Khar'kov Institute of Radio Electronics. The speed of the meteor body, V,
+was computed by two methods: diffraction and the method presented in this
+paper. It is shown that the proposed method gives an evaluation of V close
+to that obtained by the traditional method. Figures 3; references:
+
+2 Russian.
+
+[81-6415]
+
+UDC 621.396
+DEVICE FOR HOOK”? 0P STATISTICAL QUANTITY ANALYZER T0 COMPUTER
+
+Khar'kov RADIOTEKHNIKA in Russian No 47, 1978 pp 25-27
+
+VOLOSHCHUK, Yu. t., candidate of technical sciences, KOVTUN, I. A. and
+KHOPOVA, I. P.
+
+[Abstract] For several years the highly-sensitive automatic radar complex
+MARS at the Khar'kov Institute of Radioelectronics has performed preliminary
+as well as primary and partial secondary processing of meteor data. This
+complex can determine the orbits of meteors, their radiants, velocities and
+altitudes, also their quantitative content. Both hardware and software have
+been developed for calculating the density of meteoric influx from the
+quantitative content in real time with the aid of minicomputers rather than
+through weighting which requires a computer with a large memory. The
+
+FOR OFTHCJAI.USE1MNLY
+UDC 621.369
+AUTOMATIC GONIOHETER, REPORT 1: DESIGN PRINCIPLES
+
+Khar'kov RADIOTBKRNIKA in Russian No 47. 1978 pp 3-9
+
+KASHCHEYEV. B. L., doctor of technical sciences. and ZEUKOV, V. V.,
+candidate of technical sciences
+
+[Abstract] The design of automatic goniometers for meteor radar stations
+
+:n a geophysical measurements system including three principal antennas is
+considered which will ensure sufficiently sensitive and accurate operation
+in the pulse mode. The angular coordinates and the range of a meteor trail
+
+signal ensures an accurate determination of the direction cosines. Increas-
+ing the statistical sample of reflections during the existence of a meteor
+trail ensures a higher signal-to-noise ratio. Ambiguity of phase angle
+readings is removed by simultaneous additional measurements from other anten-
+nas at other base distances than that between the three main antennas.
+
+with a reference signal from either a separate auxiliary source or the cen-
+tral main antenna. The range is determined from the time by uhich the
+signal reflected by the meteor trail lags behind the probing signal, the
+error of range measurement being reduced by accumulation of many readings
+
+in the computer memory and an ambiguity of range readings being avoided
+through the use of two scales (base scale of 500 pulses/s and code scale
+
+of 100 pulses/s). Errors caused by refraction of radio waves by the tropo-
+sphere and the lonosphere (D-layer and E-layer), as well as caused by a
+
+wind gradient in the meteor region. are treated as random quantities and
+have been estimated. The reflected signal is known to pass through the
+entire approximately 1 km high Fresnel zone. References 13: 6 Russian,
+
+7 Western (two in translation).
+
+[83-2415]
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.J69
+AUTOMATIC GONIOHETER, REPORT 2: PRELIMINARY SIGNAL PROCESSING
+Khar'kov RADIOTEKHNIKA in Russian No 47, 1978 pp 9-14
+
+ZHUKOV, V. V., candidate of technical sciences, OLBYNIKOV, A. N. and
+OLEYNIKOV, V. N.
+
+[Abstract] Preliminary signal processing by an automatic goniometcr in a
+meteor radar station includes detection and then filtration of useful signals
+as well as formation of triggering pulses for the next signal processing
+stage. An automatic goniometer must be calibrated first, which is done most
+effectively on an episodic basis using a source of radio waves at a fixed
+location in space. The automatic goniometer described here is a S-channel
+device containing five staggered antennas with a receiver each, five pulse-
+type phase meters, one mean-range meter, calibration and control equipment,
+also one radio transmitter with an antenna, a sync oscillator, an interference
+suppressor, and a Dnepr-l digital computer. A phase shift simulator for
+first calibration and checkout consists of a 200 kHz quartz oscillator and
+two channels with matching devices, an inductive phase shifter and a fre-
+quency halver. There follows a frequency converter transposing the phase
+shift to 500 kHz, near the intermediate frequency of the automatic goniometer,
+with 600 kHz serving as the reference frequency. With parasitic amplitude
+and phase modulation thus eliminated, the output signal is modulated with a
+sequence of video pulses and can be mixed with noise. Second calibration
+
+is done with the aid of a simulator of low-frequency meteor reflections in
+the form of pulses of 0.2-15 s duration. Interaction between channel
+equipment of the automatic goniometer and the computer is effected in the
+alternatingly "store" and "read" mode. Pigures 1; references: 9 Russian.
+[83-2415]
+
+UDC 621.396
+AUTOMATIC GONIOHETER, REPORT 3: PRIMARY SIGNAL PROCESSING
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 72-78
+
+OLEYNIKOV, V. N., OLEYNIKOV, A. N. and ZHUKOV, V. V., candidate of
+technical sciences
+
+[Abstract] An automatic goniometer for meteor radar systems has been
+developed which includes pulse-type digital phase meters and stable thermo-
+static quartz filters. The primary signal processing involves estimating
+the phase shifts in spaced antennas and the delay time of signals reflected
+by a meteor trail. The error of phase meters due to a discontinuous phase
+characteristic can be eliminated by a preliminary analysis of a phase shift
+and, if it is close to 0’ or 360°, introduction of an additional fixed 180°
+
+FOR OFFICIAL USE ONLY
+phase shift, or by halting the frequency of the input signal and thus
+widening the instrument range from 0 to 720°. The first method is noise
+immune, but the second method is simpler. The equipment for implementing
+the second method includes an intermediate-frequency stage, an amplifier-
+limiter, and a pulse shaper. The quantization error here depends on the
+frequency of quantizing pulses and on the radio of intermediate frequency
+to quantization frequency. Errors of phase-difference measurement are
+caused by instability of both frequencies and by Doppler frequency shifts.
+The range meter for measuring the mean oblique distance has two scales,
+one for rough readings unambiguous up to 1500 km and one for fine readings
+unambiguous up to 300 km. A computer calculates the distance to the re-
+flecting region of a meteor trail and the rms error of measurement from data
+on the pulse duration and the time interval from leading edge of reflected
+
+pulse to next probing pulse. Figures 2; references: ll Russian.
+[82-2615]
+
+000 621.396
+ADTOHATIC GONIOHETER, REPORT 4: SOFTWARE FOR AUTOMATIC GONIOHBTBR
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 79-85
+
+ZHUKOV, V. V., candidate of technical sciences. OLEYNIROV, A. N. and
+OLEYNIKOV , V . N .
+
+[Abstract] The automatic goniometer developed for meteor radar systems
+operates with a Dnepr-l third-generation small digital computer. This
+computer has an immediate-access memory with a capacity of 4092 26-digit
+numbers and a permanent memory with a capacity of 3072 26-digit numbers.
+The computer operates according to programs which occupy 3072 numbers
+
+in the immediate-access memory and 516 numbers in the permanent memory.
+The goniometer-computer interaction is effected according to a discontinuous
+program start-reset-proceed-stop. The computer proceeds to calculate the
+main parameters of a meteoric reflector, in eight stages, according to a
+second discontinuous program. Figures 2; references: 7 Russian.
+[82-2415]
+
+UDC 621.396.96
+
+SYNTHESIS OF TWO-SCALE ANTENNA SYSTEM OF METEOR RADAR STATION PHASE
+GONIOHETER
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 26 Mar 80) pp b7-52
+
+ZMUKOV, V. V., candidate of technical sciences and OLEYNIKOV, V. N.
+
+[Abstract] In geophysical and astronomical investigations, a meteor
+radar station (HRS) with a goniometer device makes it possible to employ
+
+7
+FOR(Nﬂﬂ(JALlﬁﬂEONLY
+FOR OFFICIAL USE ONLY
+
+more complex models of interpretation of observation material and to clarify
+the dependence of the structural and dynamic parameters of the atmosphere on
+height. Present-day phasometric gnniometer systems of a HRS must have a
+high accuracy of determination of the angles of arrival over a wide interval
+of their measurements. In the general case realisation of contradictory
+requirements leads to a two-scale method of measurement. The present work
+displays the principal relationships for multiscale and two-scale systems,
+and Jescribes the method of choice of the optimum dimensions of antenna
+bases of the simplest two-scale antenna system of a HRS phase goniometer.
+Figures 1; references 24: 23 Russian, 1 Western in translation.
+
+[81-6415]
+
+UDC 621.372
+
+SOME PROBLEMS OF INVESTIGATING EFFECT OF NONLINEAR PROPERTIES OF RADIO
+RECEIVING CHANNEL 0N RADAR STATION QUALITY INDICES
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 13 May 79) pp 39-62
+
+IVANOV, H. A.
+
+[Abstract] It is possible to consider real radar stations as linear only
+
+in the relatively narrow dynamic range of signals at the input of its radio
+receiving channel. Outside of this, it is noticeable that the nonlinearity
+of the characteristics of radio devices has an effect which leads to a
+reduction of the quality of operation of a radar station. The effect of the
+nonlinear properties of radio receiving channels on the quality of func-
+tioning of a radar station is still insufficiently investigated. The object
+of the present work is to develop procedures for an analysis of the effect
+of nonlinear processes in radio receiving channels on the quality indices
+
+of radar stations. The procedure developed for investigation is based on
+the use of a functional method. The concept of an effective signal-to-
+noise ratio at the input of equivalent linear receivers is proposed. Ex-
+pressions are derived which make it possible with comparative simplicity
+
+to determine the deterioration of the signal-to—noise caused by the non-
+linear distortions in the radio receiving channel. Sufficiently suitable
+formulas are obtained, applicable for evaluating the effect of nonlinearity
+of the characteristics of radio receiving channels on the precision of
+measurements. resolution, information properties, probability of detection of
+targets, and the noise immunity of radar stations. References: 6 Russian.
+[81-6615]
+
+FON(Nﬂﬂ(]Al.USE(NNLY
+UDC 621.317
+
+ACCURACY LIMITS OF RECORDING TIME COORDINATE OF 8013 PULSE SIGNALS IN CHANEL
+WITH PINITE PASSBAND
+
+Khar'kov RADIO‘IEOINIKA in Russian No 50, 1979 pp 113-121
+
+DUDNIK, B. 8., candidate of technical sciences, “Slim, 3. I... doctor
+of technical sciences, KOVAL', Yu. A., candidate of technical sciences,
+and MOISEYEV, V. P.
+
+[Abstract] The maximm accuracy of recording the tine coordinate of most
+cannon pulse signals in measuring-and-information or radar systems is
+estimated, taking into account the presence of additive fluctuational
+interference and the finiteness of the channel passband. The analysis is
+based on the theory of optimal detection and measurement, and is applied to
+signal recording according to the minimum-error criterion. the standard
+deviation as well as other parameters characterizing the accuracy (minimum
+standard deviation, optimum x - 2“,, energy utilization factor) at either
+constant signal energy or constant signal power are calculated for simple
+signals (rectangular, triangular, trapezoidal, cosinusoidal, bell-curve,
+3:“ pulses) and for intricate signals (with linear frequency nodulation,
+with phase manipulation, 2-frequency signal). Figures 3; tables 3;
+references: 5 Russian.
+
+[82-2415]
+
+ 
+
+UDC 621.3764
+
+POSSIBLE MEANS 017 CONSTRUCTION AND SELECTION OF HILTICIIANNEL
+VOLTAGE-TO-CODE CONVERTERS FOR RADIO ENGINEERING svsrms
+
+Khar'kov RADIUI‘EKHNIKA in Russian No 57, 1981
+(manuscript received 14 Jan 80) pp 17-22
+
+KLB‘IIN, A. A. and MESHOV, V. N., candidate of technical sciences
+
+[Abstract] Multichannel systus of detection with, digital processing of
+signals are widely used in present day radar techniques. Inseparable units
+of such radio engineering systems are voltage-to-code converters (VCC) which
+bring about quantization of signals in detection channels, and distribution
+of voltage codes into digital computers. The present work considers the
+special features of choice and construction of such VCC. Formulas are de-
+rived for evaluation of the high-speed characteristics of converters using
+selected elements of the base. Recommendations are made with respect to
+
+use of multichannel converters. It is shown that it is only possible to use
+a few of the large number of known structures of aultichannel VCC in present
+day multichannel radio engineering systems with digital processing of signals.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Among NVCC of successive action it is advisable to select series parallel
+
+and "conveyer" coding of channel voltages, based on digit-by-digit procedures.
+with a large number of channels and a small time for coding, the most
+favorable is a counting-parallel HVCC. The final choice of a HVCC for radio
+engineering systems is made as a result of a detailed analysis of the
+
+requirements imposed and the permissible equipment cost. Figures 2;
+references 6: 5 Russian, 1 Western.
+[81-6415]
+
+UDC 621.391
+AUTOCORRELATIONAL PROPERTIES OF QUASI-PERIODIC PULSE SEQUENCES
+
+Khar'kov mmrmmm in Russian No 47, 1978 pp 44-47
+
+TYRSA, V. Ye., doctor of technical sciences, KOSTYUKOV, 0. A. and
+KARPUKHIN, A. V.
+
+[Abstract] The correlation is established between two pulse sequences which
+have been generated according to the same law but along different quasi-
+uniform scales, as in the case of radar signal synthesis by means of angle-
+tine-code converters. The pulses are assumed to be of infinitesimally short
+duration and regarded as mathematical points. The system of equations
+describing the coincidences of one point on one scale with all k points
+
+on the other scale in N sliding steps is transformed into a system of
+numerical difference equations. With these equations can be constructed a
+(kxN) table for an analysis of coincidences and thus of the autocorrelational
+properties of such pulse sequences. This is demonstrated here on two
+
+scales, one twice as long as the other. Figures 2; tables 1; references 3:
+2 Russian, 1 Western (in translation).
+[83-2415]
+
+UDC 621.396
+
+ACCURACY OF MEASUREMENT OF TIME DELAY 0P USEFUL SIGNAL APPEARING WITH
+INTERFERENCE SIGNAL
+
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 125-128
+
+KARLOV, V. D.
+
+[Abstract] In radar practice it is necessary to measure the time delay
+
+of the useful signal and to determine the payoff of interference suppres-
+sion. Here a useful signal and an interference signal appearing together
+
+at the radar receiver are considered, their amplitudes and phases as well
+
+as their time coordinates not being known. Assuming that all these parameters
+
+10
+
+FOR OFFICIAL USE ONLY
+do not change.during the measurement period, the maximum attainable accuracy
+of a measurement of the time delay is evaluated for a narrow-band useful
+signal. The complex envelope of the probing pulse is, furthermore, assumed
+to have a rectangular frequency spectrum. The results of calculations indi-
+cate that the accuracy of measurement depends not only on the degree of
+overlap of both signals and on their phase difference but also on the
+
+amplitude of the interference signal. Figures 2; references: 3 Russian.
+[82-2415]
+
+UDC 621.396.963
+SELF-CONTAINED NAVIGATION BY MEANS OF MAPS
+
+Moscow ZARUBEZHNAYA RADIOELBKTRONIKA in Russian No 10, Oct 81 pp 3-28
+RZHBVKIN, V. A., candidate of technical sciences
+
+[Abstract] Self-contained radioelectronic navigation systems utilize
+information separated from signals which are reflected or scattered by
+natural reference points such as heavenly bodies or the surface of the earth.
+These systems include Doppler systems and systems for navigation by means of
+maps, also called chart comparison systems. A survey of the state of the
+
+art of these systems is presented here. Topics discussed include Doppler
+self-contained navigation systems, classification of chart comparison sys-
+tems and their structure, relief measuring systems, radiometric systems,
+acatterometric systems, preparation of standard maps, methods of analyzing
+maps, comparison of maps by means of boundary correlation methods and
+methods of estimating the accuracy of the agreement of maps. Doppler navi-
+gation systems are being improved slang the lines of using a modern element
+base and methods of error compensation. Two types of Doppler navigation
+systems are being created: high-precision for high-speed aircraft and lower-
+precision for low-speed systems. The specifications of Doppler navigation
+systems of different generations are compared. A structural diagram of a
+chart comparison system is presented; this method of navigation is based on
+comparing maps prepared during the aircraft's flight with standard charts of
+the same locale. The trend of introducing chart comparison methods and
+systems of navigation has become very popular in recent years for the pur-
+pose of improving the accuracy of the navigation of manned and unmanned air-
+craft. Relief measuring systems are designed for low-altitude aircraft.
+These systems are based on comparing relief maps of the terrain. The
+
+TERCOH system's capabilities are the most widely discussed at the present
+time. Refief measuring systems are poorly effective when an aircraft travels
+with an insufficiently distinctly pronounced relief. For this reason it is
+suggested that these measuring systems be combined with radiometric naviga-
+tion systems, which are good for this purpose. Flat terrain, because of its
+
+state of high development by man, provides good radar and radiometric data
+for preparing maps. The main advantage of radiometric chart comparison
+
+methods and systems is the simplicity of preparing standard charts of the
+
+11
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+terrain. The accuracy of plotting an in-flight map depends on the sensi-
+tivity of the radiometer, which is limited by the intrinsic noise of the
+receiver and antenna. The sensitivity of modern radiometers can vary over
+the range of 0.02 to 0.5 °K. The promise of the combined use of radar and
+radiometric maps for improving the quality of maps plotted is discussed.
+Scatterometric systems can be used for navigating an aircraft at relative-
+ly high altitudes and when relief measuring systems become ineffective
+
+over relatively flat terrain. For flying at lower altitudes it has been
+suggested that a scatterometer be combined with a radio altimeter. The
+scatterometer measures only the reflection or scattering coefficient while
+scanning the surface of the earth. In one case a special "image diagnosis"
+laboratory has been created for studying the development of standard maps
+
+of the terrain for surface correlators, including radio electronic, infrared
+and optical systems. The development of methods of preparing such maps is
+
+a central concern. Maps produced in flight are compared with standard
+
+maps by means of the usual methods of computing normalized cross corre-
+lation functions or modificatioas of these methods. Boundary correlation is
+one such method. A boundary is the interface of two abutting sections of
+terrain which differ in reflection or radiation properties and have a unique
+configuration as compared with other sections of the same terrain. The
+standard map is prepared in the form of a template. Chart comparison methods
+of navigation represent a relatively new trend in the improvement of aircraft
+navigation systems. It is a trend which is still largely in the research
+stage. Figures 5; tables 5; references 31: 10 Russian, 21 Western.
+[97-8831]
+
+unc 629.7
+EXTREHUH CORRELATION NAVIGATION SYSTEMS
+Moscow ZARUBBZHNAYA RADIOBLBKTRONIKA in Russian No 9, Sep 81 pp 28-53
+BOCHKAREV, A. M.
+
+[Abstract] In extremum correlation navigation systems reference informa-
+tion on the characteristics of a specific section of the terrain is compared
+with instantaneous information arriving from an airborne sensor. The true
+position of the object is determined by the comparison and a correction signal
+is sent to the “coarse" navigation system, usually an inertial navigation
+system. The name "extremum correlation system" results from the fact that
+various methods of correlation processing are usually implemented in the
+comparison unit. These systems are receiving rapid development at the pre-
+sent time. A "morphological" classification of extremum correlation naviga-
+tion systems (KBSN's) is given, based on the isolation of key features and
+
+a description of every possible variant of implementing these features.
+
+The discussion concentrates on correlation processing of two-dimensional
+image signals, which are functions of two space coordinates and time.
+
+Host systems operate according to this principle. A major problea in
+
+12
+
+FOR OFFICIAL USE ONLY
+developing KESN's and in selecting the extremum correlation algorithm is
+the identification of elements of images which can be predicted with a
+
+high degree of reliability. It is impossible to predict an inage down to
+the finest details because such unknown factors as temperature, weather
+
+and solar activity influence an image obtained by means of a high-resolu-
+tion scanning infrared sensor, for example. Therefore the parameters of
+physicai fields of the earth are not ideally stable. A table of various
+levels of predictability of images and of the possible correlation algorithms
+which can be used for them is presented. Correlation algorithms are classi-
+fied in terms of method of extremua correlation processing, approach to
+image processing, advantages and disadvantages. A brief history of the
+development of KESN's is given. thremum correlation processing algorithms
+are discussed in detail, including the classical correlation algorithm,
+difference correlation algorithms, processing by means of paired functions,
+processing by using invariant factors, the amplitude ranking correlation
+algorithm, correlation processing employing sums of gradient vectors, two-
+level correlation algorithms, structural nethods of extremua correlation
+processing, the line feature matching algorithm and the phase correlation
+algorithn. The latter is teem-tended for correlation processing of images
+obtained under various conditions of illumination. Pros the technical
+viewpoint KBSN's come under the heading of the most ideal airborne radio
+
+electronic systems. Figures 11; references 30: 4 Russian, 26 Western.
+[70-8831]
+
+"00 531.74
+
+ACCURACY OF ESTIMATING POLAR COORDINATBS 0P OBJECTS BY OPTICAL DETECTION
+AND RANGING
+
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 60-63
+GAVRISH, T. V. and TYRsA, V. Ye., doctor of technical sciences
+
+[Abstract] A coherent-light device for measuring the polar coordinates of
+stationary objects has been invented where a time interval serves as the
+information carrying parameter. This time interval begins when the scan-
+ning beams turn to the reference direction and ends when the reflected signal
+arrives at the receiver. The beginning of this time interval can be easily
+established, but its end must be determined by statistical methods taking
+
+into account the tendon nature of the signal and the presence of additive
+noise. This noise is a shot noise consisting of photon noise in the signal,
+ambient noise, and internal noise in the photoelectron multiplier. Here the
+accuracy of measuring the signal delay time with a threshold device on the
+basis of the Neyman-Pearson criterion of false-alarm probability is estimated,
+assuming a high signal-to-noise ratio in the case of a near object only 1-2 km
+away, whereupon expressions are derived for the dispcsion and the bias of
+range and azimuth estimates. References 3: 2 Russian, 1 western (in
+translation).
+
+[82-2615]
+
+13
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ANTENNAS & PROPAGATION
+
+UDC 621.396
+
+APPROXIMATION METHOD OF CALCULATING PARAMETERS 0F ANTENNA ANNA! WITH
+PASSIVE RADIATORS
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 19 Mar 79) pp 103-108
+
+NAGIBIN, I. 8., candidate of technical sciences and YBGOROV, B. A.
+
+[Abstract] The calculated relations presented in this work make it possible
+to compute the added resistances of antenna array dipoles on the basis of
+
+the mutual resistances, taking into consideration the dimensions of the
+elements and the distances between them, as well as to find the current
+distribution in the real dipoles of an array, with the aid of the method
+
+of induced electomotive forces. It is proposed to determine the directional
+properties of the antenna by equivalent currents, obtained with the aid of
+expressions for the effective length of the dipoles. References: A Russian.
+
+[81-6415]
+
+UDC 621.396.677.8
+SLOT ANTENNAS FOR AIRCRAFT
+Moscow ZARDBEZHNAXA RADIOELEKTRONIKA in Russian No 9, Sep 81 pp 71-83
+
+LUNA“, V. 1., candidate of technical sciences, GOTSULXAK, A. P. and
+IL'INOV, H. D.
+
+[Abstract] The design of slightly protruding slot antennas fed by wave-
+guides and resonators is discussed. These antennas are suitable for use as
+hidden antennas on aircraft and have the advantages of simplicity of design,
+ease of fabrication, of natching well with waveguides and resonators, of
+
+the ability to use standard waveguides as feeding systems, of small size,
+
+of the ability to receive and transnit at the same tine and of the ability
+to be combined to form arrays with a controlled beam. They also do not
+have an averse influence on the aerodynamic characteristics of aircraft.
+
+14
+
+FOI.0F11C1AI.USEI)NLY
+Designs of individual slot antennas are described and discussed, beginning
+with the very first design incorporating lengthwise slots in the wide walls
+of rectangqu waveguides. A slot antenna in the fora of a coaxial line is
+described, whose inner conductor is a tube of natal and whose outer conductor
+is an insulator tube netalized on both sides, with partial raoval of the
+netalization from both sides of the outer conductor to form a ring slot.
+Also discussed are a 4-band resonator-slot antenna, a niniature resonator-
+slot antenna, a miniature slot antenna, a resonator-slot antenna with a
+T-shaped slot in the resonator lid, a 2-band resonator-slot antenna, a
+microwave antenna executed with a cross-shaped slot in a shallow square
+resonator excited by aeans of four pins arranged syuetrically around the
+center of the lower wall of the resonator, an antenna with flat spirals in
+the aperture for relative constancy of gain over a wide frequency band, a
+wideband antenna with two flat spirals printed onto an insulating substrate
+with the other ends of the spirals connected to curved dipole eleaents also
+lying on the substrate to for: a special type of resonator, and a slot-
+dipole resonator antenna. Antenna beans are discussed, with emphasis on
+the influence of antenna housings on antenna characteristics when slot
+antennas are installed on various loving objects. The curvature of adjacent
+sections of the conducting surface of the housing exerts the greatest in-
+fluence in this regard. Examples of the use of slot antennas are given.
+with eaphasis on use on aircraft, and the designs of antenna arrays and
+control of antenna array beans are discussed. Briefly discussed are an
+antenna array for aircraft radar and a two-dimensional phased array with
+controlled polarisation of the radiated field. Figures 16; references 59:
+22 Russian, 36 Western.
+
+[70—8831]
+
+UDC 621.396.677.8
+
+HICROSTRIP ANTENNAS
+Moscow ZARUBBZHNAYA RADIOBLEKTRONIKA in Russian No 10, Oct 81 pp 99-115
+
+LMAN, V. 1., candidate of technical sciences, IL'INOV, H. D. and
+GOTSULYAK, A. F.
+
+[Abstract] A sunnary is given of designs and methods of analyzing micro-
+strip antennas with a radiating element of simple fora, which have becoae
+widely used because of ease of fabrication and acceptable electrical
+characteristics. Microstrip antennas have been developed to satisfy the
+need for lightweight, low-profile, conformal, inexpensive antennas for use
+on missiles and aircraft, for exaaple, without disturbing their aerodynamic
+properties. A nicrostrip antenna radiating eleaent contains an ideally con-
+ducting plate consisting of a dielectric substrate sandwiched between a
+radiating element and shield. Different shapes of nicrostrip antenna
+radiating elements are presented and discussed, along with calculation of
+the characteristics of nicrostrip antennas with a rectangular radiating
+
+15
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+element. A theoretical study is presented of microstrip antennas with a
+round radiating element, in which the calculation of fields in the remste
+zone, including taking the dielectric into account, is discussed, in addi-
+tion to the total radiated power, directive gain, losses, efficiency and
+input impedance of a microstrip antenna. Hicrostrip antenna arrays are
+discussed, including an antenna array with uniform amplitude and broadside
+distribution, a b-elenent linear array, a 2-dimensional array, a 2-frequency
+array and an 8-element antenna array module. Diagrams are shown of a micro-
+strip-dipolc antenna and of one such antenna with circular polarization.
+
+The dependence of the input impedance of a 2-frequency microstrip antenna
+
+on frequency is discussed with two excitation variants. Microstrip antennas
+are considered an established modern trend which is promising and will re-
+ceive further development. They can operate in the 0.3 to 17 GHz band.
+Further development should proceed along the line of improving the efficiency
+of microstrip antennas and the materials and fabrication technology for their
+elements, along with the development of systems and units for feeding
+individual radiating elements and arrays. Figures 31; references 26:
+
+12 Russian, 16 Western.
+
+[97-8831]
+
+UDC 531.7b
+
+QUASI-OPTIHAL FILTRATION IN COHERENT-LIGHI DEVICE FOR MEASURING POLAR
+COORDINAIES 0P OBJECTS
+
+Khar'kov RADIOTBKHNIKA in Russian No 50, 1979 pp 63-67
+
+GAVRISH, T. V. and TYRSA, V. Ye., doctor of technical sciences
+
+[Abstract] One task in measurement of the polar coordinates of a stationary
+object with a coherent-light device is estimating the time coordinate of
+
+the reflected signal, a signal which appears submerged in additive noise.
+Here quasi-optimal filtration is considered, inasmuch as optin filtration
+of a deterministic signal s(t,1) from a nonstationary normal noise n(t) with
+a spectral density “0 and a correlation function k(t,t + At) . 1/ZNo(t)6(At)
+is difficult. The problem is solved for far objects and a correspondingly
+low signal-to-noise ratio. The time interval which carries information
+about brightness-modulated signals is estimated according to the maximum-
+likelihood principle, whereupon a filter is synthesized for symmetric trape-
+zoidal video signals leaving the photodetector. This filter minimizes the
+dispersion of estimates of the time coordinate on the probing range of
+distances. Figures 1; references: 3 Russian.
+
+[82-2b15)
+
+16
+
+FOR OFFICIAL USE ONLY
+UDC 531.508
+ACCURACY OF MEASUREMENT OF SOUND VELOCITY IN AIR HITH DOPPLER RADAR
+
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 67-72
+BABKIN, S. I.
+
+[Abstract] Smog control involves determination of temperature profiles and
+vertical wind velocities, for which a radioacoustic instrument measuring the
+velocity of sound has been developed on the basis of a Doppler radar. It
+consists of a microwave transmitter, a reference oscillator, a receiver, a
+tracking filter, an audio oscillator, a frequency meter and a recorder.
+
+The principal sources of error are instability of the transmitter frequency,
+inaccuracy of Doppler frequency measurement and recording through narrow-
+band filters, instability of the receiver parameters, atmospheric turbulence
+causing fluctuations of parameters of the reflected signal, spacing of the
+antennas and misalignment of the acoustic transducer. The total estimated
+rms error of one sound velocity measurement is 0.72 m/s so that repetitive
+sounding is required, n - 16 measurements reducing the error of temperature
+determination to o.3°c and n - 50 measurements reducing the error of wind
+
+velocity (vertical) to 39.1 m/s. Figures 1; tables 1; references 6:
+A Russian, 2 Western.
+
+[82-2415]
+
+UDC 621.391
+
+ESTIMATION OF ENERGY SPECTRUM 0P DOPPLER-FREQUENCY FLUCTUATIONS DURING
+RADAR-ACOUSTIC PROBING 0P ATMOSPHERE
+
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 89-93
+KORYTSEV, I. V.
+
+[Abstract] The performance of a radar-acoustic system during probing of the
+atmosphere, with filtration of high-frequency interference, is evaluated in
+terms of estimates of the energy spectra: of Doppler-frequency fluctuations.
+The analysis involves the discrete analog of the Fourier transform of finite-
+time realizations (or of the correlation function). On this basis the dura-
+tion is determined of a realization in N readings necessary for accuracy, the
+accuracy in turn depending inversely on the number of degrees of freedom in
+the chi-square distribution of the sum of the squares of independent random
+quantities (reading errors). Figures 1; references 6: 1 Russian,
+
+5 Western (two in translation).
+
+[82-2615]
+
+17
+
+FOR‘OFFM]AI.USE40NLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.371
+USE OF ULTRA-SHORT-HAVB RADIO EMISSION FOR PERTURBATION 0F IONOSPHBRE
+
+Khar'kov RADIOTBKHNIKA in Russian No 50, 1979 pp 121~125
+
+TKACHEV, G. N., candidate of technical sciences, VERGASOV, A. A. and
+KARLOV, V. D.
+
+[Abstract] Perturbation of the ionosphere up to the peak of the P-layer by
+shortwave radio emission is inefficient because of the appreciable absorp-
+tion. Consequently, perturbation by ultra-short-wave radio emission is
+preferable. In this case, however, a perturbation can ocCur only when the
+intensity of the exciting field exceeds some threshold. Here nonlinear ef-
+fects occurring in the field of two ultra-short~wave radio pulses are analyzed
+on the basis of theoretical relations and experimental data. The role of
+"magnetic" nonlinear effects has been found to become appreciable, and the
+threshold field intensity to become much lower, when the difference between
+the carrier frequencies of the two pulses is equal to the Langmuir frequency
+of electron vibrations (each carrier frequency being much higher than this
+Langmuir frequency). The perturbation of the particle distribution is cal-
+culated using the Vlasov equation and assuming a Maxwell distribution of
+charged particles in the quiescent state. The characteristic time and the
+threshold electric field intensity are estimated for typical ionospheric
+conditions. A comparison of the results with experimental data indicates
+some differences, attributable to diffuse reflection by the Pz-layer of
+signals coming from two ground transmitters and to standing rather than
+traveling density waves of charged particles induced during insufficiently
+
+long excitation periods. Figures 1; references 2: 1 Russian, 1 Western.
+[82-2415]
+
+UDC 621.371
+
+ALIGNED SCATTERING OF RADIO HAVES BY ARTIFICIAL INHOHOGENEITIES PRODUCED
+BY RADIATION FROM SHORT-HAVE TRANSMITTER WITH OBLIQUB BEAM
+
+Khar'kcv RADIOTEKHNIKA in Russian No 50, 1979 pp 129-132
+NOVOZHILOV, V. 1., candidate of technical sciences, and VERGASOV, A. A.
+
+[Abstract] Earlier experiments made by other authors with action of vertical
+short-wave radio emission on the ionosphere have revealed that such waves
+disturb the uniform distribution of the electron concentration and thus pro-
+duce artificial inhomogeneities. An experiment was made by the authors of
+the present work with the use of a powerful shortwave transmitter with an
+oblique beam in the east-west direction, its purpose being to determine the
+scales of such inhomogeneities and to detect aligned scattering of radio
+waves by them in this case. The transmitter-receiver set was spaced so as to
+
+18
+
+FOR OFHCML USE ONLY
+satisfy the geometrical conditions of sensitivity to aligned scattering.
+Satisfactory data were obtained for a correlational analysis. Figures 1;
+
+references 5: 3 Russian, 2 Western.
+[82-2415]
+
+UDC 621.396.67+621.396.96(067.l)
+
+METHODS OF THEORETICAL AﬂD EXTERIHENTAL INVESTIGATION OF “ONSTAIIONARY
+SCATTERING AND RADIATION OF-ELECTROHAGNETIC WAVES
+
+Moscow ZARUBEZHNAYA RADIOELEKTRONIKA in Russian No 9, Sep 81 pp 3-27
+
+ASTANIN, L. Yu., candidate of technical sciences, and KOSTYLEV, A. A.,
+candidate of technical sciences
+
+[Abstract] The basic methods of studying nonstationary problems in the
+scattering and radiation, or reception, of electromagnetic waves are dis-
+cussed. The properties of electrodynamic entities, because of the space-
+time nature of the problem, must be described by means of families of
+dynamic characteristics determined for various angles. For a selected
+angle the problem is solved by means of methods of the theory of chains
+with lumped parameters. Polarization effects are also taken into account
+in determining dynamic characteristics. The problems discussed can be
+solved both in the time and frequency regions and the existence of a mutual-
+ly unique relationship between solutions obtained in this manner makes it
+possible to select the approach most appropriate for a specific problem and
+to compare solutions arrived at by various methods. The properties of radia-
+tors and scatterers are described by means of standard test effects, i.e.,
+the signals exciting the antenna in the case of radiating antennas and plane
+fields striking the object in the case of scatterers or receiving antennas.
+Analytical, numerical and hybrid methods of investigation are employed for
+a theoretical solution to nonstationary electrodynamics problems. The
+effectiveness of these methods varies for various groups of problems. The
+main advantage of analytical methods is the ability to find a graphic
+relationship between the results of a solution and controlled parameters of
+a problem. Analytical methods are especially important in the high-frequency
+region, for the use of numerical methods involves a body of computations which
+even modern computers are not up to handling. Topics discussed include non-
+stationary radiation of elementary radiators, nonstationary radiation of a
+cylindrical dipole of finite length, nonstationary radiation of aperture
+antennas, and the interrelationship of antenna characteristics in the non-
+stationary radiation and reception modes. Existing analytical methods are
+characterized by a limited range of application, particularly with respect
+to the frequency band. Separate methods are used for the low-frequency,
+high—frequency and resonance regions. Numerical methods, possible because
+of the use of computers, supplement analytical methods in
+ary problems involving the use of ultrawideband signals. Numerical methods
+can be used for the Rayleigh and resonance ranges, where great difficulties
+
+19
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+are encountered when using asymptotic high—frequency methods. The use of
+the method of integral equations for solving nonstationary problems is
+discussed and a comparison is made of computing programs for solving non-
+stationary problems. Hybrid methods, representing the combined use of
+analytical and numerical methods, are discussed. Experimental methods for
+studying the ultrawideband characteristics of elements of the radio
+channel discussed include methods of measuring the ultrawideband charac-
+teristics of antennas and microwave equipment and methods of measuring
+
+the ultrawideband scattering characteristics of a radar object. Hethods
+of designing ultrawideband measuring apparatus are discussed, along with
+methods of processing measurement data. The combined use of theoretical
+and experimental methods is necessary in studying nonstationary scattering
+and radiation of electromagnetic waves. Analytical methods in particular
+make it possible to evaluate the influence of the design parameters of a
+piece of apparatus on its electrodynamic properties. However, experimenta-
+tion becomes the main tool for research as problems become more compli-
+cated. Comparison of the results of theoretical and experimental research
+plays an extremely important role. Figures 7; references 142: 23 Russian,
+119 Hestern.
+
+[70-8831]
+
+UDC 621.317
+
+PROBLEM OF POTENTIAL PRECISION OF TIME POSITION FIXATION 0P SIGNAL WITH
+SCALE COMPARISON OF TIME KEEPERS
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 28 Mar 80) pp 63-69
+
+BAVYKINA, V. V. and KDVAL', Yu. A., candidate of technical sciences
+
+[Abstract] Stability of the reproduction of the dimensions of time units
+and the prospects for further improvement of the characteristics of
+standards advance an increase of the precision of mutual comparisons of the
+dispersed keepers of the time scale into a number of primary problems. A
+successful solution of these problems makes it possible substantially to
+improve all the system of metrological assurance of time measurements.
+
+An error of comparison so standards results from many factors. especially
+by a change of the delays in transmission channels of signals because of the
+instability of the propagation time and the inaccuracy of fixation of the
+time position of the signal in a reception--registration system. The
+potential error of fixation of the time position of a signal is determined
+with the aid of the theory of evaluation of strong signals. The potential
+error of measurement of the delay time of the signal with an unknown ini-
+tial phase of the carrier is given. In the present paper an analysis is
+made of the dependence of the potential precision of fixation of the time
+position of a signal on the signal-interference ratio, with errors in
+determination of time position of the signal taken into account. The
+
+20
+
+FOR OFFICIAL USE ONLY
+dependence is considered of the dispersion of the error of fixation of the
+time position of the signal on the relationship of the observation interval
+and the correlation interval. The threshold signal-interference ratio
+necessary for normal functioning of a system of evaluation of the time
+position of a signal with ideal autocorrelation functions is determined.
+
+Figures 3; tables 1; references: 7 Russian.
+[Bl-6‘15]
+
+UDC 621.317.757
+FORMING AND QUANTIZATION 0F COMPLEX 0P BNVELOPBS 0P BAND-PASS SIGNALS
+
+Khar'kov RADIOTBKHNIKA in Russian No 57, 1981
+(manuscript received 28 Jan 80) pp 12-17
+
+HIROSHNIKOV, A. N. and CHAYKOVSKIY, V. I.
+
+[Abstract] This paper is partially based on previous work in 1966, 1977
+and 1979 by V. I. Chaykovskiy (see above). Possible variations of forming
+a complex of envelopes of band-pass signals and its discrete equivalent
+
+are considered. The structure of a device for realizing a procedure for
+forming a complex of envelopes is shown in figure 1, and the structure of
+
+a device for forming a complex of envelopes with the use of clipped
+reference signals in figure 2. The two methods are based on a preliminary
+formation of a complex of envelopes in analogous form and its quantization
+with the aid of an analog-digital converter. Relations are derived which
+make it possible, as shown in figure 3, to organize forning of a discrete
+sequence of readouts of a complex of envelopes of a band-pass signal
+
+without preliminary analog processing. Forming of the readouts of a complex
+of envelopes of a filter on employed in the device is by a band-pass filter,
+which limits the effective range of the device by the band As and decreases
+
+the level of quantification noise. Figures 2; references: 5 Russian.
+[81-6615]
+
+UDC 621.373
+
+FEASIBILITY 0F FORMING COMPOUND SIGNALS WITH EQUIPMENT FOR DIGITAL
+FREQUENCY SYNTHESIS
+
+Khar'kov RADIOTEKHNIKA in Russian No 47, 1978 pp 27-31
+
+BOTSMAN, P. D.
+
+[Abstract] It is demonstrated that a universal device for forming arrays
+of multidigital signals with a programmable structure and with coherent
+modulation laws can be constructed with equipment for digital frequency
+
+21
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+synthesis. A single-ring digital frequency synthesizer for this purpose
+consists of a reference oscillator, a synchronizable oscillator, a low-
+pass filter and a phase detector. According to the fundamental differen-
+tial equation and the transfer function describing this device, an incre-
+ment of the variable frequency division factor produces an increment of
+the frequency of the synchronizable oscillator. Further calculations
+including application of the limit theorem reveal that, in fact, various
+frequency or phase manipulated signals with coherent envelopes and without
+amplitude variations during transients can be formed. Their parameters
+can, furthermore, be stabilized by means of phase-type automatic frequenCy
+
+control. References: 6 Russian.
+[83-2415]
+
+UDC 621.391
+
+ADAPTIVE COMPENSATION OF INTERFERENCE SIGNALS CORRELAIED 0N LONG TIME
+INTERVAL
+
+Khar'kov RADIOTEKHNIKA in Russian No 47, 1978 pp 66-68
+
+cmuzov, Yu. v., moron, A. A. [deceased], DUDNIK, n. s. and
+smnov. s. F.
+
+[Abstract] Adaptive compensation of radio interference by means of an
+auxiliary reference channel is considered, this being more effective than
+direct filtration. A compensator is shown which does not have a separate
+reference input but shunts the main channel and contains a time-delay
+element in front of the compensator. The time delay must be such that at
+the compensator input there will appear wideband signal components un-
+correlated and interference components correlated, owing to their periodi-
+city, with the signals at the main input. A performance analysis of this
+system, which includes a controllable phase shifter and a phase detector,
+reveals the existence of a phase feedback with inertia. When the transient
+period here is much longer than the signal correlation time and much
+shorter than the interference correlation time, then the compensator will
+extract the signal almost without distortion, with high-frequency interfer-
+ence suppressed, independently of the phasing. However, a delayed and
+partially distorted "companion signal" will also appear. Figures 4;
+references 5: 4 Russian, 1 Western.
+
+[83-2615]
+
+22
+
+FOR OFFICIAL USE ONLY
+000 621 . 391
+
+EFFECT OF FINITKNESS 0P TRANSMISSION BAND 0N MAXIMUM mos IN TIMING 0P
+PULSE SIMS
+
+Khar'kov mmrmm in Russian No 67, 1978 pp 60-66
+KOVAL', Yu. A.,' candidate of technical sciences, and Hoismw, I. V.
+
+[Abstract] Minimization of the inaccuracy in fixing the instant at which
+pulse signals appear at the output of a device is considered, specifically
+the effect of the finiteness of the transmission band on the mint:
+error in the case of channels with an approxintely rectangular amplitude-
+frequency characteristic. The analysis is based on the criterion of aini-
+mua dispersion of pulse timing, in a tradeoff relation with the signal-
+to-noise ratio and interference i-unity. The results extend to phase-
+manipulated signals with a rectangular envelope. Eigures 1; references:
+
+5 Russian.
+
+[83-2515]
+
+(DC 621 . 391
+
+SIGNAL IDBITIPICAM BY SPECTRUM IN BASIS 01’ DISCRETE EXPONKNTIAL
+FUNCTIONS .
+
+Khar'kov RADIOTEKHNIKA in Russian Ho 50, 1979 pp ﬁ-lo
+
+GEL'CHENKO, V. A., candidate of technical sciences, and
+HATEVITSKIY, Ye. 0., doctor of technical sciences
+
+[Abstract] Signal identification through measurement of the signal
+spectrum in a basis of discrete exponential functions simplifies the pro-
+cess, inasmuch as an analog spectrum analyzer can be replaced with a
+digital one. This process is described and an identifier system is con-
+structed which uses basis functions of the natural basis of the signal
+ensemble as informative indicators. Such a basis is obtained from the
+general Karunen-boew expansion, whose fast convergence allows a signal
+
+to be represented as a vector of minimal: dimensionality. It is often
+more expedient to determine the signal spectrum in two steps, first in an
+intermediate basis which yields primary indicators and then in a second
+basis for adaptive identification with conversionfrom the nonoptinun DEF
+(discrete exponential functions) basis to an asymptotically optimum basis
+according to a rulevhich minimizes the aean error probability. The
+equipment for such an adaptive-identification node of operation consists
+of an analog-to-digital converter and a special-purpose computer, the
+structural variant of informative indicators depending on the particular
+problem at hand. References: 7 Russian.
+
+[82-2415]
+
+23
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621 . 391
+
+SIGNAL IDENTIFICATION BY GmERAL KARUNEN-LOE" INDICATORS DETERMINED FROM
+ENERGY SPECTRUM
+
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 10—17
+
+OHEL'CHENKO, V. A., candidate of technical sciences, HATEVITSKIY, Ye. 0.,
+doCtor of technical sciences, BBZRUK, V. H. and BALABANON, V. V.
+
+[Abstract] Signal identification is considered where the indicators have
+been constructed on the basis of the generalized Karunen-Loew expansion
+according to estimates of the energy spectrum. All the information neces-
+sary for identification.of signals is assumed to be lumped in the first
+two moments of their distributions,.and the adaptive sample is assumed
+
+to be known. The energy spectrum can be described in the time domain and
+in the frequency domain, through a Fourier transformation, with an appro-
+priate estimate of the correlation function. Indicators are constructed
+in two steps, first primary indicators facilitating a discretization of
+the original description and then informative secondary indicators. An
+asymptotically optimum decision rule which minimizes the mean error proba-
+bility is established after the chi-square distribution of spectrum esti-
+mates has been approximated with a normal distribution. The equipment
+
+for such an adaptive identification includes a high-speed spectrum analyzer
+and a digital computer. An experiment was performed using a parallel-
+type analyzer and a Yes-1020 Unified System computer, with complex ex-
+ponential function in the time domain as primary indicators and a decision
+rule which yielded the first five basis functions corresponding to the
+largest five eigenvalues as informative indicators. The results demonstrate
+the feasibility of signal identification by only a few informative indica-
+tors, with approprinr. smoothing coefficients. but also that the accuracy
+of identification will improve as the number of such indicators is
+increased. Figures 2; tables 2; references: 8 Russian.
+
+[82-2415]
+
+UDC 621.391
+SIGNAL IDENTIFICATION PM SPECTRA OBTAINED BY ANALYZERS OF PARALLEL 0R
+QUASI-PARALLEL TYPE, REPORT 6: SIMULATION 0? BASIC IDENTIFICATION RULES
+INVOLVING SPECTRAL INDICATORS
+Khar'kov RADIOTEKHNIKA in Russian No 67, 1978 pp 36-45
+
+OMEL'CHENKO, V. A., candidate of technical sciences, HATBVITSKIY, Ye. 0.,
+doctor of technical sciences, BALABANOV, V. V. and BEZRUK, V. M.
+
+[Abstract] Signal identification by statistical testing is considered,
+this method involving measurement of primary physical indicators by either
+
+24
+
+FOR OFFICIAL USE ONLY
+a parallel or quasi-parallel spectrum analyzer, with initial compression
+by the generalized Karunen-loew expansion and subsequent fast Fourier
+
+transformation. The signal distribution in the space of secondary indi-
+cators can be arbitrary with interdependent parameters, but for simpli-
+
+city is approximated here with a normal one. The indentification process
+has been simulated on a Yes-1020 Unified System computer“, the adaptive
+algorithm including estimation of the joint correlation matrix, calculation
+of the orthogonal transformation matrix, and estimation of the statistical
+characteristics, all progressed in the roman language. Typical results
+of identification by this procedure are shown for signals coming from a
+pseudorandom-sequence generator. Figures 3; tables lo; references 3:
+
+2 Russian, 1 western (in translation). ‘
+
+[83-2615]
+
+UDC 621.391.153519.2
+
+CLASSIFICATION OF SIGNALS ACCORDING TO ENERGY SPECTRUM UNDER WITIONS
+01’ A PRIORI INDETBRMINANCY
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 29 Jan 80) pp 3-12
+
+OMEL'CHENKO, V. A., candidate of technical sciences, HATEVITSKIY, Ye. 0.,
+doctor of technical sciences, sszwx, V. H. and WW, V. V.
+
+[Abstract] The paper is devoted to the use of the spectral-statistical
+method for classification of signals according to the energy spectrum
+method. After a statement of the problem, the information characteristics
+of signals are considered, which are constructed according to the energy
+spectrum on a base of the Karunen-Loeva expansions and a multiple discrimi-
+nant analysis. A decision principle is derived with respect to the
+criteria of maximum empirical risk. The special features of systems of
+recognition are considered, and the results of experimental investigations
+are presented. Systems of recognition are realized on the base of a
+Minsk-32 computer and a 60-channel analyzer of spectra of the parallel
+type. The programs were composed in the Portran language. Figures lo;
+
+tables 6; references: 15 Russian.
+[81-6415]
+
+UDC h21.391
+DISTRIBUTION OF PULSE AHPLITUDES IN sour INDUSTRIAL INTERFERENCE
+Khar'kov RADIOTEKNNIKA in Russian No 50, 1979 pp 21-25
+GORDILOV, A. A.
+
+[Abstract] The inunity of radio receivers to industrial interference
+depends not only on the mean level but also on the fine structure of such
+
+25
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+an interference. The anplitude distribution of industrial interference
+pulses is not always a log normal one, as usually characterized. An
+experimental study was made to determine this distribution with a.c.
+commutator motors used as the source of interference. The measuring
+equipment included antennas, interchangeable high-frequency amplifiers
+
+with noninductive. detectors, and an 58-2 memory oscillograph. As ampli-
+fiers served either of three receivers SIN-3 (f I- 300 “Half ‘—' 120 klir),
+PA—lZa (f0 - 2 MHz, Af i 9 kHz), 66-R‘l'H-A2-Clﬂ to - 150 MHz, bf '- 28 kHz).
+The data, processed in the form of statistical series, fit an exponential
+distribution of the F(A) - 1 - e":A kind with o50.3-0.8, in agreement with
+the theory of sliding contacts._ Two interference components are dis-
+tinguishable: one approaching a Gaussian fluctuation noise with mall
+amplitudes and a high pulse repetition rate, one with larger amplitudes
+and a lower pulse repetition rate. The first component is caused by cur-
+rent mainly flowing through "metallic contact spots" produced by breakage
+or electrical breakdown of the contact film, the-second component is caused
+by interruptions of contact between brushes and conutator bars with
+attendant arcing. Figures 2; tables 1; references 6: 4 Russian, 2 Western
+(in translation).
+
+[82-2615]
+
+UDC 621.398
+5mm METHODS 01’ RECEPTION 0F HULTIPRNUHICY SIGNALS
+
+Khsr'kov RADIOTEKBRIKA in Russian No 57, 1981
+(manuscript received 28 Apr 80) pp 42-47
+
+ZHURAKDVSKIY, Yu. P. and MIOINATSKI, V., candidates of technical sciences
+
+[Abstract] The problem of detecting errors with the aid of multi-
+frequency signals is considered. It is shown that use of an interference
+detector is effective during detection of distorted signals which give a
+large number of errors, if it is derived at a simple receiver. In order
+to increase the noise inunity of multifrequency signals a generalized
+differential circuit (CDC) for inclusion of filters can be used in the
+receiver. This method was proposed in 1971 by Yu. P. Zhurakovskiy (see
+above). CDC makes it possible to avoid false operation of the threshold
+elements connected to the output of the receiver. In addition to a dis-
+cussion of the general characteristics of the receivers, a detailed
+analysis is presented of_ the noise inunity of receivers in the case of
+reception of multifrequency signals. Pigures 3; references: 2 Russian.
+[81-6415] ' '
+
+26
+
+FOR OFFICIAL USE ONLY
+CIRCUITS & SYSTMS
+
+UDC 621.372
+
+DB‘I‘BRKIHATION 0F VOLTKRRA KERNKLS 0P MULTIDWSIONAL NMIW
+RADIOELBCTRONIC CIRCUITS BY MEANS 0? 'NONLINEAR INPUT SIGNALS'
+
+Khar'kov RADIOTEKRNIKA in Russian No 50, 1979 pp 25-34
+
+mm. B. 1., doctor of technical sciences, SUL’IANOV. A. 8.,
+candidate of technical sciences. and IVAROV, H. A.
+
+[Abstract] Analysis and synthesis of nonlinear radioelectronic circuits by
+the method of Volterra kernels is very convenient and effective, linear
+systems being regarded here as a subclass of nonlinear ones. Hith the use
+
+of "nonlinear currents“. the process of deternining the Volterra kernels
+
+from a given system of nonlinear equations describing a circuit can be re-
+duced to a precisely defined sequence of operations easily performed with
+
+the aid of a digital computer. Here this principle is extended to the
+
+larger class of multidinensional circuits describable by a nonlinear equation
+
+of the
+- a $214. . b 1
+z: 22% ;
+
+kind, where :1 is the i-th input signal and y is the output signal. Because
+the dimensionality of "nonlinear currents" is not necessarily the same as
+that of the electric current, they are replaced by nore general "nonlinear
+input signals" with a dimensionality depending on the specific conditions of
+the problem. The latter concept is further extended to nonlinear elements
+excitable by signals of a more general form. Solution of the equations
+yields recurrence relations for the "nonlinear input signals" and deternining
+the Volterra kernels with the aid of these relations involves linearization
+of both the square matrix of coefficients in the system of nonhoaogeneous
+equations of state and the matrix of external (input) actions. The procedure
+is demonstrated on a circuit consisting of a nonlinear capacitance across two
+a.c. voltage sources in parallel, one in series with a nonlinear resistance
+and one in series with a linear element characterized by a transfer function
+“(3). Figures 1; references 3: 1 Russian, 2 Hestern.
+
+I82-ZMS]
+
+27
+
+NR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621 .383
+
+SIGNAL FOR CIRCUIT WITH POINT-CONTACT PHOTORESISTOR IN MAXIM!!!-
+SENSITIVITY WDB
+
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 93-98
+CHUZHIKOV, I. T., KOLBSNIKOV, S. P. and RUDNEVA, L. V.
+
+[Abstract] A photoelectric image converter is considered which consists of
+a glass disk with many implanted thin conducting bars. There are also two
+conducting grids implanted in the disk, one at each face, surrounding each
+bar but insulated from all and also from one another. On the receiver face
+is deposited a photosensitive film making electrical contact with the bars
+and with the respective grid, on the other face is deposited a load film.
+Polycrystalline PbTe. having a high electrical resistivity and being highly
+sensitive in the infrared range, is the most suitable material for photo-
+resistor films. Here the performance of such a circuit is analyzed for a
+determination of the necessary signal voltage and the optimum design
+parameters. Figures 3; tables 1; references 5: 6 Russian. 1 Western.
+[82-2415]
+
+28
+
+FOR OFFICIAL USE ONLY
+CWCAHMS
+
+UDC 621.372
+WAVES IN NONHGDGENEOUS HULTICNDUCTOR MMSSIM LINES WITH SKIN EFFECT
+Khar'kov RADIO‘I'EKHNIKA in Russian lo 67, 1978 pp 52-56
+
+DIKAREV. V. A., candidate of physico-sathuatical sciences, and
+NUZHNYY, Yu. S.
+
+[Abstract] High-frequency processes in a nonhonogeneous mlticonductor
+transmission line with skin effect are analyzed on the basis of asymptotic
+solutions to the modified syst- of telegraph equations
+
+:2 % - A(x, )X (a S x S b), where e - (mod/2 (n- frequency) and
+
+X - (V1,...,V.,I ,....I‘) is the sought vector-function vith V1011 denoting
+the transforms o voltages and currents in the k-th of I conductors. The
+(2112:2111) matrix-function A(x,e) has an asymptotic expansion at t -> 0 which is
+uniform on the interval [a,b]. The solution reveals what waves exist and
+their mode of propagation. Here only the skin effect is calculated and,
+
+for illustration, the method is applied to a metric single-conductor line
+as well as to a syn-etric 2-conductor one. References 5: 6 Russian,
+
+1 Hestern.
+[83-2415]
+
+UDC 621.372
+CALCULATING EWMIC WAVES Ill WLTICOIIDUCTOR WMSSION LINES
+USING MATRIX um! MULTIPLE SPECTRUM All!) PARAMETERS SLOH‘LY VARYING Amm
+THE LINE
+Khar'kov RADIOTEIOINIKA in Russian No 67, 1978 pp 56-60
+MUHEYKO, I. V.
+[Abstract] Approxilate solutions to the generalized systa of telegraph
+
+equations in the matrix for:- Y' - A(x,m)Y, with x the coordinate of length,
+m the frequency and Y denoting a 2n-dinensiona1 vector-function of voltages
+
+29
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+and currents, are sought by an asymptotic method. The matrix A(x,u) can
+have eigenvalues retaining a constant multiplicity throughout the range
+
+of variable x, but is everywhere within this range reducible to diagonal
+form through a nondegenerate linear transformation. The problem reduces to
+a system of linear differential equations with variable coefficients and
+with boundary conditions at both ends of the line. An exact solution is
+impossible, a solution by conventional numerical methods becomes unwieldy
+and inefficient for a large number of multiple eigenvalues. but a fast
+converging series can be obtained when the parameters vary slowly along the
+line. References: 3 Russian.
+
+[83-2415]
+
+UDC 621.372
+
+REFLECTION COEFFICIENT 0F ELLIPSOIDAL INHOMOGMITY IN (”AXIAL CHANNEL
+Khar'kov RADIOTEKHNIKA in Russian No 67, 1978 pp 78-81
+BOYKO, A. P. and Booouomv. A. S.
+
+[Abstract] Measurements of microwave power by the ponderomotive method must
+take into account interaction of electromagnetic waves and inhomogeneities
+in coaxial channels, specifically reflections. Here the reflection coef-
+ficient (ratio of amplitude of reflected waves to that of incident waves),
+characterizing the secondary fields, is calculated for an ellipsoidal in-
+homogeneity and a propagating IBM-mode. In this case the reflection coef-
+ficient is found to be proportional to the volume of such an inhomogeneity,
+to increase parabolically with rising frequency, and to increase exponential-
+ly with increasing dielectric permittivity of the ellipsoid material.
+Figures 3; references: 3 Russian.
+
+[83-2k15]
+
+UDC 621.372
+ALGORITHM FOR ANALYSIS OF SIG‘ALS IN NWENEOUS COMICATIG‘ CHANNELS
+Khar'kov RADIOTEKHNIKA in Russian No 67, 1978 pp 47-51
+
+DIKARBV. V. A., candidate of physico-mathematical sciences, and
+HEL'NIKOV, A. F.
+
+[Abstract] An algorithm of signal analysis is shown which takes into
+account distortion of signals in nonhomogeneous multiconductor cammunication
+channels. It is based on the telegraph equation in matrix form
+
+:2 gé - A(x,c)x, where e - (imf'l/2 (w-frequency), which describes the
+
+30
+
+FOR OFFICIAL USE ONLY
+propagation of oscillations through such a channel. The matrix A(x,c)
+
+has an asymptotic expansion which is uniform on an interval [a,b] on which
+there exist p linearly independent smooth vector-functions. The matrix
+A1(x) is assumed to be positive-definite, in accordance with the law of
+energy conservation. The algorithm yields a solution to the corresponding
+
+eigenvalue problem. References 7: 6 Russian, 1 Western.
+[83-2k15]
+
+UDC 621.391
+DISTRIBUTION OF DOPPLER FREQUENCY SHIFT IN METEOR COMMUNICATION LINE
+Khar'kov RADIOTEKHNIKA in Russian No 67, 1978 pp 16-16
+
+YBLISEYEV, V. I. and CHERNYY, V. I.
+
+[Abstract] The parameters characterizing the distribution of the r‘opler
+frequency shift in a meteor communication line are evaluated according to
+the fundamental relation for the change in the phase path during the
+measurement period and on the basis of a statistical analysis of readings
+taken over such a period. Measurements have been made with meteor channel
+equipment along a 700 km long meridional route, using a signal of 60 micro-
+second duration with a carrier frequency of 57 an: and linearly frequency
+modulated over a 6 MHz band. Readings were taken over 8 h periods from
+midnight to 8 AM. Here the results are presented in the form of a histo-
+gram, useful for the design of meteor communication receivers. Figures 1;
+
+references 6: 5 Russian, 1 Western (in translation).
+[83-2415]
+
+UDC 621.391
+
+ERROR IN CALCULATN‘J 0P FREQUENCY CHARACTERISTICS OF METEOR COWNICATION
+CHANNEL -
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1978 pp 17-20
+YELISEYEV, V. I.
+
+[Abstract] The frequency characteristics of communication channels are
+calculated most accurately, from known time characteristics, by the method
+of Fourier integrals. Here the total error of such a calculation for
+meteor communication channels is estimated, taking into account the in-
+accuracy of the Kotel'nikov series used for time discretization of signals
+as well as the inaccuracy of their amplitude quantization. Other independ-
+ent errors include those caused by amplitude fluctuations, noise. non-
+
+linearity of the oscillograph sweep and random deviations of readings from
+true values. References: 6 Russian.
+[83-2615]
+
+31
+
+FOR 0FF“JA1.USE1)NLN
+FOR OFFICIAL USE ONLY
+
+UDC 621.396
+
+METHOD OF ESTIMATING CORRELATIONAL PROPERTIES 0? BASIC CHARACTERISTICS OF
+METEOR COWICATION LINES
+
+Khar'kov RADIOTEKHNIRA in Russian No 50, 1979 pp 85-89
+
+AKSENOV, Yu. V.
+
+[Abstract] The characteristics of a data transmitting meteor channel vary
+continuously as the result of various causes and, therefore. optimization of
+its performance requires immediate estimations of its parameters. This can
+be done by measurements and statistical analysis, taking into account the
+real time of detection of essentially random deviations, or by prediction
+
+of the channel behavior on the basis of models. The first method requires
+minimization of the time of system response to external perturbations
+during operation and is most effectively implemented by means of adaptive
+control. The second method requires a tradeoff between accuracy and simpli-
+city in terms of the number of parameters included in a model. Such a
+tradeoff can be established only through an analysis of correlations be—
+tween individual model elements. Here the number of reflections by a meteor
+trail per hour is selected as the fundamental element and, on the basis of
+calculations of the empirical correlation factors, a close but variable
+correlation (0.85-0.95) is established between this parameter and the total
+duration of recorded flares (total on-time of threshold device in the
+receiver) per hour, a weaker but stable correlation (0.7-0.89) between the
+total duration of flares and the maximum duration of a flare, and a weak
+correlation (0.10-0.15) between the total duration of flares and the mean
+duration of radio reflections by a meteor trail. Hardly any correlation is
+found between other parameters such as minimum amplitude and minimum duration
+or minimum duration and maximum duration. Most importantly for prediction
+purposes, the correlation between the number of reflections per hour and
+
+the maximum duration of a flare is close and steady (r - 0.8) at a zero
+
+probability of noncorrelation. References: 6 Russian.
+[82-2415]
+
+USE OF CODES IN SYSTEM OF REMAINDRR CLASSES FOR DATA TRANSMISSION OVER
+METEOR CHANNEL, REPORT 1: FORMULATION 0P PROBLEM
+
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 51-56
+VOLOSHCHUK, Yu. I., candidate of technical sciences, and GRANKIN, P. F.
+
+[Abstract] The problem of selection and design of codes for transmission
+of messages over a meteor channel is analyzed, codes which consist of an
+information carrying part and a monitoring part. Binary codes are con—
+sidered with a system of numeration in the remainder classes, where a number
+
+32
+
+FOR OFFICIAL USE ONLY
+is represented by the remainder of its division by a selected base. Because
+interdigital coupling is completely absent here, unlike in the conventinal
+system of positional numeration, all rational operations can be performed
+
+in parallel on each digit individually and thus much faster with simpler
+equipment. Other advantages of such codes include equal treatment of both
+parts and the possibility of adaptation to different interference backgrounds
+without significnnt modifications of encoder and decoder equipment. Con-
+version to the positional numeration system is shown. References 8:
+
+6 Russian, 2 Western (one in translation).
+
+[82-2415]
+
+UDC 621.396
+
+USE OF CODES IN SYSTEM OF REMAINDER CLASSES FOR DATA TRANSMISSION OVER
+METEOR CHANNEL, REPORT 2: ERROR DETECTION AND CORRECTION CAPABILITY OF
+SUCH CODES
+
+Khar'kov RADIOTBKHNIKA in Russian No 50, 1979 pp 56-60
+GRANKIN, P. F. and POSOSHENKO, V. A.
+
+[Abstract] An interference immune code in the system of remainder classes,
+a code with an information carrying part and a monitoring part, is construct-
+ed for general and specifically meteor transmission channels. The informa-
+tion bases are selected so as to cover the entire operating range with the
+minimum number of digits, and the monitor bases are selected identically so
+as to fully ensure detection of errors. Moreover, an infornation carrying
+symbol will not change upon conversion to the positional numeration system
+with fewer bases. These principles are demonstrated on a code with bases
+P1 - 3, P2 = 5, P3 - 7. P4 - 11, P5 - 13 for transmission of numbers from
+0 to 32. The redundance here is superfluous from the standpoint of check-
+ing the information for errors, but is necessary for reliable transmission
+
+in the presence of interference. Figures 1; references: 2 Russian.
+[82-2415]
+
+UDC 621.396:621.398.9
+
+SYSTEMS FOR REMOTE CONTROL OF HIGH-FREQUENCY AND MEDIUM-FREQUENCY RADIO
+COMMUNICATIONS EQUIPMENT
+
+Moscow ZARUBEZHNAYA RADIOELEKTRONIKA in Russian No 10, Oct 81 pp 47-65
+VENSKAUSKAS, K. K., candidate of technical sciences
+
+[Abstract] In recent years the carrying capacity and efficiency of HF and
+HF radio communications systems have been improved by the creation of
+
+33
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+remote-controlled equipment which adapts to the influence of noise and
+changes in radio wave propagation conditions and thus makes it possible to
+create totally unattended systems. A survey is presented of the design
+principles and key specifications of non-USSR remote control systems for
+radio communications equipment in the HP and MP bands. Several remote con-
+trol systems are described in order to show their typical design features
+and differences in specifications. Remote control is accomplished central-
+ly by means of a computer. The noise immunity of communications systems is
+improved by placing radio centers in places with a low level of industrial
+noise, so that maintenance costs are reduced and the efficiency and reliabil-
+ity of systems are improved. Remote control systems are divided into three
+types: systems for the remote control of large radio center equipment, of
+radio receiving equipment and of radio communications equipment. The first
+category includes the Philips (Netherlands) PARCS system for HP receiving
+and transmitting equipment of radio centers; the "Matelo" system developed
+by the English Harconi firm, which was first designed for the remote control
+of naval aviation communications radio centers and then was given broader
+application; the IPSS9 and IFS6 systems developed in the PRC, designed for
+controlling a radio station in Blmshorn and Usingen, respectively; and the
+Marconi Communications Systems digital H6800 remote control system for radio
+receivers and transmitters. The second category includes the Plessey
+(England) PRC 2250 system designed for remote control of the PR 2250 radio
+receiver; the Philips RL 157 system for the remote control of R0 156 radio
+receivers; and the Mackay Marine (USA) 3020 RC system for the remote con—
+trol of series 3020 receivers. The third category includes the Rockwell
+International (USA) BOT-32 system for remote control of strategic communica-
+tions equipment; the Rohde and Schwarz (PRC) TREE-488 system for type BK 070
+receivers, SK 1005 transmitters and xx 104 and xx 403 radio stations; the
+
+F 76000 system developed in Denmark and used for controlling radio communica-
+tions equipment such as type S 76000 transmitters and M 76000 receivers; the
+Philips RC 790 system for controlling transmitters with an RC 790 driver and
+the RM 795 radio station; and the UUIP (Sweden' firm's AU-3-1013 remote
+control system for overall control of radio communications equipment and
+terminal and auxiliary equipment. There has been a worldwide trend in
+recent years toward creating adaptive communications systems utilizing
+unified remote control systems similar in design principles and specifica-
+tions. These systems employ the address-multichannel principle of trans-
+mitting remote control information with heavy emphasis on address transmis-
+sion. Sporadic and cyclic operating modes are used with a common-group or
+individual type of remote control information transmission. Transmission
+speeds vary widely from 50 to 2600 bits per second in keeping with CCITT
+standards. Figures 10; references: 23 Western.
+
+[97-8831]
+
+34
+
+FOR OFFICIAL USE ONLY
+COMPONENTS, HYBRIDS 6 MANUFACTURING TECHNOLOGY
+
+UDC 681.325.3
+MODERN HICRDELECTRONIC VOLTAGE-TO—PRBQUENCY CONVERTERS
+Moscow ZARUBEZHNAYA RADIOELEKTRDNIKA in Russian No 9, Sep 81 pp 100-106
+
+CEISTYAKOV, N. P.
+
+[Abstract] The parameters of microelectronic voltage-to-frequency converters
+being produced by firms in the USA are presented in a table. These data
+provide a basis for a survey of the state of the art of these devices. All
+of these devices convert both unipolar and bipolar signals with a maximum
+input signal amplitude of 10 V and a maximum speed of response of 1 ME: in the
+Analog Devices 460 J model. In the Burr-Brown VPC-SZ conversion nonlinearity
+is not greater than 0.005 percent. Temperature instabili of the trans-
+mission factor for all of these devices varies fro. 20°10‘ per degree
+Celsius to 100-10"6 per degree Celsius. Voltage-to-frequency converters
+produced presently for the most part are matched in terms of output signal
+level with ‘l'l'L logic, making a buffer unit necessary for matching with other
+logic elements. The low cost of these devices is an important advantage.
+Conversion nonlinearity and transconductance are the basic parameters for
+evaluating the fitness of a voltage-to-frequency converter. The three main
+methods of designing these devices differ with respect-to the type of feed-
+back employed: They either have an open feedback loop or have pulsed feed-
+back or 6-0 modulation. The principles underlying these methods are dis-
+cussed. Illustrating the principle of 6-0 modulation is a bipolar integrated
+circuit device developed by Raytheon; it has conversion nonlinearity of not
+greater than 0.025 percent at frequencies to 100 kHz and not greater than
+0.015 percent at frequencies to 1 kHz. The microcircuit includes a reference
+voltage source, a precision voltage-to-current converter, a current switch,
+an operational amplifier and a highly stable one-shot multivibrator con-
+sisting of an R-S flip-flop, a sawtooth voltage generator and a comparator.
+Modern voltsge-to-frequency converters can be improved by improving conver-
+sion transconductance, enabling the matched operation of these devices with
+microprocessors, and by developing a device of this type based on HOS
+technology and having an integrating capacitor located outside of the case.
+The advantages of these devices make it convenient to use them for designing
+various devices for analog information processing, such as high-resolution
+
+analog-digital converters. Figures 10; references 18: 9 Russian, 9 Western.
+[70-8831]
+
+35
+
+FtNlCHHHCJAl.USE(NNLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.372
+
+PARAMETERS OP STRONGLY COUPLED CAVITY RESONATORS
+Khar'kov RADIOTEKRNIRA in Russian No a7, 1978 pp 91-97
+
+PASHCHENKO, 2h. 3., candidate of technical sciences, and
+TERESHCHENKO, A. I., doctor of technical sciences
+
+[Abstract] Cavity resonators are used as microwave circuits, either as
+independent devices or as components of larger complexes. Here the
+performance characteristics of strongly coupled cavity resonators in a multi-
+cavity device are calculated by the matrix method. which reduces the sys-
+tem of integral equations for partial regions of a geometrically intricate
+surface to algebraic equations for the equivalent matrix elements. Accord-
+ingly, expressions are obtained for self- and mutual adnittances in an N-
+cavity resonator. All elements of the admittance matrix are functions of
+the frequency, and a solution of the corresponding eigenvalue problem
+yields the spectrum of natural frequencies. The Q-factor of each component
+cavity can also be easily calculated. The method is demonstrated on a
+simple array of two cylindrical resonators in parallel, such a device
+
+being used for improving the stability of a NH3-maser. Figures 2;
+references: 6 Russian.
+
+[83-2415]
+
+UDC 621.372
+
+EFFECT OF CUTOFF REGION 0" CHARACTERISTICS OF IRREGULAR RECTANGULAR
+RESONATOR '
+
+Khar'kov RADIOTEKHNIKA in Russian No 47, 1978 pp 97-100
+
+FILATOVA, N. A. and BURTOVOY, D. P., candidate of technical sciences
+
+[Abstract] A rectangular resonator with cutoff is considered, such an
+irregular waveguide resonator being often used with semiconductor micro-
+wave devices. Its Q-factor and resonance wavelength are calculated as
+functions of the location of the movable metal end wall, perpendicular to
+the resonator axis, in the cutoff region. The needed expression for the
+crest factor takes into account the appropriate boundary conditions for the
+electric field. Numerical results have been obtained with the aid of an
+H-222 digital computer for a trapezoidal resonator with a skin-effect
+layer and a propagating H101-mode. An increase of the length of the cut-
+off region is found to decrease the resonance wavelength, but with a
+smaller frequency drift than in a regular rectangular resonator, and
+correspondingly to increase the Q-factor. Experimental data confirm this
+theoretical conclusion. Pigures 3; references: 1 Russian.
+
+[83-2615]
+
+36
+
+FOR OFFICIAL USE ONLY
+UDC 621.372
+
+GRAPHICAL REPRESENTATION 0P DRPIIM OF RESONANCE Hamms ON
+
+GWCAL DIMENSIONS OF RESONATORS, mar 33 SM GENERALIZATIONS
+BASED ON CONFORHAL MAPPING
+
+Khar'kov RADIOTEKHNIKA in Russian No 67, 1978 pp 88-91
+
+PASHCHENKO, 2h. P., candidate of technical sciences, and
+TERBSHCHENKO, A. 1., doctor of technical sciences
+
+[Abstract] A universal expression for a resonance wavelength in resonators
+of various shapes, as a function of the geonetrical characteristics of
+resonators including a form factor, is presented in the form of families of
+CIA -o/A , c/ -b/A , b/A -o/A , c/ -r/A and c/A -r IA
+“:53: forrflfmodesxrgd n es. 3e c 53%» 33th 0 e: resonatgf",I callandes
+b are the sides of a rectangular resonator, r is the radius of a cylindrical
+resonator, r1 is the inside radius of a coaxial or butterfly resonator, and
+Ares is a resonance wavelength. By plotting the coordinates of a point on
+such a curve corresponding to resonance in a certain node, one can determine
+the necessary dimensions of a resonator of a given shape. A more extensive
+
+graphical procedure will yield the design of resonators of other shapes as
+well. Figures 1; references: 3 Russian.
+
+[83-21015]
+
+UDC 621.396
+SCA'ITBRING MATRIX OF ARRAY OF TWO SLITS IN RECTANGULAR WAVEGUIDE
+Khar'kov RADIOTBKHNIKA in Russian No 47, 1978 pp 72-78
+KATRICH, V. A.
+
+[Abstract] The scattering matrix of two oblique slits in a rectangular
+waveguide is calculated, the slit generally having an arbitrary mutual
+orientation but in special cases intersecting or located with an overlap
+along the waveguide axis. The partial self- and nutual adaittances of such
+a pair of slits are calculated by a simple method of solving the problem
+of excitation. The waveguide is first assuned to be infinitely long with
+an infinitesimally snail wall thickness. The energy parameters, namely
+reflection and transmission coefficients, are then calculated for an x-
+slit. The effect of higher harmonics is evaluated and found to be small,
+decreasing further with increasing thickness of the waveguide wall as
+wcll as upon insertion of a dielectric filler. A sine half-«wave thus
+adequately approximates the electric field distribution along such slits
+
+for engineering design purposes. Figures 1; references: 8 Russian.
+[83-2415]
+
+37
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.396.6
+
+INVESTIGATION OF VARAC'NR FREQUENCY HUL‘IIPLIER WITH ASSISTANCE 0F
+FUNCTIONAL METHOD
+
+Khar'kov RADIOTEKRNIKA in Russian No 57, 1981
+(manuscript received 19 May 80) pp 82-86
+
+IVANOV, H. A., HAKARKNKO, B. 1., doctor of technical sciences and
+SULTANOV, A. 5., candidate of technical sciences
+
+[Abstract] A new approach is proposed for an investigation of frequency
+multipliers with assistance of the functional method. The results of numeri-
+cal calculations. fulfilled with the assistance of the "Minsk-32" computer,
+for the concrete circuit of a varactor frequency doubler with a parallel
+connection of a varactor, corresponds well with experimental data. The
+proposed approach to an analysis of frequency multipliers has a general
+nature, because introduction of a considerable number of sinplifying assump-
+tions and hypothesis is not envisaged. The approach in question should be
+used for a wide class of frequency multipliers. Figures 5;
+
+references: 3 Russian.
+
+[81-6415]
+
+UDC 621.396.966
+HIGH-FREQUENCY AMPLIFIERS BASED ON SURFACE ACOUSTIC WAVES
+
+Moscow ZARUBEZHNAYA RADIOBLBKTRONIKA in Russian No 10, Oct 81 pp 66-83
+
+GAVRILIN, V. I., GULYAYEV, A. 11., candidate of technical sciences, and
+KARPEYEV, D. V.
+
+[Abstract] A summary is given of the physical processes and basic theories
+of surface acoustic wave (SAN) amplification and questions are discussed
+relating to the design, fabrication technology and application of accusto-
+electronic amplification structures. Recently the simplicity, compactness
+and pronise of SAW amplifiers employing a layered piezoelectric-seniconduc-
+tor structure have created great interest. This structure makes it possible
+to compensate the losses of a few dozen decibels characteristic of previous
+SAW devices and also to achieve amplification of a high-frequency input
+signal. The operating principle of an SAH amplifier is discussed, together
+with the propagation and excitation of surface waves, the interaction of a
+surface acoustic wave with charge carriers and Adler's model (1970, 1971)
+
+of the amplification effect. Designs of SA" amplifiers are discussed,
+
+along with fundamentals of the theory of SAW amplification, including the
+Kins-Reeder theory (1971) and the theory of the amplification of a surface
+acoustic wave for a nonolithic structure. Experimental data are presented
+on amplifiers utilizing a CdS piezoelectric semiconductor chip and amplifiers
+
+38
+
+FOR OFFICIAL USE ONLY
+with a layered structure. The latter have surpassed the former because of
+the bad piezoelectric and especially semiconductor properties of cas chips.
+Experimental data are presented on an LiNb03-In8b film structure, on the
+influence of an external nagnetic field. the noise properties of anplifiers
+and carrier trapping effects. The fabrication technology for SAN anplifiers
+is discussed in detail, along with application of the SAN amplification
+effect. One application discussed is acoustic convolvers possessing in-
+trinsic two-way amplification. A device is described which achieves a
+
+gain of 20 dB with a supply voltage of 50 V and at the same time functionally
+
+processes a high-frequency signal. Figures 19; references 123: 9 Russian,
+11!. Western.
+
+[97-8831]
+
+UDC 621.398
+SOME FEATURES IN DESIGN OF HIGH-SPEED ANALOG MAYORS
+
+Khar'kov RADIOTEIGINIKA in Russian No 50, 1979 pp 104-109
+
+KULESllOV, V. N., candidate of technical sciences
+
+[Abstract] The performance of analog-to-digital converters in multichannel
+radio engineering equipment depends largely on the characteristics of the
+analog components and, particularly, of analog comtators. Their basic
+performance parameters are switch-on time. switch-off time, and the referred
+error of switching of channel voltages. Here the design of analog counta-
+tors for maximum speed and accuracy is analyzed in terms of operational
+logic. It is also analyzed from the standpoint of tradeoffs between the
+necessity to isolate control circuit from switch circuits on the one hand
+
+and the speed of operation as well as mufacturability on the other. Cir-
+cuit integration is, accordingly, a problen. Host promising is the use of
+field-effect transistors, especially enhanced HOS transistors with a p-channel,
+as switching elements. A circuit is shown which consists of a switch with
+two such transistors in series and a compound control stage with two bipolar
+transistors. The performance of a 2-step analog conutator built with these
+components and operating according to an appropriately adjusted logic appears
+to be satisfactory, pending an error and transient analysis. The design can,
+furthermore, be easily adapted for microelectronic (silicon) circuit
+
+integration. Figures 2; references: 2 Russian.
+[82-2415]
+
+39
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+CMUTBRS
+
+UDC 681.142
+
+ERROR 0P PINI‘IB-LENG‘I'H DISCRETE SINUIATION 0P RANDOM PROCESSES WITH GIVEN
+DISTRIBUTION MD CORRELATION FUNCTION ON DIGITAL COMPUTER
+
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 98-104
+SIHOVSKAYA, S. P., candidate of technical sciences, and LBBBDEVA, 0. M.
+
+[Abstract] Random processes can be simulated on a digital computer according
+to programs which generate from a sequence of dependent quantities with a
+given mean value and standard deviation fron independent uniformly or normal-
+ly distributed random numbers. Universal algorithms used for this are un-
+economical in terms of machine time and, consequently. maximally economical
+special-purpose algorithms are preferred. Here problems of practical imple-
+mentation of such discrete-simulation algorithms are examined, particularly
+the error of finite-length sequences simulating a stationary random process.
+Considered are a stationary normal random process with given correlations and
+a stationary Rayleigh random process with an exponential correlation function.
+Calculations made on Yes-1020 Unified System and Minsk-32 computers, respec-
+tively, are compared with theoretical calculations. The results indicate
+that in each case the accuracy of simulation and the error of the correla-
+tion function depend on the length of the realization sequence, the error
+still being large with N - 100, but becoming insignificant with N - 1000
+discrete ordinates. Figures 2; tables 2; references: 2 Russian.
+
+[82-2615]
+
+60
+
+FOR OFFICIAL USE ONLY
+ELECTRON DEVICES
+
+UDC 621.375
+
+EXTENSION OF OPERATING RANGE OF Gum—DIODE OSCILLATGIS
+Khar'kov RADIOTEKHNIKA in Russian No 47, 1978 pp 100-102
+MOLYAVKO, V. 1., candidate of physico-nathenatical sciences
+
+[Abstract] An experimental study was nade for a Gum-diode oscillator with
+a II-waveguide resonator. The device included plungers for nechanical
+tuning and a varactor for electronic tuning. also a low-pass filter and a
+load connected through a stripline Y-inductor. Its amplitude-frequency
+characteristic was neasured over the 3.7-1.2.8 GB: range and found to be
+notched. The frequency deviation due to an increase of the varactor voltage
+was found to alternate from positive in the bands 3.7-5.7, 6.8-9.7, 10.2-
+11.3 CH: to negative in the bands 5.7-6.8, 9.7-10.2. 11.3-12.8 Gila. With
+an AA7OBA Gunn-effect diode and a nininun resonator Q-factor of 3000, the
+maximum continuous pawer output was 2 law. at a bias voltage of 8.5 V and a
+diode current of 160 M. (Text illegible.) Hith a 2A602D varactor diode,
+the maxim tuning range could be extended to 180 MHz. The results indicate
+that a II(or H)-uaveguide resonator appreciably widens the operating range
+of such an oscillator. Figures 2; references: 1 nonRussian.
+
+[83—2415)
+
+000 621.385
+HARMONIC GENERATION IN H-TYPB TRAVELING-HAVE TUBES
+Khar'kov RADIO‘I‘EIOINIKA in Russian No 67, 1978 pp 102—106
+
+BELOUS, B. A., GBRASDIOV, V. P. and $821“, A. 6., candidate of physica-
+mathematical sciences
+
+[Abstract] A unisegnental H-type M frequency mltiplier is considered
+
+and the conditions of efficient her-chic generation are established on the
+
+basis of a rigorous analysis. The self-consistent system of integro-
+differential equations describing the interaction of the fundanental-frequency
+
+61
+
+ron omcm. usi: ONLY
+FOR OFFICIAL USE ONLY
+
+signal and of its second and third tine harmonics with the electron beam in
+
+a multifrequency H-type traveling-wave tube have been solved nulerically.
+Here the calculated distributions of the power of each harmonic component
+along the interaction space are shown, as well as the output power at each
+frequency in some cross section near the center of the interaction space as
+
+a function of the ratio of coupling resistances Rl/RZ and R1/R3. respectively.
+Figures 3; references 8: 6 Russian, 2 western.
+
+[83-2615]
+
+UDC 621.385
+
+HULTIFREQUENCY OPERATION OF M-TYPB AMPLIFIER RITE CATHODB IN INTERACTION
+SPACE
+
+Khar'kov RADIOTEKHNIKA in Russian No 47, 1978 pp 107-110
+CHURYUHOV, G. I. and SHBIN, A. 6., candidate of physico-nathematical sciences
+
+[Abstract] An M—type amplifier with the cathode in the interaction space can
+serve as a device where the electron bean interacts with complex high-fre-
+
+quency fields containing several signals at different frequencies. Here such
+a device with a cylindrical structure is analyzed, including the case of a
+
+large frequency separation between signals. Since calculations in a cylindri-
+cal system of coordinates are very difficult, this cylindrical structure is
+replaced with a quasi-plane one on the assumption that the cathode and the
+anode have approximately equal radii. Calculating the interaction involves
+calculating the trajectories of electrons and fields. The problem reduces to
+solving the corresponding equations of motion in normalized Lagrange coordin-
+ates and this is done here for the interesting case of the high-frequency
+field drifting to the input of the device, assuming negligible space-charge
+fields and no reflections at the ends of the retarding system. On this
+
+basis have been determined fundamental and second-harnonic gain and power
+distributions along the interaction space in a model of such an anplitron
+without dispersion and with a frequency-independent coupling resistance.
+Figures 3; references: 5 Russian.
+
+[83—2415]
+
+UDC 621.385
+
+EFFECT OF LONGITUDINAL NONUNIPORHITY 0P ELECTROSTATIC FIELD 0N
+CHARACTERISTICS OF H-TYPE TRAVELING-"AYE TUBE
+
+Khar'kov RADIOTEKBNIKA in Russian No 47, 1978 pp 110-116
+
+SOVA. A. V.
+
+[Abstract] In an H-type traveling-wave tube the longitudinal nonuniformity
+of the electrostatic field. resulting from interaction of the electromagnetic
+
+42
+
+FOR OFTNCIAL.USEGDNLY
+wave with a periodically nonhonogeneous structure, causes the output charac-
+teristics of such a device to depend on this nonuniformity. Here this
+dependence is analyzed for a retarding system with a comb structure. The
+eQuations of motion for electrons in the two-dimensional case and the Laplace
+equation for the electric field potential are solved for a gap region and a
+slot region. A numerical solution reveals how the amplitude of the funda-
+mental component and that of the second harmonic vary with gap height and
+slot width. The output characteristics of a magnetron amplifier, namely
+power and phase shift, are then calculated as functions of the magnetron
+length for various values of the field nonnniformity parameters as well as
+for a uniform electrostatic field. The results of calculations for a mono-
+chromatic input signal are compared with results of measurements. Figures 1;
+references: 1 Russian.
+
+[83-21015]
+
+UDC 621.385.6
+
+REALIZATIM 0F REGIME 0F INVERSB TRANSFORMATIOII Ill AIM'HC PHASE
+TRAVELING-HAVE TUBES
+
+Khar'kov RADIOTEICIINIKA in Russian No 57, 1981
+(manuscript received 31 Mar 80) pp 1110-118
+
+BONDARENKO, B. N. and KRYZHANOVSKIY, V. G.
+
+[Abstract] The present work is concerned with the use of autophase traveling-
+wave tubes (TNT) as converters of microwave energy into direct current. A
+determination is made of the requirements imposed on autophase M in order
+to obtain a maximum efficiency. This consideration is conducted within the
+framework of a one-dimensional theory formulated in 1979 by the above authors
+on the basis of the electron—wave processes in O-type M. Problems con-
+nected with construction of the device, with power supply sources and other
+items are not touched upon. Use of the autophase M as a converter of
+microwave energy into directed current is promising. Numerical calculations
+and graphs are presented. Figures 2; references 6: 5 Russian, 1 Western
+
+in translation.
+
+[81-6415]
+
+43
+
+FOR OFFICIAL USE ONLY
+ms OFFICIAL USE ONLY
+
+INSTRUMENTATION 8 MEASUREMENTS
+
+UDC 531.7
+
+CAPACITIVE VIBRATION TRANSDUCER FOR MEASURING AMPLITUDES OF MECHANICAL
+VIBRATIONS 0P MOUNTING PLATES
+
+Khar'kov RADIOTEKRNIKA in Russian No 50, 1979 pp 109-113
+SHINKO, V. I. and PROLOV, V. A., candidate of technical sciences
+
+[Abstract] A capacitive vibration transducer is proposed for detecting small-
+anplitude audio-frequency vibrations of a chassis and subsequent measurement
+of the vibration amplitude. It consists of a controlled quartz oscillator,
+a matching device, a high-frequency amplifier, a limiter, a frequency detec-
+tor, a low-frequency amplifier and a linear rectifier. The frequency detec-
+tor and the rectifier are built with integrated microcircuits, KZDSZ4Z and
+lUTChOlA series respectively. A special construction of the capacitive
+probe, a center rod on a pad inside a brass yoke filled with a dielectric
+and a coaxial connecting cable, ensures high sensitivity and interference
+immunity of the transducer. A circuit and performance analysis indicates
+that this instrument has a very linear "vibration amplitude-signal"
+
+characteristic. Figures 2; references: 4 Russian.
+[82-2415]
+
+UDC 538.569:536:621.372.823
+INVESTIGATION OF TEMPERATURE FIELD OF CIRCULAR HAVEGUIDE
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 19 Mar 80) pp 108-114
+
+VARLAHOVA, N. A., KUKUSH, V. 0., candidate of technical sciences and
+mmwmm,chcmuuwofumeluumu
+
+[Abstract] The results are presented of an investigation of the temperature
+of the walls of a circular waveguide, conducted with the object of develop-
+ing measuring equipment for microwaves of large levels. The physical model
+is a tube with a uniform interior diameter, the middle part of which is
+
+44
+
+FOR OFFNJAI.USIZONLN
+thin-walled with a length 1 and a thickness 6 (absorptive wall). It is
+
+made of a high-resistance alloy (constantan, nichrome, etc.). The terminal
+parts are sections of a thin-walled copper waveguide, the temperature of
+which is kept constant. In the case of passage of electromagnetic waves
+through this waveguide channel, part of the microwave energy is absorbed
+
+and the temperature of the thin-walled section is increased. A precise
+analytical solution of the problem of temperature distribution in the wave—
+guide system investigated encounters significant mathematical difficulties.
+However, the structural features of the microwave measuring devices and the
+known physical characteristics of the heat exchange makes it possible to
+simplify the problem under consideration, in practice not reducing the preci-
+sion of the results produced. The analytical expressions presented for the
+temperature field of the wall of the circular waveguide and the graphic
+dependences make it possible to calculate the parameters of concrete measuring
+
+devices. Figures 3; references: 6 Russian.
+[81-6415]
+
+UDC 621.372
+
+ANALYSIS OF 2-CHANNEL INTERFEROHETBR HIT“ PRISHAIIC LIGHT DIVIDBRS AS
+SYSTEM OF COUPLED HULTIPOLES
+
+Khar'kov RADIOTEKHNIKA in Russian No 67, 1978 pp 81-88
+ADONINA, A. I., candidate of physico-mathematical sciences
+
+[Abstract] The characteristics of a 2-channel interferometer with prismatic
+light dividers are analyzed theoretically by simulation of its components
+with multipoles. For simplification without significant reduction of accuracy,
+it is assumed that the input face of each prism has an area much larger than
+the cross—sectional area of the incident beam and that all faces are infinite-
+ly large so as to make diffraction at the prism edges negligible. The two
+prisms are simulated with octupoles, the latter coupled through two quadru—
+poles simulating two loads: a dielectric plate between lateral faces of the
+prisms and a long line of rereflecting mirrors other lateral faces of the two
+prisms. 0n the other side each octupole is connected to a quadrupole
+simulating a load on the'idle face of the corresponding prism. The entire
+system is then replaced with an equivalent octupole which has four arms. Its
+scattering matrix is calculated. The results indicate that the resonance
+characteristics of this interferometer are better than those of a prismatic
+wavemeter but worse than those of a Pabry—Perot interferometer. Figures 3;
+references: 4 Russian.
+
+[83-2415]
+
+65
+
+FOR1OFFKJAL.USEIMNLY
+FOR Oi—ﬂCIAL USE ONLY
+
+HICRWAVE THEORY 8 TECHNIQUES
+
+UDC 621.317.799:621.385.6
+
+DEVICE FOR INVESTIGATION OF AMPLITUDE AND PHASE INSTABILITIBS 0F HIGHLY
+SENSITIVE HICRWAVE BAND AMPLIFIERS
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 13 Mar 80) pp 119-122
+
+SWAROV, Ya. L.. doctor of technical sciences, CEKBPAK, N. T., candidate
+of physicomathenatical sciences and TRIDUB, A. V.
+
+[Abstract] The paper describes a device developed by the authors for ex-
+perimental investigation of phase and amplitude instabilities of assets,
+
+in which measurement of the phase shift or a change of the amplitude are
+accomplished at operational frequency (7 Clix), and a weak total signal is
+amplified by a superheterodyne receiver and fixed by a recorder. The de-
+vice can be used for measurement of stability and other types of microwave
+band amplifiers intended for amplifying both weak and more gowerful signals.
+The device makes it possible with small input signals (~10' H) to measure
+phase shifts to 0.005', and measurement of amplitude to 0.002 dB.
+
+Figures 2; references: 1 Western.
+[81-6415]
+
+46
+
+NR OFFICIAL USE ONLY
+POHER ENGINEERING
+
+UDC 621.373.52
+EXPONENTIAL VOLTAGE GENERATORS RITE CONTROL OF NONLINEARITY
+
+Khsr'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 17 Jan 80) pp 78-82
+
+BORISENKO, A. A., GUBAREV, S. I. and KDZNETSOV. V. N., candidates of
+technical sciences
+
+[Abstract] An equivalent circuit is proposed, on the basis of which a
+mathematical model of the functioning of exponential voltage generators
+with a discrete-controlled slope is worked out. One of the variations
+of its practical realization is presented. It is seen that a linear form
+
+of the output voltage is a particular form of the exponential. Figures 2;
+references: 4 Russian.
+
+[81-6415]
+
+UDC 621.396
+
+MEASUREMENT OF LEVELS OF CONTINUOUS COMPONENT OF AUDIO-FREQUENCY
+INTERFERENCE PROM POWER NETWORK
+
+Khar'kov RADIOTEKHNIKA in Russian No 50, 1979 pp 17-20
+YATSYSHIN, V. I., candidate of technical sciences, and TSATURYAN, E. N.
+
+[Abstract] Measurement of levels of the continuous component of interference
+from power networks is difficult because of the unavailability of standard
+instruments with an adequate resolving power. A technique for measuring
+
+the weak audio-frequency interference has been developed with the use of
+laboratory equipment including Helmholtz rings calibrated with respect to
+magnetic field intensity and a set of tunable receivers with ferrite anten-
+“as. One of these instrument receivers, with a fixed bandwidth of 10 Hz,
+records the amplitudes of interference harmonics near which the continuous
+interference component is measured with receivers having adjustable band-
+widths. The effective interference level is determined as the sum of
+
+47
+
+FOR 0FFﬂ]Al.USE¢ONLY
+FOR¢0F11C1Al.USEi)NLY
+
+receiver responses to the continuous component and to the lumped harmonic
+component respectively, the former being proportional to the square root of
+the bandwidth and the latter being proportional to the n-th power of the
+bandwidth (n denoting the number of discriminator stages in the amplifica-
+tion channel). The ratio of the amplitudes of the respective voltages is a
+direct estimate of the difference between the levels of the two interference
+components, and also an indicator of the minimum detectable useful signal.
+With only one discriminator stage using an active filter in the amplifica-
+tion channel. experimental measurements were made of the continuous inter-
+ference component between the 18th and the 19th current harmonics in an
+industrial power network. More accurate results can be obtained by extrac-
+tion of beats between the two interference components. Pigures 1.
+[82-2415]
+
+UDC 621.396
+SPECTRUM 0F CONTINUOUS INTERFERENCE COMPONENT PROM POVER NETWORK
+Khar'kov RADIOTEKHNIKA in Russian 80 50, 1979 pp 20-21
+YATSYSHIN, V. 1., candidate of technical sciences. and TSAIURXAN, E. N.
+
+[Abstract] The continuous component of audiofrequency interference from
+industrial power networks was measured by suppression of the harmonic com-
+ponent with the aid of narrowbbend comb filters. Here the results are
+shown: the averaged spectral distribution of the continuous interference
+component, approximately a 1/f2-distribution, referred to a 1 Hz band.
+
+For comparison, the spectral distribution of voltage harmonics was measured
+with tunable receivers (10 Hz bandwidth) inside Helmholtz rings and found
+to be approximately a 1/f3-distribution. The continuous component does not
+exceed 11 of the harmonic component near 50 Hz. Therefore, the improvement
+of the transmission of useful signals over communication channels is worth
+the cost of suppressing the harmonic interference component. Figures 1;
+references: 1 Russian.
+
+[82-2615]
+
+48
+
+FOR OFTWCJAI.US£|DNLY
+QUANTUM ELECTRONICS, ELECTRD-OPTICS
+
+UDC 778.4;621—397
+
+TRANSMISSION OF BOLOGRAHS IN REAL TIME SCALE
+
+Khar'kov RADIOTEKHNIKA in Russian No 57, 1981
+(manuscript received 28 Sep 79) pp 86-90
+
+ALEKHIN, V. 1., candidate of technical sciences and BORDUN, V. P.
+
+[Abstract] A process is considered for recording an amplitude (absorption)
+hologram transmitted via a communication channel, by the method of line
+scanning in the form of a rectangular raster, and for recovery of images in
+a real time scale. It is shown that the required frequency of transmission
+of hologram frames is possible with a specific speed of erasure. Some pos-
+sible methods are described for weakening parasitic images appearing as the
+result of pulsation of frames during recovery of holograms. The relative
+amplitudes obtained by undesirable images are sufficiently high. By en-
+larging the frequency of change of frames, it is possible to decrease the
+amplitude of the spectral components of holograms. The previous frames of
+the hologram will‘not noticeably distort the recovered images because they
+differ little from one another. However, it is difficult in practice to
+realize a system according to such a principle, because it is necessary to
+enlarge its broadbandness. It is considerably more convenient to remove
+the undesirable images by a change of the form of the erasure curve. The
+closer the form of this curve approaches rectangular, the stronger the re-
+quired effect appears. 'In fact, if the erasure is performed through the
+time Tk' then the pulsations are absent and the preceding frame of the holo-
+gram is completely erased. In order to obtain the form of an erasure curve
+close to rectangular it is possible to use a material for recording with a
+large time constant‘T. Photochromy materials, the erasure speed of which is
+considerably increased during infrared irradiation correspond to a certain
+
+degree with these requirements. References 3: 2 Russian, 1 Western.
+[81-6415]
+
+69
+
+FOR OFFICIAL USE_ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621 . 391
+
+EFFECT ON DENSITY OF INFORMATION RECORDING 0? L003! JOINING 01’ PHOTO
+EFFECT CARRIE TO SCREEN OF CATHODB RAY TUBE WITH FIBER FACE PLATE
+
+Khar'kov RADIO‘I'EKHNIKA in Russian No 57, 1981
+(aanuscript received 28 Sep 79) pp 91-95
+
+WIN, V. 1., candidate of technical sciences and BORDUN, V. P.
+
+[Abstract] A fundamentally new stage in the field of creation of opto-
+electronic devices for filtration and processing of radar signals is the
+development of such devices on the base of a cathode ray tube (CRT) with a
+fiber face plate. Use of a CRT lakes it possible to increase the efficiency
+of transfer of light energy to the plane of the photo effect carrier, to
+raise the density of intonation recording, and to increase the recording
+speed. All these advantages. however, are retained only in the case where
+during recording of information the photo effect carrier is found in contact
+with the fiber-optical shield. The present work evaluates the effect of
+loose joining of the photo effect carrier on the brightness of the CRT bean
+in the plane of the photo effect carrier and the resolving power, which
+determine the density of information recording on a unit of area of the
+photo-effect carrier. Figures 3; references 3: 2 Russian, 1 Western in
+
+translation.
+[81-6415]
+
+080: 1860 - END -
+
+50
+
+I
+
+FOR OFFICIAL USE ONLY

@@ -1,0 +1,3064 @@
+APPROVED FOR RELEASE: 2007/02/00: ClA-RDP82~00080R0001000400484
+FOR OFFICIAL USE ONLY
+
+JPRS L/8412
+
+20 April 1979
+
+TRANSLATIONS ON USSR SCIENCE AND TECHNOLOGY
+PHYSICAL SCIENCES AND TECHNOLOGY
+
+(FOUO 22/ 79)
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Naterials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines. editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. “here no processing indicator is given. the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been suppliedasappropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.s. Government.
+
+COPYRIGHT IAHS AND REGULATIONS GWERNING WNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED POROFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+spas mm:
+20 April 19
+
+TRANSLATIONS 0N USSR SCIENCE AND TECHNOLOGY
+
+PHYSICAL SCIENCES AND TECHNOLOGY
+(P000 22/79)
+CONTENTS
+ELI-IC‘I‘RONICS AND ELECTRICAL ENGINEERING
+
+Microwave Radiation of the Surface of the Earth where
+Vegetative CoVer Is Present
+
+(K. P. Kirdycshev, et al.; RADIO‘I‘EKIINIKA I ELEK'l'RONIKA,
+Feb 79) ..............................................
+
+SCIENTISTS AND SCIENTIFIC ORGANIZATIONS
+
+Joint Meeting oE'Sectiona of Scientific Councils of the
+State Comittee on Science and Technology and USSR
+Academy of Sciences
+(V. P. Trofiaov, K. s. Adzerikho; INZNENERNO-
+l-‘iZiCllESKIY ZIIURNAL, Feb 79)
+
+PUBLICATIONS
+
+Magnetic Finids--Naturai Convection and Neat Exchange
+
+(P. E. Fertmn; MAGNITNYYE ZNIDKOSTIHYBSTES‘NENNAYA
+KON‘IEK'I‘SIYA I TEPLOOBHBN,1978) .......................
+
+Automating the Design of Complex Logic Structures
+(V. A . Gorbatov; AV‘I’OHATIZATSIYA PROYBKTIROVANIYA
+SLOZIINYKII LOGICIIESK IIOI STRU'KTUR, I978) . . . . . . . . . . . . . . . .
+
+Arithmetic Unite of Digital Co-putera
+(C. N. Solov'ycv; ARIFIBTICNESKIYE USTROYS‘WA EVH, 1978)
+
+Design of Functional Subaasembl ice for Digital Computers Uaing
+Integrated Circuits
+(KONSTRUIROVANIYE PUNKTS IONAL'NYRII UZWV EVH NA
+IN’I‘BGRAL'NYKIISKNEHAIGI.1978).
+FOR OFFICIAL USE ONLY
+
+CONrEN’l‘S (Cont inucd)
+
+thcction of Ionizing deiation
+(Ziysc Adbullovich Al'bikov, ct ol.; DETEKTORY
+INPUL'SNOG) IONIZIRUYUSHCIIEOO IZLUCHBNIYA. 1978) .....
+
+Neutron Methods of Analysing the Composition of Matter
+(Yevsoniy Rostis lsvov ioh Ksrtoshcv. Aleksandr
+Sorgoycvich ShCan' ; NBYTRONNYYB HE'I‘ODY NEPRERWNOOO
+ANALIZA SOSTAVA VBSRCHBS‘NA. I978) . . . . . . . . . . . . . . . . . . .
+
+Particles in Plasma Research
+(Yuriy Vladimirovich Cort; VZAIKJDEYs'l'VIYE CllAS'l'I‘l's 8
+VBSIICHES'NOM V PLAZIENNYIO! ISSEDOVANIYAKH. 1973)
+
+Holographic Methods, Equipment
+
+(Yo. A. Antonov, ct al.; OPTICHESKAYA GODOGRAFIYA:
+PRAK‘I‘ICKESKIYB PRDENBNIYA. 1978) .. ..................
+
+Properties of Negative Iona and Associated Procesacs
+(Boris Hikhaylovich Smirnov; OTRI‘I‘SARL'NYYB
+
+- b -
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+UDC 621.396.962:550.35
+
+MICROWAVE RADIATION OF THE SURFACE OF TNE EARTH "HERE VEGETATIVE COVER IS
+PRESENT
+
+Moscow RADIOTBKHNIKA I BLBKTRONIKA in Russian No 2, Feb 79 pp 256-264
+
+[Article by K.P. Kirdyashev. A.A. Chukhlantsev and A.M. Shutho, manuscript
+received 27 Dec 77]
+
+[Text] The results of experimental studies of the
+spectra of the microwave radiation of the earth's
+surface where vegetative cover is present are given.
+The specific features of the microwave radiation
+inherent in various types of vegetation are establish-
+ed. Quantitativeastimates of the influence of vegeta-
+tion on the radiation of the earth's surface are de-
+rived. A relationship is ascertained between the
+characteristics of the microwave radiation and certain
+biometric parameters of the vegetation.
+
+The need arises for the derivation of quantitative estimates of the shield-
+ing influence of diverse types of vegetative covers, agricultural crops.
+grasses. undergrowth. trees. etc.. in connection with the development of
+microwave radiometric methods and equipment for the remote display of the
+state of a auhjacent surface: the determination of soil humidity, the degree
+of bogginess of terrain, its passahility. and the localization of centers
+
+of forest fires [1-3].
+
+Along with a study of the shielding influence. it is also of interest to
+study the capability of determining some of the biometric characteristics
+
+inherent in the vegetative cover: the biomass, height, etc., based on the
+data of microwave radiation spectralsessurenents.
+
+I. Some results of original experimental research in this field. conducted
+at thclnstitute of Radioengineering and Electronics of the USSR Academy of
+Sciences over the period from 1965 to 1976. are presented in this paper.
+
+The experiments were conducted at a permanent ground station. froa on board
+
+aircraft and earth satellites in a broad range of wavelengths from 0.8 to
+30 cm (see the table).
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+.03." .0333!- :.~onooolwo8: .z
+
+“.30 Judd hum .Juém
+E03»: .133: H9530 .32! 350m .0
+"no: .0550»: zneulaoﬂnon: .m
+
+“haul Jaugonuuuu—
+
+.3": H9589 Janna nhqxnugvug
+.38 ha...— Jmnnao anon—«.5 Joann—o 3080: .m
+
+                 
+
+ocean: hunch
+.auuouOu $0.335 83:1..- 5.3%.:—
+
+uucounou >32. .ou-oue $230.6
+
+manage coo-auo .uuunno :ouuoz
+
+2.3.8» £913 £250 :96
+
+“sauces
+
+.aucuﬂauanuoa vouon v9.9.8 anon—clue.—
+«cowuanoaun 3933.
+
+“—3300 one
+
+no 3:393 038 a um x o 555333
+300.506 3—qu— osu 50.6 9—93 33:30.30
+
+43 I .383 cs: 25
+
+     
+               
+
+locus < I033:
+
+3.8.
+
+ 
+
+.0
+..U
+.n
+
+.<
+.n
+
+.~
+4 £3.
+
+.u 2.3 6390238.. 8: h
+
+ 
+
+can-$388 .33 .395 .5: .H-muu< 55.6. .._ 82 {3.83. 8: o u
+. CV N
+|ll | ll|ll53l I'll |.||l M
+«one: u Hum—5.30.: 32.. naughmo o... «I: .— 23 «A: m M
+8 “8 _ «awaken ancouwou A3 2 m
+. . >32. .333. «a: I C
+s. .n .3.“ 55.. 5... . 3 4....
+"9.... as .303 ”3:333: :5.ng Jﬁuﬂw .h .333. 6...": v m
+g icon-n .5358 .238: 0
+01:33.33 .155 in can.“ :30 c5... «HR—H R
+.0: nan-850338.359 5.3: :39 «8609.82 6.. aha—Ink: .29.: n W
+Nam .32..” u #3 :33 0 an! H aid
+.3»: g .31: :39 5238.82 0F. Smawmmoﬂ ..ﬁ= N
+
+ 
+
+  
+
+   
+
+    
+
+nun-Bee .393.— noun-2:
+
+god-nouns
+hvsum no 30030
+
+.190 Ila—9.9.00: A<¥a§ OI
+
+    
+
+  
+
+gotta-loan
+Iii-Kg SISQL
+
+:u 30:) £3qu“
+
+canon-63!.
+
+Fun...— 3:05.39.»
+
+in “$783
+
+«no: once-«=99
+
+egg in I cloak...»
+and». vs... 23.3.2300 Hauuom
+FOR OFFICIAL USE ONLY
+
+The values of the brightness temperatures and emissivities were estimated
+taking into account internal calibration standards. as well as on the basis
+of the radio brightness gradient of a smooth water surface with a known
+
+water temperature. as well as for sections of thick forest. The emissivity
+of a water surface was determined from the Fresnel formulas, while the emis-
+sivity of the calibrating forest sections was taken equal to unity. The
+error in the measurements of the brightness temperatures amounted to 5-15' K.
+
+Measurements of the microwave radiation of ground covers demonstrated that
+the influence of vegetation on the radiation of the earth's surface is de-
+termined by the type of vegetative cover and its condition. The parameters
+which determine the radiation level are: the emissivity of the ground surface.
+the factors of radiation reflection and transmittance by the vegetation. and
+the degree of coverage of the ground surface by the vegetation. The specific
+radiation features inherent in different types of vegetative covers arise as
+a consequence of the differing ratio of the magnitudes of these parameters.
+Depending on the nature and degree of influence of the vegetation on the
+radiation of the earth's surface. the following types of vegetative covers
+can be differentiated: a) agricultural crops in the early stages of vege-
+tation, spike and grass covers; b) "broad leaf“ agricultrual crops (sun-
+flowers, corn, beets. etc.): c) underbrush and forest vegetation.
+
+Characteristic radiation spectra are presented in the paper as applied to
+these types of vegetative covers and the corresponding attenuation levels
+are eveluatcd. Examples of the recordings of the brightness temperatures
+T3 of the ground surface are shown in Figure 1, which are characteristic for
+the indicated types of vegetation. The spectral curves of the emissivity
+r(A) of the discriminated areas are shown in Figure 2.
+
+The data of the measurements. which are shown in Figure la, were obtained
+from experimental fields of the Yenisey hydrological station by means of the
+radiometric complex installed on-board an IL-lh aircraft. A comparison of
+the radiation spectra for a field of winter rye with a height of 20-25 cm
+and plowed ground with a value of soil moisture close to that of the rye
+(based on data of ground observations. the soil humidity for both fields
+amounted to 27..)01) shows that the influence of this type of vegetation
+
+is substantial in the centimeter band (Figure 2a). The noted increments
+
+in the level of the emissivity due to the influence of vegetation amount to
+0.05-0.l$. In the decimeter band, the radiation of areas with vegetation
+differs little from the radiation of the open soil. An analysis of the
+radiation spectra of grass vegetation, covering a pasture (Figure la). forest
+giadea and cut over areas (Figure 1c). as well as the boggy regions of the
+ground surface (Figure 1d). shows that the influence of grassy vegetation
+
+is likewise manifest primarily in the centimeter region of the spectrum and
+little at decimeter wavelengths.
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+see-eaten", ,,
+
+Figure l. Heaeples of the recordings of the brightness temperatures
+of the earth's surface where vegetation is present:
+
+I).
+
+d.
+
+.e
+
+Area of nixed forest (T), winter rye (II), plowed lend (III)
+and pasture (IV) at wavelengths of 2.25 cl (1), 10 on (2)
+and 30 cl (3); .
+
+corn fields with dry (I) and Ioiat (II) soil. dry psature
+(III) and sunflower fields on dry soil (IV) at wavelengths
+of 3.10 c- (l) 10 ca (2) and 30 on (3):
+
+Forested terrain in the Krasnoyarak trey. including coni—
+ferous and nixed forest (I), flooded regions (II) [sic]-
+boggy areas (III) and a lake (IV), at wavelengths of 2.25 ca.
+(1). 10 on (2) and 30 CI (3).
+
+The boggy lol'ehoy Khingan region in the Par last (I) and
+Siberian forest (II) at wevelengvha of 3.4 en (1) and
+
+8.5 c- (2);
+
+The Sahara Desert (I) and the boggy region of the Upper
+Nile (II) at wavelengths of 1.35 c. (l). 3.6 cl (2) and
+
+8.5 ca (3).
+
+4
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+(b)
+
+  
+
+I :0 ecu
+(«0‘
+
+Figure 2. Spectral curves of the emissivity
+of various types of vegetative
+
+covers:
+a. A field of winter rye (II) and as (c) +
+a plowed field (III): \
+
+b. Corn on dry (I) and (II) soil.
+dry (III) and moist (III')
+plowed fields:
+c. Flooded forest (II in Figure 1c).
+a. M’s
+A study of the radiation spectra of broad leaf crops was carried on the
+irrigated fields of the Crimean oblest (Figure lb). A distinctive feature
+of the radiation spectra of such crops is the reduction in the emissivity
+level with a shortening of the wavelength. A change in soil humidity has
+practically no effect on the emissivity of a cornfield in the centimeter
+region of the spectrum and exerts a marked influence in the decimater re-
+gion (Figure 2b). This fact indicates the complete shielding of the soil
+radiation by the vegetation in the centimeter band (the height of the corn
+is l.5-2 m). A lower value of the emissivity of a cornfield with dry soil
+for short wavelengths, as compared to longer wavelengths. can be explained
+by the increasing influence of the reflective properties of broad leaf vege-
+tation with the shortening of the electromagnetic wavelength.
+
+An investigation of the radiative characteristics of forest showed that thick
+forest masses on dry soil are characterized by the greatest emissivity, which
+is close to unity in the frequency range studied. An idea of the shielding
+properties of forest vegetation can be obtained from a consideration of the
+radiation spectra of a flooded pine forest (Figures It and 2c). Based on
+
+the data of ground observations and aerial photographs, the underlying surface
+under the trees was flooded with water in the amount of 60-801. As follows
+froo Figure 2c, in the centimeter band. the emissivity is close to unity.
+something which indicates the cosplete shielding of the radiation of the
+underlying surface by the forest canopy. The observed spectral dependence
+
+5
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ORLY
+
+of the radiation intensity in the decimater band attests to the "semitrans-
+paruncy" of the canopy for decimater wavelengths. The spectral features
+noted here for the radiation of forest regions, which are characterised by
+a high level of moisture in the subjaeent surface, were observed when re-
+cording the microwave radiation of the earth from the "Kansas-263" and
+"Kosmos-38b" satellitrs (Figure 1e).
+
+A comparison of the radiation spectra of a ground surface with grass and
+forest vegetation shows that these two types of covers have spectral curves
+for the emissivity which are close. and are characterized by a monotonic
+reduction in the emissivity with an increase in wavelength. A substantial
+difference between these types of vegetation consists in the extent of the
+shielding influence. which is considerably greater for forest vegetation.
+This is clearly manifest in the analysis of the radiation spectra of boggy
+areas with an emissivity of the subjacent surface close to the emissivity
+of water (Figure lc. d. e). Such studies show that the forest cover com-
+pletely shields the radiation of the subjacent surface at (Intimater wave-
+lengths and leads to an increase in the emissivity of the *forest-water
+surface" system in the decimeter range up to 0.8-—0.9. Grass cover proves
+to be semitranaparent throughout the entire range of frequencies which were
+studied (the increases in the emissivity amount to 0.l-0.6).
+
+2. Based on the data of the experimental studies which were carried out,
+quantitative estimates were obtained for the levels of attenuation of the
+microwave radiation for the indicated types of vegetative covers.
+
+The characteristics of the attenuation in a layer of vegetation of the
+winter rye type were determined from a comparison of the emissivity of areas
+with vegetation and the emissivity of plowed ground with close values of
+soil moisture content (Figure 2a). The integral attenuation of the radia-
+tions 1 can be expressed in terms of the emissivity of an area with vegeta-
+tion x and plowed ground rI, neglecting reflection from the vegetation:
+
+ 
+
+' i 1"“.
+(l) t 7h 1-);
+
+where r - l -Re‘2'; x. - l - R; R is the factor for radiation reflection
+
+from the soil. The integral attenuation in winter rye, obtained from measure-
+ment data, amounts to'0.05-0.3 nepers (Figure 3) (estimates of the error in
+the determination of 1 due to the difference in temperature and moisture con-
+tent of the fields studied in the given experiment show that the size of the
+error does not exceed 0.05 neper).
+
+To interpret the results of measuring the emissivity of broad leaf crops
+(Figure 2b), it is necessary to account for the effects of reflection from
+the vegetation. In this case, the emissivity of the cover should be con-
+sidered in the form [2]:
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+x-xd' (‘_n)10+1‘45x0.
+
+(2)
+
+where K0 is the emissivity of the vegetation layer: q and
+
+ 
+
+“a- l -q '7.
+
+9
+i-rR'
+
+r are the
+
+transmittance and reflection factors for the vegetation radiation. The
+parameters q and r for broad leaf crops. in particular. for corn, can
+be found from a comparison of the emissivities for a corn field and plowed
+areas having close values of soil moisture content (Pigure 2b):
+
+(1)
+
+no‘ "4“) R .(l-m)
+"W )—R. (f—Xglf.’
+
+(1.) q_[(x.-X.)(l- lt.r)(l— 41!) "-
+
+R.-If.
+
+where :1 and :2 are the measured values of the emissivity of the corn field
+with dry and with moist soils; R1 and R2 are the radiation reflection factors
+
+r um
+' ’ 1, ncpers
+
+ 
+
+0 10
+
+20 41, (It
+
+Figure 3. The spectral
+curve of the integral ut-
+ienuntion of the radiation
+by winter rye based on
+experimental data (1) for
+area ll in Figure la, and
+that calculated for values
+of 0m - 40 quintals/hectare
+(2) and QI - 70 quintels/
+[hectare (3), where Q is
+the biomass and m is the
+moisturr content by weight.
+
+from dry and moist soil. defined in terms of
+the measured values of the emissivity of
+ploed ground x'l 2 - 1 - R1 2. Based on the
+measurement data, the size of the reflection
+factor does not exceed 0.1, while the trans-
+mittance factor varies within limits of 0.3-
+0.8 (Figure 6).
+
+Based on the radiation spectrum of flooded
+forests (Figure 2c). it proves to be possible
+to deter-inc the integral attenuation in the
+canopy. The difference between the emissivity
+and unity in the centimeter band is determined
+by the presence of "gaps" in the vegetation.
+The emissivity of the cover where gaps are
+present in the vegetation can be expressed as
+
+[2]:
+(5) ""‘”¢"'-RE(I-e")(t-te"+2e~').
+
+where E is the relative area of the gaps. In
+the case of considerable absorption. 1 >> 1,
+
+the difference between the emissivity and unity
+is determined by the quantity R52. To esti-
+mate R, it is convenient to consider the
+graphical function: ln(1 - x) as a function of
+l/x, where A is the wavelength. Based on the
+
+7
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+obtained values of R = 0.3 and C e 0.35. values of the integral attenuation
+in the canopy for deciseter wavelengths were detersined from (5). where
+these values varied within a range of 0.5-l.5 nepers (Figure 5). it
+
+sluuild he noted that the quantity c. taken as a constant in the calculations.
+generally speaking depends on the radiation wavelength because of the fact
+that for wavelengths comparable with the geometric dimetzions of the gaps.
+diffraction effects appear. Establishing the relationship of the radiative
+characteristics to the degree of coverage of the earth's surface by vegeta-
+tion requires further research.
+
+3. He shall consider the relationship between the quantities obtained for
+
+the attenuation and the biometric parameters of the vegetation, and in this
+case. we shall work from the expression derived in paper [3] for the integral
+radiation attenuation in s vegetation layer with elesents in the fore of small
+disks and cylinders:
+
+(a) «algkwvanmamo.
+
+where u - l and u - 2 for cylinders and disks respectively; k - ZIIA is
+the wave nuaber; V and N are the voluae of n vegetation element and the
+number of them per unit volume; G is the volumetric moisture content of
+
+an element of vegetation; c3 is the imaginary part of the complex dielectric
+permittivity of water; h is the height of the vegetative cover; and 0 is
+the viewing angle.
+
+Expression (6) can be reduced to the
+
+form:
+(7) 1- 23+?. ~10"Q[a/¢a]ma.'.
+
+which relates the attenuation to the
+biometric parameters of the vegetation:
+the biomass Q (equal to the mass of
+vegetation referenced per unit of area)
+and the moisture content by weight a,
+defined by the ratio of the weight of
+water contained in the vegetation to
+the weight of the dry vegetation.
+Experhaental values of the attenuation
+in the types of vegetation which were
+studied are compared in Figures 3-5
+with the calculated values, coaputed
+
+in accordance with expression (7) for
+
+ 
+
+Figure 4. The spectral dependence
+of the reflection factor (1) and
+the transmittance factor (2 and
+2') for corn.
+
+I, 2: “used on experimental data the nodal of cylinders (the transmit-
+(urens l and ii in Figure tance factors q (Figure 4) are con-
+Ib); pared with the calculated values a -
+
+2': Calculation results for values . e“). The quantities for the
+at Q” - 600 quintallhectarc.
+
+5
+son OFFICIAL use outr
+FOR OFFICIAL USE ONLY
+
+biomass and moisture content used in the calculations were taken from
+ground observation data.
+
+fun”, r. nepers he follows from Figure 3-5. the calculated
+1 values satisfactorily agree with the ex-
+perimental ones. The observed differences
+can be explained by the approximate nature
+\ of the model assumptions which were adopted
+\ as regards the shape and nature of the
+*J spatial distribution of the elements of
+\ the vegetative cover. In the general case.
+3 ‘£ when interpreting the data of radiophysical
+measurements. it is likewise necessary to
+take into account the relationship between
+0 U 20 A,“ the fractions of the biomass included in
+. . _ the quasichaotic portion (leaves) and in
+znﬁgrzf5th:h:n::::::.:c:::32d the oriented elements (stems, trunks) of
+ntlon of radiation by a forest the vegetative cover. The contribution of
+
+“ these components depends on the angular co-
+522291;)bazgdagzuezgeitmental ordinates of the sounding direction.
+
+Figure lc. and that calcu-
+lated for a value of On -
+- 700 quintel/hectarc (2).
+
+Expression (7) can be employed for esti-
+mate calculations of the radiation attenu-
+ation in vegetative covers.
+
+Based on the values obtained for the attenuation. the influence of vege-
+tation on the radiation of the cover was quantitatively determined. This
+influence is characterized by the quantity B:
+
+An 9'
+‘8’ '3?" (Ham-m7)"
+
+expressed as the ratio of the change in the emissivity of the cover Or to
+the change in the reflective properites of the surface AR. Hhen measuring
+the moisture content of soils by microwave radiometry l6]. 8 has the mean-
+ing of the coefficient for the reduction in the slope of the radiation-
+moisture content curve 6T3 - 8f(AH), where H is the soil moisture content.
+Values of a for the types of vegetation studied are shown in figure 6 and
+vary in the centimeter band within a range of 0-0.6. and in the decimeter
+band. within a range of 0.3-l.0.
+
+The dependence of the shielding influence as function of the state of the
+vegetation in various stages of growth should also be noted. The indicated
+curves were derived for the case where the microwave radiation of cotton
+fields in Central Asia were studied. The measurements were performed from
+on-board an AN-Z aircraft at a wavelength of 18 cm. A comparison of the
+
+9
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USl-I ONLY
+
+emissivity of a cotton field with s plowed area, close in terms of soil
+moisture content, shows that in step with the growth of the cotton plants,
+their shielding influence increases (Figure 7). when the cotton height
+increases iron 60 em up to l m, the size of 6 changed from 0.9 to 0.75.
+
+ 
+
+Figure 6. The spectral depend-
+ence of the coefficient for
+the reduction in the slope of
+the radiation-moisture content
+curve where a winter rye type
+of vegetative cover is present
+(1) as well as for corn (2)
+and forest (3).
+
+ 
+
+I
+no (runs ' 5
+Jay Sept‘e’nber
+
+Figure 7. The increase in
+emissivity of a cotton field
+above the radiation of plowed
+ground (1) and the cotton plant
+height (2) during the experi-
+sent.
+
+Cbnciuaions. l. The experimental studies which were performed ascertained
+the specific features in the microwave radiation spectra of ground cover,
+which are inherent in the specific types and states of the vegetation.
+
+2. A comparison of the experimental data with the results of the model
+calculations, which take into account the biometric and electrophysicsl
+indicators of the corresponding types of vegetation, allowed for the deri-
+vntion of quantitative estimates of the attenuation and reflection of elec
+tronagnetie waves by the vegetation in a range of 0.8-30 ca.
+
+1. Quantitative estimates were derived for the shielding effect of the vege-
+tation on the radiation spectrum of the subjscent surface. in particular,
+the values of the coefficients for the reduction in the slope of the radi-
+ation-moisture content curve were determined.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+A. The presence of a correlation was ascertained between the characteristics
+of the microwave radiation and the biometric indicators of the vegetation
+(biomass. height. moisture content). something which indicates the basic
+capability of obtaining certain estimates of biometric indicators from the
+results of radiometric measurements.
+
+The authors would like to express their gratitude to A.Ye. Bashnrinov for
+his constant interest in this work and the discussion of the results.
+
+ﬂIBLIOGRAPﬂY
+l. A.Ye. linsharinov, l..'l'. Tuehkov, V.N. Polyakov. NJ. linanov. "Izmereniye
+rndiuteplovykh i plnzmennykh izlucheniy v SVCh-dinnazone" ("The Measurement
+
+of Rndiothermnl and Plasma deiations in the Microwave Band"]. Sovetskoye
+Radio Publishers, I968.
+
+2. A.Ye. Bashorinov, A.S. Curvich, 8.1. Yegornv. "Radioizlucheniye Zenli
+
+kak Planety" l"The hadio Emission of the Earth and Planets"]. Nauka
+Publishers, l97b.
+
+3. L.F. Borodin. K.P. Kirdyozhev. Yu.P. Stoknnkin. A.A. Chukhlantsev,
+RADIOTBKHNIKA l ELEKTRONIKA, 1976. 31. 9, 1955.
+
+a. Mo. Bashsrinov. mu. Shutko, METEOROLOGIYA r cmaowcm, 1971.
+9, n.
+
+COPYRIGHT: Izdatel'stvo "Nauks." "Radiotekhnika i elektroniks." 1979
+
+8225
+050:1870
+
+1!
+
+FOR OFFICIAL USE ONLY
+. FOR OPEICIAL USE ONLY
+
+SCIENTISTS AND SCIENTIPIC ORGANIZATIONS
+
+JOINT MEETING OF SECTIONS OF SCIENTIFIC COUNCILS OF THE STATE COMMITTEE ON
+SCIENCE AND TECHNOLOGY AND USSR ACADEMY OF SCIENCES
+
+Minsk INZHENERNO-FIZICNESKIY ZHURNAL in Russian. V 36 No 2, Feb 79.
+pp 372-373
+
+[Article by V. P. Trofimov and K. S. Adterikhol
+
+[Text] A Joint session of the section "neat Exchange by Radiation" of the
+Scientific Council on the problem "Mass Transfer and heat Transfer in Tech-
+nological Processes" of the State Committee of the Council of Ninisters
+USSR on Science and Technology and the heat and mass exchange section of
+the Scientific Council on the "Complex Problem 'Thermal Physics' of the
+
+AS USSR" was held 6-7 April 1978 in Minsk.
+
+TVo of the problems discussed were:
+
+1. Present state of the problem and basic trends of development of methods
+of mathematical modelling of radiation and complex heat exchange in
+technological processes.
+
+2. Proposals of the commission on development of a mathematical model of
+a forest fire.
+
+R. l. Soloukhin. chairman of the Council of Directors of [THO [Institute of
+Heat and Mass Exchange] imeni A. V. Lykov of the AS BSSR. Corresponding
+Member of the AS USSR opened the conference. Corresponding Member of the
+AS USSR 3. S. Petukhov and Doctor of Technical Sciences A. G. Blokh, chair-
+men of the sections indicated above conducted the work of the conference.
+
+Problem addresses on the first problem described the contemporary state and
+means of further development of methods of mathematical modelling of heat
+exchange by radiation in the real spectrum (V. c. Sevast'yanenko). mathemat-
+ical methods of solving problems of radiative-conduction heat exchange
+
+(A. A. Kobyshev) and methods of mathematical modelling of radiation heat
+exchange in metallurgical heat engineering (A. s. Nevskiy, V. G. Lisiyenko).
+
+12
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Several upenkerr discussed mathematical modelling of optical characteristics
+of molecular gases (V. c. Sevast'yansnko. R. I. Soloukhin and l. P. Galo-
+vlyev) and methods of calculation of their radiation based on modelling of
+the spectral composition (Yu. V. Khodyko). There was considerable interest
+in a report concerning mathematical modelling of complex heat exchange with
+consideration of the spectrum of products of combustion. scattering and re-
+(iectlon of flows for a plane layer in which a selectively absorbing, radia-
+ting and scattering medium is moving (5. P. Detkov and o. A. Khalevich).
+
+For solution of a problem of hypersonic flow around a blunt body by a radia-
+ting gas in the presence of intense vaporization of the frontal surface
+
+there was used a gas dynamic model of flow of a non-viscous gas with consider-
+ation of its optical characteristics in the shock wave and products of evap-
+oration (V. I. Hirskiy and V. I. Stulov).
+
+(Me report (I. R. Hikk) presents methods of measurement and processing of
+experimental data in studies of complex heat exchange.
+
+There were presented results of studies conducted by a collective of authors
+(K. s. Adzerikho. V. l. Nekrasov. V. P. Trofimov and others) on modelling
+problems of radiant heat exchange in media of plane geometry and an algorithm
+of calculation of spectroscopic characteristics for a finite cylinder.
+
+Mathematical modelling of radiation properties of surfaces and their use in
+calculations of heat exchange by radiation. including radiation with consid-
+eration of anisotropy. was the subject of several reports (L. N. Ryshkov.
+
+S. P. Ruain. V. D. Dmitriyev. S. G. Arababov and others) which produced great
+interest among conference participants.
+
+The reported results of application of mathematical modelling of radiation
+and complex heat exchange in electric circuits (Yu. H. Ageysv and others)
+were considered to be quite important. These speakers emphasized the pros-
+pects of use of electromodelling for these purposes on the basis of modern
+electrical engineering devices and computer technology.
+
+A theoretical study (Yu. A. Surinov. L. B. lonomareva) described the use of
+a third form of the generalized tonal method for the most general statement
+of a problem concerning radiant heat exchange in a rectangular multizonsl
+chamber of random length. filled by a heterogeneous absorbing and scattering
+medium.
+
+More precise definition of individual parameters of the zonal method of cal-
+culation of radiation of triatomic gases and coke particles based on generali-
+zation of experimental data permitted recommendations for calculating heat
+exchange by radiation in furnaces of boiler units (V. V. Vitor. I. I. Kopo-
+pel'ko and L. V. Latysheva).
+
+There were reports concernin° analytical and numerical methods of calculation
+of radiation conduction heat exchange as applied to elements of elsetro-vscuum
+
+13
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+devices. the use of which permits rather rapid production of necessary infor-
+mation concerning their thermal state (V. s. Koshelev. c. H. Tsymbalov and
+V. l. Shevstov).
+
+Decrees adopted by the section emphasized the urgency and great importance
+of further development of physical and mathematical bases of modelling pro-
+cesses of radiation and complex heat exchange. analytical methods of the
+theory of radiation heat exchange. mathematical modelling of optical char-
+acteristics of gas media and radiation properties of construction materials
+of surfaces of assemblies and also development of studies in mathematical
+modelling of radiation and complex heat exchange in respect to specific tech-
+nological processes and industrial apparatus (metallurgy furnaces. tubular
+furnaces of the petrochemical industry. combustion fireboxes of steam gener-
+ators and others). There was recognised the benefit of beginning standard-
+ised methods of heat design for basic types of some assemblies (including
+metallurgical furnaces).
+
+There is noted the necessity of further development of zonal methods of cal-
+culation of heat exchange by radiation in metallurgical furnaces. tubular
+furnaces of the petrochemical industry. fireboxes of heat engineering as-
+semblies and others with consideration of combustion processes.
+
+At some sections. it was noted that an important problem for development of
+mathematical models of radiation and complex heat exchange is their coordin-
+ation with real technological processes.
+
+Doctor of Physical and Mathematical Sciences A. N. Grishin discussed. in
+relation to the second problem. a conference involving a temporary committee
+on development of a mathematical model of a forest fire.
+
+Presently existing models of forest fires describe either individual forms of
+fires or individual aspects of this phenomenon without considering the entire
+complex of the processes occurring which have a significant effect on it.
+
+As a result of discussion of preliminary materials. there was proposed a
+physical and mathematical model. developed on the basis of the mechanics of
+the reacting media. A positive distinction between it and other models is
+that. in it. there are taken into consideration basic physical and chemical
+processes. arising during forest fires and its mathematical description
+involves the laws of conservation of energy. momentum and mass. The model
+proposed considers the effect of atmospheric processes. the type of forest
+vegetation. structure and types of combustible materials and the topographi-
+cal characteristics of the locality.
+
+Approving the work of the temporary committee. the sections approved the
+proposals of the committee for mathematical modelling of a forest fire.
+
+A continuation of work on improvement of data and the creation of particular
+models for the purpose of practical application of them for development
+of methods and means of extinguishing forest fires was recommended.
+
+14
+
+FOR OFFICIAL USE ORLY
+FOR OFPICIAL USE ONLY
+
+Organizational neasures for practical checking of scientific research in
+this area were proposed. ,
+
+The problems discussed created greet interest. There were in attendance 77
+npeciniists (including 2 corresponding seebers of the As USSR. 21 with Doctor
+of Science degrees and Al with Candidate of Science degrees. representing
+
+66 scientific research organisations and colleges of the country. (TsKTI
+[Central Scientific-Research Design and Construction Institute for Boiler
+Turbines]. ERIN [Power Engineering Institute i-eni c. H. Krzhizhanovskiy].
+IVTAN [USSR Acedeey of Sciences Institute of High Temperatures]. ITHO of
+
+the BSSR Acedeey of Sciences. ITTF AN 888R. Institute of Philosophy of the
+BSSR Academy of Sciences. VNIIHT [All-Union Scientific Research Institute of
+Metallurgy and ﬂeet Technology]. HEIIHoscow Power Engineering Institute].
+etc.) 0
+
+COPYRIGHT: "Inzhenerno-fizicheskiy shurnsi." 1979
+
+2791
+C80: 1870
+
+15
+
+FOR OF?ICIAL USE ONLY
+FOR OFVICIAL USE ONLY
+
+PUBLICATIORS
+
+MAGNETIC PLUIDS-NATURAL CONVECTION AND HEAT EXCRANOE
+
+Minsk MAGNITNYYE Z"IDKOSTI--YESTESTVENNAYA KONVEKTBIYA I TEPLOOBHEN in Russian
+1918 signed to press 6 Jul 78 pp 2-h, 205-206
+
+[Annotation. table of contents and introduction from book by P. 3. Port-an.
+Isdatel*stvo "ﬂanks i Tekhnika." 1.100 copies. 208 pp]
+
+[Text] This book discusses the main methods of synthesizing magnetic fluids
+and their physical properties. Original results from studies of convective
+heat exchange in magnetic fluid layers of various configurations located in
+sonhomo‘zeneous magnetic fields are presented. The rapid development of the
+thermomechanics of magnetic fluids. at the interface letween mechanics and
+electrodynanics of continua. has been accompanied by extensive incorporation
+of the new material. magnetic fluid. into industry. The publication of these
+results will acquaint a vide range of specialists with the properties of
+magnetic fluids and may expand their use.
+
+The book is intended for scientific personnel and engineers dealing with
+thermophysics. fluid mechanics and heat engineering. and may be used by col-
+lege students.
+
+Tables. 3; illustrations. 51; bibliography. 187 items.
+
+Contents Page
+Porevord 3
+Important symbols 5
+
+Chapter 1. Preparation and Properties of Magnetic Pluids............... S
+The magnetic fluid: an artificially created medium. . . . . . . . . . . . 7
+Methods of preparing magnetic fluids............................. 16
+Static magnetic properties......................................- 27
+Electrical properties............................................ ho
+
+Viscosity........................................................ b3
+
+iieat conductivity and heat capacity.............................. 51
+Applications of sagnetic fluids 55
+Magnetic fluids. a promising potential heat carrier.............. 61
+
+HPHE‘HHHH
+O-IQUIE’U'OH
+
+16
+
+FOR OFFICIAL USE ONLY
+Chapter 2. Main Equations in the Thermomechanics of Magnetic F1uidu..... 6h
+2.1 Conservation laws in continua..................................... 6h
+2.2 The quasiatationary isotropic model............................... 69
+2.3 Kinetics of magnetization......................................... 81
+2.5 Thermomechanical equations with allowance for internal rotation... 85
+
+Chapter 3. Convective heat Exchange in Magnetic Fluids.................. 95
+
+3.1 Conditions for convective stability of a nonisothermic magnetic
+
+fluid...o.u.o.o.n.u...........no.....uo.u.noo...o..u.... 95
+3.2 Convective instability with magnetic field disturbance............ 100
+3.3 A vertical layer heated from the side in a magnetic field with
+
+a constant vertical intensity gradient.......................... 113
+3.h Effect of a constant horizontal intensity gradient on heat
+
+exchange in a vertical 1ayer.................................... 118
+3.5 heat exchange in annular layers in magentic fields with a
+
+variable intensity gradient..................................... 126
+3.6 heat convection in a vertical layer in the magnetic field of
+
+a current-carrying sheet........................................ ihh
+3.1 heat exchange under forced convection............................. 152
+
+Appendix 1. The Effect of Asymmetric Properties on Natural Convection
+of a Magnetic Pluid.................................................... 160
+
+Appendix 2. Methods for Numerical Solution of Problems in Convective
+Heat Exchange of Magnetic Fluids....................................... 11?
+
+Bibliography 192
+
+Foreword
+
+The development of modern engineering has been accompanied by the search for
+and development of new working media which make possible effective use of
+power production equipment and the development of original industrial processes
+and equipment designs. 0n the other hand, scientific research in energy (heat)
+and mass transport has been aimed at establishing interconnections between
+relatively independent processes. This tendency was noted by A. V. Lyhov in
+the early 60's. In particular. the study of the interaction between electro-
+magnetic fields and fluid and gaseous media has been especially fruitful.
+
+In the last decade. the attention of a wide range of investigators has been
+drawn to a new industrial material. the magnetic fluid. whose interaction with
+an external magnetic field is governed by its powerful magnetic properties.
+The study of this interaction is the province of what is called ”ferrohydro-
+dynamics". It expands the traditional range of magnetohydrodynamics and is
+located at the interface between continuum mechanics and electrodynamics.
+
+In view of the interrelationship between the temperature conditions of a medium
+and the electrodynamic interaction between the magnetic fluid and a field, we
+
+17
+have related the questions discussed in this book to the thormomechanics of
+aagnetic fluids. Primary attention has been devoted to identifying the nature
+of nonvective heat exchange in magnetic fluids, but at the same time much
+information on the physical properties of these fluids has been presented and
+an attempt has been made to systematize theoretical models.
+
+Naturally. in an introductory work such as this many important questions have
+been left out of the discussion. But the author hopes that the book will help
+the reader to form a rather complete conception of the development of this
+relatively problxm in fluid dynamics.
+
+Materials prepared by V. K. Rakhubn and N. P. Matuscvich were used in the pre-
+paration of section 1.2. materials prepared by Y. 0. Bashtov and I. Pavlinovn
+in section 3.2. materials by A. M. Vislovich in Appendix 1. and materials by
+V. K. Polovikov in Appendix 2. B. E. Isshevskiy took part in the writing of
+Chapter 2.
+
+The author expresses his gratitude to all the above comrades for their work.
+The author is deeply grateful to Dr. of Physical and Mathematical Sciences
+
+3. M. aerkavskiy. who proposed the idea of writing this book. for hi: constant
+interest and scientific assistance.
+
+COPYRIORT: Isdatel'stvo "Ranks 1 Tekhnika". 1978
+
+83:80
+C80: 1870
+
+18
+FOR OFFICIAL “SI-Z “NLY
+
+l‘1llﬂ.‘ CATIONS
+
+AUTGMTING THE DESIGN 0? C01?ka LOGIC STRUCTURES
+
+Moscow AVTGIM'IZA‘I‘SIYA PROYEKTIROVANIYA SLOZHNYIOI LOGICHESKIKR STRUKTUR in
+Rusnian 1978 signed to press 10 Oct 78, pp 2, 351-352
+
+[Annotation and table of contents from book edited by V. A. Gorbatov, Ener-
+giye. 352 pages, 7000 copies]
+
+[Tcxtl NOTATION
+
+This book is devoted to automating the designing of logic structures from
+specified integrated modules based on existing programs that automatically
+take into account the design semantics of realizable transformations. This
+lakes it possible to work out an otpimum strategy for the automated design
+of high-quality complex logic structures. Realization of such program! is
+achieved by using the proposed software. nanely, the system for interpret-
+ing Boolean logic (SIBUL). Examples are given for implementing logic struc-
+tures using multifunctional adaptive modules used in industrial automation.
+
+The book will be useful to specialists who are working on automating the
+design of numerical control systems, as wall. as for graduates and students
+of the appropriate specialties.
+
+CONTENTS Page
+Preface 3
+Introduction 5
+
+chapter l.’ The Problem of Creating an Automated System for
+Designing Logic Strut turcs
+
+1.1 Structure of an automated system of design using pro- 7
+gram modules
+1.2 Notation (or frequency arrays of relationships 13
+1.3 Choice of algorithm in designing a routine 19
+1.6 Subjective interpretation of a routine 28
+1.5 A frequency-minimal covering algorithm 30
+1.6 Formalizing the routine by using algorithmic language 39
+1.7 Designing the module $0
+19
+
+FOR ()l-‘FICIM. USE ONLY
+FOR Ill-‘FICHI. USE ONLY
+
+Chapter 2. A System for Interpreting Boolean Logic
+2.1 Methodology for computer design of logic structures
+2.2 SIBUL. a system for interpreting Boolean logic
+2.3 Dynamic allocation of memory
+2.6 Operation with files
+
+Chapter 3. Computer Minimization of Boolean Functions
+3.1 Approximate structural minimization of Boolean functions
+3.2 Modules that make possible the formulation of a list of
+maximal intervals
+Modules of equivalent transformations of Boolean func-
+tions
+Modules of a supervisory and dispatching routine
+
+Simultaneous minimization of a system of Boolean func-
+tions
+
+UU U
+.o .
+usa- U
+
+Chapter 6. Computer Construction of Structural Diagrams
+4.1 Diagram and properties of quasi-equalities
+4.2 Transitive orientation of diagrams of quasi-equality
+6.3 Optimising functionals in the construction of struc-
+tural diagrams
+4.6 The "structure" routine
+
+Chapter 5. A Structural-Compositional Design of Logic Systems
+Using Computers
+5.1 Structural algebra
+5.2 Strict symbolic representation of structural algebra
+S.) The "K-diagram" routine
+
+Chapter 6. A Structurel-Decompositional Design of Logic
+
+6.1 Inverse operation of structural diagrams
+A frequency-matrix discrimination of lo diagrams
+Decomposition of structural diagrams into to subdia-
+grams
+Functional decomposition of structure diagrams
+Dendritic realization of coalgebrs diagrams
+Automated design of logic structures for industrial
+application
+.7 Characteristic controls in automated design systems
+
+UN
+
+0‘ @0‘0 3‘0
+. s .
+ama-
+
+Bibliography
+Alphabetical index
+
+COPYRIGHT: lzdatcl'stvo 'Qnorgiya," 1978
+
+6948
+C80: 1870
+
+20
+
+F0“ OFFICIAL llSl-I ONLY
+FOR OFFICIAL USE ONLY
+
+PUBLICATIONS
+
+ARITIIMETIC UNITS OF DIGITAL COMPUTERS
+
+Moscow ARlFHETICUBSKlYE USTROYSTVA EV“ in Russian 1978. signed to press
+23 Aug 78, pp 1-6, 177
+
+[Annotation. Introduction. and table of contents from book by c. N. Solov'yev.
+Energiya. 15,000 copies. 177 pages]
+
+[Text] ANNOTATION
+
+This book explores problems of designing arithmetic units used in existing
+and newly designed digital computers. Number systems and means for repre-
+senting numbers are presented. with a great deal of attention paid to the
+methods of implementing arithmetic operations using both fixed- and floating-
+point arithmetic. Design questions are treated in the book by presenting
+information on registers. summers. arithmetic unit circuits of various types.
+methods for controlling transmissions. arithmetic and logic transfer-s. and
+so forth.
+
+The book is intended for a wide circle of specialists occupied with questions
+of designing and applying digital computers. as well as for students in the
+fields of design and application of digital computers.
+
+INTRODUCTION
+
+Of all tasks related to the theory and design of digital computers during the
+30 years of their existence. the established and most stable have been the
+foundations of theory and design of devices that implement the arithmetic and
+logic transforaations of binary information.
+
+The present publication is devoted to this topic. The book reflects an
+attempt to present that material which has been filtered out by the 30-year
+period of existence of digital computers. Accordingly. the entire content of
+the book is oriented exclusively to the binary system of numbers and in dis-
+cussing the theoretical foundations only those aethods are considered that
+have found use in digital computers of the second and third generation and
+about which there is no doubt as to their use continuing into future genera-
+tions as well. Such an approach is characteristic for both circuit and sys-
+tcn design questions considered in this book.
+
+21
+
+FOR OFFICIAL USE ONLY
+FUR ill-'FIIIIAI. USE ONLY
+
+The vntlro content of the book represents the results of the desire of the
+author to present material from general points of view without extraneous
+details. particularly in circuits of the devices considered. and not from
+the point of view of a specific digital computer.
+
+In choosing material. the author has attempted to give an integrated presen-
+tation on questions related to the topic under consideration. Within the
+framework of a single publication and along with the traditional arithmetic
+foundations. the registers and summers. and the methods of increasing the
+speed of performing operations of multiplication and division. the following
+are considered:
+
+The foundations underlying the operation of arithmetic units in a parallel.
+sequential. and sequential-parallel operation for numbers with fixed- and
+floating-point representation;
+
+Control of the operation of the ariumntic units. where the main attention
+is turned to the direct and continuous control of problems. arithmetic and
+logic transformations. modulo 2:
+
+Dynamic storage and shift registers;
+The foundations of representation. arithmetic operations on numbers in the
+
+binary-decimal system of numbers. basic questions of implementing tabular
+arithmetic. rounding the results of arithmetic operations on numbers with
+fixed- and floating-point representation. and a number of other specific
+questions of arithmetic foundations that find broad application in digital
+computers of the third generation.
+
+All the material in the book. particularly Chapter 6. is designed for use of
+integrated circuits. Basic questions of integrated circuit technology illu-
+minated in Chapters 1 and 3. in which the logical foundations are given in
+terms of volume necessary for the formal description of algorithms for arith-
+metic and logical transformation as well as circuits for the basic components
+of arithmetic units. free the reader from the need to turn to specialized
+literature in studying and becoming familiar with the present book.
+
+Obviously. a book that reflects such complex questions is quite limited in
+scope and necessarily has to be short and laconic in the presentation of a
+
+number of topics. The reader has to judge as to what extent it has been pos-
+sible to achieve the above-presented ideas.
+
+in the author's opinion. the present book will be useful for students in the
+specialty of electronic computers as well as for specialists working in the
+
+field of computing technology.
+
+The author would like to express his gratitude to the instructors of the
+electronic computer faculty of the Moscow engineering physics institute.
+whose practical comments have led to the formulation of the present book and
+to his colleagues on the faculty for the great help in preparing the manu-
+script for publication.
+
+22
+
+FOR OFFICIAL "SI-I UNLY
+FUR ”Fl-'HZIAI. INF 0le
+
+CONTENTS
+
+Introduc t ion
+
+Chapter
+[.1
+1.2
+
+2.3
+
+2.8
+Chapter
+3.1
+3.2
+
+Chapter
+
+1. Elements of the Foundations of Logic
+
+Elementary logic functions
+
+Functionally complete systems of elementary logic
+functions
+
+Elementary equivalences
+
+Representation of logic algebra functions in various
+number bases
+
+2. Arithmetic Foundations
+
+Number systems
+
+Choosing the number system
+
+Conversion of numbers between number systems
+Methods of representing numbers
+
+Arithmetic operations on numbers with fixed radix
+point in a binary number system
+
+Arithmetic operations with numbers represented by
+floating-point radix in a binary number system
+Arithmetic operations in a binary-decimal system of
+numbers
+
+Hethods of rouMing results of arithmetic operations
+
+J. Fundamental Concepts of Digital Computer Elements
+Types and systems of elements
+Examples of possible systems of elements
+
+Io. Registers and Sumers. the Basic Subassemblies of
+
+Arithmetic Units
+
+6.1
+6.2
+
+Chapter
+and
+5.1
+5.2
+5.3
+
+5.6
+
+M
+o
+
+U‘Ul
+‘10 U‘
+
+s 0
+
+Storage and shift registers
+Summers
+
+5. Examples of Arithmetic Unit Circuits for Sequential
+Parallel Operation
+
+Organizing the execution of transfers to an arithmetic
+unit using parallel operation
+
+Arithmetic unit in parallel operation for executing
+multiplication operations
+
+Arithmetic unit in parallel operation for addition and
+subtraction of floating-point numbers
+
+Arithmetic units in sequential operation for performing
+addition and subtraction
+
+Arithmetic unit in sequential operation carrying out
+multiplication operations
+
+Arithmetic units employing sequential-parallel operations
+Considerations for selecting complementary or inverse
+codes for making additions and subtractions
+
+23
+
+FOR OFFICIAL USE UNIX
+Hm I'M-'HJM. "SI-2 I‘N'.Y
+
+Chapter 6. Increasing the Speed of Perforning Multiplication
+and Division Operations
+
+6.1 logical methods of increasing the speed or multipli-
+cation
+
+6.2 Machine eethods for increasing the speed of multipli-
+plication
+
+6.) Increasing the speed of division
+Chapter 7. Iesic Methods for Controlling Arithmetic Units
+7.1 Purpose and cleseiiication of control methods
+7.2 Test control
+7.3 Control eeploying modulo 2
+Bibliography
+
+COPYRIGHT: Indetel'etvo "Energiya," 1978
+
+6968
+CSO: 1070
+
+26
+
+FOR (WFICIM. "SI: max
+l-‘Im IWI’ICIM. "5|: UNLY
+
+NB Ll CATI ms
+
+DESIGN 0? FUNCTIONAL SUMSSNLIBS FOR DIGITAL COMPUTERS USING INTEGRATED
+CIRCUITS
+
+Moscow KONSTRUTROVANIYB FUNXTSIONAL'NYKH UZLOV BVH NA INTEGRAL'NYKN
+SKHDIAKII (Design of Functional Suhaasesblies for Digital Computers Using
+Integrated Circuits) in Russian 1978 signed to press 28 Feb 78. pp 2, 199-200
+
+l‘l‘itlc. annotation. and table of contents from book by B. I. Yersolayev et
+al.. Sovetakoy liadio. 22,300 copies. 200 pages]
+
+[Text] Methods are presented for designing the basic functional suhassesbly
+of a digital coeputer. the plug-in nodule. that contains discrete elenents.
+Integrated circuits. printed circuit boards, and connectors.
+
+The book is intended for a wide circle of specialists working in the field
+of computer design.
+
+CONTENTS Page
+Preface 3
+Chapter 1. Peculiarities of Designing Functional Suhasaenblies 6
+for Digital Computers
+1.1 Factors that deternine the design of a plug-in nodule 6
+using integrated circuits
+[.2 Developnent of Iicroelectronics and the design of 7
+
+digital cosputers
+
+[.3 Influence of the integrated circuit design on the solu- 8
+tion of circuit engineering prohless
+1.6 Hethesatical tools used in conputer design of integrated 12
+circuits
+1.5 Statistical analysis of integrated circuits 21
+1.6 Optisising paraseters of integrated circuits 26
+Chapter 2. Design and Production Hethods for Integrated Circuits 32
+2.1 Hanutacturing processes (or integrated circuits 32
+2.2 Photographic te-plates 38
+2.3 Assn-My of integrated circuits '01
+2.6 Thersal calculation for integrated circuits 52
+2.5 Pro-icing nethods {or creating integrated circuits 6‘
+
+25
+mm OFFICIM. Us}: ONLY
+rnu thIEIAL "Sr HNLV
+
+Chapter 3. Design of Plug-in Modules Using Integrated Circuits
+
+3.1
+
+UUUUU
+.
+owt‘uu
+
+3.8
+3.9
+
+chapter
+6.!
+
+§§§G~
+. o o s
+UFUN
+
+g.
+e
+0
+
+Chapter
+Sal
+
+U‘U'U'U‘U‘
+o o
+@MbUN
+
+Chap e
+
+UNH'I
+
+00‘ 000”
+M’
+
+Characteristics of the basic design elenents for plug-in
+nodules
+
+Drinted circuit boards of plug-in nodules
+
+Materials for printed circuit boards
+
+Analysis of elencnts of printed board layout
+
+Structure of nultilsyer printed circuit boards
+
+Selection of functional scope and overall dimensions
+
+of a plug-in nodule
+
+Preliminary design stage of plug-in nodules. Choice of
+design
+
+Engineering design of plug-in nodules. Detersinntion of
+para-eters
+
+Repair of plug-in nodules
+
+6. Standardization
+
+Directions in the standardization of integrated circuits
+Regulation of design norns for integrated circuits
+Standardization of plug-in nodules
+
+Design norns for printed circuits of plug-in nodules
+General design requireaenzs placed on printed circuit '
+boards for plug-in nodules
+
+Standardisation as a scene for increasing product quality
+
+5. Control and Testing
+
+Types of effects and their influence on the ability of
+the plug-in nodule to operate
+
+Types of tests
+
+Testing plug-in nodules for stability to external effects
+Test equipnent
+
+Selecting dinensions for test chanbers
+
+Engineering quality control and the production process
+
+6. Auto-sting the Design Function
+
+Systens of design auto-scion
+
+Documentation for design sutonstion
+
+Autosated design systens for various stages of produc-
+tion and product application
+
+Basic goals of an autonsted design systen
+
+Design of functional subasssnblies of the unified syste-
+of digital conputers
+
+Bibliography
+
+Subject
+
+Index
+
+COPYRIGHT: ladstel'etvo Sovetshoye Radio. Moscow. 1978
+
+6968
+
+cso: 1870
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+PUBLICATIONS
+
+DOC 539.107.6
+DETECTION OF IONIZING RADIATION
+
+Moscow DETENTORY IMPUL'SNOGO IONIZIRUYUSHCHEGO IZLUCNENIYA (Detectors of
+Pulsed ionized Radiation) in Russian I978 signed to press 22 Dec 77
+pp 2-4. [72-173
+
+[innotntlon. table of contents and Introduction from book by Ziyat Adbul-
+lovich Al'bikov. Aleksandr lvanovlch Vegetennikov. Oleg Vssil'yevich Roz-
+
+lov. Atonlzdat. [.980 copies. 176 pngeg/
+
+[Teag7 The measurement of pulsed ionizing radiation is an urgent problem of
+experimental physics and radiation technology. it is necessary to make
+such measurements when developing and using pulsed X-ray equipment and
+particle accelerators. in theraonuclear research. medicine and other fields
+of science and technology.
+
+Detectors designed to measure pulsed ionizing radiation are exanined in the
+book. The principles of their construction are set forth and estimated and
+experimental data on the characteristics of the detectors are cited.
+
+The amplitude, time and spectral characteristics of detectors of various
+types. as well as the limitations connected with statistical fluctuations
+of output currents are examined. The main attention is devoted to detectors
+with nanosecond and subnanosecond resolution.
+
+The book is intended for experimental physicists and specialists in the
+field of nuclear instrument making.
+
+65 figures, 2l tables 2&6 references.
+Contents Page
+Chapter 1. Characteristics of Detectors of Pulsed Ionizing
+Md!nt10n.........................l. 5
+1.1. Main Parameters of the Fields of Pulsed Ionizing Radiation S
+6
+
+1.2. Classification and Features of the Characteristics of De-
+tectors of Pulsed Ionizing Radiation. . . . . . . . . .
+
+27
+
+FOR OFFICIAL USE ONLY
+I916
+
+Chapter
+Zels
+2.2.
+2.3.
+2.5.
+
+Chapter
+3.l.
+3.2.
+3.3.
+
+Chapter
+4.1.
+6.2.
+5.3.
+4.4.
+
+Chapter
+5.1.
+5.2.
+503'
+
+Chapter
+6.1.
+
+OOGC‘
+
+o
+UV§UN
+e e
+
+O
+R
+
+NNNg
+o o o
+UN—n
+o 0
+
+Chapter
+8.1.
+8.2.
+
+Chapter
+9.].
+9.2.
+
+9.3.
+
+FOR OFFICIAL USE ONLY
+
+Main Characteristics of Detectors of Pulsed Ionizing
+Md‘nt lo“. 0 O 0 I O I I O D O C O I O O O O O I I
+
+2. Charge Detectors of Charged Particles. .
+
+Layout and Principle of Operation of Detectors
+
+Tile Resolution of Charge Detectors. . . . .
+Effectiveness of Recording and Sensitivity .
+
+e
+
+c
+
+Linearity of the Amplitude Characteristic in Quaslstatic
+oﬁd Dymnic mdeoO O l 6 D 6 O O 0 O 0 O I O O l O 0 O
+
+3. Charge Detectors of )r-quanta and Neutrons
+
+Vacuum Charge Detector of Y-quanta. . . ..
+
+Charge Detector of )l-quanta Hith a Dielectric
+
+Charge Neutron Detectors . . . . . . . . . .
+
+6. Scintillation Detectors. . . . . . . . .
+Scintillntors and Photoelectric Instruments.
+Construction of Scintillation Detectors. . .
+Sensitivity and Spectral Characterization. .
+Linearity and Tine Resolution. . . . . . . .
+
+o
+
+e
+e
+s
+e
+a
+
+close
+
+Scatterer
+
+00...
+
+so...
+
+5. Cerenkov Detectors . . . . . . . . . . . . . . .
+Characteristics of Radiators and Layout of Detectors
+
+Sensitivity and Spectral Characteristics . .
+Linearity and Tine Resolution. . . . . . . .
+
+6. Semiconductor Detectors. . . . .
+Layout and Principle of Operation. .
+Tine Resolution. . . . . . . . . . .
+Amplitude Characterization . . . . . . . .
+
+Sensitivity and Spectral Characterization. .
+
+o . o
+o e o
+e o .
+. o . e
+
+e
+
+a...
+
+see
+
+Radiation Resistance of Semiconductor Detectors.
+
+7. Caloriletric Detectors . . . . . . . . . . .
+Layout and Principle of Operation. . . . . . . .
+Sensitivity of a Perroelectric Detector. . . . .
+
+Tine Resolution and Output Current at Detectors on
+
+coo...
+
+a... no...
+
+see...
+
+so...
+
+a...
+
+too...
+
+ace.
+
+.0... sees
+
+the Basis
+of Perroelectrics. . . . . . . . . . . . . . . . . . . . .
+
+8. Statistical Pluctustions of the Current at Detectors
+Scintillation and Cerenkov Detectors . . . . . . . . . .
+Comparison of Detectors of Various Types . . . . . . . .
+
+o
+
+9. Detectors With a Logarithaic Amplitude Characteristic.
+Amplitude Characteristic of Logsrithaic Detectors. . . . .
+
+Tine Characteristics of Logarithmic Detectors . . . . . . .
+Principles of Construction of Logarith-lc Detectors . . . u
+
+28
+
+FOR OFFICIAL USE ONLY
+
+16
+lb
+22
+31
+
+33
+
+38
+38
+52
+60
+
+63
+63
+73
+76
+82
+
+86
+86
+9|
+95
+
+101
+101
+103
+110
+11k
+121
+
+126
+126
+127
+
+130
+
+133
+
+133
+138
+
+162
+163
+164
+165
+FOR OFFICIAL USE ONLY
+
+Chapter [0. Methods of Measuring the Characteristics of Detectors
+ofPulaedelutlon......................-e '50
+lo.i. Measure-eat of the Spectral Characteristic of Detectors . . ISO
+l0.2. Measurement of the Spectral Characteristic of Detectors
+
+of Neutron Radiation . . . . . . . . . . . . . . . . . . . [53
+[0.3. Measurement of the Pulsed Characteristic of Detectors . . . 153
+l0.&. Measurement of the Amplitude Characteristic of Detectors. . 157
+
+l!lbiiography............................159
+Suhjcctlndex............................170
+
+Introduction
+
+1he seasurencnt of ionizing radiations is of great iaportance in modern
+science and technology. With the introduction of the achieve-eats of ex-
+perimental nuclear physics in industry. aedicine and other sectors of the
+national economy more and more attention is being devoted to the measurement
+of the para-etera of the fields of ionizing radiation. which not only hear
+information about the operation of the devices which are the sources of
+radiation. but also present inforaation on the operating conditions in
+
+these fields of the objects of observation and service.
+
+A peculiarity of aany devices. which are presently being used as sources
+
+of ionizing radiation. is the pulsed node of their operation. The surround-
+ing fields of ionizing radiation in contrast to the fields created by static
+sources. the average intensity of the radiation of which is constant or
+changes according to the laws of radioactive decay. are of a pulsed nature
+in this case.
+
+The detection of ionizing radiation is based on the transformation of the
+energy of the particles being recorded into an electric signal at the out-
+put of the detector. which is subsequently processed by Icons of radio-
+electronic equipment. According to the type of output signals the detectors
+of ionizing radiations are divided into discrete detectors. at the output
+
+of which a sequence of electric signals (pulses) is formed froa the in-
+dividuai particles. and analog detectors, at the output of which the signals
+from individual particles are not differentiated. while the infatuation on
+the recorded radiation is obtained according to the value of the electric
+current in the output curcuit of the detector.“
+
+in the ucasureaent of the parapeters of pulsed sources and fields of ionic-
+ing radiation the form of the pulses of radiation. their aaplitude (laxi-
+nun intensity). the intervals betveen the pulses in the case of the
+
+ 
+
+ﬁﬂlis division of the detectors 11 arbitrary, since as the intensity of
+
+the radiation increases and the number of recorded particles corresponding-
+ly decreases. the analog detector shifts to the discrete node of opera-
+tion.
+
+29
+
+FOR OFFICIAL USE ONLY
+FOR Ol-‘I-‘liillil. USli ONLY
+
+emission of a series (or train) of pulses and the form of the individual
+pulses in the series are of great interest.
+
+Analog detectors are usually used for the measurement of the indicated
+parameters of pulsed ionizing radiation when using the appropriate radio-
+clectronic equipment. since the use of discrete detectors for these pur-
+poses in practically impossible. especially given a nanosecond and. what
+
+is more. a picosecond duration of the individual pulses or series of pulses
+of ionizing radiation.
+
+Discrete detectors of elementary particles. which are designed for record-
+ing ionizing radiation of static sources. have been described in many mono-
+graphs.“ At the same time the authors do not know of any works. in which
+the questions of the theory and use of detectors of pulsed ionizing radi-
+ation were systematized. An attempt is made in the book to set forth the
+sale questions of theory and the practical results obtained in the area of
+the development and use of analog detectors of pulsed ionizing radiation;
+here the main attention is doVoted to the analysis of the possibilities of
+using these detectors for measuring pulses of radiation in the nanosecond
+and subnanosecond ranges of activity.
+
+In setting forth the materials the authors were guided. where possible. by
+the All-Union State Standards issued in the USSR in recent years. However.
+this was not always possible. The greatest difficulties arose in the area
+of terminology. and this is natural in connection with the novelty of the
+question being covered. In describing the characteristics of the detectors
+new definitions were introduced. which. in the opinion of the authors. are
+practically necessary. logically stem from the principles of operation of
+the detectors and ensure the metrological nature of the measurement of the
+parameters of radiations. In this case analogous terms from other fields
+of metrology were used.
+
+The authors did not set as a goal of the book the description of the meth-
+ods and equipment for measuring the parameters of pulsed radiation-this is
+unquestionably of independent interest to broad groups of readers. however.
+
+ 
+
+*V. Veksler. L. Croshev. b. Isayev. "Ionizatsionnyye mgtody issledovaniya
+izlucheniy" Llonizstion Methods of Studying deiationgl. Moscow-Leningrad.
+Costekhteorizdat. 1950; s. Rossi. h. Staub. "Ipnizatsionnyye kamery i
+schetchiki" [Ionization Chambers and Counters]. Moscow. Izdatel'stvo ino-
+strannoy literatury. 1951; V. Price. "Registratsiya yadernogo izluchenlya"
+[hecording of Nuclear Radiation]. Moscow. Izdatel'stvo inostrannoy litera-
+tury. Moscow. i960;_y. I. Kalashnikov. M. s. Kozodayev. "Datektory elemen-
+tarnykh chastits“ [petectors of Elementary Particle§7. Moscow. "Mauka".
+1966; V. V. Matveyev. b. l. Khszsnov. "Prlbory dlya izmereniya ionizi:_
+ruyushehikh izlucheniy" LInstrunents for Measuring Ionizing Radiationgl.
+Moscow. Atomizdat. 1972; L. 5; Corn. 3. I. Khazsnov. "Izbirstel'nyye radio-
+setry" 1§elective Rediometergl. Moscow. Atomizdst. i975. and others.
+
+30
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+in some instances the authors were forced to set then forth in brief. since
+
+otherwise sole characteristics of the described detectors and the possbil-
+ities of their practical use would have resained unsubstantiated.
+
+The lntmductlon and Chapters 1 and 9 were written by A. l. Veretennikov:
+Chapters 2. 3. lo. 5 and 8 by 0. V. Kozlov; Chapters 6. 7 and lo by Z. A.
+Al'biltov. The authors are grateful to V. A. Novikov, S. A. Kuchay. Yu. A.
+Brusev. L. z. Nasnrova and L. H. Shishlyekova for useful remarks and as-
+slstanee in the work on the book.
+
+COPYRIGHT: Atouizdat. 1978
+
+7801
+680: 1870
+
+31
+
+FOR OHICIIJ. USE ONLY
+FOR OFFICIAL USE ONLY
+
+PUBLICATIONS
+
+539.125.5.17
+NEUTRON METHODS OF ANALYZING THE COMPOSITION OF MATTER
+
+Moscow NBYTRONNYYB MBTODY NEPRERYVNOOO ANALIZA SOSTAVA VBSMCMESTVA (Neutron
+Methods of the Continuous Analysis of the Composition of Matter) in Russian
+1978 signed to press 28 Sep 77 pp 2-5, 159
+
+[Innotatlon. table of contents and introduction from book by Yevgeniy Rosti-
+slavovich Knrtashgy and Aleksandr Sergeyevich Shtsn'. Atomizdat. 1.530
+copies. 159 pages]
+
+11er5/ In the booh the principles of neutron methods of the continuous
+analysis of the composition of matter are set forth. the principles of the
+construction and the features of various types of neutron analysers are
+examined. Particular attention is devoted to the theoretical and physico-
+technical principles of the continuous activation analysis of matter in a
+stream as one of the new and very promising methods of automatic produc-
+tion control. The characteristics of various types of neutron sources. as
+sell as of detectors and recording equipment. which are used in neutron
+analyzers. are examined in detail. Examples of the use of neutron methods
+for the continuous analysis of industrial products or the analysis of sub-
+stances without tskins samples under field conditions are cited. The neu-
+tron methods and equipment for the continuous analysis of letter, which
+were developed both by the authors of the book and under their guidance and
+by other authors in the USSR and abroad. are described in the book.
+
+89 figures; 26 tables; 157 references.
+Contents Page
+
+Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Chapter 1. Continuous Analysis in the Automatic Control of Techno-
+
+logical Processes . . . . . . . . . . . . . . . . . . . . . . . . 6
+1.1. Demands on Industrial Automatic Analyzers . . . . . . . . . 6
+1.2. Methods of Automatic Analysis . . . . . . . . . . . . . . . 8
+1.3. Nuclear Physics Methods of Continuous Analysis. . . . . . . 16
+
+Chapter 2. The Use of Neutrons for Element Analysis. . . . . . . . 17
+
+32
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Chapter 3. Basic Elements of Automatic Neutron Analyzers. . . . . . 26
+3.1. Typos of Neutron Analyzers . . . . . . . . . . . . . . . . . 26
+3.2. Neutron Sources. . . . . . . . . . . . . . . . . . . . . . . 26
+3.3. Detectors of Emissions . . . . . . . . . . . . . . . . . . . 38
+3.A. Data Processing Devices. . . . . . . . . . . . . . . . . . . 63
+
+Chapter 6. Distribution of Neutrons in Analysed Mediua. . . . . . . 46
+6.l. Distribution of Fast Neutrons. . . . . . . . . . . . . . . . 66
+4.2. Distribution of Thermal Neutron: . . . . . . . . . . . . . . ‘8
+6.3. Distribution of Theraal Neutrons in Absorption Medium. . . . 51
+
+Chapter 5. Activation Analysis of Solutions and Slurries in a Stream 5‘
+5.l. Principles of the Method . . . . . . . . . . . . . . . . . . 56
+
+5.2. Influence of the Agitation of Solutions on Controlled
+
+Actlvtty I O O I O O O C 0 O I O O I O O O C O O I 8 O C 0 $9
+5.6. On-Streaa Activation of a Solution . . . . . . . . . . . . . 62
+5.5. Recording of the Emission of an Activated Solution . . . . . 70
+5.6. Optimisation of System Parameters. . . . . . . . . . . . . . 76
+5.7. Accuracy and Sensitivity of the Method . . . . . . . . . . . 79
+5.8. Means of Increasing the Accuracy. Sensitivity and Selectivity
+
+of the System. . . . . . . . . . . . . . . . . . . . . . . 86
+
+Chapter 6. "Instantaneous" Neutron Methods of Analysis of Solutions
+and Slurries . . . . . . . . . . . . . . . . . . . . . . . . . . . lOl
+60‘s mutton-Mutton “othodﬂ of mly.‘.e a s a e s a a e e a e a [0|
+6.2. Methods Based on the Radiative Capture and Inelastic Dis-
+persion of Neutrons. . . . . . . . . . . . . . . . . . . . 117
+
+Chapter 7. The Continuous Neutron Analysis of Bulk and Solid
+mter101.e O O C I O C O I O I O 0 Q 6 O 0 O I O O O O l O C O I 0 ‘20
+7.1. Blenent Analysis of Bulk Materials on s Transporter. . . . . 120
+7.2. Continuous Determination of the Moisture Content in Bulk .
+Materials . . .'. . . . . . . . . . . . . . . . . . . . . 131
+
+Chapter 8. Neutron Methods in Solving Some Problems of Geology.
+Technological Control and Scientific Research. . . . . . . . . . . 139
+
+8.1. Analysis of Rocks and Ores in a Natural Bed. . . . . . . . . [39
+8.2. Control of Sane Technological Parameters . . . . . . . . . . 147
+
+Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151
+
+Introduction
+
+The increase of labor productivity in industry largely depends on the level
+of automation of production processes. Continuous processes can be auto-
+
+mated easiest of all. In this case the control of such automated processes
+can he accomplished from a single control center by means of control can-
+
+puters. As a result of the monitoring of technological processes and the
+possibility of maintaining the optimum production schedule the utilisation
+
+33
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+of technological equipment increases considerably and products of better
+quality are produced. The automation of technological processes improves
+working conditions and reduces to a minimum the number of people working
+directly under harmful conditions.
+
+One of the important conditions. without which the automation of technologi-
+cal processes is virtually impossible. is the need (or the automatic or
+semi-automatic monitoring of the course of t'..e process. Without exaggera-
+tion it can be stated: monitoring is the main link of all automatic pro-
+ductlon equipment. Merely by knowing the level. density, moisture content.
+thickness. chemical content or any other parameters essential for the pro-
+cess. it is possible to control this process.
+
+For mny years now radiation instruments have been used as sensitive ele-
+ments (sensors) in many production processes. Much experience in develop-
+ing and using automatic industrial equipment on the basis of these instru-
+ments has been gained in the USSR and many other countries. By means of
+primary radiation converters in many cases it is possible to determine the
+technological parameters without contact. which favorably distinguishes these
+sensitive elements from others which require contact with the medium being
+monitored. This advantage is particularly important in the automation of
+
+many processes in metallurgy. chemistry and several other sectors of industry.
+
+in order to control many processes it is necessary to know the chemical
+composition of the mediums being monitored. iiere continuous high speed
+processes require also the use of continuous methods of analysis. Numerous
+automtic analyzers of coqosition. including radiation analyzers. have
+been developed and are being used in practice.
+
+IiuweVer. there are no and. apparently. never will be any universal methods
+and instruments. which are capable of meeting all the diversity of demands
+made on them by various sectors of industry and various technological pro-
+cesses. Therefore. at present the study of new methods of continuous analy-
+sis is being continued. the development of instrtimenta with the use of the
+latest achievements of science and technology is being carried out.
+
+Experience shows that at enterprises of nonferrous metallury approximately
+half of all the analyses made at the central plant and shop laboratories
+are necessary for use in regulating technological processes. Usually the
+majority of these analyses are still made by the traditional "wet" chemical
+methods. Only slightly more than 10 percent of all the analyses are made
+in the laboratories by instrument methods. But even these methods for the
+most part require the taking. and than some preparation of the samples
+(weighing. dissolving. placement in an awoule and so on). The increase of
+the accuracy of the analysis in many instances is checked by the iwerfec-
+tion of the methods and system of sampling. Often the error of sampling
+is much higher than the error of the analysis itself.
+
+Continuous analysis. in addition to the possibility of using its readings
+for controlling the course of technological processes. has a number of other
+
+36
+
+FOR OFFICIAL USE ONLY
+FOR (WHCI'M. "Si-2 ONLY
+
+advantages over the ordinary laboratory methods of analysis with the taking
+of samples: l) as a consequence of the increase of the amount of material
+being analyzed the representativeness of the results of the analysis in-
+crease» and the error of sampling decreases; 2) the subjective errors of
+
+the analysts are eliminated: 3) the possibility of contactless continuous
+analysis. including through the walls of pipes and technological vessels.
+arises: A) it is possible to make an analysis of the rock and ores in a
+natural bed; 5) the passivity of service personnel in the use of the results
+of the analysis for controlling the processes is eliminated.
+
+11w methods of continuous analysis. which are now being developed. for the
+most part are based on the further development of ordinary laboratory meth-
+ads of analysis: titration. polarography. flame photometry and so forth.
+
+in recent years much interest has been show for neutron methods of the con-
+tianons analysis of matter and the automatic monitoring of other technologi-
+cal parameters. intensive research and development of automatic neutron
+analyzers of composition are being performed in the USSR. the United States.
+England. Canada and several other countries. The number of publications
+devoted to these problems is increasing like an avalanche. The analysis
+
+of patent materials shows a slightly different picture: some main Patents
+and authorship certificates. in which the means and general diagrams of
+devices of the continuous analysis of composition are set forth. were sub-
+mitted comparatively long ago (1955-1960). while in the technical patent
+materials of recent years only a few special questions of methods and the
+improvement of some assemblies of known devices are developed.
+
+There are a large number of sectors of industry and industrial objects.
+
+at which it is expedient to use neutron methods of continuous analysis:
+
+the monitoring of the processes of extracting valuable components in the
+mining and metallurgical industry. the monitoring of the parameters of some
+intermediate products (for example. monitoring of the moisture content of
+agglomerate in ferrous metallurgy. determination of the protein in albumin
+products). the monitoring of some special processes (determination of the
+content of boron and the products of fission of nuclear fuel in the stream
+of coolant at nuclear electric power stations). monitoring of sewage for
+various contaminants (fluorine. uranium. mercury and so forth). the deter-
+mination of the impurities in petroleum products. The problems of analyz-
+ing the rock and ores in a natural bed on the surface of the earth. in mine
+drifts. at the bottom of seas and oceans and on the surface of other planets
+are a special group of tasks. The methods of determining the consumption
+and rate of movement of liquid and bulk products. which can also be solved
+by means of neutron methods. border on analytic methods.
+
+The mere enumeration of examples of the possible use of neutron methods of
+continuous analysis and monitoring shows their great promise. However. so
+far. not counting several short surveys. ﬁ-g7. not one work has been pub-
+lished which systematises and eta-arises the achievements in this field.
+The authors have taken the liberty to fill this gap.
+
+35
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLX
+
+It Is necessary in note that questions of the theory and practice of neutron
+mulhmln nl' Imminr, hun- holes have been omitted from thin work. Legging:
+nceurdlug to the meihuds of accomplishment. the equipment and the means of
+interpretation of the results in many respects differs from other methods
+
+of continuous analysis. Moreover. neutron logging was proposed several
+decades ago; the research devoted to this method is set forth in much patent,
+
+scientific and technical literature and was generalized in several mono-
+graphs.
+
+The various methods and equipment are examined in the book with a varying
+degree of detail. which was caused in some cases by the lack of available
+information and in other cases by the varying level of elaboration of the
+problem. The research performed by the authors is covered somewhat more
+extensively in the book. Sections 5.3. 5.6 and 5.5 of Chapter 5 were writ-
+ten with the participation of V. L. Chulkin.
+
+The authors realize that in this work, which is being undertaken for the
+first tine, some shortcomings or inaccuracies might be encountered. The
+authors will gratefully accept critical remarks and suggestions.
+
+in conclusion the authors take the opportunity to express their gratitude
+
+to N. D. Tyufyakov, V. L. Chulkin. N. Yu. Harkun and s. V. Shagov for par-
+ticipating in the performance of the experiments and the useful advice
+given in the discussion of the manuscript of the book. The authors are also
+
+grateful to B. V. Ivlev and L. A. Pronina for much assistance in putting
+the manuscript into order.
+
+COPYRIGHT: Atomizdat, [978
+
+7807
+C50: 1870
+
+36
+
+FOR OFFICIAL USE ONLY
+FOR OFI’ICIAL USE ONLY
+
+PUBL ICA'I‘IONS
+
+UDC 539.9.08253332‘
+PARTICLES IN PLASMA RESEARCH
+
+Moscow VZAIMODBYSTVIYE CHASTITS S VESIICRESTVOH V PLAZHENNYKI! ISSEDOVANIYAKII
+(The Interaction of Particles Hith Matter in Please Studies) in Russian
+1978 signed to press 17 Jan 78 pp 24. 271-272
+
+Linnotntion, table of contents and preface fron book by Yuriy Vladimirovich
+Gott. Atonizdat. 2,550 copies. 272 page_s_7
+
+_/_'l‘ex_t_/ The available theoretical and experissntal data on the losses of
+energy. scattering and ranges of ions of nonrelativistic energies in solid
+(asorphous) and gaseous substances are generalised and systeeetired in the
+book. Questions of the radiation damage to the first wall of a thersonu-
+clear reactor under the effect of neutrons and charged particles are ex-
+anined. The results of the practical application of the events. which oc-
+cur in the interaction of particles with a solid. for the corpuscular diag-
+nostics of laboratory and space plassa are cited.
+
+The book is intended for specialists working in the field of plesn physics
+
+and nuclear physics and for students of M's of the corresponding special-
+ties.
+
+3!; tables. 381 figures, 583 references.
+
+Contents POE!
+Preface.........o..................-. 3
+Chapter I. Losses of Energy by Particles as a Results of Elastic
+
+Collisions........................... 5
+
+f l. Kinenstics of Elastic Collisions. . . . . . . . . . . . . . S
+5 2a Calculation of Atollc Potentt.1.e s e s e e e e e s e e e o 9
+5 3. Potential Energy of the Interaction of Colliding Particles. 39
+f 4. Effective Sections of Scattering and Losses of Energy in
+ElasticCollisions..................... 61
+
+lellogrlphy.......................... ‘7
+
+Chapter 2. bosses of Energy in Inelastic Collisions . . . . . . . $0
+5 S. bosses of Energy in Inelastic Scattering in Individual
+
+“111.10n.0 I O O I D O O O O O O I O O O O O O O O O O O 0 so
+
+37
+
+FOR OFFICIAL USE ONLY
+l-‘Oli ()l-‘F’ICIAI. USE ONLY
+
+S (I.
+5 I.
+ill.
+5 9.
+
+Pulnrlsnuun lumen of Energy. . . . . . . . . . . . . . . .
+Stnpplnuuf l'nrilclvn In I’lnum. . . . . . . . . . . . . . .
+
+Statistical Spread 01' bosses of Energy by Particles in Hatter
+Casparison of the Theory Hith the Bxpsrisont . . . . . . . .
+
+BIbtioBr‘physeseessesssDeestsseessesess
+
+Chapter 3.
+
+mttcr.‘I.....D.........l‘....
+.2b1LOSIUPhYssssssssessssssssssss
+
+Chapter ’0.
+‘ 10'
+i ll.
+
+Scattering of Particles in Hatter. . . .
+“'0', 0‘ mtipl. sc.‘:.r1n8 s s s a e s a
+Inverse Probles oi the Theory of Scattering
+
+Ilbllogi‘nphy.............o.o...
+
+Chapter 5.
+5 I2.
+5 l3.
+5 lb.
+
+0
+s
+e
+e
+
+0
+
+aces
+
+Ranges of Particles in Hatter . . . . . . . . .
+Theoretical Data on Ranges of Particles in Hatter
+Statistical Spread of Ranges of Particles in Hatter
+Experiscntal Data on Ranges of Particles in Hatter.
+
+Bibllngrophy.......................
+
+chapter 6.
+
+Experimental Data on losses of Energy by Particles
+
+s
+
+a
+s
+e
+s
+s
+
+Bxperlnsntnl Hathods oi Studying the Interaction of
+
+in
+
+sees
+
+s
+e
+e
+a
+a
+
+Pll'tlclcﬂlnﬂnttet......................
+
+5 is.
+5 16.
+
+Preparation of Targets. . . . . . . . . . . . . . . . .
+lieasuresent of bosses of Snergy and Ranges of Charged
+
+Pnrtlclel...o...................
+Bibliogtaphy............................
+
+Chapter 7.
+5 l7.
+
+i [8. Defects of the Crystal Structure of Solids.
+5 l9. Volusstric Radiation Dosages. . . . . . . .
+5 20. Surface Radiation Disturbances. . . . . . .
+
+Bibliography...c................
+
+Chapter 8. Diagnostics of Laboratory and Space Plasma
+$21.3quipaent............
+S 22. Heasuresents in Laboratory Plassa
+5 23. Heasurenents in Space Plassa. . .
+
+Blbllogrnphy..............
+
+Appendix..............
+Bibliography...........
+Sysbols of Main Values.. . . . .
+
+Preface
+
+s
+
+s
+
+e
+s
+s
+
+s
+s
+s
+e
+
+sees
+
+essse
+
+sesss
+
+s
+
+e
+s
+e
+
+seese
+
+s
+e
+0
+
+see.
+
+sees.
+
+saese
+
+sees
+
+ass
+
+essee
+
+Radiation Daaages to the Halls of a mononuclear Reactor.
+liechanical Properties of Solids . . . . . . . . . . . . . . .
+
+59
+CI]
+75
+82
+56
+
+90
+131
+
+136
+”6
+I62
+165
+
+168
+168
+175
+I76
+I92
+
+195
+I95
+
+202
+205
+
+210
+210
+2l3
+215
+220
+2210
+
+229
+229
+2102
+
+258
+259
+
+263
+265
+266
+
+In recent years the interest in the events which accompany the interaction
+
+of particles (atone. solecules. ions. electrons. neutrons) with a solid
+
+38
+
+FOR OFFICIAL USE ONLY
+Pill: ilPl-‘HHM. llSl-Z ONLY
+
+lum atrmllly lm-ruwuul. ‘llu-m- quemtlnun are nusumlur, pnrllcularly nrwu
+Importance in connection with the hopes for the development in the future
+of a controlled thermonuclear reactor (ll'i'll). in an m the first. Vacuum
+wall of the chamber will be subjected to the effect of large streams of
+various types of radiations. The interaction of the radiations with the
+materials of the wall leads to a change of the physical and mechanical
+
+properties of the latter and to the contamination of the plasma by the
+materials of the wall. .
+
+The effects occurring with the interaction of particles with solid matter
+and plasma are widely used in the corpuscular diagnostics of laboratory
+and space plasma.
+
+or course. this entire wide range of questions is difficult to set forth in
+a single book. Therefore. the author strove to cover in detail the results
+of theoretical and experimental research on the losses of energy. scatter-
+ing and ranges of heavy (with a mass many times greater than the mass of an
+electron) particles in a solid (Chapters 1-6). The second part of the book
+(Chapters 7. 8) is devoted to an account of the practical application of
+these pehnomena in plasma physics.
+
+Unfortunately. in spite of the fact that the study of the passing of par-
+ticles through matter has been engaged in now for more than 70 years (the
+scattering of d-particles in matter was discovered in 1906, the subsequent
+classical studies of Geiger. lisrsden and Rutherford led to the discover in
+l9ll of the nucleus.of the atom). our knowledge is still quite modest.
+Since no one has yet proposed to mslte the walls of an an out of monocrys-
+talline materials. the interaction of particles only with amorphous sub-
+stances is examined in the boolt.
+
+In speaking about the energies of interacting particles, we will use the
+following terminology: particles of small energies are particles. the
+velocity of which is less than the velocity of any electron in an atom of
+the target. the velocity of particles of great energy exceeds the velocity
+of any electron of an atom of the target. All the remaining particles have
+
+intermediate energies. When examining these questions we will confine our-
+selves to the domain of nonrelativistic velocities.
+
+Everywhere that it was possible empirical and spproximste terms were used.
+The physical values are designated by symbols which nearly do not differ
+from the original works used by the authors. Therefore. often the same
+letter designates different physical values (for example. f is a parameter
+of aiming. the density of the substance, F is the average range expressed
+in dimensionless units, {a is the average projective range). In studying
+
+the materials set forth in the boolt. the reader will probably understand
+these symbols without difficulty.
+
+The author considers it his pleasant duty to express deep gratitude for the
+useful considerations. discussions and advice to H. s. loffe. B. I. Kansyev,
+
+39
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+R. A. Kovruhkm. R. I. Sobolcv. V. 6. Tol'kovakiy. V. V. Tonnyy. O. B.
+l-‘lrnov. Ya. Ya. Yuahunov and Yu. N. Yavllnokiy.
+
+(XWYRIGII‘I‘: Atonlmlnt, ”78
+
+7807
+cso: [870
+
+(00
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+bumca-nous
+
+UDC 621.373.826
+IIOIDGMPNIC MODS. EQUIPMENT
+
+Hoscov OPTIClIESKAYA GOLDGMPIYA: PMKTICIIBSKIYB PRIWIYA (Optical Holog-
+raphy: Practical Applications) in Russian 1978 signed to press 20 Jun 78
+
+pp 2-4. 237-238
+
+_/_Annotation. table of contents and introduction from book by Ye. A. Antonov.
+V. H. Ginzburg. Ye. N. Lekhtsiyer. B. V. Horor. B. 6. Semenov. B. H. Steps-
+nov. N. s. Khanin. V. Ya. Tsarfin. Isdatel'stvo "Sovstskoye radio". 19.000
+copies. 238 page_s_/.
+
+ﬁexg] The experience of using new holographic methods and equipment see
+"Cologrnfiyn. Hetody i npparatura" Luolography. Methods and Equipment .
+edited by V. n. Ginsburg and B. H. Stepanov. Moscow. ”Sovetskoye radio .
+
+1971.) for the solution of practical problem in various fields of physics.
+technology. biology. medicine and fine arts is generalized in the book.
+
+The new results of a number of holographic studies are cited. including
+
+the studies of: optical self-focusing fibers. which are used for telecom-
+municntions; blood cells under cryogenic conditions: high speed processes
+(explosions. the cosbustion of condensed substances. gas-discharge plasma.
+
+the atonization of fuel by injectors. gas dynamic streams in the 'r-shape
+pipe joints of the intake-exhaust system of motor vehicle diesel engines
+and others); the deformation of the images of murals depending on climatic'
+
+conditions and others.
+
+Hotrologicol problems of holography are examined. Methods of nondestructive
+testing of industrial items are given. The ml-l holographic microscope,
+which has been series-produced since 1976. as well as devices for obtaining
+‘round and multi-angle holograms and holographic interferograms and their
+use are described.
+
+The book is intended for specialists working in the field of holography
+and its use in various fields of science and technology.
+
+23 tables; 135 diagrams: 155 references
+
+’01
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL 1188 ONLY
+
+Contenta
+
+IntrodwtlonI I I I I I I I I I I I I I I I I I I I I I I I I I I
+Chapter 1. Hethoda and Bquipeent of Optical Holography . . . . . .
+lIlI “ch“. and o‘.sr.ul I I I I I I I I I I I I I I I I I I I
+1.2. Denanda on Radiation Sourcea. Holographic Equipaent and
+Recording Hediuna Hhan Obtaining Hologram. . . . . . . .
+1.3. Industrial Holographic Equipment. Radiation Sourcea and
+RecordingHediuna....................
+1.1.. Features of the [lee of Pulee Laaera and Anplifiera in
+'blosrop‘|y I I I I I I I I I I I I I I I I I I I I I I I I
+1.5. Hotrological Problem of Holography . . . . . . . . . . . .
+
+Chapter 2. Holographic Hethoda of Hondeatructive Tooting and Their
+Application...........................
+2.1. Hethoda of Obtaining Holographic Topogreaa. . . . . . . . .
+2I2I m Mr’1on mtw. I I I I I I I I I I I I I I I I I I I
+2.3. The Use of the lnterferoaetry of Diaplaceaant . . . . . . .
+2.6. The Uae of Round and Hulti-Angle Holographic Syateao for
+
+Nondestructive Teeting. . . . . . . . . . . . . . . . . .
+2.5. Deter-ination of the Option Teaperature and Hoiature Con-
+ditiona of the Storage of Honualantal Painting . . . . . .
+2.6. The Cae of the Hethod of Leeer lnterforoaetry Hhen Teating
+the Topography of the Surface of Magnetic Dieca . . . . .
+
+Chapter 3. Holographic Hicroacopy of Tranapareat Objecta . . . . .
+3.1. Pieldaoprplicetion........ .. ..
+
+3.2. The MCI-l Holographic Interference Microscope . . . . . . .
+
+Page
+
+55
+55
+66
+75
+
+80
+91
+95
+100
+
+100
+107
+
+Chapter A. Hondeatructive Tearing of the Dietributioo of the Indicator
+
+of Refraction in Optical Fibera . . . . . . . . . . . . . . . . .
+4.1. liethodoflieaaureaenta...................
+6.2. Influence of the Refraction of Light on the Accuracy of the
+
+Heaaureaenta........................
+6.3. stay of selfoc Lisht'FocuIﬂls Fibere e a e e e e e e e e e
+
+Chapter 5. The Study of Artificial Cryatela and Biological Objecta
+
+5.1. Teatiag of the Distribution of the Concentration of a Solu-
+tion in the Proceae of the Growth of a Cryatal and the
+
+Study of the Uniformity of the Crown Cryatale . . . . . .
+
+5.2. Study of the Vitality of Biological Objecta at Dow Teapera-
+
+Cute....o...........o.-..o.o...
+
+Clmpter 6. The Study of Hicrocoaponent Syeteea . . . . . . . . . .
+6.1. Main Characterietica, Teaka of the Study. . . . . . . . . .
+6.2. Featuree of the Holographic Heaaurenenta of the Paranatera
+
+of the Diapereed Phaae of Hicrocoeponent Syateu. . . . .
+
+3. Heaaureaent of the Unifonity of No-Phaae Currenta . . . .
+
+1., Measure-eat of the Dietribution of Velocitiea in an Overflov
+
+Strean..........................
+
+62
+
+6.
+6
+
+e
+
+FOR OFFICIAL USE ONLY
+
+121
+121
+
+136
+137
+
+166
+
+166
+
+157
+
+166
+166
+
+167
+170
+
+176
+FOR OFFICIAL USE ONLY
+
+6.5. Study at the Dispersed Phase of the Products of the Colubus-
+tlonOICondonaedsyOtels...o.............. ‘78
+
+6.6. Study of the solid Phase of the Products of tho Combustion
+ofCondensedSystens....................185
+
+6.7. Study of Model Hire Explosions . . . . . . . . . . . . . . . . 198
+
+Chapter 7. Holographic Methods of Nondestructive Testing of the Operat-
+ing Processes in Motor Vehicle Diesel Engines. . . . . . . . . . . . 205
+7.1. Study of the Atomization of Fuel by the Injectors of Motor
+
+VehicleDieselEngines. . .. .. .. . . . . . . . . . . . 206
+7.2. Study ofthe Characteristics of the Gas Dynamic Streams in
+the Intake-Exhaust Systems of a Diesel Engine. . . . . . . . 217-
+
+Bibliography............................. 226
+Subjecthdem............................235
+
+int reduction
+
+At present holographic methods are being widely used in solving practical
+problems and in scientific research. holography is being used in studies
+of high speed processes (explosions. combustion. gas-discharge plasma and
+so forth); for measuring deformations which occur in an item under the in-
+fluence of various factors; for nondestructive testing of quality; for
+detecting internal defects of itens (in introscopy): in studies of living
+cells and microorganisms. the process of the growth of plants; for obtaining
+three-dimensional images of the internal organs of man and animals; in
+operations on the restoration and deternination of the optimum storage con-
+ditione of masterpieces of painting and others.
+
+The methods and domestic equipment, vhich make it possible to perform
+holographic research in the optical and ultra-high frequency beads of waves.
+are described in the book "Golografiys. Metody i appsratura" Lﬂolography.
+Methods and Equipment] (edited by V. M. Ginsburg and B. M. Stepenov. Moscow.
+"Sovetekoye radio". 1974). These methods and equipment. as well as the
+methods and equipment. which were developed later and are presented in this
+book. are being used in the Soviet Union and 'ebroad for research in the
+field of physics. medicine and technology. The results of the basic re-
+search were published in the periodic press during 1976—1977. At the same
+time. until recently there have -been no eystentited account of the practi-
+cal aspects of holography. a description of the methods and their use and a
+generalization of the experience of the practical use of holography in solv-
+ing specific problems of the national economy.
+
+With this book the authors have attempted to fill this gap: to eyeteutire
+and generalize the experience of using the developed methods and means of
+
+holography for solving problems in a nunber of fields of science and tech-
+nology.
+
+Taking into account the broad interest in holography and its practical use
+on the part of readers of various specialties. the authors give a brief
+
+’03
+FOR OFFICIAL USE ONLY
+FOR OFHCIAL USE ONLY
+
+account (Chapter 1) of the basic data on the methods and schemes of holog-
+
+raphy. reference data on holographic equipnsnt and radiation sources. ques-
+tions of the neurological guarantee of the seasures and cone other inferna-
+tion which is necessary for work with holographic devices.
+
+A description of new holographic instrusente and devices: the K34 holo-
+graphic nicroscope. round and sulti-angle systeaa which sake it possible to
+enlarge the field of use of holographic Iathods of asasureaenta and nonde-
+structive testing. is given in separate chapters.
+
+In the book the main directions. ssthods and practical questions. which are
+connected with the use of holography for the nondestructive testing and mas-
+urcncnts of various itens and processes, are set forth using specific
+practical problems as era-plea. Topographical nethods of nondestructive
+testing of the fore of reflecting and transparent objects (including the
+inersion nethod of testing the forn of reflecting item, which is at the
+basis of the draft standard of holographic neasureaents); the asthod of con-
+paring the surfaces of a conplicated for- with standard item are exasined;
+the results of the use of holography and laser interferosetry for the non-
+destructive testing of deformations which occur in reflecting objects under
+the influence of environmental factors are cited.
+
+Studies of the deformations of the iaagss of the nurals in the cathedrals
+of the Moscow Kremlin subject to cli-tic conditions for the purpose of de-
+ternining the option. teapereture and moisture conditions. which ensure the
+safekeeping of the nonmantal painting on the walls of the cathedrals; the
+contactless testing of the topography of the surface of aagnstic discs.
+which are used in storage systeas; the use of holographic Iicroscopy for
+the nondestructive testing of quality and sensurenant of the distribution of
+the index of refraction in optical fibers; the use of holographic nicro-
+scopy for studying the vitality of cells. particularly blood cells under
+cryogenic conditions. are described.
+
+The distribution of the concentration of the solution in the process of the
+growth of crystals is studied. An explanation of the previously observed
+phenosenon of the stratification of the solution when growth crystals of
+RBI! in a static node was found on the basis of this research. The results
+of the study of the unifornity of artificially growth crystals by the neth
+of holographic interferosetry are cited.
+
+The application of holography for the study and neaaureaent of the parameters
+of sulticoaponent rapidly changing systems. which contain a liquid, solid
+and gaseous phase and a plasma, is ennined. the min characteristics are
+cited and the probleas of studying such system are specified.
+
+A nusber of practical energies of the use of pulse holography for the cal-
+culation of the density of currents, the distribution of velocities in an
+overflow stress, the study of the process of cosbustion of condensed sys-
+teas. the analysis of the distribution of charged and neutralized particles
+in please are given. The process of the atomization of fuel by injectors
+
+Mo
+
+FOR OFFICIAL USB ONLY
+FOR OFFICIAL USE ONLY
+
+and the characteristics of the gas dynanic streams in the intake-exhaust
+systems of sotor vehicle diesel engines are studied.
+
+The book was written by a collective of authors under the general editor-
+ship of V. H. Ginsburg and B. H. Stepanov. The following people worked on
+the book: Ye. A. Antonov (i 1.1, 1.2). V. Ya. Tsarfin (5 [.3. 1.4. Chap-
+ter 6). B. c. Seeanav (S 1.5. Chapter 2), V. H. Ginsburg (Chapters 2-7.
+
+5 1.3). B. H. Stepanov (Chapters 2-6. 5 1.3). Ye. N. Lekhtsiyer (Chap-
+ters 3-5). B. V. Hero: and N. s. Khanin (Chapter 7).
+
+The authors hope that the book will be useful for specialists who work in
+various fields of science and technology and who use holographic methods
+for solving practical probleae and in scientific research.
+
+The authors are extremely thankful to the reviewers of the book: Correspond-
+ing Hesber of the USSR Acadely of Sciences Doctor of Technical Sciences
+L. D. Bakhrakh and Doctor of Physicoeatheeatical Sciences Yu. A. Bykovskiy.
+
+(or a number of valuable suggestions which were taken into account when
+correcting the book.
+
+The authors express gratitude.td Va. A. Gabelcv for such assistance in the
+preparation and editing of the eanuscript of the book.
+
+COPYRIGHT: Izdatel'stvo "Sovstskoye radio". 1978
+
+7807
+C80: [870
+
+65
+
+FOR 0??!CIAL USE ONLY
+FOR Ol'l'ICIAL USS ONLY
+
+PUBLICAT IONS
+
+UDC 533.9.13
+PROPERTIES OI" NROATIVB 106 AND ASSOCIATED PROCESSES
+
+Moscow OTRlTSAl‘BL'NYYB IONY (Negative Ions) in Russian 1978 signed to
+press 11 May 78 pp 2-6, 176
+
+ﬁnnotation. table of contents and preface from book by Boris Hikhaylovich
+Seirnov, Atonisdat. [.830 copies. 176 page}?
+
+[13:57 Information. which pertains to the properties of negative ions and
+the processes which take place with their participation, is presented. The
+methods of determining the energy of the affinity of electrons to the stern
+and the molecule are analysed and the present veluee for these magnitudes.
+as well as for the energies of dissociation of molecular negative ions end
+the parameters of auto-ionized states of ions, which are formed in the pro-
+cess of collision of electrons with molecules. are cited. The processes of
+the formation of ions in paired and triple collisions of electrons with
+molecules. as well as the processes of the recombination of positive end
+negative ions in paired and triple collisions are studied. the processes
+
+of the photoejection of an electron from a negative ion. the photodissocia-
+tion of a molecular negative ion. as well as the photo-attachment of an
+electron to an aton or a molecule are emined.
+
+The book contains much reference material. It is intended for specialists
+working in the field of the physics and chemistry of plasma, atomic and
+molecular physics. as well as in related fields. who need information on
+the properties of charged particles and the elementary processes taking
+
+place with their participation.
+
+’09 figures. ‘0 tables. 698 references.
+
+Contents Page
+
+Preface. O O 0 O O O I 0 O C 0 0 I O 0 O I O O O O O O O O O 0 O O 3
+
+Chapter 1. Properties of Negative Ions. . . . . . . . . . . . . . S
+i 1.1. Methods of Determining the Energy of the Bond of an Elec-
+
+troninehegativelon................. 5
+
+5 1.2. Energy of Affinity of Atoms to an Electron . . . . . . . 23
+f 1.3. Enegry of Affinity of Holeculee and Radicals to an
+31ectron........................ 27
+
+66
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+5 1.4. Behavior of a Neatly Bound Electron in a Negative Ion. . . 37
+Bibliography........................... ‘8
+
+Chapter 2. Complex and Unstable Negative Ions . . . . . . . . . . . 54
+5 2.1. Energy of Dissociation of Negative Complex Ions. . . . . . 56
+S 2.2. Formation of Complicated and Complex Negative Ions in
+Triple “111.1“.I I I I I I I I I I I I I I I I I I I I I s?
+i 2.3. Formation of a Negative Complex Ion in the Process of At-
+tachment of the Electron to a Complex Molecule . . . . . . 63
+i 2.10. Auto-ionized States of Negative Ions . . . . . . . . . . . 66
+n‘bl tosr‘phy I I I I I I I I I I I I I I I I I I I I I I I I I I I 68
+
+Chapter 3. Processes of the Collision of Negative lens Nith Atoms . 70
+5 3.1. Interaction of the Negative Ion Nith Atoms . . . . . . . . 70
+i 3.2. Destruction of the Negative Ion in a Collision With an Atom 80
+
+i 3.3. Release of an Electron in Collisions of a Negative Ion in
+a ca.l I I I I I I I I I I I I I I I I I I I I I I I I I I 88
+
+5 3.‘. Resonance Charge Exchange Nith the Participation of Nega-
+tive Ions. . . . . . . . . . . . . . . . . . . . . . . . . 9‘
+81b! ‘osraphy I I I I I I I I I I I I I I I I I I I I I I I I I I I 99
+
+Chapter 6. Formation of Negative lens in Cases. . . . . . . . . . . 102
+56.1. Dissociative Attachment of an Electron to a Molecule . . . 102
+56.2. Distribution of the Products of the Dissociative Attachment
+
+of an Electron to a Molecule According to Energies and
+Angles of Divergence . . . . . . . . . . . . . . . . . . . 114
+56.3. Attachment of an Electron to Complex Molecules . . . . . . 118
+54.5. Formation of Negative Ions in Triple Collisions of
+Electrons Nith Molecules . . . . . . . . . . . . . . . . . 124
+Bibliography I I I I I I I I I I I I I I I I I I I I I I I I I I I 131
+
+Chapter 5. Recombination of Positive and Negative Ions. . . . . . . 133
+55.1. Paired Recombination of Positive and Negative Ions . . . 133
+55.2. Triple Recombination of Positive and Negative Ions in a Gas 161
+
+Blhl togropl‘y I I I I I I I I I I I I I I I I I I I I I I I I I I I 153
+
+Chapter 6. Processes of Interaction of Negative Ions Nith Radiation 155
+56.1. Photodecay of a Negative Ion of an Atom. . . . . . . . . . 155
+56.2. Radiation Attachment of en Electron to an Atom or a
+
+mlecule I I I I I I I I I I I I I I I I I I I I I I I I I 169
+56.3. Photodissociation of Negative Ions . . . . . . . . . . . . 172
+Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . 17‘
+
+Preface
+Negative ions play an iaportsnt role is weakly ionized gas. The transfer
+of the negative charge from the electron to the negative ion leads to a
+
+sharp decrease of the conductivity of plasma and changes the rate of the
+recombination in it of the positive and negative charges. The process of
+
+47
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the phoro~atiaehment of an electron to an atom influences the radiating
+properties of a weakly Ionized gas. Thus. the formation of negative ions
+of hydrogen in the photosphere of the sun with the photo-attachment of an
+electron to an atom of hydrogen determines the radiation of the son in the
+optical port ion of the spectrum. The luminescence of the night sky to a
+great extent is connected with the photo-attachment of an electron to an
+atom of oxygen. Negative ions play an important role in the upper atmos-
+phere of the earth. where at an altitude of up to 100 km the negative
+charge of the atmosphere is connected with negative ions. and the main type
+of negative ions depends on the altitude and the time of day. The list of
+examples demonstrating the role of negative ions could be continued. and
+their number is increasing with the development of applied science in re-
+cent times. mainly in connection with the development of capacitive gas
+lasers. gas-discharge instruments and plasma cheaistry. All this creates
+the need for information about negative ions.
+
+The goal of this book is to present information on negative ions and the
+elementary processes in which they participate. At the basis of the book
+is the material of the previous books of the author_on this theme ("Atomyye
+stolknoveniya i elementarnyye rotsessy v plasma" LAtomic Collisions and
+Elementary Processes in Plasma . Moscow. Atoaiadat. l968;_"Iony i vosbuzh-
+dennyye atomy v plat-e" [tons and Excited Atoms in Plasma]. Moscow. Atomis-
+dat. 1976). This book has retained the direction of the preceding books.
+the nature and manner of exposition. and for those questions. in which no
+new information appeared. the materials of the preceding books were used
+
+in it.
+
+Along with this a large number of problems were subject to serious treat-
+ment. There are directions in which in recent years fundamentally new re-
+
+sults have been obtained. For example. a new method of measuring the ener-
+gy of affinity of an electron to an atom and a molecule. which was developed
+several years ago and is based on the study of the photodscay of negative
+ions upon the intersection of a beam of negative ions with the beam of an
+adjustable laser, made it possible to obtain a wealth of information on the
+energy of affinity of electrons to an atom and a molecule with a previously
+inaccessible accuracy. Modern methods made it possible to determine the
+parameters of auto-ionized states for a number of molecular negative ions.
+These states are formed in the process of the elastic and inelastic scat-
+tering of an electron on a molecule and therefore contain intonation on
+the collision of the electron with the molecule. In recent years measure-
+ments of the sections of photodissociation for negative ions were made.
+which previously were entirely lacking. For many problems new information
+has been obtained. which is extending our notions about the topic and. of
+course. is also included in the book.
+
+in foreign literature there are a large nuﬂsr of surveys and monographs on
+negative ions. The most complete one is the monograph of ll. "assay. which
+has run three editions (Ii. 8. ll. Massey. ”Negative Iona.” Cambridge Univer-
+sity Press. I976).
+
+COPYRIGHT: Atomizdat. 1978
+
+7807
+
+C80: 1870 EN!)
+‘8
+
+FOR OFFICIAL USE ONLY

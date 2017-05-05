@@ -1,0 +1,1522 @@
+FOR OFHC‘IAL USE ONLY
+
+JPRS U10627
+2 JULY 1982
+
+USSR Report
+
+METEOROLOGY AND HYDROLOGY
+No. ‘4. APRIL 1982
+
+FBIS FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OPTICAL USE ONLY
+|
+m
+
+JPRS publications contain information primrily from foreign
+newspapers, periodicals and bOoks, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliteraterl are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. lines within items are as
+
+given by source .
+
+lhe contents of this publication in no way represent the poli-
+cies, views or attitudes of the u.s. Government.
+
+COPYRIGlT LAWS AND REGULATIONS GOVERNING WHERSRIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+
+HETEOROLOGY AND HYDROLOGY
+
+No. 4.19111 1982
+
+Translation of the Russian-language monthly journal METEORODOGIYA I
+GIDROLOGIYA published in Mosccw by Gidronateoizdat.
+
+CONTENTS
+
+*Mesoscale Numerical Heather Forecasting........................................ 1
+
+*Applicat ion of Objective Analysis for Computing Gradients in Lagrangian
+Method for Integrating Prognostic Equations.................................. 2
+
+*Numerical Prediction of Pressure Field in Regional Model Using Two Grid Types.. 3
+
+*Problens in Objective Analysis of Data Pro- lndirect Meteorological
+
+Observations....uu”nun”................................................ 1‘
+
+*Radioactive Containation of Atmospheric Surface Layer Over USSR in 1980....... 5
+*Space Correlation Functions of Air humidity in Western Siberia and Kazakhstan.. 6
+itMean latitudinal Hater and Air Temperature Values for World 0cean..... 7
+
+*Spatial-Tenporal Variability of Petroleun Hydrocarbons in North Atlantic
+
+Waters...oo.o..............o..-..................u.....o............. ...... a 8
+
+*Turbulent Structure of Natural Density Flow in Its Formation Region..... ...... . 9
+*Studylng Trend in River Volune Changes for Evaluating Noml Runoff............ 10
+
+*llydrodynanics of Erosion of Islands in Kiyevskoye and Kremenchugskoye
+
+Reservoirs..................................................... ....... ....... 11
+
+Evaluation of Influence of Meteorological Factors on Biological Productivity
+
+of “ads...OOOOOOOOIOOOOOOIDOOOOOOOOOOOODOOOOIIOOOOOOOO0.0... ..... 0.0.0.0.... 12
+
+*Mcthod for Measuring Vertical Ozone Distribution by Optical Method on
+Meteorological Rockets. 23
+
+.—
+
+*Denotes article abstracted by JPRS
+FOR OFFICIAL USE ONLY
+
+*Available Atmospheric Potential Energy and Its Transformation Into
+
+Kinetic Porn...........................................................
+
+*Review of Monograph by I. V. Busalayev: 'Complex Water Management SYBCGIS
+(Methods for Hydrological Validation, Modeling and Optinization of
+Decisions)‘ [Slozhnyye vodokhozyaystvennyye aistemy (Metody gidro-
+logicheskogo obosnovaniye, modelirovaniya 1 optinizatsii resheniy)]
+AIM‘ACG. "N80“,"1980, 23° Pagesaoa-ooooaoo-nc-o..........a-coo-0000v
+
+*Activities at USSR State Committee on Hydrometeorology and Environmental
+Monitoring........... ........ ................. ....... ....... ...... .....
+
+*Confcrences. Meetings and Seninara.................... ....... ....... .....
+*New Salinity Scale and New Equation for State of Sea water. ........ ......
+*Notes From Abroad.................................................. ..... .
+*Obituary of Ruvim Leyzerovich Kagan (1928-1981)..........................
+
+*
+Denotes article abstracted by JPRS
+
+FOIOFII'IGALUSEONLY
+
+2!
+
+25
+
+26
+
+27
+28
+
+29
+
+31
+Moscow MEIEOROIDGIYA I GIDROLOCIYA in Russian No lo, Apr 82 (manuscript received
+
+[Article by N. F. Vel'tishchev, doctor of physical and mathematical sciences.
+A. A. Zhelnin, V. 2. Kisel'nikova, Ye. M. Pekelis and 1). Ya. Pressman. candi-
+dates of physical and mathematical sciences, USSR Hydrometeorological Sci-
+
+cnti f ic Research Center]
+
+[Abstract] Existing aesoscaie models in most cases are specialized and intended
+for investigating individual atmospheric processes; at present there is not
+
+even one sufficiently complete mesoscale nonhydrostatic model which can be used
+for prognostic purposes. The authors felt that the results obtained with spec-
+ialized models can be used as a foundation for more univeer nesoscale models
+of prognostic importance. Such a model is presented here; it was developed at
+the USSR Hydrometeorological Center. It was formulated in such a way that it is
+possible to make a short-range forecast of the principal meteorological ele—
+ments: temperature, pressure, three velocity components, hmidity, cloud cover
+and precipitation with direct modeling of the mesoscale processes exerting a sig-
+nificant influence on weather conditions. The predictable elements include cloud
+cover and precipitation and moisture transport in the atmosphere (with parameter-
+ization of its phase transitions). Radiation transfer processes are included.
+Processes of transport of heat and moisture in the active soil layer with a
+depth of about a meter are included in the model for a more detailed allowance
+for the processes of heat and moisture exchange between the atmosphere and the
+underlying surface. As the initial equations use was made of the deep convection
+equations proposed by Y. Ogura, et al. (J. A1105. 561.. Vol 19, No 2. 1962) and
+R. Hilhelmson, et s1. (J. ATMOS. SCI., Vol 29, No 7, 1972). These equations were
+supplemented by the corresponding moisture transfer equations and the equations
+for the transport of heat and moisture in the upper meter soil layer. Figures
+
+2: references 20: 7 Russian, 13 Western.
+
+MWLUSEONLY
+INTI 0511(1AI.[£5E|MNLY
+
+unc 551.509'.3n
+
+APPLICATION OF OBJECTIVE ANALYSIS FOR COMPUTING CRADIENTS IN LAGRANGIAN METHOD
+FOR INTEGRATING PROGNOSTIC EQUATIONS
+
+Moscow HEIEOROLOGIYA I GIDROLOGIYA in Russian No 4, Apr 82 (manuscript received
+15 Jun 81) pp 16-20
+
+[Article by B. Bakirbayev and V. V. Kostyukov. candidate of physical and math-
+ematical sciences, West Siberian Regional Scientific Research Institute]
+
+[Abstract] Eulerian representations of independent variables are usually em-
+ployed in numerical forecasting methods. In synoptic forecasts the basis is
+the trajectories method, providing a clear interpretation of developing pro-
+cesses. As a mathematical expression it is possible to use the equations of
+atmospheric dynamics in Lagrangian variables. The possibilities of these tra-
+ditional approaches have reached their limits, dictating a search for new ap-
+proaches. In actuality, in the schemes which have been employed the require-
+ments on the properties of the initial and predicted fields have often not been
+satisfied; there may not be adequate accuracy in computations due to the high
+values of the residual terms in the Taylor expansion. It is proposed that such
+effects can be reduced by the use of variable grids adapted to the values of
+local gradients. The article therefore is a detailed discussion of the prob-
+lems involved in application of this approach in the example of a barotropic
+model of the atmosphere. For example, one of the main difficulties in inte-
+gration in Lagrangian variables involves computation of the gradients. since
+in the course of a forecast the positions of the particles change and become
+irregular. Usually in each interval there is a reinterpolation of the values
+of meteorological elements in a fixed regular grid. from which the required de-
+rivatives are then computed. Here it is shown that the derivatives can be
+found directly from a changing grid of particles by using the objective anal-
+ysis procedure. There are three methods which can be employed for this pur-
+pose: polynomial approximation. optimum interpolation and weighted mean. Each
+is discussed and it is indicated that the most convenient is the weighted
+mean method due to the analytical form of the interpolation weights. The fore-
+casting algorithm for each time interval consists of objective analysis for
+points at which the particles are situated at the current moment. Numerical
+experiments are discussed; both real and model data were used. The success of
+the described forecasting method is dependent on the accuracy in integration
+of the system of differential equations and approximation of the gradients.
+Figures 1, tables 1; references: 8 Russian.
+
+FOI1OIIIC1A1.IIII(HNLY
+UDC 551.509.313.001.57:551.54
+NUMERICAL PREDICTION OF PRESSURE FIELD IN REGIONAL MODEL USING THO GRID TYPES
+
+Moscow METEOROLOGIYA l GIDROLOGIYA in Russian No 4. Apr 82 (manuscript received
+11 Jan 81) pp 21-30
+
+[Article by H. Ahrens, East German Meteorological Service]
+
+[Abstract] ﬂeshed grids are coming into increasingly wider use with the Arakawa
+C grid having considerable advantages in comparison with the so-called A grid.
+The author here outlines the changes which must be introduced in order to em-
+ploy schemes using a C grid. The model presented here employs a system of
+primitive equations of atmospheric dynamics and a semi-implicit scheme for
+time integration. Particular attention is given to the behavior of the ampli-
+tudes of waves in a linear case for two types of grids. The purpose of this
+investigation was to ascertain how the form of approximation of the horizontal
+derivatives exerts an influence on the behavior of wave amplitudes, especially
+meteorologically significant Rossby waves. The difference approximations for
+both types of grids are obtained using a central differences scheme. but with
+approximation of the terms with adaptation and diffusion the grid C has an in-
+terval half as great as for grid A. Two variants of the model are examined ap-
+plicable to short-range forecasts for the period 1 March 1978-5 March 1979 (30
+cases). The horizontal spatial interval was 300 km and the values of the geo-
+potential and wind variables were constant at the lateral boundary. A table
+gives the mean values of evaluations for the two cases. Improvement of vari-
+ant C in comparison with variant A is significant for almost all levels of the
+model (1000, 850, 700, 500, 300 gPa). especially for 1000 and 850 gPa. Despite
+differences in variants of the model (change in the-form of the equations,
+types of grids. filtering regime), they were quite identical - same time in-
+tervals, space intervals, number of points and time expended on the computer
+for a 24-hour forecast (4 minutes). Accordingly, improvement of evaluations of
+the forecasts using the model with the c grid is quite convincing evidence of
+
+the advantage of this variant of the model. Figures 2, tables 2; references 6:
+6 Russian, 2 western. '
+
+FOI4OFFHJA1.USB(ﬂNLY
+FOR OH'ILIAL US! ONLY
+
+UDC 551.509.313
+PROBLEMS IN OBJECTIVE ANALYSIS OF DATA PROM INDIRECT METEOROLOGICAL OBSERVATIONS
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 5, Apr 82 (manuscript received
+25 May 81) PP 31-37
+
+[Article by A. I. Belyavskiy and O. H. Pokrovskiy, candidate of physical and
+mathematical sciences, Main Geophysical Observatory]
+
+[Abstract] Vigorous efforts are being nade to use data from indirect observa~
+tions in numerical analysis of meteorological fields. A generalized variant of
+this method makes possible the direct use of data from radiometric observations
+of outgoing radiation in a numerical analysis scheme. However, a two-stage ap-
+proach is being developed in which the objective analysis scheme involves use
+of the vertical profiles of temperature and relative geopotemtial, first recon-
+structed using some nethod for solving the inverse problem. The authors sought
+to evaluate the validity of the two-stage approach. For this purpose a study
+was made of the three principal types of correlations in the distribution of
+errors in the remote sounding method. Formulas were derived asking it possible
+
+found that the errors in determining temperature by the indirect sounding meth—
+od and the true values are strongly correlated. The nature of correlations of
+this type was clarified. The variability of all these correlations vaa invest-
+igated; it is shown that theoretical evaluations give a correct qualitative pic-
+ture of the spatial distribution of the correlation coefficients. The signif-
+icant seasonal and spatial variability of the correlation coefficients was
+clarified. It is concluded that since allowance for many varying correlations
+is difficult, but neglecting then leads to a decrease in the effectiveness of
+the optimum interpolation procedure, in numerical analysis it is better not to
+use the results of solution of the inverse problem, but initial data from
+radiometric measurements, whose errors are uncorrelated under ordinary experi-
+mental conditions. Pigurea 3; references 13: 8 Russian, 5 western.
+
+FOR‘OFFIJAI.USE(I§LY
+UDC 551 . 510. 72 (47+S7)
+
+RADIOACTIVE CONTAMINATION OF ATHOSI’HEIC SURFACE LAYER OVER USSR IN 1980
+
+Moscow METEOROLOGIYA I GIDRO'LOGIYA in Russian No lo. Apr 82 (manuscript received
+10 Aug 81) pp 38-103
+
+[Article by X. P. hakhon'ko, candidate of physical and mathematical sciences,
+V. P. Hartynenko, V. B. Chunichev and P. A. Rabotnova, Institute of Experi-
+
+mental Meteorology]
+
+[Abstract] During all of 1980 radioactive contamination of the surface layer of
+
+the atmosphere over the territory of the USSR was at a very low level, but a
+nuclear explosion in the atmosphere took place in the Chinese People's Repub-
+lic on 16 October 1980. A marked increase in the levels of total beta activ—
+ity was observed in the USSR in the southern part of Primorskiy Kray- several
+days after the shot; there was also some increase in radioactive fallout in
+
+the Kirgia and Uzbek 8883. However, lost of the decay products first encircled
+the earth before appearing over the western boundaries of the USSR, for the
+most part in the southern part of the country. In the retaining part of the
+USSR there was no appreciable increase in total beta activity but everywhere
+fission products were detected in sanples. The greatest increase in the concen—
+tration of radioactive products in the air and their fallout was observed be—
+ginning in the middle of the first 10-day period in November. The article gives
+a careful review of the annual variation of total beta activity over the USSR
+during 1976, 1977, 1978, 1979 and 1980. Table 1 gives the concentration of
+nuclides in aerosol samples for the USSR in late October and mid-November 1980
+for Kursk, Riga, Moscow and Tashkent. All the observed parameters were charac-
+teristic for nuclear shots set off in the atmosphere at a considerable altitude
+precluding the possibility of capture of soil and its entrainment into a fire-
+ball. Host of the fission products by the tine of their arrival in the emo-
+spheric surface layer over the territory of the USSR were quite well mixed and
+there was no significant change in isotopic composition in tine or space. Pig-
+ures 1. tables 2; references 5: 2 Russian, 3 western. '
+
+MWLUSEONLY
+FOR OFFICIAL USE ONLY
+
+UDC 551.571(571.l)(574)
+SPACE CORRELATION FUNCTIONS OF AIR HUMIDITY IN WESTERN SIBERIA AND KAZAKHSTAN
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 4, Apr 82 (manuscript received
+25 May 81) pp (010-69
+
+[Article by L. P. Kuznetsova, candidate of geographical sciences, and T. A.
+Mozhina, Institute of Hater Problems]
+
+[Abstract] A study was made of the spatial structure of the air humidity
+fields at the level of the isobaric surfaces 850 and 700 lb and the total
+moisture content in the troposphere within the territory of Western Siberia
+and Northern Kazakhstan. The spatial structure was represented by aerological
+observations at 35 stations, including several stations on the western slope
+of the Urals and in the Yenisey valley. Aerological data were available only
+for the 10-year period 1961-1970. The field of mean monthly atmospheric mois-
+ture content values was virtually isotropic in all seasons other than summer
+when there are closer correlations in the NH-SB direction, which corresponds
+to the direction of the prevailing transport of air masses in this season.
+There were no substantial differences between the correlation functions of at—
+mospheric moisture content computed for 20 stations in the Ob' and Yenisey
+basins and for the 35 stations situated over the entire territory of Western
+Siberia and Kazakhstan. It was found that the space correlation functions com-
+puted using data from aerological sounding stations regardless of their geo-
+graphical location correctly describe the spatial structure of the air humid-
+ity fields at the 850— and 700-lb levels and total moisture content. It is
+demonstrated that the space correlation functions. computed on the basis of
+the mean monthly moisture content values. were determined with sufficient re-
+liability for their use in objective analysis. Figures é, tables 1: references:
+6 Russian.
+
+llﬂlflﬂﬂClAl.lﬂIE(NNLY
+UDC 551.526.6+551.526.34(261)(265)(267)
+MEAN LATITUDINAL HATER ARD AIR TEMPERATURE VALUES FOR HORLD OCEAN
+
+Moscow HETEDROLOGIYA I GIDROLOGIYA in Russian No 4, Apr 82 (manuscript received
+14 Jul 81) PP 50-55
+
+[Article L. A. Strokina, candidate of geographical sciences, State Hydrological
+Institute]
+
+[Abstract] Climatic maps published during recent years were used in determin-
+ing the mean latitudinal water and air temperature values for the entire world
+ocean for each month of the year. More than 31.000 values characterizing water
+and air temperature at the points of intersection of a regular 5' grid were
+used in determining the zonal water temperature (to) and air temperature (ta)
+values in the ice-free parts of the world ocean. Monthly maps were used for
+this purpose. All these values are summarized in a two-page table. Among the
+conclusions which can be drawn from this tabulation are the following. The de-
+crease in water and air temperatures with an increase in latitude occurs non-
+uniformly. The meridional gradients of to and t. increase from the equator
+toward the subtropical latitudes in both hemispheres and then decrease in
+
+the direction of the middle latitudes. The northern part of the world ocean
+
+is warmer than the southern part. In owner in the northern hemisphere the
+
+to and t, values are higher than the corresponding values in the southern hemi-
+sphere by l-4°c in the tropical and by 5-7’0 in the extratropical latitudes.
+In winter the temperature regime in the two hemispheres differs to a lesser
+degree. In the subtropical and temperate latitudes the air temperature in the
+northern hemisphere is lower than in the southern hemisphere. The mean to and
+ta values for the northern hemisphere exceed the corresponding means for the
+southern hemisphere by 3.5-6°C in winter and by 5.0-5.6'0 in summer. For the
+world ocean as a whole the maximum to and t8 values are in September and the
+minimum values are in March. During the period of heating the most intensive
+warming of the ocean and atmosphere is in the northern hemisphere from June
+through July, and in the southern hemisphere -— from November through December.
+During the entire year the effect of the surrounding continents exerts a
+stronger influence on the temperature regime of the atmosphere in comparison
+
+with the temperature regime of the ocean. Tables 1; references 19: 16 Russian,
+5 Western.
+
+7
+itﬂltlﬂﬂCIAl.llﬂ!(ﬂilY
+POI OFFICIAL USE ONLY
+
+UDC 551.466.(261.1)
+SPATIAL-TEMPORAL VARIABILITY OF PETROLEUM HYDROCARBONS IN NORTH ATLANTIC UATBRS
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 4, Apr 82 (manuscript received
+8 Jun 81) pp 56-65
+
+[Article by Ye. A. Sobchenko, candidate of geographical sciences, I. G. Orlova,
+candidate of chemical sciences, V. A. Mikhaylov and R. I. Lisovskiy, Odessa
+Division, State Oceanographic Institute]
+
+[Abstract] The results of observations of three forms of petroleum contamination
+in the North Atlantic for the three-year period 1977-1979 are given; these were
+made primarily between the 5th and the 70th parallels in the northern hemi-
+sphere. There were 16 000 observations of petroleum films, 2500 observations of
+petroleum aggregates and 1050 observations of the dissolved-emulsified fraction
+of petroleum hydrocarbons. Figure l is a map of the spatial distribution of pet-
+roleum films during this period. The most contaminated zone was that between
+
+the 10th and 50th parallels. These films are usually observed in shelf waters,
+regions of intensive navigation and transporting of petrol um. Table 1 gives
+
+the content of petroleum films in different parts of the North Atlantic; Table
+
+2 gives the temporal Variability of the occurrence of petroleum films. The max-
+imum occurrence of films is along the shores of North America and Europe, where
+the pollution is 2-3 times greater than in the open part of the ocean. The re-
+gions of extremal contamination were the sane during 1977-1979 as during 1975-
+1976. There were considerable yesr-to-year variations in the occurrence of
+
+films in different zones. In some areas there is a tendency to a decrease in
+
+the pollution level, and elsewhere -- an increase. Figure 2 is a map of the dis-
+tribution of petroleum aggregates and Table 3 gives the temporal variability
+
+of these aggregates. This type of pollution is most common in the Gulf of Cadiz,
+along the shores of Africa and America. Dynamic factors are responsible for
+their concentration in the frontal zones of currents and at the center of the
+Sargasso Sea. Table k gives the temporal variability of the dissolved-emulsified
+fraction of petroleum hydrocarbons in the surface water layer in different zones.
+All this work was carried out within the framework of the IOC-HHD Pilot Project.
+Figures 2. tables 6; references 14: 12 Russian, 2 western.
+
+FOR1OFFHJA1.USEIIULY
+UDC 551.552:551.h65.41
+TURBULENT STRUCTURE OF NATURAL DENSITY FLO" IN ITS FORMATION REGION
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 4, Apr 82 (manuscript received
+20 Jan 81) pp 66-7b
+
+[Article by Yu. G. Pyrkin, doctor of physical and mathematical sciences. B. I.
+Samolyubov and A. A. Kuznetsov. candidates of physical and mathematical sci-
+ences, Moscow State University]
+
+[Abstract] Expeditionary investigations by the authors indicated that the dis-
+tributions of intensity of turbulence of a density current and its averaged_
+characteristics are interrelated to the spectral composition of turbulence.
+which varies in different stages of flow development. The measurements were
+made in a sector of formation of a bottom stratified current of a fluvial sus-
+pension-carrying flow entering a deep natural water body of the canyon type.
+(The apparatus and the measurement method and certain aspects of the generation
+and subsequent propagation of the current on the basis of its averaged para-
+meters were described earlier (Yu. G. Pyrkin, et a1., VODNYYE RESURSY. No 6,
+1978; OKEANOLOGIYA, 20. No 1, 1980; VODNYYE RBSURSY, No b. 1980)). This article
+essentially is a continuation of the work done earlier along these lines. Em—
+phasis is on the period of autumn cooling of river waters and the receiving
+water body when the formation of the density flow is attributable to mechan-
+ical and thermal stratification, with a predominance of the latter. The meas—
+urements were made only during calms. Figure 1 shows the vertical distrib-
+utions of the concentration of suspended matter, water temperature. current
+velocity. intensity of turbulence and spectral density of fluctuation energy
+
+in a bottom density flow at six points along a stream. The text gives a detail-
+ed analysis of the observations made in this reach. Figures 3, tables 3: ref-
+erences 9: 8 Russian, 1 Western.
+
+9
+FOIiofFﬂJAl.USE(MNLY
+FOR‘0FFKJAI.USE(NNLV
+
+UDC 556.165(67+57)
+STUDYING TREND IN RIVER VOLUME CHANGES FOR EVALUATING NORHAL RUNOF?
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 5, Apr 82 (manuscript received
+15 Jul 81) pp 75-84
+
+[Article by Ye. A. Leonov, candidate of technical sciences, and V. Ye. Leonov,
+State Hydrological Institute]
+
+[Abstract] The authors investigated long-term variations in the runoff of major
+rivers in the USSR and analyzed the possibilities of predicting the "projected
+normal runoff" using statistical forecasting methods. ("Projected normal run-
+off" is defined as the mean long-term quantity anticipated during the period
+
+of operation of a projected water management enterprise or for any stage in
+operation and determined from the value of the.norm for a past period with al-
+lowance for the corresponding changes introduced into physiographic conditions
+by man's economic activity and the trend in change in runoff in comparison with
+the past period due to secular fluctuations of climate). Table 1 gives the nor-
+mal and mean values of annual runoff of major rivers during different periods
+(the rivers analysed include: Severnaya Dvina, Neva, Vyatka, Volga, Neman, Don,
+Ural, Tura, Tobol, Nitsa, 0b', Irtysh, Yenisey and Amur). The materials present-
+ed here reveal that a statistical evaluation of water resources solely on the
+basis of the long-term normal runoff and its extrapolation to the future with-
+out correction for economic activity and the climatic trend is inadmissible.
+The data indicate that in the long-term variation of runoff there are prolong-
+ed tendencies to a dropoff and increase in water volume and that the change of
+runoff in these phases is described well by the equation for a complex exponen-
+tial curve. The mean duration of the dropoff-increase period is 60-70 years.
+For European rivers since the end of the last century there has been a nega-
+tive water volume trend. the dropoff being 5-252, whereas for Asiatic rivers
+the volume has been 1-191 above the long-term norm. The analysis made it pos-
+sible to predict water volumes for European and Asiatic rivers for the year
+2000 and the years 2020-2040. Figures 3, tables 6; references: 18 Russian.
+
+10
+
+FOI10FFKJAI.USE(HVLY
+UDC 551.311.21:551.52(282.247.323)(282.247.325.8)
+
+“YDRODYNAHICS 0F EROSION 0P ISLANDS IN KIYEVSKOYE AND KREMENCHUGSKOYE
+RESERVOIRS
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 6. Apr 82 (manuscript received
+25 May 81) pp 85—89
+
+[Article by B. I. Novikov, candidate of geographical sciences, and Ye. G. Glad-
+kaya. hydrobiology Institute. Ukrainian Academy of Sciences]
+
+{Abstract} The authors determined the hydrodynamic erosion of islands in Dnepr
+River reservoirs in the form of the temporal change in their size and volume.
+The investigation was important because it was found that the quantity of
+silts accumulated in Kiyevskoye Reservoir was 3.1 times greater than computed
+and the corresponding factor for the Kremenchugskoye Reservoir was 2.1. It be-
+came clear that this was attributable at least in part to the erosion of is-
+lands in these water bodies. The islands were mapped and their areas and vol—
+umes were precisely determined. The total area of the islands in Kiyevskoyi
+Reservoir was 21.0 kmz; the area for Kremenchugskoye Reservoir was 94.5 km .
+In the upper reaches the islands were low and flat, essentially unflooded
+parts of the floodplain. They were eroded primarily by level fluctuations, al-
+though near the shipping channels the waves created by ships were a factor. In
+the middle and lower reaches the islands were 5-10 m above the surface, hilly,
+consisting of sand and loess, representing remnants of floodplain terraces
+
+and channel banks. For these islands erosion is caused for the most part by
+wind-wave processes. The initial survey was made in 1973-197h and the repeated
+survey was made in 1980. It was found that as a result of hydrodynamic erosion
+the area of the islands has been reduced by 30-95%. The mean annual reduction
+in area is as much as 5.3% Thus. by 1980 the two reservoirs had received
+128,500 I3 and 1,507,500 ms of material respectively. The islands may be com-
+pletely eroded away in 13-15 years. The cited figures are comparable to the
+annual receipts of the erosional products of shores. The islands are also a
+source of a considerable quantity of biogenous elements —- carbon, nitrogen.
+phosphorus. iron, calcium, magnesium, sodium. potassiun and others. These are
+capable of exerting an influence on water quality. Figures 2, tables 3; refer—
+ences: 3 Russian.
+'wa (mm/u. use «mu
+
+UDC 551.50:63l.l75
+
+EVALUATION OF INFLUENCE OF METEOROLOGICAL FACTORS ON BIOLOGICAL PRODUCTIVITY
+OP LANDS
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 6, Apr 82 (manuscript
+received 2? Aug 81) pp 90-99
+
+[Article by V. D. Skalaban, candidate of biological sciences. State Institute
+of Land Resources]
+
+[Text] Abstract: The article sets forth the prin-
+ciples for evaluating the productivity of
+lands on the basis of a set of natural fac-
+tors using the dimensionless relative index
+Kl,z'---N - K1.Kz...KN, where K1, K2....,Ks
+are special indices for individual factors.
+The author gives evaluations of the prin-
+cipal meteorological factors and their coir
+parison with actual productivity.
+
+The increase in the earth's population and the development of productive
+forces is making increasingly timely the problem of the conservation and
+rational use of land resources, being the "principal means of production in
+agriculture and the areal basis for the siting and development of all branch-
+es of the national economy" [6]. Accordingly, the USSR "is carrying out a
+national land inventory involving the totality of reliable and necessary in-
+formation on the natural...tosition of lands" [6], and a climatic survey is
+being made which takes in the totality of agrometeorological information.
+
+The required range of information on land resources is set forth in a defin-
+ite system which includes the cadastral regionalization and classification
+
+of lands. All this information can be employed in monitoring agricultural pro-
+duction to the maximum degree if it can be used in obtaining some idea con-
+cerning the productivity of lands with respect to different crops.
+
+In this communication we set forth a general approach to solution of the prob—
+lem of multisided evaluation of the productivity of lands with respect to the
+principal production factors and specific procedures are proposed for evaluat-
+ing land parcels on the basis of the most important of these factors, the
+
+most difficult to control, meteorological factors.
+
+The process of production of a product of plant cultivation can be represented
+as one of the types of production subordinate to general patterns. with this
+in mind it can be shown that this final product is a function of many parameters
+
+12
+
+inliofFﬂﬂAl.USE(lﬂLY
+x|. x2. x ....x" [2]. The entire range of factors can be divided into four
+nrnups: light -- 1. heat -- T. moisture -- B. nutrients -— q [2]. Each par-
+cel is characterized by a definite set of values of these parameters. which
+also determines its productivity with respect to one crop or another. In ac-
+cordance with the above, it can be written that
+
+M-f’ (XII x2! ‘3! "or x” ): (1)
+M-’ (I: T: BI (.1)’ (2)
+Here M is the productivity of the agricultural crop, expressed in the form of
+
+total biomass and the quantity of commercial product of some substance (for
+example. sugars, oil, protein. etc.).
+
+It is evident that for each type (variety) there is some optimum set of val-
+ues Io. To, so. q0 which ensures the maximum productivity H0:
+
+M. = m. r.. 3.. in. - (3)
+hence
+ﬁ-‘iﬂhtamy (1.)
+
+Here H/Ho is a function determined in a four-dimensional continuum and hav-
+ing a maximum equal to l with l.- 10’ T - To. B - 30. q - qo, and a minimum
+equal to 0 with some extremal value of at least one of the factors.
+
+Different values can be selected as the generalized parameters 1, T, B. q.
+Fnr example. the averaged evaluations of extensive territories are given by
+the generalized indices: the relationship of the annual values of precipita-
+tion and evaporability. annual sum of active temperatures. etc. More detailed
+evaluations are given by the indices of moistening of the soils and growing
+season temperature. It is possible to use still more detailed indices taking
+into account the age requirements of plants for moisture, heat. etc.
+
+In all cases it is better to express productivity and the factors determin-
+ing it by dimensionless relative values. This procedure is employed by many
+researchers and makes it possible to give comparable evaluations of various
+types of objects.
+
+For example. if the supply of plants with heat, moisture and light is not ex-
+pressed in absolute values (degrees. millimeters. lux. watts. etc.). but in
+fractions of the requirement for a given type (variety), it is possible to
+give comparable evaluations for different crops and seek generalised expres-
+sions for productivity with these relative indices.
+
+A complexity in characterizing the productivity of lands by the use of equa-
+tions (1)-(6) is that first of all. the parameters have a stochastic charac-
+ter. and second. the production factors are related not only to productivity.
+but also to one another. Strictly speaking. equation (1) must be written in
+the following way [ll]:
+
+13
+IIIICNWHCIAI.IEIB(INLV
+FIHICNWWCJAI.1EHE(MVLY
+
+M=f’(xltlex300 ' Ooxupxl.'loxl.ayu . ..X|.N.X2.3,X7.1.. a .,-\'2.N.
+
+X14,Xaa.o . ..XNV--- ~)- (5)
+
+Hqunllnn (5) shows how diverse are the possibilities for combining the values
+of individual parameters. As a result of this diversity, complicated by the
+probabilistic character of the parameters, it is virtually impossible to re-
+veal the essence of f' and on the basis of (S) establish the multifactor pro-
+duction functions by which it is possible to give complex evaluations of pro-
+ductivity on the basis of the principal production factors.
+
+We attempted, using the general ecological patterns of interrelationship of
+factors. to break down the overall problem of multisided evaluation into in-
+dividual components and to solve it by parts. He formulated these patterns on
+the basis of an analysis of materials from the investigations of different
+authors and our own experiments.
+
+He will examine the influence of one factor, such as moisture supply, on the
+productivity of ear grain crops, averaged for drought resistance and mois-
+ture requirements. We will express the moisture supply in the form of soil
+moistening Y'- W - HH/HMC - "H, where H are the moisture supplies in the
+
+soil layer used in the computations. "M is the same with wilting moisture,
+mc is the same with minimum moisture capacity. The dependence of productiv-
+ity on the means for the period of the active growing season, active moisture
+consumption and Y values is indicated in Fig. l.
+
+ 
+
+Fig. 1. Dependence of productivity of "Gerkules" oats on soil moistening with -
+different supply of plants with nutrients. Soddy-slightly podzolic soil. mod-
+erate clayey loam. Acul'
+
+He obtained these data in growing experiments carried out in a closed labor-
+atory room at constant temperature. air humidity and illumination. In all ex-
+periments the temperature was maintained at the level 23tl°c by the ordinary
+procedures of thermostating with the use of contact thermometers and temper-
+ature relays. A wet-bulb contact thermometer was paired with a dry thermo-
+meter 0
+
+The psychrometric difference was set by the contacts in accordance with a stip-
+
+ulated air humidity level of about 701. In the transpiration process the
+plants increased the humidity, and as soon as it exceeded a stipulated level
+
+15
+
+FOR1Hﬂﬂl1hl.UBEiﬂNLY
+a relay connected to the wet-bulb contact thermometer was triggered and by
+means of ventilation fans fresh air was fed from the street. which. heating,
+reduced the relative air humidity to the stipulated level. This caused a gas
+exchange such as is necessary for photosynthesis. A device of such a type was
+used by I. I. Sudnitsyn and was described by him in [8]. Illumination was main-
+tained at the level 6000-5000 lux by DBL-250 lamps.
+
+Prior to the "tillering" phase the plants were cultivated with optimum moist-
+ening attained by capillary wetting from below with the subsequent outflow
+
+of water through drainage openings. Beginning with the phase of "leaf tube
+formation" different groups of pots were exposed to different moistening lev-
+els, first of all by differentiated watering from above to the computed weight
+and second by capillary wetting from below at different times. watering from
+above was better in maintaining a constancy of soil moisture in the course of
+the experiment but it was nonuniformly distributed in the soil volume. wetting
+from below resulted in a more uniform distribution of moisture in the soil
+volume but there was a considerable variation in moisture content in the
+course of the experiment.
+
+In the maturing stage the plants were cut, dried at a temperature of 80°C and
+weighed. The mean dry weight of the plant was plotted on the y-axis in Fig.
+1a. Optimum doses of lime and NPR were applied to the soil in variant 1 in
+
+the form of solutions of NH4NO3, anpoa. K2504 salts. In variants 2 and 3 par-
+tial doses of fertilizers were applied. In variant 4 the plants were cultivated
+with an acute shortage of nutrients achieved by triple cultivation of the same
+crop without the application of fertilizers. In variants l, 2, 3 the curves
+
+H - M(1') have a one-dimensional geometric similarity, that is. with any stip-
+ulated moistening the ratio of the ordinates of these curves is constant
+
+(Fig. la). If the values M of each curve are represented in fractions of
+
+H0 . these curves 1. 2. 3 merge into a single curve (Fig. lb). A change in
+3091 fertility to an equal degree exerts an influence on M and H03. not
+changing their relationship. In the case of an extremely low level of supply—
+ing of plants with nutrients their reaction to the moisture supply changes;
+the optimum Y value is displaced into the direction of low moisture contents.
+A zero productivity is not noted with the wilting moisture, but with a some-
+what higher moisture content. Similar results have been noted by many authors:
+with a low supply of nutrients (especially nitrogen) to the plants there is a
+decrease in their resistance to drought and a reduction in moisture require-
+ments: the lower boundary of optimum moistening is displaced into the direc-
+tion of lesser moisture contents. These phenomena are observed when there is
+
+n considerable inadequacy of nutrients. which is inadmissible in production.
+with a moderate insufficiency of nutrients, causing a decrease in productiv-
+ity by a factor of 2-2.5, the correlation between the relative H/Ho value
+
+and Y is stable and is described by the equation which we proposed in [7]
+
+M"'01: ' 1 - (Y- DZ. (6)
+
+The data cited by V. S. Hezentsev using materials from a mass analysis of the
+yield of wheat as a function of soil moistening coincide with our conclusion:
+with different levels of soil fertility (differences in crop yield by a fac-
+tor of 2) the dependences of crop yield on moistening are described by sim-
+ilar curves [5], which, being scaled in accordance with our proposal. merge
+
+15
+
+F0!‘0FFKJAI.U§E(HVLY
+F0l40FFﬂﬂAl.lEE20NLY
+
+into one. being approximated fairly well by equation (6).
+
+ 
+
+Fig. 2. Light curves of photosynthesis of uheat sprouts with different €02
+concentrations in air (according to [4]). 1) illumination in thousands of
+lux. 1) 0.282, 2) 0.13%, 3) 0.052 C02.
+
+The influence of the illumination factor on the productivity of crops with a
+
+different supply of the elements necessary for the forming of production
+is manifested similarly. Figure 2,a shows data illustrating this influence.
+
+It is easy to see the analogy with Fig. 1a,b. With high and moderate supply
+of photosynthesis with €02 there is a geometric similarity of curves 1, 2
+which would enable us to approximate them with the single equation
+
+l;$n04
+
+I" ._
+we} =1—0,22(-—".—'i’-- . (7)
+
+The extremely low level of supplying of 002 (curve 3) impairs this pattern
+similarly to Fig. 1: an increase in the intensity of illumination cannot be
+realized due to the insufficiency of 002 and photosynthesis is maintained at
+
+a level corresponding to «’2000 qu.
+
+The noted pattern is observed in numerous series of curves constructed by
+D. I. Shashko for the correlation between crop yield and atmospheric moisten-
+ing in regions with different heat supply [12].
+
+ 
+
+Pig. 3. Dependence of productivity “/HOBT on moistening B and heat supply T
+indices. a) dependence of “lunar on 3 against different temperature back-
+ground; b) dependence of “I“OBT on T against different noistening background;
+
+c) dependence of "/HOBT on B and T.
+
+The dependence of the productivity production functions on any factor was an-
+
+alyzed by Heddi and Dillon applicable to different types of agricultural pro-
+duction [9]. As a result they demonstrated that the production function of
+
+16
+FOQ1DFFIJAI.USI(INLY
+any factor can be represented by a family of such curves. each of which cor-
+responds to a definite value of another factor. To this conclusion we add
+that with high levels of the "other" factor the curves have a uniform geo-
+metrical similarity. which makes it possible to represent them in relative
+units in the form of one generalized curve,and that with adequately low lev-
+els of the "other“ factor the similarity is impaired in the direction of a
+convergence of the boundaries of the admissible and optimum values of the
+studied factor, in the direction of a reduction of the tolerance limits rel-
+etive to this factor. The experimental data show that such an impairment
+occurs with such low values of the limiting factor that these conditions can-
+not be considered admissible for production.
+
+Using these conclusions and making the assumption that under production con-
+ditions not one of these factors lessens productivity to the level at which
+the normal adaptation of plants to other factors is impaired. we will exam-
+ine the complex influence exerted on productivity by two factors, such as
+moistening B and heat supnly T. Figure 3 schematically shows the nature of this
+influence. The correlation of different functions of two variables, includ-
+ing the production functions of productivity due to any two factors [9], 13 ex-
+pressed similarly. In much the same way, we express productivity in fractions
+of the maximum No“ values corresponding to the optimum moistening and heat
+supply values. With such an expression the changes in l and q within the
+framework of the adopted assumptions are proportional to the change in the
+numerator and denominator, retaining the form of the dependence H/HOB 31 =
+r (B. T). Using the assertion of a uniform geometric similarity of the
+
+amfy of curves in Fig. 3a, b, it can be shown that at any point in the
+plane with the coordinates T, B the function H/Ho - H/HOBT (B, T) within
+the limits of the region of its determination cannge represented as the pro-
+duct of the particular functions for one variable:
+
+ 
+
+M M
+[08 - 08; GET - on; ——(B. T): _'7ZL(B ) 73:17): M... (BY-3707(7) (8)
+0T - 0T; 0th - opt] r=1on a.n ”, r+rw, n+nm"
+
+For the proof of equation (8) we will return to Fig. 3. Assume that some heat
+and moisture conditions BI and T1 are stipulated.
+
+M(T.B.) __ M , M(T|B-) _ M .
+540.5.) — o'er (B L ”(TIBo) _ Mo, (8’).
+
+r. o" 7* 0"
+
+M (7.8.)_ 717")?” M (7.1m __ M
+I
+
+1“ 0030’: Tu?“ 7777.717) _ ”‘7‘,”
+M'
+
+It follows from the similarity of the curves in Fig. 3a that
+
+M (7.8.) _M(TB) _M_ u
+M" (7.57)" M(r.'5,")= rm!" (3. .)-—¢ r (B).
+r: f
+
+0" BI!
+
+17
+
+IN)! OFFICIA1.IISI:(HNLY
+FOR OFFNJAJ.USEGDNLY
+
+It follows from the similarity of the curves in Fig. 3b that
+
+; M<r.n.)_ mm. _ (r) —(7.)
+Mug—0:) m— WM— |-' 7-1...
+
+s-ﬁ" us,"
+
+'Expressing the sought-for productivity H(T1B ) in fractions of productivity
+under optimum heat and moisture conditions IHETOBO) we obtain
+
+M(T.8.l _ M(T-n;l'MlTuR) =
+MUM.)- “(Tsua)‘ndoﬁ'l) ﬁ.;'(8|) it." (7"): M: H‘B) TIL _(,)
+
+1'." 5-D.“ ”if“, n/nm,
+
+If, for example, M(T1 B1 ) is 0.80 of “(T1 B ). whereas H(Tlﬂo) is 0.90 of
+H(ToBo), it is obvious1 that H(T131) is 0.18 0.8 - 0.72 of H(TOBO).
+
+The principles set forth can be used in evaluating productivity on the basis
+of a great number of factors. In a general case, if the productivity of lands
+ls evaluated on the basis of N factors (such as q is broken down into a number
+of individual factors: pH, supply with nitrogen, phosphorus, potassium, trace
+elements, etc. ), as a comparison it is necessary to select the parameter
+
+"0x1' x2...., “ON. corresponding to the optimum supply for these N fac-
+tors. The depengence M/HON - f' (:1, x2..... x N) does not have a geometrical
+representation if N>’2; for its analytical expression it is necessary to have
+recourse to the mathematical tool of N-dimensional space.
+
+In this general case it can also be demonstrated that within the limits of the
+assumption made, when under production conditions not one of the factors drops
+to a level impairing the normal reaction to other factors (impairing the uni-
+form geometrical similarity of the curves). the function H/Ho“ - HIM?“ (x1, x2,
+
+..xN ) can be represented in the form of the product of particular unctions
+for one variable
+
+A! A!
+
+.u .u . .-ﬂ_ .__ . __ .
+173;. ;: M: 1.“) Max, (x) 01: (A3) . . . Max” (3,.) (9)
+
+or written more concisely
+K1.....N'-=K1'K2'K1" - 'KN' (9')
+
+Since productivity as a function of n factors does not have a geometric rep-
+resentation, it is impossible to give a graphic illustration of the proof of
+equations (9) and (9').
+
+A proof can be obtained similar to that given above for equation (8). suc-
+cessively examining the joint coefficient of two factors K1 2 - K1. K2 with a
+coefficient of the third factor K3, of three factors K1 2 3 with the fourth
+
+Kg. etc.
+A'"3=K"-"K3=KI'KVK33
+l\’l..'.',l4-I\’L-I3--K'—Kl K3. KJK. etc.
+
+Thus, the overall problem of expression of productivity as a function of many
+variables can be divided into individual independent problems of expression
+of productivity as functions of the individual factors determined with arbi-
+trary values of the other factors.
+
+18
+
+FOI‘OFMKJAI.USE(IVLY
+In order to use equations (8) and (9) for obtaining some idea concerning the
+productivity “/HOBT as a function of the two variables 8 and T it is suf-
+ficient to have n experiments for determining H - H(B) with arbitrary values
+of the other factors (in Fig. 3c - an arbitrary section of the "dome" along
+the T—axis), that is, a total of Zn experiments. It is easy to confirm that
+for solvtion of this problem without equations (8) and (9) it is necessary to
+carry out n experiments for determining H - “(3) with n temperature levels,
+that is. n2 experiments. with an increase in the number of studied factors
+the use of equation (9) gives still greater advantages.
+
+Equation (9) also simplifies conversion from the determined evaluations of
+productivity as a function of N production factors to probabilistic evalua-
+tions, which in direct computations are unwieldy and are possible on a prac-
+tical basis only in the case of what are known to be incorrect simplifica-
+tions [10]. For probabilistic evaluations of productivity in time it is suf-
+ficient to obtain long-term series of values of the necessary parameters,
+
+to compute the productivity for each year using equation (9) and find the
+parameters of the distribution of the determined series of N/Ho values, on
+the basis of which usual procedures are employed in computing tﬁe integrals
+of probabilities.
+
+we will show further how it is possible. using the principles set forth above.
+on a practical basis to make an evaluation of the productivity of lands using
+the most important production factors -— heat and moisture supply. It was in-
+dicated above that the generalized evaluations of large land parcels coal-en-
+surable in size with geographic zones should be made using mean annual atmo-
+spheric indices of moistening and heat supply [7]. For practical production
+evaluations in a system for cadastral regionalization and classification of
+lands the resolution of these indices is inadequate. For these purposes we
+proposed more detailed indices, on the average characterizing the conditions
+of the growing season for different crops [7]. The dependence H/Hog '
+
+M/HOB (B) (see (8)) is described by equation (6). As the heat supply in-
+
+dex we use the parameter TITO, where T is the mean air temperature for the
+growing season, To is the optimum T value for the considered crop. An anal-
+ysis of data in the literature on the correlation of the productivity of
+different crops and the temperature of their growing season enabled us to de-
+scribe the dependence H/HOT - H/HOT (T) by the equation
+
+[or - or] K, :17. :2, (1L)n(1,5o — -;-). (10)
+
+Comparing equations (6), (8) and (10). we obtain
+
+[31' = 8T; 03': . oar] Kn=m%=l‘.-(r—I)=l'i2'°(‘l1':.‘)m'("50—';7“ (11)
+
+l .
+
+As an illustration we will cite the following example. The mean long-term val-
+ucs of the Y'and TITO parameters for the meteorological stations Nemehinovka
+in Moskovskaya Oblast and Shemakha in the Nagorno-Kabardinskaya Autonomous 0b-
+last applicable to winter wheat are equal to the following: r’for the soil
+layer 0-100 cm - 0.75 and 0.65; T -- 15 and 19.5’c; TITO -- 0.60 and 0.90.
+
+19
+
+FOI<OFHKJAJ.USE(NNLY
+FOI‘OFFKJAI.USE(MNLY
+
+For the Nemchinovka meteorological station MIMOBT - M/Mog (B)-M/M0T (T) - 0.93
+
+~0.65 - 0.60. For the Shemakha meteorological station the corresponding value
+is 0.70:0.97 . 0.68.
+
+77%
+
+7/
+W
+
+777/
+
+.Z/
+
+ 
+
+M.
+47 a
+
+Pig. 4. Correlation between mean (1970-1975) yield of winter wheat and hydro-
+thermal index KB?-
+Table 1
+
+Winter Wheat Yield (1970-1975. Mean Rayon Data) and Mean Long-Term Indices of
+Heat and Moisture Supply of Spring-Sumner Growing Season According to Data of
+Meteorological Stations in Krasnodarskiy Kray
+
+Rayon center, )’ K3 T'c T/To KT KB'KT centners,
+meteorological hectare
+station
+
+Belaya Glina 0.51 0.76 14.0 0.78 0.88 0.67 23.5
+Kanevskaya 0.57 0.82 13.5 0.75 0.85 0.70 29.6
+Tikhoretsk 0.61 0.85 13.5 0.75 0.85 0.72 26.3
+Korenovsk 0.69 0.90 13.7 0.76 0.86 0.77 38.4
+Slavyansk-na-
+
+Kubani 0.74 0.93 12.9 0.71 0.80 0.74 31.1
+Ust'-Labinsk 0.70 0.91 13.9 0.77 0.87 0.79 40.1
+Krasnodar '
+
+(Kruglik) 0.63 0.87 14.1 0.78 0.88 0.76 35.9
+Krymsk 0.68 0.90 13.4 0.74 0.84 0.75 33.1
+Maykop 0.68 0.90 13.4 0.74 0.84 0.75 28.7
+
+It is evident that an evaluation of productivity using equations (6). (10) and
+(11) is not comprehensive and complete because it does not take into account
+the dynamics of moistening and heat supply during the course of the growing
+season and does not take into account the probability of wintering of winter
+crops and the possibilities of frosts, the difference in nighttime and daytime
+temperatures, etc. This does not discredit the proposed principles for evalu-
+ating productivity. An evaluation using equations (6), (10) and (11) on the
+basis of the mean indices of the growing season is more detailed than mean
+annual evaluations, but is not the last degree of detail: each of the enumerat-
+ed factors can be taken into account and included in the computations in
+
+20
+FOIIOFFKJA1.UBIIMNLY
+accordance with equation (9). This requires a clarification of the influence
+of an individual factor on productivity, as was done by A. I. Korovin. et a1.
+with respect to frosts [3].
+
+He can add to the hydrothermal characteristic of productivity still another
+characteristic related to illumination (see equation (7)), but it will not
+have great practical importance because the agricultural zones of the coun-
+try are adequately supplied with light. This characteristic is of signif-
+icance in the case of cultivation of crops under a glass cover, when it is
+necessary to compare the energy expenditures on illumination and the antic-
+ipated increment of production. The illumination factor is interesting with
+respect to the influence of solar activity on the productivity of plants, but
+the lack of clear criteria of this factor and especially its quantitative
+correlations with productivity at present does not make possible its use in
+computations. although equation (9) in principle affords such a possibility.
+
+In order to check the procedures which we have proposed for evaluating produc-
+tivity on the basis of equation (11), we carried out computations for winter
+wheat using data from several meteorological stations located in Krasnodarskiy
+Kray. a rather uniform region favorable for agriculture. and compared these
+computations with the actual productivity, crop yield.
+
+The results given in Table l and in Fig. 6 show that the high yields of win-
+ter wheat in the Ust'-Labinskiy Rayon and the relatively low yields in Belo-
+glinskiy Rayon are regular and attributable to the characteristics of moisten-
+lng and heat supply. One should not expect from the grain farmers in Belo-
+glinskiy Rayon the same production as in Ust'-Labinskiy Rayon. The results also
+indicate that the yields in Haykopskiy and Tikhoretskiy Rayons are 5-6 centner/
+hectare below the level governed by their heat and moisture supply. The at-
+tainment of this level is possible with an increase in soil fertility and
+
+an upgrading of the crop cultivation system.
+
+Summary
+
+I. The productivity of agricultural crops. a target, the criterion of optimal—
+ity of agricultural production -- can be represented mathematically as a func-
+tion of many variables, the complex interrelationships between which do not
+make it possible to represent it in explicit form suitable for specific com-
+putations.
+
+2. With a good and satisfactory supply of agricultural crops with growth con-
+ditions suitable for production the correlation between productivity and an
+individual factor is expressed by a family of similar curves, each of which
+corresponds to a definite level of assurance of other factors.
+
+3. The uniform geometric similarity of the family of curves relating produc-
+tlvity and an individual factor makes it possible to represent them by a gen-
+eralized function. and the general problem of expressing productivity as a
+
+function of many variables can be divided into special problems for individ-
+
+ual factors and it is possible to give a quantitative evaluation of the influ-
+ence of each of them.
+
+21
+
+FOI1DFFKJA1.0881MVLY
+FOR OFFICIAL USE ONLY
+
+10. The cited conputations on the principal meteorological factors — heat and
+moisture supply -- make it possible to evaluate the actual and poaential pro-
+ductivity of crop cultivation in different land use areas at the level of
+cadastral regions.
+
+The author expresses appreciation to Ye. M. Chirk and D. I. Shsshko for con-
+sultations and assistance in carrying out this study.
+
+BIBLIOGRAPHY
+
+l. Boyarinov, A. I. and Kafarov, V. V., MB‘I'ODY OPTIMIZATSII V KHIMICMESKOY
+TEKIINOLOGII (Optimization Methods in Chemical Technology), Moscow. Khim—
+iya, 1975.
+
+2. Vil'yans, V. R., OSNOVY ZMEDELIYA (Principles of Crop Cultivation), Mos-
+cow. Sel'khozgiz. 1939.
+
+3. Korovin, A. 1., Msnayev, Ye. V. and Mokiyevskiy, V. M., OSENNE-VESEMNIYE
+USLOVIYA POCODY I UROZHAY OZIMYKH (Autumn—Spring Weather Conditions and
+the Yield of Winter Crops), Leningrad, Gidroueteoizdat, 1977.
+
+la. Lenan, V. M., KURS SVETOKUL'TURY RASTENIY (Course on Illumination Condi-
+tions for Plants), Moscow, Vysshaya Shkola, 1976.
+
+5. Mezentsev, V. 8.. RASCHET VODNOGO BALANSA (Computation of the Water Bal-
+ance). Omsk. 1976.
+
+6. OSNOVY ZEMEL'NOGO ZAKONODATEL'STVA SOYUZA SSR I SOYUZNYKH RBSPUBLIK
+(Principles of Land Legislation for the Soviet Union and Union Republics),
+VBDOMOSTI VERKHOVNOGO SOVETA SSSR, No 51, 1968.
+
+7. Skalaban, V. 0., "Methods for Evaluating Moisture Supply of Lands in a
+System for Natural-Agricultural Regionalization and Classification of
+Land Resources in the USSR, " SB. 'I'RUDOV 61le (Collection of Transactions
+of the State Institute of Land Resources), No 20, 1978.
+
+8. Sudnitsyn. I. 1., DVIZ'IENIYB POCHVENNOY VLAGI I VLAGOPUIRBBLBNIYE RASTENIY
+(Movcnent of Soil Moisture and Moisture Supply of Plants), Moscow, Izd-vo
+MGU, 1979.
+
+9. Hedi, B. and Dillon, 0., PROIZVODSTVENNYYE PUNK‘I'SII V SBL'SKOM KHOZYAYSI'VE
+(Production Functions in Agriculture), Moscow, Progress, 1965.
+
+[0. Shabanov, V. V., BIOKLIMATICHESKOYB OBOSNOVANIYE HELIORATSIY (Bioclinatic
+Basis of Melioration), Leningrad, Gidroneteoizdat, 1973.
+
+ll. AGROFIZICHESKIYB, AGROME‘I‘BOROLOGICIIESKIYE I AGRO’IKKHNICHESKIYE OSNOVY PRO-
+CWIROVANIYA UROZHAY (Agrophysical, Agrometeorological and Agrotechnical
+Principles of Yield Programing), Leningrad, Gidroueteoizdat, 1980.
+
+12. Shashko, D. 1.. AGROKLIMATICHESKOYE RAYONIROVANIYE SSSR (Agroclilatic Re-
+gionalization of the USSR), Moscow, Kolos. 1967.
+
+22
+FOR OFFICIAL USE ONLY
+UDC 551.510.36:551.501.793+551.507.362.1
+
+METHOD FOR MEASURING VERTICAL OZONE DISTRIBUTION BY OPTICAL METHOD 0“
+METEOROLOGICAL ROCKETS ,
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No lo, Apr 82 (manuscript received
+11 Jun 81) pp 100-105
+
+[Article by N. I. Brezgin. Central Aerological Observatory]
+
+[Abstract] Since 1973 specialists at the Central Aerological Observatory have
+been carrying out investigations of the vertical distribution of ozone by an
+optical method using meteorological rockets. Here the author describes the
+method for computing the vertical distribution of ozone on the basis of observ—
+ations of the absorption of UV solar radiation. This is accompanied by a com-
+parison of different methods for determining ozone content by the optical neth-
+od employed by various authors (N. P. Bobkov, (TRUDY 1P6. No 23. 1975; a. K.
+Paetzold. et al., BEITR. PHYS. ATMOSPHARB. Bd 35, BE. 1/2. 1961; R. G. Roble,
+et al., PLANET SCI.. Vol 20. 1972). as well as investigation of the error in
+measuring the vertical distribution of ozone by the optical method. The ele-
+ments and characteristics of the MR512 and “-100 aeteorological rockets most
+important for evaluating the measurement errors are examined. The statistical
+tests reported here revealed that the photometers and aethods for computing the
+vertical distribution of ozone developed for the MR-lZ and M-lOO meteorological
+rockets in fact make it possible to determine ozone content in the altitude
+range from 20 to 60 km with an error of 10-301. The several comparisons of both
+the optical and electrochemical methods revealed that there was a good quanti-
+tative and qualitative agreement of the results of measurement of the vertical
+distribution of ozone for both the middle and equatorial latitudes. Figures 3,
+
+tables 1; references 16: 9 Russian. 7 western.
+
+23
+
+INNICIHNCIAI.USIIHTLY
+FIHlCNﬂNCJAL.USEIDNL¥
+
+UDC 551.513.l
+
+AVAILABLE ATMOSPHERIC POTENTIAL ENERGY AND ITS TRANSFORMATION INTO KINETIC FORM
+
+Moscow HEIEOROLOGIYA I GIDROLOGIYA in Russian No 6. Apr 82 (manuscript received
+11. Aug 81) Pp 106-116
+
+[Article by N. Z. Pinus, professor, Central Aerological Observatory]
+
+[Abstract] As early as 1903 H. Hargules demonstrated that in principle only
+some part_of the total potential energy can be transformed into kinetic energy;
+in 1955 Er N. Lorenz pointed out that that part of the total potential energy
+which only in principle can be transformed into kinetic energy can be called
+"availablb potential energy." This is the maximum possible quantity of total
+potential energy available for transformation into kinetic energy in a consid-
+ered closed system. It is not only the quantity of heat entering the atmosphere.
+but also the degree of spatial nonuniformity of heating (or cooling) which is
+important for the generation of kinetic energy and the maintenance of atmo-
+spheric movements of the corresponding (synoptic or larger) scale. This review
+of the su ject is based exclusively on the foreign literature. The following
+are exami ed: equation of available potential energy, button-Johnson formula,
+quantitative evaluations of global available potential energy; budget of avail-
+able potential energy; generation of available potential energy and its trans-
+formation into kinetic energy; budget of available potential energy for an un-
+closed system in a limited area; quantitative evaluation of generation of avail-
+able potential energy in middle-latitude cyclones; sources of generation of at-
+mospheric kinetic energy; generation of available and kinetic energy in cyclon-
+ic formations and in system of general circulation of atmosphere. A series of
+tables gives such data as: generation of kinetic energy in cyclones (in develop-
+ing, mature and occluded stages); generation of kinetic energy in anticyclones.
+The presented materials make clear the the important role of the energetics of
+middle-latitude cyclones for the energetics of total circulation of the atmo-
+sphere and the complexity of energy transformations. Tables 7; references: 22
+Russian.
+
+24
+
+IIIICIHHC1A1.USEGINLV
+REVIEW OF MONOGRAPH BY I. V. BUSALAXEV: 'COMPLEX HATER MANAGEMENT SYSTEMS
+(METHODS FOR HYDROLOGICAL VALIDATION, MODELING AMD OPTIMIZATION OF DECISIONS)'
+(SLOZHNYYB VODOKHOZYAYSTVEMNYYE SISTEMY (MBTODY GIDROLOGICHESKDGO OBOSNOVANIYA,
+MODELIROVANIYA I OPTIMIZATSII RESHENIY)). ALMA-ATA, "MAUKA." 1980, 230 PAGES
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 6, Apr 82 pp 117-119
+
+[Review by c. c. Svanidze, corresponding member. USSR Academy of Sciences]
+
+[Abstract] The reviewed monograph is devoted to the timely problem of construc-
+tion of water management structures: hydrological validation, modeling and op-
+timization of the parameters of complex water management systems in the basins
+of major rivers. The author approaches solution of this problem by applicatic~
+of systems analysis and mathematical programming. The first two chapters, on
+the basis of an analysis of the structure and trends in the development of
+water management, give a formulation of the methodological principles for
+
+the optimum planning of water management systems. A hierarchical system of
+models taking in all the principal aspects of formation of complex water nan-
+agement systems is proposed. It is said that this is the very first examination
+of the problem in its full breadth and on a unified methodological basis. The
+third and fourth chapters examine methods for optimization of the parameters of
+the water management system in a river basin and also models related to the
+territorial redistribution of runoff. The fifth and sixth chapters are devoted
+to the formulation of models of natural conditions, such as local relief and
+river runoff. Methods and modeling algorithms developed for the most part by
+the author himself are outlined. The seventh chapter deals with the data sup-
+port for the adopted decisions.
+
+25
+IMHICHNNCIAI.USElH‘LY
+PW WIN—IA]. 08b (INL'
+
+ACTIVITIES AT USSR STATE COMMITTEE ON MYDROMETBOROLOGY AND ENVIRONMENTAL
+MONITORING
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 4, Apr 82 pp 120-121
+[Article by G. K. Veselova]
+
+[Abstract] The Central Methodological Commission on Hydrometeorological Fore-
+casts held a meeting on 9 December 1981 for discussion of reports by repre—
+sentatives of various agencies on the results of testing and adoption of new
+forecasting methods. The commission approved a method for the short-range
+forecasting of meteorological conditions for atmospheric contamination devel-
+oped at the USSR Hydrometeorological Center. Tests have revealed that the
+probable success of qualitative forecasts for 12-2h hours in advance was 84-87%
+and for 36 hours in advance -- from 77 to 822. Details concerning the method
+are outlined in TRUDY GIDROMETTSENTRA SSSR, No 220. 1980. The commission also
+approved synoptic-statistical methods for background and detailed forecasts of
+the mean monthly air temperature anomaly for western Siberia developed at the
+Rest Siberian Scientific Research Institute. The methods are based on joint
+allowance for various kinds of information on the preceding history of develop-
+ment of atmospheric processes, some characteristics of the underlying surface
+and solar activity. The background forecast is prepared using correlation
+curves and characterizes the most probable class of temperature anomalies in
+Western Siberia. The detailed forecast is computed using multiple regression
+equations for 15 points in Western Siberia. The fundamentals of the method
+
+are published in TRUDY ZSRNIGMI. No 62, 1979. On an interim basis the commis-
+sion allowed the Heat Siberian Administration of Hydrometeorology and Environ-
+mental Honitoring to make routine use of a physicostatistical method for pre-
+dicting the mean monthly air temperature anomaly and the monthly precipitation
+totals during 1982-1983. The method is based on a multiaspect evaluation of
+
+the significance of prognostic criteria characterizing the initial state of the
+atmosphere-ocean—continent system. The principles of this method were published
+in TRUDY ZSRNICMI. No 35, 1978. A similar method is also to be tested for the
+southern part of Western Siberia, but in this case for the months of June-July.
+rather than April-July. This variant is described in TRUDY ZSRNIGHI. No 31,
+1977. The commission also recommended continued (1982-1983) testing of a meth-
+od for predicting droughts in the European USSR and Kazakhstan. Also discussed
+and approved was a method for predicting thunderstorms for 12 hours in advance
+- a method published in TRUDY GIDROHETTSENTRA SSSR, No 185, 1977.
+
+26
+
+FOIIO'IICIAI.IIIE¢MNLY
+CONFERENCES. MEETINGS AND SEMINARS
+Moscow HBTEORDLOGIYA I GIDROLDGIYA in Russian No 6, Apr 82 pp 121-123
+{Article by G. N. Chichasov]
+
+[Abstract] A conference on "Investigation of Interaction of Heso- and Macro-
+processes in the Atmosphere and Application of Statistical Methods in Meteor-
+ology" was held at Alma-Ata during the period 20-23 October. A total of 123
+reports were presented. Summaries of all the reports were published (TEZISY
+VSESOYUZNOY KONFERENTSII. Alma-Ate, FOL KazUGKS, 1981, 103 pages). The article
+cited above summarizes some of the most interesting reports (only a few lines
+or brief paragraph is devoted to each). Examples of the reports presented are
+as follows: Ye. M. Dobryshman, et al. -- on macroscale statistical character-
+istics of the global surface pressure field; Ye. P. Borisenkov. et al. -- on
+statistical analysis of different schemes for superlong-range forecasts of
+
+the air temperature anomaly for the northern hemisphere; V. P. Heleshko - on
+the influence of processes in the atmospheric boundary layer on the formation
+of macroscale climatic characteristics; H. I. Yudin -— on determining the qual-
+ity of meteorological information and the maximum possible effect of its use;
+Ye. Ye. Zhukovskiy -- on effective use of forecasts for different times in ad-
+vance; N. A. Bagrov -- on combining several forecasting methods; A. P. Belyshev
+-— on methods for correlation and spectral analyses of time series of wind vel-
+ocity in invariant form; V. Ye. Prival'skiy - on stochastic models and predict-
+ability of macroscale processes in the atmosphere and hydrosphere; L. T. Hat-
+veyev -- on the global cloud cover field (statistical analysis and applica-
+tions); A. A. Girs, et al. -- allowance for persistent trends and probabilis-
+tic characteristics and background forecasts; K. Ya. Vinnikov, et al. -- on
+
+the monitoring of changes in the global thermal regime of the northern hemi-
+sphere for the analysis and prediction of recent climatic changes; V. I. Vor-
+ob'yev -- seasonal features of distribution of clouds of different genera in
+the northern hemisphere on the basis of satellite data; V. V. Penenko -- on
+applications of methods of the theory of response in weather and climate fore-
+casting; A. S. Ginsburg, et al. -— on numerical modeling of moist convection;
+V. Z. Kisel'nikova, et al. -— method for numerical hydrodynamic local weather
+forecasting; S. A. Vladimirov -- on numerical modeling of fronts and their
+cloud systems; I. P. Kapitanova. et al. -- on energetic and kinematic features
+of temperate-latitude cyclones; V. I. Ivanov, et a1. -- on some types of inter-
+action of processes at different scales in tropical atmosphere: !h. A. Akhmed-
+zhanov -- on the role of mesometeorological processes in the forming of gen—
+eral circulation of the atmosphere; D. h. Sonechkin -- on development, realiz-
+ation and results of testing of spectral objective analysis of meteorological
+
+fields for the northern hemisphere.
+27
+
+F0!!0FFKJAI.USE¢INLY
+FOR OFFICIAL USE ONLY
+
+NB" SALINITY SCALE AND NEW EQUATION FOR STATE 01’ SEA WATER
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 4. Apr 82 pp 123-125
+' [Article by 0. I. Hauyev]
+
+[Abstract] A group of UNESCO experts in the field of oceanographic tables and
+standards net at Sidney. British Colunbia. during the period 1-5 Septenber
+1980 and-adopted important reconendations on the introduction of new ocean-
+ographic standards: practical salinity scales (1978) and international equa-
+tion for the state of sea water (1980). Constituting the product of 15 years
+of work, it was proposed that the recomendations become effective on 1 Janu-
+ary 1982. (See TENTH REPORT OF m Jonrr PANEL ON OCEANOGRAPHIC TABLES AND
+STANDARDS, Sidney, B. c., Canada, 1-5 September 1980, sponsored by UNESCO,
+ICES. SCOR. IAPSO, UNESCO Technical Papers in Marine Science, No 36, 1981.)
+Both the official docments resulting from this nesting were published in
+OKEANOLOGIYA (Oceanology), No 2, 1982. This article sumarizes the UNESCO
+publication. It is noted that nunbers 37 and 38 of the TECHNICAL PAPERS will
+contain the technical docunentstion and measure-en: data serving as a basis
+for the standards. Nuaoers 49 and 40 will contain Volumes 3 and 6 of the
+"International Oceanographic Tables," devoted to the conversion of conduc-
+tivity into salinity and vice versa, as well as computation of the density of
+sea water and other related parameters. such as the speed of sound, and each
+section will contain determinations of the functions and the algorithms for
+their computation, examples of the progress in FORTRAN and concise tables of
+oceanographic data.
+
+28
+
+roe OFFICIAL [BE ONLY
+NOTES FROM ABROAD
+Moscow METEOROLOGIYA I GIDROIDGIYA in Russian No (6, Apr 82 pp 125-128
+[Article by V. A. Znamenskiy and B. I. Silkin]
+
+[Abstract] In 1981 UNESCO issued Volume I of METHODS OF CMUTATION OF THE HATER
+BALANCE 0? LARGE LAKES AND RESERVOIRS. This manual, briefly reviewed here, de-
+scribes methods for deter-lining individual balance components, criteria for
+determining the quantity of precipitation by radars and gives details on con-
+puting the quantity of precipitation by indirect methods. Other sections are
+devoted to the use of data on water masses for computing the balances of chen-
+ical and contaminating substances entering water bodies, use of evaporators of
+different types. turbulent diffusion, water- and heat balance methods. Volume
+II, prepared by Russian and Canadian specialists, will give the requirements
+on initial intonation necessary for the coaputations, a description of pro-
+cedures for computing the balance and its components in specific and abstract
+examples, empirical methods for checking the correctness of computation of
+water balance elements and netth for using the water balance for evaluating
+the balance of cheaical substances. A special section gives a review of the
+water balances of lakes and reservoirs prepared using data from 42 countries,
+all these data being systenatized by continents for lakes with areas of more
+and less than 500 In? and for reservoirs.
+
+in
+
+It is reported in CLIMATIC CHANGE. Vol 3, 1981, and NE" SCIENTIST. Vol 91. No
+1274. 1981. that the researcher N. Rosenburg, a professor at the University
+of Nebraska, has made interesting studies of the influence of 002 accumulat-
+ing in the atmosphere as a result of human activityon vegetation. It ap-
+pears that "group C3" crops, such as rice. oats, wheat, sugar beets and soy-
+beans, are most sensitive to the content of (20:, which favors a rapid increase
+in their green lass. Sugar cane. sorghum, corn and nillet. in "group C1,," also
+undergo an activation of photosynthesis processes under the influence of an
+increase in the quantity of 602, but to a lesser degree. The pores in the
+leaves of "ca" plants are closed to a greater degree with an increase in 002
+and this results in a reduction in moisture and gas exchange with the atmo-
+sphere and plants in both groups have an increased efficiency in using water.
+An increase in atnospheric C02 content, predicted for the next 50 years, even
+if it leads to appreciable climatic changes, should exert a direct positive in-
+fluence on the growth of may plants.
+
+it
+
+29
+mammouu
+FOR¢MﬂﬂCJAl.USE(NQLY
+
+1n NATURE, V01 291, 1981. and NEW SCIENTIST, Vol 91, No 1262, 1981 it was re-
+
+ported that the Australian geologist c. 1. Williams, in studying niltstone and
+sandstone deposits in the Plinders Range, discovered easily discernable evi-
+dence of a periodicity coinciding with solar activity cycles. Since the age
+
+of these rocks dates back to the Precambrian, they can be used in judging
+
+the course of solar activity and its influence on climate. At that tine it
+appears that the cyclicity of solar activity was the sane as now but its in-
+fluence on meteorological processes was greater than at the present time. A
+l80-year series indicates that the cycles were repeated on the average each
+11.2-11.3 years, whereas the record for the last 203 years indicates that the
+mean period between solar ninima is 11.1 years and between naxina is an aver-
+age of 10.9 years. The Flinders deposits also reveal evidence of a 22-year
+cycle of solar spot-forming activity. During the 22 years the magnetic field
+first changes its direction and then returns to the initial direction. A 90—
+year cycle is also reflected in these deposits. It was possible in this way to
+trace solar activity over the course of 1760 years. A hypothesis was advanced
+explaining why solar activity exerted such an influence on weather and climate
+700 million years ago and why its effect has now greatly diminished. The geo-
+logical evidence from the Flindera Range indicates that during the last 700
+million years solar activity has remained virtually at the same level.
+
+30
+
+FOI10FFKJAI.USE(HNLY
+OBITUARY 0F RUVIM LEYZBROVICH KAGAN (1928-1981)
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 4. Apr 82 p 128
+
+[Article by a group of associates]
+
+[Abstract] Ruvim Leyzerovich Kagan. doctor of physical and mathematical sci-
+ences. a leading specialist in the field of statistical meteorology, died on
+
+5 October 1981. Leyzerovich devoted 30 years of his life to the field of
+meteorology. 25 of them being spent at the Main Geophysical Observatory. His
+career began as a weatherman in Central Asia in 1951 after his graduation from
+the Physics Faculty of Leningrad University. After loving to the Main Geophys-
+ical Observatory in 1955, he carried out a series of investigations of the in-
+fluence of stratification on the dynamics of macroscale atmospheric movements,
+work which led to receipt of his candidate's degree in 1960; his doctoral de-
+gree was awarded in 1968 for his investigations in the field of interpreta-
+tion of meteorological observations. His monograph STATISTICHESKIYZ HETODY IR-
+TERPRETATSII METEOROLOGICHESKIKH DANNYKR (Statistical Methods for the Inter-
+pretation of Meteorological Data) was published in 1976. His fundamental stud-
+tea in the field of the stochastic theory of averaging were generalized in
+
+the monograph OSRBDNENIYE METEOROLOGICHESKIKH FOLEY (Averaging of Meteorolog-
+ical Fields), the only monograph ever published on this subject. The author
+
+of more than 150 scientific studies, he made significant contributions in the
+development of the method for the climatological processing of data and the
+development of methods for computing climatic characteristics for the purposes
+of monitoring climate and solving practical problems.
+
+COPYRIGHT: "Meteorologiya i gidrologiya". 1982
+
+S303 - END -
+C50: 1864/10
+
+31
+FOI‘OIFKJAI.UBE¢MULY

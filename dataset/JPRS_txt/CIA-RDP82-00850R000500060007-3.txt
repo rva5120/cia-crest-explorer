@@ -1,0 +1,1536 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10494
+
+5 May 1982
+
+Worldwide Report
+
+TELECOMMUNICATIONS POLICY,
+RESEARCH AND DEVELOPMENT
+
+(FOUO 10/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+HORLIMIDE REPORT
+TELEcomONIOATIONs POLICY, RESEARCH AND DEVELOPMENT
+
+(2000 10/82)
+
+CONTENTS
+
+WORLDWIDE AFFAIRS
+
+INTERNATIONAL AFFAIRS
+
+Briefs
+Telecon 1 Operational in 1981: 1
+ASIA
+JAPAN
+Laws on Citizens 'Band, Computer Connections Revised
+(NIKON KEIZAI SHIEUH, 19 m 82) ooee-eoeeoeOe-oeoocnaoco-oo 2
+MI'I'I , Postal Service Head for ’ Second Round' Over Communications
+(MNICHI SW, 20 M” 82) RIOOOOCOOOOII.0.000.000.0000... 8
+Industry Starts Preparations for Data Commications Role
+(NIKON KEIZAI SHIMBUI, 20 Mar 81) ........................... 11
+Further Discuss ions on Data Commications Urged
+(YOMIURI SHIMBUI, 2h Mar 82) ................................ 1h
+LATIN AMERICA
+NICARAGUA
+Briefs
+Radio, TV Agrealent With Cuba 17
+SUB-SAHARA]! AFRICA
+SEYCHELLES
+Briefs
+Expanded Radio Programing 18
+
+- a - [III - ww - 140 2000]
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+WEST MCI-’3
+INI‘ERNATIONAL AFFAIRS
+
+BCS Satellite To Provide Regional TV Transmission
+(mmcosm. 30.181182) ..OIOOOOOOIOOOO......OOIOOIIIIOOOO
+
+Briefs
+Astrometry Satellite by MATRA
+Canadian, Arianespace Agreement
+
+FRAJ'CE
+
+New Report Compares Automation, Productivity, Unuployment
+(Claude Salman; ZERO UN INFORMATIQUE, Mar 82) .........
+
+ITALY
+
+Lauuching of 'ItaJsat' Planned for Late 1987
+(Pierre Langereux; AIR m 008108. 27 Sep 81) ................
+
+UNITED KINGDOM
+
+Home Secretary Whitelaar Announces Satellite TV Plans
+(THE Tm, 21 Apr 82) ....I000...........IIOUI0000090IOOO...
+
+-b-
+
+FOR OFFICIAL LEE ONLY
+
+19
+
+30
+
+33
+BRIEFS
+
+Tchucon l OVEKATIUNAL 1N 1984--The first national network for satellite
+tional in March 1984. This 15 million
+
+telecommunications, Telcon 1 should be opera
+francs program covers the construction of three satellites. two of which should be
+
+launched in mid- or end-I983 (see article p #0). These satellites will have a
+triple payload, including four “-6 CH: repeaters for domestic connections with
+Dom-Tom (Antilles—Guyana, Reunion. and so on). six 12—14 6H2 repeaters for
+intro-enterprise connections in France and Europe. and two 7-8 CH: repeaters for
+
+military and governments 1R ET COSMOS
+No 879). The ground network devoted to intra-enterprise connections could include
+
+about 300 stations (with 3-5 m-dianeter antennas), which wi
+
+(Hail, Telegraph, and Te
+Telecom I program. PTT has
+stations to about 8000 terminals.
+anticipates 150-200 stations in France.
+will be intended for Europe. Agreement
+Genuany, and others are being negotiate
+The Telecon l systea. PTT admits, could
+States through Intelsat satellites or Eu
+Telecon l satellites are designed for a
+
+i990. But PTT is already studying their successor.
+Tejccom 2, or a European Eutelsat i. In any case. it is expected that these future
+
+satellites will operate simultaneously at frequencies of [2-16 GHz and 20-30 GHz,
+
+with reutilization of frequencies and shaped-bean antennas. {Text} [Paris AI“ ET
+A. a C. 1982] 11,023
+
+COSMOS in French b Mar 82 p #3] lCOPYRIGHT:
+
+serving some 3000 users in France and Europe. PTT
+
+Frau its inception. the Telecom 1 network
+
+s have in fact already been reached with
+
+d with the European organization Butelsat.
+eventually even be connected to the United
+
+ture optical fiber underwater cables. The
+lifetime of seven years. which leans until
+which could he either a national
+
+050: 5500/2157
+
+1
+
+FOR OFFICIAL USE GEL!
+LAHS 0N CITIZENS'BAID.COMPUTER CONNECTIONS REVISED
+Tokyo NIKON KEIZAI SHIHBUN in Japanese 19 Her 82 pp 1, 3
+
+[Text]
+
+The Government, at a Cabinet meeting held on the 19th, decided on a
+penmission and approval one-package readjustment bill (administrative tasks
+simplification and rationalization bill). The purpose of the bill is to
+materialize the second recommendation formulated by the Second Provisional
+Administrative Affairs Research Council (Chairman: Toshio DOKO). This
+is the second package bill concerning the Research Council's reconnnndation,
+after the Administrative Reform-Connected Special Exceptions Law. It
+includes the permission and approval readjustment bill, drawn up
+separately from the Research Council's recommendation, and also the
+laws and ordinances readjustment bills shelved at the previous Diet session.
+
+it calls for dealing with the revising or abolishing of a total of 355
+laws on a one-package basis.
+
+The second recommendation calls for the readjustment of 2“ items
+which require permission or approval. In order to carry it out, it is
+necessary to revise l7 laws. The Road Vehicle and Transporation Law
+revision bill for the purpose of extending the period between regular
+intervals for the inspection of automobiles and the Radio Waves Law
+revision bill calling for abolition of the license [system] for the
+establishment of citizens'bands (a kind of transceiver) have become single,
+independent legislation, in view of the purports of the respective Laws
+and because of the problem of legislative techniques. Thereﬁore, the
+package bill covers 15 laws, including a Passport Law revision [bill]
+calling for expansion of the scope of applications by proxy for the
+issuance of passports and a Public Tele-Communications Law revision bill
+which will generally liberalize the use of data communications circuits.
+
+In regard to the readjustment of permission and approval, the
+l,lu7-case readjustment plan, on which the AdministratiVe Hanagement
+Agency. from its own standpoint, has been carrying out co-ordination with
+various other Ministries, has been formulated, besides another plan
+based on the Research Council's recommendation. Eight laws, including a
+
+Monopoly Law revision [bill] calling for extending the period for the
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+designation of tobacco and salt retailers, have been added to it.
+Moreover, the laws and ordinances readjustment bills for the purpose of
+abolishing laws, which exist in form only, and which have become
+unnecessary, have been unified, too. In this connection, there are 332
+laws excluding those which are overlapped. Therefore, the revising or
+abolishing of a total of 355 laws uill be handled on a one-package basis.
+
+At the very beginning, the Administrative Management Agency had planned to
+have [the package bill] decided by the Cabinet by the l2th. But co-ordination
+between the Postal Services Ministry and HITI on the liberalizing of
+data communications had hard sailing, and [the reaching of a decision]
+slided into the 19th. The bill will be submitted to the Diet even on
+the 23rd. Deliberations will be conducted at the Cabinet Committee,
+because the Administrative Reform Special Committee has not been set up,
+as in the case of the previous Diet session.
+
+Gist of Permission and Approval Readjustment Bill
+
+following is the gist of the permission and approval one-package
+readjustment bill decided at the Cabinet meeting on the 19th:
+
+Fair Trade Commission: Paragraph 2, Article 6 of the Anti-Monopoly
+Law: In regard to the kinds of agreements or contracts (such as contracts
+for borrowing of money and loaning of money), which, it is thought,
+will hardly raise any problems, from the standpoint of the Anti-honopoly
+Dan, the submitting of reports shall be made unnecessary.
+
+National Public Security Commission: Paragraph 3, Article 2 of the
+Law Concerning Control over Business which May Affect Public horality:
+The period of renewal as to the licenses for the operation of game centers.
+such as pin-ball houses and mah-jong parlors, shall be extended from
+the present six months to one year.
+
+Administrative Management Agency: Paragraph 2, Article 10 of the
+Statistics Law: With regard to statistics superintendents, a part
+
+(stationing of statistics superintendents in cities, towns, and villages) of the
+established restrictions shall be abolished.
+
+Foreign Ministry: Article 3 of the Passport Law: In applying for
+the issuance of a passport, when the application is submitted through
+the spouse of the applicant or through a relative within the second
+degree of consanguinity, the application shall be accepted in case
+
+the submitting of an application is not regarded as being difficult,
+for unavoidable reasons.
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Finance Ministry: (1) Paragraph 1, Article 32 of the Tobacco
+honopoly Law: The period of designation as to retailers of manufactured
+tobacco shall be extended from the present within three years to within
+five years.
+
+(2) Paragraph, Article 65 of the same Law: With regard to appliances
+in the appliances and machinery for the production of manufactured
+tobacco, there shall be no need to obtain approval, for example.
+in the case of their being manufactured.
+
+(3) Paragraph 1, Article 26 of the Salt Monopolv Law: The period of
+designation as to salt sellers shall be extended from the present within
+three years to within five years.
+
+(u) Article 17 of the Sugar Consumption Tax Law: As regards the clar—
+
+ification of tax exemption as to the transfer of sugar, etc., without
+;aying taxes, it shall be clarified only when this is deemed particularly
+necessary, from the standpoint of securing taxes.
+
+(5) Paragraph 3, Article 8 of the Playing-Card Tax, Etc., Law:
+In ccnncction with playing-cards, etc., to be used as samples, [the system
+for obtaining] the tax office superintendent's or the customs—house
+
+superintendent's approval for exemption from the application of the Law
+shall be abolished.
+
+(6) Article lu of the Petroleum Gas Tax Law: The tax-exemption
+clarification system shall be abolished, in regard to the imposition of a
+tax on petroleum gas concerning the tax-free transfer thereof.
+
+(7) Article ion of the National Tax-Collection Law: In connection
+with the public sales of real estate, etc., persons, who make the second
+highest-priced bid, after the highest-priced bid, shall be designated
+as "applicants for buying it at the second highest price." and when the
+decision on sales to the highest-price bidder is withdrawn, sale to
+the "applicant for buying it at the second highest price" can be decided,
+instead of carrying out re-sales, and necessary procedures can continue
+to be taken as they are, after that.
+
+Education Ministry: (1) Paragraph 3, Article us of the School
+Education Law: In regard to the granting of permission by prefectural
+boards of education for the establishment or abolition of senior high
+
+schools which have curricula based on a wide-area correspondence system.
+the obtaining of the.Edueation Minister's approval shall read the
+submitting of reports.
+
+(2) Article 9-? of the Social Education Law: As regards assistant
+superintendents concerning social education, the established restrictions
+shall be abolished.
+
+h
+FOR OFFNJA1.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+welfare Ministry: (1) Article 20 of the Helfare Ministry
+Establishment Law: Quarantine stations can be forced to carry out
+inspection or guidance in regard to the imports of foodstuffs, additives,
+
+appliances, containers and packing materials, etc., which are put on
+sale, or which are used for business.
+
+(2) Article 8 of the Public Health Center Law: The welfare Minister's
+approval shall be abolished in the case of using such words as to mean
+
+public health centers, in the name of facilities other than public
+health centers.
+
+(3) Paragraph 2, Article 1 of the "Trachoma" Prevention Law:
+The system shall be abolished under which doctors will submit reports
+
+to the public health center directors concerned when they conduct check-ups
+on cases of trachoma.
+
+(u) Article 5 of the same Law: The established restrictions shall
+
+be abolished as to facilities concerning the prevention of trachoma
+and medical treatment.
+
+(5) Article u of the Helminthiasis Prevention Law: The established
+restrictions shall be abolished with regard to facilities concerning the
+prevention of and medical treatment for helminthiasis.
+
+(6) Paragraphs 1 and 2, Article 16 of the Venereal Disease Prevention
+Law: The established restrictions shall be abolished in regard to
+hospitals or clinics for conducting checkups on venereal disease.
+
+(7) Paragraph 5, Article 2 of the Law Concerning Masseurs,
+Chiropractors, Acupuncturists, Hoxa-cauterists, and Others: Examiners
+for the license to become massager-chiropractors, acupuncturists, or
+moxa-cauterists shall be unified with those for the license to become
+judo adjusters.
+
+(8) Article 3-3 of the same Law: In connection with massager-
+chiropractors, acupuncturists, and moxa-cauteriste, the system of
+reporting on (changes) in their addresses shall be abolished.
+
+(9) Paragraph 3, Article 6 of the Physicians Law: The annual report
+system shall be reformed. and reports shall be submitted once every
+two years .
+
+(10) Article in of the Law Concerning Medical Radiation-Rays
+Technicians and Medical X-Ray Technicians: In regard to medical X-ray
+
+technicians, the system of reporting on changes in their addresses shall
+be abolished.
+
+(ll) Article 7 of the Judo Adjusters Law: With regard to judo
+
+adjusters. the system of reporting on (changes) in their addresses
+shall be abolished.
+
+5
+FOR OFFICE“. USE ONLY
+(1?) Paragraph 1, Article 11 of the same Law: Examiners for the
+license to become judo adjusters shall be unified with those for the
+license massager-chiropractors, acupuncturists, or moxa-cauterists.
+
+(l3) Paragraph 3, Article 6 of the Dentists Law: The annual report
+
+system shall be changed. and reports shall be submitted once every
+two years.
+
+(1“) Paragraph 3, Article 7 of the Dental Hygienists Law:
+The annual report system shall be changed, and reports shall be submitted
+once every two years.
+
+(15) Paragraph 3. Article 7 of the Dental Technicians Law: The annual
+report system shall be changed, and reports shall be submitted once
+every two years.
+
+(16) Article 33 of the Law Concerning Health Nurses, Midwives. and
+
+Nurses: The annual report system shall be changed, and reports shall
+be submitted once every two years.
+
+(17) Article 9 of the Pharmaceutists Law: The anndal report system
+shall be changed, and reports should be submitted once every two years.
+
+Agriculture-Forestry-Fisheries Ministry: (1) Fertilizer Control
+Law: The established restrictions shall be abolished as to fertilizer
+inspectors.
+
+(2) Article 21 of the Veterinarians Law: The annual report system
+shall be changed, and reports shall be submitted once every two years.
+
+MITI: (1) Paragraph 1. Article lb of the high-Pressure Gas Control
+Law: In connection with changes in the manufacturing facilities of the
+Group A manufacturers, approval shall be shifted to reporting, with regard
+to small-scale changes which will raise no particular problem, from the standpoint
+of safety.
+
+(2) Paragraph 3, Article lu of the same Law: In connection with
+changes in the manufacturing facilities of the Group B manufacturers,
+there shall be no need to submit reports, with regard to small-scale
+changes which will pose no particular problem, from the standpoint of
+safety.
+
+(3) Article 181-8 of the Measuring Law: The validity term of
+designation as to special-container manufacturers shall be extended from
+the present three years to five years.
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+(k) Article 6 of the Electric Repair work Personnel Law: The established
+restrictions shall be abolished, with regard to examiners for the license
+to become electric repair work personnel.
+
+Transportation Ministry: Article 99 of the Road Transportation Law:
+The scope of trucks for private use, to be reported to the Transportation
+Minister in connection with the use thereof, shall be limited to trucks
+
+the maximum loading capacity of which exceeds the tonnage prescribed by
+the Transportation Ministry Ordinance.
+
+Postal Services Ministry: Article 55 of the Public Tale-Communications
+Law: The connection of computers to computers. which connection has
+not been approved so far, shall be approved under certain fixed conditions,
+and the establishment of diversified data communications shall be made
+possible through the mutual connection of computers. The connection of
+public communications circuits and specific communications circuits,
+Which connection will only be approved under an individual approval system,
+shall be liberalized. The public-specific-public connection. which has
+
+nOt been approved up until now, shall also be made possible under an
+individual approval system.
+
+Construction Ministry: Regulations Attached to the Architects Law:
+The selection system shall be abolished under which one can obtain an
+
+architect's license even if one does not undergo examinations for becoming an
+architect.
+
+Autonomy Ministry: Article l3-u of the Fire Defense Law: The established
+restrictions shall be abolished, with regard to examiners for the license
+to become personnel who handle dangerous objects.
+
+COPYRIGHT: Nihon Keizai Shimbunsha 1982
+
+C50: 5500/2168
+
+7
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+JAPAN
+
+MITI, POSTAL SERVICE HEAD FOR 'SECOND ROUND' OVER COWICATIONS
+Tokyo MAINICHI SHIMBUN in Japanese 20 Mar 82 p 9
+[Text]
+
+A Public Tale-Communications Law revision bill for the purpose of
+"liberalizing data communications,“ over which confusion ad been
+continuing between MITI and the Postal Services Ministry since the
+autumn of last year, was drawn up through the mediation of the LDP, and
+it was decided at a Cabinet meeting held on the 19th. It is expected
+to be submitted to the current Diet session.
+
+Data communications mean networks for tele—communications to be
+established thnough the use of circuits of the Nippon Telegraph and
+Telephone Public Corporation (NTT). At present, they are being used
+for on-line systems, including banks' cash cards and the National
+Railways' "Green (TN: First Class Ticket) windows." There are many
+restrictions on the use of such communications circuits; therefore,
+industrial circles have from before been requesting the liberalization
+thereof. Moreover, the Provisional Administrative Affairs Research
+Council also called for the liberalization of data communications.
+That is why the Postal Services Ministry finally started to take action
+and drew up its Public Tele-Communications Law Revision Bill, including
+the liberalization of the processing of on-line information.
+
+However, in regard to the proposed liberalization, how far the
+communications circuits should be liberalized, is a major problem.
+On that point, controversy has been continued between the Postal Services
+Ministry and MITI, during a long period of more than six months.
+
+From the viewpoint of outsiders, the contents of the controversy
+between the two Ministries are very difficult to understand, partly
+because they contain technical terminology. In the final analysis, however,
+the problem can be boiled down to the point of whether [the Government]
+should approve the free use of circuits by private circles through the
+liberalization thereof to the greatest possible extent, as called for
+by MITI, in order to cope with the development of information-processing
+services, or whether the contents should have a strong restrictive
+coloring, with importance attached to the public-utility nature. as proposed
+by the Postal Services Ministry.
+
+8
+FOR OFFKJAL.USE(MVLY
+FORCWTKJAL.USE(NVLY
+
+In other words, the stand of HITI is as follows: "The Postal Services
+Ministry's plan envisages too many restrictions and limitations, even
+while calling for liberalization. It is very far removed also from the
+Provisional Administrative Affairs Research Council's recommendation
+calling for the adoption of a negative-list formula (under which liberalization
+will be carried out as a general principle, while the scope of restrictions
+will be clarified to the minimum necessary extent)."
+
+The contents of the Revision Bill, agreed upon between the two
+Ministries this time, use such expressions as "it shall be based on the
+spirit of administrative refonm.“ When viewed as a whole. the direction
+of liberalization has been clarified. Also, in regard to use by others
+(which means that for the sake of enterprises which cannot have their
+own computers, information-processing enterprisers will lease circuits
+from NTT and sub-lease them to such medium and small enterprises through
+the establishment of an on-line system) who are medium and small
+enterprisers, which use was regarded as a problem pending between the two
+ﬂiuistrics, it will be apprchd under certain fixed conditions. Thus,
+the direction of liberalizing communications circuits has been generally
+clarified. A anl leader also emphasized the "general achievement,"
+saying as follows: "This marks one step ﬁorward." "I myself will rate
+it at 70 [Oiutu or so."
+
+however, when one carefully views the contents of the agreement,
+on: will find that they are "ambiguous." For example, in connection
+with use by others, they call for the imposition of.such restrictions as
+"it shall be limited to use by medium and small enterprisers who have
+close business connections," or "under certain fixed conditions." The
+contents of these restrictions are vague, and it will also become
+possible to strengthen the restrictive coloring through the establishment
+of a Ministry ordinance. Moreover, the expression "it shall be based
+on the spirit of administrative reform" shows the direction of permitting
+liberalization, but the degree will depend largely on the completely
+
+subjective judgment to be formed. As regards use by others. the
+agreement between the two Hinistries this time only takes the form of a
+provisional step, to the last.
+
+9
+FOR OFFICIAL USE ONLY
+When the agreement this time is likened taa meal. this can also be
+said to be a situation whereby the kinds and size of tableware have been
+decided, but whereby it is still no: clear what kind of food will be
+served. Therefore, in regard to the revising of the Postal Services
+MiniStry Ordinance for the purpose of deciding on the detailed contents
+of the agreement, a vigorous exchange of words is expected to be carried out
+between the Postal Services Ministry, which wants to carry it out, from
+its own basic standpoint, and HITI, which wants to promote the proposed
+liberalization, as far as possible, even during the current Diet session.
+Also, in regard to the final settlement of the problem of liberalizing
+data communications, which settlement, it is said, will be secured
+within the next one year, the second round of fierce offensive and defensive
+battles willprobably be continued between the Postal Services Ministry,
+which thinks it necessary to enact a new law which will recognize the
+State's right to grant approval and permission, and HITI which regards
+such a new law as unnecessary.
+
+(By reporter Shigeki NOR!)
+
+COPYRIGHT: Hainichi Shimbunsha 1982
+
+680: 5500/2168
+
+Goa
+
+10
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE. ONLY
+
+JAPAN
+
+INDUSTRY STARTS PREPARATIONS FOR DATA COMMUNICATIONS ROLE'
+Tokyo NIKON KEIZAI SHIHBUN in Japanese 20 Mar 82 p 1
+
+[Text]
+
+The Government, at a Cabinet meeting held on the 19th, decided on a
+“permission and approval one-package readjustment bill" which incorporates a
+reVision of the Public Tele-Communications Law for the purpose of
+liberalizing data communications. The bill will be submitted to the current
+Diet session. Big users and suppliers as to the data comunications system
+have already started to move simultaneously to provide for the proposed
+liberalization. The "Mitsubishi CC Research Council," composed of
+in major companies which are affiliated with the Mitsubishi group. has
+inaugurated two experts committees concerning communications technology and
+estimation of demand. Fujitsu EIP (with its Head Office in Tokyo [President:
+Heiji KIDA; capital: ¥2u0 million), a big information-processing services
+company, has also inaugurated a "Data Communications Circuits Project Team"
+within that company. Moves for connecting the effective use of data
+communications with a new business chance will probably be accelerated.
+
+The "Technological Experts Committee" and "Demand Experts Committee,"
+set up by the Hitsuibishi group. for the first time, will he participated in
+by Department Vice Chief- or Section Chief-level experts from the
+information-processing and communications sectors of the various companies
+concerned.
+
+To begin with, "joint use," in which data communications circuits will be
+leased and used jointly by a plural number of enterprises, is expected
+to be shifted from the present "banned in principle" to "liberalization
+in principle." Therefore, the Technological Experts Committee is scheduled
+to study what kinds of technology will become necessary when joint use
+is carried out after the liberalization. It is also scheduled to
+carry out also the work of establishing a circuits network which will
+become a model. Furthermore, it will check into such problems as
+whether a joint company will be necessary to exercise control over the
+circuits to be thus leased, and in what form such a company should be
+established if it is to be done.
+
+11
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Moreover. the Technological Experts Committee will conduct studies
+on VAN (added-value communications), in parallel, from the stand that
+in order to enhance the functions of the joint circuits networks, VAN
+services will hold the important key.
+
+0n the other hand, the Demand Experts Committee will conduct research
+as to what new demand for data communications will arise among industrial
+circles, with which various enterprises are affiliated, and among the
+enterprises concerned, after the liberalization of circuits. In other
+words, studies will be conducted as to what kinds of new communications
+will become possible between the participating enterprises. including
+enterprises which are not affiliated with the Mitsubishi group, and other
+enterprises with which they have business transactions connections, and
+what change this will cause in regard to the handling of business.
+
+In the midst of the moves for securing the liberalization of circuits.
+such enterprise groups as Mitsubishi, Mitsui, Sanwa. and Ito-Chu have
+already started to hold study meetings on data communications. Among them,
+the "Mitsubishi CC Research Council" is running out front.
+
+Fujitsu FTP to Tie Up Also with European and US Enterprises
+
+Fujitsu Ef Ai Pi (abbreviated to Fujitsu F1?) is carrying out the
+work of establishing a new information-processing services set-up
+on the premise of data communications, through its Project Team. It will
+also carry out the following tasks with the co-operation of Fujitsu, its
+parent company: (1) Research on the market and commodities on the basis of
+
+the new data-communications system after revision of the Law, and (2)
+
+development of a software operation system for on-line services which will
+use the new data communications system. The said Company says that
+
+it "wants to make efforts. so as to enable the start of new services,"
+
+at the same time as the start of the new system. . ’
+
+The same Company also says that the following lines of business
+are conceivable: "Business in which information will be transmitted to
+many customers through the use of circuits to be leased from the Nippon
+Telegraph and Telephone Public Corporation (NTT.)" "Acting as an intermediary
+in case communications circuits are used jointly by a plural number
+of enterprises." "Business of connecting enterprises with customers
+through the establishment of a new system."
+
+12
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+For that purpose, the Company, centering on its Project Team, intends
+to conduct surveys on the situation concerning the use of communications
+circuits in the US and various European countries,.with the co-operation
+of Fujitsu. At the same time, if there are systems and software. which
+may be able to be introduced into Japan, the Company intends to accumulate
+know-how and software throth the conclusion of tie-ups with the local
+enterprises concerned. he Company further says that it wants to make
+efforts, so that it may realize the "profits of the original enterpriser.'.'
+
+to the fullest extent, dread of other information-processing services
+companies. '
+
+COPYRIGHT: Nihon Keizai Shimbunsha 1982
+
+C80: 5500/2168
+
+13
+FOR OFFICIAL USE ONLY
+’ FURTHER DISCUSSIONS ON DATA COMMUNICATIONS URGED
+Tokyo YOMIURI SHIMBUN in Japanese 2‘ Mat 82 p 4
+
+[Text]
+
+The problem of liberalizing the use of data communications circuits
+has been generally settled, with the Public Tele-Communications Law
+revision bill incorporated in the administrative tasks simplification
+and rationalization bill which was decided at a recent Cabinet meeting.
+
+Data communications mean a system for connecting communications with
+the processing of information through the use of computers, as in the
+case of the National Railways' "Green (TN: First Class Ticket) Windows
+and the banks' on-line systems. The establishment of networks for the
+processing and distributing of information is rapidly progressing
+among enterprises.
+
+Under the present system, however, the use of data communications
+circuits is restricted strictly. In industrial circles, voices calling
+for liberalization were strong.
+
+The use of circuits for data-processing purposes, between enterprises
+will be liberalized, due to the revision this time. Thus, the restrictions
+will be eased to a considerable extent. However, this is still nothing but
+
+the first step toward liberalizing data communications. Rather, it should
+be said to be a stop-gap. provisional measure.
+
+From the standpoint of improving the conditions for developing
+data communications, there are still many problems.
+
+1h
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+For example, in regard to "message exchange" for transmitting
+information, without changing the contents thereof, the recommendation,
+submitted earlier by the Provisional Administrative Affairs Research
+Council, points out as follows: "The use of circuits should be liberalized,
+with the exception of [enterprisers] who carry out message exchange,
+with an unspecified large number of persons as the objects." However,
+
+as far as the revision this time is concerned, restrictions will be
+left behind to a considerable extent.
+
+The Nippon Telegraph and Telephone Public Corporation (NT?) is
+performing data communications services by itself, while offering
+communications circuits. However, it holds the position of a privileged
+organization, as a report on the results of its inspection, which report
+was released by the Administrative Management Agency laSt year, points
+out as follows: "[NTT] is carrying out message exchange, which is banned
+toward private circles. It has also made up the deficit of as much as
+#50 million in its data-communications seetor through the use of earnings
+from its telephone services, etc."
+
+Even if NT? is to extend data communications services, it should
+establish a set-up for carrying out fair competition with private circles.
+
+Data communications are a system which will form the foundation of an
+informationized society in the future. In regard to the discussions
+conducted up until now, MITI emphasized its views, from an industrial
+standpoint. However, [data communications] will fulfill an important role,
+not only in the industrial field but also in various other fields, including
+education, medical service, administration, and science. Efforts should
+be made to establish a desirable data-communications sysrem through
+wide-range discussions.
+
+At this time, therefore, it will probably be necessary to clarify
+what were the substantially problematical points of the data-communications
+problem discussions conducted up until now.
+
+The characteristic of the informationization of today is the point
+of connection between communications and the processing of information
+through the use of computers. Despite the fact that the field of
+information-processing is growing in importance, the Postal Services Ministry
+regards the long—established communications system as the premise, and
+it is trying to take informationization on an extension line thereof
+and to impose restricrione on it. Is there no problem in regard to this
+posture?
+
+15
+FOR OFFICIAL USE ONLY
+Apart from the data comunications. the realization of picture
+communications, in which necessary pictures will appear on the television
+through the use of comunications circuits. is also close at hand.
+Technology for satellite comunications and optical comunications, too. has
+already been put to practical use. It is certain that informationization
+in Japan will marked-y progress within the next 10 or 20 years. thus
+causing a revolutionary change in economic society.
+
+It is important for Japan to promote such informationization smoothly.
+A communications policy should be formulated, from the viewpoint of
+what should a necessary communications system for that purpose be like.
+that is, from the standpoint of the informationization policy.
+
+At this time, we want to propose the establishment of a deliberation
+organization under the direct control of the'Prime Minister, in order
+to conduct cotmnunications-policy discussions comprehensively.
+
+COPYRIGHT: Yomiuri Shinbunsha 1982
+
+CSO: 5500/ 21 68
+
+16
+FOR OFFICIAL USE ONLY
+BRIEFS
+
+RADIO, TV AGREEMENT WITH CUBA-Hanagua, Apr 7 (PL)-—Cuba and Nicaragua signed
+here collaboration agreements in the fields of radio and television. The
+agreements were signed by the president of the Cuban Radio and Television
+Institute. Nivaldo Herrera, and the managing directors of the People's Radio
+Broadcasting Corporation and the Sandinista Television Network, Edwin Zablah
+
+and Ivan Garcia, respectively. The exchange of programs, facilities for
+journalistic and technical delegations and a broadening of mutual collabora-
+
+tion are mentioned in the documents. Herrera returned to Cuba accompanied
+by the delegation that accompanied him in the discussion of the agreements.
+
+[Text] [PA061952 Havana PRELA in English 1939 GMT 6 Apr 82]
+
+080: 5500/2190
+
+17
+FOR 0FF1CD\LIISEIJNLN
+BRIEFS
+
+EXPANDED RADIO PROGWING-Victoria, 16 Apr (SAP)-As from this mnth,
+
+Radio Seychelles is starting a new programme, "Indian Ocean: From One Island
+to Another," with the aim of giving more coverage on regional events. The
+weekly programme intends to provide the Seychellois listeners with more info:b
+nation on the political, economic, social and cultural life of Mauritius,
+Madagascar, Reunion and the Comoros. The new program is meant to make
+
+up for some of the deficiencies left by the international news media which
+
+give less importance to regional events. [Pool item] [Text] [P8140427
+Havana PRELA in English 2369 GMT 13 Apr 82]
+
+cso: 5500/5761
+
+18
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+INTERNATIONAL AFFAIRS
+
+938 SATELLITE '10 PWIDE REGIONAL TV TRANSMISSION
+Paris All! 31' 0082408 in French 30 Jan 82 p 36
+
+[Text] Under the terms of a contract between Eutelsat Interimaire, the European
+satellite telecommunications organization—which has its headquarters in Paris
+and includes the telecommunications administrations of 20 European countries“-
+and the 330 [European Broadcasting Union]«which includes 40 broadcasting organ-
+isations--Burope will have a regional satellite TV transmission system serving
+the members of the £30.
+
+The contract was signed on 20 January 1982 by Mr Louis Hexandeau, minister of
+Posts, Telecomunications and Television Broadcasting, acting for Butelsat In-
+terimaire, and Messrs Jean Auton and Vandenbussche, president and vice president,
+respectively. of the 380, in the presence of Mr Andrea Caruso, secretary general
+of Butelsat Interimaire.
+
+The contract provides for the full-time lease for a period of 10 years and on an
+exclusive basis, to the 280, of two transponders in the space sector of Butel-
+sat's European SOs-satellite telecommunications system, to be used for the trans-
+mission of (Burovision) TV signals among the members of the 330 via the earth
+stations of the Butelsat signatories.
+
+In exchange for the services provided by Butelsat, the no will pay an annual
+lease fee which during the first 2 years of operation of the satellite system
+will be based on the number of earth stations put into service. Thereafter. the
+annual fee will be fixed for 5 years.
+
+Service to the 230 will start as soon as the two lacs satellites (one in operation
+and one in reserve) are in place in operating condition and at least five earth
+stations are in operation. The first BCS satellite is scheduled to be launched
+by Ariane this summer, and the second in 1983.
+
+ 
+
+* PRG, Austria, Belgium. Cyprus, Denmark, Spain, Finland, Trance, Greece, Ireland,
+Italy, Luxeubourg, Norway, Netherlands, Portugal, United Kingdom, Sweden, Switz-
+erland, Turkey, Yugoslavia.
+
+COPYRIGHT: A. i C. 1982
+
+9238
+C80: 5500/2132
+
+19
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+INTERNATIONAL AFFAIRS
+
+BRIE”
+
+Asrmmr snmrrs a! “Aruu‘i‘he can [European Space Agency] has just, by
+unanimous choice, awarded the contract for a definitional study (Phase 8) of the
+European astrometry satellite Hipparcos to the French firm MATRA [Mechanics,
+Aviation and Traction Company]. leader of the European industrial consortium MESH
+which includes also the firms Aeritalia, British Aerospace. BRNO [Brno Raunfahrt-
+technik], Fokker, SAAB Swedish airline ] and INTA [National Institute :or Aero-
+space Research (Spain) . Other industrialists will be joining this group.
+notably Dornier. This 20-million-franc contract terminating in October 1982 is
+to be followed by the contract to build the satellite, estimated at 600 million
+francs. mm has also been chosen by the BSA as the prime contractor for the
+scientific work of the program. The ESA's choice of HATRA over AEROSPATIALB
+[National Industrial Aerospace Conpany (Prance)] (Cosmos Consortium) confirns
+MATRA's role as the European leader in space scientific instrunentation. The
+nipparcoe satellite (875 kg) is to be launched in 1986 by Ariane, with a rated
+life of 2 and 1/2 years. This European astronetry satellite will be the first to
+draw up a map ofthe skies based on observation of over 100,000 stars. with a pre-
+cision of 0.002 seconds of arc. [By Pierre Langareux [Text] [Paris AIR ET
+cosms in French 30 Jan 82] (comm: A. a c. 1902 9238
+
+CANADIAN, AMANBSPACE AGREEMENT-Jolene: Canada has signed an agreement with
+Arianespace to reserve a launching slot at the end of 1985. for placing into
+geostationary orbit with Ariane 3. a Canadian telecommunications satellite of the
+Anik series. Arianeapace has thus nade 10 reservations, and 32 firm launches have
+been planned with Ariana. Three IG-channel Anik C satellites are built by Spar
+(Canada), and two 26-channel Anik D satellites will be built by Hughes
+
+Aircraft (USA) for ‘i'alasat Canada. [Text] [Paris AIR E‘l' COSHOS in French 6 Mar 82
+p 43] [COPYRIGHh A. e C. 1982] 11.023
+
+20
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+FRANCE
+
+NEW REPORT COHPARES AUTOMATION, PRODUCTIVITI, UNEMPLOYMENT
+Paris ZERO UN INPORMATIQUE in French No 158 Mar 82 pp 66-71
+
+[Xrticle by Claude Salsman, chief e ineer at CEGOS [General Commis-
+sion on Scientific Organizatio§7z ' he Computer and Unemployment, a
+Controversial Duality_7
+
+[Text7 It is now admitted the computer is a pro-
+ductive tool or more generally, it is considered
+clear that additional automation increases the
+enterprise's productivity. But who has proved it?
+
+There is also a tendency to regard the computer
+as partly responsible for current unemployment.
+Vhat should we think about this old myth of the
+
+machine which destroys people?
+
+Unemployment is one of the plagues of the modern world. It is a de-
+pressing topic and it is hard to speak objectively about a subject
+where emotions dominate. After having enjoyed strong economic growth
+without unemployment for 30 years, the developed world has experi-
+enced the opposite situation for 6 years: insignificant growth and
+mass unemployment. The rate of unemployment increases inexorably
+every month. Almost 10 percent of the working population will soon
+be unemployed. This is shocking and many ask who is responsible for
+this horror. The computer has been on trial for several years.
+
+The Best of Worlds
+
+It is striking to confirm that the computer is pictured simultaneously
+as a miracle machine which will make the world better tomorrow and as
+
+a diabolic machine which will enslave humanity, sooner or later. On
+one hand the dream, on the other, the nightmare.
+
+This shows surprisingly that the computer is a completely ambivalent
+myth, as all machines have been since the 18th century, even the .
+simplest ones: the loom, the steam engine, the train, the automobile
+have aroused, in turn, this same type of fear. The more the factory
+is filled with machines, the more people fear for their own future.
+
+21
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The development of automation for 50 years has not ceased to con—
+vince people of the danger of these machines. The arrival of the
+computer at the beginning of the fifties and of robots more recently
+has only revived these already old fears.
+
+The Three Theses
+
+Employment and the computer, what a beautiful subject for a disserta-
+tion, what a successful topic! But opinions are divided. Most
+opinions are pessimistic. They are summarized in a sentence: "If
+the computer makes gains in productivity possible, it consequently
+reduces employment." 0n the other hand, opinions differ on the rates
+of unemployment caused by the computer. The most pessimistic, such
+as Bruno Lussato,foresee a rate of 50 percent; Michel Bosquet thinks
+of 20 percent; Ulrich Briefs: 15 to 20 percent; Olivier Pastre pre-
+dicts 210,000 additional unemployed in 1985. The range between the
+predictions is very significant: from 200,000 to 10,000,000, the
+rough estimate is for the smallest! It is observed that the pessi-
+mists are recruited especially among research workers, academicians
+and journalists. Pew professionals in computer science are found
+
+among them.
+
+On the contrary, the optimists affirm that: "The computer makes
+
+gains in productivity possible, consequently it creates 'jobs'.” In
+fact, very few authors dare to defend this point of view. It actu-
+ally requires a certain courage to declare that the computer not
+
+only does not eliminate jobs, but creates them, when there are 2 mil-
+lion unemployed. To our knowledge, only Jean-Jacques Servan-Schreiber
+has vigorously defended this thesis in "Le Defi Nondial" [The Vorld
+Chulleng§7g we observe also that it is preferably the one our leaders
+support, in particular, the prime ministers, whether they are of the
+
+left or the right.
+
+Between the two, we find the vacillating, the cautious and the neu-
+tralists. Perplexed, many professionals in computer science are fal-
+ling in with this tendency. For that indeed is the basis of the
+problem. A great deal is written on this subject, but paradoxically,
+few objective facts are available. It is always the same figures
+which go from onevof these three studies to the other, namely! the
+Siemens report (Buro 1990), which a peared in 1976, that of Sussex
+University (Barrow and Curnov, 1978 or the study of the Prognos
+Institute (FRG), which are pessimistic extrapolations of technologi-
+
+cal predictions.
+From One Prime Minister to Another
+(Raymond Barre, 9 May 1980, at Honeywell Bull Company)
+
+"Research in productivity can go hand in hand with the creation of
+jobs in the same society. By resorting to sizeable investments, by
+
+22
+FOR<MHHC1AL.USE10NLY
+FOR OFFICIAL USE ONLY
+
+introducing innovative methods and by having a high quality staff,
+the tertiary sector can obtain gains in productivity Which have
+nothing to begrudge with the strictly industrial sectors."
+
+(Pierre Maurot, 15 September 1981 to the National Assembly).
+
+”Vs must master the new technological revolution. Per let us not be
+mistaken about it, one of the causes of unemployment is the inability
+to adapt our production apparatus, its methods of Operation, esti-
+mating and training to this change imposed...
+
+"It is not a question of rejecting robotics or data-technology. It
+is a question of controlling this change with respect to man. Gains
+in productivity allowed by technical progress must benefit all of the
+national community."
+
+A Promising Report
+
+That is where we were until the recent appearance of a very interest-
+ing report: "Computer Processing and Emgloyment, Threat or Change?"
+(which appeared in DOCUMENTATION PRANCAI E) attributed to a group of
+young economists in Paris 13, directed by Olivier Pastre and financed
+by the Computer Science Mission.
+
+One went on the field for the first time, figures were sorted, analy-
+ses were made on the basis of which a middle term forecast was out-
+lined. It is a work of quality, a treasure of ideas and information
+difficult to find elsewhere. This report resorts especially to an
+empirical approach by broad fields of applications, in particular:
+
+-- automation of operations;
+
+-- the machine tool with numerical control;
+-- computer assisted programming;
+
+-- word processing machines, etc.
+
+Eight exciting papers to read which end up each time with a 5 year
+forecast of job elimination: 82,000 for word processing, 50,000 for
+automation, 50,000 for robotics, 13,000 for document reading and
+
+11,000 for facsimilies. A total of 210,000 jobs will be eliminated
+
+between now and 1985.
+The Facts are Stubborn
+
+To understand well how Olivier Pastre arrived there, let us analyze,
+for example, the conclusion of the section devoted to word processing
+(pp 145 and 147). "We have observed that gains in productivity are
+about 50 percent. We have seen, moreover, that the number of secre-
+tarial jobs will be particularly affected. The 'secretarial staff' is
+traced again in item 610 of the study, 'Job Structure': We confirm
+
+23
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+that in 1974 this item involved 394,614 persons. In view of what
+has been said, if the utilization of word processing becat general,
+we could assume that 116,000 jobs would be eliminated. In fact,
+taking into account market forecasts, gob elimination could involve
+82,000 positions between now and 1985.
+
+There is the essence of the example developed by Olivier Pastre. Let
+us summarize the process: in 1985, 50 percent of secretaries will
+have a word processing machine. These machines will achieve gains in
+productivity of 50 percent. I multiply one by the other, I apply
+that to the number of secretaries and now then! I find 82,000 addi-
+tional unemployed.
+
+This example is at least questionable. Actually, gains in productiv-
+ity have been made in all fields for years. Thus in the last 15
+years, according to INSEE [National Institute of Statistics and Boo-
+nomic Studies7, overall gains in productivity have been + 89.4 per-
+cent, or a little more than 4.3 percent per year. Now in 1965, the
+employed working population rose to 20,379,000 persons. According to
+Olivier Pastre's example, one should have confirmed the appearance
+
+of mass unemployment between 1965 and 1980, amounting to 9.6 million
+unemployed.
+
+In fact, with the gains in productivity of + 89.4 percent, it would
+have been possible to produce with only 10.7 million persons, what
+was produced in 1965 With the work of 20.4 millions. The rest would
+
+have had to join the unemployed.
+
+Now, the number of jobs not only did not drop, but it increased:
+There were 21,755,000 employed persons at the end of 1980, or an in-
+crease of the working population of more than 1.3 million persons,
+compared with 1965, in spite of the crisis, petroleum, the dollar
+and computers.
+
+With all due respect for Olivier Pastre, during those 15 years, em-
+ployment has not dropped, but, on the contrary, it increased at a
+rate of 0.4 percent per year. Consequently, this example is false
+and Olivier Pastre's predictions, which, moreover, are moderate, are
+not very credible.
+
+An Explanation
+
+In fact, no precise figure would make it possible to demonstrate
+today that computers have eliminated jobs in the past. Perhaps,
+data processing will be a factor in unemployment in the future, but
+as for the past, observation shows that the economic sectors or the
+plant operations which have benefited fully from data processing
+have not experienced a drop in their employment level. This has not
+prevented the number of unemployed from rising in 15 years from
+269,000 in 1965 to 1,455,000 in 1980.
+
+2“
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+To explain this serious phenomenon, Alfred Sauvy, in his remarkable
+book "The Machine and Unemployment," Dunod 1980, attempts to develop
+a general model explaining the effects on unemployment of all techni-
+cal progress and in particular of data processing. The center of
+
+the model is a mechanism which he calls projection. Every gain in
+productivity,of whatever nature it is, is expressed by a certain num-
+ber of disturbances in the labor cycle, some are negative such as
+elimination of jobs, others are positive: creation of additional
+wealth, drop of relative prices, shifting of demand...which in turn
+causes other disturbances.
+
+According to the organization of the economy, this phenomenon of
+propagation, which he calls projection, is more or less effective.
+There are many rigidities in the operation of the economy. Some are
+strangely due to unfortunate policies of ”job protection which
+rapidly backfire on the very ones which they aim to protect. The
+most serious error was the very fashionable idea of sharing employ-
+ment by lowering the retirement age or by reducing the working week.
+Citing as an example, getting out of the economic crisis of 1929-
+1934, Alfred Sauvy shows that these policies had the opposite effect
+of what was intended.
+
+he cannot summarize in a few lines Alfred Sauvy's main work. However
+let us mention the conclusion which is not lacking in interest: It
+is the predominance of dogmas, postulates and obliging images which
+frustrates society and prevents it from making up for its consider-
+able arrears with its own technology and its social ideal. It be-
+hooves the economists to give up their abstractions somewhat, without
+fearing for their reputations.”
+
+The Outline of a Model
+
+Encouraged with this advice, we have taken up the problem again and
+looked for a clear explanation of the processes which create unem-
+ployment. Thus we have tested tens of hypotheses such as:
+
+-- the amount of investments;
+-- the reduction of working hours;
+-- the migratory wage
+
+A single fact has become clear from all these analyses. Everything
+would take place,as if the variations in the number of unemployed
+from one year to the other,were due to a retardation of economic
+growth with respect to an objective value. Below this threshold,
+
+the number of unemployed increases, beyond this threshold, it drops.
+
+According to our calculations, 1 percent of growth more or less
+represents 38,000 unemployed more or less and a zero rate of growth
+
+25
+FOR(WTHJALL$E(”HN
+FOR OFFICIAL USE ONLY
+
+represents an additional 250,000 unemployed in the year. The co-
+efficient of correlation between the rates of economic growth and
+the annual variation on the number of unemployed is high: R: — 0.84.
+
+Table 1: Growth and Unemployment
+
+Rate of ovth of Number of applications Annual varia-
+
+thc PIB bros: foremployment not tion in num-
+
+1965 + 4.8% 142,100 --
+
+1966 + 5.2% 147,700 + 5,600
+1967 + 5.0% 196,000 + 48,300
+1968 + 4.3% 253,800 + 57,800
+1969 + 7.7% 223,000 - 30,800
+1970 + 6.1% 262,100 + 39,100
+1971 + 5.5% 338,200 + 76,100
+1972 + 6.1% 380,300 + 42,100
+1973 + 5.6% 394,100 + 13,800
+1974 + 2.8% 497,800 + 103,700
+1975 + 0.3% 839,700 + 341,900
+1976 + 4.9% 933,500 + 93,800
+1977 + 3.1% 1,072,800 + 139,300
+1973 4 3.5% 1,166,900 + 94,100
+1979 + 3.1% 1,349,900 + 183,000
+1980 + 1.3% 1,450,600 + 100,700
+
+of-
+
+26
+Table 2.
+
+Key:
+
+(1)
+(2)
+(3)
+(4)
+
+The Relation Betueen Growth and Unemploynent
+
+ 
+
+Annual variation in number of unemployed
+Growth
+
+Variation in number of unemployed
+Rate of growth PIB
+FOR‘OFFKJAL.USE10NLY
+
+To better understand the phenomenon, let us take an example. If in
+1982, growth is + 3 percent, that means that we will have 137,000 more
+unemployed than in 1981. If instead of 3 percent, the rate of growth
+increases to 4 percent, the number of additional unemployed will not
+be more than 137,000, but 99,000. In order for there not to be addi-
+tional unemployed, an annual rate of growth of 6.6 percent is neces-
+sary! This figure is particularly high and has only been reached
+
+once in the period studied,as table 1 indicates: in 1969 with + 7.7
+percent. Moreover, it is the only year in the last 15 in which the
+number of unemployed has dropped.
+
+Naturally, as table 2 shows, different phenomena can disturb the re-
+lationship. In particular, certain measures of certain types: early
+retirement system, 90 percent for economic dismissals, youth employ-
+ment agreement,...influence the annual number of new unemployed. But
+the tendency remains what it is. Generally, in the 15 years studied,
+the average rate of growth has been 4.3 percent per year and the
+annual increase in the number of unemployed has been 87,200 persons
+per year. In short, in each year, we have had a retardation of
+growth compared with the normal tendency of 2.3 percent per year.
+
+A Remedy for Unemployment, Growth
+
+It is the retardation of growth which explains about 70 percent of
+
+the unemployment ascertained. Vithout it, we would not have 2 million
+unemployed today. And the only way to reduce it is to catch up with
+our retardation of growth which is about 40 to 45 percent of our
+country's normal condition of economic development. But is it pos-
+sible? Is the production apparatus capable of such an effort? What
+are the structural economic measures which it is necessary to take to
+release growth and guarantee employment for all? There are the real
+problems and it does no good to complain interminably about the com-
+
+puter's threat to employment.
+
+The only question, in fact, is to what extent, the computer, and more
+generally the new electronically based technologies, contribute to
+economic growth. If the answer is favorable, that means that we will
+find the lost full employment by accelerating the process of the de-
+velopment of these technologies. If, on the other hand, technology
+does not have or only has slight effects on growth, than we must in—
+vest its means and efforts else\here. All the rest is only empty
+talk and waste of time.
+
+Data Processing, A Factor in Growth
+
+The study of the figures supplied by population censuses and those
+furnished by the investigation I'Job Structure" shows that the fol-
+
+lowing are the sectors where the most data processing has been used
+and the increase of employment has been the greatest:
+
+28
+F0l10FFKJAl.USE(NVLY
+FOR OFHCIAL USE ONLY
+
+-- Accounting: + 27 percent between 1968 and 1974
+- Banking and Insurance: + 45 percent between 1968 and 1974
+-- Skilled administrative personnel: + 38 percent
+
+Consequently data processing is one of the privileged methods of re-
+gaining full employment. But to reach it, we well know, a tremendous
+effort will be necessary. Only a mobilization of everybody will make
+it possible to regain the 40 percent of growth lost and our conviction
+is that data processing will make a major contribution, either di-
+rectly through the development of the data processing industry, serv-
+ices,...or indirectly, by improving the ability of enterprises to
+
+create more added value per wage earner. The whole problem of growth
+is indeed there!
+
+Let us remember that P13 is made up of the sum of all the added values
+of all French enterprises. For one confirms precisely that the level
+of added value per wage earner varies by 22 percent between the enter-
+
+prises spending the most and those spending the least on data process—
+ing!
+
+COPYRIGHT: Ol Informatique, Paris March 1982
+
+8490
+030: 5500/2182
+
+29
+FOR OFFICIAL USE ONLY
+FOR OPHCIAL USE ONLY
+
+ITALY
+
+LAUNCHING OP 'ITALSAT' WED FOR LATE 1987
+Paris AIR ET COSMOS in French 27 Sep 01 pp 37-38
+
+[Article by Pierre Langereux]
+
+[Text] The Italian project for "Italsat,' a domestic telecommunications satel-
+lite, was presented at the In! [International Astronautical Federation] Aeronautics
+Congress by the representatives of the CNS [National Space Council]. Telespazio.
+
+and Selenia, the three of whom were retained by the ORR [National Research Council]
+to draw up the proJect.
+
+The preliminary study (Phase A), which was completed this summer. made it possi-
+ble to define the configuration of the future pre-operational telecommunications
+satellite Italsat. the launching of which is corrently planned for the fourth
+quarter of 1987 using an Ariane rocket or the Shuttle with a PAH-D upper stage.
+The satellite is to be placed in geostationary orbit at 13 degrees 3, for a use-
+ful life of 5 years and is designed to provide the qualification in space of all
+the technologies that will be needed to build the future operational domestic
+telecommunications satellite which the Italian PTT [Posts, Telephones and Tele-
+graph] administration is planning to put into service during the 1990's.
+
+The decision to build the Italsat satellite should, in principle, be in place by
+the end of 1981. A Phase 3 of 16 months duration is planned, to be followed. in
+the third quarter of 1983, by a 0/0 Phase extending over a 4-year period.
+
+The Italsat pre-operational satellite was dimensioned as a function of the weight
+and electrical power of the payload, and by the required antenna-pointing pre-
+cision.
+
+The final choice was a triaxially stabilized platform of intermediate size (180-
+200‘kg)abetween-the platform of the European 3C5 satellites and that of the
+L-SAT. yet of a sufficiently advanced design to offer the Italian space industry
+a challenge capable of bringing it up to international stature while suiting it
+to carrying out the missions of the future operational satellite.
+
+The total launch weight of the satellite will be 1,131 kg with Ariana (in a
+double launching using the SYLDA [Ariane Double Launch Systenj) or 1,247 kg with
+
+30
+I!”I(Nﬁﬂ(1Al.UGl§0bﬂJV
+FOR OFFICIAL USE ONLY
+
+the shuttle PAH-D, requiring. respectively, 441 or 557 kg of propellants for
+injection into geostationary orbit and attitude control by means of a combined
+propulsion system (bipropellants) .
+
+This system comprises a loo-Newton jet (ISP [specific impulse]: 310 see) as its
+apogee engine and 16 small jets whose thrust has yet to be specified (15?: 285
+sec). The weight of the satellite in orbit will thus be 690 kg at the start and
+around 600 kg at the end of its operational life (5 years), consisting of 012 kg
+for the service module and 192 kg for the payload. At launching, the satellite
+will occupy a volume of 2.0x 2.21: 2.6 m, and in orbit it will have a span of
+13.8 m with its solar panels deployed. Its solar generator, with a power output
+of 1.370 w at the end of its operational life, will consist of eight 2.1: l.l-m
+panels covered with photovoltaic cells of low yield (4) but sufficient to power
+the payload and charge two nickel-hydrogen (25 amp-hr) batteries with a capacity
+of 760 w during eclipse. Heat control will be passive (without heat pipes),
+using finned-surface heaters and radiators (on north-south facings). The struc-
+ture (92 kg) will use mainly conventional and composite materials for supports
+and antennas. The satellite will be pointed within 20.05 degrees about the
+north-south axis and within $0.04 degrees about the east-west axis by means of
+radio beacons associated with each telecomunications antenna.
+
+High Frequencies
+
+The Italsat pre-operational satellite's payload will enable the carrying out of
+four missions:
+
+--Telephone service at 20-30 cm by means of two antennas (1.95 m in diameter)
+covering all of Italy with six 'spots' (0.5 degrees) fed by six active transpon-
+ders (20 W) providing digital links (SS-TOMA). The planned rate will be
+
+120 Mbits/sec, with possibly a 360-Mbits/sec channel for point-to-point and
+multiple-access links. This configuration will weigh 145 kg and will consume
+640 H;
+
+--Specialized services at 20-30 GHz (data transmission, electronic mail, video-
+conference, etc) with a horn antenna (2x1 degree) covering all of Italy and
+three active transponders (30 W) for multiple-access links at 25-32 "bits/sec
+(Pu-TUNA) . This equipment weighs 35 kg and consumes 320 H;
+
+"A propagation experiment at 40-50 6H2 (attenuation, depolarization, distortion.
+etc) with two horn antennas (3x 3 degrees) covering Western Europe and possibly
+Greece, Ireland and Spain. These antennas will operate with circular polariza-
+tion at 40 CH: and linear polarization at 50 GHz. This equipment weighs 12 kg
+and consumes 90 at. Its instrumentation will be compatible with that designed for
+the propagation experiments using the future European L-SAT satellite:
+
+--A wideband (l Obits/sec) data transmission experiment with point-to-point
+links, although this mission does not appear to be fully confirmed.
+
+31
+FOR OFHCIAI. USE ONLY
+FOR OFFICIAL USE ONLY
+
+Italsat will thus be the first satellite to test propagation conditions in the
+40-50 Gas frequency band, which is very well beyond the 20-30 cs: band in which
+experimentation is just now beginning. Italy, however. ails to specialize in
+high-frequency telecomunications. Following the tests at 11-18.: carried out
+with the Italian satellite 81:10 1, Italy is participating in the 20-30 cs: tests
+
+planned with the European satellite L-SAT. and is preparing the operational use
+of these frequencies and the tests at eo-so Gar with Italsat. If these new oper-
+
+ations are successful, Italy will then be one of the world's leading specialists
+in high-frequency telecOI-unications, enabling its industry to take a dcninant
+
+position in this narket during the 1990's.
+
+COPYRIGHT: A. i C. 1981
+
+9238
+C80: 5500/213‘
+
+32
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UNITED KINGNH
+
+HOME SECRETARY WITHIN ANNOUNCES SATELLITE TV PLANS J
+P14211441 London THE TIMES in English 21 Apr 82 p 4
+
+llhattributed report of 20 April UK House of Cal-Ions session: "Sateuite
+Channels by 1986"]
+
+[Excerpt] The BBC will operate the first two direct broadcasting by satellite
+channels likely to be available by 1986 but three further channels could be
+made effective and when there was the demand, Mr Willis: Hhitelaw, the bone
+secretary, said in opening a debate on satellite and cable broadcasting.
+
+'lhe gavernnent believed it vital, he went on, that industry should be in a
+position to reap the benefits of new technology on which the future economic
+health of the country depended in part. For that reason there was need to
+press ahead with proposals as quickly as possible so as not to miss the
+opportunity.
+
+It would be possible with the right equipment to receive foreig: services,
+and there was concern throudlout Europe on the effect this night have on
+the arrangements of individual countries. Discussions were in progress
+within the Council of Europe and the government was represented on a working
+group examining the scope for international agreement on program standards
+and advertising.
+
+Programing costs could be between 1011 pounds a year for a channel reliant
+on existing material to 100“ pomds for one conparsble in content to BBC 1
+or ITV. The BBC believed its subscription service could be entirely self
+financing within about lo years after which it would make a profit which would
+eventually benefit the licence fee payer. Cash night have to be borrowed
+
+to cover start up costs.
+
+Various services such as teleshopping and telebsnking became possible once
+the cable was there.
+
+No one had yet suggested that it would be possible to reach anything like the
+99 percent of the population who could now receive television. He believed
+they had a duty to the majority of people in the comtry who could continue
+to rely on BBC and IDA services for the foreseeable future. They were
+
+33
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+entitled to expect that the range and quality of those services should not
+
+be diminished by cable services syphoning off. the best sport, best film
+and best entertain-set.
+
+With the BBc's satellite subscription service he was confident the general
+interests of the licence fee payer would remain paras-amt. With cable, there
+
+were as yet no natural safeguards and no natural uchanism of accomtability,
+and the government would need to consider in the light of the Hunt inquiry's
+
+report what safeguards and nechaniens of supervision and acoomtability there
+should be.
+
+COPYRIGHT: Times Newspapers Limited, 1982
+cso: ssoo/zzoa BID
+
+3h
+FOR OFFICIAL USE ONLY

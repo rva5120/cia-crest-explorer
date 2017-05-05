@@ -1,0 +1,1390 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10198
+16 December 1981
+
+USSR Report
+
+ENERGY
+
+(FOUO 22/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+JPES publications contain information primarily from foreign
+nevspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information use
+processed. "here no processing indicator is given, the infor-
+mation Has summarised or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OQNERSHIP OP
+HATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+ENERGY
+
+(P000 22/81)
+
+CONTENTS
+
+WOW
+
+Systematic forecasting of Nuclear Power Industry
+(318M013 WWW IMO! mmn, 1980)...»
+
+New Book Describes Operation end Maintenance of Veter-
+‘h'estnent Pscilities
+(Sensn Herkovioh Gurvioh, Yuriy Inksinovich Kostrildm;
+0mm vommmn, 1981) OOOOOOOIOOOOO..OOOOOIOOOOODO.
+
+We of Improving mel Consmption at Power Hechinebuilding
+Plants
+(In. A. Yeti-0v, A. A. Bersbsslcin; WA mm,
+
+&p 81) COCOOOOOOOOOOOOOIOOOOIO...DOCOOIOOOOO00.000.00.00...
+
+-s- [III-UBBR-37PO
+
+FOR OFFICIAL USE ONLY
+SYSTEMATIC FORECASTING OP IUCLBAR POWER IIDUSTRT
+
+Hoscow SISTBuIOYE PROGNOZIROVAHIYB TADBRNOT BNIRGBTIKI in Russian
+I980 (signed to press 3 lovember 1980) pp 142. 237-239
+
+/5escription. foreword. introduction, and table of contents from
+book by 3. Ya. Chernavskiy "Systematic Forecasting of Nuclear Power
+Industry". edited by Academician H.A. Styrikovich. USSR Academy of
+Sciences' working Consultative Group for Developing New Questions
+Regarding the Future Development of Power Engineering, Izdatel'stvo
+"lsuka". 1,200 copies. 238 pageg7
+
+Afexty This monograph is devoted to one of the current
+pressing problems facing the power industry - the devel-
+opment of a theory and methods for estimating the long-
+term forecasting of the development of nuclear power en-
+gineering as systems. Various aspects of the long-term
+forecasting are examined: economic. technical. mathemat-
+ical and psychological. the book basically contains the
+original developments of the author. A description of
+the models to be used for forecasting the development
+
+of the nuclear power industry is provided. Methods for
+selecting the optimal strategies in conditions of uncer-
+tainty are proposed.
+
+The book was written for specialists in the field of
+systems research in power engineering. in forecasting
+methodology. and making decisions in conditions of un-
+certainty.
+
+FOREWORD
+
+To correctly evaluate the role of the nuclear power industry in the
+future power balance of the national economy is a complicated and
+difficult scientific task. the practical importance of which, however,
+is hard to overestimate. The problem is that the supplies of organic
+fuel in the world, while great. are limited. Also. they are distri-
+buted unequally throughout the world. The limitedness of the most
+convenient kinds of organic fuel - petroleum and natural gas - for
+
+the majority of energy consumers is felt by the majority of the
+world's nations even today. In seeking to preserve some petroleum
+
+and natural gas, coal and nuclear power move to the foreground in
+
+1
+TOR OPTICIAL US! ONLY
+FOR OFFICIAL USE ONLY
+
+\
+
+future evaluations. In spite of the impressive world supplies of
+coal, the rapid rates of increasing its extraction are fraught with
+great difficulties. Among the factors preventing the intensive
+
+growth of coal extraction is the relative high cost of mining opera-
+tions. the difficulties of large-scale transporting of coal by land.
+and the growing requirements to protect the enVironment. And although
+there are several counter acting factors. it is highly unlikely that
+
+future power engineering will depend heavily upon coal.
+
+It is more likely that there will be a joint development and use of
+various sources of energy - petroleum, natural gas. coal."uranium,
+the sun, geothermal heat and so forth. This "cooperation will, ap-
+parently continue for some time; however, the role of nuclear power
+in the majority of sectors of power engineering will increase, al-
+
+though at a varied pace.
+
+Zven today it is important to understand the qualitative and quanti-
+tative changes that will take place during this period of growth.
+
+Two basic factors deternine this prudence: the inert properties of
+the nuclear power industry and the many different ways that its struc-
+ture can be developed. To develop a new type of nuclear reactor re-
+quires, as a rule. two to three decades. To evaluate its effective-
+ness it is necessary to look some 30 years into the future. In this
+manner the selection of a strategy for the development of the nuclear
+power industry must be compared with the need to forecast its devel-
+opment for the next 50 to 60 years. At the same time this must be
+done while predicting the development of the other power resources.
+Hany factors need to be considered by the person doing the forecast-
+ing; and two dangers--the Scylla and Charybdie of forecasting--Iie
+in wait on the road to a good forecast: whether to try to consider
+all the factors or to reject the majority of them. In the
+
+first case the tine for making the forecast exceeds what is permis-
+sible; in the second case the model for the development is too
+
+rough to correctly reflect the essence of what has transpired in re-
+ality. For this reason the second option is not ‘uitable for fore-
+casting.
+
+In order to find the correct path it is necessary to develop a scien-
+tific methodology. As this applies to the task of forecasting nu-
+clear pcwer this is also important because in addition to being the
+newest sector it is also one of the most capital intensive sectors
+
+of the power industry.
+
+There have been many papers devoted to the future of the nuclear po-
+wer industry; the majority of them contain quantitative evaluations
+of the technical and economic indicators of nuclear electric power
+stations and enterprises of the fuel cycle. evaluations of the role
+of nuclear power in future power balances. Some of these papers
+have been devoted to the development of the methodological aspects,
+including the use of the mathematical modeling method.
+
+Soviet literature. however, has been devoid of scientific papers
+dealing with systematic descriptions of the theory and methods for
+forecasting the development of the nuclear power industry. No such
+work has been done in other countries either. This nonograph fills
+this gap. It is of interest not only to specialists engaged in fore-
+casting the nuclear power industry. The book contains material,
+
+which will be helpful to those whc have an interest in the methodolo-
+gical and practical questions concerning the use of a systematic ap-
+proach. and for methodological forecasters and also to specialists
+
+in the field of expert evaluations. The book also deals with questions
+on the psychology of the forecasting process, questions of selecting
+the optimal strategies in conditions of uncertainty and mathematical
+models of the developing nuclear power industry. The material used in
+the book. nonetheless. is not a conglomerate of developments which are
+weakly linked together. 0n the contrary. the book is very rigidly
+
+and logically put together. One central idea of the author can be
+seen in every section - :0 develop a practical tool for making fore-
+casts. The logic of developing such a tool forces the author to turn
+to the methodology of a systematic analysis and psychology of fore-
+casting end to methods of optimizing and mathematical modeling, while
+subordinating them to the common task of research.
+
+For the most part the monograph contains the original developments of
+the author: for this reason several points need to be given special
+attention.
+
+Usually, when people speak of the use of the systematic approach to
+the power industry they assume that systematic research is characteri-
+sed by an examination of objects as systems. Moreover, they ere dis-
+trected from examining the role of the subject in the very process of
+forecasting and from taking into consideration the role played by the
+psychological characteristics of the subject - the forecaster.
+
+The author proposes another concept - not forecasting just the devel-
+opment of the system - the object. but the conception of systematic
+forecasting, in accordance with which for this purpose in order to un-
+derstend the development of the object - the nuclear power industry
+
+in this case. it is necessary to take into consideration the psycho-
+logical characteristics of the subject of forecasting. And on this
+basis to then construct the work of the prognostic groups. Including
+the forecaster within the system from a methodological point of view,
+of course. is correct and important; however. the author does not
+merely declare a correct methodological hypothesis. but he also demon-
+strates how one can take into consideration the psychological features
+of the forecasters during the organisation of the forecasting process
+in a practical manner.
+
+While doing this the forecaster relies upon the work of psychologists
+that was done in specific modeled situations. however. the real fore-
+casting activity tekea place in other than modeled situations when
+
+the forecaster is subjected to the influence of numerous and complex
+stimuli. It was necessary to move from the modeled to the real situ-
+ation; the author has made this move having analysed what is new in
+introducing the real situation into the forecasting process. Moreover
+it has turned out that the real forecasting situation is richer in
+
+3
+FOR 0P?ICIAL US! ONLY
+FOR OFFICIAL USE OILY
+
+content as compared to the modeled situation and that the real situ-
+ation gives birth to the existence of various kinda of forecasting
+processes. Thus. if in sons cases the control of the forecasting
+process must promote the penetration of thought into the substance of
+an object. in other cases it is expedient to restrict the fixation of
+enpirical data. In this manner. the book gives fresh treatment to
+solving the problem of constructing an optimal forecasting system.
+
+In one sense the developing approach contradicts the Delfa method. in
+which specific psychological characteristics of the forecasters are
+not taken into consideration and the forecaster is viewed like sole
+sort of black box.
+
+The book has given much attention to the exposition of the essence of
+the concept of uncertainty of the future. In specific examples the
+author shows that certain methodoloﬁsts.including Soviet ones, per
+ceive the essence of develop-ant mechanically. as just getting
+underway. in which nothing new is happening basically and in which
+something new is only superficial. an illusion that is seen as a new
+consequence of too little knowledge. According to these methodologists.
+the uncertainty of the future is the result of inadequate knowledge
+about the nature of an object rather than the manifestation of the
+substantial properties of an object.
+
+In his book the auther develops another. correct dialectic view of
+
+the substance of development. according to which development is ac-
+conpsnied by the appearance of what is truly new. This neans that in
+the trsjectories of the development of an object one can encounter
+bifurcation points, after which the apriori trajectories branch out.
+before crossing the bifurcation point the object is uncertain in the
+sense that it is iapossible to say or determine exactly which path
+
+out of a number of possible paths the development process will take.
+This uncertainty in the object is overcoae only by crossing the bifur-
+cation point. In this manner the author has established that the fore-
+caster who has found. or more to the point has predicted, the exis-
+tence of a bifurcation point is unable to fully overcome (reveal) the
+uncertainty in an object, while improving the process of cognition.
+His true task is to study alternative possibilities for development
+and not to try to predict exactly which alternative will be realized.
+
+The forecasting "strength" of a subject in the forecasting process is
+limited. in this nanner. not only by the possibilities of recognising
+the object. but by the object itself and the dialectic of its develop-
+nent. In accordance withthasecrucial nethodological hypotheses the
+author then proceeds to construct nethods for optimising in conditions
+of uncertainty.
+
+However, before proceeding to developing the sore complicated portion
+
+of the forecasting tool. the author provides the development of sever-
+al basic nodels of the systea of nuclear power - models for the devel-
+opnent of the structure of nuclear reactors and nodels of the develop-
+ment of a systen of enterprises of the fuel cycle. There are nsny new
+elenents in these designs. I will note two of then. First. the dif-
+
+ferentiation. which the author conducts between forecasting using
+
+h
+FOR OFFICIAL USE ONLY
+mathematical models and research of mathematical models, which are
+only genetically connected with the object of forecasting; however.
+in the process of simplifying it turns out that they are quite unre-
+lated. The second point is the preposed method of using models to con-
+sider the gradualness of improving new technical means. which is of
+utmost importance in the power industry. Other aspects of developed
+models are no less important; however. the reader would be better off
+reading the materials themselves, especially since the author subse-
+quently tries to conduct the reader through his logic in the these
+developments. thereby simplifying the process of understanding the ma-
+terial.
+
+The concluding section is devoted to the development of methods of
+optimizing in conditions of uncertainty. In developing these methods
+on a solid methodological basis. the author seeks to obtain practical
+working methods. without losing accuracy in so doing. This task was
+largely met. The examples cited in the book confirm this.
+
+Thus, the reader has before him a book in which he can find not only
+
+a tool for asking forecasts concerning the development of the nuclear
+power industry, but also a tooi for determining the optimal strategies
+for the development and a tool fo: making a choice.
+
+Of course, one need not expect from this monography an answer to all
+questions; but it is a good example of a comprehensive, systematic
+research of a very important scientific and practical task.
+
+Libreword written by Academician H.A. Styrikovich?
+
+INTRODUCTION
+
+Everyone knows that energy is one of the most important factors in
+the development of man's society. Supplies of energy in man's en-
+vironment are unlimited; however, only certain kinds of energy and
+only a small part of whet is available can be put to practical use.
+
+At present organic fuel is mankind's basic energy resource. For a
+long time to cone organic fuel will be used for various purposes. In
+certain spheres of power consumption it would be difficult if not al-
+most impossible to replace it. The general purpose motor vehicle is
+
+a good example of this.
+
+There are enormous supplies of organic fuel in the world. which, it
+would seem, can meet the needs for energy for hundreds of years to
+come. However, the question of meeting mankind's need for energy
+is in reality quite a bit more complex.
+
+first, there are not so many ineipensive resources of organic fuel.
+the extraction fo which is economically feasible. This limitation is
+especially acutely noted in regard to resources of petroleum and na-
+tural gas. which are the very forms of fuel most preferred by the
+overwhelming majority of energy consumers and for the technical means
+
+for converting the forms of energy.
+
+5
+roe ontcm. use ONLY
+FOR OFFICIAL US! ONLY
+
+Secondly. the resources of organic fuel are distributed very unevenly
+throughout the world. Sone nations of the world. for example Japan.
+
+have scarcely any at all. Power consunption in nany other countries,
+particularly in the majority of West European nations. significantly
+
+exceed their own resources of organic fuel. which forces then to in-
+
+port oil, natural gas and coal. Por example, in I970 France imported
+nearly 67 percent of the energy that it needed: by I977 inports in-
+
+creased to 76 percent. (ll6)
+
+And lastly, a relatively small nunber of the world's nations are rich
+in organic fuel. The best example of this are the nations of the Per-
+sian Gulf.
+
+in and of itself the unevenness of the distribution of energy resources
+night not create any problens if the locations of consumption were not
+far fron the places where the fuel is extracted. In reality
+things stand quite differently: the places where the fuel is consul-
+ed are nost often far away from where the fuel is extracted. For this
+reason organic fuel in these cases nust be transported to distances
+ranging fron a few hundred to several thousand kilometers. The dis-
+tance involved in transporting organic fuel affects its cost and con-
+suner in different ways. The transport of oil and coal by sea is re-
+latively inexpensive and the need to move it several thousand kilome-
+ters does not significantly increase its cost to the consuner when
+compared with the outlays for its extraction. 0n the other hand. the
+transport of natural gas and the shipping of coal by railroad is re-
+latively expensive. A distance of several hundreds of kilo-eters is
+
+a serious econonic barrier to transporting both coal and natural gas.
+The transnission of electric power over great distances is also ra-
+ther expensive, therefore both natural gas and coal that are located
+far from the seacoaat. nust be viewed as regional energy resources.
+This in turn worsens the problem of supplying energy to those nations
+and regions of the world which do not have adequate supplies of ener-
+gy of their own.
+
+Finally the key circunstance is the very fact of the dependence of
+the inporters of organic fuel upon the conditions of import. The ea-
+calation of prices for oil in recent years has rather convincingly
+demonstrated the undesirable prospect of such dependence for the eco-
+nony of the inporting nations. in this nanner, in spite of the enor-
+nous world supplies of organic fuel, there are very sound reasons for
+coming up with other strategies for developing the power industry.
+which are based not on organic fuel but on other power resources.
+This can be the energy that is obtained by splitting the heavy nuclei
+of uranius. plutoniun or thoriun (nuclear energy). solar energy and
+synthetic thermonuclear energy.
+
+Of course. in any strategies that are being thought out, the switch
+in energy resources cannot be instantaneous. This is a long process.
+which nay last for nany decades. The nations of the world will ac-
+conplish this in various ways. In all likelihood, both the rates of
+this shift and the composition of the technical means used for adop-
+
+tion will vary.
+
+6
+m orncuu. use ONLY
+In discussing strategies for switching the power industry fron organic
+fuel to another resource base. we nust not forget that organic fuel
+has not conpletely exhausted all of its options. First. nany areas
+
+of the world have not been adequately surveyed for sources of fuel.
+
+It is likely that large deposits of oil. natural gas, and coal will
+
+be found. This is what happened recently in lexico. Secondly, re-
+gional organic resources can be nada into products that can nore easi-
+ly be transported. For exanple. natural gas can be converted into
+annonia or nethanol and coal into synthetic oil. And lastly, it is
+possible to use nonconventional (i.e., not ordinarily used) organic
+resources in the power industry. This includes, for exanple. oil
+
+that has been separated fron bituninous sands and ahalea. Tertiary
+nethods of extracting organic fuel can be used; this can increase
+their extraction fron the earth. Nearly all of these and other ad-
+ditional possibilities for "extending the life" of organic fuel are
+not presently being pursued. In addition. the largest deposits of in-
+expensive organic fuel are being discovered infrequently; it appears
+that there is a linited nunber of then on the earth. The production
+of synthetic oil, gas and coal, just as the essinilation of noncon-
+ventional organic fuels. is still relatively expensive. For this rea-
+son these additional resources of organic fuel cannot weaken our in-
+terest in exenining the abovenentioned alternatives for the develop-
+nent of the power industry of the future.
+
+The l960's of the 20th century. when significant progress was achiev-
+ed in the field of building nuclear reactors, can be seen as the be-
+
+~ginning of the developnent of one of the noat realistic alternatives
+
+- the nuclear power industry.
+
+The question is whether or not nuclear power is capable of filling
+the role of a practically unlinitad resource base for the power in-
+dustry. And this is not an easy question. There are various points
+of view on this latter.
+
+The problen is that the technology for utilising the energy of fusion
+in nuclear reactors is diasinilar. The use of tharnal neutrons in
+nuclear reactions nakea it possible to use only I to I.S percent of
+the natural uraniun - the basic natural fuel resource of the nuclear
+power industry. The known supplies of inexpensive natural uraniun
+in the world are not great. At present. according to data (39. 66)
+(not counting the CBHA nations and the Korean Peoples' Republic)
+there are about 6 to S nillion tons of uraniun. This is the equiva-
+lent of $0 to 70 billion tons of conventional fuel when using this
+anount of natural uraniun in thernal reactors. Such an anount of
+energy. of course. is not enough for nuclear power to play a global
+role in neeting the needs of aanhind for energy
+
+There is, however. one other way to extract energy from uraniun. This
+involves organizing the nuclear reaction using fast-neutrons. 'A fast-
+neutron reactor, or sinply a fast reactor. can extract fron natural
+uraniun 60 to 10 tines nore energy than can be obtained fron a thera-
+al reactor. "hat is aore, due to the low value of the fuel load the
+
+7
+FOR OFFICIAL 083 03L?
+FOR OFFICIAL USE ONLY
+
+fast reactor expands the fuel base of the nuclear power industry. by
+making it competitive with more costly resources of natural uranium.
+
+In this manner the use of fast reactors in principle is already making
+it possible to view the development of the nuclear power industry as
+
+a way to switch from limited to unlimited sources of energy. There
+are also several other additional possibilities for solving this task
+within the framework of the nuclear power industry. This includes
+
+the use of thorium. Lastly. the development of the nuclear power in-
+dustry to a certain extent determines the prospects of developing
+
+a synthetic thermonuclear power source.
+
+These considerations explain why over a rather long period of time
+the optimal strategy for the development of the power industry must
+be based upon the use of various sources of primary power rather than
+upon a single energy resource.
+
+however. all of this is in the future. which underscores the impor-
+tance of a systematic study of the future of the power industry, in-
+cluding the nuclear power industry.
+
+The science of the future - forecasting - has been developing inten-
+sively in recent years. This development is supported not only by
+the practical urgency that we noted above. but also by a lively in-
+terest in the future per se.
+
+The number of published works describing various aspects of the future
+of the nuclear power industry is extremely large; but very few works
+
+which discuss the nuclear power industry as an integral system. There
+are even few works which describe the theory and nethods for forecast-
+ing the development of the nuclear power industry. There has been no-
+thing written in world literstute that deals with this subject.
+
+The systematic approach is gradually finding its way into the method-
+ology of forecasting.
+
+Usually. when they speak of the use of the systematic approach, they
+are thinking about the need to examine an object of forecasting as a
+system. The methodology that is being developed in this manner for
+forecasting is becoming a continuation of the science concerning a
+given object. If it is a complex object, and the nuclear power in-
+dustry is certainly a couple: object. the appropriate methodology of
+forecasting becones complex.
+
+The systenatic approach in forecasting. which is restricted by the
+franework of just the object of forecasting. is inadequate. The pro-
+blen is that if the object is complex. data for forecasting must be
+gotten from experts. Such data are of a subjective nature. For this
+reason the methodological exanination must include the subject of
+forecasting and the forecasting process as the specific interconnec-
+tion of the subject and object in addition to the subject alone.
+
+IMV
+The methodology that is appropriate to this interpretation of the
+systematic approach is called systematic forecasting by the author.
+This name underscores the difference between the forecasting of an
+object as a system that is most often used. 0n the other hand. he
+manages to avoid the very generalized designations such as ”systema-
+tic approach" and "systematic analysis" in designating a more specific
+methodology. which is developed below.
+
+This book provides no specific forecasts or predictions. It does not
+provide an answer to just how the nuclear power industry will develop
+in this or that nation.
+
+The book poses another task - to obtain an answer to the question of
+how one must forecast the development of the nuclear power industry.
+To answer this question means to create a tool for forecasting.
+
+The examples provided in the book must be seen primarily as an illus-
+tration of how the proposed tool for forecasting works. Several re-
+sults were obtained through the use of mathematical models. The pro-
+blem of the conformity of the exogenous (input) data of any real sys-
+tem of nuclear power. which were obtained in the modeling procedure.
+is not discussed. For this reason the use of modeling results in a
+specific applied forecasting task exceeds the framework of the book.
+
+The book is divided into three sections. The first section is devoted
+to the thaoretical-methodological analysis of the stated task. The
+first chapter examines the basic circuitry of the conception of sys-
+tematic forecasting and provides a psychological analysis of forecast-
+ing activity. The second chapter deals with the analysis of the basic
+properties of the nuclear power industry as a system. This analysis
+has made it possible to formulate the basic requirements for a method
+of forecasting on the part of the object.
+
+The second section of the book develops the key components of a fore-
+casting method - the mathematical models of a developing nulclear po-
+wer industry.
+
+The drafting of two basic models is provided - ABS inuclear electric
+power station7 systems (chapter 3) and fuel supply systems (chap;er 6).
+Examples of ?.:i..z.. on models of A38 system are given in chapter 5.
+Chapter 6 examines questions having to do with the evolution and equip-
+ment for modeling an A88 system.
+
+The somewhat unusual location of material (a review of known models -
+chapter 6 - follows a description of the proposed model in chapter 3)
+is explained primarily by a desire to introduce the reader using a
+subsequent outline of an ABS system model as a whole. Following this
+introduction the reader will find it easier to follow the progress in
+analysing various approaches and methods of modeling.
+
+Another reason for this was a desire to shed light on several recent
+models. which are described in chapter 3. including that which was in-
+fluenced by it.
+
+9
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The third section of the book is devoted to the development of a me-
+thod for considering the fundanental phenomenon. which which one has
+to deal in forecasting - uncertainty.
+
+Chapter 7 examines one narrower class of tasks - the selection of an
+optimal strategy when faced with uncertainty in economic indicators of
+the work of a system. In chapter 8 there is a description of a common
+instance of an uncertain situation. Chapter 7 is illustrated with an
+example of using a model to make estimates.
+
+Of course, the list of nethodological questions, which arise during
+forecasting. is considerably more extensively examined in the book.
+The author did not examine such important questions as the sethods of
+forecasting the indicators of technical means; he restricts hisself
+to just an examination of systematic tasks.
+
+Everything that is dictated directly by the properties of some speci-
+fic system of the nuclear power industry due to the common methodolo-
+gical trend. also. of course. is not covered in the book.
+
+The book contains basically original developments of the author. which
+he devised personally, under his guidance or in which he participated;
+several of the materials in the book were published in journals pre-
+
+viously by the author.
+
+The author is deeply indebted to A. D. Virtser, with whom the author
+developed mathematical models of an ABS system and a fuel supply sys-
+tem and also methods for optimizing in conditions of uncertainty. The
+author sincerely thanks 0. B. Bogoyavlensksya, to whom the author is
+largely indebted for the interpretation of the psychological problems
+of forecasting. V. L. Lokshin for cooperation in developing a fuel
+supply system and Yu. S. Leaner for all the work in developing the
+
+computer programs.
+
+The author is very grateful to the responsible editor. Academician M.
+A. Styrikovich. for his considerable assistance in the-preparation of
+
+the book.
+TABLE OF CONTENTS
+
+Foreword aeeeeoseeesseneseeeeeeseoeeso0.0.000oesoowseeeasesosese
+
+In‘foduc‘ion sosesseaassess-osssseseseeeeseesseseeeeeaeessesssse
+
+«or
+
+Section I: A Methodological Analysis of the Task of Forecasting
+in the Nucle.r Po'er Indu.try oeeseeeeseeeeeseeesese '3
+
+Chapter I
+Theoretical-methodological bases of forecasting ................ l6
+|.I Regarding the structure of the science of forecasting ..... lb
+1.2 Forecasting as the interaction between the subject and ob-
+
+j‘lct 000.000..0.00.0.00.00.00.00...00.000.09.000.COOOOCOIOC l9
+l.3 The basic properties of the process of developing an object 2|
+l.4 The forecasting process and its psychological aspects ..... 28
+
+10
+FOR OFFICIAL USE ONLY
+Chapter 2
+The nuclear power industry as a system during forecasting .....
+2.I Structure of the task of forecasting in the nuclear power
+
+induﬂtfy eseeeeeeeeaeeaeeeeeeseeeeaeeseeeeeeeeeeeeeseeaeee
+
+2.2 The structure of the system ..............................
+
+Section 11. Mathematical Models of a Developing Nuclear Power
+
+Indu.try oeeaeeesseeaseeeaeeeeeeeeeeeeeaeeaeaeeeee
+
+Chapter 3
+Development of a mathematical model of a fuel suppy system ....
+3.! Modeling diagram of a fuel supply system .................
+3.2 Various ways of imitating the use of an ABS in an electric
+90"! .y.ten IDDOOOOOOOOOOOODOOOOIODOOOOOOOOOOOOOOOIIOCI.0
+3.3 Consideration of the dynamics of the use of an ABS in an
+electric power .y'te' OOOOOOOOOODOOOOOOOOOOOOOOOCOOOOCOCOO
+Fuel balances in a system ................................
+Economic indicators of the work of a fuel supply system ..
+Composition of a mathematical model for researching the
+alternatives in developing an ABS system .................
+3.7 Imitating in a model the subsequent development of new
+technical means ..........................................
+
+hbh’w
+O O O
+°\UI&
+
+Chapter 6
+
+The evolution of ideas and equipment in the mathematical model-
+
+ing of fuel supply system for the nuclear power industry ......
+
+6.| Methods of imitating the maximum economy of natural urani-
+um in fuel supply system models ..........................
+
+6.2 Methods of modeling imitation of the development in accor-
+dance with the criterion of minimal cash outlays .........
+
+Chapter 5
+
+An example of the research of various alternatives in the de-
+velopment of an ABS system using a mathematical model .........
+5.! Accepted conditions for development ......................
+Se: “n.1y.i. of re.ult. Obtllned seeaeeeeeeeseeseeeeasesseeeee
+
+Chapter 6
+
+Development of a model of a fuel supply system for the nuclear
+power industry ................................................
+6.I Allocation and analysis of basic factors for consideration
+
+in a .0691 eeeeseeeasemeeeeeeseeeeeeeeeeaeaeesesseeeaeeees
+
+6.2 Modeling diagram of a fuel supply system .................
+6.3 Description of the processes for refining fuel in a fuel
+supply system ............................................
+6.6 Criteria of efficiency of the development of a fuel supply
+lyltelll esseeoseeeaasseeeeeseeeseeeeeeeeeeeeseeeseseeeesese
+6.5 The method of seeking optimal structures for a fuel supply
+sy'te. 0000..O0.000IDOCOOOOOOOOOOOOOOOOOOOOCIOOOOOD'OOOOOI
+6.6 The role of the developed model among other models for the
+
+forecasting of a fuel supply system ......................
+
+11
+FOR 0P?ICIAL USE ONLY
+
+66
+66
+68
+S6
+56
+57
+62
+73
+79
+87
+I02
+
+I03
+
+I08
+IIO
+
+126
+
+I33
+I33
+I35
+
+I68
+
+I69
+I50
+
+I56
+I59
+I6I
+I66
+FOR OFFICIAL USE ONLY
+
+Section III. The Forecasting and Selection of an Optimal Strat-
+egy for the Developnent of the Nuclear Power Indua-
+try in Conditiona of Uncerteinty ................. I69
+
+Chapter 7
+Considering uncertainty in economic indicatora ................. I76
+7.I Method of aelecting an optimal atrategy for develop-en:
+
+when there ia uncertainty in the econonic indicatora ...... 178
+7.2 Example of eatinating using a nodel ....................... I98
+
+Chapter 8
+Conaidering the uncertainty of future conditiona of developnent
+in e generalized instance ...................................... 216
+
+ConclIJOion eeeooeeeaeaoooeeaaeeaaaaeeaeeaaaeeaeeeaaeaeaeaeeaaaaa 229
+
+ReerCI'ICG. aeeeeeeeeeeeeooeeoaeoaeeeoaaaaeoaeoeoeoooeoeoooooeooe 23'
+
+COPYRICRT: Izdatel'atvo "Nauka". I980
+
+8927
+C80: I822/18
+
+12
+FOR OFFICIAL USE ONLY
+UN 621.187.12:628.16:658.3-05
+NE" SN! DBSCRIBBS OPERATION MID MAINTENANCE OF um-mmr FACILITIES
+
+Moscow OPERA“ VODOPODGOTOVKI in Russian 1981 (signed to press 3 Feb 81) pp 1-5.
+301-304
+
+[Annotetion. foreword end table of contents fron book "Heter Treetnent Operetor".
+by Sensn Morkovich Gurvich end Yuriy Hekeinovich Kostrikin, Izdstel'stvo
+"Energoizdet". 30.000 copies. 304 pages]
+
+[Text] This book presents the sun totel of informtion needed by duty personnel
+
+of voter-treetsent fecilities st electric-power ststions end et industriel end
+centrel-heeting boiler plants. It describes the properties of weter end the sethods
+for processing it in weter-treetnsnt fscilitiss. The book describes in deteil
+
+those operations which the duty personnel csrry out in conducting snelyses end in
+controlling the wetsr-trestnent equipmt. The first edition of the book use pd:-
+lished in 1976. The second edition wes revised bessd on the reeders' wishes.
+
+This book is e precticel eid for leborstory workers end shift personnel st power
+stations end boiler plents. so well es for heat engineers, nechenice, etc.
+
+Foreword
+
+The necessity for publishing the first edition of the book Winter Treetnent Oper-
+ator" was eotivstsd by the feet thet. in the first plece, dowestic literetnre on
+inter treeteent hed not touched upon questions concerning the ectivity of the on-
+duty operstionel personnel in weter-treetnnt instslletions st electric~power ste-
+tions end in the power-production industry: in the second plsce. the duty steff
+
+in wetsr-treetsent instellstions st electric-power stetions is besicelly coqrissd
+of persons who hove obtsined the bulk of their educetion in high school end who
+hove sons vocetionsl end tecl'nicel treining. This does not provide thee with the
+entire sun of knowledge that these personnel need; thirdly. e sizesble contingent
+of persons opereting wetsr-treetnent instelletions in industriel boiler plants
+frequently do not heve speciel training in weter teclnology. Very often the
+operation of such instelletions st slell industriel enterprises is eccoqlished
+by sschinists, stokers. etc.. doing double-duty.
+
+Hhils writing the unuscript for the first edition of ”Heter Treetnent Operator,"
+the euthors begnn with the following consideretions.
+
+1. It use neceesery to give the book's renders e brief but sufficiently comlete
+ides shout the nodern stste of wster-treetnent technology here end sbroed. Addi-
+
+13
+”WNW!”
+FOR OFFICIAL [BE ONLY
+
+tionally. taking into coneideratim the baaic contingent of thie booh'e readere.
+it was neceeeary to keep the book's atyle ee underetandable aa poaaible. which.
+noreover. would facilitate ita utilization by individuala in other profeaaiona
+(heat engineere. nechanica. etc.) for general familiarization with the beeice of
+weter~treatnent .
+
+3. In addition to fulfilling the current dutiea entruated to hin by prevailing
+inetructione, the water-treatmt operator auet. on the beeie of daily obearvation
+and a atudy of the equip-ent'e operation and the technological proceaeea occurring
+within it. have the poaaibility of introducing innovative auggeationa with regard
+to uproving the operational efficiency of the equipmt and the installation on
+the whole. Theae auggeationa contribute to the conaervation of reagente and water
+expended for internal water-treatment facility neede and to a reduction in the
+coat of the proceaeed water. Therefore, thie book devotee particular attention
+
+to an exanination of the eaeence of the phyaicochenicel proceeaee taking place
+
+in the weter-treatnent inatallation'e equipment. This ahould aaeiat the operational
+personnel in their work in improving the effectiveneee and the efficiency of the
+equipaent they aervice.
+
+To what degree the content of the firat edition of "ﬁtter ‘l‘reatnent Operator" in-
+eured the aatiafactory fulfilleent of the above-atated coneideratione one can judge
+by the poeitive reaponaea froa individual readera (ea well an fro. eeveral diatrict
+power-oration chenical eervicea) which the publieher and the authore have receiwd.
+Moreover. regerdleee of theae reeponaee. one nuat adnit that the first edition
+
+of the popular handbook for operational peraonnel at water-treatment fecilitiee
+neede further inprovenent. The book required conaiderahle reviaion and additione,
+aince water-treatment tecInology in the large and enall-acale power induetriea
+
+had advanced aignificantly in the period eince the publication of the firet edition.
+One nuat also take into consideration the appearance each year of new pereonnel
+who require such a handbook. Thue, all the atated coneiderationa preeent a con-
+vincing caae for the expediency of republiahing "Hater l‘reatnent Operator."
+
+The noet eubetantial major changea and additiona introduced into the eecond edition
+of thin book can be reduced to the following.
+
+New. efficient production proceaaea for water treat-eat and new equipmt which
+
+have appeared in recent years are exanined. Special water-treataent cmditione
+
+and water reginee for etean generatora at atonic electric-power atationa are covered.
+The etatue of queetiona regarding the application of the eo-celled oxygen regine
+
+for boilera ie exanined. Detailed queationa concerning the nechaniration of water-
+treatnant facilitiea and the value of continoua water-treatnent production proceeeea
+are atated. An analyeie ia given of the application of the prevailing drinking
+and boiler-water standards by operations personnel at electric-pour stations.
+
+In addition to general questions and the technology involved in disposing of elec-
+tric-poser station discharges. the book examines nathods of switching to closed
+systans operating with full utilisation of all or at least sost of the vastes.
+
+Certain chapters concerning the scope of operational physicochuical control over
+water and stean and touching upon infor-tion relating to basic nathods of quantita-
+tive analysis and upon the operations executed in conducting this analysis have
+been revised and abridged.
+
+The authors ask that all consume and suggestions regarding the second edition
+he sent to: 113116. Moscow. 11-116. Shlyuaovaya naherealnaya. 10. Energoiadat.
+
+Contents Page
+
+Poreuord.......................3
+Chapter 1. Bases for the Physicochenical Characteristics of Hater and
+
+Aqueous Solutions . . . . . . . . . . . 6
+1.1. Sons information from physics and chsnistry. . . . . . . . . 6
+1.2. Structure of nolecules. . . . . . . . . . . . . 20
+1.3. Aqueous solutions; electrolytes; dissociation . . . . . . . . 26
+1.6. hasuring the concentration of solutions. . . . . . . . . . 28
+Chapter 2. Electric-Power Stations . . . . . . . . . . . . 32
+2.1. Classification of electric-poser stations . . . . 32
+2.2. Pure condensing electric-power stations (K33) and their basic
+equip-mt . . . . . 35
+2.3. lleat-and-electric generating plants (1'38) providing electric power.
+heat and steals. . . . . 60
+
+2.6. lleat-and-electric generating plants providing electric power, heat
+and drinking water . . . . . . . . . . . . . . . . 63
+2.5. Atonic power stations (ABS) . . . . . . . . . . . . . . 65
+
+Chapter3. Haterinlndustry. . . . . . . . . . . . . . . . 68
+3.1. Hater utilizationinindustry . . . . . . . . . . 68
+
+3.2. Hater utilization in hest-and-pover engineering . . . . . . . 51
+Chapter 6. Hater Purification. . . . . . 53
+6.1. Coarse-dispersion and colloidal impurities in natural waters . . . 53
+6.2. Hater treatnent with coagulating agents . . . . . . . . . . 55
+6.3. lsproving the efficiency of water purification. . . . . . . . 59
+6.6. Purification apparatus. . . . . . . . . . . . . . . . 61
+‘05. a“: filtr.t1m. O 0 O O C O D I I 0 O O D O O O O 6‘
+Chapter 5. Hater Softening. . . . . . . . . . . . . . . . . 76
+5.1. Heaning of water hardness. . . . . . . . . . . . . . . 76
+5.2. Methods of precipitation . . . . . . 76
+5.3. Apparatus for softening water by the precipitation nethod . . . . 77
+50‘. Lm‘ of “ter 0 O I O O O 0 d I I O I O O O m
+5.5. Hater softening by cationiaation . . . . . . . . . . . . 81
+
+soaoimlliuumv
+Chapter 6. "star Desalinization. . . . . . .
+
+O
+
+O
+
+O
+
+M OFFICIAL USE ONLY
+
+6.1. methods of water desslinization. . . . .
+
+a e e
+
+s s e s
+e
+
+e e s e
+
+s e s s
+
+6.2. Ion-exchange Hater desslinisation . . . .
+6.3. Filters for ion-exchange water desalinization .
+6.10. Ion-exchange water desalinieation installations and their opera-
+tional characteristics . . . . . . . . . . . . . . .
+6.5. Theml Hater desalinieation. . . . . . . . . . .
+6.6. Electrodialysia method of water desalinisation. . . . . . . .
+hapter 7. Hater Deaeretion . . . . . . . . . . . . . . . .
+7.1. General aspects . . . . . . . . . .
+7.2. Thermal methods of eliminating dissolved oxygen . . . . . . .
+7.3. Chemical methods of eliminating dissolved oxygen . . . . . . .
+hapter 8. Hechanization and Automation of Hater-Treatment Installations .
+8.1. General aspects . . . . . . . . . . . . . . . .
+8.2. Hechanization and automation of reagent-storage facilities. . . .
+8.3. Automation of filters . . . . . . . . . . . . . . . .
+8.4. Continuous-operation ionite filters . . . . . . . . . . .
+hapter 9. Boiler Hater Regine . . . . . . . . . . . . . . .
+9.1. General aspects . . . . . . .
+9.2. Distribution of feed-aster impurities in direct-flout boilers . . .
+9.3. Distribution of feed-water impurities in barrel-type boilers . . .
+9.4. Scale-forntion processes in boilers . . . . . . . . . . .
+9.5. Steam-quality requirenents . . . . . . . . . . . . . .
+
+Chapter 10. lleat-and-Blectric Power Station Haste Hater and Techniques for
+
+ItsDegreasing..... .. .........
+10.1. General characteristics of heat-and-electric power station wastes
+10.2. Harm water. . . . . . . .
+10.3. Hydraulic ash-removal water . .
+10.4. Hashing water. . . . . . .
+
+10.5. Oil-fouled “t0! 6 s s s e s s e s
+10.6. Chemical-purification water . . . .
+10.7. Treated solutions tron vashwif and corrosion-proofing of {thermal-
+
+powerequipment............
+
+e e e e
+
+eases
+sees
+oseeeoe
+
+O 0
+
+Chapter 11. Operations Carried Out During Control of Rater-Chemical Regimes
+
+and the Operation of Hater-Treatment Equipment. .
+11.1. Selecting tests for analysis. .
+11.2. weighted method . . . . .
+11.3. Volumetric method . . . .
+11.4. Calorimetric method. . . .
+11.5. Plane-photometric method . .
+11.6. Technique of certain operations.
+
+6 e
+
+eoesse
+sesseo
+ooseee
+moose.
+see-see
+assess
+oeoooss
+sees-e.
+assess
+sesosss
+esssess
+eooeeso
+
+Chapter 12. Methods for Determining Basic Hater-Quality Indicators During
+
+Operational Control of Heter-‘l‘reatnent and the Hater-Chemical Regime . .
+12.1. 8‘.“ mfomtim I O O O O O O 0 O 0 O 0 O O I I 0
+12.2. State of dissolved substances . . . . . . . . . . . . .
+
+summon“
+
+112
+112
+113
+115
+
+117
+121
+126
+
+125
+125
+130
+134
+
+137
+137
+160
+1“
+151
+
+153
+153
+
+158
+166
+
+171
+176
+
+179
+179
+181
+185
+189
+191
+193
+
+195
+198
+198
+201
+205
+
+218
+
+'219
+
+230
+230
+233
+12.3. Scope of operational chanical control of atean and water . . . . 239
+12.8. Dateraininz water hatches. . . . . . . . . . . . . . . 242
+12.5. Deternining water alkalinity. . . . . . . . . . . 253
+12.6. Daurnining hydrogen-ion emcentration in vatar . . . . . . . 257
+12.7. Deter-inns carbon dioxide concmtration in water. . . . . . . 259
+12.8. Deter-min: phosphate concentration in water . . . . . . . . 271
+12.9. botanining iron concentration in water . . . . . . . . . . 282
+12.10. Detarnining silica concentration in water . . . . . . . . . 288
+Mmdic.‘ O O 0 O I O I 8 O O O O 0 O I 0 O I O O O O 292
+
+mum: Iadatal'atvo ”hergoiadat", 1981
+
+9512
+(:80: 1822/26
+
+“WIKIHIJIIMY
+FOR OPTICIAL USE ONLY
+
+ELECTRIC POHBR
+
+HAYS 0P IMPROVING FUEL CONSHHPTTON AT POHER HACBTIBBUILDIIG PLANTS
+Hoecow PROHYSHLBNNAYA BNBRGBTIKA in Rueeien lo 9,8ep 8| pp Z-b
+
+Lirticle by Yu. A. Yefimov, deputy minieter of power nechinebuilding.
+end A. A. Berebeekin, chief of the Idminietretion of the chief neche-
+nic end chief power engineer of the 088R ninietry of Power Hechine-
+building: “Heye of Increeeing the Efficiency of the Bee of Puel end
+Power Reeourcee et Bnterprieee of the USSR Hinietry of Power nechine-
+building in the Ilth Five-Yeer rung“!
+
+ifex£7 1n the IOth Pive-Yeer Plen 62.000 tone of conventionel fuel.
+neerly 200 million kilowett-houre of electricity end 325.000 Gcel of
+thermel energy were coneerved et enterprieee of the USSR Hinietry of
+Power Hechinebuilding. Thie wee done by reducing the reletiwe norme
+for the expenditure of fuel end energy reeourcee (133) for the pro-
+duction of beeic product. theee eevinge were eccompliehed through
+orgenieetionel-technicel meeeuree taken by the enterprieee. Theee
+meeeuree included: the modernieetion end replecenent of outdeted
+equipment, the eliminetion of emell heeting boilere, the ewitching of
+boildere to the combuetion of neturel gee end fuel oil. the edoption
+of opereting echedulee for boilere, heeting furnecee end thermel fur-
+necee, the cerrying out of thetmotechnicel end electrotechnicel teete
+of equipment that coneunee lerge emount of energy. All of theee nee-
+euree were teken to eeteblieh the optimel expendituree of PEP end
+others.
+
+A greet deel of ettention hee been devoted to the uee of eecondery
+power reeourcee. Their uee increeeed by 22 percent during the five-
+year plan, enounting to 396,000 Gcel in I980. or 8.3 percent of the
+ennuel cameunption of thermel energy for production neede-
+
+Por the yeere I98l-l985 the ninietry ie to reduce fuel expenditure
+norne by 6.5 percent, electric power by I2 percent. end thermel ener-
+gy by 7 percent. The ninietry end enterprieee heve prepered orgeniee-
+tionel-technicel neeeuree eined et fulfilling their eeeignnente for
+
+coneerving run.
+
+In the llth Piwe-Yeer Plen work will be continued in improving the
+exieting end introducing new, leee power-coneuning technologicel pro-
+ceeeee (et preeent neerly 60 percent of the normative fuel coneump-
+tion, 70 percent of the electric power end 20 percent of thermel
+
+18
+energy are expended for technological needs). the further development
+
+of comprehensive mechanization and automation of production processes.
+the adoption in the milling production work of technological processes
+which provide a significant improvement in the quality and an increase
+in the precision of sizes of the billets that are obtained.
+
+In the mechanical processing work, where 35 percent of all electric
+power is consumed. there is an anticipated 2-fold increase in the pro-
+ductivity of all kinds of machine tools (lathes, milling tools, drills
+and boring tools, polishing tools. and others) and s 2.5- to 3-fold
+reduction in the labor intensiveness of mechanical processing. These
+indicators will be achieved through an improvement in the structure
+
+of the metal cutting machine tool park and the designs of machine tools.
+increasing the precision of obtaining billets (forged pieces. ate-pings.
+and castings). and the intensification of cutting nodes.
+
+Hithin the structure of the metal cutting machine tool park there will
+be a I5 to 16 percent increase in the number of high-productive spe-
+cialized equipment. This will be done chiefly by increasing the num-
+ber of computer numerically controlled (CNC) machine tools, including
+the machine tools of the "processing center" type. the use of which
+will lead to a I.S to 5-fold increase in labor productivity. The end
+result of optimizing the cutting modes will be a reduction in the ex-
+penditure of electric power per product unit.
+
+In forging production work the existing processes will be improved
+and new technological processes for forming, aimed primarily at reduc-
+ing the manufacturing cycle of a form and casting, will be developed.
+
+Molding and core blends and coatings will be standardized. It is pro-
+posed to provide the small-series and individual production using four
+to sir varieties of blends and one to two varieties of paints. By the
+end of the five-year plan nearly 80 percent of castings will be pro-
+duced using new quick-setting blends, which will make it possible to
+save the fuel that is expended in drying furnaces to dry the sandy-
+argillaceous blends commonly used now (the amount of fuel consumed in
+the drying process accounts for 20 to 25 percent of the consumption
+for the smelting of metal).
+
+Improving the smelting processes includes replacing the cupola smelt-
+ing of pig iron with electroinductive smelting, which will result in
+
+a savings in the use of coke. In the open hearth production work a
+substantial savings of fuel is expected as a result of replacing some
+open hearth furnaces with electric arc furnaces (the Production Assoc-
+iation "Ishorskiy Zavod" imeni A. A. Zhdanov is projected to carry out
+such a replacement).
+
+In the forge and press and thermal production facilities existing
+equipment is to be modernized and new. highly productive equipment is
+to be adopted. The technological processes of forging, stamping. ther-
+mal processing in order to obtain precision in the billets obtained.
+and the conserving of materials and energy resources are to be im-
+proved. In addition it is.plsnned to adopt highly-productive forging
+
+19
+FOR 0F?ICIAL USE ONLY
+FOR 0F?ICIAL USE ONLY
+
+and press manipulator units, equipped with high-speed manipulators
+with automated control of their work. Such machine units are being
+created at the Production Association “Ixhorskiy saved” imeni A. A.
+Zhdanov and at the Kramatorsk Plant "lnergomeshspetsstal'" Lspecial
+steel for power machinehuildingY. The productivity of the forging in
+the automated units is [.8 to .2-fold greater than in free forging.
+The quality of the forged pieces is significantly higher. And there
+are few margins in size, which results in a savings of metal and
+electricity during the mechanical processing of the forged pieces.
+
+In forge and press and thermal production work a large amount of fuel
+is expended on heating the metal in the heating and thermal furnaces.
+The basic trends in raising the efficiency of using fuel in these
+furnaces are: improving the designs. equipping with recovery units
+(using exhaust gases to heat the air entering the combustion chamber)
+and automatic temperature control systems and systems for maintaining
+the optimal correlation between gas and air. equipping with more ef-
+ficient burners (for example. when using GTPS burners in place of TSP
+burners there is an approximate 5 to 8 percent reduction in fuel ex—
+penditure; such burners are used in several thereal furnaces at the
+Production Association "Ishorskiy savod").
+
+An effective method of reducing the relative expenditures of fuel in
+thermal and heating furnaces is to reduce losses of heat through the
+safety structures by using highly-efficient thermal insulating mater-
+ials (in place of the traditionally used firebrick) for the lining of
+furnaces. for example the fibriforg refractory slabs. which were de-
+veloped by the VNIPIteploproyekt LAll-Union Scientific Research and
+Designing Institute of Thermal Equipmen£7.
+
+Tests of new designs of linings at the Production Association ”Ishor-
+skiy savod" have shown that when using the fibriform slabs there is
+
+a reduction in heat losses and fuel and electric power consumption
+
+of IS to 20 percent. There is an 8 to 10-fold reduction in the weight
+of the linings and a 2 to 3-fold reduction in labor expenditures for
+constructing and repairing linings; the productivity of the furnaces
+rises and there is s ID to IS percent reduction in the thermal proces-
+sing cycle.
+
+In accordance with the plan that the ministry devised in the llth
+Five-Year Plan the modernisation of existing and the construction of
+new thermal and heating furnaces using fibriform refractory materials
+will be continued. This will provide an opportunity to significantly
+reduce the expenditure of fuel and electric power during heating and
+the thernal processing of manufactured articles (in the production as-
+sociations "lxhorskiy sewod”, “Atommash”, “Khar'kov turbine plant"
+imeni S. H. Kirov, and at the Kramatorsk Plant "Bnergomeshspetsstel'").
+
+The enterprises of the USSR Ministry of Power Kechinebuilding have
+their own power generating plants, industrial boilers. a TlTs. coe-
+pressor, puep and oxygen facilities. These plants consume a signif-
+icant amount of primary energy resources (the boiler facilities and
+
+20
+FOR OPVICIAL USE ONLY
+TITe. for ere-pie. coneune neerly 60 percent of the totel nornetive
+expenditure of fuel end the conpreeeor fecilitiee coneune neerly I8
+percent of the electricity expenditure). For thie reeeon e greet
+deel of ettention will be devoted to the retionel uee of fuel end
+energy et theee plente end to inproving their operation. The trende
+for increasing the efficiency of the wee of TBR in the power generet-
+ing converter end trenenieeion plente end the pipelinee elong with
+_replecing outdeted equipment end networke with new onee include:
+noderniretion end rebuilding in order to increeee efficiency end re-
+liebility. reducing to e nininun the loeeee of the produced power
+cerriere, end optiniring their uee.
+
+The plenned nodernieetion of the enterprieee' boiler equipnent in-
+cludee equipping the boilere with eutoneted conbuetion. eutoneted
+
+gee enelyeere for nonitoring the quelity of conbuetion of fuel end
+note inproved deeigne of econonieere end bleet heetere. replecing
+burnere with new progreeeive deeigne end replecing the convection
+heet eurfecee of the boilere with nenbrene eurfecee. Heer-reeietent
+coetinge will be epplied to the heeting eurfecee of the pipee of
+the boiler unite (thie includee gee-powder eeelting) in order to in-
+creeee their eervice life. to cut repeir coete end to decreeee loeeee
+of TBR. ceueed by eeergency ehutdowne of the boilere.
+
+During the leet five-yeer plen in eewerel boiler fecilitiee the PTVh-
+50 boilere were modernized: the noeelee were repleced. the heeting
+eurfecee were rebuilt. edditionel two-light ecreene were inetelled.
+end eutoneted burner devicee end gee enelyeere were inetelled. In
+addition, opereting node neeeuree were undertehen. Ae e reeult the
+productivity of the boilere wee increeeed hy I0 percent end efficien-
+cy reeched 89 percent. siniler work will be done during the llth
+Five-Year Plen.
+
+A eubetentiel eevinge in electricity will be obteined through the
+eodernieetion of the conpreeeor plente end the rebuilding oi the
+eir pipee. The coepreeeor plente will be equipped with unite thet
+regulete productivity end with devicee for drying end heeting con-
+preeeed eir. The replecenent of the circuler velvee of the pieton
+coepreeeore with direct-flow velvee will be continued. Thie will
+neke it poeeible to reduce the loeeeevof conpreeeed eir end thie in
+turn will reeult in e reduction in the erpenditure of electricity.
+Replecing the nechine energieere of the conpreeeor enginee with
+thyrietor convertere will eneure e reduction in the enpenditure of
+electrkﬁty by one cubic eeter of conpreeeed eir.
+
+An exteneive progren ie plenned in orgenieing end inproving the ec-
+counting end nonitoring of the expenditure of TIR. The eccounting
+end nonitoring ie to be done on en individuel ehop beeie. including
+eechine unite thet coneune lerge eeount of energy. At eeverel of the
+lerge enterprieee of the power nechinebuilding eector in the llth
+rive-Yeer Plen it ie plenned to put into operetion eutoneted inforne-
+tion-eeeeuring eyeteee for keeping treck of end monitoring electric
+power.
+
+21
+’0! OFFICIAL 088 ONLY
+FOR OFFICIAL USE ONLY
+
+The eutonetion of the regulation of the paraneters of the heat carri-
+ers in the thermal networks is to provide considerable savings of ther-
+nal energy. Toward this end the Ministry of Power Nachinebuilding
+
+and the Ministry of the Electronics industry have jointly developed
+
+s plan to cooperate in the production of electronic heating regula-
+tors. Tests of an experimental nodel of s regulator, which was in-
+stalled in 1980 in the adniniatrative building of the Production Ae-
+sociation ”Nevakiy zavod" ineni V. I. Lenin demonstrated that when the
+temperature of the feed water is suto-eticelly lowered at night in the
+sector that is equipped with an autonatic regulator. the savings of
+thermal energy anounts to 25 to 30 percent.
+
+One of the trends in censerving thernsl energy at enterprises of the
+power nachinebuilding sector is to reduce heat losses of buildings.
+For these purposes the plans that are being drawn up call for re-
+tional space-planning and design solutions: the sexinun obstruction
+of industrial buildings. reducing the perineter of external wells and
+the aaount of glass. inproving the insulation of the enclosing de-
+signs of the buildings, and adopting nore rational heating systens.
+Such neaaures are to be accomplished during the capital repair work
+on existing industrial buildings.
+
+In order to use the low-potential heat of the vented discharges at,
+several enterprises of the power nachinebuilding sector they are Isn-
+ufacturing experimental nodels of revolving regenerative heet ex-
+changers.
+
+Several organizational measures aimed at increasing the savings and
+the efficient use of TBR are to be taken. Toward these goals at each
+enterprise of the power nachinebuilding sector they have crested
+pernsnent operating counissions. which are nade up of designers. pro-
+duction engineers, netsllurgists. nsteriel-technicsl supply workers,
+and representatives fron public organizations. as well as power engi-
+neers. The job of these cosnissions is to: look for ways to conserve
+fuel. thermal and electric power. to nonitor their expenditure. to
+adopt seaaures for their conservation, and to undertake an extensive
+education program among the collectives of the enterprises. These
+tasks can be successfully solved only with the constant work in this
+direction of the entire collective of each enterprise.
+
+COPYRIGHT: Bnergoizdst, "Pronyshlennaya energetiks". I98!
+
+s
+
+8927
+C30: l822/28 END
+
+22
+you onrcui. us: om:

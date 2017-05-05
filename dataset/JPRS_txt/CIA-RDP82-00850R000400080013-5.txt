@@ -1,0 +1,3238 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10159
+3 December 1981
+
+Worldwide Report
+
+TELECOMMUNICATIONS POLICY,
+RESEARCH AND DEVELOPMENT 3
+
+(FOUO 17/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODCCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10159
+3 December 15
+
+HORLDHIDE REPORT
+TELECOMMUNICATIONS POLICY, RESEARCH AND DEVELOPMENT
+(POUO 17/81)
+
+CONTENTS
+
+158R
+
+Integrated Istok Analog-Digital Commicationo System Test
+
+Results
+(L. Ya. Hisulovin, et 31.; BEKTRDS'JYAZ', Sep 81)..............
+
+WEST EUROPE
+
+IT ALY
+
+Equipment Used at Rai Ht. Vanda Transmitting Station
+(Giulio Paolo Pacini; ELE'I'I’WICA B BEOOHUIHCAZIGII.
+
+my’Jun 81).0.0I...000.00....OOOOOODOOIDOOOIOOOOOOOOIOIOOOCOOO.
+
+Silicon Avalanche Photodetector for Optical mmmimtions
+(H. Conti. et 31.; BIE‘ITRGIICA B TELBCXMJNICAZIWI,
+
+my‘Jun Bl)vouuovoouooolonoonnn5.pI.0000-00--ooo-vooo-ubouooooo
+
+- a - [III - WW - 140 POUO
+
+FOR OFFICIAL USE ONLY
+UDC 621.395.3553
+INMRATED ISTOK ANALOG-DIGITAL COIHUNICATIONS SYS'IDl TEST RESULTS
+
+Moscow ELEKTROSVYAZ' in Russian No 9, Sep 81 (manuscript received 13 May 80)
+pp 4-10
+
+[Article by L.Ya. Hisulovin, V.V. Makarov and Yu.A. Baklanov: "Test Results of the
+Integrated Analog and Digital Cmumunications Systen: the 'Istok' Analog and Digital
+unified Communications Network"]
+
+[Text] The development of the first analog and digital communicaLiona system with
+centralized control within the bounds of a network section has been completed in
+
+the USSR and the nations of socialist cooperation, where this system is called the
+"unified (for the USSR and GDR) analog-digitalcommunicationssystem", the "Istok"
+YeSS ATs. The system design is the result of the cooperation of two CEMA member
+nations: the USSR and GDR. The major switching components. basic circuits and soft-
+ware were developed by USSR specialists while the GDR specialists designed the basic
+structure, including the connectors, operational process fundamentals and designer
+documentation for the control complex.
+
+Two test regions were set up to conduct thorough tests of the unified analog-
+digital communications system equipment: in the Istrinskiy rayonof the Moskovskaya
+oblast and in Berlin. Both regions were created through the joint efforts of USSR
+and GDR enterprises. The alignment and testing of the equipment in the Istrinskiy
+test region were performed by USSR specialists, while in the berlin region, it was
+done by USSR and GDR specialists.
+
+The tests of both zones were completed at the beginning of 1980. The results of
+the tests made it possible to correct the design documentation for the sytem and
+turn it over for industrial production in the USSR and GDR, as well as work out
+the system program software for series production and work up the operational
+documentation. But getting the "latch" YeSS ATs in series production also poses
+new problems: the creation of a single programing center and a center for train—
+ing operational personnel.
+
+The successful completion of tests of the lstrinskiy test zone of the "Istok"
+
+YeSS ATs is the result of the self-sacrificing labor of equipment designers and
+specialists of the Istrinskiy RUS (regional communications center).
+
+F0!‘0FFHJA1.USE¢NVLY
+FOIIOFFKJAI.USE(MVLY
+
+work is now underway on the utilization of the "Istok" YeSS ATs as a municipal ATS
+[automatic telephone exchange], for which the maximum capacity of the system is
+being expanded up to 8.000 - 10.000 numbers.
+
+The first industrial models of the "Istok" YeSS ATs will be installed in the
+Ogre RUS of the Latvian SSR (Liyelvarde) and in Saratov.
+
+The Organization of the Istrinskiy Test Zone. The structural configura-
+tion of the Istrinskiy test zone communications network of the unified analog-
+digital communications system is shown in Figure l; the zone is inscribed within
+the bounds of the existing telephone network. The unified analog-digital communi-
+cations system test zone, just as all rural telephone networks (STS), is designed
+on a radial junction center principle; included in it were the key exchange, OPS
+(type I) and three terminal exchanges OSl - 083 (type 3). The key exchange was
+incorporated as a central exchange while the 081 — 083 exchanges were included as
+terminal offices. In order to assure completeness of the tests, the key exchanges
+of the test zone, in contrast to the key office of a conventional rural telephone
+network. has a direct output to the regional ATS's and AHTS's (automated long-
+distance telephone exchanges] of Moscow.
+
+Several junction line (SL) trunk grOups were set up between the central exchange
+and the key exchanges. The 031 [terminal exchange 1] was connected to the key
+exchange via physical junction lines (FSL). and a conmon control channel, OKU-FSL,
+was set up to form the remote control system for 051 via two two-wire physical
+junction lines. The 052 and 053 terminal offices were connected to the key ex-
+change via IKM [PCE. pulse code modulation] channels, where two channels were used
+in both cases to check the stand-by system. Linear PCH channels were set up using
+the "Zona" equipment. where the IKE-30 transmission system was used as the termi-
+nal stations.
+
+All of the call routings which were set up in the communications network of Figure
+l are indicated in Table 1. As can be seen from the table, 68 different call
+routings were established in all. We note that the control of all calls, as well
+as the offering of additional services (Dvo) and all technical operations (TER)
+were accomplished under the control of the central control unit (TsUU), installed
+at the key exchange. It was necessary to design program software (P0) with a
+volume of 200 Kbytes for the central control unit to realize all of the functions
+enumerated above.
+
+Supplemental kinds of services were made available to subscribers in the test
+zone, which are shown in Table 2. The types of technical operations realized in
+the test zone. as well as brief description of their contents, are given in Table 3.
+
+A block diagram of the prototype exchanges for the unified analog and digital com-
+munications system which were installed in the Istrinskiy zone is shown in Figure
+
+2 with the equipment indicated, which was housed in more than 20 bays. The follow-
+ing symbols are used in the drawing:
+
+2
+
+FOR<0FFNJAI.USE¢NVLY
+"—,~.——_..—.
+
+_. _______ (3)./ : Aloe/(6a Moscou
+P176
+
+       
+
+ 
+
+(7) new n- ‘ .\ .- \ ~--- 01mm: (11)
+- i : "+- mmrv (12)
+/. i I m (13)
+,/
+[nu/blmlt- I
+mom
+1 (9) | I
+l 1 l
+
+Key: 1. Tss - central office;
+2. MS - regional long distance exchange;
+3. RATS - regional automatic telephone exchange;
+lo. ms - automatic long distance telephone exbhange;
+5. OPS - key telephone exchange;
+6. 081 - terminal exchange 1;
+7. Test zone of the analog-digital unified comunications
+system;
+8. Pokrovakoye village, OS3 [terminal exchange 3];
+9. Settlement of Pavlovskaya Slobods;
+10. 052 - terminal exchange 2;
+ll. Counon control channel for physical junction lines;
+12. Voice frequency telegraphy channels;
+13. Physical junction lines.
+
+AH [AK] - subscriber sets which serve for the subscriber line loop;
+All [AL] - subscriber line;
+ALlO [ATsO] - the analog-digital equipment of the 1101-30 transmission system;
+
+EM [BALI - block of subscriber lines; the switching equipment to which a sub-
+scriber line is connected; intended primarily for concentrating
+(compressing) the telephone load;
+
+FOR OFFICIAL USE ONLY
+FOI‘OFFKJA1.USE(M§LY
+
+GHH [BKK] ~ the set connection unit for connecting service sets which are busy only
+in the stage of making a call connection to junction line sets. which
+are occupied both during the stage of making a call connection and
+during the conversation;
+
+FONT [BOLT] - terminal line channel unit of the "Zona" equipment; the line signal
+repeater, remote power supply for unattended repeaters and service
+intercom system are installed in it;
+
+SCH [ESL] - junction line block; the connection equipment to which the junction
+line sets and service sets of various kinds are connected; it serves to
+provide access to the trunk groups for various instruments;
+
+HAT [KAT] - subscriber call fee determination set, intended for transmitting the
+call fee pulses to meters installed at the subscriber;
+
+HHC [KKS] - conference call unit to provide for a joint conversation with up to
+eight conference participants;
+
+HEN [KSL] - junction line set, which powers the subscriber microphone in the case
+of an external call (with respect to the exchange in which the sub-
+scriber is incorporated);
+
+HCIBJ HCIM3 [KSLV3. KSLIS] - junction line sets (incoming and outgoing three-wire
+units) serve for the transmission and reception of
+interaction signals with an electromechanical auto-
+matic telephone exchange;
+
+HC-nTH [KS-PIN] - switching system for the connection of the tonal dialing
+receiver (Pm) to the service set (SK); the necessity for it is
+due to the fact that the time the PTN is occupied is less than
+the time that SK is occupied; V
+
+UHY-OCH [OKU-FSL] - The common control channel for physical junction lines; the
+direct and back-conversion of the control signals transmitted
+in both directions between the key exchange and terminal
+exchange 1 are accomplished in it: a series quasi-ternary code
+into the line and a parallel two-level "one of four" code in
+the direction of the exchange;
+
+HTH [PTN] - the touch tone dialing receiver which serves for receiving the touch
+tone dial signals for a number from a telephone set with a touch tone
+
+keyboard;
+
+ﬂyy [PUU] - the peripheral controller for interfacting the high speed central
+control unit to the relatively slow switching equipment;
+
+CH [SK] - a service set. used in the process of making a call connection between
+an exchange and a subscriber line; it feeds out the tone and ringing
+signal and receives the ten-step code dialing signals;
+
+04' [SKG] - Dc service complex, which serves for transmitting and receiving Dc
+signals and is used in the process of establishing call connection of
+
+an exchange with a junction line;
+
+FtIICHHNCJAI.lEﬂ£(N‘EV
+CHM [SKch] - the same as the SKB, but only for frequency [AC] signals;
+
+YH [UK] - the
+
+control conplex - the central controller for the entire analog-
+
+digital unified communications system;
+
+YCHl [USKl] -
+
+YCHZ [USK2] -
+
+YCHJ [USK3] -
+
+channel interface; the direct and back-conversion of "tine--space"
+type digital signals are accouplished in it: time nnltiplexing of the
+individual channels is provided in the direction of the channel end
+and spatial multiplexing is provided in the section of the ESL
+[junction line connection block]; in both cases the signals are
+digital. Moreover, the 0581 performs the functions of a common
+control channel via the PCH channel (OKU-IKH); in this case. the
+control instructions undergo direct and back "series-parallel" con-
+version: in the direction of the PUU [peripheral control unit], the
+instruction is represented by a parallel code and in the direction
+of the line channel. by a series code;
+
+the same as USKl. but without the function of the cocoon control
+channel via the PCH channel;
+
+the same as the USKl. but without the "tine--space" conversion
+function;
+
+un4 [ShK] - the patch cord equipment, intended for powering the microphones of the
+calling and called subscribers in the case of call connections within
+an exchange.
+
+The operational principle of this comunications system is described in [1].
+
+TABLE 1
+
+_ E
+
+- oumomc E
+
+H: Ion-nu
+
+ 
+
+Symbols used: "+" are for a direct connection;
+
+Circles: the call connection
+passes through the key
+exchange;
+
+Squares: the call connection
+passes through the central
+office;
+
+Diamonds: the call connection
+passes through the key
+exchange and the central
+office;
+
+Dashes: the call connections
+which were not incorporated
+in the test program.
+
+FOI‘OFIIChkl‘JSEGMWLY
+F0l(lﬂﬂK1ALI£ﬂEONlY
+
+[Key to Table l]:
+
+. Existing network of Istra;
+
+Hoscow;
+
+Long distance network;
+
+OPS [key exchange];
+
+. OSl [terminal exchange 1];
+
+082;
+
+. 053;
+
+TsS [central office];
+
+RHTS [regional long distance telephone exchange];
+. RATS [regional automatic telephone exchange];
+ANTS [automatic long distance telephone exchange].
+
+HOWQNO-r5wNI-I
+
+1—:—
+
+The tests of the "latch" prototype were broken down into three stages, each of
+which had its own program and testing procedure:
+
+--The line tests, during which the operability of the system when making individual
+call connections was checked and the electrical parameters of the speech channel
+were measured;
+
+--Experimental operation with the simulation of a subscriber load, which was
+created by the staff workers performing the tests; the task of this stage was to
+check the operational capability of the test zone under dynamic conditions;
+
+-Test operation with actual subscriber. In this stage, 96 telephone sets were
+connected to the key telephone exchange, 52 sets to 051 [terminal exchange H,
+17 sets to 082 and 17 sets to 083; 180 telephone sets were connected in all.
+Because of the incomplete utilization of the installed subscriber capacities
+during trial operation with actual subscribers. a supplemental subscriber load
+was produced with test telephone sets designed so as to bring the overall load up
+to six to eight calls per day per installed telephone set. The task of this
+stage was to check the operational stability of the equipment with long term
+exposure to the actual load.
+
+The functioning of all components and the system as a whole was checked during the
+line testing stage; the electrical measurements confirmed the high quality of the
+speech channel.
+
+Despite the positive results of the line tests, a whole series of characteristic
+
+defects were found in the trial operational stage with the simulation of the sub-
+scriber load. where these defects were immediately eliminated. The following are
+to be numbered among them:
+
+In the program software: the initiation of the search program cycles for trunk
+routes (SP) with the overflow of the common memory field; "hanging-up" calls
+because of errors in the SP search program: "hanging-up" calls when the servicing
+
+FIIICNHHCJAI.lEHEIHVLV
+Designation of
+the Service Brief Description of Service Contents
+
+Conference Makes it possible to hold a conference
+
+calling between three to eight participants,
+including the caller setting it up.
+
+Call transfer Permits the subscriber to order his own
+
+to another telephone to transfer a call to another
+
+telephone telephone when he is absent
+
+set (TA)
+
+Stand-by with Permits placing the calling subscriber on
+
+return call-up hold when the called subscriber is busy.
+After the latter is cleared, the calling
+subscriber is first called, and after his
+answer. then the called subscriber.During
+the holding time, the calling subscriber
+can make outgoing and receive incoming
+calls.
+
+Abbreviated Makes it possible for the subscriber to
+
+number dialing call subscribers of local, zonal and long-
+distance networks by means of dialing an
+abbreviated number.
+
+Call without Makes it possible to call a subscriber of
+
+nunber dialing a local, zonal or long distance network
+without dialing the number by means of
+taking the receiver off the hook.
+
+Transfer of a Makes it possible for subscriber A (or
+call connection 3), who is having a conversation with
+to another sub- subscriber B (or A), to connect sub-
+
+scriber subscriber B (or A) with subscriber c,
+in this case, eliminating himself from the
+call.
+
+Obtaining inform- Permits subscriber A, who is having a
+
+ation during a conversation with subscriber B, to call
+
+conversation up subscriber C, and after obtaining the
+the information, return to the interrupted
+conversation with subscriber B.
+
+Inhibiting in- Permits a subscriber to temporarily
+coming calls for block incoming calls from all subscribers
+an indicated until the time stipulated in the order
+period of time expires.
+FOIiofIICIAl.USE(NVLY
+
+ 
+
+ 
+
+ 
+
+TABLE 3
+O
+Item No. Kind of Technical ----Brief Description of the Contents of the
+Operations Technical Operations
+1 Call fee Metering local conversations (the number
+determination of chemo in centralized counters (in the
+
+memory of the central control unit) and in
+meters installed at the subscriber
+
+2 Statistics Gathering data on the number of calls
+which came in and the number of conversa-
+tions which took place
+
+3 Technical Monitoring the operability and diagnosing
+servicing faults in sets which participate in making
+a call connection, as well as in the
+switching system, peripheral controllers,
+subscriber lines and the control complex
+
+6 Operator communi- Feeding messages to the operator concern-
+cations with the ing the failure of individual devices or
+system defective situations (failures) during the
+
+time a call is handled . Operator actions
+during technical servicing are: feeding
+punched tapes and out in real time. block-
+ing and releasing functional devices,
+analyzing the status of main frame memory
+data files on the handling of calls,
+feeding out data on a change in the
+category of subscriber lines.
+
+ 
+
+ 
+
+remand register (RTO) overflows because of errors in the analysis programs;
+"hanging-up" subscriber sets in the oriented check memory in the case of outgoing
+calls because of errors in the external outgoing traffic programs: false register-
+ing of failures in the PUU’s [peripheral control units] because of interference in
+the scanning matrix and inadequate reliability of the programslfor timely monitor-
+ing of the operational capability.
+
+In the hardware: a change in the number of channels connected to the speech channel
+(pulse code modulation), on the operation of the 0K0 [common control channel];
+incorrect connection and disconnection of equipment participating in establishing
+cal! connections because of unstable operation of the PUU programmers of the OSl~-
+053 terminal exchanges; incorrect connection and disconnection of equipment partic-
+ipating in making call connections because of the generation of "false" control
+data for the ccmmnon control channel. Failures of certain peripheral control unit
+circuits of the os1-os3 terminal exchanges with repeated interruptions in the
+primary mains voltage (220 volts).
+
+IIHRCIWHCIAI.U§E(NULY
+69:20.3 ago—333 00:33.... 98” ﬂoccuwuu auumu
+mowcncuxo one—333 00:33.". use“ 0333.3
+name—£88 2.0.33.3 039.39.... Hacoamun 3030:
+“oucmsuxo oceanoaou nauseousw auuou
+
+. . .N ouauuh
+
+ 
+ 
+
+ 
+
+Anv
+.3355 ‘5 Et‘
+833‘93‘ 93
+3:5 I. -.
+1.. “Mai: a
+uuwdaouucoo
+$3.32.: a E E \. E
+u .‘m .
+
+I m . gn— — _ ‘
+riugg ‘3‘ 3‘ . E A 3
+
+206393 :a on
+
+unmasuxu
+”5:th
+~b§
+
+     
+
+     
+
+ 
+
+any: Jaq1xasqns
+
+an” mquasqns
+
+FOR OFFICIAL USE ONLY
+
+particular. software errors. The YePS [not further defined] connectors produced by
+the GDR proved to be just as reliable. The control unit for the analog-digital
+unified communications system produced by the "Robotron" combine during the testing
+period from June to December of 1979. as well as up to the present time, did not
+have a single flaw.
+
+It should be noted that following the elimination of the bulk of the program errors,
+the trial zone operated better when there were either no operational personnel at
+all or the personnel were of the intermediate skill level, since the highly skilled
+workers (designers), having confidence in their ownknowledge did not always inter-
+vene in system operation with justification, something which causes additional short
+term interruptions in system service which were noted above (25 percent of the
+cases).
+
+The Berlin Test Zone. To check the operational performance of the analog-
+digital unified communications system under actual GDR telephone network operating
+conditions, a test zone for the analog-digital unified communications system was set
+up in Berlin, which was practically analogous to the lstrinskaya zone (one key
+exchange and three terminal exchanges). This zone was tied into the Berlin tele-
+phone network, and internal. local. long distance and international calls were made
+with it. In all. more than 300 subscribers were connected to the Berlin zone ex-
+changes.
+
+During the time of trial operation of the system, the overall losses in the case of
+internal communications amounted to 2.2 percent. This loss level drops off to 0.6
+percent (similar to the Istrinskaya zone), if losses are excluded which are related
+to program errors which were found. The overall losses for the case of external
+service amounted to 1.9 percent.
+
+Among the call connections which were made in the Berlin test zone. it is interest-
+ing to note the international ones, where the subscribers of the trial zone of the
+analog-digital unified communications system in Berlin were automatically connected
+via the international telephone network to the analog-digital unified communications
+system test zone subscribers in Istra in the Moscow oblast.
+
+11
+
+HDR‘OIWNCIAI.IEHE(N‘LY
+IKHROFFKJALIEEIONLY
+
+The trial operation of the Berlin test zone which was carried out at the start of
+1980 went successfully.
+
+Technical Economic Indicators of the Analog-Digital Unified Communica-
+tions System. The "Istok" YeSS ATs has a number of special features and unique
+
+differences from well known foreign communications systems, which extend its caps-
+bilities and improve its economy:
+
+-The system can operate both with autonomously controlled quasi-electronic auto-
+matic telephone exchanges and with the key exchange of an integrated communica-
+
+tions system with centralized control within the bounds of a communications net-
+work section;
+
+--It can switch both analog and digital signals without the forced conversion from
+one form to the other (for switching purposes);
+
+—-Remote1y controlled terminal stations can be connected to the key office both via
+PCH channels and physical junction lines;
+
+--The system has a custom designed integrated selector switch;
+-—It does not require air conditioning. forced ventillation or false floors;
+
+—-The system is put together using elements and technology available in the USSR
+and the GDR.
+
+--As compared to a communications network equipped with crossbar automatic tele-
+phone exchanges and transmission systems with frequency multiplexing of the
+channels. the communications network organized with the "Istok" analog-digital
+unified coumunications system has the following advantages: the overall volume
+of equipment and area occupied by it are reduced; the process of technical oper-
+ation has been automated and centralized, something which is accompanied by a
+reduction of several times in the operational labor intensity; the quality of
+the speech channel and the carrying capacity of the system have been sharply
+increased; its reliability has risen sharply while the number of faults has
+been reduced; subscribers are offered additional kinds of service; the possibi—
+iity of transmitting digital data at a high confidence level is provided; the
+products list of equipment has been reduced, and the throughput per unit of
+production area has increased.
+
+It should be noted that all of the advantages of "Istok" YeSS ATs exchanges can
+be fully utilized in an integrated mode if a PC“ transmission system and primary
+
+power supplies for the terminal stations adapted to these exchanges will be
+designed.
+
+International Approval. A working exhibition model of the analog-digital
+unified coumunications system [2] was constructed in a short period of time by
+GDR enterprises working from corrected documentation; this prototype was success-
+
+fully exhibited at the "Telcom-79" international exhibition in Geneva. This same
+prototype was exhibited at the Leipzig spring fair in March of 1980. In this case,
+
+12
+
+FOI1053K3A1.USE(NNLY
+the results of the tests in the Istrinskiy and Berlin test zones were already taken
+into account in the documentation from which this prototype was constructed.
+
+A control complex developed jointly by USSR and con specialists is used as the
+central control unit in the "Istok" Yess ATs. A prototype of the control unit for
+the analog-digital unified communications system (UK 4310) was built in the GDR
+"Robotron" combine. It was exhibited at the international exhibition devoted to
+the 30th anniversary of the CEMA. which was held in Moscow in June of 1979, after
+which it was used to conduct the tests in the Istrinskiy test zone.
+
+BIBLIOGRAPHY
+
+I. "Integral'naya kvazieicktronnaya analogo-tsifrovaya sistema svyazi - IKE ATsSS"
+("An Integrated Quasielectronic Analog and Digital Communicatid1s System, the
+IKE ATsSS"], ELEKTROSVYAZ' [ELECTRICAL COMMUNICATIONS], 1975, N08. 10. 11.
+
+2. Tietze P.. "Demonstrations-muster von Einrichtungen einer ENSAD Ortszentrale"
+
+["Demonstration Model of the Equipment of an Analog and Digital Unified Communi~
+
+cations System Local Central Office"], FERNHELDETECHNIK [COMMUNICATIONS
+ENGINEERING], 1979, No. 5.
+
+COPYRIGHT: IZDATEL'STVO "RADIO I SVYAZ'", "ELEKTROSVYAZ'", 1981.
+
+8225
+C50: 8344/0140
+
+13
+
+FOR OFFKJAI.USEGDNLY
+EQUIPMENT USED AT RAI HT. VENDA TRANSMITTING STATION
+Turin ELETTRONICA E TELECOHUNICAZIONI in Italian Hay-Jun 81 pp 98-114
+
+[Article by Giulio Paolo Pacini*: "Combining Units for FM Broadcasting Transmitters
+--Equipment for the Mt Venda Transmitting Center"|
+
+[Text] Summary--Combining Units for FM Broadcasting Transmitters (Equipment for the
+Transmitting Center of Mt Venda)--This paper deals with a general description of the
+operation of a combining unit for frequency-modulated broadcasting transmitters, and
+of the structure of distributed constant circuits which are the most appropriate for
+the implementation of these combiners. Moreover, it presents some examples of pro-
+totypes, designed and set up at the RA! Research Center, which have been manufac-
+tured in a small mass-production for the RAI transmitting equipment. Particular at-
+tention is given to one prototype implemented, as a unique model, in the Transmit-
+ting Center of Mt Venda: it represents a significant example because of the particu-
+lar problems its design has posed, owing to the small percent distance between ad-
+jacent frequencies in the transmitters, as well as to their high power.
+
+1. General Remarks
+
+The FM radio programs transmitted by RAI in the 87.5-105 HR: band and radiated by a
+transmitting center or by a bounce repeater are generally three and in some cases
+four in number. They are normally radiated by a single wide-band antenna and not by
+various separate antennas; this is because of the costs of the big transmitting an-
+tennas, the power cables and installation, the space taken up in relation to the
+gain and the solution of other, collateral problems.
+
+The radiation of several programs from a single antenna requires the use of a com-
+
+bining unit that has the task of combining the power of various transmitters in a
+
+single antenna cable, with proper insulation maintained between the transmitters
+connected to the unit.
+
+In addition, the combining unit must offer good adaptation of impedance to the
+transmitters; it must not introduce considerable power losses off the carrier or off
+
+* Doctor of Engineering Giulio Paolo Pacini of the Research Center of RAI [Italian
+Radio Broadcasting'snd Television Compaayl-Turin.
+
+Typescript received 12 March 1981.
+
+14
+
+FINICHHNCJAI.USEGDNLY
+FOR OFFICIAL USE ONLY
+
+the side bands, and it must not introduce into the signal in transit considerable
+distortions of phase and amplitude, that would be found in the demodulated low-band
+stereophonic signal in the form of harmonic distortion, intermodulation, linear and
+nonlinear diaphony, improper amplitude/frequency response.
+
+2. Description of Several Combining Cirucits for FM Transmitters
+
+The circuits that make it possible to combine two or more PH transmitters can be
+constructed in several ways, depending on the characteristics of the installation,
+the number and power of the transmitters, and especially, the gap between two con-
+tiguous carriers. They break down fundamentally into two groups: star circuit, and
+ring circuit with hybrids.
+
+2.1. Star Circuit
+
+The basic diagram is as indicated in Figure l for the case of three transmitters.
+These feed three lines that converge at a common point 8 (the center of the star),
+to whcih the antenna cable is also connected. From each of the three lines is
+shunted. at a quarter-wave from point 5. a filtering network F with passbsnd charac-
+teristic: it presents high impedance at the frequencies of the transit channel, and
+very low impedance--and therefore high sttenuation-—at the frequencies of the other
+two channels.
+
+ 
+
+0“
+
+Figure 1. Diagram of EM combining unit constructed with star circuit
+
+If one considers. for example, the TXl transmitter with carrier at frequency f1, the
+corresponding signal can transit on its own line through the F1 network but cannot
+reach the other two transmitters because of the strong attenuation (ideally, a short
+circuit) introduced at the same frequency by the F2 and F3 networks: at points 2 and
+3 there is an almost total reflection that transfers, through a line section one
+quarter-wavelength long, the low impedance that exists at these points into high in-
+pedance at antenna-entrance point 5; the Txl therefore sees only the antenna imped-
+ance. The situation is analogous for the other two transmitters. The structure of
+a combiner constructed with star circuit can be different for the type of network
+involved, which can be of the passband type or of the blocking-filters type.
+
+In the former type, the required characteristic is achieved with a passbsnd filter,
+which can be obtained with distributed constants with two resonant elements in co-
+
+15
+
+FOR 0FFN]AI.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+axial cavity connected with flux linkage or capacitive coupling. Figure 2 presents
+one of the various solutions for constructing the psssband network, obtained by
+means of two quarter-wave resonators and connected, with flux linkage. by means of a
+line of one quarter—wave electrical length; the network's response is indicated
+
+qualitatively in the same figure.
+
+ 
+
+Figure 2. Filtering network of pasaband Figure 3. Network with blocking filters
+
+type and related response Key' and related response
+
+1. Electric 2. Attenuation l. Compensator 2. Blocking fil-
+ters. 3. Attenuation
+
+Key:
+
+In the second type. blocking of the frequencies to be attenuated is achieved with
+series-resonant lines shunted off the transit line, which makes for higher isola-
+tion values, while compensation at the frequency of the carrier in transit is
+achieved with a line that resonates parallel with the sum of the susceptances pre-
+
+sented by the blocking filters at the passing frequency.
+
+Figure 3 shows a construction of the Fl network: the blocking filters are obtained
+with lines a half-wave long at the frequencies f2 and f3 and are short-circuited at
+their ends. while the compensator for the lowest frequency f] must be inductive and
+is achieved with a line open at the end and of length greater than a quarter-wave.
+The network's response in this case presents two zeros of strong attenuation at the
+
+frequencies f2 and f3 (Figure 3).
+
+The figures that follow represent several examples of combining units built in the
+RA! Research Center. which from the beginning of FM broadcasting has been involved
+in the design and construction of various prototypes, different in their structure
+
+16
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+and in the number and power of the transmitters and mass-produced, for RAl'a trans-
+mitring installations, by Italian firms specializing in mechanical construction.
+
+ 
+
+Figure h. PM combining unit for low powers, built with star circuits. a) Front
+view with tuning controls; b) rear view with the cavities and the con-
+nections to the star center by coaxial cable.
+
+Figure a shows the smallnst specimen-~as regards both power and dimensions-~built
+
+for the combining of three lO-watt transmitters. It is of the star type, with pass-
+
+band filters each composed of two resonating cavities strongly charged capacitively
+so as to rnduch its length and thus permit mounting it in the same section as the
+transmitting equipment.
+
+Figure 5 shows a combining unit for four 3-kw transmitters; it too is of the star
+type with passband filters obtained with four pairs of cavities of l/é.
+
+The control circuits, in addition to furnishing the readings, provide for the mini-
+mum-power and maximum-reflection security, with automatic action, at the preestab-
+lished threshold, to trip off the o of the transmitters involved in the anomaly.
+
+Tho quarter-wave cavities that constitute the filtering groups are of the flux-link-
+age type, have natural cooling, and are frequency-stabilized as regards temperature
+by means of a bar of Invar. They are of the type shown schematically in Figure 2.
+Figure 6 Shows another combining unit, for three l-kw transmitters. This too is of
+
+the star type, but is made with blocking filters. For each of the three sections,
+each of which corresponds to a transmitter, the two half-wave blocking filters are
+
+17
+
+FOR OFFICIAL USE ONLY
+visible at the sides and the compensation lines for the channel in transit are via-
+ible at the center. per the diagram indicated in Figure 3. At the bottom of the
+figure are the directional probes that go to the control and security circuits.
+
+ 
+
+Figure 5. 4 X J-kk FM combining unit built with star circuit. a) Front view show—
+ing the instruments for measuring power and reflection and for tuning the
+cavities; b) rear view showing the cavities and the star center, with the
+coaxial antenna line leading to it (toward the bottom).
+
+2.2. Ring Circuit with Hybrids
+
+When the frequencies of the transmitters to be combined are very close to one an~
+other (l.5 percent or less), star circuits are no longer suitable; in such cases it
+is necessary to use circuits in which the isolation between the transmitters is
+achieved not by the characteristic of the filtering elements but by the structure of
+a bridge circuit. Indeed, it is not possible to obtain high attenuation values at
+small percentage distances from the resonance with a parallel resonator, except at
+the cost of heavy losses and dangerously high gradients.
+
+The circuits of this second group too can be differentiated by the type of filtering
+network (passband or band-stop) and by the type of hybrid (directional coupling at
+
+3 dB. or a 180u hybrid--for example, a diplexer).
+
+2.2.1. Hybrid
+
+It will be recalled that a hybrid junction is a circuit with four gates joined two
+
+by two: the joined gates are isolated from one another. Power applied at a terminal
+does not appear at its conjugate but divides in equal parts between the other two
+
+18
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+terminals; an ideal hybrid circuit is characterized by perfect adaptation of the im-
+pedances and by infinite isolation between the conjugate gates.
+
+o
+o
+o
+1
+
+ 
+
+Figure 6. 3 X lukw FH combining unit of star type with blocking filters
+
+In practice, a hybrid can be constructed in various forms that essentially differ as
+regards the phase difference between the outgoing signals, which can be 90° or 180°.
+The first type is constructed by coupling two parallel lines to a length of a quar—
+ter—wave (or uneven multiples) to the central frequency of its operating band; this
+is a J—dB directional coupler for TEN transmission mode (Figure 7). In resonance
+condition (0 L 90°) and with the other gates charged on their own characteristic im-
+pedance RC, the power applied at input gate 1 subdivides in equal parts between out-
+put gate 3 and coupled gate 4, while on conjugate gate 2 it is nil. The signal on
+gate 3 is delayed 90“, while that on gate 4 isin phase with the input signal:
+
+E:
+
+3;"
+
+.‘ “n“: 5‘ =i [£1 :31: E: = 0 (v. $5;
+
+,',"-5.
+2.2.2. Deseription of Ring Circuit
+The ring cirCuit with 3—dB hybrids and filters of passband type is deseribed. It is
+composed of two hybrids and two filtering networks F identical with one another
+
+(figure 8). The power of the TX} transmitter at frequency {1 enters gate 1 of the
+first hybrid 11, and half of it exits at gate 3 and half at gate a; on the upper
+
+19
+
+FOR OFFICIAL USE ONLY
+line 3-3'. the phase of the signal is 90° behind the signal going through the lower
+line 6-4'. The two signals can pass through the filtering networks F because they
+are passband filters tuned to frequency fl; joined at gates 3' and 4' of the second
+hybrid, given the phase relations between the gates of that hybrid, the two signals
+recombine in phase at output gate 2', while they cancel one another at gate 1' be-
+cause they are in counterphase on account of a futher 90° delay of the signal of the
+upper line. In this way, gates l and l' of the circuit are isolated from one an-
+other. The second transmitter at frequency f2 is placed at gate 1', achieving
+strong isolation between the transmitters independently of the characteristics of
+the filtering network.
+
+ 
+
+Figure 7. 3-dB directional coupler; 6 = electrical length of coupling
+
+ 
+
+I?”
+
+Figure 8. Diagram of PH combining unit constructed by means of ring circuit with
+two 3-dB couplers and two identical passband filters
+
+The signals partially reflected by the filters F at the lateral frequencies of the
+f. transmitter travel back again behind the two lines A-3 and 8-“. going back into
+phase at gate 2 (absorption load) of the first hybrid, not being able to return to
+input gate 1, where they cancel one another because they are in counterphase. This
+means that that circuit is at constant input impedance. being the reflection of the
+filters F dissipated in absorption load RC.
+
+The power of the 1x2 transmitter at frequency f2 applied at gate 1' of the second
+hybrid 12 exits, half at gate 3' and half at gate 4', being still. in this case, the
+signal on the upper line, phase-delayed 90° vis-a-vis the corresponding signal of
+the lower line. At points A and 8. these two signals undergo almost total reflec-
+
+20
+
+FOR OFFICIAL USE ONLY
+FORloFFKJAl.USE(NNLY
+
+tion because f2 is in the attenuated band of the filters and reenter the same hy-
+brid. going back into phase at output gate 2', while they cancel one another, being
+in counterphase, at entrance gate 1' of transmitter f2; gate 1' is also at constant
+input impedance.
+
+ 
+
+Figure 9. General diagram of 4 X 10-h" FM combining unit of Mt Venda, with switch-
+
+in circuits
+Key: 8
+
+1. Ring
+
+since the filters' attenuation at frequency f2 is not infinite, a small fraction of
+power transits beyond the filters, reentering at gates 3 and 4 of the first hybrid
+and recombining in phase at gate 2 on the absorption load, while it cannot reenter
+at I: this ensures isolation of the transmitters at frequency f2 also.
+
+One notes that while the £1 channel is narrow-band--that is, suitable for transit of
+a single transmitter corresponding to the passband of the filters--the f2 channel is
+wide-band, because it corresponds to the attenuated band of the filters. This makes
+it possible to apply to that channel two or more transmitters already combined with
+one another and in any case well-removed from one another in the FM band. In this
+way it is possible (Figure 9). with successive rings in cascade, to combine a large
+number of transmitters with one another (n transmitters by means of n-l rings).
+
+Another Circuit, entirely similar, can be obtained by the use of filtering networks
+of dual type. '
+
+21
+
+FOR 0FFﬂJAl.USE¢DNLY
+3. Mt Venda Installation
+
+RAI, with its program to restructure a sizable part of its FM installations, set the
+objective of going ahead with renewal of the old equipment while at the same time
+making the installations suitable for stereophonic transmissions; within this frame-
+work. nearly universal introduction of circular polarization in place of horizontal
+polarization has been planned. in view of the considerable use advantages offered.
+
+ 
+
+Figure 10. Overall view of the A X lO-kw combining unit. At left, the instrument
+panel; at right, the switching panel.
+
+Within the program for renewal of the FM installations, the Mt Venda Transmitting
+Center presented several difficulties, occasioned essentially by the extreme close—
+ness between the channelized frequencies, which are only 0.9 th apart, as against
+the distance of 2 MHz or more in most of RAl's FM installations.
+
+ln the old arrangement, the installation had two superimposed radiating systems, one
+of which radiated the combined power of the two transmitters farthest apart in fre—
+quency, while the other radiated the power of the transmitter at the central fre-
+quency; this was because of the lack, at the time, of a combining unit capable of
+handling three frequencies so close to one another.
+
+At the time of the restructuring of the installation, in the transition to circular
+polarization it was seen to be necessary not to decrease the equivalent radiated
+power horizontally, which was possible only by taking up the entire space available
+on the metal lattice by means of a single antenna of higher gain. The problem of a
+combining unit suitable for simultaneous broadcasting by all the transmitters on a
+single antenna was posed again in this way.
+
+22
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The combining unit for the Mt Venda transmitting installation was built for four
+lO—kk FM transmitters at the frequencies of 88.1-89.0-89.9-101.5 MHz by the combin-
+ing of three rings with l-dB hybrids and passband filters of the type described;
+this choice was due to the very small distance between the first three frequencies.
+
+Figure 9 is a general diagram of the combining unitI comprising the manual switching
+Syntcm. which is integrated with it and which in normal operating conditions has the
+contacts disposed as indicated in the figure. It permits both switching of the
+transmitters trom the combining unit directly to antenna lines A and B and section-
+ing of the unit itself in case of breakdown, because of the fact that each of the
+three rings of which it is compOSed can function autonomously. The A (preferential)
+and 5 lines go to the two semiantennas into which the entire antenna can be sec-
+tioned in case of breakdown of a part of it. Under normal operating conditions. the
+two soniantennas are connected in parallel on line A.
+
+ 
+
+Figure ll. Rea: side view of the A X 10-kw combining unit
+
+Figure 10 shows a view of the unit. At left front is the control-instrument panel;
+on the right is the switching and sectioning frame. In the upper part the hybrids
+are visihle, and below, the passband cavities. Figure 11 shows a rear side view.
+
+In the following sections is described the structure of several constituent parts of
+a combining unit for FM transmitters, with particular attention to several design
+elements and with special reference to the unit built for Mt Venda.
+
+h. Structure of the Hybrid
+
+In section 1.2.1. there was defined a hybrid in the form of a directional coupler
+with a single quarter-wave section. When the power applied is high, the coupled
+
+lines in practice are normally brought back to the form of bars of rectangular or
+cirtular section, though the latter are not suitable for high coupling values.
+
+23
+
+FOR OFFICIAL USE ONLY
+Figure 12. Cross-section of a semicircular-bar hybrid of the type used in the
+4 X lO-kH unit
+
+A less common structure is that which uses coupled lines of semicircular section
+placed between two parallel planes (Bibliography 3). A direct derivation of this
+type of structure has been used for the coupliera installed in the lit Venda combin-
+ing unit (Figure 12). The advantages of this configuration were seen to lie in the
+large coupling area, together with reduced cross-section. For a coupler of quarter-
+wave section and characteristic impedance of 50 ohms, the dimensional ratios of the
+section indicated in Figure 12 prove to be: t/d - 0.3449 and old - 0.05342.
+
+5. Relation between the Voltages of a Hybrid and of a Ring of Hybrids
+
+5.1. Voltages at the Outputs of a 3-d8 Coupler
+
+A coupler is considered that is composed of two parallel transmission lines coupled
+uniformly for an electrical length 6, with power supplied at gate 1 and closed at
+
+the other gates on characteristic impedance Rc (Figure 7).
+
+It is demonstrated (Bibliography 1, 2) that the voltages at the other gates are:
+V1 -F
+V1 —k'-oos9+jsin8
+
+ 
+
+Ill 12.-£1
+
+(output gate)
+51: sin 9
+_ __________
+l2] 3‘ 5‘ l/1_Et.ooa&+jsin3
+(coupled gate)
+
+in which it is the coupling factor that corresponds to the maximum value of the ratio
+54/51 for O ' 90' (ccnterband of the hybrid).
+
+From [1] and [2] it results that for an value of er-that is, with the variation of
+the frequency of the input signal--IE3I + IEaIZ - IEIIZ; that is, all the input
+power is collected at gates 3 and 4, and therefore at the conjugate gate 82 . 0. In
+addition. the input impedance is constant and equal to RC at all frequencies.
+
+In the particular case of a 3-dB coupler that has to be E3 ' 31. for 9 ' 90°, it re-
+Sults from Ill and [2] that k ' IN 2 . Therefore, for the 3-dB coupler the preced-
+ing relations become:
+
+24
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+ 
+
+l3] B:--j ; a with
+1
+a a 1
+sins-j—coso
+(output gate) V1?
+. “no
+[4) E‘_ Eib with b-___.1___..
+1:2 nus—j—ous
+
+11'2-
+
+(coupled gate)
+
+aandb are two complex operators that have the same phase angle and that can be re-
+presented with two parallel vectors whose ratio b/a - sin 6. It follows that with
+variation of frequency, E3 and 34, even though rotating phase, always remain in
+quadrature with one another. At the central frequency f°(6 ' 90°), a ' b ' 1. This
+type of coupler can be used in a frequency octave (between fall 2 and f0/F7-) with
+a rather limited variation of the coupling, as results from [3] and [6].
+
+5.2. Voltages at the Gates of a Ring of Hybrids
+
+A ring is considered that is composed of two 3-dB couplers, 11 and 12, with two fil-
+ters placed at points A and 8 of the connection lines (Figure 8). Analysis of the
+ring alone is done, for the sake of simplicity, by supposing that the filters have
+an ideal transfer function with the value of one at passing frequency f1, and zero
+at attenuated frequency f2-—that is, as if the filters did not exist at frequency f1
+and presented a short circuit at frequency £2. The ring's behavior is examined sep-
+arately at the two frequencies.
+
+5.2.1. Signal in Transit at Frequency f1
+
+When gates l' and 2' of the second hybrid are charged with impedance RC, input gates
+3’ and 4' present a constant impedance equal to Rc at all the operating frequencies.
+Therefore the voltages E3 and £4 at the output gates of the first hybrid are still
+the same as expressed by [3] and [a] and are also equal to the voltages at the input
+gates of the second hybrid 3'3 and 3'“ except for a phase constant that can be ex-
+
+pressed by the operator
+c a ("N (L's - 3.2"”; 3'. - He 6"”)
+
+which hereinafter, for simplicity of written expression, will be understood (1 is
+the length of lines 3 - 3' and A - 6').
+
+He now obtain the expressions of the voltages E'z and 8'1 at the output gates of the
+second hybrid to which are applied the voltages 2'3 I 23 and E'a ' Ea, respectively,
+at input gates 3' and 4' (Figure 13). Considering this configuration as the super-
+imposition of two situations analogous to that indicated in Figure 7, expressions
+analogous to [3] and [a]. respectively, are applied individually to the input gates
+for the corresponding output gate and coupled gate, and adding together, at the out-
+puts, the contributions of the two input signals, one has:
+
+,5, L": - —1— ns. -ja£.) - —j3.a .b
+
+y?
+E
+a". -= '1’1—7 or. ﬂat.) - -— T‘ (a' - b').
+25
+
+FOR 0M1HCJAI.US£<DNLY
+It is recognized immediately that if 6 - 90° at frequency £1, with a - b - l the
+signal is collected entirely at gate 2', because in such case 8'1 ' 0; and this is
+because the two signals at gate 1' are in counterphase. For 9 1 90°. 8'1 1 0. and
+therefore a fraction of signal reaches gate 1' also, thus decreasing the isolation
+between the two generators at frequency f1.
+
+ 
+
+Figure 13. Voltages at the gates of the second hybrid
+
+0n the basis of [3], l4] and [S], the moduli of the voltages at the various points
+of the ring at frequency f1 are:
+
+ 
+
+ 
+
+ 
+
+'le l lai- 1 1
+
+7:" |.2 V? ,1-.1—,cos'8
+[6] lie 1 I” 1 sinb .
+
+' -——_—' -— ’
+
+iii 12 V711_%w9
+
+- 5' ans
+
+I'fl =|¢'bl- 1
+
+. l 1——o-cos'8
+[.1:§_t:=_1_;¢.-b.l,.}_,. «in»
+
+I I : 3 ‘ 1 —-3rcos'8 '
+
+Attention is drawn to the fact that the isolation IE'l/Ell between the two transmit-
+ters at frequency f] is entrusted exclusively to the equilibrium of the ring and
+that its value under balancing conditions is theoretically infinite at the hybrid's
+resonance frequency (0 . 90'; a . b - l) in relation to the vectorial combination,
+at gate 1‘. of two magnitudes of equal amplitude and in counterphase. This requires
+that in addition to having perfect symmetry in the mechancial structure of the two
+branches of the ring, the two filters be identical and remain so in time: a small
+variation in the tuning of one filter vis—a-vis the other, because of mechanical or
+temperature factors. can cause a considerable loss of isolation (as can be verified
+with the second of the expressions of [5] by multiplying E3 and E4 by the character-
+istic of the filters). This requires the use of cavities that are very stable in
+
+frequency.
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+5.2.2. Signal Reflected at Frequency f2
+Analysis of the £2 signal is identical in form to analysis of the f1 signal.
+
+A circuit section downstream from points A and 8 (Figure 8) is considered, keeping
+in mind the description given, in section 2.2.2., in relation to the TXZ. If, ini-
+tially, one ignores the wave that travels on the two lines toward points A and B and
+one supposes that the wave reflected at those points is, instead, a traveling'wave
+coming from two imaginary generators at A and B, the conditions already examined at
+frequency E} are found again: the signal on the upper line phase-delays 90° vis-a-
+vis the corresponding signal of the lower line, and the situation is still repre-
+sented by Figure 13, the generators having in this case the amplitudes:
+
+3'1
+E'aa - -j-V==-a|p|sH¢-W
+2
+
+[8|
+3'“. _ 73;” “when
+2
+
+in which the subscript R is introduced to recall that two signals reflected at fre-
+
+quency [2 are involved. In addition, there is 8'1 instead of E1, in conformity with
+the amplitudes at the gates of the respective generators; Ipl and w are the modulus
+
+and the phase of the coefficient of reflection of the filtering networks at points A
+and B, and s is the distance between the latter and the hybrids.
+
+In the case hypothesized for the transfer function: |p| I l; w - n, and except for a
+phase constant which. not being essential, is understood, the expressions of [8] are
+identical in form to the expressions indicated in Figure 13, corresponding to [3]
+and [a]. In practice, |p| is very close to unity, and therefore the simplifying hy-
+pothesis does not alter the conclusions.
+
+with this premised, the signals at frequency f2--E’2g/E'1 and E'lR/E'lv exiting at
+gates 2' and l', respectively--are expressible by means of the same expressions as
+in [5] and [7]. in which, in this case, e is calculated at £2. One notes that when
+the ratio E'IIB! is calculated at El, it represents the isolation of the ring be-
+tween the two generators at £1, and when it is calculated at £2, it represents the ,
+coefficient of reflection at gate 1'.
+
+In Figure la, the magnitudes examined in function of the electrical length 6 of the
+coupler and of normalized frequency f/fo (f/fo I 6/90‘) are represented in dB.
+
+The first graph indicates, in accordance with [6], the course of the voltages at the
+output and coupled gates of the first hybrid with voltage applied at gate 1. The
+second graph represents the ring's output at gate 2' both for the signal at f1 and
+for the signal at f2, in accordance with the first expression of [7]. The third
+graph represents both the isolation of the ring at P1 and the return losses at
+
+gate 1' at frequency f2 on the basis of the second expression of [7].
+
+6. Filtering Networks
+
+6.l. Considerations on the Transfer Function of the Filter
+
+Analyzing the requirements for the filtering networks, one easily recognizes the
+factors that introduce losses and distortions.
+
+27
+
+IWJR OFFICIA1.USEZ(MULY
+IIIEiI-liilll “III
+I'M-I .- ‘II
+
+IVA-III I - VI
+III-III In."
+
+_-----!-------I
+Ell-I- . “III
+E..s_.:::'-"v— :
+: . Ian-I:
+IH‘I‘IIIIIIB
+Elm-I'IIIIIIII
+
+ 
+
+Figure 14. Top: course of the voltages at the output gate and at the coupled gate
+of the first hybrid in relation to the input voltage. Middle; course of voltage at
+the output gate of the second hybrid in relation to the input signal at the two dif-
+ferent frequencies. Bottom: isolation at frequency f1 and return losses at fre—
+quency [gr
+
+Passing channel 1, encountering an amplitude characteristic that is not perfectly
+flat and a phase characteristic not perfectly linear, undergoes an alteration in the
+amplitude and the phase of the spectral spectral lines that constitute the modulated
+signal entering, with consequent distortions and power loss in the outgoing signal:
+a loss from dissipation at the center of the channel, and predominantly by reflec-
+tion at the extremes.
+
+Reflected channel 2 encOunters the characteristic at one side at frequency f2.
+Keeping it in mind that the useful signal, in this case, is the reflected one, and
+that the characteristic does not present an infinite attenuation value, part of the
+llsignal passes and dissipates on the absorption charge with loss of power, while the
+
+ 
+
+28
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+useful signal undergoes a dissymmetrical treatment of the side bands, being re-
+flected on a side of the characteristic that presents an attenuation and therefore a
+coefficient of reflection variable with the frequency within the framework of the
+channel; and this gives rise to distortions.
+
+The designing of the filtering network can therefore be premised on study of the
+transfer function H of the passband at the frequencies of channel 1 and of transfer
+function HR for reflected channel 2, which in this case is represented by coeffi-
+cient of reflection p at the input of the same network at the frequencies of chan-
+nel 2--a coefficient that must prove close to unity and variable very little within
+the framework of the channel.
+
+6.l.|. width of the FM Channel
+
+The band width necessary for transmission of the PM channel is conventionally as-
+sumed to be 1 l00 kHz; but in contrast to the television channel, a radiofrequency
+tolerance mask is not required. what is required under the heading of technical
+specifications, though, is all the characteristics and tolerances for the demodu-
+lated signal in both multiplex and monophonic operation (amplitude-frequency char-
+acteristic, nonlinear distortion, AH synchronous modulation, linear and nonlinear
+diaphony between the A and B channels).
+
+This fact allows a certain freedom in case-by-case definition of the band character-
+istics, permitting simplifications with reduced losses and distortions in the case
+of adjacent channels farther away from one another; but it requires careful study of
+the transfer function of the filters in the opposite case.
+
+The band width necessary can be calculated with the well-known approximate expres-
+sion called Carson's rule; but more rigorously, it is possible to put the channel
+width into relation with the percentage of power transmitted by it, referring to
+[38] and [All in the Appendix, by means of which Table l was calculated.
+
+6.2. Elementary Component of the Filter
+
+The filter is constructed on a distributed-constants basis with passband elements.
+The simplest element of this type would be composed of a line of length a equal to a
+quarter-wave at frequency fl and circuited at the extremity, shunted off the trans-
+mission line (Figure 15a). which, as is known, behaves, around the first resonance,
+like a parallel resonant circuit. (The representation as a two-wire line is by way
+of example.)
+
+In Figure 15b is shown the equivalent circuit with the values of the elements L, c,
+“P expressed in function of the characteristics of the distributed-constants resona-
+tor (see Table 1, Bibliography 6); l, c, a are, respectively, the inductance, the
+capacity and the constant of attenuation per unit of length.
+
+It should be said at once that an element of this type is not suitable for solving
+the problem under consideration. Indeed, the filter's characteristic must go from
+negligible attenuation values at frequency E} to quite high values at frequency f2
+in a percentage interval of frequency Af/f of abOut 1.1 percent. This requires a
+variation of the input admittance Ye of the element, in the vicinity of the very
+high f1 resonance; Ye can be represented (within the limits of validity expressed in
+Table 1. Bibliography 6) with the expression:
+
+29
+
+FOR OFFICIAL USE ONLY
+Table l
+
+ 
+
+6f - 9 75 kHz
+Channel Width Fraction of Total Power
+~ 3100 kHz 0 1 99.99%
+Modulating Channel Power Channel Power
+
+frequencies used Fraction used Fraction
+(kHz) (kHz) Transmitted (kHz) Transmitted
+
+l 1 82 0.99990
+
+5 1 100 0.99998
+
+10 1 100 0.99948 1 110 0.99990
+
+15 1 105 0.99926 1 120 0.99993
+
+to + 15* 1 105 0.99978 1 120 0.99999
+
+Stereo** 1 106 0.9956h 1 159 0.99991
+
+* Two tones of half-amplitude in relation to the single tone,
+which varies by 1 75 kHz.
+
+** Lines fl = 23 kHz and f2 = 53 kHz, obtained by modulating the
+right and left channels with two tones in counterphase of
+frequency fm ' 15 kHz, each of one-half amplitude.
+
+ 
+
+Figure 15. a) distributed-constants resonator shunted off transmission line of
+characteristic impedance Re; b) equivalent circuit in vicinity of
+first resonance. 1, c, a are the inductance, capacity, and attenuation
+constant per unit of length of the distributed-constants resonator.
+
+ 
+
+l9] -- 1
+
+30
+
+FOR‘OFFKJALIEEZONLY
+POI! OFFICIAL USE ONLY
+
+with Af U f - f1; Rcc- characteristic impedance; and Q, coefficient of quality of
+the resonator. In other words, Q being practically constant in the vicinity of Af,
+the derivative IdYe/dfl - n/Zflkcc has to be large and therefore the characteristic
+impedance Rec has to be small. The order of magnitude of R c can be deduced from a
+practical case relative to the X ring of the Mt Venda unit Efl . 89 Hﬂz; f2 - 89.9
+MHz). With a value of Iol= 0.99 placed on f2, Rec 3 0.13 ohm Hauld result (see
+also [22]). The practical impossibility of physically achieving such low values of
+the characteristic impedance of line a is obvious.
+
+It is nevertheless possible to reduce the characteristic impedance of a parallel re-
+sonant circuit by coupling the resonator to the external circuit in such a way as to
+reduce the impedance level to the value desired. This is possible by means of de-
+vices of a magnetic or electrical nature. The former case can in theory be achieved
+by means of an impedance transformer.
+
+ 
+
+Figure 16. Transformation of characteristic impedance by means of a parallel dis-
+tributed-constants resonant circuit; equivalent circuits L. c, RP have
+the same values as indicated in the preceding figure.
+
+Figure 16 sh:us a simple transformation method capable of reducing the degree of
+(a < 1) coupling of the resonator to the line to which it is connected.
+
+ 
+
+Figure l7. a) distributed-constants resonator with intermediate input connected
+to the transmission line; b) equivalent circuit.
+
+31
+
+FOR 0511C]Al.USE|)NLY
+The equivalent circuit, valid in the vicinity of the first resonance (8 = All“) and
+indicated in the same figure, shows the same values L, C, Rp valid for the quarter-
+wave resonator when it is connected at its open end to the transmission line, and
+takes into account the change of impedance with an ideal transformer that has a sin
+ratio s:n(a /2):l, which is the ratio between the voltage at the intermediate input
+and the voltage at the open end. The new configuration is represented in Figure 17
+together with its equivalent circuit.
+
+One notes important differences from the preceding case:
+
+1) The level of the impedances is lower; in fact, the impedance of each element is
+sin2(an/2) times the corresponding impedance for connection to the open terminal.
+
+In addition. while on the one hand the level of characteristic impedance from the
+value Rec to the value R'cc = Rcc sin2(anl2) goes down, as is desired, this entails,
+at equal Q, an increase in the losses, with the resistance RP, which represents the
+equivalent of the losses in the resonator, dropping in the same ratio.
+
+2) The voltage at the open end increases in the ratio l/sin(a l2) vis-a-vis the in-
+put voltage, and with it, all the electrical stresses in the resonator, including
+the reactive power.
+
+3) The coupling to an autotransformer introduces a coupling reactance m-La, in
+which L8 = asl - L sin2(an/2) that cannot always be ignored.
+
+The effect of the coupling reactance is to introduce several modifications into the
+course of the transfer function, with regard to the L'C' circuit only. Indeed, this
+last-named circuit resonates parallel to frequency f1 and is capacitive at frequen—
+cies higher than fl. Consequently there exists a frequency fs > f1 at which that
+element is in series resonance with La, and the resonator's curve of reactance
+therefore contains a pole at frequency f1 and a zero at a higher frequency ES. The
+zero gets closer to the pole, on the axis of the w's, as the cOupling reactance in-
+creases with respect to resonance reactance wlL', or the higher the transformation
+ratio is; at the same time. the asynnetry of the characteristic increases with re-
+Spect to central frequency f1, and therefore the attenuation of the circuit for a
+given distance Af from £1 vis-a-vis the attenuation at -Af.
+
+In the distributed-constants circuit. the parallel resonance is determined by the
+entire length s I Allk of the resonator, and the series resonance by the line sec-
+tion (1 - a)s open at the end when, at frequency f‘, it becomes in turn a quarter-
+wave long.
+
+The value of the admittance at the resonator input in the vicinity of the resonance
+
+can be represented by the approximate expression:
+3 f _. A 7
+[10] r'——,—L1TJ207°£J'
+40R“ sin2 (a 7)
+
+(see Table 1, Bibliography 6) in which Af - f - f0, with f0 with fo ' resonance fre-
+quency, Q = coefficient of quality of the coaxial line charged with the losses in-
+trinsic to the resonator only (see section 8), and Rcc I characteristic impedance of
+the resonator. It is valid in the vicinity of the first resonance under the condi-
+tions |Aflf°| « l and
+
+32.
+
+FOR OFFICIAL USE ONLY
+ﬁOR OFINCJAL USI3CHVLY
+
+I 1 £21. g;
+11 ' o tg(a€;)
+
+<1.
+
+ 
+
+[10) was obtained by means of series developments applied to the equations of the
+
+lines with losses. and condition [ll] results from the first term that was ignored
+in the development.
+
+ 
+
+Figure 18. Equivalent structures with autotransformer and transformer. a) direct
+coupling; b). c) turn-of-vinding coupling.
+
+The autotrensforner structure so far considered (Figure 18a) is in practice used for
+high degrees of coupling. In addition. it represents an easy tern of transition, by
+means of equivalence systems, in the calculation of transformer structures with
+turn-of-winding coupling (Figure 18b, c); these latter are prefereable for high
+transformation ratios. The procedure consists in determining the dimensions of the
+turn that produce the same concatenated flux as the autotransforner. In the case of
+Figure 18b). for example. by making the flux of the turn-of-vinding equal to that
+
+relative to the autotransformer ofFigure 18a). one obtains the equivalence condi-
+tion:
+
+[12] sin BXb-log D/Db - sin Bxa'log D/d [turn-of-vinding b]
+
+in which 8 - 2n] and the other magnitudes are indicated in Figure 18.
+
+Analogously, in the case of Figure 18c) one obtains:
+
+[13] sin BXc-log Dc/d ' sin Bxa-log D/d [turn-of-vinding c]
+
+The turn-of—uinding resonator thus obtained retains. in the vicinity of the reson-
+ance, the same characteristics as the autotrsnsforner resonator-~in particular, the
+same ratio of transformation and the same electrical stresses-except for the value
+of the coupling reactance, which, in order to be in relation with the inductance of
+
+the turn-of—winding, can take on different values. The input admittance of the
+turn-of-uinding coupled resonator is still represented by equation [10].
+
+33
+
+FOR!0FFKJAL.USE(NVLY
+6.3. Filtering Network of the Combining Unit
+
+ 
+
+Figure 19. Cavities of passband type coupled inductively for the Mt Venda filter
+
+Key:
+1. Air-inlet tube 3. Air filter
+2. Tuning mechanism 4. holes for air outlet
+
+The selectivity characteristics necessary for the networks of the combining unit for
+Mt Venda are obtained by means of two identical elements of the type described,
+turn-of—uinding coupled by means of a quarter-wave line (Figure 19). The equivalent
+circuit of the filter thus obtained is represented in Figure 20: it expresses a
+passband characteristic; its transfer function in the vicinity of the resonance
+(lAf/fol ¢ 1), with the limitations considered, is expressed in modulus and phase
+by
+
+[1101 [3,]-
+2r.
+'uww Aio]'+["+('+1)’-(2 WM”
+
+(20 Aﬂlo)‘ - r' - (r + 1)‘
+
+[15] 0"” 4(r+1) AU.
+
+in which the normalized impedance values r - R/Rc and x - X/Rc are, for [10]
+
+R
+[16] r - {c5 —:— q sin2(an/2),
+~ 2
+_ RC 2 sin (an/2)
+“71 x “Q “—W
+34
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+from which there results:
+[18] —§-- 20 Af/fo ;
+
+a circuit of this type therefore proves to be completely defined by three para-
+meters, thus chosen: f0, Q, r.
+
+ 
+
+Figure 20. Equivalent circuit for filter obtained with two identical cavities
+coupled with quarter-wave line.
+
+1. Filter
+
+Key:
+
+Figure 21 illustrates the characteristics of the system adopted. In the upper part
+of the figure is drawn the curve A2 of insertion attenuation derived from [la]:
+
+[19] A2 I 10 logIOTﬁérzldB]
+
+with the values stabilized for ring X: fo I 89 “Hz; Q I lb,650; r I 51. The other
+magnitudes that appear in the preceding expressions are (still for ring X): charac-
+teristic impedance of circuit Rc I 50 ohms; characteristic impedance of the cavities
+Rcc I 76.77 ohms; degree of coupling a I 2.69-10'2, and therefore, transformation
+ratio l/sin (n n/2) I 23.7 In the same figure, insertion attenuation A2 of a single
+cavity is shown in a broken line, together with the values measured.
+
+In the lower part of Figure 21 are drawn the phase curves and the group delay.
+
+One notes several characteristic values of the Curves relative to ring X:
+
+Attenuation at carrier f1 - 0.17 dB
+Attenuation at 1 100 kHz - 0.38 dB
+Attenuation at carrier f2 - 26.57 dB
+Band width at -3 dB 520 kHz
+Group delay in channel 1 100 kHz 151 ns
+
+6.4. Coefficient of Reflection
+
+It has already been noted (section 6.1.) that coefficient of reflection p at the in-
+put of the filtering network represents the transfer function R, for the reflected
+channel when it is calculated in the band of channel 2. In addition, if calculated
+at the frequencies of channel 1 it furnishes the value of the power lost through re-
+flection by transmitter l in transit and dissipated in the absorption load.
+
+Calculation of requires knowledge of the input impedance at section e of the fil-
+tering network (Figure 20). with simple calculations it is possible to transform
+
+35
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+all the elements of the network at section e into the two alementa in parallel Re
+and Xe (Figure 22). Impedance 22 at the filter input is then:
+
+I l ‘ 1
+20 — = ._ + .
+i ] 22 RC Jxe
+
+in which the active and reactive components normalized at impedance Re are:
+
+ 
+
+[211 .1. - i l _1+—1I'_
+r. r ' (1 + 1m! + (1/2)! '
+l 1 l]:
+
+.2. z (1 + l,’r)' + (1/2). '
+
+ 
+
+Figure 21. Top: course of insertion attenuation for two-cavity filter (curve A2)
+and one-cavity filter (curve A1); bottom: course of phase and group
+
+delay for the two-cavity filter. The small circles indicate the values
+
+Key: measured.
+
+1. Degrees
+
+36
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure 22. Trnnnfomtion nt network-elements input indicated in Figure 20.
+
+The modulus and the phase of the coefficient of reflection at input 9 - Ze-Rc/Ze+kc
+are .8:
+
+[22] |9l _ 1 _ 1 K
+"1" 1
+? + T (r. +1/r.) +h/(‘3’d
+
+2th
+
+[23' ‘F ' m‘ —1 - 1/:0'. - 17:3. '
+
+III- ‘ .- ' '”
+
+._'; I ‘ .
+
+' i ' I -’ 4‘-- l
+I : - ' .‘MMIJ:
+
+ 
+
+Figure 23, Modulus of coefficient of reflection 9 (curve I); return louee at fil-
+ter input (curve 2); return loueo et ring input (curve 3)
+Key:
+1. Return losses, filtering networks 3. Coefficient of reflection,
+2. Return looses, ring-X input filtering networks
+
+37
+
+FOR OFFICIAL USE ONLY
+The course of the modulus Iol 'at the network input as expressed by [22] is drawn in
+Figure 23 (curve 1) for the values of fo, r and Q achieved for ring X. The values
+for the channel of the TXZ are given in the table that accompanies Figure 23.
+
+In the same figure, graph 2 relative to the network's return losses is drawn, and
+these losses are presented in a table for channel 1. Finally, in curve 3 are given.
+for comparison with curve 2, the return losses measured at the ring-X input. For
+transit channel 1, these losses are higher than 40 d8; this means, as already noted,
+
+that the reflection of the networks is almost entirely sent into the absorption
+load.
+
+Still for ring X, the group delay in channel 2 was calculated by using [23]:
+
+and proved to be 30.8 us within the framework of the channel's ; 100 kliz as against
+the 151 ns relative to transit channel 1.
+
+Before concluding on this subject, it is noted that the quarter-wave line that
+couples the cavities (Figure 20) was considered to be of constant electrical length
+with variation of frequency. It is pointed out that all the formulas were derived
+also without introducing this approximation, and it was verified that at least in
+the field of frequencies considered, the errors introduced with this simplification
+prove lower than 0.5 percent for all the magnitudes calculated, while the formulas
+
+not simplified are formally somewhat more complex; and therefore this approximation
+was accepted.
+
+7. Distribution of the Powers of the Transmitters in the Elements of the Unit
+
+With the losses in the connection lines and in the hybrids considered as negligible
+(the values measured are on the order of hundredths of a dB), the power drawn by two
+transmitters of a ring is distributed into six elements (Figure 21.). The part PRC
+reaches the useful load llc that can be the antenna or a following ring; a second
+part PRL dissipates on the absorption load; and the other four parts, "RI and ZPRZ,
+are absorbed by the four cavities and dissipated in the elements diagrsmmed with the
+equivalent resistances at losses Ry and R2 in Figure 20.
+
+ 
+
+Figure 26. Distribution of the input powers in the elements of the ring
+Key:
+1. Filter 2. Absorption load 3. Useful load
+
+38
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+It is useful to know the distribution of the power of the transmitters, both for
+evaluating the losses and for the dimensioning and disposal of the dissipated heat.
+
+7.1. Nonmodulated Transmitters
+
+A single branch of the ring is initially considered: it is presumed to apply power
+to the two-cavity filter examined (Figure 20) with a sinusoidal generator of avail-
+able power Pl Part of the incident power P+ - P1 is reflected by the filter be-
+cause at the input (section e), the coefficient of reflection is different from
+zero. The reflected power P' ‘ iolzPl constitutes the return loss expressed in
+watts. The part of power Pe that effectively enters the filter is the difference
+of the preceding ones: ' e(l - IpIZ)P1. This is distributed in the elements RC
+(useful load). R1 and R2 2(cavities). The active power Pe I IVeI2/Re (Figure 22)c
+dissipated in the imaginary resistance Re is in reality dissipated in the resistive
+elements of the filter per a distribution that can be derived from analysis of the
+network (Figure 20) and that is:
+
+”51 PRC ' Pe'm- Pal " Pe'B» PR2 ' Pew.
+
+in which the quantities a, 3, y indicate the fractions of power Pe dissipated, re-
+spectively, in RC, R1 and R2; their values are expressed by:
+r
+
+' 41+" + (1 +1Ir)' + (1/2)' '
+
+1 s 1 I
+OWN?)
+1
+W’
+in which r and x are again furnished by [16] and [17]; one has a + B + y I l.
+
+[26] 5-
+
+Y-
+
+The extension of these considerations to the complete ring (Figure 24) is immediate.
+
+For transmitter 1, one has:
+
+ 
+
+PP—TMI-lpl’bm
+fﬁL-Liﬁl -l9l')'B,
+
+[271 PT'f-%u-Ipl'm.
+‘2‘ -lpl‘.
+
+in which, if the values of |p§ and of the parameters a. 3'Y are calculated at car-
+rier frequency f}. the expressions of [27] express the power distribution of non-
+modulated transmitter l.
+
+Analogously for transmitter 2:
+
+39
+
+FOR OFFICIAL USE ONLY
+(l-lpl'm.
+
+[23)
+—=_(1 'lPW'BI
+
+ 
+
+u-(l —!p|3)-a
+
+with [p], a, B, 7 calculated at carrier frequency f2 of transmitter 2.
+
+The factors [/2 that appear in the preceding formulas take account of the subdivi-
+sion of power of each transmitter on the two branches of the ring.
+
+7.2. Modulated Transmitters
+
+When the transmitters are modulated. the power distribution varies. with a non-
+modulated carrier, all the power of a transmitter is associated with the carrier;
+with a modulated carrier. in accordance with Parseval's equation, the power associ-
+ated with the modulated signal is the sum of the powers carried by the individual
+lines of the spectrum. Referring to Appendix A, formulas [37] and [38), and modu-
+lacing with a sinusoidal tone of frequency fm, the expressions of [27] relative to
+transmitter I modify into the following:
+
+‘EPR—c' - [(1 - Ipnl') 'Gz - JI(m)]s.o +
+
+I
++2iu-Imla-mn),
+h!
+
+5987'. .. .21. [u — lp. m .p.-.Iz(~)1.-o +
+
+-:-}':(1-|p.:')-a.-J:(n).
+
+[291 M
+P 1
+7:1; " rm _ I m: "r- cunt-o +
+
++£(1-lp.|*)-y.odz(m).
+
+l-l
+
+Pas
+
+Pi '- [I P! i’ ”HUM--0 ‘5-
+
++2iz IMP-13(3),
+hl
+
+in which Jk(m) is the first-type Bessel's function. of order k and subject m (index
+of modulation). The first term represents the power relative to the carrier and the
+sums of the terms of the series refer to the lateral lines. Coefficient 2 presup-
+poses an identical contribution of the two lines of each pair of order k, and this
+derives from the fact that for a small |Af|f|. the modulus of the filter’s transfer
+function is symmetrical vis-a-via the tuning frequency. In the expressions of [29],
+the Subscript: k of the functions |°|, a. 3, y indicate that they are to calculated
+by putting into expression [17] for normalized reactance, of which all of them are a
+function. the value:
+
+ 
+
+1301 (Am - u... 10-3 (with in in kHz. to in um).
+
+40
+
+FOR OFFICIAL USE ONLY
+FOR,OFFK]AI.USE10NLN
+
+in which k takes on, successively, all the whole-number values between 0 and n.
+
+The sum of the power ratios [29] is equal to 1 when sums of the terms of the series
+are extended to number n of the pairs of lines that make up the signal (in theory,
+
+n . co); in practice, the calculation was done by putting into the computer program a
+"test" that interrupts the sums of the terms of the series for that value of n by
+which there results:
+
+PRC/Pl ’ 2P1:1/1’1 * 2P112/91 " Pat/Pl 2. Q.
+
+Q having been fixed as 0.9999; in this way, the 2n + 1 lines of the spectrum that
+contribute 99.99 percent to production of total power are taken into consideration.
+One notes that by putting into the expressions of [29] m . 0, the expressions of
+[27] are obtained again, keeping it in mind that Jk(0) ' l for k . 0 and Jk(0) ' 0
+for k i 0.
+
+The upper part of Table 2 presents the values of the powers calculated with both
+nonmodulated and modulated carrier, by menas of [27] and [29], for a frequency devi-
+ation 6f . 3 75 kHz and for a transmitter power P1 - lO kHatt at the frequency of
+89 MHz (ring X).
+
+In an analogous manner. by modulating transmitter 2 one can obtain the expressions
+of PRC/P2. Pal/92» PRZIPZ amd PRL/PZ- In this case, though, the sums of the terms
+of the series relative to the higher lines and to the lower lines with regard to the
+carrier must appear separately, because frequency f2 of TXZ is on a side of the
+characteristic and the lines of the spectrum are treated in a dissymmetrical manner.
+
+The lower part of Table 2 presents the values calculated for transmitter 2 at 89.9
+of ring X with P2 = 10 k".
+
+The total power dissipated in each cavity and in the absorption load is obtained as
+the sum of the corresponding powers dissipated by the two transmitters, and the sum
+of the voltages must be assumed as the maximum voltages.
+
+It should be noted that for the TX2 one has both a negligible difference in the dis-
+tribution of the powers as between the conditions of nonmodulated transmitter and
+modulated transmitter, and somewhat reduced losses of useful power (see section 9).
+
+Once the value of the power for each cavity is known, it is easy to go back to the
+maximum currents and voltages on the internal elements, knowing the transformation
+ratio. For example, the voltage at the open end of the cavities c1 and C2 (Figure
+24), relative to nonmodulated TXl only, is:
+
+r‘ :- l'lj Rl"'1i;
+
+m (“1/2) -1184’-' volt.
+
+8. Resonant Cavities of the Filter
+Once the structure of the cavities and the Q necessary for achieving the desired
+radioelectric characteristics are established, one goes on to determine their dia—
+
+meters. This subject was dealt with in sections 6 and 7 (Bibliography 6), and
+therefore only the essential part of it is reviewed here.
+
+41
+
+FOR OFFICIAL USE ONLY
+Table 2
+
+Modulated carrier f1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nonmodulated
+Txl carrier f1 in I 1 kHz fll - 15 kHz
+(-‘9 101:) (w) (w) (w)
+PRC 9,615.46 9,546.32 9,544.55
+PR1 98.00 108.22 108.17
+PR2 94.27 93.60 93.57
+Pm. 0.36-10'3 49.07 51.30
+Loss of
+useful - 0.17 - 0.20 - 0.20
+power (dB)
+No lulated Modulated carrier f2
+TXZ carrier f2 fIn = 1 kHz fm = 15 kHz
+(89.9 mm) (H) (u) (w)
+PRC 9,940.60 9,938.12 9,938.45
+PR1 0.34 0 35 0.35
+PR2 11.90 12.03 12.03
+PRL 34.90 36.12 36.11
+Loss of
+useful - 0.026 - 0.027 - 0.027
+power (dB)
+
+ 
+
+the coefficient of quality for the coaxial resonator is:
+[31] Q - 4.17/ f/pr -D-o(D/d) (with f in MHz, 0 in and
+
+in which D - inside diameter of the externalconductor, d - diameter of the internal
+conductor. and p, . resistivity as referred tothat of copper.
+
+The function ¢(D/d) presents a maximum, of unhary value, for old - 3.6, correspond-
+ing to a characteristic impedance Rec - 77 ohu.
+
+The value furnished by [31] is the maximum obtainable with a coaxial line; in prac-
+tice, lower values are obtained.
+
+When the energy stored in the resonator'a electromagnetic field remains constant,
+independently of the number i of dissipative elunenta, the real 00 is obtained as a
+parallel of the Q's that there would be franinserting the i sources of loss one at
+a time:
+F1)R‘0F1NC1AI.I£SEICNVLY
+
+I321 Q0 - KQ with K - 1/0 + PllP + + Pi/P),
+
+P being the power dissipated in the coaxial and Pi the powers dissipated by the i
+sources of added losses.
+
+In the case being considered, it is possible to individuate principally two causes
+of loss (Figure 19): the short-circuit disc, which closes the cavity, into which all
+the maximum current 10 goes, and the strip contacts necessary for tuning the cavity.
+
+The expressions of the loss ratios (formulas [25] and [26] of [as published] Biblio-
+graphy 6) are referred to again; for the short-circuit disc:
+
+[331 91/? = 3.71-10'5-f-D-MD/d) (f in mu, n in m)
+and for the strip contacts:
+[31.] vz/p - 26.66-10‘60f.l.,cos28° (f in um, I. in m)
+
+in which eo is the distance in degrees between the selection field of the strip con-
+tacts and the ahorshort-circuit plane and L is an equivalent line length that would
+give rise to the same losses as those due to the "fingers."
+
+For the cavities of ring X one has: so I 55.4' and L I 355 mm; ¢(D/d) . l.
+9. Distortions Introduced by the Combining Unit
+
+In section 6 the necessity was pointed out of limiting the baseband distortions of
+the frequency-modulated signal transiting in the combining unit, especially in
+multiplex operation.
+
+The problem of the distortions causes all the more concern the narrower the band of
+the circuits is, because of very close channeling, as is the case with the Mt Venda
+
+installation.
+
+The RF signal outgoing from the filter is affected by distortions that alter its in-
+stantaneOus amplitude and phase. The amplitude, which is no longer constant, varies
+in synchronism with the modulation of frequency by the effect of the limited channel
+width, giving rise to synchronous AM modulation, which is defined as the ratio be-
+tween the difference and the sum of the maximum values V" and minimum values Vm of
+the RF-signal envelopc--that is:
+
+_ vn-vm
+(351 m vam'
+
+In reception, this distortion is eliminated by the limiters, while the phase distor-
+tions are transferred by the demodulator into the baseband signal.
+
+For checking the distortions in the stereophonic signal, an original calculation
+procedure was used; it is described in Bibliography 8, and is applicable to any lin-
+ear quadripole network whose transfer function is known. It calculates the distor-
+tions present in the A and B channels (left and right) after the RF signal modulated
+by a multiplex has transited through the filter.
+
+43
+
+FOR OFFICIAL USE ONLY
+ln summary: the spectrum of the modulated signal, calculated by Fourier's transform,
+is multiplied by transfer function H(w) of the filter, in the sense that each line
+of the spectrum is altered in amplitude and phase in relation to the modulus and
+phase of H(m) at its frequency. At output from the filter. the antitransformed sig-
+nal presents a variable instantaneous-amplitude envelope from which the synchronous
+AM is obtained, while the distortions are calculated on the basis of the demodulated
+signal, obtained by means of derivation of the instantaneous phase.
+
+Several of the values calculated--for example, for channel 1 (89 MHz) in transit in
+ring x, applying power to channel A only with modulating frequency of 1 kHz and
+6f - 1 75 kHz--are:
+
+synchronous AH 0.931
+Linear diaphony - 56.5 dB
+Nonlinear diaphony - 72.1 dB
+Harmonic distortions - 71.6 dB .
+
+which values are to be considered good.
+
+Another procedure is mentioned, for evaluation of synchronous AH (Bibliography 9).
+that uses an approximate method but has the virtue of simplicity. It consists in
+assuming for V" and Vm in [35] the maximum and minimum values taken on by the trans-
+fer function with variation of the frequency from the value f° of the carrier to the
+values of the deflection peak fo 1 6f. This procedure, called quaaistationary ap-
+proximation, furnishes synchronous-AH values approximated by defect. It has been
+observed experimentally that the approximation can be improved if the values
+
+fo 1 (6f 9 fm) are considered as frequency extremes.
+
+As regards reflected transmitter 2, the problem of distortions proves less important
+if the dimensioning of the circuit is appropriate.
+
+Several differences between the characteristics of the TXl in transit and those of
+the reflected TXZ of the same ring have already been noted (sections 7 and 6). For
+the latter, they are: lower losses, smaller differences in power distributioe be-
+tween modulated and nonmodulated carriers, less group delay in the channel. Syn-
+chronous AM is also lower, being 0.12 percent for TXZ of ring X.
+
+10. Auxiliary Circuits for Control of the Unit
+
+The unit described is provided with a system of electronic circuits for the func-
+tions of monitoring, signaling,equipment protection and personnel safety.
+
+10.1. Monitors
+
+The monitoring circuits, situated in the instrument panel, furnishes readings of the
+direct and reflected power at the unit inputs for each transformer and at the output
+from the various rings, on lines A and B and on the artificial load (indicated by
+
+RJ in Figure 9).
+
+In the same section there is monitoring of the reciprocal isolation of the trans-
+
+mitters between the gates I - 1‘ (Figure 8) for each ring, and switchable reading of
+the maximum temperature of the cavities.
+
+44
+
+FOR OFFICIAL USE. ONLY
+FOR OFHCIAL USE ONLY
+
+Monitoring of the cavity-tuning conditions is furnished by reading of the power re-
+flected by the cavities that goes back onto the absorption loads and by reading of
+the synchronous AM, which must be minimal in conditions of perfect tuning. These
+measurements too are switchable to each ring.
+
+10.2. Signaling
+
+Signaling is done with a number of LED's that constantly indicate the conditions of
+the circuit and signal any breakdowns. They are located partly in a group under the
+instrument panel and partly on the manual-switching frame. The former signal: power
+on in the transmitters; the position of the manual switches; presence of the protec-
+
+tion systems. The lights on the manual-switch panel, though, permit switching only
+if the transmitters are not under power.
+
+10.3 Equipment Protection
+
+This consists in automatic action to shut down one or more transmitters whenever
+anomalies occur in the circuits powered by the unit, including the antenna. The
+parameters monitored by the protection systems are: maximum reflection on antenna
+lines A and B (shut-off of transmitters at the prcestablished threshold); maximum
+
+power on artificial load Ra; maximum reentry onto absorption loads; maximum cavity
+temperature.
+
+10.4. Personnel Safety
+
+In addition to the usual safety provisions prescribed for every piece of equipment
+under tension, the unit and the manual-switching frame have been provided with a
+circuit for intervention in case of wrong or dangerous maneuver. This circuit re-
+produces, in direct current, all the possible runs of the RF power; only when all
+the runs of the RF are closed are the relays operated that enable the various trans-
+mitters to stay under power. Any dangerous maneuver is prevented, a little ahead of
+time, by the shut-off of the transmitter or transmitters transiting by way of the
+circuit section in question.
+
+Acknowledgements
+
+We cite: the essential contribution of Mr Giuseppe Novaira, who competently and
+skilfully carried out the entire cycle of measurements and the development of the
+entire radio circuit of the unit for Mt Venda, through its installation; Dr Frances-
+co Rossi Doria, who efficiently supervised the construction and detailed installa-
+tion of the auxiliary monitoring and safety circuits; Engineer Renato Orta, who on
+the occasion of this project did an original and rigorous study of the distortions
+of lhe stereophonic signal (Bibliography 8), filling a void in the technical litera-
+ture on the Subject; and the Radiofrequency Laboratory for its notable contribution
+to the working-out and construction of the protection and safety circuits and re-
+lated electronics.
+
+APPENDIX
+
+A) The relations that link a sinusoidal magnitude v(t) of pulsation mo (carrier)
+with a generic function of time x(t), modulating, are considered to be known. It is
+recalled that in frequency modulation, a biunivocal correspondence is established
+
+45
+
+FOR OFFICIAL USE ONLY
+between x(t) and the instantaneous separation of the frequencies of v(t) in relation
+to that of the nonmodulated sinusoid. For the instantaeous pulsation, one has:
+
+wi(t) ' ”o + Kx(tL
+
+Keeping it in mind that the instantaneous pulsation is the derivative, with regard
+to time, of the instantaneous phase. in the particular case of sinusoidal modulation
+--that is, x(t) ' cos wmt--one has:
+
+[36' {so} =(¢)=Asin[u.t4-Kjx(t)d¢=
+-4 my»: +1» sin out]
+
+in which m ' 6f/fm is the index of modulation with 6f frequency deviation corres-
+ponding to the peak value of the separation of the instantaneous frequency, and in
+is the modulating frequency. Expanding in [ll the sin and cos terms of the subject
+(m-sin wmt), one has also:
+
+[37] 17(3) =A{Jo (150510 (00¢ 5.-
+
+_-_ “2.1.(musinm. + luau)! + ( — 1)'-sin (mo -"w-)‘l}
+8-)
+
+in which Jk(m) is the first-type Bessel's function, of order k and subject m.
+
+The total power associated with the signal v(t) is given by the sum of the powers
+associated with the individual lines.
+
+The fraction of power PQ transmitted in a channel with limited band 80 = 2pfm is ex-
+pressed by:
+
+[381 PoﬂA’sz(lI)-A’-Q
+
+with Q < l and p is the number of pairs of lines considered around the carrier; for
+P = w, Q - 1 results.
+
+B) If the modulating signal is composed of the sun of two sinusoidal tones
+x(t) . cos m1: # cos wzt. one obtains analogously:
+
+I39] v(t) . A sinlmot + m1 sin m1! + m2 sin wzt]
+
+with m1 = df/fl and m2 ' étlfg, which, expanded, can be written (Bibliography 7) as:
+
+614
+
+“'0' v(t) =4 ‘2. S Jl('u)‘
+
+Land to--
+
+. J-(IM) . sin (m -:- hm + to.) t.
+The fraction of power PQ transmitted in a channel of limited hand no is:
+d. -'
+
+“'11 Po---.4= .. E [J-(MI)-J:(M:)P-.«l*Q
+
+5--.. k.-.
+
+with the condition -B /2 5 : hwl 1 sz 5 39/2 and in which p and q are the maximum
+orders of the Besscl's functions corresponding to the lines contained in the band
+considered 30 - Zﬂmz (with m2 > ml and H positive integer). For p - q = W, Q = 1
+results.
+
+46
+
+FOR OFTHCJAI.US£‘ONLN
+INJR 0W1ﬂ€1Al.USEZCH§LY
+
+BIBLIOGRAPHY
+
+Young, L., "The Analytical Equivalence of TEN-Mode Directional Couplers and
+Transmission-Line Stepped-Impedance Filters,” PROC 13!, 110, February 1963,
+pp 275-281.
+
+Hatthaei. 6.. Young, L.. and Jones, 8.. "Microwave Filters, Impedance-Hatching
+Networks, and Coupling Structures," McGrau-Hill.
+
+Chuck Y. Pon, "A Wide-Band 3-d8 Hybrid Using Semi-Circular Coupled Cross-Sec-
+tion," THE MICROWAVE JOURNAL, October 1969, pp 81-85.
+
+Pacini. 6.P., "ZS-kw UHF Combining and Vestigial Filter," ELETTRONICA, No l,
+1963. pp 2-9.
+
+Pacini, 6.9., "Automatic Frequency Stabilization for Distributed-Constanta Re-
+sonating Circuita by Means of a Mechanical~Hydraulic Device," ELBTTRONICA E
+TELECOHUNICAZIONI, No 6, 1969, pp 210-212.
+
+Pacini, 6.9., "Design Method for Audio-Video Combining Filters," ELBTTRONICA E
+TELECOMUNICAZIONI, Part I: No 2, 1970, pp Sh-64; Part 2: No 3, 1970, pp 106-116.
+
+Black. H.. "Modulation Theory," D. Van Nostrand Company, Inc.
+Orta, R.. "Distortion of Stereophonic Signal in Frequency-Modulation Transmis-
+sions," Technical report No 80~22-l, November 1980. RAI, Research Center,
+
+Turin.
+
+Boccazi, F., and Luzzatto, 6., "The Synchronous AH Problem in PH TV Transmit-
+ters," IEEE TRANSACTIONS ON BROADCASTING, Vol 56-15, No 3, September 1969.
+
+COPYRIGHT: 1976 by ERI-EDIZIONI RA! RADIOTELEVISIONE ITALIANA
+
+11267
+650: 5500/2309
+
+47
+
+FOR OFFICIAL USE ONLY
+SILICON AVALANCHE PHOTODETECTOR FOR OPTICAL COMMUNICATIONS
+Turin ELETTRONICA E TELECOHUNICAZIONI in Italian Hay-Jun 81 pp 116-124
+[Article by H. Conti, H. De Padova and A. Hodelli*]
+
+[Text] Summary--Silicon avalanche photodetector for optical-fiber communications.
+This paper describes the implementation of a reach-through avalanche photodetector
+for optical-fiber communication systems with 0.8 to 1 pm wavelengths. This photo-
+detector has an n‘pnp* silicon structure and has been developed using the planar
+technique. Particular attention has been devoted to dopant profile, diffusion tech-
+nique, geometry and other factors for use optimization. Technological features
+(guard ring, channel stop. field plate. getter, passivation) made it possible to
+achieve very low dark current and noise and even lower than those typical of avail-
+able photodetectors. Two different systems have been implemented: diffusions on top
+by side [as published] of the incident light and overturn position. This avalanche
+photodetector operates with voltages from 200 to 300 V and variable avalanche gain
+up to a value 100. The responsivity is between 0.55 and 0.65 Al” for the wavelength
+range from 0.8 to 0.9 um. Besides, low capacitance allows this photodetector to be
+an excellent device for 36 Hbit/s communication systems.
+
+I. Introduction
+
+In optical-fiber communication systems, the incoming optical signal is converted in-
+to an electrical signal by a photodetector that must have adequate characteristics--
+that is. it must not introduce appreciable distortion in the incoming signal and
+must generate the least noise possible. The greater the noise, the greater the sig-
+nal level needed to ensure satisfactory communication, and consequently, the shorter
+is the communication section achievable at equal transmission power.
+
+The maximum performance characteristics in the 0.7—0.9 um band are obtainablle with
+a silicon avalance photodetector (Bibliography 1). Such a photodetector has an in-
+ternal gain, and in this way the noise input of the succeeding amplifier can be made
+negligible. In addition, because of the physical properties of silicon, the ava-
+lanche noise is intrinsically low. In this way, sensitivities even 10 dB higher
+than those obtained with a p-i-n photodetector can be achieved.
+
+* Doctor of Engineering Mario Conti of the SGs-ATES [expansion unknown]; Dr Matteo
+De Padova of the CSELT [Telecommunications Research and Study Center]; Dr Alberto
+Hodelli of the SGS-ATES.
+
+Typescript received 2 March 1981.
+48
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Particularly interesting is the RAPD (Reach—through Avalanche Photo-Detector) struc-
+ture, which can be developed with planar technology, gives responsivities only a
+little lower than the theoretical limit even with supply voltages of only 150-350 V
+--thus far lower than for the step—junction detectors (Bibliography l)--and finally,
+has low dark current and high reliability. For these reasons, the avalanche photo-
+detector designed and built at the SGS/ATES by the joint SGS/ATES-CSELT group is of
+this type, and is styled by the acronym OCPDA (Optical-Communication Photo-Detector-
+AValanche). Below are reported the optimal-design and fabrication conditions for
+this device.
+
+2. Operating Principles and Simulation
+The cross section of the photodetector is represented in Figure l. The active zone
+
+is the one between the two broken lines, and it is an n’pnp‘ junction typical of the
+"reach-through" structure.
+
+(saw) as, raw) P—‘Mr- _.‘ "(“I Ira-(u)
+I 0 u
+
+mini-.13) agar: U
+
+.,f
+
+ 
+
+IMI Al "I ' nu ma
+
+(1)
+
+    
+
+Figure 1. Structure of the OCPDA photodiode
+Key:
+1. Emptied zone 2. Active zone 3. Guard ring
+
+ 
+
+Figure 2 represents: above, the profile of net concentration Nd - "a per cm3 (Nd -
+concentration of donors, Na - concentration of acceptors) along the lateral axis x
+(indicated also in Figure l), and below, the profile of the electrical field E in
+the condition of voltage sufficiently high to empty the n region completely (Reach-
+Through situation: RTl.
+
+One notes that the maximum value of the electrical field ~2.5 - 3.105 V/cm is local-
+ized at the junction sJ, and that the multiplication of the carriers generated by
+the incident light is therefore concentrated there. There is also a far broader re-
+gion, in which the electrical field is considerably lower and rather uniform, which
+functions as an absorption region for the incident photons and for collection of the
+charges generated by them.
+
+All the regions present on the front are achieved with planar technology--that is,
+by obtaining. by photolithographic technique, adequate windows in a silicon-oxide
+state increased by heat oxidation, and by diffusing or implanting the appropriate
+doping agent through them (Figure I).
+
+Since the n+ region is very thin, it is necessary to use an n+ guard ring (deeper
+
+diffusion) that avoids problems of premature breakdowns and of metalization at the
+edge.
+
+The "channel stopper" external p+ ring serves to limit the emptied region laterally.
+49
+
+FOR OFFICIAL USE ONLY
+Figure 2. Profile of concentration a) and profile of electrical field b) along
+axis X (see Figure 1) in the active zone of the photodiode
+
+.OIiE'Dn I X
+
+WW3)
+
+ 
+
+Figure 3. Diagram of the operating principle of the "Reach-through Avalanche Photo-
+Detector" (RAPD) photodiode
+
+l. Emptied region 3. Avalanche ionization
+2. Multiplication region lo. Primary pair
+
+Key:
+
+ 
+
+Hetalization. in tho classic planar structure with field electrode (FP . field Plate,
+Figure l) and cquipotential ring EQR (Figure l). ia uaeful in atabilizing the situa-
+tion of the electrical field at the aurface. In thia way. aurface breakdown phenom-
+ena are avoided and the leakage current ia kept low and stable in time.
+
+50
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure 4. Concentration profiles used in digital simulation of the diffusion pro-
+cess (logarithmic scale for concentration). 1: profile of n‘ diffusion
+with surface concentration Csn*; 2: profile of p diffusion with surface
+concentration Csp; 3: constant concentration C3 in the a zone; 6: profile
+
+of p diffusion. .
+men
+7.2:“ I
+<17 'I‘" l
+
+"'1!
+
+VIII-'1"
+
+ 
+
+(10mm- 0 unused A unis; Inch-ovum sun (or) m“)
+Figure 5. Simulation of the n‘ diffusion process: a) parameter of each curve diffu-
+sion length Lp [as published] of the p layer; b) parameter surface con-
+centration Csp [as published] of the p layer.
+
+Key:
+1. Lp = diffusion length, p layer a. Diffusion time at 920°C (hours)
+2. CSP . surface concentration of boron 5. atoms per cm3
+3 Breakdown voltage
+
+ 
+
+ 
+
+The sensitive area of the device is circular, with diameter 360 um, and its size was
+determined so as to limit the device's capacity as much as possible while permitting
+easy coupling to the optical telecoununications fiber, which, as is known, has an
+outside diameter of 120-200 um.
+
+51
+
+FOR OFHCIAL USE ONLY
+When an electron-gap pair is generated by absorption of a photon, the electron, by
+effect of the electrical field, moves toward the n+ region and passes through the
+high-field region situated at the junction x- (Figure 3). In this region, the elec-
+trical field is such as to give it sufficieni energy to ionize by impact--that is,
+to create an electron-gap pair, which in turn can produce another pair, and so on.
+Consequently, the current relative to a single photon becomes multiplied by a factor
+that depends on the electrical field and therefore on the voltage applied to the
+photodetector. The electrons are then collected by the n’ region, while the gaps
+move toward the p‘ region and are collected there. This thin p‘ layer, in the rear
+of the chip (Figures 1 and 3), keeps the emptied region from reaching the rear sur-
+face and also makes good ohmic contact possible.
+
+The structure of Figure 2, which has been studied in depth, has the particular char-
+acteristic that the avalanche multiplier effect, and therefore the gain of the pho-
+todiode, grow in a relatively slow manner with increase of the voltage applied.
+
+The profile of reference impurities is shown in Figure 4.
+
+The profile of the electrical field E(x) is calculated with Poisson's equation:
+
+dzv D
+l” as"?
+
+in which v = electrostatic potential, 6 a dielectric constant, p = spatial charge
+assumed equal to the net concentration of doping agent--that is:
+
+[2' p a (“Nd ' N.)
+with q I charge of the electron.
+
+Equation Ill is solved in a numerical manner by imposing the corresponding contour
+conditions at an applied reverse voltage v . VR' A complication arises from the
+fact that the thickness xd of the emptied region is not known beforehand. The calcu-
+lation therefore proceeds by beginning with a zero emptying thickness and increasing
+it gradually until the required voltage VR is reached.
+
+The capacity per unit of surface of the photodiode is given by:
+[3] c I E/Xd-
+
+The multiplication factor M, defined as the ratio between carriers collected for
+each photon absorbed. is given by the expression:
+
+up I - f 1"... - .,) dz]
+
+ 
+
+ 
+
+I”! H n —— . a
+1 —La.exp[—L(a.—a,)dt']dr
+in which:
+[5] la u ﬂaw exp (— bur/E), I, I a,“ up (_ b,/E).
+
+The values of the coefficients valid for silicon (Bibliography 2) at ambient
+temperature are:
+
+52
+
+FOR 0F1ﬂC]AL.USE()NLY
+FOR OFFICIAL USE ONLY
+
+an.“ ' 3-8-106 curl. up“, - 2.25.107 curl.
+bn = 1.75.106 V/cm, bp - 3.26-106 V/cm.
+
+since an and up according to [5] depend on E, M proves to be an increasing function
+of VR, and for a certain value VR = V3 tends to infinity (for VR>V3, it becomes neg-
+ative). VB obviously represents the breakdown voltage of the photodiode, which is
+therefore defined by the expression H(VB) - a.
+
+It is of particular interest for design purposes to analyze the influence on V3 of
+the net doping profile. It is strongly determined by the n+ diffuse region, which
+must be regulated in such a way as to neutralize the correct quantity of acceptors
+introduced with the p diffusion. As will be explained later, this is achieved by
+depositing an appropriate quantity of n+ doping agent (phosphorus) on the surface
+and raising the chip to 900-l.000 °C for a time tn, so that the phosphorus diffuses
+in the chip with Gaussian profile whose characteristic length is Ln ' but“ in
+which on is the diffusivity of the phosphorus under the operating conditions. The
+final profile can be approximated by a distribution of acceptors with practically
+immobile Gaussian distribution from which one subtracts the distribution of donors,
+which depends on the heat treatment described.
+
+With these premises, the voltage Vg was calculated in function of diffusion time tn.
+The case of diffusion at 920 °C is represented in Figure 5a)b).
+
+One notes that the curves of breakdown voltage in function of diffusion time are
+composed of two straight lines. In the first line, the breakdown voltage is lower
+than the voltage necessary for emptying the p zone and the breakdown voltage in-
+creases slowly. As soon as the n’ diffusion has sufficiently compensated for the p
+
+diffusion, the breakdown voltage begins to increase far more rapidly with diffusion
+time.
+
+For the purposes of study of the process, it has been interesting to study how the
+form of the diffusion curves varies with the variation of two initial parameters,
+which are the length L of diffusion of the p layer and its total dose. The curves
+of Figure Sa) were calculated for a constant total boron dose Q by varying its dif-
+fusion length L that appears as a parameter. Figure 5b), on t e other hand, corre-
+sponds to the case of a p diffusion with constant diffusion length LP but with vari-
+able total dose Q ; in this case, C8 is the surface concentration of boron, assumed
+as a parameter. 1e curves indicates by 1 represent the breakdown voltage VB, and
+those indicated by 2 represent the voltage at which emptying of the n region begins.
+
+Comparing Figures 5a) and b). one notes that the process is far more critical with
+regard to the predepositing of boron rather than with regard to the diffusion of
+boron. Indeed. going from a boron surface concentration of 1.1-1016 to 1.2-10l6
+atoms per cmz. a good 1 hr 30' shift of the rediffusion curves at 920° is obtained.
+This shows that very high uniformity is necessary in the boron dose deposited in
+order to avoid localized breakdowns.
+
+3. Fabrication
+
+As the starting material for making these avalanche photodiodes (APO), Float Zone
+silicon chips of 2" diameter, with resistivity of 2,000-6,000 ohms-cm and orienta-
+tion ([11) are used. The high resistivity, obtainable only with material of "detec-
+
+53
+
+FOR 0FFKJAl.USE(NVLY
+INDRloiTWCJAI.lXSEZ(MNLY
+
+tor" class, is indispensable for achieving empty regions more than a hundred microns
+thick with breakdown voltages lower than 350 V.
+
+After the initial polishing and oxidation, the first two processes are carried out:
+the making of the n’ guard ring and of the p‘ "channel stopper," achieved with plan-
+ar diffusion in an atmosphere of, respectively, phosphorus (from P0Cl3) and boron
+(from BN).
+
+As regards the p deposition, after many tests carried out with the traditional depo-
+sition process (predepositing with B" chips followed by a double "steam leach"), the
+necessity of having greater uniformity emerged and it was decided to go over to de-
+position by ionic implantation. This method does indeed make it possible to regu-
+late the dose deposited--which in our case is about 4-1012 atoms per cm2--with great
+precision.
+
+A measuring process that makes it possible to check accurately the dose deposited
+has also been developed. It uses the four-points method (Bibliography 3) and makes
+it possible to have a direct check on the dose implanted. It is essential for the
+dose to fall within very narrow limits; indeed, if there is a deficiency of boron,
+the chips go into breakdown at excessively high voltages, and if it is too abundant,
+it is necessary to rediffuse the n‘ for too long a time, which reduces quantic effi-
+ciency in case of illumination from the front.
+
+After implantation of boron, the chip is raised to l,200° C in a controlled atmo-
+sphere for several hours so as to achieve rather deep diffusion, with characteristic
+
+length I DptP I 1.8 pm.
+
+The chip is then brought to a thickness of 120 pm by means of lapping and chemical
+attack on the rear face. An implantation of about 1014 atoms/cm of boron on the
+rear constitutes the rear p+ region.
+
+Finally, the chip is treated in a phosphorus (P0013) atmosphere at 920° for a suit-
+able timc so as to cause penetration of the phosphorus previously deposited on the
+front and to achieve the required profile of acceptors in the p region. The treat-
+ment takes place in a phosphorus atmosphere, and in this way a "gettering" effect
+(Bibliography 4) is obtained which is useful for eliminating microdefects in the ma-
+terial and consequent causes of premature breakdowns. The cooling cycle, which has
+to be a very slow one, is also very important.
+
+6. Hetalization
+
+The two types of arrangement that have been made and evaluated are represented in
+Figure 6. In the first, a), light falls on the photodetector from the n+ diffused
+region, or from the front, while in the second case, b), it falls from the p+ re-
+gion, or from the rear.
+
+The first arrangement is of a type conventional for integrated-circuits technology.
+The metalization on the front (PP field electrode of Figure l and equipotential ring
+EQR of Figure l) is of aluminum, while that on the rear it.isofrﬁckel-chromium. An
+antireflectant layer of Si3N4 or sio is then deposited, as described later on.
+
+In the second arrangement (Figure 6b), it is necessary to make a metallic "cushion"
+of sufficient thickness to keep the alloy from making contact with the equipotential
+
+~59
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ring during the operation of soldering the plate to the bottom, causing a short cir-
+cuit of the diode.
+
+ 
+
+Figure 6. Section of two OCPDA photodiodea with different metalization: a) for
+front illumination; b) for rear illumination.
+
+ 
+
+o' " 'iuo m' 'mmo loo mm
+(1) new: man (1)":m Inn-u
+
+Figure 7. Responsivity in function of polarization voltage for various values of
+incident wavelength: photodetector illuminated from the side of a) p‘
+diffusion; b) n’ diffusion.
+
+Key:
+
+1. Reverse voltage 2. Responsivity
+
+55-
+
+FOR OFFICIAL USE ONLY
+For this purpose. a "cushion" of gold, about 50 um thick, is made from galvanic
+
+growth, starting from a layer of gold-chromium evaporated over the aluminum metaliz-
+ation and delineated by photolithography. At the same time, the metalizaticn on the
+p4 side is done. aligned with the preceding and achieved by evaporation of aluminum.
+
+In this case also, an antireflectant layer of suitable material and thickness is de-
+posited.
+
+The plate is then soldered onto a type TO-S container with ceramic mount. In this
+way, both cathode and anode are separated from the metal case, and the diode's satel-
+lite capacitances can therefore be reduced or eliminated.
+
+Closed photodiodes are then made, with cap with transparent window of glass or with
+optical fiber incorporated. This last-named version is of particular interest for
+optical-fiber communications, since in such case the connection to the line fiber is
+by a simple aligned auto joint and does not require an additional operation.
+
+5. Performance Characteristics of the Avalanche Photodetector
+
+5.1 Responsivity
+
+The responsivity of an APD detector is defined as the ratio between the detected
+current and the incident photonic power at a given gain and wavelength.
+
+In the case of a detector with given gain H, it can be expressed as the result of the
+following processes: reflection at the surface, absorption in the frontal region,
+conversion of phontons into electron-gap pairs, and internal multiplication.
+
+a) Reflection
+
+Reflection of light at the surface of the diode can be reduced if it is covered with
+a layer of antireflectant material. It has been demonstrated (Bibliography 5) that
+if this antireflectant layer with refraction index n2 has the thickness d - Alanz
+
+(A ' wavelength of the incident radiation). the reflectivity has the value:
+
+161 R=(-’""'_"")
+
+”aﬂi+ﬂﬂ
+
+ 
+
+in which n1 is the refraction index of the external space and n is that of the sili-
+con. As emerges from [6], reflection R can be minimized if n2 is the geometric mean
+between hi and n3.
+
+For n1 = 1 (air, vacuum), and since for X = 0.7 - 1 pm for silicon one has n3 =
+3.5 - 3.7, then in order to obtain R . ~0, n2 ~ 1.9 is necessary. Silicon nitride
+(Si3N4) and silicon oxide (sio) have a refraction index close to that value.
+
+b) Absorption in the Frontal Region
+
+On the surface of the photodetector there is always a semiconductor layer (for ex-
+ample, n‘, Figures 1 and 3) that absorbs photons without contributing to responsiv-
+ity. Given a as this layer's coefficient of absorption and "s as its thickness, the
+fraction of luminous energy transmitted is:
+
+exp(-aws).
+56
+
+FOR OFFICIAL USE ONLY
+FOR OFTWC]A[.USE|DNLN
+
+It is obviOualy necessary to reduce we to the minimum, given that a depends on the
+material used and is a function of the wavelength A employed.
+
+c) Conversion
+
+The photons that reach the emptied region of thickness w (Figure 3) are converted in-
+to electron-gap pairs. if the material is very pureI as is the "float zone" silicon
+generally used, the parasite absorption phenomena are negligible and the number of
+pairs created equals that of the photons absorbed.
+
+civen Po as the photon power entering into the emptied region, the generation of
+pairs is given by:
+dP(sl
+
+"‘P'H dz l‘%P-°m—u)
+
+ 
+
+in which h . Planck's constant and c - speed of light.
+
+The current I produced by photon power Po therefore has the value:
+
+I afﬁrm-ig‘ln -exp(—awn
+
+in which q B electron charge.
+
+In this expression, the component of photons reflected by the rear surface has not
+been taken into consideration.
+
+The total respoonsivity is the product of the factors considered and therefore has
+the value:
+
+97‘ __ __
+[7] ai-an'ﬁu Elna!” .9!)
+
+[3l - "P (— 80)]
+in which 3 is given by [4].
+
+[7] is valid for a photodetector, such as the one considered. made with a homojunc-
+tion; it makes it possible to study the influence of a--which, as was said, depends
+on A-—on responsivityﬂ.
+
+In silicon. a is large at short wavelengths, and d? is therefore limited by the term
+exp(- "s)' with increase of A, a decreases rapidly, and this term therefore tends
+toward 1; but the bracketed term, which, for a tending toward zero, also tends toward
+zero, becomes decisive. It is therefore important to use the biggest possible col-
+lection thicknesses w. This has a negative effect on response time, as will be shown
+farther on.
+
+In Figures 7a) and b), the curves of responsivity 6B are presented in function of the
+reverse voltage applied for various wavelengths, for APD's illuminated both from the
+p* side and from the n* side.
+
+Measurement was done by illuminating the detector with monochromatic light of known
+intensity, calibration having first been done with a rated EC 8 G radiometer. The
+current generated by the APO is amplified by an operational amplifier and recorded by
+a logarithmic recorder in function of the voltage applied. Cain H is evaluated as
+the ratio between the light current at the voltage involved and that of a p-i-n de-
+
+tector built with the same technology.
+57
+FOR OFFICIAL USE ONLY
+
+Une notes that at (Figure 7a) is on increasing function of the voltage applied and
+repeats the course of H. which in fact appears in expression [7].
+
+An abrupt increase occurs for V : 80-90 V--the voltage at which the reach—through
+situation appears. For lower voltages, J? is that of a p-i-n diode, while with high-
+er voltages it is much greater.
+
+The case of illumination from the n’ side (Figure 7b) is similar to the preceding,
+except that one notes that the falloff of R at the short wavelengths is greater.
+
+Comparison is given in Figure 8, in which the high-gain responsivities of both the p+
+APD and the n+ APD are presented. It can be noted that for high wavelengths
+
+(0.9 - l m). the OCPDA devices have better responsivity than the best devices avail-
+able on the market. This is explained by their having a rather thick intrinsic zone
+(2 120 pm). At the short wavelengths, the responsivity of the n+ l detector is lower
+than that of the 9* type; this is because of the fact that a part of the radiation is
+absorbed by the front region n‘. The n* 2 specimen, though, in which the n‘ diffu-
+sion is less heavy. has high responsivity even at this wavelength.
+
+ 
+
+as 0) on A (pm) 1
+
+Figure 8. Spectral response of several photodiodes illuminated from the p‘ or n+
+side for a multiplication value M = 60.
+
+If the results presented in Figure 8 are compared with those calculated with [7%, it
+is verified that experimental R is only slightly less than the theoretical value in
+the field 0.7 - 0.9 um--that is, in one of the areas of greatest interest for optical
+communications.
+
+5.2 Capacity
+
+The capacity associated with the detector has negative effects on both speed of re-
+sponse and noise, contributing to an increase in amplifier noise (see below). It is
+therefore important to limit it as much as possible.
+
+It consists of three components:
+
+--capacity associated with the central active region and with the n‘ guard-ring re-
+gion; it is that of a flat condenser, and for high voltages therefore tends toward
+vacuum value (Bibliography 3);
+
+-—capacity relative to the lateral cylindrical region and to the field electrode PP;
+at operating voltage, though, these are negligible;
+
+58
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+--capacity due to the bottom; this capacity is minimized by mounting the detector on
+an insulating plate in such a way that no terminal of it is in electrical contact
+with the bottom; with this mounting. the parasite capacity can be reduced to about
+half what it would be with direct mounting on the bottom (0.3 as against 0.6 pF).
+
+The capacity-voltage curve is given in Figure 9. At the voltage of 70-90 V, one
+notes an abrupt dropoff of capacity, which is due to arriving at the reach-through
+situation. For lower voltages one observes a second "hump" that is due to stabiliz-
+ation of the emptying situation in the semiconductor under the field electrode.
+
+ 
+
+Figure 9. Characteristic of capacity in function of the polarization voltage of an
+OCPDA photodiode
+
+In the last analysis, there is little difference in capacity in operating condi-
+tions in the two situations, n’ and p‘: its value is 1.5 and 1.8 pF in connection
+with insulated bottom and with grounded bottom.
+
+5.3 Speed of Response
+
+The photogenerated charges pass through the w region at a speed v that depends on
+the electrical field present in it. As is known, with silicon it is proportionate,
+with low fields, to the electrical field in accordance with a coefficient of propor-
+tionality u called mobility. But when the electrical field becomes high, on the or-
+der of 104 V/cm and above, the speed tends toward a saturation value v; on the order
+of 107 cm/s. There is also a second cause of delay: the time needed by the ava-
+lanche to stabilize (Bibliography 1). But it is important only in devices that are
+very fast and not thick, such as the present ones, in which high responsivity is re-
+quired for A - 0.8 - 0.9 pm.
+
+Transit time can be calculated with the expression tt ' 0.8 w/v; it conditions the
+photodetector'a intrinsic cut-off frequency, given by the expression:
+
+£363 ' 0.10 V/H ' 0.5/Ct.
+In order to keep the cut-off frequency high, a high v must be achieved, in view of
+the fact that w cannot be too small, which would reduce responsivity. This is done
+by keeping the electrical field high in the w region, and therefore a part of the
+voltage applied has the purpose of achieving this electrical field.
+
+1he pulse response of this photodetector is presented in Figure 10.
+59
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USP. ONLY
+
+ 
+
+Oscillograms of the response of OCPDA photodiodes subjected to a light
+
+  
+
+ 
+
+Figure 10.
+pulse. The reSponse of a fast p-i-n diode is given for comparison.
+Axis of the abscissas: l ns/div.
+I?
+w
+0‘)
+«f
+o
+1
+0‘
+'o no 2m) x» (v) «m
+Figure ll. Inverse characteristics in dark of four OCPDA diodes
+0
+II) r——
+I
+(F,
+2
+r
+‘0 - -
+Figure [2. Spectral density of noise current in function of multiplication factor
+Key' M (the broken line shows, for comparison, a course proportionate to H).
+1. Side
+
+ 
+
+ 
+
+The light pulse is generated by a type-C 30025 laser and has a width t* that is
+measured by a fast p-i-n detector with a rise time t, 5 0.35 ns.
+
+60
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Response time with impulse excitation is obtained by subtracting time t* from the
+measured value tm with the expression:
+
+t - / tmz - t*2 .
+
+One thus obtains values of about 2 ns and 3 na, respectively, for detectors of type
+p’ and n’. The difference, and also the rather different form of the pulse de-
+tected, are due to the fact that in the first type, multiplication is rather uniform
+for all the photogenerated carriers, while such is not the case with the n+.
+
+The times given are entirely satisfactory for 34-Hb/s PC“ systems and also for high-
+
+er frequencies. They can be further reduced by reducing the thickness of the de-
+tector.
+
+5.4 Noise
+
+As was said in the introduction, it is important for the detector-amplifier system
+to introduce very low noise, so as not to deteriorate the incoming information. The
+lower the noise, the lower the optical power necessary to ensure detection of pre-
+established quality (signal-to-noise ratio, error rate, etc), and therefore, the
+longer the section that can be constructed for a given transmission power. Let us
+
+review the various causes of noise introduced by the detector and evaluate their
+contribution to total noise.
+
+a) Quantic Noise
+
+With an optical power Po there is associated a flux of n electrons (that flow inde-
+pcndently) in which n ' nPo/hv) in which n quantic efficiency of the detector, h I
+Planck's constant, v - frequency of the radiation. The fluctuation of these elec-
+trons gives rise to a "shot" noise current whose mean quadratic value is given by:
+
+[8] is: - 2qBIP with 1p . nqn . photogenerated current for H ' l, and B‘Ipass band.
+
+b) Avalanche Noise
+
+In the avalanche process. the individual light pulses are multiplied in accordance
+with a stochastic process. and the noise is therefore greater than what would be
+calculable if only the individual packets lp-H were considered; this is taken into
+account by means of the coefficient F, that is called the "excess noise factor."
+The noise current is therefore given by:
+
+ 
+
+l9l TEE - ZqFBIPM2
+
+in which:
+
+[10] F___u(l__(l—k)(H—l)')
+3':
+
+with k = aP/an
+
+in which up and 0n are. respectively. the coefficients of ionization for the gaps
+and for the electrons. F therefore proves to be an increasing function of multipli-
+cation factor M. Moreover, the lower k is, the smaller F is;it is therefore good
+
+61
+
+FOR OFFICIAL USE ONLY
+for the primary charges (electrons in silicon) to be those with the highest coeffi-
+cient of ionization. This explains the choice of the n‘pnp+ structure for this
+
+photodetector.
+
+From the expressions [5] of on and up it is deduced that ks smaller as the avalanche
+electrical field is lower. However. low fields require considerable avalanche '
+
+thicknesses and therefore high polarization voltages.
+
+[n the case in question, a value of k = 0.02 was obtained, which entails a rather
+small value of F in operational multiplications.
+
+c) Dark Current
+
+The detector's reverse dark current also involves a fluctuation and therefore noise:
+it is composed of a surface term Is and a "bulk" or mass term 15. They are given
+by;
+
+2
+
+in which: ni - intrinsic concentration, vr - speed of surface recombination, r 3
+average life in vacuum in silicon, and A8 and A- are the surface area not involved
+in the multiplication and the surface area of the junction (Bibliography 3).
+
+L n'
+I, I qnivrAs. lb . — q 73- Ajw
+
+The dark noise current is calculated with the Shot-effect formula, and is:
+[111 T7 - ZqB (1s + 191%).
+
+In Figure ll are given the reverse-dark-current curves for several OCPDA diodes in
+function of applied voltage.
+
+d) Noise Due to Amplifier
+
+The photodetector is closed on a resistance RL which is the amplifier's input resis-
+tance: a thermal noise is associated with it. In addition, the amplifier is the
+site of noise that can be represented by increasing the noise produced by RL in ac-
+cordance with the coefficient PA (noise factor of the amplifier). The noise current
+of the amplifier therefore proves to be:
+
+“Mn
+
+IKTB [1+F,(1+ 3
+
+(12' 'I‘ﬂ-
+L
+
+ 
+
+in which K - Boltzman's constant. T - absolute temperature, C . total capacity at
+amplifier input, and m - 2nf is the angular frequency of the signal.
+
+1 q} I
+Since the signal power associated with P0 is given by 367715”), the overall ra-
+
+tio 8/" between the signal and the noise is given by:
+
+[13] 8
+
+ 
+
+62
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+l£;%[a( qgﬂ
+— ll
+‘ oooOCM‘D'
+
+     
+
+Figure [3. Course of excess noise factor F with increase of H: ¢++ diode illumin-
+
+Key- ated from the p‘ diffusion side; --- diode i uminated from the n’ side
+
+1. Theoretical
+
+Figure 14. Noise Equivalent Power in function of H
+
+II]! expresses quantitatively the dependence of the signal-to-noise ratio on the
+various parameters of the detector and of the amplifier. We find the fact that with
+the presence as denominator of a term not dependent on H, S/N initially increases
+with the increase of M. Beyond a certain value, though, the tendency reverses,
+since the first term--in which. because of the presence of F, dependence on H is
+greater than in the numerator-~becomes predominant as denominator.
+
+Thus there exists an optimal value of H that optimizes the S/N ratio; to it corre-
+sponds the situation in which the two quantities to be added to the denominator are
+about equal. In these conditions, the maximum S/N value depends on the input-signal
+level Po, on l/RL, on F (factor intrinsic to the detector) and on the amplifier
+noise factor PA: as well as on the total capacity in parallel to the detector C.
+
+HeaSurement of noise was done by sending to the photodetector an optical power sig-
+nal equal to 40 n”, obtained from an LED HRED 956 L emitting at 0.9 pm. the re-
+sponse was registered by a transimpedance amplifier with very low noise and was read
+
+with a voltmeter of true effective value.
+
+with variation of the photodiode polarization voltage and therefore of multiplica-
+tion H. the noise voltage was read. both with illuminated diode (VL) and with diode
+
+63
+
+FOR OFFﬂJAl.USElDNLY
+in dark (VB)' Subtracting the effective values, one obtains the value Vn related to
+the photonic noise--that is:
+
+Vn'VVZL-VZB ;
+
+This value, divided by the amplifier's reaction resistance, provides the value of
+noise current in given by [9].
+
+The course of in in function of H is represented in Figure 12; it can be noted that
+in increases faster than H. One can then deduce also the "excess noise" factor F
+given by [10].
+
+In Figure 13 are given the F(H) curves for devices illuminated both from the p+ dif-
+suion side and from the n’ diffusion side. The experimental results coincide very
+well with the theoretical curve deduced from [10] and drawn in the figure for
+
+k . 0.02. This value is among the lowest reported in the literature, and it has
+been possible toachieve it only with appropriate geometry and careful technology.
+The commercially available devices have slightly higher k values: typically,
+
+k = "0.025.
+
+Another notable datum useful for eXpressing the good quality of the detector is the
+NSF (Noise Equivalent Power), defined as the incident-optical-power value necessary
+in order to have a unitary signal-to-noise ratio (S/N = I); it proves to be:
+
+"5p - _in__
+“/8
+The value of N5? is derived from the preceding measurements of in given by [9] and
+of ‘1 given by [7]. The typical course of OPCDA photodetectcrs is given in Figure
+14; it presents a minimum for values of M around 60 - 70. This value of the multi-
+
+plication factor M is therefore the one that optimizes the S/N ratio of the detector
+system.
+
+6. Conclusions
+
+The optimization criteria, the fabrication process, and the electro—optical perform-
+ance characteristics of the OCPDA avalanche photodiode designed to be used in optic-
+al fiber systems with wavelength between 0.8 and 1 pm are described.
+
+The n‘pnp’ planar structure with channel stopper and other technological expedients
+has made it possible to obtain devices with high multiplication and very low dark
+current.
+
+Two poSsible arrangements of the diode were constructed and studied: diffusion from
+the incident-light side and in the reversed position. For the wavelength involved,
+0.8 - 0.9 pm. a small difference in responsivity values was observed; as regards
+noise also, it was seen that it decreases only slightly with illumination of the di-
+ode from the p’ side. The structure with illumination from the p+ side (Figure 6b)
+therefore does not seem so much supeiior to the other as to justify the necessary
+technological complications. except for very advanced applications.
+
+In conclusion, the OCPDA device made by the SCS/ATES-CSELT groun presents character-
+istics comparable to those of the competition, and in some respects superior, as re-
+gards dark currents and noise.
+
+64
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Acknowledgements
+
+The authors wish to thank Dr G. Rnndone for the discussions with him and Messrs
+L. Gandolfi, c Vento and A. Destro for their contributions to the construction of
+
+the devices.
+
+BIBLIOGRAPHY
+l. Webb, P.. McIntyre, R.J., and Conradi, J., RCA REVIEH, 35, 1974, p 235.
+2. Sze, S.M., and Gibbons, 6., APPL PHYS LETT, 8, 1966, p 111.
+
+3. Grove, A.S.. "Fieicn e Tecnologin dei Diepositivi a Semiconduttore" [Physics and
+Technology of Semiconductor Devices], F. Angeli Ed., Milena, 1978, p 90.
+
+a. lbid, p 249.
+
+5. Born, M., and wolf, 3.. ”Principles of Optics," Pergnnon Press, 1975, p 61.
+6. Philipp. H.R.. and Taft. E.A.. PHYS REV. 120, 1960. p 37.
+
+7. McIntyre, R.J., IEEE TRANS EL DEVICES. 50-13, 1966, p 164.
+
+COPYRlGllT: 1974 by ERI-EDIZIONI RA! RADIOTELEVISIONE ITALIANA
+
+11267
+cso: 5500/2310 5""
+
+65
+
+FOR 0F1ﬂC1Al.lEﬂE(MNLY

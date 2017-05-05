@@ -1,0 +1,2466 @@
+non OFFICIAL USE ONLY
+
+JPRS L/10558
+2 June 1982
+
+USSR Report
+
+METEOROLOGY AND HYDROLOGY
+
+No. 2. February 1982
+
+FBIS FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+m
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transaissions and broadcasts. Materials fro. foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+nation was suI-arized or extracted.
+
+Unfamiliar names rendered phonetically or trsnsliterated are
+enclosed in parentheses. Hords or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Goverment.
+
+COPYRIGIT LAHS AND REGULATIONS GOVERNING WNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUELICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/lOSSO
+2 June 1982
+
+USSR REPORT
+
+HETEOROLOGY AND HYDROLOGY
+No. 2. February 1982
+
+Translation of the Russian-language monthly journal METEOROLOGIYA I
+GIDROLOGIYA published in Moscow by Gidromsteoizdat.
+
+Courtu'rs
+
+*l'neory of Anthropogenic Effects on Local Meteorological Processes in City....... 1
+
+*Investigation of Stability of Regression Scheme for Predicting H500 Field for
+Northern Hemisphere........................................................... 2
+
+‘Statistics of Errors in Predicting Geopotential.............. . . . 3
+*Parameters of Statistical Monitoring of Vertical Hind Profile. . . . . . . . . . . . . . . . . . . lo
+*Spatial Structure of Horizontal Flow of Atmspheric Moisture. . . . . . . . . . . . . . . . . . . . 5
+*Parameterization of Pluctuat ions of Stratospheric Ozone Content . . .. . . . . . . . . . . . . . 6
+
+Effect of Hater Temperature Anomaly in North Atlantic on Circulation, Thermal
+Regime and Moisture Cycle in Northern Hemisphere Atmosphere . . . . . . . . . . . . . . . . . . . 7
+
+Numerical Experiments Hith Model of Active Layer of Ocean. . . . . . . . . . . . . . . . . . . . . . 23
+*Criteria Characterizing Flow of Fluids With Stable Stratification. . . . . . . . . . . . . . 30
+
+Dependence of Accuracy in Computations of Parameters of Sea Wind Haves on
+Principal Have-Forming Factors............................................... 31
+
+*Dispersion of Suspended Matter in Honogeneous Hater Flow 38
+*Spring Snow Thawing and Evaporation in Central Yakutia......................... 39
+*(‘anputing Optimum Density of Planted Fields. 40
+
+‘Coaputing Optimum Grids for Regional Short-Range Heather Forecasting Models... . 41
+
+ 
+
+a
+Denotes items which have been abstracted.
+
+- a - [III - USSR - 33 SST P00
+
+POD nmnu ll“ MIV
+FOR OFFICIAL USE ONLY
+
+" Applying Separating Function for Alternative Diagnoaia or Prediction Using
+Dependent Predictora......................................................
+
+*Heandars of Cromwell Current................................................
+* Problems in Heteorologicel Inge Recognition................................
+* Bightieth Birthday of Yeliuveta Luareebovna Andronikova
+' Awerda at USSR All-Union Exhibition of Achieveuenta in National Bconomy.....
+* At USSR State Comittee on Hydrometeorology end Environaental Monitoring... .
+* Notes From Abroad...........................................................
+* Obituary of Yevgeniy Konstantinovich Fedorov (1910-1981)....................
+
+e
+Denotes item which have been abstracted.
+
+-b-
+
+FOR OFHCIAL USE ONLY
+
+#2
+b3
+(.6
+65
+66
+(.7
+1:8
+«'09
+FOR OFFICIAL USE ONLY
+
+UDC 551.588.?
+
+THEORY OF ANTIIROPOGENIC EFFECTS OR LOCAL METEOROLOGICAL PROCESSBS III CITY
+
+macaw urrsonomclu I GIDROLOGIYA in Russian no 2. leh 82 (manuscript received
+15 Aug 81) pp 5-15
+
+[Article by h. Ye. Berlyand. professor, and H. ll. Zashikhin. Main Geophysical
+Observatory]
+
+[Abstract] A study was nsde of an urban heat island, with cnphesis on formula-
+tion of a theory of change in air tsnpersture and hunidity. as well as wind
+velocity and the radiation regime in a city. and also the diurnal variation
+
+and interrelationship of these paraneters. Allovance is made for the advective
+influence of air flow onto an urban territory from its neighborhood. The nethe-
+natical fornulation of the prohlea of nodeling urban nicrocliaate is based on
+solution of a systen of equations for the influx of heat and noisture in the
+atmosphere, thereal conductivity of the soil. continuity equation and equation
+of motion. The initial parameters for solving the problea are velocity of the
+geostrophic wind, lean daily te-peratures of the underlying surface and the
+gradient of vertical temperature decrease in the air and soil. the degree of
+mistcning of the underlying surface. as well as the thermal conductivity and
+heat capacity coefficients, both in the city and outside it. In solving the
+radiation part of the problem it is necessary to stipulate the optical thick-
+ness and certain radiation characteristics of urban air basin contamination. A
+series of 6 exaaples with different para-eters was investigated. The couputed
+values of the intensity of the heat island, the nature of its change in the
+course of the day in its annual variation, and also the dependence on vind vel-
+ocity. altitude. etc .. agree well with the known results of nuaerous observa-
+tions. Aaong the factors taken into account in the nodel are air contamination.
+the degree to which the city is built up. changes in the characteristics of
+heat and noisture exchange and release of heat due to econoaic activity. Such
+computations and their analysis made it possible to examine differences in the
+diurnal fluctuations of air teuperature. wind velocity and exchange coefficient,
+as well as the development of radiation fogs in the city and outside it. Pig-
+ures 3; references 19: 10 Russian. 9 Hestern.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+0'00 551 . 509 . 3164551 . 5&7 . 3 (215-17)
+
+INVESTIGATION OF STABILITY 0? 336338810“ 8039!! FOR PREDICTIN H500 FIELD FOR
+HORNE!“ “9418?!!!”
+
+ﬂoscow meonowctu I GIDROLOGIYA in Russian No 2. Tab 82 (manuscript received
+3 Jul 81) pp 17-25
+
+[Article by V. A. Steblyanko. candidate of physical and mathematical sciences.
+and A. A. Burtsev. 088R Hydroneteorological Scientific Research Center]
+
+[Abstract] In most statistical weather forecasting schemes there is an in-
+crease in the prediction error with transition from a dependent to an inde-
+pendent samplerbecause the evaluations of the correlations between the pre-
+dicted parameter and the set of predictors obtained empirically using a de-
+pendent sample do not have adequate stability. The authors have attelpted to
+solve the problem of formulating a forecasting scheme which insofar as pos-
+sible takes into account the lisited nature of the sample and nonstationarity.
+The scheme hes an adaptive character (its parameters can be adjusted in depend-
+ence on newly arriving intonation). The probles is solved by a combination of
+the "moving control" and "screening" methods. The ample considered here is a
+variant of prediction of the nesn monthly H500 field, as the predictors tak-
+ing some paraneters characterizing the preceding months. As ssible predic—
+tors use was nude of the expansion coefficients for the 0T1 field in the
+latitude tone 100.79“ on the basis of mixed polynomials (Chebyshev polynosiels
+along the neridien and trigonometric functions along the circles of latitude)
+and the coefficients of expansion of the “500 field in :2». polar region in
+natural orthogonal functions. An algorithn is proposed for la.V¢.t183t1n8 the
+asymptotic behavior of the parameters of the vector of regression coefficients.
+This algorithm is based on the Robbins-Munro stochastic approxisation proced-
+ure. Evaluations of the quality of forecasts with choice of the predictors
+only by the "screening" seth and also by the "screening" aethod in coabina-
+tion with "moving control" are given. Tables 1; references: 7 Russian.
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 551.509.313
+STATISTICS OP ERRORS IN PREDICTING GEOPOTENTIAL
+
+Moscow HETIOROLOGIYA 1 GIDROLOGIYA in Russian No 2. tab 82 (manuscript received
+25 May 81) op 26-32
+
+[Article by A. H. Babaliyev and V. V. Kostyukov. candidate of physical and math-
+
+ematical sciences. Karaganda State University and Heat Siberian Regional Sci-
+entific Research Institute]
+
+[Abstract] An attempt is made to study the errors in two specific prognostic
+models presently being used in the USSR on the basis of a series of statistical
+characteristics. The first mdsl is a hemispherical model based on primitive
+equations. making it possible to obtain forecasts for s hemisphere (Ye. Ye.
+Kalenkovich, et al., CRISLENNYYE HBTODY RESIENIYA ZADACB ZMMZA POGODY I
+OBSHCHEY TSIRKULYATSII moan”. Novosibirsk, We 80 AN 8881!, 1970). The fol-
+lowing statistical parameters were used: relative error. correlation coefficient
+between two random values. evaluation of similarity of evolution of fields of
+predicted and actual trends, mean square error, mean aritheticel error. "signal
+noise." equal to the ratio of the dispersions of the field of errors and the
+actual field. mean values H“. Hp; and the standard deviations 0,: and or” of
+the actual and predicted trends. These evaluations were computed separately for
+different physiographic regions. Six regions were defined. Table 1 gives the
+mean values of the evaluations for two- and three-day predictions of gsopoten-
+tial at the SOO-mb level. The success differed considerably for different re-
+gions. The relative errors of tun-day forecasts were minimum for Europe, and for
+three-day forecasts -- for North America. whereas the greatest errors were for
+the Pacific Ocean area. Also considered, on the same principles and employing
+the same statistical criteria, was a model for a limited territory (regional
+model) (C. R. Kontarev. 12V. AN 888R: PIZIKA ATHOSFERY I OKBANA. Vol ll. No 3.
+1975). This model is also based on primitive equations and was developed for
+the Novosibirsk region. A table gives evaluations of daily forecasts with the
+regional model tor the SOO-mb surface. In both cases there is a discussion of
+the problems involved in taking the errors into account in order to increase
+the quality of forecasts. Figures 6. tables 6; references: 7 Russian.
+
+3
+FOR OFFICIAL USE ONLY
+fillCNﬂﬂCIAl.USE(MVLY
+
+UDC SSI.509.314+551.$5
+PARAMETERS 0P STATISTICAL HDﬂITORIRG OP VERTICAL "IND PID?ILB
+
+Moscow HBTEDROLOGIYA I GIDROLOGIYA in Russian No 2. Feb 82 (manuscript received
+26 May 81) pp 33-37
+
+[Article by S. I. Gubenove end S. M. Olevskaya, candidates of physical and math-
+enatical sciences. USSR Hydrometeorological Scientific Research Center]
+
+[Abstract] It is more difficult to monitor the wind than geopotentisl or temper-
+ature. However. due to the recent availability of new data on the statistical
+structure of wind components the authors undertook computations of the appro-
+priate parameters for monitoring wind components at nine isobaric levels from
+1000 to 100 mb. In seeking the parameters for vertical statistical monitoring
+by the optimum interpolation method need was made of the detailed date on ver-
+tical statistical structure of wind components in V. D. Kaznacheyeve. et el..
+"Generalized Characteristics of Vertical Hind Correlations Over the USSR."
+PRINBNENIYB STATISTICHESKIKB HITODOV V HITEOROLOGII. Moscow. Gidroseteoizdet.
+1978. Since there is a dependence of the interlevel correlations of wind com-
+ponents on season and latitude (the zones 65-60'N, north of 60’N and south of
+45'" are defined), computations were made separately for these latitude zones
+for winter and summer. A table gives the computed monitoring parameters for
+both components for January and July. This table reveals that the influence
+of season on the values of the weighting factors a1, b1 in the key formula is
+insignificant, especially for the zonal component and can be neglected for all
+zones and both components. However. there is a dependence of a1. b on lati-
+tude. If the zone t,(65' is excluded, for the two remaining zones t is pos-
+sible to use the same interpolation weights. It is shown that the at. b1 val-
+ues can be employed in experimental computations in a vertical statistical
+monitoring scheme. In a sample test with use of actual data from 173 stations
+in the Soviet Union it was found that the standard deviations of the zonal
+and meridional wind components were from b to 20 m/sec. Vertically these para-
+meters change approximately identically; they increase with altitude to sons
+level near 200-300 mb and decrease aloft. Tables 2; references 8: 7 Russian,
+
+1 Western.
+
+l.
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 551.571(571.1)(576)
+SPATIAL STRUCTURE OF RORIZORTAL FLOW 0F AMSPERIC MOISTURE
+
+Moscow msoaomcna I GIDROIDGIYA in Russian lo 2, Feb 82 (unuscript received
+25 May 81) PP 38-“
+
+[Article by L. P. Kusnetsova and N. P. Chernova. candidates of geographical sci-
+ences. Institute of Water Problems]
+
+[Abstract] The authors have endeavored to apply the aerological nethod in con-
+puting the water balance eleeents of river basins of different areas and eval-
+uating the feasibility of the objective interpolation method in studying the
+spatial structure of the horisontal flow of atmospheric moisture in the basins
+of the 0b' and Irtysh Rivera. In' this article eqhasis is on determination of
+the space correlation functions for the flow of ateospharic moisture. Much of
+the article is devoted to detenination of the values of the correlation coef-
+ficients for the latitudinal and longitudinal space correlation function in
+different distance gradations for the four seasons of the year. It was found
+that the fields of components of the flow of atmospheric moisture have a clear-
+ly expressed anisotropy caused by the seasonal characteristics of circulation
+of air nasses. It is further shown that the space correlation functions. comput-
+ed independently of direction, provide no adequate infatuation on the structure
+of the spatial correlations in the noisture transfer field. They are suitable
+only for very approximate computations and for short distances. In the consid-
+ered region this distance is 800-1000 km. approximately corresponding to the'
+width of the sons of intensified westerly transfer. Correct computations of
+
+the horizontal moisture flow require the use of a system of space correlation
+functions computed for individual components of the moisture flow and for dif-
+ferent directions. Figures 1, tables 3: references 9: 8 Russian. 1 Western.
+
+5
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+“DC 551.510.536
+
+PAWIZATION 0P FLUCTUATIONS 0P STRANSPIIBRIC om comm
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 2, Feb 82 (nanuscript received
+b May 81) PP 55-50
+
+[Article by 0. H. Pokrovskiy. candidate of physical and mathematical sciences.
+and A. Ye. Kaygorodtsev. Main Geophysical Observatory]
+
+{Abstract} In this study of the paraneterization of fluctuations of strato-
+spheric ozone concentration the initial data used were the lean aonthly fields
+of total ozone content during a 10-year observation period 1957-1967 in the
+northern henisphere in a regular grid. Then using the Bozhkov latitudinal-sea-
+sonal regression method it was possible to reconstruct the mean ozone concen-
+tration (to be nore precise, its partial pressure) in nine ataospheric layers
+situated between altitudes 5 and 55 ka. Conputations were nade for a 10-year
+sample for the northern heeisphere for two seasons -- winter and sun-er. In
+sun-er the naxieun concentration falls in the low latitudes in the middle
+stratosphere where processes of photochenical reproduction of ozone are most
+intensive. In winter there are two anonalous regions of naxinun concentra-
+tions. The first is the high-latitude region where a large quantity of ozone
+
+is accumulated. transported by neridional circulation. The second is the trop-
+ical zone where the processes of photochelical reproduction of ozone and its
+transport fron the southern henisphere are important. Maxinun turbulent trans-
+port is in the high-latitude region, whereas transport by stationary waves pre-
+dominates in the temperate latitudes. Ozone is transported from the summer hesi-
+sphere into the winter hemisphere by seen aeridional circulation and toward the
+poles by turbulent dynaaics. both the stationary and turbulent components of
+ozone concentration fluctuations are approxinated quite well by eapirical or—
+thogonal functions. The first three enpirical orthogonal functions satisfactor-
+ily describe the spectrun of natural variations in the eeridional section.
+Figures 3, tables 1; references 9: 1 Russian. 8 western.
+
+6
+PO! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+006 551.465.7551 .Sl3(26l) (215-17)
+
+EFFECT OF HATER TEMPERATURE WY IN NORTH ATLANTIC 0N CIRCULATION, THERMAL
+REGIME AND WISTURE CYCLE IN NORTHERN WISHING ATMOSPHERE
+
+Moscow “EmkoLOGIYA I GIDROLOGIYA in Russian lo 2, Feb 82 (unuscript received
+27 May 81) pp 51-62
+
+[Article by V. P. Heleshko, candidate of physical and mathematical sciences.
+and A. P. Sokolov. Main Geophysical Observatory]
+
+[Text] Abstract: A model of general circulation of
+the atmosphere was used in investigating the
+influence of the water temperature anomaly in
+the North Atlantic on general circulation.
+thermal regime and moisture cycle in the atmo-
+sphere. A positive anomaly is stipulated in
+the tone of active thermal interaction between
+the atmosphere and the underlying surface. sit-
+uated in the northeastern part of the Atlantic
+Ocean. The state of the atsosphere in the north-
+ern hemisphere in January was computed by naans
+of integration of a system of equations for a
+period of two months, with and without allowance
+for the water temperature anomaly. The article
+gives a detailed comparative analysis of atmo-
+spheric characteristics for the northern hemi-
+sphere and individual regions on the European
+continent.
+
+Introduction. Recently a number of interesting investigations directed to study
+of large-scale interaction between the atmosphere and ocean and evaluation of
+the influence of water temperature anomalies in the upper layer of the ocean
+on general circulation and thermal regime of the atmosphere have been carried
+out.
+
+Bjerknes [19, 20] established that the formation of a positive thermal anomaly
+in the equatorial zone of the Pacific Ocean is accompanied by an intensifica-
+tion of the zonal current in the middle-latitude atmosphere in winter. In his
+opinion. this correlation is governed by an increase in ascending movements
+
+and water vapor condensation over the region of the anomaly. causing an intensi-
+fication in meridional circulation in the Hadley cell and an increase in the
+
+7
+FIHIGDFFICIAI.lEﬂE(NVLY
+FOR OFFICIAL USE ONLY
+
+transport of the moment of momentum from the low latitudes into the middle and
+high latitudes. In the example of anomalous weather conditions over the north-
+ern part of the Pacific Ocean and North America lamias [25-27] demonstrated
+that there is a correlation between atmospheric processes over these regions
+and water temperature in the northern and central regions of the Pacific Ocean.
+He also established that in a number of cases water temperature anomalies of a
+considerable extent can persist for a period of several months and therefore
+data on them are of definite prognostic value.
+
+The problem of the influence of the North Atlantic on the formation of average
+weather conditions over Europe and the territory of the USSR has been examined
+in numerous Soviet and foreign studies. In most of these studies attempts have
+been made to establish synchronous and asynchronous statistical correlations
+between the thermal regime of the North Atlantic and atmospheric circulation. on
+the one hand. and weather conditions over Europe and the European USSR. on the
+other. For example. V. G. Semenov [lS] established that during the winter months
+when there is a negative temperature anomaly in the northern part of the Atlan-
+tic Ocean (to the west and southwest of Iceland) a zonal circulation is observ-
+ed over Europe. whereas when there is a positive anomaly there is an intensive
+meridional transport of air masses. he noted the existence of a feedback between
+water temperature anomalies in the northern regions of the ocean and air temper-
+atures over the European USSR in winter and their relatively weak direct correl-
+ation during the summer months. It was noted in a study by S. T. Pagava. et a1.
+[13] that in order to detect the correlation between the thermal state of the
+North Atlantic and air temperature in Europe it is extremely important to take
+into account not only heat exchange between the ocean and the atsosphere, but
+also information on the type of synoptic processes. In another study [14]. s. T.
+Pageva formulated the conditions under which there are direct and inverse rela-
+tionships between air temperature in Europe and water tenperature in the Earth
+
+Atlantic.
+
+0n the basis of observational data Ratcliffe and Hurray [28] established that the
+development of blocking anticyclones over Hestern Europe and Scandinavia is asso-
+ciated with the appearance of negative anomalies over an extensive area of the
+ocean to the south of Newfoundland and passage of active cyclones was associated
+with the formation of a positive anomaly. Among the other studies in this direc-
+tion here we should mention as well the investigations made by A. N. Kryndin
+
+[8]. A. L. Kata. et al. [6]. N. A. Bagrov and U. l. Hertsalova [2]. A. L. Duy-
+tseva and D. A. Ped' [S]. A. I. Ugryumov and A. P. Krupyanskaya [16], L. V. Kli-
+menko and L. A. Strokina [7].
+
+Although the inportant role of the ocean in the formation of weather on the con-
+tinents. especially over Europe. has been confirmed by numerous investigations
+and a great number of different prognostic procedures have been proposed. the
+basis for which has been the correlations between individual characteristics of
+the ocean and atmosphere. the quality of long-range forecasts still remains un-
+satisfactory. The reason for such a situation is evidently the extreme diver-
+sity of the processes of thermodynamic interaction both in the atmosphere itself
+and in the ocean-atmosphere system caused by the operation of mechanisms with
+
+feedbacks.
+
+8
+FOR OFFICIAL USE ONLY
+FOR 0F1WC1Al.US£1DNLY
+
+A number of hypotheses have been proposed in which the long-observed devel-
+opment of anomalous weather conditions over individual regions of the earth
+can be attributed to such factors as the development of stable anomalies in
+the upper layer of the ocean. the anomalous extent of sea ice and snow cover
+on the continents. etc. Among the investigations in which a study was made of
+the influence of water temperature anomalies in the Pacific Ocean on atmospher-
+ic circulation and certain hypotheses explaining the formation of anomalous
+states of the atmosphere over the North American continent and other regions
+of the earth were checked we should mention the studies of Spar [30. 31}.
+Chervin. et al. [21]. Kutzbach [22]. Rowntree [29]. Shukla and Bangaru [32].
+The studies of G. I. Harchuk. et a1. [9. 10] proposed a mathematical approach
+based on integration of the conjugate equations of hydrothermodynamics of the
+atmosphere and ocean which makes it possible to describe some asynchronous re-
+lationships between the atmosphere and ocean and to determine thermally active
+regions in the world ocean. exerting a considerable influence on the formation
+of macroscale air temperature anomalies over individual regions of the earth.
+
+[he Soviet program "Razrezy" will be an important contribution to study of the
+processes of interaction between the ocean and the atmosphere for the purpose
+of establishing a correlation between thermal and dynamic anomalies in the
+ocean and formation of anomalous thermal and circulation regimes in the atmo-
+sphere. Implementation of this program has already begun. Our investigation
+was carried out in accordance with the plan for work under the mentioned pro-
+gram.
+
+Model of Atmosphere and Formulation of Experiment
+
+The objective of our investigation was an evaluation of the influence of the
+water temperature anomaly in one of the regions of active thermal interaction
+between the atmosphere and ocean. situated in the North Atlantic. on general
+circulation. thermal regime and moisture cycle in the atmosphere.
+
+ 
+
+Fig. 1. Distribution of total heat Pig. 2. Position of region with water
+flow (turbulent flow and heat loss- temperature anomaly ('C). The dashed
+
+es in evaporation) computed using line defines three regions on the Euro-
+atmospheric model for January ("I pean continent.
+
+m2). Regions in which heat flow is
+over 180 "In2 are shaded.
+
+9
+INDR*0Ff1C1A1.US£(NVLY
+FOR OFFICIAL USE ONLY
+
+Some information on regions of an active thermal effect can be obtained from
+the NEAT BALANCE ATLAS [l], which gives the distributions of turbulent heat
+flows and heat expenditures on evaporation, computed for different months of
+the year. According to the maps cited in the atlas, during the cold season of
+the year the greatest total heat flow values, including the turbulent heat flow
+and expenditures of heat an evaporation. are situated along the eastern shores
+of the Asiatic and American continents, and also in the tropical zone.
+
+Figure 1 shows the distribution of the mean total heat flow. computed by means
+of a model of general circulation of the atmosphere for January conditions.
+Figure 1 shows the distribution of heat flows to the atmosphere as a whole to be
+in agreement with [1], although the region of great heat flows in the North At-
+lantic in the model was displaced in the direction of the European continent.
+Accordingly, for stipulating of ocean surface temperature anomalies we selected
+a region situated in the northeastern part of the Atlantic Ocean in which the
+computed total heat flows entering the atmosphere from the underlying surface
+were the greatest (see Pig. 2).
+
+The investigation was made using a model of general circulation of the atmo-
+sphere developed at the Main Geophysical Observatory imsni A. I. Voyeykov. De-
+tailed information on the model is given in [ll] and therefore it will only be
+described briefly. '
+
+The model has three layers of equal mass; the integration region is a hemisphere.
+The geographical distribution of the continents and their relief is taken into
+account. The mean horizontal grid interval is 625 km.
+
+The model makes use of a full system of equations in hydrothermodynamics in an
+cr-coordinate system. The principal physical processes operative in the atmo-
+sphere are taken into account: transport of solar and long-wave radiation, tur-
+bulent exchange in the boundary layer, macroscale condensation and convection,
+hydrological regime of the active soil layer and mesoscale diffusion. The flux
+of solar radiation reaching the upper boundary of the atmosphere is computed
+taking into account the temporal change in mean daily solar altitude. The quan-
+tity of two-level clouds is determined using empirical expressions on the basis
+of the relative humidity values in the corresponding layers of the atmosphere
+computed in the model.
+
+An evaluation of atmospheric response to water temperature anomalies at the ocean
+surface was made in two numerical experiments. In the first of these the water
+temperature was assumed equal to its climatic value (with seasonal changes taken
+into account). Henceforth for convenience in exposition we will call this experi-
+ment the control (CE). In the second experiment the values of the anomalies were
+added to the climatic water temperature values in the region shown in Pig. 2.
+Both the value of the anomaly itself and the horizontal extent of the region of
+its stipulation were considered constant during the entire integration time. He
+will call these computations an experiment with an anomaly (AB).
+
+In each experiment the system of equations was integrated for 60 days with the
+use of real initial data, which corresponded to 1 December. The computations
+
+were analyzed for the period from 31 to 60 days of the forecast. corresponding
+to January.
+
+10
+
+FOR OFF1CJAL.USEZ(N‘LY
+v: ..- ,..LJ.I\\ .‘ .
+ﬁcwdwﬁ. . #7?
+«LI... _ a
+I ﬁ. 43... m. . u
+
+- «WM%¢WQ -
+ed using data from 4
+ill-2 ) 2nt underlying
+0 ill-2 are denoted 1
+denoted by light 81
+crest-hatched); c)
+ions with positive ‘
+stun trnnsport (3/
+cross-hatched) .
+FOR OFFICIAL USE ONLY
+
+In discussing the rusulta it must be remembered that the differences between
+the variables represented in the figures were obtained by subtracting the
+values computed for the CE experiment from the corresponding values obtained
+in the AB experiment.
+
+Change in Circulation, Thermal Regine and Moisture Cycle in Northern Hemisphere
+Atmosphere
+
+In the formation of a positive water temperature anomaly the lower layers of the
+troposphere began to receive additional heat over the region with an anomaly due
+to an increase in the vertical transport of turbulent heat and the latent heat
+of condensation. The quantity of the additional heat influx is dependent on
+changes in the vertical drop in temperature and specific humidity, and also on
+stratification of the lower layer of the troposphere.
+
+Table 1
+
+Quantity of Turbulent Heat Plow H and neat Losses
+in Evaporation LB. Computed in AB and KB Exper-
+iments for 31-60 Days of Forecast Over Region
+
+with Water Temperature Anomaly
+
+Heat flow, "In? cs as
+H 81 206
+L8 139 195
+
+Table 1 shows that as a result of the effect of these anomalies the total heat
+flow increased by a factor of 1.8. This change occurred for the most part due
+to an increase in the turbulent heat flow.
+
+It is interesting to note that with an increase in water temperature by 1°C the
+computed changes in the heat flows considerably exceed the corresponding changes
+in the flows obtained in [22] for the northern part of the Pacific Ocean. This
+is evidently attributable to the fact that the thermal interaction between the
+atmosphere and ocean in the northeastern part of the Atlantic Ocean is more in-
+tensive than in the northern and northeastern regions of the Pacific Ocean (see
+
+Fig. 1).
+
+The computed changes in some characteristics of the moisture cycle, and also the
+thermal and circulation regime of the northern hemisphere as a result of the ef-
+fect of ocean temperature anomalies,are shown in Pig. 3.
+
+Although the general picture was quite complex. from a comparative analysis of
+the cited fields it is possible to establish a number of interesting peculiar-
+ities.
+
+Considerable changes in the total heat flow were obtained not only in the water
+temperature anomalies. but also in other regions of the northern henisphere.
+The greatest changes in the heat.flows are concentrated in regions of active
+
+13
+
+F0!‘0FFKJA1.USE10NLY
+FORIOFEKJAI.USE(MQLY
+
+thermal interaction between the atmosphere and the underlying surface situated
+in the Atlantic and Pacific Oceans (Fig. 3a).
+
+A macroscale cyclonic eddy in the field of differences in the horizontal velo-
+city vector. whose axis is somewhat tilted to the east with an increase in alti-
+tude. is formed over the region with the anomaly (Fig. 3b). Hacroscale eddies
+with cyclonic or anticyclonic rotation in the field of differences in the hori-
+zontal velocity vector are observed in other regions of the northern hemisphere.
+The lost intense eddies are formed near the eastern shores of the continents.
+that is, over regions of active thermal interaction between the atsosphere and
+the ocean surface.
+
+It can be noted from a comparison of figures 3a and 3b that the formation of cy-
+clonic eddies in zones of active thermal interaction is closely associated with
+the sign of the difference in total heat flows: positive flow differences cor-
+respond to cyclonic eddies and negative flow differences correspond to anticy-
+clonic eddies.
+
+The air temperature in the lower troposphere increases to the southeast of the
+region with the anomaly and decreases to the north of it (Fig. 3c). Air temper-
+ature changes which are large in absolute value and different in sign are observ-
+ed at considerable distances from the North Atlantic. It should be noted that the
+regions of increase (decrease) in temperature Agree well with the corresponding
+regions of decrease (increase) in pressure. reduced to sea level. Large pressure
+differences are observed prinarily over the continents in the middle and high
+latitudes. The Icelandic and Aleutian lows were somewhat transformed: the first
+extended in the direction of Western Europe. the extent of the second decreased.
+An example of the important role which is played by circulation factors in forma-
+tion of the thsrnal regime of the atmosphere is the temperature distribution
+directly over the region of the ocean surface temperature anomaly. In the north-
+ern part of this region. at altitudes of about 1.5 kn, there is a rather consid-
+erable decrease in air temperature which is associated, as indicated by Fig. 3b.
+with the formation of the mentioned cyclonic cell. and as a result, with the
+transport of cold air masses into the Atlantic Ocean area from the northern part
+of the_£uropean continent.
+
+The problem of why in the A! experinent there was a change in the circulation and
+thermal regime of the atmosphere in regions situated at a considerable distance
+from the North Atlantic is quite complex. One of the possible explanations of
+this phenosenon is as follows.
+
+The heating of the lower layer of the troposphere over the region with the water
+temperature anomaly favored a decrease in air density in a column of the atmo—
+sphere and a redistribution of mass in the northern hemisphere. This was the
+reason for some change in circulation. Since the water tenperature did not change
+over other parts of the oceans in the AB experiment, the turbulent flows of heat
+and the expenditures of heat on evaporation could change only as a result of
+
+a change in wind velocity, air temperature and humidity in the lower troposphere.
+These changes to a great extent are dependent on stratification of the planetary
+boundary layer. The greatest heat flow changes can be expected in tones of ac—
+tive thermal interaction. where the stratification of the lower layer is
+
+14
+FOR OFT-1C1“. USE ONLY
+FOR OFFICIAL USE ONLY
+
+unstable in comparison with other regions. As a result. the initially arising
+changes in circulation and the thermal regime in the lower troposphere can in-
+crease over the zones of active thermal interaction as a result of the influence
+of mechanisms with positive feedbacks.
+
+The fact that substantial changes in pressure and temperature are observed not
+only near the region with the water temperature anomaly. but also at a consider-
+able distance from it. serves as a confirmation of the well-known hypothesis
+
+of the existence of a conjugate character of atmospheric processes in individual
+regions of the earth. For example, Spar [31] noted that in the modeling of glo-
+bal circulation with a water temperature anomaly in the northern part of the
+Pacific Ocean considerable pressure changes were discovered in the middle lati-
+tudes of the southern hemisphere.
+
+An analysis of the results of computations also reveals that in regions with the
+greatest air temperature differences, which are situated primarily over the con-
+tinents. the greatest temperature dispersion values also occur. These features
+are in qualitative agreement with the empirical investigations carried out earl-
+ier. For example. on the basis of an analysis of the natural orthogonal func-
+tions for the temperature and pressure fields in the northern hemisphere N. I.
+Yudin [18]. A. V. Heshcherskaya, et al. [12] studied oscillatory processes on a
+planetary scale. In the temperature and pressure fields there was found to be a
+number of nodes of different sign which resemble standing waves in the atmosphere
+of the thermopressure seiche type described by V. V. Shuleykin [17]. A study by
+E. I. Girskaya [4] also revealed macroscale temperature variations in individ-
+ual regions of the northern hemisphere for different months.
+
+Figures 3d and 3e give the differences in the intensity of precipitation and the
+vectors of horizontal transport of moisture in the atmospheric layer 600-1000
+gPa. Figure 3d shows that the zone of a considerable increase in precipitation
+in the AB experiment is situated along the southern regions of the European con-
+tinent and over the greater part of the North Atlantic. It is noteworthy that
+
+an increase in precipitation occurred not only to the east of the anomaly. but
+also in a westerly direCtion as far as the North American continent. that is,
+
+opposite the main west-east transport of air masses.
+
+Figures 3b and 3e show that in addition to the formation of a cyclonic eddy an
+eddy of similar intensity was formed over the second region of active thermal
+interaction between the atmosphere and ocean situated in the region of the Gulf
+of Mexico (see Fig. I). As a result. these two eddies formed an intercontinental
+circulation cell whose northern branch carries cold air onto the North American
+continent from the eastern regions of Europe and the polar basin, whereas the
+southern branch transports warm and moist air from the region of the Gulf of
+Mexico onto the European continent and then to the Caspian Sea. As a result of
+intensification of the zonal wind component along the southern branch of the
+
+circulation cell evaporation from the ocean surface also increased in this zone.
+
+Extensive regions with considerable differences in precipitation are observed in
+other regions of active thermal interaction between the atmosphere and ocean and
+
+the continents adjacent to it. The sign of change in precipitation agrees quite
+well with the nature of change in the horizontal transport of moisture in the
+
+15
+POI OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+on the continents precipitation increases in
+sture in the field of differ-
+
+posphere. In particular.
+gions of the ocean
+
+re the horizontal transport of .01
+nd decreases in those re
+
+.098! tro
+
+those places vhe
+
+ences is directed iron the ocean a
+
+rt occurs from the continent.
+
+where the corresponding trenspo
+
+      
+
+1M!!!"
+
+(0 n Axum
+I” 533’. 0 0 ll 3' 9' 1M "0 "I. 0
+
+0 H I! :1! l"
+
+Eurasia America Eurasia America
+
+tude of 500 gPa sur-
+experinent; b) wave
+CE experiment; d) vsve
+
+deviations of alti
+
+uubers l and 2, CE
+numbers 5 and 6.
+
+e-tine distributions of
+
+face (den) from zonal values. a) wave n
+numbers 1 and 2, AE experiment: c) wave
+nuﬂers 5 and 6. AE experiment.
+
+Table 2
+
+Fig. lo. bongitud
+
+uare of Amplitude of Altitude of 500 gPa lsobaric Surface on
+nd CE Experiments
+
+Dependence of Sq
+ude Zone SO-60‘N According to All a
+
+Wave Nunber for Latit
+
+Have Number
+1 2 3 lo 5 6 7 8 9 10
+CE 37.5 50.6 21.0 18.6 114.7 11.0 9.0 6.5 2.14 5.3
+AE 19.8 88.9 11.3 18.0 25.7 20.6 9.7 5.0 3.7 6.1:
+
+ges in Amplitude and Velocity of
+
+e the influence of the water temperat
+f wave disturbances in the stmosph
+h the anomaly.
+
+Chan
+
+Now we will ennin
+
+city of propagation o
+passing through the region wit
+
+16
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Table 2 shows that considerable changes were exhibited by the amplitudes of
+planetary waves with the numbers 1, 2 and 3 which are determined by the value
+of the thermal contrast between the continents and oceans. The formation of an
+anomaly in the North Atlantic favored an intensification of an ultralong wave
+with the number 2 to a considerable degree at the expense of waves 1 and
+
+3. The energy of baroclinic waves with the numbers 5 and 6 also increased ap-
+preciably.
+
+The evaluations show that in the considered latitude tone the energy of all the
+waves increased by 182 in the middle troposphere. The energy of planetary waves
+with the numbers 1. 2. 3 increased by 101 (with an increase in the energy of the
+wave with the number 2 by 802), the energy of the baroclinic waves with the num-
+bers S, 6 -- by 762. and the energy of all the shorter waves -— by 82.
+
+Figure 6 gives the longitude-time diagrams (distributions of troughs and ridges)
+for two groups of waves whose diameters were subjected to an appreciable change:
+planetary waves with the numbers 1 and 2 and baroclinic waves with the numbers
+
+5 and 6. These diagrams were constructed on the basis of data on the change in
+the altitude of the isobaric surface 500 gPa from 31 through 60 days for the
+latitude zone SO-60’N.
+
+It follows from Figures 6a.b that an increase in the amplitude of the planetary
+wave with the number 2 and attenuation of a wave with the number 1 in the AE ex-
+periment caused an intensification of the ridge over the Pacific Ocean and a
+trough over the North American continent. With respect to the trough over Eurasia
+its intensity almost did not change, but it became less mobile in the AB experi-
+ment.
+
+The intensity of the troughs and ridges, which correspond to baroclinic waves
+with the numbers 5 and 6 (Fig. 4c.d). increased over the Pacific and Atlantic
+Oceans and North America in the AB experiment. Moreover, whereas in the CB ex-
+periment the ridges and troughs over North America and the Pacific Ocean were
+motionless or moved little. in the AB experiment they became deeper and more
+mobile. The mean velocity of their movement to the east was about l30/km day at
+all longitudes.
+
+A similar spectral analysis of altitude of the $00 gPa surface was made for the
+latitude zone bO-SO'N. that is. to the south of the anomaly. which also indicat-
+ed that the amplitudes of the baroclinic waves with the numbers 5 and 6 somewhat
+increased. whereas the troughs and ridges became more mobile. If it is assumed
+that the mentioned baroclinic waves correspond to large pressure formations in
+the atmospheric model. it can evidently be assumed that in the formation of a
+positive water temperature anomaly there is an intensification of cyclonic
+
+(anticyclonic) activity and a meridional type of circulation in the middle lati-
+tudes of the northern hemisphere.
+
+Regional Changes in Precipitation and Thermal Regime Over European Continent
+For a more detailed clarification of the mechanism of the influence of the water
+
+temperature anomaly in the North Atlantic on the thermal regime of the atmosphere
+over the European continent this continent was broken down into three major
+
+17
+
+FOR OFFICIAL USE ONLY
+FINICﬂWNCJAl.lEﬂE(M‘LY
+
+regions (see Fig. 2): northwestern regions of the USSR and Scandinavia (region
+1). Western Europe (region 2), central and southern regions of the European
+USSR (region 3). These regions include 9. 12 and 12 points of grid intersection.
+
+Table 3 shows that temperature changes in different regions of Europe are not
+identical. In western Europe (region 2) and in the European USSR (region 3) the
+temperature of the troposphere increased, especially significantly in the first
+of the mentioned regions. 0n the other hand, over the northwestern regions of
+the USSR and Scandinavia it decreased at all levels in the atmosphere.
+
+As indicated by Figures 3b and 3e. the main reason for the temperature increase
+in the troposphere over regions 2 and 3 was an increase in the horizontal trans-
+port of heat and humidity from the Atlantic Ocean onto the continent by the
+southern branci of the intercontinental circulation cell. whereas the decrease
+in temperature over region 1 was caused by an intensification of the horizontal
+transport of cold air masses from the internal regions of the continent. Hith
+respect to the insignificant decrease in temperature at the level 150 gPa over
+all the regions, it was caused by a general attenuation of west-east transport
+over Europe.
+
+Table 3
+
+Mean Differences Between Air Temperatures ('C) at Four Atmospheric Levels. Com-
+puted Using Data From AE and CE Experiments for Three Regions in Europe for
+31-60 Days of Forecast
+
+Changes in air temperature Region
+1 2 3
+31150 -0.6 0.2 -0.1
+éiggg 3:: 2:: 2:2 _
+811000 -2.9 5.2 1.6
+Table 6
+
+Mean Intensities of Precipitation (in cm/day) Obtained in AB and CE_Experiments
+for Three Regions for 31-60 Days of Forecast
+
+Experiment Region
+
+1 2 3
+CH 0.27 0.27 0.19
+AB 0.19 0.60 0.22
+
+Table 4 gives the mean intensities of precipitation obtained in the AE and CE
+experiments. In regions 2 and 3 precipitation increased by 58 and 162 respec-
+tively, whereas in region 1 it increased by 302. With respect to surface pres-
+sure, it decreased in all three regions: in the first -- by 6.0 gPa. in the
+second -- by 11.5 gPa. and in the third —- by 6.1 gPa. Thus. in the AB
+
+18
+
+FOR‘OFFKJALIEEZONLY
+FOR‘OFTWCIAL USE(NNLY
+
+experiment over a large part of the European continent there was a warming in
+the troposphere and an increase in the quantity of precipitation and only
+over Scandinavia and the northwestern regions of the USSR did the temperature
+drop and did the quantity of precipitation decrease.
+
+Statistical Significance of Changes in Temperature and Precipitation
+
+The question of the extent to which these changes in the thermal regime in the
+troposphere and precipitation are statistically significant is of definite
+interest. As a significance test we will examine the ratio [26]
+
+l
+
+I'. = c—'.
+Here A - 5A - BK is the difference in two sample means in which 3A and 3K are
+the mean monthly values of the variable 3 in experiments with allowance for the
+
+stipulated water temperature anomaly and without allowance for it. (7% is the
+mean square error in evaluating the mean.
+
+The volume of the sample which is used in evaluating significance is very limit-
+ed and therefore the evaluations obtained here must be regarded as extremely ap-
+proximate. The evaluation of significance was made on the basis of 30 instant-
+aneous states of the atmosphere with a time interval of one day. The mean
+
+square error (7% was computed taking into account that the variables entering
+into the time series are not random. First, on the basis of the results of numer-
+ical experiments we determined the time autocorrelation function for temperature
+at the level Cr- 0.833 and precipitation separately over the continents and
+oceans in the middle and low latitudes. A comparison of the four normalized
+functions for each variable indicated that the differences between them are in-
+significant. Accordingly. in the r0 evaluations we used one (but different for
+temperature and precipitation) normalized autocorrelation function. which was
+approximated by an analytical formula ensuring its positive determinancy. The
+evaluations indicated that the changes in temperature in the lower troposphere
+were significant ( |ro |>rl) over great regions of the northern hemisphere, in-
+cluding Hestern Europe and the European USSR.
+
+Similar evaluations were made for precipitation and indicated that for the north—
+ern part of the Atlantic Ocean, Europe. Par East and Southeast Asia the computed
+changes are also statistically significant.
+
+Summary
+
+The results of the numerical experiment and the model of general circulation of
+the atmosphere indicated that the influence of the positive water temperature
+anomaly in the ocean on general circulation. thermal regime and moisture cycle
+in the atmosphere is manifested very complexly. In the formation of an anomaly
+in the northeastern part of the Atlantic Ocean there is an appreciable increase
+in temperature of the troposphere and an increase in precipitation over western
+Europe and a considerable part of the European USSR. 0n the other hand. a de-
+crease in air temperature and decrease in precipitation occur in the northern
+regions of Europe.
+
+19
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Changes in the therlal regime of the atmosphere are also observed in other re-
+gions of the northern hemisphere: air temperature increases in the Far East
+
+and in Alaska and decreases over the polar basin and over the greater part of
+the north American continent. Substantial changes in precipitation are discover-
+ed in the low latitudes. Macroscale pressure formations became more intensive
+and mobile in the aiddle latitudes in the AB experiment.
+
+The additional heat flow entering the atsosphere over the region with the water
+temperature anomaly causes a redistribution of atmospheric mass and a change
+
+in circulation. This is evidently the principal factor favoring appreciable
+changes in heat transfer to the atmosphere over other regions of active ther-
+nal interaction. The value and the sign of these changes are determined by the
+complex of physical processes with feedbacks, so that it is extremely difficult
+to establish a cause-and-effect sequence for these processes.
+
+In this connection it is worth noting further investigations directed to the de-
+ternination of the conditions under which the intensity of heat transfer from
+the underlying surface to the atmosphere can change substantially in the re-
+gions of active thermal interaction quite remote from the regions of formation
+of water temperature anomalies in the ocean.
+
+we note in conclusion that the results obtained in this investigation to a cer—
+tain degree are dependent on the properties of the atmospheric model. in partic-
+ular. on the presence of a boundary at the equator. methods for the parameterira-
+tion of physical processes. etc. Tor this reason it is desirable to carry out
+similar investigations with other atmospheric models.
+
+BIBLIOGRAPHY
+
+1. ATLAS TBPLOVOGO BALANSA ZEHNOGO SHARA (Atlas of the Earth's Best Balance),
+edited by H. l. Budyko, Moscow, 1963.
+
+2. Bagrov. N. A. and Hertsalovs. N. 1., ”Thermal Interaction Between the Ocean
+and Atmosphere." TRUDY GIDROHBTTSENTRA 888R (Transactions of the USSR Hydro-
+meteorological Center), No 66. 1970.
+
+3. Bjerknea, 3., "Hacroscale Disturbance of Atmospheric Circulation Caused by
+the Possible Influence of the Pacific Ocean Equatorial Zone," DINAMIKA
+KRUPNOHASSRTABNYKB ATHOSFERNYKB PROTSESSOV (Dynamics of Hacroscsle Atmospher-
+ic Processes). Moscow. Nauka, 1967.
+
+a. Girskaya. E. 1.. SOPRYAZHENNOST' TEMPERATURNYKH ANONALIY SEVERNOGO POLUSHAR-
+IYA (Conjugate Nature of Northern Hemisphere Temperature Anomalies). Lenin-
+grad, Author's summary of dissertation, Leningrad. 1971.
+
+S. Duytseva. M. A. and Ped'. D.. "Degree of Influence of Thermal State of Water
+in the North Atlantic on Formation of the Temperature Field Over the Contin-
+7 ent,” TRUDY GIDROHETTSENTRA $558. No 93. 1972.
+
+6. Kate, A. L.. Horskoy. G. I. and Semenov. V. 6., "Formation of Large Air Tem-
+
+perature Anomalies Over the Territory of the USSR During Winter," TkDDY TsIP
+(Transactions of the Central Institute of Forecasts), No 29. 1957.
+
+20
+10.
+
+ll.
+
+12.
+
+13.
+
+11¢.
+
+15.
+
+l6.
+
+17.
+
+18.
+
+FOR OFFICIAL USE ONLY
+
+Klinenko. L. V. and Strokins. L. A.. "Correlation Between Change in Heat
+Content of Haters in the North Atlantic and Air Temperature Over the Euro-
+pean Territory of the USSR During "inter," TRUDY GGO (Transactions of the
+Main Geophysical Observatory). No 269, 1969.
+
+Kryndin. A. N.. "Role of the North Atlantic in Formation of Air Temperature
+Over the European Territory of the USSR." TRUDY GIDW’ISMA SSSR, No 23.
+
+1968 .
+
+Marchuk, G. I. and Skiba. Yu. N., OB ODNOY MODELI PROGNOZA OSRBDNENNTIB
+ANOMALIY TEMPERATURY (One Model for Predicting Averaged Tesperature Anom-
+alies), Preprint We 80 AN SSSR, Novosibirsk. 1978.
+
+Marchuk, G. 1.. "Modeling of Changes in Climate and the Problem of Long-
+Range Heather Forecasting." MBTEOROLOGIYA I GIDROLOGIYA (Meteorology and
+Hydrology), No 7, 1979.
+
+Meleehlw, V. P.. et al., "Hydrodynamic lbdel of General Circulation of the
+Atmaphere." TRUDY GGO (Transactions of the Main Geophysical Observatory).
+No 610, 1980.
+
+Meahcherskaye, A. V.. Rukhovets, L. V., Yudin, M. I. and Yakovleva. N. I.,
+YESTESTVBNNYYE SOSTAVLYAWSBCBIYE MTBOROLOGICBESKIKH POLE? (Natural Goapon-
+cuts of Meteorological Fields), Leningrad. Gidrometeoizdat, 1970.
+
+Pagava. S. T.. et al., VLIYANIYE SEVERNOY ATLANTIKI NA RAZVITIYE SINPTICH-
+ESKIK}! PROTSBSSOV (Influence of the North Atlantic on the Development of
+Synoptic Processes). Leningrad. Gidroneteoiadat. 1958.
+
+Pagava, S. T.. "Nature of the Correlation Between the Thermal State of the
+North Atlantic and Air Temperature in Europe," METEOROLOGIYA I GIDROLOGIYA.
+
+No l, 1962.
+
+Senenov, V. 6., VLIYANIYE ATLANTICHBSKOGO OKEANA NA 332th TEMPERATURY l
+OSADKOV NA YeTS (Influence of the Atlantic Ocean on the Temperature and
+
+Precipitation Regime in the European USSR), Leningrad, Gidrometeoizdat.
+
+1960.
+
+Ugryumov, A. I. and Kupyanakaya, A. P., "Some Correlation: Between Tempera-
+ture of the Ocean Surface and Atmospheric Circulation in the North Atlan-
+tic," TRUDY GIDRWE'I'I'SENTRA SSSR. No 147, 1975.
+
+Shuleykin, V. V., "Macroacale Interactions Between the Ocean, Atmosphere
+and Continents." PROBLEMY SOVRWNOY GIDROMBTmROLOGII (Problem in Mod-
+ern Hydroseteorology). Leningrad. Gidroneteoizdat, 1977.
+
+Yudin, M. I.. "Study of Factors Governing Nonatationary State of General
+Circulation of Atmosphere." DINAMIKA KRUPNOMASSHTABNYRB AWSFBRNYKB
+
+PROTSESSOV (Dynamics of Macroscale Atmospheric Processes), Moacou, Nauka.
+1967. '
+
+21
+
+FOR OFFICIAL USE ONLY
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+30.
+
+31.
+
+32.
+
+FOR OFFICIAL USE ONLY
+
+Ejerknes. J. A.. "A Possible Response of the Atmospheric Hadley Circula-
+tion to Equatorial Anomalies of Ocean Temperature." TELLUS. Vol 18, No 6.
+1966.
+
+Bjerknes. J.. "Atmospheric Teleconnections From the Equatorial Pacific."
+nos. HEATHER REV” V01 97. No 3. 1969.
+
+Chervin, R. 11.. Washington. H. H. and Schneider. 8. 11.. "Testing the Statis-
+tical Significance of the Response of the NCAR General Circulation Model to
+North Pacific Ocean Surface Temperature Anonalies." J. Amos. 801.. Vol 33.
+No 3. 1976.
+
+Kutzbach, J. K.. et a1., "Response of the NCAR General Circulation Model to
+Prescribed Change in Ocean Surface Temperature. Part I: Hid-Latitude
+
+Changes," J. A1103. 501.. Vol 34. No 8. 1977.
+
+Laurman. J. A. and Cares. H. 1... "Statistical Considerations in the Evalu-
+ation of Climatic Experiments With Atmospheric General Circulation Models."
+J. ANS. $01.. Vol 36. No 8, 1977.
+
+Leith. C. E.. ”The Standard Error of Time-Average Estimates of Climatic
+Means," J. APPL. "21301101... Vol 12. No 9, 1973.
+
+Namias. J ., "Seasonal Interactions Between the North Pacific Ocean and
+the Atmosphere During the 1960s." HON. HEATHER REV., Vol 97. No 3. 1969.
+
+Namias, J .. "The 1968-1969 "inter as an Outgrowth of Sea and Air Coupling
+During Antecedent Seasons," J. PHYS. OCEAMGR.. Vol 1. No 2. 1971.
+
+Namias, J.. "Negative Ocean-Air Feedback Systems Over the North Pacific in
+the Transition Prom Harm to Cold Seasons," HON. WEATHER REV.. Vol 1015, No
+
+9. 1976.
+
+Ratcliffe. R. A. 8. and Murray. R., ”New Lag Associations Between North
+Atlantic Sea Temperature and European Pressure Applied to Long-Range
+Weather Forecasting." QUART. J. ROY. METEOROL. SOC.. Vol 96. No (.08 [year
+
+not given].
+Rovntree. P. R., "Statistical Assessment of Sea," SER., Vol 1, No 22. 1979.
+
+Spar, J.. "Some Effects of Surface Anomalies in a Global General Circula-
+tion Model." NOR. HEATHER REV.. Vol 101. No 2, 1973.
+
+Spar. J.. "Transequatorial Effects of Sea Surface Temperature Anomalies in
+a Global General Circulation Model." HON. HEATHER REV.. Vol 101, No 7,
+1973.
+
+Shukla, J. and Bangaru. 3.. "Effect of a Pacific Sea Surface Temperature
+Anomaly on the Circulation Over North America: A Numerical Experiment
+With the GLAS Model." CARP PUEL. SER.. Vol 1. No 22. 1979.
+
+22
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 551.66.01.001.57:551.5
+NUMERICAL EXPERIMENTS WITH I‘DDBL 0P ACTIVE LAY. OP OCEAN
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 2. Feb 82 (manuscript received
+9 Apr 81) PP 63-68
+
+[Article by V. A. Ryabchenko. candidate of physical and mathematical sciences,
+Institute of Oceanology, USSR Academy of Sciences]
+
+[Text] Abstract: An integral model of the active layer
+of the ocean [b] for taking into account the
+feedback between the heat flow at the water-
+air boundary and temperature of the ocean.sur-
+face is given. Results of computations of the an-
+nual variation of temperature in the upper
+quasihomogeneous layer in the region of
+weather station N agree well with observation-
+al data. The results of numerical experiments
+are given. These illustrate the sensitivity
+of the solution to variations in parameters
+of the model. It is shown that the reaction of
+the solution is substantially greater with the
+variation of the external (atmospheric) para-
+meters and weaker with the variation of the in-
+ternal parameters.
+
+The authors of [4] proposed an integral model of the active layer of the ocean
+based on the assumption of a proportionality between integral dissipation and
+the production of turbulent energy of mechanical and convective origin. At the
+same time it was assumed that mechanical turbulent energy dissipates complete-
+ly within the limits of the Ekman boundary layer. The model was used for comput-
+ing the seasonal evolution of characteristics of the active layer in the region
+of weather station N in the Pacific Ocean. The results of computations of the
+annual variation of temperature and thickness of the upper quasihomogeneoua
+layer (UQL), although they do not contradict the observational data, neverthe-
+less differed appreciably from them. Suffice it to aention that the computed
+values of temperature of the UQL during the period of the maximum of summer
+heating were 2-2.5'6 higher than the observed values. One of the possible ex-
+planations for the noted discrepancy is the absence of allowance for a feedback
+between the heat flow at the water-air discontinuity and the temperature of the
+ocean surface (we recall that in [k] the heat flow values at the ocean surface
+
+23
+
+FOIIOFFKJA1.US£(NVLY
+FOR OFHCIAL USE ONLY
+
+were considered stipulated). In this article we will attempt to eliminate
+this limitation and we will cite the results of numerical experiments illus-
+trating the sensitivity of the solution to variations of different kinds of
+
+parameters of the model.
+
+The seasonal evolution of the active layer of the ocean in the case of weak hor-
+izontal advection and diffusion can be described using the following system of
+equations for temerature Ts in the UQL, temperature 1' at the upper boundary
+of the seasonal theraocline. thickness h of the UQL any turbulent heat flow on
+
+at the lower boundary of the 1101. (see [#1):
+
+IT
+k-d"=¢e—4M - (1)
+
+I
+
+41' M ‘ 0
+7—2:;(7—33} with (7--v,)>o,
+
+I
+
+T. a 73° 4. "—3h.£(% -w,)(r,— 72o”! with (%—tc.)s0. (2)
+-;'—,"—u-, - — —,f—"‘n—[I — '3' Rl-'F(.—:-)] with Fm'ng'
+1%:1 _. gm "1th Rlao. (%—1r,)<0. (3)
+(r,— m(%‘ - w.) with (1—: — w.) >0.
+0. = 0 with (71'! -125) ‘0' (6)
+
+Here qo is the specific (normalized to the volume heat capacity of sea water)
+
+turbulent heat flow at the ocean surface, "h and ‘Y are vertical velocity and
+the tenperature gradients at the upper boundary of the seasonal thernocline.
+
+F _h_ _w-I:.-'n.) '1‘“ non.
+(”J—10 with hzhg
+
+he - u./ (C If I) is the thickness of the Sloan boundary layer. u, is dynamic wind
+velocity. 2 is the Coriolis paraaeter. RI “,4!
+" - a
+
+L
+e
+
+is the Richardson flow umber. 0‘1. is the coefficient of thermal expansion of
+sea water. 3 is the acceleration of free falling. c1. C2 and C3 are nuaerical
+constants. t is time, the subscript "0" denotes the values of the character-
+istics of the active layer at the tine t - t of change in the sign on qo fall-
+ing at the beginning of the heating period. ghe teaperature gradient Y in the
+seasonal thermocline is determined at the tine t - t1 of cessation of the ris-
+ing of the lower boundary of the UQL
+cm
+(r—m<w
+
+ 
+
+using the formila
+
+210
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+I
+73-- 7v- n 2 4n __ __
+1 a It. - In: '- ‘h' .- a“): £64" ‘9.er T“) d!
+
+I)
+
+and then is considered invariable during the entire period of deepening of the
+lower boundary of the UQL an
+
+m a}, 0)
+
+up to a new annual cycle.
+
+The system of equations (l)-(6) is closed and can be solved by stipulating the
+heat flow 90 at the ocean surface. dynanic wind velocity u. and also vertical
+
+velocity "h' In [a] the qo values were stipulated on the basis of observation-
+al data in the fora of a periodic function of tine. There. as already noted.
+no allowance was nade for the feedback between on and the tesperature of the
+ocean surface (by definition the latter is equal to T.). In order to take this
+correlation into account we will turn to the heat balance equation for the
+ocean surface, in accordance with which
+
+‘10 = Q, " (Q. + Q. 'l' 0.)» (5)
+
+where Q8 is the flow of direct and scattered short-wave solar radiation. Q is
+the effective radiation, oh and Q. are the flows of apparent and latent heat.
+All the flow values were normalized to the volune heat capacity of sea water.
+
+He will examine each tern entering into (5) in greater detail. The expression
+for the total flow of solar radiation absorbed by the ocean can be written in
+the form
+
+0. - = 0.. (I -- Hum-1.). (6)
+
+where 030 is the total flow of solar radiation incident on the ocean surface
+in the absence of a cloud cover, 0: is the albedo of the ocean surface; No,
+like 0.0. are known tabulated functgons of latitude and season of the year
+(for exanple, see [3]), 9'(n) is an empirical function characterizing the de-
+pendence of Q. on the lean tenths of cloud cover n (specific form of 99(n) can
+be found in [1, 2]).
+
+Adhering to [7]. we will represent the dependence of the effective radiation
+
+of the sea surface on its temperature in the form of a Taylor series in powers
+Ts - TA) (here ‘rA is air temperature in the near-water layer of the atnosphere).
+Limiting ourselves to the first two terns of the series, we obtain
+
+Q.=[Q.on+‘Q'o73(T‘- TAHIPQCOD (7)
+
+where 0* - 0.985 (0.39 - 0.05 elI2)(1 - 0.6 n2) is a dinensionless empirical
+
+A
+coefficient taking into account the influence on effective radiation by cloud
+cover and air huaidity. eA is water vapor elasticity (in nillibars) at the
+standard altitude of meteorological neasure-ents, cr is the Stefan-Boltzuann
+
+25
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+constant, P0°0 is the volume heat capacity of sea water.
+The TA and ‘1'. temperature values are given in (7) in K.
+
+The an of turbulent flows of apparent and latent heat. as usual, are parameter-
+ized in the form
+
+2—“)
+
+as + 00— - .a —CH’ 3. [(12—74) +_(qs "’ 74)] (a)
+
+where “A is specific air hunidity at the'height of standard aeasurenents, q. is
+saturating specific humidity at the tenperature Ts: PA is the value heat
+capacity of air, CD is sea surface drag, l. is the latent cheat of evaporation.
+
+If it is now assuned that q: aTA and the Clsuaius-Clayperon equation is used.
+
+as a result we obtain
+L I l
+¢=“£‘°W{"1e:(-F-T”‘ (9)
+
+where PA is atmospheric pressure at sea level, a. is the specific gas constant
+of water vapor, so - 6. 11 lb is water vapor elasticity at a temperature To-
+273 K. a: 0.622 is a numerical constant.
+
+Thus. if the dynamic wind velocity u, air temperature TA . dew point teaperature
+Tr and the cloud cover tenths n are functions of tine. equations (l)- (A) togeth-
+er with expressions (5)- (9) and the initial conditions unambiguously determine
+the temporal evolution of the thickness and temperature of the UQL. temperature
+at the upper boundary of the seasonal thermoclina, and also the heat flows at
+the ocean surface and at the lower boundary of the 00)...
+
+Below we give the results of computations of the seasonal evolution of the ac-
+tive layer for the conditions at weather station N in the Pacific Ocean ((P-In
+30'“. A - 160'"). All the necessary initial infomtion was taken from [6].
+
+that study it was shown that for the selected point in the ocean it can be as-
+sumed that w]. - 0. n . 0 75. 0" Q. 4' Q. sin (at -u’IZ),
+
+u. :7, +1)“ sln (at i 1}). 1“ =7; +7) sink! - s),
+7', =77, + 1", sin (of - 1:), alert: -34 l lO-‘a-‘C/c. sec
+32, = 13,4-IO‘°x-°Cic. u: =o,232 .e/c. :2. = 0.052 u/c. n/uc
+
+7'. =18.5°c. 7‘,=14.5°c. fa - %,=3°c.
+
+the line at top corresponds to the scan annual values; the sign "A" corresponds
+to the aaplitudes of oscillations of the considered characteristic.
+
+The values of the numerical constants Cl. C; and C3. figuring in expressions
+(lo). are stipulated in accordance with [4] equal to:
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+1
+CO - 1.1'10'3. C, -{ 02 V1th QO)O,
+with qo< 0.
+
+024-!0-' with u,<§ 0.25 m/sec,
+
+C": 0.3840" with u.) 0.25 m/sec, c3 ' 60'
+
+As the initial values of the thickness of the UQL and teaperature we assume h
+- 120 a and T. - Th - 18°C.
+
+I - "f m1]: ICC
+\
+
+ 
+
+Fig. 1. Annual variation of dynanic wind velocity (a). heat flow at the surface
+(b). thickness (c) and tenpereture (d) of upper quasihomogeneous layer at weath-
+er station N in Pacific Ocean. 1 and 2) results of computations with determina-
+tion and stipulation do; 3) observational data [6].
+
+The results of computations of the annual variation of the principal character-
+istics of the UQL are represented in Fig. 1. As a comparison, here we have giv-
+en the results of computations with a stipulated heat flow go. It can be seen
+that agree-ent with the observational data in the first case is appreciably
+better than in the second. With stipulation of the surface heat flow the dis-
+crepancies between the computed and observed temperature values at individual
+tines in the annual cycle can attain 2-2.5‘6. whereas when determining the sur-
+face heat flow in the process of solution of the problem they do not exceed
+0.6'C. The second maximum in the seasonal variation of surface temperature, ob-
+served at the beginning of October, is absent in both computations. This in all
+probability is associated with the exclusion of the salinity affect and the ap-
+proxinstion of the external parameters by only two terns of a Fourier series in
+time. With respect to the thickness of the UQL. the nodel ensures only a quali-
+tative similarity of the computed and observed h changes. The reason for this
+is both the linitations of the model itself and known difficulties in determin-
+ing h on the basis of experinental data. In actuality. on the one hand.
+
+27
+
+IN]! 0F11(1A1.U§II(HNLY
+FOI:0F1WC]AI.USE1DNLX
+
+the jump layer. whose thickness under real conditions is not less than 10-30
+I, Is replaced in the model by a layer of zero thickness; on the other hand.
+the accuracy in determining the lower boundary of the quasihomogeneous layer
+on the basis of experimental data does not erceed 5-10 m (sea. for example. [5]).
+
+m 4... .19
+
+r I L.
+a 3 ‘7' -.‘
+
+    
+
+    
+
+Ila;
+
+  
+
+(5 u
+
+ 
+
+Fig. 2. Relative changes in mean annual and extremal values of temperature and
+thickness of UQL as function of variations of external parameters of model. The
+values of the normalization factors. noted by the subscript "0". correspond to
+the conditions of the main experiment (Fig. l).0t is any of the model parameters
+cited in the figure.
+
+For the purpose of investigating the sensitivity of the solution to the accuracy
+in stipulating the internal parameter; of_the model (numerical constants Cl, C2,
+C3) and atmospheric characteristics (TA. u. and n) we carried out a number of
+numerical experiments. It was faund that the variations of the indicated para-
+meters did not lead to any substantial changes in the phase relationships be-
+tueen the sought-for variables. Accordingly, here we will limit ourselves only to
+a discussion of their mean and extremal values.
+
+Figure 2 shows that variation of the constants c1 and CZ. corresponding. all oth-
+er cgnditions being equal. to the change in the contribution of thermal convec-
+tion and mechanical mixing to the heat flow at the lower boundary of the UQL
+(see first of the equations (3)), leads to insignificant changes in the tempera-
+ture and thickness of the UQL. A decrease in the constant C3. equivalent. all
+other conditions being equal, to an increase in the thickness of the Eknan lay-
+er he. has little influence on the T. value and at the same tine causes an ap-
+preciable increase in the nean value and amplitude of h variations. However,
+
+even in this case the relative changes in h are less than vith a change in the
+
+ 
+
+a
+Here reference is to the Cl value with qo< 0.
+
+28
+
+FOR 0F1WCJAI.USEGDNLY
+FOR OFFICIAL USE ONLY
+
+dynamic velocity of the wind is. air temperature TA and the tenths of cloud
+cover n. The same can be said with respect to changes in temperature of the
+
+UQL. Hith an intensification of the wind and an increase in cloud cover tenths
+as might be expected. there is a decrease. whereas with a temperature increase
+there is an increase in the mean annual value and amplitude of the T. variations.
+
+Thus, the reaction of the solution to changes in the external and internal para-
+meters of the nodel is not the same: it is substantially stronger with a varia-
+tion in the external and weaker with a variation of the internal parameters.
+This circumstance is evidence of the reliability of the Iodel and the possibil-
+ity of its use in mass computations of the seasonal evolution of temperature
+and thickness of the UQL.
+
+The author expresses appreciation to S. P. Snyshlyayev for assistance in carry-
+ing out the conputations.
+
+BIBLIOGRAPHY
+
+l. Berlyand, T. 6., "Methods for Cliaatological Conputations of Radiation."
+HETEOROLOCIYA I GIDROLOGIYA (Meteorology and HydroloCY). No 6. 1960.
+
+2. Budyko, H. 1.. TEPLOVOY BALANS ZEHNOY POVERKHNOSTI (Heat Balance of the
+Earth's Surface). Leningrad. Cidrometeaizdat. 1956.
+
+3. Ivanov, A.. "Absorption of Solar Energy in the Ocean." HDDELIROVANIYB I
+PROGNOZ VERKHNIKH SLOYEV OKEANA (Modeling and Prediction of the Upper Layers
+of the Ocean). Leningrad, Gidrometeoisdat. 1979.
+
+lo. Kagan. B. A.. Ryabchenko. V. A. and Chalikov. D. V.. "Parameterisation of
+the Active Layer in a Model of Hacroscale Interaction Between the Ocean and
+Atmosphere." HBTEOROLOGIYA I GIDROLOCIYA, No 12, 1979.
+
+5. Kalatskiy, V. 1.. MODELIROVANIYB VERTIKAL'NOY TERMICHESKDY STRUKTURY DEYAT-
+EL'NOGO SLDYA OKEANA (Modeling the Vertical Thermal Structure of the Active
+Layer in the Ocean). Leningrad, Gidroneteoisdat. 1978.
+
+6. Dormnn, C. 3.. Paulson. C. A. and Quinn. H. 3.. "An Analysis of 20 Years of
+Meteorological and Oceanographic Data From Ocean Station N." J. PHYS. OCEAN-
+OCR., Vol. 4. No a. 1976.
+
+7. Haney, R. L.. "Surface Thermal Boundary Condition for Ocean Circulation Hod-
+els." J. PHYS. OCEANOCR.. Vol 1, No 6. 1971.
+
+29
+FOR OFFKJAI.US£‘0NLN
+FOR OFFICIAL USE ONLY
+
+000 532.517.‘
+CRITERIA CHARACTERIZING M 01’ FLUIDS wrm STABLE STRATIPICA‘I‘ION
+
+Moscow HBTEOROLOGIYA I GIDROLOGIYA in Russian No 2. Feb 82 (manuscript received
+25 May 81) pp 69-76
+
+[Article by A. N. Shabrin. candidate of technical sciences. Iydromechanica Insti-
+tute. Ukrainian Academy of Sciences]
+
+[Abstract] A study was aade of a model of a current in which a flow of fluid with
+a free surface and the density ,0; flows into a water body filled with a fluid
+with the density P2 (with P2>P1). An example of such a situation would be when
+fresh water flows into the sea or aoaa wuter body filled with saline water. The
+author seeks an answer to these two questions: 1) what are the conditions for
+
+the penetration of saline water into the fresh water flow? 2) what is the nature
+of the interaction of fresh and saline water when fresh water flows into the
+
+sea? In solving these problems no effort is made to take wind-induced and tidal
+phenomena into account. Solutions are sought for the case of stable stratifica-
+tion. Different approaches used in the past in arriving at stability criteria
+
+are reviewed and a new method is proposed for analysing stability conditions for
+the interface of fluids of different density. merinontal and theoretical inves-
+tigations made by the author both reveal that there is a clearly expressed and
+unaabiguous interrelationship between interface stability and the ratio of flow
+frequency and buoyancy. Knowing this. it is possible to employ parameters which
+are quite easy to obtain experiaentally for an analysis of interface stability
+conditions not only when there is a uniform density gradient in the entire thick-
+ness of the layer. but also when the interface layer is divided into parts. Pig-
+ures 3. tables 2; references 10: 8 Russian. 2 western.
+
+30
+FtﬂliiFFICJA1.lﬁﬂE(NVLY
+FOR OFFICIAL USE ONLY
+
+UDC 556.535.6
+
+DEPENDENCE OF ACCURACY IN WATIORS OP PARAMETERS 0P BEA "IND WAVES ON
+PRINCIPAL HAVE-P0101186 FACTORS
+
+Moscow METEOROIDGIYA I (:1mean in Russian No 2, Feb 82 (asnuscript received
+20 Apr 81) PP 77-81
+
+[Article by R. A. Dalin. candidate of naval sciences. Leningrad Hydroseteorolog-
+ical Institute]
+
+[Text] Abstract: On the basis of use of the seth
+of linearisation of the randoa arguments
+function a study was made of the change in
+accuracy in computing the lean heights and
+periods of wind waves in deep water as a func-
+tion of the errors in initial values of the
+principal wave-forning factors: wind velocity.
+its fetch and the duration of the effect. The
+article gives the accuracy characteristics of
+the principal wave-forning factors. which make
+it possible to conpute the paraneters of wind
+waves with an accuracy satisfying practical
+requirements. It is shown that the main influ-
+ence on the accuracy in computations is from
+errors in wind velocity. There is a consider-
+ably lesser influence on the results of con-
+putations even of considerable errors in de-
+ternining the fetch and duration of exposure
+to the wind.
+
+Methods for computing the parameters of wind waves which are reco-ended for
+.mp1 ication in official docunents [3, S] are now used in the practice of hydro-
+neteorological support of the transport and fishing fleets, in hydraulic con-
+struction and in other work at sea. The basis for the mentioned methods is the
+
+expressions derived by a group of Soviet researchers [2]. According to [3]. for
+deep-water conditions these expressions have the for-
+
+‘3; = 0.0042 (#5)"), (1)
+{3, -.-. 0,0013 (Ag-rm, (2)
+31 I
+
+POIOI'FICIALUSEONLY
+FOR OFFICIAL USE ONLY
+
+Ilcre h and x are expressed in setera and i and t are expressed in seconds.
+
+If the dependence of the mean height h and the scan period ? of wind waves is
+expressed in explicit forn on the principal wave-forning factors -- wind velo-
+city V. fetch x and duration t of exposure to the wind and x and t are convert-
+
+ed into kilo-stars and hours respectively. expressions (l)-(3) asst-e the for:
+
+if: 9.1404317. (0
+
+. 7;: , - 3” '
+104 10' VTVT", . (5)
+
+.. 75 5 "1
+
+«=3 , .
+v (6)
+
+The last expression. with (A) and (5) taken into account. can be represented
+by the fornulas
+
+ 
+
+?— 0.45 3/4: w. (7)
+?= 0.48 ‘ FT (3)
+
+we note that the finding of the paraneters h and t by the use of formulas (lo),
+(5). (7) and (8) when modern Iicrocalculators are availsble requires only a
+
+few seconds and is considerably less fatiguing and more precise than when using
+the nonograns cited in [3, 5]. At the ease tine. these formlaa sake it pos-
+sible to establish the dependence of the errors in deter-lining the paraneters
+of wind waves on the errors in the initial values of the wave-forling factors.
+
+In actuality. if the method of linearization of [l] is applied to expressions
+(6). (S). (7) and (8), it is possible to obtain the following relationships:
+
+using expression (6) 0am: 1.2! ~ [04ya x Vow
+, (9)
+
+°e(:)=3,03'10" y s ;
+_ '7' ' (10)
+
+using expression (5) --
+n —
+
+cup, -_— l,65- m-r /9w 0,. (n)
+cam = 0.43' IO": V? 0,; (12)
+
+from expression (7)
+
+32
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+‘ x
+
+«(v)=0.27 'ﬁ‘y. (13)
+a
+6m = 0-09 V2750; (1‘)
+from expression (8) /._
+d
+“M ' 0'35 V '5‘." (is)
+0 PW
+°«»=°"2V 7 (16)
+
+in formulas (9)-(16) 0". v) and 020,) are the mean square errors in computing
+h and ‘6 respectively in dependence on the mean square error in wind velocity
+UV; 0"“) and org?) are the seen square errors in computing h and t re-
+spectively in depen ence on the mean square error in the fetch a": an“). 02“)
+are the mean square errors in computing h and {respectively in dependence
+
+on the mean square error in the duration of exposure to the wind at‘
+
+In the considered case the legitimacy of applying the linearization method is
+justified by the fact that as a result of the smallness of the errors in the
+V, x and t values in comparison with their absolute values the functions de-
+scribing the dependence of h and f on these values. not being linear in the
+entire range of change in their arguments, are alnost linear in a narrow range
+of their random changes.
+
+Using expressions (9)-(16) for conditions close to those which are usually en-
+countered in practical computations. that is. for wind velocities 5, 10 and
+IS s/sec, a fetch of 200 and 300 km. duration of exposure to the wind of 6
+and 12 hours. we computed the evaluations of the possible errors in determin-
+
+ing the mean height and mean period of waves as a function of the errors fv,
+0x and O’ .
+
+The computed data are given in Table 1. An analysis of the table shows that the
+errors in computing the wave parameters can attain considerable values. These
+errors are particularly sensitive to the errors in initial wind velocity values.
+Thus. even an insignificant error in wind velocity -- 1 m/sec -- results in an
+error in computing the mean height of waves attaining more than 20 ca. It must
+be noted that a mean square error in determining wind velocity of l m/sec is
+entirely possible since the methods for determining wind velocity by use of
+weather maps ensure a higher accuracy.
+
+The errors in initial durations of wind action. especially wave fetch. exert a
+lesser influence. However. in these cases as well, they can attain values
+which to sons degree are capable of distorting the final result of the computa-
+
+t ions .
+
+lbwever. it should be mentioned that the value of the Oh and dcpsrameters is
+not adequately indicative. In actuality. one and the sane error 0'... for ex-
+ample. with great wave heights, can legitimately be considered insignificant,
+
+33
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+but in the case of low heights -- insdnissible. In order to take this circus-
+stance into account it is desirable to proceed to a relative characterisation
+of the error -- the variation coefficient [6], that is. in our case
+
+(17)
+k.=-.:‘- lw/e
+and
+.‘
+l: = T Iw/o- (13)
+Then. taking expressions (6) and (9) into account. it can be written that
+‘ 'V w .
+kum= —"3"V ‘ ls! . (19)
+It follows fron expressions (5) and (10) that
+lam =-§,—-';--Ioov.: <20)
+from expressions (5) and (11) --
+kuy) :- 1.581} 100%: (21)
+fron expressions (5) and (12) --
+km) = 0.42 if 1007.; (22)
+fron expressions (7) and (13) --
+hymns-'7 100%: (23)
+fron expressions (7) and (16) --
+4
+fron expressions (8) and (15) --
+O
+kﬁv, = 0,75'vv 'W/.; (25)
+and finally, from expressions (8) and (16) -
+k1“) = 0, 25": L'W. (26)
+
+It should be noted that using expressions (l9) and (21), derived fron different
+initial fornulas, it is possible to compute one and the sane variation coef-
+ficient kh(V)' which characterizes the dependence of the relative error in com-
+puting the mean height of waves on the error in wind velocity. It is easy to see
+that the “M V values. obtained using different foraulas. are rather close to
+one another. (l sinilsr comment aust be made with respect to expressions (23)
+and (25), which lake it possible to compute the variation coefficient ktﬂ)‘
+
+36
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Using formulas (l9)-(26) for the sane conditions which were adopted earlier in
+computing the 0'1: and 0‘ parameters. colputationa were nsde of the variation coef-
+ficients as a function of the errors in initial data av. (1’x and 0". The results
+of the conputations are given in Tables 2-4. The data in these tables lake it pos-
+sible to draw conclusions which will be of interest for practical applications.
+
+Table 1
+
+Errors in Deternining Mean height of Haves 0", a (At Left) and Mean Period of
+Haves oft sec (At Right)
+
+Va 5 1!: lo a]: | 15 at]: V- 5 x]: I0 1!: l5 ﬁle all sec
+
+XXI
+
+   
+ 
+ 
+  
+  
+
+2 0.24
+c, a lo 0.01 0.05
+0.02 0.10
+
+ 
+
+ 
+  
+
+“Inc 0.12 0,13
+2 0.18 0,24 0.21 0.35 0.34 0.68
+hours I 0.02 0.0l 0.05 om 0,11 0,14
+
+     
+     
+
+  
+
+0.!” OJ? 0,!5 0.21 0.28
+
+ 
+
+First we should note the very "strong" dependence of the accuracy of coaputations
+on the errors in wind velocity. In the case of weak winds even an insignificant
+mean square error of 1-1.5 n/sec leads to an increase in the variation coeffic-
+ient for wave heights to 30-50:, and with respect to periods -- up to 202, which
+is an extremely high value. However. we should note the exceptionally weak influ-
+ence of the error in the initial wind fetch on the final results of the coaputa-
+tione. Even with a mean square error in fetch attaining half its absolute value,
+the variation coefficient in computing the nean height and period of waves is in-
+significant (less than 202). The latter lakes it possible to assert that in coaput-
+ations of the parameters of wind waves no effort need be Iade to make a detailed
+determination of fetch since even an extra-sly rough calculation of its value
+will make it possible to obtain a result which is entirely satisfactory.
+
+It is also necessary to mention a siailar insignificant. although to s sonewhat
+lesser degree, influence of the errors in determining the duration of the wind ef-
+fect on the results of the computations.
+
+35
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Table 2
+
+Values of Variation Coefficients khg‘)! and k; (v) as Function of Errors in
+Determining H Velocity 0' V
+
+V——T——__/_c u
+4;
+5 1015II—:—5lo l5
+.3
+
+ 
+
+ 
+
+hm" 'uw‘
+0.5 13 1 4 o a 2
+Lo '27 13 9 I2 6 4
+1.6 40 20 la l8 9 6
+2.0 5;) 21 Is 24 12 s
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 3
+
+Values of Variation Coefficientskh as Function of Errors in
+
+Detaraining(51ndnd1’etk¢:“o’h‘x)
+
+ 
+
+Table «‘0
+
+Values of Variation Coefficients 1th (c) and kt t as Function of Errors in
+Determining (Duration 0‘ Vind Effect 6‘t
+
+ 
+
+! :1 hours
+
+Gll2u6ll2
+
+ 
+
+ 
+
+It must be noted. however. that Tables 2-4 and accordingly formulas (19)-(26) make
+it possible to solve not only the direct problem - evaluation of the final accur-
+acy in computations. but also the inverse problem - determination. by stipulating
+the necessary accuracy in computations, that nean square error which can be allow-
+ed in determining the initial data V, x and t without an appreciable decrease in
+
+36
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the accuracy of the computed parameters h and 1:. For example, if the adnissible
+value used for the level of the variation coefficient is 10-20%. as is usually as-
+sumed when carrying out the computations, it is necessary that in the presence of
+weak winds, for example, 0’ is not greater than 0.5 m/sec, in the case of mod-
+
+erate winds, not more than n/sec, in the case of strong winds — not more than
+1.5-2 m/sec.
+
+BIBLIOGRAPHY
+
+l. Venttsel'. Ye. 8., TEORIYA VEROYATNOSTBY (Theory of Probabilities), Hoscov, Fis-
+mtgiz, 1962.
+
+2. Rshedlinskiy, G. V., Krylov, Yu. H., Hatushevskiy, G. V., Strekalov, S. S. and
+Nazaretskiy, L. N., "New Method for Analysis and Computation of Wind Have Ble-
+
+ments," TRUDY GOINa (Transactions of the State Oceanographic Institute), No 93,
+1968.
+
+3. RUKOVODSTVO PO RASCHETU PARAMETROV VBTROVYKH VOL“ (Manual on Computation of the
+Parameters of Wind Haves), Leningrad, Gidrometeoizdat, 1969.
+
+1;. Smirnov, N. V. and Dunin-Barltovskiy, I. V., KURS TBORII VEROYATNOSTEY I HATE-
+
+MATICHESKOY STATISTIKI (Course in the Theory of Probabilities and Mathematical
+Statistics), Moscow. Nauka, 1969.
+
+S. STROITEL'NYYE HORNY I PRAVILA, CH. II. NORM? PROYEKTIROVANIYA, CL. 57. “AGRUZKI
+I VOZDEYSTVIYA NA GIDROTEKHNICHESKIYE SOORUZHENIYA (Construction Norms and Spec-
+
+ifications. Chapter 57. Loads and Effects on Hydraulic Structures), Moscow,
+Stroyizdat, 1976.
+
+37
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 556.535.6
+
+[Article by 0. I. Sansonov, candidate of geographical sciences. Moscow Institute
+of Hater Transportation Engineers]
+
+[Abstract] An attempt is made to develop a new approach to study of the dispersion
+of suspended latter in a honogeneous water flow. The approach is based on the in-
+troduction of additional terns into the equation for conservation of solid natter
+for taking into account the change in the concentration as a result of accumula-
+tion and erosion. A solution of the problen is complicated by the inadequate study
+of the problen of conputation of the distribution of suspended natter with allov-
+ance for the exchange of sedilaents betveen the flow and the botton of a water
+body; this matter therefore is discussed in detail. Particular attention is given
+to derivation of the two-dimensional turbulent dispersion equation and the one-
+dinensional equation of longitudinal dispersion. Then attention is given to the
+practical problem of the distribution of the concentration of suspended natter
+resulting fro- the carrying out of dredging work. References 20: 12 Russian, 8
+Western.
+
+38
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC SS6.12‘.3:556.136(571 .56)
+
+SPRING SM mums AND EVAPORATION IN CENTRAL YAMIA
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian lo 2, Feb 82 (manuscript received
+19 Hay 81) pp 91-96
+
+[Article by A. 1.. Are. candidate of geographical sciences. and h. S. Petropavlovsk-
+aya. candidate of technical sciences. Permafrost Institute. Siberian Department.
+USSR Academy of Sciences. and State Hydrological Institute]
+
+[Abstract] Central Yakutia has inadequate precipitation and snow plays a partic-
+ularly important role. The snow cover accumulates over the course of 6-7 months
+
+and by the onset of thawing the water reserve sometimes attains 100 II. In some
+years up to 501 of the melt water becomes ground water. A monitoring of moisture
+receipts requires determination of such parameters as the maxi-um and seen inten-
+sity of snow melting. its duration. mean dates of beginning and end of melting
+
+and moisture losses in snow evaporation. Daily observations were made in the
+
+spring of 1978. 1979 and 1980 at the heat balance station of the Permafrost Inst-
+itute Siberian Department USSR Academy of Sciences. The water balance method was
+used; measurements were made at about 1700—1800 hours (when daytime thawing had
+ceased); evaporation was measured simultaneously. Heasurement data were used in de-
+termining snow density. snow depth and moisture reserve. Spring snow melting usual-
+ly lasts 10-15 days. During thawing. periods snow evaporation varies from 0 to 1.7
+ass/day. Two types of thawing occur: solar and solar-advective; separate formulas
+are derived for expressing the relationship between these two types and air tear
+perature. Figures 2. tables 1; references: 5 Russian.
+
+39
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+“00 630: 551 . 521
+
+COMPUTING OPTIHIH DENSITY 0F "ANTED FIELDS
+
+lbscow KETEOROLOGIYA I GIDROLOGIYA in Russian No 2, Feb 82 (manuscript received
+22 Jul 81) pp 97-103
+
+[Article by Rh. 6. Tooming. doctor of biological sciences. Estonian Agroneteoro-
+logical Laboratory, All-Union Scientific Research Institute of Agricultural Meteor-
+
+ology]
+
+[Abstract] The optimum density of placement of plants in sown fields was investig-
+ated in the example of potatoes. The most important period for yield fornation is
+
+the period of naximua growth. During that period every possible measure must be
+taken to ensure the proper density of plants. During a single 10-day period about
+301 of the entire yield of tubers is fornad. Experinsnts were carried out with
+plantings of different density. The increase in dry biomass and the relative area
+of leaves in plantings of different density was determined. The photosynthetically
+active radiation absorbed by plantings was measured or computed. Different produc-
+tivity indices were determined. Then the optimun density of plants was ascertained
+using the criterion of maximum efficiency of plantings during the maxinum growth
+period. The procedures are illustrated in the example of experiaants with Sulev
+potatoes. The experiments were carried out with densities of 3, 6, 10 and 15
+plants per 1 n2. Once or twice each ten days the growth of total dry biomass of
+the plants. dry biomass of tubers, leaves and other plant organs were deternined.
+The dynanics of the leaf surface was ascertained. The total radiation incident on
+the plants was continuously registered. Total radiation was transformed to photo-
+synthetically active radiation. According to the maximum efficiency method the
+optiaun density for the planting of these potatoes is 6 plants per 1 n2. figures
+3; references 16: lb Russian, 2 Hestern.
+
+60
+FOR¢ﬂﬂﬂCLALlﬁﬂEONlY
+IND! OFFIC1AL USEICMULY
+
+UDC 551.509.001.57
+COMPUTING OPTIMUM GRIDS FOR REGIONAL SHORT-RANGE HEATHER FORECASTING MODELS
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 2. Feb 82 (manuscript received
+17 Jun 81) Pp 106-105
+
+[Article by 0- R. Kontarev, candidate of physical and mathematical sciences, Comput-
+ation Center, Siberian Department. USSR Academy of Sciences]
+
+[Abstract] In an earlier article (”Solution of hydrodynamic Equations on a Sphere."
+METEOROLOGIYA I GIDROLOGIYA, No 7, 1978) the author proposed use of a grid region
+for a polar stereographic projection with intervals nonuniform in this projection;
+the maximum accuracy in that case was in the polar region, but with equatorward
+movement to 30-60' the error does not exceed 0.0111x. Proceeding along these lines.
+the author now proposes a method for computing the coordinates of the points of
+intersection of an optimum grid for a stipulated region (in this variant the grid
+pole can be selected within the limits of this region). For 802 of the area of the
+region the error allowed does not exceed 0.0315: and is not greater than 0.115: at
+the margins. An integration region is selected for a regional model with a center
+having the geographic coordinates: latitude s and longitude D. This center is con-
+sidered to be the pole of a new spherical coordinate system. The zero meridian is
+the direction to the south relative to the initial coordinate system. The optimum
+grid is constructed relative to the new pole. The initial parameters. in addition
+to latitude and longitude of the new pole. are the dimensions of the grid at Paints
+of intersection, the coordinates of the new pole at the points of grid intersection
+and the grid interval in degrees along the meridian. The method for computing the
+geographical coordinates of the points of intersection of the optimum grid is de-
+scribed. Using the formulas of spherical trigonometry it is possible to compute
+
+the distances between the points of intersection along the x- and y-axes. An algo-
+rithm is proposed in the form of programs in FORTRAN. An example is given of comp
+putstions of an optimum grid for which a numerical forecast is made for Novosibirsk.
+References: 2 Russian.
+
+bl
+FIIICNNHCJA1.US£10NLY
+FOR OFFICIAL USE ONLY
+
+000 551.509.32
+
+APPLYING SEPARATING FUNCTION FOR ALTERNATIVE DWSIS OR PREDICTION usmc
+DEPENDENT PREDICTORS
+
+Moscow HITEOROLOGIYA I GIDROLOGIYA in Russian No 2, Feb 82 (manuscript received
+11 May 81) PP 105-109
+
+[Article by I. I. Harnershteyn and G. a. Hedvedev, candidates of physical and math-
+
+eaatical sciences. Odessa Hydroeeteorological Institute and Central Aerological 0b-
+servatory]
+
+[Abstract] The use of mathematical statistics in aeteorology for forecasting pur-
+poses usually requires the nondepsndence of series of randon values in the reach-
+ing sanple, but under real conditions the predictors selected for a forecast are
+always dependent on one another, possibly differing in degree and character. Hhen
+there is a linear dependence between predictors it is shown in this article that
+it is possible to arrive at a separating function in such a way that the region
+of anbiguity of an alternative forecast will be nininun. The application of this
+principle is illustrated in this article in the writing of a linear combination
+separating cunuloninbus clouds into "hail" and "shower" types. The tendon values
+used in this study were fron radar sounding of clouds and tenperature sounding of
+the atnosphere obtained in holdevia during 1976-1978. With the pertinent para-
+aeters it was found that the probability of a "hail cloud" was 272. Sinilar al-
+ternative identifications can be nade for other phenonena, such as a thunder-
+storn and fog. This aethod for arriving at a separating function is also suitable
+for an alternative forecast. In this case the initial ssnple Inst reflect the
+state of the object with such a tine in advance prior to onset of the phenonenon
+with which the forecast is to be eade. It is possible in this way to predict not
+only weather phenonena, but also the possibility of transition of the value of
+sone neteorologicsl elenent through sone critical value. such as passage of air
+tenperature through 0°C. The alternative diagnosis or prediction nethod can al-
+
+so be used in solving nany hydro-eteorological problens. Figures 1; references:
+7 Russian.
+
+42
+FOI‘OFIICIAI.US£GDNLY
+FOI:OF1WC]AI.USEIDNLN
+
+UDC 551.665.5(26S.07)
+“RAIDERS OF CROHUELL CURRBﬂT
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 2, Feb 82 (eanuscript received
+11 Feb 81) PP 109-111
+
+[Article by V. A. Bubnov, candidate of geographical sciences, and V. 0. Yegorikhin,
+Atlantic Division, Institute of Oceanology]
+
+[Abstract] During February-March 1980, during the 26th voyage of the "Dnitriy Men-
+deleyev," in a study of synoptic fluctuations of currents in the central part of
+the equatorial Pacific. a series of self-contained buoy stations was set out in a
+polygon involving two neridional sections across the equator. along 167‘" and
+163’15'0. near 1'30'8, O'AS'N, 0', 0°‘S'S and 1'30'5. Current recorders et 10 buoy
+stations gave tine series of observations of a duration up to 39 days. The duration
+of synchronous observations along these sections was 25-27 days. The vertical struc-
+ture of the velocity field in the layer 0-600 a is for-ed by three tonal flows:
+South Trades Current. Equatorial Subsurface Countercurrent (Cromwell Current) and
+Hestern Equatorial Intermediate Current. The Cromwell Current has an easterly direc-
+tion which takes in a layer with a thickness of about 200 a. Polygon observations
+indicated that the velocity field is subject to a considerable teaporal variabil-
+ity with periods fron a half-day to two weeks. The most energetic fluctuations of
+the Cromwell Current are associated with its meandering relative to the equatorial
+plane. At the depth of its axis the latitudinal amplitude of the eeanders is about
+30~60’, in some cases attaining 1'. However, it is difficult to detersine the pre-
+cise parsneters of this leandering. especially when estimating the phase difference
+of the oscillations between sections. This is due to distortions of the neander
+wave by oscillations of other periods. For this reason it is better to exaaine lat—
+itudinally averaged data. A special analysis revealed that vithin the polygon the
+Cromwell Current neanders with a period of 10 days. These oscillations are closely
+correlated on both sections. It wee possible to conpute the pareseters of aeanders
+(period in days, phase velocity. wave length). Figures 2. tables 1; references 6:
+
+6 Russian. 2 western.
+
+b3
+FIHICIWHCIAL.US£‘OBHJV
+POI! OFFICIAL USE ONLY
+
+UDC 551.508.9:519.53
+PROBLHIS IN IIE‘I'EOBOLWICAL IMAGE WMTION
+
+Moscow METEOROLOGIYA I GIDROIDGIYA in Rusaien No 2. Feb 82 (unuecript received
+16 Dec 80) PP 112-119
+
+[Article by V. P. Peehchenho. doctor of physical and nethenticel sciences. Sci-
+entific Reeeerch Institute of Instrunent linking]
+
+[Abstract] tinny meteorological pereneters can be deecribed by one or two nunbers
+obtained by contect of e sensor with the nediun, but neteorologicel phenonene
+euch ae clouds. fogs. sunshine end renge of visibility can be described only by
+
+a set of may nunbere. In this article the author uses the tern "nethmticel
+inge" or einply "iaage" for the specially formleted set of numbers. An "ieege"
+can be a single nunber. line fron a set of nunbers. colun fron a net of numbers.
+matrix. natrix rov, etc. If the etructure of the netheneticel inege is found for
+e eeries of neteorologicel phenonene. end the operatione on the ingee are deter-
+nined, the problen of the neeeurebility of this phenonenon will thereby be eolv-
+ed. A "neteorologicel inege" is defined as a repreeentetion of the totality of
+the pareneters end criterie detenining s11 meteorological eituetione in soee eub-
+set. The nein body of this article treces all the eteges in the forning of neteor-
+ological ineges (in different etagee in the exposition, for the eeke of clarity,
+the repreeentetion process is illustrated by the ceee of opticel sounding) end poe-
+eible approaches to the identification of neteorologicel inegee ere set forth. The
+nethod an e whole in applied to an eveluetion of the possibility of using en 11-105
+instrunent (for nurturing the altitude of the lover boundery of c1oude end esti-
+neting vertical visibility) for identifying Ieteorologicel phenonene. tigures 2,
+tables 1; referencee: 11 Ruseien.
+
+[Ob
+POI OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+EIGHTIm BIRTHDAY OP YELIZAVETA LUARSABOVNA “DMIKOVA
+)ioecov METEOROIDGIYA I GIDROLOGIYA in Russian No 2. lob 82 p 120
+
+[Article by A. S. Korovchenko. Ye. 8. Selesneva and V. D. Stepanenko]
+
+[Abstract] Yelisaveta Luarsabovna Andronihova. an outstanding librarian in the
+fields of meteorology and climtology, working in the Hydroeeteorological Ser-
+vice for aore than a half-century, coepleted her 80th year on 21 Hove-bar 1981.
+Following her college studies at Moscow State University in the Physics-Nathan“-
+ics Faculty, she became affiliated with the ruin Geophysica1 Observatory, where
+she still works. It can be said that she node a significant contribution during
+the Great Fatherland war by the preparation of clieetic descriptions and collect-
+ing needed eaterials from world publications such as were available in the ar-
+chives of the min Geophysical Observatory. the largest library of this type in
+the USSR. In 1966 she was called upon to bring the library resources into proper
+order after the reevacuation of the Main Geophysical Observatory. In this task
+she exhibited outstanding qualities as a librarian and as a specialist in the
+field of aeteorology and clintology. In 1966 Ye. L. Andronikov was designated
+head of the scientific-technical library and continued in that post until 1979.
+This was all during a period of intensive growth of the library. (This library.
+dating back 130 years. includes alaoat 600,000 books). 0n the 100th anniversary
+of the Main Geophysical Observatory she coepiled the BIBLIOGRAPICHESKIY mm'
+RAM (:60 (1869-19408) (Bibliographic Index of Studies of the Main Geophysical 0b-
+servatory (1816-1948)) and on the 50th anniversary of the October Revolution she
+was a coauthor of the BIBLIOGRAIICIIESKIY UKAZAI’EL' RABO‘I' 060 2A PERIOD 1818-1967
+(bibliographic Index of Studies at the Main Geophysical Observatory During the
+Period 1818-1967). In addition. she prepared bibliographies of the works of Acad-
+
+emician H. A. Rykachev and Professor 1’. A. Holchanov.
+
+65
+F0! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Hoacow HETEOROWIYA I GIDROLOGIYA in Russian lo 2. Feb 82 pp 121-123
+[Article by H. H. Kuznetaova]
+
+[Abstract] A series of awards has been presented to participants torganitations
+and individuals) in a special exhibit "Study of the Arctic, Antarctica and the
+World Ocean.. ." and the display "liydrometeorology..." in the "Bydrometeorological
+Service" Pavilion. First-degree diploaas were awarded to: the Arctic and Antarc-
+tic Scientific Research Institute -- for geographical investigations of natural
+conditions in Antarctica, as well as developments in the support of navigation.
+fishing and aircraft flights. Central Design Bureau for hydrometaorological In-
+atruaent mking -- for developing. fabricating and introducing the "cidrosond"
+couples for measuring and registering the principal parameters of sea water.
+
+Kain Geophysical Observatory -- for equipsent on an aircraft-laboratory. develop-
+ing methods and progress for flight tests. and creation of a unique couples of
+on-hosrd seasuresent apparatus. this being of great value for subsatellite exper-
+iuents. Institute of Experiaental Heteorology -- for developing a spectroradio-
+meter for investigating the spectral conposition of please formations. Second-
+degree diplomas were awarded to: State hydrological Institute -- for evaluating
+the water resources in the tone of the Baykal-Anur Railroad and developing neth-
+ods for computing hydrological characteristics. (halt Territorial Administration
+of Bydroneteorology and Environmental lbnitoring (1AM) -- for hydrometeorolog-
+ical support of construction of the Konsoaol'ak-Surgut-Chelyabinsk gas pipeline.
+Leningrad Heather Bureau of the Northwestern TAM -- for hydro-eteorological
+support of ships in the Baltic. furnishing the- with recon-ended navigation
+routes in the North Atlantic. hydrometeorological Observatory of the Koai ASSR
+of the Northern mm - for excellent hydroneteorological support of the nation-
+al econosy of the Koni ASSR. Moscow Division of the All-Union Scientific Research
+Institute of Hydrometeorological Information-World Data Center -- creation of an
+Atlas of Cliaatic Characteristics of cloud cover on the basis of artificial earth
+satellite data. Krasnodarsk Zonal Bydromateorological Observatory of the Northern
+Caucasus TAM - for hydrometeorological support of rice cultivation in Krasno-
+darskiy Krsy. Rostov-na-Donu Aviation Center of the Northern Caucasus TAM --
+for developing and introduction of new forecasting sethods. Ukrainian Aviation
+Meteorological Center - for high-quality servicing of two KRAHS-H stations.
+Ukrainian Scientific Research Institute - development of technical specifications
+for reoutfitting a Yak-60 aircraft into a meteorological laboratory. Other organ-
+iaat ions were awarded third-degree diplomas. A total of 639 individuals were
+given lesser awards. '
+
+(06
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+AT USSR STATE comm-rte ON WWW AND ENVIROIHBN'I'AL WITORING
+Moscow HBTEOROLOCIYA I GIDROLOGIYA in Russian No 2. Feb 82 pp 123-125
+
+[Article by V. Zekharov and G. K. Veselova]
+
+[Abstract] During the period 2-3 November 1981 the Presidium of the Scientific and
+Technical Council of the State (Jo-ittee on Hydrometeorology and Environmental Hon-
+itoring discussed the plan for scientific research and experimental design mark
+
+for 1982. hphasis will be on methods for predicting meteorological. hydrological
+and heliogeophysical phenomena and the development of methods and equip-ant for
+
+the collection, processing. transmission end dissemination of environmental data.
+Other important work is planned on study of the effects of contamination. aeens
+
+and methods for artificial modification of meteorological processes. methods for
+evaluating climatic changes and the effect of such changes on the national economy
+and evaluating clintic, agrocliaatic and water resources. 0n 6 October the Central
+Methodological Comission on hydrometeorological Forecasts examined the results of
+testing of a number of long-range forecasting methods and methods for hydrological
+forecasts. For example. it approved a hydrodynamic-synoptic-statistical method for
+forecasting the mean five-day maximum and minim!- eir temperatures for the European
+USSR and Western Siberia (see details in HETBOROLOGIYA l GIDROLOGIYA. No 6. 1973.
+No lo. 1977. A yearlong testing of this forecasting scheme has given satisfactory
+results. The (Dominion also approved a method for predicting air temperature with
+two-month averaging for the most important agricultural regions of the USSR based
+on a linear regression scheme and using as predictors the coefficients of expan-
+sion of temperature fields in the northern hemisphere in natural orthogonal compon-
+ents. The first forecast is prepared 10 months in advance end is later updated. tak-
+ing into account the development of hemispherical macroprocesses (see details in
+TRUDY cmm‘nsmu SSSR. No 195. 1977. No 211. 1978). Also examined were methods
+for preparing territorial long-range forecasts of the volume and maximum of spring
+high water in rivers of the Volga and Severnaya Dvine basins. (A detailed descrip-
+tion of these methods is given in TRUDY cmmsm 838R, No 186. 1977. No 223.
+1980 and No 236. 1981). The Cosmission approved the special handbook "Use of Satel-
+lite Information in Synoptic Practice." based on the results set forth in the "Han-
+ual on Use of .Satellite Information in Weather Analysis and Forecasting." Only two
+of the proposed three chapters were approved for publication at this time. The first
+describes use of cloud cover photographs from satellites in the analysis of fronts.
+cyclones and anticyclones. The second gives reco-endations on the use of cloud
+
+cover photographs for predicting the synoptic situation.
+
+47
+FOR OFFICIAL USE ONLY
+IN)! OITHC1Al.lEﬂECNNLY
+
+NOTES FROM ABROAD
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 2, Feb 82 pp 125-126
+
+[Article by a. I. Silkin)
+
+[Abstract] It has been reported in SCIENCE NEHS, Vol 119, No 21. 1981. that a nat-
+ional center for climatological forecasts has been established at the Scripps
+Oceanographic Institute. La Jolla. California with its task being defined a8 1-.
+
+provenent in the long-range prediction of temperature and precipitation for the
+coming seasons of the year. Three different forecasting methods will be employed
+
+and these will be evaluated for comparative effectiveness.
+
+The journals HONLD ANCEAEDLOGY. Vol 13, 1981. and NEW SCIENTIST, Vol 91. No 1263.
+1981, report that the archaeologist E. Marshall, after conparing data on the
+structure and siting of aan's dwellings in the Neolithic in Europe and ao-called
+longhouses now constructed by Melanesian tribes in New Guinea. noted that the Hal-
+anesian dwellings always have their narrow aide in the direction of the prevail-
+ing wind. During the Neolithic European dwellings had their narrow facade toward
+the northwest. It was therefore concluded that in the fourth century s.c. the pre-
+vailing winds. especially in winter. were northerly and northwesterly. This cor-
+responds to the opinion snong paleocliastologists that between the sixth and third
+millenis (B.C.) in Europe there was a so-called Atlantic climate during which the
+tenperature was higher and the precipitation was more abundant than at the present
+tine. that is. the climate was similar to the present-day climate of the highlands
+
+in New Guinea.
+
+It is reported in the JOURNAL OF GEOPHYSICAL RESEARCH. Vol 86, 1981. and NEH SCI-
+ENTIST, Vol 91. No 1261, 1981. that Canadian hydrologists have aade a study of the
+problen of the relationship between sea level fluctuations and the calving of
+glacier masses. leading to the formation of icebergs and floating ice islands. Par-
+ticular attention was given to glacier "tongues" floating on the sea surface; these
+evidently successively pass through different phases of growth and breakup into
+large icebergs. It is postulated that an important role in this process is played
+by the resonance phenonenon: the detachment of an iceberg is stimulated by a co-
+incidence of the frequency of oscillations of sea waves and the characteristic fre-
+quency of vibration of the glacier. The critical moment arrives when the frequency
+of the characteristic oscillations of the tongue coincides with the frequency of
+the constant sea surf in the region where the tongue is afloat. The resonance ef—
+fect comes into play and the aaplitude of the glacier oscillations increases. Stress-
+es accuaulste and the strength of the glacier is exceeded and part is detached in
+
+the form of an iceberg.
+68
+
+IN)! OFFIC1A1.UEII(MVLY
+OBITUARY 0F YEVGBNIY KONSTANTINOVICH PBDOROV (1910-1981)
+Moscow HEIEOROLOGIYA I GIDROLOGIYA in Russian No 2, Feb 82 pp 127-128
+
+[Article by board members of the USSR State Committee on Hydrometeorology and En-
+vironmental Monitoring]
+
+major contributions to the development of Soviet geophysical science, investiga-
+tion of the Arctic and Antarctica. development of space research and safeguarding
+of the environment. At the same time he was an effective champion of world peace.
+His entire life was dedicated to hydroseteorolosy. beginning with work at polar
+stations in the Arctic, on Franz Josef Land and Cape Chelyuskin. He was a partic~
+ipsnt in the legendary drift on the ”Severnyy Polyus-l" station and was designated
+a Hero of the Soviet Union for his contributions there. In the 1930’s he became
+director of the Arctic Instituteand in 1939 was designated head of the USSR Hydro-
+meteorological Service; he headed this service for almost 20 years (1939-1967, 1963-
+1974). He was largely responsible for raising the service to its present-day
+outstanding level. In 1956 he organised the Institute of Applied Geophysics and
+served as its director until 1968, and then from 1974 to the end of his life. Under
+
+mental monitoring and study of heliophysical processes in space. His fields of in-
+terest included: weather and climate, water resources. investigation of the seas
+and oceans, the ionosphere, earth's magnetic and radiation fields, artificial mod-
+ification of hydrometeorological processes. environmental contamination. During
+
+tute of Hydrometeorological Information, State Scientific Research Center for the
+Study of Natural Resources, Central Asian and West Siberian Scientific Research
+Hydrometeorological Institutes. Figures 1.
+
+COPYRICRT: "Neteorologiya i gidroiogiya", 1982
+
+5303 ‘ 3ND ‘
+C80: 1866/8
+
+49
+F0! OFFIC1A1.lEﬂE(NVLY

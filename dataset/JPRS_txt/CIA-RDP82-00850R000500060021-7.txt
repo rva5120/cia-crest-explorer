@@ -1,0 +1,5161 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10508
+
+12 May 1982
+
+USSR Report
+
+CYBERNETICS, COMPUYERS AND
+AUTOMATION TECHNOLOGY
+
+(FOUO 8/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+CYBERNETICS, COMPUTERS AND AUTOMATION TECHNOLOGY
+
+(FOUO 8/82)
+
+CONTENTS
+
+HARDWARE
+
+Systems for Inputting Intonation Rom Pneumatic Transmitters
+Into Control Conputer Systems so.aoooneeoolooooooaeooooooooooaoo 1
+
+Use of Silicon-on-Sapphire Structures in low Temperature
+Pressure Transducers OI.00O000.00.000.000IOOOOOOOOOOOOIIOOOOOIO. 8
+
+New Instruments and Equipment for Automation ease-oaooooooooooaoo 9
+
+SKS 1000-800-2 Blueprinting Machine
+
+KMP201UP1 Automatic Circuit Breaker mutier
+
+Shch30h Digital Voltneter
+
+Shch68h00 Printer
+
+Shh-5615 Floppy Disk System
+
+Sis-5616 Floppy Disk System
+
+85603 Floppy Disk System
+
+Sis-5211 Magnetic Tape Cassette Unit
+
+SM-5301 Tape Unit
+
+su-6h02 and Sta-61002.01 Semiautomatic Plotting Boards
+for Graphic Information Reading and Conversion
+
+spa-6315 Alphanumeric Parallel Printer (ATsPU) and
+851-6305 Printer (UV Kl'sPU)
+
+510310 Display Console
+
+Shch68201 Resistance Comparator
+
+Problem-Oriented Complex for Monitoring Parameters of
+Electronic [hits ooooooooooooooooan.oooooooaooooooooaooaoaoooa 20
+
+Method for Objective Mass Checking of Through Hole
+Plating in Printed Circuit Boards eooooooooaoooooaoeoooaooaoao 23
+
+- a - [III - USSR - 21C SST FOUO:
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE; ONLY
+
+Mechanization or Printed Circuit Board Hole Cleaning Operation .o.
+Mechanization of Printed Circuit Board Surface Preparation .00....
+SOI-‘I‘HARE
+
+Interaction and Problem Macroprograming in Yes Computer
+Disk Operating stheﬂ ooooooooooooooooeooeoooooeaooooeoooooooaoo
+
+APPLICATIONS
+Interactive Subsystem for 00mputer-Aided Process Design ooeoeeooo
+Mil-12018 Mass Spectrometer oooaaoooooooo-ooooooooeoaooooooaaoooooo
+
+Primary Conversion of Speech Signal in Automatic Speech
+Recognition Devices oeooooooeoooaeoooooaoa-oaoaaoaooooaeoooaoeo
+
+Automation of Industrial Accounting and Analysis
+Information PrOCessins oooooeooooone000000000000aaooooooooeoooe
+
+Tasks of Automated Material and Technical Supply Control
+System in OKE Territorial Administration eooooeoooooa-oaaaooaoa
+
+' Control or Products Supply' Complex of Problems in
+
+Automated Control System for Material and Technical
+
+Supply Of Moldavian SSR oeooeoooeoooeaonea-oooeeoooooooaoaooaooo
+Nonuni formity Factors in Trusport‘tion Plans 0 o o o o O a o e I o o o o o o o a 0
+Automated Information System of Supply and Sales Organization . . .
+
+PERSON ALITIES
+
+Psheni chnikov Congratulated on "is 60th Birthday 0 o e o I a o o o o o a o o e e
+Prizes Awarded for Scientific Research Instruments and Systems . . .
+
+PUBLICATIONS
+
+Abstracts ham Journal of Leningrad Electrical Engineering
+
+Institute eaoooaeoeoooooeaaooooooaooooaeoooooeoooooaaoooaooeeoo
+Data Preparation in Computer Centers ooooooooooooooooeooooooeoooo
+
+Automating Control of Technology for Producing Electronic
+
+Instruments eoeaoeoooaoone.aoooooooooeooeoaooooooooeooooeoooooeo
+
+-b-
+
+FOR OFFICIAL USE ONLY
+
+27
+
+33
+
+101
+
+l02
+
+Mo
+
+108
+
+51
+
+53
+
+55
+
+59
+
+61
+WARE
+
+UDC 681.581.5z681.3
+
+SYSTEMS FOR INPUTTIM INFORMKI'IOII FROM PNEUMATIC TRANSMITTBRS INTO CONTROL
+COMPUTER SYSTEMS
+
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 pp 16-18
+
+[Article by engineers V. A. Yashin, Yu. M. Grenaderov, V. i. Durayev and V. P.
+Cumenchuk]
+
+IText] lnputting information from transducers of process parameters with a pneu-
+matic unified output signal (called pneumatic transmitters from here on) into con-
+trol computer systems is a problem in engineering implementation of automated pro-
+cess control systems in the chemical, petrochemical and related industries. As the
+practice of development of such automated process control systems indicates, sig-
+nals from pneumatic transmitters, as a rule, account for 50 percent of the overall
+amount of information input automatically.
+
+The most widespread method of inputting information from pneumatic transmitters
+into control computer systems uses individual analog pneumoelectric conve ters
+that convert a unified pneumatic signal of 20 to 100 kPa (0.2 to 1 kgf/cm ) into a
+unified electrical signal of 0 to 5 mA that then goes to the load units (8N) in
+the USO UVK [devices for object communication with a control computer].
+
+The widespread application of this information input method has caused a severe
+shortage of pneumoelectric converters, which is increasing continuously because of
+the increase in the number of automated process control systems that are being
+developed. Information systems built on the principle of individual conversion of
+signals turn out to be very bulky and inconvenient in operation, and monitoring
+the working order of the information channels in them is difficult. Existing
+engineering solutions for group checking of the converters by using pneumatic
+swicthing devices and reference elements for standard pressures are also not noted
+for compactness [1]. More promising is the input of information from pneumatic
+transmitters that have group switching and converting devices within them.
+
+lnformation from transmitters is usually input now by using PK-3 type pneumatic
+switches, controlled by control computer systems, that switch pneumatic signals in
+advance I2]. In doing so, there is one PK-3 switch and PE-SSH converter for every
+seven pollable pneumatic transmitters (one switch input is usually taken up by a
+source of standard pressure and is used to check the working order of the converter)
+Using this information input method permits a substantial reduction in the number
+
+of pneumoelectric converters and a solution to the problem of checking them in each
+polling cycle. However, this method has a number of substantial shortcomings.
+
+1
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE. ONLY
+
+As industrial tests of these systems have shown, polling the pneumatic transmitters
+takes no less than 16 seconds of machine time in each cycle. During this time,
+
+the control computer cannot perform other tasks. The PE-SSM pneumoelectric con-
+verters often fail (adjustment is knocked off) because of the constant sudden
+changes of pneumatic signals at the inputs. The information systems continue to
+remain rather cumbersome.
+
+The most promising method of inputting information into control computer systems
+from pneumatic transmitters at the current level of development of technology is
+the speeded-ep balancing method based on simultaneous comparison of the transmitter
+signals with a developed balancing signal by using null-balance devices placed in
+the individual transmitter circuits. There are a number of ways to implement this
+method [3. 4]. However, at present there are only two systems in which these
+methods have been implemented for inputting information into control computer sys-
+tems from pneumatic transmitters.
+
+(he such system is called the ASTRA-01 [5]. It is used for multichannel input of
+information from pneumatic t-ansmitters into a control computer system. The system
+can he used with the 1010V, M-6000, SH-l and SH-Z control computer systems with
+the availability of the appropriate software developed in setting up the automated
+process control system. The system output signal is an electrical 16-bit binary
+code. A control computer system controls the system by an electrical 10-bit
+binary code. The principle of system operation is based on the method of scanning
+the channels in the space of the parameter. The input channels are permanently
+connected to the individual comparison circuits. In one conversion cycle, the in-
+put signals of all channels are compared to a common saw-toothed balancing signal.
+lho output signals of the comparison circuits are converted into time intervals
+proportional to them that are converted into codes by using the control computer.
+
+lhe system has a modular structure and fits in a standard cabinet.
+
+ASTRA-01 System Specifications
+
+Basic error in measuring pneumatic signals as a percentage of
+
+the range of variation of input signals, no more than :l.5
+Maximum number of pneumatic inputs 120
+lime for polling 120 pneumatic channels, in seconds 15-40
+
+Prototype ASTRA-01 systems are in operation in the nitron and monomer shops of a
+chemical plant.
+
+'nu: shortcoming in the system is the long transmitter polling time. just as in the
+iniormation input systems using the PK-3 pneumatic switches. In this system, it is
+difficult to implement metrological monitoring of the information channels since
+here only the control computer system itself can be the metering device.
+
+1he Dzerzhinskiy branch of the OKBA [Experimental Desigr Office for Automation] has
+dvvv|oped and manufactured a prototype system for inputting information from
+pneumatic transmitters in which the saw-toothed pneumatic output signal of the scan
+generator is fed simultaneously to the inputs of the null-balance devices and to an
+analog pneumoelectric converter (APE?) [6]. An electric signal of 0 to 5 mA goes
+
+0
+a.
+
+FOR 0FFHJAL.USE(NVLY
+from the APEP converter to the analog input (load unit) of the USO UVK [devices for
+object communication with the control computer system]. The signals output from
+the null-balance devices (closing or breaking of the electrical contacts) are fed
+to the inputs for the system for inputting the iniative signals of the control
+computer system.
+
+The system principle of operation is based on the fact that during operation of the
+next null-balance device, the control computer system receives an interrupt signal
+and executes polling of the analog input with subsequent transfer of the informa-
+tion to the appropriate storage cell. In the process, no special time is required
+[or polling of the pneumatic transmitters. There are no severe pressure surges at
+the APE? converter input. Metrological checking of the information channels is not
+compiicated. Automatic checking of the working order of the APE? converter is
+easily accomplished in each control computer cycle of operation (by connecting one
+or more sources of standard pressure to the device input channels instead of trans-
+mitters). The system has a simple design. Experimental industrial trials of this
+system have shown its serviceability during operation under the conditions of the
+process shops within the hardware for an automated process control system.
+
+lhe shortcoming in this system is the presence of a large number of interruptions
+in each operating cycle of the control computer system (corresponding to the number
+of polled transmitters), which leads to considerable complication of the software
+lor the automated process control system and reduces its operating reliability.
+
+An effort is now underway at the Dzerzhinskiy branch of the OKBA to further Unprove
+the system for inputting information from pneumatic transmitters that implements
+
+the specded-up balancing method. In the process. the following goals have been set:
+the system must basically consist of series produced automation hardware; automatic
+monitoring of the working order. the capability of repair at the place of operation
+and monitoring of the metroiogical characteristics of the information channels have
+to he provided for; and use of the system must not complicate the automated process
+control system software.
+
+All the units of a system, preliminarily called the ORA-01, that meets these re-
+quirements have now been developed and tested under industrial conditions. A
+diagram of the system is shown in fig. 1.
+
+The system operates the following way. The scan generator (GR) continuously puts
+out a pneumatic signal varying according to the saw-toothed law. The signal varies
+within the standard range of 20 to 100 kPa. The generator operating cycle is set
+equal to the control computer system operating cycle. The signal output from the
+scan generator goes to the inputs of the null-balance devices (BNO), the APEP con-
+vertcr and the signalling units (BS). The null-balance devices are acrylic plastic
+boards with comparison elements (P2251) and discrete pneumoelectric converters
+(PIPR.4) installed on them. Each unit is designed for 10 input channels from the
+pneumatic transmitters. Signals from the latter are fed to the anechoic chambers
+or the comparison elements, and the signal output from the scan generator (GR) goes
+into their other anechoic chambers. At the moment of equalization of these signals,
+the comparison elements operate and the normally closed contacts of the correspond-
+ing discrete pneumoelectric converters are broken. The breakings of these contacts
+are the output signals of the null-balance units.
+
+FOR OFFICIAL USE ONLY
+run UN“ use. was. UI‘Io'
+
+Key:
+1. from transmitters --—-(u—ﬂ9m—m-—----
+2. BN01 [null-balance unit 1] "’ ' "‘ n "’ u
+3. BNOZ [null-balance unit 2]
+
+a. BN010 [null-balance unit 10]
+
+5. GR [scan generator]
+
+6. APE? [analog pneumoelectric
+
+converter]
+
+7. BS [signalling units]
+
+8. BYaPl [storage cell unit 1]
+
+9. BYaPZ [storage cell unit 2]
+
+10. BYaPS [storage cell unit 5]
+
+ll. HVvIS [module for input of
+
+initiative signals]
+
+12. KSSU [switch for signals of
+
+mean level]
+
+13. USO UVK [device for object
+communication with control
+computer system]
+
+lb. UVK [control computer system]
+
+     
+
+Fig. 1. Diagram of ORA-01 system for
+information input (modification
+for 100 pollable transmitters)
+
+The APE? converter is used to convert the pneumatic signal output from the scan
+generator (GR) into a current signal of 0 to 5 mA, which goes to the analog input
+of the storage cell unit (BYaPl). The storage cell units convert the current sig-
+nal into a proportional potential signal of 0 to S V, store in the storage cells
+the values of the potential signal that correspond to the transmitter output signal
+at the time of operation of the null-balance device and hold in storage the stored
+values of the potential signals for the generator (GR) operating cycle time.
+
+A storage cell unit schematic is shown in fig. 2. Each unit includes 20 storage
+cells made of an inetgrator built with an operational amplifier (microcircuit
+K284UD1A) and a K9305 field transistor [7]. The circuit features inclusion in the
+feedback circuit of a source follower stage made with the KP305 field transistor.
+This enables high ohm input of the integrator, which permits with relatively low
+values of capacitance of C1 storing the input potential signal with the necessary
+degree of precision for a long time interval and including in parallel a large
+number of cells. Fig. 2 shows a developed view of one of the 20 cells of the
+
+BYaP [storage cell unit] (cell 1 of the BYaPl unit).
+
+The circuit operates the following way. A current signal of 0 to 5 mA goes to the
+input resistance Rin’ entering into the BYaPl unit. Removed from this resistance
+
+are the potential signals from 0 to +5 V which are then fed in parallel to all the
+analog inputs of the storage cells of both the BYaPl unit and the other units.
+
+When switch Bl closes, the input voltage goes to transistor gate T. is followed in
+it and fed to the inverse input (13) of differential amplifier D. The voltage at
+the output of the latter in magnitude is close to the input and is opposite to it
+in sign. The output voltage is applied to the second plate of the capacitor Cl and
+
+h
+
+IN)! OETWCJAI.IJSEZ(NNLY
+2N2
+
+   
+
+Ins us .
+n.1"3i1’ m 8&5? 1': u
+ta—-- on luv—'1' ‘ IO
+"‘ m (2 )_0v_n_2. m
+'T“. I?
+
+Fig. 2. Storage cell unit schematic: R1 - R7 are resistors (R1 - R2 - 20 kilohms;
+R3 - Rh - R7 - 100 kilohms; R5 . 91 kilohms and R6 - 10 kilohma);
+T is a KP305 type transistor;
+V1 and V2 are K5162 diodes; and
+R I 1 kilohln +0.27.
+in -
+Key:
+
+1. R1“ 2. output
+
+charges it to the level equal to the input. "hen switch 31 opens, the voltage at
+output (8) of the integrator will be determined by the stored value of the voltage
+in the capacitor Cl. A voltage divider, made with transistors R5-R7, is used to
+set the initial zero voltage at the output of the integrator with zero input (zero
+adjustment). Capacitor CZ is correcting and is designed to eliminate excitation of
+the D microcircuit at high frequency.
+
+Used as switches Bl-Bn (n is the total number of storage cells) are the normally
+
+closed contacts of the corresponding null-balance devices. During operation of the
+null-balance device in turn, the circuit of the input analog signal of the corres-
+ponding storage cell is broken and stored at its output is the value of the
+potential signal corresponding to the value of the transmitter output signal.
+
+In level, the BYaP cell output signals correspond to the mean level of the UVK
+
+[control computer system] and go directly to the switches for signals of mean level
+in the USO UVK [device for object communication with control computer system].
+
+FOR OFFICIAL USE ONLY
+I'UK UI'I'ILIAL Ubr. URL!
+
+ 
+
+Fig. 3. External view of unit of storage cells for 20 channels (modification for
+installation in distribution rack of an M-6000 UVK [control computer
+system])
+
+When the scan generator (GR) output signal reaches maximum (100 kPa), the signal-
+ling unit (88) operates (see fig. 1) and emits a discrete electric signal (closing
+of contacts) to the input of the module for the input of initiative signals
+(MVvIS) in the USO UVK [device for object communication with the control computer
+system]. At this signal, the control computer interrupts operation on the main
+programs and polls the inputs of the switch for signals of mean level (KSSU),
+where the signals go from the storage unit cells. In the process, practically no
+machine time is taken up for polling of the pneumatic transmitters and the automa-
+ted process control system software is not complicated.
+
+Two system hardware versions have been developed: a separate unit and a distribu-
+ted. In the first version, all system units are placed in a separate standard
+cabinet, in the lower part of which are installed the terminals for the leads of
+the pneumatic cables. The cabinet is placed next to the distribution racks of
+
+the USC UVK [device for object communication with control computer system]. In
+the second version, the BNO [null-balance unit] of the scan generator (GR) and the
+signalling unit (BS) are installed in a separate cabinet in the space for the con-
+verters. Ihe storage cell units (BYaP) are made in the form of separate units
+(fig. 3) and placed in the distribution racks of the USO UVK. Shielded cables
+connect the BYaP cells and the null-balance unit. A specific version is chosen in
+developing the automated process control system hardware structure. Also solved
+simply in this system are the problems of monitoring the working order of the APEP
+converter and metrological monitoring of the information channels.
+
+OKA-Ol System Specifications
+
+Number of pollsble transmitters 20 or more (added in
+groups of 20 each)
+
+FOR OFHCIAL USE ONLY
+itrom range or variation of input signals) as a
+percentage, no more than 1.5 in the range of signals
+of 20-100 kPa; 1 in
+
+the range of signals
+of 52-100 kPa
+
+Polling time (for 100 transmitters) no more than 0.1 second
+Level of output signals 0-5 V
+Time of retention in storage of output signals no less than 10 minutes
+
+Distance between null-balance devices and
+storage cells up to 50 m
+
+Tests of the OKA-Ol system units within automated protess control system hardware
+have shown that this system may find extensive application in developing automated
+process control systems for the chemical and related industries, the information
+systems of which contain a large number of pneumatic transmitters.
+
+BIBLIOGRAPHY
+
+1. Kuz'min, S. G. and Kozlov, I. A., "Primeneniye EVH v sistemakh upravleniya
+tekhnologicheskimi protsessami neftepererabotki i neftekhimii" [Application of
+Computers in Systems for Controlling industrial Processes of Oil Refining and
+Petrochemistry], Moscow, TsNIITEneftekhim, 1975.
+
+2. Yashin, V. A.; Makarevich, 0. Ya.; Crenaderov, Yu. H.; Obnovlenskiy, P. A. and
+
+Smetanin, Yu. V., "Engineering huplementation of ‘ amated Process Control
+System for Perhydrol Production," AVTOHATIZAISIY. “HIHICHESKIKH PROIZVODSTV,
+issue 2, 1979.
+
+3. Yakobson, B. H. and Rozinkin, A. Ye., "Avtomatizirovannyye sistemy upravleniya
+proizvodstvom“ [Automated Production Control Systems], Moscow, Sov. radio. 1971.
+
+a. Yakobson, B. H., "Devices for Communication with Object of Control Computers,"
+IZMERENIYA, KONTROL', AVTOHATIZATSIYA, issue 1, 1976.
+
+S. "ASTRA-01 Subsystem for input of Pneumatic Signals: Thehnical Description and
+instructions for Operation 2.508.00310," Voronezh, OKBA, 1979.
+
+6. Yashin, V. A. and Crenaderov, Yu. H., "System for inputting Information from
+Pneumatic Transmitters into a Control Computer System," AVTOHATIZAISIYA
+KHIHLCHESKIKH PROIZVODSTV, issue 1, 1979.
+
+7. Alabushcv, Yu. A., "Analog Storage Unit," PRIBORY I TEKHNIKA EKSPERIHENTA,
+No 1, 1978.
+
+COPYRIGHT: Izdatel'stvo "Mashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+
+8545
+(:50: 1.,63/32
+
+FOR OFFICIAL USE ONLY
+I'vn Vasesenu v“... vs‘ﬂo.
+
+uoc 531.787.611.91:531.181.2
+use or SlLlCON-ON-SAPPHIRE sraucrunas m mu TEMPERATURE reassuas mnucsns
+Phscov ransom I srsrm urnvnsutn in Russian No 9, Sep 81 pp 20-21
+
+[Article by G. I. Lur‘ye. engineer, V. H. Stuchebnikov, candidate of physical and
+mathematical sciences, and v, V. Khesikov. candidate of technical sciences]
+
+[Excerpt] The growing use in industry and power engineering of the technique of
+low and extremely low temperatures poses the problem to instrument makers of
+developing precision transducers to measure and monitor the parameters of cryogenic
+env‘ronments. in particular of pressure. Domestic industry does not produce
+pressure transducers that operate at low temperatures. The pressure of cryogenic
+environments is usaliy measured by transducers located at room temperature and
+connected to the object by pulse tubes. This method, however, does not provide
+adequate precision and does not permit neasuring pressure in the rotating parts of
+cryogenic amchines, for example in superconducting generators and engines. The
+requirement of insensitivity to a magnetic field is usually imposed on highly pre-
+cise pressure transducers operating in cryogenic machines in addition to high
+sensitivity, linearity of conversion and low tenperature error.
+
+COPYRIGHT: Izdatel’stvo "Meshinostroyeniye". "Pribory i sietemy upravleniya", 1981
+
+85h5
+CSO: 1863/32
+
+FOR OFFICIAL USE ONLY
+NEH INSTRUMENTS AND EQUIPMENT FOR AUTOMATION
+UDC 651325.10
+
+SKS 1000-800-2 Blueprinting Machine
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 p 23
+
+[Text] Designed for reproduction of documentation made on a transparent and trans-
+lucent basis. by its contact light-sensitive reproduction on roll diazotype light-
+senstive materials and subsequent development of them by the dry method.
+
+Copy zone width is 1000 mm. Copy speed adjustment range is 30 to 800 mlh. Light
+source is an arc lamp with no more than 5 kW power. Diameter of glass cylinder is
+150 mm. Copies are developed in vapors of ammonia. Speed is continuously adjust-
+able. Roll sheet diazo material is used. Power is 220 V (50 Hz). Power consump-
+tion is 12.5 NA. Dimensions are 1800 x 1500 x 1800 an. "eight is 900 kg.
+
+The machine is produced by the bemontov "Orgtekhniks" Pilot Production Plant
+(Lermon tov ) .
+
+COPYRIGHT: Izdatel'stvo "Mashinostroyeniye". "Pribory i sistsmy uprsvleniya", 1981
+
+UDC 621 .3 75
+
+KMPZOIUPI Automatic Circuit Breaker Anplifier
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 p 23
+
+[Text] Designed in a set with a polarized realy without self-reset for protection
+of combined electro-measuring instruments from electrical overloads. Minimum trip-
+ping voltage at minimum power supply is no more than 0.6 V. Leakage current at
+input is no more than 0.02 microamps. Bandpass is no less than 0-20,000 Hz.
+
+Output current is no less than 20 mA. Consunption current is 100 microamps.
+Maximum permitted input voltage is 1000 V. Operating conditions: operating tem-
+perature range is from -10 to +50°C. Relative air humidity to 98 percent at 25‘C.
+Atmospheric pressure 86-106 kPa.
+
+Produced by the "Mikroprovod" NPO [Scientific Production Association] (Kishinev).
+
+COPYRIGHT: izdatel'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya",
+1981
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.317.7.085.36
+ShchBOIo Digital Vol tmeter
+
+Moscow PRIBORY I SISTEM‘! UPRAVLENIYA in Russian No 9, Sep 81 p 23
+
+[Text] Developed to measure constant voltage from 10-7 to 500 V under shop and
+laboratory conditions and to operate in measuring systems. There are two modifica-
+tions (the single-range ShchJOh-l and the multirange Shch306-2) and an extended
+range of measurement equal to 1.2 of the final value of each subrange: 1, 10,
+
+100 mV; 1, 10, 100 V. During an overload, "12000" is displayed. Resolution at
+the limit of 1 mV is 0.1 nicrovolt. Subranges are set by a manual switch. Polar-
+ity of voltage being measured is determined automatically. Rate is 25 conversions
+per second. The instrument has automatic and external starting. Information on
+the value of the voltage being measured is output in binary-coded decimal; that on
+polarity is in single position code. There is a visual readout device. Readiness
+time is 1 hour. Power is 220 V, 50 Hz. Power consumed from main supply is no
+more than 15 VA. Dimensions: single-range, 61 x 219 x 310; multirange, 70 x 219
+x JlS mm. Height not over 3 kg.
+
+Developed by the "Krasnodarskiy ZIP" P0 [Production Association].
+
+COPYRIGHT: lzdatel'stvo "Mashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+UDC 681.613.9
+
+Shch68400 Printer
+
+Mascow PRlBORY I SISTEMY UPRAVLENIYA in Russian No 9, Sep 81 p 23
+
+[Description by V. 1. Shamenko, engineer]
+
+[Text] This device is intended for recording on paper tape information coming from
+
+digital metering instruments and other sources of information. It is applied with-
+
+in systems for automatic monitoring of parameters of resistors, stabilitrons, etc.
+
+during series manufacturing of them. It is also used in metrological systems for
+
+automatic recording of results of checking digital voltmeters.
+
+This printer is among the best produced domestically and meets the requirements
+imposed on products in the highest quality category.
+
+Specifications
+
+Printing rate 40 lines/second
+Number of positions 16
+Symbols printed (0, 1, 2, 3, b, 5, 6, 7, 8, 9,
+
+., -, ., > , < , blank) 16
+Pitch between positions 2.54 39.5 mm
+Pitch between lines 4.23'19.5 mm
+Pitch after printed characters 2 + 2.5 mm (in height)
+1.3 + 1.6 mm (in width)
+
+10
+
+FOR OFFICIAL USE ONLY
+Character variation in height in a line no more than +0.5 mm
+
+Dimensions 175 x 380 x b§0 mm
+Height 20 kg
+
+Power 220 “3(5):. (50 a; 111)
+Power consumption 190 VA
+
+The device has a plug-in interface unit and semiautomatic feed of paper tape;
+it provides display and recording of current time.
+
+It is manufactured by the Nevinnomysskiy Electrical Measuring Instrument Plant.
+COPYRIGHT: Iadatel'stvo "Hashinostroyeniye". "Pribory i sistsmy upravleniya", 1981
+BBC 681.327
+SH-5615 Floppy Disk System
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 p 24
+
+[Text] This unit is used as external storage for the SH-J and SH-4 control can-
+puters and in data preparation systems. It is designed for recording and storing
+information on a floppy disk that meets the recommendations of the international
+standard ISO/TC 97 A611 No 209. The capability of using disks with hard sectoring
+is provided. The main features of thsi unit are high operating reliability with
+adequate information capacity and data trasnfer rate; simplicity of servicing and
+exchange of data media (to the extent of mailing disks); and small dimensions,
+weight and power consumption. Recording method is two-frequency coding. Interface
+signals conform to NH SM EVH 010-77. The electronic portion of the unit is made
+with integrated circuits and discrete components. Circuits for controlling write—
+reproduction and interface are placed on one standard exchange card. The magentic
+head is general-purpose with tunnel erasing. The head is moved by a step motor
+by means of a lead screw.
+
+Specifications
+
+Capacity 3.2M bits
+
+Data transfer :ate 250K bits/second
+Number of disks 1
+
+Number of usable disk surfaces 1
+
+Operating time to malfunction 109 bits/malfunction
+Mean time between failures 2200 hours
+Dimensions. no more than 230 x 135 x 4&0 mm
+Height, not over 10 kg
+
+Developed by NIIP (Kiev)
+
+COPYRIGHT: Izdatel'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+
+11
+
+FOR‘0FFKJAI.USE(NVLY
+run UrrILIAL var. \II‘I.I
+
+UDC 681.327
+SH-5616 Floppy Disk System
+Moscow PRIBORY l SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 p 24
+
+[Text] This unit is designed to receive and execute commands coming from a proces-
+sor. exchange data with memory, check the validity of data sent and received, and
+generate information describing the unit status and conditions under which an
+operation was completed. Two SH-5616 NGMD [floppy disk storage units] can be con-
+nected to a channel for the system of small computers (SH EVM). Data is exchanged
+with sn-a and SM-3 control computer memory under software control. The "Common
+Bus“ standard interface is used to attach this unit to the SM-3 and SH-k control
+computer complexes. A microprogram controller controls the storage units and data
+exchange with control computer memory. Hicroprograms for diagnostics and media
+formatting have been implemented in the microprogram instruction storage to raise
+the efficiency of SH-S6l6 operation. The unit is manufactured as a standalone
+unit for the UTK SH EVH, second phase. The electronic portion of the unit is made
+with integrated circuits and discrete components.
+
+Specifications
+
+Data transfer rate 19 bytes/microsecond
+Capacity 0.5“ bytes (2 x 0.25)
+Number of tracks on a disk 77
+Nunber of sectors per track 26
+Sector capacity 128 bytes
+Average access time 508 ms
+Maximum recording density 128 bits/ﬂu
+Power re uired +101
+
+q 220 v4”. (50 Hz in)
+Power consumption 0.5 VA
+Dunensions, no more than 354.5 x 480 x 765 mm
+Height, no more than 65 kg
+
+Developed by NIIP (Kiev)
+COPYRIGHT: Izdatel'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniys". 1981
+UDC 687.327
+SH5603 Floppy Disk System
+Moscow PRIBORY I SISTEMY UPRAVLENIYA in Russian No 9, Sep 31 p 24
+
+[Text] Floppy disk units can be connected to the channel of the system of small
+computers (SM EVH). Data is exchanged with SH-b and SH-3 control computer memory
+under software control. The "Common Bus" standard interface is used to connect
+this unit to the SM-4 or SH-J. Hicroprogram controller permits efficient control
+of the storage units and the data exchange process with minimal hardware costs.
+hmplementation of the principle of distributed data processing yields an increase
+in the device offline functions and reduces computer time costs. This unit is
+
+12
+
+FOR OFFICIAL USE ONLY
+designed to receive and execute cot-sands from a processor. exchange data with
+memory, check the validity of data sent and received. and generate information
+that descibes unit status and the conditions under which an operation was com-
+pleted. .It is a standalone complex unit for the UTK of the SH mm. The electronic
+portion of the device is made with integrated circuits and discrete components.
+
+Spec if ications
+
+Data transfer rate 40K bytes/second
+Capacity 0.5!! bytes
+
+Numer of program accessible disks 2
+
+Nunber of tracks per disk 77
+
+Mber of sectors per track 26
+
+Sector capacity 128 bytes
+
+Maximum recording density 128 bits/m
+Average access time 300 ms
+
+Power requirement 220 V327]: (50 Hz 317')
+Power consumption. no more than 0.5 VA
+
+Dimensions, no more than 354 x 480 x 765 Ill
+Height. no more than 40 kg
+
+Developed by RH? (Kiev)
+COPYRIGHT: Izdatel'stvo "Hashinostroyeniye". "Pribory l sistamy upravleniya", 1981
+UDC 681.327
+Ski-5211 Magnetic Tape Cassette Unit
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 p 25
+
+[Text] This unit is used to record and store information on a magentic tape
+cassette. It can be used in the system of small computers (SH EVE). The para-
+meters of the cassette magnetic tape and the arrangement of information on it
+correspond fully to the recoamendations of the international standard 180 3407-76.
+Main features are automatic loading of tape, automatic erasure of defective sec-
+tions of tape, fast retrieval of files and check reading after recording. It is
+connected to a control computer complex through standard interfaces in the 2K
+
+OSh [comnon bus] class.
+
+Specifications
+
+Number of SH-5204.01 cassettes 2
+Recording density 32 bits/m
+Data transfer rate 1.25K bytes/second
+Cassette capacity, not over 650K bytes
+Soft error rate 1 x 108 bits
+Power requirement 220 V 32: (50 Hz 117.)
+Power consumption 100 VA
+13
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL U35 ONLY
+
+Dimensions: built-in version 177 x 482.6 x 687 mm
+instrument version 193 x 1550 x 785 mm
+Height, no more than 30 kg
+
+Developed by NIIP (Kiev)
+COPYRIGHT: lzdatel‘stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+
+use 681.327
+sun-5301 Tape um:
+
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 p 25
+
+[Text] Up to four different types of tape units that have the BVN-l (nonreturn to
+0 with inversion on 1) recording method can be connected to the channel for the
+System of Small Computers (SH EVH). Data is exchanged with control computer
+memory in the direct access mode; it is connected to the SH-h or SH-3 control com-
+puters by the "Common Bus" standard interface. Monitoring of the data being pro-
+cessed and functioning of the equipment is provided for in the unit. The SH-S301
+consists of the SH~5002 controller and magnetic tape storage units installed in a
+standard SH EVH rack. The basic version includes two 1201-5003 or 91-5300 tape
+storage units. The electronic portion of the unit is made with integrated
+circuits and discrete components.
+
+Specifications
+
+Data transfer rate 10K bytes/second
+
+Power requirement 220 vtig: (50 Hz :11)
+
+Power consumption, no more than 1.6VA for the basic
+version
+
+Dimensions, basic version, no more than 1800 x 600 x 850 mm
+
+Height, basic version, no more than 245 kg
+
+Developed by NIIP (Kiev)
+COPYRIGHT: lzdatel'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+UDC 681.327
+
+SM~6402 and SH-6402.01 Samiautomatic Plotting Boards for Graphic Information
+Reading and Conversion
+
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 p 25
+
+[Text] These plotting boards are designed to read coordinates of points on graphic
+images and convert them into digital codes for computer input. They are used
+within computer-aided design systems; they allow considerable reduction in labor-
+intensiveness and enhancement of the quality of design and development. Conversion
+is performed in the discrete and continuous modes. Alpha-numeric, special or con-
+trol characters are input by using the keyboard and character matrix, organized
+
+on the working field of the plotting board. Values of coordinates and number of
+
+1b
+
+FOR10FFNJA1.US£(N¢LY
+the point being read can be output to the digital display. Control structure is
+microprogram; primary processing of graphic information is performed. The units
+are arranged in a pedestal rack and plotting table with adjustable height and in-
+clination of the working surface. The electronic portion of the units is made
+with integrated circuits and discrete components.
+
+Specifications
+
+Plotting board working field
+Maximum resolution
+Coordinate conversion error
+Coordinate grid step
+
+Coordinate conversion rate: discrete mode
+continuous mode
+Extractor communication with board working field
+interface type: SM-6402
+SH-6402.01
+
+Power requirement
+
+Power consumption, no more than
+Dimensions: plotting board, no more than
+
+control rack, no more than
+Height, no more than
+
+Developed by NIIP (Kiev)
+
+850 x 600 mm
+0.1Iua
+19.51un
+variable, accepts values
+
+1, 1.25, 2.5, 5 mm
+4800 points/hour
+100 points/second
+inductive
+IRPR
+05h
+
++1'1
+
+220V_151
+é70 H
+1022 x 960 x 932 mm
+
+600 x 750 x 750 lllll
+180 kg
+
+(50 Hz :11)
+
+COPYRIGHT: Izdatel'stvo "Hashinostroyeniye". "Pribory i aistemy upravleniya", 1981
+
+UDC 681.327
+
+SH-6315 Alphanumeric Parallel Printer (ATsPU) and SH-6305 Printer (UV ATsPU)
+
+Moscow PRlBORY l SISTEMY UPRAVLENIYA in Russian No 9, Sep 81 p 26
+
+[Text] These units are designed to print out alphanumeric and special characters
+from computers and computer complexes. The 85-6315 ATsPU has the interface for
+"Radial Connection of Parallel Information Transfer Devices" (IRPR), and the
+
+SM-6305 UV ATsPU has the "Common bus" (08h) interface.
+
+The UV ATsPU can operate
+
+as part of an sn.4 or SM-3 control computer complex in the System of Small Compu-
+ters (SH EVM) under the control of any of the SH EVH operating systems.
+
+There are two versions of the printers: with a media format software control unit
+(SM-6315.02, SH-6305.02) and without it (SH-6315.01, SH-6305.01)
+
+Specifications
+
+Printing rate
+
+Character set
+
+Character nomenclature and coding conform to
+Maximum number of positions per line
+
+Buffer storage capacity in eight-bit words
+
+15
+
+FOR OFFICIAL USE ONLY
+
+500 lines/minute
+96
+
+COST 13052-74
+132
+
+132
+FOR OFFICIAL USE ONLV
+
+Buffer storage fill time 300 microseconds
+
+Pitch between print positions 2.510 In
+
+Line spacing (specified by operator) 3.17, 6.23 In
+
+Paper width 80, (020 an
+
+Number of printable copies, no more than 5
+
+SH-6315 power requirement ZZOVﬁgz: (50 Hz 117.)
+
+Power consumption, no more than 600 VA
+
+SH-6305 controller supply from control computer
+
+processor (stabilized voltage source), no more than S V
+
+Dimensions: spa-.6315 ATsPU, no more than 830 x 650 x 1140 III!
+
+controller (two standard exchange cards) TEZ UTK SH EVH
+
+Developed by NIIP (Kiev)
+COPYRIGHT: lzdatel'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+UDC 681.327
+54310 Display Console
+Moscow PRIBORY I SISTEHY UPRANLENIYA in Russian No 9, Sep 81 p 26
+
+[Text] This unit is designed for displaying on a CRT screen and editing graphic
+and alphanumeric intonation during user interaction with a computer online. It
+can be used with control ccmputer complexes in the System of Snell Computers
+
+(SM EVH) and other computers in computer-aided design systems (SAPR), for automa-
+tion of scientific experiments and research, and in automated control systems.
+
+It offers the user broad capabilities for information coding and display and for
+creating multiconsole workplaces based on it. The unit connects to a control com-
+puter complex by the standard "Cannon Bus" and IRPR interfaces. Data is exchanged
+with the control computer complex under software control. Data editing and display
+offline or in a computer system is provided for by the microprogram control unit
+in the display processor. The console consists of units for control, display with
+light pen and keyboard; it is arranged in a standard rack and table with display
+and keyboard. The electronic portion of the unit is made with inetgrated circuits
+and discrete components.
+
+Specifications
+Screen working field 360 x 3100 In
+Format of addressable raster (number of points) 2068 x 2948
+Brightness levels 3
+Time for output of ray to an arbitrary point on the
+
+screen 15 microseconds
+Average line drawing rate 5.6 Ills/microsecond
+Character set 96
+Character code ROI-8
+Character size 3.8 x 5 m
+Buffer storage capacity 8K 16-bit words
+Power requirement . 220113;): (50 Hz :17.)
+
+16
+
+FOR OFFICIAL USE ONLY
+Power consumption. no more than 2000 VA
+
+Dimensions: rack, no more than 600 x 1800 x 1000 .1
+table and display, no more than 838 x 1225 x 670 m
+Height, no more than 400 kg
+
+Developed by NllP (Kiev)
+COPYRIGHT: lsdatel'stvo 'Mashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+
+usc 681.323.066'
+Shch68201 Resistance Comparator
+
+Moscow PRIBORY I SISTEHY UPRAVLBNIYA in Russian No 9, Sep 81 p 26
+
+[Description by a. Yu. Sil'chev. engineer]
+
+[Text] This comparator is used to determine the relative difference between
+measured electrical resistance and established calibration resistance and to
+measure electrical resistance with output of results in digital form on a display
+
+and internal recorder .
+
+The comparator is an active bridge that converts the relative resistance deviation
+into voltage and a digital voltmeter that measures this voltage.
+
+Specifications
+When comparing resistances:
+
+Measurement limits 1 7., 10 7.
+
+Range of comparing resistances 10 - 107 Ohms
+
+Basic error 0.0005 1.
+
+Resolution 0.00001 7.
+
+Measuring time (minimum) 0.5 second
+
+When measuring resistances:
+
+Measurement limits 10, 100 Guns; 1, 10,
+100 kilohms, 1, 10
+megohms
+
+Basic error 0.005 7.
+
+Resolution 0.0001 7.
+
+Measuring time 2 seconds
+
+Power on measured (calibration) resistance 30, 100 mV
+
+Limit selection manual
+
+Instrument start manual, automatic.
+remote
+
+Power requirement 220V :22
+
+Supply frequency, no more than 50 H :1
+
+Power consumption, no more than 100 H
+
+Dimensions 130 x 1085 x 690 nan
+Height, no more than 20 kg
+
+Developed by SKTB [Special Process Design Office] for information representation
+facilities (Nevinomyssk).
+
+COPYRIGHT: Izdatel'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+17
+
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000500060021-7
+
+Top:
+Ctr:
+Ctr:
+
+[UR Ul'll‘lr‘b \l-DA. U-‘hl
+
+   
+
+ 
+
+ 
+
+   
+
+SKS 1000-800-2 Blueprinting Machine SM-5615 Floppy
+
+KMPZOLUPl Auto Circuit Breaker Imp 811-5616 Floppy
+
+Shch30¢ Digital Voltmeter
+
+Shch68600 Printer $6603 Floppy
+18
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000500060021-7
+Top: SH-Sle Magnetic Tape Cassette Unit SH-6315/SM-6305 Printers
+
+Ctr: Ski-5301 Tape Unit A510310 Display Console
+
+Bot: SH-6402/SH-61002.01 Plotting Boards Shch68201 Resistance Comparator
+COPYRIGHT: lzdstel'stvo "Hashlnostroyenlys". "Prlbory l sistemy upravlsnlya", 1981
+8565 19
+
+080: 1863/32
+POI! OFFICIAL USE ONLY
+I V“ \II I l\.lf\h \asJA. \ll“4l
+
+UDC 681.3.004.1:621.396.6
+PROBLEM-ORIENTED COMPLEX FOR MONITORING PARAMETERS OF ELECTRONIC UNITS
+
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 pp 31-32
+
+[Article by E. 5- Verdish. candidate of technical sciences, V. V. Zaytsev and
+M. B. Pisanov. engineers]
+
+[Text] The AKIS (automated monitoring and measuring system) has been developed at
+the P0 LEMZ [Leningrad Electromechanical Plant Production Association]
+(Leningrad). This problem-oriented complex is designed to automate the processes
+of monitoring electronic units in numerical programmed control devices (UChPU).
+The complex has been implemented on a base of the "Elektronika-NTs" microcomputer
+and made in the standard design of a numerical programmed control device (fig. 1).
+
+lhe complex with the basic composition of
+hardware and software permits by a pre-
+complled program sending to the monitored
+object stimulating (test) signals and
+
+feed voltages, measuring the values of
+parameters of signals output by the moni-
+tored unit, comparing actual and permitted
+parameter values, and sending to the
+operator and recording information on the
+check results.
+
+The structural realization of the complex
+is based on the modular-bus principle of
+design which affords regularity of links
+between the individual modules and also
+simple adaptation of complex characteris-
+tics to additional requirements that occur
+in expanding the nomenclature of units
+being checked.
+
+ 
+
+The system architecture is illustrated by
+the structural diagram (fig. 2). It is
+controlled by the built-in "Elektronika-
+NTs” microcomputer with an 8K 16-bit word
+main memory. Fig. 1. External view of complex
+
+20
+
+FOR OFFIGAL USE ONLY
+The microcomputer is linked to the system units by a unified-bus (UK). through
+which control information and data are sent. The unified bus is joined to the
+internal bus (VM) for the microcomputer by using a unified bus adapter (AUH).
+
+Connected to the unified bus by means of controllers are the stimulating signal
+generators (688), the measuring units (13), the perforated tape input unit (UFV)
+and the operator console (P0).
+
+1he electric typewriter (EPM) ("Consul-260") is connected to the microcomputer
+through the standard input/output controller.
+
+Since the system is oriented to executing a specific group of functions, a
+specialized operating system was developed for it that permits implementation of
+the following operating modes upon commands from the operator console (P0):
+input to the main memory of the microcomputer of the test program to check the
+object being monitored (0K);
+
+search for a specific test program on the perforated tape by its number;
+one-time execution of the sequence of checks provided by the monitor program;
+output of check results in the form of satisfactory or defective to the operator
+console and printer; and
+
+cyclic measurement of the value of the signal parameter for the selected channel
+with output of results of measuring to the operator console and printer.
+
+21
+
+FOR 0FFKJA1.USE10NLN
+FOR OFFICIAL use ONLY
+
+The check series is implemented by swicthing on the stimulating signal generators
+according to the program and starting up the measuring units for measurement.
+
+Switching the inputs/outputs of the unit being tested with the outputs and inputs
+of the generators and measuring units is effected by using the replaceable switch-
+ing unit (KB), which is also used to connect supply voltages to the unit tested
+and to set the equivalents of output loads.
+
+The basic system includes stimulating signal generators that generate signals with
+the following characteristics: a sinusoidal voltage of alternating current with a
+frequency of 100/" kHz, where 1\<N\< 1999, and an amplitude of 5 V; a voltage of
+alternating current of rectangular form with a frequency of SOOIaN kHz, where
+
+lg N\< 999 and a - 1, 10 or 100, with an on-off time ratio of 2 and an amplitude
+corresponding to the TTL levels; a parallel 16-bit code with TTL voltage levels;
+and single pulses of voltage of positive and negative polarities with a duration
+of l microsecond with TTL voltage levels.
+
+The measuring units included in the basic system allow measuring the following
+parameters of electrical signals: voltage of direct current of positive and nega-
+tive polarities within the range of 0 to 50 V with an error no worse than 0.5 per-
+cent, within the range of 0.1 to 5 V and with an error no worse than 1 percent in
+the range 5 to 50 V; pulse width within the range of 1 microsecond to 100 ms;
+effective value of alternating voltage of sinusoidal form with a frequency of
+
+45 Hz to 100 kHz in the range 0 to 50 V with an error no worse than 1 percent;
+amplitude of pulse voltage of positive and negative polarity with a frequency of
+«0 Hz to 100 kﬂz with a duration of no less than 3 microseconds in the range
+
+1 to 50 V; repetition period of pulse signals of any polarity in the range of
+
+l microsecond to 100 ms and a frequency in the range 1 kHz to 1 MHz; and the time
+interval (delay) between the leading edges of two pulses of any polarity coming in
+through different buses in the range of 1 microsecond to 100 ms.
+
+Provided for in the system is the capability of measuring signal parameters and
+
+comparing them to tolerances at internal points in the tested unit by using the
+
+single-contact adapter (A) in the one-time or cyclic mode, which allows locating
+defects in radio elements, microcircuits and printed connections.
+
+An important system feature is the capability of simply adding to its functions by
+connecting additional software controllable units or standard measuring instruments
+with digital output, and by including in the operating system program modules
+
+that. support mathematical processing of measurement results.
+
+Experimental industrial operation of this system indicates that its application to
+testing electronic units in numerical program control devices yields a four- to
+fivefold reduction in the labor input to checking operations and rasies the
+
+validity of checking.
+COPYRIGHT: izdazzl'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+
+8545
+C80: 1863/32
+
+22
+
+FOR OFFICIAL USE ONLY
+UDC 621 .382 .83
+METHOD FOR OBJECTIVE MASS CHECKING 0F THROUG“ HOLE PLAIING IN PRINTED CIRCUIT BOARDS
+Moscow PRIBORY l SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 pp 35-36
+
+[Article by 1‘. v. Oleynik, engineer]
+
+[Text] The need for research and development of a method of automated nondestruc-
+tive quality control for plated-through holes in printed circuit boards (PPM) [PCB]
+has arisen under the conditions of mass production to raise the process throughput
+while assuring the required precision of measurements, to eliminate subjective mis-
+takes and to raise the validity level.
+
+By PCB plated-through hole quality control, we mean the solution of three problems:
+detecting voids, pits and cracks in the metallization layer, determining the thick-
+ness of the hole plating and checking to ensure contact between the deposited layer
+in the hole and the copper foil on the PCB. It has been suggested that the first
+problem be solved by using the fluorescent method [1]. The difficulty lies in the
+proper selection of the reagent, the luminophor, the properties of which must be
+technologically comaptible with the process for obtaining the hole plating.
+
+There are several types of instruments based on different principles to measure
+
+the thickness of through hole plating. The most suitable in terms of ranges of
+measured values is the PKH-901 plating inspection instrument. However, it has
+shortcomings: the checking process is performed manually by using a detached gage,
+which causes extremely low instrument throughput; also, the possibility of de-
+stroying the integrity of the palting is not precluded in the process.
+
+Other devices designed to measure plating thickness, for example, the four-probe
+and ultrasonic, are also unacceptable due to the considerable difficulty in
+engineering implementation under the conditions of full automated checking.
+
+Therefore, a compromise has to be found that is free of the deficiencies in the
+existing methods and that meets the basic requirements imposed on an automated
+
+checking system.
+
+One solution to these problems is the use of the thermal method, as indicated by
+an analysis of checking methods in use [2]. Its essence lies in determining the
+qualitative and quantitative characetristics of the plating by the variation in
+the thermal pattern radiated by the PCB plated-through holes. Application of this
+method has been facilitated by the emergence of highly sensitive radiation detec-
+tors that allow finding slight differences in temperatures in the different sec-
+
+tions of the surface with adequate precision.
+23
+
+l1)R‘051ﬂC]Al.lﬂ5E omnuv
+nos OFFICIAL USE ONLY
+
+When [K [[8] methods are used, the
+
+temperature of the object (the plated- *
+through hole) must be different from
+that of the background against which it
+is observed. The required temperature
+gradient is created by external ecita-
+tion of the object, when the heat is
+transmitted to it by theme]. conduction
+or radiation. In this case, the object
+temperature begins to rise. and one can 0 n N 30 60 a ma
+judge the parameters of the sample under
+
+investigation by its value or time of
+
+reaching some threshold value.
+
+    
+
+Heat propagation time for different
+In connection with this, one has to plating layer thicknesses [HRH - micro-
+study the basic characteristics of meters]
+substances and the physical processes
+of heat exchange that flow in the
+plating layer to detect defects in it
+based on them.
+
+A PCB plated-through hole can be represented in the form of a homogeneous isotropic
+body with volume V, having an external surface with area S that is in a convective
+heat exchange with an unrestricted median, the temperature of which is t(’$). He
+have to find the distribution of temperatures u(x, y, sf!) within the plating
+body at any point with coordinates x, y, z at time ’2 .
+
+The differntial equation for the temperature distribution in the body when there
+are no energy sources in it is [3]
+
+val/v1 as aAu. (I)
+
+The heat exchange with the medium occurs according to Newton's law, i.e. boundary
+conditions of the third type are in effect [3].
+
+At the initial time ('1' = 0), all body points have the same temperature, which
+let us assume equals 0, i.e.
+
+"(1. y. z. "Ina-0'
+
+To solve equation (1) with the boundary and initial conditions, let us use the
+operational method based on the integral Laplace transform:
+
+F(‘)=5 ("1(1)“.
+0.
+
+wheref('t) is the assumed function, F(s) is the transform of the function f(¢').
+and s is the Laplace transform parameter.
+
+2!.
+
+FOR OFFICIAL USE ONLY
+Then with regard to the initial conditions, equation (1) will assume the form
+
+A U ‘1'- !I. 1. 3)-% U-(x. y. a. 0-0. (2)
+
+The solution to equation (2) under the boundary conditions can be notated as:
+
+le. y. z. s)-Y(x, y, z, 011:). (3)
+
+The expression Y(x, y, z, s) or simply Y(s), in addition to the coordinates x, y,
+z and parameter s, depends on the internal features of the body (its dimensions,
+shape, and thermophysical properties of the plating). This expression is called
+the transfer function for the body temperature with respect to the effect of
+
+the med ium temperature.
+
+By analogy with mechanical and electrical systems, the transformed medium tempera-
+ture T(s) can be called the input function, and the transformed body temperature
+U(x, y. z, s) the output function. Under this consideration, the body under
+investigation is a unique thermal system that transforms the input value, the
+medium temperature t('8), into the output value, the body temperature u(x, y, z, a).
+
+To simplify, let us replace the transfer function Y(s) by the approximate
+
+expression
+I
+
+ 
+
+1+ 2 0.!
+m) e —————U (2": " - ‘2' . . (4)
+' l+ 2 013‘
+
+l-I
+
+where bk and al are expansion factors.
+
+Let us restrict ourselves in expansion (4) to the terms It - 0, l - 0 and l - l,
+and then the transfer function will assume the form
+
+7(5) - I/(|+a.:). (6)
+
+Let us find the equation for the transient process, when the medium temperature
+NT) instantaneously changes from 0 to the value of t0 and remains constant.
+
+Since T(s) - tols, then in the first approximation, substituting in equation (3)
+the expression (5) and changing to the inverse transform ’03), we obtain
+
+ 
+
+" i" _ L _
+25
+
+FOR OFFICIAL USE ONLY
+I‘UI UI'I'ILII‘L UJL VI‘L.
+
+The factor a1 is determined in the process of expanding the precise value of the
+
+transfer function by the powers of the parameter s:
+
+“:1: I+osm
+‘ 20 BI '
+Where a - Nev is the temperature conductivity factor. Bi - do RI)- is the Biot
+
+criterion [4] (?L is the thermal conductivity factor, c is the specific heat, and
+(L,is the heat exchange factor), and R is the determining dimension.
+
+By expression (6), one can construct the time characteristics of the heat picture
+existing on the surface of the plating of varying thickness d. Based on calcula-
+tions, the relationship t' - }'(t) was plotted (see the drawing) with the follow-
+ing constant values: t0 - 50'C, Fl . 390 Hlm X degree,
+
+J
+kg - degree
+
+-6 m2
+
+'V - 8900 kg/m3, a. 1.58 - 10'... and a a 1.153 - 10 —.
+
+c . 380
+s
+
+ 
+
+Analyzing the curves obtained, one can conclude that the time for heating
+metallization of different thickness is not identical and varies from one to
+several tens of seconds. If the temperature to is fixed at a certain level, then
+
+according to the time for reaching it, one can judge the thickness of the metalli-
+zation when the heat is propagated along the plating layer. Thus, for to - SO‘C,
+when ’5 - 17 s, the layer thickness d - 20 micrometers. but when ‘8 - 37 s, d a
+
+10 micrometers.
+
+The results obtained warrant the use of the described principle based on the.
+thermal method for computing the plating thickness. The operation for checking
+the quality of metallization of the through holes should be included in the PCB
+production process and performed after the copper electroplating process.
+
+He suggest using as thermal radiation detectors the HF-6 integrated photo
+detector matrices or the HIE-15 semiconductor photoelectric matrix detectors of
+
+radiant energy.
+
+BIBLIOGRAPHY
+
+l. Cuthier, E. A., NEST. ELECT. BNG., Vol 16, No 1, 1972.
+
+2. Danilin, N. 5., "Nerazrushayushchiy kontrol' kachestva produktsii radio-
+elektroniki" [Nondestructive Quality Control of Radioelectronic Products],
+Moscow. Izd-vo standartov, 1976.
+
+3. Yaryshev, N. A., "Teoreticheskiye osnovy izmereniya nestatsionsrnykh
+temperatur" [Theoretical Principles of Measuring Nonstationary Temperatures],
+Leningrad. Energiya, 1967.
+
+a. Dul'nev, G. N. and Kondrat‘yev, G. H., 'Whiversal Relationship between Thermal
+Inertia of a Body and the Effect on Its External Environment," IZV. AN SSSR.
+OTN, No 3, 1955.
+
+COPYRIGHT: lzdatel'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+
+ssas
+C50: 1863/32
+26
+
+FOR 0FFK]AI.USEIONLN
+UDC 621.383.002.22
+HECHANIZATION 0F PRINTED CIRCUIT BOARD HOLE CLEANING OPERAIION
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 p 36
+[Article by L. N. Samokhin, engineer]
+
+[Text] A unit for washing printed circuit board [PCB] holes by spraying water under
+pressure has been developed at the Ryazan' PLanning and Technological Institute to
+optimize PCB production processes, eliminate manual labor and raise the quality of
+hole plating.
+
+The unit principle of operation consists in water being sprayed under a pressure of
+0.8 to 1 HPa that passes vertically through the PCB holes to wash out cuttings and
+dust formed after drilling and mechanical scrubbing operations.
+
+in the traditional washing method, many jets are installed over the entire width of
+the transport element so that the water sprays pass through each hole. However,
+this method requires high water consumption, and thus a high-throughput pump.
+
+In the unit being described, the pump station size has been considerably reduced
+and the pump is placed within the unit because of the use of two "traveling" jets.
+
+The unit meets the requirement for installability in the process line and has con-
+siderably improved washing quality and the capability of using return water.
+
+The unit (see the drawing) consists of the base (6), on which the transport element
+and washing unit (1) are assembled, and the pedestal (9) that houses the pump.
+
+Hash unit (1) is a bearing assembly, made in the form of a cylinder, rotating on a
+hollow axle, rigidly secured to a plate. The top cover is made as a pulley, and
+the bottom flange is used to install and fasten two arms. In the bottom flange,
+there is also a ring chamber where the water passing through the hollow axle goes.
+In turn, the chamber is connected to the jets (14) by ring couplings, brass tubes
+and a rod.
+
+The space between the jets and the board surface is adjustable.
+An electric motor (16) rotates the wash assembly. The assembly's rotation rate
+
+matches the conveyor rate so that when the board moves a distance equal to the step
+for drilling holes in a board, the jet will pass over this section at least once.
+
+27
+
+FOIIOFTTC1A1.USE‘0NLN
+FOR OFFICIAL USE ONLY
+
+The availability of two jets rotating on
+arms will allow, with relatively low pump
+
+throughput. affording a good washing of "
+all 0C8 holes over the entire width of
+
+the transport element (3). The latter is 5
+made of four roller units that in the u
+aggregate make up seven pairs of
+
+take-in/feed and four supporting .
+rollers. The tske-inlfeed rollers are ,5
+
+positioned so that no PCB section is not
+processed in the washing. The support
+rollers are used to prevent the board
+sagging under the water spray.
+
+The tske-inlfeed rollers are driven by
+the worm gearing of the transmission
+shaft (6) that extends through the whole
+unit.
+
+ 
+
+Diagram of unit for washing PCB holes:
+5. chain; 13. manometer; 15. frame;
+other keys are explained in the text
+
+The unit can operate only as part of a
+modular line, and with that, the
+torque is transmitted to shaft (6)
+from the drive module.
+
+The wash assembly and transport element are covered by a hood (2), that along with
+the base (6) and covers forms the operating chamber. Application of labyrinth
+seals prevents splash out of the operating liquid (water).
+
+The base bottom is funnel-shaped to collect and drain the used water into the pump
+
+0 I \
+stst Lo: Laue \13 I .
+
+The pump (8) supplies water to the washing assembly. From the tank, the water goes
+through the inlet pipe. the pump and the outlet pipe to the filter (7), and from
+there to the washing assembly.
+
+Filter (12) is used for pre-cleaning of the water coming into the tank from the
+main, and filter (7) is used for fine cleaning of the water before it is fed to
+the jets.
+
+The unit is controlled by a control unit detached to the line control console.
+
+Specifications
+
+Transport element width 650 me 2
+
+Throughput 3 - 30 n [hour
+
+Hash assembly rotation frequency 5 s'1
+
+Space between jets and board surface 50-100 mm
+
+Hater spray pressure during wash 0.8-1 HPa
+
+Hater consumption 0.0015 m3lhour
+
+Dimensions of boards being processed: maxhnus 500 x 500 x 2 a.
+minimum 150 x 90 x 0.5 mm
+
+28
+
+FIMR()FFICIAI.IXSEZ(HWLY
+Power consumption, no more than 2.9 kW
+Dimensions, no more than 862 x 1120 x 1&10 mm
+
+Height. no more than 650 kg
+COPYRIGHT: Izdatel'atvo "Hashinoatroyentye". "Pribory 1 alatany upravlentya", 1981
+
+8545
+C80: 1863/32
+
+FtIICHNHCJAI.lEIECNVLY
+FOR OFFICIAL USE ONLY
+
+[106 621.383.2.22
+HECHANIZATION OF PRINTED CIRCUIT BOARD SURFACE PREPARATION
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 pp 36-37
+[Article by V. I. Klyuyev. engineer]
+[Text] In connection with the need of developing and operating specialized lines
+that implement the final process cycle, new requirements have been imposed on
+equipment being developed that must be suitable for assembly in lines for various
+processes. This predetermined the development at the RPTI [Ryazan' Planning and
+Technological Institute] (Ryazan') of the unit for scrubbing blank printed circuit
+boards [PCB]. module 6 (model U942).
+
+In contrast to existing models, module 6
+
+has the following advantages: maximum 1, ' .’ " /‘
+size of boards to be processed has been \ ' ,
+extended to 500 an, the capability of n "
+
+  
+   
+
+installing the unit in a process line
+has been provided for, repairability has
+been improved, the "Akrol" brushes are
+quickly replaceable, the brushes can be
+dressed without disassembling them,
+return water is used, transport element
+width is 650 m. the number of brush os-
+cillations depends on the transport sle— ,
+ment speed governed by the module D drive
+
+and is 120 oscillations per minute when
+
+the transport element speed is 0.65 m/
+
+minute, and the cannon drive ensures
+synchronization of line operation.
+
+     
+  
+ 
+
+ll ”ﬁl-
+
+ 
+
+ 
+   
+
+Unit for scrubbing PCB blanks, module 0
+
+The module 6 device and the principle of (model U942):
+
+its operation are shown in the drawing. 10. housing; 3. header; other keys
+installed in the base (9) are the pump are explained in the text
+
+housing (8), brush drives and oscillator.
+
+The punp station, used to supply cooling liquid to the scrub brushes contains the
+pump (type PA), a sparger for agitating Vienna line, a check valve, branch pipes
+for various purposes and a replaceable filter (for coarse filtration).
+
+The brush (2) is a mandrel with a set of resilient scrubbing elements. One end of
+the brush has a conical mounting surface and two diuteral slots for mounting and
+
+30
+
+FOR OFFICIAL USE ONLY
+locking on a spindle, and the other has a spherical bearing to set the brush on an
+immobile removable pin.
+
+Installed in unit (A) are take-in/feed rolls to take in, hold and transport boards
+in the module, bearing supports for the brushes, bearing rollers and mechanisms for
+aligning and adjusting the clearance between the brush and bearing roller. The
+oscillating drive of the brushes is effected by reduction gear box (7). Bearing
+roller (11) is used to rigidly hold the boards on the scrubbing plane. The PCBs are
+put in and fed to the scrubbing zone (or received after scrubbing) by the trans-
+[nrter (6) with drive from the module.
+
+Dressing mechanism (13) is used for periodic scrubbing of the surface of the
+brushes without disassembly of them. It is a carriage mounted in two directions
+(parallel to the take-in/feed rollers, bearing roller and brush working surface).
+'nuc carriage is driven by turning a knob fixed on a lead screw. The carriage is
+equipped with a tool (hard alloy, diamond, corundum and others) on a mandrel, that
+can he discretely moved radially relative to the brush, by which the controlled
+‘removal of the necessary layer is achieved.
+
+Adiusiment mechanism (1) is used to set the clearance between the bearing roller and
+the brush working surface. Drive shaft (15) extends through the entire module and
+is driven by module D (U903).
+
+Operation of the actuating assemblies and mechanisms (brushes, pump, sparger,
+oscillator) is provided by the control unit, on the face panel of which the
+
+controls and an ammeter are mounted. The ammeter is used to monitor the clearance
+between the working surface and the bearing roller as a function of the scrub
+brushes drive motor load. The optimal clearance is determined experimentally for
+
+a batch of boards: at scrubbing time, the ammeter reading is recorded and board
+scrubbing quality si checked. Scrubbing is continued so long as the board surface
+quality meets the process requirements. Thus, the range of the load on the electric
+motor is established, within which the required scrubbing quality is provided.
+
+The unit operates as follows. A blank board is placed on the canvas of the trans-
+porter (6) and is moved into the scrubbing zone for the bottom surface by using
+take-in/feed rollers (12), and then into the scrubbing zone for the top surface.
+lhe rotating brush removes the oxide film from the board surface. At a brush rots-
+tion frequency of [000 rpm and board feed rate of 0.65 m/minute, from 0.007 to
+0.015 mm of the layer is removed as a function of the brush pressure force on the
+boards. Experience indicates that a clearance of 1.1 to 1.2 mm is needed to main-
+tain high quality of scrubbing of boards with a thickness of 1.5 mm
+
+Specifications
+
+1hrnughput 3-30 mzlhour
+Dimensions of processsble blank boards: maximum 500 x 500 x 2
+minimum 150 x 90 x 0.5
+Transport unit width 650 mm
+Diameter of scrub brushes 120~90 mm
+Brush oscillating movement 8-10 mm
+Liquid consumption, no more than 0.5 m3/hour
+31
+
+FOR OFFICIAL USE ONLY
+PU“ Ufl'ILIAL 03:. UNLI
+
+Clearance adjustment mechanism scale dlvlslon 0.0625 in
+
+Value of one "click" in the dressing mechanism 0.1 m/rev
+Dlmnslons (without transporter) 562 x 1370 x 1160
+kansporter length 6-425 an
+
+Weight, no more than 750 kg
+
+Pump tank capaclty about 40 1
+
+Power consumptlon 1.3 k"
+
+COPYRIGHT: Izdatel'atvo "Phshlnostroyenlye". "Prlbory l slstemy upravlanlya", 1981
+
+8565
+C80: 1863/32
+
+32
+
+FOR OFFICIAL USE ONLY
+SOPTHARE
+
+UDC 681.3.061
+
+INTERACTION AND PROBLEM MACROPROGRMHING IN Yes COMB DISK OPENING SYSTEM
+
+Moscow DIALOG I PROBLBWOYE MAKMPROGRMMIROVAIIYE V DISKOVOY OPERM‘SIONNOY
+
+3151's»: res am in Russian 1981 (signed to press 23 Apr 81) pp 2-h, 136-138,
+151-1 1
+
+[Annotatiom table or contents,foreword, conclusion,appendix A and bibliography
+from book "Interaction and Problem Macroprogramming in the Yes Computer Disk
+Operating System", by S. B. Vekshin, Izdatel'stvo "Nauka", 5000 copies ,161 pages]
+
+[Text] The book describes a disk operating system (D06) which assures the
+exchange of intonation with a prograner during compilation and issuance of
+tasks, one providing the possibility of operating a computer complex with a
+minimum set or input-output peripherals, a shortage of min memory in a multi-
+program regime and arbitrary variation of priority of the sections. The systan
+permits actively using libraries of initial and object modules to procure
+intonation by means of a constructed macrogenerator and performing service
+functions. It is intended for scientific and technical engineering workers.
+
+Tables: 12; illustrations: 16; bibliography: 35 it‘s.
+
+CONTMS
+
+Preface 3
+
+Cinpter 1. Introduction to the YeS Conputer M 5
+1.1. The Computer and the Operating System 5
+1.2. The Yes DOS Controlling Program 6
+?
+
+8
+
+1.3. DOS Logical Units
+1.h. The Yes DOS Library
+1. 5. Prerequisites for the Creation of the PALLADA Interactive System 9
+Chapter 2. Logical Structure of an Interactive System 12
+2.1. Survey of an Interactive System 12
+2.2. Interactive System File Organization 16
+2.3. The PALLADA Operating System 19
+2.1:. Processing Errors of Control Statements of an Interactive Systel 20
+2. 5. Information Transmission to the User by an Interactive System 21
+Chapter 3. Control Statements and Directions 23
+3.1. The Program and Task 23
+3.2. Syntax of Statements and Directors 21}
+3.3. Conventional Symbols 25
+3.u. Statement of Task Initialization 25
+3. 5. Statement of Sectional Purpose 2?
+33
+
+FOR OFFICIAL USE ONLY
+A vet vs a ovum» Vans. U1 tum
+
+Statement System Configuration
+Variation of Priority of Computer Sections
+Catalogization Statements
+
+Statements and Directors of Purpose and Descriptions of Logical Units
+
+of a Yes DCS System
+
+. System Switches
+
+Copying Operator
+
+System horogenerator and Secondary Operators of an Interactive System
+
+__Independent Secondary Operators
+
+Statement of Correction of the Parameter Values
+Marketing Statement
+
+Task File Correction
+
+Standard Statements of Padtet Processing Controls
+Program Execution Statement
+
+Task Completion Statement
+
+Interactive System Service Mctims
+
+General Principles of Task Foundation
+
+1;. Operation of the PALIADA Interactive System
+
+General Considerations
+
+Principles of Modular Programming
+
+Procedure for Initial Loading of a Dynamic System
+
+Formation of Simple Tasks in the Background Section
+Distinctive Features of the Preparation and Input of Tasks from
+Punched Tape
+
+PurpOse and Possibilities of the VMIMAN’IIE Programs
+
+Formation of Simple Tasks in Sections F]. and F2
+
+Very Simple Series Functions of an Interactive System
+Distinctive Features of Complex Tasks
+
+Catalogization of Program Units in a Library of Initial Modules
+Formation of Complex Tasks
+
+Simple Automatic Chains
+
+Hork With System Macrodefinitims
+
+Monitoring Correctness of the Values of System Parameters of
+Macrodefinitions
+
+Self-adjusting Automatic Chains--the Basis of a Macrolamguage
+Correction of Program Units in a Library of Initial Modules
+Catalogization of Movable Program Modules in a Library of Objective
+Modules
+
+Expanded Series Functions of an Interactive System
+
+Standard Series Functions for Libraries
+
+Exchange of Components Between Personal and System Libraries
+Renaming and Removal of Library Components
+
+Filling of Libraries
+
+The Bi-interactive Regime of Systems
+
+5. Generation of an Interactive System
+
+What is System Generation?
+
+Planning Standard Files of an Operating System
+Redistribution of a System Library
+
+Formation of a lurk Cylinder
+
+Formation of Personal Libraries
+
+Interactive System Supervisors
+
+31¢
+
+FOR OFFICIAL USE ONLY
+
+101
+102
+
+10”
+105
+105
+10?
+108
+110
+111
+5.7. Formation of Permanent Address Files 11h
+5.8. Generation of Interactive System Modules 118
+5.9. Correction of Table of Standard Purposes 122
+5.10. Steps in Genemtimg an Interactive System 126
+Chapter 6. Procedure of Programing and System Hacroinstructions 12?
+6.1. Introduction 127
+6.2. Macroinstructions ONSVC and OFSVC 12?
+6.3. Hark With Stacks 128
+6.1+. Conversion of Numbers 131
+6.5. Programming Methods 132
+Conclusion 136
+Appendix A. Yes Computer DOS Hardware 13?
+Appendix B. Yes Computer DOS Logical Units 139
+Appendix c. Statements and Directors of Yes DOS System Programs and
+the PALLADA Interactive System 1114
+Appendix D. Communication of the PALLADA Interactive System 1H6
+Appendix E. Communication of a System Hacrogenerator 1&8
+Appendix I“. Table of Standard Code KOI-? for Work with Punched Tape
+in the Yes Computer 150
+Appendix C. Table of Correspondence of Standard Yes Computer Code
+MOI and KPK-lZ lﬂ
+Appendix H. Parameters of Libraries and Table of Contents 152
+Appendix I. Components of Interactive Systems 152
+Appendix J. New Yes DOS System Macrostructures 155
+Brief Dictionary of Abbreviatims and Tens 156
+Bibliography 15?
+Preface
+
+At the present time the scientific and technological revolution is posing tasks in
+the solution of which a. need arises to exchange practically instantaneously infor-
+mation between man and machine.
+
+Therefore much attention is now given to the creation of multi-program interactive
+operating systems for the third-generation Yes computers now very widespread [31%,35].
+Such systems must simplify and eliminate the adjustment and modification of scien-
+
+ti fic experimental problem programs. and also programs for the automation of produc-
+tion processes. must allow the application of new progressive procedures during their
+creation and maximally consider distinctive features of the creative activity of a
+programmer-developer during communication with a machine. The present book is mainly
+devoted to description of the interactive system PAILADA. created and introduced by
+the author at the Institute of Higher Nervous Activity and Neurophysiology of the
+USSR Academy of Sciences, which facilitates the operation and considerably expands
+the possibilities of the disk operating system of the res computer system (DOS Yes),
+for the standard Yes DOS system, by virtue of certain of its limitations, proved to
+be very inconvenient for the organization of operative external control of the com-
+puter program in the course of the execution of programs and especially during the
+debugging of large and complex tasks. a. specific feature of which is assuring bilat—
+eral exchange of information with an experimental living object. its reception.
+
+35
+
+FOR OFFICIAL USE ONLY
+I'UK \DI’I‘ILIAI. U3: ONLY
+
+analysis on a real time scale and control of the object in accordance with the re-
+sults of analysis.
+
+Although the interactive system was intended originally to solve only such problems, in
+the process of multiple modiﬁcations it acquired a universal character and is com-
+
+pletely applicable at any computer center engaged in the development and modification
+of software.
+
+The main merit of the developed system is the possibility of using a computer with
+
+a minimum or limited set of peripherals and a shortage of the main memory in a regime
+of multi-programming with arbitrary switching of sectional priorities. The formation
+of a program task in a man-machine interactive regimes, simplicity of work with com-
+puter libraries on direct—access devices and the presence of a powerml system micro-
+generator permits users during the development of program complexes or systems widely
+used progressie principle of module programming. and also a problem-oriented micro-
+language.
+
+The material in the book is arranged so that it can serve simultaneously as educational
+and reference aids not only for use in the corresponding interactive system but also
+during operation of the Dw YeS in a scientific research computer center.
+
+A similar account of the original material together with a description of the necess-
+ary positions of the DOS Yes. the selection of nontrivial methods of programming and
+new system meroinstructions developed by the authors on a large number of examples
+permits hoping tint the book will be useful not only to qualified but also to begin-
+ing users.
+
+The author feels it his duty to express sincere gratitude and appreciation to N. I.
+Vekshina. Doctor of Biological Sciences 1. A. Shevelev. Candidate of Physical and
+Mathematical Sciences A. A. Frolov and Candidate of Technical Sciences A. Ya. Dudin.
+who read the manuscript and made valuable comments on improvement of the procedure
+in presenting material and also associates of the sections of computer software of
+the Scientific Research Institute of Electronic Computers, which rendered invaluable
+consultative help in developing the interactive system.
+
+The author will receive with thanks all the practical comments and suggestions which
+the readers of the book will consider it necessary to make.
+
+Conclusion
+
+The possibilities of the DOS operating system for YeS computers are still far from
+exhausted. A stimulus for their further improvement is simplicity of operation,
+availability. a relatively simple logical structure and economy in comparison with
+the OS YeS--a complete operating system. Thus the more economic the operating system,
+the more memory of the computer is devoted to problem programs and they can be more
+complex while preserVing speed of performance on account of exchange with external
+magnetic disk and tape stores. To learn to control a computer during the operation
+on it of the DOS YeS system modified by the author is much simpler than during the
+operation of the 03 Yes. but it is little inferior to the latter, thanks to the pre-
+sence of an internal system microgenerator (absent in the OS). which assures a certain
+automation of the programming of large and complex tasks through the use of specialized
+micro—languages. and also an interactive regime for the preparation and adjustment of
+such tasks. The latter makes it possible to use an interactive system as a system
+teaching starting programmers to communicate with a computer.
+
+36
+
+FOR OFFICIAL USE ONLY
+And finally, the main thing, which must not be forgotten, is tint the nontriviality
+of the structure of programs, of the results which can be obtained with their help,
+will depend completelv only on the people who create them. on their understanding of
+the machine's possibilities, ennthelcnrraetion of the for-ulation of the scientific
+or whatever other task. No matter how powerful it is or what all-enveloping possi-
+
+bilities an operating system has, it still is Just an aid in this great and detailed
+work.
+
+Appendix A Yes Computer DOS Hardware
+Item of Eguiplent Number
+
+Punched card input device 6012
+6016
+
+Punched card output device 701°
+7012
+
+Table-model typewriter 7070
+7073
+7073A
+707k
+7077
+
+Alphanumeric printer 7030
+7031
+7032
+7033
+7035
+
+Magnetic tape storage 5010
+5012
+5016
+5017
+5019
+
+Hagnetic disk storage 5052
+
+5055
+5056
+
+ 
+
+Punched tape input device 6022
+7002]!
+
+Punched tape output device 7022
+7922
+
+Data transmission mltiplexor 8&00
+81601
+81102
+
+8th
+Cathode-ray data display tube 7061
+
+7066
+BSAN
+
+37
+
+FOR OFFICIAL USE ONLY
+I‘UR UI‘I'ILIAL bal— UNL'
+
+ 
+
+Item of guinent Number
+Device not supportable by DOS system, connected to multiplex
+channel and working in multiplex regime UNSP
+Device not supportable by DOS system, connected in lultiplex
+channel and working in exclusive negine UNSPB
+Device not supportable by DtB system, connected in selective
+channel UNSP
+UNSPB
+
+Devices with the numbers UNSP and UNSPB can be any peripherals
+meeting the Yes computer standard, for example, graph plotters.
+graphic displays. an adapter for coupling with a control computer
+of type ASVI‘, etc.
+
+BIBLIQSRAPHY
+
+”Yes EVH. Operatsionnaya sistella DOS Yes. Obshchiye olozheniya“ [Yes Com-
+puter. 'IeS DOS Operating System. General Principles . 310.132.013.111.
+Minsk: Scientific Research Institute of Electronic Colputere [NIIEVM]. 1975.
+
+Shura-Bura, H. R., Kovalevich. E. V.. Hargolin. H. G. et a1. "Operateionnaya
+sistema DOS Yes. Obshchiye polozheniye" Hoscom Statistika. 1975.
+
+"Yes EVH. Operatsionnaya. sistema DOS Yes. Upravlyayuehctnya progranlas Ruko-
+vodstvo dlya programmista" [Control Program: Manual for Programer].
+310.132.01?.Dl. Minsk: NIIEVH, 1975.
+
+"Yes EVH. Opel-atsionnaya sistem DOS Yes. Redaktor: Rukovodetvo dlya pro-
+grammista" [Editori'T-Ianual for Prognnmer]. mo.132.o3a.n1. Minsk: NIIEV’H,
+1975.
+
+”Yes EVH. Operatsionnaya sistema D03 Yes. Bibliotekar'c Rukovodstvo dlya
+
+programmista" [Librarians Manual for Prograuner]. 310.132.035.131. Minsk;
+NIIEVH. 1975.
+
+Vekshin. S. B. and Gusainov, S. A. “Subprogram for data. input over direct con-
+trol channel of Yes-1020 digital computer. P0019Mr.” AIGORITHY I PRQZRAHHY.
+Informational Bulletin of VNTI’I‘sentr, 197?. No l, p 39.
+
+Vekshin, S. G. and Gusainov, S. A. ”Subprogral for data output over dorect con-
+trol channel of Yes-1020 digital commter, P001916.“ Ibid. p 1&0.
+
+Gusainov, S. A. and Vekshin, S. 13. “System for input of analog data. in Yes—1020
+digital computer.“ In book: Hetodika i apparatura dlya iseledovaniya psikho-
+fiziologicheskikh 'k‘m‘aktezistik cheloveka-operatora" [Procedure and A tue
+for Investigating Phychophysiological Characteristissaf the Han-Operator . Hos-
+cow. Nauka. 1977. pp 29-32.
+
+Gusainov, S. A. and Vekshin. S. B. "Simple digital-analog converter for physio-
+
+logical investigations." ZHURNAL VYSSHEY NERVNOY DEYATEL'NOSTI. 1976. Vol 26.
+No 6, pp 1319-1328.
+
+38
+
+FOR OFFICIAL USE ONLY
+10.
+
+11.
+
+12.
+
+13.
+
+1h.
+
+16.
+
+1?.
+
+18.
+
+19.
+
+20.
+
+21.
+
+23.
+2'4.
+
+Berton. Zh.. Rimu. H. and Rushiye, Zh. "Rabota END! 3 madeleniyal vremeni"
+[Computer work um. Time Sharing]. Moscow, Neuke. 1972.
+
+Brich. Z. S., Voyush. B. I. and Degtyareva. E. V. ”Programmirovaniye na azyke
+
+Assemblera YeS EV!“ [Programing of Yes Computers in Assembler language . Hos-
+com Statistika. 1975.
+
+Cermine. K. "Programmirovaniye na IBM/360“ [Programing on the 1131! 360]. Hos-
+cow, Hit. 1973.
+
+"Yes EVH. Operatsionnaya sistela. D06 Yes. Soobshcheniya sistemy: Rukovodstvo
+dlya operators 1 programmieta" [System Conmnicetions: Manual for Operator and
+Programmer]. 310.132.002.101. Minsk; mm, 1975.
+
+Vckshin. S. B. ”Biotechnical interactive operating system of communication of
+a living organism and a Yes computer.” In book: "Vtoraya nezdunarodnaya kon-
+ferentsiya stran-chlenov 38V po osnovnyn problem bioniki 'Bionika-78' (refer-
+aty dokladov)“ [Second International Conference of cm. Hember~Countries on Main
+Problems of Bionics 'Bionika-78' (Abstracts of Resportsn. Moscow: Leningrad,
+VINI‘I‘I, 1978. Vol 2. pp 39-40.
+
+Borodin, L. 1., Zheniyak. 0. N., Kas'ko, N. N. et a1. ”Algams DCB Yes EVH"
+[Algams DOS Yes mm]. Hoacom Statistika, 1977.
+
+”Vychislitel'naya sistem IBM/360. Printsipy raboty" [IBM 360 Computer System.
+Working Principles]. V. S. Shtarkman. editor. Hoacow: Sovetskoye radio. 1969.
+
+Bitel', Yu. Yu.. Voyush. V. I.. Gorbunova. R. V. et a1. "Operatsionnaya sis-
+tema DOS YeS. Spravochnik" [Reference work]. Moscow. Statistika, 1978.
+
+“'ch EVE. Operatsionnaya sistena DOS Yes. Hakrckomandy vvoda-vyvoda: Rukovod-
+stvo dlay programmista" [Input-output mcroinstructions: Hanual for Programmer].
+810.132.032.D1. Minsk: NIIEVH. 1975.
+
+"Ustroystvo podgotovki dannykh na perfolente UPDL Yes-9020. Tdchnicheslcoye
+onisan‘ivn" [Yes-9020 um Device for data preparation on punched tape.- Tech-
+.1-,-‘.1 Description“. 223.023.003.10. Minsk: NIIEVH, 1973.
+
+"Yes-6022. Instruktsiya operatoru” [Yes—6022. Operator Instructions].
+F43.01+1.011.D1. Minsk: MID/H.197}
+
+”Yes-6022. Tekhnichesko; :- opisaniye" [Technical Description]. E13.041.011.T0.
+Minsk: NIIEVH: 1973.
+
+Vekshin. S. B. and Gusainov, B. A. ”Subprogram for input of whole and real
+numbers from punched tape for the Yes-1020 digital computer. P0019116."
+AmORITHY I PRCERAMHY. 1977. No 1, p #0.
+
+Pcrein, Yu. A. "Osnovy F'ORTRANA" [Principles of FORTRAN]. Moscow. Mir. 1972.
+
+Grand, F. "Progmmirovaniye na. yazyke FORTRAN-IV" [Programing in the Lan-
+guage roman-Iv]. Moscow, Hir. 1976
+
+39
+
+FOR OFFICIAL USE ONLY
+25.
+
+26 .
+
+28.
+
+32.
+
+33-
+
+3h.
+
+35-
+
+FOR OFFICIAL LSI'. ONLY
+
+"FORTRAN. Programrovamoye uchchnoye posobiye" (mam. Programmed Schol-
+astic Aid]. Ye. L. Yushchenko. editor. Kiev: Vyshche stitch. 1976.
+
+"res EVH. Operstsionnaya sistens 1X8 Yes. Biblioteim': Rukovodstvo dlya
+programista.” 810.132.835.D1. Hindu NIIBVI, 1972.
+
+”Yes EVIL Operatsionnaya sister-a. DOS Yes. Generstsi sisteny: Rukovodstvo
+
+dlya. potrebleniya. [System Generatim: Mammal for Use . 510.132.025.111. Minsk,
+"HM, 1975.
+
+"res-2020. Vychislitel'noye ust stvo. Tekhnicheskoye opisaniye" [Conputer
+Equipment. Technical Description . E13.055.001.T01. Hindc. NIIEVH. 1973.
+
+. Livanov, H. 1., Zhadi'n, H. N., Kreytser, G. P and Trash. V. D. "Use of digital
+
+equipment to set up a. controllable electropm'siological experiment.” BIOFIZDCA.
+1966. Issue 11, No 2, pp 306-313.
+
+Livanov, H. 1., Zhsdin, H. N., Kravchenko, V. A., Kreytser, G. P. andTmsh, V.
+D. "Controllable electrophwsiologicsl experiment.” In book: "Problem neyro-
+
+kibernetiki" [Problems of Neurocybernetics]. Rostov-na-Donu: R60, 1966. Vol 2.
+pp 105-110.
+
+Hatyushenkova, L. 1.. Litvinenko. S. V., Senkevich. V. I. et al. ”Yes couputer
+software." Minsk, IH BSSR Acadelw of Sciences, 1977. No 13.
+
+Yershov. A. P. "Human and esthetic factors in programing." KIBERNETIKA. 1972.
+N0 5. PP 95-99-
+
+Novosel'tsev. S. K., Orlov, I. G. and Chesalin, L. S. ”Assuring self-transport-
+ability of programs in the Yes DOS operating system" In bodn "releprotses-
+somaya. obrabotka. dannykh v ASU predpriyeatiy g. Hoskva" [Teleprocessor Data
+
+Processing in an Automted System of Management of Enterprises of Moscow].
+Moscow, 1978.
+
+Ivanov, K. P. and Kleshchev A. S. "Biologicheskiy vychislitel'nyy tsentr"
+[Biological Computer Center . Leningrad: am. 1975.
+
+Trush, V. L.,e.nd Korinevskiy. A. V. ”EV'H v neyrofiziologicheskikh issledovani-
+yakh" [Conputers in Neurophysiological Research]. Moscow: Hanks, 1978.
+
+COPYRIGRI‘: Izdatel'stvo "Na. ", 1981
+
+2171.
+C30:
+
+1863/10?
+
+100
+
+FOR OFFICIAL USE ONLY
+APPLICATIONS
+
+UDC 62-52.001.2:68l.3
+INTERACTIVE SUBSYSTEH FOR COMPUTER-AIDED PROCESS DESIGN
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 pp 10-12
+
+[Article by engineers I. A. Gladkov, L. G. Nsydich, A. H. Varshavskaya, V. N.
+Kudryashov, L. A. Zhdsnovich and H. B. Bokhan]
+
+[Excerpts] An Interactive subsystem for computer-aided process design (ART) that
+enables a process engineer to interact online with an "-6000 computer using a
+DH-ZOOO display has been developed at the "Terminal" Plant (Vinnitsa).
+
+ﬁlls subsystem includes: DM-ZDOO display modules installed in the places where the
+process engineers work, "Consul-260“ keyboard printers (UPK), the “-6000 computer
+operating in the mode of interruptions and enabling simultaneous operation of this
+and other subsystems, a YeS-SOIZ-Ol magnetic tape storage unit, and a set of soft-
+ware and instructions.
+
+The subsystem (fig. 1 [not reproduced]) operates as follows. At his workplace,
+the process engineer calls the computer through the DH-ZOOO keyboard. After get-
+ting a response, he keys in the codes for the operations and steps needed for the
+process in a sequence determined by the process path. The code set is sent in the
+format shown in the diagram to the computer processor through communication chan-
+nels. The processor reads the table of codes of production operations and steps
+from the file of classifiers stored in advance on magnetic tape, and checks the
+set of each code and the presence of it in the classifier. If everything is cor-
+rect, the display screen shows the text of the production operations and steps in
+the required sequence according to the form of the process chart, and the columns
+for needed equipment and tools are filled out. While looking over the process text
+on the display screen, the process engineer makes additions and refinements in the
+areas indicated by the cursor, and if necessary, adjusts or repeats the code set.
+[I the process is refined and supplemented, the process engineer keys in the com-
+mand to print out the process. The print out is made on a prooess chart form.
+
+The subsystem operates jointly with other subsystems upon an interruption and is
+therefore ready for operation at any time..
+
+lhe flowchart described above for the subsystem operation algorithm is implemented
+by the "ART" and "KLASS" programs that were developed in the “NEHOKOD language for
+the M-6000 control computer system. The program and files take up 10K of storage,
+but can be reduced to 8K with slight adjustment.
+
+COPYRIGHT: Izdatel'stvo "Hashinostroyeniye". 'Tribory i sistemy upravleniya", 1981
+
+8565
+C80: 1863/32 hl
+
+IN)R (“HHCJAI.IJSIZ(NULY
+I'UN UI'I'ILIAL U): UI‘ILY
+
+UDC 543.08:621.38k
+MI-lZOlB MASS SPECTROMETER
+
+Moscow PRIBORY l SISTEMY UPRAVLENIYA in Russian No 9, Scp 81 p 31
+
+[Description by N. A. Koval', engineer]
+
+[Text] The 111-12018 mass spectrometer (top photo) is designed for discrete
+analysis of the isotope composition of gases and solid substances. The large
+range of measurements by mass numbers and the high resolution allou isotope
+analysis by the single-beam method for the majority of elements in the periodic
+system, and by the two-beam method for those elements whose relative difference in
+isotopic masses is 0.36 to 2 percent. Information coming from a digital voltmeter
+
+is processed and the magnetic field is controlled by using the SH- 1 basic
+computer complex (bottom photo).
+
+ 
+
+142
+
+FOR OFFICIAL USE ONLY
+Specifications
+
+Kusnlution at level of 10%
+
+Mass range with accelerating voltage of 5000 V
+
+Argon sensitivity
+Argon sensitivity threshold
+
+Random component of relative error when
+
+measuring with confidence probability of
+
+951 of isotopic ratios:
+83 84
+
+Kr and Kr by single-beam method
+
+199 201 202
+
+Ma. 2°° as. He.
+
+Residual pressure in area of ion source
+
+Flow rate: of cooling water
+of liquid nitrogen
+
+Power requirement
+
+Power consumption, no more than
+Dimensions, in mm:
+analytic rack
+generation and display racks
+recording rack
+SH-l racks
+display and stand
+serial printer
+perforated tape output unit
+perforated tape input unit
+roughing pump
+weight oi set, no more than
+
+Hg by two-bean method
+
+1100
+2-720
+25 Coulombs/kg
+
+1 - 10'5 1 by volume
+
+30.152
+
+19.081
+2 » 10" p.
+0.1 l/s
+
+2 . 10'“ l/s
+380/220 v or 220/127 v
+(50 Hz)
+
+13 VA
+
+1520 x 1160 x 1360
+700 x 950 x 1690
+510 x 620 x 1690
+600 x 850 x 1690
+600 x 800 x 1250
+700 x 440 x 960
+600 x 650 x 1000
+600 x 650 x 945
+680 x 380 x 580
+2400 kg
+
+lhe Hi-lZOlB instrument is delivered upon orders by the "Soyuzglavpribor" VPO
+lAil-Union Production Association] (117218, Hoskva, V-218, ul. Krzhizhanovskogo,
+
+l6, korp. l).
+
+COPYRIGHT: izdatel'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+
+8563
+C50: 1863/32
+
+FOR OFFICIAL USE ONLY
+
+03
+FOR OFFICIAL USE ONLY
+
+000 68l.327:53‘.78
+
+PRIMARY CONVERSION OF SPEECH SIGNAL IN AUTOI‘IATIC SPEECH RBOOGNITIW DEVICES
+
+Leningrad IZVESTIYA LENINGRADSKDG) ORDBNA LBNINA BLEKWICHBSKOGO
+INSTITUTA IHENI V. I. UL'YANOVA (LN): AWTIZAISIYA PWEKTIROVANIYA
+SREDSTV WCHISLITEL'NOY 1mm in Russian No 258, 1979 (signed to press
+24 Jul 79) pp 57-61
+
+[Article by S. A. Hyglan]
+
+[Text] The stage of primary conversion of a couplets speech signal (quasianalog,
+pre-processor processing of the comlete speech signal or speech-recognition
+processing) is objectively necessary because it lakes it possible to underline
+the defined properties of the input corplete speech signal (088). greatly reduce
+the volume of the css, and thus insure subsequent processing. including identi-
+fication of secondary characteristics. in the digital block of the autonoaous
+speech signal recognition unit in real time.
+
+Quite a few methods of speech recognition processing have been developed today
+for recognizing isolated words of a fixed vocabulary [1, 2]. But analysis of
+these methods for completeness (necessity and adequacy) is difficult because
+the descriptions of the methods are not consolidated in a uniforn classifica-
+tion scheme.
+
+This article gives a generalized methodological scheme for expanding css into
+the minimum essential and complete series of informative priaary descriptions
+(conversions) of the speech signal. based on analysis of a mathematical model
+of the Harkovian random process. The css, as a function of sound pressure p(t).
+converted to electrical oscillations u(t ), in view of the conclusions of the
+acoustic and articulation theories of recognition [3] can be considered a
+Harkovian quasistationary quasiperiodic (semilogarithmic) broad-band random
+process modulated by amlitude and phase. Such a process. which is finite in
+the amplitude, frequency, and time domain, nay on the basis of [6] be repre-
+sented by the following mathematical model:
+
+ult)=U(t)'<oS<p(t), (1)
+
+where UithElVHvJ‘RBK is the envelope (intensity) of the random process.
+
+In this case (r) is linked with «(e) stationary random process (according to
+Gilbert); Qlt):m Qﬁﬂyutt» is the phase of the random process: and. d‘ldt
+is the instantaneous frequency. Considering the conclusion presented in [4, 7),
+let us formulate several remarks concerning model (1).
+
+1414
+
+MOFFIGALIBEONLY
+l. The possibility of representing the random process of speech formation in
+the form of model (1) does not impose any significant constraints on the enery
+spectrum of the process.
+
+2. The most informative frequency range for analysis of the speech signal is
+the range BE- 10%: - 10 m.
+
+3. Primary conversion of the CSS in the coordinates "energy-frequency-time"
+must be done using a definite type of frequency 51A,“). Ma) and time hu-D win-
+dows of the sliding weighted functions of ongoing speech recognition processing
+where A and sf are the form and width of the frequency window respectively; 5
+is the generalized parameter of the frequency window; ? is the length of the
+time window.
+
+Simultaneous separation of two comaents that are informative from the stand-
+point of the speech formation process the static component U(t) and the dy-
+naaic conponentmﬂt) in convolution (1) can be done by means of two parallel
+filters. each of which suppresses (limits to the Iaximum degree) the opposite
+component. Although not a completely connect description (conversion) of the
+CSS, its spectral-time representation is the rust informative form with re-
+spect to these two components [5]. In view of what has been stated above and
+on the basis of [7], the speech recognition procedure for primary conversion of
+a CSS has the following form:
+
+- . 'Uowuwaru; .
+am 0 W «(000,; (2,1)
+
+It“) - ‘26“th 3 if“. m); (2.2)
+
+' x-I
+pp - W a énglldé 41,} may/7,; (2.3)
+Lea) - talumfdﬁ; (2.4)
+
+C .
+sw‘, (140- I lurid-Alt 4,16%?“ ”2.5)
+
+where am is the maximily restricted in amplitude (clipped in positive half-plane
+plane of existence) input signal u(e) (stream of rectangular. constant-amplitude,
+random-length pubes, yam rmdm intervals) ”U, is the standard (unitary) CSS level
+when the signal u(t) exceeds the threshold level rMNn-V‘MVW" is the noise
+levelgaU is a certain added level to distinguishVa fromV"; Mt ) is a random
+stream of unitary 6~pulses obtained by differentiating 07(1.) with thinning of
+the even 5-pulses in time; K is the ordinal number of odd 6'-pulse. K - l. 3.
+5..., 6H; N is the total number of J-pulses in the interval ‘1‘ of existence of
+the CSS: t, is the moment of initiation of the speech signal. t.¢T; f“ is the
+random time interval of appearance of J-pulse K;NQ.( t) is an estimate of the
+averaged "instantaneous" density of zeroes (J-pulses) in the intervals of
+analysis 1, :Vq‘ft) is the intensity of the css in the intervals of analysis 1.1;
+59:,(‘;,t) is the amplitude of the l harmonic f; (It; is the central frequency of
+resonance filter i). of a component of the th-dinensional spectral vector ob-
+tained in intervals of analysis ‘1’, that is, the "instantaneous" spectrum.
+
+us
+
+FOR OFFICIAL USE ONLY
+ml OFHCIAL USE ONLY
+
+Thus. the speech recognition procedure presupposes independent and parallel de-
+termination of three types of estimates of the form (2.3). (2.6), (2.5) for the
+CSS. Therefore. we can speak of three types of initial conversion of the CSS
+making up the speech recognition procedure: type 1, defined by expressions
+(2.l)-(2.3); type 2, defined by expression (2.6); and, type 3, defined by ex-
+pression (2.5). in this case an estimate of type (2.3) (speech recognition type
+1) is fully informative in problems of identifying the moments of initiation
+
+and completion of an isolated pronounced word, identification of acoustic
+
+pauses within the vord, and identification of sound segments of the CSS (8).
+
+The estimate of type (2.4) (speech recognition type 2) gives a measure of both
+the static and dynamic components of the CSS and is fully informative in prob-
+lems of identifying vowels (voiced phonemes) and identifying the frequency of
+the basic tone (pitch-period) of the CSS [5]. The estimate of type (2.5)
+(speech recognition type 3) is the most informative of the types considered and
+permits identification of both tonal and noise segments of the css on the basis
+of representation of their fine structure [5. 6]. It should be noted that
+speetu recognition type 1 has a number of additional characteristics in compari-
+son with types 2 and 3, specifically:
+
+I. it achieves invariance of estimates Ag (t) in relation to the changing in-
+tensity of the speech signal.
+
+2. It achieves a certain level of noise suppression by maximum amplitude limi-
+tation of both the usable signal and noise.
+
+The quantity i}, 71' and 1, in expressions (2. 3), (2.6), and (2.5) respectively
+
+are determined by the upper syllabic frequency Fc 330 ha of the speech sounds
+(phonemes) and the length of the stationary and transitional segments, the pitch-
+period of the 088. In the most common cases of pro-processor processing 1, - 10 ms
+and 797; 20 ms.
+
+In conformity with (2.l)-(2.5), hard-are realization of the quasianalog block for
+speech recognition processing presupposes the organization of three independent,
+parallel channels to receive compact information on the CSS and feed it to the
+digital block of the autonomous speech signal recognition unit. that is. channel
+1. 2. and 3 that carry out speech recognition types 1, 2. and 3 respectively.
+
+In this case the output of channels 2 and 3 are joined through a commutator and
+PNK [expansion unknown}. Channels 1. 2, and 3 can be realized using a digital
+frequency meter [8], an analog integrator based on an R8 aversger [7]. and the
+comb of three-octave nlresidence analog filters [6] respectively. In this case,
+21 filters are needed to overlap the band D“ in other vords'l- 21. In design
+terms. this comb can be realized as the series-produced P3P-80 spectrum ana-
+lyzer and also active series 298 RC—filters using domestically produced micro-
+circuits.
+
+In conclusion we must observe that pro—processor processing of s css in the
+quasianalog block of an autonomous speech signal recognition unit based on the
+above-described speech recognition procedure is outstanding for its flexibility
+
+and universality. It can be realized generally using series-produced assemblies
+of both analog and digital computer equipment. In this case an estimate of type
+
+(2.5) using Parseval's theorem [6] takes on the meaning of various particular
+
+h6
+
+m OFFICIAL USE ONLY
+methods of primary description of the conplete speech signal, for example the
+format method [5].
+
+FOOTNOTES
+
+1. V. S. Golubtsov, "Methods of Speech Recognition and Synthesis with a
+Limited Vocabulary," in "Vychislitel'nyye Sisteny" [Computing Systems].
+Novosibirsk. "Nauka". 1976, Vyp 67, pp 106-135.
+
+2. "Rechevaya Svyaz' s Mashinani. (Tenaticheskiy Vypusk)" [Speech Communication
+with Machines (Topical Publication)], TIIER, 1976, V01 64, No b.
+
+3. L. L. Chistovich, "Fiziologiya Rechi. Vospriyatiye Rechi Cheloveka" [The
+Physiology of Speech. Perception of Human Speech], Leningrad. "Nsuka". 1976.
+
+b. B. R. Levin. "Teoreticheskiye Osnovy Statisticheskoy Radiotekhniki" [Theo-
+retica1 Foundations of Statistical Radio Engineering], Moscow, "Sovetskoye
+Radio", 1974. Vol 1.
+
+5. M. A. Sapozhkov, "Rechevoy Signal v Kibernetike i Svyazi" [The Speech Signal
+in Cybernetics and Conmunications], Moscow, "Svysz'izdst", 1963.
+
+6. Dzh. Flanagan, "Analiz, Sintex i Vospriyatiye Rechi“ [Anslysis, Synthesis,
+and Perception of Speech], Moscow, "Svyaz'", 1968.
+
+7. Dzh. Bendat, and L. Pirsol, "Iznereniye i Analiz Sluchaynykh Protsessov"
+[Measurement and Analysis of Random Processes], Moscow. "Mir", 1971.
+
+8. G. Tsenel', "Opoznaniye Rechevykh Signalov" [Recognition of Speech Signals],
+"Nauka". 1971.
+
+COPYRIGHT: RIO LETI, 1979
+
+11,176
+CSO: 1863/81
+
+h?
+
+FOR OFFICIAL USE ONLY
+'UK UPI'CLIAA. 05!. ”RBI
+
+AUTOMATION OF INDUSTRIAL ACCOUNTIK; AND ANALYSIS INFORMATION PROCESSIIC
+
+Pbscov AVI‘OHATIZATSIYA OBWI INFORMATSII P0 UCHEI'U I ANALIZU V PROHYSBLENMSTI
+in Russian 1981 (signed to press 110 Sep 81) pp 2, 223-226
+
+[Annotation and table of contents from boolt "Automation of Industrial Accounting
+and Analysis Information Processing" by Matoliy Nikolayevich Romanov, Izdatel'stvo
+"Pinansy i statistika", 7,000 copies, 22!. pages]
+
+[Text] Annotation
+
+For the first time, the problems of automating accounting and
+analysis at the levels of an industrial enterprise (production
+association) and sector are treated as a unit in this book.
+Features of organizing systematic processing of information
+with computers are covered for accounting areas, including
+automated generation of tabulations for enterprise accounting.
+The orinciples of computer processing of accounting reports
+are discussed at the sectorial level of idnustrial management.
+
+'lhis book is intended for specialists on systems for automated
+processing of economic intonation and for scientific workers.
+It can be used by VUZ instructors and students.
+
+Contents Page
+Foreword 3
+Part 1. Theoretical and Methodological Principles for Automating Processing of
+Information on Accounting and Economic Analysis at the Enterprise 6
+Chapter 1. Organizational Prerequisites for Improving Accounting and Economic
+Analysis in the Enterprise Management System 6
+1. Role and Importance of Accounting and Economic mlysis in the
+Enterprise Management System 6
+2. Organizational Approaches to Improving Accounting and Economic Analysis
+under the Conditions of Systematic Information Processing 10
+Chapter 2. General System Problems of Accounting Automation 16
+1. Modern Approaches to Accounting Automation 16
+2. Conceptual Pbdel for Automating Accounting Information Processing 20
+3. Organizational Principles for Design of Informational Support for the
+Accounting Subsystem 28
+1:8
+
+FOR OFFICIAL USE ONLY
+Chapter 3. Organization of System for Automating Special-Purpose
+Economic Analysis
+1. Features of Problems of Special-Purpose Economic Analysis and
+Designing a System to Automate It
+2. Informational Support for System for Automating Special-Purpose
+Economic Analysis
+
+Part 2. Automation of Processing of Information for Accounting and Economic
+Analysis at the Enterprise
+
+Chapter lo. Automation of Processing of Intonation for Accounting of Fixed
+Capital and Analysis of Its Utilization
+1. General Characteristics of the Complex of Problems in Fixed-Capital
+Accounting
+2. Information Model for Solving Problems with Computers
+3. Organization of Computer Processing of Fixed-Capital Accounting
+Information
+4, Principles of Automation of Solving Problems of Fixed-Capital
+Utilization Analysis
+Chapter 5. Automation of Processing of Information for Accounting of
+Physical Assets and Analysis of Their Utilization
+1. General Characteristics of the Complex of Problems in Physical Asset
+Accounting
+2. Informational Model for Solving Problems with Computers
+3. Organization of Computer Processing of Physical-Asset Accounting
+Information
+6. Principles of Automation of Solving Problems of Physical-Asset
+Utilization Analysis
+Chapter 6. Automation of Processing of Information for Accounting and Analysis
+of Labor and "ages
+I. General Characteristics of the Complex of Problems in Accounting for
+Labor and "ages
+2. Informational Model for Solving Problems with Computers
+3. Organization of Computer Processing of Labor and Wage Accounting
+Information
+a. Principles of Automation of Solving Problems of Labor and wage Analysis
+Chapter 7. Automation of Information Processing for Accounting of Production
+Costs and Product Cost Analysis
+1. General Characteristics of Complex of Problems of Accounting of
+Production Costs
+2. informational Model for Solving Problems with Computers
+3. Organization of Computer Processing of Information for Consolidated
+Accounting of Production Costs
+4. Principles of Automating Solving Problems of Product Cost Analysis
+Chapter 8. information Processing Automation for Accounting for Finished
+Products and Analysis of Production and Sales Plan Fulfillment
+l. General Characteristics of Complex of Problems of Finished Product
+Accounting
+2. Informational Model for Solving Problems with Computers
+3. Organization of Computer Processing of Finished Product Accounting
+Information
+‘0. Principles of Automation of Inalysis of Finished Product Production
+and Sales Plan Fulfillment
+
+1&9
+
+FOR OFFICIAL USE ONLY
+
+37
+37
+
+62
+
+50
+
+50
+
+50
+52
+
+S9
+
+70
+
+70
+72
+
+79
+83
+87
+
+87
+88
+
+100
+104
+
+114
+
+116
+117
+
+132
+1101
+
+167
+
+167
+169
+
+156
+
+161
+I'UK UH‘ILML use. mun
+
+Chapter 9. Information Processing Automation for Accounting of Financial
+and Settlement Operations end Analysis of Enterprise
+Financial Condition
+1. General Characteristics of Complex of Problems in Financial and
+Settlement Operation Accounting
+2. Informational Model for Solving Problems with Computers
+3. Organization of Computer Processing of Financial and Settlement
+Operation Accounting Information
+ls. Principles of Automation for Solving Problems of Analysis of
+Enterprise Financial Condition
+Chapter 10. Automation of Consolidated Accounting and Reporting and Analysis
+of Generalizing Indicators of Financial and Economic Activity
+of ﬁtterprises .
+1. General Characteristics of Problems of Consolidated Accounting and
+Reporting
+2. Organization of Computer Processing of Consolidated Accounting and
+Reporting Information
+
+3. Principles of Automation for Solving Problems of Generalizing
+Indicators of Enterprise Financial and Economic Activity
+
+Part 3. Information Processing Automation for Accounting Reports in the
+industrial Sector Management System
+
+Chapter 11. Organizational Prerequisites for Automating Consolidation and
+and Analysis of Accounting Reports in Sector Ministries
+1. Features of Design of the Subsystem for Accounting and Analysis in the
+Sector Automated Management System and Characteristics of Problems
+Solved in It
+2. Algorithic Features of Subsystem Problems
+Chapter 12. Organization of Systematic Processing of Accounting Reports and
+and Generation of Analytic Data
+1. Generalized Technology of Automating Consolidation and Analysis of
+Accounting Reports
+2. Approaches to Design of Accounting Report Processing Systems
+
+Bibliography
+COPYRIGHT: Izdatel'stvo "Finensy i statistika", 1981
+
+8565
+C50: 1863/109A
+
+50
+
+FOR OFFICIAL USE ONLY
+
+169
+
+169
+172
+
+180
+185
+
+192
+192
+193
+200
+
+203
+
+203
+
+203
+207
+
+211
+
+211
+216
+
+221
+UDC 658.012.011. 56 :658. 7
+
+TASKS 0F AUTOMATED INTERIM: AND TECHNICAL SUP?LY WWI; SYSTEM IN CIA
+TERRITORIAL ADMINISTRATION
+
+Moscow MATERIAL'NO—TECWIU‘ESKOYE SNABZHHIYE, SERIYA 1‘: PRIWIYE
+MATEMATICHEKIIUI METODOV, WCHISLITEL'NOY TECHNIKI I ORMIKI V
+MATERIAL'NO—TEKHNICEBSKOM SNABZMII in Russian lo 11, NOV 81
+(manuscript received 10 Jul 81) pp 1-5
+
+[Article by G. P. Yesaulova, deputy chief of the Management Department of the
+ASU for Material and Technical Supply or [533 Gossnab, B. S. Khazanovich,
+director or the Compth Center of the Oka Central Supply Administration, and
+S. S. K'hivrenko, department chief at the Oka Central Supply Administration:
+"Tasks or the First Section of the EU in the Oka Central Territorial
+Administration of $33 Gossnab"]
+
+[Excerpts] The nnsu [Scientific-Research Institute of Control Systems] and
+the 0ka Central Supply Administration developed, and in November 1980 commis-
+sioned, an automated control system for material and technical supply in the
+Olta River area. The development of the ASU in the 01:9. Central Territorial
+Administration was regarded as a model element in the ASU 0: [BER Gossnab,
+which is why most of the problems and subsystem; were oriented on model
+proJect solutions (TPR) and standard programs.
+
+The first section or the ASU includes the following functional subsystems:
+determination of demand for products, drawing up balance sheets and distribu-
+tion plans, establishment of economic ties, monitoring deliveries, control of
+reserves of material resources, planning and fiscal activity, bookkeeping and
+accounting, control of cargo handling processes. Each subsystem consists of
+problems sharing a common economic essence and utilizing the same data soft-
+ware. The basic elements of the system's hardware are two 38-1022 computers.
+
+For the convenience of users, a system or output of data about stock inven-
+tories on display terminals was developed. 0n the suggestion of users, during
+
+the solution of the task of recording and controlling aggregate stocks on the
+basis of statistical report forms 1-81! and 2-SN, work was done to rearrange
+the column widths in all ledgers. To assure control ove - violations of fiscal
+
+51
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE. ONLY
+
+discipline by construction organizations, provisions have been made to add a
+new column to outgoing ledgers: ”Supply of products to enterprises and organ-
+izations of other ministries (departments) on their orders". Reports on the
+movement of products in the most important products lists are forwarded to
+the lSSR Gossnab; therefore, to reduce the labor needed to prepare this
+information provisions have been made for its output on punched tape.
+
+Introduction of the A80 of the Oka Central Territorial Administration on the
+basis of the Unified Computer System began in conditions when the Computer
+Center was already using “Minsk-22" computers for solving a sufficiently wide
+range of problems for all the Central Administration's specialized administrae
+tions. This necessitated the solution of a number of problems involving the
+transition to new hardware incompatible with that formerly used. The transi-
+tion is proceeding normally thanks to detailed planning of efficient sequences
+of problem input, transfer of information files from computer to computer,
+
+and of the sequence of selecting the units to be transferred to the new
+unified products classifier. All computer centers going over to the use of
+the Unified Computer System will face similar problems in one form or another.
+
+Much attention was given to questions of the authenticity and completeness of
+the data processed by the unified Computer System, and control over data input
+and transmission from the users to the computer center and back has been
+considerably enhanced. An important prerequisite for this was the replacement
+of formal methods of control (of the correspondence of the computer medium to
+the document) with control of the correctness of reflection of the economic
+operation in the document itself by logically comparing individual elements of
+the information files (commodity code and listed price, planned and actual
+delivery, etc.).
+
+The estimated economic effect deriving from the introduction of problems of
+the first stage of the ASU of the Cka Central Territorial Administration is
+555,700 rubles.
+
+The main factors of economic effectiveness are: timely supply of consumers
+with material resources, drawing extranonmative territorial resources into
+the economic turnover, acceleration of turnover of working capital, reduction
+or the labor-intensivity of data processing, and streamlining the management
+of material and technical supply. Some of the tasks of the described system
+are currently being duplicated in a number of organizations of the USSR State
+Supply Committee.
+
+Address for information: Priokskglavsnah, 79 Prospekt Lenina, Tula.
+COPYRIGHT: Tsentral'nyy nauchno-issledovatel'shiy institut informatsii i
+tekhniko-ekonomicheskikh issledovaniy po material'no-tekhnicheskomu
+snabzheniyu Gossnaba SSSR, 1981.
+
+9681
+cso: 1863/98 52
+
+FOR OFFICIAL USE ONLY
+unc 658.815:[681.32.06:519.688]
+
+'CONTROL OF PRODUCI‘S SUPPLY' COMPLEX 0! PROBLERS II AWOMATBD CONTROL BISTEM
+FOR MATERIAL AID TECHNICAL SUPPLY OF WLDAVIAI SSR
+
+Moscow WMAL'NO-WICMOYE SlABmm, SBRIXA IO: PRIME
+MEMIQESKIKH FETODOV, WCHISLITEL'IOY mm I ORMIKI V
+HATERIAL'NO-TWIGIBKOM SNABMII in Russian "0 12, Dec 81
+(manuscript received 20 Aug 81) PP 1-2
+
+[Article by I. I. Ochichenko, deputy director of the Computer Center of
+Moldavian SSR Oossnab, and V. P. Polun, department chief at the Computer
+Center of Moldavian SSR Gossnab]
+
+[Text] The computer center of Moldavian SSR Gossnab has developed a complex
+or problems, "Control of Product Supply”, using the "Minsk-32" and 23-1022
+computers, which is being introduced in subordinate organisations of Gossnab.
+The problems include:
+
+drawing up plans of supply of products to warehouses of Moldavian SSR Gossnab
+and customers in the republic by the warehouse and transit form of delivery;
+
+control of deliveries of products frcn wholesale bases of mldavian SSR
+Gossnab;
+
+control of transit deliveries of products to customers in the republic (for
+organizations participating in customer-supplier accounts);
+
+control of the meeting of contract comitments for warehouse deliveries to
+customers in the republic;
+
+preparation of acceptance invoices for transmittal to warehouses in the system
+of Moldavian SSR Gossnab.
+
+According to the accepted classification of problems, the first and last prob-
+lens are not directly connected with delivery control and were included in the
+complex because they have no independent significance or are ineffective
+separately from it. The five basic output forms obtained in the problem
+
+53
+
+FOR OFFICIAL USE ONLY
+IUK UI'I‘ILIAL bar. 001.!
+
+complex correspond to forms developed by the computer center of the
+"Mosgormetallosnabsbyt" [Moscow City ktals Supply and Sales organization]
+and recommended for introduction at all computer centers in ISSR Gossnah
+system.
+
+The other four basic output forms and the principal part of the proJeet were
+developed independently. In particular, the forms include a "Ledger of Funds
+Realization" for groups of fund-holders (warehouse and transit deliveries) and
+a "ledger or Products Deliveries to the Republic" according to suppliers
+(warehouse and transit deliveries) classified in groups.
+
+The complex's software includes four load modules (programs) in the input
+language COBOL of the "Minsk-32" computer. The primary intonation is punched.
+in according to two basic patterns (data on delivery plans and information
+about suppliers' payment requirements). The classifiers provide for all
+attributes needed for the hmctioning of planning problems, bookkeeping and
+accounting, etc. , and are therefore cannon for the whole system. Incoming
+intonation is processed at the computer center and fed into the computer
+daily as it arrives.
+
+The project was tested in the Holdmetallosnabsbyt [mldavian Metals Supply and
+Sales] Administration and is currently being introduced in the Holdtara
+[container] and Moldpriborsnabsbyt [instrument supply and sales] administra-
+tions. In the latter, data processing is done on an 3-1022 computer and the
+software is packaged in the Unified System's operating system.
+
+Address for information: We Gossnaba lbldavskoy SSR [Computer Center of
+Moldavian ssa Gossna‘o], 19 Petrikansksya St., Kishinev 277031.
+
+COPYRIGHT: Tscntral'nyy nauchno-issledovatel'skiy institut informatsii i
+tckhniko-ekonomicheskikh issledovaniy po material'no-tekhnicheskomu
+snnbzheniyu Gossnaba SSSR, 1981.
+
+9681
+cso: 1863/98
+
+5%
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+unc [656.225:655.733]:[65.012.2:681.32]
+NONUNIFORKITY FACTOIE IN TRIRSPORI‘ATIOI PLANS
+
+Moscow WRIAL'NO-TWICIESKOYE SIABMIYE, SBRIYA 1!: PRIWIYE
+MATEMATICEBSKIKH monov, WGISLITBL'IOY mm I ORUI'WIKI V
+MATSRIAL'HO-TWICHESKOH SlABZHElII in Russian No 12, Dec 81
+(manuscript received 2'; Aug 81) p 9
+
+[Article by V. G. Karchik, docent at LIIZhT (Leningrad Institute 01’ Railroad
+Transportation Engineers) and B. P. lemtsov, LIIZhT senior research associate]
+
+[Text] The Leningrad Institute of Railroad Transportation Engineers has an
+assignment from the Soyuzglavnei‘t', [Petroleum] Administration of the USSR
+Gossnab to streamline the transportation of petroleum products. An analysis
+of monthly operational production plans revealed considerable variations in
+them. The greatest changes in the formation of assortment programs occur in
+planning the production or grade 5-72 motor gasoline. 28-1033 computers were
+used at the Computer Center of the Oktyabr'skaya Railroad to estimate 17
+optimal plans according to monthly plan indices: 12 monthly, four quarterly
+and one annual. A comparison of the actual and optimal operational plans for
+A-‘IZ gasoline revealed that the mean haulage distance [HID] varies consider-
+ably from month to month according to changes in production plans.
+
+Thus, in June the actual ﬂiD was 1.7 times higher than in Rovember and December.
+Changes in assortment programs lead to an even greater increase in the HID of
+gasoline. In this connection we think it necessary to have a numerical esti-
+mate of the effect of the nonuniformity of monthly transportation plans on the
+mm. For this we drew up optimal quarterly and annual transportation plans in
+which the nonuniformity of operational planning was eased by summing over the
+volumes of resources and consumption month by month.
+
+The easing of the monthly nonuniformity of plans of refining grade A-TZ gaso-
+line will lead to a reduction in the freight turnover of railroad transports-
+tion by h89,000,000 t/km, which in cash terms would mean a reduction in
+transportation costs of 1,500,000 rubles per year.
+
+Address for information and requests: Department of Transportation Economics,
+LIIZhT. 9 Fbskovskiy Prospekt, Leningrad 190031.
+
+COPYRIGHT: Tsentral'nyy nauchno—issledovatel'skiy institut informatsii i
+tekhniko-ekonomicheskikh issledovaniy po material'no-telihnicheskomu
+
+snabzheniyu Gossnaba SSSR, 1981.
+55
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL US}. ONLY
+
+one [68I.518.22:658.7](b37)
+ammo manner arms or SUPPLY AID sm‘s oawxzmon
+
+Moscow MATERIAL'NO-TMI-KOYE SNABZHENIYB, SERIYA '6: PWIYE
+WWI‘KIKH monov, WWISLITBL'IOY m I 03mm V
+MATERIAL'NO-TWI-KOH SlABZHEKII in Russian lo 11, NOV 81
+(manuscript received 30 Jul 81) pp 110-15
+
+[Review by L. I. Rubleva or an article from WEDREIIB IA PRBDPRIYATIYAKB '
+AWOHATIZIROVMW SISTBM UPRAVIEIIYA, No 7, 1981 (Express Intonation of
+TsNIITEI Goskomsel'khoztekhniki SSSR [Central Scientific-Research Institute
+or Technical and Economic Information of the [881? State Committee for Farm
+Machinery-v]
+
+[Text] The organization "VH1 Zbroyovka" (Czechoslovakia), which engages in
+supply and sales of farm machinery, has introduced a dialoguegtype automated
+information system (AIS).
+
+The inventory of the supply and sales organization includes 120,000 items
+(farm machines and spare parts for then). It has 800 suppliers and 10,000
+customers. The organization has 120 wholesale centers with a network of
+warehouses, which handle some 25,000 sale operations daily. Every year the
+organization concludes sane 1,500 contracts for the supply of products, with
+the number of items reaching 200,000.
+
+The AIS hardware includes an 101. 10/50 computer with an internal storage capac-
+ity or 256 kbytes and an external storage capacity or uXSO Hbytes. In the
+ﬁxture, as the AIS develops, a network of local terminals will be added for
+
+real-time processing of current information. Data recorded by the indexed-
+sequential method are stored on a magnetic disk. The body or data is currently
+200 Mbytes and will subsequently be increased to 1600-600 bytes.
+
+All the AIS software is recorded in the algorithmic language COBOL and has a
+module structure. The was system was adopted as the universal software for
+controlling the data base as being the most suitable one for the requirements
+of the AIS. In future the IDIB system will also most likely be used with
+machines or the Unified system of Electronic Computers.
+
+56
+
+FOR OFFICIAL USE ONLY
+The central data base of the AIS comprises the following indexed-sequential
+data sets: price-list of products, list of farm machines, directory of com-
+mercial outlets, directory of customers and suppliers, business contracts,
+items in business contracts divided by quarters, contacts between suppliers
+and customers, warehouse stocks and their movement.
+
+Successful introduction of the AIS was facilitated by the following distribu-
+tion of responsibilities during its development and introduction: designing
+the system as a whole, designing the data base, elaborating specifications,
+analysis and programming methods, coordination of designing work and norma-
+tive control, adjustment and tuning up the AIS to optimal operating conditions.
+
+The development of the AIS began in 1976 and it was ready for industrial
+operation in the 2nd quarter of 1980.
+
+COPYRIGHT: Tsentral'nyy nauchno-issledovatel'skiy institut informatsii i
+tekhniko-ekonomicheskikh issledovaniy po material'no-tekhnicheskomu
+snabzheniyu Gossnaba ssss, 1981.
+
+9681
+C80: 1863/98
+
+57
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+PBRSONALITIES
+
+FSHENICHNIKOV CONGRATULATED ON HIS 60TH BIRTHDAY
+Hoscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 p 15
+
+[Text] Aleksandr Hatveyevich
+Pshenichnikov, doctor of engineering
+science and director of the department of
+remote control at the State All-Union
+Central Scientific Research Institute of
+Integrated Automation (Moscow), has
+celebrated his 60th birthday.
+
+Aleksandr Hatveyevich has devoted 37
+years of his working life to remote con-
+trol. To a large extent, he is responsi-
+ble for the successful development of
+this area of technology and its becoming
+a major subsector of the instrument
+making industry.
+
+ 
+
+Based on comprehensive theoretical and
+experimental research, he developed the
+major principles for design of the
+
+optimal structures and selection of the
+basic parameters for remote control devices from a consideration of the features of
+
+the objects of their application, configuration of communication channels and
+statistical characteristics of information flows.
+
+The NART-67 (second generation), ASTT-l (third generation) and ASTT-Z (fourth
+generation) modular remote control systems were developed and placed in series pro-
+duction under his direction and with his creative participation.
+
+Aleksandr Matveyevich is in the prime of his creative life and with his group of
+associates is continuing to work on improving and expanding industrial output of
+modern remote control equipment.
+
+This journals editors and staff congratulate Aleksandr Hatveyevich Pshenichnikov on
+his birthday and wish him health, happiness and further creative success.
+
+COPYRIGHT: lzdatel'stvo "Hashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+
+8555
+C50: 1863/32
+58
+
+FOR OFFICIAL USE ONLY
+PRIZES AHARDED FOR SCIENTIFIC RESEARCH INSTRUMENTS AND SYSTEMS
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 pp aa-as
+
+[Article by T. N. Ryzhova, instructor, Central Board of the Scientific and
+Technical Society of the Instrument Making Industry. "Competition Results")
+
+[Excerpt] The Central Board of the Scientific and Technical Society of the
+instrument Making Industry imeni Academician S. I. Vavilov has approved the re-
+sults of the annual competition for the S. I. Vavilov prizes for development of
+instruments, units and systems for scientific research for 1980.
+
+Participating in the competition were author groups from a number of research and
+development organizations. industrial enterprises and VUZ's engaged in instrument
+development for scientific research.
+
+First prize was awarded to the author group (I. Ya. Shtral', S. Ye. Aronina, P. K.
+Cherednichenko and V. I. Timoshenko, Experimental Design Office for Automation,
+"Khimavtomatika" NPO [Chemical Automation Scientific Production Association],
+Moscow) for the "Basic Software and Hardware System for Automating Chemical
+Process Research Systems" (BPTK).
+
+Developed in this complex for the first tune is a series of standard units and
+modules designed to develop specific automated systems for all types of chemical
+process research: from kinetics on the molecular level to the efficiency of process
+solutions on fragments of the technological process. In the development of the
+complex. the ideology of the international modular CAHAC system was extended for
+the first time to an electropneumatic system. The complex supplements the state
+system of instruments and computer hardware in the area of parameters specifically
+for chemical process research, including mini and micro flow rates, and it permits
+analyzing local characteristics of corrosive and dispersive media and measuring
+nonstationsry phyisicochemical parameters. The complex permits solving the follow-
+ing problems by using computer hardware: creating flows of matter and energy in
+objects as well as controlled disturbances (software control), stabilizing and
+monitoring the operating mode, monitoring object response to disturbances, record-
+ing information. performing proximate analysis of experiment results, solving pri-
+mal and inverse problems of modeling the process being studied, planning and eval-
+uating experiments and performing discrimination of hypotheses advanced by the
+researcher in the form of models of the process being studied.
+
+59
+
+FORiDFFﬂﬂAl.USEZONlY
+f‘ln Us a omens. sue. unhl
+
+The modular design of the complex provides the capability of online acquisition and
+reconfiguration of a system for Performing research on a broad class of chemical
+processes, which is feasible because of the use in the Basic Software and hardware
+System for Automating Chemical Process Research Systems of common standardized
+hardware, interactive software systems at all levels, and computer hardware in a
+unified hierarchical system
+
+Second prizes were awarded to author groups at the Special Design Office for Gas
+Chromatography at the Moscow "Manometr" P0 [Production Association] (V. M.
+Poshemanskiy, V. N. Chernyakin, V. I. Romanov, A. E. Ventsel' and M. A. Kurtsman)
+for the work "'Khrustal' 5002' Chromatograph" and at the Moscow Institute of
+Electronic Control Machines (8. N. Khrushchev, S. S. Partsevskiy, V. N. Pokudov,
+
+V. P. Khomyak and A. A. Marchuk) for the work, "Development and Introduction into
+Series Production of the IVK-Z Measuring-Computing Complex." They were accomplished
+at a high scientific and technical level, are original and have made a substantial
+contribution to the development of science and technology.
+
+The "Khrustal' 5002“ chromatograph is a general-purpose fully automated instrument
+designed to perform selective highly sensitive analysis of five classes of organic
+compounds in a broad range of concentrations. The chromatograph has 40 models
+differing in the set of detectors, facilities for automation of analysis and those
+for automatic information processing. Gas chromatographic analysis can be performed
+with the "Khrustal' 5002" chromatograph at temperatures to 650°C, which also
+
+extends by far the capabilities of the instrument compared to similar domestic and
+foreign chromatographs. The instrument has extensive application in performing
+scientific research in the field of the environment in various sectors of the
+national economy.
+
+The iVK—Z measuring-computing complex is a problem-oriented complex of the SH EVM
+[System of Small Computers] and was developed to automate scientific experiments
+performed by general physical methods. Application of the complex in systems for
+automation of scientific experiments allows a considerable enhancement in quality
+and reduction in time for completing the experiment and affords the capability of
+qualitatively new types of experiments to study and research rather complex objects.
+The complex effects reception, recording. processing and output of experimental
+Information in real time. The modular design of the complex allows the user to
+modify the configuration of the complex applicable to the experiment. The basic
+software includes standard operating systems, programs for operating with CAMAC
+devices in a high-level language, and test and metrological software. The IVK-Z
+complex has been assimilated and is in series production by the Kiev
+"lbtholektropribor" P0 [Production Association].
+
+COPYRIGHT: lzdatel'stvo "Mashinostroyeniye". "Pribory i sistemy upravleniya", 1981
+
+8545
+cso: 1863/32
+
+60
+
+FOR OFFICIAL USE ONLY
+PUBLI CATIOIS
+
+UDC 681.32
+
+ABSTRACTS FROM JOURNAL OP LUINGRAD ELECTRICAL Immune INSTITUTE
+
+Leningrad IZVBSTIYA LENINGRADSKOGO ORDENA 1.1mm EWICHESKON
+
+INSTITUTA IHENI V. I. UL'YAMVA (INDIA): AV'N'HATIZATSIYA PROMIROVANIYA
+SREDSTV VYCHISLITEL'NOY TEKHNIKI in Russian No 258, 1979 (signed to press
+26 Jul 79) pp 2, 99-103
+
+[Annotation and abstracts from collection "News of the Order of Lenin Leningrad
+Electrical Engineering Institute imeni V. I. Ul'yanov (Lenin): Automation of
+
+the Design of Computer Resources", edited by Professor A. V. Plotnikov et al.,
+Redaktsionno izdetel'skiy otdel LETI, 300 copies, 103 pages]
+
+[Text] Annotation
+
+The articles published in this collection present the results of theoretical and
+experimental studies made by associates and graduate students in the department
+
+of computer technology of LBTI [Order of Lenin Leningrad Electrical Engineering
+Institute imeni V. I. Ul'yanov (Lenin)].
+
+The articles consider the questions of develop-eat and use of computer re-
+sources and the automation of design.
+
+Professor A. V. Plotnikov is responsible for publication of the collection of
+
+articles. The editorial board is composed of professors V. B. Smolov. A. V.
+Plotnikov, and V. V. Barashenkov.
+
+UDC 681.3.06
+
+THE POSSIBILITIBS 0? LOADING A LIST-PROCESSING SYSTEM IN TﬂB HBDIUH OF THE DOS
+AND 08
+
+[Abstract of article by Razunovskiy, G. V.]
+
+[Text] This article considers questions of linking a list-processing system
+with the Yes EVM [Unified System of Computers] 003 [Disk Operating System] and
+08 [Operating Systen]. Ways of including the list-processing system in pro-
+
+gramming languages are analyzed. The structural diagram of the list-processing
+system is given. The article has one illustration and one bibliographic entry.
+
+61
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 51:155.001:57:68l.3.06
+
+THE TREERETICAL SET APPROACH TO DEFINING PROCEDURES FOR IDENTIFYING THE CONTOUR
+AND SKELETON OF AN IMAGE
+
+[Abstract of article by Kokayev. 0. 6., and Toybina, H. 1.]
+
+[Text] The authors propose formal procedures for eliminating information re-
+dundancy in graphic iaages by identifying the contour and skeleton of the image.
+The information redundancy of the images is achieved by obtaining the property
+of nontransitoriness in the linkage relationship, assigned in a set of blackened
+
+points of a discrete grid. for pairs of points. The article has two bibliographic
+entries.
+
+UDC 68l.326.3
+
+THE TASK 0F DESIGNING SPECIALIZED HULTIHICROPROCESSOR SYSTEMS
+[Abstract of article by Belov, V. 6.]
+
+[Text] This article considers methods of distributing statements and memory of
+the computing process over microprocessors and memory elements of a multimicro-
+processor system for the purpose of minimizing equipment costs. The article has
+three bibliographic entries.
+
+UDC 681.326.3
+
+DESIGNING STORAGE CONTROL UNITS IN MODULES OF A REGULAR MULTIFUNCTIONAL COMPUTING
+SYSTEM
+
+[Abstract of article by Surovyagina. L. A. and Timofeyev, A. 0.]
+[Text] The authors point out the wisdom of realization by program means of the
+algorithm for the functioning of units that control external storage. The
+article considers microprogram realization of the necessary operations by an
+automatic device based on one type of MRVS [expansion unknown] modules. The
+article has three illustrations, one table. and two bibliographic entries.
+
+UDC 681.327
+SURVEY AND SOME MEANS OF TECHNICAL REALIZATION 0P HICRDPROGRAH COMPUTER SYSTEMS
+[Abstract of article by Bil'gayeva, N. Ts.]
+[Text] This article describes the characteristics of several generations of
+microprogram systems. It reviews methods of technical realization and the char-
+
+acteristics of certain existing microprogram systems. There are five tables and
+one bibliographic entry.
+
+62
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 681.325
+ONE APPROACH TO SELECTION OF HICRDPRDCBSSDRS
+
+[Abstract of article by Pedin, A. L.]
+
+[Text] This article presents a comparison of the known methods of describing
+microprocessors. It considers an approach which makes it easier to select a
+
+microprocessor in the early stage of designing microprocessor systems and per-
+mits automation of this stage of design.
+
+UDC 681.355.8
+
+ONE METHOD OP COMPUTING THE FUNCTIONS OF AN INDEPENDENT VARIABLE IN A SPECIAL-
+PURPOSE COMPUTER
+
+[Abstract of article by Reheutskaya, 3. Yu., and Svin'in. S. 3.]
+
+[Text] The authors review methods of approximating functions in a special-
+purpose computer by expansion to a Fourier—Hslsh series and expansion by inte-
+grals from Halsh functions. The article describes the structure of an extrapo-
+
+lating approximator. The advantages of such a device are noted. The article
+has one illustration and two bibliographic entries.
+
+UDC 512.8+681.32.068
+DETERMINING THE COMPATIBILITY OF SYSTEMS OP LINEAR INEQUALITIES
+
+[Abstract of article by Zuyev, I. 8.]
+
+[Text] The author investigates the question of finding effective algorithms for
+testing the compatibility of systems of linear inequalities. He ahous the
+possibility of using the simplex method of linear programming to solve this
+problem. The article proves a theorem that makes it possible to substantially
+broaden the class of problems of compatibility of systems of linear inequalities
+that are soluble by means of the simplex method of linear programming. The ar-
+ticle has three bibliographic entries.
+
+006 68l.325.34:519.65
+
+COMPARISON OF TWO METHODS OF CONSTRUCTING FUNCTIONAL CONVERTORS WITH SEVEPAL
+INPUTS
+
+[Abstract of article by Dokuchayev. A. A.. and Zentsov, V. A.]
+
+[Text] This article compares two methods of constructing functional convertors
+with several inputs. Calculations performed on a computer show that the method
+based on approximation of the initial functional dependence of elementary func-
+
+tions on the same number of independent variables should be used. There are
+three illustrations and two bibliographic entries.
+
+63
+
+IEHIOFFKJAI.USE(NNLY
+FOR OFFICIAL USE ONLY
+
+UDC 68l.325.3:621.25
+READ—ONLY MEMORY IN DEVICES TO ENCODE CYCLICAL CODES
+[Abstract of article by Volkogonov, V. N.)
+
+[Text] The author reviews questions related to the construction of devices to
+encode cyclical codes based on read-only memory. The article demonstrates the
+possibility of using the method of functional decomposition during development
+
+of the encoder. The article has two illustrations, two tables, and five biblio-
+graphic entries.
+
+UDC 621.391:681.3
+
+PROBLEM-ORIENTED LANGUAGE TO DESCRIBE THE MICROSTRUCTURE OF GRAPHIC IMAGES FOR
+AUTOMATIC INPUT OF DRAWINGS TO A COMPUTER
+
+[Abstract of article by Bronnikov, V. A.]
+
+[Text] This article reviews the syntax and semantics of a language to describe
+the microstructure of graphic images. The author gives an example of analysis
+of a refined image and the tree of syntactical analysis in terms of the descrip-
+
+tion language introduced. There are three illustrations and eight bibliographic
+entries.
+
+UDC 68l.327:534.78
+
+ON THE QUESTION OF PRIMARY CONVERSION OF A SPEECH SIGNAL IN AUTOMATIC SPEECH
+RECOGNITION DEVICES
+
+[Abstract of article by Hyglan, S. A.]
+
+[Text] The article presents a generalized methodological scheme for expansion of
+a speech signal into the minimum essential series and a complete series of in-
+formative primary descriptions. The scheme can be realized in a quasianalog
+block for preprocessor processing of a speech signal. The article has eight
+bibliographic entries.
+
+UDC 681.3.068
+
+ORGANIZATION OF A SYSTEM OF APPLIED PROGRAMS FOR AUTOMATING THE DESIGN OF MICRO-
+PROCRAH AUTOMATA
+
+[Abstract of article by Gur'yanov, L. v.1
+
+[Text] The author proposes a may to organize a system of applied programs to
+automate the design of microprogram automate based on the operating system of
+BESH—b computer, which has the capability of expanding software and adapting to
+
+the qualifications of the user. The article has one illustration and 10 biblio-
+graphic entries.
+
+6h
+
+INJR GWWNC]AL.USIZ(NULY
+UDC 681.32-181.48:621.9.06-529
+
+.‘i'lCROCOMPU'I'ER SOI-‘I'HARE IN DIGITAL PROGRAMME!) CONTROL UNITS
+
+[Abstract of article by Belova, T. H., Simakov. A. L., and Khokhlovskiy, V. N.]
+
+[Text] This article discusses questions of designing the internal and external
+software of microcomputers in digital progranmed control units. The authors
+consider a possible hierarchy of levels of automation of microcomputer pro-
+gramming in digital programmed control units. The development of a debugging
+program for a domestic microcomputer is considered. The article has two illus-
+trations and four bibliographic entries.
+
+UDC 62.507
+
+MINIMIZINC THE NUMBER OF REPETITIVE STATEMENTS IN THE LOGICAL CIRCUITS OP ALGO-
+RITHMS
+
+lAbatract of article by Gur'yanov, L. 8.]
+
+[Text] This article describes two ways of consolidating statements in logical
+circuits of algorithms that have the same name but are not equivalent. The
+author proposes appropriate algorithms to convert the logical circuits and
+
+evaluates the complexity of the resulting logical circuits of algorithms. The
+article has three illustrations and seven bibliographic entries.
+
+UDC 621.39l.2
+
+SELECTING DISCRETIZATION INTERVALS IN HULTICHANNEL UNITS TO ESTIMATE SIGNAL
+PARAMETERS ’
+
+[Abstract of article by Hakulov, V. 8.. Plemyannikov, A. K., and Romantsev. V. V.]
+
+[Text] This article investigates the influence of the size of the discretization
+interval on the noise suppression of units to estimate the non-energy param-
+eters of signals against a noise background using the rectangular function of
+losses. The article has four bibliographic entries.
+
+UDC 681.325
+THE ORGANIZATION OF MODELS OF MICROCOHPUTERS
+[Abstract of article by Kukushkin, B. A.]
+[Text] This article reviews the principles of constructing a three-level model
+which enables any dist! ct part of a nicroconputer (the object of modeling) to
+
+he considered on the logic level or the functions level. The article has nine
+bibliographic entries.
+
+65
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 681.327.17
+
+METHOD OF IMPROVING THE RELIABILITY OF DEFECT-HUNTING DEVICES IN SINGLE-OUTPUT
+DISCRETE OBJECTS
+
+[Abstract of article by Kalysvin, V. P., and Nikiforov, S. N.)
+
+[Text] The article proposes reducing the degree of distortion introduced by
+defect-hunting means by modifying the interconnection module of the register in
+which the values of the reactions of the object being diagnosed are stored.
+
+The output is the analytic dependence of the probability of failure to discover
+defects on the bit configuration of the register. The article has one illus-
+tration and two bibliographic entries.
+
+UDC 681.3.192
+ONE ADVANTAGE OF UNITARY CODING OF THE STATES OF A CONTROL AUTOMATON
+
+[Abstract of article by Tolbast, B. 3.]
+
+[Text] This article reviews a technique of reserving in a control automaton
+without functional division of the primary and reserve equipment. The advan-
+tage of unitary coding of states is demonstrated.
+
+UDC 519.714.7l:681.3.069
+
+APPROXIMATE ALGORITHMS FOR HINIHIZING SYSTEMS OF BOOLEAN FUNCTIONS
+[Abstract of article by Gubkin, A. F., and Broudo, A. H.]
+
+[Text] This article proposes four machine-oriented algorithms for minimizing
+systems of boolean functions. The initial form of assignment of the system of
+boolean functions is a random disjunctive normal form (DNP). The authors pro-
+pose two forms of representing the system of boolean functions in a random
+
+DNF. The algorithms described realize methods of minimization based on division
+
+of the system of boolean functions. The algorithms are realized on a BESH-b
+computer.
+
+COPYRIGHT: RIO LETI, 1979
+
+11.176
+CSO: 1863/81
+
+FOR OFFICIAL USE ONLY
+DATA PREPARATIOﬂ IN COMPUTER CENTERS
+
+Moscow PODGO‘l'OVKA 13mm V W: in Russian 1981 (signed to press 31 Har 81)
+pp 2-5. 12, 28.29, 51, 109-116, 188-192
+
+[Annotation, introduction, excerpts, bibliography and table of contents from
+book "Data Preparation in Computer Centers" by Aleksandr Aleksandrovich
+Ivanov, Izdatel'stvo "Pinansy i statistika", 8800 copies, 192 pages]
+
+[Excerpts] This book represents the first systematic presentation of the
+practical principles for preparing data oncomputer information carrying media
+and is devoted to this most important and responsible stage in the production
+process in computer centers, on which depends the quality and timeliness of
+the output of resulting information. The book covers major issues related to
+the work of operators and technicians on various devices of the Yes EVM
+(Unified System Computer) and ”Minsk-32" computer.
+
+For the first time, the fundamentals for data preparation and checking on
+magnetic media using devices and systems of the types, SPD (Automated Data
+Preparation System)-9000, Yes-9001, Yes-9002, Yes-9003, YeS—900h, Yes-9006,
+Yes-9112, Yes-9112c, Yes-9150 and SPD—9000M are presented.
+
+This book may be helpful in the training of operators and technicians for
+computer centers and also may contribute to correct understanding on the part
+of planners.
+
+Introduction
+
+At today's stage of development, the mechanization and automation of produc-
+tion on the basis of wide use of modern computer technology is becoming more
+and more important. Analysis of the practices involved in the design and
+operation of computer centers and collective use computer centers testifies
+to the fact that the greatest bottleneck inthetechnological mode of opera-
+
+tion of information processing is the preparation and checking of data on com-
+puter information carrying media.
+
+67
+
+FOR OFTICIAL USE ONLY
+run urraum um:- with].
+
+If, in the process of development, computers have gone through four generan
+tions, from vacuum tube computers to large-scale integrated circuit multi-
+processors which make it possible to handle tens of millions of operations a
+second, then the preparation and checking of data on perforated media have
+lagged behind them to a significant degree. At the present time, devices and
+systems are being developed for preparing and checking data on magnetic tape.
+This tape will be ready for direct input into the computer at a rate more
+than ten times faster than data input from traditional punched cards and tape.
+
+Such developments are going on in our nation, as well as abroad. The result
+of such developments in our nation has been the adoption in our computer cen-
+ters of an automated system for preparing data on magnetic tape of the
+spa—9000 type, as well as of themes-9001 devices for preparing data on
+magnetic tape. These make it possible to write information on magnetic tape
+in the codes of the Yes, as well as the "Minsk-32" computer.
+
+Our nation is successfully using equipment and systems for preparing data on
+magnetic information carrying media made by member-nations of CEMA. These
+include: the Yes-9002 device for preparing data on magnetic tape, the Yes-9003
+automated system for preparing data on magnetic tape, the YeS-900h device for
+preparing data on magnetic tape, the Yes-9112 device for preparing data on
+floppy disks and others.
+
+Literature on the issues considered in this book is virtually non-existent.
+Thus, the goal of this book is to fill in this gap and to do an adequate Job
+of fully covering issues involving the preparation of data on computer media
+during the course oftne technological mode of operation of information
+processing in the compiter center.
+
+This book consists . lour chapters.
+
+Chapter 1 reveals the basic technological stages of information processing in
+the computer center. The general structure of this production process is
+considered. In connection with this, information is briefly given providing
+rules for the requester to follow in preparing and filling out primary docu-
+ments and regarding the reception, recording and checking of information in
+the appropriate subdivision of the computer center, preparation and checking
+of punched cards, punched tape and magnetic tape, information processing by
+the computer, etc. This knowledge is essential to computer center operators
+and technicians if they are to have a correct understanding of the execution
+of information processing in the computer center.
+
+Chapter 2 is devoted to the description of the features of computer informa-
+
+tion carrying media: punched cards, punched tape, magnetic tape and disks. A
+comparative description is made of these computer information carrying media,
+
+68
+
+FOR OFFICIAL USE ONLY
+noting the advantages and shortcomings of each. Such information is very
+important in planning the computer processing of economic information and in
+a rational selection of the most appropriate information carrying media.
+Rules for coding information on punched cards and tapes are given for the
+codes of the "Minsk-32" (603T 10859—6h) and Yes (608T l3052-7h) computers and
+in international code no 2. These are essential to operators for determining
+the reliability of input information.
+
+Chapter 3 considers issues involving the preparation of data on punched card
+and tape information media. Operating procedures are given for operators
+using the UPIX (Device for Preparation of Data on Punched Cards) and UPDL
+(Device for Preparation of Data on Punched Tape) "Brest-l" for the "Minsk-32"
+computer and also various devices for preparing punched cards and tape for
+the Yes computer; namely: PABO-2/3M, KABO-2/3M, Yes-9020 and "Prepamat". A
+technical description of features is given for the Yes-9080 and "Zoyemtron-
+hls,h25" devices for the preparation and checking of data on punched cards,
+the Yes-9011 and Yes-9017 devices for marking and interpreting information on
+punched cards and also for the YeS-902h device for preparing data on punched
+tape. Rules for punching programs in algorithmic languages for the "Minsk-32"
+computer (YaSK, c0301.) and Yes computers (PL-l, Assembler, FORTRAN, COBOL)
+are considered. Various methods of quality control for the preparation of
+punched media are expounded.
+
+The last chapter, chapter h, contains information on the preparation of data
+on magnetic information carrying media. Our nation's first automated system
+for preparing data on magnetic tape, the SPD-9000, its components, the struc-
+ture of its hardware and software and its techniques fer preparing and check-
+ing data are considered. Data processing on the SPD-9000 by means of a
+package of application programs, which represents the furthest development of
+the program capacities of the systems, is considered separately. The package
+of application programs is designed for auxiliary processing of data: data
+checking by means of horizontal and vertical data balance, data checking on
+the basis of modulus, use of limiting values to check data, data copying
+
+and editing, transformation of data structures, printing data on the teletype
+and alphanumeric printing systems, etc.
+
+A package of programs has been put to a wide range of practical applications
+in the computer centers of the scientific-production association ASU (Auto-
+mated System of Control) "Pbskva". The package already contains 18 programs,
+in the incorporation of which the author of this book has participated. At
+present, the systems package of application programs is still being added to.
+Thirty examples are cited to demonstrate the most frequently encountered tasks
+in auxiliary data processing using the application programs package.
+
+This chapter also contains information on data preparation on the Yes-9001
+device. In addition, it briefly considers the Yes-9002, Yes-9003, YeS-900h,
+
+Yes-9006, Yes-9112, Yes-91123, Yes-9150 and SPD—9000M devices and systems for
+preparing data on magnetic media.
+69
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The material in this book covers the technology for preparing data on computer
+information carrying media and contains practical principles for data prepara-
+tion and checking using the devices and systems most commonly found in com-
+puter centers.
+
+This book is intended for instructing operators and technicians in computer
+centers and may be used as a textbook onthe fundamentals of data preparation
+on punched and magnetic information carrying media.
+
+Input from Input from Input from Input from
+Computer punched cards, punched tape, magnetic tape magnetic disk,
+
+cards/min. lines/sec bytes/sec.
+"Minsk-32" 600 1500 6000 bits/sec. --
+Yes-1022 1200 1500 6h000 bytes/sec. 156000
+
+ 
+
+Figure 5. Yes-5261 Magnetic Disk Pack
+
+Yes-5053 Disk Pack. In the Yes-5053 removable disk pack, operating with the
+NMD (Magnetic Disk Storage Unit)-5052, there are 10 working disk surfaces,
+labelled 0-9. The bottom surface of the top disk is the zero'th surface, the
+top surface of the next disk is the first surface, its bottom surface is the
+second surface, etc. The top surface of the bottom disk in the pack is the
+ninth surface.
+
+70
+
+FOR OFFICIAL USE ONLY
+Each disk surface contains 203 concentric tracks, on which information is
+written. The tracks are numbered from 0 (on the outer edge of the disk) to
+
+202 (at its center). The capacity of each track is 3625 bytes and the capacity
+of the whole pack is 7.25 million bytes. 0f the 203 tracks, 200 are for data
+and the remaining ones are service tracks. Ten tracks of the pack with the
+same number make up a cylinder, the capacity of which is 36,250 bytes. Writing
+and reading of information is done by magnetic heads using a sequential code
+
+within the bounds of one cylinder, after which the process goes on to the next
+cylinder.
+
+Disk packs may be denounted and stored for the next use like reels of magnetic
+tape.
+
+Yes-5261 Disk Pack. In the Yes-5261 removable disk pack, operating with the
+NMD Yes-5061, there are 20 working disk surfaces, located on 11 aluminum disks
+with ferromagnetic coating. Each oftheworking surfaces consists of 203 com-
+centric tracks (200 working, 3 back-up).
+
+Each set of 20 tracks with the same number forms an information cylinder, so
+that a pack has 203 concentric cylinders. Each cylinder is served by 20
+floating magnetic heads.
+
+Basic parameters of the pack:
+
+Maximum memory size: - 29.116 . 106 bytes;
+Maximum packed density - 88 impulses/Ia;
+Rate of data transmission - 312 Kbytes/sec.
+
+3.3. PREPARATION OF DATA FOR PROCESSING IN THE YeS COMPUTER
+
+To prepare data on punched cards and tape for the Yes computer, computer cen-
+
+ters currently use devices manufactured in our nation as well as in member-
+nations of SEMA.
+
+0f the domestically manufactured devices for preparing and checking numeric
+and alphanumeric information on punched cards and tapes, only those are used
+where the infonnation codes correspond to the Yes computer code in 608T
+13052-7h. These include the PA80-2/3M, KA80-2/3H, Yes-9011 and Yes-9017, the
+most common devices for the preparation and checking of data on punched cards
+and the Yes-9020 and Yes-902R for punched tape.
+
+In our nation, we also successfully use devices for preparing data on punched
+media which are manufactured in the member nations of SEMA. These include
+the Yes-9080 devices for preparing data on punched cards and the "Zoyemtron-
+h15,h25" card punches and verifiers madeillGDR, and the "Prepamat" devices
+for preparing data on punched tape made in the Hungarian People's Republic
+and others.
+
+71
+
+FOR OFFICIAL USE ONLY
+PM we
+paring data on
+Lputcr centers.
+
+is the most
+
+nation pro 3 in the com—
+
+cessin
+
+tic industry has
+on magnetic tape.
+
+devices and systems of data. preparation on m
+zed successfully in t
+5—9006, Yes
+
+of SEMA arebeing uti
+9003, Y
+
+-9002, 165- eS-900h , Ye
+
+  
+
+on Pagnetic Tap
+etic tape storage uni
+
+Figure 35.
+1—YeS-5052 m
+
+3- M6000 processor;
+processor; 6- PL—lSO punch;
+
+72
+
+FOP. OfﬂC‘AL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Information is written on a standard magnetic tape, which can be used for
+input and processing on the unified series, ASVT-M (Ibdular System of Com-
+puter Technology) and the "Minsk-32" computers.
+
+The basic functions of the system are:
+input of source data from primary documents;
+
+formal checking of data as they are input from the console (on .the basis of
+line and field length, legality of character set on a line etc.);
+
+verification of data by means of a second input by another operator;
+update of data on the disk;
+
+organization of packets on the systems disk;
+
+writing of data on magnetic tape;
+
+processing of the data on the tape by means of a package‘ of application pro-
+grams (arithmetic horizontal and vertical checking of data, checking of data
+by modulus 7.9.1.1, checking of individual fields by means of limiting values;
+blocking lock-out, truncation and change in the packing density of records;
+printing of data on the system teletype and alphanumeric printergumerging and
+split of data on the magnetic tape, copying and editing of data).
+
+The system provides the operator with the necessary information about the data
+input from the console, i.e., display of the symbol (one) input and its
+address.
+
+5.1.]. THE STRUCI‘UIB OF THE SYSTEM AND TECHNICAL DATA CGCBRIIIIG ITS DEVICES
+
+The automated system for preparing data on magnetic tape includes: the 16000
+mini-computer processor; main memory (OZU) ;' magnetic disk storage (IND);
+channel with direct access to memory (KPDP); ”Konsul-260” teletype; F's-1500
+photoreader; Pia-150 punch; operators' consoles (8-32).
+
+Additionally, the system may be hooked up to a Yes—71810 ("Videoton-lOlO")
+D4121 or 0236-180 alphanumeric printer.
+
+The 593000 Processor (Fig. 37)
+
+Purpose - reception of information from the memory units (20) and input-
+output devices; arithmetic and logical processing of the information and out-
+put of results.
+
+73
+
+FOR OFFICIAL USE ONLY
+FOR OFHCIAL USE ONLY
+
+ 
+
+Figure 37. 106000 Control Panel
+
+1- "Net" light; 2- RR register light; 3- RP resistor light; 1&— "Error" light;
+5- "Halt" light; 6- lights displaying contents of registers RA, REX, RD:
+
+7- lights displaying contents or registers RB and RM; 8- keyhosrd register
+(KR); 9— "wnrrs" key; 10- "Aurowu'xc" key; 1.1- key for turning on net; 12— set
+of keys for displaying registers RA, KKK, RD, RB and MA; 13- key for protect-
+ing loader; 110- set of keys for entering data in registers RA and RB; '15- key
+for halting processor; 16- "MET" key; 17- key for reading registers;
+
+18- ”START" key; (RR - extension register; R? - overflow register; RA and
+
+RB - registers for working storage of operands and results of operations;
+
+RD - data register; KKK - register of instruction number; RTA - register of
+current address)
+
+Technical data on the device:
+
+Number representation in the form of 16-bit words of fixed point format with
+a supplementary code containing the sign in the zero bit.
+
+Direct (to page zero and current page in memory) and indirect (to the whole
+memory) addressing.
+
+71.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Size of pages in memory 102% words
+Instruction system zero-one address
+Number of executable instructions 80
+
+Size of main memory (OZU) 16K words
+
+Input/output devices (UVV) are hooked up to the processor by a unified link
+of the 2K type. The number or input/output devices hooked up to the processor
+cannot exceed 8.
+
+’I‘ype Yes-5052 Magnetic Disk Storage Device (Fig. 38)
+
+Purpose - storage of a library of systems attributes documents (tonnats and
+nodels),storage of a software system (sun) and package of application programs;
+storage of data arrays, which have been or are being generated.
+
+ 
+
+Figure 35. Yes-5052 Magnetic Disk Storage Device: l- Yes-5053 removable disk
+pack; 2- storage device number display; 3- "REMOTE-OFT—LINE" key; h- "READ-
+HRITE" key; 5- "START-STOP" key; 6- cylinder number display.
+
+Technical data on the device:
+
+Capacity of the pack, million bytes — 7.25
+
+Mean fetch tine, microseconds - 60
+Capacity, bytes
+tracks - 3570
+cylinders - 35703
+Transmission rate. bits/sec. - 1.25-10
+75
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Yes-5012 Type mgnetic Tape Storage Device (Fig. 39)
+Purpose - copying of data from disk to magnetic tape in Yes computer code.
+
+Technical data on the device:
+
+Type of storage - Yes-5012
+Capacity - up to 2‘; Mbytea (tape length I 750m)
+Packing density - 8 or 32 characters/mm
+Tape speed during data - 2 m/aec.
+write or read
+Speed of rewind or unload - 5 m/sec.
+
+Maximum diameter of magnetic - 267
+tape reel, ma
+
+PS - 1500 Photoreader (r13. ho)
+
+Purpose - input of real-time systans programs for data input and checking,
+application program packages and also utility programs (teat, disk etc.)
+
+Technical data on the device:
+
+Type - rs 1500
+Read rate, lines/sec. - up to 1500
+
+PL-lSO Punch (Fig. 1:1)
+
+Purpose - output on magnetic tape of the contents of various progruna of the
+SRV (time sharing systen) library and of the package of application programs.
+
+Technical data on the device:
+Type - PL—lSO
+
+width or punched tape/m - 17.5. 25.1: (cos'r 1391-70)
+Speed of data punch, chars./sec. - 150
+
+76
+
+FOR OFFICIAL USE ONLY
+Figure 39. Magnetic Tape Storage
+1 - Power supply on key;
+
+2 - Power supply of! key;
+
+3 - "FETCH" key;
+
+It - "WRITE PROTEL'I‘" key;
+
+5 -"STA1'US OF RECORD" key;
+
+6 - Storage unit number switch;
+
+7 - Storage unit mnber display;
+8 - thanetic tape cassette;
+
+9 - Tape drive; 10 - "mo" key;
+11- "load" key; 12 — "READY” key;
+lS-"UNIDAD" key; 110 - "3383'!" key;
+15 - Receiving ousette.
+FOR OFFICIAL USE. ONLY
+
+Figure hl. PL—lSO Punch:
+
+2 - punched
+
+1 - tape guide;
+3 — detachable
+
+tape cassette;
+unit for unwinding tape
+
+ 
+
+Figure h2.
+"Konsul-260" Teletype
+
+1 - teletype control
+panel; 2 — alphabetic
+
+keyboard; 3 - carriage
+
+ 
+
+1&2)
+
+"Konsul—260" Teletype (Fig.
+ole for input into the system or attribute documents
+ibutes of data packets and writing of packets on
+
+I work among operators, receipt of information dur—
+tem and information about the status of the sys-
+
+on paper tape.
+
+Purpose - dispatching cons
+(formats and models), .
+tape , allocation 0
+f data into the sya
+ole, with output of data
+
+magnetic
+ins input 0
+tom as a vh
+
+n
+
+70
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL L'SE ONLY
+
+Technical data on the device:
+
+Print Speed, characters/sec. - up to 10
+Number of characters per line - up to 106
+Width of paper roll, nun - up to 280
+
+Yes 718’. Alphanumeric Printer (Fig. I63)
+
+Purpose - printing of data written on magnetic tape in codes for the Yes,
+"Minsk-32" and ASVT-M computers.
+
+Technical data on the device:
+
+wpe - Yes-7161a ("Videoton-lOlO")
+Maximum length of printed line - 80 characters
+
+Print output rate, lines/min. - 253-283
+
+Width of printrield, nun - 205
+
+Paper - punched on both edges, accordion
+folded (”leporello")
+
+Figure “3.
+YeS-TlBh Alphanumeric printer
+
+1- "NET" key; 2- "READY" key;
+3- "vx" (on) key; to- "PE“
+(expansion unknown) switch;
+5- "PS" (expansion unknown)
+switch; 6- "On-Off Line"
+switch
+
+ 
+
+operator's Console (Fig. ‘0’!)
+
+The operator's console is a terminal device and is intended for use in input
+or alphanumeric and service information into the computer.
+
+79
+
+FOR OFFICIAL USE ONLY
+FOR ()FFK lAl. l'SE ()5!)
+
+Technical data on the device:
+
+Symbol code - COST 13052 -7h
+Rate of data input, characters/sec. - up to 10
+Major modes of operation - data input, data check
+
+Number of advisory messages from computer - up to 18
+
+Components of the console:
+
+table;
+
+display panel;
+
+keyboard.
+
+Display panel includes:
+symbol display;
+four—character display showing position of symbol, line number,
+
+model or fonnat number;
+
+status display;
+display shoving information about errors and messages from the computer;
+operator console number display.
+
+The console kevboard includes:
+alphanumeric key set (h8 keys);
+numeric key pad for inputting data "blind" (11 keys);
+function keys.
+
+Yc809006 1 ta Preparation Device
+
+The Yes-9006 data preparation device (Hungarian People's Republic) is
+intended for the preparation and checking of data on cassette magnetic tape.
+
+ 
+
+Figure hh. SPD—9OGC Operator's Console
+1- display panel; 2— operator's table; 3- console keyboard
+
+80
+
+FOR OFHCIAL USE ONLY
+Technical data on the device:
+
+Type of cassette - any ”COMPACT" type
+
+Tape used - standard for sound recording
+Capacity of type C90 cassette, Kbytes - 180
+
+Length of records, characters - 80 or 160
+
+Number of programs - 2
+
+Checking method - verification and program
+
+The device permits performance of the following functions: input, checking,
+search and updata of data and writing of data on magnetic tape. The device
+
+may be hooked up to the Yes-9006 magnetic tape data transmission device
+(UPIML) , a cassette magnetic tape storage unit, a Yes-509‘; alphanumeric
+printer, a card reader and a "Konsul" teletype.
+
+Yes-9112 Data Preparation Device
+
+The Yes-9112 data preparation device (People's Republic of Bulgaria) is
+intended for preparation of data on a floppy magnetic disk.
+
+Technical data on the device:
+
+Length of a record block, characters - 1 - 128
+
+Number of symbols displqred on the console screen - 256
+
+Number of control programs - 10
+
+Data display - blocked
+
+Major modes of operation - data input and veri-
+fication, data search
+and update
+
+Power required, aw - 1.0
+
+Overall dimensions, In - 1050 X 750 X 650
+
+Weight, kg - 150
+
+The Yes-9112 is composed of two floppy disk memory units, a control block,
+a monitor and a keyboard. The operator uses the keyboard to enter data into
+the device. The quality of the data is verified with the aid of the monitor
+at the same time. The use of the floppy disk as an information carrying
+medium makes possible rapid search and update of intonation.
+
+The device can be hooked up to auxiliary devices: a printer, for printing out
+the data, a magnetic tape memory unit and an adapter for remote linkage with a
+Yes computer.
+
+81
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The Yes-91125 Data Preparation Device
+
+The Yes-91123 data preparation device (Hungarian People's Republic) is
+intended for data preparation and checking on floppy disks.
+
+Technical data on device:
+
+capacity of disk pack, Kbytes - 2h2,9hh
+
+Number of tracks - 7h
+
+Number of sectors per track - 26
+
+Length of a document, bytes - 128
+
+Operator's console - display with CRT screen
+Rate of data read, characters/sec. - 20000
+
+Generation of data packets - automatic
+
+Types of checking - verification and program
+
+The device allows performance of the following functions: data input with
+visual representation on display, reading of data, data search (by address,
+or content), data check and update.
+
+The device can be hooked up to an alphanumeric printer and also, through a
+modem, can enter into a data teleprocessing system.
+
+The Yes-9150 Multiconsole Data Preparation System
+
+The Yes-9150 multiconsole data preparation system (Polish People's Republic)
+is intended for preparing and checking data on magnetic tape.
+
+The main components of the system are: the processor, magnetic tape storage,
+magnetic disk storage, alphanumeric printer and operators' consoles.
+
+Technical data on the device:
+
+Operator's console - display with CRT screen
+Number of consoles - 32
+capacity of CRT screen, characters - h80
+Dimensions, mm — hhu X 300 X 600
+Disk Storage
+Number of storage units - 2
+Memory size or storage unit, Mbytes — 2.5
+Magnetic Tape Storage - YeS«5001
+Packing density, characters/um - 32 or 63
+capacity of main memory, Kwords - 32
+Alphanumeric printer
+Type of print - dot matrix
+Print speed, characters/sec. - 180
+82
+
+FOR OF11C1AI.USEIDNLY
+The system allows performance of the following functions: data input from
+displays, programmed data checking, updating and writing on the magnetic tape
+in Yes computer codes.
+
+SPD—9000M mlticonsole Data Preparation System
+
+The SPD-9000M data preparation system (USSR) is designed for preparing and
+checking data on magnetic tape in Yes computer codes.
+
+The main components of the system are: the central processor, magnetic disk
+storage, magnetic tape storage, alphanumeric printer and operators' consoles.
+
+Technical data on the device:
+
+SH EVM (System of Small Computers) Processor - SH-lP
+
+Capacity of main memory, Kwords - 16
+Magnetic disk storage - 1201' 1370
+Number or storage units 2
+Capacity of unit, Mbytes 5
+Rate of intonation exchange, Kwords/aec. 156
+Mean access time, msec. 57.5
+Magnetic tape storage 120']! 5003
+Number of storage units 2
+Magnetic tape capacity, mytes up to 12
+Tape width, mm - 12.7
+Reel diameter, mm - 216
+Packing density, characters/mm - 32
+Alphanumeric printer - DZM-lBO
+Type of print -- dot matrix
+Print speed, characters/sec. - 180
+Number or characters per line - 158
+Operator's console - display with CRT screen
+Number of consoles - 8-32
+Data input rate, characters/sec. - up to 10
+Distance between console and computer, km - up to 1
+Checking method - verification, systems
+(format) check, program
+Volume occupied, cu.m - 50
+
+The system allows performance or the following operations: input, checking and
+update or data from the operator's console (replacement, insertion, deletion),
+processing of data written on the tape by means of application programs (con-
+
+version of files on the tape, editing of files on the tape, printing of data
+on the alphanumeric printer, programed data checking).
+
+83
+
+FOR OFFICIAL USE ONLY
+1.
+
+FOR OFFICIAL L5}. ONLY
+
+BIBLIOGRAPHY
+
+Anisimov, B. V. "System woda—vyvoda tsifrovykh vychislitel'nykh machin."
+(Systems of Input-Output of Digital Computers), Moscow, HASHINOSTROYENIYE,
+
+1977 .
+
+Vasil'yev, Yu. G. "Perforatsionnyye vychislitel'nyye mashiny.”
+(Punched Computers), Moscow, s'ruxs'mu, 1918.
+
+Zakharova, E. N. , Guzev, Yu. S. "Sovremennyye sredstva podgotovok dannykh
+dlya vvoda v EVWP (Modern Means for Preparing Data for Input to Computers).
+Moscow, MASHINOSTOYENIYE, 197k.
+
+Kuz'minyuk, L. 6., Magid, A. I., Panyukov, B. A. "Sim-9000 System for
+Preparing Data," PRIBORY I sxsrsm UPRAVIENIYA, 1976 No 5, pp 3-14.
+
+Korolev, L. N. "Struktura Ev M i ikh matematicheskoye obespecheniye,"
+(The structure of Computers and Their Software), Moscow, Nauka, 1978.
+
+Orlov, I. A. "Organizatsiya raboty vychislitel'nogo tsentra"
+(Organization of Work in the Computer Center), Moscow, ENERGIYA, 1978.
+
+CNTENTS
+
+Introduction 3
+
+Chapter 1. The Production Process of Intonation Processing in
+
+the Computer center oneoooooeooooooooooooosaooooooooooooooo 6
+
+Chapter 2. Computer Intonation Carrying Media and Their
+
+comparative Descriptions a.oeone...ooeoooooooeooeooeooooooe 15
+
+2.1 Description of punched intonation media oeooeooeeeooeoeeeeoooo 15
+2.2 Description ofmagnetic infomtion media ooeeoaoaaoeeeeooeoooe 26
+
+Chapter 3. Data Preparation on Punched Media unounnon-unuuuu 30
+
+3.1 General information on preparation of punched media 0000.000... 30
+3.2 Preparation of data for processing on the "Minsk-32"
+
+computer eeoooooeeooeeeooooooeooooooooeoeooooooocoeaoeooooooo 35
+
+3.3 Preparation of data for processing on the Yes computer ........ 51
+3.15 Rules for punching programs compiled in algorithmic languages-- 85
+
+8h
+
+FOR OFFICIAL USE ONLY
+3.5 Quality control in the preparation or punched media ooooooooooo
+3.6 Techniques for working on data preparation devices ............
+
+Chapter h. Preparation Of Data on Magnetic Media IOOOOOOOIOIOOOOOOOOOOOOO
+
+“.1 Preparation of data on the SPD—9000 00000oooooooooooooocooooooo
+1...? Processing of data on the SPD-9000 by means of an
+
+application program package 000oooooooooooooooooooooooooooooo
+14.3 Data preparation on the Yes-9001 coo-.00....-coo-0.00.00.00.00.
+L.h Data preparation ”the Yes-9002 O00......OOOOOOOOOOCODOOOOOOOOO
+lo.5 Brier review of devices and systems for preparing data
+
+on magnetic media coo-000.000.00.00...ooooooaoooooooooococoa.
+Bibliography oaooooooooooooucooooooooooooooooooooonooooaoooooooooooooooo-
+
+COPYRIGHT: Izdatel'stvo "Finansy i statistika", 1981
+
+9285
+$0: 1863/113
+
+85
+
+FOR OFFICIAL USE ONLY
+
+96
+106
+
+109
+109
+
+133
+168
+176
+
+187
+
+191
+FOR OFFICIAL USE ONLY
+
+UDC 621.382.2/3.002:658.012.011.56
+
+AUTOMATING CONTROL OF TECHNOLOGY FOR PRODUCING ELECTRONIC INSTRUMENTS
+
+Moscow METODY AVTOMATIZIROVANNOGO UPRAVLENIYA TEKHNOLOGIYEY PROIZVODSTVA
+ELEKTRONNYKH PRIBOROV in Russian (signed to press 7 Aug 81) pp 2-5, 125-128
+
+[Annotation, preface, bibliography, and table of contents from book "Techniques
+of Automated Control of the Technology for Producing Electronic Instruments" by
+Anatoliy Ivanovich Kuchin, Leonid Andrianovich Radchenko and Yuriy Kazimirovich
+Lesish, Izdatel'stvo "Radio 1 svyaz'", 6,000 copies, 128 pages)
+
+[Text] Annotation
+
+This book reviews techniques of automated control of the fundamental operations
+of thermal technology (metalization and soldering of ceramic assemblies, heat
+treatment of semiconductor structures. annealing, and so on) and vacuum-
+technological and galvanic processes, automated assembly and installation of
+the electrodes of generator instruments, and automated roentgenostroboscopic
+monitoring of the stability of shape of the design elements of electronic
+instruments.
+
+The book is intended for workers in the electronics industry and related sec-
+tors who are specializing in electronic and radio instrument building and in
+development of automated control systems for industrial processes [ASUTP's].
+
+Preface
+
+The prime cost of electronic instruments, their reliability, simplicity of
+production, and the time spent on their manufacture depend significantly on
+technology. when working out the technological process, therefore, primary
+efforts must be directed to organizing production to raise labor productivity
+and increase the production of articles per unit of production equipment not
+only by refining and organizing technology, but also by automating control
+based on optimization of industrial (technological) processes.
+
+One of the main directions in optimization of the technology of manufacturing
+
+the parts of electronic equipment is developing and introducing computer-based
+ASUTP's in production. This has become possible owing to the availability of
+
+highly productive and precise modern equipment and the development of a broad
+
+assortment of means of mechanizing and automating data processing.
+
+FOR1OFFHJAI.USE(NNLY
+The complexity of the Industrial processes, the type of production, and the
+amount and diversity of industrial and monitoring equipment to produce electronic
+
+parts determine what difficulties there will be in setting up systems to control
+industrial processes.
+
+Efficiency of control over increasingly complex industrial processes is achieved
+by constantly searching for more favorable conditions for these processes on the
+
+basis of operational data processing concerning their state and a correct
+strategy of process control.
+
+The designated purposes of the A801? in the electronics industry are as follows
+[76]:
+
+a. monitoring industrial operations by means of a controlling
+machine;
+
+b. optimization of the industrial process by means of automated
+monitoring with control feedback;
+
+c. determining the effect of changes in the industrial process
+
+on the quality of output and the percentage of usable parts
+produced;
+
+d. raising labor productivity in assembly and monitoring opera-
+tions.
+
+It is advisable to use ASUTP's in places where industrial processes are continuous
+and the productivity of the industrial equipment is quite high. These factors
+are indicative for the technology of producing electronic instruments.
+
+The endeavor to improve the technical-economic indicators of industrial processes
+by control means necessitates modernization. and in many cases also a signifi-
+cant reorganization of the structure of industrial operations and equipment.
+Experience shows that the development of control systems for complex industrial
+processes goes through three stages [77].
+
+l. Formulating the controlled and observed industrial process. In this stage the
+industrial process is shaped as an object of control. The characteristics of the
+parts being made can be modified by controlling the industrial process. There-
+fore. it is essential to work out an optimal structure and method of realizing
+
+the industrial process that insures efficiency of control, to build industrial
+equipment that is appropriate to the resulting structure of the process. to equip
+
+it with data sensors and actuating devices, and to organize the necessary infor-
+mation flows.
+
+2. Construction of mathematical models and algorithms of control over industrial
+processes. Industrial processes in electronics engineering are complex control
+
+objects whose state depends on many factors which frequently cannot be monitored.
+Efficient control of such processes is only possible where the basic patterns that
+
+87
+
+FOR OFFICIAL USE ONLY
+I'UK UN'ILIAL use ONLY
+
+characterize them and the relations between input and output parameters of the
+process have been studied and represented in the form of mathematical models
+that reflect the static and dynamic characteristics of the process. Mathew
+matical models are the foundation for formulating the algorithms of control
+
+of the industrial process, that is, for formalization of decisionvmaking on con-
+trolled shaping of the characteristics of parts and indicators of their pro-
+duction. The algorithm put into the optimizing ASUTP is the only means of con-
+tinuously insuring a search for the optimal Hay to raise the productivity of
+
+the process and improve the quality of the product being made. Formulation of a
+mathematical model of the process that reflects its static properties makes it
+possible to select the optimal industrial regime and work out the algorithm for
+control of the process of shaping the characteristics of parts "on the average"
+[33]. The mathematical model that reflects the dynamic properties of the
+process makes it possible to work out an algorithm to modify the industrial
+regime to compensate for the effect of unmonitored factors on the process of
+shaping the characteristics of the articles. Continuous modification of the
+industrial regime greatly diminishes the variation in characteristics of ar-
+ticles at the output of the process and insures stability under conditions of
+series production.
+
+1. Development of the hardware of the system, its particular elements. installa-
+tion. and comprehensive debugging of the ASUTP. Experience shows that the first
+two stages may take up the 75 percent of total development time for the ASUTP.
+
+The present book reviews the questions of optimizing industrial processes and
+constructing formalized models of them for machine control. It tells abOut
+methods of constructing ASUTP's and gives specifications on ASUTP's that have
+been developed. The book reviews the basic industrial processes of producing
+electronic instruments.
+
+BIBLIOGRAPHY
+
+l. Abramovich, B. 6.. “Termoindikatory i Ikh Primeneniye" [Thermal Indicators
+and Their Use], Moscow, "Bnergiya", 1972.
+
+l9
+.
+
+Adams. 6. 8., Lee, T. 6., and Heinz, w. M., "Upravleniye Protsessami s
+Pomoshch'yu Vychislitel'nykh Mashin. Hodelirovaniye i Optimizatsiya" [Pro—
+cess Control Using Computers. Modeling and Optimization], Moscow,
+"Sovetskoye radio", 1972 (translated from English under editorship of A. I.
+Mudrov).
+
+3. Alcksandrov, V. 0., and Zdasyuk. B. 3.. "Multichannel Digital Measurement
+System," ELEKTRONNAYA TEKHNIKA. SBR. 4, 1973, No 10.
+
+a. Antipin. H. V., "Integral Criterion for Evaluating the Quality of Reproduc-
+tion," IZVESTIYA LETI. PROBLDIY RADIOELEKTRONIKI, TELEVIDENIYE, 1968,
+No 69.
+
+3. Astrin, V. A., Kuz'micheva, N. V., and Rsbodzey. N. V., "Vidicon for X-ray
+Television Microscope," ELEKTRONNAYA TEKHNIKA. SER. 4, 1966, Vol 1.
+
+6. Astrin, V. A.. and Rabodzey, N. V., "X-ray Television Microscope Based on
+X-rny Vidicon -- a New Means of Nondestructive Control of Latent Defects
+
+88
+
+FOR OFFIGAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+in Electronic Instruments," VOPROSY RADIOELEKTRONIKI. SER. 1, 1964, No 12.
+
+Atadzhanov, L. A. Radionov, I. 6., and Seredin. A. A., "Experimental Study
+of the Dependence of the Resolution of Television Systems with Vidicon
+Tubes on the Contrast and Speed of Movement of the Object,” VOPROSY
+RADIOELEKTRONIKI. SEX. IX, 1962, No 1.
+
+Basharin. A. V., "Modernization and Study of Thyristor Regulators of Cur-
+rent Density," in "Avtomatizstsiys Proizvodstvennykh Protsessov" [Automati-
+zation of Production Processes], Leningrad, "LOU", 1973.
+
+Belevtsev, A. T., "Avtomatizirovannyye Sistemy Upravleniys Tekhnologicheskimi
+Protsessami (ASUTP)" [Automated Control Systems for Industrial Processes
+(ASUTP's)], Moscow, "Znaniye", 1975.
+
+Bykov, R. Ya., and Gurevich, S. 3., "The Accumulation and Switching Processes
+
+in a Vicidon in a Transitional Regime," TEKHNIKA KINO I TELEVIDENIYA, 1961,
+No 4.
+
+Bykov, R. Ya., and Korkunov, Yu. 17., "Televideniye v Meditsine i Biologii"
+[Television in Medicine and Biology], Leningrad, "Energiya", 1968.
+
+. Bruk, S. 6., "Selecting Quality Criteria." ELEKTRONNAYA TEKHNIKA. SER. 10,
+1971, No 6.
+
+. Val'kov, V. M.. "ASUTP v Proizvodstve Izdeliy Elektronnoy Tekhniki" (ASUTP's
+in the Production of Electronic Articles], Moscow, “Sovetskoye radio", 1974.
+
+. Val'kov. V. M., "Principles of Designing Automated Systems for Operational
+Congrol of Industrial Lines," ELEKTRONNAYA ?ROHYSHLENNOST', 1970, No 1.
+
+. Val'kov, V. M., "The Elektronika K-ZOO Control Computer and Its Areas of
+Application," UPRAVLYAYUSHCHIYE SISTEHY I MASHINY, 1972, No 1.
+
+. Valik, I. L., and Gamburg, R. A., “The Ability of a Television System to
+Reproduce Details of the Image Transmitted," VOPROSY RADIOELEKTRONIKI.
+SER. IX, 1965, No 6.
+
+. Volkov. V. 6., et al., "Automated Assembly and Installation of Electrodes
+of Electrovncuum Instruments,“ ELBKTRONNAYA TEKHNIKA. SER. 4, 1976, No 6.
+
+. Gandel'sman, I. L., and Epshteyn, M. S., "Nonslumdumized Heaters for the
+Uxtde Cathodes of Generator and Modulator Tubes," ELEKTRONNOYE
+PRIBOROSTROYENIYE, 1978, No 3.
+
+. Cnndel'sman, I. L., and Travina, G. A., "Reducing the Heat-Up Time of
+Cathode Assemblies of Generator and Modulator Tubes," ELEKTRONNAYA TEKHNIKA,
+SEK. lb, 1969, No l.
+
+. Concharovskiy. L. A., "Mekhanicheski Upravlyayemyye Elektronnye Lampy“
+[Mechanically Controlled Electron Tubes], Moscou, "Cosenergoizdat," 1957.
+
+89
+
+FOR10FFKJAI.USIIONLY
+21.
+
+22.
+
+23.
+
+210.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+3|.
+
+'32.
+
+33.
+
+3h.
+
+35.
+
+36.
+
+Crigor'yev, V. A., and Obodovskiy, I. H., "X-ray Pulse Generator," PRIBORY
+I TEKHNIKA EKSPBRIHENTA, 1969, NO 1.
+
+Gurevich, S. 3., ”Effektivnost' i Chuvstvitel'nost' Televizionnykh Sisten"
+[Efficiency and Sensitivity of Television Systems], Moscou~Leningrad,
+"Energiya", 1964.
+
+Cufman. A. A., "Vvedeniye v Teoriyu Podobiya" [Introduction to the Simi-
+larity Theory], Moscow, "Vysshaya shkola", 1963.
+
+Derkach, K. K., "The Resolution of a Television System Transmitting Images
+of Moving Objects," VOPROSY RADIOELEKTRONIKI, SER. IX, 1962, No 1.
+
+Dmokhovskiy, V. V., "Osnovy Rentgenocekhniki" [Fundamentals of x-ray Tech-
+nology], Moscow, "Hedgiz", 1960.
+
+Druzhilin, G. N., ”Nadezhnost' Ustroystva Avtomatiki" [Reliability of
+an Automated Unit], Moscow, "Bnergiya", 1954.
+
+Yeroshev, V. K., "Hetallokeramicheskiye Vakuumplotnyye Konstruktsii. Ser.
+Elektronnoye Haterialovedeniye" [Powder Hetallurgyical Vacuum Density
+Designs. Series -- Electronic Materials], Moscow, "Energiya", 1970.
+
+Zhukovskiy. V. 5., "Osnovy Teorii Teploperedachi" [Fundamentals of the
+Theory of Heat Transfer], Leningrad, "Energiya", 1969.
+
+Zhukov, Ye. M., and Mazurov, A. 1., "Units for Measuring the Resolution
+of X-ray Television and x-ray Devices," VOPROSY RADIOELEKTRONIKI. 88R. IX,
+1965, No lo.
+
+Zhukov. Ye. H., and Mazurov, A. 1., "Analyzing the Threshhold Contrast
+of X~ray Television Devices," VOPROSY RADIOELEKTRONIKI. SBR. IX, 1967,
+No 3.
+
+Zverev, V. D., and Filatov, 0. V., "Organizatsiya Uprsvleniya
+0b"yedineniyem s Primeneniyem Sredstv Vychislitel'noy Tekhniki. Ser.
+Avtomatizirovannyye Sistemy Upravleniya Proizvodstvom" [Organization of
+Association Management Using Computer Equipment. Series - Automated Pro-
+duction Control Systems], Leningrad, "LDNTP", 1975.
+
+Zverev, V. 0., et a1.. "ASUTP's based on Terminals," ELEKTRONNAYA
+PROHYSHLENNOST', 19710, No 1.
+
+Ivakhnenko, A. 6., "Tekhnicheskaya Kibernetika", [Engineering Cybernetics],
+Kiev, "Tekhnika" , 1962.
+
+Iorish, Yu. I., "Vibrometriya" [Vibrometry], Moscow, "Hashgiz", 1963.
+
+Il'in, R. 5., Fedotov. G. 1., and Pedin, L. A., "Laboratornyye Opticheskiye
+Pribory" [Lab Optical Instruments], Moscow, "Hashgiz", 1966.
+
+Kayugin, A. 1., "Technological Characteristics of Horizontal Huffle and
+Cover Furnaces with Oxygen Atmospheres," ELEKTRONNAYA TEKHNIKA. SER. 1,
+1971, No 10.
+
+90
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Kayugin, A. 1.. "Calculating the Temperature of Parts during Annealing,"
+ELEKTRONNAYA TEKHNIKA. SER. 4, 1974.
+
+Kampe-Nemm. A. A., "Avtomaticheskoye Dvukhpozitsionnoye Regulirovaniye"
+[Automatic Two-Position Regulation]. Moscow, "Nauka". 1967.
+
+"Kompleksnaya Mekhanizatsiya i Avtomatizatsiya Sborochnykh i Montazhnykh
+Rahot. -- Materialy k Seminaru 27-28 Maya 1975 g." [Full Mechanization
+and Automation of Assembly and Installation work -- Materials for the
+Seminar of 27-28 May 1975]. Leningrad. "LDNTP". 1975.
+
+Kotel'nikov. Yu. N., "Control Systems for a Group of Vacuum Devices, Based
+on the Elektronika-IOO Computer," BLEKTRONNAYA PROMYSHLENNOST', 1972, N0 6.
+
+Kotel'nikov. Yu. N., "Automatic Vacuum Device Controlled by Computer."
+ELEKTRONNAYA PROHYSHLENNOST', 1972. NO 6.
+
+Kopeykin, V. T.. and Platitsa, I. D., "Structuring the Reliability of
+ASUTP'S," TRUDY TEKHNICHESKIKH VUZOV RSFSR. VYCHISLITEL'NAYA TEKHNIKA,
+1973. No 1.
+
+Kubrik, M. Sh., and Gurcvich, S. 3.. "The Accumulation Process in the
+Vidicon." TEKHNIKA KINO I TELEVIDENIYA, 1969, No 3.
+
+Kuchin. A. l., Radchenko, L. A., et 31., "Disassembly and Study of the
+Method of Automating the Process of Applying Galvanic Coatings and Genera-
+tor Devlces," ELEKTRONMAYA TEKHMIKA. SER. 4, 1974, No 4.
+
+Kuchin. A. 1., "The Heightened Charge Accumulation Regime in the X-ray
+Television Microscope," OBMEN OPYTOM V BLEKTRONNOY PROMYSHLENNOSTI, 1969.
+No l.
+
+Kuchln. A. 1.. Radchenko, L. A., and Leliovskiy, A. F., "Two-Chamber x-ray
+Television Microscope." OBHEN OPYTOM V ELEKTRONNOY PROMYSHELNNOSTI, 1968.
+No 8.
+
+Kuchin. A. 1.. and Radchenko, L. A., "Disassembly and Study of the X-ray
+Television Stroboscopic Method of Monitoring Vacuum Tubes under Vibration
+and Electrical Influences," ELEKTRONNAYA TEKHNIKA. SER. 8. 1974, No 1.
+
+Kuchln. A. 1.. Gondcl'smsn, I. L.. and Stepanov, V. D.. "Observation of
+Thermal and Mechanical Deformation of the Cathode-Heating Assembly by
+the X—ray Television Method." ELEKTRONNAYA TEKHNIKA. SER. 16, 1969, No 1.
+
+Leslsh. Yu. K.. and Radchenko. L. A.. "Equitemperature Cathodes of Power-
+ful Superhigh Frequency Generator Tubes." ELEKTRONNOYE PRIBOROSTROYENIYE,
+[906. No 2.
+
+Lykov. A. V.. "Teoriya Teploprovodnostl" [Theory of Heat Conductance].
+Moscow. "Vysshaya shkola", 1967.
+
+anurov, A. I.. "The Probability of Detecting Low-Contrast Segments in
+Images of Y-ray Television Systems." IZVESTIYA LETI. VOPROSY
+BIOMFDTTSINSKOCO PRIBOROSTROYENIYE, 1968, N0 74.
+
+9]
+FOR OFFNJAI.USEIONLY
+52.
+
+53.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+61a.
+
+65.
+
+66.
+
+FOR OFFICIAL USE ONLY
+
+Berlizov, 0. A., Zdasyuk, B. E., Kuchin, A. 1., and Sevast'yanov, Yu. 8.,
+"Methods of Controlling the Primary Operations of Thermal Technology in
+Production of Electronic Instruments," OBZORY PO ELEKTRONNOY TEKHNIKB.
+SER. 7. 1975, No 11.
+
+Mikhalkov, K. V., "Osnovy Televizionnoy Avtomatiki" [Fundamentals of Tele-
+vision Automation], Leningrad, "Energiya", 1967.
+
+Pechatnikov, M. N., Vostrov, G. A., et a1., "Hose-less Pumping out of
+Medium-Duty Generator Modulators," ELEKTRONNAYA TEKHNIKA. SER. 16, 1970,
+No l.
+
+Petrakov, A. V., Gorokhov, V. P., and Lupakov, I. V., "Some Parameters of
+:he Vidicon "hen Exposed to High-Intensity Short Pulses," PRIBORY I
+TEKHNIKA ZKSPERIHENTA, 1969, N0 1.
+
+Petrunin, I. Ye., "Fiziko-Khimicheskiye Protsessy pri Payke" [Physico-
+chemical Processes in Soldering], Moscow, "Vysshaya shkola", 1972.
+
+Pryamitsin, A. S., "The Use of Vidicons in the Small-Frame Scanning Regime,"
+VOPROSY RADIOELEKTRONIKI. SBR. 9, 1964, NO 1.
+
+Rabodzey, N. V., Astrin, V. A., and Kuz'micheva, N. V., "Questions of the
+Development of X-ray Television Microscopy of Opaque Objects," TRUDY
+Konanmn PO ELEKTRONNOY rammz, Moscow, "raunnm". 1966. No 2-
+
+Rastrygin, L. A., ”Sluchaynyy Poisk kak Metod Planirovaniya Ekstremal'nykh
+Eksperimentov. Planirovaniye Eksperimenta" [Random Search as a Method of.
+Planning Extremal Experiments. Planning the Experiment], Moscow, "Nauka",
+1966.
+
+Resin. V. I. , "Studies of the Influence of Noise on the Resolution of
+Applied Television Systems," VOPROSY RADIOELEKTRONIKI. SER. IX., 1966,
+No 5.
+
+Rozanov, L. BL, "Vakuumnyye Mashiny i Ustanovki" [Vacuum Machines and
+Devices]. Moscow, "Mashinostroyeniye", 1975.
+
+Riftin, Ya. A., "Televizionnaya Sistema" [Television System], Moscow,
+1967.
+
+Smiruov. V. I., "Kurs Vysshey Matematiki" [Course in Higher Mathematics],
+Vol 2, Moscow. "Tekhizdat", 1957.
+
+"Tekhnologiys Materialov v Priboroatroyenii" [The Technology of Materials
+in Instrument Making], Moscow, "Mashinostroyeniye", 1969.
+
+Timkov. B. V., "Toward a Theory of the Resolution of the Ideal Trans-
+mitting Tube." TBKHNIKA KINO I TELEVIDENIYA, 1967, No 12.
+
+Tunik, Ye. G., Verevkin, N. 8., and Berman, V. A., "Cathode Ray Strobo-
+scopic Instrument for Vibration Studies," BLEKTRONNA‘IA TEKHNIKA. SBR. lo,
+1967. No 3.
+
+92
+
+NR OFFICIAL USE ONLY
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+Uchevatkin, Ye. 1., "Accumulation of Signal and Noise on Targets of
+Cathode Ray Accumulators," VOPROSY RADIOELEKTRONIKI. SER. IX, 1965, No 3.
+
+"Upravleniye Sotsialisticheskim Proizvodstvom. Voprosy Teorii i Praktiki"
+[Management of Socialist Production. Questions of Theory and Practice],
+Moscow, "Ekonomika", 1974.
+
+Harrison, T. (editor), "Upravlyayushchiye Vychislitel'nyye Mashiny v ASU
+Tekhnologichcskim Protsessami" [Control Computers in ASU's for Industrial
+Processes], Moscow, “Mir", 1975, Vol 1.
+
+Berlidze, 0. A., Zdasyuk, B. E., Kuchin, A. 1., and Sevast'yanov, Yu. 8.,
+"Formalization of the Primary Operations of Thermal Technology and an
+
+Algorithm for Control from a Computer," ELEKTRONNAYA TEKHNIKA. SBR. 7,
+1975, No 1.
+
+Kharadzha. F. N., "Obshchiy Kurs Rentgenotekhniki“ [General Course in
+X-ray Technology], Moscow-Leningrad, "Bnergiya". 1966.
+
+Khrenov, K. Kh., "Svarka, Rezka i Payka Metallov“ [Helding, Cutting, and
+Soldering Metals], Moscow, "Mashinostroyeniye", 1970.
+
+Chervyakovskiy, V. I., and Shereshevskiy, L. 1., "Classifications of
+Methods of Statistical Control of Industrial Processes," ELEKTRONNAYA
+PROMYSHLENNOST‘, 1974, No 1.
+
+Cherepiu, N. V., "Osnovy Ochistki, Obezgazhivaniya i Otkachki v
+Vakuumnoy Tekhnike" [Fundamentals of Cleaning, Degassing, and Pumping
+out in Vacuum Engineering], Moscow, "Sovetskoye radio", 1967.
+
+Chercpanov, A. 1., "Dinamika Sistem Mnogokanal'nogo Pozitsionnogo
+Regulirovaniya" [Dynamics of Systems of Multichannel Positional Regula-
+tion], Moscow, "Energiya", 1970.
+
+Shenbrot, I. M., "Mashlny Tsentralizovannogo Kontrolya" [Centralized Moni-
+toring Machines], Moscow, "Bnergiya", 1968.
+
+Shcrshevskiy, L. 8., "Primary Purposes and Tasks of ASUTP's in the Elec-
+tronics Industry," ELEKTRONNAYA PROMYSHLENNOST', 1972, No S.
+
+Val'kov, V. M., et al., “The Elektronika K-201 -- Base Hardware Complex
+for Production Control," ELEKTRONNAYA PROMYSHLENNOST', 1972, No 2.
+
+Espe, V. 1., "Tekhnologiya Electrovakuumnykh Materialov" [Technology of
+Electrovacuum Materials], V01 1, Moscow, "Gosenergoizdat". 1962.
+
+Table of Contents
+
+Preface ..... . . . . . ..... . . . . . . . . . . . . . . . . . . . 3
+
+Chapter 1. Classification of Methods of Automated Control . ....... 5
+
+1.1. Development of Methods of Automated Control . . . . . . . . . . 5
+1.2. Deterministic Methods . . . . . . . . . . . . . . . . . . . . . 13
+1.3. Statistical Methods ...... . . . . . . . . . . . . . . . . 14
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Chapter 2. Methods of Automated Control of the Primary Operations of
+Thermal Technology . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+2.1. Development of a Formalized Model of the Operations of
+Metallizing Ceramics and Soldering Assemblies of Electronic
+Instruments . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+2.2. Mathematical Model of the Process of Heat Treatment of
+Semiconductor Structures in Diffusion Furnaces . . . . . . . . . . 30
+2.3. Mathematical Model of Annealing Metal Parts of Electronic
+Instruments . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+2.4. Automated Systems for Controlling Thermal Engineering
+Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+2.5. Control of the Processes of Metallization, Soldering,
+and Annealing . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+2.6. Control of Thermal Processes in Horizontal (Tunnel) Furnaces. . 45
+
+Chapter 3. Automation of the Assembly and Installation of the Electrodes
+of Generator Instruments . . . . . . . . . . . . . . . . . . . . . . 46
+
+3.1. Prospects of Automating Assembly in Multi-Item Production.. . . 46
+3.2. Automated Assembly and Installation of Cathode-Grid Assemblies. 52
+
+Chapter 6. Automated Control of Vacuum Engineering Processes . . . . . . 62
+
+4.1. Automation of Vacuum Equipment . . . . . . . . . . . . . . . . 62
+4.2. Hardware of Control Systems . . . . . . . . . . . . . . . . . . 66
+a. . Optimization of Pumping Out and Vacuum Treatment . . . . . . . 84
+
+Chapter 5. Automated Application of Galvanic Coatings to Items . . . . . 88
+5.1. Methods of Automation . . . . . . . . . . . . . . . . . . . . . 88
+5.2. Functions of Machine Control of Galvanic Lines . . . . . . . . 90
+
+Chapter 6. X-ray Television Stroboscopic Method of Automated Monitoring
+
+of the Stability of Shape of Design Elements of Electronic
+Instruments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+
+6.1. Development and Application of Television Methods of Visual-
+
+izing X-ray Images . . . . . . . . . . . . . . . . . . . . . . . . 97
+6.2. Factors That Determine the Resolution and Sensitivity to
+
+Contrast of the X-ray Television Microscope . . . . . . . . . . .112
+6.3. Resolution and Sensitivity to Contrast of X-ray Television
+
+Stroboscopic Monitoring . . . . . . . . . . . . . . . . . . . . .121
+6.h. Potential of Stroboscopic x-ray Television . . . . . . . . . .123
+
+Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .125
+COPYRIGHT: Izdatel'stvo "Radio 1 svyaz'". 1981.
+
+11,176
+CSO: 1863/115 - gun -
+
+9h
+
+FOR OFFICIAL USE ONLY

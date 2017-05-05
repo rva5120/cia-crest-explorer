@@ -1,0 +1,2062 @@
+FOR OFHCIAI. USE ONLY
+
+JPRS L/10240
+7 January 1982
+
+Worldwide Report
+
+NUCLEAR DEVELOPMENT AND PROLIFERATION
+
+(FOUO 1/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated: those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or trenslitereted are
+enclosed in parentheses. Words or names pro‘sded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.3. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OHNERSNIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE TNAT DISSENINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+HORLIMIDE REPORT
+
+NUCLEAR DEVELOPMENT AND PROLIFERATION
+(moo 1/32)
+
+CONTENTS
+
+EAST EUROPE
+CZECHOSLOVAKIA
+
+Phi-3652 Nuclear Power Station Diagnostic Systen Outlined
+(Karel Prokop, et 61.; mm. HO 9, 1981) neeeoeeeeeeeeeeet
+
+Direct Conversion of Nuclear mergy to Electricity Discussed
+(Jiri Rscek; mom, Ho 9, 1981)
+
+SUB-SAHARA! AFRICA
+NIGER
+
+Briefs
+President on French Uranium Negotietions
+
+SWAL
+
+Agreement Establishing Nuclear Materials Canpemr Approved
+(NAMES TROPICAUX ET minimums, 13 Nov 81)
+
+“ST EUROPE
+FRANCE
+
+Briefs
+Nuclear Research Discussions
+
+ITALY
+
+Nev Organization of National nuclear Enery Omittee
+(AmmEImm’ lsep 81) IOIOOCOIIOUICIOOOOOOOOOOOOOCOOOOOO
+FOR OFl-‘ICIM. NSF. ONLY
+
+CZECHOSLOVAKIA
+
+m-aesz 1:0ch Powrn smnou nmcms-nc srsrm 0mm
+Prague ENERGETIKA in Czech No 9, 1981'pp 386-392
+
+[Article by Eng Karel Prokop and Bug Milan Novak, E81, Dukcvany Nuclear Power
+Station, and Eng Svatobor Stech, Dukovany Nuclear Power Station Concern: "The
+PH-3652 Nuclear Power Station Diagnostic System")
+
+[Text] Currently, industrial equipment is becoming increasingly complex and ex-
+pensive. This also increases the need to assure its optimal operating condition,
+reliability and technical safety. These requirements can be met only if we have
+information on the processes.taking place in the equipment and on the devices and
+structural members which assure proper operation. For this purpose it is essential
+to monitor the condition of the equipment and processes taking place in it and to
+provide for signaling of unsafe (i.e., extraordinary or emergency) conditions.
+
+Modern methods for evaluating the state of processes and equipment include analysis
+not only of short-term average values of measured parameters, but also of changes
+in these parameters, for the changes brought about by a process contain important
+information about it. The characteristics of a dynamic process are its amplitude
+and frequency spectrum. In information engineering. the technique of evaluating
+statistical fluctuations of signals has been called "noise analysis.“ This method
+is particularly suitable for comprehensive monitoring of processes.
+
+In continuous measurement of the characteristics of a process, we primarily monitor
+the occurrence and development of deviations from measurement values corresponding
+to normal states of the equipment. In this way, we can identify the cause of an
+abnormal state and detect processes of equipment damage in their initial stages.
+
+It is advantageous to use the period when the equipment is being broken in (e.g.,
+the startup of a nuclear power station), when it is highly probable that the equip-
+ment and components are functioning correctly, to measure the characteristics of
+the normal state.
+
+Analysis of the noise components of various signals, including pressure, temperature,
+neutron flux, vibration and the like, has led to noteworthy results in diagnosis of
+processes occurring in such pressure vessels as nuclear reactors and reactors in the
+chemical and metallurgical industries. An advantage of these methods is that they
+do not require direct contact of the sensor with the working medium.
+
+1
+
+FOR OFTWCIAL USEZCNVLY
+FOR OFFICIAL USE ONLY
+
+To solve the problems noted above for nuclear reactors, the rn-sssz noise analysis
+system has been developed. This system allows diagnosis of damage to nuclear reac-
+tors and has been tested under operating conditions for several years. It includes
+monitoring of vibration in the reactor, its interior components and the control
+equipment drives; in addition. the system records the pressure values of the coolant
+in the reactor (pressure pulses) and the neutron flux inside and outside the reactor.
+The system also has instruments to locate loose components in the pressure vessel and
+primary circuit. All of these parameters are measured sﬂmultaneously by the PH-3652
+system. Analysis of the noise components of the measured quantities (noise components
+of signals) makes it possible not only to obtain short-term average values but also
+to determine the temporal (long-term) trends of such parameters. This makes it
+possible to monitor possible undesirable trends in parameters, which has special
+importance for diagnosis of reactor states.
+
+Purpose of the System
+Measured Quantities. Measurement Locations and Sensors
+
+For noise diagnosis in an operating nuclear reactor, the following quantities are
+monitored:
+
+a. The neutron flux density in the reactor core is measured by beta emission de-
+tectors;
+
+b. the neutron flux density outside the reactor is measured by ionization chambers;
+
+c. the coolant pressure at the reactor inlet and outlet and at selected locations
+in the primary circuit is measured by piezoelectric sensors;
+
+d. vibration of the pressure vessel, the control assemblies and the main circulating
+pumps is measured by piezoelectric sensors.
+
+Choice of measurement locations is based on calculations using mathematical models.
+The sensors are located where computations indicate that vibration problems are
+likely to be indicated most clearly.
+
+lnformatioa Content of Neutron-Flux Density Signals
+
+0f the measured quantities listed above, neutron noise gives the most extensive
+information. Almost all important processes in a nuclear reactor are reflected to
+some degree in the time trend of neutron-flux density. Thus, evaluation of these
+processes becomes possible through evaluation of neutron-flux density trends, using
+computations based 0n mathematical models derived from nuclear reactor theory.
+
+The noise composition of the neutron—flux density signals is influenced by the
+following effects:
+
+a. changes in reactivity produced by vibration of components inside the reactor or
+by coolant inhomogeneities:
+
+b. changes in the neutron-flux density produced by coolant inhomogeneities or
+changes in the thickness of the water-filled space between the reactor barrel and
+
+2
+INJR OFFICIAL USEZCMVLY
+FOR OFFICIAL USE ONLY
+
+the pressure vessel resulting from vibration of the reactor barrel; in this case
+we treat the core as a neutron source and the neutron detector is outside the
+reactor;
+
+c. changes in the neutron-flux denisty outside the pressure vessel resulting from
+movement of the core as a whole or of its individual components; this involves
+changes in the position of the neutron source relative to the neutron detector
+located outside the reactor;
+
+d. local disturbances in the neutron-flux density inside endpoutside the core
+resulting from effects operative in a particular location, e.g., inhomogeneity of
+the coolant, steam bubbles, local vibration.
+
+Information Content of Pressure Signals.
+
+0n the basis of previous experience, pressure pulse measurements can be used to infer
+the following effects (sources of pressure pulses):
+
+a. pressure pulses produced by the main circulating pumps; the frequency of the
+pulses is governed by the rotary frequency of the main circulating pump vanes and
+by their higher harmonics;
+
+b. pressure pulses resulting from changes in the hydraulic resistance of the inner
+fixtures of the reactor; these changes result from vibration of the components
+inside the reactor produced by coolant flow;
+
+c. pressure pulses resulting from the geometry of the reactor cooling circuit;
+d. pressure pulses resulting from turbulence in the coolant.
+
+Information Content of Vibration Sensor Signals
+
+The signals from the vibration sensors include mechanical movements of the components
+or connecting systems to which the sensors (accelerometers) are attached. However,
+the sensors can also detect vibrations originating far away from them.
+
+In order to be able to sense the most important vibration problems. we locate the
+vibration sensors:
+
+a. on the pressure vessel flange where the reactor barrel is suspended, making it
+possible to sense hcrizontal and vertical movements of the barrel;
+
+h. at suitable locations on the pressure vessel wall, e.g., in the zone of the
+intake and outlet connectors, in order to sense their vibrations;
+
+c. at selected locations in the primary circuit where maximum vibration may be
+expected, i.e., the main circulating pumps, the steam generators, and pumps in the
+primary circuit auxiliary systems.
+
+There are various sources of'mechanicsl vibration, such as the main circulating’
+pumps. movement of the main shutoff valves, the control-assembly drives. and coolant
+flow.
+
+3
+FOR OFFICIAL USE ONLY
+l!”lOFFKJAl.USHiDNLY
+
+The sensor placement described above'gives us the following main capabilities:
+
+I. monitoring the functioning of the nain circulating pumps, the main shutoff valves
+and the control-assembly drives; .
+
+2. detecting the eaistence of loose parts in the primary coolant by evaluating
+tapping (impact) against the walls and structural components:
+
+3. sensing and monitoring the mechanical vibrations of structural components (e.g.,
+seizing of bearings and the like).
+
+Measuring Apparatus
+
+The seasuring apparatus, a block diagram of which is given in Fig 1, consists of
+the following components:
+
+a. a signal sensor (detector);
+
+b. a preamplifier located near the sensor;
+
+c. the connecting cable between the sensor and preamplifier;
+d. the amplifier;
+
+e. a programming unit;
+
+f. evaluating equipment.
+
+Fig 1. Block diagram of PH-3652 noise
+analysis system
+
+Key:
+
+a. Detectors
+
+b. Preamplifier close to detector
+
+c. Amplifier with programming unit
+d. Evaluating equipment
+
+e. Ionization chamber
+
+f. Nuclear signal preamplifier box
+g. Kain nuclear signal amplifier box
+h. Vibration meter
+
+1. Six-channel oscilloscope
+
+1. Digital voltmeter
+
+1:. Box containing evaluating equipment “'- '- W “MN W W Mm — PM 3652
+l. Real-time analyzer
+
+n. Stereo amplifier and speakers in housing
+
+n. Vibration meter and coordinate plotter
+
+0. Tape recorder (recording on magnetic tape)
+
+p. Pressure pulse sensor
+
+q. Preamplifier
+
+r. Hecbanical signal amplifier box
+
+a. Accelerometer
+
+t. Emission Detector
+
+ 
+
+b
+FOR‘OFFKJAI.USE(NNLY
+FOR OFFICIAL USE ONLY
+
+The main technical problem in noise analysis is separation of relatively low~level
+noise (0.01-2 percent) from the average values of the main signal. In the subse-
+quent stage, the problem is amplification and transmission of the signal so that the
+desired signal stands out clearly against the background interference. These re-
+quirements are met by means of preamplifiers whose design allows a signal to be
+transmitted over a relatively large distance without losing its quality.
+
+Sensors
+
+Available information on the number and location of sensors varies. A survey of
+these data is given in Tables 1, 2 and 3. which show the numbers of individual types
+of sensors according to references 1, 2 and 6. Fig 2 has been developed according
+to the latest information [3, 4] supplemented with data from reference 5; it shows
+the measurement locations in the primary circuit. The five sensors located in the
+volume compensator [5} are, according to reference A. a special arrangement which
+was used only during the startup period. Currently, the volume compensator at the
+Bruno Leuschner nuclear power station has no sensors (units 3 and 4), but it is
+planned to equip this important part of the primary circuit with some sensors in
+units 5 and-6. However, no specific data are available. The location of sensors
+in the reactor can be seen from Fig 3.
+
+Table l. Sensors and their locations (data from technical information on PH-3652
+system [1]).
+
+Sensor Number Location
+Emission detectors 30 Core
+KS-30/l vibration sensors 1 Base of pressure vessel
+A Plane of bottom of pressure vessel,
+spaced at 90°
+a Plane below level of pressure vessel
+connections. spaced at 90°
+A Plane of pressure vessel flange, spaced
+at 90°
+3 Main circulating pumps (one sensor
+per pump)
+
+2 Control-assembly drives
+
+UDE—lSOe pressure pulse sensor 1 Pressure vessel: coolant intake
+1 Pressure vessel: coolant outlet
+2 Between main shutoff valve and main
+circulating pump
+5
+
+FOR OFFICIAL USE ONLY
+NR OFFICIAL USE ONLY
+
+Table 2. Survey of sensors (data according to reference 2)
+Sensors
+
+30 Self-powered neutron-flux detectors in groups of five in six channels
+inside the reactor vessel
+10 Ionization chanbers for measuring neutron flux, in groups of two with
+different sensitivities in five channels in the water jacket surrounding
+the reactor vessel. The high-sensitivity detector is used during startup
+and the low-sensitivity detector during power production
+Piezoelectric vibration sensor on base of pressure vessel
+Piezoelectric vibration sensors on surface of vessel below the core
+Piezoelectric vibration sensors on surface of vessel above the core
+Piezoelectric vibration sensors on surface of vessel between pipe connections
+Piezoelectric vibration sensors on flange of vessel
+Piezoelectric vibration sensors on control-assembly tubes
+Piezoelectric vibration sensors on outlets of the three circulating pumps
+Piezoelectric pressure fluctuation sensors on outlet piping of two circulat-
+ing pmps
+Piezoelectric pressure fluctuation sensor on vessel near one intake connection
+Piezoelectric_pressure fluctuation sensor on vessel near one outlet connection
+
+NWN§O~§£~H
+
+0—H
+
+Table 3. Survey of sensors used in units 3 and a of Bruno Leuschner nuclear power
+station (data according to reference 4)
+
+Type of sensor Number of sensors in:
+
+One unit Two units
+Self-powered (emission) detectors 60 120
+Ionization chanbers 6 12
+Pressure pulse sensors ' 8 l6
+Vibration sensors 52 10¢
+
+Total number of sensors 126 ' 252
+
+Special attention must be devoted to transmission of signals from the sensors to
+the preamplifiers and to the design of the preanplifiers themselves. It nust be
+assured that during signal transmission over a relatively long path there will be
+no undesirable attenuation or distortion resulting fron interference in the signal
+path.
+
+Emission Detectors
+
+Neutron-flux density in the reactor is measured by beta-emission detectors. Rhodium
+detectors 200 mm long are located at 5 vertical levels. in guide tubes.
+
+Detection of local changes in the neutron-flux density requires neasurenent at a
+relatively large number of points in the reactor core.
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL l'SI-f ONLY
+
+Pig 2. Measurement locations in primary circuit (for information purposes)
+Key :
+s . Ionization chamber
+
+1). Pressure pulse masurenent
+c. Vibration sensor
+
+ 
+
+06'. 1. Mlh'cl Imus v Mineral»; shrubs (Namath-l Mala)
+
+Pig 3. Location of sensors on reactor
+
+a. Ionization chamber
+b. mission detectors
+c. Pressure pulse sensors
+d. Vibration sensors
+
+   
+
+6 Mind: {Wﬂmf c
+amm Int-adjd
+
+0M. 3. (Imus! mime“ no rectum
+
+7
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL "SI-Z 0NI.\"
+
+The instantaneous detector current value is used for noise analysis: the transfer
+factor for the noise signal is:
+
+K‘ - 3 x 10-21 [amp-sec-clzlparticle]
+
+The signal is fed from the detector to a preamplifier located close to it. and fro-
+there to the main amplifier.
+
+Ionization Charter
+
+The neutron—flux density in the space around the reactor is measures by ionisation
+chambers located in the biological shield. The ionization chalbers are lovable
+
+vertically along the core zone.
+The transfer factors are:
+
+K‘ - 6 x 10-15 [amp-sec-cnzlparticle] (power range);
+Kb - 10"12 [amp-sec-cmzlparticle] (startup).
+
+The signals from the ionization chambers are fed to preamplifiers located close to
+then and from there to the main amplifiers.-
+
+Vibration Sensors
+
+Piezoelectric sensors capable of measurement in a range from 2 Hz to 10 kHz are
+used as vibration sensors. The transfer factor is:
+
+is - 20 [96/3]
+
+The signals from the vibration sensors are fed to preamplifiers located,cloae to
+then.
+
+Pressure-Pulse Sensors
+
+Pressure pulses at the reactor intake and outlet and at various locations in the
+primary circuit are neasured by pressure-pulse sensors.
+
+The transmission factor is:
+
+Bq - 350 [pC/HPa]
+
+with an average working pressure in the vicinity of 12 "We, the sensors can register
+pressure pulses down to op - 2 Ida.
+
+reanplifiers
+
+The preamplifiers increase the power level of the neasured signal, thus allouing it
+to be transmitted over some distance; otherwise there would be undesirable attenu-
+ation and distortion. The preanplifiers must be located as close as possible to
+the sensors or detectors, i.e.. within 5 to 20 meters.
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Preamplifiers for Nuclear Signals
+
+The preamplifiers (current amplifiers) for the measurement signals of emission
+detectors and ionization chambers are located. along with the power supplies for
+the emission detector channels. in the preamplifier box, close to the reactor. The
+signal input and output leads are joined to the box by connectors so that the box
+can be disconnected when working with the reactor.
+
+Vibration and Pressure-Pulse Signal Preamplifiers
+
+These are symmetrical discharge amplifiers whose transfer factors aEe so chosen
+that the output signal for vibration (acceleration) is 100 mV/m/sec - l V/g; for
+the pressure-pulse sensor output signal it is 2 V/lIPa.
+
+Main Amplifiers
+
+The main amplifier unit consists of two boxes containing not only the amplifiers
+themselves, but modular components for power supply, signal labeling, signal
+division (splitting the signal into short-term average values and noise components,
+amplification of noise components to a cannon level) and channel selection. All
+modular components and functional groups, inserted units, chassis and boxes are
+standardized. This design allowa effective use of spare parts and rapid repair.
+
+Main Nuclear Signal Amplifier 30::
+
+This box contains modular components of the main and dividing amplifiers for
+processing the signals from the emission detectors, with two limiting value signals
+(positive and negative limiting values) and modular signal labeling components.
+
+The group of channels carrying emission-detector signals from the preamplifiers
+which is chosen for evaluation may be selected Innually. The signals. from the
+ionization chambers are amplified and monitored for values in excess of the limits.
+Cmpensating and integrating amplifiers allow further processing of the ionization
+chamber signals. An adjustable integrating amplifier is used to integrate the
+signals from several ionization chambers when the reactor is at low power and to
+determine average values of location-dependent effects.
+
+The compensating amplifier allows precise measurement of deviations in the average
+values of the ionization chamber signals; these are used to determine the effective-
+ness of the control assemblies as a function of their position.
+
+Main Mechanical Signal Amplifier Box
+
+The main amplifier box contains amplifiers equipped with signals indicating that
+limiting values have been exceeded; these amplifiers are used to process signals
+from vibration and pressure-pulse sensors, which can be tapped with earphones or
+loudspeakers. In addition. the box contains modular signal labeling and power sup-
+ply components.
+
+9
+
+FOR OFFICIAL USE ONLY
+POI! OFHCIAL USE ONLY
+
+Evaluation Equipment
+
+The I’M-3652.13 evaluation equipment consists of the following devices:
+
+a. a six- channel oscilloscope;
+
+b. a digital voltmeter;
+
+c. a universal device for vibration measurement consisting of an oscilloscope, an
+indicator, a narrow-band analyzer, a control unit for processing the signal and a
+graph plotter;
+
+d. a measurement point selector;
+
+e. an output panel for a computer;
+
+f. an output for a magnetic tape recorder;
+
+g. a signal labeling unit.
+
+Technical Data
+
+Dimensions of box (meters):
+
+preamplifier box 0.6 x 2.1 x 0.6;
+
+main Amplifier box 0.8 x 2.0 x 0.6;
+
+evaluation equipment box 0.8 x 2.0 x 0.6.
+
+Sensors, Preamplifiers and Amplifiers
+
+A survey of the transfer factors and output signals of preamplifiers and amplifiers
+for various types of sensors is given in Table 4.
+
+The OPD 280 U Six-channel Oscilloscope
+
+This is a slow-speed oscilloscope:
+
+sensitivity 0.5 V/cm
+
+input impedance 5 megohns
+input frequency 0-10 kHz
+
+screen diagonal 280 mm.
+
+The Q-1206.010 DC Digital Voltmeter
+
+Measurement range 1 microvolt-l 16] (six ranges)
+Maximum sensitivity 1 digit per microvolt
+10
+
+FOR OFFICIAL USE ONLY
+FOR (“W-N1 U. I'SF ()NU'
+
+'l‘able lo .
+
+700. G
+
+1 ’ 2- .mm. 3! 4 PMs-alone i mum:
+Mom.- n-lit-mn Tyn slim-tr Memory (elm ——
+
+I .
+“W M'm'“ ; ’1W’ 5; mm» anus. ’mﬂs: mum "‘“6
+
+m-elulrnl 10 K5 30 l
+
+I .
+_____| ____
+11 l ODE IMH'
+
+humm- Ink“
+quu.-I.u 12 «mm o.-
+.ln-rorn
+
+~01
+—.g¢o:— co
+
+IIIIII
+“O
+a
+
+~b3=
+
+~90:- 90
+222 “iii...
+
+2!
+
+444444 444444
+..
+O
+
+a
+
+I.
+444444 444444
+.37???
+
+o
+opupg
+
+E
+
+bums Ioku women! Vssn‘
+«mama 1 ton-9|? _ 17' :‘0' ‘ 10 u— ' ' ' ' ""‘l... Eliot
+(ouhron) :5). s. M 12“ ' rm.
+
+‘II
+0.10 -—-I ION
+
+nrulmno
+(on! core)
+
+komom
+
+RS: 55 cause
+
+\‘scu'
+- 0
+IO ensues
+
+I
+_—_l'—— .______ — —— \’ .
+ballots toku 11; lo ulucsl _ _ I.lO.l0-' sen
+
+444444
+llllll
+
+0.1 \':M
+
+l 0.0! \‘IuA
+
+ 
+
+Key:
+
+1. Measured quantity 10. Acceleration
+
+2. Type of sensor 11. Pressure
+
+3. Sensor, transfer factor. 12. Neutron-flux density (in-core)
+frequency range 13. Beta-ell“ n detector
+
+lo. Preamplifier llo. Amp-sec-cm particle
+
+5. Transfer factor 15. Volt-sec—cn [particle
+
+6. Output signal 16. Neutron-flux density (out-core)
+
+7. Amplifier 17. Ionization chamber
+
+8. Transfer factor
+9. Output signal
+
+Vibration-Measuring Instrument
+
+Section powered from electrical
+
+System (11031) 220V/110V
+External source-battery 12 V
+11
+
+FOR OFFICIAL USE ONLY
+FOR OFHCIAI. USE ONLY
+
+11 163 Narrow-Band Analyzer
+
+Frequency range 0.2 lit—20 kHz
+
+Relative bandwidth 31, 102, 302
+
+11 018 High-Pass Filter
+
+Limiting frequency 16-500 Hz (switchable by half octaves)
+11 ozs Indicator Unit '
+
+Indicator ' Effective, positive and negative peak
+(mimm) value
+
+Frequency range 1 lit-15 Idle
+11 028 Oscilloscope
+
+Frequency Range 2 112-15 kHz
+
+Time base speed 300-0.03 msec/cm (tangential)
+x: horizontal sensitivity 20 mlv'olt
+
+Y: vertical sensitivity 8.5 or 22-75 Ill/volt
+
+Real-Time Analyzer (External Device)
+Frequency range 20 “2-20 kHz
+
+Measurement capability Instantaneous, peak (maxim) value
+Filter and broadband
+
+channels 30 channels by thirds of an octave
+5 broadband channels
+Input resistance 100 kohm
+
+Location of Devices
+
+The spatial arrangement and location of the sensors and preamplifiera is described
+in the section on measuring apparatus and in Tables 1, 2 and 3. For servicing
+reasons. it is recommended .that the amplifier boxes and evaluating equipment boxes
+be located close to the computer used for signal analysis.
+
+Survey of Instruments Included in Noise-Analysis Syst-
+
+ 
+
+Nane 2m
+Sensors
+
+Vibration sensor KS 30/1-
+Fressure pulse sensor @E-lSOe
+
+Mission detector (ED)
+Ionization chamber (11)
+
+Connector cable 5700/20
+
+_12
+FOR OFFICIAL USE ONLY
+PM 3652.10 Nuclear Signal Preamplifier Box
+
+Emission-detector signal amplifier 6386-110
+Ionization chamber signal preamplifier 6386-120
+Sk—l3 stabilizer ' 6882-13
+Transformer T'l388
+
+Section powered by electrical system 3301-26
+
+Plug-in unit with blower
+Power system connection panel
+Lamp and fuse panel
+
+Connector panel
+
+6386-335 Mechanical Signal Preamplifier
+Preamplifier connecting block
+
+PM-3652.ll Nuclear Signal Main Amplifier Box
+
+Main emission-detector signal amplifier 6386-210
+Compensating amplifier 6386-221
+Compensating amplifier 6386-222
+Integrating amplifier 6386-219
+Separating amplifier: in
+
+and signaling labeling 6386-211
+Separating amplifier: - .
+
+IR and 1! channels 6386-225
+Main amplifier of IX signal 6386-330
+Relay unit 6386-68601
+Signal labeling unit switch 6386-215
+Signal labeling unit matrix C 6386-685
+Modular power supply - 3206/15
+Modular power supply 3307/15
+
+Power system connection panel
+
+Power supply control unit
+
+Program panel (manual program selector)
+
+Output signal panel
+
+Ionization chamber power supply 6686-50
+
+PM 3652.12 Mechanical Signal Amplifier Box
+
+Main mechanical signal amplifier 6386-330
+Signal labeling switch 6386-2158
+Signal labeling unit matrix C 6386-685L
+Amplifier for earphone 6832-03A
+Modular power supply 6882-33
+Modular power supply ' 6837-20
+Modular power supply 6387-31
+
+Switch panel (monitoring)
+
+Output signal panel
+
+Rectifier and filter unit
+
+Transformer
+
+Power supply cable panel
+
+Programming unit 6386-360
+FOR OFFICIAL USE ONLY
+
+PA 3652.13 Evaluating Instrumentation Box
+
+Six-channel oscilloscope OPD 280/0
+
+Digital voltmeter 6 1206.010
+Vibration meter
+
+Box 110 12 (36 601)
+Power system section 11031 (SH 61)
+Oscilloscope ' 11028 (SH 50)
+Indicator unit 11025 (SH 40)
+Narrow—band analyzer 11163 (SH 32)
+Control unit PM 3310 (SH 71)
+High-pass filter 11018 (SH 23)
+
+Signal labeling unit
+
+Measuring location selector
+
+Panel for output to computer
+
+Panel for output to recording device
+
+Panel for connection to power system
+
+Modular power supply (SV/GA)
+
+nodular power supply 3307/15
+
+Evaluating Instruments
+
+Real-time analyzer 01012
+Stereo amplifier RSV 921
+Speaker box 39301
+
+Note: The technical design of the system allows an increase in the number of
+measuring locations.
+
+System Capabilities
+The noise-measurement analysis system has the following features and capabilities:
+
+1. It has multiple uses in nuclear engineering and the chemical and metallurgical
+industries.
+
+2. It allows monitoring of the operating condition of equipment which is not
+equipped with measuring and regulating systems.
+
+3.- It gives timely signals of changes in an operating process or the occurrence of
+damage to machinery and equipment. It can be used to evaluate the probable cause
+of damage, and thus makes it possible to prevent breakdowns and emergency conditions
+
+in process equipment.
+
+a. It provides data for planning of inspections and repairs, and can be used to
+plan the necessary scope of work during planned equipment stoppages. This raises
+equipment maintenance to a qualitatively higher level.
+
+5. Equipment repairs can be limited and the interchange system can be used for
+smaller radioactive components.
+
+1h
+FOR 0F?1CLA1.USEI)NLY
+6.
+
+FOR OFFICIAL USE ONLY
+
+It allows the detection and location of loose parts. This prevents major
+
+damage to equipment, excess shutdons of the power station and the resulting loss
+in power produced.
+
+7.
+
+It processes and evaluates signals from vibration, pressure, temperature and
+
+neutran-flux density sensors, and can conduct frequency and time analysis of the
+measured values.
+
+1.
+
+2.
+
+lo.
+
+5.
+
+BIBLIOGRAPHY
+
+"Rauchmesssystem PM 3652, Technische information [Technical Information on
+FM 3652 Noise Measurement System]."
+
+Jonak, F. "Hoderne metody registrace a hodnoceni mechanickych vibraci primarnych
+okruhu .15 s 1ehkovodnymi reaktory a zakladny pristrojove vybaveni [Modern Methods
+of Recording and Evaluating Mechanical Vibrations of the Primary Circuits of
+Nuclear Power Stations Using Light-Water Reactors, and the Basic Instrumentation
+Usedl." luv-43147, Rez, September 1978.
+
+Trip report on business trip to East Germany on 5-11 October 1980.
+
+Information presented by East German specialists at a seainar on the diagnostic
+system for nuclear power stations using VVER-440 reactors, held on 15 January
+1981 at UJV [Nuclear Research Institute}, Res.
+
+Giera, 0.; Schumann, P.; Lot, K; and Eberbach, A. "Opyt razrabotki, proyektiro-
+vaniya i primeneniya vo vremya puskonaladochnykh rabot i ekspluatatsii ABS
+sistemy ustanovok dlya diagnostiki, rabotayuahchikh na osnove analiza shunov
+[Development, Design and Use During Nuclear Power Station Startup, Adjustment
+and Operation of a Noise-Analysis System of Diagnostic Devicesl," C-80-10/GDR.
+
+COPYRIGHT: SNIL, 1981
+
+8480
+
+C80:
+
+5100/ 3006
+
+15
+
+FOR OFFICIAL USE ONLY
+FOR ()FFK'IAI. USE ONLY
+
+WWW
+
+DIRECT CONVERSION '01" NUCLEAR NERO! T0 ELECTRICITY DISCUSS-
+Prague ENERGETIKA in Czech No 9, 1981 pp 393-399
+
+[Article by Eng Jiri Racek, Electrical Engineering Faculty, VUT [Technical Institute].
+Brno: "Methods of Direct Conversion of Nuclear Energy to Electrical Energy"]
+
+[Text] Types of Direct Conversion of Energy to Electricity
+
+The main sources of energy for the production of electricity can be divided into
+the following groups:
+
+-the energy of solar radiation;
+-cheaical energy;
+
+-hydraulic energy;
+-geothernal energy;
+
+--nuclear energy.
+
+The energy of solar photons heats and illuminates the earth and is converted into
+the kinetic energy of asrine currents, wind in the atmosphere and waves on water
+surfaces. into the gravitational potential energy of clouds and streams of water,
+and into the energy accumulated in plants. He may consider chemical energy (parti-
+cularly fossil fuels) as solar energy accumulated in the depths of the earth in the
+course of its geological development. In the broad sense, then, we nay include all
+of these energy sources in the category of solar energy.
+
+The natural flow of geothermal energy is fed by two sources, namely heat accumulated
+in the depths of the earth and heat newly created within the earth, primarily by
+natural radioactive processes. In practice, it is frequently difficult to distin-
+guish between use of the natural flow of geothermal energy and use of the stored heat.
+
+The energy balance is shown in more detail in Fig l.
+
+16
+FOR 0F1l€1A1.lﬂﬂE(ﬂVLY
+Pig
+
+Key:
+
+1.
+
+There are various ways of producing electrical energy from the sources described
+At the end of the 1950's there was a surge of interest throughout the world
+The term "direct conversion" began
+
+above .
+in direct conversion of energy into electricity.
+to be applied to methods of obtaining electrical energy which did without moving
+
+components such as turbines. A systematic survey of the main energy conversion
+
+a
+.-/m.'leezw/rzz 10' m) Whumé) Cid/Mama amen/w
+
+FOR OFFIGAL USE ONLY
+
+b amini ' Wi d nedmwgia-
+
+   
+    
+  
+
+0
+
+v,“ .'.
+
+rang/reg 51?,35 7W) h
+:7)?” be": gammy
+
+      
+
+'e tern: rln
+
+‘vﬁ*l‘?7 if
+'0'.
+
+mm: and
+
+     
+      
+
+m’erné ejvyu .‘wa’ e-ema
+.1 hulaém ens-3w c
+
+{f 8 ":::':'r«' mm;
+L '5?) m1] is!)
+
+ON. 1. Scum wank“ 011mm 2m
+
+1. Energy balance of the earth.
+
+Solar energy m. Energy accumulated in plants
+Radiation (short wave) n. Decay
+
+Radiation (long wave) 0. Animals
+
+Mechanical energy of the solar p. Conduction of heat
+
+system q. Surface of the earth
+
+Direct reflection r. Energy of the earth
+
+Hydraulic energy s. Fossil fuel (600 million years)
+Direct conversion to heat t. Nuclear energy, thernal energy,
+Convection: volcanoes. hot springs gravitational energy
+Circulation of water
+
+Accumulated energy in Ha.er and ice
+Wind energy, wave energy. energy of
+
+currents
+
+Photosynthesis
+
+methods is given in Pig 2.
+
+l7
+FIMRCMHWCIAI.USEZ(MVLY
+I”)! OFFICIAL "SI-I ONLY
+
+Fig 2. Survey of the main methods of conversion of various forms of‘ energy to
+electricity.
+
+a b
+
+Key:
+
+a. Solar energy
+
+1). Nuclear energy
+
+c. water power
+
+d. Chemical energy
+
+e. Combustion chambers
+
+f. Fission reactor
+
+3. Thermonuclear reactor
+
+h. Thermal energy
+
+1. Hydraulic turbine
+
+j. Heat turbine
+
+k. Mechanical energy
+
+1. Photoelectric converter
+
+m. Rotary electrical generator
+n. Chemical fuel cell
+
+0. Galvanic cell
+
+p. Thermoelectric converter
+
+q. Thermionic converter
+
+r. Parametric converter -
+s. Electrohydrodynamic converter 0"- 2- mm W M m mam (om mic
+t. Magnetohydrodynamic converter "W‘mu'
+
+u. Radionuclide converter
+
+' v. Electrical energy
+
+ 
+
+Among the forms of direct conversion of energy to electricity, solar energy is used
+as the source primarily in solar batteries and chalice]. fuel cells. Almost all other'
+methods of conversion of energy to electricity use nuclear energy as the sauce.
+
+Some methods of producing electrical energy from the energy of nuclear fission or
+fusion are shown schematically in Pig 3.
+
+Fig 3. Processes for producing electrical energy from the energy of nuclear fission
+or fusion.
+
+Key:
+
+n. Energy of nuclear fission or fusion
+b. Heat
+
+c. Steam turbine
+
+d. Mechanical energy
+
+e. Generator
+
+f. Electrical energy
+
+g. Thermoelectric or thermionic converter
+h. Plasma
+
+i. MED generator
+
+ 
+
+18
+not omcm. use onu'z
+FOR OFFICIAL “SI; ONLY
+
+0f the methods for direct conversion of energy to electricity which have been des-
+cribed, magnetohydrodynamic OHHD) and thermionic conversion are considered the most
+suitable for large-scale power production in the near future.
+
+Hagnetohydrodynamic Conversion of Energy
+
+The operation of MED generators is based on the same principle as that of inductive
+generators. with the essential difference that in the ME!) generator it is an electri-
+cally conductive fluid (plasma or liquid metal), instead of a solid conductor, which
+moves in the magnetic field.
+
+A simplified diagram of an MED generator is given in Fig 4. The electrically con-
+ductive material flows through a channel in the form of an expansion nozzle of
+rectangular or square cross section. Two opposite walls parallel to the magnetic
+field B are electrically conductive and form the electrode system; the other two walls
+are nonconductive. The active part of the MED generator (in which the electrodes are
+located) is in a magnetic field, with the pole pieces of the magnet located above and
+below the nonconductive walls.
+
+Electrical energy is obtained from the MED generator by converting some kinetic energy
+and some potential energy. The transfer of energy from the flow of working medium to
+
+the external load circuit results from a complex process of interactions between
+electrically charged particles and the external magnetic field and between charged
+and neutral particles.
+
+The current densitys of a flowing gas moving with a velocity'QVin a magnetic field
+of flux density
+
+5‘ (3+W)’
+
+where ifis the electric field intensity under universal external load resistance
+and (r is the conductivity the working gas. Because the electric field in-
+tensity during free passage is - -vi: we can use the load factor K, defined as
+the ratio of the electric field intensity under load to the intensity in free
+passage, 1. e.,
+
+to express the specific electric power of the Hun generator, provided that tag
+vectors of velocity v. magnetic flux density'i’and electric field intensity are
+mutually perpendicular:
+
+P - ovznz (1-K) K.
+
+For given values of 6‘ , v and B, the power output is at a maximum at K - 0.5. If
+the magnetic flux density is greater than about 1.5-2 T, the Hall effect begins to
+
+become important, and instead of a Faraday-type HHD generator we have a Hall-type
+generator.
+
+19
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL US}: ONLY
+
+Fig ‘0. Arrangement of a Faraday-type ‘ :
+HHD generator and directions of y M
+
+the principal vectors. ﬂ—Lg— — _ _. ._ _._..-___
+
+ 
+
+0&4. WW Windy-Mao germ
+rim mmWoueryam-nnm
+
+As can be seen from the last enuation given, the electrical conductivity of the
+working substance is an extremely important quantity. An inert gas is electrically
+conductive only if it is at least partially ionized. Accordingly, it is heated to
+
+a high temperature, 2000-3000" K. at which a low-temperature plasma is produced.
+
+In order to increase the electrical conductivity. a certain quantity of an easily-
+ionized alkali metal such as potassium or cesium (ionization potential of Cs ~ 3.89
+v. of K N 10.34 V) is added to the plasma. Even in this case, the electrical con-
+ductivity of the lay-temperature plasma is rather low, on the order of 10 S/m. In
+order. to make tv reach the required value, the working median must he accelerated
+to high speeds, on the order of 1,000 m/sec. This is generally done in a nozzle.
+
+The electrical conductivity of liquid metals is high. on the order of lO6 S/m" . and
+accordingly it is unnecessary to accelerate then to high speeds. They are accelerated
+in an injector by a current of their own vapor, with which the liquid metal nixea,
+producing a two-phase mixture. The liquid phase is the magnetohydrodynamic working
+media and also the energy source. while the vapor phase is the thermodynamic working
+
+medias during injection.
+The working medium may flow in an Open or closed cycle.
+
+In the open cycle, the working medial flows from the heat. source. (combustion chamber)
+through the Mill) channel. the steam generator and the separator, to the atmosphere.
+In this case the working mediu- is the gas produced by combustion, with an ionizing
+
+additive.
+
+Closed cycles, in which the working fluid moves in a closed circuit. can be divided
+into:
+
+-cyc1es using plasma (inert gas), in which the heat source may be, for example,
+a high-temperature nuclear reactor (Figs 5 and 6) or a controlled thermonuclear re-
+actor; combustion of fossil fuels may also he used, with the heat being transferred
+
+to the working media in a neat exchanger;
+
+«the liquid metal cycle. in which the heat source may be a breeder reactor (Pig 7),
+a high-temperature gas-cooled reactor, a coal-burning fluidized bed and the like.
+
+20
+FOR OFFICIAL USE ONLY
+U.
+
+1
+
+ON. 5. WWW-om, union! M I Win
+m a 3 porn! alum
+
+n-msmxm-Wumnm
+"-Mcuhmc-cmw: dunnounummw
+
+S |
+. z. i
+ON. 6. Wk" and!” 06M 1 Wanton
+
+Wasmum
+
+Q . vmxuuloul Inna: W - whim” “Mun
+II. - nay-owl twins: 6 - another: K - low M - mu
+
+ 
+
+Obi. 7. Mawmy union) M a Mlkwim
+main man. a mm c 3 porn! mom
+
+I - W van «that (all. in W '9!!th no“ I'lmim
+a. Mutual calm): I . Mal-N: M06 - mmmdn‘nwaﬁ
+Mon '1 - pun! "mu: 6 - memo:
+FOR OFFICIAL USE ONLY
+
+1n the case of nuclear heat sources, where for safety reasons only the closed cycle
+can be used, the situation is more complex than for nonnuclear open-cycle sources.
+
+When we consider these possibilities we find considerable discrepancies in the re-
+
+quired working parameters, i.e., tenperature and pressure, for the nuclear reactor
+
+and the m generator, which must be taken into account in the design process.
+
+Thermionic Energy Conversion
+
+Thermionic energy conversion makes use of thermionic emission of electrons from the
+surface of a heated metal. The basic structure of a thermionic converter (rm) con-
+sists of a set of two electrodes, an emitter B and a collector K. The linear dimen-
+sions s and of their surfaces (generally S - SK) are much greater than the dis-
+tance dxbetween the electrodes. A schematic d ram of a mu is given in Pig 8.
+
+Fig 8. Thermionic converter: a, with 1
+load circuit; b, cesiu diode. -
+
+u.—
+
+K
+
+LD"
+0 R - . _
+1) bl u:
+
+05!. 0. mm armies!» Isl-lb
+a) n munda- M. I) as“ 41049
+
+In terms of the nature of the space between the electrodes we distinguish vacuum
+converters and gas-filled converters. The purpose of the gas atmosphere is to fa-
+cilitate ionisation in the interelectrode space, thus decreasing losses in the passage
+of electric current between the emitter and collector; the atmosphere generally used
+
+is cesius vapor, which is the easiest to ionize.
+
+This electrode syst- is analogous to the design of vacuum or gas-filled diode tubes,
+whose cathode and anode correspond to the emitter and collector of the m4. Like
+the cathode of the diode tube, the emitter of the run is at a high temperature, pro-
+ducing an electrical current by thermal emission of electrons.
+
+A thermionic converter containing cesium vapor is generally called a "cesium diode":
+a diagram is given in Fig 8. It consists of a closed bulb containing electrodes 3
+and K, at whose coldest point is a container of liquid ces.-.n; the temperature TCs
+of the cesium uniquely determines the (saturated) cesium vapor pressure p“.
+
+The emitter temperature ranges from 1,500° to 2,200' K, and the collector temperature _
+may be as high as 1, 000° K. To achieve a low-voltage arc discharge requires a high
+cesiu vapor pressure (p as 0.13-1.30 kPa), which corresponds to a temperature
+
+TCs as 550-650° K. hegistance d is generally 0.2-0.3 II.
+
+The high operating temperature imposes extraordinary requirements regarding the
+material and insulation of the electrodes. Accordingly, such refractory metals as
+No, Nb, H and Re are used for the electrodes.
+
+22
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Nuclear Sources Under Consideration for Direct ConVersion of Energy
+
+A high-temperature gas-cooled reactor (area) is a graphite-moderated helium-cooled
+reactor. The high temperature of the coolant exiting from the reactor is of interest
+not only for direct use in mnufacturing processes or for combination of the high-
+temperature reactor in a direct cycle with a gas turbine, but also in terms of the
+possibility of using the M as a heat source is closed-cycle magnetohydrodymmic
+systems (figs 5 and 6).
+
+Basically there are two types of area: a reactor with hexagonal fuel elments and
+one with spherical fuel elenents. Electrical power stations with capacities of 300
+MB of each type are in operation or under construction (Table 1).
+
+Table 1. Main parameters of operating and under-consturction nuclear power stations
+with high-temperature gas-cooled reactors.
+
+he. 1. M's-s: ”nun” mommy}. o bolus-M 5mm» divans a W m thousand nah."
+——-————————___________
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+   
+          
+
+I
+I mum Reactor ; m noun I ma mm I m St. Wain ; Tarmac
+I sun Country I on I ran ' tn ' xsn
+-_—_—————-_———- -————— —_—l
+I no: endow do mvm Year commissioned I new ' no. mo mm
+____—_—.___.__——___________
+; I
+g ‘a‘rpelu! vrtnn mm : um I so ' um no
+mum-m x-ykon NW) I u . It: I no no
+8 \‘Ilnpul u—plou Dina IR] 010 : 5” I 619 523
+vmupu union nlnn m l on ma = mu m:
+e 'n-t ply-u mm: ' m m i o I a a
+f Pronto! mint-bu! fku") I “.1 18.1
+
+m i 205.5
+
+       
+
+'ldrlnomowu ‘ me nu
+'1 nlanoraul- uhllcnl tom-mum moron
+
+Key:
+
+a. ﬂeet output 04“) f. Mass flow (kg/sec)
+
+b. Electrical output (IN) 3. West Germany
+
+c. Intake gas temperature (°K) l) Disassembled in 1976
+
+d. Outlet gas temperature (°K) 2) Planned beginning of commercial
+e. Gas pressure (HPa) operation
+
+The temperature of the gas in a high-temperature gas-cooled reactor is limited by
+specific requirements imposed by the nuclear fuel.
+
+Development of this type of reactor has proceeded the farthest in the United States
+and West Germany. The prototype reactor of the Peach Bottom nuclear power station
+(United States), with an output of 40 PM, was extremely successful from the beginning
+of comercial operation in 1967 until planned disassembly in 1974.
+
+The overall operating characteristics of the Peach Bottom ml were particularly
+satisfactory in terms of fuel and of power plant requirements. There were no major
+equipment malfunctions. In addition, there was excellent agreement between cal-
+culated and actual core characteristics, which confirmed the methods used and
+provided a reference data base for use in large power stations with HTGR's.
+
+23
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In 1979, commercial operation of a 330 We nuclear power station with an HTGR re-
+actor was begun in Port St. Vrain (United States). A umber of difficulties were
+experienced during startup, but they were not in essence caused by an erroneous design
+concept, so that it may be expected that the advantage of this type resulting from
+the high outlet temperature of the helium will make itself felt with time. The
+
+Fort St. Vrain station is planned as a demonstration unit for systens and components
+of the type, to be used in power stations with large HTGR's.
+
+The AVR prototype high-temperature reactor in Julich (PRC), with a capacity of 13.5
+ml, has been in operation since 1969. The spherical bed concept is attractive be-
+cause it is suitable for high temperatures. This prototype reactor achieves an
+output temperature of 950° C, while in the present state of develop-ant the output
+temperature of a prismatic-core design is fully 100° lower. This reactor is expected
+to be in operation until at least 1983. A power-station version with a capacity of
+300 MN is being built at Schmehausen.
+
+Operating experience with HTGR reactors at high temperatures is now being acquired.
+Experience with a 330 MW unit and experience in constructing power stations with
+advanced gas-cooled reactors (AGR) indicate the difficulty involved in achieving
+the intended objectives. The advantages of the high output-gas temperature do not
+particularly manifest themselves in increased steam parameters, but are the basis
+for the high efficiency of a cycle including a gas turbine and HHD generator.
+
+The concept of a gas-cooled fast-breeder reactor (GFBR) 'uses the core of a heliu-
+cooled fast-breeder reactor to achieve a high reproduction coefficient in a gas-
+cooled system. The operating pressure in the primary circuit will be about 9 KPa,
+allowing a rather high power output per unit volume. '
+
+Gas-cooled breeder reactors have been under consideration for many years, but the
+combination of high pressure and high output per unit volume has posed difficult
+safety problems. These problems have been satisfactorily solved by development of
+a reactor pressure vessel made of prestressed concrete.
+
+The development of gas-cooled fast-breeder reactors makes considerable use of ex-
+perience from the operation and development of gas-cooled thermal reactors. Some
+aspects can be taken over directly into gas-cooled breeder reactors (for example.
+construction preparation and design approaches, quality assurance techniques and
+research and development methods). Information on helium technology will be derived
+from the high-temperature reactor programs and from operating experience with these
+reactors. The fuel for the GPBR is similar to that of sodium-cooled fast breeder
+reactors.
+
+Development of a GPBR with a capacity of 300 H" has been proceeding in the Soviet
+Union. Protocype GFBR's with capacities of 600 H“ are being proposed in Western
+Europe and the United States.
+
+With regard to the safety of GFBR reactors, it is generally agreed that they may be
+treated in exactly the same manner as gas-cooled thermal reactors. The main
+difference is the high power output per unit volune of the GPBR core and the re-
+quirenent for renoval of excess heat.
+
+2;
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+However, solution of the overall problea of gas-cooled fast breeder reactors is
+lagging rather far behind work on liquid-metal-cooled breeders.
+
+It is also necessary to say a few words about the latching of reactors to MED
+generators. To cut investment expenditures on gas-cooled reactors it is necessary
+to achieve the highest possible power density, which requires a high coolant pres-
+sure. In MED generators, on the other hand, a lower operating temperature increases
+the electrical conductivity and thus the possibility of obtaining high generator
+output. Ultimate optimization of this equipment will depend on the relative expenses
+of the two main components, i.s., the reactor and the HUD generator.
+
+Liquid-metal-cooled fast-breeder reactors (WBR) are also under consideration as
+sources of heat for liquid-metal MED systems. The operating temperatures would
+range from 950° to 1,300° K, only slightly higher than the operating taxperatures
+planned for breeder reactors of this type. Fig 7 is a diagram of an MED generator
+with an LMFBR reactor.
+
+Initial ideas of the time required to develop comercial models of power-producing
+breeder reactors have been considerably altered as a result of the extraordinary
+technical demands involved.
+
+The Soviet Union, France, the United Kingdom, west Germany, Japan and the United
+States currently are in the forefront of fast-breeder reactor development. Small
+nuclear power stations with experimental prototype breeder reactors having capacities
+of 20 to 1.0 MW have been in operation for more than 15 years in these countries.
+Experience obtained in the operation of the first generation of experimental
+fast-breeder reactors is being used as a basis for design and construction of nuclear
+power stations with second-generation fast-breeder reactors having capacities in the
+vicinity of 250 MW. Three prototype power stations with such reactors have already
+been in operation for several years, while a fourth was put into operation in April
+
+1980 (Table 2) .
+
+The Soviet BN-350 prototype fast-breeder reactor (Shevchenko) was first connected
+to the power grid in 1973. It has a capacity of 135 MW and in addition produces
+5,000 tons of desalinated water an hour. Operation of the reactor to date has pro-
+vided valuable operating experience, including experience with repair procedures
+involving disconnection of the main sodiun piping and cleaning the products of re-
+action between sodiun and water or air from the steam generators and circuits. Bx-
+perience has indicated the possibility of constructing commercial nuclear power
+stations with such fast-breeder reactors.
+
+The French Phenix prototype reactor (harcoule) has been in operation since 1971..
+Technical data obtained during startup, operation and refueling have confirmed the
+design assumptions.
+
+The British PPR prototype reactor (Dounrey), went critical in 1974, and first pro-
+vided electricity for the power grid in 1975. The behavior of the core, which uses
+a Pu02-U02 mixed oxide fuel, and of the equipment and the primary and secondary
+sodium circuits were in accordance with design calculations.
+
+25
+FOR OFHGAL USE 0!“ .Y
+FOR OFFK'IAI. “SI-I ONLY
+
+Table 2. Main parameters of prototype and demonstration nuclear power stations
+uith liquid-aetal-cooled fast-breeder reactors.
+
+To). 1-. Home; our-Imp M a 4M.» m eheudna a ”an”. "“7 dot-m mn tom
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm Reactor I 38-3” Ml: ; PIE 3340.
+our Country sass b M a_ van sauna sass.
+not mean do mm! Year comaissioned I 191: . 1m ' IO" mo
+c roads! rrkonmm 1°00 ' 590 m ' mo
+d semen rite-(31W! 356') I m I no no
+e Teﬂon oodlkn II vistuou s rectum (‘0) 500 m an no
+f ‘l'eoIoupdtyl'Cl I no I m I as 50;
+m any mm 5.0 | 10.: : 1a.: “.0
+R rmm ms , «.3 - 4.: us
+(ll—O”) I ":43”
+1 Whom ”Mr” I u u ' 5.: u 1
+j om. minor-- I am", buts"! 1: bounovyl may,
+H us my a 311-0 ms owl-elm. may as bodlau
+Key:
+a. France h. Charge (tons)
+b. USSR 1. Burnup (TJ/kg)
+c. Heat power (Mn) 3. Type of reactor
+d. Electric power (m) k. Loop type
+e. Temperature of sodium at exit 1. Pool type
+from reactor, °C 1) 135 HP and 5,000 tons of desalinated
+f. Steam temperature, '0 water per hour
+
+g. Steam pressure ' (HPa)
+
+Each of these three operating prototype ka's (BR-350, Phenix, PPR) has encountered
+the well-known problems of lack of tightness in the steam generators and intermediate
+heat exchangers, but the reactors themselves have worked exceptionally well. All
+three have achieved record availability coefficients of 80-90 percent over the long
+term. and their operators say that the stations are easy to control. Each of the
+three stations has clearly shown its capability for safe operation at two-thirds
+power while repairs are being made on one of the three circuits. Another canon
+feature of the three stations is the extremely low radiation doses received by
+operating personnel. Currently. radioactive leakage is almost too low to measure.
+
+A fourth nuclear power station with such a fast-breeder reactor was put into opera-
+tion at neloyarsk in 1980. The Bil-600 reactor had higher operating characteristics,
+i.e., sodiu- tenperature, steam parameters, heat output, burnup, and length of. time
+between refueling operations, than the 314-350, and also differed from the latter by
+its integral (pool type) primary circuit design (like the Phenix and PPR reactors).
+This made it possible to demonstrate even more thoroughly the advantages or short-
+comings of integral design compared with loop design.
+
+Currently, two more nuclear power stations with fast-breeder reactors are under con-
+struction, namely Super phenix (France; output 1,200 MW) and the SNR (Vest Germany;
+280 NH). The construction of others is planned in the United Kingdom (CDPR; 1,250
+MW), Japan (HONJU; 250 MW), West Germany (SNR-Z; 1,300 MB), the Soviet Union
+
+26
+FOR OFFICIAL USE. ONLY
+FOR OFFICIAL “SI-i ONLY
+
+(BU-1600; 1,600 MW) and the United States (CRBR; 350 NH). The main characteristics
+of the planned first col-nercial fast-breeder reactors is shown in Table 3.
+
+Table 3. Main characteristics of demonstration nuclear power stations with large
+fast-breeder reactors.
+
+to. J mud cmuammy must-5o W 0:0le I velty’m "(NI-I mad-vim: norm
+
+ 
+
+nutter Rene to: l Saw MI: I ODYR
+Sm Country I French a Vol“ Munich:- '
+e Tmlny when 231“? - I 6000 : as»
+f rerun-u mm mm ' . 1M . mo E 1m
+8 Teplota aodikn na n'nupu ' z .
+1 mm: tony no) - sso ; 530-540 2 ass—u;
+h mum pm l‘L‘; . 500 l coo—no | m—m
+1 Thuluryanvu: - - ; IGJ . I‘m : IL“
+VﬂmhnHTJu“l - as | no : aJ—np
+a Generals! - startle“ “I Isms! 1 I sunken ll
+Key:
+3. France h. Steam temperature (°C)
+b. United Kingdom 1. Steam pressure (HPa)
+c. West Germany 1. Burnup CTR/ks)
+d. USSR k. Design
+e. Heat output (MW) 1. Integral
+f. Electrical output (HR) m. Loop type
+
+g. Temperature of sodium exiting
+from core (°C)
+
+As shown in Fig 7, high-temperature gas-cooled reactors with heat exchangers may
+also be used as nuclear heat sources for liquid-metal mm systems.
+
+The speed of comercial incorporation of the fast-breeder and high-temperature
+reactors is difficult to estimate at present. and will vary from country to country;
+but they are eventually certain to find extensive use.
+
+It is advantageous to use cylindrical electrodes for nuclear thermionic converters:
+an outer collector, with the emitter inside it, and the nuclear fuel undergoing
+fission inside the emitter. A grOup of cylindrical TEN physically arranged end to
+end and electrically connected in series creates a single thermionic nuclear rod.
+
+A large number of such rods are inserted into the reactor and form part of the core;
+this arrangement is called the internal arranganent. An exteml a;rangement of
+nuclear TB! is also possible with cylindrical electrodes; the emitters are heated
+by circulation of liquid metal or by a liquid metal-metal vapor system in high
+
+temperature piping.
+
+Series-producible components and systems for nuclear converters have been designed
+and prepared for production, and plans for nuclear thermionic reactors with outputs
+on the order of 10 to 100 k" have been developed.
+
+The first thermionic electrical generator connected with a nuclear reactor was
+built in the Soviet Union in 1970 and designated the TOPAZ thermionic reactor.
+
+27
+FOR OFFICIAL USE ONLY
+son omcuL use ONLY
+
+The thermionic fuel rods, containing several cylindrical cesium diodes arranged
+end to end, are located radially in the reactor in an nonuniform arrangement so
+as to achieve a uniform temperature distribution.
+
+Nuclear or isotope TEH have also been built and used as lowblevel power sources in
+a number of special instances, such as in space research. Higher-power units are
+also under preparation.
+
+Conclusion
+
+Even though the technical problems of MED generator systems using nuclear reactors
+as heat sources have not yet been fully solved, the results obtained in research
+on,HTGR and LHPBR reactors allow an optimistic view of prospects for using closed-
+cycle MED systems with nuclear reactors for the production of electrical energy.
+The high-temperature characteristics of MED systems with HTCR reactors make such
+equipment more suitable for the production of electrical energy than the other
+alternatives (nuclear reactors connected with steam or gas turbines), since MED
+generators, like nuclear reactors, can achieve high unit capacities (hundreds of
+megawatts). In addition, as a result of their high efficiency, they have con-
+siderably lower waste-heat losses than standard nuclear power stations.
+
+The development of liquid metal HHD systems has reached a stage at which larger units
+have been built or are under construction. Tests of such equipment are yielding
+more precise data on the processes that take place in them. The main advantages of
+MED generators using liquid metal is their ability to operate at low temperatures.
+However, there is no propulsion method available which allows the flow of liquid
+metal to be accelerated with low energy losses.
+
+Another possible source of heat for such systems which we have not yet considered
+
+in detail is thermonuclear reactors. The use of controlled thermonuclear reactions
+as a source of energy is still in the developmental stage. Scientific findings
+gained thus far can be used as the technical basis for future thermonoclear reactors.
+Thermonuclear reactor technology requires more research, and it will first of all
+
+be necessary to demonstrate the physical principles involved. Although the constru-
+ction of a commercial reactor of this type is still far off, many countries are
+currently devoting research to the problem.
+
+Thermionic conversion of energy to electricity, too, has thus far failed to achieve
+extensive practical utilization because of excessive technical requirements re-
+sulting from the high operating temperature of the emitters. Low-power converters
+(most often isotope types) have been built for space research purposes and in cases
+where expense is a secondary consideration.
+
+Recently, research on thermionic converters has focused on both flame-type con-
+verters and thermionic nuclear reactors-of course for the purpose of large—scale
+power production, where they would help to considerably increase the degree of
+utilization of fuel.
+
+Physical and technological research on direct energy conversion has produced suffic-
+
+ient results that individual conversion methods may be investigated further and the
+design and technical aspects worked out. Developmental experience thus far has been
+
+28
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+encouraging, but new proposals and requirements are also emerging, particularly in-
+volving the development of processes and new materials which thus far have been un-
+familiar in engineering.
+
+1.
+
+2.
+
+3.
+
+be
+
+5.
+
+6'
+
+7.
+
+8.
+
+9.
+10.
+11.
+12.
+13.
+16.
+15.
+16.
+
+BIBLIOGRAPHY
+Chang, s. s. 1.. "Energy Conversion," Prentice-Hall, Englewood Cliffs, 1963.
+
+Pye, S. I. "Magnetogasdynanics and Plasma Dynamics." Springer-Verlag, Vienna.
+1962.
+
+Rosa, R. J. 'Magnetohydrodynanic Energy Conversion,".uccraw-Hill Book Coapany,
+New York-Toronto-london-Sydney, 1968.
+
+Ushakov, 8. et al. "Oanovy tenoenissionnogo praobrazovaniya anergii [Intro-
+duction to Themionic Energy Conversion] ," Atonizdat, uoacov, 1974.
+
+Becvar, J. et al. "Jaderne elektrarny [Nuclear Power Stations]," sun/Alta,
+Prague, 1978.
+
+Veis, S. 'mgnitohydrodynamicke generatory [Magnetohydrodymic Generatorsl,"
+Alia, Bratislava, 1980.
+
+Racek, J. "Kniznice odbornych a vedeckych spisu M v Brae [Specialized and
+Scientific Papers of WT, Brnol," B-32,1973, p 173.
+
+Racek, J. "Kniznice odbornych a vedeckych spisu VUT v Brne," 3-59, 1975, p 173.
+Goodjohn, A. G. WCLEAR ENGINEERS INTERNATIONAL, No 24, 1978, p 83.
+
+Inyutin, E. I. AWYA TEKHNIKA ZA RUBHHOM, V01 12, 1977.
+
+Lavrencic, D. ATWIRTSCHAFT—ATMBCHNIK, No 21., 1979, p 617.
+
+Lehner, G. KERNTECHNIK, No 20, 1978, p 157.
+
+Easy, J. H. P. et al. WCLHR SAFETY, No 19, 1978, p 369.
+
+Bartl, J. et a1. ENERGE'I‘IKA, No 29, 1979, p 209.
+
+Chalupa, 2., and Kranar, J. ELEICI'RO‘I'ECENIK, No 30, 1975, p 5.
+
+Kranar, J. ELEKIROTBCHNICKY 03209., No 65, 1976, p 199.
+
+COPYRIGHI': SNTL, 1981
+
+8680
+C80:
+
+5100/3006
+
+_ 29
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+NIGER
+
+BRIEFS
+
+PRESIDENT 0N FRENCH URANIUM NEGOTMHWﬁ-Mger'e head of state, 001 Seyni Konntche,
+said on 7 Novenber that, in his opinion, the initial negotiation with France on
+the price of ureniun for 1982 indicate that there will be en "upturn" conpered to
+1981, when there was a significant drop in the uranium revenues. linen he returned
+to Niamey, the Nigerien head of state said, referring to French-Nigeria: coopera-
+tion, that he we also pleased to see that the Joint Condeeion, which let right
+after the French-African Conference in Patio. bed cone up "with eetiefectory
+decisions in areas which are given top priority by Niger." [Text] [Paris NAMES
+TROPICAUX ET MEDITERRANEENS in French No. 1879 13 Nov 81 p 2887] [COPYRIGHT: Rene
+Horeux et Cie Paris 1981] 8796
+
+(280: 5100/5607
+
+30
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+sermon.
+
+AGREEMENT ESTABLISHING NUCLEAR MATERIALS comm APPROVED
+Paris HARCIIBS TROPICAUX ET HEDITEWS in French No 1879 13 Nov 81 p 2878
+
+[Text] On 12 September, Senegal's JOURNAL OPTICIBL published Decree No 81-658 of
+
+6 July 1981 which approves the agreement establishing the General Company for
+Nuclear Materials (COGEMA).
+
+When this agreement was signed. the COGEHA held an exclusive exploration license
+covering an area of 19,300 square kilometers in Eastern Senegal. This license had
+been renewed on 27 November 1978 by Decree No 79-881-of 25 septa-bar 1979 and the
+company had invested 900 million CIA francs in exploration operations in Senegal.
+
+According to the terms of the agreement, the COGEHA is committed to invest at least
+150 million CPA francs in exploratory borings during the first year of the period
+covered by the present agreement.
+
+If this period of exploratory borings yields successful results. the COGEHA will
+proceed with additional investments of about 500 million CPA francs moving to a
+development stage involving boring operations and, ultimately. mining work.
+
+If this development stage is crowned by success, the COGEHA will spend around 300
+million CPA francs on a feasibility study.
+
+If the findings of the feasibility study warrant mining operations in one or more
+uranium deposits, the COGEHA will be allowed to constitute a mining company.
+
+The COGEHA will bring into that company the total sum of its investments prior to
+the time when the company is formed at the discount value assigned to these invest-
+ments at that time in accordance with applicable tax regulations and duly authorized
+by Senegal's minister of economy and finance.
+
+The mining company will be the recipient of articles of agreement in accordance with
+the legislation contained in the Investment Code and providing that its investment
+program meets the criteria required by that code for approval. These articles of
+agreement will be signed before any capital formation starts.
+
+The value-added tax based on the pithead value of the output sold will be at the
+rate of 5 percent and this rate can be readjusted by agreement between the govern-
+ment and the COGEHA.
+
+31
+FOR OFF1CLAI.lEﬂ§(NVLY
+I-‘OR OFFICIAL USE ONLY
+
+The operative provisions will fall within the legal tax system in force when that
+agreeaent is signed, with a scheduled tax on industrial and conercial profits of
+33.33 percent based on the aforesaid tax system and subject to the following
+specifications: 100 percent anortization of exploration expenses; if amortisation
+is deferred, it can be carried over from one fiscal year to the next without tine
+linit; possible losses, which are not due to the amortization and which were
+incurred prior to the fiscal year when production reaches its rated capacity. will
+be allowed to be carried over for 3 more years after that level of production is
+reached.
+
+The articles of agreensnt mat also guarantee that the mining colpany has the right
+to transfer capital and its revenues and they Inst include a provision allowing the
+COGEMA to have first option to buy the company's output. The cospany mat sell to
+the COGDIA at the price being offered in the world narltet for similar cos-odities
+and subject to approval by the company's board of directors. If the com is not
+the only shareholder, this right of first option to buy will be exercised on a pro
+rata basis according to the COGDM's shares in the cospeny.
+
+COPYRIGHT: Rene Moreux et Cie Paris 1981.
+
+8796
+CSO: 5100/5607
+
+32
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+BRIEFS
+
+NUCLEAR RESEARCH DISCUSSIOﬂSu'Qop secret" discussions [ere taking place] between
+France and Algeria concerning the eeteblistnent of a nuclear recurch center et
+
+Ain Oueeera (near Algiers). Algerian [nuclear] technicians will also be trained
+
+in France. [rm] [Paris PARIS HATCH in French 18 Dec 81 p 66] [COPYRIGB'h 1981
+par Cogediprense S.A.]
+
+C50: 5100/ 2066
+
+33
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ITALY
+
+' NEH ORGANIZATION OF NATIONAL NUCLEAR tum cm
+[Ole am 8 INDUSTRIA in Italian 1 Sep 81 P 5
+
+[Text]
+
+mm! " m mu.
+no
+murrm cam «
+mum
+we: "31M.
+
+”AID 0" mm
+
+ 
+
+   
+
+Tar—tic? o! lacun—
+5mm up
+sums mac-non
+
+  
+
+Im_ I- l. A" [Is
+
+ 
+     
+  
+
+3%
+§§
+3
+a
+
+  
+ 
+
+rmlw.
+euowmnou.
+
+ 
+ 
+      
+
+[mum
+
+ 
+ 
+
+All!" All)
+
+     
+  
+
+&
+E
+r-
+- E
+5
+B
+
+     
+        
+ 
+ 
+
+ 
+   
+     
+ 
+   
+
+ 
+   
+ 
+
+ 
+
+    
+
+.,
+I
+U
+U
+I
+.
+'
+U
+.
+' 4
+ask?” “I, not. om: we cam In .
+uni-own“: mums. tum cvcu :
+“mo. mmmou mum mam .
+—-‘— um "noun. an own: -
+.-......-.._. uncut. mm :
+"M” "' mcnoul. .
+munm mu .
+summ nuns
+M'mlu I
+s~mmmu ' I'M?!“ J
+.._..__ amen .
+m___ mxmm .
+mm "mm:- :
+—--- non sumac - __ ,
+mums, mu. 33mm mp | ;
+annuals. . mam
+m (unm-
+um.
+
+inc-non

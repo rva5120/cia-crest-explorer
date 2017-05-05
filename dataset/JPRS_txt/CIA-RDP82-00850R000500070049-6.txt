@@ -1,0 +1,4977 @@
+FOR OFFICIAL USE ONLY
+
+JPRS U10603
+21 JUNE 1982
+
+USSR Report
+
+ENGINEERING AND EQUIPMENT
+
+(F000 4/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+m
+
+JPRS publications contain information primrily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+scurces are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion nark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 11.8. Government.
+
+COPYRIGlT LAHS AND REGULATIONS GWERNING WHERSHIP 0F
+MTERIALS REPRODUCED :lEPZIN REQUIRE THAT DISSEMINATION
+
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+ENsTNEERINs AND EQUIPMENT
+
+(P000 4/8 2)
+
+CONTENTS
+AERGIAUTICAL AND SPACE
+Rocket Waten Gas Generators ........................................ 1
+NUCLEAR ENERGY
+Fast Hydrogen Atom InJectors u.........................o............ '0
+Use of Burning Absorbers in mm .H................................. 15
+
+Choice of Extractors and Filters for Plants Reprocessing
+Spent Riel Elements of “me Pover Stations ooesoooo-eeeesooooooss 22
+
+Radiation Dense to Steel in Hater-Moderated, Hater—Cooled
+
+Reactor Vessels .ooooooooooooooooeooocooooooooo-oeeeoooooooooooooao 32
+
+Radiation Safety and Protection of Nuclear Power Plants ............. 37
+NON-NUCLEAR ENERGY
+
+Industrial Magnetohydrodynuic Equipment and Processes .............. 53
+INDUSTRIAL TECHNOLOGY
+
+Strength and Rliability or Technical Devices ....................... 55
+TWINE AND ENGINE “ION
+
+Optimal Last Stage Design of High-Power Steam mrbines . . . . . . . . . . . .. . 6’6
+
+- a - [III - USSR - 2].? SET P000]
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+NAVIGATION MD GUIDMG SYSTBB
+
+Cornecﬁng Inertial Guidance Systeu by Using Combined
+3Qb81d1lry 9°31 tional Sud Velocity Intonation o o o o o o o o o o o o o o o o o o o o o
+
+FLUID MBQIIAIICS
+
+Supersonic Flow Perturbations Hith Injection of Moss and Heat coo-coo.
+TBTING AND WRIAIB
+
+Investigating Efficiency of Sliding Beuings in Helium Environment .00
+
+Adaptive mum-ins Instruments oooooooooooooooooooooono-oo-coooooooooo
+
+ab-
+
+l-‘Oll OFFICIAL USE ONLY
+
+78
+AERONAUI'I CAL A]! D SPACE
+
+UDC 629.7.066.2
+
+ROCKET SYSTEM GAS GENERATORS
+
+Moscow GAZOGBNBRATORY mm 8181'!!! in Russian 1981 (signed to press
+14 Apr 81) pp 2-10. 152
+
+(Annotation. preface and table of contents from book "Gas Generators for
+Rocket Systems", by Al'hert Alekseysvich Shishkov. and Boris Vasil'yevich
+Runyant'sev. Izdatel'stvo "Hashinostroyeniye'ﬂ 1183 copies. 152 pages)
+
+[Text] The book gives a systenatic presentation of principal designs, charac-
+teristics and peculiarities of working processes in gas generators using chem-
+ical fuel (liquid. solid and nixed) that are sources of power and gas jets
+
+on flightcraft and in ground-based rocket systems. Methods of experimental
+development of gas generators are briefly covered.
+
+the book is intended for engineers and designers in the field of rocketry.
+Preface
+
+Gas generators are extensively used in rockatry. Their najor conponents are
+in many ways similar to those of the nain rocket engines; however, the working
+processes in gas generators have important distinguishing features that must
+be taken into consideration in design and development.
+
+In connection with the development of rocketry and expansion of areas of appli-
+cation of gas generators in recent years, a nunber of patents and journal
+articles have been published with results of research on gas-generator devices
+[Ref. 12]. Condensed information on gas generators is given in handbooks
+
+on the principles of rocket engine design [Ref. 2. 3]. However, as a whole.
+the published naterials on gas generators are disconnected, fragmentary and
+procedurally nonuniform.
+
+In this hook the authors attempt to systenatize the designs and particulars
+of working processes of gas generators using different fuels based on major
+principles of the theory of rocket engines.
+
+The book has five chapters. Chapter 1 presents the basic characteristics
+of gas-generator devices and the fuel compositions used in then. giving indi-
+vidual attention to netth of model, laboratory and stand tests.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Chapter 2 dea1: with peculiarities 0' gas flows in gas generator. gas line
+and exhaust nozzles. and methods of calculating gasdynamic characteristics
+
+of gas generators. and also takes up problems of filtration of gas generation
+products and gas-thermodynamic processes in the devices that are used.
+
+A survey of materials on the peculiarities of devices and principles of calcu-
+lation of one-component and two-component liquid gas-generators. as well as
+gas generators based on fluidized powder fuel is contained in chapter 3.
+
+Chapter 5 is devoted to designs. methods of intraballistic calculation and
+different possible methods of regulating solid-fuel gas generators (particu-
+larly with end-burned charges), including gas generators that can be repeatedly
+energized. A solution is given for the problem of transient processes with
+variation of certain parameters.
+
+The last chapter deals with problems of development of a variety of combined
+gas generators using solid (with separate components), quasi-hybrid and hybrid
+fuels. vapor-gas generators, and gas generators for straight—flow rocket en-
+gines and turborocket engines; engineering methods are given for calculating
+the major characteristics of some gas generators.
+
+Chapters 1. b and 5 were written by both authors jointly. chapter 2 - by
+A. A. Shishkov and chapter 3 -- by B. V. Rumyantaev.
+
+The authors are sincerely grateful to the reviewer. Doctor of Technical Sci-
+ences A. P. Tishin. for constructive recommendations that have improved all
+parts of the manuscript. and to Candidate of Technical Sciences H. Ye.
+Yevgen'yev for useful advice in solving the problems in various sections.
+
+He would be grateful to readers for comments and suggestions. which should
+be sent to the publishers: Hashinostroyeniye, 107076. Moscow. Stromynakiy
+per. 4.
+
+Contents page
+Preface 3
+Chapter 1: General Information on Gas Generators 5
+1.1. Fields of application and principal characteristics of gas generators S
+1.2. Gas-generator fuels 13
+1.3. Gas-generator tests 28
+Chapter 2: Gas-Thermodynamics of Gas Generators 37
+2.1. Equations of the gas generator 37
+2.2. Characteristics of the gas channel #2
+2.3. Filtering combustion products 69
+2.4. Gas-thermodynamic processes in devices fed by gas generation products 56
+Chapter 3. Liquid Gas Generators 66
+3.1. One-component gas generator 65
+3.2. Two-component gas generator 68
+3.3. Use of fluidized fuels in gas generators 75
+Chapter A: Solid-Fuel Gas Generators 78
+6.1. Design of solid-fuel gas generators 78
+4.2. Intraballistic calculation of the gas generator 84
+2
+
+FOR(Mﬂﬁ(]Al.USIZONLY
+4.3. Methods of regulating solid-fuel gas generators
+
+5.4. Transient processes in the_solid-fue1 gas generator
+
+Chapter 5. Combined Gas Generator Designs
+
+5.1. Solid-fuel gas generator with separate conponents
+
+5.2. Controllable gas generator using quasi-hybrid fuel
+
+5.3. Gas generator using hybrid fuel
+
+5.4. Vapor-gas generators
+
+5.5. Gas generators for straight-flow rocket engines and turborocket
+engines
+
+References
+
+COPYRIGR‘I‘: Izdetel'stvo 'ﬂashinostroyeniye". '1981
+
+6610
+cso: 1861/192
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+NUCLEAR ENERGY
+
+UDC 621.039.616
+PAST manners AM INJECNRS
+Moscow MW? BYS‘I'RYKH ATM VODORODA ill-Russia! 1981 pp 2-11, 18, 152
+
+[Excerpts from the book "Fest Rydrogen Atom Injectors”, by N. N. Susshko,
+A. N. Vladimirov, V. V. mzneteov. v. H. Rulygin and A. A. Panasenkov'
+Energoizdat. 168 pages]
+
+[Excerpts] Annotation
+
+Equipment for producing test hydrogen (deuterium) atoms is described for
+heating plans to thermonuclear teeperetures in closed and open magnetic sys-
+tems. Powerful injectors for thermonuclear research. demonstration and resc-
+tor instelletions are considered. Methods of producing flows of low-energy
+stone based on charge exchangn of positive ions and flows of nediun-energy
+atone based on conversion of negetive ions are described. no book is in-
+tended for scientific workers: and engineers working in the field of controlled
+throuonuclesr fusion. accelerator technology and space technology. It my be
+useful to students and greduete students of physicel engineering specialties.
+
+contents Page
+
+Chapter 1. Injection of Fast Atoms-A Method of Creating a
+
+mermnuclearrlasle.................... 5
+
+1.1. Types of thermonuclear installations with injection . . . . . 6
+
+1.2. Requirements an injection systems.............. 8
+1.3. Design principles of injection systems. . . . . . . . . . . . 9
+ChapterZ. Structureotthelnjector.................. 11
+2.1. Injector with production of test stats from positive ions . . 11
+
+2.2. Production of fast atoms by conversion of negative ions . . . 15
+2.3.Injectorsmpportsystens..................18
+ChapterB.IonSourcns........................3O
+3.1.Bseicconcepts.......................3O
+3.2. attractionand formationof ionbesn ............ 34
+3.3. Plasueenitterotpositiveions............... 54
+3.4.Wsofionsources.....................67
+3.5.Negativeionsources.....................88
+
+FOR OFFICIAL USE ONLY
+Chapter 4.
+4.1.
+4.2.
+4.3.
+4.4.
+
+Ion-Atom channel of Injector
+
+Divergence of ion been with uncompensated charge .
+Ionbeantranspcrt................
+Ionbeanchargeexchenge.............
+Calculating transit of neutral been through injector
+
+0118111101o.........-....co.....
+
+S
+6
+7
+
+blob
+see
+
+5?
+. a
+
+UIU‘UIU‘UlU'
+e e s e
+
+C'UIBUNP
+e
+
+Chapter 6.
+6.1.
+6.2.
+6.3.
+6.4.
+6.5. Electric power supply system .
+
+Bibliography
+
+. Bean separation.
+
+Injector Based on Direct marge Exchange of Positive Ions
+Initial prerequisites
+Structural diagram of injector . .
+Components of ion-atom channel . .
+Cryogenic vacuum syeten
+Injector vacum preparation systen
+
+. Electricpowcrsupplysyetem...
+
+Injector Based on Negative Ions
+
+Selection of injector parameters
+Structural diagru. of injector .
+Components of ion-eton channel
+
+Pumpingsystem.........
+
+seeseeeeesseese
+
+FOR OFFICIAL USE ONLY
+
+e
+
+e
+
+esees
+
+Ion energy recovery
+Preacceleration of negative ions . . . . . . . . . .
+. Reionization losses in atonic been . . . . . . . . .
+
+ssees
+
+eee'ess
+
+eeeees
+
+seeeee
+
+essees
+
+aeeeee
+
+eeeess
+
+eeeeee
+
+eeeeee
+
+seeees
+
+eeeoe
+
+e
+s
+e
+e
+
+eesees
+
+eeeses
+
+sees
+
+eesss
+
+seesee
+
+seeeee
+
+eeeses
+
+eseeess seee
+
+eesees
+
+94
+94
+96
+103
+
+111
+114
+120
+124
+
+128
+128
+131
+133
+135
+137
+137
+
+142
+142
+144
+148
+158
+159
+
+162
+FOR OFFICIAL USE ONLY
+
+CHAPTER].
+
+INJECTION OP FAST RIDES, mnoo OP CREATING Wk PM
+
+method was born during the early 1960s when the Phoenix [1]. Ogre-2 [2] and
+2x [3)--open traps designed to store a plasma formed upon ionization of fast
+atoms entering an installation-appeared. The initial captures made by the
+Lorentz ionization and an exponential increase of density than occurred due
+to ionization upon collisions of the been of atone with particles of the
+formed plasma. .
+
+The injectors of that time were comparatively low-power: their rapid develop-
+sent was largely stieulated by interest in additional heating of plan in
+tokanake. Installations of this type, developed at IA! [Institute of Atomic
+Energy) ineni I. v. mrchatoy and that deInonstrated good capabilities in pro-
+ducing a dense hot plasma, spread rapidly throughout the laboratories of the
+world. The corresponding intensive research led to conclusions on the inade-
+quacy of Joule heating, ordinary for tokanaks, and the need for additional
+input of energy, for example, by high-frequency heating or injection of power-
+ful beams of fast hydrogen atoms. The results of efforts to develop injectors
+meeting the needs advanced by tokamaks are presented in Figure 1.1. which il-
+
+lustrates the sharp increase of flows of atone injected into installations
+throughout the decade from 1969 through 1979.
+
+These results were reflected in please parameters achieved in tokanaks with
+injectors-u record value of 8 (ratio of plasma pressure to magnetic f1 eld
+pressure) in the 1-11 [4] and an absolute ion temperature record in the PM
+[5) . The Iain thing is that the classical mechanism of energy transfer from
+a been trapped in a tokens): to a plane is confirmed and it is shown that its
+temperature increases in proportion to the output of the injected beam no
+additional losses related to the presence of a group of fast ions occur.
+
+The appearance of powerful injection systeee again aroused flagging interest
+in open traps with injection since the hopeful results obtained in the ans
+[6] permit one to talk about a new quality of an old combination.
+
+'rhus, experinents of the last few years confirmed the practical importance of
+
+the injection method to solve the problem of controlled thermonuclear fusion;
+
+injectors of fast atoms will apparently be one of the main parts of the demon-
+stration thermonuclear reactor of the near future.
+
+FOR OFFICIAL USE ONLY
+ms: "701: 19751" I 1%
+
+Figure 1.1. Growth of Flows of Atous Injected Into Installations
+
+1. Equivalent anperes 3. Ogra
+2. kev
+
+1.1. Types of. 'l‘heruonuclear Installations With Injection
+
+As already noted above, fast atoms are injected into both open and closed mag-
+netic systems. It is assuned that both methods may lead to the gosh-develop-
+ment or a thermonuclear reactor, initially a desonstration reactor and then a
+
+counercial reactor that is economically advantageous and capable of competing
+
+with other energy sources. 'nokenaks are presently the most advanced represen-
+tatives of closed systole toward this goal.
+
+According to modern concepts, at least one of three varieties of a thermonu-
+clear reactor based on a tokens): with injection can be achieved: 1) a reac-
+tor with ignition, 2) a reactor with constant heating and 3) a two-componmt
+reactor.
+
+The first version is the most preferable. In this case the injectors should
+be switched on only during the initial operating cycle. By using then, the
+plasma temperature is brought up to the required teuperature for "ignition"
+of an intensive thermonuclear reaction, after which the injectors are switched
+off, while "conbustion" is self-sustained due to the energy or u-particles
+formed as a result of the reaction itself. It is clear that the o-particles
+must not leave the system without having released their energy to the plasma
+and that the rate of energy loss from the plasma to the reactor wall not ex-
+ceed sons saxinun value to realize this attractive possibility.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+If heat transfer is so high that the reaction is not self-sustaining. the
+reactor will be able to operate only provided there is continuous makeup of
+the departing energy due to continuous injection of high-energy particles in-
+to the plasma, i.e., we have a system with continuous heating in this case.
+
+It should be noted that practical realization of a thermonuclear reactor can
+be an intermediate version of these two varieties: a powerful heating injec-
+tion system at the beginning of the operating cycle brings the reactor "almost
+to ignition,” after which the required energy balance is maintained by a com-
+paratively weak control injector. This scheme is convenient fro: the view-
+point of monitoring the operating mode. since it permits control of reactor
+"criticality' by changing the output of the injected flow.
+
+Finally, the third possible variety-«m two-component toksmak reactor [7lo-is
+a system in which energy is produced in reactions occurring upon collisions of
+high-energy injected particle: with particles of a comparatively cold plasma
+that serves as the target baubarded by a beam impinging on it rather than in
+a thermonuclear reaction. i.e.. not in the combination of nuclear reactions
+
+in a plasma heated to a high temperature. A two-component tokamak. being a
+powerful neutron generator, can be used specifically not only in the form of
+a purely plasma-beam system but also as a hybrid reactor in whose jacket ad-
+ditional energy is produced as a result of neutron irradiation of fissionable
+materials with simultaneous breeding of a nuclear fuelnplutonium.
+
+If we can talk about a plasma heating method alternative to injection in toke-
+maks--introduction of a flow of high-frequency electromagnetic radiation. then
+the practically interesting idea of using an open trap without injectors
+apparently does not exist at the given moment. Moreover. as already noted,
+
+it is the modern level of developments in the field of injection systns that
+made possible the appearance of such very promising proposals as systems with
+reversal of the magnetic field and ambipolar traps.
+
+The idea of reversing the magnetic field inside an open trap has existed since
+the time of the sstron [8] in which it was suggested that this reversal be ac-
+complished by creating a conducting layer of fast electrons injected into the
+trap. Realization of this old idea on a new base-~due to the dimagnetiem of
+a plasma created in a trap with a powerful injector-mow appears quite real-
+istic. The results of experiments on the 2x118 [6] indicate that total repul-
+sion of the magnetic field from the center of a plasma has now been fully
+achieved in this installation. If a magnetic field reversed to the external
+field can be produced in the center of the plasma, then a qualitatively new
+field configuration is achieved--the magnetic system is cloaed due to the di-
+magnetic current in the plasma itself (Figure 1.2).
+
+An ambipolar trap was suggested comparatively recently at Novosibirsk by G. l.
+Dimov at al [9] and independently by Fowler and Logan and is being actively
+analyzed in both our country and abroad. It consists of three parts--two
+small traps into which are injected high-energy particles (1 MeV) are joined
+to an ordinary open trap, while medium-energy particles (10 keV) are injected
+into the main trap. By corresponding selection of the injection currents, one
+can achieve a plasma density in the outer traps nk higher than in the central
+
+FOR OFFICIAL USE ONLY
+Figure 1.2. Reversal of Hagnetic Field in a Reflected Trap and
+Formation of a Closed Configuration
+
+trap no (Figure 1.3) and in this case the asbipolar electric field for-as a
+potential barrier in the axial direction to ions located in the central trap.
+
+Figure 1.3. Distribution of Hagnetic Field, Potential and Density
+of Plasna Along Axis of habipolar 'rrap
+
+1.2. Requirements on Injection Systems
+
+The requirenents placed on an injection syst- during design are determined by
+the type, designation and scales of the installation. Let us enmerate the
+main characteristics primarily stipulated by these requirements: 1) the out-
+put of the flow of atone injected into the installation, 2) the total injected
+flow of atoms, 3) the energy of the bean particles. 4) the injection pulse
+length, 5) the geometric characteristics of the been of atone. 6) the accou-
+panying flow of cold gas, 7) the energy efficiency of the injection system and
+8) the operating reliability and service life of the system (including its ef-
+ficiency under conditions of neutron and game-radiation).
+
+It seems at first glance that one could limit oneself only to two of the first
+three bean characteristics. However, depending on the type of installation
+for which the injector is being designed, pair cashinations different for them
+emerge to the forefront. Thus, the specific paraseter in a heated tokueak
+(with ignition or with constant heating) is the output of the bean injected
+into the installation. The particle energy must then be selected so as to
+provide the particles with sufficiently deep penetration into the plasua and
+capture more or less uniform through the pinch cross~eection. It is natural
+that in this case the total injected flow of stone is a deviation. If the in-
+jector is designed for a two-component tolsmak, then one must first select an
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+energy so as to adzieve the maxim- yield of nuclear reactions with estab-
+lished energy distribution of trapped fast particles. 'me design intensity
+of the reaction with selected injection energy permits one to deternine the
+total injected current. Thus, been intensity is now a derivative.
+
+The remaining parameters can remain undnanged with formlation of the initial
+requirenents on the injector.
+
+Table 1.1. Parameters of Injection Systems of Some Existing Installations and
+Those Under Construction
+
+ 
+
+g7
+' .
+<
+
+5+;
+
+do
+
+60
+
+60
+
+70
+
+35
+
+Key:
+
+1. Installation 6. Number of sources in injector
+2. Injectim power Po, m 7. In: current frat source 1*, A
+3. hem of atoms 80, kev 8. Pulse length, s
+4. Number of injectors 9. length of injector channel.
+5. Injector power, an meters
+
+10. Dimensions of inlet aperture, cm
+
+Injection systess capable of injecting flows of hydrogen or deuteriun atoms
+with power of 10-20 M! with particle energy of 40-120 keV and injection pulse
+length up to several seconds are required for research installations of the
+next few years. Some parameters of these systems in installations already
+operating and those being designed are presented in Table 1.1 [10]. The de-
+vices of the next generation, which will actually be denonstraticn reactors,
+will be desigted for outputs of injected fluxes on the order of hundrea of
+megawatts. me efficiency of the injection system will be of determining
+significance for these installations.
+
+1.3. Design Principles of Injection system
+
+The physical prinicple of producing energetic beans of atoms, med in modern
+injectors, includes acceleration of ions with subsequent conversion of then to
+atom. This principle can be realised by two schemes--through positive or
+negative ims. Specific selection of one or mother scheme is detenined by
+the desire to produce the naximm energy efficiency of the injector. The fact
+is that it is easier to generate positive hydrogen ions than negative ions,
+but the charge exdxange cross section of positive ions on the target, which
+
+10
+
+FOR OFFICIAL USE ONLY
+determines the coefficient of converting than to atone. decreases etrongly
+with an increase of energy (Figure 1.4). At the one tile. the "stripping”
+cross-section of negative ions that converts then to ata- ie weak1y dependent
+a: energy up to very large valuee (figure 1.5). therefore. it is much more
+advantageoue'vith respect to energy to use poeitive ione to produce ampera-
+tive1y low-energy ﬂux" of atone and negative ion: if high-energy atonic
+fluxes are required. The dependence of the energy efficiency of injectors
+
+designed according to the two schemes diecuued above are presented in tigure
+1.6.
+
+6'".
+“a
+
+   
+
+Figure 1.4. Dependence of Reemanoe (marge Exchange Que-Section
+of tact Hydrogen Iona to Atom on Energy
+
+._.._. I
+
+----z
+
+eeeeee J
+
+ 
+
+Figure 1.5. Dependence of uStripping" Crane-Section of PaetoNegetive
+
+Hydrogen Ions on Hydrogen, Nitrogen and Oxygen Holeculee:
+1--queei-c1asaioa1 approxination; II--Born approxim-
+
+tion; 1-3--experiaenta1 deta tra [11]
+
+11
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+’Dechnical enbodissnt of one or another physical ache-e is always related both
+to fundamental limits imposed by the laws or nature “a to real techno-
+logical capabilities. For sample, the restrictions of the typical dimen-
+sions of the iaI-optical system (105) of the ion source-~the nest iaportant
+component of the injector-are directly related to the madam achievable pre-
+cision of manufacturing its parts on natal-cutting lathes, to the nedtanical
+strength of the material and to the capabilities of heat dissipation. 'mus.
+the sire of the accelerating gap is determined by its high-voltage strength,
+which is very strongly dependent on the quality of nadlining the electrode
+surfaces. ‘mese restrictions in turn limit the ion current density from the
+source at which the bean can be for-ed by the ion-optical systes in a satis-
+factory manner. An ion-emission surface lust be developed, the nuaber and
+dimensions of the input apertures in the installations laust be increased and
+so on to practice large fluxes of fast atoss.
+
+ 
+
+0 m m m no um I.
+ksV
+
+Figure 1.6. Dependence of Injector Efficiency m Energy to for
+Deuterium: l--injector based on direct diarge ex-
+daange of positive ims; 2--the sane injector with
+recovery (85 percent) of ion energy; 3—injector
+using negative ions with double charge exchange on
+a soditla target
+
+Key x
+l. efficiency 2 . kev
+
+Analysis of similar relationships and also the requirements of operating reli-
+ability and operating convenience lead to fornuletion of the following struc-
+tural principle of designing injection systole! for thermonuclear installa-
+tions: the injection system should consist of several injection zones, each
+of Vhldl conbines several injectors having self-contained vacuu: systeu:
+several ion sources with self-cmtained electric power apply circuits and
+
+a working gas supply are installed in each injector. This situation is actu-
+ally the nodular principle that pernits independent optimization of the parall-
+eters of separate conpments and that increases the operating reliability of
+the entire system as a whole, since a failed or worn-out component can be re-
+paired or replaced without interrupting the functioning of all the remaining
+
+canponents.
+
+The sodiu- dtarge exchange target (figure 6.7) consists of a steam generator
+1 with supersonic nozzle.
+
+12
+
+FOR OFFICIAL USE ONLY
+Figure 2.8.
+
+Bxpczinenul m Injector: 1~pu1t1vo ion sure” 2-
+insulator: 3-400 hon: duvacuul aha-bar; 5-wvacuation
+pip. with slid. vulva; annual mm: of sodium target:
+7-1:.“ generator; Susanna-11c jot of sodiu- vapors:
+9--ocndonur; lo-otnmlator; Illa-preacedetatlm system
+undiagnontic detector; Iii—vacuum PW: lk-plattom
+
+under grand potential; u—platfon undo: pounttal of
+100 xv; Manama and: valves
+
+13
+
+FOR OMGAL L88 ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Pigun 6.7. Design of Continuous Gun}. Emma Target: lwsuu
+generator; Z-aopnntor; aquacu- £or been tnvel:
+Quintet-edict. condenser; 5--condenut; 6--oloctro-
+
+aquatic m
+commas-r: morgoizdat, 1981
+
+6521
+C80: 1861/188
+
+11»
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621 .039. 516. 22
+
+USE OF BURNING ABSORBERS III RBI!
+
+Moscow MOMMA “3361‘“ in Russian Vol 51, No 5, Nov 81
+(manuscript received 13 Feb 81) pp 3010-30?
+
+[Article by v. K. Vikulov, s. A. Dorshakov, v. I. Ilyukhin and In. I. Mityayev]
+
+[Text] The intensive development of nuclear power is making even small improve-
+ments in power reactor characteristics signiﬁcant. One such improvement in the
+RBMt [1] fuel cycle is enhancing uranium enrichment. This enables a significant
+increase in its burnup, which in turn noticeably lowers the need for natural
+uranium and reduces the fuel component of electric power production cost. How-
+ever, it is not always possible to enhance uranium enrichent. In the contin-
+uous fuel recharging mode, and when bringing the reactor to this mode, the
+
+fuel channels of the core have a different power output (burnup), from zero
+(fresh) to that of the spent ones. Therefore, the content of fissile isotopes
+in these channels is unequal, causing an additional power variation factor due
+to overload [2]. Enhancing the enrichment raises the overload factor, which
+can lead to unevenness of power distribution that is unacceptable in terms of
+the cooling conditions. Such a constraint is especially significant for
+reactors with high specific fuel power, such as the ERIK-1500 and the RBMCP.
+One possible method of Overcoming such a limitation is to use a self-shielded
+burning absorber inserted as an absorbing rod in the fresh fuel assembly during
+loading into the reactor. Implementing this method is aided by the fact that
+the design of individual RB!“ fuel assemblies provides a central hole 6.5 mm [3]
+in diameter.
+
+Usually, burning absorbers [lo-7]are used to lower the reactivity, compensated
+by mobile control elements, where its burnup reserve is large. In such a case,
+the reactor operates in the continuous recharging mode, and the compensating
+capacity of the regulation elements is known to be sufficient. The capacity
+for local balancing of the power distribution is limited, however, since each
+of them affects a rather large region of the neutron field that includes both
+the freshly loaded and burned up fuel channels, and the effect of the control
+eleaents on fuel channel power is insufficiently differentiated. Burning
+absorbers are thus used in this case only for local balancing of the power
+distribution.
+
+15
+
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL USE ONLY
+
+The authors were faced with two tasks: to determine the density of the absorbing
+material'and diameter of the absorbing rods inserted in the center of the fuel
+assembly which will provide maximum reduction in the power of the loaded fuel
+channels with the least total neutron absorption in the absorber during the
+time of operation; and, given the existing power engineering constraints on
+
+the maximum fuel channel power, to find those conditions of channel utiliza-
+tion allowing enhancement of enrichment and burnup of uranium, resulting in
+improved economic indices of the fuel cycle.
+
+The theoretical approach to solving the first problem, that of choosing the
+optimal burning absorber with the best coordination of its burnup with that
+of the fuel, is the same as that given in works [6 ,7]; however, the method of
+solution is different. It is based on using the V03 [2] computer program,
+enabling calculation of the spatial distribution of the thermal neutrons of
+the fuel channel cell in a P3 approximation with part of the calculation grid
+in the region of the absorbing rods (such that the distance between the calcu-
+lation nodes is much less than the neutron path length). It thus becomes
+possible to directly calculate the "burning" [7] of the rods using a small
+time step, with simultaneous burnup of the uranium, and correspondingly allow
+for the change in the neutron-physical characteristics of the fuel channel
+cells with the run“.
+
+The solution of the second problem, requiring a heterogenous design of the
+reactor, used a two-dimensional diffusion grid HODIIIBR program [8], whose
+two-group cell macrosections are calculated in the first part.
+
+The experiments showed that when absorbing rods 5.6 III in diameter are
+inserted in the central fuel assembly hole, the power of the fresh fuel
+channels declines by 10-15}. In both experiments and calculations the
+absorber was gadolinium oxide GD203, having two strongly absorbing isotopes
+15501 and 157M. If an identical uranium and absorber burnup rate is
+assumed, then the reactivity and power of the fresh fuel channels and the
+absorbing rods will remain consistent until the absorber burns up. The power
+distribution variation factor in the reactor will thus drop by the same
+10-15%. In practice, it is impossible to maintain an identical uranim and
+absorber burnup rate during the entire burning time of the absorbing rods.
+However, it follows from the results of work [7] and this research, that the
+discrepancy in the burnup rates can be reduced to a minimum given a certain
+gadolinium concentration. This is confined by graphs of Fig. 1, illustrating
+the varying effect of the self-shielded burning absorbers on the RBMK fuel
+channel reactivity in the process of simultaneous burning of uranium and
+gadolium. Uranium enrichment in the fuel channels is 2.6%. Given a low
+
+ 
+
+' The authors first used such a calculation method in 1966, in designing the
+first loading of the reactor of the second stage of the MES power plant.
+Bxperinents during the physical start-up confirmed the basic calculation
+results.
+
+16
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+absorber concentration, the burnup of the rods is faster than that of the ura-
+nium, and a fast growth in reactivity, and thus power (curve 2), is observed.
+0n the other hand, given a high concentration of gadolinium, the rods burn too
+slowly (curve lo), and although the maximum fuel channel power In“ declines (it
+is defined by the initial point), the reactivity loss is too great, which
+unJustifiably reduces the uranium burnup. There is obviously an absorber con-
+centration at which the reactivity loss will be minimal (curve 3) given the same
+action on In“. calculations show that for ma fuel channels the optimum
+absorber concentration corresponds to a Gd203 density of 0.h-0.5 8/0113, and is
+almost independent of the rod diameter if it changes in the range of 3-12 m.
+The initial influence of the rods on the fuel channel reactivity and power is
+basically determined by their diameter, and increases with it.
+
+Under conditions of continuous recharging of the fuel channels and burning ab-
+sorbers, the dianeter of the rods with an optimal absorber concentration unam-
+biguously determines such mutually connected characteristics as lmax’ rod burnup
+time to and uranium burnup time P. The greater the diameter, the lower Km and
+P and the greater to. Spatial calculations of the reactor have been performed
+to establish the relation between such characteristics. Fig. 2 gives curves for
+determining the possibility of lowering "max and the relative underburning of
+uranium when using rods of different diameter in fuel channels with 2.65 enrich-
+ment. The calculations were perforned according to an iteration scheme worked
+out by the authors. Assuming a continuous rechargim mode, it allows for
+underburning of the spent uranium given the use of absorbing rods. The power of
+the fuel channels containing the rods is asstned equal to “max: and does not
+change until their complete burnup. This enables detemination of the fuel
+channel run, to, and thus the proportion of the fuel channels containing the
+absorbing rods; i.e. , formulation of the reactor composite lattice whose calcu-
+lation is used to find Rm.
+
+The calculations done with allowance for the different diameter of the rods and
+the enrichment of the recharged uranitn showed the possibility of a maximum
+increase in its enrichment, given a predetermined constraint on the maximum fuel
+channel power depending on the diameter. It is more convenient to use the
+power distribution variation factor KB or overload factor Kov than In“ as the
+constraint. It can be seen from Fig. 3 that despite a certain loss of uranium
+burnup due to the additional neutron absorption resulting from the use of rods,
+its enrichment and burnup increase noticeably. Naturally, less uranium burns
+up in this case than in the absence of the constraint (curves 1, 2).
+
+These results describe only the technical aspect of enhancing uranium enrich-
+ment and burnup, and are still insufficient for a clear conclusion on the
+economic advisability of using absorbing rods. mta are needed on the eco-
+nomic and natural indices of the fuel cycle. To provide then, the calcula-
+tions of the relative change in fuel components of electric power production
+cost and adJusted costs for producing electric power, and the uranium fuel
+
+17
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+rate required for annual make-up of the reactor, have been done as a function
+of the rod diameter. The calculation results show (Pig. 1s) that in the 83K-
+1500 and RBKP it is advisable to use absorbing rods up to 10 III in diameter.
+The greatest technical and economic effect is achieved using rods h—6 II in
+diameter, which is very important from the practical standpoint, since it
+enables their installation into currently manufactured fuel assemblies without
+any design modifications. The effect is greater the more rigid the constraint
+
+on power distribution variation. For emple, at Kov - 1. 27, the fuel compo-
+nents of power production cost and adJusted costs for electric power production
+
+can be reduced by 7-8 and around 2%, respectively; 2-2. 55 less natural uranium
+is consumed.
+
+Finally, it is interesting to point out certain results of a calculated study
+of the effect of absorbing rods on the space-energy distribution of thermal
+neutrons in the fuel channel cell. This effect, studied using the man [9]
+program, turns out to be negligible (cf. table), which makes it possible to
+simplify the rod burnup calculations and preparation of the two group constants.
+In particular, it turns out to be possible to use the single-rate VOR program,
+to whose sections are added the necessary thermalization corrections. Deforma-
+tion of the neutron distribution due to the use of rods can cause a relative
+increase in the power of the fuel elements of the outer row of the m1 assem-
+bly; however at a 5-6 mm diameter it does not exceed 23.
+
+The results given are also valid for the use of other self-shielded thermal
+neutron absorbers, for example those containing 1130d or H931.
+
+ 
+ 
+
+. _--__—-—
+
+I, 1—,.me P, mt. day/kg
+
+Pig. 1. Dependence of the neutron breeding factor on an infinite lattice in
+an mam fuel channel K. on uranium burnup p at a Gd203 density of o (1),
+0.2 (2), 0.16 (3) and 1 g/cm3 (lo).
+
+18
+
+FOR OFFICIAL USE ONLY
+az;cu,m
+
+Fig. 2. Effect of the absorbing rod diameter on uranium mnnp (l) and
+power d; *ribution variation factor (2').
+
+ 
+
+Fig. 3. Dependence of spent uranium burnnp on its enrich-sent x in the absence
+(1) and presence (2) of a constraint on Inax' ensured by the corresponding
+dialeter of the absorbing rods (3). Kov I 1.2? and 1.3. respectively
+
+ 
+
+Pig. )0. Effect of the absorbing rod diameter on the relative change in fuel
+cycle indices: a - natural uranium consumption 6; b - fuel couponent of electric
+power production cost or (1) and adJusted costs LI (2). KW - 1.27 and 1.3,
+respectively
+
+19
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TABLE
+
+Distribution of thermal neutron fluxes 1"" (relative units) and neutron gas
+
+temperature Tms (K) in a fuel channel cell as a function of absorbing rod
+
+diameter (density of 0.1203 0.15 3/m3).
+
+    
+  
+  
+ 
+  
+
+     
+     
+   
+
+Tues 00
+I
+
+b.l!ola c 110- Knnnna 6. run."
+1P l Tl-l' 0 Tim I T. I'
+
+"-f
+
+ 
+
+ 
+
+ 
+
+0.508 658
+u m m metal 102 |o.&16 an luml M7
+
+‘ :-’—'—"""'° :36 0.652 101 0.600 m In»:
+
+   
+ 
+   
+
+'I
+
+Weasel 788 l0.799| 813 ILMZI 859
+
+m wlowml |O.700| 8M ll.0’d M9
+
+ 
+
+ 
+
+I.
+a. Fuel elenents b. Water ' c. Channel pipe (1. Graphite
+
+' The average values by volume of the indicated elements are given for
+fluxes normalized to the average value by cell volume.
+
+" The data in the numerator are for the 12 outer fuel elenents; those in
+the denominator, for the 6 inner fuel elements.
+
+20
+
+FOR OFFICIAL USE ONLY
+REFERENCES
+Yemel'yanov, 1. Ya. et a1., ATOMNAYA ENERGIYA, Vol 46. No 3. 1979, p 139.
+
+Dollezhal', N. A.. Yemel'yanov. I. Ya., "Kanal'nyy yadernyy energeticheskiy
+reaktor" [Channel Power Reactor], Moscow, Atomizdat. 1980.
+
+Bulkin. Yu. H. et a1.. in: "Opyt ekspluatetsii i puti dal'neyshego
+razvitiya stamnny energetiki" [Operational Experience and Paths of Future
+Development in Nuclear Power]. Obninsk, izd. FBI. 1974, Vol 2, p 28.
+
+Radkovskiy. A.. in: "Trudy vtoroy Zhenevskoy konferentsii. Izbrannyye
+
+doklady inostranykh uchenykh" [Transactions of Second Geneva Conference.
+Selected Papers of Foreign Scientists]. Vol 3, Moscow, Atomizdat, 1959.
+
+p 717.
+
+Volkov, V. S. et 31.. AIDMNAYA ENERGIYA, Vol 11. No 2, 1961, p 109.
+
+Toshinskiy. G. 1.. Kalashnikov, A. 6., in: "Teoriys i netody rascheta
+yadernykh reaktorov" [Theory and Methods of Calculating Nuclear Reactors],
+Moscow, Gosatomizdat. 1962. p 118.
+
+Orlov, V. V. et al., "Tret'ya Zhenevskaya konferentsiya. 1966. doklady
+SSSR" [Third Geneva Conference. 1964, Soviet Papers], No 354.
+
+Gorodkov. S. 8.. "Instructions on Using the HODIHER Program for Hetero-
+
+geneous Reactor Design", Institute of Atomic Energy Preprint No 2578,
+Moscow. 1975.
+
+vikulov, V. K. et al.. "Voprosy etomnoy nauki i tekhniki. Seriya Yadernaya
+Eizika nizkikh i srednikh energiy. reaktornaya fizika" [Problems of Nuclear
+Science and Engineering. Series on Nuclear Physics at Low and Intermediate
+Energies, Reactor Physics], No S, 1977. p 57.
+
+COPYRIGHT: Energoizdat. "Atomnaya energiya", 1981
+
+9875
+
+C50:
+
+8164/1002
+
+21
+
+FOR 0FFHJAI.USE1MNLY
+FOR OFFICIAL USE ONLY
+
+000 621.039.59
+
+01016 01" BHWORS AID FILTERS FOR PLANTS BPROGSSIIIG SPENT PUBL
+ELEMENTS OF ”OHIO POWER STHIOIS
+
+Moscow NEOICMYA ENERGIYA in Russian Vol 51, No 5, lov 81
+(manuscript received 8 Dec 80) pp 317-320
+
+[Article by A. M. ﬂudel', A. P. Roshchin and v. v. Dolgorv]
+
+[Text] The chemical conditions of processing spent nuclear power plant
+effluents have specific equipment requirements, such as nuclear safety, remote
+control servicing and maintenance, possibility of decontamination, air-
+tightness, a minimum of radioactive wastes, etc. This complicates the design
+of the equipment and increases its cost and operational expenditures. Con-
+sequently, equipment design significantly influences the effectiveness of the
+radio-chemical plants being examined here. In principle, the optimal construc-
+tion or type of equipment for given conditions may be selected on the basis of
+technical and economic calculations. However, the necessity to take into con-
+sideration complex and contradictory requirements, and the absence of reliable
+
+mathematical models of the process makes it necessary to introduce varying and
+often subjective hypotheses that lower the reliability of such calculations.
+Even with adequate intonation on the process as a whole, the reliability of
+the comparative evaluation of equipment may be improved through application of
+empirical methodology. For example, a system of criteria for selecting
+extractors was suggested [1, 2]: value intervals for each criterion selected
+in advance are evaluated by a specific number of points and the sum of points
+received by each compared piece of equipent determines its advantages.
+
+The basic inadequacy of present methodologies is that their authors attempt to
+derive an absolute evaluation of equipment that does not depend on what it is
+being compared with; consequently, after a single comparison, the criteria
+tables themselves become unnecessary since the evaluation remains unchanged.
+
+In addition, it is impossible to suggest a system that would permit an intui-
+tive determination of the selected interval values of the criteria and the num-
+
+ber of points they were assigned. One more substantial inadequacy is that it
+is impossible to determine the expediency of utilizing different types of
+equipment in a single technological chain. For example, the ability of an
+
+22
+
+FOR OFFICIAL USE ONLY
+extractor to handle unclarified solutions is evaluated by the highest mark 5,
+while inability to do so receives no mark at all [2]. However an arrangement
+including a filter and high-efficiency extractor may turn out to be more
+advantageous than a less effective extractor without solution clarification.
+It's also impossible to compare versions in which different types of equipment
+are used in the extraction and reextraction stage.
+
+The following principles serve as the basis of the suggested methodology:
+equipment for a specific technological process is compared; the comparison of
+equipent assures that required technological parameters will be met and their
+operational characteristics learned and verified. Also taken into considera-
+tion is its connection to related equipment in the technological chain. The
+final evaluation of the equipment is not absolute but its superiority or
+inferiority is determined only in relation to other equipment being compared.
+The methodology has been developed to compare extractors and filters--the basic
+tools utilized in modern radio-chemical reprocessing of atomic power plant fuel
+elements. other equipment may be compared similarly.
+
+Basic criteria influencing effectiveness (Tables 1, 2) were selected in advance.
+Selection was based on known and generally accepted evaluations recommended
+
+for technical/economic calculations. Each canpared piece of equipment is char-
+acterized by an absolute value on the basis of any criterion but its link with
+related equipment in the technological chain is characterized by criteria that
+take into consideration the value of auxilliary equipment for transmitting the
+effluents and operating expenditures. Criteria are ranged by their value and
+rated by coefficient r. Evaluation of the equipment's water phase B according
+to any criterion is determined by taking into consideration absolute values of
+the latter with regard to the instruments being compared
+
+N,. '
+”pl "" "N‘T— "I:
+
+max
+
+where "P - is the value of the criterion for the instrument being examined;
+
+N1 - is the highest criterion among the instruments being cmpared; p - the
+ngmber of instrument being examined; 1 - is the ordinal criterion number.
+
+23
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+1'01: 1
+
+Filter Evaluation Criteria
+
+Kuuulmn
+
+Critcri
+
+Cmnuun women. «Ivumapommm °
+
+‘lucno rhmmpon. vuoﬁxommoc Mn
+oﬁmnc‘cuuu uonpu-pmlma p.160?"
+MMlclllul rlmnmlmualmu c mm:-
+um‘I muouawmutumocnn
+
+06M)! cﬁvocuux manpo- u nyau-
+nu nponumro ornnxa. unname-
+mu m mpemﬁomy mxnnou"
+
+llonrpxnmu. quunmpynunﬂ nanom-
+pomxu. "Myra-lei! mueuu. a par,
+«to m 3 me. 'I [Inﬂow Mantra
+
+06mm amomruumux pact»-
+n .0.
+
+061m: cﬁronmx pncrnopol n "yah-
+nu ommta. minimums: an nope-
+]naﬁorxy llﬂlotl noxamm-mcii "
+
+ram-m- utram nu alnuynmmlm
+muomom u unonontmmmw
+oGopynouanu-u
+
+Crouuocu. thump: (ryunuplum
+crounncu. clmnnpon mug-0mm)
+
+Burma upuum-onctmmux mmnmr-
+um‘t
+
+llaomnm. naummouux muons-oun-
+ucmmx nnumummn
+
+Ctmmucn. ncmmontcnuom 060px-
+:mnamm (namru mm nun-mum:
+[nunmumn u cytucnumi‘l Imyﬂm
+oraclmmn)
+
+:lnlmtu Ila llonromluly mermpnn
+x Qumnpunamm (-hanuyamnu.
+umonoratcmaluc {mawpynmmo
+muwm1)"'
+
+Knauucnv- nanny“. cﬁlmumcuom
+Ila omen-mm lln (I'mcﬂty
+
+Cwlmocn. curmnu KHIIIIA
+
+Cmnnm-u. cmmum’: ammwrypu.
+uooﬁxunmmin :vm uolmnamuii p.1-
+ﬁom «Maul-on
+
+cmmmcn. nmneﬁucpcm u npucuo-
+coﬁanu-ﬂ mm nucmmmmnmﬁ m-
+ucnu :Imlvcmuux yam-n n ,‘ll'illlcl-l
+
+0 "gm |IM'I"I‘ munchrm-Iml "mum! ulnnm-Im "alum.-
+ax-uc- m-uummu. «ﬁn-avian em aﬁcmmnnh)‘ :IIu'IrIIu-r. 0- n:
+l w' tum-«luau: “D u- I y llcnumml eye-imam.
+
+ 
+
+216
+
+FOR OFFICIAL USE ONLY
+Key to Table l
+
+l.
+
+2.
+
+3.
+
+9.
+10.
+
+ll.
+
+12.
+
+13.
+lb.
+15.
+
+16.
+
+Average filtration rate.
+
+number of filters necessary to assure filtration department's continuous
+handling of assigned production
+
+Volume of effluent solutions and washed sediment pulp provided to vaste
+processing"
+
+Filtering partition surface requiring replacement calculated for eight
+thousand hours of Operation per filter
+
+II.
+Volume of auxilliary solutions
+
+Volume of effluent solutions and pulp sediment provided to reprocessing
+us
+prior to localization
+
+Annual expenditures for operational and auxilliary equipment
+Filter cost (total cost of filters for department)
+
+Height of production premises
+
+Total area used by production premises
+
+Cost of auxilliary equipent (pumps to transfer solutions and suspensions
+inside the departnent)
+
+Expenditures for preparation of filtration solutions (flocculants,
+auxilliary filtering substances)”.
+
+kaount of air discharged for cleaning by department
+Cost of the control and measurement instrumentation and automation system.
+Cost of storage equipment necessary for normal filter operation
+
+Cost of containers and equipment for remote substitution of defective
+units and parts
+
+ 
+
+II
+
+when calculating the relative evaluation of the criterion, a value inverse
+to its absolute value is utilized
+
+Per 1 m3 of filtrate
+
+"’For 1 m of initial suspension
+
+25
+
+FOR OFFICIAL USE ONLY
+UNv-o
+
+t
+
+10
+11
+
+12
+
+13
+
+16
+
+15
+
+16
+
+19
+
+20
+
+21
+
+POI OFFICIAL USE ONLY
+
+Tale 2
+
+Extractor Evaluation (hitcriu
+
+ltpmq-Il
+
+l‘ocypc mam: auuapnta no mun-
+uxmluro [low-ma °
+
+llpusm uprGumuuu «Inna u auuuputo
+
+Mcxauuqocmui yuoc opuuumoﬂ
+dam upu uoummmumi upomno-
+nnmmocm
+
+‘Iucno munpamn. uonéxonuuux nu
+:uuwuuui upnuuomumsuoctu
+
+Illnmoumlmusllwn. p.601“ anu-
+pam no amumm npu myopia!-
+uo pawn-pout, coucpmmuux nop-
+nyn WY °
+
+Mummnuuo nouynumn pannogn‘
+ummu-cm ulna '
+
+133mm «axon: auunpzrm un crumm-
+nammﬁ mum» noun mmuolml
+um 12 u u 605cc -
+
+‘lucan tellyluux u unuouo-upou-
+nmutuwux Pcuouml nunm
+(.muuparou) I mum: Ill 8 me. u
+Mun!
+
+Axum-unmet» lu-uuma mum-MI a
+cxy-Iac aulmiuarn uuxom no
+cvpuu om mun-lulu yuan
+
+Kola-comm nprzmu'u-cnoﬁ than u
+mum'sno (aIIuaIunu)
+
+“cull-mum «wan-r0 may“. tum-ry-
+ummom no mummy upu pawn
+aununn (nnuapaton)
+
+Muuuuammo mlymuum- mumuouuo
+ummnm opmuu-ooclm'i u "much
+
+Mnunuuuuuu aunyctuuoo otuomou
+ummmn nonuol'i u npnumecuoﬁ
+4m)
+
+Zln‘fpl‘l'u (rum-nu) nu :mmnyutmum
+ocumumx u Icucmnrnicnunux
+aunnpamn. “"1ch anmmmuot-
+Rnrn yupu-ucmm II pan‘aulmlmmm
+
+M uuuuuamm Imnﬁx-mmmn mun-alum-
+cur-man Iumuum. mm I-azmcmo-
+mm anunpam (Mullammn)
+
+Mummunmmu manna umumumct-
+mmux numuu-uuii nan nanome-
+mm mmupu‘m (ﬂung-axon}.
+
+C‘rmmocn. auunpnm (anumynmn
+
+C‘HIIIMIN‘JL IIEI‘UMI'HI'II'IIJIDI'O I [ly-
+Aoumlml. uoumnupyuuem c pa-
+mmamuunuuu rammpauu (It’ll-o
+cut-mu. uncocu u 1. u.)
+
+Cmnm-cu. cum-nu ulmmu'm'lcmmnn .
+
+ryuupnnauuu u yumuolmu pn-
+oma mumpnra (mm-pump)
+Cwuuut‘n. Konrrﬁuupon u npyrux
+IlpllCllIDUIGm-Illli mm nucvuumum-
+mm) mu'raum n noununwn mum-
+para. no yuon u unouornms-
+norn Momma-mum
+Pncxon :mcmmmcpruu upu mam
+uuunpnta (auunpwu)
+
+ 
+
+| ~
+5.70
+0.“!
+0.12
+1.79
+8.2!
+8.“
+
+9J8
+
+mu-
+
+10.26
+“.37
+
+".38
+“.98
+
+12.23
+
+13.46
+
+l3.“
+14.3.1
+15,”
+
+“3,03
+
+“hm
+
+ 
+
+2.49
+2J0
+
+2.65
+3.37
+3.55
+3.65
+
+3.97
+
+4.!
+
+is
+
+L“
+4.92
+
+4.93
+
+5.10
+
+5‘
+S
+
+1.2I
+
+° "ll“ I‘ld'lﬂc omecunm-unn autumn anpml lean».-
+3101a- H‘lll'llllll. «(up-mu em aﬁcwnuuy alumna).
+.
+
+26
+
+POIOFFIGALUSEONLY
+FOR OFFICIAL USE ONLY
+
+Key to Table 2
+
+1.
+2o
+
+3.
+
+l6.
+
+5.
+
+9.
+
+10.
+
+11.
+
+12.
+13.
+
+1h.
+
+15.
+
+16.
+
+17.
+
+Operative life of equipment prior to overhaul
+
+Time that phases remain in equipment
+
+Mechanical entrainment of organic phase at nominal capacity
+number or devices necessary for assigned production scale
+
+length or equipment operation prior to stripping when reprocessing
+solutions with solid phase content.
+
+Minimally permissible difference in phase density”
+
+Time for equipment to reach steady operation after shutdown of 12 hours
+or more.
+
+Number or routine and preventive maintenance service calls of equipment
+(devices), calculated for eight thousand hours or operation.
+
+mration of equipment repair in the instance of accidental failure of its
+basic units.
+
+Organic phase quantity in the equipment (devices).
+
+mount of condensed air released for cleaning vhen equipment is in
+operation.
+
+Minimum permissible ratio of organic and water phase flows.
+Minimum permissible ratio or water and organic phase flows.
+
+Annual expenditures for operating basic and auxilliary equipment, and
+automatic operation and control systems.
+
+Minimum production area necessary to set up equipment (devices).
+
+Minimum necessary height of production praises to set up equipsent
+(devices)
+
+Cost of equipment (devices)
+
+ 
+
+“When calculating the relative criterion evaluation, a value inverse to its
+absolute value is utilized.
+
+27
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Key to Table 1 (continued)
+
+18. 00st of auxilliary equipment coming in contact with radioactive solutions
+(pulsators, pumps, etc).
+
+19. Cost of automatic operation and control system of the equipment (devices).
+
+20. Cost of containers and other devices for remote assembly and disassembly
+of the equipment, its units and auxilliary equipment. -
+
+21. Use of electric energy when the equipment is in operation.
+
+Values of 3p, are totaled utilizing all criteria. Since criteria are formulated
+in a manner where the least value corresponds to the best piece of equipment,
+and the more important the criterion, the lower the value of the coefficient,
+
+it follows that equipment receiving the least sum of evaluations is given
+preference over all the others. For example, two pieces of equipment are com-
+pared where the absolute criterion value with significance coefficient 0.2 is
+equal to 10 and 8. Then all - 8:10 - 0.2 - 0.16, and 321 - 10 : 10 - 0.2 a
+0.2 (to facilitate calculation, each evaluation based on all of the criteria
+may be multiplied by a constant greater than unity, which will not affect the
+results).
+
+The suggested methodology is more flexible than those presently known, as it
+permits the rclaLive advantages of devices being compared to be evaluated. In
+addition, criteria intervals and their evaluations are not included here since
+they would be impossible to substantiate.
+
+Obviously, comparative evaluation depends first of all on correct determination
+of the significance coefficient r1, which is impc ssible to determine by strict
+calculation. For this reason, a professional poll of experts working in this
+area was conducted. Experience, intuition, and understanding of the essence
+of the problem permitted them to evaluate the significance of individual
+
+criteria, and they were able to decrease uncertainty and subjectivity by
+assessing the evaluations with known methods. The experts were given ques-
+tionnaires containing the criteria shown in Tables 1 and 2. The arrangement
+of criteria in the questionnaire was arbitrary. Bach expert was required to
+assign a number to each criterion, beginning with the most significant (in
+his view). It was also permitted to assign the same number to any number of
+criteria. Numbers did not have to be consecutive, however they were not to
+exceed the total number of criteria. It was also permitted to delete those
+criteria which the expert considered unnecessary and to add those which in his
+opinion had been omitted fran consideration. In addition, he had to evaluate
+his own competence according to a scale: am completely familiar with planning
+
+28
+
+FOR OFFICIAL USE ONLY
+issues of the divisions and with development and operation of the equipment
+
+(v I 3, the "weight" of the expert); am well acquainted with planning issues
+of divisions and development of equipment (v I 2); am acquainted with the
+operation of the equipment (v I 2); am acquainted in general with planning and
+operation issues (v I 1). In response to the questionnaire, 35 were received
+concerning filters and 26 concerning extractors. Professional positions held
+by the experts ranged from engineers to directors, with more than 10 years of
+on-the-Job experience. They were enployed by design organisations, scientific
+research institutes, and plants. The majority of experts rated their own com-
+petence at v I 2.
+
+The questionnaires were handled in the following manner [3, It]: criteria were
+set up in order of significance, in relation to the number of ranges deter-
+mined by the expert (with the most significant listed first). When ease of the
+criteria received the same evaluation, they were then marked with identical
+standardized ranges determined by the equation
+
+r _ IKE-(kl IH Hk-I-h)
+" h|1 ‘
+
+where k, (h 4- l),...,(k + b) are positions occuped by criteria with an identical
+evaluation. Standardized ranges were utilized in further calculations.
+
+After ranging each expert's criteria, the r1 mean total range was determined for
+criteria provided by all of the experts:
+
+x": "
+r‘r: _ r NI“ v .
+i“ I ’fn ’
+
+where m - the total number of experts; J I 1.2,..., n - the expert's number;
+
+i I 1.2,..., n - the criterion number. The unanimity of the experts was eval-
+uated by utilizing the concordance coefficient a, determined by Kendall's
+equation 5
+
+(0": n I! I
+37(5) 'I]2"‘"""“2 r,
+' 5-1 i-t
+
+ 
+
+Sr: >1": (r.— F) (IE: mt;
+
+where
+
+tJ - the number of identical ranges, given by the J-th expert.
+
+29
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+'I'lu: «:ml‘idcncc lcvul (significance) of the coefficient a was evaluated with
+the aid of chi-square distribution, with n - l the nuber of degrees of
+freedom. _ -~
+
+. s
+.,_.,._.____.__——-——;—.
+
+1
+I/2mu(n-I-"-—'1—_:: 2 1',"
+m "
+
+To derive the relative importance of r1 criteria values were normalized:
+
+ 
+
+R.- -- "”-
+
+Oalculation results are shown in Tables 1 and 2 (criteria are arranged in the
+order determined by the experts).
+
+for filters, the concordance coefficient was an I 0.188, with a confidence
+level p > 0.99; for extractors u - 0.287, confidence level p > 0.99. The
+unanimity of the experts was not very high, however it cannot be considered
+insignificant. Overall, the arrangement of criteria by their significance
+should be acknowledge as successful and logical. Thus, for filters, the
+criterion taking into account the equipent's intensity of operation was rated
+first; criteria characterizing a single filter's maximal potential performance,
+and one of the more important indicators, the amount of waste, followed next.
+For extractors, the criterion determining its operational life stood first.
+This reflected the tendency presently in existence to utilize the mos‘. labor-
+intensive extractors in the radio-chemical industry, those equipped with a
+mechanical energy feed (centrally powered, mixer-settlers with nechanical mix-
+ing, and so forth) for which duration of Operational life is precisely one of
+the basic indices. The criterion characterizing the duration of the equip-
+ment's tine phase, i.e. high performance, came next. The arrangement of other
+criteria is also non-contradictory in both cases.
+
+or naJor interest is the casparison of expert‘ opinions from other countries.
+Experts from the Atomic Energy Commission of France agreed to respond to the
+questionnaire. The responses were processed in the same manner. The unanimity
+of bench experts was higher than that of our experts («I - 0.793 for filters,
+on - 0.59 for extractors). Characteristically, the differences in extractor
+evaluations was higher here as well. Apparently, this is due to the greater
+complexity of the extraction process. The distribution of the criteria pro-
+vided by the French experts approximates that shown in Tables 1 and 2, even
+though there are differences determined by the differing approaches to problems
+in other countries. The degree of correspondence in the responses of the
+experts from both countries can be conveniently evaluated by Spearman's rank
+correlation o:
+
+30
+
+FOR OFFICIAL USE ONLY
+where x, y are the number of ranks assigned to each criterion by Soviet and
+French specialists, respectively.
+
+For filters, 9 - 0.6%; for extractors, o - 0.82. This shows a rather high
+unity of views.
+
+Naturally, the given criteria systems and their evaluations reflect current
+views and approaches to the problem. As science and technology develops, i.e.
+as new intonation appears, conceptions may change; this will decrease the
+level of uncertainty in evaluations based on new polls of the experts.
+
+Thus, the suggested methodology does not require designation of an unsubstan-
+tiated masher or points for evaluating equipment under caparison; it also
+
+permits the advisability of utilizing equipent of various types and design
+to be evaluated with minimum uncertainty, as well as the advisability of their
+
+application within the framework or plants reprocessing atomic power station
+fuel elements.
+
+REFERENCES
+
+l. Kasstkin, A. 6.. ed., "Zhid‘kostnaya ekstraktsiya (teoriys i praktiks)"
+[Liquid Extraction (Theory and Practice”. collection of papers. Moscow,
+Khimizdat. 1958.
+
+2. Karpacheva, S. H.. AWAYA MGIYA, Vol 67, No 5. 1979. p 3210.
+
+3. Beshelev. s. 0.. Gurvich, F. 6.. 'Hetemstiko-statisticheskiye netody
+ckspertnykh otsenok" [Mathematical-Statistical Hethods of Expert Evalua-
+ntions]. Moscow. Statistika, 1976.
+
+lo. Khan. 6.. Shapiro. 5.. "Statisticheskiye modeli v inzhenernykh zadachakh"
+[Statistical Models in Engineering Problems]. Moscow, Mir, 1969.
+
+COPYRIGHT: Bnergoizdat. "Atomnays energiys", i981
+
+9875
+(:80: 8104/1002
+
+31
+FOR OFFICIAL LB! ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.039.531
+RADIATION DAMAGE m STEEL m wens-mnemrsn. HATER-0001.31) REACTOR VBSSBLS
+
+macaw MDIA‘ISIOKNYOYE Pommm STALI KORPUSOV vow-vommm REAKTOROV
+in Russian 1981 (signed to press 27 May 81) pP 2-7
+
+[Annotation, table of contents. and introduction fron book "Radiation M80 to
+
+Steel in Water-Hoderated, Watercooled Reactor Vessels", by Nikolay Nikolaysvich
+
+Alehseyenko, Anir Dzhabrailovich Anyev, Igor' Vasil'yevich Gorynin and
+
+Vladinir Aleksandrovich Nikolayev, edited by Igor' Vasil'yevich 60min,
+
+Egrespomiing nter of USSR Acadeny of Sciences. Bnergoizdat, 1250 copies,
+pages
+
+[Text] The results of research of a nder of scientific and engineering problem
+connected vith serviceability of the vessels of water-noderated, water-cooled power
+reactors at nuclear power plants are generalized and analysed. A study is nsde of
+the require-tents ilpossd on nterials used in water-moderated. waterbcoolsd poser
+reactor vessels. naterial selection principles and also the properties of used and
+proposed materials. The greater part of the paper is devoted to the behavior of
+vessel asterials mder neutron radiation conditions. in particular, in contact with
+the reactor coolant. The basic luvs of variation of strength, ductility and tough-
+ness of steel and the netal of welded joints stbjected to neutron radiation are
+described as a function of heat treatment, structure, alloying. nature and
+
+anount of inurities and a mute: of other factors. Information is also given on the
+specific behavior of hydrogen in irradiated naterials.
+
+The book is designed for scientific workers and engineers dealing with the probless
+of building nuclear power plants and also for instructors, postgraduates and students
+in the corresponding specialties at the institutions of higher learning.
+
+There are 27 tables, 94 illmtrations and 321 references.
+
+FOIOFFICIALUSIONLY
+Table of Contents
+Introduction
+
+Grapter 1. Materials Used in Building NaterNodereted, Water-Cooled
+Reactor Vessels
+1.1. Operating Conditions of W [Hater-Moderated. Hater-Cooled
+Power Reactor] Vessels and Require-ants Ilpoaed on Then
+1.2. Soviet Reactor Vessel Hateriala
+1.2.1. Base Metal
+1.2.2. welding Materials
+1.3. Foreign Reactor Vessel Haterials
+
+Chapter 2. Influence of Neutron Irradiation on Strength. Ductility and
+Toughness of Vessel Materials
+2.1. Gmeral Concepts of Radiation Damge to Steel
+2.1.1. Variation of Strength and Ducti1ity
+2.1.2. Variation of Brittle Temperature
+2.1.3. Influence of Irradiation on Work of Ductile Failure
+2.1.4. Properties Under Repeated Static Load
+2.2. Basic Laws of Variation of Properties of Steel Subjected to
+Neutron Irradiation
+2.2.1. Influence of Radiation Flu: and Towerature
+2.2.2. Inflwnce of Neutron Flux Density
+2.2.3. Influence of Stresses During Irradiation
+2.2.5. Recovery of Preperties During Annealing
+2.3. Role of Structure and Heat Treatnent of Steel
+2.3.1. Influence of Amtenization and Stbaequent Cooling
+Conditions
+2.3.2. Influence of Towering Conditions
+2.3.3. Preliminary Aging
+2.4. Influence of Chemical Coupoaition
+2.6.1. Influence of Iapurities
+2.15.2. Influence of Alloying Blemts
+2.5. Materials of the wan-1000 Hater-Moderated. Water-Cooled
+Power Reactor Vessels
+2.5.1. Base Metal
+2.5.2. Hotel of Nelded Joints
+2.6. Comarieon of Radiation Blbrittleaent of Industrially Produced
+Vessel Steels '
+
+Chapter 3. hehaniam of Radiation Damage
+
+3.1. Cold Shortness of Body-Centered ethic Metals. Role of Neutron
+Irradiation
+
+3.2. mananim Controlling Radiation Hardening
+3.2.1. Radiation Defects Responsible for Hardening of Iron
+3.2.2. Influence of Interstitial Iwuritiea
+3.2.3. Influence of Substitution llenente
+3.2.4. Inﬂuence of Coherent Segregation
+
+3.3. Influence of Iapurities on Surface Energy
+3.3.1. Intergranular Segregation
+3.3.2. Intracrystalline Segregation
+
+33
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Chapter 6. Hydrogen Butrittlenent of Vessel Material under Irradiation
+
+Conditions 12!.
+6.1. Reactor Vessel Hydrogen Absorption 126
+6.1.1. Sources of Hydrogen in Vessel Material 126
+6.1.2. Absorption and Release of Hydrogen by Irradiated
+Steel 127
+6.1. 3. Estimate of Hydrogen Accululation in Vessel Material 136
+6.2. Influence of Neutron Irradiation and Hydrogen on lbchanical
+Properties under Short-Tern Tension 163
+6.3. Influence of Neutron Irradiation and Hydrogen on Cold
+Shortness, Static Bending and Eccentric Tension Properties 168
+
+6.6. Recovery of Properties of Hydrogen Charged Steel During Annealing 151
+6.5. Low Cycle Fatigue of Steel After Neutron Irradiation and
+
+Hydrogen Absorption 153
+6.6. Delayed Fracture of Irradiated Steel under Effect of Hydrogen 157
+
+Chapter 5. Problems of Operating Reliability of Reactor Vessel.
+
+Estinating the Resistance to Brittle Failure 170
+
+5.1. Brittle Failure Inhibition Criterion 170
+
+5.2. Brittle Failure Initiation Criterion 173
+
+5.3. Vessel Radiation Life 176
+Bibliography 179
+Alphabetic Subject Index 189
+Introduction
+
+Neuty-five years have gone by since starting up the First Nuclear Power Plant in the
+USSR. Whereas at the beginning of the 1950's nuclear power engineering had taken the
+first steps in the direction of serving peaceful purposes, in the past two and a
+half decades it has been able to win strong positions in the fuel and energy system
+of the country and it has becole an independent branch of the national econony.
+
+The 26th CPSU Congress stated the goal of generating 1550 to 1600 billion kilowatt-
+hours of electric power in 1985, including 220 to 225 billion kilowatt-hours at the
+nuclear power plants and 230 to 235 billion kilowatt-hours at the hydroelectric power
+plants. The increase in electric power production in the European part of the USSR
+will take place primarily at the nuclear and hydroelectric power plants. New
+capacity in the slant of 26 to 25 nillion kilowatts will be put into production at
+the nuclear power plants [1-3].
+
+A significant part of the program for develop-eat of nuclear power engineering in
+the Soviet Union and the majority of other indmtrially developed comtries is based
+on the use of two-circuit water-moderated, water-cooled power reactors (WBR).
+Reactors of this type are along the best assimilated. They are distinguished by
+great compactness, high use coefficient of the power, oowarstivsly low cost,
+reliability and siwlicity in operation and naintenanoe. Hith respect to specific
+power intensity of the core and economy, the MR are at the. present tine some of
+the best [6, 5].
+
+36
+
+ml OFFICIAL USE ONLY
+um. respect to chronological attributes and technical indices the WEE can be pro-
+visionally divided into three generations [6-8]. The first generation reactors
+(MR-210, wen-70, WEI-365) confirmed in practice the correctness of the scientific.
+technical and desip development solutions used as the basis for them. They promoted
+the accumulation of experience in the industrial operation of Will nuclear power
+plants and offered the possibility of training hidlly qualified service personnel.
+The second generation is made up of the Mil-660 reactors used as the basis for the
+large series of nuclear power plants already in operation or being built in the
+Soviet Union. German Democratic Republic, Finland and in a nuﬁer of other countries.
+Economic calculations and operating experience indicate that the teclmical and
+economic indices of power plants equipped with these reactors are in no way inferior
+(and in a nuber of cases are even superior) to the corresponding indices of classi-
+cal thermal electric power plants operating on inorted organic fuel. The next
+qualitative step in the development of MR (third generation) is manifested in the
+
+WEIR—500 and the wen-1000 reactors with a unit electric capacity of 500 and 1000
+megawatts respectively.
+
+One of the mat responsible elements of the structural design of WER to a signifi—
+cant degree determining the unit power and operating safety is the reactor vessel.
+Direct monitoring of the change in the mechanical properties of the vessel material
+of an operating reactor and necessary repairs impose great technical difficulties.
+High manufacturing quality, which can be insured only mder the conditions of a
+specialized plant, can serve as a definite guarantee of the serviceability of a
+reactor vessel. In the Soviet Union. the possibility of plant mufacture of a
+vessel subsequently transported by rail, has formed the basis for all structural
+designs since the very beginning of the development of WER. This has led to the
+necessity for solving a large number of problem in the areas of material science.
+metallurgy and welding technology.
+
+First of all, it was necessary to develop andindustrially assimﬂate high quality,
+low-alloy steel which has hiya metallurgical adaptability to mufacture. weldability
+in large thicknesses and mechanical properties that insure operating reliability of
+the vessel for no less than 40 years. The high value of welding involved in manu-
+facturing a reactor vessel has led to the necessity for creating new welding
+equipment, the development of welding mterials, welding conditions and technology
+guaranteeing the mechanical properties of the welds and high efficiency of the weld-
+ing operations. lligh corrosion resistance of’ the vessel material has been insured
+by anticorrosive surfacing of the inside surface. In addition, the possibility of
+operating WBR vessels without anticorrosive protection has been proven. The prob-
+lems of quality control of the base metal and welds by highly effective n—ray and
+game techniques, ultrasonic, color and luminescent flaw detection have also been
+solved.
+
+In contrast to ordinary high-pressure vessels, the reactor vessels are subjected to
+powerful neutron and gama radiation calming significant changes in properties of
+the metal. The most unfavorable of these changes is the loss of ductility and
+increase in inclination of the steel to brittle failures. Accordingly, the problem
+of radiation strength of reactor vessel material from the point of view of pro-
+longed serviceability has acquired primary simificence. The first person to point
+to the necessity for studying radiation strength of reactor materials in the Soviet
+Union was I. V. Kurchatov. By his initiative a nunber of scientific research
+
+35
+
+NR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+complexes were set up which are equipped with specialized mterials science reactors
+and "hot" charters offering the possibility of studying the properties of nterials
+in intense ionizing radiation fields. In the final analysis, the broad developmnt
+of such research has led to the creation of a new field of science - solid-state
+radiation physics, a component part of which is radiation uterials technology.
+
+The general problens of the influence of reactor irradiation on the properties of
+metals are fully covered in the book by s.'r. Konobeyevskiy [9]. Various theoretical
+and engineering aspects of the influence of neutron irradiation on the behavior of
+materials designed for making WBR vessels have been discussed in the reports by
+
+a nutter of international and all-union conferences and nunerous periodicals. How‘-
+ever, the increasing scale of the construction of nuclear power plants equipped with
+VVBR has put the question of the necessity for systenstization and generalisation of
+scattered information and the investigation of the problem of radiation strength of
+reactor vessels as a whole on the agenda. The effort to solve this problen has been
+mdertaken in the book now brought to the attention of the specialists.
+
+In conclusion, the authors consider it their duty to express their deep appreciation
+to P. A. Platonov, G. P. Karsov, Yu. I. Zvezdin and V. V. Rybin for useful dis-
+cussion of individual sections of the book, and also to L. H. Lebedev, V. I. Badanin,
+B. P. Usatov, A. A. Kuznetsov and A. M. Horozov who participated directly in the
+experimts.
+
+COPYRIGHT: Energoizdat, 1981
+
+10845
+CSO: 1861/196
+
+36
+
+FOR OFFICIAL USE ONLY
+RADIATION SAFETY AND PROTECTION OF NUCLEAR POWER PLANTS
+Moscow RADIATSIONNAYA BEZOPASNOST' I ZASHCHITA A38 in Russian 1981 pp 2, 64-78
+
+[Annotation and article "Tritium at Nuclear Electric Power Plants" by V. V. Badyayev.
+
+Yu. A. Yegorov, V. P. Sklayrov and G. P. Stegachev from book "Radiation Safety and
+Protection of Nuclear Power Plants", edited by Professor Yu. A. Yegorov, Atomizdat,
+256 pages]
+
+[Text] The fifth edition includes part of the papers discussed at the Second
+All-Union Scientific Conference on Protection of Nuclear Engineering Facilities from
+Ionizing Radiation (lbscaw, MIFI [Moscow Engineering Physics Institute].
+Deceuber 1978) and the Branch Conference on Excher of Experience in Radiometric
+and Dosimetric Research at Nuclear Power Plants (Moscow. NIKIET [expansion unknown],
+May 1979). Reports by American specialists heard at the Soviet-American Smosium
+on the Problem of Fast Neutron Reactor Shielding (Obninslt, PEI [expansion mknownl,
+November 1978) were also included. The retaining materials will be published in
+the sixth edition.
+
+The results of studying the radiation conditions at nuclear power plants and the
+problem of predicting activity are investigated. Beginning with this edition, a
+
+new section has been initia:ed where the environmental protection problems of operating
+nuclear power plants are discussed. Materials on passage of radiation through
+
+reactor shielding and methods of calculating shielding are presented.
+
+The book is designed for specialists in radiation safety and protection of "nuclear
+power plants.
+
+There are 59 tables, 70 illustrations and 317 references.
+
+37
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Tritium at Nuclear Power Plants, by V. V. Badyayev, Yu. A. Yegorov, V. P. Sklyarov,
+G. F. Stegachev
+
+Tritium, which is a superheavy radioactive hydrogen nuclide, _p1ays an important 'role
+in the problem of radiation safety of nuclear power plants. Tritium has a halflifs
+of 12.26 years, it decays with the emission of B—particles with maximal energy of
+18.6 kiloelectron volts (average energy 5.8 kiloelectron volts). Tritilml belongs in
+the category of so-called global radionuclides for it has a quite long halflife, it
+cm enter into the composition of organic and inorganic eowounds and when it gets
+into the environmt it can spread to significant distances.
+
+Tritium exists primarily either in gaseom form-or in the form of tritium water, but
+it can also enter into the composition of various organic cospomds. The toxicity
+of tritium as a radionuclide depen¢ to a great extent on the form in which it is
+found in the environment and in which it enters into the organism of ma: in gaseous
+form (HT, T2) or in the form of tritium water (810, T20). Gmeous tritium modifies
+the skin and mucous membrane of the respiratory tracts of man by its B-radiation
+(external irradiation) and causes damage to the internal organs of man, being found
+in the chemically bound state in these organs. Upon entering the environment in the
+form of tritium water, tritium can enter the organism of man both through the
+respiratory tracts (tritium water vapor) and through the skin and gastrointestinal
+tract (with food and water). It is noted that mo penetrates the organism through
+the entire skin surface of a htnan just as efficiently as through the lungs: up to
+10 microcuries/minute with a tritium concentration in the air of l microcurie/ liter
+[1]. When tritim water enters the gastrointestinal tract with food, it is quickly
+msimilated by the organism, and a few minutes after ingestion it can be detected in
+the venous blood. It is also noted [2] that 210 hours after tritium enters the
+organism. the greatest concentration of it is detected in the blood, liver and
+small intestine, and after 5 days the tritium concentration in all of the internal
+orgms is almost identical. According to the most recent findings, the process of
+elimination of tritium from the human organism is described by a curve with three
+exponential segments. At first, the tritium is eliminated quite intensely (effective
+halflii'e ~10 days). This is connected with the water exchange of the organism.
+Later on, the process of tritium elimination decelerates. It has been established
+that the elimination rate of organically bot-1d tritium depends on the type of organ
+and biological tissue: the effective halflife for the majority of organs varies
+from 10 to 100 days, but there are argue for which the effective halflife exceeds
+
+5 years.
+
+According to the recommendations of the International Comission on Radiological
+Protection, it is considered that on irradiation of the organism of man with
+B-particles with an energy to 0.1 megaelectron volts, their energy is absorbed by the
+skin, that is, only the skin is irradiated. Considering that the skin of the entire
+body of man belongs to group III of critical organs (tissues), the maximum permissi-
+ble dosage of irradiation for which is 30 rem per year, the “RB-76 established the
+following mean annual permissible concentrations HAPC): 2-10’6 cuties/liter in the
+air of the work place (for personnel) and 6.6'10' cuties/liter in atmospheric air
+(for individuals of the population). For tritium in the form of T20 or 3T0, the
+HAPC are 4.8°10‘9 curies/liter in the air of the work place, 1.6-10'10 curies/liter
+in atmspheric air and 3.210“6 cuties/liter in water. Such a large difference in
+
+38
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+values of the MP0 for different form of existence of tritium arises from the
+difference in radiotoxlcity of these form.
+
+Usually tritium of natural and artificial origin is distinguished. Natural tritium
+is formed in the upper layers of the atmosphere as a result of the interaction of
+cosnic radiation with “N and 160 nuclei. Natural tritim exists primarily in the
+form of HT or no. The natural tritim content in atmos heric air is 1 atom per 101‘
+hydrogenatoms, and in water 1 tritium atom occurs for 10 3 hydrogen atom, which
+corresponds to a specific concentration of 3.2. 10"12 curios/liter. The total
+natural tritium content on the earth is 20 to 80 million curios.
+
+The primary source of artificial tritium until recently was thermonuclear weapons
+testing (to 10 million curies per megaton of thermonuclear blast), as a result of
+which the tritium concentration in entities of the environment increased sipifi-
+cantly: the total tritium concentration on the earth in 1973 was 29001700 million
+curies, which is appreciably hidler than the natural level [3]. Thus, in the 1960's
+the tritium concentration in rainwater in the northern hemisphere was on the average
+1.6'10'9 curies/liter [6]. Detailed studies of the tritim pollution of the water
+of the Baltic Sea in 1972 [5] descnstrated that on the average the tritium concen-
+tration in the sea was (l.98¢_0.73)°10'10 curies/liter. Curtailment of thermonuclear
+weapons testing is naturally accompanied by a decrease in the tritium concentration
+in the environment. However, in connection with the development of nuclear power
+engineering, nuclear power plants and plants for processing irradiated nuclear fuel
+are becoming contributors of tritium to the environment. Processing of uranium fuel
+to generate l megawatt of power is accompanied by the release of 19 cuties/gram of
+tritium; the same figure for plutonium fuel is 36 cuties/gram [3].
+
+An analysis performed in reference [6] shows that in 1980 the tritium production at
+nuclear power plants and plants for processing nuclear fuel will be 6.7 ngacuries,
+and 34 megacuries of it will be accumulated for all years of operation of nuclear
+power plants. The same values for the year 2000 will increase to 140 and 720 megs-
+curies, respectively. Inasmuch as the greater part of this tritium is discharged
+into the environment, it can become a radionuclide significantly influencing the
+radiation situation, especially if we consider the possibility of interference of the
+discharge of nuclear power plants which in the future will be located comparatively
+close to each other. All of this indicates the necessity for careful study of
+sources and mans of entry of tritium into the environment, accumulation and migra-
+tion of it, the forum of its existence in the environment, possibly the development
+of leans of localizing tritium in order to remve it from the nuclear power plant
+waste and other radioactive waste [7].
+
+In nuclear power plant reactors tritium is formed in the following processes:
+Directly on fission of the fuel nuclei as a product of ternary fission:
+
+As a result of capture of neutrons by deuterium nuclei in the coolant-water in the
+form 020;
+
+On capture of neutrons by boron or lithium nuclei in the coolant-water (boron
+control. adjustment of the water regime);
+
+39
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+As a result of boron nucleus reactions in the control rods;
+mring capture of fast neutrons by construction materials.
+
+The contribution of each of these processes to the total amount of tritim forned in
+
+a nuclear power plant is detenained by the type of reactor. its parameters, operating
+conditions and materials used in the reactor.
+
+One of the primary sources of tritium is formation of it in the fuel elements during
+ternary fission; the triton yield per fission of 23511 [8] is on the average
+8.7-10'32. that is. 1.23-10‘ curies of tritium is formed per megawatt of thermal
+power of the reactor in the fuel slsunts per day. The fission process as a source
+of tritium can be characterized by the following exawle: by 1980 an accumulation of
+about 3-106 cuties of tritium is expected in the fuel elemts of the nuclear power
+plants of Great Britain, and by the year 2000, about tenfold lure [9].
+
+As a result of diffusion through the fuel jacket and also through cracks and micro-
+cracks in the jackets, tritium can get from the fuel to the coolant. It is natural
+that mder other equal conditions the tritium leakage out of the jackets depends on
+the amount accumlated in the fuel element. Estimates made on the basis of experi-
+mental data [10] indicate that the tritium leakage rate from fuel jackets with a
+microcrack surface area of 1: of the entire jacket surface for fuel in the form of
+sintered uranium dioxide is characterized by a coefficient of 0.86 per day. Accord-
+ing to other data [ll], the tritium leakage from fuel jackets made of corrosion
+resistant steel is 12, and fron zirconium alloyed jackets, 0.12 of the total amount
+of tritium under the jacket. Considering these data, the amount of tritium getting
+from the fuel elements into the coolant can be defined by the ratio [12]
+QT-l.32'10'16H, caries/sec, where H is the thermal power of the reactor, watts
+(zirconium fuel jackets).
+
+Table 1. Thermal Neutron Reactions with Tritium Formtion
+————__._________—____________
+
+Content of target Thermal neutron
+Reaction nuclide in a natural reaction cross
+
+mixture 2 section 0
+
+W
+
+,H(-.~.-) 1‘" 0,015 5.7.10-4
+31:90:41)?" 1.3.10" 5.4.10:
+‘I i (n. a) {H 7.52 9.3540:
+7|.i (a. 11'. :Ht) ?H 92.43 0.02.
+”Din. 2a) fH 19,3 0,01"
+
+*Cross sections are averaged with respect to fission neutron spectral.
+
+The probability of tritium formation as a result of other reactions is characterised
+by the data presented in Tables 1 and 2. It is obvious that the basic reactions of
+tritium formation in nuclear reactors are the deuteron and 103 nucleus (11, v)
+
+reactions. The D(n. 1)T reaction leads to the formtion of tritium directly in the
+
+coolant, and the ammt of tritium formed by this reaction in an ordinary water-
+cooled reactor can be defined by the formula
+
+ho
+
+FOR OFFICIAL USE ONLY
+QT - 27.6nRV0- 10"19 cuties/sec.
+
+where n“ is the nuclear densi
+volume in the reactor core,1
+
+of hydrogen in the coolant. cm‘33 V is the coolantl
+;¢2 is the average thermal neutron flux density with
+
+respect to the coolant, sec’
+
+The 103 nucleus reactions, as has been noted, are possible during boron control—in
+the coolant and in the rode of the control and safety rod system of the reactor.
+
+ 
+
+Table 2. Past Neutron Reactions with Tritium Formation
+Neutron Target Average
+Reaction energy. nuclide con- value of the
+Nev tent in reaction
+natural cross section.
+mixture. 2 o
+"N (n 013C 5—10 99.63 340-3
+‘Li(n “9’“ 0.0l—l0 7.52 1.0
+Li(u. n .03”: 6—H 92,48 4-!0“
+"B (n. n) T l—9 19.8 7.540-
+”6m (HR 14.7 95.018 2-10"
+“C1 (1:. "Mi “.7 96.97 0.I-l0-’
+“Fem. "”3“" 11.6 5.54 7.5404
+“ma. n“- Mn ”,8 5.84 6w“
+
+ 
+
+The contribution of the various tritium formtion reactions to the total amount of
+
+tritium in the coolant was estimated in reference [12] in the example of the
+Rheinsberg nuclear power plant for its operating period during boron control testing
+in 1970:
+
+Yield from fuel elements 0.5
+Yield from the rods of the control
+
+and safety rod system 0.15
+
+Formation in coolant as a result of
+
+the following reactions:
+
+1) n, y)T 0.18
+
+1on(n, 2n)T 5.23
+103(11, n' , o)T 10"
+
+It is obvious that more than 852 of tritium is found as a result of the fast neutron
+103(n, 2o)T reaction. The authors of reference [12] note that this does not agree
+with the conclusions, for example, of reference [13]. in which it was demonstrated
+that the primary reaction of tritiua foraation under such conditions must be the
+interaction of thermal neutrons with 1
+
+The results of the approximate calculation [6] of the specific activity of tritium
+in the coolant of the Kol'skaya Nuclear. Power Plant also demonstrated that in
+WEIR-460 water-moderated, water-cooled power reactors with boron control (boric
+acid concentration 3.4 g/kg) the primary reaction of tritium formation is the
+
+101
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+mun, 24:)1 reaction: during the operating tin of the reactor of 7000 effective
+hours, the specific tritiu activity in the coolant of the primary circuit as a
+result of this reaction is approximately 10'3 codes] liter, at the same tine as the
+specific activity will be about 510’6 cuties/liter as a result of deuteriul activa-
+tion and dowle activation of protim.
+
+For nuclear power plants with WER-SO reactors [12], the estimates show that in
+one rm, the coolant picks up as much as 260 curiea of tritium 5.23 curies as a
+result of ternary fission, 3.22 curios as a result of protiun activation and
+
+252 curies as a result of the 103 reaction (din-ins boron control).
+
+The presented calculated values agree qualitatively with the data on the actual
+tritium content in the coolant of a masher of operating nuclear power plants with
+pressurized water reactors gathered, for example, in reference [lb] (cuties/year):
+Indian Point-1 ("-163 ngawatts), 500; Yankee 03-183 megawatts), 1300; Haddon Rock
+("462 megawatts), 1733. All of these nuclear power plants have boron control and
+fuel elements in corrosion-resistant steel jackets. In reference [15] it is also
+pointed out that the specific tritiun activity in the water of the prinary circuit
+of nuclear power plants with FUR falls within the limits of (0.1 to .‘))'10'3 curies/
+liter as a result of introduction of boron into the coolant. The tritium activity
+in the water of the prinary circuit of the Novovoronezh Nuclear Pager Plant [16]
+
+is 2.2-10‘6 cuties/liter for block I, 21-10”6 for block II, 7210" for block III
+and 9540'6 curios/liter for block IV. The maxim:- recordsd tritiun concegtrations
+in these blocks in the period from 1973 to 1975 was 3, 10, 520 and 360-10‘ curies/
+liter, respectively [17]. At the Kol'akaya Nuclear Power Plant, 3 mnths after
+beginning operation, the tritium concentration in the coolant was 31-10"6 curiea/liter
+[17].
+
+It is natural that for nuclear power plants with reactors of other types, the amount
+of tritiua formed as a result of one reaction or another and, consequently, its
+concentration in the coolant will be different. Thus, for nuclear power plants with
+heavy water reactors the prinary tritium formation reaction is deuteriua activation.
+Bstimtes show that in heavy water reactors up to 30 curios/year of tritium: are
+for-ed per megawatt of electric power. At nuclear power plants with boiling reactors,
+the tritiun formation as a result of ternary fission and as a result of reactions
+on the boron nuclei in the control rods is significant, but the primary source of
+tritium is deuterium activation. 'l'hus, calculation of the amount of tritium formed
+by the D(n, y)‘l' reaction at the Dresdenol Nuclear Power Plant deronstrated [1] that
+the rate of tritim formtion is 6°10'8 cuties/sec, and experimental informtion on
+the accmlation of tritium in the ooolmt gives a rate equal to approximately
+5'10"8 curies/second, that is, it is obvious that the tritiun is formd primarily
+as a result of deuterium activation. Estimates made for nuclear power plants with
+Ram-1000 reactor also demonstrated that in the multiple forced circulation circuit
+tritium is formed primarily as a result of the Mn, v)‘r reaction, its specific
+
+_—_—_—————
+
+*Sec also the survey: N. G. Gusev, "Provision for Radiation Safety at Nuclear Power
+Plants," ATOPIMYA BNBRGIYA [Nuclear Power], Vol 61, 80 6, 1976, p 254.
+
+ha
+
+ma OFFICIAL USE ONLY
+- activity in the multiple forced circulation circuit is low, and it amounts to
+about (0-10'7 curies/liter.
+
+The actually assured tritium concentrations in the coolmt of nuclear power plants
+with boiling reactors are characterized by the following values:
+
+Blocks I and II of Beloyarskaya Nuclear Power Plant 2010‘6 and 28°10‘6 curies/liter
+[16], maximum recorded concentration for block I 2910'6 curies/liter [17];
+
+For block I of Leningrad Nuclear Power Plant 048-10-6 curiea/liter [17];
+
+At the nuclear power plant with 83241-1000 reactor (on the average) during the initial
+operating period at stable power level, in the water of the multiple forced circula-
+tion circuit and in the saturated steam condensate (l to 2)°10'7 cuties/kg;
+
+At a nuclear power plant with “(-50 reactor the maxim recorded concentration is
+4-10"6 cuties/liter [17].
+
+The amount of tritium produced by nuclear power plants with boiling reactors in a
+year is characterized by the following data [1"]: Dresden-l (ll-200 megawatts),
+
+2.9 curies; Hudaoldt Bay (52 megawatts) and Big Rock Point 01-50 mgawatts),
+20 curies each.
+
+At nuclear power plants with channel boiling reactors, in addition to the multiple
+forced circulation circuit, tritium is also formed in the control and safety rod
+system circuit and in the gas circuit, that is, in the gas blown through the graphite
+stacking of the reactor. In the control and safety rod system circuit at a nuclear
+power plant with ”MK-1000 reactor, about 2.5 curiae of tritiun are formed per year
+as a result of reactions on the boron nuclei (under the assuqtion that the tritium
+leakage from the jackets of the rods of the control and safety rod system is 0.12)
+and about 1 curie as a result of denteriul activation. The tritium concentration in
+the control and safety rod system loop in the absence of leaks is ~5-10”6 curies/ liter.
+Tritium is formed in the gas circuit as a result of reactions on helium nuclei. At
+the nuclear power plants with Ram-1000, up to 800 curies of tritium are formd in
+the circuit, and its average concentration in the gas will be 3640-7 Curies/ liter.
+‘lhe results of measurements of the tritiun concentrations give the following values:
+in the control and safety rod system circuit (2 to 6)-lO’7 cuties/liter; in the gas
+circuit, «10'9 cuties/liter of tritium in the form of tritium water vapor.
+
+In general, it is impossible to note good convergence of the calculated and measured
+tritium concentrations in the various circuits of nuclear power plants. At the same
+tin it is necessary!“ to note defined scattering of the experimental data on concen-
+trations. All of this is connected, on the one hand, with the fact that it is
+difficult to consider all the factors influencing the tritium concentration in the
+calculations. for exanple, the state of the core. the actual magnitude of the leaks:
+the water chemical regime of the coolant obviously influencing the chemical forms
+
+of endstence of tritium, the amount of iwurities in the scavenging gas, and so
+
+on.
+
+193
+
+FOR OPTICAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+influx of tritiu- into the environmnt and the development of devices for localiza-
+tion of tritium if the necessity for such arises. It is now possible to state that
+at nuclear power plants with boiling channel MIR-1000 reactors the tritiul concen-
+tration is below the HAPC of tritium for open bodies of water, and at the nuclear
+
+power plants with watemderated, waterbcooled power reactors it is higher than
+the MAPC by 10 to 100 times and no more.
+
+with respect to absolute mgnituds, the activity of the discharged tritium is
+appreciably less: from 4 to 50 curies less (for 1973), for example, (at the Var-ant
+Yankee Nuclear Power Plant, 0.2 cuties/year) [18]. It is natural that the tritiu
+concentration in the liquid waste of nuclear power plants with boiling reactors is
+also lower: unadju- tritiu: concentrations in the waste water of the Beloyarsk
+
+and Leningrad Nuclear Power Plants do not exceed 0.26 to 0.27 cutie/liter [17], in
+the industrial sewage of Leningrad Nuclear Power Plant (6 to 7)-lO-9 cuties/liter,
+that is. significantly below the HAPC for water. This conclusion agrees with the
+
+the tritium concentration in the waste before reservoir dilution mat not exceed
+
+5-10“9 cuties/liter, that is, approximately no more than 25 times the average tritium
+concentration in the water of the Baltic Sea.
+
+In the gas effluents of nuclear power plants the tritiun content is much less than
+in the liquid effluents, which is naturally explained by the inclination of tritiun
+toward oaddation. Thus, the activity of tritim discharged in 1973 by nuclear
+power plants with boiling reactors falls within the limits from fractions of a cutie
+to 75 curies [18), and in percentage ratio this is 10'3 to 10“! of the total
+discharged activity. In reference [20] a theoretical estimate was Iade of the power
+
+'4':
+
+FOR OFFICIAL USE ONLY
+of the tritium discharge for nuclear power plants with wan-1.40 reactor. Tenmry
+fission of 2350, activation of deuteriu- and basic reactions on 103 nuclei were
+
+at nuclear power plants necessary, just as is done. for exanple, for iodine radio-
+
+7.22 of the personnel have
+from 0.1 to 1 tines the permissible amount of tritium in the organisms, and 602 of
+
+the workers are tritiu- carriers; at radioisotope production facilities, the internal
+irradiation by tritiun is also on the maxim permissible level [21].
+
+At the Kozloduy Nuclear Power Plant (People's Republic of Bulgaria). during the
+initial period of operation, the tritium concentration in the air or various room
+
+was (1.3 to 3.4)‘10‘13 Curie/liter [22]: according to the estimates of reference [20].
+under the above-described conditions in the facilities of
+
+WEIR-440 tritiul will be detected. but its concentration will not exceed the "AFC
+for work places established by the “RB-76. The neasuremnts made at the
+
+Novovoronezh Nuclear Power Plant demonstrated that the sum recorded tritium con-
+centrations in the work places of the nuclear power plant fall within the limits of
+(61a to 180)°10‘9 cuties/liter. At nuclear power plants with boili
+
+A; is obvious, the data presented here on the actual liquid and gas discharge of
+tritium by the nuclear power plants do not permit establishment of any laws. 0n the
+
+power plants and obtaining detailed intonation about the interrelation of the
+process flow chart of a nuclear power plant, its operating conditions with the
+
+e units--the primary eleuent of the
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+1) The investigated media can be different (water, steam, gas, air), and tritium
+can be found in the same medium in different chemical forms (for eagle, tritium
+water and gaseous tritium in the water of the multiple forced circulation circuit,
+
+in atmospheric air);
+
+2) The activity of the salples, as is obvious from what has been stated above. is
+low, but the measurement results mt be obtained with good accuracy inasmuch as
+they are needed for forecasting purposes;
+
+3) The energy of the tritium B-particles is quite lav: therefore for reliable
+recording of them. detectors and equipment with low intrinsic noise level md low
+natural background are needed.
+
+Hovever, at the present time reliable uthods of taking eagles of various media,
+concentration of them (if necessary) and measurement of the activity, which will
+permit us to obtain qualitative infatuation about tritium at the nuclear power plants,
+have been developed and are in we in practice [10, 23-25].
+
+ 
+
+Figure 1. Diagram of a device for taking tritium gas samples from air:
+1 -- mixing chatter; 2 -- thermocouple; 3 -- furnace; lo - tube with
+pelletized copper oxide; 5 - quartz wool; 6 - Dewar flak with
+liquid nitrogen
+Key:
+a. Nitrogen
+b. Gas sample
+
+If it is necessary to determine the tritium water content in water, the sample is
+taken directly, that is, a vessel is filled to the appropriate volume, mechanical
+impurities and other radioactive nuclides are remved, for enmle. using an ion-
+cxchange resin, and the sawle is stored in a sealed container until analysis
+
+In order to exclude evaporation, inasmch as evaporation can distort the results
+
+as a result of isotopic effects. "hen determining the tritium gas concentration in
+
+water, the sasple is taken sealed. Gaseous tritium is extracted from the sample
+by bubbling. A sample of atmospheric moisture is collected either by freezing out
+
+’6
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+mum; cooling units or by pming air through water absorbers, for exasple. through
+concentrated sulfuric acid or silica gel [210]. On 2 kg of silica gel it is possible
+
+to collect up to 250 ml of water. The water is isolated from the silica gel by a
+closed current of dry air.
+
+The gas sales for determining the concentration of gaseous forms of tritium are
+taken with the help of a compressor in bottles or elastic shells. However, if a
+sample must be stored for a prolonged period of time, this method of sawling can
+lead to errors as a result of uncontrolled tritium loss by diffusion through the
+walls of the sanling vessel. It is more reliable to take the eagle by final oxida-
+tion of volatile forms of tritium in a special device through which gas or air is
+puwed. Final oxidation of tritium is carried out in a nitrogen current on
+
+pelletized copper oxide (Figure l) at a temrature of 600°C. The vapor in the formed
+water is frozen out in a U—tube. By selecting the oudation conditions (catalyst,
+
+tewerature, and so on) properly, it is possible to obtain intonation about the
+tritium content in various chemical form.
+
+ 
+
+Figure 2. Diagram of a hydrolyzer for concentrating tritium unples:
+1 -- cooler; 2 -- electrodes: 3 -- vater sample stbject to concentration;
+lo -- vessel for cooling the electrolysis cell.
+
+If it is known in advance that tritium activity in the couple is small. the sasple
+is concentrated. The difference in hydrolytic decolpcsition rate of the molecules
+of ordinary. heavy and tritium waters is used for concentration. Concentration is
+carried out in special devices called hydrolyzers (see Figure 2), and if necessary
+the process is repeated several times. Usually eightfold to tenfold enrichment of
+the sample with tritium water molecules is achieved in one cycle.
+
+For determining the tritium activity in the sample, the scintillation or ionization
+method is used. For implementation of the ionization method, either proportional
+
+internal filling meters (sometime flow meters) or ionization chaﬂaers (for
+measuring high tritium activities in the sanple) are used.
+
+1‘7
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In the scintillation method usually liquid scintillators based on dioxane are used,
+for it is possible to add a sample to dioxane in a volume of up to 202 of the value
+of the dioxane without having significant negative effects on its conversion
+efficiency. Various scintillating additives and spectrum displacers are used; ready-
+madc ZhS-7 md zus-s (dioxane+o-mthylaaphthaline4-BPO) liquid scintillators are
+suitable for recording tritium radiation. The conversion effectiveness of liquid
+scintillators becomes noticeably worse on "poisoning" of then with oxygen and
+various inurities, especially impurities containir 3 sulfur and chlorine. Therefore
+before introduction into the scintillator, the sasple is purified of its impurities
+on ion exchange resin or by distillation, and after introduction of it into the
+scintillator, the mixture ready for measurements is purged with argon to remove the
+
+oxygen.
+
+The activity of the sample is measured on units with l, 2 or 3 photosultipliers.
+
+The advantage of units with one photomultiplier is simplicity. However, in such mite
+it is necessary to use a photomultiplier with high sensitivity of the photocathode
+and low energy equivalent of the intrinsic noise. Sometime the photocathode is
+cooled for this purpose. 0n the 1155-1 unit without cooling of the photocathode of
+the photomultiplier. a sensitivity of ~10’7 curies/liter of tritium is achieved by
+applying a scintillator based on dioxane with naphthaline (100 g/liter). PPO
+
+(8 gram/liter) and POPOP (0.2 grams/liter). 0n units with .xeveral photomultipliers
+noise pulses can be avoided to a significant degree, and it is possible to determine
+activity on the level of 10‘10 cuties/liter. The known standard foreign-made devices
+
+(TRICARB, SL-ZO, and so on) have a sensitivity of ~10‘9 curiae/liter.
+
+Devices for preparing a ample with measuring by the ionization method and propor-
+tional internal filling counters with active shielding Inds of gas discharge comt-
+era are described in reference [23]; they fully satisfy the requirements of the
+problems solved when investigating the formtion and transport of tritium at nuclear
+power plants. Such devices T-l and T-Z, which are distinguished by small structural
+dnanges from those investigated in [23], are described below. These devices are
+used in operations performed at the nuclear power plants“, and they are distinguis ed
+by their sensitivity: the T-l is a device with relatively low sensitivity, to 10'
+curie/ liter.
+
+In the T-l device, an internal filling counter with a volume of 600 m3 (Figure 3)
+with cathode in the form of a corrosion-resistant steel cylinder and with anode
+made of gold-plated tungsten wire 20 nicrons in diameter, is med. In contrast to
+the counter described in reference [23]. the flange seal of its ends has been
+replaced by a seal using a nut, which has made it possible to reduce the overall
+dimensions of the counter and to use mat for its protection and lead shielding from
+the UHF device. In the massive organic glass and covers, devices are mounted for
+putting tension on the filament—anode—an intake connection for the investigated
+gas, a socket for connecting the electronic unit and thin-walled window of lavsan
+filn (50 microns thick) for admitting 55% Irradiation into the counter
+
+ 
+
+*l'he authors express their appreciation to 1.. I. Gedeonov, V. I. Blinov,
+V. P. Tishkov and their colleagues for consultation and assistance in adjusting the
+traits.
+
+108
+
+FOR OFFICIAL USE ONLY
+(E ”5.9 Rev) used to select the operating conditions of the center. The mt is
+
+as enbled iron the )6-6 type gas discharge counters, and it is included anti-
+coincident with the nein counter. The lead shielding is 50 a- thick. The system for
+filling the center with the working gas mixture is analogous to that described in
+reference [23]. The working gas mixture is prepared fron propane (901) and the
+investigated eagle of hydrogen with tritium (10%); during the measurements a
+pressure of l to 1.2 atmospheres is nintainsd in the counter wlune.
+
+ 
+
+Figure 3. Structural design of a gas discharge internal filling center:
+1 - counting gas intake connection; 2 — pressure nuts; 3 - counter
+housing; 0 - end type organic glass insert; 5 - nther gaskets:
+
+6 — lavsan film
+
+The 1-2 device consists of an internal filling counter with a volume of 4500 a3
+(disneter 120 1-, length 650 an) of analogous structural design placed in the last
+of gas discharge counters type 81-66. The counting nodule is placed in the cavity
+(300x300x900 In), in lead shielding 150 .1 thick with sliding door. Just as in
+the T-l device. the known [23] systen for preparing the sanple and filling the
+working volume of the counter with it is used (see Figure 4).
+
+For neasm'ensnts on the 1-1 device the sanples are prepared in advance by decouposi-
+tion of water by calciun oxide and zinc; on the 1-2 device the sale is prepared
+either in the counter filling systen by decomposition of water by upesiun [22]
+
+in a special tube furnace or in advance.
+
+MOMMUSEONLY
+FOR OFFICIAL USE ONLY .
+
+(a)
+
+synadueu ——
+
+14
+
+    
+ 
+ 
+
+(b) ”pa/TC" -—a—
+
+ 
+   
+
+    
+
+. ,3- ~17“
+13 ' T
+l l
+' I - .
+(cf‘tfgfiifﬁsé‘? ,
+i . I 19 “l‘
+a be
+
+Figure la. Diagral of a stand for preparing low-active tritium samples
+for masurenents:
+
+1-13 -- vacuum valves; 16 -- vacuum meter; 15 - vessel for mixing
+butadiene and hydrogen; 16 - vessel for storing excess gas;
+
+17 -— 112 absorption; 18 - n2 generator; 19 -- counter: 20 - catalyst;
+21 -- liquid nitropn
+
+a. Butadiene
+
+b. Propane
+
+c. Hydrogen for a vacuum pulp
+d. “20 feed
+
+The electronic nodules of both devices are the sane, they have a total channel gain
+of ~1000 with stability of no worse than 12, deviation frcn linearity of the ampli-
+tude characteristics in the tritium B—particle energy range does not exceed 111.
+
+BIBLIOGRAPHY
+
+1. Yuzgin, V. S. and Yavelov, B. Ye.. "Tritium and Environmnt," AMAYA
+13mm 2A RUBBZHOH [Nuclear Engineering Abroad], No 10. 1973, p 26.
+
+2- Hoskslev, “1- In Okis' tritiya [Trititn Oxide], lbscow, Atonizdat, 1968.
+
+3. Telmhkina, Ye. 1... "Radiation nygienic Evaluation of Tritiu as a Factor of
+Environmental Pollution," Report at the 3d All-Union Scientific and Practical
+Conference on Radiation Safety, ﬂoscov, 1976.
+
+lo. Lur'ye, A. 11.. "Nuclear Power Plants and the Tritium Problem," 83. mmov “1’0
+"ENERGIYA' [Collection of Horks-of the "Energiya" Scientific Production Associa-
+tion], No 2, Moscow, 1975, p 11.4.
+
+50
+
+MWIBEONLY
+s.
+
+7.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+110.
+
+15.
+
+16.
+
+17.
+
+Vakulovskiy, s. n., Katrich, Yu. 1., Halakhov, s. 6., et a1., ”9081‘, 137Cs
+and Tritium Contents in the Baltic Sea in 1972," ATOMYA ENERGIYA [Nuclear
+Power], Vol 39, No 3, 1975, p 183.
+
+Cedeonov, L. I. and Trusov, A. 6., "Environmental Protection in Connection with
+the Development of Nuclear Power Engineering," AmmAYA TERHNIKA 2A RUBEZRON,
+No 12, 1973, p 22.
+
+Gelkin, 8. Ya., Gedeonov, L. 1., Demidovich, N. N., et a1., "Discharge of
+Volatile Fission Products into the Atmosphere During Operation of Nuclear
+Power Plants and Installations for Regenerating Spent Fuel and Future Prospects
+for Trapping these Volatile Products," ATOMYA ENERGIYA, Vol 46, No 2,
+
+1978, p 145.
+
+Sloth, a. N., "Tritium in Thermal Neutron Fission of 2350," J. mono. mm.
+01311., Vol 24, No a, 1962, p 337.
+
+Danster, H. 6., Warner, B. F. , "The Disposal of Noble Gas Fission Products
+from the Reprocessing of Nuclear Fuel," UN. KINGDCM ATOM. ENERGY QUARTERLY,
+1970.
+
+Turkin, A. D., NZIMETRIYA RQDIOAKTIVNYKH GAZOV [Radioactive Gas Dosinetry],
+Moscow, Atonizdat, 1973.
+
+Smith, I. 11., "The Significance of Tritium in Water Reactors," GENERAL BLECTR.
+C(HPH Sept. 19, 1967.
+
+Langekker, K. and Graupe, 101., "Tritium in Pressurized Water Reactors,"
+
+DOKLAD NA 11 SIMPOZIUH! SEV "vowm RBZHINY VODO-VODYANY‘KH REAKTOROV,
+RADIATSIONNYY KWTROL' TEFLONOSITBLYA I SREDSTVA SNIZNENIYA RADIATSIONNOY
+OPASNOSTI TEPLONOSITELEY [Report at the 2d Smosium of the (IBM ”Water Regimes
+of Hater—Moderated, Hater-Cooled Reactors, Radiation Monitoring of the Coolant
+and Means of Lowering the Radiation Danger of Coolants], German Delacratic
+Republic, Stral'sund, 1972.
+
+Ray, J. 14., "Tritium in Power Reactors," REACTOR AND FUEL PROG. TEOINOLOGY,
+Vol 12, No 1, 1968-69.
+
+sze, B. and Vimmd, K. , "Problem of Monitoring Tritium in Nuclear Facilities,"
+see reference [12].
+
+Sawochka, S. G. , "Sampling and Analysis Procedures in Vater Reactors,"
+PROC. AMER. POWER (DRE, V01 38, 1971, p 741.
+
+Lur'ye, Ye. 1..., "Tritium Dosinetry at Nuclear Power Plants," see reference [3].
+
+Abolnasov, Yu. P. , "Tritium Content in Liquid Media and the Air of the Work
+Places of Nuclear Power Plants," ATOHNAYA ENERGIYA, Vol 101, No 3, 1976,
+p 215.
+
+51
+
+FOR OFFICIAL USE ONLY
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+FOR OFFICIAL USE ONLY
+
+"Sm-mgr of Radioactivity Released in Effluents from Nuclear Power Plants
+during-1973," NUCL. SAFETY, Vol 16, No 6, 1975, p 7310.
+
+Abkin, A. 0., Agapkina, N. P., Aleksandrov, A. P., et a1., ATOMAYA NAUKA
+I TBKENIKA V SSSR [Nuclear Science and Engineering in the USSR], Hosea,
+Atomizdat, 1977.
+
+Velikovskiy, A. A. and Chernousov, S. A., "Estinating the Bquilibrim Concen-
+tration of Tritium and Its Discharge into the Environment at Nuclear Pouer
+Plants with WEE-660," see reference [3].
+
+Balcnov, H. I. and Kupryaahchin, Yu. IL, ”Study of the Tritiul Content in the
+Organism of Workers," I‘R. IV swam-ram. KONP. P0 WWI I RADIMTRII
+INIZIRYUSRGIIKH 121.le [Works of the 4th Scientific and Tedmical
+Conference on Doeimtry and Radiomtry of Ionizing Radiation], Section II,
+edited by V. A. Knyazev, Moscow, Atanizdat, 1972.
+
+Khitov, K. and Konstantinov, Ye., "Radiation Shielding and Dosinetric Monitoring
+at Nuclear Power P1ente--Pirat Operating Results," MATERIAL? MP. PO
+
+PROBLEM" RADIATSIONNOY BRZOPASNOSTI PRI EKSPLUATA'BII ATM
+
+ELEKTROS'IANTSIY [Materials of the Conference on Problem of Radiation Safety
+
+in the Operation of Nuclear Power Plants], Czechoslovakia, Prague, 1975.
+
+Gedeonov, L. 1., Blinov, V. A., Stepanov, A. V.. et a]... "Sale Collecting
+and Tritium Analysis in the Ground Layer of the Air," MATERIAL? SIMPOZIUHA
+P0 NABLYUIENIYU ZA OKRUZBAYUSBCHBY SRBDOY VBLIZI YADBm USNOWK
+[Materials of the Smeiun on Observation of the Environment Near Nuclear
+Facilities], Poliah Peeple's Republic, Warsaw, 1973.
+
+Ledeonov, L. I., Blinov, V. A., Stepanov, A. V., et a1., "Set of Units for
+Taking Samples and Measuring Tritiun in Objects of the External Environnnt,"
+AmmAYA ENERGIYA, Vol (.2, No 5, 1977, p 361.
+
+Lomonosov, I. I. and Soshin, 1.. 1)., IZHERENIYB TRITIYA [Measurement of
+Tritium], Moscow, Ataniedat, 1968.
+
+COPYRIGHT: Atonizdat, 1981
+
+10845
+
+CSO:
+
+1861/198
+
+l-‘OROFI'ICIALLSEONLY
+non-sum ENERGY
+
+UDC 532.538.10
+
+INDUSTRIAL MAGNETOBYDIDDYRAHIC EQUIP” AND PNSSBS
+
+Kiev WOWICHESKIYE HOD USTANOVKI I PROTSESS‘Z in Russian 1980 (signed to press
+21 Oct 80) pp 2. 189-190
+
+[Annotation and table of contents from book "Indmtrial Hametohydrodynamic Equipment
+and Processes", by Anatoliy Fedorovich Koleanichenko, Ukrainian SSR Academy of
+Sciences, Electrodynamics Institute, Izdatel'stvo "Naukwa dunks", 1000 copies.
+
+191 pages]
+
+ducting gas and placed in physical fields-~electric, magnetic and gravitational.
+
+Among such convenient are transformation and transport of energy—conversion of
+electromagnetic energy to heat and mechanical work, transport of the heat and material
+use of a liquid conductor under the effect of various combinations of electromagnetic,
+capillary and thermoconvective effects. The results of theoretical and experimntal
+studies of a new class of mgnetohydrodynamic flows—capillary flows that occur
+
+during arc and induction working of metalsu-are diseased. New indmtrial procedures
+
+for working alloys based on the application of mm phenouna are described.
+
+The book is designed for scientific and engineering-technical personnel interested
+in the development and application of Ingletohydrodynanic devices. '
+
+There are 82 illustrations, 1 table and 119 references on pages 182-188.
+
+Table of Contents
+
+Foreword 3
+Basic Sywols used in the Text 6
+Chapter I. Basic Equations of Hagnetohydrodynalics 9
+Chapter II. mo Phenomena in Electric Arc Welding 18
+
+l. Volumetric and Surface Forces in Electrically Conducting Drops,
+Jets and Plasma 18
+
+2. Form of the Phase Transformation Interfaces During Welding Arc
+Fusion of A cylindrical Electrode 30
+
+53
+
+FOR OFFICIAL USE ONLY
+Chapter
+
+Chapter
+
+3.
+
+5.
+
+6.
+
+7O
+
+1.
+
+FOR OFFICIAL USE ONLY
+
+Quasisteady States of the Free Surface of Drops and Jets of
+Electrode Metal
+
+Drop Formation and Transport in Arc Fusion of a Cylindrical
+Electrode
+
+Drop Formation and Transport of Electrode Intel During DC Welding
+with the Application of Current Pulses
+
+Drop Fornstion and Melt Transport in Electric Arc Welding vith
+Nonsteady Electrode Feed
+
+Drop 'Fornetion in Hapetic Pressure lbdulation of Noncontracting
+Arcs
+
+III. )BD Pelletizing of lhtals
+
+HHD Methods of Controlling Disintegration of Free Electrically
+Conducting Jets
+
+Free Electrically Conducting Jets under the Effect of Sim
+Variable Electronagnetic Forces in Sources
+
+Disintegration Conditions of Free Jets Placed in a Longitudinal
+Variable Hametic Field
+
+Conditions of Obtaining Spherical Particles
+KID Liquid htal and Alloy Dispersers
+
+IV. HID Heat and Haas Transport in Induction Melting Furnaces
+
+Eddy Nature of Electronagnetic Forces and lbchanisns of
+Creating Unidirectional Motion
+
+Pressure Developed by Active Sections of a Channel
+Hydraulic Drag of Induction Guannels
+
+Simulation of Heat and Mass Transport Processes in Induction
+Furnace Channels
+
+Simulation of Industrial Induction Furnaces
+
+V. Gas and Liquid Plug Flou mn Devices
+
+Physical Essence of Processer in Accelerated Gas and Liquid
+
+Flows
+Fornation of Plug Flows
+
+Stable Form of Gas-Liquid Interfaces. Hess Variation of
+Liquid Dose During Acceleration
+
+Dispersion of Liquid Dose and Haas Transport
+
+Interphase Heat Exchange in Accelerator Channels
+
+Model of the Motion of Liquid Doses of Variable Mass
+
+Losses During Acceleration of a Plug Flow. Efficiency and
+Other Energy Parameters of Plug Flow Accelerators
+
+Example Calculation of s Device for Accelerating Plug Flows
+
+Bibliography
+
+COPYRIGHT: Izdatel'stvo "Nsukova dusts", 198)
+
+10845
+
+CSO:
+
+“361/195
+
+5‘;
+
+FOR OFFICIAL [SE ONLY
+INDUSTRIAL TECHNOLOGY
+
+UDC 539.3+5l9.2
+STRENGTH AND RELIABILITY OF TECHNICAL DEVICES
+
+Kiev PROCHNOST' I NADBZHNOST' TEKHNICEBSKIKH USTROYSTV in Russian 1981 (signed
+to press 8 Jan 81) pp 2. 184-191
+
+[Annotation and abstracts of articles from collection "Strength and Relia-
+bility of Technical Devices", editor-in-chief V. s. Gudramovich. Institute
+of Technical Mechanics. Ukssn Academy of Sciences. Izdatel'stvo "Naukova
+dunks". 1300 copies, 192 pages]
+
+[Text] Current problems of strength and reliability of technical devices
+
+are discussed. Data are presented on theoretical and experimental studies
+
+of the load-bearing capacity and strength of thin-walled systems under static
+and dynamic loads with consideration of plastic deformations and creep strains
+with complex loading histories. Contact problems of the theory of shells
+
+are discussed as well as questions of optimum design of structural members.
+Some problmes of the theory of accelerated tests are outlined. Some questions
+of checking the working condition of technical devices are examined.
+
+The collection is intended for engineers and researchers specializing in the
+field of strength and reliability. and also for undergraduate and graduate
+students with the corresponding majors in colleges and universities.
+
+000 539.374
+
+OSCILLATIONS 0F SYSTEM WITH PHYSICALLY NONLINEAR CHARACTERISTICS UNDER PULSE
+LOADING
+
+[Abstract of article by Velichkin, V. A.. Gudramovich. V. 8.. Konovalenko,
+V. Ya.. Hakeyev, Ye. H.. Pilipenko. V. V., Popov. A. 1.. Senenenko, V. P.
+and Fediy. S. P.]
+
+[Text] An analysis is made of oscillations of a complex mechanical system
+that consists of two masses with plates on springs fastened to an imponderable
+hinged been of finite stiffness under pulsed action with consideration of
+physically nonlinear properties of the spring material.
+
+Accelerations are studied as a function of the magnitude and time of applica-
+tion of pulses. ratio of stiffnesses and plastic properties of the springs.
+and clearances between the plate and the beam. f
+
+55
+
+FIN!(NHHCJA1.USE|JNLY
+FOR‘OFF“1AI.USE10NLY
+
+Calculated and experimental values of accelerations are compared.
+Figures i. references 6 Russian.
+
+UDC 519.2+625.011:539.6
+
+PROBABILISTIC PROPERTIES OF FREQUENCIES AND REDUCED HASSES OF TRANSVERSE
+OSCILLATIONS OP THIN-HALLED FLUID-FILLED CYLINDRICAL SHELL
+
+[Abstract of article by Velichkin. V. A. and Fediy. S. P.]
+
+[Text] The paper formulates the problem of finding the probabilistic charac-
+teristics of a dynamic system by the method of statistical modeling.
+
+An analysis is made of the probabilistic properties of frequencies and reduced
+masses of transverse oscillations of a dynamic system based on the example
+
+of a reinforced cylindrical shell filled with liquid.
+
+The conclusions are illustrated by results of numerical calculation.
+
+Figure 1. table 1. references 3 Russian.
+
+UDC 539.386.6:624.074.k
+
+STRESS-STRAIN STATE OF CYLINDRICAL SHELL UNDER LOADING VIA CIRCULAR ELASTIC
+SADDLE SUPPORTS
+
+[Abstract of article by Gayduchenko, A. P.. Katan . L. I. and Hakeyev. Ye. H.]
+[Text] The authors give the results of an experimental study of the deformed
+state )f a cylindrical shell lying on elastic circular saddle supports of
+finite dimensions. Calculated data found by a previously developed method
+are compared vith experimental results, and an estimate is made of the influ-
+ence that accounting for the interaction of support and shell has on the
+stressed state of the shell in the vicinity of the support based on the exam-
+ple of a tested structure.
+Figures 3, table 1, references 6: 6 Russian. 1 Polish, 1 Western.
+
+UDC 539.376
+EXPERIMENTAL STUDY OF CYLINDRICAL SHELL LOAD-BEARING CAPACITY UNDER LOCAL LOAD
+[Abstract of article by Gerasimov. V. P.. Gudramovich, V. 8.]
+[Text] The paper gives the results of experimental studies of the load-
+bearing capacity of cylindrical shells deformed beyond the elastic limit under
+the action of local loads of variOus classes applied to the surface of shells
+by rigid saddle-support punches.
+
+Figures 5. tables 3. reference 1 Russian.
+
+56
+
+FOR OFFICIAL USE ONLY
+unc 539.3710
+EXPERDMTAL STUDIES OF BAUSCHINGER EFFECT FOR MiG-6!! ALUMINUM ALLOY
+
+[Abstract of article by Konovalenkov. V. 8]
+
+[Text] The author gives the results of experimental studies of the Bauschinger
+effect for Arm-6H. The tests were done on specimens of circular cross section.
+Results of processing experimental data are given in the form of tables and
+
+a graph.
+
+Figures 2. table 1. references 3 Russian.
+UDC 539.386.6:62lo.072.lo
+
+EXPERIMETAL STUDY OF DEFORHATION IN BULKHEADS RBDIFORCING CYLINDRICAL SHELL
+UNDER TRANSVERSE LOCAL LOADING
+
+[Abstract of article by Hakeyev, Ye. M. and Semenenko. V. P.]
+
+[Text] The paper gives the results of an experimental study of the deformed
+state of circular bulkheads that reinforce a cylindrical shell under local
+loads of various kinds with different laws of distribution in different con-
+binations with consideration of their defamation together with the shell.
+Calculated data are conpared with experimental results, and an analysis is
+made of the effect of some simplifying assmptions that are generally made
+in approximate solutions.
+
+Figures la. tables lo, references lo Russian.
+
+UDC 626.07lo.lo
+MODEL OF MATCHING REQUIREMENTS IN HULTICRITRRIAL STRUCTURAL DESIGN PROBLEMS
+[Abstract of article by Pochtman, Yu. H. and Shalozub, V. [1.]
+[Text] The authors discuss the feasibility of using an n-person game model
+with a considerable set of criteria in multicriterial problens of optimizing
+structural members. It is noted that the model penits simultaneous analysis
+of stages of "external" and "internal" design; sons conditions are presented
+that are sufficient for constructing a ninimax solution with required proper-
+ties. A technique is given for reducing certain problems of optimizing beans.
+plates and shells to game problens. Numerical examples are given.
+
+Figure 1. table 1. references 10 Russian.
+
+57
+
+FOR OFFICIAL USE ONLY
+FIN!()FF1C1AI.IJSEZ(NVLY
+
+UDC 539.376
+
+STABILITY OF STRUCTURALLY ORTHOTROPIC SHELLS UNDER CREE? CONDITIONS
+
+[Abstract of article by Poshivalov, V. P.]
+
+[Text] The author derives equations of stability of structurally orthotropic
+shells under conditions of creep. It is assumed that during creep the stresses
+and strains in the shell differ little from the stresses of the basic zero-
+moment state. Consideration is taken of the biaxial stressed state of the
+shell and the uniaxial stressed state of the reinforcing elements.
+
+References 6 Russian.
+UDC 539.3
+
+STRESSES IN REGION OF JOINING BETWEEN PIPE AND CYLINDRICAL SHELL
+
+[Abstract of article by Sel'skiy. Yu. 5.]
+
+[Text] An examination is made of the stressed state of a joint for small
+ratios of pipe and shell radii.
+
+Coefficients of concentration are obtained for cases of internal pressure.
+uniform temperature differential. and also the longitudinal force and torques
+
+applied to the pipe.
+
+It is proposed that a ray method be used for problems with arbitrary boundary
+shape (as applied to intersections at an arbitrary angle with small ratios
+
+of radii).
+
+Figures 4. tables 2. references 10: 8 Russian. 2 Hastern.
+UDC 539.3
+
+PRINCIPAL EQUATIONS IN THEORY OF SHELLS WITH DIFFERENT HODULI IN TENSION AND
+COMPRESSION
+
+[Abstract of article by Tamurov. N. G. and Turovtsev, G. V.]
+
+[Text] The paper proposes a model for a material that has different elastic
+characteristics in compression and tension. Without discussing the details
+of deriving the model, the authors find the principal equations of a theory
+of thin shells in the geometrically nonlinear approximation that are converted
+
+to the corresponding classical expressions in the case of a single-modulus
+material. A method is outlined for solving problems with the proposed physical
+
+relations.
+
+References 7: 5 Russian. 2 Hestern.
+
+58
+
+FOR OFFICIAL USE ONLY
+UN 539.384.6z626.072.lo
+DESIGNING REINFORCEMENT RINGS NITB NAXIMIH BEDDING STIPFNESS
+
+[Abstract of article by Thacheva, T. V.]
+
+[Text] The Prager optimality criterion is used to solve the problem of opti-
+nizing the cross sectional shapes of rings that reinforce a cylindrical shell
+under loading by a concentrated transverse force. The optimum area of the
+
+supporting layers of a sandwich ring is determined. An example of calculation
+is given.
+
+Figures 3. references 6: 6 Russian, 2 western.
+
+unc 62§.O72.Io
+
+PROPERTIES OF OPTIMUM RING FRAME DESIGNS 0ND“ MINE!) FORCE AND MRRATURE
+LOADING
+
+[Abstract of article by Binkevich. Ye. V. and Dzyuba, A. P.]
+
+[Text] The problem of designing nonunifornly heated ring frames loaded by
+concentrated forces is numerically solved on the basis of a maximum principle
+with consideration of limitations on deviation of the shape of the axis from
+circular. and also strength and structural deviations. The properties of
+
+optinun designs are studied. An analysis is made of the particulars of using
+necessary conditions of optimality in design. Results of digital computer
+calculations are given. Figures 5. table 1. references 3 Russian.
+
+UDC 539.37h
+DYNAMIC BEHAVIOR OF PLASTIC SPHERICAL SNELL UNDER REPEAIED PUlSﬂl LOADING
+
+[Abstract of article by Gudramovich. V. s. and Shatsillo. S. 1.]
+
+[Text] A formulation is given for the problem of dynamic analysis of the
+notion of a plastic spherical shell under repeated pulsed loading. The factor
+that accounts for the nonunifornity of properties that is acquired during
+preceding loading is the fields of residual stresses. The finite element
+method is used for the analysis; the finite elements are selected in the form
+of frusta of cones. An examination is made of the problem of motion of an
+initially homogeneous shell with pulsed loading on the basis of isotropic
+
+flow theory. References 14: 12 Russian, 2 Western.
+
+UDC 539.3
+CYLINDRICAL SHELL BEHAVIOR WITH DYNAMICALLY APPLIED NONUNIFORH EXTERNAL PRESSURE
+
+[Abstract of article by Hakarenko, A. D. and Hakarenko, N. 3.]
+
+[Text] The authors consider the problem of stability of a cylindrical shell
+with dynamic application of nonaxisyuetric external pressure. Results of
+
+59
+
+FOR‘OFFK]AI.USE(NNLY
+FOR OFFICIAL USE ONLY
+
+calculations are given that were obtained with the use of a specially conpiled
+algorithm enabling investigation of the process of deformation and loss of
+stability of shells with respect to space and tine coordinates. Figures 3.
+references 3 Russian.
+
+UDC 519.248:62-192
+DETERMINING MARIAN“ m ACCELERATED TEST THEORY
+[Abstract of article by Avranenko, V. 1.]
+[Text] A definition of invariance of a factory that produces goods by batches
+is proposed on the basis of a statistical probability approach that is different
+from the existing definition. A definition of invariance of the properties
+of items relative to a load is introduced. An illustration is given of the
+
+feasibility of using these concepts to solve problems of the theory of accel-
+erated tests. References 6 Russian.
+
+upc Sl9.2.68:62-l92
+mmnmzcaz. most. or svs'rm samurai!
+[Abstract of article by Belosvetov. s. A. and Dyschenko, V. Ys.]
+[Text] Based on an approach to systena analysis as comprising a paired random
+process and level. the authors propose nathematical models of processes of
+structural and phase degradation of a system as a basis for developing algo-
+ritlsns and for nachine simulation of real degradation processes to evaluate
+the reliability of a system. Reference 1 Russian.
+
+UDC 629.6:519.2-l92
+DEFINITION OF RATIONAL MAINTENANCE srs'nm FOR COMPONENTS OF TRACTION UKITS
+[Abstract of article by Bosov, A. A. and Khandrigs. A. 6.]
+[Text] A method is proposed for determining the periods of renovating compo-
+nents of traction units. An exalple is given of designing and setting up
+
+a system for maintenance of. the III-9N traction engine. Figures 5. tables
+lo, references 2 Russian.
+
+UDC 519.26
+
+sous PARTICULARS OF USING STANDARDIZATION IN COHPUTKRIZING REGRESSIW ANALYSIS
+ALGORITHMS
+
+[Abstract of article by Dolgiy. V. I... Perlik. V. I. and Sokolov. A. 8.]
+
+[Text] An exaninstion is nade of the effect of the sequence of linearizing
+and standardizing variables in regression analysis algorithms. It is shown
+
+60
+
+FOR OFFICIAL USE ONLY
+that when constructing incomplete second-order models, algorithms based on
+standardizing variables before linearizing are more correct in all cases.
+Table 1, references 6 Russian.
+
+UDC 539.2
+
+EVALUATING DUEABILITY OF MATERIALS UNDER AGING CONDITIONS
+
+[Abstract of article by Pereverzev. Ye. 8.]
+
+[Text] Approximate analytical expressions are given for evaluating the dura-
+bility of materials under aging conditions. Approximate methods are considered
+for taking account of damage accumulation due to mechanical loading and natural
+aging. References 0 Russian.
+
+UDC 621.3
+RELATION BETWEEN TNBRMODYNAMIC AND STATISTICAL EQUIVALENCE PRINCIPLES
+
+[Abstract of article by Pereverzev. Ye. 8.]
+
+[Text] Based on a thermodynamic approach. conditions are found for which
+the thermodynamic principle of equivalence is identical to the statistical
+method of equal probabilities. It is shown that in this case the failure
+rate is proportional to the rate of increase in entropy. References 6 Russian.
+
+UDC 519.281
+
+STATISTICAL ESTIMATION OF TECHNICAL SYSTEM RELIABILITY INDICES DY EFFICIENCY
+FUNCTION METHOD
+
+[Abstract of article by Perlik, V. 1.]
+
+[Text] The author considers the statistical aspects of the method of efficiency
+fucntions; the main principles of the method have been formulated in previous
+papers by this author. First an investigation is made of the theoretical
+sequence of statistical estimation of the index of reliability of a system,
+which in principle enables derivation of the exact solution. Practical imple-
+mentation of this sequence is difficult because of insurmountable mathematical
+difficulties. The process of approximate statistical estimation recommended
+
+in the article is based on a moment approach. A detailed examination is made
+
+of problems involved in getting the initial information. References 3 Russian.
+
+UDC 519.24
+
+STATISTICAL METHOD OF EVALUATING SCALE PASTOR FOR ROCK STRENGTH PROPERTIES
+
+[Abstract of article by Rubets. G. T.]
+
+[Text] Various generalizations of the Weibull theory of strength are
+examined on the basis of the theory of distributions of ordered statistics.
+
+61
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+It is shown how these generalizations can be applied to estimation of the
+scale factor of rock strength characteristics, as well as those of structural
+components in underground structures. References 10: 5 Russian. 5 Western.
+
+‘ UDC 519.268:62-l92
+NOEL TO ACCOUNT ["08 A PRIORI INFORMATION IN ACCELERATED TEST PROBLEM
+[Abstract of article by Ryballta, K. P.]
+
+[Text] The author examines a method of determining how the mathematical ex-
+pectation of time to failure (He) depends on the load vector (c) from results
+of accelerated tests using a priori information on the distribution law for
+time to failure and the function of change in H; as dependent on c. Refer-
+ences 3 Russian.
+
+UDc 621:004.l7:620.l99
+BAYES MODEL FOR SEQUENTIAL_EVALUATION OF TECHNICAL SYSTEM RELIABILITY INDEX
+[Abstract of article by Savchuk. V. 9.]
+
+[Text] A mathematical model is proposed for evaluating the lower confidence
+limit of the reliability index for predetermined confidence coefficient. The
+model uses a Bayes approach. Inversion of the model enables planning of the
+number of demonstration tests when confirming reliability. It is shown that
+carrying out tests of long duration considerably reduces the number of test
+specimens as compared with the conventional method. Table 1. references 3
+Russian.
+
+UDC 62l.3.019.3:519
+
+DETERMINING RELIABILITY REQUIREMENTS FOR ITEMS FRO“ PREDETERHINED LEVEL OF
+SYSTEH RELIABILITY
+
+[Abstract of article by Skripnik, V. H. and Spirkov, S. “.1
+[Text] An expression is derived for determining guaranteed up times of items
+in a complex system with predetermined system reliability requirement when
+
+the distribution of service lives of the items conforms to Heibull law.
+Figure 1, references 3 Russian.
+
+UDC 620.171.311.2-192
+
+POSSIBLE METHODS OF RECALCULATING RELIABILITY CHARACTERISTICS UNDER DIFFERERT
+LOADING CONDITIONS
+
+[Abstract of article by Stepanov, V. V.]
+
+[Text] The author considers some possible methods of recalculating reliability
+characteristics of technical devices under different loading conditions. A
+
+62
+
+FOR OFFICIAL USE ONLY
+relationship is established between the proposed formulas and known principles
+of reliability theory. Figures 2. references 5 Russian.
+
+“06 62:519.2
+
+READINESS PACTOR AND OVERHEAD COST OF TECHNICAL DEVICE FOR COMBINED MNITORING
+AND VARIOUS RATES OF RESTORING OPERABILII'Y
+
+[Abstract of article by Chunakov, L. 1).]
+[Text] Analytical expressions are found for the readiness factor. operating
+costs and average number of restorations of opersbility in the case of expo-
+
+nential distribution of the time of fail-free operation and restoration.
+References 3 Russian.
+
+ch 62-192:539.3
+DURABILITY EVALUATION HBTIDD USING sm-mnrov NOBEL
+[Abstract of article by Shiyan, 0. V.]
+[Text] An examination is made of a method of accelerated tests -- the stepwise
+loading method. A method is proposed for estimating the parameters of the
+failure distribution function under operating conditions using the Rorolyuk .
+theorem of mean sojourn time of a semi-Markov process in a fixed set of states
+and the principle of maximum likelihood. References 3 Russian.
+
+UDC 62:519.2
+EVALUATING DURAIILITY OF TECHNICAL DEVICE WITH PERIODIC HORXABILII'Y CHER
+
+[Abstract of article by Chunakov, 1.. 1).]
+
+[Text] An estimate is obtained for the durability of a technical device with
+periodic monitoring of its working state when the nathenatical expectation
+
+of the tine of fail-free operation is known. References 3 Russian.
+COPYRIGHT: Izdatel'stvo "Nsukova dunks", 1981
+
+6610 _
+CSO: 1861/189
+
+63
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TURBINE MD "Gm 13810!
+
+UDC 621.165000.5
+OPTIMAL LAST STAGE DESIG! OF HIGH-MR STEAM MINES
+
+Kiev OPTIMAL'NOYE PWTIROVANIYE P08131113? 3mm 108800"!!! 2mm TURBIN
+in Russian 19% (signed to press 7 Jul 80) pp 2, 226-227
+
+[Annotation and table of contents fron book "Optimal Last Stage Design of High-
+
+Power Steam Turbines". by Leonid Aleksandrovich Shwenko-Shubin, Anatoliy
+Alekaeyevich Tarelin and Yuriy Petrovich Antiptsev. Ukrainian SSR Academy of Sciences,
+Problem of Machine Building Institute; Izdatel'stvo "Nation dunks", 1000 copies,
+
+228 pages]
+
+[Text] This mnogrsph discusses the problem of optiml last-stage design of high-
+power steam turbines. A study is made of the physicomathemtical and engineering
+principles of optimal turbine stage design. optiniaation of the choral gas dynamic
+process and blade design. The folloring are presented: a mathematical model of the
+thermal gas dynamic process and its investigation ming the existing mthemtical
+methods of finding optiml solutions and Iodern counter engineering means. The
+
+specifications and geometric characteristics. A fomlized blade design process is
+proposed which offers the possibility of using simple methods of optimizing various
+types of designs which are convenient in practical application.
+
+The book is designed for scientific and engineering-technical personnel specializing
+in turbine building.
+
+There are 54 illustrations, 3 tables, and 59 references on pages 222-225.
+
+Table of Contents
+
+Foreword 3
+
+Basic Symbols used in the Text 7
+
+Chapter I. Problem of Optilsl Last Stage Design of Power Turbines 9
+
+1. Last Stage in Power Turbine Design System 9
+
+2. Last Stage Operating Quality Criteria l3
+
+3. Structural Bleunts of the Last Stage in its Design System 16
+6h
+
+MWWEONLY
+Chapter II. Primary Problem of Constructing a Last Stage Mathematical
+
+Model 23
+1. Statement of Problem of Optimizing Plow maracteristics in Stage
+
+clearances 23
+2. Formation of the Assignment and Restrictions on Optimal Blade Design 31
+3. General Structure of Optimal Blade Design System 37
+a. Problems of Selected Axial Clearance and its Outlines 42
+Chapter III. Mathematical Ibdel of Thermal Gas Dynamic Process and .
+Optimization Methods ’07
+1. State of the Art of the Problem 47
+2. Basic Propositions and System of Flow Equations 50
+3. Initial Specifications and Quality Criteria 55
+lo. Optimization and Limitation Parameters 58
+S. lbthnds of Solving the Synthesis and Analysis Problems 60
+
+Chapter IV. Analytical Method of Optimizing Stage Kinematic Characteristics 63
+
+1. Optimization by Quality Criterion - Integral Stage Efficiency 63
+2. Optimization by Quality Criterion -- Integral Stage Energy Loss
+
+with Output Speed 76
+3. Maximum Integral Stage Efficiency with Minimm Integral Energy
+
+Loss with Output Speed 83
+lo. Some Peculiarities of Considering Restrictions 86
+5. Study of the Basic Laws of Blade Twist 95
+
+Chapter V. Optimization of the Stage Paramters by Gunputer Simulation 110
+
+1. Simulation Model of Thermal Gas Dynamic Process of a Stage 112
+2. Study Performed by the Scan mthod and a Procedure for Processing
+
+the Results 117
+3. Optimization of Stage Economy by the Random Search Method 127
+Chapter VI. Designing the Blade Cascades of Tun-bomchines 13)
+1. Basic Principles, Initial Data, Parameters. Restrictions 130
+2. Simplest ﬁlo-Parametric Profile 138
+3. Profiles with Given Configuration of the Output Part of the Outer
+
+Profile 166
+lo. Profiles with Increased Strength Characteristics 156
+5. Optimization of Blade Cascades 160
+6. Blade Cascade Design Considering Peculiarities of Actual Blade
+
+Engineering 166
+Chapter VII. Engineering of the Working Part of Blades 175
+1. Basic Principles, Initial Data, Restrictions 175
+2. Analytical Method of Shaping the Blade 185
+
+65
+
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000500070049-6
+
+FOR OFFICIAL USE ONLY
+
+3. Numerical Methods of Forming the Blade Surface
+lo. Optimization of Blade Design
+5. Research Results
+
+Bibliography‘
+
+COPYRIGHT: Izdatel'stvo "Naukova dunks", 1980
+
+108165
+CSO: 1861/199
+
+66
+
+FOR OFFIOAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000500070049-6
+lANIGAIIOﬂ AID GUIDANCE SYSTEMS
+
+UDC 53l.55:521.1
+
+CORRECTING INERTIAL GUIDANCE SYSTEMS BY USING COMBINED SUBSIDIARY POSITIONAL
+AND VELOCITY INFORMATION
+
+Moscow IZVESTIYA AKADEHII NADK sssn: HEKHANIKA TVERDOGO TBLA in Russian
+No 5, Sep-Oct 81 (manuscript received 9 Oct 79) pp 12-19
+
+[Article by V. I. Kalenova. V. H. Horozov. N. A. Parusnikov and A. G.
+Shakot'ko. Moscow]
+
+[Text] An investigation is made of the problem of correct-
+ing an inertial guidance system with combined utilization
+
+of redundant positional and velocity information. In con-
+nection with the solution of this problem the authors discuss
+one of the possible correcting algorithms that realize decom-
+position of the problem with respect to components of the
+correction vector.
+
+In present-day navigational systems that are based on the
+inertial guidance method. the inertial information is sup-
+plemented by information of noninertial nature to improve
+accuracy properties. The problem of correcting inertial
+guidance systems by using redundant information can be formu-
+lated as a problem of estimating the vector of state of
+
+a linear system from given measurements (Ref. 1. 2].
+
+To evaluate the possibilities of correcting such systems
+with respect to subsidiary information of a given type.
+
+the linear theory of observability should be used [Ref.
+
+3. 6]. Analysis of the observability of the system enables
+discrimination of the variables that can be evaluated. de—
+termination of the limiting accuracy of evaluation of such
+variables. and also construction of a class of suitable
+algorithms of evaluation that are subject to further detailed
+study. In addition. analysis of observability enables esti-
+mation of errors due to various simplifications in construct-
+ing the correction algorithm.
+
+In Ref. 2. 5 an analysis was made of observability. and
+some correction algorithms were constructed for inertial
+guidance systems using either positional or velocity subsidiary
+
+67
+
+FOR OFTWCJAI.USE(MVLY
+FOR OFFlCIAI. USE ONLY
+
+information. We discuss below some modifications of combined
+use of this information, and propose corresponding estimation
+algorithms. In doing so. we use one of the methods of de-
+composing the observed space with respect to the components
+of the correction vector.
+
+1. Consider the linear system
+dﬁldt-GH-q, o-IIE-i-r (1-1)
+
+Here E; is an n-dimensional vector of state. a is an s-dimensionsl vector of
+measurement, G. H are fixed matrices of the corresponding dimensionality,
+
+q. r are random vector processes of the white noise type with given intensi-
+ties. It is seemed that the pair (6. H) is observable. It is required to
+get an estimate 5° of quantity C by measurement a on segaent [to. t].
+
+In constructing practical estimation algorithm, it is often advisable to
+decompose (split) the estimation problem with respect to the components of
+the measurement vector so that this problem is reduced to a series of sub-
+problens with scalar measurements. Generally speaking, the deccmposition
+can be carried out in different ways [Ref. 6]. Let us consider the problem
+of decomposition for a two-component measurement vector 0- (01. o;)"'. having
+in mind a situation where the time interval on which information a; and 02 is
+used in conjunction is preceded by a long time interval with arrival of only
+information 01-
+
+Let OWN}. oa=h.’§ and let {X}. {Y} be spaces observable by using measurements
+01 and a; respectively.
+
+We use the notation dim {EJ-n. din] {IQ—I'm. dim {Y} -1. Obviously m‘". 1‘".
+m+l>n. Let us also introduce the notation
+
+“1"“. "a-c'aln - - - 0 “IN-Grab - ‘ °
+
+(12)
+11")!“ bg—G'bh . o . , bng-Gfbh . . .
+
+The vector z-(z..r....r..)’ made up of components observable by means of quantity
+01 takes the form
+
+1:14;. L.-C.(a.a. . . . a...)' (1-3)
+
+where c; is some nondegenerate square matrix whose selection is not directly
+related to the decomposition problem. In virtue of the linear dependence
+of vectors a., a....., a... a... we have the representation
+
+“Gil-olaa'l'ozag+ . . . +0.“- (1.4)
+
+Here the 01 are constant coefficients. From (LU-(1.4) we get
+. (ix/.dl-Gaﬁ'qn ou-g.':+r. (1.6)
+
+o a o...o
+"3'01“?! 0 o 1... o
+
+g‘nb‘q 8- .......
+
+1'_‘o”. -10 0 0 .01
+‘* ‘ ow. 0.0.0....0,
+
+68
+
+FOR OFFICIAL USE ONLY
+The standard algorithn that yields estimate x' of vector x is described by
+the equation
+
+dz° / d1-G..r°+K. (o.-g.’:°) (1.8)
+
+Vector It, is unambiguously determined either by the Ralman optimum filtration
+method. or from the condition of assiment of roots of characteristic equa-
+
+tion |pB-G.+K.g.’|-0. At sufficiently low intensity of the measurement error
+rx, the initial condition ¢°(t.) -x.° should be given as :.°-C.(o..oo...o)',
+
+Let us introduce vector :—(z.:....x.-..)'. n—m<1 so that
+3-bit. Lr-Cg(b.bg...bg-.), (1.7)
+where C; is a square nondegenerate matrix.
+
+Since the set of vectors «1.. 11...... a... 6.. b.,.... b.-. can serve as a basis of
+
+the space {E}- vectors : and "f“ are related by the mutually equivalent trans-
+formation
+
+3 L
+I, I'LL la-l I: I. dubs/=0 (1.3)
+By analogy with (1.5). we get
+
+d1/dt-Gngx+calz+QIo at-‘Irx+rl (1'9)
+Gui-Caoﬂu". qu-Ldl. G's-010.0,", g.’- (10...0)'C," (1.10)
+
+0 0...0 0 1 0 ...0
+
+0 0...0 0 0 1 ...0
+
+(D a. ----- . 0 a ....... a a - a a
+
+’ oo...o ' o o o ...1
+
+'h Tau-V. 'nol 9n» ’MI“"n
+
+and the elements of matrices 0x. 0; are determined from the relation
+
+bm-MI I-‘Plnl+ . . . +Q~ﬂn+W-¢|b.+ . . . +q1.b.--
+
+We seek the estimate 2' of vector 2 in the form
+dz° / dt—G..:°+G..z°+K. (ox-(32°) (1.11)
+
+estimate at“ being given by algorithm (1.6). Vector K2 is uniquely defined
+if roots are assigned for characteristic equationlpE-Gn+K.g.’|-0. Estimate
+6° of vector 5 is found by using relation (1.8)
+
+ﬁ‘ - “I f." (1.12)
+
+The algorithn described by relations (1.6), (1.11). (1.12) has a two-stage
+structure. Let us make the folloving remarks about algorithms of this kind.
+
+69
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+if information 01 arrives on interval [t9. t1]. then for sufficiently mall
+errors qx, rx the error of the estimate Ax-x-x' can also be made sufficiently
+small by time t; by suitable selection of Kx. This reduces the influence
+
+of this error on the estimate of quantity 2 found by algorithm (1.11) with
+combined use of information o; and 01 on interval [tn t].
+
+If vector 2 does not have excessively high dimensionality, then the time inter-
+val necessary for getting an acceptable estimate 2" may not be too long. The
+latter circumstance is often decisive for practical use of an estimation algo-
+rithm.
+
+Canment. A more general case of realization of the idea of "two-stage struc-
+ture" is this: vector x is defined as before by relation (1.3); vector 2
+is defined by transformation z-Lﬁz such that the rows of matrix L°z and the
+
+rows of matrix 1.; are linearly independent, and therefore matrix L°- II 2',“ is
+
+a square degenerate matrix (otherwise matrix 1.; is arbitrary). In this case,
+by analogy with (1.9) we get
+
+dz/dt-G..°z+a..°x+q.. a.-g..’x+gn’z+r.
+
+where G..°. G.,°, 3.3, g..’ are determined from (1.10) by transformation Lg. The
+corresponding algoritlml of estimation of quantity 2 takes the form
+
+as / dt-G..°x°+G..°z°+K.° («ﬂuff—33¢) (1.13)
+
+It is essential that the estimate x° given by algoritlml (1.6) must not depend
+on measurement 0;. As a consequence of this circumstance. algoritln (1.13)
+
+is generally speaking less preferable than (1.11) since the error of the esti-
+mate Ax- x- x° influences the error of the estimate MI 2- 2° with weighting
+factor K; - the gain selected from the condition of a sufficiently high degree
+of asymptotic stability of the equations of errors of the estimate yielded
+
+by algorithm (1.13).
+
+Let us give a useful modification of algorithm (1.6). (1.11), (1.12) for a
+special case. Let the set of vectors 0.. 0...... 0.. b.. b;...., b, for some £<m
+form the basis of space {5}. Let us introduce the vectors n-faﬁ. I..-C..(a.a....
+01),; v-LJ. [a-cnhundua-uam)’: w-Lo" L.-Cu(b.ba...b,)’. where C... C“, C" are
+nondegenerate square matrices. The behavior of vectors u, v, v conforms to
+equations
+
+du/ au-G..u+G-av+q-
+d0 / dt-G,.u+G..v+q. (1.14)
+dw / dl-G..u+G..w+ I].
+GuHCchll". ch-cuemcII-‘n- G-I-ansCu"
+cut-CHPCH". ova—€119.03". Gun-cuopcn"
+¢.-L.q. “-64. vc-La
+
+010...0 00...0
+00!...0 00...0
+F; ...... . F°= .....
+000. I 00 0
+000. 0 lo 0
+
+70
+
+FOR OFFICIAL USE ONLY
+................
+
+9-" o o .o ' °-= 9 o 1
+0, 0. . 0‘ 0",. 0“, 0“
+0 0 0 0 i 0
+
+0-. o o . o a DU- 0 o ‘
+5| 0. 6. °m 6“, an
+
+and the elements of matrices D“. D. are determined from the relation
+bug-6.G|+ . . . +6ﬂl+6u~|b|+ . . . +6.61
+
+Let us note that the dimensionality of system (1.11.). equal to m+ j, is greater
+than that of initial system (1.1) by an amount m-i. and vectors 5 and I," are
+related by the reciprocally equivalent transformation
+
+mm. ».-|2~.I
+
+Components 01. oz of measurement vector (7 are: o.-s.’u+r.. g.’-(10...0)Cu".
+aa-er-Ha. 3.3-“ 0. . . 0)c..7'.
+
+The corresponding algorithn for estimation of vector 5 takes the form
+
+du° / dc-G..u°+G..v°+K. (tn-330°)
+dv‘ / dz-G..u°+G..v'+K. (av-:31?)
+dw’ / dt-Guu°+Guw'+K-(¢a-lu'w.)
+
+ﬁ'rbi'lsl
+
+Let us make a comment regarding possible selection of the quantity i-dimu.
+Heuristic considerations reinforced by practical experience show that when
+estimating components of the vector of state that are derivatives of an observ-
+able quantity, the time required for estimating a given component with pre-
+determined accuracy increases with the derivative order of this component.
+Therefore it is desirable if possible to form the basis of space (5} by a
+
+set of vectors {an a2...” ai. b1. b2,..., bﬂ’ such that max“. .1) is mini-
+mum.
+
+2. Consider a two-component inertial guidance system with levelable platform
+in which altitude information is provided by altimeters or given a priori.
+The following trihedral representations are used in describing inertial sys-
+tems [Ref. 1]: ideal trihedron Hxxxzxgmx), point H being identified with
+the moving object. ﬁx; is the direction of the local vertical. orientation
+of trihedron ﬁx in the azimuth is given; instrumental trihedron anagrams),
+which is the material realization of trihedron H: in the navigation system;
+model trihedron Hygyzygmy), which is the numerical pattern of the ideal
+
+71
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+trihedron (the orientation of the trihedron is determined by nunerical infor-
+mation contained in the computer of the inertial system).
+
+The mutual orientation of trihedra Dix, Hz is determined by the vector of small
+rotation ox- (agu2n3)7; for trihedra My, Hz -- by vector 3x' (8182897; for
+trihedra Hx. My -- by vector yx- (1112797. The quantities a1. 81. 71 (1" l.
+2. 3) are projections of the corresponding vectors on the axes of trihedron
+Mx. Let us denote the vector of absolute angular velocity of trihedron ﬁx in
+projections on its own axes by In" (wxlmxzwngr. To be specific. we will
+assrme that trihedron ﬁx is azimuthally free (um-0). Having in mind mainly
+aircraft guidance. we will assume that the follouing conditions are met.
+
+I. The velocity of motion of thevehicle is small compared with orbital ve-
+locity: ”12+wx22¢woz (no is the Schuler frequency).
+
+2. Evolutions of the ve icle with respect to altitude h are limited: h<e2a,
+h'<0.lamax(wx1’+mxzz) (a is the semimajor axis of the terrestrial ellip-
+soid. e1 is the square of eccentricity of this ellipsoid).
+
+The equations of errors of the inertial guidance system in this case can be
+written as [Ref. 2]:
+
+al.-5Pt+V-cv _ as.-6P:+Vn
+6p.'--o.'(a.+¢.) —m..~;. . (2.1)
+6P='--oo.' (ca—a.) hum.
+
+§|'-—0n53+V-h pa'-0uﬁa+vn
+(2.2)
+
+pa.-0nBI-0npr+vu
+TI-au‘ﬂu 11-11343: . H (2.3)
+
+Here Gpl, 6p; are variables that have the sense of velocity impulse. v“. um,
+W: are errors of inertial information about the projections of angular ve-
+locity of the instrulental trihedron. c1, c: are the normalized errors of
+inertial information about the projections of the external force applied to
+point H on axes H21. M22.
+
+We are considering the problem of correction of inertial guidance systems by
+using redundant positional and velocity information. The vector of velocity
+correction o.'-(o..‘o.a')’ takes the form [Ref. 2]:
+
+Ou‘ -6PI+ullm1+ unﬂa- "8158+ W...
+
+(2.0'
+on‘-6Pr‘unﬂn+uuDI—usupn'I'Wn‘
+The vector of positional correction takes the form [Ref. 2]:
+a."-1.+w.". oa"-xa+wa“ (2-5)
+
+where u... ".3. u.. are projections of the angular velocity of the earth on the
+axes of trihedron M1, "’n’. 10.13 Wu". w,” are the normalized instrumental errors
+of the corresponding redundant information.
+
+72
+
+FOR OFFICIAL USE ONLY
+we will solve the correction problem with the following assumptions.
+
+1. Motion of the vehicle is along "steady" trajectories (0u”+0!n")“'<m°l
+(u,,'+u,;) — this condition is let in particular when the vehicle moves along
+a great circle at constant velocity.
+
+2. The correction time tk is nail compared with the period associated with
+proper notion of the vehicle: k<2ul (o..'+0a')"-
+
+3. The model assumed for instrumental errors is: quantities “x30 :1 are
+practically constant on the correction interval; w.'-Inn'+r«'. wu'-w;,. +r..'.
+w..". wt... are nearly constant quantities on the correction interval; r1“, rue
+are random processes of the white noise type with given intensities (i- l. 2.
+j- l, 2. 3). He introduce dimensionless time t-wot. and dimensionless quan-
+tities
+
+n,-6p,/ 0., of—o‘,‘ / 0)., u.-m../ mm, m-udl um.
+
+\‘.-\'u/00 “-1.1. a: 5-3.1): “-331“ '0“ +04 I”.
+
+Under the above conditions. u<0.l. The characteristic values of variables
+on. :1). r... v. usually are of the same order p; the characteristic values of the
+variables h. 1. by the instant of start of correction may be of order p/u;
+the characteristic values of quantities on. u. are of the order of unity;
+the characteristic value of the quantity n-wot. lies in a range of 1-3.
+
+Let us introduce two groups of variables x1 (1- l, 2,.... 6) and y (j - 1,
+2,..., 8). Variables x1 are associated with analysis of observability of
+system (2.1), (2.2) by subsidiary velocity information (2.4). Variables y
+are associated with analysis of observability of system (2.1). (2.2) by sug-
+sidiary positional intonation (2.5):
+
+z.-a.+eg. :.-u.+v.
+
+z.-n(u.D.—u.lia)+10..‘-v.+uuas.
+
+(2.6)
+ls-ag—CI. z.-u.+v,
+r.-Mush-u.”+wa‘—Va+uu.c.
+UN'TFHI’M". .y:_n'+”w‘p'
+ya-ari-sh y.-n.+v.
+(2.7)
+
+y.-1.+wu". y.-n.—um.p,
+sly-are" y.-u.+v.
+
+Leaving the former notation for differentiation with respect to dimensionless
+time 1', and disregarding terms of order uzp. we get the following relations:
+
+z.'-.r.. x.'-—z.-u¢o;vs
+:,'--p’u,(u.a.—u.b.)+n(uaV.—u.va)
+.r.'-.z.. z,'--z.+uo.v. (2.8)
+x.'-p.'¢o.(u.p:—uzﬂ.)+n(u.Va—uavn)
+o.‘—.r,+z,+nu,z.+r.‘. o.‘-.r.+.r.—uu.z.+r.‘
+
+73
+
+FOR OFFICIAL USE ONLY
+FOR‘OFFK]A[.USE(N‘LY
+
+£11."ch Vs.-"V’+|“(¢°1UI-Ntlh)01+W110
+
+VI-Uo. y.'--y:-|mav.. v.'-y.
+
+v-'--uv+u'(mw.-o.v-)u.—no.‘3.
+III-v» v-'--Ih+uo.v. (2.9)
+lulu-"‘4'“... Us” "Va‘l'ﬁn
+
+We note that equations (2.8), (2.9) are inhomogeneous relative to variables
+x1. y , but the terms that introduce inhomogeneity are of order up. The
+quantity u is treated here as a small parameter.
+
+Analysis of observability of relations (2.8). (2.9) shows that variables
+
+x1, yj are readily observable variables when the appropriate redundant infor-
+mation is used. 1. e. they permit an estimate with acceptable accuracy on
+
+the correction interval. In this regard. it is feasible for practical purposes
+to use the algorithms described in section 1 as estimation algorithms.
+
+3. A comparison of the two groups of observable variables (2.6) and (2.7)
+shows that the space that is observable by using positional information is
+to a considerable extent overlapped by the space that is observable using
+velocity information. Besides, there are identical variables among those
+introduced above:
+3 - .-a.+s.. z.- .-n.+v.
+I U U (3“)
+
+Zc-Uv-aa—BI. io-Vs-ﬂd'v;
+These variables are the dynamic errors of the inertial systems.
+
+Combined utilization of positional and velocity information can be approached
+from two standpoints. According to one point of view. when positional infor-
+mation is available there is almost no need for velocity information. On
+
+the other hand, as a rule positional information is available for only a short
+period of time (about 30 minutes). whereas velocity information arrives over
+
+a much longer time interval. including the period preceding the interval of
+positional correction. Therefore it is advisable first to use velocity infor-
+mation to estimate the variables observable in this case. and then as the
+positional information begins to arrive. to use it for estimating the remaining
+observable variables. Such an approach is in some sense natural. First those
+variables are estimated that change fairly rapidly (with the Schuler frequency)
+and then the slowly changing variables are estimated.
+
+In accordance with the results of sections 1 and 2, the following algorithm
+is proposed for combined processing of positional and velocity data:
+
+z.°'-z.°+K.‘ ('o.‘-¢:°-za°-uuaz.°)
+11°. " -Z:°+ Ki. ('0.‘ _:’o_z’o__uu’z.0)
+Irv-Ks. (0:'—$:.—3s°-PW:)
+
+3:. -Is°+K|. (01' ‘39.” °+W‘:3|°)
+(32)
+z.°'- -z.°+Ka' (o.'-x.°—x.°+uum°)
+
+z.°'-Ka‘(oa'-z.°-z.°+ 11:132.”)
+7h
+
+FOR OFFICIAL USE ONLY
+Ibo-"VFW“ (mu ’91.)
+
+luv-Wan (emf-mu 3 J' ”30‘1"!!!” ”3:.
+”1°. 'Uo°+ K0. (Can-Vs.)
+
+y.°' -|t’«o. (unvf- my?) “6‘ (o.“-y.°) -=«'
+
+(3.3)
+
+In the simplest feasible version. coefficients K6.K? are chosen so that
+
+the characteristic polynomials of subsystems of equations that describe the
+behavior of errors of the estimate 611. Aug. Ax; and Ale, Axs. Ax. take the
+form (pd-Ac)3 (disregarding relations between subsystems), while the character-
+istic polynomials of subsystems of equations relative to the quantities Ayx.
+by; and Ays. Aye take the form (p+ A92. where Ac>0, Ak>0 are the degrees
+
+of attenuation. 0n interval [to. t1], when only velocity information is coming
+in. -K.‘=-K.‘-K.‘—K.'-o, The algoritlu described by expressions (3.2). (3.3)
+was simulated on a digital computer at different noise intensities ric and r1H
+and different values of n,h,ln.lr The results of simulation showed that the
+algorithm is completely acceptable for practical implementation.
+
+Let us note that relations (3.2), (3.3) can easily give a correction algorithm
+that accounts for all possible situations that might be encountered in the
+given problem. such as: only positional information; only velocity information
+but preceded by a run of positional information; neither positional nor veloci-
+ty information after a combination correction run. etc.
+
+REFERENCES
+
+l. Parusnikov, N. A.. "The Correction Problem in Inertial Guidance". NAUCHNYYE
+TRUDY INSTITUTA WIKI MSKOVSKOGO GOSUDARSTVENNOGO UNIVERSITEIA. No 29,
+1973. p 102.
+
+2. Parusnikov. N. A.. Kalenova, V. 1.. Parusnikova. 0. 1.. shakot'ko, A. 6..
+“Problems of Observability in Correcting Inertial Guidance Systems",
+NAUCHNYYB TRUDY INSTITUTA NEWARK! MKOVSKOGO GOSUDARSTVBNNOGO
+UNIVERSITBTA. No 33, 1974. p ll.
+
+3. Roytenberg. Ya. N., "Avtomaticheskoye upravleniye" [Automatic Control],
+Moscow. Nauka. 1971. 552 pp.
+
+4. Zade, L., Dezoyer, Ch., "Teoriya lineynykh sistem" [Theory of Linear
+Systems], Moscow, Nauka, 1970, 706 pp.
+
+5. Parusnikov, N. A.. Kalenova. V. I., Parusnikova, O. 1.. Shakot'ko. A. 6..
+"Algorithms of Positional and Velocity Correction in Inertial Guidance".
+NAUCHNYYE TRUDY INSTITUTA MEKHANIKI HOSKOVSKOGO GOSUDARS‘IVBNNOGO
+UNIVERSITBTA. No 33. 1971., p 22.
+
+6. Razorenov, G. N.. "Decomposability of Linear Dynamic Systems". AVIOMATIKA
+1 TBLEMEKHANIKA, No l, 1978. p 12.
+COPYRIGHT: Izdatel'stvo "ﬂanks". "Izvestiya AN SSSR. Hekhanika tverdogo tela",
+
+I98]
+
+6610
+cso: 1861/191. 75
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+FLUID BMICS
+
+UDC 533.6.013.N:629.7.025.3
+
+SUPERSONIC FLOR WTIONS WITH INJECTION 0F MASS AND HEAT
+
+Kiev VOMUSWIYA SVKRKHZVUKOVOGO m PR1 “WPODVODE in Russian
+1980 (signed to press 9 Jan 80) PP 2-5
+
+[Annotation and table of contents from book "Supersonic Plow Perturbations
+Hith Injection of Mass and Best". by Nikolsy Dmitriyevich Kovalenko. UkSSR
+Academy of Sciences, Izdatel'stvo "Naukova dunks". 1150 copies. 226 pages]
+
+[Text] The monograph examines interaction of a supersonic stream with local
+sources of mass and heat. Models are described for various cases of interac-
+tion. The author considers the way that the physical properties and param-
+eters of the injected and onconing streams influence the flow pattern. Par-
+ticular attention is given to investigation and development of engineering
+methods of calculating perturbations of pressure and aerodynamic forces on
+
+a surface in a flow as various gases and fluids are injected. and also to
+
+the study of the way that efficiency in setting up aerodynamic forces is in-
+fluenced by the parameters of the injected streams and the injecting devices.
+
+Intended for engineers and scientists working in the field of aerodynamics,
+and may be of use to instructors. undergraduate and graduate studnets in in-
+stitutions of higher education in corresponding areas. Figures 99. references
+[60.
+
+Contents page
+Preface 5
+List of symbols 9
+Chapter 1: Supersonic Flow of Ideal Gas Around Plat Surface in Presence of
+Mass and Heat Sources 11
+
+l. Supersonic flow perturbations caused by discrete or continuously
+
+distributed sources of mass and heat 12
+2. Gas flow in zone of volumetric injection of mass and heat 27
+3. Supersonic flow perturbations and aerodynamic forces on flat surface
+
+caused by minor volumetric injection of mass and heat 37
+a. Gas flow in the presence of minor injection of nose and heat on surface
+
+in a flow 44
+5. Pressure perturbations and aerodynamic forces on flat surface caused
+
+by intense sources of mass and heat 48
+
+76
+
+NR OFFICIAL USE ONLY
+6.
+
+7.
+
+Approximate calculation of departing shock wave in front of semi-
+permeable body adjacent to surface in a flow
+Plow around jet barriers
+
+Chapter 2: Hydrodynamics of Injected Lateral Jets
+
+1.
+
+2.
+
+3.
+h.
+
+5.
+6.
+
+Mechanism of penetration and decay of a lateral fluid jet in a super-
+sonic stream
+
+Models of fluid jet penetration into supersonic stream
+
+Height of jet barrier and asymptote of spray plume
+
+Influence that fluid properties and the parameters of injecting
+devices have on depth of jet penetration into gas flow
+
+Relative motion and evaporation of liquid in spray plme
+
+Penetration of gas jets
+
+chapter 3. Pressure Perturbations and Aerodynamic Forces on Surface in a
+
+1.
+
+2.
+
+3.
+
+be
+
+5.
+
+6.
+
+7.
+
+Flow With Gas Injection
+
+Plow pattern above surface in supersonic flow with local injection
+of gas
+
+Pressure perturbation and elementary force diagrams on surface in a
+flow with gas injection
+
+Principal components of aerodynamic forces with gas injection.
+Injection coefficient
+
+Aerodynamic forces in Laval nozzle with asymmetric gas injection into
+supersonic stream
+
+Integral method of calculating lateral and axial forces with gas
+injection into a nozzle
+
+Dependence of lateral and axial forces on flowrate and parameters of
+main and injected streams
+
+Influence of parameters of injecting devices
+
+chapter a: Pressure Perturbations and Aerodynamic Forces on Surface
+
+2. Diagram of pressure perturbations and elementary forces on surface with
+liquid injection
+
+3. Aerodynamic forces on surface in flow with fluid injection
+
+a. Dependence of lateral and axial forces on flowrate and physical
+properties of injected fluid
+
+5. Influence of characteristics of injecting devices
+
+References
+
+in a Flow With Injection of Liquids
+Physical pattern of gas flow over surface in a stream with injection
+of liquid
+
+COPYRIGHT: Izdatel'stvo "Naukova dunks", 1980
+
+6610
+
+C80:
+
+[861/191
+
+77
+
+FOR OFFICIAL USE ONLY
+
+50
+S7
+66
+66
+71
+83
+93
+101
+116
+129
+129
+136
+149
+153
+163
+
+168
+175
+
+181
+182
+
+190
+196
+
+205
+209
+215
+FOR OFFICIAL USE ONLY
+
+TBSIING MD MATERIALS
+
+UDC 621.822.9
+INVESTIGATING EFFICIENCY 0P SLIDING BEARINGS IN mrun WW
+Moscow ENERGOIASINOSTROYENIYE in Russian No 3, Mar 82 pp 36-39
+
+[Article by Candidates of Technical Sciences R. G. Bogoyavlenskiy, Yu. D.
+Nikoforov, Yu. V. Makarov and A. T. Yer-akov and engineer A. B. Anapol'skiy]
+
+[Text] Important significance is now given to development of the energy pro-
+duction direction in nuclear power engineering on the basis of high-temperature
+gas reactors with heliun coolant [l]. Investigations are being conducted in
+our country to develop an experinental che-ical power plant with the VCR-SO
+reactor for simultaneous production of electric power and radiation products.
+
+A nunber of complex design, production and metallurgical problems must be
+solved for manufacture and further emergency-free operation of the plant. One
+of the problems is to ensure the efficiency of the bearings of the production
+circuit mechanisms.
+
+The conditions of their operation are characterized by a highly pure helium
+medium, elevated temperature (approximately 300°C), the presence of radioactive
+radiation and the requirement of failure-tree operation over a prolonged time
+(up to 400 days). This combination of operating conditions of bearings elimin-
+ates the use of liquid or plastic lubricants both because of. their insufficient-
+ly high temperature stability and radiation resistance and because of the possi-
+bility of contaminating the coolant.
+
+In the given case solid lubricant materials, along the wide nomenclature of
+which are temperature- and radiation-resistant materials, including neutral
+gas environments, are promising. of special interest are the dichalcogenides
+of the transition metals of groups 5 and 6 of the periodic table and primarily
+the most thoroughly studied, widespread and economical of thew-molybdenum di-
+sulfide (H052).
+
+Its basic advantages are the high temperature stability in a venue and in in-
+ert media (up to 800-1,000°C) [2]. radiation stability [3] and the capability
+of ensuring the operation of a dry friction assembly over a wide range of speeds
+
+78
+
+FOR OFFICIAL USE ONLY
+and loads. However, analysis of data presented in the literature [4] shows
+that the development of bearing assanblies with long service life (in time
+and method of friction), even when using M052 solid lubricant, is a problem.
+
+Table l
+
+ 
+ 
+  
+
+ 
+  
+ 
+
+Tums n s
+nos-2.3.:
+Me. ’C
+
+    
+ 
+
+mun-neural torus neural-s
+
+  
+
+S
+manna-5‘s. aOunuus as Pb
+Moh- z-s (rupatgfscncp)
+
+ 
+
+Key:
+1. Notation of coating 4. 24082 4» 20-25 percent lead
+2. Chemical composition of coating by volume
+3. Stable temperature in helium, °C 5. Solid solution
+
+This is explained by the comparatively short life of molybdemml disulfide
+solid lubricant coatings (TSP) and the low wear resistance of self-lubricating
+structural materials (KSM) based on M052. The significant effect of the coun-
+terbody material on the nature and intensity of wear of molybdenum disulfide
+TSP is shown in [S] and it is concluded that the optimum selection of the
+counterbody material with respect to specific operating conditions is an ef-
+fecting means of increasing the life of solid lubricant coatings.
+
+According to this conclusion, the effect of counterbody material on the fric-
+tion characteristics of TSP and K84 based on M052 in a helium environment at
+approximately 300°C was investigated to solve the postulated problem. Molyb—
+demln disulfide solid lubricant coatings of the diffusion type produced by
+sulfiding molybdenum parts in sulphur-containing media, were selected as the
+main object of investigations among the group of TSP [4]. These coatings have
+comparatively high thickness (60-100 microns) and durability, high temperature
+stability in a vacuum and inert media (up to 800°C) during prolonged operation
+and are capable of tolerating large specific loads [6] .
+
+Several versions of the technology for producing coatings based on 14052 of the
+diffusion type, distinguished by composition and properties (Table l), have
+been developed at VNIIOPI [expansion unknown].
+
+men and 14-812 composites, als'. developed at VNIIOPI, were selected as the
+object of investigations from the group of isotropic KSH. The solid-lubricant
+base of M-810 is comprised of MoSz-Pbs and that of M-812 is comprised of
+MS?-PbS'(PeMO)Szi the binders in both cases are metallic lead [7, 8].
+
+Preliminary investigations of friction characteristics during friction with
+different counterbodies in a helium environment and at elevated temperatures
+(approximately 300°C) were conducted on the WT-lM laboratory installation [9].
+The installation consists of a system of evacuation pumps, friction assembly,
+motor with electromagnetic coupling, loading system, heater, cooled chamber,
+
+79
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+inlet system and system of instruments that record the force of friction,
+load, temperature in the contact zone, nunber of revolutions and gas vacuum
+and pressure.
+
+The pumping system ensures preliminary exacuation in the test chamber of the
+installation in the range of 10"5 to 10- Pa. The drive system permits trans-
+fer of the torque from the DC motor by the electromagnetic coupling to the
+shaft being tested in the speed range of 0.05-0.7 .m/s. The friction assembly
+consists of a housing, shaft to be tested (10 mm in diameter and 40 mm long),
+two working bushings attached to self-adjusting holders and a center bushing
+connected to the loading system and normal load measuring system.
+
+The tests were conducted in two steps. The efficiency of M-801, M-802-l,
+M-802-2 coatings and 31-810 and M-812 KSH were compared during the first step
+in different combinations at sliding rate of 0.5 m/s and at specific load of
+016 MPa. The best pairs were tested at sliding rates of 0.05, 0.5 and 0.7 In/s
+and at specific load of 0.3 MPa during the second step to evaluate the effect
+of sliding rate and load on friction characteristics. KhlBNlOT steel and
+8-820 pseudoalloy consisting a porous N18K9M3T body of martensite-aging class
+impregnated with molten lead containing 25 percent copper by volme, were used
+along with the enumerated TSP and KSH as the counterbody materials. Thus, the
+suggestion of the possible lubrication of the surfaces by the molten lead was
+checked (test time was 100 hours or until seizing occurred.
+
+Highly pure helium (TU 51-689-75) was used in the investigations. The evalua-
+tion criteria were the friction coefficient and wear intensity. The test re-
+sults for the first step are presented in Table 2 and those for the second
+step are presented in Table 3.
+
+Table 2
+
+ 
+
+(linen-me unanno- d-pununomme "manner-nun )
+
+ 
+
+ 
+
+(5’ 61:37:; (7)
+
+(33 (4) . T
+am Bryan “ﬁxﬂm (3, 93:3.
+
+ 
+
+I
+i
+1‘
+Bl
+____—_.____________
+M-llo adv-0.51 — — 2.0(cxss(9)
+(8) M-ll2 mun—0.31 - - ﬁgmm
+C4" M-aoz-I 0.2-0.0 — — |.s
+M-aoz-z one—0.1. — — 1.5
+M-nol 0.2—0.4 — -— 4.0
+(10) M-aun 0.00—0.07 — 0.0: um»-
+xmlm M-uo 0.05-0.06 — .03 1‘33"”
+
+ 
+
+ 
+
+ 
+
+(Key on following page]
+
+FOR OFFICIAL USE ONLY
+Key [Continued from preceding page):
+
+1. Combination of materials 6. Wear, microns/km
+2. Friction characteristics 7. Operating time. hr
+3. Shaft 8. 8-820
+
+4. Bushing 9. Seizure
+
+5. Friction coefficient 10. summer
+
+The investigations conducted during the first step made it possible to es-
+tablish that the presence of lead in the composition of the contact materials
+is a sharply negative factor that significantly limits durability. The com-
+bination of solid lubricant coatings with different properties on a molybdenum
+base showed the most encouraging results.
+
+A combination of H-802-l and Ill-801 coatings was selected on the basis of the
+given laboratory investigations for bench tests under conditions that approx-
+imate full-scale conditions to the maximum.
+
+Service life bench tests of sliding bearings were conducted at VNIIAM [ex-
+pansion unknown] on a specially developed UrG-l installation. The installa-
+tion consists of a working section, loading devices, electric drive, electro-
+magnetic coupling, electric heater, cooled chambers, evacuation and filling
+systal and monitoring and measuring instrtnents.
+
+Table 3
+
+   
+ 
+  
+
+ 
+   
+
+mew-nu III".
+
+ 
+
+(1 "I”! arm: I’lﬂpuc -
+3 sun.
+(4) :5) «.43.... (9 ""“'
+E ween (4) (5)
+5 Ben vasu
+
+ 
+
+Key:
+1. Combination of materials
+2. Friction conditions
+
+6. Load, HPa
+
+7. Rate, m/s
+
+3. Friction characteristics 8. Friction coefficient
+9
+
+4. Shaft
+S. Bushing
+
+. Hear, microns/km
+
+The working section (Figure l) is a sealed cylindrical chamber 1 manufactured
+of stainless steel, inside which a shaft 2 is installed on rocker bearings 3
+
+81
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+and the assembly of the bearing to be tested 4 and 5. The arrangement of
+
+the shaft is vertical. The chamber is enclosed by two flanges sealed by
+vacuum rubber. An electromagnetic coupling 9. through which hermetic entry
+of rotation to the chamber is accomplished, is attached to the bottom flange.
+The loading devices are lever systems with set of weights. Radial loading of
+the bearing is accomplished through connecting pipes welded to the middle part
+of the chamber. The axial load is transmitted through rod 8 and ball support
+7 to sleeve 6, to which the outer bushing of the bearing to be tested 5 is
+attached. A bellows serves as the flexible coupling element. The inner bush-
+ing of the bearing 4 is installed on shaft 2 resting on two roller bearings 3.
+
+    
+    
+
+ 
+ 
+   
+
+|‘
+
+...\‘3.
+WV,
+\
+
+It
+
+II,
+‘.E N
+l/
+|/
+/
+J;
+
+= v. I - ;
+\
+”1/”.
+\\\\\‘ ,
+. \ ll 'llllr
+~.\\\\\\ '
+\\\\\\\
+
+l“—
+\N
+/////I
+
+\\\\\\\
+
+' \
+
+\\\\\‘ .\‘ .\\\\\\\\ \\\ k ,
+
+\
+I
+
+.__ \v.\VommL\\\\\\
+_‘ WW... V1,;
+' like
+\'\\
+
+~ V
+- Ii-
+
+83
+"um.
+
+   
+
+Figure 1. working section of UTG-l Installation
+
+Thus, the axial and radial loads applied to the sliding bearing to be tested
+
+are transmitted through shaft 2 to roller bearings 3 and are enclosed in a
+Mmsnw L
+
+The self-lubricating roller bearings designed by VNIPP [All-Union Scientific
+Research. Design and Technological Institute of the Bearing Industry] with
+bronze separator in which a composite consisting of 50 percent fluoroplastic
+and 50 percent molybdenum disulfide is pressed [10], are used in the UTG-l
+installation. Two water chambers are available to cool the flanges of the
+working section and also the roller bearings. The working part of the section
+(the zone where the bearing assembly to be tested is located) is heated by a
+three-sectional electric heater. The temperature of the housing of the work-
+
+ing section is measured in three cross sections by Chromel-Nopel thermocouples
+
+82
+
+FOR‘OFFNJAI.USE1DNLY
+which are caulked in the wall of the housing. A potentiometer of type K8?
+is used as the recording instrument. The chamber is filled with helium from
+a tank through a gas reducer and cut-off valve.
+
+The order of conducting the tests on the UTG-l installation was as follows:
+the bushings of the bearing to be tested, after being wiped with acetone and
+alcohol, were installed in the working sectiog, the chamber was sealed and
+evacuated to residual pressure of 10 to 10' Pa and was filled with helium
+to a pressure of 0.1 HPa. The chamber was again evacuated but upon reaching
+
+a pressure of 10"2 Pa the chamber housing was heated to a temperature of 150-
+200°C, it was held at this temperature for 1.5-2 hours, the chamber was filled
+
+with helium to a pressure of 0.1-0.2 MPa and was purged with helium three
+times.
+
+    
+ 
+   
+ 
+
+    
+  
+
+\\ \\\\\\V
+
+  
+  
+   
+
+ON
+
+   
+
+aim
+
+j§Z?MM“”
+
+Figure 2. Sliding Bearing.
+
+This operation was repeated no fewer than two times. The required helium
+pressure and temperature in the chamber were established after the last fill-
+ing and the installation was ready to conduct the tests. The temperature and
+pressure in the chamber and the operating time of the bearing were monitored
+during the testing. The temperature was regulated and was held at a given
+temperature by voltage transformers and millivoltmeter. The helium pressure
+
+in the chamber was monitored by a pressure gauge and was kept constant by means
+of a gas reducer connected to the helium tank. The operating time of the bear-
+ing was recorded by an hour-meter, connected to the electric drive circuit of
+the installation.
+
+Experimental radial-thrust sliding bearings consisting of two bushings (Fig-
+ure 2) were manufactured to conduct the service life tests. The inner bush-
+ing 1 was made of molybdenum with H-BOl-l coating and the outer bushing 2 was
+made of molybdenum with M-801 coating. This design of the friction assembly
+ensures high stability of the radial clearance of the bearing elements over a
+wide temperature range. The service life tests provided evaluation of the
+effect of the thickness of solid lubricant layers on the durability of the
+
+bearing. A bearing with thickness of coatings approximately 30 microns
+(M-Boz-l) and approximately 20 microns (H-BOl) were initially tested.
+
+The efficiency criterion of the bearing was the time until total wear of the
+coatings. After 5,000 hours of operation (which corresponds to a friction
+path of 7,500 km), the thickness of the sulfide layers of the end surfaces of
+the bearing bushings was measured on a profilograph-profilometer, for which
+scratches were made with a needle to the entire depth of the coating (Table 4).
+It turned out that the thickness of the remaining layer of the coating of the
+
+83
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Test Conditions
+
+Surrounding medium Highly pure heliun
+' (TU-Sl-689-75)
+Medium
+pressure, HPa 0.14
+temperature, °c 300
+Load on hearing, N:
+axial P 400
+radial Q 100
+Rotational speed, rpn 200
+Table 4
+Thickness of CoatingI microns
+Combination of masher of Friction th k”
+Materials Bearing 0_ 7 , 500 10‘ 500
+Outer bushing M-SOl 20 lo 0
+1
+Inner bushing H-802—l 30 5 0
+Outer bushing 14-801 65 40 25
+2
+Inner bushing H—802-l 40 35 25
+
+outer bushing comprises approximately 10 microns (with initial thickness of
+approximately 20 microns), While that of the inner bushing comprises approxi-
+mately 5 microns (with initial thickness of approximately 30 microns). The
+tests were then continued and the total time to canplete wear of the coatings
+comprised 7,080 hours (10,620 kn). since the life of the tested bearing was
+less than the required life (12,000 hour-18,000 km). the thickness of solid
+lubricant layers was increased to 65 microns (bl-801) and 40 microns (M-802-l).
+Running-in over a period of 1,000 hours was carried out under the previously
+adopted conditions and the rotational speed was then increased to 540 rpm.
+The data of measuring the thickness of solid lubricant layers after 2,500
+hours (7,500 km) and 3,250 hours (10,500 km) of operation of the bearing are
+presented in Table 4.
+
+Based on the results, one can suggest that a bearing with total thickness of
+sulfide layers (ll-801 and M-802-1) greater than 100 microns provides the re-
+quired service life.
+
+Thus, the investigations indicate the prospects of MOS; coatings of the dif-
+
+fusion type for the bearings of mechanisms of nuclear power plants with
+helim coolant.
+
+8h
+
+POI! OFFICIAL USE ONLY
+10.
+
+”Status and Prospects for Developent of Investigations on High-Tempera-
+ture Reliun-L‘ooled Reactors in the USSR," Report TS-109/3 at a meeting of
+the Technical Connittee on High-Taperature Helium-Cooled Reactors, in
+'Atomno-vodorodnaya energetika i tekhnologiya" [Atomic-Hydrogen Power
+Engineering and Technology]. No 2, Moscow, Atanizdat, 1979.
+
+Hakarov, Yu. V. and A. A. Silin, "Modern Concepts on the Properties and
+Lubricating Effect of Molybdenum Disulfide,“ in “mochnoye deystViye
+molibdenita pri vozdeystvii radiatsii i drugikh faktorov" [The Lubricating
+Effect of Holybdenite Under the Effect of Radiation and Other Factors),
+Moscow, Atmizdat, 1976.
+
+Lewis, I. a. and R. a. McDaniel, "A Test of Molybdenum Disulfide Lubri-
+cants in Radiation and Vacuum Environments,“ TRANSACTIONS 6 THE ASHE,
+July 1969.
+
+Drozhzhina, M. P., Ye. A. Dukhovskoy, A. T. Yermakov et a1, "Some Results
+of Testing Coatings and Canposite Materials Based on Molybdenum Disulfide
+in a Vacuum at High Temperatures,” in "Treniye i iznashivaniye pri vyso-
+kikh temperaturakh“ [Friction and Hear at High Temperatures], Moscow.
+Nauka, 1973.
+
+Buyalo, A. s.. B. P. Lobashev, Yu. V. Hakarov and s. A. Shepel', "Investi-
+gating the Effect of Counterbody Material on the Efficiency of Diffusion
+Type Molybdenum Disulfide Coatings,” in "Tverdyye masochnyye pokrytiya"
+[Solid Lubricant Coatings], Moscow, Nauka, 1977.
+
+Lobaehev, B. P., “Methods of Producing and the Properties of Solid Lubri-
+cant Coatings Based on Molybdenum Disulfide," in “aaazochnoye deystviye
+molibdenita pri vozdeyetvii radiatsii i drugikh faktorov", Hoscow, Aton-
+izdat. 1976.
+
+Inventor's certificate 602584 (USSR).
+
+Inventor's certificate 594203 (USSR).
+
+“Slovar'-spravochnik po treniyu, iznosu i snake detaley mashin' [Glossary
+on Prication Wear and Lubrication of Machine Parts] , Kiev, Naukova dumka,
+
+1979.
+
+“Treniye, iznashivaniye i smazka. Spravochnik" (Friction, Hear and Lubri-
+
+cation, a Handbook], Book 2, edited by I. V. Kragel'ekiy and V. V. Alisin.
+Moscow, Mashinostroyeniye, 1979.
+
+COPYRIGHT: Irdatel'stvo “Hashinostroyeniye”, "mergcmashinostrcyeniye", 1982
+
+6521
+
+C50 :
+
+8144/1152
+
+85
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.317
+
+ADAPTIVE MEASURING INSTRUMENTS
+
+Kiev SAHONASTRAIVAYUSRCHIYBSYA MIM'NYYB PRIBORY in Russian 1981 (signed
+to press 8 May 81) pp 2. 202-203
+
+[Annotation and table of contents from book "Adaptive Measuring Instruments".
+by Sergey Glebovich Taranov, Institute of Electrodynnics, UkSSR Academy of
+Sciences. Izdatel'stvo "Nauluova dunks". 2350 copies. 20!. pages]
+
+[Text] The book presents the theory and principles of constructing wide-
+band and selective adaptive instnnent maplifiers, and also stabilized sources
+of alternating current. A classification is given for adaptive measuring
+instruments. A method is given for analyzing the stability of adaptive mea-
+suring instruments that are nonlinear, nonautonomous. unsteady automatic con-
+trol systems described by nonlinear differential equations with variable coef-
+ficients. A method of time quantization is proposed for analyzing transient
+processes. The informational characteristics of instruments are defined.
+
+For scientists. engineers and technicians specializing in information-measure-
+ment technology, as well as specialists in development of electronic measuring
+devices. Figures 40. references 195.
+
+Contents , P38e
+Preface 3
+List of abbreviations 5
+
+Chapter 1: Analysis and Classification of Instrulent Amplifiers and
+
+Highly Stable Sources of Alternating Current 7
+l. Particulars of circuits with modulator primary converters 7
+2. Hide-band instrument amplifiers 9
+3. Selective nplifiers of high class of accuracy 28
+lo. Stabilized sources of alternating current 37
+Chapter 2: Theory of Adaptive “ensuring Instruments 49
+l. Peculiarities, classification and generalized block diagrams 69
+2. Generalized equations of dynamics 63
+3. Reducing adaptive measuring instruments with periodic comparison
+to an equivalent model with continuous comparison 68
+lo. Basis for feasibility of analyzing dynamics with respect to envelopes
+of input and Output signals of sections 78
+86
+
+FOII OFFICIAL USE ONLY
+5. Determining boundary of stability region of generalized scheme by
+the method of harmonic linearization
+
+6. Simplified analysis of dynamics of generalized scheme
+
+7. Method of time quantization for analyzing transient processes
+
+8. Statics and information-measurement characteristics
+
+Chapter 3: Adaptive Selective Amplifiers
+
+1. Principles of design and determination of working range
+
+2. Boundaries of region of stable equilibrium
+
+3. Approximate estimate of quality and analysis of transient processes
+
+6. Errors and information-measurement characteristics
+
+chapter A: Stabilized Sources of Alternating Current
+
+1. Principles of design and determination of stabilization coefficients
+
+2. Boundaries of region of stable equilibrium. and quality
+
+3. Errors of stabilized sources with fixed frequency
+
+4. Errors of stabilized sources with variable frequency
+
+Chapter 5: Adaptive Instrument Amplifiers Hith Probe signal
+
+1. Principles of design
+
+2. Boundaries of region of stable equilibrium
+
+3. Errors for schemes with frequency separation of signals and with
+probe signal modulation
+
+4. Errors of one-channel and two-channel circuits with probe signal
+with time separation of signals
+
+References
+
+COPYRIGHT: Izdatel'stvo "Naukova dunks", 1981
+
+6610
+cso: [861/190 ' m")
+
+87
+
+FOR OFFICIAL USE ONLY
+
+88
+
+92
+
+96
+101
+101
+110
+117
+123
+135
+135
+146
+150
+156
+162
+162
+168
+
+176
+
+185
+192

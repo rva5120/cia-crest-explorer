@@ -1,0 +1,3741 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10432
+2 April 1982
+
+Translation
+
+CHEMICAL THERMODYNAMICS OF COMBUSTION
+
+AND EXPLOSION
+
+BY
+
+B.N. Kondrikov
+
+FOREIGN BROADCAST INFORMATION semncs
+
+FOR OFFICIAL USE ONLY
+non
+
+JPRS publications contain information primrily from foreign
+newspapers. periodicals and books. but also froa news agency
+transmissions and broadcasts. Haterials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and uterial enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 11.5. Govarment.
+
+COPYRIGT LAWS AND REGULATIOIB GOVERNING WNBRSHIP 0F
+MTBRIALS REPRODUCED HEREIN REQUIRE TMT DISSEMINATION
+OF THIS PUEICATION BE RESTRICT- FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS 1/10432
+
+2 April 1982
+
+CHEMICAL THERMODYNAHICS OF COMBUSTION
+AND EXPLOSION
+
+Moscow KHIMICHESKAYA TERMODINMIKA GORENIYA I mum in Russian 1980
+pp 1-79
+
+[Book by B. N. Kondrikmv, USSR Jainism-y of Higher and Secondary
+Special Education, Moscow Order of Lenin and Order of the Red Labor
+Banner Institute of Chemical Technology ineni D. I. Mendeleyev]
+
+Annotation......."."....................
+
+Poreword..........................
+
+1.
+2.
+3.
+
+CONTENTS
+
+0 0
+
+Concentration. Stoichiouetric Relationships . . . . . . . . . . .
+
+Functions of State. Some Thermodynamic Relationships . . . . . .
+
+ThquuationofState ....................
+3.1.AnIdealGas......................
+3.2.Realcases.......................
+3.3. Gases at ultrahigh Pressure and Condensed Substances .
+
+Chemical Equilibriuu in the Products of codaustion and Explosion .
+4.1.ModeratePressu'e.........'............
+4.2.HighPressure.......................
+
+Enthalpyofrormation......................
+
+Calculation of the Couposition and met-nodynanic Olaracteristics
+otoonbustionandbtplosionproducts. . . . . . . . . . . . . . .
+6.1. StateaentoftheProbleu. . .. . . . . . . . . . . . . . .
+6.2. Composition and thermodynamic Characteristics of Combustion
+ProductsatbowConstantPressure . . . . . . . . . . . . .
+6.3. Refined Calculation of the thermodynamic Characteristics at
+ConbustionProducts ....................
+6.4. Thermodynamic Characteristics of the Products of a High
+Pressureaxplosion.....................
+6.5. mansion of the Detonation Products of Condensed Substances
+
+Appendix......... .....................
+
+RecorIendedLiterature.........................
+
+[I - USSR
+
+FOR OFFICIAL USE ONLY
+
+0 O O O '1
+O O O I 1
+. . . . 2
+O O O O 6
+O U D I 21
+$ 0 I O 21
+. .. . 25
+O I I O 29
+. .. . 46
+O O O O ‘6
+I I O O 49
+. .. . 53
+. .. . s7
+0 C C I 57
+. .. . so
+. .. . 70
+. .. . 73
+. .. . 7a
+0 O O I 82
+. .. . as
+- H P000]
+FOR OFFICIAL USE ONLY
+
+NATION
+
+This training . .mual examines, on the basis of Soviet and foreign literature, the
+fundamental problems associated with the chemical thermodynamics of eowustion and
+explosion-«nary release, the composition of combustion products and the thermo-
+dynamic characteristics of fuels and the products of their chemical conversion. It
+provides simple methods for calculating thermodynamic variables required for assess-
+ment of the effectiveness of explosion processes, the danger of spontaneous com-
+bustion or explosion and the quantity of toxic products formed by cowustion and
+detonation. Special attention is devoted to the state equation fortbeinitial
+substances and explosion products at high temperature (thusands of degrees--and
+
+ultrahigh pressureuhundreds of thousands of atmospheres).
+
+NEEDED
+
+the principal unique feature of combustion processes--that which predetermines their
+technical applications and the danger of spontaneous fires and explosions-13 the
+release of a significant quantity or energy. Hence follows, in particular, the
+primary significance of the thermodynamic aspects in the study of these processes.
+At present, however, there are no training manuals which might examine the theoreti-
+cal problems ot combustion and explosion thermodynamics and the methods of calcula-
+
+ting the principal thermodynamic variables :rom the standpoint of the requirements
+
+FOR OFFICIAL USE ONLY
+nve~ v.-.~..~- a-.. a..--
+
+of institutions of. higher education specializing in chenical technology. Some books
+dealing with these problems, for example the remnrkable textbook written by Andreyev
+and Belyayev (l) , have long been a bibliographic rarity while others are too voluminous
+
+and difficult or fail to satisry our instruction programs.
+
+The purpose of this training manual is to correct this situation. In addition to
+examining the comonplace thermodynamic relationships and simple calculation methods,
+
+it devotes significant attention to one of the most ilportant problems of the theory
+of explosive transformationwthe state equation for matter at high pressure--tens
+and hundreds of thousands of atmospheres. In the final analysis the objective is
+
+to make it possible for every process engineer to calculate the composition and other
+
+characteristics of the products of chemical reactions occurring at high temperature
+and ultrahigh pressure, something which is now within the means of only a few special-
+ists having access to expensive computer technology (2). Some particular paths of
+solving this problem are already known, and they are described in this book. He will
+probably not have to wait long at all for someone to arrive at a general solution
+similar to that reached for combustion processes at moderate pressure (3,4). Perhaps
+some of the students for whom this guide is intended will themselves be able to take
+
+part in reaching this solution.
+
+1. Concentration. Stoichiometric Relationships
+
+ 
+
+In physics, the principal characteristic describing the concentration of a substance
+in a given point in space is density p (kg/m3). 'lhe reciprocal, V-l/p, is called
+the specific volume. If the substance is an individual chemical compound, the pro-
+duct Viﬂi (ma/mole) is its molar volume. Here. Vi-l/pi is specific volume and M;
+
+is the molecular weight of substance 1: (kg/mole).
+
+NR OFFICIAL USE ONLY
+In chemistry. concentration C is usually given as the nurber of particles (molecules,
+atoms, radicals, ions) per unit volume (l/m3, moles/m3, moles/liter). There are
+
+other ways of expressing concentration involving simple relationships of p, V and C"
+
+can.
+Proportion of substance in mixture ]; = 0;”;V- 7"
+by weight (kg/kg) ._ _ . .. . ~ﬂ $1.1.) ..
+Molar proportion (molesi/mole) 4m“ c? ' k: (1.2.)
+Proportion by volure (m3i/s ) “L's-‘T’i—I'ﬁka- 'z%% (1.3.)
+umber of moles of the substance n. "0 V 13 (I...)
+per kg of mixture (molesilkg) ‘ ' o' ' ”i
+
+Here, M- 1/£(g11/M1;)=p/801; is the mean molecular weight of the mixture (kg/mole).
+Symbol )2 means mation in relation to all or the couponents of the mixture, or
+in relation to a certain group or the components, for example just the gaseous pro-
+
+ducts. mus when we compute the couposition of combustion products we use
+
+z N. (105)
+
+”a '9'“ z.
+
+where emanation is performed only in relation to the gaseous comments of the
+
+mixture.
+
+If when the components are mixed together they do not interact in such a way to
+
+cause a change in volume, then
+
+“595*. . 5"‘2441’4 ;J,.--a-~v.'- 9,;7"— (1.6.)
+
+ 
+
+ 
+
+*A convenient way to check the correctness of tormlas (Ln-(1.4), or formlas
+similar to them, is to consider the units of measurement pertaining to a given
+component of a mixture of substances. Pollowing reductions, the units of measure-
+ment must be in the right combination. Pb: exasple for fonaula (1.1), [gt] “mi/kg-
+= WiciV] akg;.moles{.m3/moles£.m3.kg. It should be considered that in formula
+
+(1.4), _ M"" (3,144 I, It stands to reason that following such verification, the
+2‘ m” ' Tn" ‘ :1"
+
+units of measurement should be reduced to their conventional form.
+3
+
+FOR OFFICIAL USE ONLY
+Relationships (1.6) are always satisfied for mixtures of ideal gases . It would not be
+
+difficult to note that the sums 291;, tau; and to“ in relation to all components of
+
+the mixture are equal to unity. obviously g and a may also be expressed as percents.
+
+When we use the theory of combustion and explosion to solve thermochemical problems,
+first we usually determine the elementary (elemental) oomosition of the mixture.
+
+In this case the concentration of element '33 is deteuined in moles/kg by the formula:
+”if Z 9i g} '5 ‘71“ (1.7.;
+
+where aj is the number of atone of the given elenent in the molecule of compound j
+(3=C, O, H, N etc., moles/mole). Sta-nation is performed in relation to all compo-
+nents of the mixture. The variable gj/Mj -nj represents the number of moles of the
+given compound per kg of the mixture. 0n calculating the amount of all [symbol
+
+omitted; possibly n3] elements of which the mixture consists, we get the "empirical
+formula" for the mixture:
+
+°n¢°qum3
+the molecular weight of which is 1 kg.
+
+Most systems capable of combustion and explosion contain a fuel and oxygen. The
+
+ratio between these ingredients is an inportant characteristic of the systen. Several
+
+ways of expressing this ratio are commonly employed in engineering.
+
+In the case of secondary explosives, the best suited variable is the oxygen balance
+
+(K6) , expressed as a percent by weight. It is the difference between the quantity of
+oxygen contained in the system and the quantity necessary for oomlete conbustio --
+
+that is. for transformation of all carbon into 002, all hydrogen into H20, all
+
+aluminum into 31203 and so on. If halogens such as chlorine or florine are present
+
+in the system it is believed that they interact with hydrogen to form hydrogen halides.
+
+4
+FOR OFFICIAL USE ONLY
+Ks - -‘,',-‘4{n(o)- [ch * ”if—”l '3":!"'y,]}“‘8)
+
+Coefficient 1.6/3! in this formula is obtained by dividing the molecular weight of
+
+oxygen (0.016 kg/mole) by the molecular weight of system H and multiplying it by
+
+100 so that the result would be a percentage.
+
+The oxygen balance of a mixture is an additive function of the oxygen balances of
+its components. we can easily persuade ourselves of this by suing the products
+90-)“ and applying formula (1.7). The oxygen balance of the mixture would be less
+than zero if there is not enough oxygen in it for couplets oxidation, and greater
+
+than zero if excess oxygen is present. For a system that is “balanced in relation
+
+to oxygen," K6 - 0.
+
+'me coefficient of excess oxidant, ao,'is the ratio of the quantity of oxygen in the
+system and the quantity needed for complete combustion. For the purposes of this
+handbook, in our calculation of so we will consider only the amount of oxygen re-
+maining following combustion of aluminum to A1203 and Mg to Mao, and we will consider
+only carbon and excess hydrogen (following its interaction with halogens--chlorine
+and fluorine) as the combustible substances. The formula for calculating so would
+
+have the form:
+
+,1. ...”.¢9 .213?!” May}
+
+"an; . ’/_a(n. -,;,;;) (1.9.)
+
+When the system is “balanced in relation to oxygen,“ oo-l, when excess oxygen is
+
+present “9”" and when oxygen is lacking ooq,
+
+FOROFFICIALUSEONLY
+The latter is encountered especially frequently in works on cosbustion of gas
+
+mixtures. .
+
+2. Motions of State. Some nelationshi s
+
+the equilibrium state of a closed thermodynamic system in which the effects of
+electric and magnetic fields are ignored, is characterized by five parameters or
+functions of state. These are pressure ”, volume V, temperature T, m energy E
+and entropy S. They are related to each other by a fundamental thermodynamic rela-
+tionship:
+
+a”; ' ”5'73"" (2.1.)
+
+T and P are 'intensive"--that is, they do not depend on the quantity or the substance
+within the system. V. E and S are comonly said to be 'extensive'udirectly propor-
+tional to the quantity of the substance.‘ Bonaver, inasmch as these variables are
+in all three terns 0! equation (2.1). this equation would also be valid if we assme
+V, E and S to be 'intensive"--that is, if we represent them in relation to a mole
+
+or unit mass of the substance. As a rule we will henceforth use the relative values
+
+of V, S and S (in relation to 1 kg of the given substance).
+
+ 
+
+‘It would be easy to memorize that f and Tare “intensive“ variables by using the
+terms “intensive heating“ and “intensive pressure“ (though of course the latter tern
+is sooner political than technical).
+
+FOR OFFIGAL USE ONLY
+Besides equation (2.1), which is lost general in nature, to describe a system we
+usually use another equation of state—the functional relationship between three (or
+(our) of the variables listed above, characterizing the given concrete substance (or
+
+mixture of substances).
+
+To make the calculations simpler we introduce another three tunctions of state:
+
+Bnthalpy ("thermal function”) u . s . pw’ 3; . NS . yap (2,2)
+Gibbs' energy“ 6 u n - 15; d6 u-Sdr o vdp_ (2.5)
+Free energy" i‘ n E - 13; di' u-Sd! :- 9!" (2.4)
+
+Variables E, H, G and P are called the thermodynamic potentials: Under certain condi-
+tions (under which the appropriate potential is a characteristic function) each of.
+
+then determines the naxinum work of the system.
+
+In order to fully define the therlodynanic state of a system, seeming we have the
+equation of state and the four fundamental relationships (2.1-2.4). we must know
+three of the eight parameters listed above: for the sake of detiniteness they would
+best be in combinations which would transform thermodynamic potentials into character-
+istic functions: (B,V,S), (H.P.S), (G,T,P), (F,2'.V). In view of the fact that under
+experimental conditions we .are far from always able to deteruine precisely those
+Emotions which are needed at the given nascent, and also because we lust often deal
+not with the functions themselves but only with their derivatives, nuaerous relation-
+ships were obtained between functions and derivatives in the course of the develop-
+ment of thermodynamics. These relationships now sake up the essence of the mathemati-
+
+cal toundation of this science. Sons of these relationships are given below.
+
+T(Synonyms: free enthalpy, isobaric isothernic potential. isobaric potential.
+“Isochoric-isothernic potential, isochoric potential, Helmholtz energy.
+
+FOR OFFICIAL USE ONLY
+(959-? “(3?)” . (w
+
+Differentiating then once again in relation to another variable (the toner in
+relation to V and the latter in relation to S), equating the obtained nixed second
+derivatives with one another and considering that {3%)-($' ; we get one of
+
+the Maxwell equations
+
+— (3%), (er), .
+
+Performing similar operations with equations (2.2-2.4) we get another six relation-
+ships identical in form to (2.5), and then another three Maxwell equations. These
+equations associate the derivatives of entropy in relation to pressure and volume
+with the derivatives of value and pressure in relation to temperature. We write
+
+then in general (though perhaps soeewhat unusual) torn:
+
+" (mgr v ' 3%); (3;); {5}"; s (2.7.)
+
+In each of these equations there are tour subscripts. which are used in pairsneither
+the upper or the lower ones. Considering the symetry of the subscripts and ot the
+
+variables, equations of form (2.7) are easy to sunrise.
+
+me derivatives (371439.. and (37,3), are easily aeasured experimentally. and
+they are well known for many substances. They are usually given in handbooks as
+
+the following expressions:
+
+FOR OFFICIAL USE ONLY
+/ . .. I
+"an {HE-1,. «isobaric coefficient of expansion (2.8)
+
+h - - g! (2;), --isothernic coefficient of conpressionf (2,9) .
+
+0., .- 7905,. ,.. --isochoric coefficient of pressure (2.10)
+
+For an ideal gas, uP-l/T is the Gay-mesa): lav, 81m l/p is the Boyle-Mariette law
+and yv-l/T is Charles' law. In cases where it is difficult to measure one of the
+
+variables. its value may he obtained fro. the other two by means of the identity:
+
+03' 2!. F731), .- .. 1 (2.1x)-
+
+79'7- ' ’DI’ I I' I,\
+For example ("0p lo’l' I”), . ”1,. H“, _ 0.12)
+
+Differentiating function E(T,V), we get another two partial derivatives:
+
+45. (15M! . (2‘25 ell" (2.15)
+
+The first of then, ( 2%); C, , is the heat capacity of a substance in a constant
+
+volune. 'no understand the meaning of the second, let us examine equation (2.1) at
+
+2' - const :
+
+I I ' , K's/{n
+I (;’-5_ ')T‘ r(:0-Y/)f-/>' 0' P. 71.3.); Iv (/;)V 5I)? (2 1‘)
+
+The derivative (as/W) is substituted in the second relationship by (8782') in
+T V
+
+correspondence with Maxwell's equation (2.7).
+
+ 
+
+*The reciprocal. I' (’3’: [-le )1. 0 K1. , is called the modulus of cubic compression.
+
+Note that the coefficient of cubic compression is three times larger than the
+coefficient of linear conpression,
+
+FLI'5( '42:, /r
+
+This result follows directly from the relationship V313.
+
+9
+
+FOR OFFICIAL USE ONLY
+It follows from equation (2.14) that pressure may be represented as the sum of two
+
+couponents--thermal T(3P/ 31') y and elastic, -( aE/a V) 1'.
+
+At absolute zero the thermal component of pressure disappears, with only the elastic
+component remaining. 111. dependence of elastic pressure (or elastic energy) on
+
+the specific voltne of a substance at f-O'K is called the zero isotherm. According
+to Nernst's theorem (the third law of thermodynamics)at 1-091: entropy is zero-
+that is, it remains constant. Therefore the zero isotherm coincides with the
+
+zero adiabat (isentrope) .
+
+At absolute zero -(3E/3V)T is called the “cold pressure" and represents the elastic
+
+or potential component of the forces of interaction between the particles of which
+
+the substance consists; it depends only on specific volume:
+
+P . I‘ (14.- (I25 #13,”, (ms)
+
+It is presumed that at T>O'l< function P3(V) remains constant. Only the thermal
+
+(kinetic) part of pressure depends on temperature:
+
+P’./>_’o’_7-(;?r. PW) -16.“; r “(s—fr) r.” )0' (2.19)
+
+A certain cold energy E; determined from relationship (2.15) corresponds with cold
+
+pressure--dE£/dV-Px. When we use this equation for the calculations, we usually
+
+read energy from the level of zero oscillations.‘
+
+The thermal or kinetic component of energy is
+o’l', :Jc“ Jé“, . .IE. />,./Vr 0"”‘1 %f('
+
+7At T- 0°K atoms make so-called zero oscillations, with which energy hv/Z repre—
+senting one normal oscillation of frequency v is associated.
+
+pg Jv
+I‘,’/)’ vial?)
+
+10
+
+FOR OPHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Another widely uployed term is
+
+{—44}; = I}. (2.18)
+
+which represents the specific heat of the substance at constant pressure. Given
+
+a constant volume 67. we use the following relationship to convert this value (which
+
+is easily obtained experimentally) to specific heat:
+
+Qu/l', - (“Pu/1’s ,where F:--% :ﬁg)‘ (2.19)
+
+o: .
+4:5; . l,- ’3“) (;"'r";).« ‘ _ 7-6;): {“53 r. , TyJIf/f§r(2.io)
+
+All cofactors in the last expression (2.20) are positive: theretore Cp>Cy always
+
+holds, Masques. For an ideal gas,
+
+CP'CV'R' Pr-I/o. Put/(m.
+
+The values for internal energy, enthalpy, entropy and specific heat for all of the
+basic products of combustion and explosion (obtained by analysis of spectroscopic
+data and other means) are collected tagether in handbooks (3) and (4). Tables of
+combustion product enthalpy and entropy values may be found in handbooks, for
+example in the fundamental handbook (3). Enthalpy values are given for an interval
+between 293.15 and 6,000 °K, with the value at 293.15'R" being 0. Inasuuch as for
+an ideal gas AH-AE+R(T-To) , it is easy to obtain the value for the internal energy
+
+of a gas from these tables.
+
+"rho accuracy of this nulber (30.003 percent) greatly exceeds experimental accuracy
+
+in the theory of combustion and explosion. Usually To is pram-ed equal to 298°x,
+and sometimes even 300°x.
+
+11
+
+FOR OFFICIAL USE ONLY
+a use erases...- a-.. u. one
+
+Figure 1 shows the dependence of enthalpy on teqerature for some substances. It is
+rather couplex in nature, and it is usually expressed analytically by a polynulial
+containing four to six terns. We can see from Figure l, hwever, that this dependence
+
+may be expressed by a sinple {onula in a rather broad interval of telperatures
+(2,000-3.000') x
+
+(a III)‘. : (1H),. {ML/L- fifr- r‘) (2:2!)
+
+Table .1 gives values for £1; and 1". It also shows the temperature interval within
+which formula (2.21) holds. Note that £1: is an approximation of. the solar heat
+capacity of substance 13 in the indicated teaperature interval (09;). The relative
+deviation of ART values from the tabulated data is within 0.5 percent as a rule,
+
+and in any case it is never greater than 1 percent.
+
+:._..._‘4_._
+
+- !— —.———
+L
+
+ 
+
+Figure 1. Dependence of the anthalpy of Sosa Counstion Products on
+on 'nesperature
+
+Key:
+1. AH, kj/mle.
+
+It follows from Table 1 that for mnatonic gases (3,. o, N and gaseous C), in the
+interval free 300 to 3.000'K specific heat OP is equal to 5/2 R (20.8 j/uoleo‘K)”
+that is, it corresponds with the theoretical value (or all three forward degrees
+
+12
+
+FOR OFFICIAL USE ONLY
+Table 1. Dependence of the Bnthalpy of Some Cmbtution and Explosion Products on
+umperature "1-500 - 1:11 - 1), kj/mole.
+
+37 .1
+37 .7
+35“
+
+59.3
+36.0
+
+36.?
+
+35.5
+
+#2.!
+
+61.1
+. 56.9
+
+61;}
+
+55.?
+
+25,?
+
+28.0 sac
+
+  
+
+'1'; does not have physical meaning, and therefore,
+in particular, it may be negative as well.
+
+of freedom (with a consideration for the work of expansion). For diatomic gases in
+the 2,000-4,000'l< interval it is 36P38 j/mole'°l< (about 4.25-4.5 R), which corres-
+ponds approximately to the sum of energies representing the three forward (3/2 R).
+two rotational (2/2 R) and two oscillatory (2/2 R) degrees of freedom of a diatmic
+
+molecule together with the work of expansion (R).*
+
+In cases where there are no tabulated data, especially in relation to complex
+organic molecules at high tenperature, the specific heat, enthalpy and internal
+energy may be obtained by calculation. In this case it is presud that the sum
+
+of forward and rotational contributions to specific heat is maximal (5/2 I? for
+
+'At moderate tmerature (from 90 to 370'! for different substances) the value of
+C'p/R for diatomic gases is close to 3.5 (J‘- . 1...), which corresponds to excitation
+of three forward and three rotational degrees of freedom.
+
+13
+
+POI! OFFIGAL USE ONLY
+linear and 3 R for nonlinear molecules), and that the dependence or specific heat on
+tclperature is defined only by the oscillatory couponent (the contribution of excited
+electrons is ignored). The contribution of valent oscillations is accounted for with
+
+Einstein' 3 {motions
+
+. ‘(07/2r ‘
+‘c‘ ‘ Wimolrr “-23
+
+Shae) -e3-e'3) /2--hyperbolic sine function; uncharacteristic te-peraturee corres-
+
+ponding with characteristic frequencies vi 0: the molecule under examination:
+
+N: am)-
+
+(h and K--Planck's and Boltman's constants, Np-hvogadro's mater). Values for
+function 51: are given in (5). Values of 9i are obtained from analysis of spectro-
+scopic data. tor smile a; = 3.340'1! for nitrogen, 2.230%: for 02 and 6,100'K for H2.
+The number of characteristic frequencies is greater for polyatomic'nolecules. For
+
+example C02 has four—954, 954 [sic], 1,890 and 3,360°x .
+
+An approximate method of calculating the specific heat or polyatomic molecules makes
+use of just two characteristic frequencies for each chencal bond, “11(1) and ”13(2)-
+
+The formula used for the calculations has the torn:
+
+l’y/Iu -- 4 via-07 Bgd“), . (2.23)
+
+where A -5/2 for linear and 6/2 for nonlinear nolecules; B- (3a-5-b)/_b for linear
+
+and (3a-6-b)/b for nonlinear eoleculesx annulber of atoms; bununber of chemical
+
+bonds in the molecule: £11“) and E£(Z)--Binstein's functions for characteristic
+
+temperatures 012“, and 95‘”.
+14
+
+POI! OFFICIAL LEE ONLY
+Table 2 gives ‘..ne characteristic tenperatures 61:“) and 01“,“) for frequently en-
+countered chenical bonds. The dependence of the specific heat of some substances
+
+on tearcrature, calculated by formula (2.23), is shown in Figure 2.
+
+Table 2. Characteristic Matures of Chemical Bonds
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+c -“ mm
+- H(£§I£n§t¢¢§
+
+c .c Pu) -
+c :c . m
+C - B (4) _ _ we
+0 - 0 ( I CO) ' 1290
+1... -
+c I 0 m
+50 - I 719
+C 1 I 172‘
+C - C! -
+’J -F 9‘9
+.2 - It 935
+'6 - J [535
+1|! - I! (a “2) 575
+H - 0
+
+d - 91 (I 301)
+
+Ill - I: (I 331)
+
+Key:
+1. Bond 3. Armatic series
+2. Aliphatic series 4. In
+
+Integrating (2.23), we can find intrinsic energy.
+
+AT + 230%: —d?/T. 4) + 5:0?(3/1 0" (m)
+
+15
+
+FOROWIGALUSBONLY
+m 700 mm
+T. K
+
+Figure 2. Dependence of Specific ﬂoat on “stature: 1~aethanol.
+2-toluol, Junethylnitrate, danitroglycol, 5--nitrouethane,
+6-chlorofora, 7-cc14, 8--broeotore
+
+1. 3793“!
+
+The enthalpy of an ideal gas is Rm-Em+RT.
+
+The specific heats (and entropic.) of many organic coapounds are given in (6) for a
+
+broad interval of teuperatures.
+
+Calculations using formulas (2.23) do not account for interaction between molecules,
+and i'cr condensed substances they usually understate the value of 01/. If an experi-
+mental value is available for Cy at temperature To, the following for-ale can be
+
+used to determine the dependence of CV on tenperature as a certain approximation:
+
+9v(r_) e) (77,, 7rr(7;’:,’ [-17.7144] (2‘2” 7'
+
+Isentropic compressibility 85 (see formula (2.19)) is used to calculate the volunetric
+
+speed of sound
+
+cf {wean-rm- 1/0»?
+
+16
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The speed of sound in an ideal gas is
+
+a-W-m‘r“ ' M
+
+The velocity of longitudinal waves in an organic liquid, also determined by equation
+
+(2.26), may be calculated using Rao's rule:
+.a-(‘Pi‘hmﬁ- w. «a»
+
+where pondensity of the liquid, kg/m3) units molecular weight. kglnole: Zinnunber
+
+of chemical bonds of the given torn; B£---oontributions or these bonds:
+
+c." 95.: cu 20.7' I-u 90.7
+c-c us c-c x29 c-l02102.5
+0-0 as c-o m 0-I02360
+c-o «.5 0-3 as I-IQJSO
+(ether)
+
+me speed of sound (of longitudinal waves) in solid organic substances having the
+density of crystals may also be estimated by fornula (2.28) in the absence of experi-
+
+mental data. *
+
+when we use the speed of sound, we can suppleaent relationship (2.20) by yet another:
+
+0
+4-74—77“ 74,0. :, on
+
+'It should be mastered in this case that waves propagating in isotropic solids may
+be both longitudinal (coapressive strain) and transverse (shear strain). 'lhe speed
+of soundinathinplateandinathinrodditters tronthespeedof soundina
+boundless nediun and from the velocity of surface waves. The calculation formulas
+may be found in handbooks (see for exasple (7)). Batinates say be arrived at very
+conveniently with the formula 0-": 79, where £--Young's modulus and pudensity of
+the 80116- This 18 the speed of sound in a thin rod, close to the longitudinal speed
+of sound in a boundless neditn.
+Here, 0p in the denominator is the specific heat (inasmuch as the square of the
+
+speed of sound has the units of specific energy).
+
+Table 3 gives the values of 0p, Cy, up and Co for a number of substances.
+
+Table 3. Density. Specific Heat, Ooetticient o: hem]. Expansion and the Speed
+of Sound for Some Organic Substances
+
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+   
+
+(7) (55m {mo
+town (8) ‘
+rue-ml (9)
+he (10)
+nispeumpu (11 1.60
+lapel-mo» (12) I.”
+louse-spa! (13) 1.21
+“repose!" (14)
+
+Innocent» (15) 3,2171
+Touoa (16) 0.867
+luau (l1) , 0.19!
+11090.09! (1.8)10W9
+
+«an mow: 1.59.
+s "Eiop. (2315312389
+
+"rho value of 0p tor nitroglyool is named to be the same
+
+as for nitroglycerin; formula (2.23) for an ideal gas
+produces close values for these two substancee.
+
+   
+ 
+ 
+
+ 
+
+Key:
+1. Substance ll. nitroglycerin
+2 . gun/cm3 12 . Nitroglyool
+3. kj/kg' ’K 13. Methylnitrate
+4. II/sec 14. Nitrouthane
+5. From formula (2.17) 15. Nitrobenzene
+6. Experimental 16. moluol
+7. Trotyl 17. ”ethanol
+8. Tetryl 18. chloroform
+9. Hexogen 19. Carbon tetrachloride
+lo. PBTN 20. Bromtom
+
+18
+
+POI! OFFICIAL USE ONLY
+In addition to (2.1), we use equations (2.13) and (2.14) to write thesequalitiee.
+
+Integrating (2.30). we get:
+
+3'3" f $243351» (2.10
+
+The dependence of specific heat CV on temperature is obtained experimentally, or
+
+it is found from fomla (2.23). the derivative
+
+{vﬁﬂ ”Hub/h 0"”
+
+The entropy of an ideal gas (or ﬁxture of gases) may be calculated using equation
+
+(2.2):
+
+«1-9- 1‘ "9" ' gg‘ég-Mfa-m
+
+31-3,; . [Zn/e. nefuem (2.9;
+
+or
+
+In an isobaric process,
+
+, g-:,;-{'t',J&r (no
+It follows from relationships (2.30-9.36) that when adiabatic expansion of a gas
+occurs, pressure may be calculated if we know the' entropy of the gas at atmspberlc
+pressure and at a tenperature corresponding to the given degree of isentropic ex-
+
+pansion :
+
+[n (:4) - -)‘-;:‘(S; ‘ 3;, (2.3?)
+
+89 is the entropy of an ideal gas at the given temperature, and pressure P0 -105 Pa
+is called the standard entropy. It follows Ira (237) that change in entropy in
+
+an isobaric process may serve as a measure of pressure change in an adiabatic
+process.
+At No. Cpsconst. in an adiabatic ieentroplc process,
+
+a 3'0le - -c, Mme) 'or an" - -.(t/‘Ir..)‘-’p/§
+
+Considering that Cp= yR/ (Y-l) and P-EP/V, we can write
+
+. i .
+m. - mm“ 9- (ts/V _)’ (23a)
+‘no couplets our list of basic thermodynamic relationships, we need one more function
+
+of state that is often used in calculations associated with ooubustion processes--
+
+the reduced thermodynamic potential:
+
+I
+(1)“. v'-. Ill-Ill
+. I “r r
+
+(2.59)
+
+As with entropy, the reduced thereodynanic potential is characterised by the fact
+
+that it converts to zero at absolute zero for most substances.
+
+3. The Etion of State
+
+3.1. An Ideal Gas
+
+Before writing the equation of state for an ideal gas--one of the fundamental laws
+of nature*--we will examine partial gas laws from which it was obtained. These
+laws were obtained as a result or physical measurements made over a period or
+about two centuries, and as we know, they are of interest on their own. We will
+adhere not to the chronological but to the logical sequence of presentation and
+
+to the connonly accepted modern terminology.
+
+l. Delton's law (John Dalton, 1766-1844): The pressure of a mixture or several
+nonreacting gases is equal to the sun of the partial pressures of each of these
+
+gases.
+
+'It would be interesting to note that despite the fact that this law is so funda-
+mental, the equation of state for an ideal gas is purely approxilate. tron this
+standpoint this is a typically technical or technological law. Incidentally it
+does enjoy broad use in engineering.
+
+ 
+
+21
+
+roe omcw. use ONLY
+2. Law of multiple proportions (Prout, 1799; Dalton. 1808): Voluees of gases
+
+entering into a reaction relate to one another as enall whole nubers.
+
+3. Avogadro's law (Anadeo Avogadro, 17791856): Equal values of gases at the
+
+sane temperature and pressure contain the sane umber of molecules (at given P and 1',
+
+the nolar volunes of all gases are equal).
+
+4. The Boyle-Mariotte lav (Doyle, 1662; Hariotte, 1616): At constant temperature.
+the pressure of a certain ms of gas is inversely proportional to the value or the
+
+gas.
+
+5. The Gay-meal: lav (Joseph Louis Gay-basalt, 1778-1850): At constant pressure,
+
+the volume of a gas is proportional to its absolute telperature.
+
+6. Charley law (1787): At constant volune, pressure is directly proportional to
+the absolute teeperature or a gas (a different interpretation is: ‘me pressure of
+a certain mass of gas, when heated 1°C at constant volume, increases by 1/2736 of
+
+the pressure at 0°C).
+
+Let us write laws (4), (5) and (6) for 1 mole of a gas:
+
+(as) at 1‘ .. (and ,0- (”I/n
+(5’ at P e (ll/I.“ ”4' Mi; 7
+(a) at Kd‘mst J; . “(1.7
+
+where Vr-nolar volume, 0.1. oz -a3--constants.
+
+Note that inanuch as at given pressure and tenperature, according to Avogadro's
+
+law (3) the molar volume of. all gases would be the sane and constants 01,
+
+a2 and «3 would be exactly the sane for all gases.
+Let us obtain the appropriate partial derivatives from relationships (ID-(6) :
+
+. I) )
+- ~ u . .... (.-._—- l _J . ('24)
+(I’VAT m); _._ z .1.— (3".)
+
+He immediately see that these derivatives form a general thermodynamic identity:
+””- /(-”'-”/ (21-3 2=
+HOV” [3 ’ "
+
+But this asans that the pressure, molar volume and temerature or a gas are asso-
+
+ciated with each other by a single functional dependence canon to all gases:
+
+HP/m’.)‘0_ or /"/"‘I"‘I.’) (3.2.)
+
+m form of this dependence is easily found by differentiating (3.2) :
+
+“ll“.(gy 3%” ('22: ./I_._/’J;,, . 1’ /r
+
+and integrating the resulting expression:
+
+{”1" a -&;V vanlol‘wn!‘ or P;1/T’ls’”$l' A)" (5.5. )
+
+'mus we arrive at the famous Clapeyron law-the equation of state of an ideal gas.
+
+Constant R0 may be obtained experimentally; it is the sane for all gases.
+
+R0 - 8. 315 Pa °I|3/ (Isole- °K) - 8. 315 j/(llole' ‘10 - l. 987 cal/nole- °x. Substituting the
+
+molar volume by specific volume, we get
+
+PY'R’ (3050‘)
+
+23
+
+FOIOFFICIALUSEONLY
+where R=Ro/M--specific gas constant (different for different gases): M--nolecu1ar
+
+weight of the gas.
+If V0 is the volume of the vessel and M is thems’of the gas within it, then
+
+VM-KM/m and N - ~31 127'
+
+(5.3.0)
+This is the clapeyron-Hendeleev lav.
+Inasmuch as l/Vuac is the concentration of a gas,
+I') c ('K,’ ‘}.,c)
+or for a mixture of gases,
+,1‘ . ('. 4),] (Sohﬂ
+
+where 1’1; is the partial pressure of the gas.
+
+In accordance with Dalton's law P-tPi, since 0- 201; (the total nutter of molecules
+
+in a given voltne is equal to the su: of the numbers of molecules in the different
+
+gases). Other relationships for partial pressure are:
+
+»« «up - 4..» - (ma-w
+
+Partial pressures enter directly into the expression for the eguilibriun constants
+
+of an ideal gas:
+
+’I’“ e ‘- ﬁ/n"; ‘t A.‘ ("5"
+
+Here II--multiplication symbol: v1; and vJ-stoichionetric coefficients of corres-
+
+pondingly the reaction products (the right side of the reaction equation) and the
+FOR OFFICIAL USE ONLY
+
+initial substances; wrandMR'uchange in Gibbs' ‘iergy and in the reduced thermo-
+
+dynamic potential as a result of the reaction:
+
+be." ﬁll.“ Jill‘r‘sr
+
+3.2. Real Gases
+3.2.1. Noble's and Abel's Eden
+
+When the temperature of conbustion products is high (1,000.): and above) the equation
+
+for an ideal gas may be used with relatively mll error (up to 2 percent) at
+
+pressures up to several hundred atmospheres.
+
+At higher pressure (up to several thousand atmospheres) us use a sisplified
+
+van der Heal: equation':
+
+where V--specific volume of codaustion products at pressure P and tuperature T;
+Vr-so-called covolue, which accounts for the volume of the molecules themselves
+in gaseous products (VK is about four tines as large as the total volume of gas
+molecules) and, in the case of gaseous suspensions, the value of the condensed
+substance. Vx is expressed in cubic asters per kilogram of explosion products.
+If a; is the proportional weight of condensed product 1'. and V0 is the specific
+
+volume of gases under normal conditions, than
+
+V: .. MIMI Vo . 9' y. Vi (3.7.)
+
+ 
+
+We should note the fact that the first to discover and explain. the difference in
+
+behavior of real and ideal gases was a. v. New: this is sometimes called
+Iowaosov's equation (8).
+
+25
+
+FOR OFFICIAL USE ONLY
+The following terms are introduced for the internal ballistics of gunbarrel systems
+
+(in relation to which we mainly emloy equation (3.6)):
+
+UE-Lh uvua
+
+Tr-temperature generated by ooabustion of powder in an enclosed space in adiabatic
+conditions. The variable f", which is expressed in the units of specific energy.‘
+
+is called the ”powder power,“ and variable A is referred to as the "loading density.‘
+
+Equation (3.6) takes the form:
+
+- 2.! _. '
+l" ' ,-_ I'. 4 (3.3.)
+
+Formula (3.8) , which was obtained experilentally at the end of the last century,
+
+is called the Noble-Abel equation (eonstines Abel's equation).
+
+IE gas pressure is greater than several thousand atmospheres the dependence of
+covolune on pressure must be considered. Assuming that covolt-e is a function of
+just specific volume alone at high tesperamre, M. Cook obtained a single dependence.
+VKW) , for the explosion products of 14 explosives in an interval or V values tron
+0.2 to 1.4 m3/9u (a specific volume of 0.2-0.4 cn3/g—that is, a density of 5-2.5
+gm/cn3--oorresponds to the explosion products of lead aside, mercury fulninate and
+mixtures of trotyl with a large quantity of lead nitrate). The dependence VKW)
+
+can be expressed approximately by the following tormla (Johaneon and Person, 1970) 2
+
+-rVV
+
+V‘ -.- We (3.9.)
+
+’At constant heat capacity fn' (y-l)B’, where y-Cp/Cy: 8--specific intrinsic energy
+of the gas.
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+There are two constants in this formula that are expressed in units of specific
+
+volume:
+on I 1.0 «Ia/gs and V0 - 0.4 clam-
+3.2.2. mum of State With Virial coefficients
+
+If we write equation (3.6) in the form
+
+.m‘. _.'-I.... 13-4.--- 1"..93‘
+A’l' Luz/r / 1’! Hr ”V '(y/"WN
+
+(we use the expansion (l-aw)‘I Ill-n»... at x<<l to obtain the latter equality).
+
+rue
+it is easy to see that relationship between the Noble-Abel equation and an equation
+
+of state for a gas containing virial coefficients:
+
+IV A. 13
+FF- 4 v? r —-§4..., (5.11.)
+
+obtained on the basis of Boltznan's virial theore- (the theorem on expansion of
+
+the function of state into a series in relation to stall powers of density).
+
+Here, 8;, 82. etc. are the second, third and subsequent virial coefficients depending
+on temperature and not depending on pressure. The second virial coefficient in the
+model of rigid spherical molecules is equal to the oovolt-e (that is, it is four
+times larger than the voiuue of the nolecules themselves), and the third and fourth
+
+virial coefficients are proportional to the corresponding powers of the second:
+
+.P—Vim) - n 6‘ M25-é-‘Iaa97ﬁ‘ (205 Sin. 12.)
+
+The second virial coefficient in this equation, 52. is obtained by sunning the 0°"-
+
+tributions made to its magnitude by gaseous explosion products:
+
+27
+
+MOMCIALIJSEONLY
+Table 4. Second Virial Coefficients for Gaseous Substances, 821;. aha/9n, at 3.500%:
+
+:r-m. com» oTcu no
+15.:¢_- an 5mm hi 50.5 31.0 '.9
+
+In!
+3.2.3. The Becker-list Wilson tion
+
+ 
+     
+
+ 
+
+Substituting Bz/V-X in equation (3.11), we get (ignoring all but the first three
+terns of the polynomial)
+. P".
+
+.01}?! _ ', , 1/4,.15’0: I» Xe 13.1).)
+
+Here 6 ' -Bg/B§; the latter equality is obtained by using the expansion 83'131-0-8'X.
+
+when we use the potential for interaction between molecules in the torn
+
+the second virial coefficient say be expressed in the form
+
+‘3 ‘K7 '5/I’J
+
+where K is proportional to the covolune and represents the sun of the products of
+the corresponding values of each of the gaseous explosion products times their
+molar proportions in the mixture. In order to keep pressure increasing to infinity
+
+as the tenerature tends toward zero and keep (SP/310;: positive, constant 1" had
+
+to be added within the range of specitic voluses of interest to us. The expression
+for X is found to contain three constants, the selection of which must be made
+with a consideration for experimental data (the fourth constant contained in
+
+equation (3.13) is B 'x
+28
+
+FOR OFFICIAL USE ONLY
+X .. _ 51-..--. .7 .1 ‘1”_In.'5o‘
+VI7 1 7)“! V ”-17:74, (3.1M)
+
+Equation (3.13) with paraneter X , given in torn (3.14), is called the becker-
+Kistyakovskiy-wilson (an!) equation. It is broadly enployed in the USA (2) to
+calculate the detonation characteristics of explosives. Good results were obtained
+
+for trotyl and hexogen using the constants shown in Table 5.
+
+Table 5. Constants in the m Equation of State Used to Calculate Detonation
+Characteristics of Trotyl and nesogen
+
+ 
+ 
+ 
+ 
+
+EL- "it?! £992- 0 ' "
+2113098" 0,l_6__ _19,gl__ 5° 100
+
+3.3. Gases at Ultrahiﬁ Pressure and Condensed Substances
+
+One shortcoming of all of the forms of the equation of state given above is that
+they do not contain the cold and elastic components of pressure and intrinsic
+energy. In all cases except (3.13), at T-O pressure becomes zero independently
+of Vcnthe specific volume or the substance. But the theory of the structure of
+matter indicates that at absolute zero, pressure and intrinsic energy are functions
+
+of volume, and when the latter changes (especially when it decreases) they change
+
+a very great deal.
+
+'me general fora c: an equation of state taking account of this circumstance was
+
+given earlier as relationships (216) and (217):
+
+P‘Pa’ﬁ andf-E‘ifr
+
+29
+
+FOR OFT-10A]. USE ONLY
+eves vases—u... you v..--
+
+where PX and Br-potential and elastic or 'cold" ments of pressure and intrin-
+sic energy, associated by the relationship ‘JE ,AJV- (’E/i’yﬁi-IB; PT and Er-
+thermal (that is. depending on temerature) cosponents of pressure and intrinsic
+
+energy.
+
+The dependence of the elastic energy of a solid on specific volume (Figure 3) has
+qualitatively the same form as the curves describing the dependence of the energy
+
+of interaction of two atoms in a molecule on the distance between them. he depen-
+
+dence of elastic pressure on specific volt-e is also shown in Figure 3.
+
+The value for specific volume at T-O'x, VO'KI corresponds to mechanical eguilibriu.
+Cold pressure at this point would be equal to aero.‘ The forces of attraction and
+
+repulsion balance each other out. Elastic energy is niniml in this case.
+
+when a substance is heated, it undergoes thermal expansion: Thermal pressure,
+
+which is always assmed to be positive, arises. Elastic pressure becomes negative
+
+in this case: It compensates for the action of the stretching forces that increase
+
+specific volme. In terms of absolute value,
+
+I. '1' "HI.
+
+Negative pressure can be estimated from the heat of sublimation of the substance.
+By definition, the area beneath the curve representing cold expansion of a solid
+
+between zero volts-e and infinity is equal to the energy of sublimation:
+
+*He ignore external (atmospheric) pressure when examining condensed substances.
+
+30
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Assming that bonding forces diminish signiﬁcantly as the interatonic distance
+
+doubles (that is, when AVBlOVoox), we get
+
+|Puu¢l'"Es/”VM
+
+to: iron: B's-94 keel/lole-7.O°105 j/kg
+Pot alminu: 55-55 whole-3.5406 j/kg
+
+This means that for iron and alminu, [PM] is, respectively, ~601¢9 and
+
+=2.5-1o-9 Pa (that'is, 600103 and 25.103 stat).
+
+The forces of repulsion. which increase dramatically as atass cone closer together,
+play the main role in relation to compression. Therefore when Wilcox. pressure
+and energy increase quickly. When the specific voluns or iron is decreased by a
+tactor of 1.5, elastic energy Ex increases by 2.4-106 j/kg while elastic pressure
+
+attains 1.33-101l Pa.
+
+3.3.1. Me's Thong
+
+The derivation of the equation of state or a condensed substance (9) is based on
+
+the following premises.
+
+If tenperature is not too high the atom: of a solid are locked within cells torned
+by their closest neighbors, and they make har-onic oscillations relative to their
+equilibrium positions. Exit tron such a cell would require surnounting a potential
+barrier equal in order of magnitude to the substance's energy of evaporation or
+sublimation. For many substances this energy corresponds to an increase in taper-
+ature on the order of several thousand degmes. lhen coapressicn occurs, the
+
+height of the potential barrier grove intensively as a result of growth in
+
+31
+
+MWMONLY
+Ives van-van. v-.. —.-~-
+
+repulsive forces, and it becomes even harder for the atoms to leave their cells.
+In this case the properties of a liquid begin to approxi-ate those of a solid.
+Thus atoms continue to make harmonic oscillations over a broad interval of pressures
+
+and teuparatures .
+
+In an elastic solid, three independent oscillation directions exist in relation
+to each wave--one longitudinal and two transverse. hum that an isotropic
+elastic nediu is contained within a rectangular box with sides a1, a2, a; in line
+with coordinate axes .21, :2, :3. men those stationary waves propagating along
+axis 12,; for which halt the wavelength is a whole multiple of. a (V2 Iraq/11;, or
+Z/A-Zi/ai, where 1.1: is a whole nulber) correspond to box dimension at. The
+
+general limitation for waves traveling in an arbitrary direction is
+
+12 n)‘. (I, lit)” (Ii/0.)" {4/0,}.
+
+Ibr a given type of oscillations (longitudinal for example) the amber of possible
+wavelengths greater than 10 would be equal to the newer of positive whole numbers
+
+11, 12, 13 satisfying the condition:
+(-51)“ (-55)" (-§:,)'« (32’.
+
+that is. it is equal to the quantity of integral points within an ellipsoid:
+. 2
+(arm rm
+a I
+
+the coordinates 11; of which are positive whole numbers and the seniaxis of which
+
+is b; -2 ai/Ao. The value of such an ellipsoid is gablbzba. I: we divide the
+ellipsoid in Cartesian coordinates by planes 3:122, 31:3 and spa we get eight
+
+octants, the volume of each of which is (n/6)b1b2b3. One of these octants
+
+32
+
+FOR omen. [SE ONLY
+corresponds to positive values of b; (the one located in space (11,12,13D0).
+
+The nutter of possible wavelengths greater than 10 is
+
+where V is the voltne of the box. thus the nunber of stationery longitudinal
+
+waves is directly proportional the volune of the box V-alazag. The velocity of
+
+a wave in an isotropic medium does not depend on direction, and when Ao<<(al,a2.ag).
+it does not depend on wavelength either. ‘rhe relationship between the velocity of
+a longitudinal wave on one hand and frequency v and length A on the other has the
+conventional form C; I Av (a quantity v of waves with length A would fit within
+
+01,). The nutter of possible frequencies less than my in this case would be
+
+3
+.41. J..-
+5 . Q‘K
+
+similarly if the velocity of all transverse waves is 0:, then considering the
+existence of two independent transverse oscillations, we find that the total number
+
+of frequencies less than vo is
+
+1:...»1. 3z. 4 . LIN .
+J v" V '2 J as V (T
+
+-l
+where .3 ' . J ("r v 2%,) --average velocity of waves for oscillations of all
+s‘ -‘ .
+
+types.
+
+Differentiating expression (3.15), we get the nuber of simple oscillations with
+
+frequencies in the interval between v and v+dv:
+
+£1! )UV - (LWJ
+
+L"
+
+33
+
+FOR OFFICIAL [BE ONLY
+Let us interpret each such oscillation as one of a harmonic oscillator, the zero
+
+energy of which is adopted as the energy of its lowest quanta state. The oscilla-
+
+tory statistical sun of such an oscillator would be
+
+' WWII-I
+I.“ (M )
+
+(LWJ
+The sun total in relation to the states of all oscillators, 742'), is the derivative
+
+of a function having the for- (3.l7), the powers of which are determined from (3.16):
+
+. . .- - (591911;)
+0
+HI) .. Il,"(I-u ‘ ”D c. (5.13.)
+
+Expressing (3.18) as a logarithn and correspondingly substituting the product by a
+
+sun and the sun by an integral, we get
+
+' 1 , u/rr
+. 2 V ‘
+(u Ill)- .- "ﬁr/"WW" )J') (5.13.)
+
+we integrate in (3.19) in relation to all stationary frequencies ha: 0 to v0 (in
+
+conpliance with Debye's theory we assuns that there are no frequencies higher than
+vo).
+
+A real solid consisting of H material points may have not more than 3!! oscillation
+
+frequencies. Basing ourselves on this condition, we can esti-ate v0. We find from
+
+(3.15)
+
+41"}? ' J l “'0'
+.. .35-. .. 3’ or I), -" 7‘ Ti" 0.20.)
+
+34
+
+FOR OFFICIAL USE ONLY
+This frequency is characteristic of the given elastic medium. It is called the
+Debye trequency, and it depends on the nmer of particles per unit volune and on
+the mean velocity or elastic waves. amputations show that at vsvo the wavelength
+
+corresponds to several thousand elusntary cells, and consequently interpretation or
+
+the medium as an elastic continuu- is fully valid.
+Let us introduce Debye's temperature:
+
+(/3
+. J,
+9’... Q”. . ARC "£17 (3.21.). .
+
+The oscillatory am (3.19) takes the torn:
+
+_ ,Ir _
+mung/ﬂy; 99-17.-91(5j/'{z(4.o3ub,22,,
+
+where 'l “ r’/ V. and I nky’ﬁ’g‘qur are integration variables.
+
+Statistical physics provide: this expression for free energy, HT):
+
+F U)- -IT&. 1 (T) (3.23.)
+
+Ignoring the contribution made by free and bound electrons and the orientation of
+
+nuclear spins, we get the following for the free energy or an elastic solid:
+
+I , f;
+r. [nitd'gilT/I‘b' "e I 9J2 (’o?~e)
+O
+
+1.4.1“; is the contribution made by the potential energy of atoms in zero oscilla-
+
+tion state at T-o'x. Using (3.16), (3.20) and (3.21) we find the contribution made
+
+by the energy of zero oscillations:
+35
+
+FOR OFFICIAL USE ONLY
+.4. h I.
+g.,.,_.1~!f/fly.; U." -”m:- 91(1), (5.25.)
+
+Por many solids, energy Fax is small in comarison with crystal bond energy. It
+plays a noticeable role in molecular crystals, and it is so great for heliun that
+
+at normal pressure, even at T=O', helim renains liquid.
+
+It follows from the thermodynamic identity (2.4) that
+
+we!) .. a 21‘”) '0.‘ (3.2..
+,.
+
+f -" ' ( .r' "iii", .' f" 3/}.
+
+Keeping in mind that Eu, EH“, v0, v and consequently n do not depend on telpera-
+
+ture. we find from (3.24) that
+
+o ‘5) 4'! ' '
+. f 9 J! .. ’1” -_
+, - r, J3 5"; m! 77'3"».‘(11—40". 941305,
+'. , o . .
+or f'a‘. "ml!" c. "WI-«IT.- (IX-K.) (3.2"!
+where I ."’ - J: n (0, Ir) (m;
+
+is the comonent of intrinsic energy contributed by thermal oscillations of particles
+
+at the junctions of the crystalline lattice.
+
+' c) fr .
+w, _- i" "(1.1!
+I I),.I
+
+is Debye's function (see (5)).
+
+At low (Op/1'>>l) and high (Op/T<<l) temperatures expression (3.29) is integrated
+analytically. At low temperature Debye's function DIM/00W. At high (GD/Rd):
+
+0-1. In the intervening temperature interval (3.29) can be integrated numerically.
+
+We calculate pressure using (3.24) in correspondence with the second expression
+
+of (3.26):
+36
+
+FOR OFFICIAL USE ONLY
+or
+
+where
+
+.._ n .- __'90€g _ ml". (3.31)
+1 . {J '12:..- an.
+' is Gryunayzen's parameter, a dinensionless variable depending on volune and (in the
+
+approximation under examination here) not depending on teqerature.
+
+Formula (3. 30) or the Hi-Gryunayzen equation, written using the symbols of (3.28) ,
+
+(3.29) and (3.31), is the sought equation of state.
+
+Pressure resulting from zero oscillations of a solid is
+
+Under normal conditions this pressure attains several kilobars, and it increases
+as the volume of the solid decreases. Correspondingly we can also obtain, for a
+solid, the contribution made by zero oscillations to the modulus of cubic con-
+
+pres sion x
+
+JP" 3 05"
+u ‘27‘9”(""m)
+
+ 
+
+1,. --V-
+
+The characteristic Debye teaperatureuer-is a significant elenent of the equation
+of state for a crystalline substance. It may be determined from the dependence of
+
+atomic heat capacity on temperature:
+u 0,4 “My N Mfr "
+LH'E‘L 0‘ r'm’.“ “ﬁn-”J ”(ﬂ/(2:! z)‘
+
+:9“ -E).j‘%_éu(_r,j (3.32)
+
+where 01(00/1') is another Debye function (see Appendix 4 in (5)). This function
+also varies from zero to one as the teqerature rises frat zero to infinity. At
+
+low temperature (Op/2510) it equals 78(T/9D)3, which corresponds to the relation-
+ship 0M3, obtained by Debye back in 1912. At high tower-attire Cyeaﬂosr25 j/Iole°°x.
+This is the well known Dulong-Petit law. of course the latter was obtained for
+specific heat at constant pressure Up. but according to expression (2.20) , in terms
+of gran-atoms the difference between Cpand CV is not very large, averaging just
+
+1-1.6 j/mle' °K.
+
+OD in (3.32) is found as a reducing parameter from the experimental dependence of
+
+heat capacity on temperature (see Appendix 5 in (5)).
+
+Another way for calculating OD requires interpretation of a crystal as an elastic
+isotropic medium. An isotropic solid has two coefficients of elasticity--the
+compressibility coefficient 82' and Poisson's constant on. The speeds of sound 01
+
+and CT are expressed in terms of 82' and q, as follows:
+
+, 2: 5.17.155}. «'_ 5‘ I. 26 v r
+"I -"°'~.U.1‘ 't' 277453?!“ 65’ LL (”)(ii! 3%) (”U
+
+When we know 82-, °n and p, we can find OD.
+
+The table below compares OD values obtained by these two approaches for four metals.
+
+38
+
+FOR OFFICIAL USE ONLY
+.. Characteristic Debye Roper-stuns
+! ;’ mun-Mn 0" 2m :x
+- .‘.____.. "..m._- ( )
+
+     
+
+: A? 1.36
+. (.24 0:"
+I
+
+g m. I 0.53 0.92
+
+l. gin/Q3 3. Pros:
+2. mZ/Pa 4. According to
+
+'lhe closeness of the values is doubtlessly very good for a theory derived so approxi-
+
+mately.
+
+Cgstals Consisting of Molecules
+
+The formulas of Debye's theory may be applied directly only to crystals consisting
+of atoms of the same sort. If a crystal consists of N molecules, each with 8 atoms.
+then in addition to 3” oscillations distributed as per Debye's theory, to describe
+the state of the crystal we would have to add 311(6-1) oscillations associated with
+the internal degrees of freedom of the molecules (it is usually assumed that notion
+within molecules and relative motion of molecules within the crystalline lattice
+
+do not depend on each other). We will interpret internal degrees of freedom as
+sinple harmonic oscillations of the same frequency, and correspondingly we repre-
+
+sent their contribution as Einstein's statistical sun:
+
+5: .0/7
+Jaw-J)"
+
+The logarithm of the statistical sus would be:
+
+Hub-MOE)
+
+. / ~ ‘1‘.
+Jju.isa("CyJF'ﬂ:€:€*("c IT)
+
+0
+
+39
+
+F0! OFFIOAL USE ONLY
+where 9:, is the energy contribution of thermal oscillations of atoms in the
+
+molecules. Differentiating (3.36) with respect to 1', we get the specitic heat
+
+I ‘ I I' “3 ”II/T
+' cw ' orb" 0y")'3n,(9, /T) 32") HIM—I‘LL.”
+
+Comparing (3.37) with (2.22) and (2.23), we find that in the approximation under
+examination here, the expression for specific heat of a molecular crystal at
+eD/T<<l 15 similar to the relationship for heat capacity or an ideal gas consisting
+of nonlinear molecules. If we assuu that the internal degrees of. freedom of a
+molecule depend weakly on pressure and volue, and if we ignore the influence or
+
+V on (it, then in accordance with (3.26) and (3. 30) we get the following expression
+
+for pressure:
+
+. 0
+WM- saga—9M? w-J-sr’
+
+01' ‘ /' _ ‘ -(:)
+p—/,.-7 (l t, A) (ms)
+
+The third term of the expression for free energy (3.35) does not contribute to
+
+pressure .
+
+Debyc's theory is one o! the fundamental theories of physics. Naturally, however.
+
+in view of the structural couplexity and diversity of condensed substances, its
+
+conclusions must be approximate in nature. This is especially true or the
+
+40
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+in-between range in which the frequency distribution function (3.16) obtained (6:
+long-wave low-temperature oscillations applies to the entire interval of tempera-
+tures, up to the extreme highest. at which point the solution once again becaies
+statistically valid (10). Also important is the fact that the theory does not
+account for the anisotropy typical of crystalline substances or the relatively
+
+high mobility of particles in a fluid. As was noted earlier, the latter becomes
+less significant at high pressure, which li-its the nobility of particles so much
+that the state of both a liquid and even a gas could be described by equations such
+as (3.30) and [equation nutter illegible; possibly (3.38)]. we will henceforth need
+only these two equations. A reader wishing to acquaint himself with the equation
+
+for the state of crystals with ionic and complex lattices and consider the influence
+
+of free and bound electrons would need to refer to more-detailed handbooks (9).
+
+mayren' 8 Parameter I‘
+
+Gryunayzen's para-star, which is fundamental to an equation of state for a condensed
+substance, may be obtained by differentiating (3.38) with respect to energy at con-
+
+stant volume:
+3“ 3., ’(lp—Fwa/H ,. (’fff,./;.'-(1{£v_{321:2)
+. I. (Maggy) ,_ (I. as)” In) 4%»
+or rtaa"’(1%/l-a%( ’31:." "$06!: ,26,)-:;-#v 131%?” (3.39)
+
+In the general case CV“) is deteruined by formula (3.32). At (GD/T)<<1n we can
+assume 0v”) =33. 'lhe values of up, 81- and p are known for many substances under
+
+normal conditions. merefore there is usually no difficulty in calculating TWO).
+
+41
+
+FOR OFFICIAL USE ONLY
+Slater's formula can be used to calculate Gryunaysen‘s parameter at high pressure.
+
+mis formula was derived with the assmtion that all frequencies in an isotropic
+solid are proportional to the speed or sound [cl ”(Jinx/OHM] and inversely pro-
+
+portional to the distance between particles rI-L V73}
+
+2/.) 3.”?
+
+From whence we get
+
+[v.0 'Ji'i .--.l/. ZipL/QL‘QE.
+’3": IV i’ .3}. l5" 4 (H50)
+
+The tolloving tormula gives values closer to experimentally obtained values for
+
+ionic crystals and metals:
+
+Inn/J
+”(P-V if?!) J. .
+r' "'5‘ 00} v1-/‘ Y'w ' 4 (N '2" (M1)
+
+In this case m-l for metals in most situations, while for ionic crystals III-2.
+
+In many cases the dependence of Grymaym's parameter on the specific volume of a
+
+solid is close to a direct proportion:
+
+£— - "(J - t'nnxl (My)
+gotential mu 0! Energy and Pressure gnz
+
+The energy of. a crystalline lattice is determined by forces acting between its
+
+elements. these include attraction forces-Womb, van der Waals and valent,
+
+and forces of repulsion--Ooulosb or quantum.
+
+42
+
+FOR OFFICIAL USE ONLY
+Coulomb attraction dominates in ionic lattices. Its energy has the form -oq/r,
+where q is the least charge of the ion, 1' is the least distance between ions and
+a is Madelung's constant. Forces of repulsion are produced in ionic crystals by
+
+overlapping of the electron shells of the ions. these are quanta: forces which
+
+decrease exponentially with distance. The potential or an ionic crystal may be
+
+written as :
+
+t, - 1(a. /0.)k «'4.an f)! Jag/(5:11) (may
+
+where a1. a2 andagare constants and r=V1/3.
+
+The potential part of pressure is
+
+The potential part of the modulus of cubic compression is:
+
+x. - «gs - —- HM Mam-mWm
+
+The forces of attraction in molecular crystals are van dsr Heals forces. Their
+dependence on distance is -‘P(r)/r6, where Mr) is some function of distance. As
+in ionic crystals, forces of repulsion are produced by overlapping of electron
+
+shells.
+P, - 0,(';3)'ufl ":(4- A)!- Q: (r?) , (5,”)
+
+The potential part of the modulus of compression is
+
+i’. ‘ ‘( 5'97“»? *?)url'0a('- €)}~ms(£‘)’ (3....)
+
+In the case of metals the forces of attraction are produced by Couloeb interaction
+of free electrons with positive ions as well as by the voluee energy of free
+
+electrons. In both cases energy is proportional to 2'“. Coulomb forces of repul-
+sion nay be combined into a single term together with forces of attraction. Repul-
+sion forces ates-ting tron overlap of electron shells have the same form as in pre-
+vious cases. rerni kinetic energy or free electrons also causes repulsion. It is
+
+proportional to 1" 2.
+
+The resultant potential is
+
+E, . ”lulu! 0.-(" £3);' “5 (:7‘ (”(42) (3J9)
+
+In alkali metals the forces or repulsion are produced mainly by Fermi kinetic energy
+of conducting electrons: 'me first term in (3.49) may be ignored. In a nunber of
+cases exponential repulsion plays the main role, and the second term of (3.49)
+
+may be ignored. In the latter case the components or pressure and the modulus of
+
+cubic compression are determined by formulas (3.44) and (3.45).
+
+44
+
+F'OIOI-‘FICIALUSEONLY
+where, as in the previous cases. the positive ter- rspresents forces of repulsion
+and the negative term represents forces of attraction. obviously as r decreases
+the repulsion forces decrease faster than the attraction forces (mm). In most
+
+cases 71-9-14; for molecular crystals III-6, and for ionic crystals m-l.
+
+Leonard-Johns used potential (3.50) at III-6 to describe the behavior of conpressed
+gases and (in the tree volune theory) to arrive at an equation of state for fluids.
+The theory of tree volune gives us the potential for spherical apolar molecules
+
+(3.50) in the for:
+
+m. 5—, (+)*[(,2)‘- (59‘. (3.5:)
+
+where emunaxim- energy of interaction, and ronettsctivs collision radius, for
+
+which B'u') =0. At SI: 12 this is the so-called reward-Johns potential (6-12).
+
+I» - mat—w-{as—x} ; A. fé—z‘zﬂ-‘f-(‘y’l
+
+kn ' §J[’0(%L " J %L)l] (3,52)
+I Use wee-v”... you eons-O
+
+The relationship between V,. Vo'x and V0 is diagn-ed in Figure 3.
+
+ 
+
+Figure 3. Dependence of Potential Comments of Iiit'rimi‘é Energy and
+Pressure on the Specific Von-s o! a Substance
+
+4. Chemical mlibrim in the Products of (De-bastion and Explosion
+
+4 . 1. Moderate Pressure
+
+ 
+
+Table 6 shows the basic equilibriu reactions in the explosion and codnstion pro-
+ducts of commonly encountered explosive systems (c, a, N, 0, cl, P). be enthalpies
+of these reactions and the expressions for the equilibriu constants are given.
+Partial pressures of gaseous substances are expressed in atmospheres. The partial
+pressures of condensed substances are given in dimensionless units. The formlas
+for the dependence of equilibrim constants on tsnperature were obtained by plotti :g
+the tabulated data in coordinates l/T- [synbol illegible]. For all reactions except
+(1) , straight lines are obtained with good accuracy within a broad interval 02
+teuperatures (500-an: and units illegiblsl). The constants for the reaction
+
+were obtained in a 2,000-4,000’K intervaL.
+
+46
+
+FOR OFFICIAL USE ONLY
+Table 6. Basic Bquilibriu Reactions in “bastion and Explosion Products; Value
+of Goetficients A and B in the tor-nu lg Kp-A-(B/T)
+
+maction Equations
+
+no. a s
+A”, .. .
+
+ 
+
+(:02 ¢ ﬁles: 00 9 I120 mo
+coz o c‘: zoo om
+I120 a 0M 9'; I: IN '
+cu. , uzo:co + n12 nsao
+cu“ .. cx o éuz mo
+In, :- 5'2 wing mo
+{-2 0 ﬁg)? = Id - mo
+
+uc1=§“2 .}c12
+
+ur a $112 . 9’2
+
+J
+has the form (viz-41“... (.f.
+"4 -n‘
+
+ 
+
+memochenical calculations are now usually lads using the equilibrim constants for
+
+atomization reactions. 'l‘hese constants may be used on their own: It is presumed
+that the initial substance had broken down into atoms, which then group together
+in correspondence with the atouisation reaction constants into the appropriate
+
+‘ groupSulnolecules or radicals. 0n the other hand these constants can be used to
+
+derive the equilibrium constant for any equilibrium chemical process. For example
+
+47
+
+POIOFFICIALUSEONLY
+cozonzs coukzo
+
+the equilibriu constant is calculated as
+
+5 O
+x "l‘l't I
+Hymn» - I" I“ .
+
+where Kg“ are the atonintion constants of the appropriate substances: For exaaple
+
+‘a‘ﬁJ-
+”- 'sz
+
+‘lhe values of X13“ are taken from handbook (3).
+
+It follows fraa Table 6 that at moderate pressure the equilibriul of reactions
+
+3, 7, 11 and 12 is shifted leftward to a tenerature of about 3.000%: and the equil-
+ibriun of reactions 8-10 is shifted leftward to a teaperature of up to 5,000°x.
+
+When the temperature is not too high (q: to about 3,000'!) and pressure is high
+(above 107 Pa) there is little on in the products, and allost no. u. o and a at
+
+all. The equilibritn of reaction 2, 4-6, 13 and 14 is shifted right at high tomor-
+ature. Methane and anoniun do not fern at high tesperature and moderate pressure
+
+in systess of conventional cosposition. higher tenperature pro-otes formation of
+these substances while simultaneously blocking dissociation as described by the
+
+equations (reactions 3 and 10-14).
+
+For practical purposes aluminun and nagmsiua experience combustion reactions in
+
+the entire range of combustion conditions. These reactions are not shown in Table 6.
+
+It may be presmd that when oxygen is sufficient aluinua transforms quantitatively
+
+48
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+into A1203,” while Hg transforms into “991‘. In the presence or chlorine and
+fluorine Ba, x and oi transform into the appropriate halides, while in the absence
+
+of these elenents they transforn into oxides, hydroxides or carbonates.
+
+Finally the equilibrium of the reaction of water gas establishes itself in accord-
+ance with the size of the equilibrium constant of reaction 1 at the given tempera-
+
+ture and concentration of carbon, hydrogen and oxygen in the system.
+
+4 . 2. high Pressure
+
+At high pressure, in the range within which the equation of state for an ideal gas
+becomes inapplicable, the expression for the equilibrium constant becomes more
+complex. In an isothernic process
+
+45‘ v.'p 1’ (m)
+
+At V=RT/P (Clapeyron's equation) we get
+
+Jo-mtp and .e-n!.<p/po) 0.2)
+
+This is the source of the simple relationship (3.5).
+
+At high pressure V}! [ET/B relationship (4.2) breaks down, and a dependence arises
+between the equilibrium constant (3.5) and pressure. The effect of pressure on the
+equilibriun constant my be determined by Levis' method by substituting partial
+
+pressure in (3.5) by tugacity:
+
+{.yme 3—3- 0, 4‘9“)“: —oYJ_Pu.s)
+
+-_—-——-~—-—-—— __ ___
+
+‘-'..-‘.'.: vdv- .5; r VaP'SJT. at - dim) we get u 1,
+-..--,—_-—-,, w- ,_ _
+
+winkgjm
+
+We introduce the coefficient of activity (a. 1/9.“ I:- i490):
+
+I. (a. my - a. (Pm). (ll-1;), I M a...)
+
+We represent volume as V-RT/P-AV (correspondingly, AV- (EVE-V) , and we account
+
+for the fact that as Po-to, ya°+1 and in “0+0. then
+
+lurahff. ‘VJP ‘ (n5)
+
+Usually the coefficient of activity is found by approximate integration of (4.5).
+Having the isotherm V(P) for a real gas, we plot the curve AV-IH'IP-V-AWP).
+
+The area between this curve and the abscissa fun 0 to P is proportional to the
+logaritlm of the activity coefficient at pressure P. For oxygen at O‘c and
+carbon dioxide at 60°C, at a pressure of 20107 Pa Ya-O.87 and 0.45 respectively,
+while for carbon mnoxide at l.2-lo° Pa, ya -2.22. If a staple analytical ex-
+
+pression is obtained for the isotherm of a real gas, the coefficient of activity
+
+may be found by quadrature.
+
+Thus expressing V(P) as in formic (3.6):
+
+50
+
+FOIOFFICIALUSEONLY
+rv. mg y. .8 ? H v.- P ._r_.
+
+""“‘"ﬁ'“’ar."ii‘r. "ﬂit
+
+At vK/Vo-1.1o3. P/Po-s,ooo and To/r-i-io'l, we get in 1-+0.5; 1-1.65.
+
+When we find the equation of state with virial coefficients (3.12) applicable,
+
+v - ﬁts-(1),.
+when 61.) i 1 . x . 0.625.? . 0.2a'lx’ . 0.19M"
+I s 8,”. 8": Z n; .36 .
+
+Bay-second virial coefficient for 1 mole of the given reaction product (see Table 4) ,
+
+. 1 -. I
+'u ‘2 . .1 E2—,")! - I. 6' .9522” (-r' U "'0’
+
+Knowing the activity coefficient 1m: and substituting partial pressure by fugacity
+in the formula for the equilibriu- constant (3.5), we get
+
+' I. ‘. X If a. ).- r,- I, v.-
+‘f- ' ”i." " ”I I; //‘. )P.’ - I713,- ﬂp; - (all; _ um
+
+Here the II symbolizes multiplication of fugacities (or partial pressures) of the
+reagents to a power consistent with the reaction's stoichiouetric coefficient v1;
+(for substances in the right side of the reaction equation v00, and for substances
+
+in the left side v£<¢
+
+Thus at high pressure we can use the partial pressures (and molar fractions) of the
+
+components to calculate equilibrium processes, but the equilibrim constant of the
+appropriate reaction, KP (at a given taperature), must be divided by Ka - Mai”,
+where the coefficients of activity Yai are calculated with formla (4.5) and the
+
+signs of the stoichiometric coeftrients v1: are determined by the rule given at the
+
+end of the previous section.
+
+For the reaction of water gas (No 1, Table 6) :
+
+Cf; 0 ll. ':.'-' CO v “20
+L
+
+(‘9.41.‘ - ‘1 I. 1;. I?» {511;
+
+"uh, rm ‘3 n!
+For the 002 dissociation reaction (No 2):
+/
+"up“ ‘. lief 1’32- . . I. Eff—”Yer
+PW ”(Us ’mffu',
+
+At very high pressure and for reactions in condensed phase, it would be more con-—
+
+venient to use equation (4.4). integrating it in parts:
+
+- _ é;_."(,r-/u,l’.).raj/u”, (LP/f:
+
+‘ 4
+“1.71.!
+a
+
+As follows from section 3.3.. functions P(V)are usually given in explicit form
+
+while functions V(P) are given in implicit form.
+
+If we write pressure in the form (3.30) and (3.52) at P/V=I‘o/Vo, Vo>>V and
+
+mm") at. r.-' a; . r w
+'. l (' ....._.-.. _._-_..._.. .'..'. -9.
+I l' ")O v r" v ‘ it)“ I,
+
+52
+
+FOR OFFIGAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+then we get the following simple formula for the coefficients of activity fral (4.8) :
+
+.,_,.J “4;- 53:“ ﬁlt’mnqm l'.‘"'/( 4.8 («.s)
+3.." '
+
+5. anthalpy of Formation
+
+Besides the equation of state . the equilibrium constants and the dependence of
+intrinsic energy or enthalpy on temperamre, to calculate the thermodynamic relation-
+ships in combustion and explosion products we need to know the enthalpy of formation
+of the initial substances and the reaction products. The enthalpies of formation
+of organic compounds--the principal ingredients of conbustible and explosive
+systems--are obtained mainly by measuring the heats of combustion reactions in
+
+a calorimetric bomb. Values obtained in this fashion are tabulated in handbooks
+(3.6.12). Some of the values used most often are given in the Appendix in (5).
+
+At the same time in View of the tremendous diversity of organic coupounds on one
+
+hand and the comlexity and high cost of reliably determining enthalpy of formation
+
+on the other, methods of calculating this variable are under intensive development.
+
+All existing methods of calculating enthalpy of formation , as well as a number of
+other thermodynamic variables (entropy, Gibbs' energy, specific heat), are based on
+the principal of additive contributions by groups and bonds. Table l in the
+Appendix compares some methods in application to a number of organic substances,
+
+as studied in a degree project conducted by I. Ye. Esterman (1977). It also gives
+the ; :sults of his calculations for group contributions obtained by Ester-an and
+
+V. M. Reykova from an analysis of formerly published experimental values of
+
+Mf. These contributions are brought together in tables 7 and 8. Table l in the
+
+Appendix gives the differences (in Real/mole) between the. Aﬂf values obtained
+
+53
+
+POI! OFFICIAL USE ONLY
+Table 7.
+
+Contributions of Functional Groups to Enthalpy or For-ation of Aliphatic
+Coupounds (Prom Data cited by I. Ye. Ester-an and V. H. Raykova)
+
+11.1..“ 'm-
+
+-cn3 -10.09 11.55 -10. -9,6 46,2
+)cu2 4.93 -6.11 )cufmz) -13.e -2o.s
+5 v '1'6 '2'0 'cn(ao§)z ’10.“) "1902)
+.;c.’. 1.0 1.5- -cu:c2 , y-m -11.5
+“2‘5-0“ 15.0 12.3 -uc— -9.11 -15.5
+H2C30( [6.6 1m mace -21.7 -22,7
+:1an - 20.9 17.5 #9" 47.2 -5e.1
+hq-cu-w .(4 18.2 15.5 41140 -2.6
+"oxen-”m (5 17 .5 15.0 )1 -1 19.9 9.5
+$112” an 25.2 >140 l9.6 (12.5)
+son we 20.6 19.0 , 412 (-5.6) -1:.1)
+r-c< (25) 25 ' ‘ -c.s 27.5 21,5
+-c.c- 55.5 51.7 = 4:0: 52.1- '16.}
+uc.c- 5~.5 51.1 l-m- 52.2 50,2 ‘
+-ou 41.7 9.1 i 1 -11,7 -1:..s
+-o- .-:o.1 51.0 I -1> -:.-. 48.8)
+-cu..u 42.5 1o~ . (0)11 11 1 n u
+
+-c:9 -29.5 93.5 . v- 11.1
+4:2. "79-5) ‘00 1 CT 5.1 0.17
+#2.“,- 3'5 l U -15.; -21.5
+an; 5.1 -o.65
+
+-IH- 12.1 10.5 I 0' -26.1 49.1.
+'-g< (22) 22.6 I w W
+>::‘i__ 21;“. if; ....:.;r__ W
+Note: Contributions obtained free the enthalpy
+
+of formation of one compound are given in paren-
+
+theses. Contributions are given in kcal/nole,
+l kcal=4.184 )1).
+Key:
+1. Group 4. Cis
+2. Gas 5. Trans
+3. Liquid 6. Rings
+
+experimentally (usually the averages of several sources) and values obtained by
+calculation. Oouparative calculations using six to eight methods were made for
+100 compounds. From one to three compounds were chosen by chance to represent
+
+many of. the examined series. missions of figures in the table mean that A8120
+
+54
+
+FOR OFHCIAI. USE ONLY
+FOR OMCIAL USE ONLY
+
+Table 3. Contributions by Functional szaps 0: Liquid Aromatic (lo-pounds
+
+  
+  
+
+.,,...,quH 5' was" ' u " Tam—‘83:;—
+_u2-°-°.-°.*_-!°-.. . '.42:_'.?-_-°__mcr-m
+4:83 41.53 "02 ‘_m‘~)
+- 0 - 41.7 )I'dﬂz 925.2
+l «an «9.: «I2, 4.3
+c (a 45.9 )II «.u
+/c I 0 -36..6 )l- 916.8
+-cuuu do: ail—w,t as.» I
+0
+"' (m “5‘” cell,- :31) 21.64
+' O 8 an it...
+-c é , «41.6: (a)
+"" csu m s.~9-2.'n
+‘ an 5.0 .
+-C 5 I (93.5;
+-01 41.5
+Q 43.5 .
+—.-—.———————_._—Jl -
+Key:
+1. Substituents exhibiting weak 3. Gas
+interaction 4. Liquid
+2. Substituents exhibiting strong
+
+interaction
+
+Table 9. Energy of Interaction Batman Motional Groups in Amatic Commands
+
+   
+ 
+
+i tum“)?
+E U.:,. i“
+
+I 5;. '.'i
+
+All values are given in kcal, l local-4.184 kj
+
+55
+
+FOR OFFICIAL USE ONLY
+I'UI OI'I'ILIAL UM URL!
+
+could not be calculated by the given method for the particular compound. He can see
+free the table that the accuracy of Esternan's method is at least no worse than that
+of those published to date. Its advantage lies in the possibility of obtaining
+
+AHf both for gases and for liquids and in the great assortment of contributions by
+
+functional groups.
+
+In the case of solids the enthalpy of aelting lust be subtracted from the liquid's
+enthalpy of forsation. If it is not available in the handbook for the given con-
+
+pound, Val'den's rule may be used: Adm-56.513", j/nole.
+
+In the case of compounds with several functional groups, the action of the groups
+
+upon one another must be accounted for. Groups exhibiting strong interaction are
+separated in Table 8 frat those exhibiting weak interaction. ‘lhe effects of group
+
+interaction in arontic compounds are described in Table 9.
+Nitrogroups interact with one another especially strongly.
+
+The increase in enthalpy of fornation associated with presence of two or more
+nitro groups in the sans molecule should also be accounted for in calculations
+associated with the aliphatic series. It has been noted in this case that the
+interaction effect, which expresses itself as growth of Mf that is greater than
+can be explained by "additive“ growth (as calculated using the data in Table 7),
+weakly depends on the aggregate state of the substance (be it a gas or a liquid).
+but it decreases intensively as the N02 groups move farther apart. For neighboring
+nitro groups the interaction effect is 16-20 kj per paired interaction. while for
+crosswise nitro groups attached to neighboring carbon atom [C(N02)-(ll2-C(N02)]
+
+the interaction effect is about 6 kj. Nitro groups that are farther apart parcti-
+
+cally do not interact with each other (MAHFO: 1 1:3 per paired interaction).
+
+56
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+6. Calculation of the asition and Mynamic
+Characteristics of eosbustion and B_xplosion troducts
+
+6.1. Statement of the Problem
+
+The main problem of thermodynamic calculation is to determine the equilibrium
+composition and functions of state of the combustion and explosion products.
+Inasmuch as the enthalpy or intrinsic energies of the products are given as the
+dependencies of these variables on temperature and the expressions for the equili-
+brium constants include pressure. the main parameters of state considered in such
+calculations are tesperature and pressure. Knowing the equilibrium composition
+and functions of state of combustion products at given P and 1', we can solve a
+large number of technical problems. The main ones are: l) calculating the couposi-
+
+tion, heat, telperature and other thermodynamic characteristics of coubustion pro-
+
+ducts in adiabatic conditions at P-const. (la) and at V-const. (lb); 2) calcu-
+lating expansion of combustion and explosion products (change in composition of
+the products and in the functions of. state during expansion, calculating the rate
+of flux and the work of expansion); 3) calculating the cooling of codmstion
+
+products at V-const.: 4) calculating the thermodynamics of processes in shock waves.
+
+The first or the above problems entails thermodynamic description of conbmtion
+(or more precisely, its end results) in isobaric and isochoric processes. The
+second provides intonation on isentropic expansion of gaseous products formed in
+the course of an isobaric, isochoric or some other calmstion process.‘ The third
+problem is associated with isochoric cooling of combustion and explosion products.
+
+These idealised situations are very close to real situations in a mnber of cases.
+'Note that all of these processes are adiabatic.
+
+57
+
+FOR OFFICIAL USE ONLY
+combustion proceeds at practically constant pressure in air, in the combustion
+
+chamber of a jet engine operating under steady-state conditions and in apparatus
+used to measure the rate of cowustion of explosives and powders, aptly named a
+"constant pressure bulb." An isochoric process occurs when powder is burned in a
+manoaetric bod: and, as a certain approximation, in the barrel of an artillery
+weapon. The end products or a gas‘s coubustion in a constant volme bonb* and»
+once again as a certain approximation, in the cylinder of an internal coutustion
+engine, and the products of detonating an explosive in a bikhsl' bomb (see below)
+
+are consistent with those obtained as a result of an isochoric process.
+
+Isentropic expansion of a gas is typical of what occurs in the nozzle section of a
+rocket engine, of processes following detonation of an explosive charge in air, and
+of the discharge of powder combustion products out of a gun barrel. It stands
+
+to reason that losses due to friction and heat exclunge may be ignored in far from
+all of these cases, but adiabatic and isentropic processes are basically the most
+
+significant.
+
+When solving these problems we should turn special attention to the range of
+pressures and temperatures within which the given process is examined. ht pressures
+up to thousands of. atmospheres and temperatures above 1,000' the behavior of com-
+bustion products may be described with good.accuracy (not less than [symbol illegi-
+blel) using the equations of state of an ideal gas. When powder burns in a fire
+weapon and in conventional artillery, pressure attains LOGO-5,000 atm. At such
+
+pressures we should use the equation of state containing virial coefficients. When
+
+'Cmbustion o: a gas in a bomb of constant voluse proceeds at constant teaperature
+
+for the most part. It is only after all of the gas burns and the reaction products
+in the bomb mix together that tamerature and pressure in keeping with an iso-
+
+choric combustion process (the Mache effect) are established.
+
+58
+
+FOR OFFICIAL USE ONLY
+FOR OFHCIAI. USE ONLY
+
+condensed explosives are detonated, a pressure on the order of tens and hundreds
+of thousands of atmospheres is generated. In this case we would have to use the
+ni-Gryunayzen equation (3.30). However, as the cubustion or detonation
+
+products expand. the pressure within them drops, and beginning with a value
+on the order of 1,000 atm the equation for an ideal gas once again becomes appli-
+cable. Thus the simlest method of thermodynamic description of combustion and
+
+explosion products enjoys a very broad area of application.
+
+Precise thermodynamic calculation of combustion and expansion processes is ex-
+tremely cuterscne, and it requires high-speed computers. A detailed description
+of such calculations in application to combustion of powder in a rocket chamber
+is given in (13) , and it is described in application to liquid-fueled rocket
+
+engines in the handbook (4).
+
+It should be noted, however, that in many cases the accuracy of such calculation
+is intentionally excessive. On one hand the 6163319193 of formation of the initial
+substances--fuels, oxidants, explosives and the ingredients of explosives and
+solid rocket propellents, which are industrial-grade products usually of complex
+composition with a low degree of purity, are only extremely moderate in their
+reliability. at the other hand while the error of calculating a combustion process
+with a computer is within hundredths of a percent, the deviation of a combustion
+process from the calculated values (resulting from absence of equilibrium, devi-
+ations from ideal conditions, losses not considered by the calculations) is
+several percent as a rule, and frequently it is 10 percent and more, for example
+in the case of calculations for detonation of explosive charges. For this reason
+engineers still make broad use of simplified variants of thermodynamic calculation
+that may be performed manually or with small computers, and they will be used for
+a long period to come. One such method will be analysed below.
+
+59
+FOR OFFICIAL USE ONLY
+(P‘lO' Pa) Constant Pressure
+
+ 
+
+The calculations are made with the assuption of an adiabatic system, existence of
+thermodynamic equilibriu and applicability of the equation of state for an ideal
+
+gas.
+
+To perform the calculations, we need to know:
+
+1) The elemental cosposition of the initial system
+
+2) the enthalpy of fornation of the initial substames and the expected transforma-
+tion products;
+
+3) the equilibrium constants for the hypothesized reactions;
+
+4) dependence of enthalpy, intrinsic energy or the specific heat of products on
+
+teaperature ;
+
+5) pressure .
+
+\
+Systems containing the following elements are subjected to analysis: C, s, o, N,
+
+Al, Mg, Cl, P. When the composition of the system changes, the system remains
+
+the same but the calculation formulas met be mere-ind.
+
+We find the “emirical fornula'-the elemental composition of l kilogram of fuel or
+explosive system. He make the calculations using foraula (1.7). By subsequently
+
+sunning the products of the number of moles and their atomic weight, we verify the
+calculations. The accuracy of our calculations is generally within several tenths
+
+of a percent. The total weight must not deviate from 1 kg by more than 1 9n.
+
+we determine the “enthalpy of formation'I of the initial system (once again in
+
+relation to 1 kg of the mixture). Enthalpy is an additive function of state. and
+
+therefore
+“ll": 79‘4"“ ' (6,1)
+
+60
+FOR OFFICIAL USE ONLY
+whe re
+Anj -gj/Mj--the number of moles of the given compound in 1 kg of the explosive system:
+
+“i," "Wt-u" «enthalpy of formation of compound J. The latter is found frul tables
+given in (3.6.9), or it is calculated with the help of tables 7-9, or it is
+
+taken from other handbooks.
+
+For substances containing oxygen we calculate the oxygen balance (1.8) or the coeffi-
+
+cient of excess oxidant (1.9).
+
+We calculate the composition of the transformation products in the zero approxima-
+tion on the assumption that reactions No 3 and 7-15 are shifted fully leftward while
+
+reactions No 4-6 are shifted fully to the right--that is, that NO, N33, can. and
+
+dissociation reaction products do not form.
+
+when aluminum or magnesim is present in the initial substance, A1203 and "90 form
+(in the presence of boron or silicon we get 8203 and sioz). mcess oxygen in the
+
+initial system oxidizes carbon and hydrogen. Nitrogen and excess oxygen are present
+
+as N2 and 02.
+
+chlorine and fluorine react with hydrogen to produce 8C1 and HP, and excess halogen
+
+(if it is present) is liberated a': ct; and P2.
+Excess carbon takes the for- of carbon black.
+
+Thus there are no difficulties in setting up the equation for the combustion reac-
+tion in the zero approximation: Oxygen is consused first to form nlzog and M90, and
+then to for- CO, 002 and 820. If oxygen is lacking, hydrogen, carbon and then the
+
+metal are liberated in elemental form.
+
+Hydrogen is used up to form 1101 and HP, and then H20, while excess hydrogen is
+
+liberated as H2.
+0"!“ vs I ave-Ion yua- vo one
+
+Here are sass exanles of writing the equations for combustion motions proceeding
+
+at not too high a pressure, in the zero approximation.
+
+Trotyl z
+
+C7u5l506 ‘9 66° 9 C 9 2.5“: 91.5.:
+
+Dinitrochlorobenzenex
+
+Nitroglycerin:
+“3"5'339 -. no; . 2.550 o 1.5:; 9 0.2502
+aydrazine:
+Izll‘ «- 2Il2 0 I2
+
+Mixture of dichloroethane and nitric acid (51:49):
+
+1,5mfso emu; .- C15,.5xa..561~0200; o 5.5%: . 0.25:1; . man;
+
+It Would be more convenient to calculate the composition of complex mixtures in
+gram-atoms of the cosponents per 1 kg of the mixture. For example all-anal 80/20
+contains 80 percent amenim nitrate by weight and 20 percent aluninu- by weight.
+Assuming that amnim nitrate and alminu are pure and rounding off the atcuic
+weights, our calculations produce the following figures, per kg:
+
+. " Ilium;
+' (”ﬂ/lid!!!) I l". "‘1 D 0.2/0.027 ' 79“ ﬂ.-I0. ”I020. "(0):”.
+
+l'ut7,§}.
+
+In the zero approximation the combustion reaction is:
+
+1- "1.305 * 7-5 H " "no'zo°sa‘17.~"‘ 3-7 “2°; ' 13-9”2°”°‘”2““
+
+A slight complication arises when 00, 002, "2 and 820 are present simultaneously
+
+among the combustion products (this happens it
+1/0 " In "c (Plug-3R!) " ‘ 0"]mn. )[HCIO '1'] ).
+
+62
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The ratio between the concentrations of these substances is detenined by the equili-
+briun equation for the water gas reaction (No 1, Table 6). Considering this equa-
+
+tion and the equations for the carbon, oxygen and hydrogen balance,
+
+’ C0 9 "C02 I "C 3 "CO 9 2n cuzfnuzo 'nc "1002‘ "V's-.21»: 211.“
+
+we get a simple female for the concentration of 002:
+
+ 
+
+. {oh/(51-0 (6.2)
+"(:92 —r—- o _
+
+K
+where a-gl [ac . (n °/2)]uI - plant}. 5- nc( ”(0) - ”c)
+F"‘1“. ”(ofnla) 2"A1'n99' "n“"u' "01' ”v '
+
+h >nc
+inwhich case (L) and "3’ o
+
+The dependence of. constant K1 on teaperature is given by formula (1) in Table 6,
+
+or it can be read from Table 10.
+
+Table 10. Dependence of the Equilibrim Constant for the Water Gas Reaction on
+Mperatuze
+
+ 
+
+r e s s or:
+At constant W the tenperature of combustion required for selection of
+
+K1 may be estimated by means of the approximate formula:
+
+to». - sou . 10’ m . (6.3)
+“beta | . afilhu-Mzn‘ Q'Ia'll‘ may, 092.5)". '26,"; .‘ni‘I‘. kj/kg
+
+ll ‘14."; 920.5qqqx'l.-I,€Iolu.5n’ 975.211” 05?.u'9363.“ 0355*
+
+63
+FOR OFFICIAL USE ONLY
+I'UK UI'I‘ILIAI. UM Ul‘lal
+
+knowing the composition of the transformation products, we can determine the temper-
+ature of the combustion products at constant pressure (fpo) on the condition that
+
+the enthalpy of the reaction at 2981 is equal to the difference between the
+
+enthalpies when the codmstion products are cooled tron Tp to 298°x:
+
+. I, ‘ 21.1342.) - mpg] - inﬂux“) (6.0
+
+.‘u, . w’fmﬁw.’ 0 110.51)“ . 2.1.0,.” , I675!!!" .
+l , I
+
+0 602.5%. 92.3%. 9 26915 e 4 I4.“ ' 1/10;
+
+The data in Table l are sufﬁcient for determination: of fault!” in the zero
+approximation:
+mm1‘9)sao.I.-(r,—t-,).(rg-m)np(t:-M)ss,%.u:. in}. )0; cal/k9
+
+whet: P‘s“ .l‘“‘ "7..’"(. .‘1.l&‘ '35.‘h.39.’l~l .“'7M35.5¢%
+At um < 1'< max I - - m. {- no j/nole-°x
+
+at mo « ’9‘ mm a. . 20m. 1- m “”1”"
+
+We can obtain the adiabatic temperature of the reaction at constant pressure from
+equality (6.4):
+t° , 1”'_"L’-'J:'!:‘ amt)» mm. 4500. pg") amps.»
+P z .1; I: .' at. IJ‘J ’
+where 52 e '1 o 55.5..‘00 (In "'30) 0 37.1 "g _ "
+
+The specific gas constant is
+
+‘. '
+I 5' "Jo e H. - 'thIIe \l-.(I)
+
+'me specific heat of the products in the vicinity of Tp in.
+
+c” :Ir."za.{; .1045; (":v - cp-a a r- oya. (6.1)
+
+Iwhen the error in the size of ARM) (and correspondingly of 5p and EV) given by the
+formulas of Table 1 is small (<1 percent). the error in the size of 0M?) and CVU')
+
+may be much greater (by several orders of magnitude). Therefore the c and CV values
+given by formulas (6.7) should be interpreted only as tentative. It agenda to
+
+reason that the error decreases when we calculate r.
+
+64
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The mean specific heat of products in the interval from 298°K to Tpo is:
+
+s c 4‘; rs cp/C'v “.a,
+
+The adiabatic teaperature of the reaction at constant volts-s is:
+
+O a.
+tv . r 7v . (6.9)
+
+The heat of combustion 0p and the heat of "explosion' 0V ares“
+
+9!, . -m ’iur . a. - 0., , mum-up. 2.~'In,. kj/k9(6.10)
+
+The "heat of explosion in the presence of liquid water" is:
+u, ”l.’ “nun.” . kj/kg (6.“
+
+The proportion of condensed combustion products by weight is:
+
+9‘ 5 0.6V". I 0.|(2 II "20’ O 0.000} n “’0 (6.1?)
+
+The average molecular weight of gaseous products is:
+i.- (1 -g,)/_n. , liq/sole (6.13
+
+The values given here for heats 0p, CV and 0; require clarification. The fact is
+that the first two are conditional. 0P is that quantity of heat which would be
+released upon cooling of combustion products from 2;: to To -298°x at constant
+pressure without change in the coawosition of the products (or as it is put in
+another way, at a completely ”frozen” equilibrius). Qy is also conditional. It is
+
+used only to describe the thermal effect of the burning of condensed substances,
+
+ 
+
+*Por the derivation of foruula (6.9), see below, 1:“).
+
+"In a thermodynamic systen the enthalpy of a cosbustion motion is a large negative
+value in terms of its modulus. Ina'snuch as specialists in cosbustion and explosion
+have become accustomed to the fact that the heat of cosbustion is characteristically
+positive, it would be useful to introduce the variables 019-48, and Qv--AH,+RT0.
+
+65
+
+FOR OFFICIAL WE ONLY
+eve. van-arm..- -uv- uno-e
+
+and it includes, in addition to 0p, work against the forces of external pressure
+in the presence of isobaric expansion from the initial volune, which may be adopted
+
+equal to 0,to the volume which the gaseous combustion products occupy at 198°K. This
+
+work is '3". wow, ~ 2M». kj/kg.
+
+Q; is more realistic. It is the quantity of heat released upon cooling of coubustion
+products in a calorimetric bomb (that is, at constant volune). Besides heat 0y,
+
+it includes the heat of condensation of water vapor at 298°K (44.0 kj/mole). The
+heats of condensation and dissolution of 8C1 and er and the heats of fusion of
+
+A130 , Mgo and other substances, the phase constants of which differ at combustion
+
+temperature and normal temperature, should be treated in similar fashion.
+
+In the case of GINO systems, which form neither free carbon nor free oxygen when
+burned (ao<l, name), 01 exhibits a unique feature: In View of the practical thermal
+neutrality of the water gas reaction, as calculated in terms of liquid water, it
+does not depend on the extent to which the equilibrium is shifted upon cooling.
+
+And in fact, when the temperature decreases the equilibrium of reaction 1 in
+
+Table 6 shifts leftward, in the direction of 002 formation. 'lhe rate of this reac-
+tion decreases simultaneously as well, such that at a certain temperature that is
+not too low (about l,500°l<) the typical cooling time becomes much shorter than the
+time of the reaction, and the equilibrim "freezes." Depending on the cooling con-
+ditions (the volume of the bomb, the pressure within it) the temperature and conse-
+quently the "frozen composition" of the combustion products of a certain combustible
+substance may be different. However, in View of the thermal neutrality of the
+reaction C02+H2300+H20nqu1w the resulting effect (the value of Oz) would remain
+the same. Other reactions, for example 2, 4 and 7 in 'J.‘able 6, do not exhibit this
+
+capability: Their final thermal effects depend on the depth of transformation at
+
+66
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+which the reaction stops. This situation is capitalized upon in the so-called
+
+(De Pou) method of determining the heat of explosion. Most smokeless powders do
+not form carbon (soot) and oxygen when burned. And yet many powder comments may
+produce soot (or 02) when burned in the absence of air. If we measure the contri-
+bution of these substances to the heat of cosbustion of powder directly, the ob-
+tained heat would depend strongly on the testing conditions, and moreover it would
+differ significantly from the heat released upon combustion of the given substance
+in a powder mixture. In order to avoid this uncertainty we burn the substance
+under analysis in a mixture with a high-calorie powder, the heat of combustion of
+which is well known. and at a ratio of ingredients that would satisfy the condition
+4.x hfﬁu’c. The composition of combustion products is governed by the equation
+for the water gas reaction, it does not depend on the cooling conditions, and the
+thermal effect characterizes the contribution made by the given ingredient to the
+heat of explosion of any powder having a composition that satisfies the condition
+given above. This contribution may be easily calculated a priori. Let substance 13
+consist of carbon, hydrogen, nitrogen and oxygen. men the following basic reac-
+tions would proceed in the combustion products of this substance mixed with a
+
+high-calorie powder:
+
+(2)
+
+I” c . 61-! ~. 260 v "3’." ‘ﬂcp ‘ 9 17h kj/IIOle C.
+t c . “l"a'dw o llz c [75.5
+._(L‘ 0 L0 "cu? - 2e, 5"“, .‘ - (“.5 kj/Mle O
+
+I
+Z
+£02 0 "2 v "f". ' 2%
+
+The hydrogen reaction in the conduustion products ("2410;- nzomo), as calculated in
+relation to liquid water, is almost thermally neutral. Nitrogen is inert in this
+
+approximation.
+
+67
+
+FOR OFFICIAL USE ONLY
+The contribution of carbon and oxygen to the heat of the combustion reaction 01 is
+
+equal to the enthalpies of reactions (1) and (2). The contribution of substance 1'.
+
+(in kj per lo gir-that is, in relation to 1 percent of this substance in the powder
+
+mixture) or the so-called “thermochemical constant beta“ is:
+
+ 
+
+P. -3.""’b" ""‘LL.’ “'1; . xj/t
+‘1 “Bl;
+
+For aluninun and magnesium the contribution to Q; is calculated using these
+
+reactions:
+
+{2n . sou; . 1.120, , sou - mm a ( kg/mh n
+
+I u
+
+2n 0 ano, nan, . m, - arm ‘9 "1)
+
+Ii v “002' Ir: ' IICO - ”8.9
+
+I o “0 ‘(’5‘8)
+
+3 ‘ '2 | F50 9 I2 - ”6.0 " kj/nole Hg
+The thermochemical constants are:
+P? n . 1:2 11/. P, ,9 . 132 km
+
+The 8T1; values obtained in this fashion may be used to quickly estimate the effect-
+
+iveness of a particular substance as an ingredient of smokeless powder (or secondary
+
+explosive having a conposition satisfying the condition nod, nsmc).
+
+To conclude this section we will present the derivation of formla (6.9). A re-
+
+action proceeding at constant volume satisfies the relationship:
+
+0, - 2.3K. (1'5. ),
+
+where Qr-heat of reaction at V-ccast., A81: (Tm—intrinsic energy of combustion
+
+products at T-Ty. Considering (6.10), we write
+
+68
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+or u. . up . k1,, ~1.xll§‘l.)-l;('f,-Tub-“44".-l.)xr,.dr.
+Hence QF ‘2“); (1' ' Ti) ‘ Ii,
+1 .. _‘.'u!.’..'5-f.=. L..- 1‘1- ‘-.’"- I'. 7‘5
+V 3a. (I; - g} ‘1,
+Having in mind that .
+.1». 1512!; ii; ,P m5:
+we finally arrive at
+TV ‘ Tp $.13 ‘ I'TI. 0h“)
+“V
+
+Note that although the 'instaneous" specific heats Opand 0y are calculated with a
+significant error, as is noted in the footnote on p 65, the error of r is much
+
+smaller and the reliability of TV is practically the same as of Tp.
+
+It should be enphasized that the well known formula TV-z-ﬂ'p is wrong when the
+composition of the combustion products remains constant. Its derivation does not
+account for the fact that the average specific heats in the interval Tp—TV in-
+crease, and as function INT) approaches linearity they increase in such a way that
+
+we arrive at formula (6.14). If as a result of the water gas reaction the couposi-
+
+tion of the products changes, growth in specific heat in response to increasing
+
+temperature slows down, and we can then use the formula ﬁnd? (which is easily
+
+obtained from the equalities
+
+“I! 'E'I‘TVIto). u. .' 61“}-10). 0' ‘09.“; c9 . bl Q n )
+
+69
+
+FOR OFFICIAL USE ONLY
+6.3. Refined Calculation of the mmmc Characteristics of Cosbustion Products
+
+The principal values obtained in calculation of the thermodynamic characteristics of
+cowustion products are adiabatic tenperature Tp (or Ty) . R-noRo and r-Cp/CV. As
+was noted earlier, acquisition of these values by calculation in the zero approxima-
+tion would be sufficient in a nuber of cases of evaluating the performance of ex-
+plosive or powder. The dependability of this approach is verified by calculating
+the concentration of the dissociation and reaction products (3-7). At temeratures
+below 2,000‘K and high pressure formation of nethsns, unaniua and (in the presence
+of excess carbon) carbon dioxide is met probable, while at high teQerature NO.
+clz, 0H, 02, ll and 0 form. Reduction of the pressure promotes fornation of the last
+
+four substances. The concentrations are found by formulas given in Table 6. For
+
+example.
+“’ . r" ‘” 51"" “0 NnZ)‘ u,.f‘_’n.
+"t- “4‘ l'h'u "‘7? 2""'.' 7'".
+. X fuel 5(1))". a";
+
+If the concentration of the products of dissociation and of additional reactions is
+not large (less than 0.05 holes/kg for examle), the zero approximation may be
+
+thought of as sufficient: The error of all of the principal calculated parameters
+would be less than 1 percent. If the concentrations of the secondary products are
+
+sizcable, the calculations should be continued further.
+
+After we determine n11”) we set up the balance equations for the different ele-
+ments and calculate the new values of the 7: initial elements ("ﬂ”). Using these
+values we repeat the calculation of the composition of the principal cosbustion
+products similarly as we have done in the zero approximation, after which we once
+
+again calculate the enthalpy of the reaction did the adiabatic tenperature. We
+
+70
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+repeat the calculations until such time that the teqaerature remains constant
+
+within iO-ZO'K.
+
+Another way of calculating Tp (or T7) is to select, on the basis of the zero approx-
+
+imation, two tenperature values close to the anticipated true value, and calculate
+
+the couposition first at one value and then at the other, after which the true
+teuperature and other characteristics of the reaction can be determined by linear
+
+interpolation (or extrapolation for a slight distance, in) to 100‘K).
+
+In this case if the error of determining the heat and temerature of coubustion can
+be within 1 percent, we can use approximate relationships for the enthalpy of the
+
+products, as given in Table 1. If greater accuracy is required we would need to
+
+use the AMT) given in (3).
+
+Table 2 of the Appendix conpares the conﬂition and theraodynanic characteristics
+
+of combustion products calculated in the zero approximation for a number of second-
+ary explosives; the figures were obtained by conputer calculation at a pressure of
+300 sun. The computer calculations were run on the basis of 40 equilibrium reac-
+tions. of the obtained products, the table contains only those for which the
+
+concentration was about 0.1 moles/kg and higher.
+
+For 18-19 of the explosives, the approxinate and precise calculations of all indi-
+cators showed good consistency at 0.35<ao<0.85 at a tenperature of 2,ooo< Tp‘ 3,500’K.
+It should be noted that most practically eqloyed powders not containing high-
+
+calorie metals and halogens fall within this interval in terms of comosition
+
+and temperature .
+
+Temperature Tvo obtained for secondary explosives in the zero approximation can be
+
+related to the computer calculated temeratures (TV) by a simle formula:
+
+71
+
+FOR OFFICIAL USE ONLY
+We arrive at a similar formula for ultra-ethane mixed with tetranitromethane and
+
+nitric acid:
+1'. - 2w 0 o.wt.'
+
+1b calculate the characteristics of the discharge of gases from the nozzle of a
+rocket engine we need to know the entropy of the cosbustion products. Entropy is
+calculated on the basis of the conceit-Jon of. the mustion products using tables
+
+showing the dependence of standard entropies $9. on temerature (3).
+
+In the zero approximation the following tor-nus can be used it the teaperature is
+sufficiently high:
+
+2.9:..j'4r1 (ht-saotmLQ-g Wu.
+
+0
+where 51'! is the standard entropy of. a mixture of gases (to include the entropy
+
+of mixing) at atmospheric pressure and at the temperature 2'} at which the rule
+A8,; - 55(T'Ti) begins to be satisfied. 15- 2.000%: would be
+
+a convenient choice. The $422000 values for some ooubustion products are given in
+
+Table 11. Entropy 5220.00... of Some Combustion Products (cal/mole'°x, l kcal- 4. 84)
+
+-——-——s.
+
+       
+
+Ti" 7 .nm ' 6 76.100
+F 51%?) (222%!) '°
+2' 3:2? n o I: m
+cl. 69:66? 3 ’ 59:,“
+c, 65.3" “’0’” emu
+I? 75.1% up 27.95:
+"a 69"“, ’99,”
+1-, ”was
+”1:
+72
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+6.4. The nanic Characteristics of the Products of a Hi Pressure losion
+
+At pressures from thousands to several tens of thousands of atmospheres we perform
+the thernodynanic calculations with an equation of state containing virial coeffi-
+cients. 'lhe results arrived at by the calculations described in section 6.2 are
+
+a zero approximation in this case. 131s equilibrium constants of the principal re-
+actions (1) or (2) are found at the tesperature of the zero approxiuation (T; or T3)
+using the data in Table 6, and the coefficients of activity rd of the reagents are
+found using formula (4.6) . 'men we use formula (4.7) to find coefficient Ka and a
+new equilibrium constant for the volume within which coebustion proceeds. Using the
+new equilibrium constants we calculate the cosposition and principal thermodynamic
+characteristics of the conbustion products. When the result differs significantly
+from the results obtained using the formulas in section 6.2, we repeat the calcula-
+tions in relation to the new temperature values. An exaeple of the calculations can
+
+be found in textbook (1).
+
+At higher pressure we would have to use the Mi-m'yunayzen or the Becker-Kistyakovskiy-
+Wilson (an) equation. Bquilibriuu constants [(0 calculated by Zubarev and Telegrin
+(14) using an equation of the fore (3.30) for reactions (1) and (2) are given in
+Table 12. Consistently with change in the equilibrium constants, as pressure rises
+the concentrations of 002 and 820 grow while the concentrations of 00 and Hz drop.
+
+In this case the concentration of hydrogen decreases faster than that of CO. And in
+
+fact, we get the following for reactions (1) and (2) with respect to the constant
+
+values given in Table 12;
+
+73
+
+FOR OFFICIAL USE ONLY
+I'UI UI'I'ILIAL USO. UNLI
+
+Hence it follows that the concentration of co is (K'ZC-noo‘) 1/2 tines smaller than
+
+the concentration of (I); (when this relationship is disturbed in favor of co, ele-
+
+mental carbon would be released).
+
+The relationship between concentrations of 820 and 32 is:
+
+I I I
+“id "“2. “lemon/Wen) -g “10"zéncoz"/€
+
+At high pressure (about 10 GPa) and excessively high temperature (up to 4,000’10
+both constants are much greater than unity, and correspondingly the ratio nag/nazo
+is very snsll. therefore significant quantities of nolecular hydrogen are formed
+only when an excess quantity of hydrogen is present in the explosive. At high
+pressure (asng a high charge density), formation of hydrogen in response to
+
+detonation of conventional explosives may be ignored.
+
+The general formulas for calculating the cosposition of the explosion products of
+
+acne explosives are:
+
+”o“g"‘¢"‘zi u u 3‘- I n I
+. .ie’...£ib -
+lkk‘r..hla.”ll Mug" ‘K‘U n: .““I (05)
+C
+
+-'.-".
+we». w... ~ -_ ,
+
+where 718,113 and "(20) are the concentrations of the elements in the initial explo-
+
+sive, moles/kg (or moles/mole). Bquating rig-a, n20) -b, nﬂ-Zh and ncoez, and
+
+dropping some of the subscripts from the equilibrium constants, we get
+
+““3 K.A'; “up“ Lixthfyi); Kw3.k—k'..o.
+
+74
+
+FOR OFFICIAL USE ONLY
+Equation (6.16) is solved by the method of. successive approximations. This is more
+
+convenient than solving a third power equation.
+
+In cases where the concentration of hydrogen in explosion products may be ignored.
+
+system (6.15) simplifies to
+
+"MR"- u, mun-k uh...- S-k, n“: u‘r _
+
+I
+
+Hence
+
+n-.——-.
+
+.9310. I”): 19“, ”5‘3; «Ewan-4), (6.17)
+
+This expression may be used as a zero approximation when the asst-ption that hydro-
+
+gen is absent in the products is doubtful.
+
+Table 12. Equilibrium Constants K' for Reactions (1) end (2) (See Table 6) at
+High Pressure (14)
+
+.1)— - - - -
+l‘caemM I)
+
+.9. ﬁle
+
+    
+
+   
+
+1. Reaction
+2 . GPa
+I‘M- vs‘tsunu WI- Vl‘h.
+
+Table 13. Comosition of Secondary Explosive Detonation Products: Calculations are
+
+made with the 3m equation of state (moles/mole explosive) at detonation
+wave pressure and temperature (TD, PD)
+
+   
+
+_ we
+”'90
+9:93
+$.l'9
+2 .nl
+Lin
+I .- 2'
+Key:
+
+1. Explosive 4. Pm
+
+2. Density, gn/cn3 5. [Che word illegible]
+
+3. Hemogen
+
+If nc-o (for conventional explosives this is observed only at large values of so,
+close to unity). the relationship between 7100, 7:002, "820 andnnz is governed by the
+
+equation for the water gas reaction. Formula (6.2) is used in the calculations.
+
+Finally at ao>l the composition of the detonation products is written in the same
+
+way as for the zero approximation at moderate pressure:
+
+“‘43.“... aVa,n.‘-u;/1- au.,.u.L,-2.; (a. l.i)
+1f metals are present in the systole-Al, Hg, B and others, it is presmed that they
+burn up in the detonation products to produce the appropriate oxides (3.1203, ago,
+8303 ctc.). As is the case with moderate pressure, we begin the calculations with
+transformation of the metal into its oxide. mining oxygen is consuaed in oxida-
+tion of carbon and hydrogen. At high detonation pressure formation of metal nitrides
+
+is possible. We will not examine these motions here.
+
+76
+
+FOR OFFICIAL USE ONLY
+FOR OMCIAI. USE ONLY
+
+In the presence of chlorine and fluorine Hcl and HP for- in the products of hydrogen-
+containing explosives. Formation of a certain quantity of cm. has also been demon-
+
+strated to be possible. we will not consider this substance in our calculations.
+
+Table 13 shows the results of calculating the mitim of the detonation products
+of some explosives at different initial charge densities. we can see that as density
+decreases (and consequently as the detonation pressure decreases) the concentration
+of co and H2 in the explosion products increases while the concentration of C01,
+
+820 and CK decreases. At very low but practically fully attainable initial charge
+density the conposition of the detonation products is consistent with that calculated
+
+on the assumption that the equation of state for an ideal gas is applicable.
+
+One interesting feature of the state of the products of detonation occurring at
+ultrahigh pressure is that the following relationship is satisfied within a rather
+
+broad interval of pressures:
+
+p s av"; where". z”: i,‘~ “an”
+
+is a polytropic equation. When the charge density and pressure decrease, n decreases.
+From the standpoint of the theory of free volume this means that forces of reépulsion
+play the principal role in equations such as (3.50) for detonation products. The
+role of the thernal ccuponent and the forces of attraction, which depend weakly on
+value. is snaller. the lennard-Jones potential (6-9) probably provides the most
+accurate description of the true state of combustion products (this is indicated
+
+by calculations made by Zubarev and lllelegin (14)). In this case the relationship
+
+we get for pressure is p- (a/V“)-(b/V2)+ T; at small , the second and third terms
+
+of this relationship somewhat weaken the dependence of PHI) on the first.
+
+77
+
+FOR OFFICIAL USE ONLY
+I use ‘0. I I‘vlﬂh U9“ U5... I
+
+6_.5. mansion of the Detonation Products of Condensed Substances
+
+In the first approximation. detonation products undergo polytropic expansion (6.18).
+In this case the pressure drops very abruptly: At 71-3 it is proportional to the
+ninth power of distance. As pressure decreases the polytropic index decreases and
+
+the rate of pressure decline slows down. At coordinates lg V-lgPthe curve PW) may
+be approximated by two straight lines. 1n. slope of the first in the high pressure
+
+range is n, and the slope of the second is 2'. change in slope occurs at pressures
+
+on the order of l,000-2,000 atmospheres.
+
+The effective polytropic index (usually knead) is used to calculate the work of
+
+expansion of explosive charges in a casing.
+
+In view of the consequent intense changeinthe constants for reactions (1) and (2)
+(Table 6), it is extremely difficult to calculate the cosposition of combustion
+products as it changes in the course of expansion. In this connection attempts have
+been made since long ago to experimentally determine the heat and composition of
+explosive detonation products. The first apparatus intended for this purpose was
+the Bikhel' bonb--a sealed vessel with walls 10-20 as thick and a capacity of 20-50
+liters. The internal cavity of the bomb is sealed with a lead lining. and it is
+covered by a nassive lid with 10-12 huge nuts tightened down by a l.S-neter wrench.
+A charge weighing 50-200 gm was suspended in the center of the boat and exploded by
+means of an electric detonator. Prior to the experiment air was evacuated from the
+boob by a vacuum pump to a residual pressure of several dozen um 39. Bore-coupact
+and convenient devices appeared later on, but their principle of operation essentially
+remained the same. The results of experiments with a freely suspended charge are
+
+shown in Table 14.
+
+78
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Table 14. Results of Experiments With a Detonation Calorimeter (Using a charge
+Without a Casing) and of Calculations Using the Bquation of Sate for
+an Ideal Gas _
+
+ 
+
+()c-nc'rss—uponyxros. sou/Ion” l
+
+no: 0 _
+0.010.010 : 0.49)
+0.” a.“ CM W5,
+0.03 0.0” ~.
+5.07 0.00% 0.22 3 . om.
+5,901.16 0.25 ‘ ' 0 any
+
+   
+ 
+ 
+  
+  
+
+    
+
+  
+ 
+
+  
+  
+
+      
+  
+
+Key:
+1. Composition of products, 4. 'l'rotyl
+moles/Iole explosive 5. Octogen
+2. Experimental 6. Benaotrifuroxane
+
+3. Calculated
+
+Table 15. Results of Experiments With a Detonation Calorimeter (Using Charges in
+a Hassive Gold Casing) and of Calculations Using the Hi-Gryunayren
+
+Equation of State (3.39) (2)
+
+ 
+    
+   
+  
+     
+    
+    
+
+ 
+ 
+  
+
+ 
+   
+
+   
+
+( a u, = «m
+
+2. [.60 0.30 1.10 1.20 ml 0.20 0.007
+1.9:: 1.00 0.»; 1.52 1.25 3.6‘. 0.1-:2 0.1 I
+3)!‘0Nor!805ll1.96 Lea o.~0 1.50 [.59 mo 0.23.
+
+(5)0000»: f. . 1,89 all, a 0190
+
+1.06 5.16 0.10 5.68 1.92 0.1? 0J0 0.05.
+Jam" 1760! 0.265 5.06 0.3q 3.9? 2.01 0.1:! 0.000.24-
+
+—l— (6)50ﬂ0‘llu0wmu 1.; 14-5 “qr. 5.05
+
+that u 2.8? 0.09 0.01 2.93 1.5!- I157 0.005 0
+races? 1475! "49': 0J2 0.05. 2.99 1.“? mm (nor-20.03:
+
+Note: All, for liquid water, kj/kg; po--qn/as°.
+‘Old data.
+“Calculated using the an equation (3.13).
+
+ 
+
+ 
+ 
+
+     
+  
+
+ 
+
+Key:
+1. Composition of products. 4. Trotyl
+moles/mole explosive S. Octogen
+2. Experimental 6. Bansotrifuroaana
+
+3. Calculated
+79
+
+I70! OFFICIAL USE ONLY
+I'Vn VI I swans. you Va‘ul
+
+It should be pointed out immediately that these results may produce the completely
+wrong impression as to the composition of explosion products at high pressure--at
+tens and hundreds of thousands of atmospheres. When detonation products expand,
+especially without expenditure of energy, the pressure within them drops very
+strongly. while the temerature remains practically constant (in principle, it
+
+may even grow). An equilibriun in keeping with a relatively low pressure establishes
+itself within the space of the bow. In this case the composition of the explosion
+
+products is calculated with the equation of state for an ideal gas, as described in
+section 6.2. Examples of such calculations, shown in Table 14, demonstrate that they
+
+are fully in agreement with experimentally obtained values.
+
+In order to hinder secondary reactions at low pressure the explosive charge is
+placed in a massive casing made from a soft metal (lead or copper). When the ex-
+plosion occurs the casing disintegrates, and minute fragments fly apart in all
+directions at high velocity. Energy is expended upon disintegration of the casing
+and propulsion of its fragments, the explosion products cool quickly, and secondary
+reactions are slowed down. In order to prevent interaction of explosim products
+with [one line illegible] at the University of California (USA), the casing was
+made from gold. The results of experiments with trotyl in a gold casing are given
+in Table 15, together with old German data. ‘Ihese results differ from those obtained
+with freely suspended charges: The explosion products of benzotrifuroxane include
+a large concentration of 002, while the explosion products of trotyl contain much
+00; and H20. In the case of octogen-r. substance richer in oxygen--the difference
+in the results shown in tables 14 and 15 is smaller. But these researchers were
+unable to completely inhibit the reactions proceeding during expansion or establish
+
+the composition of products formed in the detonation wave. This problem has still
+
+80
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+not been solved. The one thing that we have been able to do is to comare th'é‘
+composition of expanding explosion products determined experimentally with calcula-
+tions performed according to several of the available methods. These calculation
+results are also given in Table 15. It follows fron then that following an explosion
+in a massive casing, the equilibrium probably freezes at a temperature of 1,500-
+l,800°K, approximately the sane as with a conventional colorimetric boob, though of
+course at much higher pressure (0.5-5 GPa). Concurrently the consistency of the
+calculated and experimental results also demonstrates how reliable the theoretical
+
+models are.
+
+It may be concluded in general that the thermodynamic methods of calculating
+damnation processes in condensed explosives are for the moment much less developed
+than the methods of calculating processes occuring during conbustion of fuels. The
+main difficulty is associated with the absence of a reliable and universal equation
+of state for mixtures of gaseous and condensed substances experiencing a teaperature
+of several thousand degrees and a pressure of hundreds of thousands of atmospheres.
+However, this area of science is developing quickly, and we can anticipate arisal
+
+of new interesting and inportent results in the next few years.
+
+81
+
+FOR OFFICIAL USE ONLY
+‘0. VI 0 IV"... MU“ VI‘I'I
+
+APPENDIX
+
+Table 1. Comparison of Methods of Calculating the Enthalples of Formation of
+Some Organic Substances: The difference (keel/mole) ”Hexperiment'
+"MHcalculacem determined Ly different methods is given.
+
+ 
+
+       
+ 
+ 
+ 
+
+      
+
+ 
+
+«arcane (1) 3' allmuwpuwm 3 menu Auepceu nun-pt 3 I
+. 3'." I . l
+(IHT'L. . . - I
+(H’s-um:
+I
+11.313'930”! 3 «2.33 “.58 I .00 3
+14 “can 310 15' . 3 - -
+( Es..,uul : . 113.02 0.1? 3 36.06 I was! 4.92 3 0.3L 3
+- ._3,_ _ . . . . Q _ 3
+.353 ...... 3 :-3:33: 3-3 *3 = °:°° 3 3:: : 3.3: 3 3:33 3
+(lax-.3.” ;- was” -u.o~ : 5.05 I 43.06 : -c.w - 3 mu- 3
+: «z.~: - 3 - ' - 3 .33. 3.21 3 0.x 3
+(17$-.;.:xc:-. .31- ._‘ 48.9w 3 -C-.Ul ' 3.1.25 3 -c.15 E 4.79 3 3 I 0.0? 3
+.. ' : E i 1 5
+-- :m- 'c 3 : '
+”eh-gol 3:353. I 3 «1.1-5 3 3.11 : ﬂaw! ; -.-.-: g 5.15 3 3.3:- I
+(19) . .' "01.23.: 2' 3 - 5:; 3 112‘s 3 'Uozc i --"".' i 3 3 . c. a 3 ?:g I
+..., .- .. _I_ l .u'- " i “ '5 - . .-
+(20)'-'-----~-~1’w- .3. #332133 3 “I" 3 41:1! 3 1.5 . 3 “2'. 3 113,8:
+.__ - - ___'*__L_ - I ' I J
+anon:
+
+‘—
+
+  
+ 
+
+  
+
+'. e; ..uue - '3"
+
+ 
+
+ 
+
+I 3 .1332: acrepuoznft
+(21$‘.T.Tzﬁ;a—nfuu—?TT:;.0.3 -c. 3 34.27 4.11 i 3 3 «3.2: :
+(22)::i-3fiiug'iegssau 3 3 43.363 —o.27 .1-35 3 3 3 -c.:u
+(mm-...; 3? $3333 131:. 3 r" 3 1:95 3 2.15 30.35 3 33.83
+
+' ' - ' .
+
+(24).1m.13:::. 3 3:333:33 «1:333 —o:u 3 via.) 3 1.35 30.5” 3 3:33
+(25):,31-‘33 =4 1‘ 3°“: '0'“ 3 MC 3 ”5 30.50 ' 33133
+(26)"7 21331.net u-rc ; 3:33.732}! 193 3 ILQ 3 5:0} 3 3.15 30.50 3 45:3: 3 .
+(27). 2:33.333". ma 3: $33.33 1375 I 6:“ 3 “:23 3 5'” W2 ? .3333
+awn-.3133): 13-” 3323333333 1:17 i 31:60 3 5:5} 3 2.60 3”.“ I -3.'6€ .
+(29).:onzamsu an. 5 . 3333333 5:61 3 «.351 3:15 3 1.13 33.13 $33.3 3
+(3°) ""-'"“'“ i: 23:33: “"53 "‘3 ' “"7 E 3:33 31.33 i
+(31)....m ."a-‘c :3 T323533 -u.25 3 «3.51 3 «3.3:. 3 3:33 3 31:3” 3
+(“y-magma 3‘ 2 2325.33 3.1.56 3 41.24 | : Iu-‘x
+
+32.19 ' 3 1.0;-
+. l I I
+_—-_—.———_—__——-—__——
+
+[Key on following page]
+82
+
+FOR OFFICIAL USE ONLY
+' I
+w I'm: 1 4m:
+‘ ~.'l‘ | -U,h2 l
+I} - , I.US l u.?2 '
+. ‘ 1.x o.uo . «5.17 g
+33 - I '3 ' u 9L' '
+|. l 1&- l 1.:0 I 03:: I
+__.___.—_——L——-————
+
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+
+35.
+36.
+37.
+
+Bthylbenzene
+Butylbenzene
+Phenyltetradecane
+
+Average for 13 mmalkylbenzenes
+Ethanol
+
+ﬂeptanol
+
+Average for ll alcohols
+Propionlc acid
+Valerie acid
+Nonanoic acid
+Propionic aldehyde
+Heptenal
+aexanone-z
+[Illegible]
+ieo-thoropropane
+iso-Pluoropropane
+Propylamine
+Bthylnitrate
+Propylnitrate
+tun V0 11905» Mull: thus;-
+
+able 2. memdynanic Characteristics of the
+Explosives
+
+' manual“. @cpuyu. ‘ - .
+
+unl- 00 "annu- l 32
+(1).. N"). no ‘zuun ‘ no ‘
+
+4.. . oucntm
+
+      
+
+ 
+ 
+
+(2E..::‘.“‘-‘3 °§‘2‘;‘3‘im ‘9‘"
+. . .
+.---'.:: “mt. o: ‘ .
+(”Hz-,1... z (-zsa’;:.-.2ss) 3%.
+
+    
+ 
+
+-.'J! (‘262‘0q39) “.94
+
+- . 2: ritual NS '
+up:',..:$a:';-zsvao.m) “:2:
+
+'.:;::- “cum
+(5);; :ji‘éf‘ (mamas) ~s.os
+, '7'.-;.-.:: an 82.23
+\7.’ .ja,.3§,:(-123;o.m) _ same
+(a')'. ; rauncmupgun I038
+. .:._.=:~:2|-; (-IODkQ‘SS) ‘3‘”
+
+‘ _ . was
+afg’rﬁ'é‘lﬁ‘ﬁﬁ’xﬁaz) 39.87
+
+  
+   
+   
+  
+   
+   
+
+. .123!!! a: ' SI 90
+‘16-” :. .:§.3-°(-zua «mm 5510:
+'elepp. ‘ 41.79
+
+1.3 z
+‘* I’ must; mm was)
+
+.
+.
+
+    
+
+,______’——-—____.______——-——-‘-
+
+I ' ' I o
+
+( p. .. . ,nggxgxgng- : .. ’. ..
+:a: “:53; rav—‘Ukw‘X” : -
+
+{13I2Ku222059lgtu99 m -
+I 373355.: \‘lSHESJJJFJ
+
+‘19¥.:if"§3§’?53§: at .12.-
+
+”Nil-”x
+nay-tag? 9',
+(11y "11n33ﬁ§?c.51:o ’
+(13):; ,3 «Quacxeurnyqﬁng-ze-n
+
+"'"-“=‘.". \—;:-:-5 L.-.~.
+
+-.‘i-"
+_l
+
+( l9)? ..' - .' ‘331£:HT.‘.|1329.’..52':'|23"'
+‘ «tong-f." (-‘L’ﬁ; \ t‘$-)_ '
+
+(20f. - -~'r«~..=°;-:r-pu-! _..
+[on 2 .‘-."°; Lu§=-)
+
+. ”L‘JZ
+
+I "“93.
+
+2’5u'
+
+[Key on following page]
+84
+
+FOR OFFIOAL USE ONLY
+: i
+(25) .. ~ I I I 2195:2391 3.54, gigﬂxzzlcesﬁmggégi'IIE'ifgjégé
+‘26) ﬁfgfgffﬁgucasse) I £513; 9:36'13I39:3126§i s.a£13.§5l1.51:|o'612g?§.31£15332
+‘27) ”$5.13: 33§§?z.99:= i 3&3? 5.30! 3239’ 23% 2:33gigﬁgxéclcbnéiffEfﬂgl‘zzﬁ'ﬁ?
+us» my.” I...» ; 333:: 0;. 3-5 2:2? aeslféﬁilzés .;.,..:s; {35329355339
+“.9, f... ,wms' as; ' I J: go; ﬁnk-£33.53
+
+ 
+
+ 
+
+ 
+   
+
+Note: The first number in the parentheses following the nane of the explosive is
+
+Mpgs , kj/kg, and the second is no. For each explosive, the upper row of
+nlnbere represents the results of calculations using the approximation
+method given in this book. and the lower row represents the results of
+precise couputer calculation at P- 3-107 Pa. Because products having a
+low concentration are ignored in the couputer calculations, no may be
+
+Key:
+1. Name. formula. enthalpy of 16. 2,4,6-‘kinitroreeocine
+formation (kj/kg), coefficient 17. Mononitroglyool
+of excess oxidant 18. 1,3-Propyleneglycol dinitrate
+2. m-mononitrotoluol 19. 1,2-Propyleneglycol dinitrate
+3. 2,4-Dinitrotoluol 20. Trinitrofluomoglucin
+4. Trotyl 2l. Benogen
+5. Trinitro-m-xylol 22. Glycerin dinitrate
+6. Trinitroaniline 23. Hethylnitrate
+7. 'rrinitrobenzene 24. P811!
+8. Hexanitrodiphenylanine 25. Nitroglyool
+9. Hemitrodiphenyl 26. nitroglycerin
+lO. Bthylnitrate 27. Erythritol tetranitrate
+ll. metryl 28. Hannitol hexanitrate
+12. 1,4-Butyleneglycol dinitrate 29. Nitrouethane
+
+13. Trinitrobenzoic acid
+
+14. Trinitrophenol
+
+15. Triethylenoglycol dinitrate
+16. 2,4,6-
+
+85
+
+FOR OFFICIAL USE ONLY
+3.
+
+5.
+
+6.
+
+8.
+
+9.
+
+10.
+
+11.
+
+I'UK UI'PILIAL 03‘ URL!
+
+muss HEW
+
+Andreyev, K. K., and Belyayev, A. P., "neoriya varyvchatykh veshchestv'
+[Explosives Itheory], Moscow, oborongis, 1960, pp 384-444.
+
+Mader, c. I... 'Nmerical Modelling of Detonation,“ Univ. of California Press,
+Berkeley, 1979.
+
+"Temdimmicheskiye svoystva individual'nykh veshchestv" [Thermodynmic Pro-
+perties of Individual Substances], Vol I and II, Moscow, Izdz-vo AN SSSR, 1962.
+
+Alemsov. V. Ye., et a1., "'nemdinanicheskiye i teplotizicheskiye svoystva
+
+produktov sgoraniya“ [Thermodynanic and memophysical Properties of Co-bustion
+Products], Vol I-VI, Moscow, VIMI’H, 1971-1978.
+
+Karapet'yants, To. 101., "Khinicheskaya ternodinanika' [Chemical Themdynanics],
+3d Edition, Moscow, 'Khimiya', 1975.
+
+Stall, D., Vestram, 3., and zinke, 6., "lOziuichsskaya texnodinanika organicheskikh
+soyedineniy' [Chenical 'metnodynalics of Organic Mums], Moscow, “Mir”, 1971.
+
+Key, Dzh., and Debi, '1‘., "Tablitsy fizicheskikh i khinicheskikh postoyannykh"
+[Tables of Physical and Chenical Constants], Moscow, 612111., 1962.
+
+Gorbachev, S. v., "Gazy pod vysokin davleniyen, Uchehnoye posobiye' [Gases Under
+High Pressure, a Training Manual], Moscow, Izd-vo mm in. D. I. Mendeleyeva,
+1971.
+
+'rsyan' Syuz-sen', 'Pizicheskaya mekhanika" [Physical Mechanics], Moscow, 'Mir",
+1965.
+
+Landau, L. 0., and Lifshits, M. Ye., ”Statichesticheskaya tisika" [Statistical
+Physics], Part 1, 3d Edition, Moscow, ”Nauka", 1976.
+
+zharkov, V. IL, and Kalinin, V. IL, "Uravneniya sostoyaniya tverdykh tel pri
+vysokikh davleniyakh i telperaturakh" [Equations of State for Solids at High
+Pressures and Temperatures], Moscow, "Nauka', 1968.
+
+86
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+12. Karapetfyants, H. 101.. and Karapet'vants, .M. I... "Osnovnyyé mmdinanicheakiye
+{mus taut'y organich. i Morganich. ‘ve'shcnes‘tv"' [Basic Mmdynmc Constanta
+of Organic and Inorganic Substances], Moscow, "minus", 1968.
+
+13. Sorkin. R. Ye., 'Gazotemodimika raketnykh dvigateley nu tvordoq‘ toplive
+[Gas-Walks of Solid-Fueled Racket Engines], Moscow, 'uauka', 1969,
+pp 85-133.
+
+14. Zubarev, V. 8., and Right, G. 3., com Ml 8581!, Vol 158, No 2, 1964.
+
+comment: Hoskovskiy khiniko-tekhnologicheskiy institut in. D. I. Handoleyeva, 1979
+
+11004
+CSO : 8044/02 33
+
+-mp-
+
+87
+
+FOR OFFICIAL USE ONLY

@@ -1,0 +1,2630 @@
+APPROVED FOR RELEASE: 2007/02/00: ClA-RDP02-00050R000100010017-1
+I‘OR OH‘ICIAL USE ONLY
+
+JPRS L/8210
+9 January 1979
+
+TRANSLATIONS ON USSR SCIENCE AND TECHNOLOGY
+PHYSICAL SCIENCES AND TECHNOLOGY
+(FOUO 2/79)
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publicatiwr- curtain information primarily from foreign
+newspapers, pnrlndirals and books. but also from news agvntv
+transmissions and broadcasts. Materials from foreign-language
+sources are translated: those from English-language sources
+are transcribed or reprinted, with the original phrasi:: and
+other characteristics retained.
+
+Headlines. editorial reports. and material enclosed in brackets
+I] are -Jppllcd by JPRs. Processing indicators such as [Text]
+Jr :hxccrptl in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given. the infor-
+mation was summarized or extracted.
+
+Pnfamilisr names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+'3.£? gens $39 REGULATIONS GOVERNING OHNERSHIP 0F
+23“”L'.§ REPRQDUCED HEREIN REQUIRE THAT DISSENINATION
+.'.~' I“?! [CAT ION 5E RESTRICTED FOROFFICIAL USE ONLY.
+I. "vs Nu. 3-" I ' A ' N.
+
+O
+, ' rpm «e
+T
+
+9 Janua 1979
+SCIENCES AND TECHNOLOGY, (P000 2/79)
+
+     
+      
+   
+   
+   
+ 
+   
+ 
+   
+      
+   
+   
+   
+     
+ 
+
+ 
+
+     
+
+ 
+ 
+
+9. IN-uumin‘ tip-niacin. Near AM Adda-a-
+Joint Publications Research Service
+1000 North Glebe Road
+
+Arlington. Virginia 2220!
+
+I1. ‘rwmuine ("niacin New and Addie“
+
+As above
+
+I}. ban-Ire: Macy Nun
+
+I0. Mun... u
+
+  
+
+The report contains infernation on aeronautics; astronomy and astrophysics;
+atmospheric sciences; cheaistry; earth sciences and oceanography; electronics
+and electrical engineering; energy conversion; materials; asthenatical
+sciences; cybernetics. conputers; mechanical, industrial. civil. and urine
+engineering; nethods and equip-mt; nissile technology: navigation.
+comunications. detection. and counterneasures. nuclear science and technology;
+ordnance: physics; propulsion and fuels: space technology; and scientists
+
+and scientific organization in the physical sciences.
+
+      
+      
+    
+        
+   
+      
+    
+     
+      
+     
+     
+
+   
+
+. Kc, lurk .m.l "on we! Analyse» O. "res—nylon
+
+USSR Electronics Hissile Technology
+
+  
+
+Aeronautics Electrical Engineering ﬂgviggtion and
+Astronony Energy Conversion Coumicstions
+Astrophysics Materials Detection and
+Atnospheric Sciences Hatheeatics Comteraeasurea
+Chemistry _ Mechanical Engineering Nuclear Science and
+Conputers Civil Engineering Technology
+Cybernetics Industrial Engineering ordnance
+
+l-iarth Sciences Harine Engineering Physics
+()ceanogrephy Methods Propulsion and Fuels
+
+ 
+  
+
+'m. H. unis. r. '0" ml calul Trm- Equip-eat SPICG Technology
+
+     
+   
+ 
+    
+
+  
+
+"r- i "M" 'v- “I'm-vu- 01.03.06.07.08.09.10.11.12.13.110,16.17,18.l9.20,21.22
+
+M. \u "IA-elm ‘04an
+
+For official Use Only. Halted
+Nil-her of Copies Available Fro. JPRS
+
+  
+
+‘ "W ”"“‘ "" ' """ run run» an at narsooucco WW“ "”"’"
+FOR OFFICIAL USE ONLY
+
+JPRS 1/8210
+9 January 1.979
+
+TRANSLATIONS 0N USSR SCIENCE MD TECHNOLOGY
+PHYSICAL SCIENCES AND TECHNOLOGY
+
+(moo 2/79)
+CONTENTS Paar.
+
+anemones AND “MIC“. ENGINEERS
+
+"metallic Circular waveguides for Radio Relay Line Routee
+(Yu. H. Iaayenko, at al.; BWSWAZ', Sep 78) .......... l
+
+GNPHYSICS. amount“ AND SPACE
+
+Studying the Bottom of Lake Baykal by Uaing Scheraiblee
+(A.S. Konin. Ya. c. Hirlin; PRIRODA. No 10. 1978) ......... l5
+
+PUBLICATIONS
+
+Develoernt of Program Software for a Sectoral Actuated Control
+System
+(0N. Golovanov. V.V. Shkarupa; RAZRABOTKA 8W0
+OBBstmIYA mstoY As". 1978) OOOOOOOOOOOCOCOOOOOCOI6 33
+
+Protecting Conunicationa Pacilitica Prom llazardoua and Inter-
+fering BfEecta
+(Mikhail lvanovich Mikhaylov, at al.; ZASIlClll‘rA SOORUZIIERIY
+SWAZI 01' OPASNYKH I HESIIAYUSNCRIKN VLIYANIY. l978) ....... 61
+
+Verbal Communication in Artificial Atmepherea
+(Doria lvanovich Petlenko. Leonid Sergeyevich Butyrakiy;
+RZCBEVAYA SWAZ' V ISKUSS‘I'VENNYIOI ATHOSPBMKH. 1978) ...... Mo
+
+Optical Comnicationa Haveguidea
+(1.1. ‘reuain; vowOVODY OPTICIIBSKOY swan, 1978) 66
+
+Tests (Theory, Deaign and Application)
+(Nikolay Andreyevich Solov'yev; TESTY. 1978) .............. 69
+FOR OFFICIAL USE ONLY
+
+BLBC‘I'RONICS AND ELECTRICAL BMINBBRIN
+
+UDC 621.372.823
+BDE‘I'ALLIC CIRCULAR HAVEGUIDBS FOR RADIO RELAY LINE ROUTES
+Moscow BIBKTROSVYAZ' in Russian No 9, Sep 78 pp “-62
+
+[Article by Yu. N. Iaayenko, V. V. Halin, and A. P. Kokonin, submitted 3
+Apr 1978]
+
+[Text] Introduction. The growth of the carrying capacity of radio relay
+coummnication systems imposes heavier end heavier demands upon the quality
+of the waveguide plumbing.
+
+In principle, it is possible to separate the vertical and horiaontal parts
+
+in the plumbing. The vertical part is characterized by its considerable
+length (up to 120 e) and rectilinearity: the horizontal part is relatively
+short (up to 20 m) and, as a rule, has several elbows. Therefore, waveguides
+used in the vertical part must have sufficiently low linear ohmic losses.
+
+It is nor necessary to bend waveguides (with the exception of the case of
+
+a special elbow). The waveguides of the horizontal part may have higher lin-
+ear ohmic losses, but must tolerate sharp bends. Due to this, it is practi-
+cal to use rigid circular waveguides in the vertical part of the plumbing,
+and flexible elliptical waveguides in the horizontal part.
+
+Ol-uic losses in a circular waveguide working on a fundamental wave an can
+
+be reduced by increasing its diameter. However, in this case, in a real
+waveguide having random discontinuities the excitation of parasitic waves
+growth and the parallel flow increases. As a result, the total (fluctuation
+and transition) noise caused by the waveguide plumbing could even increase
+for waveguides with enlarged diameters. The existing copper circular wave-
+guides (CH) 70 n- in diameter have insufficiently high electrodynamic param-
+eters and do not make it possible to realise a waveguide plunbing with a high
+capacity due to the low precision of the inner channel of the waveguide. In
+this connection, it became necessary to develop new waveguides with consider-
+ably higher parameters than those of copper waveguides.
+
+Individual problems of the development of new bimetallic waveguides (W)
+are discussed in [1,2]. This article gives the results of a couple: study
+of bimetallic waveguides and their geometric and electrodynnmic parameters.
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Design Features. The bimetallic waveguide section is a steel carrier pipe
+with a thin layer of copper 0.3 en thick plated on its inner surface. The
+copper layer and the steel subntrate are connected permanently. The inner
+diameter of the BER is 70: 0.05 on, the thickness of the waveguide wall is
+
+lo Ill, and the length of the section is S n. The outer surfaces of the ends
+of the sections have fitting bands and circular grooves machined on a turn-
+ing lathe (Figure 1). In order to ensure anticorroeive protection and stable
+highly conducting contact, the ends of the sections and a pert of the outer
+surface, including the grooves, are covered with a layer of nickel.
+
+ 
+
+figure 1
+
+when sun are connected, flanges are placed on their ends, elastic split rings
+are inserted into the grooves, and rubber sealing rings are installed. The
+centering is done with a sleeve. The butt joint is tightened with bolts.
+
+In order to obtain high-quality 3H", a special Iultistage production tech-
+nique was developedl.
+
+Main Advantages of BMW over C": l) a substantial saving in copper -- 90-951,
+for exanple. for an RRL [radio relay line] of 1000 km -- over 23 tons; 2)
+
+the possibility of using rigid suspenders, which are si-pler than the spring-
+type suspenders, due to the closeness of the linear expansion coefficient of
+the BHH and the radio relay most; 3) a considerably higher strength and the
+rigidity, which considerably reduces the possibility of damaging waveguides l¢°
+cidentally in the process of their transportation, storage, installation,
+
+and operation; 0) completely dis-ountable structure of the butt joints which
+ensures a greater degree of compactness and has 6-6 times greater tensile
+strength; 5) a substantially higher real precision of the inner channel.
+
+Electrical Parameters. The ohmic losses of BM" are practically analogous to
+those of CH. According to the data of article [2], the losses in the freo
+quency range of 3.0-3.9 on: do not exceed 1.8 dB in a route length of 100 n.
+
+excitation Level of Reflected Have “11' The main sources of the excitation
+
+of the reflected wave are the steps at the place of junction and the pulsation
+of the diameter of the inner channel of the waveguide. As analysis has shown,
+the second source can be disregarded in comparison with the first one, there-
+
+fore oints alone are examined below.
+i The production technique was developed under the direction of A. A. Shev-
+chenko and H. 3. Rogov.
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The theoretical evaluation of the reflected wave level wee done by formulae
+
+obtained for a waveguide 70 In in diameter from general relationa for calcu-
+lating jointe given in [3]:
+
+__ -r -r
+Wﬁ=3.24- lO"-E°7+0.58 31-
+
+f-a3,4 [Tn ca:
+
+__ 1' 'r (1)
+“75:04 . 10"%+o.29%.
+
+f=3.9 rm. 6“
+
+where TV} to the neen value of the energy of the reflected wave from
+
+one joint; 3—5-53 are the mean valuea of the equator of the zero and
+
+eeoond harmonica of the Fourier series of function 6 U?) which character-
+iaea the atep at the place of junction.
+
+The valuee of 73. and 3? were determined by the reaulta of neaeurenent
+
+of the diameter end ellipticity of the inner channele of large number of
+uaveguidea. l‘he hietogran of Figure 2 ehova the reeulta of neeaurenente of
+the deviatione of the average (over the croee section) diameter D from ita
+rated value. The neeeurenente were conducted on 23 eectione of a waveguide
+every 100 Ila along ite exia. The mean value of the dianeter D for thia group
+
+wee 70.01 an, and the root-nean-equare value of the deviation of the diameter
+from ita mean value vae 0.015 In. Renee
+
+Vial/Wan" am.
+
+ 
+
+Figure 2
+
+ 
+
+an: up; «w: o an (m an
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+2.9%
+
+ 
+
+M 1W 495 407 M NH
+Figure3
+
+In order to find ‘1. we need neeeurenente of the elli pticity 3 only of
+the ende ot the wevesuidee beceuee, due to additional machining. they heve
+e eonewhet greeter ellipticity then the inner chennel of the weveguide. The
+reeulte of the neeeurenent of 3 of 300 ende of wevesuidee ere ehown in e
+
+hietogren 0! Figure 3. According to theee dete
+
+end , eccordingly,
+
+V—‘V— [Ga-0.017 uu.
+
+Yor the found weluee of 8: end i; , in eccordence with (1). we ohtein:
+
+TrTrI-oM-10"(—69 n5). ‘3
+[53.4 m: GR:
+
+w" moss 10" (—7215). an
+{-3.9 rm. ‘
+
+'l'he reflectione of the were ﬂu were deternined eleo experimentally with the
+eid of e poleed reflectoneter Ill-lo which nede it poeeihle to ieolete the re-
+flection tron individuel jointe. The neeeurenente were cerried out in the
+wevcgoide plunbing inetelled et one of the opereting m. Reflectione iro-
+epproxinetely 220 jointe were deter-ined end enelyeed. the 7evereged welne
+of the reflected weve energy wee very eull "1 - 10.9 - 10'7 (-63 43). Con-
+eiderins the poeeible individual ineccureciee in the eeeeohling of the wewe-
+guidee. it ie pouible to coneider thet the esreenent between the neeeured
+end celculeted (by the neeeured geonetricel perentere) reflection coeffi-
+ciente wee good. Anelogoue electricel neeeureaente of butt jointe of CH
+
+6
+POI! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+were also conducted. They showed that the anplitude of the reflected wave
+in them was, on the average, 3-4 times greater then in BM".
+
+Excitation Level of thraneous Have 8 1. Haves of various types can be ex-
+cited on waveguide discontinuities. 9n the frequency range of 3.4-3.9 68:
+which is being examined, only the 801 wave among the extraneous waves in a
+waveguide 70 an in diameter can propagate. The source of the excitation of
+the 801 wave in the plumbing is the nonrectilinearity of the real axis of
+the waveguides, as well as the steps and fractures in the places of their
+
+junction. The evaluation of the level of the 301 wave excited on these dis-
+continuities is given below.
+
+The axis of a waveguide has, as a rule, a spatial bend, however, only the
+projection of the bend onto the plane determined by the highest value of the
+component Br of the wave "11 participates in the excitation of the wave 301.
+As was shown in [3], the amplitude A01 of the wave 301 at the output of a
+section of length L is defined by the formula
+
+Au (63Q3*(3)¢"°'"M ‘42. (2)
+
+where )c(:) is the curvature of the projection of the axis onto the above-
+sentioned plane; 01 and £511 are the phase constants of the waves 301
+
+and H11 respective y. The values of the fundamental values in (2) for two
+frequencies are shown in Table 1.
+
+Tab lo I
+
+M
+a" - e.
+I cat l in I llcm I Q
+
+30‘ l 0.7939 I.”
+8.9 I 0.102 1.1
+
+ 
+
+00
+
+—‘
+
+In formula (2), the amplitude is normalized in such a way that its square
+
+modulus is equal to energy. The mean value of energy at the output of the
+plumbing consisting of n sections arranged arbitrarily in relation to one
+
+another --_. T—
+V = M“ ('11.).a '= "I s: (l-)i’- (3)
+
+The return 801 wave is not considered here, because its amplitude is substan-
+tially smaller than the amplitude of the direct 301 wave.
+
+The function )6(e) necessary for calculations was determined experimentally
+by means of measurements with the aid of devices specially created for this
+purpose. The results of the calculations for 90 waveguide sections (over
+15,000 measurements of the axis curvature) conducted on an electronic com-
+puter in accordance with (3) are shown in Figure 4. The curves in Figure ‘
+
+5
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USB ONLY
+
+were plotted in the following manner. Out of the 90 celculeted veluea for
+eech' frequency of the Liv-3.9 on: range, we eelected the higheet and
+the loweet valuee uhich were ueed in plotting the curvee. It can he eeen
+
+iron the curvee that the excitation levele of the 301 veve are very low and
+do not exceed -53 d3.
+
+ 
+
+Figure lo
+
+Heeeurenente of a batch of. vaveguidee manufactured at e diﬂerent tine
+
+yielded eieilar reeulte. which indicatee e aufficiently good atehility of
+the developed technique.
+
+The everage level of the 801 wave at the output of the plumbing coneieting
+n eectione determined by lomle (3) for n-lO (LI-50 I) ie ~67 end ~68 d3
+reepectively for the fraquenciee of 3.6 end 3.9 68:. end for 11-20 (L-lOO n)
+ie .51. end do! on for the eaee veluee of fraquenciee.
+
+bet ue uee the relation given in [3] for celculating the excitation of the
+301 wave et the jointe. ‘i'heee reletione are given in Table 2 for the aver-
+age (£1: the net of jointe) veluee of the energy of the direct and re-
+
+turn V51 vevee 301, where '8: ie the mean velue or the eeuere litude of
+
+the tint harmonic in the Fourier expaneion of the etep 6 (1)); 31 ie the
+nean velue of the equere angle of fracture of the exee at the plecee of junc-
+tion. The data of Table 2 correepond to one joint. For e pluebing coneiet-
+
+ing of n jointe, the nuericel valuee of the coefficiente euet he lultiplied
+by n.
+
+Table 2
+
+       
+  
+
+1.10 , mm omw
+e
+
+3
+. 0.517: 1.2367 on“?
+
+ 
+
+6
+FOR OFFICIAL USE ONLY
+son orncm. use 0qu
+
+The value of TE was determined by the results of the geometric control of
+the value of eccentricity of the outer diameter of the neck end the inner
+diameter of the waveguide and the value of the gap between the neck end the
+
+inner diameter of the centering sleeve
+
+(Vii—0.03 nu).
+
+The value of 92 is connected with the nonperpendicularity of the end plana'
+of the waveguide in relation to its axis. Analysis of too ends of waveguides
+
+yielded the value of Vﬂﬁ?2800003 radian. According to these data, we ob-
+
+tain the following for one joint:
+
+W=u69- 10"(— sushi/1‘...
+muss . 10"(— 52 as) at f-
+umes: "Ways. Io-‘(—55 as);
+
+ﬁ=2.68- 10"(- 56 as)“ 1»-
+-33 GUS.
+
+Thus, the average accumulated level of excitation of the 1 wave (fro. bends
+of the sections and from the joints) in a 50 m long channe is evaluated by
+magnitudes of -hl and -45 dB for the freqeuncies of 3.6 and 3.9 one. respec-
+tively; and in a 100 m long channel, -38 and -az dB for the same frequency
+values.
+
+Excitation Level of a Cross-Polarised Have (CPW). The main source of excita-
+tion for a CPR, i.e.. a wave with polarization perpendicular in relation to
+the fundamental wave, is the presence of even a small ellipticity of the
+cross section. The excitation of the CPU causes elliptic polarization of the
+911 wave at the output of the channel.
+
+The CPU level was evaluated both theoretically and experimentally. Theoreti-
+cal evaluation was carried out for the purpose of establishing the connection
+between the CPU level and the value of the average ellipticity of the wave-
+guides, which is necessary for substantiating the precision requirements
+
+for their manufacturing (with respect to ellipticity).
+
+Let us assume that the plumbing is assembled arbitrarily, i.e., without
+
+matching the sections with respect to one another and the entire channel in
+relation to the polarisation plane of the all wave. Then, in order to solve
+the problem of the permissible value of ellipticitv, it is sufficient to ex-
+amine the problem of a channel with ellipticity constant with respect to its
+
+7
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+value and direction. Preliminary analysis has shown that it is in this case
+that the CPR level will be the highest.
+
+First, let us mention that the degree of the excitation of a CPU can be eval-
+uated by two methods: either by the ratio of the axes of the polarization
+ellipse of the elliptically polarized wave a1, at the output of the channel,
+or by the amplitude of the R1 wave at the output of the channel polarized
+perpendicularly to the direction of polarization of the H11 wave at the in-
+put of the channel. For the bimetallic waveguides discussed in this article,
+due to their small ellipticity, the direction of polarization of the funda-
+mental H11 wave at the input is close to the direction of the major.axia of
+the polarization ellipse at the output of the channel, i.e., the difference
+between the two above-mentioned methods can be disregarded. Hereafter we
+shall use the second method, which is aimpler.
+
+Let us use A‘ to designate the relative (in relation to the amplitude of the
+wave ll 1 at the channel input) amplitude of the wave n 1 at the channel out-
+put poIarized perpendicularly to the polarization of the wave an at the in-
+put, end, for short, refer to A“ as the CPR amplitude. Then, it is pos-
+aible to obtain the following expression for A‘“ :
+
+d3:
+Lg, 2! ___.
+A ‘sin 1. sin 2| (6)
+
+where 81 is the angle between the major axis of the ellipse of the cross sec-
+tion and the direction of polarization of the wave Rn; z is the length of
+the waveguide; AI'S is the difference of the coefficients of the phases of
+waves polarized along the major and minor axes of the cross section ellipae.
+If a is the difference of the axes of the ellipse, then, as it is shown
+
+in [3]. 3:15573l3m’.
+where ﬁnal/P—Ipf'la': a is the radius of the waveguide, slit-1.84]... k-2n/l.
+
+9 ' DInax'ualin '
+
+At worst, when 61 - '17/4. from (6) Aga¢x=|
+nesa of the magnitude Apr/2,
+
+sln &
+2 or, due to the small-
+
+Ant-e == 163 21% (5)
+.max
+Thus, we have for the CPU level:
+Ag-uamlgldazm. dB (6)
+
+It follows from formulae (6) that the permissible value of the CPU level
+(not over -25 dB) in a 100 m long channel is ensured at 9 .4. 0.0015 In.
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The permissible ellipticity being so snail, the fabrication of waveguides
+becomsa unrealistic. Thus, it is practically impossible to make waveguides
+which would ensure high parameters with respect to the cross-polarieation
+
+of the channel without any matching. The only way out of this situation is
+to introduce some tuning of tho channel. The matching of individual sections
+to one another is a very laborious operation. Therefore. it was suggested
+to tune the channel assembled arbitrarily by rotating it in relation to the
+exciter.
+
+If the entire channel had a constant and nonrotating ellizticity, then. as
+
+it follows tron (lo). at 01 a 0 or ‘JT/z, the amplitude A changes to care.
+When the direction of ellipticity is not constant. :he amplitude A" is not
+equal to tero, however, as it will be shown later. it decreases substantially.
+First, let us examine a model of a channel consisting of two identical parts
+(r/Z long) with constant ellipticity. but turned in relations to one another
+at an angle of 02. If in this case 01 is the angle between the direction of
+polarization of the I!" wave and the direction of the major axis of the el-
+
+li so of the input waveguide, then the amplitude A" at the channel output
+
+[Is is
+val/[sinnmnO-m%)]’:[::E;;Eo.+o,)nn‘-g£]i '
+
+When the entire channel turns, i.e.. the angle 01 changes, the minimal value
+of A" will be
+
+ 
+
+ 
+
+ 
+
+mlnA‘u-‘sin 2'), sin’l—‘ai . (7)
+
+This minimua has the second order with respect to the snall value of A ﬁt,
+and zero will be only in a special case, at 02- ’n‘f/Z. There is no first-or-
+
+der term with renpect to A]! t even in more general cases when the channel
+consists of an arbitrary number of parts with constant ellipticity or of wave-
+guides with variable ellipticity.
+
+Let us now examine a channel consisting of real waveguides whose ellipticity.
+ns measurements showed, is variable both with respect to its value and direc-
+ticn. First, let us establish the connection between the value of A" and
+
+the. value of average ellipticity for each section. Prom the general relations
+
+given in [3]. it is possible to obtain the following formula in the first or-
+der with respect to Ag:
+
+1
+,‘L-é—L‘A3 sin2|d’(¢)+'l.ldl o (a)
+
+9
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+where O (t) in the angle of rotation of the ellipae of the croea aection
+along the waveguide in relation to the poeition o! the ellipae at the wave-
+guide input; 0‘ in the angle of the input poeition oi the ellipae of the
+
+croee aection in relation to the polarisation of the wave II" at the input.
+
+in order to carry out calculationa by (8), it ie neceeaary to know the differ-
+ence of the area and the angular poeition of the ellipae along the axle of
+the waveguide. ‘rheee data were obtained by neane o! neaaurenenta with a
+apeciel probe pulled through the inner channel of the waveguide. Then, 01-
+naxian- valuee of the on level were calculated for individual frequenciea.
+The reaulte of conputatione for ten waveguidea aelected at randoI tron a
+hatch are aa iollowe: the mean ellipticity '5 variea tron aection to aection
+within the linite of 0.0l500.060 III, minu- (with reepect to the engle 01
+and with reepect to frequency) valuee of the 01’" level vary within the linita
+of ~53 dB to -25 dB. The obtained reaulte are deecribed with a eufficient
+degree of accuracy by the relation 23*4‘8033'. if the waveguide had
+
+a conetant ellipticity. then, ea followe free (5),
+max *
+M A “1.643.
+
+‘i'hue, a waveguide with variable ellipticity ia equivalent to_ a waveguide with
+conetant ellipticity equal to one-half of nean ellipticity 3 . ‘i’hia nakea
+it poaeible to replace a real channel of aectiona with variable ellipticity
+with a channel of waveguidea with conetant ellipticity. Analyaia hae ahown
+that the woret caee for an equivalent channel will be that when one-half of
+the pipee in the channel have identical poeition of the ellipeee and are
+turned at the angle 02 - Tr/lo in relation to the other half of the pipee in
+which the poeition of the ellipeee ia alao identical. ‘i’hen, proceeding iron
+(7), .t
+
+mink -(.\3 :H)‘.
+(9)
+
+hence, for x - 100 n, f - 3.6 an: and the CPU level $ -25 db, we obtain
+the per-iaeible value of 3 s 0.0125 II. Allowing for the relation be-
+tween the conatent and variable ellipticitiea, 5 é 0.025 an. no ie ahown
+by the nnalyeie of the reaulte of neaeurenente. the diatribution of the el-
+lipticity valuee ie clone to the ey-netric torn, therefore, the final per-ia-
+aible ellipticity value 3 “x S 0.05 -.
+
+The obtained value of the allowance for ellipticity correeponda to the woret
+poeition of the aectiona in the channel. But, aince their arrange-ent in
+relation to one another in accidental. we evaluated the probability P of ex-
+ceeding the preacribed value of the cm level when the aition of the chan-
+nel aa a whole in relation to the axciter ia optinal [bf ‘i'he reaulte of the
+
+10
+FOR OFPICIM. USE ONLY
+FOR Ol'l'ICIAl. USE ONLY
+
+ 
+
+conpucntione are ehown by the curvee in Pigure S. An a example, let ue ex-
+anine a 75 I-long chaan with the ellipticity 9 - 0.018 III. In accordance
+with (9). ite vorat cm level ie -25 dB. However, according to ﬁgure 5b,
+the probability of exceeding the on: level value of ~35 db. i.e.. location
+of the CPR level within the lilite of -(25-35) dB, conetitutea only 0.6%.
+
+Elli—$3112!
+, "5o: 7 a 9
+
+Pigurc 6
+
+Experimental etudiea were conducted both on individual eectione and on col-
+plete channele. the diagram of neaeurenente ie ehown in Figure 6 which hae
+the following deeignatione: l -- Iicroweve neaeuring oecillatore; 2 .. in~
+dicator; 3 .. cmial-to-waveguide tranaducer; lo -- ferrite ieolator; 5 --
+
+11
+FOR OFFICIAL USE ONLY
+FOR Oﬂ'lClAL 088 ONLY
+
+treneforner of the ueve ll“) of e rectangular ueveguide into the ueve lln of
+e circuler veveguide: 6 -- evivel union; 7 -- circuler veveguide 670 In uhich
+in being neeeured; 8 -- roteting probe; 9 .. notched loed. Cooperieon of
+the mounted veluee of the on level for the eene ten eeetione for vhich it
+vee detenined by coeputetione ehoved that correletien between then vee euf-
+ficiently good.
+
+ 
+
+Figure 7
+
+The reeulte of the experiuntel etudiee of veveguide chennele ecu-bled
+vithout netching the eectione ere ehovn in Pigure 7: e .. the dependence of
+the CW level of e 35 n-long channel on the eagle of inclinetion O . Ae cen
+be eeen from the figure, the uoret velue of the cm level ie -22 d . end the
+beet velue ie 402 db; h -- the dependence of the cm level for one of the
+"good" poeitione of the exciter in reletion to the chennel. ‘l‘he cm level
+for ell frequenciee being emined ie not over ~62 dB. The eolid curve cor-
+reeponde to the firet poeition of the claim of the electricel field being
+neeeured cround the periphery. end the broken curve correeponde to the net-
+ond niniu. ‘l‘he fect thet the curvee do not quite coincide could be due to
+the preeence of the 201 veve in the eggregete field.
+
+Figure 7c ehove the frequency cherecterietic of e veveguide chennel 75 u
+long. The erciter of the Ill veve ie turned to the optinel poeition, end
+the cm level (eolid curve) oee not exceed ~62 db. The turn of the poler-
+iretien plene of the working veve et the output of the chennel in reletion
+
+12
+FOR OFFICIAL USE ONLY
+l’Oll OPPICIAL USE ONLY
+
+to polarisation at the input did not oxcood 1.5 dogrooo. the broken curve
+io plotted according to the data of noaouronont conducted two nontho later.
+It ohowo a good otability of the paronotoro with tine. Vory high reoulto
+were oloo obtained in Ieaouring other channele. colparioon of the obtained
+reeulto with an example of colputotiono ( 3 - 0.0l0 on) than that the ana-
+ouronento corroopond to the theoretical ovaluationo.
+
+0n the booio of tho conducted theoretical and experinental otudioo. a now
+method of oooonbling waveguido channelo (in their linear porto) woo propoaed.
+Sectiono are aooonblod in on arbitrary oannor without any netching with one
+another. Then, the optinol pooition of the oxcitor in rolation to tho chan-
+nol io doteroined. The doteroined outuel pooition of the oectione and the
+onciter io narhed. Aftor dioeooeobling and tranoporting to the inatallation
+cite, the olenontoof the channel oro oooenblod in the order lurked. 0y uoing
+Th1! aooeobling nothod in coobination with high-procioion am, it io poooible
+procticcily to enouro a on level of not woroe than «35-60) dB of the linear
+part of the channel in the entire 3.6-3.9 Gilt rango. Hith the oano aooonbl-
+ing nethod. the cm lovol for o channel with cu in by 5-10 d3 lower in the
+oono frequency range.
+
+In accordance with tho propooed method, it io not necoooary to tune individ-
+uol oectiono by the angle of rotation, which Iohoo tho aoooobling ouch loot
+loboriouo.
+
+Studied on long (up to 120 n) antennauwavoguide chonnelo (men) with the nu
+of Ill! with reopoct to the introduced noioo have ohown that a carrying capa-
+city oi ovor l000 'i‘Ch [audio Iroquoncy] channolo can bo achieved in culti-
+channol oyotooo with ouch chennolo (for oxanoplo. in the oyoton "uncover-2").
+Moreover, nong the ole-onto of the channol, a long waveguide introduceo o
+«all percentage of noioo.
+
+Concluoiono. l. 'i'ho high-precioion Ill! which havo been developed, put into
+production. and introduced on Iain consolation linoo oatiofy the require-
+nonto ilpooed on waveguidoo uood in the nwcn of Iodern Iultichamol (about
+1000) rodio relay oyotooo with reopect to all poroutoro.
+
+2. with roopoct to tho goouotrical paroootcro, am not tho require-onto
+i-poood by the we [lntornotional Bloctrotochnical Co-iooion]. l'or example,
+the ollowanco for the m dianotor io $0.05 -, while in accordonco with the
+Inc otandardo [s] it io 10.01 a.
+
+3. The average neaoured aqlitude of the reflected wave an iron a butt
+joint in approxiuotely 0.07% for llﬂ.
+
+d. The proposed new Iothod of aooo-bling waveguideo io leoo laboriouo and
+onouroo high pare-ctoro of tho aooo-blod channel. ‘l'ho level of the crou-
+polarirod wavo in a 100 I channel dooo not oxcood «SS-£0) d0.
+
+5. Hethodo were developed for calculating the slain electrical para-otor of
+circular waveguidoo by known geoootrical para-acorn.
+
+13
+M OHICIAI. USE ONLY
+1.
+
+2.
+
+3.
+
+lo.
+
+5.
+
+FOR OFFICIAL USE ONLY
+
+Bibliogrephy
+
+Malia. V. V., end leeyenko, Yu. H. "Bveluetion of the Level of Excite-
+tion of Undeniable We of ”even on Diecontinuitiee of Circu'er Reve-
+3uidee Intended for chennele of India lleley Cot-unicetion Linee," um
+Tents [Treneectione of the Centrel Scientific lieneetth Inetitute of
+Cmicetione]. No 2, I975.
+
+nettihin, A. A.: Nedenenko. l. 0.: end Poluehin, o. P. "Yeedet Chennel
+iron linetellic end Elliptic aneguidee for Radio Reley Co-uniutione.”
+ammu'. No 6, 1973.
+
+Keteenelenheue, I. z. ”Teotiye netegulyetnykh volnovodov e nedlenno
+unyeyuehthiuieye petenetteni" [Theory of lmsuler neveguidee with
+Slovly Chengins Pete-etere]. mom, m 3333, 1961.
+
+Helin. V. V., et el. "Anelyeie of the Excitetion of e Crone-Poluited
+“ll wave in Circular Iiuetellit Reveguidee.” VIM! [All-Union Scientific
+Reeeerch Inetitute of Inteteectoriel infatuation]. depoeited unoectipt
+No «1.002344. Abetrett publiehed in MM collection ”Riport”, no 9.
+1976.
+
+me Publicetion 153-1. "cenetel Heeeute-ent hequirmnte end Methode.”
+
+comma: Itdetel'etvo ”Svyu',” alehttoevyet‘.” 1978
+
+10. 233
+680: 1870
+
+1‘
+YO! OHICIAL US! ONLY
+FOR OPHPIAL USE ONLY
+
+OWSICO. W All) apnea
+
+worm 113 m or mm mm BY 081m SWIM
+hoooov mm in hugoian no 10. mo pp 58-69
+
+[Articlo by A.S. Honin, cotroaponding aoobor of tho USSR Acadaay of Sciontoo
+and diroctor of tho Inatituto of Octanology iaoni PJ’. Shirohov of tho USSR
+Acodeoy of Soioncaa, and Yo. 0. hirlin. candidato of zoological-ainorologioal
+Scioncoa and labotatory head of tho Inatituto of Oeoanolosy iaoni PJ’.
+Shitahov of tho USSR Aoadoay of Scionoool
+
+(hart) Laho mkal .. h oontinontal Rift
+
+A now davioo -- aannod ouboaroibloo .. amorod manly rooantly in tho
+aroanal o! oooan invootigatoto. by aoano of which tho goologiat on finally
+ooo with hio own oyoo tho bottoa rolio! and can chock oonoopto about it
+gainod by goophyoioal aothodo. Coqlax mo o! divano human. boginning
+with ooho aouding and onding in doopvato: drilling. pox-alto ona to obtain
+oxtanoivo data on tho not intanoting ragiono of tho hottoa of at. world
+oooan and to chock nuom hypothoooo of thai: origin.
+
+In 1976, by odor of tho 088a Madam of Scionooo. two 'Piaoaa" nomad
+aubaoroibloo (Pioooo - tho consultation and oign of tho oodiac). dooignod
+for oolplax invootigationo of tho oooan bottom ad of ito vatar aooo, van
+oonotmtad in Canada. It woo daoidad to conduct tho tint invootigationa
+with thoao vohiclao in Laho Iayhal, ainco mkal lo a oontinmtal rict.
+No la that tho largo linoa: otmtuzoo of tho oarth’o mt. having tho
+ohapa o! oxtandod narrow taught. on callod.
+
+lntotoat in ritto hao inmuod oopooially afar diaoovory o! a global oyotoa
+of aid-ocoan ridgoo in tho lSSO'o thoaxial part of vhichlocut by doap longi-
+tudinal txougho. h bolt o! ooioaio activity oxtona along 61a. and 81a not
+intauivo anoaalioo of tho goothonal hoot flux. gravitational and ”patio
+tiold azo oooiinod to than. All than an aim of aotivo tactonic prooaooao.
+According to tho idoao of tho nav global tootonica. tho nav ocamio oaxth'a
+mt io tot-ad in tho axial part of tho aid-oooan ridgaa. with than
+oapazataa (to. tho :idgo axio at tataa or 2-10 a/yoar. lhio ooparatial
+
+o! ”no ooaan bottoa io part of tho largo-acalo outdol nova-ant o! tho tigid
+
+15
+FOR OFFICIAL I188 ONLY
+lithoepheric platae which include continental and oceanic surface: in approxi-
+mately identical neaeure. The platee are eeparated by relatively narrow
+belte where a large part of the mechanical energy of our planet ie relented.
+Interaction of the lithoepheric plates and the proceaaee occurring on their
+boundariee determine the geological face of the earth. 'lherefor‘e. etudy
+
+of the active tectonic belts in one of the min trends of both international
+aciantific projecte and o! national program.
+
+he geophysical fielde and the morphology of oceanic troughs located along
+the axes of the lid-ocean ridges are einller to corresponding characteristic:
+
+16
+FOR OFFICIAL USE ONLY
+Pox OFFICIAL Use
+
+ONLY
+FOR OFFICIAL USE ONLY
+
+underetend the history of the lake'e formation and also a nusber of essentially
+important aspects of global tectonics.
+
+The fact that bake Bayxal is a water-tilled rift permits one to approach
+investigation of its structure by using methods for study of the ocean bottom.
+In other words. the entire couple): of marine geophysical methods can be used
+to study Lake Baykal and observations can be carried out tro- submersibles
+for detailed investigation or the most interesting regions. mess are the
+main concepts which were the basis (or the program oi study of Lake mkal
+using oceanographic equipment. isplemented in the ulnar o! l977 by the
+Institute of Oceanology imeni P. P. Shirshov end a group or institutes of
+
+the Siberian Depermnt or the 0881! Academy of Sciences.
+
+Ii‘he ”Pisces” Submersiblss
+
+One can work in the seas end oceans up to depths of 2 km in ”Pisces“ sub-
+mersibles. The crew or the vehicle consists of three persons .. two pilots
+and one scientist-observer. Bach submersion usually lasts for not more than
+0 hours. but the lite-support system permits the crew to remain in the
+vehicle for 3 days. he weight of the vehicle is lo tons and its horizontal
+speed is 2 knots.
+
+The “Pisces-VI!” and “Pisces-x1“ vehicles were used during operations in
+Lake neyksl. They were constructed for working in sea water and, Htsrsrore.
+their use in the fresh water or Lake Bayhal created a nuﬂaer or difficulties
+caused by the diirerence in the densities ct sea and fresh water: part of
+the equipment had to be removed from esdl vehicle because or a reduction o!
+
+buoyancy .
+
+An ieportant advantage or vehicles of this design is their high maneuvera-
+bility. Beet "Pisces' vehicle has a ballast-trim system which permits one
+to regulate the rate of descent and ascent and to provide suspension of the
+vehicle at any depth and move-mot o! it at the western horizon. m vehicles
+are equipped with reversible electric motors which permit one to make
+maneuvers in the water mess and to move horizontally along a given course.
+All these qualities of the vehicles were very valuable during operations in
+Lake oeykal. where steep slopes and almost vertical wells were investigated.
+
+1he 'Piscee' scientific-apparatus cowlex includes a “mechanical arm' -- a
+multistep manipulator (or taking soil and rock samples, television and
+photographic cameras. devices for measuring hydrophysical parameters and a
+water-sampling system. Orientation under water is provided by a gyrocoqass
+and circular scanning radar. decorations from the vehicles are conducted
+through three ports. Co-unications with the surtaa are acccqlished
+through an underwater acomtic telephone.
+
+Selecting the Region of Underwater Investigations
+‘lhs main part of the ccqalsx geological-geophysical survey. the main purpose
+or which is to obtain a general idea of the geological structure or the lake
+
+18
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Geophysical data confirmed thst there is a shsrp structural ssyunetry of the
+laykal trough. Its very steep northern slaps ie a ugnificent scam more than
+l.3 kn high, which chsngse to an almost fist channel by a sharp break. me
+eouthsrn, considerably more slanting slope consists of numerous submarine
+valleys. canyons and outcrops of coastal structures. Asymtry is slso mani-
+fested in the internal structure of the ssdinsntsry use which fills the
+trough. me use or the sedimentary rock is deposited almost horizontally
+along the northern slope in a narrow band approximately 10-15 his wide. The
+eedimnts are crumpled into folds and are broken by tectonic disturbances
+within the southern side or the trough. The thickness of the sedimentary
+mess in tho southern basin oi' Lake Beyksl is not less than 2.l-2.4 kn.
+
+   
+ 
+
+|".-"IIIOIIII tun ens-a eslev senses-no
+sauna-es so ‘dntlls
+
+200 ".6"- a noun (6)
+
+m ADD-0s»! ens-area has (7)
+Mitt-OI"
+
+Lake aaykal
+m.
+l. Angers River 5. aol'shiye Katy
+2. Lietvennichnyy Bey 6. isobaths in enters
+J. Listvyanks 7. novesent of vehicles during
+4. Cape Benzowy subasreion
+
+19
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+A ugnotic ourvoy with rooording of tho vortiooi ohd horizontol coopononto
+of tho qooooonotio tioid woo firot conductod in toko Boyhoi. It ohouid bo
+oophooirod thot quiot. woohiy noqotivo nonotio ohoooiioo. Wntiy
+occurring duo to tho foot thot tho cryotonino toundotion in tho trough io
+ouboorcod to o oionitioont dopth. woro nninly rocordod in Loko mkol.
+howowr. individuol intonoivo pooitivo onoooiioo oxtondihq toword tho oiopoo
+of tho ioho hovo boon dotoninod. 'ihoy woro rocordod ohm tho pooh o!
+Modooichookiy Ridgo. which ooporotoo tho oouthorn iron tho control booino
+of tho loho. 1ho oourooo or thooo onoooiioo oro ohonow. opoorontiy
+dirootly undo: tho oodioonto which ovorlop tho otrohqu hrokon ourtoco of
+tho ridqo ond ooy ho roiotod to outcropo of tho ooin rock -- bonito. now
+nil-known on tho Uohkon'iyo Ioiondo -- in tho upliftod port of Modonichoohiy
+hi go.
+
+Molyoio of qoophyoiool notoriolo ohowod that tho moot intorootino objoot
+(or otudy uoino ouhooroibioo io tho northorn oMorino olopo of tho loko
+noor Liotvyonho ond aol'ohiyo Koty viiioooo. whoro o dotoilod gooloqicoi-
+qoophyoiooi ourvoy won conductod prior to tho boginning of undorwotor oporo-
+tiono. ﬁrio ooction io oooontioiiy dovoid of oodinonto ond ono would oxpoct
+thot ito roliot io dotominod prioorily by tootonic foototo. nocordino to
+rooulto of ocho oomding oooourooonto. tho ovorogo ohgio of tho oiopo in
+thio roqion vorioo from 25 to 40'. rho olopo io cut in plocoo by conyono.
+port of much oro oontinuod by ohovowotor wonoyo. tho olopo io (lottonod
+out oooowhot. ooporontiy duo to tho frowntory notorioi corriod out by
+on“! rivoro. noor tho oouth of tho Monro nivor in hiotvohhichnyy Boy.
+
+mo olopo for-o o otoop ooyoaotricol outcrop whooo wootorn oido io oonoi-
+dorohiy ooro olontinq thou tho oootorn oido. noor Copo norooovyy. h oigni-
+ticont nubor of divoo in tho vohicloo woo oodo in tho roqion of thio out-
+crop oinco o cruohino :ono woo found in outcrooo on ohoro. on tho oontiuotion
+of which tho oognotio onoooiy woo rocordod in tho 1oko.
+
+A totol of 42 diwoo of tho otbooroibloo, inciuding 5 doopor than 1,000 I ond
+opproxiootoly 20 to o dopth loco $00 to 1,000 to. woo oodo during tho oxpodi-
+tion. In ono of tho divoo. tho crow of hydoonouto c-onoioting of h. u.
+Podrorhonohiy. A. h. Sogoiovich ond N. s. noonikov roochod tho ooxiouo dopth
+of tho oouthorn Boykoi hooin -- 1.410 I. 'lho pion of oporotiono during tho
+divo dopondod on tho poood took. ‘lhuo. whon tho gooi of tho divo woo to
+otudy tho oiopo within o opocitic intorvol of doptho, tho vohicio woo trono-
+portod by o towboot to tho qivon point ohd o troo diwo to tho bottoo woo
+thon hogun. ‘Iho 'Pioooo" thon hooon to oovo upword o1ong tho olopo, stopping
+to toho toiovioion ond photogrophic pioturoo ond to toko rock onloo ond
+for noro dotoilod ouninotion of tho intorooting ooctiono oi tho olopo. It
+o ouhoorino conyon or mm hod to ho invootiqotod. tho vohiclo oovod por-
+pondiculor to tho undorwotor otxmturo. otoppinq to: dotoilod viouol ohoor-
+votiono ond for taking «who.
+
+According to ocho-oomding doto. tho olopo of tho loko in tho roqion of in-
+vootigotiono io o otoopiy inclinod ooooth outlooo. howovox. oboorvotion Iron
+
+20
+FOR OFFICXAI. USE ONLY
+FOR nl-‘l-‘ICIM. USE ONLY
+
+ 
+
+Clo-a ”on. oﬂo-uu- (mu - nun-nu an.
+A..." n.- “(Hutu-n (In-o. (npua —M-
+"tun-un- noun-an u-uu
+
+E "nun-nu an...“ a-I.Iau‘ll (1)
+
+m um. ova-oh. (2)
+E yuula- noun-.- ug-oun-n- (3)
+
+Plan of Operations of "Pisces." 0n the left -- movement of the
+which during examination of the slope: on the right -- during
+investigation of the submarine canyon
+
+KEY:
+1. direction of motion ofvenicle 3. sections of making video
+2. stopping pointa recording
+
+21
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the vehicles made it possible to determine additional details.‘ It was
+determined that the slope has steps whose height reaches several tens of
+meters or more and whose width reaches 200-100 n at different levels and
+that the length at right angles to the slope exceeds 100 e. The steps are
+most clearly earked in the region of Cape Bereaovyy and in Listvenniohnyy
+Bay in the upper part of the slope. The steep sections of the slope sepa-
+rating the steps are usually devoid of sediments and are outcrops of bedrock
+intersected by cracks. The surfaces of the sore sloping sections are in-
+clinsd toward the axis of the trough and their slope is approximately one-
+half that of the separating soarps. These surfaces are covered with cosy
+deposits and pebbles, rook frequents and detritus are accuuleted here.
+
+The steeper parts of the steps are excellent objects for study of the geolo-
+gical profile. Both vehicles approached the slope during the dive so that
+the geologist-observer had the opportunity to inspect the structural-textural
+features of the rock end their mineral coaposition in detail. This was diffi-
+cult to do on fresh slopes. but in many cases the rock surface was covered
+with a reddish-brown crust of rust end sasples had to then be taken in order
+to determine the type of rock. It turned out that the slope in the region
+of investigations is made q: of rock related to the Precambrian basement
+
+of the Siberian Platform. Volcanogsnic rock, widely distributed in the
+southwest and northeast of the Baykel rift zone, was not found anywhere.
+
+The sibsarine canyons end valleys are yet another isportant aspect of sepa-
+ration of the subnarine slope. Its surface usually changes in a sharp break
+into canyon walls vhidl form an angle of 10-900 with the bottom of the can-
+yons. ’lhe walls are frequently devoid of sedimnts end are outcrops of
+severely cracked bedrock. Detritus, rock fragments, rubble and sand were
+found on the bottoms of the canyons. All this and also the clearly marked
+erosion channels indicate that the canyons are natural canals along which
+the fragmentary material enters the deepwater basins. The underwater ob-
+servers recorded nuerous grooves in the bedrock. oriented along the maxi-u
+incline and formed more by fragnnts sliding downward on the slopes of Cape
+
+Berezovyy.
+
+The mrphology of the steps of the slope and submarine canyons indicates that
+they have an origin related to tectonic movements. The geologists-observers
+ascertained that the northern slope of the trough in the area of investiga-
+tion was forned by a system of tectonic disturbances whose planes are
+parallel to its surface. The northern side of the trough seems to be sepa-
+rated into individual tectonic plates inclined in a direction from its axis.
+Observations from the 'Pisces" vehicles confine the primary tectonic origin
+of the canyons and their occurrence is apparently related to transverse
+
+cracks and ruptures which feather the slain fault surromding the trough fro:
+the west.
+
+ 
+
+'Gsologists V. A. hbranov. Ye. A. Karabakov, V. V. Hatveyenkov, Ye. G. nirlin
+and V. A. Pialkov participated in the dives.
+
+22
+
+FOR OFFICIAL USE ONLY
+KEY:
+
+mm 'll-‘l’NflM. IItJ' UNIV
+
+ 
+
+(won-o anus-ow "nu-s “an” a use"
+IOI.'-Olll I an ﬁlo-em OOOnOIIDODMIO
+u a. nun-aqua. o. no..."
+
+11s.... noaaeuoacs- 4.0... M QQOOOIIQQII
+
+a “OD-Inn ‘OOQIU (1)
+
+Fa one.» coon-n Mus . out" (2)
+E 73333: .IZ'ZT'CTJIIZ.” (3)
+
+Structure of Underwater Slope of Lake naykal in the Region of
+Diving: I -- accordlnq to echo-sounding data: It -- according
+to observations from the 'Plsces'y the nutors indicate the
+depth from the surface
+
+1. bedrock 3. planet: of proposed tecto:
+2. fragments of bedrock and disturbances
+oedimnts
+
+21
+FOR (WPICIAI. USE ONLY
+APPROVED FOR RELEASE: 2007/02/08: CIA-RDP82-00850R000100010017-1
+
+FOR OPPICIAL USE ONLY
+
+ 
+
+Outcrops of Bedrock Out by a
+
+A slanting Section 0‘
+Crack 0: 0 Depth of 300 a Covered with 002:: km
+
+Steep Outcrop of Bed‘
+of 320 a
+
+24
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/08: ClA-RDP82-00850R000100010017-1
+FOR OFFICIAL USE ONLY
+
+will take Baykal Become an Ocean?
+
+A condition for the occurrence of rift valleys and contiguous uplifte. re-
+gardleee of where they are located -- on the continental or oceanic crust,
+in the preeence of eeparatione in the lithosphere -- the outer, brittle ehell
+of the earth. 'l‘hue, continental rifte are probably formed in the following
+runner. 'lhe lithoephere ie broken due to the effect of teneile atreeeee and
+a ehear crack having an angle of inclination of approximately 60' in formed
+in it. No blocha located on different eidee of the crack are formed: one
+in ite overhanging eide and the other in the oppoeite under eide. 1n.
+overhanging block exerte eonewhat greater preeeure on ite bottcn than the
+average preeaure of the vertical colm of the lithoephere, while the hori-
+zontal block. out by the eloping crack accordingly exerte leee pressure.
+Thie caunee a dieturbance of gravitational equilibrium, which leede to in-
+teneive vertical rovenente in different directione. 1he notion of crust
+which form the overhanging block rieee to the surface while the horilontel
+block. on the contrary, eubnergee. A deep trough and contiguous ridge are
+formed. mi. in the nodel for formation of aeymtrical grabene -- valleye
+with equal aidea, propoeed by P. waning-Neinee in l950.
+
+ 
+
+Surface of Ooze at Depth of 1,410 If goby (in foreground) and
+gamma crayfish
+
+Judging by available date. this model, at least in the first approximation.
+is auitable to explain the nature of the Beykel rift. Actually, there are
+numerous data of coastal geology which indicate a rise of the Primorekiy
+
+25
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Ridge extending elong the weetern coeet or Leke aeykel during the meternery
+epoch. wewe-out grottoee end coeetel-lehe bouldere end pebbles ere i‘omd
+
+et e height of lo I or more ebove the weter level in dii'i'erent regione on
+
+the weetern chore or the lehe. In telling into the lehe. the chennele of
+eeny river velleye ere eeeeingly jerked upwerd end ere broken on in e eteep
+outcrop. The outcrope. etepe, iongitudinel feulte end eteep cliiie ere
+generelly widely dietributed eleoente of the relief or the weetern ooeet of
+Leke aeykel. he we heve eeen. the mderweter relief of the weetern elope
+
+ie eleo chereoterired by the preeenoe of e lerge nudeer oi etepe. ln ell
+probebility the upliit of the Prinorehiy Ridge, correeponding to euriecing
+or the eection or cruet on the horizontel ride of the lithoepheric creek.
+
+ie eccoopenied by (oration of tectonic pletee end their collepee elong the
+i‘recturee of the nein ieult eyetee which leede to foreetion of etepe on the
+elope of the trough. On the other hend, the etruoture of the cedieente end
+the morphology of the exiel greben indicete thet it wee tor-ed under condi-
+tione or eteble prolonged domwerping. 1hue. there ere dete on the inteneiwe
+differentiel eoveeente o! the bloohe which ere predicted by the indioeted
+oodel. the dieturbente of the eedinentery Ieee on the eeetern end eoutheeetern
+eidee or the rift trough ere eleo coepletely expleineble within the fruework
+or thie echeee eince. eccording to it. the lithoephere is bent upon deep
+eubeereion of one of the blocke. Streeeee occur et the point of um bond
+which ere nenifeeted in inteneive tectonic dieturbencee of eedieente.
+
+If teneile etreeeee in the continentel lithoephere continue, en edditionel
+creek eloping towerd the liret occure in it. sieiler verticel diepleceeente
+of the eectione o! cruet will eleo occur elong the continuing crech. ee e
+reeult or which e ey-etricel greben with omen exiel block end uplitted
+liebe ie tor-ed. Subeeguently, ii the erpmione increuo. the with con-
+tinentel lithoephere any be generelly ruptured end the uetter or the
+eethenoephere .- e leyer which underliee the lithoephere end where the rock
+ie in e pertielly molten etete - will begin to be introduced into the
+formed eplit. Since the lithoepheric pletee ere eowed in thie ceee. the
+width of the (recture zone will increeee end the edgee o! the continena
+will eeperete (roe eech other. leeving e plece for the newly toned oceenic
+crust. The progreeeive eepereticn or the lithoepheric pletee will contri-
+bute to the fect thet utter or the eethenoephere will continue to be intro-
+duced into the trectm creek. 1t herdens, cryetelliree end chengoe to the
+eolid utter of the lithoephere ee the dietence iron the eplit increeeee.
+the thickneee of the lithoephere will increeee end ite level will greduelly
+eubeide eince the density of the colder cryetellired rock increeeee coepered
+to the pertielly molten rock of the erthenoephere. 1he level will be eexi-
+eu neer the trecture where the lithoephere ie theoretically generelly
+ebeent dad will then emide more and more in e direction ewey from it towerd
+the edger oi the eepereting continents. 'i‘he utter o! the eethenoephere
+herdene eepecielly repidly i-edietely in the cone of the eplit due to con-
+tect of the neon ejected to the eurtece with me oceen weter. ‘ihe cold end
+coepect exiel block found in thie ceee deecende to the level of ieoetetic
+equilibriue which in eeinteined during notion of the pletee. 'ihie ie how
+
+e deep depreeeion whoee bottoe miete o: the youngeet ejected rock of the
+
+26
+FOR OFFICIAL USE ONLY
+POK OFFICIAL "8!! ONLY
+
+ooun boom u lonod on tho bookgromd of tho gononl ”marten uplift
+at tho botto- ournoo of I now ooun.
+
+ 
+
+room-nun. «on loo-nun“ ”on.“ 6’71 to. «moon ”no-cu. (7)
+
+IO- - (“mono-u N..lﬂ".'°l0.t-OCM “not.“
+new mu“ ”not. 30- 0 cu..-
+anonn noon-l W“ n Ion-o Ino-
+cooou u no... coo-cum on out.
+new: (no... noon-u upon-out.
+
+[no I. n. Ion-ooh".
+
+tunn- mtoop-u no!
+- noun» no menu
+sum-«M ”on.“ mu (8)
+
+ﬁn! "new" *0... W
+
+@000..- Oouunmo no. (2) (9)
+
+loan.- mono-m (3)
+
+Ennis-nu “’
+Eur-u (S)
+
+E Inn-o (5)
+
+We Our: of mu m2: mono and Adjoining mu. m
+dunmrhtic futuro of tho uctouiu of tho mm 21!: mo
+
+no of tho odjooom: mu to «motion of tho uthoopMn into
+a um and»: of non plot“ which oxporioaoo oooplox mm].
+displace-ont- (nccording to L. P. zommhoyn)
+
+mun-um nos-«n an (10)
+
+FREE]
+
+(lay on following pogo)
+
+27
+FOR OFFICIAL USE ONLY
+’0! OFFICIAL USE ONLY
+
+m:
+i. Loko Boykoi 7. unoo oi ccncontroticn ct con-h-
+a. who). typo trough: quoko opiconton
+3. diopiocooont voctcro a. bconcorioo c! iithcophoric piotoo
+4. tonniio one oicropiotoo boymd tho
+5. ohoorinq aoykoi rift ocno
+6. ccnroooivo 9. you c! niotiwo nticn or plot”
+
+10. aincticn c! nticn c! piotoo
+
+and: is ﬁlo ochooo which ohcwo how on ccoon with tho uin unhoicqicoi
+otmturoo c: ito bottco - tho oid-ocoon ridcoo ond tho coop longituainoi
+doproooicno ot thoi: ooio -- ccoonic riito -- my occur ot tho rototiun c!
+o ccntinontoi ritt. Dotoiiod inwootigoticno con-iod out in tho ritto by
+uoing towod bcttcu gocphyoicoi onto- md cub-nihioo ohcwod thot thoir
+oicpoo oioc hovo o ciooriy mkod otop otxucturo. tho outoooo of axon
+otopo oxo inciinod in dinocticno'owoy loco tho oxio. rcnoticn o! tho otopo
+io roiotod to tho toot thot owidonco of tho oxioi block cccun cn o bod:-
+mund c! pioto ooporoticn, oo o aunt of mich tho iithcophozo io ooporotod
+into indiviaun toctcnic piotoo which oro inciinod in dirocticno in. tho
+tram: oxio.
+
+it io prooontiy diuicuit to prodict with ccqioto cortointy whotho: Boykoi
+will go through tho ontixo ccuroo of. dovoicpnont {too on ooy-otricoi ccn-
+tinontoi grobon, which it in ot prooont. to o oy-otticoi ccomic rift iccotod
+olcnq tho oxio of tho ccoonic hooin. It in not oxciucod thot tho tonoiio
+otrooooo in tho lithcophono of Mo mm viii ottonnoto ond thot tho qrobon
+win can to dovoicp ond will ho riiiod in by oodi-nto. Quito o tow c!
+thooo buriod ccntinontoi rifts, 'uouccooofni protondoro' to tho mic of
+
+tho ccoono. oro m. Anotho: thing io inortontn on tho booio of tho
+
+now qicboi toctcnico. qociogioto con dotonino tho Coop couoo-oﬂoct roio-
+ticnohipo of tho ovciuticn ct wozicu otructuno of tho corth‘o outoco.
+
+m Notuxo of tho hnoiio Stroouo of tho mkoi Rift who
+
+no prolonco c! o norm doop oodinont-tiiiod grobon within hiv- onkoi ond
+otopo on ito olcpo on indiroct lootuoo of tho tonoiio oto'ooooo shim pn-
+dcoinoto in o rift tcno. 'lhooo otnoooo on dinctiy ootobiiohod 2m ooio-
+sic ootorioio. mo bolt 0! ocottorod ooionicity intonocto tho Miotic con-
+tinont in. tho Ponin to atoncvyy Ridqo. northquoho opicontoro on locoiiood
+within o roiotivoiy norm bond in tho Boykoi rift m. minio of tho
+oriontoticn of. tho otzooooo ot oorthquoho toci ohcwo thot tonoicn criontoa
+ot right ongioo to it- otriko io mount in tho who! ocno. ennui“
+ccnditicno ozo rocctdod toztho: to tho ooot. Doto on tho oriontoticn of
+otxooooo ot cortmnooko toci won mod by L. P. W ot o1. to coicuioto
+tho pan of :olotiwo notion of lithcophorie piotoo which oxo ooporotod by
+tho indicotod ooionic bolt. It turnod out thot tho pull in iocotod to tho
+out of tho ncxthom tor-inn- o! tho Who]. m. ”to lithcophoric piotoo
+opprcoch oodn otho: woot c! thio point ond m owoy 11c- ooch othor to tho
+out o! it, whilo tho limo oicng which mtuoi lotion com on find by
+concontrotim c! oorthquoho opiconton.
+
+28
+m OFFICIAL USE ONLY
+FOR OWICML "SI ORLY
+
+u) mom-u mo
+
+ 
+
+"cm can no." nun-out. u ”a
+nun 0-0 on “won-o- mono-I. an
+m- a.- »u-u-Imn nun-m an I
+u «om luau—noun m
+mom m o man-u m. o nun.-
+nion-v pou- - “noun. an»... up...
+
+a I u a p -uono-
+
+E
+
+u- ndo-n mac—con
+E nun-Menu not ‘4)
+
+on“. mam
+E mum an
+
+Dingnl Ming not a single mum“ Lithuphorio Pluto My
+
+I. m Into a Mar of am Pint“ no. to an like: of
+suction Occurring Open Intonation o! m. Hutu AM collision
+of ‘81.. mp -- .9401 of inundation of 'xigid dio' into pmtic
+body in mid: arm and uni-counts occur. chum by the Cubed
+lino- md m; bogu- -- intonation of 1am put” (in the
+(mama). 11:. neon at their mm “ﬁxation m proportiml
+
+wmrnmotmpuummpmmmuorm 'dio'lad.
+6.90M on the direction. of the mum bow than
+
+(by on (allowing me)
+
+29
+FOR OFFICIAL USE ONLY
+POI omcm. USE ONLY
+
+m:
+l. plutio body i. oono of not intonoivo intorao-
+a. rigid dio tion of plotoo
+3. tiaod plato 5. dinotion o! molativo aotior, o:
+platoo
+
+'lho quootion ariooau aro tho oourooo o! tho horioontol tonoilo otrooooo in
+tho Bayhal rift tho oalo pxooooooo ao thooo on tho homdaﬂoo o! lithoophotio
+plotoo in tho oooaho whozo tho now oooanio amt io tor-o6 or an thoy cauood
+by dittonnt. oxtomal footoro?
+
+tho ooooyualioo ot tho mm rift Iona. wo tool. io onlainod boot by tho
+chart of P. holhal and P. 'i'apon'yo, who analyud tho ooioaioity and tootonioo
+or contral and mthom Mia. thin molyoio ohowo that tho ooourmoo of
+largo iraoturo moo o! tho mt at tho location of tho nayhal ritt nay ho
+oouooa by tho intonation o! largo lithoophorio platoo -- tho maoian and
+Auotrolian. 'iho diagra- o! intonotioa of tho platoo agrooo woll with tho
+“rigid dio' oodol, in tho tolo of which tho Indootan minoulo moving to
+
+tho north and widt motto prooouro on mo mooian lithoophorio plato.
+o-onoo. m thio oaoo otrooooo occur in tho lattor. duo to tho ottoot oi
+whim it io oopaxatod into a min of onllox plotoo (nioroplatoo) moving
+around dinoront poloo with mpoot to oodt othot. ham. to: omlo. tho
+Chinooo plateon toootho: with tho hoooooio tolood miono of tho hmohayhol.
+tho Pro-Alm- xogion and tho silhoto-hlih'. io ohittod in an oaotorly dinotion
+away (to. horthom mania. m Iaykal rift woo io prooiooly looatod alum
+tho lino- o! poooihlo otrooooo and io 91o homdaty of tho lioroplatoo. con-
+ooquantly. in tho final analyoio tho tonation of tho mhal rift in tho
+rooult oi prooouxo onrtod by on largo lithoophorio plato on uothor.
+
+nun. tho idoao o! lithoophorio plato tootonioo ponit ooo to tio
+
+tooothor dota o! dotoilod ohoomtiooo within tho ootivo toctonio bolt to
+tho gonotal qooayn-io oituatim within tho lam mogioa o! our planot.
+
+In itool! tho poooihility of invootioatino thio :olatiauhip in a oigniti-
+oant advantaoo o! tho how global tootonioo which ponito mental planing
+o! mtm goologioal-qoophyoioal mouth uoing now hardwm.
+
+mo goolooioal ihmtigotiono ooodnotod in Lalo Mal govo can-o to ohook
+oo- olohal oootootmio hypothoooo. not tho ooolooioal invootioatiooo woro
+notthoonlypaxtotonrpmntho 'Pioooo'vahiololadooovondivoo
+
+for biological WI and wo would liho to dioouoo thio at loaot hriotly.
+
+tho Multo o! Iiological Innotigationo
+
+momtiono ottinhohaviorottmhwatoraninaloworommtho
+tint ti- at oiwtilioaht doptho. up to livo opooi-no o! 61o widoly dio-
+trihutod mkal oil-tioh won locatod at tho oa- ti- in tho vional liold
+at tho cannon. Attonticn io pziaarily drawn to tho not that tho tioh
+ooutohovozinthowatorlaoobolowthohood. nthio ouothoixhody
+ooutontly loco wow. pulsating ntiou. hoax tho botto- tho Iayhal oil-fioh
+
+30
+’01 ONICXAI. 038 OIL!
+NR ()l-‘PICIM. "88 ONLY
+
+(«'0 \
+um: \\
+
+ 
+
+Once-u! mun... out"... mung“...- - Ff: eon-ow «e ue-ueee- (18)
+an“ A». Dee. men-en ace-u- meu ee-oeue-Ie- tune-u
+
+on." Inaoeu- «load-lee “net. lumen-
+
+(OOI «no. I awe-neu- cu it". I In" ‘ ION...” CIOOIUM 0". (19)
+”one. - acne. Ann eon-no.0 Que-m e-o §\
+
+'0. “Mann“ tone 0 fol-r poeuw «0‘70“.
+I-O‘II
+new no" an none “or. .eneor on... ..'.owuun~r "I“ (20)
+
+a dll-.-.~or "um... (16) «pram-unnr oe-u .u-cpoaoo (21)
+
+min Ble-ente of «mm o! Oenuel end Southern Aele.
+woem, whloh to pet: of the Aucrellen plece end vhleh
+me to the north. pleye the role of the “do“ ale" here.
+Canteeelon (route, folded eonee end eleo feulte vhld: eepexete
+eaeller pletee lm each other occur in General one! Southern
+
+Mle
+
+m:
+l. mm at: me 3. 57: Du'ye River
+2. All: Dex'ye River 4. Luke Belkheeh
+
+(my continued on tollovlng pege)
+
+3].
+FOR OFPICIAL USE ONLY
+S. Alter 15. mt Rivor
+
+6. Toxin Dor'yo Rivor 16. noin mm
+
+7. Induo River 17. aaaproooien frento
+
+8. Tibet 10. (unite with ohittihg aaqanont
+9. chenoi rift tano a! dioploeonont
+
+10. Roxane nivor 19. tortiory ceidod moo
+
+11. ﬂung nivor 20. propaood woooien oanoo
+
+12. Indaoton Poninouio 21. prapaood oxponoian moo
+
+13. Conqoo hivor
+id. Yonqtoo hive:
+
+oppraoehod tho oemiotieho a! can (ran tino ta tine. viqarauoiy cut into
+it end, poooihq oovorol aontinotoro undo: ito outoao. ogoin neotod toward.
+1ho biaiaaiot-aboorvoro' aooariptivoiy eonod thooo iioh ‘piawnn at tho
+Boykol battan.‘ mo boyhol ail-tioh uouoliy did not rooat to tho otrenq
+lighto at tho vohiaioo ond woro not otroid of tho ptooonao at tho “Pioaoo.”
+1ho nuoorauo qabyo o1oa rotated col-11y ta tho vohieloo. moro won eoooo
+whon oeon at tho: otmod owoy on tho inotnnont been. The qabyo nawod
+
+owoy during ottonto ta eanoat thon with o hone not. It woo natoe thot
+tho gabyo dig thonolvoo inta tho batten a: dig uniqwo nooto in tho oatt
+aato.
+
+1ho voriotiao at tho acuity of tho anonioln olang tho vorticoi woo aboorvod
+very ciooriy. Not only thoi: m-bo: pot unit value but oioa tho opoaioo
+aaopeoitien voxiod. ‘i‘ho naot obmdont tom woo notod in tho batta loyot
+ot doptho obavo ‘00 n. oopoaiony an tolotivoiy oionting aaty oiapoo.
+W-eroytioh pndaninoto hoto ond loreo opoainono of mm ail-tioh
+oro come. no batten ourfoao io papuiotod by batterdwoning atoyiioh.
+planes-in and batten eabyo. mm calanioo a! opanqoo m (and ot tho
+naot divoroo doptho an tho otoop tacky olapoo. It io typieoi thot tzoeoo
+at tho oativo vitality of batten argoniou in tho (an at mum hiilacho
+one (mole oro roeardod an tho batten ot tho non-I- dopth at tho oawthom
+port a! Loko aoykol.
+
+1ho ”Pioeoo' owbooroihioo hovo new boon inotouod an ociontitia roooorch
+vooooio at tho 088R Medany at Scionaoo and oro gooey ta boqin aporotiano
+ta otuey tho otructuro at tho aeoon batten. 1ho oxporionco oaqnirod during
+aporotiano with tho oubnoroibioo in lake loykol will bo involaoblo in tho
+(«taro invootigotiano.
+
+ 
+
+'Bialaqioto a. u. latawo, v. N. Noni-av. 0. IO. sido7.ov one u. 8. nomihav
+poxticipotod in tho divoo.
+
+comm: Imul'ntw 'Nouko,‘ ”Prim." 1978
+
+6521
+C80: 1870
+
+32
+FOR OPPILMI. USE ONLY
+POR OFFICIAL USE ONLY
+
+PUBLICATIONS
+
+OSVSLOPMSNT 0? PROGRAM SOPTNARB FOR A SSCTORAL AUTOMATED CONTROL SYSTEM
+
+Moscov RAIRASOTKA PROGRAMMNOGO OSSSPBCNSNIYA OTRASLSVOY AS" in Russien 1978
+signed to press 9 Jen 70 pp 2, 3-5. 180-190. 199
+
+(Annotation. introduction. eppendix 1 end the teble of contents iron the
+book by 0.V. Oolovenov end V.V. Shherups, Stetietike Publishers. Moscow,
+23.000 copies, 199 pegeel
+
+[Text] Experience in the developeent end introduction of progressing soft-
+vere for s sectorel eutoeeted control eyetss for the chesicel industry is
+described.
+
+The cherecteristics of systee prohless ere trested, es ere the structure of
+the genorel progressing softvere, questions of the design of dete processing
+systsss using the stenderd equipsent of the opsretionel systess of third
+generetion coeputers. Psrticuler ettention is devoted to the use of e
+hiererchicel dete henk end resote processing. The developeent work use hesed
+on the tin-360 coeputer, which is coepetihle vith coeputers in the stendsrd-
+iced series of electronic coeputers.
+
+The book is intended for specielists engeged in the developeent of dete pro-
+cessing technology in sutossted control systole. end csn be useful to the
+workers of coeputer centers.
+
+Introduction
+
+The developeent of the progren softvere for s sectorel 480 leutoested control
+systesl (also) is hesed on the vide-ecele utilisation of coeputers of the
+stenderdised cosputer series, end provides for the stenderdieetion of pro-
+cedures (or dete processing end storege. es well es stsnderd sethods of oper-
+etion in e "progreseer - operetor - coeputer" node. The correct selection
+of the requisite herduere end softvere per-its the creetnulofsneconoeicelly
+fevorehle technology for dete processing. oriented towsrds the support of
+functionsl progressing suhsystess end complexes of the OAS”. in the hook
+offered to the reeder here, the prisery ettention is devoted to coding end
+progrs-ing processes, end to stendetd vsys of utilising stsndordisod tools
+
+33
+FOR OFFICIAL USE ONLY
+POE OPPICIAL USE ONLY
+
+for the creation of the program software of data processing systems. the
+basic function of which is the derivation of reference, accounting and ad-
+ainistretive information in the fern of reference repliesand interrogations.
+this goal is achieved by means of concentrating the data on the information
+carriraa of computers and controlling the processing of the information by
+means of general and special program software. where the latter is based on
+the first, taking into account the standard procedures provided in it.
+
+sis of an economic analysis of
+
+the system. as a result of which the framework of the future system is pre-
+cisely outlined. An exhaustive and precise description of the system permits
+a reduction in the developmental cost or the special program software and m
+curtailment of the time required for its creation. The description of the
+system is based on an understanding of the requirements of the functional
+control subsystem and its economic essence. Taken into account are such
+factors as the composition and volume of the initial and finsldsto.thecheracter-
+istics of the document. the technical characteristics of the computer da-
+vicea. the capabilities and limitations of the packages of applied programs.
+as well as the standards for the overall program software and other factors.
+if a system using remote processing facilities is developed. than the caps-
+bilities of the peripheral equipment are also considered (communications
+lines. terminals, control devices). and a provision is made for combining to
+the greatest extent possible the work of the individual users, who share the
+resources of the central facility. In designing large systems for integrated
+data processing. posed along with qualitatively new probleas is the problem
+of increasing the labor productivity of the program software developers. The
+
+existence of packages of applied programs or programming systems creates
+
+only the appearance of a favorable situation. which disappears when a specific
+system is designed around them: months. and sometimes even years are required
+for the introduction and development of the letter. he the experience of a
+number of foreign firms has shown. outlays for system development where it
+
+is initially thoroughly worked out, proved to be twice as small as the outlays
+when a system is introduced concurrently with its development without a pre-
+
+liminary analysis of the system as a whole.
+
+Developmental experience with the automated control system for the chemical
+industry (ASH-khim) using third generation computer equipment, which is de-
+scribed in this book. can prove to be of interest for many designers. since
+despite several specific features of this sector for the case of control
+
+automation at upper management levels in the hierarchy, the nature of the
+problems which arise is similar to the problems of automation in other sec—
+
+(0:8.
+
+A unique feature of the present moment. which is typical of the majority of
+industrial sectors. consists in the fact that the design and introduction
+
+of systems is carried out simultaneously with the training of the special-
+ists. A multiplicity of new people work on the design of the program soft-
+ware, and of them. only a few have experience in the automation of data proo
+
+ceasing on third generation computers. Regardless of the tasks in control
+automation that these specialists are called upon to perform. they are all
+
+36
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+faced with dealing with the elements of data processing systems, and for this
+reason, an effort is made in this book to combine the beginning working infor-
+mation dealing specifically with these questions. In using the hardware and
+software of third generation computers, it is essential to know the standards
+for data control, and the functions and rules for working with common program-
+ming software, high level programming languages, packages of applied programs
+and understand the characteristics of other tools oriented towards increasing
+design productivity and reducing the cost of problem solution.
+
+Standard data processing systems, which incorporate a subsystem for data
+gathering, an automated bank, and subsystems for problem solution and display-
+ing the results as integral components have become the basic elements in the
+design of program software. The structure of such systems is in accordance
+with the logic structure of the control system, and for this reason, their
+overall design is based on an analysis of the operation of the facility being
+automated and the data processing functions in it, and are treated in Chapter 1.
+In accordance with the analysis, requirements are established for the data
+processing system, in particular, an enumeration of the specific output doc-
+uments with their printout composition and periodicity indicated. These re-
+quirements determine the structure and composition of the data base. The
+economically acceptable data processing technology, including the initial
+
+data input, the updating of mutually related sets of data (basis) and infor-
+mation output as a result of the solution of specific problems, is established
+through the use of standard programsoftware and hardware.
+
+The project planning for the data processing technology based on standard
+operational system equipment is described in Chapter 2, where the operations
+of generating and maintaining files, and feeding out information are treated;
+series processing using merger algorithms and sorting routines is analysed.
+The specific features of direct data access are demonstrated using the ex-
+ample of index-series organization, and the conditions leading to the crea-
+tion of an integrated data bank are analyzed, while the specific example of
+data processing technology in th( OASU subsystem using a package of applied
+
+programs, which organizes communications of the "product composition" type,
+is also analyzed.
+
+The technological fundamentals of working with an automated data bank are
+treated in Chapter 3 using the example of a hierarchical information control
+system, and an example is given of the structure of a data bank for informa-
+tion and reference problems of the ministry. In Chapter a. which is devoted
+to the fundamentals of modern remote information processing technology, a
+system of data input from a display keyboard is described, as are the techno-
+logy for data processing using a remote processing system, the logic of ale-
+mentary input operations, and data correction and examination.
+
+Appendix 1.
+The Equipment Complement of the Sectoral Computer Center
+
+35
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The basis of the equipment complex of the sectoral computer center of the
+Ministry of the Chemical Industry is composed of "Minsk-22" (d units) and
+”Minsk-32" (2 units) second generation computers, and one third generation
+computer, a 360-50 hanufactured by the IBM company. The computers are
+located in three places: the IBM-360-50 and two "Minsk-22" at the main cen-
+ter, one "Minsk-32" computer at Tula, two "Minsk-22" computers and one
+"Minsk-32“ at Kiev, as well as an IBM-3780 terminal station connected to the
+IBM-360—50 via a separate telephone channel. Installed in the room of the
+ministry are three IBM-3275 information displays, which are connected to the
+IBﬁ-SbO—SO via separate telephone communications channels, as well as tele-
+
+types for receiving information from the enterprises and punched card/tape
+machines.
+
+The following equipment is included in the complement of the IBHB360-50
+
+(see the figure): a central processor with a one megabyte high speed mem-
+ory, equipped with one multiplex and three selector channels and an IBM-1052
+control board typewriter; the Isa-2314 magnetic disk memories (9 disc assem-
+blies with a capacity of 29 betes each) with an IBM-2319 control block,
+which is connected to the selector channel; IBM-3620 model 3 magnetic tape
+memories with two IBM-3803 control blocks, connected to two selector channels.
+The control blocks have a switcher which provides for the simultaneous oper-
+ation of two tape transport mechanisms in any combination.
+
+There are seven tape transport mechanisms in all, of which six operate with
+
+a record density of 1,600 bytes/inch (66 pulses per mm) and one mechanism
+
+can operate with a record density of both 1,600 bytes/inch and 800 bytes/inch
+(32 pulses per mm); two IBM-2560 punched card input-output devices, three
+IBH-lbOJ line-at-a-time printers; an IBM-2703 line couunications control
+block, which includes one synchronous and one start-stop line base. Connected
+to this block are the following: an IBM-3780 terminal in Kiev, CRT information
+displays in the ministry and in the center itself, as well as five IBM-2761
+terminals and telegraph channels.
+
+He shall give a brief description of the devices cited here. The model 50
+series 360 electronic computer is an intermediate model (in terms of the
+technical characteristics) from a series of computers which are compatible
+with each other at both the programming level and at the level of peripherals
+interfacing. It operates with binary, decimal and alphabetic information.
+Numbers can be represented both with a floating and a fixed decimal point.
+
+The minimal addressable information element is the byte, consisting of eight
+binary digits. The length of a computer word is equal to k bytes or 32 bits.
+
+It is also possible to work with double length words.
+
+The direct access memory takes the form of magnetic discs, which include
+eight 2316-81 disc drives, and an IBM-2319 control block. There is a ninth
+standby disc drive. Interchangeable packets of type 2316 discs are used in
+the 2316-81 unit, where these discs include 11 plates with 20 working sur-
+
+faces. The capacity of a packet is 29.177.betes. The working surface of a
+disc has 203 tracks with a capacity of 7,296 bytes.
+
+36
+FOR OFFICIAL USE ONLY
+The [BM-3620 tape transport simultaneously records with nine pairs of heads.
+thus forming nine information tracks. Nine digits comprise one byte with a
+parity check digit. Nonreturn-to-zero recording is used to record with a
+density of up to 800 pulses per inch. and the phase potential nethod is used
+to record with a dcngity of 1.600 pulses per inch. The memories are connected
+to two IBM-3803 control units. each of which in turn is coupled to different
+selector channels.
+
+The information output is accomplished by means of a 1403 line-at-a-time
+printer. This unit prints at a rate of up to 1.100 lines/sin (with a special
+set of symbols). covering a whole line at once. which contains 132 symbols.
+
+The inn-2560 unit consists of two devices: a reader and a perforator. The
+punched cards are fed out wide side first from the reader asgasine at a rate
+of 1,000 cards/min through two sets of reader brushes into one of three re-
+ceptacle pockets. Each pocket holds 3.100 punched cards. The cards flow
+from the magazine of the perforetor through the perforation point, the read
+point end go to one of three receptacle pockets at a rate of up to 300
+cards/min. The central receiving pocket is used by both devices. which
+operate independently of each other. The unit is connected to a multiplex
+channel.
+
+The control board typewriter (an IBM-1052) permits printout on paper and
+the feeding of information into the computer from the keyboard. This unit
+is usually employed for printing out brief messages for the operator at a
+rate of 16.8 characters per minute. There are 89 print symbols on the key-
+board of the IBM-1052, and of them. 26 are line letters and 63 are special
+symbols.
+
+The IBM-2703 is intended for organising the interchange between the central
+processor and the terminals connected through communications lines. The
+unit is connected to the multiplex channel and provides for operation in a
+start-stop mode at a maximum speed of up to 600 bits/sec, and in a synchro-
+nous mode at a maxi-um rate of up to 6.800 bits/sec.
+
+The lad-3780 is the most productive terminal station, which provides for
+reading punched cards at a rate of up to 600/min and prints out messages at
+
+a rate of 300 - 625 lines/min. The unit operates in two modes: independently
+and in an interchange mode through a communications line. In the latter case,
+the [BM-3870 either feeds the punched cards through the reader, or receives
+the data which is to be printed out on the station printer. Ir the indepen-
+dent node, the data are read by the reader from the punched cards. are printed
+out. but are not transmitted to the communications line. The Inn-3780 op-
+erates in a semiduplex mode via switched or segregated communications chan-
+nels. The data transmission rate in the communications equipment and the
+modems is up to 1.200 bits/sec. Operation is possible via segregated chan-
+nels in a duplex mode, increasing the transmission rate up to 2,500 bits/sec.
+
+37
+
+FOR OFFICIAL USE ONLY
+
+The IBM-3275 is a display, which was described in Section 4.2.
+printer is connected to the Isa-3275 display for data printout, where the
+print rate of the former is 40 characters/sec.
+
+Information exchange is accomplished at a rate of 1.200 bauds.
+
+The IBM-2761 terminal is a typewriter, and can operate in a time sharing
+
+mode or can he used as a standard typewriter.
+
+Table of Contents
+
+Introduction
+
+Chapter 1.
+
+Chapter 2.
+
+Chapter 3.
+
+The Basic Components for the Design of A80
+Program Software
+
+1.1. Design problems in data processing
+systems
+
+1.2. The specific features of the managed
+object
+
+1.3. Basic models of the functional sub-
+systems of the automated control system
+for the chemical industry
+
+1.6. General program software for the data
+processing systems
+
+The Project Planning for Data Processing Systems
+Based on Standard Operational System Hardware and
+Software
+
+2.1. Standardization of operational system data
+control
+
+2.2. The fundamentals of documenting the operations
+of data processing and files
+
+2.3. The standard functions of data processing
+system designers
+
+2.b. An evaluation of the developmental time for
+data processing programs
+
+2.5. Sequential file processing
+
+2.6. Extracting information from series files
+and printing it out
+
+2.7. Processing series index files
+
+2.8. Extracting from series index files
+
+2.9. Data processing technology in an automated
+system for setting standards and planning
+
+Data Processing in Hierarchical Information Systems
+and Data Banks
+
+39
+FOR OFFICIAL USE ONLY
+
+An Ilﬂ-3285
+
+11
+
+17
+36
+
+63
+
+63
+71
+75
+
+78
+85
+
+106
+115
+123
+
+130
+
+142
+APPROVED FOR RELEASE: 2007/02/08: ClA-RDP82-00850R000100010017-1
+
+FOR OFFICIAL 088 03".?
+
+3.1. Design prerequisites for e hiersrchiosi
+infornetion syste-
+
+3.2. The functioning of e dste henk
+
+3.3. The structure of existing dete beses
+
+3.6. Dsts proceeeing technology
+
+3.5. Rourke on working with e dets benk
+
+Chapter 4. Mote Dots Processing
+
+6.1. neeic probleee in renote processing
+
+L2. The beeic functional cspehilitiee of the
+Inn-3275 displsy
+
+0.3. The principsl cspebilities of conte-porery
+genersi progre-ing softwsre for resots
+processing
+
+4.0. The orgsnizstion of dots processing bssed
+on the cuetoeer intonation sod control
+systee
+
+6.5. An applied rceote proceseing eyete- (en
+eats-pie)
+
+4.6. Rourke on the raote processing of dots
+
+Appendix 1.
+
+Appendix 3.
+Bibliogrephy
+
+OOPYRIGlﬂ': Irdstel'etvo ”Stetietike", 1978
+
+8225
+080 z 1870
+
+to
+tax omcm. use can
+
+APPROVED FOR RELEASE: 2007/02/08: CIA-RDP82-00850R000100010017-1
+FOR OPPICIAI. 088 ONLY
+
+MLIOATIW
+
+PROTECTIRO WIOM‘IONB PAOILII’IBS M HAZARDOUS AND IN'I‘BRI'BRIIIO sneer-s
+
+Moscow usacurra soommrr SWAZI 01' OPASW I MBSRAYUSIICHIIO! VLIYANIY
+in Russian 1978 signed to press 7 Dec 77 pp 2. 286-288
+
+[Annotation and table of contents fron book by Mikhail Ivanovich Hikheylov.
+Leonid Davydovich Rssunov and Stanislav Aleksandrovich Soholov, Isdatel'stvo
+
+Svyas', 288 pages , 10,000 copies]
+
+[Text] An account is given of key questions relating to protecting co-unica-
+tions facilities fros the hazardous and interfering effect of m's [electro-
+transnisaion lines]. electric railroad contact networks and lightning dis-
+charges. The values are given, of penissible hazardous and interfering volt-
+age and current in comication circuits. A technique is given for estinsting
+the hazardous and interfering influences of highdvoltage lines on co-nnications
+
+facilities. A discussion is given of the theory of the protective effect of
+various pieces of equipnent and devices used in lines and in comnications
+
+equiplent.
+
+This book is intended for engineers and technicians in co-unications planning.
+construction and operating organisations.
+
+con-mars Page
+
+Foreword 3
+Chapter 1. Standards for Hazardous and Interfering Effects in Aerial and
+
+Cable Line Comication Networks and Channels 6
+
+1.1. Per-iesible values of hazardous current and voltage 6
+
+1.2. Permissible values of interfering current and voltage 22
+
+Chapter 2. Betinates of llaurdous and Interfering Influences of External
+Blectronagnetic Poles on Co-Inication Networks and Chen-
+nels 33
+2.1. Estimate of the hazardous influence of high-voltage lines on serial
+and cable co-mication lines 33
+2.2. Estimate of the interfering influence of a VI. [high-voltage line]
+on telephone channels 70
+
+Chapter 3. Measures and Equip-sat Baployed on the Part of VL's and
+Electric Railroads to Protect Pron hazardous and Interfering
+
+Influences 80
+
+lo].
+FOR OFFICIAL USE ONLY
+FOR OPPICIAL USE ONLY
+
+3.1. General etatenenta 80
+3.2. Protective meaoureo in three-phoee VL'o end d.c. Vb'o 82
+3.3. Seoothing unite in d.c. electric railway aubetationa 86
+3.6. Draining trenoformere connected to a.c. electric railroad contact
+netuorha 88
+3.5. Reducing the influence of on e.c. electric railroad by uaing a
+three-wire 2 x 25 k9 eyetea with linear autotranoformero 93
+Chapter 6. Protecting Communicationo Pacilitieo from the Influence
+of High-Voltage Linen or
+6.1. Liot of protective meaoureo 95
+4.2. Choice of critical route for laying coemunicatione linee 96
+9.3. Protection by meano of ourge divartero 98
+6.‘. Protection by meana of cutoute 109
+b.5. Protective uoor'o equipnant 120
+6.6. Protective effect of metal ceble cladding vith regard to the
+influence of high-voltage linee (bVN'o) 123
+4.7. Shielding effect of metal cableo and other extended vireo with
+regerd to a magnetic influence 162
+6.9. Protection by toeno of otepdoun treneformero 168
+6.9. Protection by moano of neutralizing traneformere 173
+b.10. Protection by aeano of ioolation traneformoro 176
+$.11. Protection of aerial communication linea free the haterdouo
+effect of three-pheeo VL'e with a grounded neutral vire. by
+tonne of high-power ourge divertero 182
+4.12. Protection of communication circuito free haterdoua and inter-
+fering influencoo by meano of drain coilo 190
+6.13. Protection of aerial line circuita fro- haoardouo and interfering
+voltage by meeno of choke coilo ' 195
+5.16. Protection of aerial line telephone circuita from the interfering
+influence of VL'o end electric railroado by crooning vireo 198
+6.15. Protection of aerial communication lineo from harardouo voltage
+arioing in direct concoct with Vb vireo 199
+Chapter 5. Protection of Aeriel Linen and Communicationo Equipment
+from the Effect of Lightning Diochergeo 201
+5.1. Protection of wooden oupporto 201
+5.2. Protection of reinforced concrete oupporto 211
+5.3. Protection of inouletoro in aerial Ls'o [communication linee] 213
+5.4. Protection of cable ineert and lead-in cable, on well an of
+boooting otetione and terminal otetione with an aerial lead-in 213
+5.5. Complete oyoten for protecting CUP [key boooting atation] and
+
+6.1.
+
+“U? [oecondery boooting otetion] equipment in aerial LS linee
+
+from hezerdouo voltage 222
+Chapter 6. Protection of Underground Cable Linea from the Bffect of
+
+Lightning Diochergeo 223
+
+Liot of protective meaoureo 223
+
+6.2.
+6.3.
+
+6".
+‘05.
+
+Protection of cable linee by neano of lightning arresting cableo 22‘
+Protection of underground communication cableo from lightning
+
+otrokao by meano of protective aerial vireo 231
+
+Stormproof cablaa 237
+
+Shielding cableo in a polyethylene oheath by meano of ground
+
+connectiono 266
+‘2
+
+FOR OFFICIAL USE ONLY
+6.60
+6.7.
+
+7.1.
+7.2.
+
+7.3.
+7.6.
+
+801.
+802'
+
+FOR OFFICIAL 088 ONLY
+
+Shielding cahlea by team of liniature lightning arreatere
+
+Taking into account the protective effect of grounded railroad
+raila or of pipelinea laid near a cable vhen lightning etrikee
+Chapter .
+
+Protection of Cable hain locating station Iquipoent Pro-
+Iiatardoue and Interfering Voltage
+
+Deeign principle of protective ayetec
+
+key eleunte of protective equipoent need in cable co-unicetion
+
+line equip-cot
+
+ayatene for protecting equip-ent of different tranenieeion eyetena
+
+lightning ehielding teete
+Chapter 8.
+
+Protection of Co-unicetiona Pacilitiea iron liegnetic
+Stone
+
+Protection of equip-ant relote power aupply circuite according
+to the "wire (tvo vireo) - ground” ayetel
+
+Protection of aerial and cable line telephone circuita
+Bibliography
+
+00mm:
+
+8831
+cso:
+
+1870
+
+ltdatel'atvo 8vyac' , 1978
+
+63
+M OHICIAI. USE ONLY
+
+250
+232
+
+257
+257
+
+239
+263
+273
+
+277
+277
+
+281
+282
+FOR ONIOML "8! ONLY
+
+PUBLICATIONS
+
+mum. WIOATION m NIKON immune
+
+Moecov mun WYM' V 19mm “mom in lueeien 1978 eisned
+to preee S Apr 78 pp 2. l“
+
+[Annotation end table of oontente iron book by Dorie lvaoovich Petlenko and
+Leonid Sergeyevich Butyreltiy, ledetel'atvo Swar'. l“ pagea]
+
+[Text] Queetionn ere diecueeed. reletine to the propertiee of epeech eignele
+under conditione of a nodiiied gee Indiu- and to technical prohlene in re-
+etorin; intelligibility oi epeech under oonditione of deepvater i-ereion and
+epece flighte requiring the uee of epecial hreethin: Iixturee.
+
+Thin hook ie intended for epecialiete in the field of comicatione engineer-
+ing. acouetical eneineere. lineuiete. pyecholoeiate end phyeioloeiete involved
+in reeearch on epeech eiuele.
+
+comm Page
+Foreword by the Mitor-in-Chief 3
+foreword lo
+Introduction 5
+Chapter 1. Atnoephere oi lncloead Spacee 7
+1.1. An ”ective” ertificiel etnoephere 7
+1.2. Pomlu for hreethin; nixturee 10
+Chapter 2. Peaturee of Speech lornetion in Artificial Atnoepherea for
+Breathing 20
+2.1. General inforIetion regarding e speech eicnel 20
+2.2. Source of a epeech aignal 22
+2.3. Radietion of e epeech eienel 3l
+2.‘. ‘rrenafer (motion of the epeech for-ins channel 33
+
+2.5. Quantitative eetinete of the audio epectn- taking into eccount
+the influence of the eource. the trenenitter and the epeech for-ins
+
+chennel 39
+Chapter 3. Perception of Speech in a lieliun and Oxygen Atloephere 63
+3.1. Neturelneee. recopieehility ‘3
+3.2. Intelligihiiity ‘5
+3.3. Sound perception ‘9
+
+u
+
+M OFFICIAL USE ONLY
+FOR OFFICIAL US! ONLY
+
+3.6. information content oi apeech eounde
+3.5. Articulation meaeuremente of the intelligibility of heliumpatmo-
+A ephare epeech in different eectiona of the epectrum
+Chapter 6. Experimental lnveetigetiona of Speech Sound Parametere in
+helium Atmoepheree
+6.1. General etatemente
+6.2. Spectrumptiee cherecteriatice of epeech
+6.3. Certain featuree of audio epectra in a 0K8 [helium and oxygen
+atnoephere]
+4.6. Amplitude rengea in the epeech eignal epectrun
+6.5. Influence of an artificial helium atnoephere on the fundamental
+tone
+Chapter 5. Raaaona for Reduction in lntelligibility of Speech in
+Deepuater Submereion
+5.1. Shift of formanta to high frequenciee
+5.2. lepairment of articulatory action and function of the aural ana-
+lyrer
+5.3. Conditione for epeech formation and trenemiaeion
+Chapter 6. Hethode and Equipment for Improving the Quality and
+Intelligibility of Speech in a Helium and Oxygen Atmo-
+ephere
+6.1. Hethode of improving intelligibility without equipnent
+6.2. Analog convertere of apeech in a 6K3
+6.3. Convertere employing diecrete forms of epeech repreeentetion
+6.6. Requirementa for ecouatical equipment for working in a 6K8
+6.5. Comperiaon of technical uethode of improving the effectiveneae
+of verbal communication in helium atmoepheree
+Conclueion
+Bibliography
+
+COPYRIGHT: Indetel'etvo Svyet'. 1978
+
+8831
+080: 1870
+
+65
+FOR OFFICIAL USE ONLY
+
+57
+58
+
+61
+61
+63
+
+78
+86
+
+90
+
+95
+95
+
+103
+106
+
+107
+107
+109
+118
+129
+
+131
+136
+137
+FOR OPPICIM. "88 ONLY
+
+PUDLICA‘I'IOI‘S
+
+unc 621.372.8
+OPTICAL CWICATIONS “mums
+
+nougwavoggvoov OPTICIIISKD! MM! in Rueeien 197B eicned to preee 30 Jen 70
+PP e o
+
+[Mnotetiom teble of contente end prefece to the book by 1.1. ‘l'eunin. Swet'
+Publiehere. Hoecow. 3.700 oopiee. 168 pegee]
+
+[Text] The elenente of the theory end engineering of opticel bend veveguidee.
+intended for uee in opticel co-unicetione eyetele. ere preeented. Queetione
+of eisnel propesetion. veveguide excitetion end the principlee of opticel
+ceble deeisn ere treeted.
+
+me book in intended for ecientuic workere ensued in deeiui vork on end the
+epplicetion of option]. comnicetione devicee.
+
+Table of Contente
+
+Foreword 3
+Introduction e
+Verioue typee of Opticel Heveguidee (Theereticel Principlee)
+1.1. Circuler duel-leyer vevesuidee 8
+1.2. Low node meguidee 18
+1.3. ‘rriple layer waveguides 19
+1.4. Hultinode. duel-leyer vevepuidee 22
+1.5. Gredient unvesuidee 27
+1.6. Profile veveguidee 35
+Energy Propeution Vie Optical Hovesuidee
+2.1. boom in the nterinl 36
+2.2. Louee in low node veveguidee 60
+2.3. The field pettern end energy ebeorption in e uni-ode waveguide M
+2.4. Inhaogeneitiee ‘9
+2.5. The influence of inhouzeneitiee on the field pattern of e
+
+mltinode meguide 52
+2.6. boeeee in the protective jeclnet of e veveguide 57
+
+d6
+
+FOR OFFICIAL US! MY
+FOR OFFICIAL USB ONLY
+
+2.7. Generalised psrsaeters for the inhomogeneities in
+sultilode waveguides
+2.6. Losses in waveguides using poly-er materials
+
+Signal Trannsiasion Via Optical waveguides
+
+3.1. Methods of analysing signal propagation and the initial
+equations
+3.2. Pulse characteristics
+
+3.3. The transient and frequency characteristics of low soda waveguides
+
+3.6. Signal propagation where a waveguide is excited by a spectrua
+of carrier frequencies
+
+3.5. The transient characteristics of sultinoda waveguides
+
+3.6. Accounting for dispersion in the aaterial
+
+3.7. Reflector distortions
+
+The Excitation of Optical Waveguides
+
+39
+60
+
+61
+67
+68
+
+77
+01
+03
+06
+
+6.1. The specific features and conditions of optical waveguide excitation 90
+
+6.2. The excitation of low soda waveguides by e seaiconductor laser
+6.3. The excitation of sultinoda waveguides by a light aaitting diode
+6.6. hatching to various radiation sources
+
+4.5. Excitation of waveguides through the side well
+
+6.6. Picking off the energy from the waveguides
+
+waveguide Bundles
+
+5.1. The specific features of the application of waveguide bundles
+5.2. Bundles of single layer and dual layer waveguides
+
+5.3. The selection of the nuaber of waveguides in a bundle
+
+5.6. The excitation of waveguide bundles
+
+5.5. The attenuation of bundles of sultinode waveguides
+
+Optical waveguide Connections
+
+6.1. The general characteristics of optical waveguide connections
+6.2. The connections of individual waveguides
+
+6.3. Group connectors
+
+6.4. Per-anent connections
+
+6.5. Machining the and faces of waveguides
+
+Optical Cable
+
+7.1. Soae of the physical and aechanical properties of optical fibers
+7.2. The structure of an optical cable
+
+7.3. The principal structural designs of optical cables
+7.6. Crosstalk
+
+Pro. the publishers
+
+Appendix
+Bibliography
+
+47
+FOR OPVICIAL USE ONLY
+
+93
+96
+100
+106
+109
+
+109
+110
+110
+122
+12‘
+
+125
+126
+132
+139
+139
+
+161
+1“
+1‘7
+153
+
+156
+160
+16‘
+FOR OPPICIAL USE ONLY
+
+Preface
+
+One of the pronieing trenda in the develop-ant of infatuation tranaaieeion
+ayateaa ie the uae of the optical band of electromagnetic wIVea. Beginning
+in the aiddle of the l960‘e. publicationa of the reaulte of work done in
+thia field appeared in an ertreaely wide range of periodical literature.
+Special attention wee devoted in thia literature to the develepaent of the
+theory and a deecription of devicea for cloaed optical coamunicatione linee
+ueing apeciel waveguidee. Aleeat all of the publiehed uateriala on optical
+waveguidee were not coabined to the neceeeary extent with e coaaon approach.
+in particular. fro. the viewpoints of the deeign work on multichannel optical
+communicatione eyeteaa. A conaidereble amount of the work ie of a theore-
+tical nature, and ita reaulte cannot alwaye be uaed directly in an engineer-
+ing plan. For thia reaeen. the need hae ariaen for a eyeteaatited treatment
+of the queetione relating to the theereticel ale-onto of optical weveguidea.
+the tranenieeion of aignala through rhea. and their utilization for optical
+coenunicatione.
+
+An attempt is made in thia monograph to ayatematicelly preeent the ieeuea
+indicated above to the extent neceeaery for engineering deaigne. at leaet
+
+for the initial atagea. as well ea for the further deeper atudy of literature
+in thia field. For purpoeee of effectively utilizing the volume of the
+
+book, intermediate conclueiona (with the exception of original enea) have
+been oaitted in diacuaaing individual queatione.
+
+Soviet reaeerchera have made a large and eerioua contribution to the develop-
+aent of theoretical and practical queetione relating to dielectric waveguidee
+in general. and to optical band weveguidea in particular. thue. e eubetantial
+contribution to the general theory of dielectric vaveguidea hea been made by
+3.1. Kataenelenbaun, V.P. Vayatyehev and u.a. Seaenov, and in the field of
+optical band waveguidee by V.V. Shevchenko. a.s. lelanov and Yu.N. Kazantaev.
+A number of aeparate theoretical queatione. ea well at important experimental
+developmental work in thia field. are reflected in the worke of A.H. frokhorov,
+Ye.u. Dianev, 0.x. Seterev. v.3. Veynberg, N.Ye. Zhebotinakiy, A.A. Dyachenko
+and other reeeerchere.
+
+COPYRlcﬂT: ltdatel'atvo ”Svyet'”, 1978
+
+8225
+68021870
+
+‘8
+FOR OFFICIAL USE ONLY
+
+PUBLICATIONS
+
+TESTS (THEORY, DESIGN AND APPLICATION)
+
+Novosibirsk T881? (TIORIYA. POSTIOYENIIB, PRIHENENIYB) in Russien 1978
+to press 27 Peb 78 pp 2. 188-189
+
+[Annotation end tsbls of contents free book by Nikoley Andrsyovich Sol
+Irdetel'etvo Neuks. Sibirskoys Otdslsniys. 192 pages, 3,500 copies]
+
+[Text] A presentation is esde of the key concepts of one of the new d
+of cybernetics-the theory of tests. Methods of designing tests ere g
+e discussion is presented of their spplicetion for troubleshooting in
+circuits end for solving certsin problems in identifying objects.
+
+This book can be useful to specislists interested in the spplied sspec
+netheneticel cybernetics.
+
+CORTBNTS
+
+Foreword
+Chspter 1. Prelieinsry Infornetion on the Theory of Algebreic Logic
+functions
+
+1. Algebreic logic functions. Key concepts snd properties
+
+2. Intrinsic dependence of slgebrsic logic functions
+
+Chspter 2. Grephs
+
+1. Key concepts of the theory of grsphs
+
+2. Structure of cheine in e greph
+
+3. Structure of sections in e greph
+
+6. Constructing e Intrix of sections and s cyclonetic matrix of e
+greph by nesns of trsnsforns of its estrix of incidences
+
+Chspter 3. Circuits. Circuit Peults
+
+l. Contect circuits. Key concepts and definitions
+
+2. Circuits iepleeenting elementary eyeletric functions
+
+3. Definition of circuits consisting of functional elelents
+
+6. Bleeents of the synthesis of rectifying (directionsl) circuits
+
+5. Contect circuit fsults. Hiking tebles of feulte for contsct cir-
+cuits
+
+6. Peults of circuits consisting of functionel elements
+
+49
+FOR OFPICIAL US! ONLY
+FOR OFFICIAL USE ONLY
+
+Chapter 6. Concept of a Test 57
+1. Definition of a test -
+2. 0n the maximum number of irredundant tests 61
+3. Computation of the mean number of irredundant tests and estimating
+their length 66
+
+6. Algorithms for designing irredundant tests 68
+Chapter 5. Structure of Diagnostic Tests for Individual Classes of
+
+Arrays and Circuits 75
+1. Minimal diagnostic tests for arrays with separated blocks of units -
+2. Structure of minimal diagnostic tests for cyclic arrays 83
+3. Tests for circuits implementing elementary symmetric functions 92
+6. Complete test for non-repetitive contact circuits 103
+Chapter 6. Diagnostic Tests for Circuit Inputs 120
+1. Introductory remarks -
+2. Additional concepts 123
+3. Lower estimate for L(n) 126
+6. Upper estimate for L(n) 127
+Chapter 7. Application of the Theory of Tests to Problems in Identi-
+
+fying Objects 135
+1. Identification of visual objects - -
+2. Identification of geometrical objects 138
+3. The "sea battle" 139
+6. Application of tests to problems in geological forecasting 166
+Chapter 8. Methods of Technical Diagnosis for Combinational Networks
+
+(Networks Hithout a Memory) 168
+1. Yablonekiy's general algorithm . 169
+2. Finding faults of the constant type by means of an equivalent
+
+normal form 150
+
+3. Shortening the list of faults by means of alpha-state functions 156
+6. the d-slgorithm 161
+5. Diagnosing circuits by means of Boolean differences 175
+Bibliography 182
+
+COPYRIGHT: Izdatel'stvo Hanks, 1978
+
+8831
+C50: 1870 m
+
+50
+FOR OFFICIAL USE ONLY

@@ -1,0 +1,2427 @@
+FOR OFHCIAL USE ONLY
+
+JPRS L/10692
+
+27 July 1982
+
+USSR Report
+
+ENERGY
+
+(FOUO: 12/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. “here no processing indicator is given, the infor-
+motion was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Hords or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes widnin the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the u.s. Government.
+
+COPYRIGHT LAUS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED NEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+ENERGY
+(rouo 12/92)
+
+CONTENTS
+
+ELECTRIC mum
+Introduction of Punt-Production Capacities 1n Intogratod
+
+Power ﬁstula
+(G. mum, 8. mm; mcmcmm
+
+smlm'sm. Apr 82)..00009000000.ooooooooooooootoooooooo l
+
+PIPELINLS
+
+Gooplan Should nationalize Output, Use of All types of Pipe
+(11. Begum; W0?! HIOZYAYS‘NO, Apr 82)................ 13
+
+GENERAL
+
+Territorial-Production (implant in 11th Pin-Your Plan
+(A. Gladyohcv. V. "02111.: SHAGI 00mm:
+rmtmm'm-norzvoosrvm ms! SSSR, 82)....... 23
+
+- a - [III - ussa - 37 2000]
+
+FOR OFFICIAL USE ONLY
+MOﬂ‘K‘IALUSEONLY
+
+ELECTRIC PM
+
+000 621.31.002.2
+
+INTRODUC‘HG' 0P POWER-PRODUCT!“ CAPACITIES 11' mm PM srsrnrs
+Moscow mamrcmzsxon STROI‘TEL'S‘NO in Russian No 6. Apr 82 pp 66-49
+
+[Article by G. A. Illarionov and Sh. I. Kali-an, candidates of technical sciences.
+and A. I. Kusovkin. candidate of physicamathematical sciences: "Optimizing the
+Introdu.¢1cn of Power-Production Capacities in Integrated Power Systems"]
+
+[Text] When optimization nethods and models for planning the development of power
+systens are utilized. the selection of optimization criteria is particularly inor-
+tent. since the application of the wrong criteria can lead to totally unacceptable
+solutions. At present we have yet to find a clear anmr to the question of which
+criteria should be applied in problens regarding the optimisation of power systems.
+Even if a criteria is selected. all of its parameters cennot always be determined
+exactly. especially those which depend upon the economic situation. As an eagle,
+let us examine the criterion for minimizing the calculated expenditures P. - 8K + C
+(where B is the normative coefficient of capital-investment efficiency; It is the
+capital investment; and C‘ is the operating expenses). This is one of the most
+economically sound criteria. The decision to apply it in the power industry was
+approved by the State Co-ittee on Science and Technology. There is not sufficient
+basis. however. to use the cononly applied figure of 0.12 for E. Moreover. the
+results of calculations for this criteria can be distorted due to fluctuations in
+the prices for resources.
+
+Therefore. in the opinion of the authors of this article, when solving problems re-
+garding optimizing the development of power systems, it is necessary to carry out
+calculations according to various criteria and adopt a final. heuristic solution
+based upon the results of these calculations. Below are presented the results of
+short-term calculations of an optimal plan for introducing power-production capaci-
+ties at thermal electric-power stations of a conventional power system. The calcu-
+lations were carried out using the criteria for nininising calculated expenditures
+F3. capital investments Pk. the volume of construction and installation work P8 and
+the maximization of the introduction of power-production capacities IV. The latter
+three criteria reflect only that portion of the production process associated with
+the construction of thermal electric-power stations. The other part-the operation
+of electric-power stations and electric-power transaiesion linesuis not touched
+upon. The application of these criteria. however. makes it possible to make allow-
+ances for a shortage of capital investsents and other resources and to increase the
+concentration of resources at these complexes which will begin operating first.
+
+MWIBIONLY
+.03..» .035
+
+no 23:3- uo 28.3.3-
+.uuoa ﬂown . Gdansk no .xuoa coda
+533.5 vs. «8::- Jnol 3: 5:303 can
+guano-Bo 5.095 Hanan-o $25.6 830952.00
+
+HH 03”.?
+
+3.3.6. no
+23:5! 58.
+$0093 .3398
+
+Q6
+3.6
+am;
+«To
+8.0
+on...
+3.0
+am...
+«50
+on a
+
+GI.
+
+mun¢mohoao
+
+ 
+
+— 0.38.
+MWLMONLV
+
+N
+
+d
+
+o
+o
+o
+n
+o
+m
+c
+n
+N
+n
+
+ 
+
+0.— nah
+MWWMY
+
+An analysis of results fron calculations carried out according to the entire set
+
+of criteria listed sakes it possible to draw up a better-substantiated plan of con-
+struction for installations which are to cone on-line first and those already being
+built and increases the efficiency of capital invest-eat. Calculations were carried
+out according to the models presented in [1.2]. The functional extra-um in these
+nodsls is detersined with limits iQosed on the sun total of introduced capacity. the
+delivery of power units and the possible ranges of fluctuation in capital investment
+and the volume of construction and installation work at individual sites and through-
+out the power industry as a whole. In this case. electric-power overcurrents along
+high-voltage lines were taken into consideration. The progrsns being utilized to
+search for an optimum solution snake it possible to determine a nultivariant solution
+that depends upon such indicators as the total voluae of capital investment K. con-
+struction and installation operations 8 and the overall introduction of power-produc-
+tion capacities N. The feasibility of carrying out nultivsriant calculations is of
+considerable importance for the further analysis of the results obtained.
+
+The authors of this article have calculated optianl variants of a plan for the intro-
+duction of capacities in integrated power systens at dozens of conventional GREs's.
+The acceptable variants of a plan for introducing capacities at GRES's are presented
+in table 1.
+
+It should be noted that the acceptable variants of the plan for introducing capacities
+at individual installations are not dependent on one another; that is, the plan for
+the power systel as a whole can include. for examle, the first variant of the plan
+for cars No l and the second variant for GRES No 2. If provisions have not been
+made for the introduction of new capacities at a particular installation over its
+planned service period. then it will be necessary to apportion a certain aininun
+voluse of capital investment X‘i and plan the corresponding volume of construction
+
+and installation work 5‘1; (here i is the nuaber of the installation). Thus. only
+
+the distribution of the relaining resources is optimized:
+
+(“g“).
+
+in]
+
+In the example being considered. it was assumed that equipment for no more than four
+SOD-HP power units or two BOO-HR power units be delivered to a power-production in-
+stallation during its planned service period. A figure in the range of 3,500 to
+6.520 m was selected for the total power-systea desand.
+
+Table 2 presents 16 variants of optinizad calculations for the introduction of new
+capacities at each electric-power station. These calculations were obtained using
+the criterion of aininiution of capital investment Fk for various values of demand
+in the power ayaten II. Final results of calculations for these variants of the plan
+are presented in table 3.
+
+The optimized function is a piecewise-constant function of 17. Tables 2 and 3 present
+only those variants of the calculations for which the value of the demand for power
+"Z (Z is the number of the variant) corresponds to the discontinuities of this func-
+tion; that is. using the data in table 3 one can nake a deter-instion about the de-
+pendence of the Bel-an function [3] upon the values of the paraneter N.
+
+FOIOFI’ICIALWONLY
+cod—Pu no 283:!
+5362?. $33538
+
+and? no 08.3.23
+.83: 63.3332:
+and gauguuacoo
+
+coda—E mo «633.3.
+5302:: ”3.310
+
+ 
+
+n canon.
+
+”WWMY
+FORMALUSEONIJ
+
+An analysis of the results of calculations shows that the structure of the optimal
+plan for the introduction of capacities changes with an increase in the system's
+demand for power: a under of power mite are excluded from the plan and others are
+inserted into their places. This is associated with the discreteneee of the model.
+The most apparent change in the plan's structure is manifested with a increase in
+the power demand from 6,610 to 6,430 uw (variants lb and 15 in table 3).
+
+The reason for the change in the structure of the optimal plan is the fact that there
+may not be sufficient capital investment for introducing capacities at an electric-
+power station with a low actual cost per kilowatt of introduced capacity (considering
+the reserves). As a result, the system's demand for power is covered by introducing
+pover units with a higher cost per kilowatt of installed capacity. With a growth
+
+in the overall volume of capital investment. capacities can be introduced in the
+future at electric-power stations with lower values for this indicator. This process
+occurs with a transition from one calculation variant to another and can be followed
+most clearly in the exawle of GEES No 6. No 300-!“ power units are introduced
+
+in variants 2. 3, 6. 10. I3 and 16, while one unit is introduced in the remining
+
+lO variants. Thus, with a change in the parameter NZ over a broad range the nonline-
+arity of the problem leads to the absence of a monotonic dependence of the value of
+the introduced capacity at individual electric-power stations upon the total power
+demand N .
+
+In order to determine all discontinuities of the Belman function. it is necessary
+to carry out optimizaiion calculations for all values of power demand NZ (with an
+incremental change All - NZ“ - NZ) or the entire volume of capital investment K1
+(with an incremental change AKZ - K”1 + Kl).ﬁ
+
+In order to determine the entire set of optimal solutions, the increeent Ml or AK2
+must have a sufficie tly small value. For example. in calculations using the criter-
+ion Fk (table 3), M should a mat to ’0 m. while AXZ should be 1 million rubles.
+An increase in the values of A19 and AK can lead to certain discontinuity points
+
+in the Belman function not being found. If. for example, AKl - 5 million rublesand
+the initial volume of capital investment K‘ - 581 million rubles, the 7th and 15th
+variants of the calculation are not determined. In these cases. however, one can
+frequently find solutions for the intermediate values of N1 (or Kl). Por exawle.
+when N - 3.730 m. the optimal solution is given by the fifth variant (table 3). in
+which the total introduced capacity is equal to 3,810 H". In this case, it ie no
+longer necessary to carry out calculations for NZ - 3.740-3800 m.
+
+The value of the Belman function and the corresponding optiml solutions make it
+possible to avoid the undesirable effects inherent in the majority of linear and
+estimting models. In order to cover a minor shortage of power. for example. the
+introduction of an additional large power unit is not required.
+
+The dependence of the increase in the volume of capital investment 6K1 upon the in-
+crease in capacity Ml is not a monotonic fmction. Prom table 3 it follows that
+
+1' Calculations of the volume of construction and installation work are carried out
+in a similar manner.
+
+:0NLY
+—————
+
+.ants for caiculuing planned Intrc
+
+—_—
+
+2 3 lo 5
+—______—
+.000 500 l 500 500
+
+2 10 2 10 2 10 2 10
+300 300 300 300
+500 500 $00 500
+300 300 300 300
+300 300 300 300
+
+0 0 0 0
+100 100 100 100
+800 1600 800 1600
+
+2 10 0 0 210
+
+#
+M “MAI. USE ONLY
+
+for the same values of AM, the values of M1 vary over suih a broad range, whereupon
+the relationship Mil/ANZ can decrease with the growth of N , that is. with the growth
+of 1. In this case, with the increase in NZ, the cost of l w of introduced capacity
+in the power system decreases; that is. the dependence of the per-unit capital in-
+vestunt upon the amount of output required is not monotonic. The same can be proven
+for the other indicators. In the 11th variant (see table 3), for example, the expen—
+ditures cited for the introduction of 6.220 ml of capacity are less than for the
+introduction of 3.810 M" (variant 5), while the volume of construction and installa-
+tion work is less than with the introduction of 3,610 m (variant 3). The maximal
+expenditures cited (231.6 million rubles) correspond to calculation variant [6 using
+the criterion Pk. while the maximum volume of construction and installation work
+(389.9 million rubles) corresponds to variant 16. The minimum expenditures cited
+and the minima- value for the value of construction and installation work (178 and
+335 million rubles, respectively) are reached in the first variant. with the intro-
+duction of 4.630 or 10.520 m. the voluse of construction and installation work de-
+creases.
+
+in the calculations cited, the minimum volume of capital investment necessary
+
+I0
+
+2 K»
+
+It!
+amounts to 1.5L! million rubles, which corresponds to an introduced capacity of
+3.010 M". The remaining portion of the system's power demand is covered through
+the introduction of additional power units at 6 of the 10 electric-power stations.
+The nutter of power units whose introduction is possible during the planned service
+
+period varies from one to three at individual power stations.
+
+Table 6 presents optimal plan variants for introducing capacities at individual power
+stations. These variants are calculated using the criterion for minimizing the vol-
+ume of construction and installation work 1’8. Table 5 presents variants computed ac-
+cording to the criterion for minimizing calculated expenditures Pa. Final results
+from calculations of the planned introduction of capacities according to these mini-
+mizat ion criteria are shown in table 6.
+
+It can be seen from tables lo and 5 that a variation in the solutions according to
+criteria [’3 and F3 is possible at the same six electric-power stations as in the
+case of calculations using criterion Pk. Naturally. this fact is associated with
+the selection of a number of acceptable plan variants and with the system of limita-
+tions. If. for exawle, we relax the limitations on the voluse of equipment deli-
+veries, assuming that equipment for more than four SOD-H" power units can be deli-
+vered in the planned period then additional capacities can be introduced at CRIBS
+No lo. In this case. for Ni- 4,510 MW there exists an optimal solution according
+
+to F's, differing from the solution for variant 8 (see table 6) which provides for
+the introduction of a second power unit at GRES No 4.
+
+The priority of various power stations varies. For example, the results of calcula-
+tions according to criterion 1" show that with a power system demand of {4,520 m.
+the introduction of a power un t at (IRES No lo is more preferable to the introduc-
+tion of a second unit at 61238 No 3 (see table 2). Using criterion F‘, the opposite
+case is true (see table 5).
+
+MWWONLY
+FOR‘OFFﬂSAl.USE(HNLY
+
+anon-nulonov Isa
+
+h.~—N
+N.N~N
+o.co~\c.~n~
+c.~o~\o.o~u
+~.¢o~\o.noN
+~.no—\n-
+o.oa~\_.~on
+o.co~\ooN
+n.no«\—.oo~
+onuxonn
+
+.nk conuOuwuu ou
+
+”.man
+
+o.nnn
+n.o~n\w.nhn
+c.non\n.noa
+o.o~n\o.oon
+—.own\0.0nn
+«.mnn\—.onn
+
+~.onn\n.ocn
+c.0nnxm.mcn
+nnnxnnn
+
+uuuvuoooa use vouuuco can og vac o oucnau¢> .n
+
+.om acquOuuuo cu uauvuoooo «noun-aaouoo uo wuuauou.onu 35:0
+
+n.nho
+
+«.500
+o.ono\m.ooo
+N.~co\n.oco
+n.9no\n.nec
+n.nNo\n.Q~@
+c.noo\n.n~o
+eooxn.woo
+~.oam\n.Noo
+n.~an\n.~om
+
+.nm nouuouauu cu unuwuoooa
+
+cucuauonlc ash
+
+cunt
+
+one:
+o—neonmq
+owne\o_ne
+ouoeonNe
+oaocxo~oc
+ouanxo—oc
+Ounn\o_¢n
+o~nnxounn
+ounn\0unn
+
+.— "acuoz
+
+d
+
+nuncnonwo‘c
+
+IOI¢0FIIJAI.UGIII‘LY
+
+aoanau «o acouaaua
+.xuoz coaunaaouonu
+can coauuauuouoo
+
+nonnau no unbuuuul unqauu>
+
+Cows.“ uO Ogﬁdﬂdl
+.unaauau>uw Hauuaao ceauqasonuo
+
+.noonuauo vouuaaoaao
+
+ 
+
+o OHDQH
+K, millions of rubles I
+
+-20 '
+«46
+-12
+-11
+4/43"
+
+___—.__—-‘———
+
+move the values of AR and AC
+r- 0.1 or 0.08.
+l-‘OI 05110“. USE ONLY
+
+It should be noted that optimization according to one of the functionals does not
+always lead to an optinl solution with respect to the other two. For certain values
+
+of N . however. the extremum of the various functionals can be achieved on one and
+
+the same plan. For example. when N1 - 3.510 and 4.010 W, the optimal plans for the
+introduction of capacities coincide for Pk. F, and ’33 when N1 - 3.720. 3.810, 6.020,
+4.220. 4.310 and 6.520 m. plans coincide for Pk and Fe; and when Ill - 6.630 m. plans
+coincide for Pk and F8.
+
+Thus. the optimal solution also minimizes Pk for all eight calculation variants ac-
+cording to F3. This occurs because of the natural relationship between the volumes
+of construction and installation work and capital investment. The noncoincidencs
+of the solutions according to criteria Pk and F, is associated with the fact that
+operational expenditures at capital-intensive power stations can be lower than at
+those that are less capital-intensive.
+
+In order to delect a final solution. it is necessary to conduct an additional analy-
+sis of the calculation variants under examination. The data cited in tables 3 and
+
+6 show that the gain in calculated expenditures leads to an increase in capital in-
+vestment (usually small) and to a considerable increase in the overall volume of
+construction and installation work. For a power-system demand of 4.520 HR, for exam-
+ple. the realization of an optimal solution according to F, insures a reduction in
+calculated expenditures of 18.9 million rubles. For N1 - 4,310 N", these indicators
+are 16 and 17.2 million rubles, respectively. For N1 - 6.220 HR. they are 3.1. and
+4.8 million rubles. and so forth.
+
+Therefore. it is important that the optiml plan for the introduction of capacities
+calculated according to the minimization criterion 1', does not exceed the limitations
+on the total volume of construction and installation work. If the total volume of
+work does not exceed 361 million rubles. the optimal solution according to criterion
+F2 with a power demand of (5,220 MW coincides with calculation variant 11 (see table
+2). in which a power unit is installed at 01138 No 10 instead of the second power
+unit at CRES No 3. This plan will be an equilibrium point (optimum according to
+Pareto) for F8 and F3. Since, as we have noted, the value of the normative coeffi-
+cient of capital-investment efficiency E (0.12) is not sufficiently substantiated.
+
+it is necessary to check the stability of the optiml plan when this factor varies.
+Therefore. calculations were carried out for the optimum introduction of capacities
+for 10 electric-power stations using the criterion F, with E - 0.06; 0.08; 0.10;
+0.12; and 0.15. Power-system demand NZ was taken to be equal to 3,150, 3,300, 3,600,
+3.500 and 3.600 PM.
+
+The results of the calculations showed that the optimum solution was sta 1e with
+fluctuat ions in 5 over the indicated range of values for all values of 1' except
+1'." - 3,600 MN. The difference between the solutions derived and the optimal plan
+calculated according to Fk is characterized by the values presented in table 7.
+
+Instability of the solution with a minimization of the calculated expenditures was
+also observed in other practical calculations. Thus, the optimum solution according
+
+to this criteria should be confirmed by calculations using other criteria, stability
+studies and additional analyses.
+
+11
+
+POI OFFICIAL USE ONLY
+MWUSEONLY
+
+The final selection of a plan for the introduction of power-production capacities
+should be carried out on a heuristic basin, with consideration given to the results
+of nultivariant optinieation calculations which characterize the behavior of basic
+plan indicatore with variations in the noet inortant plan linitatione.
+
+BIBLIOGRAPHY
+
+l. Kali-n. sn. 1.. Kuzovkin, A. 1.. end Panfilov. v. 10.. "A Model of the Annual
+Diatribution of Capital lnveatnent in the Construction of Initial Electric
+Power Stations and of Stations Already Being Built.” mulcnsrm
+
+srmtm'swo No 3, 1977. pp 73-78.
+
+2. Kalinen, Sh. 1., Kumkin. A. 1.. and Panfilov. V. IL. "Hodela for the Optimal
+Distribution of Capital Inveetnent in the Power Industry," mmrmm
+STROITE'STVO No 6. 1978. pp 72-77.
+
+3. Belun. R.. "Dinanicheekoye progranirovaniye" [Dynamic "ogre-ins], Hoecow,
+Izdatel’etvo inoetrannoy literatury, 1960.
+
+COPYRIGHT: hergoiadat. "Energeticheekoye atroitel'etvo". 1982
+
+9512
+(:50: 1822/ 185
+
+12
+
+mammal“
+INDR 0F?1C1AL.USIZC”VLY
+
+PIPELINES
+
+GOSPLAN SHOULD RATIONALIZE OUTPUT. USE OF ALL TYPES OF PIPE
+Moscow PLANOVOYE KﬂozYAYSTVO in Russian No 4. Apr 82 pp 67-72
+
+[Article by N. Bogatov. deputy chief of a USSR Gosplan section: "ways to Save
+Netal During Pipe manufacture")
+
+[Text] The circumstances of social production have experienced considerable chan-
+ges in recent years. The regions where raw materials and mineral fuels are ob-
+tained are consistently more distant froa the traditional places of consumption.
+and. accordingly. the freight turnover for all types of transport is increasing.
+Expenditures for protecting the environment are rising substantially. And other
+factors are complicating economic development.
+
+Under the prevailing situation. improvement in management of the economy and in the
+planned guidance of economic affairs. and. particularly. the development and execu-
+tion of specific-purpose integrated scientific. technical. economic and social pro-
+grams within the state plan for the USSR's economic and social development are be-
+coming urgent tasks. Among the programs that are paramount in the immediate future
+is that of saving metal.
+
+Experience indicates that it is practically impossible to make up a unified. inte-
+grated program for saving all types of metal.
+
+It is desirable to discuss the use of metal products of the same kind. for example,
+steel. cast-iron and nonmetallic pipe. By doing this. the time consumed in
+preparing and realizing the programs is reduced and production effectiveness is
+increased. since the problem of savings can be examined more broadly and comprehen-
+sivcly. This approach distinguishes the specific-purpose integrated scientific and
+technical programs for improving the pipe-consumption structure in the national
+economy. including capital construction. that USSR Gosplan has developed jointly
+with GKNT [state Committee for Science and Technology], USSR Gosstroy, USSR Min-
+chcrmet [Ministry of Ferrous Metallurgy] and other interested USSR ministries and
+
+agencies.
+
+The intensive development of pipeline transport for moving crude oil and natural
+gas over great distances. the creation of new irrigation systems in areas with an
+arid or unstable climate. the great scope of housing and municipal-services con-
+struction. and the rising output of machinebuilding products are necessitating an
+increase in steel-pipe production. In the last 5 years it has grown by 3-3.5
+
+million tons.
+
+13
+
+lﬂlI‘OFIlCJAI.ll5EZ€NULY
+FOR OFFICIAL USE ONLY
+
+Consumption norms govern the distribution and consumption of pipe in the national
+economy. The role of scientific justification of consumption is exclusive here. A
+study of the methods for pipeline analysis and engineering solutions and of the
+construction norms and regulations for the design of pipeline systems shows that
+they are not identical. Some computational methods yield overstated thicknesses of
+the pipe walls. This is explained by the fact that the computed resistance of the
+pipe material intended for trunk gas and oil pipelines that operate at pressures up
+to 7.5 MPa is asst-ed to be 30-50 percent higher than for less heavily loaded (0.0-
+1.5 MPa) air lines. gas-distribution lines. water mains. land-reclamation and other
+piping systems. Thus the aetsl intensiveness of the aboveunamed systems is exag-
+gerated right at the design stage.
+
+Further. various construction nouns and regulations restrict the area of use of
+welded pipe unjustifiably. Preference is given to seamless pipe. which is more ex-
+pensive than welded pipe and whose manufacture causes great specific technologi-
+cal losses of metal. The use of seamless pipe where operating conditions allow
+welded pipe to be used raises considerably the cost and setals intensiveness of
+utilities structures.
+
+USSRGosstroydesign institutes (TsNIIproyektstal'konstruktsiya [Central Scientific-
+Research and Design Institute for Metal Constructional Structure], VNIIvodgeo [All-
+Union Scientific-Research Institute for Mater Supply, Sewerage Systems, Hydraul-
+ic-Engineering Structures and Engineering Hydrogeology) and Vodohanalproyekt [In-
+stitute for the Design of Mater~$upply and Sewerage Systeas] and USSR Minchermet
+[Ministry of Ferrous Metallurgy] scientific-research institutes (VNITI [All-Union
+Scientific-Research and Technological Development Institute for the Pipe Industry]
+and UralNITI [Urals Scientific-Research and Design-Development Institute for the
+Pipe Industry]. with the participation of similar USSR organizations of interested
+ministries and agencies, have analyzed design solutions for the construction of 442
+representative facilities of 11 branches of the economy.* Proposals for changing
+the standardizing documents that govern the use of pipe in capital construction and
+for establishing a structure for steel-pipe consumption that is less metals-inten-
+sive were set forth. The data cited in table 1 show that rationalization of the
+consumption structure for steel pipe will enable the weight of the pipe to be re-
+duced from 1,399,190 tons to 1.029.370 tons without reducing the length. that is.
+a reduction of 29.3 percent of the weight.
+
+Based upon a study of engineering solutions for construction of the very sase rep-
+resentative facilities. the Plastik NPO (science and production association] worked
+out proposals to replace steel pipe with plastic pipe. Thus. instead of the
+364,000 tons of steel pipe called for by the designs. 105,000 tons of plastic pipe
+can be used (table 2). Proposals were worked out for replacing steel pipe with
+pipe manufactured also from other nonmetallicamterials: reinforced concrete. glass
+
+and so on.
+
+The total reduction in the consumption of steel pipe in capital construction
+through reduction of the metals intensiveness of the pipe and the replacement
+
+'Automotive plants. oilfields. blast furnaces. pipe-rolling departments and others
+are included.
+1‘
+
+FOR 0iF1C1AL.US£1)NLY
+FOR OFFICIAL USE ONLY
+
+Reserves for Reducing Metals Intensiveness of Pins-line Systems Based upon
+
+Unification of Methods for Analyzing Pipelines
+
+Mei; t o pipe t
+
+ 
+
+supports the func-
+tioning of represen-
+
+Table 1
+
+Reduction in
+
+ 
+
+ 
+
+"mm” tative facilities gigs weight
+(thousangzczzlzons) 1.000 Per-
+Design by institutes ons cent
+
+USSR Ministry of Land Reels-ation and Mater
+Resources.O...OOOOOOOOOOCOOOIOOOCOO'0....0. 58498 437.1 147.7 25.3
+USSR Ministry of Agriculture................. 235.7 162.5 73.2 31.1
+Ministry of Petl‘oletll Industl‘y.......n....n 12109 9201 2908 2‘94
+USSR Ministry of Ferrous Metallurg.......... 119.8 99.5 30.2 25.3
+Ministry of Che-ical Industry................ 63.0 61.7 21.2 25.6
+Ministry of Gas Industry..................... 75.7 63.0 12.7 16.6
+USSR Miristry of Pour and Electrification... 61.3 43.3 18.0 30.6
+USSR Ministry of Nonferrous Metallurgy....... 55.0 37.9 16.1 32.3
+Ministry of Automotive 1ndustry.............. 47.9 32.4 15.5 32.3
+
+Ministry of Tractor and Agricultural
+
+Machine Building........................... 11.0 6.4 2.6 23.6
+USSR Ministry of Geology..................... 2.1 1.3 0.6 26.4
+Total.................... 1,399.2 1,029.4 369.1 29.5
+Table 2
+
+Amount of steel Pipe Replaced by Plastic Pipe for
+the Construction of Representative Facilities
+(fro. Computations by the Plastik Science and Production Association)
+
+Pipe Heigﬁt
+
+(thousands of tons)
+
+Ministry
+
+USSR Ministry 0? m Reclalation :53 Mater
+
+Resourceso.0I.0..I.OOOOOCOQIOOOOOIOOOIIOOO
+USSR Ministry of Agriculture................
+Ministry of Petroleum lndustry..............
+USSR Ministry of Ferrous Metallurgy.........
+Ministry of Cheuical Industry...............
+Ministry of Gas Industry....................
+USSR Ministry of Power and Electrification..
+USSR Ministry of Nonferrous Metallurgy......
+Ministry of Automotive Industry.............
+Ministry of Tractor and Agricultural Machine
+
+Buildin...MOOOOOOOOOOOOOOQ00.00.00...O...
+USSR Ministry of Geology...”...............
+
+Total..................
+
+181.3
+
+ﬂu
+
+wNOOu-abou
+
+0......
+“Nbbnuuﬂc
+
+§teel a stain- Plastic to re-
+loss steel replaced place the steel
+
+ 
+
+15
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+thereof by plastic, reinforced-concrete and glass pipe can reach 2-2.5 million
+tons by the end of the 11th Five-Year Plan.
+
+Progress in pipe production is manifested in the more complete and rational use
+
+of the engineering potential of existing tube mills and units; expansion in the
+variety of pipe, especially hot-rolled pipe; and the use of composites that combine
+the best properties of steel. plastic and other materials and of anticorrosion lin-
+ings. There is also a great reserve in the increased manufacture of welded pipe
+with walls thinner than those of the traditional varieties.
+
+Seamless pipe less than 52 mm in diameter is manufactured at present by cold defor-
+mation. However, this method is marked by intensiveness in materials, capital,
+labor, and energy greater than for hot-rolled pipe. An expansion of the mix of the
+latter with a reduction in the diameter at existing continuous pipe-rolling mills
+and the creation of new mills with greater capabilities are among the main areas
+
+for improving equipment and technology in ferrous metallurgy in the short term.
+
+In the chemical, petrochemical. oil-refining and certain other branches of indus-
+try, pipelines are extremely often designed for the transport of aggressive sub-
+stances. Expensive high-quality pipe made of stainless steel goes into these de-
+signs. But in such branches as shipbuilding, the use of lined pipe. which combines
+the high strength of steel pipe and the chemical resistance of plastic pipe. has
+proved itself well. Current output of the pipe is about 450,000-500,000 tons per year
+and does not by far satisfy the national economy's needs. The appearance of new
+areas for using this pipe instead of stainless steel will increase the reliability
+and longevity of pipeline systems and reduce considerably expenditures for produ-
+cing it.
+
+Organization of the large-scale production of enameled pipe should be a promising
+area.
+
+An analysis of the steel-pipe consumption structure indicates that a substantial
+portion of industrial pipelines in certain branches of industry is intended for
+transporting product that is highly abrasive. Product pipelines erected from thin-
+wallcd carbon pipe arepoorly suitable for such purposes, and they do not last long
+(1-2 years of service). Thickening the walls of steel pipe does not bring a con-
+siderable increase in the length of service of industrial pipelines and does not
+reduce operating costs. The use of cast-stoneware pipe yields substantial bene-
+fit. However, large-scale output of it has not been arranged yet.
+
+Scientific and technical progress in developing the production of pipe made of
+nonmetallic and of composite materials should be aimed in the next few years at
+raising its load-carrying capability (strength) and heat and chemical resistance.
+The investigation of nonthreaded pipe and of joining methodsthatare reliable but
+not labor intensive, the development of methods for bending thin-walled pipe with-
+out loss of stability of the cross-section, and the organization of production with
+maximum preparation of the product for assembly are associated with the use of pipe
+
+in the consumer sphere.
+
+An acceleration of scientific and technical progress in pipe production can at
+first lead to an increase in specific and overall expenditures. Therefore, an
+
+isolated evaluation of the effectiveness of measures for improving equipment and
+technology will be unreliable. An evaluation of these measures should take into
+
+16
+
+FOIIOFFKJA1.USE|MULY
+FOR OFFICIAL USE ONLY
+
+account the reduction in the use of materials. labor, energy, investment and other
+expenditures throughout the whole metallurgical cycle-from the mining of the ore
+to the production of the pipeline systems.
+
+Tons and meters are being used as in-kind indicators for pipe production. Fifteen
+different types of pipe are planned and distributed in tons and meters. The output
+thereof in 1979 amounted to 16.6 million tone. or 1.588 million meters. Only
+
+5 types of pipe. whose output that year was 1,028 million meters (which corresponds
+to 1.1 million tons» are planned and distributed in meters.
+
+In our view. the linear measurement helps to a great extent to raise production
+effectiveness. Its acceptability for planning, costing and accounting has been
+proved by the many years of work experience of pipe plants.
+
+Some economists consider it possible to retain the weight measurer for the volume
+of production output. In order to justify their point of view, they point to the
+striving of customers whose funds are allocated hitons toorder pipe with reduced
+wall thickness in order to allow a larger amount of product (in linear units of
+measurement) to be obtained for the very same amount of funds. And, on the con-
+trary, the allocation of funds in meters would seem to persuade customers to order
+pipe with increased wall thickness. which will enable the longevity and reliability
+of utilities structures to be raised.
+
+In resolving the question of the priority of indicators for pipe production. the
+following should be kept in mind.
+
+The productivity of pipe mills is a function of the sizes of the pipe being manu-
+factured. with increase in wall thickness but the same diameter. the hourly pro-
+duction of pipe mills in tons increases proportionally. With decrease in wall
+thickness. the opposite picture is observed: the productivity of the pipe mills in
+units of weight is reduced. while in linear units it grows or stays unchanged. If.
+as a result of improving the consumption structure of pipe, wall thickness must be
+decreased. the use of the weight indicator causes a reduction in production volume.
+The result will be a seeming reduction of resources.
+
+Also among the planning, evaluative and fund-forming in-kind indicators is the
+amount of output of products of the highest quality category. which is measured
+also by either tons or meters. Accordingly. everything set forth relates also to
+the planned production of this output. The assertion of the proponents of the
+weight measurer that the distribution of pipe in tons promotes the ordering of
+less metals-intensive output is not confirmed in practice.
+
+The interrelationships of the planning organs and pipe producers and consumers
+take the following form. Development of the annual production plan (in tons) is
+begun in the first quarter of the preceding year. when the requirement for pipe for
+the following year by size is still not known. to either the customer or the plan-
+ning organs. The plan calls for the complete use of high-capacity pipe mills. tak-
+ing the product mix into accOunt. The desire of the customers at the plan-reali-
+zation stage to obtain a larger number of meters is practicable, provided there is
+a reduction in production in tons. But revision of the distribution plan. and
+then also of the production plan. is not permitted. As a result. the customer is
+allocated products with increased metals intensiveness under the orders schedule.
+
+17
+
+FOR 0FF1C1AL.USE‘ONLY
+FOR OFFICIAL USE ONLY
+
+Pipe production is planned by realized. cosmodity, and gross output indicators.
+The last two are categorized as settlement indicators. However. the gross output
+indicator is assigned a more significant role than is customarily thought, since
+labor productivity is computed by means of it. 'l'his circumstances requires thor-
+ough analysis of the influence of scientific and technical progress on the materi-
+als intensiveness of the output and the cost indicators of production.
+
+Gross output can be presented as a result of the production of a volt-e of output
+expressed in in-kind measurement units. based upon the price of a unit of output.
+
+The price for pipe for a definite amount of output in linear measure-cut units
+
+with a reduction in metals intensiveness is changed in full correspondence with
+the change in the socially necessary costs of production. material expenditures
+make up about 80 percent of the prime operating cost structure of pipe production.
+The remaining 20 percent consists of labor, power and other production outlays.
+
+The first expenditures—the variables—are a function of the amounts of output pro-
+duced. The second—the constants—are not functions of it. Specific expenditures
+can thus be represented as the sin 0.BS + 0.28 (where S is the prime cost of pipe
+production) .
+
+where there is a reduction in the metals intensiveness of the output, if the amount
+is measured in linear units, specific materials expenditures are reduced and the
+constants are retained. If the output is figured in weight measurements, then the -
+material expenditures per ton of output are retained, despite the reduction in
+metals intensiveness thereof. and the constants per ton increase because of the
+reduction in the amount of pipe production.
+
+The dependence of the price (To) and the expenditures 2 on pipe production can
+be expressed by the equation
+
+78‘“:
+
+where K is the coefficient that considers the bulk of the profit in the price of
+the pipe.
+
+If. as a result of taking scientific and technical measures, metals intensiveness
+of the output has been reduced. by 20 percent for example. then the materials ex-
+penditures per 1 meter of pipe also are reduced by 20 percent. and the value of the
+constant remains as before. Total outlays for producing output of lesser metals
+intensiveness will be equal to
+
+2 3 008.0088 § 0025 ' 008‘s.
+
+The output volume of pipe of reduced metals intensiveness, in meters. has been kept
+at the former level, and the amount of gross output (V) is computed in accordance
+with the formula
+
+V = 0.84 H’s.
+where P is the amount of output expressed in in-kind terns.
+The reduction of setals intensiveness of output by 20 percent will lead to a 16-
+percent reduction in gross output through a reduction of materials expenditures.
+
+The labor productivity indicator. which is computed in accordance with gross out-
+put, is reduced by that same amount.
+
+18
+
+FOR OFFICIAL USE ONLY
+FilllJFFIC1AL UBEItNULY
+
+Where the output is aeasured in weight units. the results of a reduction of its
+aetals intensiveness will not be reflected in the specific naterial expenditures.
+They will rennin constant. Only the anount of product output is reduced.
+
+Ihere there is a reduction in the amount of output. specific constants of expendi-
+ture will rise by 20 percent. and where there is production of output of lesser
+metals intensiveness. they will be
+
+2 I 0.85 § 102.0023 - 1.048.
+
+The anount of gross output when its production is planned in weight aeasureaents
+will be equal to:
+
+V ' 0.8?01.04TI I 0e'32PT.e
+
+The influence of a reduction of the naterials intensiveness of output on reduction
+of coat-of-production indicators is intensified as the asterisls expenditures for
+production decrease. This relates to the production not just of pipe but also of
+any other itens in which the aaterial expenditures exceed the other outlays.
+
+Table 3 shows the technical and econoaic indicators that could characterize the
+production of electrically welded pipe of just one size at the Volga Pipe Plant. A
+reduction of the pipc's aetal intensiveness during a conversion to walls that are
+20 percent thinner would enable its weight to be reduced by 36,400 tons (16.7 per-
+cent) and the amount of production to be increased by 222,000 aeters (10.6 percent»
+However. the gross output and labor productivity would be reduced by 13 percent.
+Because of deficiencies in setting prices, profit froa the realization of output at
+the plant will be reduced by 900,000 rubles. although the expenditures for produ-
+cing the pipe of reduced aetals intensiveness is cut by 4.1 million rubles. The
+aaount of the econoaic incentive funds will be reduced by 39 percent as a conse-
+quence of the change in the fund-fouling indicators.
+
+Table 3
+
+Technical and Econonic Indictors for the Production
+of Pipe of Lesser Metals Intensiveness at the Volga Pipe Plant
+
+Dimensions 0!
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . . Chan e of indicators
+Indicator W —‘r——In . so- In per-
+530x6.0 530x6.0 lute value cent
+Pipe production volume:
+Thousands of t0n8................o.o.... 218.2 18108 .360‘ 16.7
+Thousands of meters..................... 2,066.0 2,310.0 +222.0 10.6
+cross output, millions of rubles' worth... 36.4 33.4 -5.0 13.0
+Prine production costs, millions of rubles 33.7 29.6 -4.1 12.2
+Profit. aillions of rubles................. 4.7 3.3 -0.9 19.0
+Profitability, percent.................... 13.9 1208 -100 7.0
+Labor productivity, thousands of rubles
+Per person.............................. 24.9 2106 “Se: 13.0
+material-incentives fund. percent.......... 100.0 61.0 - 39.0
+
+-_—_——__——————_—__——___-——____——_—_-—_———u——————______———————————————_—————-———-
+
+change in the technical and cconoaic indicators of the production of pipe of re-
+duced metals intensivcness at the Chelyabinsk Pipe-Rolling Plant. the Leningrad
+Pipe Plant. the Vyksa Metallurgical Plant and other plants has that sane tendency.
+
+19
+
+FOR'OFFKJAL.USE(NVLY
+FOI‘OFFHJAI.USE10NLY
+
+A paradox arises: the greater the influence of scientific and technical progress
+on reduction in the metals intensiveness of output. the less the output of gross
+product. and the lower the labor productivity. It can be eliminated if the indi-
+cator for standard-equivalent net output. which materials intensiveness does not
+affect, is used as the indicator for planning production and evaluating the collec-
+tives' activity.
+
+The objectivity of evaluating scientific and technical progress in pipe production
+is intensified if the introduction of new equipment and technology. improvement of
+product quality, and reduction in expenditures for the manufacture of pipe output
+are reviewed, taking into account the qualitative and quantitative changes that
+emerge throughout the whole cycle of metallurgical production, beginning with the
+mining of the iron ore. For example. water-andrgas conduits from 20 to 76 ml
+
+in disaster and with a wall thickness of 2.2-4.5 mm are being used widely to pro-
+tect electrical conductors. At the saae time, experience has also indicated the
+acceptability of thin-walled electrically welded pipe with wall thickness half as
+great. Each year the amount of use of water~and-gas conduits for the indicat-
+ed purposes in the national economy totals about 200.000 tons. Replacing them with
+thin-walled electricallywelded pipe. which was occasioned by a number of changes
+in the technology for manufacturing metal products and with reworking thereof in
+the consumers' sphere, enables rolled-metal consumption in pipe production to be
+cut in half for the same number of meters of pipe.
+
+rolled but from cold-rolled strip. Thus, prior to replacing water-and-gas
+conduits with thin-walled electrically welded pipe, the production of almost
+100,000 tons of cold-rolled steel coils per year should be organized. for which
+about 20 million rubles of capital investment is needed. This path for satisfying
+the national economy's rising requirement for rolled metal by saving in the tra-
+ditional areas of its use is preferable to organizing new rolledqaetal production
+throughOut the whole metallurgical cycle. when the creation of production capacity
+for the mining and beneficiation of iron ore. the production of coke, the melting
+of pig iron and steel, and, finally, the output of rolled metal. is required.
+Capital expenditures for creating capacity for 100,000 tons of rolled metal
+throughOut the whole metallurgical cycle will exceed several tens of millions of
+
+A scientifically sound choice of directions for technical progress in the produc-
+
+tion of pipe (or metals, materials, and other types of output) will enable a re-
+
+duction in capital investment for the industry’s development and the creation of a
+potential for the selective use of the resources that have been saved for solving
+social problems: the construction of housing. children's institutions and facili-
+ties for public health, culture. education and so on. Moreover. additional possi-
+bilities for improving the systea of collective material stimuli are opened up.
+
+Part of the metal saved and the additionally aanufactured output that is less ma-
+terials intensive can be partially or completely allocated in a planned procedure
+to manufacturing enterprises and to conauaer organizations for such output. above
+the established voluae. Additional allocation of material resources precisely to
+those enterprises that have reduced their consumption will enable fixed assets.
+labor resources, fuel and electricity to be used more completely and the material
+basis for the development and realization of counterplans to be established.
+
+20
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In 1981 our country manufactured more than 18 million tons of steel pipe, more than
+the USA, France. the PRG and England put together. However, nonnetallic pipe still
+is not being used adequately.
+
+Steel pipe made of stainless steel and carbon steel, pipe lined with plastic, enam-
+eled pipe. pipe made of low—alloy steels, thick-walled and cast-stoneware pipe.
+electrically'weldedlarge-diameter steel pipe, and reinfbrced-concrete and plastic
+pipe possess exceptionally high interchangeability. But the engineering solutions
+for operating pipe made from different materials are not equivalent from the eco-
+nomic point of view. The intensiveness of capital. energy, materials and labor in
+the production of each type of pipe has essential differences, indicating the ne-
+cessity for the integrated, mutually related development of pipe production. Such
+an approach still has not been realized completely.
+
+Several USSR Gosplan sections are occupied with planning pipe production. Disper-
+sion of the development of current and long-range plans for the production of steel,
+plastic. reinforced-concrete and other types of pipe is one of the factors in the
+disproportions of their output. It has an influence on the engineering solutions
+for design. An analysis of designs for the construction of pipeline transport has
+confirmed the inadequacy of their effectiveness.
+
+Contractor designs for the erection of ordinary water—supply systems call for
+electrically welded pipe. The operating pressures in water-supply systems whose
+designs have been approved by consultant services are 0.3. 0.6 and 1 an. When
+erecting pipelines that are designed on the basis of this pressure, it is desirable
+to use pipe made of nonmetallic materials, the outlays for production, the install-
+ing costs and the operating expenditures for which are considerably lower. The
+same can also be said about the use of other members of the mix of types of steel
+pipe: water-and-gas conduits. seamless and electrically welded oil pipeline,
+
+rolled pipe. and so on.
+
+In order to optimize plans for developing pipe production. it is desirable to con-
+centrate the fonmulation of plans for the production and distribution of all types
+of pipe in one structural USSR Gosplan subunit.
+
+A characteristic and distinctive feature of program control is the interrelated
+step-by-step examination and solution of all questions. The preparatiOn of designs.
+the review of standardizing documents and materials-consumption norms. improvement
+of the equipment for the technology of production. and improvement.ofproduct quality
+and of the system for planning and evaluative indicators of the activity of mini—
+stries. production associations and industrial enterprises are organically incor-
+porated into an overall integrated program, despite the diverse nature of the tech-
+nicul and economic methods of control. within the framework of a specific-purpose
+integrated program, it is possible to establish tasks for various stagesamd types
+or operations. indicating the implementers and the deadlines for implementation.
+
+In generalized form, the methodology for developing integrated programs for saving
+material resources is:
+
+scientific study of existing material—resources consumption;
+
+improvement of methods for analyses and for standardizing documents that regulate
+the terms for using material resources:
+
+21
+
+FOR 0i1l€1Al.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+the development and coordination with customers and manufacturers of a progressive
+materials-consumption structure;
+
+the execution of measures for improving equipment and technology in the spheres of
+production and consumption of materials resources;
+
+a review of the system of plan indicators: and
+
+improvement of the system: of economic levers and stimuli and of the production con-
+trol structure.
+
+Any stage (or chapter) of an integrated program is of an interindustry nature and
+should be reflected in the national economic plan. Specific-purpose integrated
+programs that call for a basis forasystems. step-by-step approach to the solution
+of questions of improving design matters. consumption nous, improvement of output
+quality on the basis of scientific and technical progress. and strengthening of the
+effect of economic methods of control are reliable means for raising consider-
+ably the effectiveness of social production and quality of work.
+
+COPYRIGHT: Izdatel'stvo "Eltonomika". "Planovoye khozyaystvo“. 1982
+
+11409
+cso: 1822/162
+
+22
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+nmmmAn-Pmownou mums III 111'! mm M
+
+Moscow SW ODIMBM: mmnnn'no-pmzzvonsm KOIQLIKSY $38!! in
+Russian 1982 pp 40-57, 62-72
+
+[Selected chapters from book 'Stridse of the Eleventh: 'l‘erritorial-Production
+(Duplexes of the USSR", by A. N. Gladyshev and V. P. Mozhin, Politizdat]
+
+[‘Dextl 1. Rest Siberian merritorial-Production Couple):
+
+“Ensure further development of the
+West Siberian territorial-produc-
+tion couples.“
+
+From the “Basic Directions. . . . "
+
+The eoonosic growth of the west Siberian cosplex is based on the diversity of
+natural resources concentrated on its territory. The fuel resources, in relation
+to the total reserves of which the comlex occupies a leading place in the country,
+and its timer and fresh water have especially great significance to the national
+econony. What is inportant here is that these resources are relatively close to
+
+industrially developed regions experiencing an increasingly greater demand for
+then.
+
+Among the problems of further development of the ﬂeet Siberian m [territorial-
+Production Oouplex], special importance is attached to increasing extraction of
+petroleun and gas, which play the leading role in the entire country's fuel and
+energy balance. Here is what 1.. I. Brezhnev said in this regard in his speech to
+
+the 28th Komsonol Congress: I"i‘he Tymn' reserves will still keep us going for
+many long years. And in the next decade, we intend to achieve the main increment
+
+in the extraction of petroleu and gas and in the production of valuable chemical
+raw materials fron these resources mainly at 'lyunen'. In this connection a new,
+
+more complex stage of West Siberia's development is beginning or, to put it more
+accurately, has already begm. The volune of all operations must be doubled and
+tripled there. This will require both new outlays of materials and equipment and
+an influx of people into this region."
+
+Construction of the cowlex is proceeding, and it is undergoing development. In
+the harsh natural-climatic conditions, in permafrost, marshes and sweeps, a powerful
+
+'Brezhnev, L. 1., "leninskim kursoa' [Following Lenin's Course], macaw, Vol 7,
+1979. PP 287-288.
+
+'23
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+economic potential has been created, one promoting intensive development of the
+underground treasurehouse of fuel. ‘lhe increase in extraction of petroleum, in-
+cluding gas condensate. exceeded an average of 100 million tons and gas extraction
+exceeded 50 billion m3 every 5 years throughout the entire period of the cleex's
+development. For comparison, let us recall that about the same quantity of petro-
+leu was extracted in the whole country in 1955. and of gas in 1960. Ming the
+10th Five-Year Plan petroleum extraction in lyinenskaya (blast increased by a
+factor of two. while gas extraction increased by a factor of 4.3. This is a world-
+
+unprecedented rate of development of oil and gas fields. 'lhe West Siberian m
+is already playing the decisive role in formation of the country's fuel balance and
+
+in providing petrochemical raw materials to the national economy.
+
+These outstanding successes became possible owing to the far-sighted policy of our
+party and the harmonious creative labor of many thousands of laborers, engineers.
+scientists and technicians. ‘l‘he energetic activities of a large nulber of enter-
+prises supplying the complex with progressive technology and equipment do not play
+the last role either. This is precisely what made it possible to wage an offensive
+
+on the riches of the “est Siberian complex from the very beginning not by the
+strength of nunbers but by the strength of knowledge, with the assistance of the
+
+most up-to-date equipunt and procedures.
+
+New, even more grandiose tasks associated with the complex's further development
+will be conpleted in the llth Five-Year Plan. Extraction of petroleum, including
+gas condensate, is to be increased by another 80-90 million tons. In this way, the
+
+complex is not only compensating for a certain decline in petroleum extraction in
+other regions, but it will also be responsible for the total increase in extraction
+
+in the country. In 1985 the cosplex is to produce 385-395 million tons of petrolein.
+including gas condensatsuthat is, more than 60 percent of the total extracted in
+
+the Soviet Union. Each year 1 million tons of liquid fuel will be extracted froe
+its subsoil.
+
+The tasks of gas extraction are even greater. The Hedvezh'ye gas field
+
+has already been developed. 1he larger 'multistory" Urengoy gas field is now
+flexing its giant muscles. Waiting in the wings is the northernmost and most diffi-
+cult deposit--the Yasburg gas field. Exploitation of these larders of the Yamal
+
+Peninsula and between the Pur and Tax rivers as well as gther deposits in the 'lyuien'
+North will make it possible to extract 330-370 billion m of gas in the end of the
+
+llth Five-Year Plan. And this means that the daily gas yield of the couples will
+be 1 billion n3.
+
+Understandably. completion of these large-scale tasks would be possible only on
+the most up-to-date technical basis. Much has already been done in this regard.
+
+A new procedure for extracting petroleum has been created and placed at the basis
+of a unified system of oilfield remote control. Subterranean energy and deep pups
+
+are being used to transport the petroleus from wells to central handling stations,
+making it possible to reduce the mater of oilfield structures by many times.
+
+Special modular equipment. which together with the telemechanical system makes
+
+up an integral oil extraction organism. has enjoyed broad application. and it has
+served as the basis of integrated automation of the oil extraction processes. But
+even this is no longer enough. The problems of technical progress are acquiring
+even greater significance in connection with the need for developing new oilfields
+in even harsher natural and climatic conditions, for progressing to deep and
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ultradeep wells, for increasing the oil output of the beds, for raising the level
+of construction's industrialization, for creating more economical forms of trans-
+portation and for providing population centers with mdern facilities.
+
+The amount oil and gas extraction increases depends significantly on the amount
+
+of effort put into drilling and outfitting the wells. The volume of such work will
+increase significantly during the present five-year plan through introduction of
+progressive drilling methods, application of new drilling equipment and further
+industrialization of construction. A highly effective method of cluster .slant
+drilling of wells for oil and gas was used for the first time at the West Siberian
+complex. This method, which makes it possible to concentrate oilfield facilities
+
+in a single area and broadly eaploy industrial methods of outfitting the oilfields,
+can ensure a 10-15 percent decrease in built-up territory and a 30 percent decrease
+
+in the meter of structures and in the length of transportation lines. As a result
+the number of service personnel decreases significantly.
+
+During the llth Five-Year Plan, the comlex's oil and gas industry will receive
+more integrated drilling rigs designed for general-purpose installation and for
+cluster drilling, equipment to sechanize well operation and repair, and automated
+and modular equipment to outfit the oilfields. me use of new methods to influence
+the oil reservoirs will be broadened. This will increase extraction of oil from
+the subsoil. Gas-lift operation of wells and highly productive submersible pups
+will be introduced.
+
+A pipeline network of significant length, extending far beyond West Siberia, is an
+organic unit of the comlex's petrolem and gas industry, inasmuch as the bulk of
+
+the oil and gas will be transported to other regions of the country, both today and
+in the future. Pipelines have already been under construction for 15 years. Petro-
+leum is carried from 1yumenskaya oblast to enterprises of Omsk, Al'aet'yevsk and
+Kuybyshev, and natural gas is carried to Chelyabinsk, Kemerovo, Gryaaovets and other
+cities of the country. A web of thousands of kilometers of oilfield arteries
+
+has ensnared the marshy taiga.
+
+Erection of the petroleun and gas pipelines received a new push owing to creation
+of a high-output specialized construction subdivision, Glavsibtmboprovodstroy,
+
+in 1973. While in the first year of this organization's existence it laid about
+1,000 km of pipeline, now it is erecting over 4,000 km of pipelines to collect and
+transport oil and gas and dozens of compressor and oil transfer stations each year.
+
+These successes can be explained in many ways by the use of modern equiment and
+procedures successfully adapted to low temperatures, the lack of roads and the
+
+permafrost. Threaded steel oil pipes with new forms of threaded connections and
+anticorrosion films will be introduced extensively in the llth Five-Year Plan, and
+
+production of multiple-wall pipes for gas lines will expand significantly. This
+will make it possible to hasten construction of the pipelines, which has priority
+significance to gas industry. In addition to the four existing gas pipelines, not
+less than six more--larger and longer ones-~must be laid to transport the enormous
+quantities of Siberian gas to other regions of the country.
+
+One of the most iaportant construction projects of the country's gas extractors
+today is the Pyatyy Luch gas pipeline, 2,800 km long. It is to connect Urengoy to
+Moscow. It will pass first through the Numen' North and then through the Komi ASSR
+
+and Arkhangel'skaya, Vologodskaya, Yaroslavskaya, Vladimirskaya and ibscow oblasts.
+This pipeline will carry about 100 million n3 of gas per day.
+
+25
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+One of the most serious problems faced by the angle): is that of utilizing byproduct
+petroleum gas. A nusber of gas refineries have already been built. but their output
+is still inadequate. a significant part of the byproduct petroleun gas is being
+burned off for the lament. A ton of Siberian crude contains 60 m3 of byproduct
+gas. This means that more than 23 billion :13 of gas were extracted by the couplers
+enterprises in 1985. Byproduct gas can be broken down into 70 percent dried gas and
+
+The main consuner of the dried gas is power engineering. 'lhe Surgutskaya ems is
+now operating with this gas. Capacities making use of dried gas will also be intro-—
+duced at Surgut's thermal plant during the five-year plan. Owing to this. the task
+of reinforcing the energy base of petroleum industry and of other national economic
+sectors in the middle reaches of the 0b' will be completed. Byproduct gas is also
+used for industrial needs in ferrous metallurgy, chemical and cement industry,
+
+the “nobol'sk Petrochemical Codaine in the five-year plan. The ‘lbbol'sk plant will
+specialize in the production of synthetic rubber, and the ‘Domsk combine will special-
+ize in production of polymerization plastics (polyethylene. polystyrene) and raw
+materials for synthetic fibers. In the opinion of specialists it would be expedient
+to create two petroleum refineries to support these enterprises. The savings per
+ton of light petroleum products resulting from locating petroleum refineries here
+
+in comparison with locating them in the European regions of the Soviet mion would
+be 15-17 rubles in capital investmnts and 2-3 rubles in operational outlays.
+
+over, as calculations show, procurement of l m3 of timer here means a savings
+of 2 rubles, production of l m3 of inter saves about 7 ribles. roduction of
+1.000 s2 of wood fiber panels saves 29 rubles. production of l m of plywood from
+deciduous wood saves about 3.5 rubles. production of a ton of wrapping paper saves
+6 rubles. production of a ton of writing paper saves over S ribles, and production
+
+of a ton of cardboard packaging saves about 5 rubles. The product yield per ruble
+of capital outlays is greater in 1yumenskaya and Mskaya oblasts than in the
+
+forested regions of the Northwest and the Urals. Moreover the forests of these
+regions are 2,500-3,000 km closer to the European USSR than are the forests of
+East Siberia. In the future the logging volume in ‘lbmskaya and Iyumenskaya oblasts
+may grow significantly. Presence of enormous reserves of fuel and water creates
+favorable possibilities for erecting large enterprises in this area for chemical
+and mechanical wood processing. It would be suitable to create logging complexes
+and sawmilling and woodworking combines in the cities of Asino, surgut and
+
+Kolpashevo and in the towns of Kamannyy and Belyy var-ones with an output capacity
+of 4-6 million 11:3 of processed wood per year.
+
+Machine building, the main task of which is to manufacture equipment and mechanisms
+for enterprises and construction projects of the leading economic sectors--is an
+
+26
+POI! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+important element of the Rest Siberian m. Construction of a plant producing
+chemical and petrochemical equipmnt is to begin in the llth Five-Year Plan. In
+the south of the complex, it would be suitable to develop the repair of large
+petroleun and gas equipment on intensively.
+
+Analysis of the cosplex's territorial economic ties revealed a sharp increase in
+interrayon turnover and local freight traffic. ﬁne lyinn'-Surgut Railroad has
+taken on a big load. Its erection significantly accelerated development of new
+deposits of natural fuel. The Surgut-Urengoy Railroadmhich will join together
+the Khanty-Mansi and Yamalo-Nenets national areas. accelerate development of
+
+their economies and provide the Wmn' North access to the south. connecting it
+to the country's railroad network, is to be placed into operation in the llth Five-
+Year Plan. the role of motor and river transport will grow, its material-technical
+base will be made stronger, and the throughput of river ports will increase. The
+
+river fleet will be supplemented by large steamehips. vessels capable of mixed
+"river-sea“ navigation, tugs. icebreakers and comfortable passenger ships. Organi-
+
+zation of year-round navigation in the western part of the Northern Sea Route will
+have great significance. owing to which timely delivery of freight to the enter-
+prises and population of the cleex will be ensured, especially in those regions
+of the complex located in the far North.
+
+Timely preparation of construction sites is an ilportant prerequisite of successful
+development of deposits. Dirt andmillions of tons of sand,obtained from river and
+
+lake bottoms by hydraulic methods using hydraulic dredges, are brought in to the
+construction sites and approach roads are erected 2 or 3 years before the main
+
+forces arrive. Usually the sand is delivered from far away over poor roads, meaning
+that as a rule the outlays on its transportation are tremendous. But sand is
+available almost everywhere, though sometimes it is encountered at great depth--
+15-20 meters. It could be extracted by the so-called air lift method. where water
+and air are injected under pressure into a drilled well to raise slurry to the
+surface. Here this method of sand extraction to be introduced throughout. we could
+significantly hasten creation of staging areas and oilfield roads, and reduce the
+
+transportation expenses and labor outlays on construction.
+
+further industrialization of construction has priority significance to the cleex.
+'me moduluar method is now a full-fledged citizen of Wn'facilities. The bulk
+
+of the equipment is manufactured at the plants and delivered to the construction
+sites in finished form, after which it is installed on a foundation and connected
+to utility lines. This method reduces construction time a great deal and signi-
+ficantly raises labor productivity and work quality. At present, the staging and
+support basis providing equipment to the cosplex's construction projects are located
+in the southern part of Tyumenskaya oblast and on the Ural. In the future it would
+be suitable to create such bases in Kemrovskaya and Novosibirskaya oblasts, using
+
+water transportation to handle the cargo; on the return trip, such transportation
+could be loaded with timber.
+
+Welded fomdations and supports are broadly esployed in the erection of the com-
+plex's facilities. Until recently the motors and machine mite of petroleim trans-
+fer and comressor stations were mmted on monolithic reinforced concrete founda-
+tions. But it is not all that simple to pour concrete in extreme cold. Metal
+
+frames are now being used for this purpose. In conparison with the traditional
+
+27
+'0! OFFICIAL US! ONLY
+M OFFICIAL US! ONLY
+
+sethod, the new one reduces consumtion of reinforced concrete by a factor of
+
+2.5, labor outlays by a factor of S and construction time by a factor of 4. Work
+quality inroves as well.
+
+Serious social problems Inst also be addressed in the course of developsent of
+natural resources on the territory of the combat. The main one is that of selec-
+ting the way of populating the North. Which way would be preferable, to create
+
+base cities with a permanent population, or to develop the natural resources using
+the so-called watch and expeditionary methods? After all, it costs the state tens
+of thousands of rubles to relocate a worker in a new place. It has been estimated
+that the outlays on saintaining an oil prospecting expedition operating according
+
+to the watch method are coqensated for by the third or fourth year. In Wnskaya
+Oblast, the watch method has saved hundreds of millions of rubles and made it
+possible to hasten development of subterranean minerals by several years. Thus
+
+in and of itself, the watch method is highly economical. Hanover, if we consider
+construction of watch towns, which mt be furnished with all necessary conveniences,
+
+all the more so because the watch workers are smjected to especially harmful
+conditions, the relative outlays on creation of watch towns would be close to the
+
+relative outlays on creating base cities. Thus in resolving the issue as to what
+method we are to use in developing the territory, we should base ourselves on the
+concrete conditions, and when necessary we should cod>ine different methods of
+
+developing the natural resources on the couplex's territory. In the first stages
+of the territory's development, the watch method would obviously be suitable. In
+
+subsequent stages, however, base cities would have to be created. Thus uadym, the
+capital of gas extractors of the Hedvesh’ye deposit, has become a base city. Had
+
+it not been created, development of the Urengoy gas field would have taken many
+more years, resulting in tremendous losses to the national economy.
+
+The social problem of the cosplex are not limited to selection of the method for
+developing the new territory. There are other issues that need to be resolved
+
+as well: how to provide manpower to the enterprises, how to stabilise the popula-
+tion, how to create favorable conditions for the work and rest of the people, and
+others. If we are to resolve then in the llth Five-Year Plan, we would need to
+expand construction of residential, municipal, cultural and personal service facil-
+ities, strengthen the food base by enlarging agriculture and sectors processing
+agricultural raw materials, and inement a maﬁa: of other msasuros no less im-
+portant to the economic and social development of the comlex.
+
+2. The Kansk-Achinsk Territorial-Production Couples
+
+"Continue formation of the Kansk-Achinsk
+'nerritorial-Production Cowlex. "
+
+From the “basic Directions. . . ."
+
+Formation of the Kansk-Achinsk 1?): is associated mainly with development of enor-
+mous coal reserves. The name of the :onplex comes from the Kansk-Achinsk coal basin.
+
+1his basin is unusual in its dimensions. It stretches over an area of 50,000 square
+kilometers, bordering on the Trans-Siberian Railroad for 800 km. According to the
+
+estimates of geologists, large reserves of coal are concentrated in the Kansk-
+Achinsk basin. Here we to base ourselves on the present level of coal extraction
+
+28
+
+”WNW?
+“WISCONLY
+
+in our country, these reserves should last us many years. The most praising coal-
+bearing regions in the basin are the ltat-Bogotol'skiy, Naurovskiy, Balakhtinskiy,
+Priyeniseyskiy. Rybinskiy and Sayano-Partizanskiy. The principal coal beds,
+development of which is possible by the most effective open-cut method, are con-
+centrated on their territory.
+
+of course. not all of the deposits are ready for practical development today. Many
+of them still have to be studied, measured and weighed, so that the future open coal
+
+pits could be built on a sound and dependable raw material foundation. However.
+even the coal reserves we have today that are prepared for industrial development
+can support development of coal industry on an unprecedented scale.
+
+The mining and geological conditions of developing the melt-Achinsk coal deposits
+are exceptionally favorable. The main coal bed, which consists of a seam from
+S to 90 meters thick, lies horizontally as a rule, making it possible to develop
+
+it with high-power equipment. Also inportant in this case is the fact that the
+coefficient of stripping operations at deposits that may be developed by the open-
+
+cut method is not very great. It varies from 1 to 3 m3 of earth per ton of coal.
+This is several times less than in other coal basins of the comtry.
+
+In the future creation of dozens of high-output quarries with a total annual coal
+yield of 1 billion tone will be possible on the territory of the Kansk-Achinsk
+m. This would be 1.6 times more than the present coal yield of the country as
+a whole. Development of the cceplex's coal resources has already begun. M open
+
+pits are already operating at the Nasarovskoye and Irsha-acrodinskoye deposits,
+which are producing tens of millions of tons of coal. The Beresovskiy open coal
+
+pit, which will go into operation in the llth Five-Year Plan, is presently under
+construction.
+
+The Ransk-hchinsk basin is attracting attention not only in via: of the size of
+its coal reserves but also due to the high technical-economic indicators of coal
+
+extraction. Take for exawle an indicator such as unit capital investments. They
+are several times less here than in other basins of the country. Given the same
+
+volume of capital investments, eight times larger coal extraction capacities can
+be created in the Kansk—Achinsk basin than in the Donets Basin. The cost of
+
+Kansk-Achinsk coal is much below the cost of coal from other basins. An increase
+in its extraction to 80 million tons would reduce the average cost of coal mined
+in the less by lo percent. and of all fuel by 6 percent. The corrected outlays
+per ton of Kansk-nchinsk coal are lower than those on extracting an equivalent
+quantity of men' or Orenburg gas. And finally. the Kansk-Achinsk basin has
+
+no equals in terms of an imortant indicator such as labor productivity. Up to
+2,000 tons of coal can be mined here per worker per month. This is lo times more
+
+than the average labor productivity indicator of the country's coal industry.
+
+The most ieportant factor, one which primarily defines the high economic effec-
+tiveness of coal mining in the xansk-Achinsk basin. is the favorable conditions
+
+in which the coal is situated, making it possible to create high-output open pits.
+The output capacity averages 30 million tons, while in the Ekibastus basin it is
+17. in the Kuznetsk basin it is Sand in thePodmoskovskiy basin it 18 1 million tons.
+The output of some open pits in the complex may be increased to 45 and even 60
+million tons. The high capacity of the open pits makes it possible to use pro-
+gressive system for developing the coal deposits, using the latest ultrapowerful
+highly productive equipent. 29
+
+”WNW?
+mommmonu
+
+The Ural Machine Building Plant manufactured the world's most powerful walking
+dragline for stripping operath at the Nararovskiy open coal pit. Its bucket,
+
+which has a capacity of 100 .3, can carry a tremendous load for great distances
+with the help of a 100~meter boon. A rotary excavator with a productivity of
+
+5,000 m3 per hour is operating at the lrsha-Borodinskiy open pit, and a heavy
+excavator plant that will support development of coal pits of the xansk-hchinsk
+basin is under construction in Krasnoyarsk. The first generation of this plant,
+which may be referred to as the Siberian version of the Ural Machine Building Plant,
+will go into operation in the current five-year plan. This will make it possible
+to dispense with the extremely significant transportation outlays. After all, the
+outlays for delivering high-power excavators to this place from the European re-
+gions of the country reach as mch as $0 rubles per ton of their weight. Use of
+conveyor transport, which increases the productivity of mining equipment, simpli-
+fies delivery of the fuel to the hoppers of therlal power plants and makes it
+possible to nove stripped rock to storage dupe with ninisan damage to agricul-
+tural land, is expanding.
+
+Resolving the issue of how to use Kansk-Achinsk coal in the national economy. we
+should consider its quality. The problem is that Kansk-hchinsk coal contains a
+significant quantity of noisture-«q: to 40 percent. when this noisture evaporates.
+
+the coal breaks apart to for. dust, which oxidizes quickly and acquires the capa-
+bility of spontaneous cosbustion. The coal freezes in winter. All of this makes
+
+it unsuited to long-tern storage and to transportation over great distances. Nor
+can we forget that Kansk-kchinsk coal has a low calorific value-dra- 2.500 to
+6,000 calories per kilogram. This sakes it less cometitive than coal from other
+basins of the country. Thus outlays on extracting and transporting kansk-hchinsk
+coal to the Urals are 20-25 percent higher, per ton of comarison fuel, and mit
+capital investments are 6 percent higher than for Donetsk coal. Therefore the
+asin direction in the use of this coal is to build large thereal electric power
+
+plants at the places of the coal's extraction. This effort has begun. One of
+the country's largest thernal electric power plants--the hassrovskaya GRBS--is
+already producing current. Output capacities of the Beresov-skaya GIGS. presently
+under construction next to the Berezovskiy Coal Pit No l in the vicinity of the
+town of Sharypovo, will be placed into operation in the current five-year plan.
+
+The country's largest power production block at the Kostromskaya GEES recently
+began producing current for industrial needs. Saving an output capacity of 1.2
+nillion kw, its start-up narked a new stage in the developnent of domestic thermal
+power engineering. a new generation of high-power electric machines, ones which
+may enjoy broad application at thernal power plants of the Kansk-hchinsk complex.
+is being created on its basis.
+
+The effectiveness of developing electric power engineering on the basis of Kansk-
+Achinsk coal is extremly great. Thus in terns of the cost of electric power,
+
+the conplex’s large thermal power plants can conpete with hydroelectric power plants
+of the Volga-Kama cascade. which is one of the most effective in Europe. This is
+all the more indicative if we consider that unit capital outlays per kilowatt of
+attained outputat thermal electric power plants are significantly lower than at
+hydroelectric power plants. When electric power is transmitted over great dis-
+tances. the outlays at the points of consuption rise significantly. nut in this
+case they would not be any higher than those for power from electric power plants
+in the European part of the country. The uifference lies in the technical concept
+
+30
+
+mmmmv
+FOR OFFICIAL USE ONLY
+
+with which this problem is resolved, the essence of which boils down to intro-
+aicing ultralong and ultrapowerful trans-ission lines.
+
+But it would be lost effective of all to use the calplex's electric power locally
+to create high-energy production operations. In this case the fuel savings would
+exceed the additional outlays on delivering the products to consuers and on
+
+isportation of raw materials from other regions. ‘i'hus were we to smelt a ton of
+
+alumina using electric power obtained with Kansk-Achinsk and Donetsk coal and
+ccmere the outlays, we would find that they would be less in the former case than
+
+in the latter. Moreover high-energy industrial sectors require significantly less
+manpower than do law-energy sectors. This is especially iaportant to the cleex,
+since it is experiencing a manpower shortage.
+
+Kansk-Achinsk coal can be used as fuel for power production in other regions of
+
+the country as well. ‘ihere is special interest in the possibility for replacing
+more expensive Kusnetsk coal in Heat Siberia by Kansk-Achinsk coal. But this would
+
+require enrichment of the coal: Its calorific value would have to be raised, and
+it would have to be made more transportable, which would require additional out-
+
+lays. ‘i‘hese outlays should not exceed 4-5 rubles per ton of cowarison fuel.
+Only in this case would this coal coepete with Kuznetsk coal mined by the open-cut
+method in the market of the country's central region.
+
+Development of coal industry, thermal power engineering and high-energy production
+
+operations generates a number of serious problem in environlental protection.
+mey include land recultivation, protection of the landscape and utilization of
+
+Stripped rock, ”h and clinker. Alanine wastes are being used in Achinsk to produce
+cement that is much cheaper than the average for the country.
+
+The Achinsk. Kansk and Nazarovo industrial centers are taking shape on the complex's
+territory. 11» production profile of the Achinsk industrial center is represented
+by energy-rich production operations such as alumina. petroleum refining and cement,
+which will enjoy further development in the current five-year plan. Relying on in-
+tensive agriculture, food industry is developing continuously. In the future this
+industrial center will be supplemnted by machine building enterprises. The Kansk
+
+industrial center is one of the most isportant centers of development of the Kane):-
+Achinsk brown coal basin. It has the potential for developing chemistry on the
+
+basis of enormous reserves of high-quality salt from the Kansko-‘nessevskaya salt
+depression. me Nazarovo industrial center is specialized in coal mining and in
+the production of thermal electric power. A large material-technical base has
+been created here for construction.
+
+Thus the production profile of the Kansk-nchinsk territorial-Production angle): is
+represented by coal industry. thermal power engineering, some sectors of nonferrous
+mtallurgy and cement production. 'ihe closeness of the mlex to West Siberian
+petroleun and its good transportation ties are promoting development of petroleu-
+refining and petrochenistry. It would be advantageous to locate enterprises manu-
+facturing machines and equipment for fuel. power and mining sectors on its terri-
+tory, since this would produce a savings in transportation costs. Agriculture.
+construction industry and construction of residential, cultural and personal
+service facilities have iuportant significance, since they play an important role
+in creating conditions which would attract people and keep the population stable.
+
+31
+
+POI OFT-10M. USE ONLY
+“OFFICIALUSEONLY
+
+In the future the Kanek-mhinak Territorial troduction angler will hecoaa one
+or the aoat inortant fuel and energy baaee. ensuring the dependability of our
+oountry'a fuel and energy balance.
+
+3. me Sayanak ‘iVarritorial-Production angler
+
+'lnaure further develop-ant or the
+Seyaneh hrritorial-Production maples."
+
+Pro- the 'naaic Directiona...."
+
+mile living in exile in the village of Shuahenakiy on the Yeniaey River, v. I.
+Lenin delighted in the rare beauty or the aomtaim o: Bayanek and dread of a
+tine when the liberated people would be able to begin true develop-ant o: thia
+unique land and place its highly rich reaourcea in the aervice of a tree Maia.
+There are not very aany regiona in our country enjoying auch a coﬁination of
+natural and econoaic factore favoring creation of a territorial-production coqlex
+aa doee the eouthern part or Kraanoyarakiy Kray. Siuable water, energy and timber
+xeaourcea and depoeita of iron ore, nonrerroua aetale, coal. aabeatoe, phoephoritee
+
+and nrble are concentrated here in a relatively .all territory, and there are
+convenient area for induatrial and reaidential conatruction. The network of
+
+railroad: and highwaye tiea the couple: to the industrially aoat developed regiona
+of Siberia. the relatively aild. 'alaoat non-Siberian" cliaate. which peraite
+aucceaatul develop-ant of agriculture and facilitatea attraction and atabiliration
+or a population. tavora developeent or a aultiprotile production oleex.
+
+In the future the Sayanak m will becoae one of the largeat not only in Siberia but
+aleo in the entire country. It will contain aore than loo large induatrial enter-
+priaea outfitted with the lateat equip-ht. More than a aillion peraona will reaide
+on its territory.
+
+production or cheap electric power and electro-atallurgy (nonterroua natal
+aulting) and aachine building organized on its baeia will become the leading
+national econoaic aectora of the Sayanak Territorial-Production angler. onea
+predeternining ita all-union epecialiration.
+
+1he heart or the cowlex ia the Bayano-Shuahenakaya as. which will produce about
+24 billion kw~hr of electric power annually. wreover the coat oi thie electric
+power will be aeveral tiaea lower than the mica average. 'ihe Yeniaey waa aucceaa-
+fully darned in October l975 tor conetruction of the 8ayano-Shuahenekaya as. and
+as early as in January l976 the tiret cubic netera or concrete were poured into
+
+the part of the den to aerve an the power plant'a tomdation. maturbinea for the
+plant's aachine mite are being eanutectured by the uningrad Metala Plant iaeni
+xxx: e'yezd ms. 1he tirat aachine mit of the Sayano-shuahenaxaya as went into
+operation in late 1978. 8y thia tile about e aillion cubic netera of. concrete had
+been poured for the den and the plant building. ihie rate or concrete pouring waa
+
+mprecedented in world practice. In order that the concrete conveyor could work
+at full ateal. fundamentally new production proceaaee were introduced into con-
+
+atruction. the neat aophiaticated aachinea and aechaniana were inatalled, and the
+productivity 0! concrete planta waa raiaed.
+
+32
+
+”MANNY
+FOR OFFICIAL USE ONLY
+
+The Sayano-shushenskaya as has no equals in world hydraulic engineering construc-
+tion in terms of many of its technical-economic indicators and engineering concepts.
+The height of the dam is almost 250 meters. Its erection required about 10 million
+33 of concrete-almost twice more than the Krasnoyarskaya ass. 'nen machine units
+each producing 640.000 kw will be installed at the Sayano-shushenskaya .. hydrau-
+lic machine units of such power do not yet exist either in our country or abroad.
+
+Nor has such a high coefficient of useful turbine action ever been reached in world
+practice: It exceeds 95 percent.
+
+Builders' villages are growing hand in hand with the Sayano-shushenshaya 62.5. In
+1975 all of the left-bank villages-Osnachennoye. nuyne and cheremushhiuwere com-
+
+bined into a city that came to be called Sayanogorsk. this is one of the youngest
+cities of the 1558.
+
+Planners also developed a highly effective innovation associated with operation
+
+of the first machine units of the hydroelectric power plant. While the former
+practice in construction of hydroelectric power plants was to get the first machine
+
+units to begin producing electric power as erection of the dam neared completion,
+the Sayano-Shushenskaya ass was able to produce current before the concrete opera-
+tions were less than half finished. This innovation, according to the most conser-
+vative estinates, will make it possible to obtain an additional 16 billion mm: of
+electric power-that is, as much as had been produced by all of the comtry's hydro-
+electric power plants just a quarter of a century ago.
+
+Construction of the Sayano-Shushensltaya 635 will basically be finished in the llth
+Five-Year Plan. 'lhe bulk of its electric power will support industry, transportation
+
+and the municipal and domestic needs of the complex itself. High-voltage electric
+power transmission nainlines will make it possible to deliver surplus power to other
+constners of the Siberian power system. especially in high-water years.
+
+The main consumer of electric power in the cleex will be the Sayansk Alu-inus
+Plant, some of the productive capacities of which will be placed into operation in
+the current five-year plan. This enterprise is being built 20 km from Sayanogorsk.
+
+This airplane metal plant will enjoy the sector's highest level of production and
+control automation. Also under construction are the min Nonferrous natal Processing
+
+Plant and the Sonic Iblybdenum Oonbine.
+
+A rail car building plant being erected near Abakan will be the largest machine
+building enterprise of the Sayansk complex. When it reaches its planned output
+capacity, it will become the country's largest rail car building enterprise. Each
+year this plant will provide 40,000 high-capacity rail cars to the national economy.
+The Abakan Rail Car Building Plant will be outfitted with Iodern highly productive
+
+equipment, and it will make use of the latest technology. The eight-axle all-metal
+120-125 ton boxcars it manufactures will gradually replace the lowar capacity four-
+
+ax1e rail cars presently in use. mey will make it possible to raise the loading
+capacity of trains to 10,000 tons without significantly increasing their length.
+and to increase the carrying capacity of the railroads.
+
+In order to supply the plant with the material it needs. a large steel casting
+operation has been organized and outfitted with highly economical high-capacity
+electric furnaces. Each year the plant will produce 320,000 tons of forgings,
+
+33
+
+FOR OFFICIAL USE ONLY
+POI OFFICIAL USE ONLY
+
+which will not only be used by the plant itself but also be swplied to other
+enterprises. mlled aluminum, which can help to reduce the weight and imrove the
+
+stmcture of rail cars and enhance their appearance,will enjoy broad application in
+rail car production.
+
+Anothu highly inortant forts of production of the Abakan Rail Car Building Plant
+is railroad containers. Forty thousand of the. will be produced each year. Scan
+of the output capacities of this plant have already been placed into operation.
+"are ti- will be required. however, before this giant enterprise reaches its
+
+planned output capacity. here are plane for building 600,000 .2 of housing space--
+that is, practically an entire city.
+
+Construction of electrical engineering enterprises of varying profile and size
+
+will be continued in the Sayansk crawler. The lost inortant of then are to be
+located in the vicinity of Hinusinsk. They will produce turbogenerators and hy-
+draulic generators, ones with output capacities in the millions, power transformers.
+apparatus for high-voltage power lines, various cable and insulating aaterials which
+are now being inorted from the European part of the comtry. ‘lhese enterprises
+
+will also produce consuer goods, particularly appliances for electric kitchens.
+The electrical engineering plants in hinminsk released their first products as
+
+early as in the 10th rive-Year Plan. The nmer of workers at the electrical
+engineering enterprises will be 60,000-10,000 persons when they achieve their full
+
+rated capacity. Owing to coQact location of the electrical engineering enter-
+prises, such money will be saved. It has been estiaated that had these enterprises
+been located in different places, the outlays on their construction would have been
+
+over 100 million rubles mre, and their operation would have required an additional
+l0,000—l5,000 workers.
+
+A large quantity of construction materials enterprises and construction industry
+enterprises are being built on the territory of the sayansk cleex. ‘lhus for
+exasple the housing construction coﬁine of the abakan Rail Car Building oowlex
+is intended for an annual output of 170,000 a2 of housing space. while the pre-
+fabricated housing plant of the Sayanskaya GE will have an output of 35,000 I2,
+and so on. Most of these enterprises will be supported entirely by local high-
+
+quality raw materials. 'me stoneworking cowine created at the large xibik-
+Kordonskaya deposit of high-quality aarble has nationwide significance. Its first
+
+generation, which is already operating. is intended for an annual output of 250,000
+‘2 of aarble facing panels. Polished panels aade of colorful Sayansk marble con-
+
+taining more than 20 different shades-white. pink, red, green, black etc.--have
+enhanced the appearance of subway stations, theaters, palaces of culture and other
+buildings in aany cities of the country. wurite, a precious gels found in Sayansk
+and having a blue color rarely found in nature. is extreaely valuable and rare.
+
+However, were enterprises of just the leading sectors to be included in the cospo-
+sition of the Sayansk coeplex, as it took for- we would have had to deal with the
+
+problem of providing work for wcuen. after all, the rail car building plant at
+the aetallurgical enterprises would be teoying sen for the most part. Develop-
+nent of light and food industry helps to solve this highly iQortant probles.
+
+mus a wool priaary prOcessing factory has been built in Cnemogorsk. me well
+conceived structure of the ninusinsk industrial center is advantageomly supple-
+mented by a knitted glove factory. a wood pulp production operation developing in
+xrasknoyarskiy Kray is serving as a base for construction of a synthetic leather
+codine in the Sayansk coeples. 3‘
+
+FOIOFII'ICIALUSEONLY
+FOR OFFICIAL USE ONLY
+
+Serious attention is being devoted in the cleex's formation to construction of
+new railroads and highways and reconstruction of existing ones, both internal
+(linking the industrial centers of the couples) and external, leading to neighbor-
+ing industrially developed regions.
+
+Creation of the Sayansk complex made it necessary to ilprove the evolved speciali-
+zation oi' agriculture in the southern part of Krasnoyarskiy Kray. In order to
+satisfy the demands of the fast-growing population, many of the kolkhoses and
+sovkhozes specialized in grain farming have supplemented their production with
+crops intended to export an urban population, with vegetables being in high pro-
+portion among them.
+
+Dozens of scientific research institutes and other organizations have been working
+several years on problems associated with formation of the Sayansk m. on the
+
+grounds of its optimum production structure and on the planning of industrial
+enterprises within its cosposition. mch attention is devoted in this case to
+preserving the natural environment on the coplex‘s territory and preventing pollu-
+tion of water sources and the air.
+
+Of course, it will take more than one five-year plan to comlete formation of the
+Sayansk TPK, but certain of its enterprises and production operations are already
+
+producing. and others will go into operation in the next few years. the coqlex is
+gaining strength. its construction base and construction of housing. micipal,
+
+cultural and personal service facilities are developing. its economic development
+is becoming more integrated, the personnel availability is rising and the comlex's
+
+importance to the country's economy is growin .
+9
+
+Iv. merritorial Production Couplenes of Central Asia and Kazakhstan
+
+'1'sz have already occupied a first place in the territorial organisation of the
+economies of the republics of Central Asia and Kazakhstan. 'Ihe Karatau-Dzhasbul
+and Mangyshlak coapleanes have taken shape, and they are continuing to develop. The
+South Tajik couple: is enjoying further growth in the llth Five-Year Plan, and the
+Pavlodareakibastuz TPK is developing as well.
+
+1. 'me South Tajik “Derritorial-Production Complex
+
+”Continue erection of the Yavan
+Electrochemical Plant and introduce
+new output capacities at the aluminu-
+plant of the South Tajik merritorial-
+Production Complex.”
+
+Prot- the 'Basic Directions...."
+
+The natural resources and the high concentration of inhabitants and manpower
+characteristic of the South Tajik m are advantageous factors determining the
+structure and scale of its formation and development. Among the natural resources,
+hydroelectric power has priority significance in this area. It represents 7.5
+percent of all hydroelectric power resources of the country and about half of the
+hydroelectric power resources of Central Asia.
+
+35
+
+NR OFHCIAI. USE ONLY
+POI! OFFICIAL USE ONLY
+
+The rivers of southern Tajikistan-the Vakhsh, Pyandzh and Kafirniganuoffer
+potential hydroelectric power resources exceeding 160 billion kin-hr, of which
+almost half can be used today with a great economic inact. In tern of relative
+channel power (1 kw per 1 km), the Vakhsh River, which is the right tributary of
+
+the Amu-Dar'ya, surpasses not only the major rivers of Central Asia but also
+
+such giants as the Volga, Yenisey and Angara. According to some estimates eight
+hydroelectric power plants can be built along it, with a total channel power of
+about 9 million kw and a yield of 36 billion mm: of electric power. an. hydraulic
+power resources of the Pyandsh River are even more significant. In the relatively
+
+near future a cascade of 13 electric power plants with the total power twice ex-
+ceeding that of the cascade of hydroelectric powerlplants on the Vakhsh will be
+erected.
+
+There are significant reserves of mineral resources on the territory of the South
+Tajik coupler: deposits of nonferrous metal ores, petroleum. gas, coal, limestone,
+fluorspar, dolomite and nephelinic (spenit). A significant proportion of the
+country's reserves of table salt are concentrated here.
+
+Southern Tajikistan enjoys extremely favorable natural conditions for the develop-
+ment of agriculture. A coabination of intense sunlight, large reserves of water
+
+and presence of sizeable amounts of flat land creates especially favorable condi-
+tions for growing the best varieties of cotton, a nuaber of subtropical crops and
+
+the country‘s earliest vegetables on open ground.
+
+The fact that the Tajik 53!! will have a better supply of manpower than many other
+regions of the country in the near future will also play an important role in the
+development of the South Tajik m.
+
+construction of the Nurekskaya Hydroelectric Power Plant, one of the largest in
+
+Central Asia, represented the start of the first stage of intensive formation of
+the South ‘rajik territorial-Production Complex and development of its natural re-
+
+sources. ‘l‘he first three nachine units of the hurekskaya ass. with a stable power
+of 900,000 kw, went into operation in 1972. In the lOth Five-Year Plan the power
+of the Nurekskaya Gas attained 2.7 million kw. construction of the Ragunskaya ass
+with a power of 3.6 million kw is to occur on the Vakhsh niver and the
+Baypazinskaya (as with a power of 340,000 kw is to be placed into operation during
+the current five-year plan. Later on, the Dashtidshumskaya Hydroelectric Power
+Plant with a power of 4 million kw is to be built on the Pyandzh River.
+
+The Rogunskiy hydraulic engineering coupler, which includes the hydroelectric power
+plant and a large reservoir (with a total volvne of 8.6 cubic kilometers). will
+
+be significant in ways other than as a major power source. It will play a great
+role in regulating the discharge of the Amu-Dar'ya and in development of irrigation.
+The Baypazinskiy hydraulic engineering complex will be iQortant mainly for irriga-
+tion: It will provide water to the Yavanskaya Plain, and it will regulate the daily
+discharge of the Nurekskaya -.
+
+Hydraulic power engineering at the South Tejik coupler is distinguished by high
+economic effectiveness. As an exaaple the corrected outlays per kw-hr of electric
+
+power produced by the Nurekskaya ass are only slightly disadvantageous in cowarison
+with the indicators of the largest Siberian hydroelectric power plants. However,
+
+36
+
+FOR OFFICIAL USE ONLY
+roe omcm. use ONLY ‘
+
+in view of the exceptional ruggedness of the republic's mountain terrain, construc—
+tion of power transmission lines is very expensive, making transmission of electric
+power to other regions mfeasible. This is why using the cheap electric power
+
+locally is the most effective. This significantly predetermines the structure and
+
+rate of growth of the industrial mlex, which is oriented primarily on development
+of energy-intensive production operations.
+
+The main consular of the comlex's electric power today is the aluminul plant in
+’l‘ursunzade, which processes imported alumina and provides high-quality aluminum to
+
+the country. A new procedure of obtaining alminum using locally produced
+calcined anaodes was introduced here for the first time in Soviet practice. As a
+
+it is also significantly reducing harmful discharges into the atmosphere. lbntion
+should be made of the high economic effectiveness of the production of South Tajik
+aluminum, the per-ton production cost of which is close to the production cost of
+
+Siberian aluinum plants. when new output capacities are introduced at this enter-
+
+prise in the current five-year plan, the plant will transform into one of the
+largest in the country.
+
+Chemical industry is a consumer of the comlex's chief electric power. The Vakhshsk
+Nitrogen Fertiliser Plant, which uses Central Asian gas as its raw material, has
+been producing for several years. The plant provides for a significant proportion
+of the nitrogen fertilizer demand of the Tajik $88, and it exports fertilisers to
+neighboring republics. In the future the plant's mineral fertilizer output capa-
+city will be expanded. inasmuch as the demand of Tajikistan for nitrogen fertilisers
+will grow in connection with the planned development of irrigated agriculture.
+simultaneously the plant will produce methanol, toxic chemicals, carbamide,
+formaldehyde, amium nitrate and other products.
+
+Construction of the Yavan Electrochemical Plant is continuing in the llth Five-Year
+Plan. It will be producing high-energy products such as chlorine. chlorine pro-
+ducts and caustic soda, and later on it will produce soda ash. metallic magnesium
+and other products. There are plans for creating. at the Yavan plant, operations
+producing polyvinyl chloride, film and tubing made from the former, fiber glass
+and other products satisfying the demands of a mmber of the sectors of the
+national economy and the population's personal needs. In 1978 the first line
+
+producing neutral calcium hypochloride was placed into operation. Table salt from
+the mt-Bulakskoye deposit, lime from the Puskhurskoye deposit, fluorspar from the
+
+Takobskoye deposit and natural gas brought in by pipeline serve as the raw mater-
+ials for its production.
+
+Another electrochemical plant operating on the basis of table salt. enterprises
+producing chemical fibers and other chemical enterprises will be built in the
+more remote future.
+
+Machine building is also developing in the South Tajik TTK. Its products will
+not only satisfy the republic‘s derand but will also be exported to other regions
+
+of the country. The complex is now producing comics products such as refrigerators
+and equipment for public food services enterprises and textile industry. The
+
+Kurgandyubinskiy transformer and cable plants are in operation, and spare parts
+are being produced for agricultural machinery. The couplex’s machine building
+
+37
+
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL USE ONLY
+
+enterprises are undergoing reconstruction and expansion. In the future new, pre-
+dominantly labor-intensive machine building production operations will be created
+on the basis of the rich iron deposits. Considering the nationality characteristics
+of Tajik's manpower, particularly the low nobility of the population, small enter-
+prises or branches, divisions and shops of machine building plants need to be
+
+built in rural regions.
+
+Sectors of the agroindustrial cosplex are developing intensively in the South 'l‘ajik
+'rPK. Cotton growing and processing occupy a leading place, especially in relation
+to fine-fiber varieties. The copier produces 75 percent of all Il‘ajilcistan's
+cotton, more than 8 percent of all of the country's raw cotton and abouts third of
+its fine—fiber varieties. ’l‘oday the cotton yield in southern Tajikistan attains
+
+40-50 centners per hectare. highly productive varieties of cotton which may pro-
+duce up to 60 and more centners of cotton per hectare have been introduced. A ton
+
+of fine-fiber ‘l‘ajik cotton can produce lS,000-20,000 meters of fabric, while 10,000-
+12,000 meters can be obtained from a ton of media-fiber cotton. Cotton seeds are
+
+used to produce oil and oil cake.
+
+One extremely important problem of unionwide significance is creation of a major
+early vegetable, fruit and grape growing base at the complex in order to satisfy
+the demand for these products of not only the local population but also the popula-
+
+tions of Siberia and the Far East. At present southern Tajikistan produces only
+1 percent of the country's fruits and vegetables. his is much less than its
+
+potential. The natural and climatic conditions of the coqlex's territory permit
+the harvesting of early varieties of white cabbage in the first half of April,
+
+cucumbers in the beginning of May and tomatoes in mid-May. Some varieties of vege-
+tables may be grown practically year-round in a meter of regions of the cosplex.
+
+The natural and climatic conditions and the land resources of southern Tajikistan
+will make it possible to increase the area of orchards in the complex by 2.5 times
+
+and of vineyards by 5-7 times. there are sizeable land areas which can be irrigated
+and used for orchards and vineyards. Moreover 350,000-400,000 hectares of rich
+
+land that are presently occupied by cereal crops and sunser pastures, or are not
+used at all, may be used for orchards and vineyards. The valley of the Vakhsh pro-
+
+vides all of the conditions for significantly increasing citrus fruit production.
+
+Industrial sectors such as oil milling and tallow, winemaking, leather footwear,
+meat and dairy. fruit canning and others are closely associated with agriculture.
+As agriculture develops, as its structure changes and as nationwide specialization
+in the production of cotton, vegetables and fruits intensifies, food industry sec-'
+tors oriented on production of foods for local consumption and for export to other
+
+regions of the country will develop.
+
+The South Tajik couple: also faces serious social tasks. One of them is to develop
+cities, to create a large nusber of new jobs within them, mainly in labor-intensive
+industrial sectors, and to encourage young people to move to the cities. In this
+
+connection the question of preparing skilled workers acquires special significance.
+
+The development of productive forces planned for the South Tajik m will signifi-
+cantly raise the effectiveness of its production and its role in all-union territor-
+
+ial division of labor.
+
+38
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+2. The Pavlodar-Bkibastuz territorial-Production Ooqplex
+
+‘Increase coal mining and aluina
+production, continue construction of
+major hydroelectric pcverplants with a
+capacity of 4 million kilowatts each,
+place the second generation of the
+petroleua refinery of the Pavlodar-
+Bribastus 'nerritorial-Production ample:
+into operation. Basically finish re-
+construction of the Pavlodar lPractor
+Plant.”
+
+Fro- the “Basic Directions. . .."
+
+The sizeable fuel, energy, mineral and rev material resources of the Pavlodar-
+Ekibastuz ‘1?! are the principal foundation for its formation and further developunt.
+It possesses large deposits of coal and lignite. of copper and polynetallic ores,
+
+of table salt and of various construction materials. The Skibastus and mykubenskiy
+coal basins, which are among the most proaising of the USSR in term of the econonic
+
+effectiveness of their utilisation, have the greatest significance to the comlex's
+development.
+
+The Ekibastuz deposit is distinguished by the density of the coal accmulations
+
+and the thickness of the coal seams. me balance reserves of industrial-grade
+
+coal are over 7 billion tons. The deposit produces high-energy and high-calorie
+coal, but it is distinguished by a high ash content. The mining and geological
+conditions permit open-cut mining to a depth of 600 asters. The cost of extracting
+Ekibastuz coal is the lowest in the country today. being a little lore than 1 ruble
+per ton. and in the future it will drop to 45-50 kopecks.
+
+In the Maykubenskiy basin. the industrial reserves of which are estinated at 17
+billion tons, the thickness of the coal seams attains 1,000 meters. naykubenskiy
+
+coal is a fabulous high-energy fuel. A nulber of deposits of this basin have been
+thoroughly explored and prepared for operation. According to data of the
+"'l‘sentrgiproshakht' [not further identified] institute the cost of a ton of compari-
+on fuel is 1.36 rubles, and relative capital investments are 4.43 rubles.
+
+me Boshchekul'skoye copper deposit, one of the comtry's largest, has ispottant
+significance. In addition to copper, the ore from this deposit contains industrial
+
+concentrations of molybdenum cobalt and alu-ina. The Kozhanskoye. Zita-baldiyskoye,
+Zhusalinskoye and Priekibastuzskoye deposits occupy a noticeable place in the ore
+
+balance. Hention should be made of the Maykanskoye, ‘nortkudkskoye and a nulber of
+other polynetallic ore deposits and of the nickel ore deposit in Bayan-Aul'skiy
+Rayon, Pavlodarskaya (blast.
+
+Table salt deposits are highly significant to developmnt of chemical industry,
+while deposits of fused limestone are isportant to ferrous netallurgy.
+
+The natural and climatic conditions pernit effective agricultural production in
+this area. .
+
+39
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The location of the Pavlodar-Ekibastuz '1?! is favorable in terms of transportation
+
+and geography. A significant economic potential has already been created here,
+and many of the socioeconomic problems have been solved.
+
+The 10th Five-Year Plan was a giant leap forward in the complex's development.
+speaking at the 26th CPSU Congress, D. A. Kunayev, a member of the CPsU Central
+Co-ittee Politburo and let Secretary of the Kazakh ssn mist Party Central
+Conittee. noted that the Pavlodar-zkibastuz complex "is already providing the
+country with tractors, ferroalloys, almina and chemical and petroleu refining
+products. The complex is becoming the largest fuel and power region, providing
+more than .70 million tons of coal per year.... 'rbree power production blocks of
+the first Ekibastuzskaya GRES, the output of which significantly exceeds that of
+the meproges, are already producing current. And a total of 37 more power produc-
+tiOn blocks of this sort are still to be placed into operation. A world-unprece-
+dented superlong energy bridge feeding direct current from Btibastuz to the
+country's center is now under construction."
+
+Development of the complex's industry is characterised by continually growing
+
+production indicators, high economic effectiveness and broad introduction of the
+achievements of domestic science and technology.
+
+May the couples dispatches 40-50 heavy trains of coal every day. Bkibastuz fuel
+is used by 20 electric power plants of the Kazakh SSR, the Urals and Siberia for a
+total output of 15 million kw--more electric power than the total produced in the
+country in the prewar years. while at the beginning of the 10th Five-Year Plan,
+
+in 1976, akibastuz provided 46.1 million tons to the country, at the end of the
+five-year plan it provided over 70 million tone. This rate of increase of output
+in mining industry had never been witnessed before in Soviet and world practice.
+me output of the world's largest open coal pit, the 'Bogatyr'," is 50 million tons
+of coal per year. Following reconstruction. its output will increase to 90 million
+tons per year. tbreover calculations confirm the effectiveness of building an
+open pit with an output of 20 million tons of coal per year at the Heykubenskoye
+deposit.
+
+All of this will create a firm foundation for development of power engineering on the
+territory of the complex. In the next 15 years. four large hydroelectric power
+plants will be built here in the vicinity of Bkibastus, and another one will be
+built near Lake Balkhash, for a total output of 20 million kw--three times more than
+the capacity of the world's largest Krasnoyarskaya Gas. The first power production
+block of the Ekibastuzskaya GIGS No l began handling an industrial load in April
+1980. By the time the 26th CPSU mngress was convened—that is, in less than a
+year, three power production blocks were already producing current. Preparations
+have been started for construction of the GRES No 2. Efforts are being made simul-
+taneously to solve the complex engineering and technical problems of maintaining
+
+a continuous supply of fuel for the large GESs now under construction. For
+
+example after it reaches its peak operating capacity, the am No 1 will construe
+2,000 tons of fuel per hour, and it will require 100 m3 of water every second.
+
+ 
+
+”XXVI s"yezd KPSS. Stenograficheskiy otchet" rm. 26th CPSU Congress. Stenc-
+graphic Transcript 1, Moscow, Vol 1, 1981, p 124.
+
+50
+
+FOR OFFICIAL USE ONL‘.’
+FOR OFFICIAL USE ONLY
+
+Development of power engineering and coal industry on such a scale would have
+been iapossible. had the problem of supplying water not been solved beforehand--
+
+had not the high-capacity 500 kilometer Irtyah-Karaganda canal, which is now being
+lengthened to Deheskasgan, been built.
+
+The ccmplex's power production facilities will transmit 42 billion kw-hr of electric
+power to the country's central regions along the Ekibastuz-Tambov power transmission
+line, presently under construction. Asignificant quantity of the complex's electric
+power will be used in the Urals and in eastern, central and southern Kazakhstan.
+However, it would be most advantageous to use this electric power locally. in the
+Pavlodar—Bkibastuz m. for development of energy-intensive production operations.
+One such enterprise is the Yermakovskiy Pemelloy Plant, specialised in the pro-
+duction of ferrosilicon, ferromanganese , silicomanganese. refined ferrochrome and
+
+other ferroalloys. Its output capacities were increased, production of progressive
+forms of ferroalloys needed by the country was expanded, and new production opera-
+
+tions were organised during the 10th Five-Year Plan, per-sitting integrated use of
+poor manganese and chromite ore and high-ash Bkibastuz coal.
+
+Aluminu- industry is continuing to develop intensively at the territorial-production
+coupler. The principal product of the Pavlodar Aluminum Plantwalueinanbears the
+State Seal of Quality. Inthe opinion of specialists favorable conditions for
+organizing aluminum production will be created at the 1?]: in the more-remote
+
+future. daeap electric power and presence of water resources and local raw mater-
+ials will make this possible. Use of the tailings from nibastuz coal enrichment
+
+as a source of alumina may provide a new iqoetus to developent of alminum industry.
+
+Gmemical industry is developing in the complex. The first generation of an oil
+refinery has been erected and placed into operation. The Basic Directions of the
+LSSR's Economic and Social Development in 1981-1985 and in the Period to 1990 fore-
+
+see introduction of the second generation of the oil refinery in the 11th rive-Year
+Plan. This will produce favorable conditions for developing petrochemistry, polymer
+
+and plastic chemistry and production of protein-vitamin concentrates so urgently
+needed by Kazakhstan’s animal husbandry.
+
+The growing demand of Kazakhstan's agriculture for mineral fertilizers and the
+presence of a large quantity of cheap electric power and raw materials make it
+suitable to create nitrogen and phosphorus fertiliser production operations in the
+territorial-production complex.
+
+Machine building will enjoy significant development in the coupler. The flagship
+
+of this sector is the Pavlodar Tractor Plant. which is now producing tracked ve-
+hicles. Decisions of the 26th CPSU Congress foresee coapletion of this enterprise's
+
+reconstruction in the 11th Five-Year Plan.
+
+Broad possibilities for raising the effectiveness of the leading industrial sec-
+tors are associated with increasing the fullness with which raw materials and pro-
+duction wastes are utilized. Thus for exalple. slag from Ekibastuz coal production
+may be med to obtain construction materials, particularly line—slag and sulfate-
+slag cement. Wastes from alumina production--slurry--can also be used in cement
+production. Vanadium and other useful components can be extracted from almina
+
+slurry.
+41
+
+FOR OFFICIAL USE ONLY
+FOR OFﬂCIAI. USE ONLY
+
+Creation of a sound food base, further developuent of agricultural production and
+
+expansion of the suburban agricultural base are inortant problems of the Pavlodar-
+Ekibastuz werritorial-Production Coeplex. the problem of supplying water to
+
+agriculture and developing irrigated farming are acquiring inportant significance
+in this connection. The bulk of the irrigated land will be located within the
+zone of the Irtysh-Karaganda canal and in areas that can be irrigated by the
+lrtysh River. There are plans for increasing the area of river valley irrigation.
+A large animal husbandry oleex is to be built and placed into operation in the
+llth rive-Year Plan in the vicinity of the city of Ekibastuz. It should play a
+major role in providing foodstuffs for the population. It will fatten SLOOO pigs
+ayear, and its poultry factory will grow 3 lillion broilers each year.
+
+mch is being done in the territorial-production couples to develop the social
+infrastructure. Housing construction is to expand significantly, a nursery providing
+plants for the cities is to be placed into operation, and an enterprise repairing
+oouplex household appliances and many other facilities helping to improve the popu-
+lat ion's living conditions will begin operating in the llth rive-Year Plan.
+
+WPYRIGIT: Politizdat, 1982
+
+11004
+C30: 8144/1326 BID
+
+‘2
+
+FOR OFFICIAL USE ONLY

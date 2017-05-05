@@ -1,0 +1,4208 @@
+FOR OFHCIAL USE ONLY
+
+JPRS L/10463
+
+15 April 1982
+
+Translation
+
+OPTICAL METHODS FOR PROCESSING
+
+IMAGES AND SIGNALS
+
+Ed. by
+
+V.A. Potekhln
+
+FBIS FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+non
+
+JPBS publications contain information primarily from foreign
+newspapers, periodicals and books, but also froe news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and naterial enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item. or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+nation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion nark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies. views or attizudes of the 0.5. Government.
+
+COPYRIGHT LAHS AND RIGULATIONS GOVERNING OHNERSHIP OF
+MATERIALS REPRODUCED "EREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION 3! RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFKJA1.USEGONL¥
+
+JPRS L/10463
+15 April 1982
+
+OPTICAL METHODS FOR PROCESSING IMAGES AND SIGNALS
+
+Leningrad OPTICBESKIYB HBTODY OBRABOTKI IZOBRAZBENIY I SIGNALOV in
+Russian 1981 (signed to press 10 Jun 81) pp 1-101
+
+[Collection ”Optical Methods for Processing Images and Signals,“ edited
+by Doctor of Technical Sciences Professor V. A. Potekhin, Physica-
+technical Institute imeni A. P. Ioffe. USSR Academy of Sciences, 500
+copies, 101 pages]
+
+CWTEN‘I‘S
+
+Zinov'yev. Yu. 8.. Pasaurov. A. Ya.. "Using Holographic Principles
+to Analyze Radar Stations With Synthesized Aperture" 1
+
+Hush. B. 8.. "Equal Observation Principle and Economic Algorithms
+for Signal Processing by Quasi-Holographic Pulse-Doppler Systems" 12
+
+Hush. B. 5.. "Synthesizing Quasi-Holographic Syster Adaptive to
+
+Reflecting Surface“ 18
+Orlov. R. A.. "Determining Intercoupling of Spatially Combined
+Antennas by Radio Holography Methods" 22
+Pasmurov. A. Ya.. ”Measuring Parameters of Scattering Bodies by
+Radio Holography Method" 28
+Astaf'yev. V. 3.. "Functional Capabilities of Devices with Optical
+Feedback" 35
+Kulakov. s. V.. "Signal and Interference at Input of Acousto-
+Optical Spectrum Analyzer" b0
+Molotok. V. V.. "Frequency-Response Function of Real Acousto-
+Optical Spectral Apalyzar“ 67
+Kurichkin. A. v.. "Statistical Characteristics of Acousto-Optic
+Receivers of Long Pseudorandoa Signals” 53
+- a - [I - USSR - 6 F000]
+
+FOR OFHCIAL USE ONLY
+MWMUSEONLY
+
+Kuzichkin. A. V.. "Acouato-Optic Correlation Analysis of Couple:
+
+Signala with Juping Frequency" 59
+
+Vasil'yev. Yu. 3., "Acouato-Optical Radio Signal Denodulation" 62
+
+Vasil'yav. Yu. 6.. "Pcculiaritiea of Light Diffraction by
+
+Couple: Ulttaaonic Signal." 69
+- b -
+
+I0! OFFICIAL USE ONLY
+FOROFI'ICIALIBEONLY
+
+ 
+
+[Text] This collection contains individual reports delivered and discussed
+at meetings of the section on non-optical holography at the Leningrad Regional
+Board of the S. l. Vavilov Scientific and Technical Society of the Instrment
+Making Industry. The section was organized in 1977 at the initiative of the
+directorate of the section on holography at the Central Board of the S. I.
+Vavilov Scientific and Technical Society of the InstrI-ent Making Industry.
+This section now brings together Leningrad scientists and engineers from in-
+stitutions of higher education and research institutes working in the fields
+of applied use of methods of radio and acoustic holography. as well as optical
+processing of radio and acoustic signals The articles mainly give the re-
+sults of original research by the authors dealing with current problems of
+using methods of holography and optical processing of information in micro-
+wave engineering.
+
+The Science Council on the Problem of Hologray’xy Affiliated with the Presidium
+of the USSR Academy of Sciences was of considerable assistance in organising
+and publishi-‘s this collection. The directorate of the section on non-optical
+holography is sincerely grateful to Doctor of Physical and Mathematical Sci-
+encea S. B. Gurevich. and Candidate of Physical and Mathematical Sciences
+
+G. A. Gsvrilov for expediting publication of the collection. and also to Asso-
+ciate Member of the USSR Academy of Scienc as L. ‘0. Bakhrakh for reading the
+manuscript. The directorate of the section thanks the authors who delivered
+these papers. and who offered them for publication in this collection.
+
+UDC 773.4:523.l6lo.8
+
+USING BOLOGRAPHIC PRINCIPLES 1'0 ANALYZE RADAR STATIONS wrm SYNTHESIZED APE!!-
+TURE
+
+[Article by Yu. s. Zinov'yev and A. Ya. Pasmurov]
+
+ 
+
+ 
+
+[Text] An examination is made of major aspects of holographic
+theory of radar with synthesized aperture [BSA]. The first
+stage of holographic processes in RSA (formation of radio
+
+FOR OFFICIAL USE ONLY
+FOR OFHCIAL USE ONLY
+
+hologram) is treated as recording of the field scattered
+
+by an object by using an artificial reference source. The
+second stage (reconstructing the object) is described on
+
+the basis of physical optics. A classification is given
+
+of radio holograms recorded in the RSA and conditions of
+subsequent processing. A physical interpretation is given
+of najor RSA parmneters. An examination is made of applica-
+tion of the proposed theory to evaluating the influence of
+trajectory instabilities of the RSA carrier. and to analyzing
+images of loving observational objects.
+
+1 . Introduction
+
+Up until the present. the description of BSA has used mainly such methods
+
+as the synthesized antenna technique. the method of signal selection by Dop-
+pler frequencies. the method of cross correlation. which are based on princi-
+ples of the theory of electronic systems. optimum reception theory and the
+like. All three approaches enable evaluation of the influence that technical
+paraneters of the use have on its tactical characteristics [Ref. 1. 2]. Re-
+sults and conclusions practically coincide.
+
+The RSA in combination with a coherent optical processor [Ref . 3] is a ”quasi-
+holographic" systen in which resolution with respect to one coordinate (azi-
+muth) is attained by holographic processing of a fixed signal. In the opinion
+of Leith and Ingalls [Ref. lo] such a representation is the most flexible and
+physically graphic and enables development of RSA components with working prin-
+ciple that is readily explained by the theory of radio systems. This view-
+point has been developed by Rock (Ref. 5]. with proposal of some new radar
+systems based on principles of holograms. However. the use of the holographic
+approach for analyzing the ISA has been limited until now to examination of
+only optical processors. There is practically no mathematically valid view-
+point enabling representation of the RSA as a whole as a holographic system.
+Therefore description of the RSA from unified holographic principles is of
+theoretical interest. Such an analysis gives the nest couplets elucidation
+of the essence of physical processes that take place in the RSA. In addition.
+it becomes possible to use concepts and methods developed in the theory of
+optical holography.
+
+2. Principles of obtaining holograms in 35A
+
+  
+
+Let us consider an RSA (Pig. 1) maunted on
+a vehicle moving at velocity ”I! along axis
+x'. The radar antenna has linear dimension
+LR (real aperture). and width of radiation ,..
+pattern 03 along the line of the path. The /
+radar scans a strip in short pulses and - ,
+fixes the pattern of diffraction of the “my -‘"'
+probing signal by the observational objects /
+sequentially in time. The amplitude and
+
+phase of the scattered field are registered Fig. 1. Principal geometric re-
+
+by interference of received and reference lations in RSA
+
+,/
+.2"
+,
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+signals in a coherent (synchronous) detector. As a result. a radio hologr-
+of eultiplicative type is famed Inf. 6], the part of the reference wave
+being played by a signal introduced directly into the electronic channel (”er-
+tificial" reference save). The radio hologran is usually recorded by nodula-
+tion of CRT luminescence intensity on a photographic film wing relative
+
+to the 631' screen at velocity ”a. To record radio hologrene of objects situ-
+ated at different ranges R. from the line of the path. the pulsed node of
+operation is used with vertical scanning on the CRT screen. The result is
+
+a set of one-dinenisonal holograes recorded in different positions with re-
+spect to the width of the file. depending on the range to the corresponding
+objects.
+
+Let us assme that all objects are located at a distance R. fro- the line
+
+of the path. In this case the radiated signal can be considered continuous
+
+since accounting for the pulsed nature of the radiation is important only
+
+for analyzing the resolution of objects with respect to range. Fig. 2 shows
+
+the equivalent diagrun of recording a one-
+
+dinensional radio hologram. Situated at point
+
+Q with coordinates (x'. 0) is an RSA (av-vat.
+
+where t is elapsed tins). and at point I
+
+(at. 2,) is a hypothetical reference wave were
+
+with action sinilar to that of a reference
+
+signal of the synchronous detector, while point
+
+P (xo. so- 4%) belongs to the observed object
+
+situated along axis In. If the scattering
+
+Pig. 2. Equivalent diagram properties of the object are described by the
+
+of recording one-dimensional function 170“), and dimensions are sufficiently
+holograe mall conpared to the quantity 11.. we get the
+
+well known Fresnel approximation [lef. 7] for
+the diffraction field along axis x' (with consideration of propagation of
+the probing signal from the 88A to the object and back)
+
+ 
+
+(2-5!
+0“" ix. .. (1)
+t‘ ' -.= ,9 4‘ s
+U.( ) ”no.1“ .
+
+where K1. 2r/A1 is the wave amber. and c stands for some complex constant
+both here and below.
+
+The coeplsx amplitude of the reference wave is Ur(x')-Are1“. Usually this
+is a plane wave. 1. e. Or' x, sin e:', where e is the angle of "incidence"
+
+of the wave on the hologram. The inclination of the reference wave is equiva-
+lent to a reference signal with linear phase advance. and introduces carrier
+frequency ux- ‘1 sin 0. As a result of coherent detection. we get a radio
+holograe with equation
+
+Mrlmewﬂxwdw or “9- IN W'Wmow" ' (2)
+with consideration of (I). it is clear that in the general case one-
+
+dinensional Fresnel radio hologrens are formed in the ISA. In addition. the
+folloving situations are possible. depending on the ratio of dieensions of
+
+FOR OFFICIAL USE ONLY
+NR OFFICIAL USE ONLY
+
+the object. the length of the synthesised aperture Ls-vﬂ‘r (‘1' is the time
+of recording the radio hologram) and the quantity 8.. -
+
+1. In the case where Ro>>nx§mn (Xom is a quantity that characterizes
+the maxim:- dimensions of the object). instead of (l) we get the Fraunhofer
+approximation
+
+9“... 213‘“ -' A".
+washcﬁ 9 '° hm): "‘ " dr. . (3)
+c I "'
+
+and as a result a Frsunhofer radio hologram is formed.
+
+2
+2. In the case where Ro>>K1xm/2' mtg/8. the torn e‘ “1". In. in (3) can
+be omitted. Then a Fourier radio hologram is formed, and the condition of
+formation in the RSA can be written as
+
+l.‘ ‘ Nye—.71? . (a)
+
+3. If the object is a point (F(x.) ~ 6(x' -xo)). the F‘raunhofer diffraction
+conditions are automatically satisfied. Using the filtering properties of
+the 6-function. expression (3) yields the following equation of the radio
+hologram (without consideration of constant phase terns)
+
+.9 - U
+Mar): mummif- K.‘3‘ ' H.373) . (5)
+0
+
+where A. is the amplitude of the wave scattered by the object at the reception
+point.
+
+If in addition (6) is valid. than (5) implies
+
+Mt" ' APAom'chT’ ”Hi?” . (6)
+.
+
+Thus a Frsunhofer or Fourier radio hologram is formed in the RSA for a point
+target. In the former case the radio hologram has the form of a one-dimen-
+sional Fresnel zone plate in accordance with (5). end in the latter case it
+takes the form of a one-dimensional diffraction grating with constant spacing
+in accordance with (6).
+
+In the process of photographic recording. scaling of the radio holograms takes
+place with substitution of coordinate x for x'. where x-x'Inx, and nx-vn/vn.
+In this operation. a constant ter- ho ("displacement") is added to (5) and (6)
+
+for photographic recording of the function h(x').
+
+3. Image Reconstruction
+we will analyze the next stage of the holographic process by the method of
+
+physical optics. Illuminating a phototransparency by a plane wave with wave
+nuber :2. we get a diffraction field with distribution at distance 9 from
+
+FOR OFFICIAL USE ONLY
+the hologram described by the Huygens-Fresnel integral
+)
+5 d: . (7)
+
+Substituting (6) in (7) we have V(€) -V0(£)+V1(£)+V2(E). where W“) is
+the zero order corresponding to displacemnt ho. V1“) and V3“) are functions
+that describe the reconstructed inages of the point object and are equal to
+
+MI! .0. 2K
+‘W M e6 3 ’ lﬁk'e-‘Vf’ "W" “i‘g'ﬂ‘u. (a)
+Vds) 1:".
+
+We find the position of the images along the z-axis fro. the condition of
+a zero value of the exponent in the first exponential function of (8). imply-
+ing
+
+2
+I s t )‘Ro/tan: . (9)
+
+(bviously one inage is imaginary and the other is real. Integrating (8) with
+condition (9) we get
+
+WI . c9" My ”623’ (U535!
+2.1
+I
+
+W] (mu £3L‘(‘:'.; "sn.
+
+ 
+
+(10)
+
+Thus the image of a point object is described by a function of type sinvlv.
+The position of the image is detenined by the zero value of the argument v.
+i. e. by the relation
+
+5‘30/"t O 0,!,/2a,n, . (11)
+
+The first ter- in (11) corresponds to the coordinate of the object. and the
+second term is due to the carrier frequency. The images of two point objects
+that have identical coordinates x. but different ranges R1 and R; will be
+characterised by different coordinates £1 and 5;. Thus the use of a carrier
+frequency leads to geometric distortions of the image of the entire seaming
+strip.
+
+According to the Rayleigh criterion. two points are considered as separate
+
+if the principal naxinun of one of the functions of the type sin v/v coincides
+with the first zero of the second function. Prom this we get an estimate
+
+of the resolution
+
+‘1'.1.'3-. "'gl.‘qu. (12)
+
+The given case (use of Prsunhofer radio holograms) has been called the
+"focused aperture" in RSA theory. Focusing is understood as compensation
+of the quadratic phase advance in equation (5) on the stage of inage recon-
+struction (compensation is acconplished by transformation (7)).
+
+FOR OFFICIAL USE ONLY
+POI OFFICEAL USE ONLY
+
+The case of the "unfocused aperture" corresponds to the equation of the
+Fourier radio hologram (6). Therefore. Fourier transfornation of the function
+of the radio hologram is used on the processing stage
+
+VW" c1 u.;é"‘"!” a . (13)
+
+From (13) with consideration of (6) we get
+
+ﬂ!
+
+2;
+VJ‘) “ ullIE‘E-t e 3-: ﬂ; 1.)] T}
+we} ---
+
+x n. ’
+[3,3, tloxnto 2f: 11‘s,), 521 .
+
+ 
+
+ 
+
+ 
+
+In the given case the quantity 9 can he treated as the focal length of the
+Fourier lens. The position of the image of the point object is deter-lined
+
+by the equation
+
+2.
+‘..;-£—-(urn‘+ 3"; n.‘\..). (15)
+
+The image of the entire seaming strip will also be distorted as a consequence
+of the dependence of 5 on range Ra. Evaluation of the resolution according
+to the Rayleigh criterion gives ‘
+
+an: - a.“ - 3:}, uscu'xqur. (16)
+
+The limiting attainable resolution in en 88A with unfocused processing with
+consideration of (4) is
+
+u”- Vﬁ,R,/'4 ~ o,u.Ya.p.'. (17)
+
+It should be noted that radio holograms are recorded continuously on photo-
+graphic film in the course of a prolonged flight. Therefore the focused or
+unfocused mode is assigned only on the stage of reconstructing the image by
+selecting the dimenaions of the diaphragm that determines the quantity Ls/“x'
+and through corresponding design of the optical processing arrangement.
+
+Let us now consider the RSA fron' the standpoint of the geometric nethod de-
+veloped in Ref. 8. 9 and assuming analysis of the phase structure of the radio
+hologram. For this purpose we rewrite one of the equations (2) in the form
+
+M13) - A,A.M(¢r"’s, v
+where e. is the phase of the wave scattered by the object.
+For a point object situated at point P (Fig. 2). we can write (with consider-
+ation of wave propagation from the RSA to the object and back): 00 -2x;(PQ-PO)
+
+and Qr' 2x1(RQ- R0), where 110- R; is the distance from the hypothetical source
+of the reference wave to the coordinate origin. Expanding Or and so in a
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+series and limiting ourselves to first-order terns. we get
+- _ . _1__ ,L - . - 29“
+t v.1 gm", a.) uni: R31. ‘1‘”
+
+In the simplest case where x. -0. "r' 0. Rr-u (plane reference wave without
+linear phase advance). we get
+
+v.-¢.- «W 21.9 .
+
+The spatial frequency of the interference pattern is
+
+«1.1- 59; Mg’#- 943/13. . (19)
+
+At some value xér- I2. the frequencyv may exceed the resolution of
+the field recorder. ich is deternined in the given case by the actual aper-
+ture of the radar set. and is equal to Vcr' 1/141. This implies the condition
+
+Ls.“ £ 1.9.0.. d3, . . (20)
+
+Substituting the value of L in (12). we get the classical relation for
+naximn attainable resolution the RSA:
+
+Accounting for the pulsed nature of the signal enables us to determine such
+an important parameter of the radar set as the minimal value of the probing
+pulse recurrence rate “min. Obviously the pulsed node is analogous to dis-
+cretization of the radio hologrn. The distance between individual readings
+Ax' urn/x must satisfy the condition Ax' < [2v(xér)]". whence with consider-
+ation of (19) vs have
+
+‘nin - IVE/Ln.
+
+Following the known procedure of Ref. 8. 9, we get relations that determine
+the deviation of the phase front of the reconstructed wave from spherical
+(third-order wave aberrations)
+
+ 
+
+6"”"'{"”o%' ’6‘" be") . (21)
+uhere
+“ 1" 21¢ a: x:
+”"15? n?’ m" n: a:) .
+
+"c and 3c are coordinates of the source of the reconstructing wave. u- MIA;
+n-ng‘. and the coordinates of the image of the point object are
+
+'_.L.E'_-’_ and 3.3.9: 2-3
+R; 9c. “'“(90 an) at RC- " '“s 2,).
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The value x-O corresponds to spherical aberration. x- l to can. and x- 2 to
+astigmatism. These relations can be used to calculate the sari-u pernissible
+size of the synthesized aperture 1.9..“ on the basis of the Rayleigh condition
+(wave aberrations on the edges of the hologral should not exceed 12/6). Con-
+sidering that spherical aberrations are the nost appreciable in order of ngni-
+
+tude. we get
+
+‘ ——-\
+L8~,'V.I).a:/n-4§) . (22)
+
+For typical conditions of RSA operation, the quantity L calculated by
+formula (20) is less than the value calculated by formula 22), i. e. the
+influence of wave aberrations in the RSA is insignificant.
+
+' lo. Influence of RSA Trajectory Instabilities
+
+Instability of the vehicle trajectory is one of the major factors that distort
+the images obtained by the RSA. The holographic treatment enables fairly
+sinple evaluation of. permissible deviations of the trajectory iron linear
+by the nethod of geonetric optics. Let us write the expression for the phase
+
+of the object wave ¢.(x') in the torn
+v.(m'):-2x.ll(z,-9)‘o (x'-a:,)'|"‘ -"R.} .-
+whsre q-q(x') is displacement of the trajectory from the x'-axis.
+
+Assuming that 89>“, x‘ and q. using the binonial expansion and dropping
+all terms of the order of q2 and higher, we get the following approxinate
+
+expression for ¢.(x'):
+
+.11.: x__."-9.rg=: . _.._z‘~mx_'tas.r_~'£ '. _9_L.' i"_,_a- 21. io'r
+u" a} n. as: '5? 2a, )-
+
+The equation for the phase of the wave that forms one of the reconstructed
+images-has the usual form
+
+.1, - qc 2 No' .9») . (23)
+
+On the other hand, the function 01 can be written as
+
+|._ g( x245“: _ 352111;“ (unﬁt)
+“1 l, 29‘ on: -
+
+The phases .c and 01: are deternined by expressions analogous to (24). The
+differences between phases of corresponding third-order terns relative to
+1/81 in (23) and (24) are aberrations equal to
+
+(24)
+
+w - w“) + was
+
+Aberrations A0“) are detenined by expression (21), and
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+‘ft‘gé' ' “2‘ ”39 ’ ”49" ‘ ’09“) . (25)
+
+where
+! .- try/9, , L,- r 2,1 1.x,lnl13, 15,-: ’dl./II‘R:
+
+are aberrations due to trajectory instabilities.
+
+Relation (25) that determines the distortions of the phase structure of the
+radio hologram can be used for calculating the compensating phase shift di-
+rectly in the process of synthesis. To do this. it is advisable to use digi-
+tal methods of signal pr vzessing in the RSA.
+
+Applying the Rayleigh criterion to each of the terms in (25). we get the fol-
+lowing conditions for permissible deviations of the vehicle trajectory:
+
+95‘ 3,“. ”’3' . A.R./M. - Mlacusé. , (26)
+$53M" may,“ -3.|!.’/’0Ls’~.‘o « <27)
+95‘ AIM- 'Ds'l‘imt. J'R:/Z.I.’3 (28)
+
+On the other hand. knowing flight conditions and the characteristics of the
+vehicle. we can use (26)-(28) to determine the limitations imposed on the
+
+quantity cos 6., and the limiting permissible dimension of the synthesized aper-
+ture:
+
+—.‘
+
+l
+tos\’.‘ﬁ./‘9 s LSm‘aIRo/.Iro ‘ [ﬁn-on ‘ “Olin/9 '
+
+As a rule, the relations L3<Ro and xo<<Ro are satisfied in the RSA. Therefore
+the quantities D. and D5 can be disregarded. with account taken only of the
+factor I); which according to (26) imposes severe conditions on the stability
+of the trajectory.
+
+5. Influence of Motion of the Object of Observation
+
+The effects that arise in the RSA when observing moving objects can be evalu-
+ated from the standpoint of the method of physical optics. Let a point object
+move at low velocity vo in the radial direction (along the z-axis). so that
+for the time of synthesis 1' the displacement of the object does not exceed
+
+the resolution with respect to range. In this case. the equation of the radio
+hologram takes the form (disregarding constant phase terms):
+
+. " n 2. .
+Nthmelgntsdnanxx-x'nﬁ rain—5:? - ﬁx?) n; x‘). (29)
+
+Substituting (29) in (7). we get the following condition of observation of
+a focused image:
+
+9-4.5:- 5%)/[1'(%:)'}
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Since the quantity v./va<l. the inage will be obaerved practically in the
+
+same plane as for a atationary object. Conaidering this fact. and carrying
+out the integration. we get a function that deacribee one of the reconatructed
+ilagea:
+
+The position of the inage is determined by the equation
+
+’50 «0.9. ”3.0. it
+
+I —- O —'- '
+
+"I 2“,!” "g 0‘
+
+(bvioualy notion of the object in equivalent to introducing an additional
+carrier frequency on the stage of recording the radio hologram. and it leada
+to displacement of the image. The optical proceaaor uaea the real image that
+is recorded on photographic film. The field of view on this film ia linited
+by a diaphraga that cuts off backgromd illuaination. The quantity v. nay
+reach a value such that the image of the object will not be registered at
+all because of the shift.
+
+Motion of the object in the azimuthal direction (along the x '-axia) with ve-
+locity vo is equivalent to a change in the flight velocity of the vehicle.
+In this case. relation (9) that determinea the poaition of the focuaed inage
+along the a-axia can be rewritten as
+
+p" 2 1.2.12A,n§ . : Annoy Mm..- v.)' .
+
+Thus notion of the object along the x'-axia leada to a change in conditions
+of focusing by the quantity
+
+Sp 9'- p- 21"”...(1'207VH' 4)! ‘30)
+where o is defined by expression (9). I
+If vo<va, then
+5:“ 21W"- - (31)
+From equation (30) we can get
+It. . It.” . WWW]?
+0n the other hand. fronthe ainpleat geometric conaiderationa we find the fol-
+
+lowing expreaaion for resolution of the RSA along the z-axia (longitudinal
+reao lut ion) :
+
+Ap'2(da:‘0.)‘/J,ﬂ: - “try/1.”: . (32)
+POI OFHCIAI. USE ONLY
+
+The depth of focusing An is defined as displacement from the focal plane along
+the z-sris by a distance for which the azimuthal resolution Ax' detrriorstes
+to half as compared with the diffraction limit (12).
+
+To observe a focused image of an object moving at velocity v.. additional
+focusing of the optical processor is necessary. The velocities of the object
+at vhich focusing is necessary we get fron the condition “<69. where do is
+assigned by (31). Using (9) and (32). we get
+
+v,>lux')'v./A,n, .
+At lower velocities of notion of the object. refocusing of the processor is
+not required. and deterioration of inge quality can be considered insignifi-
+cant.
+
+6 . Conclusion
+
+To describe the working principles of the RBA. in addition to known methods
+[Ref. 1. 2) that have been extensively used heretofore. a holographic approach
+can be used that represents the RSA and the optical processor as an integral
+unit. The given examples confirm the physical clarity and fruitfulness of
+the proposed approach for analyzing the RSA.
+REFERENCES
+l. Reutov. A. P.. Hikhaylov. 3. A.. Kondratenkov. G. s.. Boyko. B. V..
+"Radiolokstsionuyye stantsii bokovogo ohzora" [Side-Looking Radar]. Moscow.
+"Sov. radio". 1970.
+
+2. R. o. Hsrger. "Synthetic Aperture Radar Systems. Theory and Design".
+AC. Press. Ne Yep 1970’ PP 18-580
+
+3. hithTIIER. Vol 59. No 9. 1971. PP 25-44.
+6. Lelth. 8.. Ingalls. H.. APPL. OPTICS. Vol 7. No 3. 1963. PP 539-546.
+
+5. Koch. H. 8.. "Recent Developments in Holography", P3063. ELECTED-0PT..
+REV. RECENT DBL. 1975. PP 65-66.
+
+6. Popov. s. A.. Rosanov. B. A.. Zinov'ysv. Yu. 8.. Pasmurov. A. Ys.. "Sh.
+Haterialy VIII Vsesoyuznoy shkoly po gologrsfii" [Collected Materials
+of the Eighth All-Union School on holography]. Leningrad. 1976. pp 275-286.
+
+7. A. Papulis. '“l‘eoriya sistea i preobrazovaniy v optike" [Theory of Systems
+and Transformations in Optics]. Moscow. "Mir". I971.
+
+80 “121'. Rs ".. JOSAO v01 55. NO 7. 1965. pp 987-9910
+
+9. Champagne. B. 3.. JOSA. Vol 57. No l. 1967. pp 51-55.
+
+11
+
+FOR OFFICIAL USE ONLY
+M OFFICIAL use ONLY
+
+we 621.391.266
+
+EQUAL OBSERVATIW PRINCIPLE AND me W m SIGNAL nocnssnlc
+nu QUASI-WIC PULSE-WEIR SYSTDS
+
+[Article by B. S. Hush]
+
+[text] in equation in given that relates the sipal of a
+quasi-holographic pulee-Doppler syste- to a function that
+describes reflective surface properties. This is celled
+the principal equation. An equal observation principle is
+introduced that nininizes uncertainty in evaluating the
+reflective surface function that arises in solving the
+principal equation. Algoritlns are considered for solving
+the principal equation by a direct nethod and by the eethod
+of fast Fourier transforna to cslculate correlation sun.
+and the efficiency of these algoriths is evaluated with
+respect to a criterion of the minim nulber of operations
+per unit area of the surface being evaluated with consider-
+ation of the equal observation principle. It is shown that
+there is an optin- ratio of sides of the correlation eatrir.
+
+The concept of the quasi-holographic pulse-Doppler span was qualitatively
+introduced in Ref. 1. The signal 8(t) at its input can be represented as
+an integral equation of the first kind with a difference kernel and unknown
+reflective surface function:
+
+.ﬁfJW -x)k/U?(I-y/ 1/. 3/4.»; . s,(I/.¢~,Iog,;(f'
+j m; - sm- 1/910, 2/1))
+
+I‘ , Xiezthe wevelen ho theesen,
+K}; 6.1/9!!!) ‘V’f‘t‘ “I ' y t
+
+“(t}- 'Q’) e716”:
+
+9'7: )- Silt/4;“
+
+J(J,\4?)'—V;'G:( 5"”)!13/7
+
+Q(t) is a coeplex function that characterizes the share of the enitted signal;
+X(t). Y(t). 2(t) are the projections of the radius-vector of the phase center
+of the antenna on the x. y, s exes of the coordinate eysten fixed to the sur-
+face on which the region [Low Loy ] of definition of f(x.y) is assigned. the
+y-axie being collinear with the ray corresponding to the anxiet- of the an-
+tenne radiation pattern G(x.y.s). and
+
+(254,2); (ﬂigi‘ fax 53,).
+
+ 
+
+12
+
+FOIOFFICIALUSEONLY
+The initial equation. which will hereafter be called the principal equation.
+can be represented as a systen of two honogeneous difference equations:
+
+'— -- ._-.
+
+1’9”?” 5,;1 "{gly, l/ééiﬁ—sja ,
+A‘K, (X(//'3/'./(-r,’)r/a'a {IQ/’0'
+
+Systesatic solution of this equation leads to finding the reflective surface
+function - a procedure corresponding to the main job of the radio-holographic
+system.
+
+To analyse the problen of synthesizing econonic algoritlIIs for solving the
+principal equation. it is sufficient to consider a procedure for solving
+either of the equations of this systen. To be specific. our further analysis
+will apply to the first equation. and we will suit the subscript y in denoting
+the interval of evaluation of the reflective surface function.
+
+In actual systesa. the signal is measured on the finite interval 1., over which
+the estinate of the reflective surface function is defined on sons interval
+1.0. If the interval of surface coverage LG is co-enaurate with 19:. then
+
+a contradictory situation must he considered: either the reflective surface
+function is evaluated fron signals generated by a reflective surface function
+with region of definition nuch greater than L0. or the tins of observation
+
+of ele-ents of the reflective surface function on interval 1.0 is inconstant.
+both factors cause uncertainty in estimating reflective surface functions
+when solving the principal equation. In connection with the given signal
+fornation property due to the structure of the kernel of the principal equa-
+tion. we formulate the equal observation principle: when solving the princi-
+pal equation with respect to signals assigned on a fixed interval of observa-
+tion life the intervals of estination of the reflective surface function 1.0 mat
+be selected such that all its infinitesinal elenents are observed for an equal
+tine.
+
+Calculation of the estiaete f of the reflective surface functionby neens of
+the kernel I! of the inverse transfor- causes considerable difficulties that
+are associated with the necessity of carrying out a large meter of arithstic
+operations for computing correlation suns of the for:
+
+£ " gpll'”/'SM
+
+mo (1)
+k - Q I] ' ' I I) .l I
+where f“ and 8.. are discrete readings of the functions for) and S“).
+
+In the direct neth of calculating fx. 2N? nultiplications and additions
+nust be carried out. Use of the nethod of generalized Fourier transform
+enables us to apply effective fast Fourier transform nethoda lief. 2]. Let
+us consider estinates of f“ obtained by the nethod of fast Fourier transfer-s.
+
+13
+
+P0! 01-1-10“. USE ONLY
+FOR OFFICIAL LS! ONLY
+
+Let P<h. ‘l'hen nestling periodicity 3(a) with period I
+
+~ ,g - p‘ [g (M- I?) (M1,
+
+where §: (1!) and Kim) are generalized tourier transforea of 8.. and l(n) on
+the interval 1-0. 1,... 11-3 with period a. and r1 is the inverse gener-
+alized Pourier transforn. In the following. we will lieit ourselves to the
+use of fast Fourier transform to the bane 2. “than to calculate f' it is
+necessary to perforn (3 log; 8+2)! arith-etic and logic operations (3!! log: I
+in calculating the fast Fourier transform. 1! in multiplying spectra. and h
+in transposition of data).
+
+bet P>N. Then the assuption of periodicity 1(n) with period II is not per-
+niasible. Let us turn to a widely used nethod: we write an (1) as
+
+1:" S?! [QM-n] 5’”,
+
+"‘O
+
+5.. 5n 1: amt/V4
+0 I if fL)/\l’
+”L“ -o,!, . ,’ Ibrl.
+
+ﬂow the assumption of periodicity Mn) with-period Pie pernissible. Then we
+have - _
+
+f-P'lglplﬂzu-VI,
+
+froe which it followa that to calculate o‘- (1) it is necessary to carry out
+P(3 log: [N 2) operations.
+
+The given formulae for calculating the nuIber of operations still do not de-
+tereine the aconouy of one nethod or another. The fornal index A that charac-
+terizes the econony of a neth is the number of operations per unit of area
+of the surface to be evaluated.
+
+The indicea obtained above for the nuber of oparationa must be norealired
+to a quantity proportibnal to 1.0. According to the equal observation princi-
+ple. the quantity L0 is related to let. vim:
+
+Lo ‘ [‘0 .10' e (2)
+
+Using the notation P/u- t. we write
+
+L. 4.4,,
+whence
+
+(1-1 m
+19.4 ,. "1w. (3)
+
+ll.
+
+POROFFICIALUSEONLY
+momc’uuuscouur
+
+where Lg) ie the vidth of the n-th Ireenel tone. equal to
+
+(no) I"
+Lo.» ' ﬂm-l [5pc
+
+anduiethenunherofthel'reeneleonecorreepondingtotheedaeottheradi-
+ation pattern.
+
+In accordance vith the condition of inpernieeihility of frequency euper-
+poeition [Bah 3]. the nuﬂuer of readinge II on interval to: met eatiafy the
+
+inequality
+IV) é! . (‘)
+
+where 6‘ ie the diecretization etep equel to hUEu- 1- v‘Zu- 3 .
+
+Band on formulae (2). (3) and (lo). we have
+
+f]; 2 £937.. ‘ 8
+VET/277?: w
+
+5.: 472:: .
+
+The reeultent fornula ie a generalization to the cone (#0 of the well known
+rule of couple: eignal theory: the product of the eignal hand (denouinetor
+in (5) - I. H.) nultiplied by ita duration (numerator in (5) -- I. I.) in _
+equal to the nunher of readinge of the diacretieed eignel lief. 2]. which
+
+is valid only for c-O.
+
+It can he proved that
+
+I
+am Natl-I 'mfm)'0
+
+u-v J"
+
+Pron thie. ueins (3) and (S). we get the aeynptotic equality
+
+L a-L—w _ I “I
+r M “w (6)
+
+0f
+
+2.
+E: 4.2/0?) M4? for the direct eethod.
+
+15
+
+MMLWONLY
+I Mlle .-
+. "T'IE-‘N'?3‘fﬂ/V*JI. 1f 7‘1 for the neth of
+
+‘f ‘ feat Fourier trm
+[hm-w (“y/V“) . 1: r>1 ‘°"'
+(1,5: “““"""‘~""'"’* :. h Fig. 1. liter of operatione A
+-/ / per unit of eurface aa a function
+i , ff: of the nuher of readinge on the
+c —"-._ -2—\- _ ,, ’ ,/, 3 interval 1.,- of aignal oheervation
+'L\ 1/ 5-, ’ g with nee of the direct neth (1)
+s' ‘- /,y, " ' and the feat Pantier trenafora
+I r ” ‘ neth (2) for veluee of 1- III
+’ //' z’ ,,-’ ' (-----). l (—-) “3.0
+’. "
+/:/ l <---°--->
+’L
+a e e' I a :o 4.7"“,
+
+The reaultant relatione inply (Pig. 1) that when uaing ayateea with one or
+
+a few raadinga (1.030) the direct nethod is preferable. the advantage of the
+neth of feet Pantier trenaforne increeeing with It. When a nay-reading
+eyetua in need. beginning at none value r> III. the faet Fourier traneforn
+lethod hen the advantage over the direct nethod at any valuee of N. Analyeie
+of the relation A- {(r) above that when 1’81. the method of feet l'onrier trane
+
+tom given the next-tn gain colpared with the direct nethod for any I! (Fig.
+2) e
+
+ 
+
+Pig. 2. lit-her of operationa A per unit of area ae a func-
+tion of the ratio L ll.r for II- 32 when naing the direct '
+neth (1) and the gut tourier traneforn neth (2)
+
+16
+
+POI OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In the case of lisited processing intervals consideraly .aller than 1.9.
+
+2"-stags signal processing can he used lief. b] in which so-called preveighted
+accuulation on the first stage lieits the hand of the signal 8(t). and the
+main processing is done on the second stage. Such a structure reduces require-
+Ients for speed of processor devices. In this case the considerations given
+above concerning A are suitable for each of the processing stages individually.
+Let us anelyse the necessary productivity A for 2‘~stage processing. at the
+first stage. the paraneter r- l/an (no, is the Mr of readings of the
+input signal) is snell. and consequently on the first stage the direct nethod
+has an obvious advantage over the nethod of fast Iourier transform. 0n the
+
+second stage the par-eter 1- 1’le (v1. is the nulher of signal readings at
+the input of the second stage). 0n the whole, the productivity A for the
+ZK-stage processing can be written as
+
+”" .1 ﬂ")+/]‘z’
+
+where A") and A“) are the nders of operations on the first and second
+processing stages per unit of area of the reflective surface function to be
+evaluated. based on the above discussion. we can write for the direct nethod:
+
+991/0?) ( ﬁr:
+10-2 "’ 2 '0
+’4 z. ’ ‘ﬁfh-«S— 2' ,
+
+)p ' (7? A d.
+”a; 2», a 9C" . { ,. )
+L’ La" 1-1,, '
+and for the nethod of fast Fourier transforms
+
+d
+.2” Qatarévﬂézvpéﬂupﬂﬁfﬁ “j 1r 1" 1.
+
+' i I. r
+iwwltféﬁTMII’V*‘é&Z:r-*d if r) 1.
+
+Analysis of these functions shows the presence of an optimu- for the function
+A- f (r) at fixed values of and L 1). Calculations show that for different
+values of these paraneters t quant ty r nay differ considerably fron l.
+
+and the gain fron using the fast Fourier transforn nethod hecones less pro-
+nounced than for one-stage processing. Thus the selection of the nethod of
+
+calculating correlation suns must he acconpanied hy conputation of K in each
+specific case.
+
+I thank L. s. Al'tnan for constructive discussion of the letters considered
+in this paper.
+
+17
+
+POROH'ICMLUSEONLY
+5‘0! OFFICIAL USEONLV
+
+l. Leith. ”Quasi-Bologrsphic bthods in Microwave land" in: 'Triaeneniye
+golografii [Using Holography]. edited by J. Good-an. Iloscov. "Mir". 1973.
+
+2. Rabiner. 1... Gold. 3.. ”Teoriya i printsipy tsifrovoy obrsbotki signalov”
+[Theory and Principles of Digital Signal Processing]. Roscoe. "nit". 1978.
+
+3. king. 1!. m. 'Chislennyye aetody" [Ruerical Methods]. Moscow. "lauka".
+1968.
+
+at. brown. ".11.. nouser. G. 6.. Jenkins. 3. 3.. "Synthetic Aperture Process-
+ing with Liaited Storage and Pram-sing". m TRANSACTIONS ON AEROSPACE
+LID “MIC swans. Vol ABS-9. No 2, lurch. 1973.
+
+"DC 21.391.266
+mmsnntc QUASI-WIC SYSTEM ADAPTIVE 1'0 REMIX: summer
+[Article by B. 8. Hueh]
+
+[Text] The paper notes difficulties in practical realiza-
+tion of optimum aethods of solving the principal equation
+of a quasi-holographic system that are related to absence
+of a priori data and in large aeasure are eliainated when
+algoritlns are used that are adaptive to a reflective sur-
+face function. The principal equation of a pulse-Doppler
+quasi-holographic systsn is given with its_optimn solution
+in tha'sanae of the uni-us rlas deviation of the estinste
+of the reflective surface function froa its exact value.
+
+An algorithn is described tint is adaptive to the operator's
+”signal when the structure of the operator is identical to
+that of an optima operator and realizes an iterative pro-
+cedure of successive approxiastions. The article presents
+the proof of convergence of the iterative procedure and
+gives the results of a mnerical experiment on studying
+effectiveness of the constructed adaptive algoritll.
+
+Optima asthods of solving the principal equation of a quasi-holographic sys-
+tea lief. 1. 2]. despite all their advantageous properties in the sense of
+estiastiou of the reflective surface function f . cannot be realized in cover-
+ing real surfaces. since in east cases even the energy spectra of the reflec-
+tive surface function are a priori unknown. However. optim- operators enable
+us on the one hand to synthesize suboptin- and adaptive algoritlns that in-
+prove the estiaate of the reflective surface function by ”signal tuning”.
+
+and on the other hand to evaluate the quality of these algoritl-s with respect
+to the degree that the estiaste appreciates the optima. The problen of
+constructing an adaptive algoriths should be considered solved if "vs aenage
+to construct algoritbs... that use only realisations accessible to ensure-
+asnt" (Ref. 3].
+
+18
+
+l-‘OIOFFICIALUSEONLY
+FOR OFFICIAL USE ONLY
+
+Taking our lead free Ref. 2. we write the principal equation as
+J . .
+3K1 XIII-.1! 1":le . saw/m yap/at), (1)
+
+where S(t) is the signal at the input of the antenna oysten,
+
+“0 and Y(t) are projections of the trajectory of the phase center of the
+radiating and reception systole with polar pattern 6(xly(t)) on the x and
+
+y axes of the coordinate systen fixed to the reflecting surface. 1921/),
+
+A is the wavelength of the systen. n(t) are noises of the system y~§e+y(t).
+@- t- Tu. In is the repetition period. and n is the probe mater.
+
+In the following we will examine equation (1) as an integral equation of the
+first kind. and treat its solution as a fornalized target of a quasi-holo-
+graphic systen.
+
+The optima estimate f of the reflective surface function can be found by
+using the Hiener-Kohogorov operator with kernel so” [Ref. 2. lo]:
+
+(f)
+where
+
+_K'(/.’)._, x
+9’7"” jﬁ’f’ﬂm’)!‘ ”W7"
+
+8(p) -N(p)/If(p)l2. Mp) is the energy spectrum of n(t). ‘l’ is the processing
+period. the synbola ( ) and (*) denote the Fourier transform and the conplex
+conjugate respectively. or in the fore of the spectrum of the estiaate
+
+HfFW‘ 37f): (2)
+
+where Vopt is the optimum value of the Tilthonov stabilizing factor [Ref. lo]
+
+which is equal to 1 2
+., (1,, Mg)! "<9"! ‘ L.
+Mp)” [all (f)! (3)
+
+A special case of the optimal operator when B(p)>>ﬂaxIK(p)I is an operator of
+the type "notched to a point object":
+
+p(-"~‘)~IK( K03) :7): 17/) (1.)
+
+l9
+
+POI! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Let us now consider the structure of an adaptive operator. Let us have a
+zero approrieation of the estimate of the reflective surface function fo(x)
+that can be obtained by an operator that does not depend on the reflective
+surface function or noise. e. g. of type (6). Let us call the function fn(x)
+the estimate of the reflective surface function in the n-th approximation.
+The Fourier transforn of this function takes the fore
+
+. . ,h
+
+1' I") s. A 2
+f( _ 02..-‘§c)_r/.4I .K 43’ _~
+(m
+
+where vein is obtained from formula (3) by replacing If] by its (n- l)-th
+approximation and n-0, l, 2.... This formula. conbined with the formula
+that assigns i0. describes the iteration procedure. Let us prove existence
+of convergence of the sequence to a limit that in the sense of me deviation
+is closer to 1 than any estimate fa at least at a sufficiently low noise
+level.*
+
+we assume that
+
+~~
+
+E=K€SI
+
+then
+f_IKI"/?"'§“ ,g
+‘ W’lkl’li’l! '
+
+Let us consider the positive definite function
+
+u” ’1 ‘
+
+”J;
+
+9 ( )= —-- —.
+
+s. /’ ’7" r,
+
+If 09,1(p)> l. the first-approximation estimate of the reflective surface func-
+
+tion on the interval of assignment of spatial frequencies p gives a gain in the
+sense of ms deviation as compared with the zero-approximation estimate.
+
+we can see from the expressions for f. and f; that
+I-IKI’
+9‘4”" I W,
+
+which implies that the function 9..;(p)-M° as mo.
+
+Analogous arguments are valid for an arbitrary function an.“ n- Consequent-
+ly. at least for a sufficiently low noiee level. the n-th estimate of the
+reflective surface function gives a gain conpared with the (n- I)-th estimate.
+
+ 
+
+*An operator of type (6) is optimum at high noise level.
+
+20
+
+FOR OFFICIAL USE ONLY
+FOII OFFICIAL USE ONLY
+
+To verify the conclusions drawn above. a coaputstional experiment was done.
+The conditions of the experiment consisted in assigning the reflective surface
+function as a data file of complex nuwers f0). l-O. l..... “-1 with Ray-
+leigh distribution of the modulus and uniform distribution of the phase on
+interval ‘£.J]. The signal was formed in accordance with equation (I). The
+estimate n(t) of the reflective surface function was calculated from formula:
+
+(2) and (5). Quantitatively. the quality of the estimate was defined by the
+quantity 3 calculated from the formula
+
+whagth} leg—ll)”
+
+The function n(t) in (l) was simulated by an uncorrelated amber sequence.
+and the noise level was assigned by the quantity 1:
+
+X' [1/ [3307!—
+
+where the symbol (-) denotes averaging of the sample.
+
+where 0<B< l.
+
+ 
+
+Normalized rms deviation of the estimate of the reflective
+surface function as dependent on the number n of the step
+in the iterative procedure of the adaptive algorithm
+
+The figure shows the results of the experiment for 1-100. The experiment
+
+demonstrated convergence of the procedure described above. in which there
+
+is an appreciable gain in quality of the estimate of the reflective surface
+function up to the fourth step of the iteration.
+
+I thank Yu. V. Kunetsova and I. V. Carina for their contribution in doing
+the experiment.
+
+21
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+REFERENCES
+
+l. Kondratenkov. G. s.. "Synthesiaing an Optimus lbthod of Processing Radio
+Hologram", RADIOTEKHNIKA, Vol 33, No 5. 1978.
+
+2. Hush. B. 8., "Synthesising Artificial Aperture for Microwave Radio Holo-
+grams Reflected from the Surface of the Sea", RADIOTEKHNIKA I WEN.
+Vol 25. No 7, 1980.
+
+3. Tsipkin. Ya. 2.. "Osnovy teorii obuchayuahchikhaya sistem" [Principles
+of the Theory of Learning Systems]. Moscow. "llauka". 1970.
+
+lo. Tikhonov, A. IL. Arsenin, V.»A.. 'Metodyresheniya nekorrektnykh zadach"
+[Methods of Solving Incorrect Problems], Moscow, "Nauka". 1976.
+
+UDC 621.396.67.001.26:778.38
+
+DETERMINUG INTERCOUPLING 0F SPATIAILYCMINEDANTENNAS BY RADIO BOLOGRAPHY
+METHODS
+
+[Article by R. A. Orlov]
+
+[Text] A method is considered for determining the mutual
+inittance between two spatially combined reciprocal antennas.
+The method is based on using radio holograms recorded on
+
+a closed reference surface covering the interacting atnennas.
+A basis is proposed for describing the radio holograms with
+arbitrary distance of a spherical reference surface from
+
+the antenna to be analyzed. A solution is given for the
+problem of finding the iuittance of two collinear dipole
+antennas.
+
+Finding the mutual coupling between antennas that are spatially combincd in
+the limits of a single radio engineering complex. or between elements of the
+same antenna system is a problem of considerable current interest both for
+analyzing electromagnetic compatibility and in the design of complex antenna
+facilities. An examination of the voluminous research devoted to solution
+
+of this problem shows that the measure of intercoupling in all these cases
+
+is the mutual impedance determined by various methods, including the acthod
+of induced emf's [Ref. 1], the method of the angular spectrum of plane waves
+[Ref. 2]. etc. However. all these methods make essential use of the structure
+of the interacting antennas. which at times is a severe impediment to solution
+of the formulated problem. especially when it involves antennas of different
+types. A way out of this situation might be to use a method of analyzing
+intercoupling relying only on the distribution of the electromagnetic field
+set up by the antennas being studied on some surface in the vicinity of the
+facility on which they are installed. 1. e. a method that utilizes radio holo-
+grams of the fields of radiation of the antennas. The reference surface must
+be situated in the near zone of the antenna system to be analyzed. and the
+algorithm for calculating mutual impedance must enable simple and effective
+use of computers.
+
+22
+
+FOR OFHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+These requirements are most simply realized if the analysis of intercoupling
+uses a law of conservation of electromagnetic energy in the space that con-
+
+tains the interacting antennas [Ref. 3]. This law can be written as
+
+ 
+
+ 
+
+:¥§([E..h:ln)ol$ ' §(2.%%"~Uh. ﬁiﬁvh interim - o. m
+
+c." I I"! V
+
+where ii,kv ﬁi,k are fields set up by antennas "i" and "k" at an arbitrary
+point of the volume V bounded by surface S; 3 is the unit outer normal to
+surface S; 1k are the currents in the antennas; N is the number of interacting
+antennas. The surface integral in the braces in (1) defines the flow of ener-
+gy from all sources to the surrounding space, and the volume integral defines
+the total energy of the overall electromagnetic field stored in V. The last
+term characterizes the balance of the powers in each of the interacting an-
+tennas as determined by the power fed to the antenna from the oscillator.
+
+and the sum of the partial powers induced in this antenna by all other radi-
+ators.
+
+Let us assume for the sake of simplicity that the interacting antennas are
+located in free space, and that the radiated fields are monochromatic and
+are linear functions of their generated current distributions. Then, repre-
+senting the values of the powers in each radiator as the product of currents
+1k multiplied by the equivalent applied voltages Uk (comprised of the excita-
+tion voltages and the sum of the induced emf's). writing the system of equa-
+tions for the currents in rue antennas with consideration of their mutual
+impedances. where the corrcnponding Uk are in the second members of these
+equations, and solving this system with respect to impedances. we get the
+following expression for the mutual impedance of an arbitrary pair of radia-
+tors:
+
+2- v ‘2 s 2;. ;
+it? ' §§(IIBL,HT] ~. [Elli I L») d3 . (2)
+at? - ‘1“; ékcist') ~ (12:12:). was . (ntfumdv.
+
+where the primes denote fields set up by antennas in which the current dis-
+tribution is normalized to unity.
+
+An examination of expressions (2) shows that radio holographic information
+can be used only to find the component 2“) determined by distributions of
+
+the fields of radiation of the antennas over the surface s that encompasses
+these antennas. Moreover, we can readily see that to get this component it
+
+is sufficient to integrate the radio hologram obtained by using the field
+distribution of the other interacting antenna as a reference signal. However.
+there are considerable difficulties involved in directly producing such radio
+holograms. and it is preferable in this problem to use holographic information
+in the form of distributions of the amplitude and phase of the field of radi-
+ation of each of the antennas individually. Such information also enables us
+
+23
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+to find the para-stars of the antennas with consideration of their interaction
+and conforms to present-day nathoda of recording holograms in the radio wave
+
+band .
+
+Sequential registration of radio holograms assxnes storage of data files on
+anplitude. phase and polarization of the field over the entire surface s.
+
+i. e. a large volune of operating conputer mory. a requirenent that in-
+creases with increasing ratio between the linear dinensiona of the investi-
+gated antenna system and the wavelength of the radiated field. and involves
+a cusbersone procedure of successive computations with the use of these data
+files. Therefore when finding '8.) it is desirable to use a nethod of field
+representation that sharply reduces the volume of stored information while
+retaining data about the radio hologram on the entire surface s and to de-
+scribe the field distribution at an arbitrary distance from the antennas (in-
+cluding in the near zone). which corresponds to conditions of radio hologran
+registration on neasurenent stands.
+
+The simplest closed surface is that of a sphere; when such a surface is used
+as S. we can represent the aapliphase distribution of the field on s as an
+expansion with respect to spherical vector wave functions (Ref. lo]:
+
+I " é. . - .
+H. = Z L. I ammo») - % rot whammy)“;
+
+ 
+
+El ' i; ;\%ml[5.L(r)x.le.v)]+ 8;.t")x(m(9.tr)l; (3’
+where -
+mm) twig? wage») -. I». - -; [m1
+
+is a vector differential operator; Yum,» are scalar spherical harnonics
+that take the form
+
+, t a“ 4].: ,.
+Ye...(9.‘f) : {if—{4' gar)” F; (maesplamﬂ.
+
+Outside of the sources. the radial functions can be written in the form
+
+mo ? a‘.(¢.m)h‘2‘(kr) 2 9.10) . (21.0») #30:»). (’0
+
+where hi1)(kr) are spherical Bankel functions. and the coefficients aéﬂm)
+and (than) in the general case are defined by the following formulas:
+
+0; (2.») ' {ﬁt—$7 §Ycl(0.w)h5 ng'jJW} '
+
+. 5.! (ammo) - n- anv([r,n])j.(kr)] dv;
+
+'a1.(e.-) #471491 3 Y;(9.w)‘div(£'[r. 1'1) 1.0m
+
+. davﬂ gym]- k‘(r,n)j.th)]d\'.
+
+ 
+
+(5)
+
+210
+
+FOR OFFICIAL USE ONLY
+MOFFICIALUSCONLY
+
+in which jlﬂtr) are spherical Bessel functions of the first kind. integration
+is carried out only over the region that contains the sources. and 1! denotes
+nsgnetic current density. In practice. these eupressions are considerath
+sieplified since Us 0. and the charges and currents are related by the equ-
+tion of continuity.
+
+The given expansions are valid at an arbitrary distance fron source‘ of radia-
+tion with the exception of a sphere of nininua radius that contains the syst-
+of interacting antennas and is deternined by the nexi-n overall dilensions
+
+of this systen. Thus. ”Ct-1.03 that the surface s has the for. of a sphere
+
+of radius h. substituting (3) in (2) and considering the absolute convergence
+of the series with respect to vector spherical hernnnics. as well as the con-
+ditions of orthogonality for these series and the fact that the normal 3 coin-
+
+cides with the radial unit vector 30 of the spherical coordinate systen. we
+find
+
+my; 9:;ez..- 95.93:.
+. . . M
+r 5.... u: ‘ 5w- 5::.]* 9:0- gag"; r..- (6)
+.. d I. . (I . O
+- 'ig'g' as. 3“:- 9%?an 1;. ¥an
+
+Now let us consi r the contribution ends by the real and inaginary conponents
+to the quantity z t). “to do this. we will assuns that the surface S is situ-
+ated rather far away (radius R is large) and we will use an asyntotic repre-
+sentation for the spherical lanhel function at large values of the argunent.
+Then we get the expression
+
+ll.
+25.“: :h mine... a::a:.d..a::o «2:4.»
+9' O I I I. ' .
+’ did-«an. " Quag‘ 0'... 0,. . a; as".
+
+iron which we can see that the conponent of mtual inpedance ea) in the gen-
+eral case has a reactive component that approaches zero as radius 3 increases.
+Carrying out an analogous study of the other part of the nutual iepedence
+that differs only in the fact that integration in this case is carried out
+over the space external to a sphere of large radius. we can establish the
+purely reactive nature of coeponsnt 4123‘
+
+(7)
+
+Thus. radio holographic infatuation enables direct detereination only of the
+resistive conponent of nutual inpedance between spatially costined antennas.
+Let us deal briefly with finding the reactive conponent of eutual impedance
+In an. Here as a rule we use indirect nethods based on utilising additional
+intonation concerning the resistive component of nutual i-ittance. and none-
+
+‘.y the way that Re 21k depends on electrical distance between antennas or on
+frequency.
+
+25
+
+FOR OFFICIAL USE ONLY
+MWLISEONLV
+
+The first such nethod lakes use of the fact that the dependence of lam on
+spatial separation of the antennas is oscillatory and vanishes at values of
+the phase of en equal to w-«IZ-eﬂt- 1) (Ref. 5]. Taking these points
+
+as nodes of interpolation. we can find the phase function of nutual inpatients.
+the nodnlua of an and than Inca. At anall distances between antennas. the
+phase function is daternined by extrapolation only to the niddle of the 'Ssin
+lobe" of the function lean. since in a close approach the inductive and stat-
+ic fields of the antennas begin to lake the najor contribution to the reactive
+
+conponent of en.
+
+The second uthod uses the frequency dependence of the resistive coeponant
+
+of nutual inpedance Berna»). While a sinilar approach was suggested in Ref.
+3. the method considered there for detersining the frequency dependence of
+the Green's function and subsequent m-ation with consideration of the dis-
+tributions of currents and charges as well as the configuration of the an-
+tennas to get the couplets reactive cowonent of 31k in rather awkward and
+cowlicated. Besides. it is conpletely unsuitable if we are using only radio
+holographic intonation. Therefore when finding In: it is advisable to
+use direct reconstruction of this couponent free the td‘ependance Barnum) based
+on algoritlu available in the literature [Ref. 6]. The resultant error due
+to the fact that in the general case the syste- of interacting antennas is
+not a nininal-phasa systen in view of the presence of nultiple scattering
+
+is a call error. and the accuracy obtained in any event is no poorer than
+
+in the nsthod of induced eef's that accounts for only one-tins interactions.
+
+In conclusion. we give a solution for the problem of deternining nutual in-
+pedances of two thin dipoles of arbitrary length. Let the antennas be situ-
+ated on sepents r€ (a. h]. z 6 [-a. -b] of the z-axis. and let than have
+snsll gaps in the center for excitation. We take the current distribution
+
+to be the sane in the antenna syste-a. and we assume that this distribution
+
+is described by an even function of r and vanishes on the ends of the antenna.
+Since the currents are radial. (1'. 31-0. and all components of nagnetic nulti-
+poles are equal to zero. The current density appearing in expression (5)
+
+is detenined in spherical coordinates for r € la. b]. and in the case of he:-
+nonic tine dependence. it can be written as
+
+1.. (r) - 53;. 150) 3(oss9 : 4) up I-iu“. (a)
+
+where 6 is the Dirac delta function. Deteraining the charge distirbution
+on the basis of the equation of continuity. and calculating the integrals
+appearing in (5) over 9 and e. we find as already noted in Ref. 6 that for
+such antennas only eultipoles with indices n-O are excited. To calculate
+the radial integral we aust know the current distribution along the antenna
+normalised to the naxim. Considering that this distribution can be
+represented as a Fourier expansion. and for the sake of sinplicity taking
+11,1(r) as coincident with only one spatial harnonic of the expansion. the
+renaining integral can be coeputed fairly easily. yielding
+
+(9)
+
+ 
+
+3; (an) - gym flu-($1; (ﬁnd)- high.» thﬁuﬂ,
+
+(Red)
+
+26
+
+FOROFFICIALUSEONLY
+FOR OFFICIAL USE ONLY
+
+the general expression for the active coeponsnt of nutual iepedence in the
+given case takes the fora:
+
+Pangaea—ate?
+
+Substituting expression (9) in this expression. we get the following relation
+for calculating the resistive coqonent of i-ittance of the two entemes:
+
+" {X} ;77'1. lk'tmbu. 1mm). t‘a ' 'ua).
+
+~ *‘b‘l'tm ak' «(avbmuoudnvhymen“). <10)
+- j.(*b)j.(§(mb)) . 2?abj,(to)_j,{lrb)‘.
+
+In accordance with expression (10). calculations of in were done for dipoles
+of length m as a function of the electrical distance 2e/X between antennae.
+Conparieon of the results of the calculation with a curve for the nutual re-
+sistance under the sale conditions calculated by the Isthod of induced nf'e
+[Ref . I] showed that both solutions give sieilsr relations for 1“. Maxi..-
+diecrepency is no lore than 52 with 10 terns retained in the series. It should
+he noted that when the distance between dipoles is increased a greater nuher
+of terns lust be considered. involving an increase in the radius I. of the
+sphere that contains these antennas. which agrees coupletely with results
+obtained previously on the necessity of accounting for terns with indicss
+13m. in calculations [Ref. 7].
+
+l. Lavrov. G. A.. "Vzaienoye vliyaaiye lineynyhh vibratornykh antsnn" [Mutual
+Influence of Linear Dipole Antennas]. Moscow. "Svyaz'". 1975.
+
+2. Deshpande. M. 0.. Des. B. M.. ”A New Approach to the Mutual Initance
+Between No Radiators". J. m. amen. AND mum. ENG” Vol 23.
+No 6. 1977. PP 359-366.
+
+3. Vendih. 0. 6.. "Detenining Mutual Iepedence Between Antennae Pro. Known
+Radiation Patterns in the Far Zone". mxmm. Vol 17. Mo 10. 1962.
+pp 11-20.
+
+lo. Jackson. J.. "Klaseichesksya elektrodinuike" [Classical Bleetrodyneaicel.
+Moscow. "Mir". 1965.
+
+S. Saronov. D. M.. "Reechet vaaimyhh inpedansov proirvol’nykh entenn po
+ikh diagr-an napravlennosti” [Calculating Mutual Ilpedancss of Arbitrary
+Antennae Pro- ‘rheir Radiation Patterns]. mmrmmm I umm.
+Vol 15. Mo 2. 1970. PP 376-378.
+
+6. Gsdel'ehin. R. M.. Golubhov. A. 6.. Gonostarev. V. A.. "Method of Deter-
+aining the Phase-Frequency Response of a Mining-Phase Target Pros: the
+
+27
+
+POI “MCI/.1. USE ONLY
+POIOFFIGALISEONLY
+
+Amplitude-Frequency leaponee Aaeigned in a united frequency Band".
+IZVBS‘I’IYA "SSH!!! mm zavronm: mrm. Vol 22. lo 3.
+1979. pp 89-92.
+
+7. Ludwig. A. 6.. "hear-Field Par-Field ‘l‘ranefornetiona Being Spherical live
+Expanaiona". manners (I Aims All) mum-Ion. ”-19. lo 2.
+1971. Pp 216-220.
+
+UDC 535.317.!
+MEASURING PM 0? stamina WES BY IADIO noon!!! moo
+[Article by A. Ya. Pamov]
+
+[‘l'extl An edge wave nethod Ref. 1) ia need to get ene-
+lytical reletione for calculating the ecattering charac-
+terietica of individual ”ehining" points of an ideally con-
+ductive cylinder of finite dinenaione. 0n thie baaia an
+equation ia derived for a a etandard coupler Fourier radio
+hologrn, end a teat algoritt- ie developed for nodeling
+the radio holographic process. It is shown that the poten-
+tial accuracy of neaouring the effective ecattaring eurface
+of "ehining" pointa of an object by the nethod of Fourier
+radio holography can be brought to 0.5 dB.
+
+The reaulte of theory. nodeling and erperinent ere conpared.
+end race-endatione are nede on etandardiring neeeurenente
+of local ecattering characteriatica of bodies.
+
+‘l'o eolve verioue applied problene in diffraction of electronegnetic waves
+
+a. the high-frequency approximation requires diagram of the effective acet-
+tering surface of individual ”ehining" points of an object. Such acattering
+cherecterietice. tar-ed "local" [lef. 2]. can be obtained analytically or
+experinentelly. It in advieable to uoe theoretical nethode for calculating
+local ecattering cherecterietice of ideally conductive bodiee of aimle geo-
+netric ahape (cylinder. cone and the like). The local ecattering character-
+iatice of a conplicated ahape can be deternined’only experinentally an a rule.
+nethode of radio holography are need to do thie. in particular the nethod
+
+of invermd eyntheaie of one-dineneional Fourier radio hologram by rotating
+the object around ite center of naee (Ref. 3. lo].
+
+A fundanental condition of doing experinente of thia kind is the availability
+of a reference ecatterer for which analytical expreaeione can be found that
+deecribe ite local ecattering cherecterietice. The reference is neceeeery
+for getting a quantitative neaeurenent atandard. for checking operation of
+the experinental facility by co-paring theoretical and experinental data.
+
+and for evaluating the experimental error. In addition. the reference can
+he need to nodal the radio holographic proceea. the latter circuetance ie
+the noat inportant since the nethod of Fourier radio holography hae e funda-
+nentally inherent error of neaeurenent of local ecattering characteristice
+uhoce cancer will be elucidated below. Co-periaon of reeulte of theory and
+
+28
+
+FOIOFI'ICIALIBEONLY
+”OFFICIALUSBWLY
+
+nodeling haaed on general analytical relatione enehlea evaluation of the ag-
+nitude of thie error. i. e. deter-inetion of the potential accuracy of the
+nathod. Cmarieon of the given reenlta with erperinantel data enablee de-
+tereinatinn of the inetrunentel error of a apecific neeenr-ent facility.
+
+Up until now. analyeie of the nethod of radio holography hae relied on nee
+
+of a hypothetical body nade up of a eet of point ecatterere (let. 3]. @-
+viouely ouch an object cannot nerve no a etandard. In our paper. an ideally
+conductive cylinder of finite diaeneione ie taken ea the reference ecetterer.
+The edge veve nethod in need to get analytical expreeeione for calculating
+the local ecettering characterietice of this reference. 0n the haeie of theee
+erpreeeione. an equation ie derived for a couple: one-dinneional ’ourier
+radio hologrn. and e teat algoritl- ia developed for nodeling the radio holo-
+
+graphic proceee.
+
+Upon diffraction of a plane vave by an ideally conductive cylinder of length
+I and radine a (Pig. 1), a scattered field ie for-ed in the far acne vhoee
+cowonente for B- and B-polerization are reepectively equal to [let X]:
+
+' in.
+E'-%£‘%MZ(O.0.) o a)
+o‘?‘ .‘7 20.0.). (2)
+
+ 
+
+‘rranaaitter
+
+‘ Receiver
+Pig. 1
+
+in contract to Ref. 1. the angle functione Ewe.) and :(e.e.) are rcpreeentcd
+in the fore of three terns. each characterized by a correeponding ecattering
+center of the cylinder (Fig. l).
+
+mom-250.0,» 2149.0,» 240.1.) , (3)
+zwﬂﬁ‘ 810,0.) .2.( o, o.) ’ 8"”.0.)e (‘)
+29
+
+FOR OFFICIAL USE ONLY
+“)3 OFFICIAL USE ONLY
+
+f3.(\’.0.)'f.ﬂ.(pvwz‘§’l 9‘ $130.“). (5)
+Z.u.m-:.t-s.m*wz‘me‘"“‘”""". <6)
+Ema-Mamus.(me"¥"'"""’. m
+
+where J; and J; are tassel functions of the first kind of first and second
+. order respectively.
+
+S’ «aw-come.) .'
+
+For the functions 1140.0.) (n- l, 2. 3) we can get expressions analogous to
+(5)-(7) by replacing the functions fn with 3n defined by relations
+
+- I
+it -“-:.4«~%-~’—.:5>';(«s-~!%=5)"1. m
+t;
+3:]13-"4‘ %- 157‘"':(m:'~'—3-")"]. m
+~l . - - -
+{1 Jain % -m'—;5)‘:(~%-~"T'—")‘. w»
+3-3/2.
+
+Expressions (3) and (6) are valid under condition that e<s/2 end r/2+8<e.<s.
+Otherwise the nuber of terns in these equations nay be less than three due
+to eclipaing of other scattering centers. Setting e-e. everywhere we can
+easily pass to the single-position case of observation (8-0). The resultant
+fornulss enable calculation of the local scattering characteristics of an
+ideally conductive cylinder as a reference standard.
+
+Siaultaneously froa equation (1) we can find the amplitude A; and phase 93
+of the wave scattered by the object for E-polariration (analogous expressions
+follow fron (2) for An and on in the case of B-polariration):
+
+”V." E.‘ f- M204), . (11)
+
+150.0,)- .a um . M, 20.0.), (12)
+
+where Hod_and Arg denote respectively the aodulua and arg\ment of the cleex
+quantity £(0. 0.).
+
+Using the latter equations and choosing the appropriate per-etera of the
+reference wave. we get the following function of the couple: reference Pourier
+radio holograa for an ideally conductive cylinder in the case of finite disen-
+sions in the case of l-polarizstion:
+
+”WISEONLY
+FOIOFFIGALUSEONLY
+
+‘3‘?)0Mﬂitad.)ew’u«’o (13)
+By analogy we have for napolerisstu .
+t,(e)em$3(¢.ﬁ)¢“’m“’. (u)
+
+The x-coordinate on the surface of a radio hologrsn fixed in acne way is re-
+lated to the angular coordinate a hy the expression
+
+' {”190 (15)
+
+where u is the angular velocity of spin of the ohject. v. is the rate of regis-
+tration of the radio hologras on the recording saterial.
+
+Reconstruction of the insge corresponding to the position of the object at
+tine t-o (t6 (-172. 1/2]. where 'l' is the interval of synthesis of the radio
+hologrn) reduces to truncated lourier transforution of the function of the
+radio hologran [Ref . b]:
+
+w: .
+V(0,)- I mums-‘4: . (16)
+"M
+
+where tax is the coordinate in the inage space.
+
+The intensity of the inege. free which the local scattering characteristics
+of the object are detersined [Ref. 2], is
+
+WmJ-sznz. (17)
+
+The algoritl. of digital nodeling of the radio holographic process reduces
+
+to the following procedures based on expressions ([3), (lb). (16) and (17).
+Assigned as initial data are the dimensions a and l of the cylinder and wave-
+length A. The functions hams-p) and mum -p) are calculated in discrete
+fora. where p is a whole-outer parameter that ensures a range of the arguent
+in the interval 0<0<2n The discretitetion step A8 is deterained in accor-
+dance with the theores of readings free the condition AO< All. For subsequent
+processing. readings are selected fron the total data file of values of the
+functions h3(A6'p) and ha(A60p) that correspond to the angular interval
+
+0 - Yg/2<Aeop<oa+Ys/2. where on is the required radius of observation of
+the ohject, Ys-u'l‘ is the angular site of the rad o holograe. The latter
+
+has an optimal value (Ref. 3] equal to '8' (1/21) . ‘l‘he insge of the object
+for aspect on is reconstructed from the corresponding ample hy the fast Pour-
+ier transform algorith. In this connection the step of image discretization
+is equal to Aw,” X/sz. Finally. the inages of individual scattering centers
+are identified with respect to function (17). and the local scattering charac-
+teristics are detersined.
+
+ln Fourier analysis of linited data files. the phenanenon of "blurring" of
+spectral conponenta arises [Ref. 5]. which corresponds to the apectrun of
+
+the scattering function of an object with a function of the type sin 2/: in
+the inage space. Therefore. instead of a set of 6-functions corresponding in
+
+31
+
+MWJSEONLY
+POROFF'ICIALUSBONLY
+
+the linit to the insges of the "shining" points. functions of the type sine/s
+arise. The side lobes of these functions cause en error in neasur-ent of
+
+the locsl scattering charscteristics that is fmds-entelly inherent in the
+given nethod end restricts its potential eccurscy. In other words. the issues
+of the scattering centers are "blurred" by the edge wsves that erise at the
+ends of the bologna. The level of the aide lobes can be uni-ind by spodi-
+rstion. i. e. by Iultiplying the s-ple to be processed by e certain weighting
+. function list. 5]. He used two weighting functions in our work:
+
+mu a» mum)
+uo-{m . Q‘GmendQ-m . (18)
+Mtg-a —4 )‘
+cs“) - 9 0-0 ' . (19)
+
+where q is the ordinal mﬁer of the discrete reading. end Q is the value
+of the sanple to be processed
+
+nqé, an S
+
+ 
+
+:1 imm“ (1°) ' ' I .-function (13) | |
+.-.:.“°.;:3h$é ’ ! -- funcuon (19) :
+a-no spodisstion
+
+  
+   
+
+   
+
+ 
+
+M O U m Q-deg
+
+m. 2
+
+Fig. 2 shows the results of digital nodeling for s cylinder with dinensions
+a- ISA. 1- In em! disgrace of the effective surface scattering of scattering
+centers of the seat object calculsted in the single-position csse by using
+
+32
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL LS! ONLY
+
+the relations
+
+cfuhnnglm’ } . (20)
+DOLLS .
+6:( o) . In“ ZJM‘ (21)
+
+I
+
+aviously the error of neasuring local scattering characteristics that is in-
+herent in the Fourier radio holography eethod nay reach 3-5 d8. Use of weight-
+ing functions (18) end (19) can reduce this error to 1 dB and 0.5 dB respec-
+tively. Apodisation leads to "expansion” of the image of each scattering
+center. i. e. to deterioration of resolution. For ex-ple on Fig. 2a, in
+
+the case of using weighting function (19) the values of effective surface
+scattering of scattering centers 1 and 2 are lacking for certain aspects
+
+(0- 110'. 120'. 111‘). This is due to the fact that the inages of these cen-
+ters eerged into one another. This effect is observed to a lesser extent
+
+when weighting function (18) is used. Thus the weighting function for process-
+ing radio hologrlls lust be selected fro. the condition of eininizing the
+eeasureeent error and maximizing resolution.
+
+These analytical relations were verified experimentally by the nethod of Four-
+ier radio holograns under conditions of an anechoic charter. The procedure
+for conducting the experiment is given in Ref. 2-4. The corresponding part
+of the nodeling algoritlls was used for digital reconstruction of images.
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+  
+
+Scettering
+center 1
+
+ 
+
+{mz
+
+Scattering rexp .
+center 2 mt! .
+
+       
+
+ 
+
+33
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Pig. 3 shove measured values of local scattering characteristics of an ideally
+conductive cylinder of length 51 and radius x. diagrams of the effective scat-
+tering surfaces of scattering centers. and also the results of modeling (using
+weighting function (19)). The estimate of the rms deviation for the experimen-
+tal values of the local scattering characteristics was 1.8 dB. In addition
+
+to the error of the method itself. which in the given case was 0.5 dB. the
+overall measurement error includes components due to background reflections
+
+in the snachoic chamber. signal fluctuations in the reception and transmitting
+channels. nonideslity of isolation between polarisation channels. etc. thus
+the error of measurement of local scattering characteristics introduced di-
+rectly by the experimental facility is approximately 1.3 dB.
+
+For H-polarisation (Fig. 3b). the results of theory. modeling and experiment
+coincide within the limits of the total measurement error. In the case of
+B-polarization (Fig. 3a). the discrepancy between data of modeling and experi-
+ment (especially noticeable for scattering center 1) can apparently be attrib-
+uted to the approximate nature of the initial formulas. The absence of ex-
+perimental values of the effective scattering surface of scattering center 3
+(Fig. 3a) is due to the fact that the intensity of its image did not exceed
+the level of the general background.
+
+In summing up. we can draw the following conclusions. for measuring the
+
+local scattering characteristics of various objects. it is advisable to use
+
+an ideally conductive cylinder of finite dimensions as a reference standard.
+An edge wave method is used to get analytical expressions for this cylinder
+that describe its local scattering properties and ensure satisfactory coinci-
+dence of theoretical and experimental results. In virtue of the approximate
+nature of the resultant formulas in the case of B-polarisstion. only the char-
+acteristic of the scattering center situated on the joining between the illu-
+minated end face and lateral surface of the cylinder can be used for refer-
+encing. The algoritha developed for digital modeling of the radio holographic
+process for reference objects enables verification of the efficacy of the
+measurement facility. evaluation of instrumental error of measurement and
+
+the error introduced by the method of Fourier radio holography itself. The
+potential accuracy of measuring local scattering characteristics can be im-
+proved to 0.5 dB by using spodization on the stage of reconstructing the image
+of the object.
+
+The proposed algorithm can also be used to solve the following problems:
+
+I) determination of the permissible extent of action of various distorting
+factors on accuracy of measuring local scattering characteristics;
+
+2) selection of optimum parameters for recording radio holograms;
+3) investigation of different methods for digital processing of radio holo-
+
+grams for the purpose of correcting and eliminating distortions. improving
+the signal-to-noise ratio. implementing spatial filtration. etc.
+
+34
+
+non OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+WC“
+
+1. Ufiatsev. P. Ya., "Hetod krayevykh voln v Eizicheskoy teorii difraktsii"
+[Edge Have liethod in Physical Diffraction Theory]. Moscow. "Sow. radio".
+1962.
+
+2. Zinov'yev, Yu. 8.. Pasmurov. A. Ya. in: 'Teoriya difraktsii i
+rasprostraneniya voln. VII Vsesoyusnyy simposium po difraktsii i
+rasprostraneniyu vein. 3. Rostov-na-Donu. 1977. Kratkiye teksty dokladov"
+[Theory of Wave Diffraction and Propagation. Seventh All-Union Symposiua
+on Have Diffraction and Propagation. Rostov-na-Donu. 1977. Abstracts
+of Reports]. Vol 3. Moscow. 1977. pp 279-282.
+
+3. Popov. s. A.. Rosanov. I. A.. Zinov'yev. Yu. 8., Pasaurov. A. Ya. in:
+'ﬂaterialy VIII Vsesoyuznoy shkoly po golografii" [Materials of the Eighth
+All-Union School on Holography]. Leningrad. 1976» PP 275-297.
+
+to. Zinov'yev. Yu. 8.. Pauurov, A. Ya.. PIS'MA V ZWAL TWICHESKOY PIZIKI.
+Vol 3. No l. 1977. pp 28-32.
+
+5. Bergland, G. D.. mm 39mm. Vol 6, No 7, 1969. PP 41-67.
+unc 621.391.156
+
+FUNCTIONAL CAPABILITIES 01’ Dr. 'ICES WITH OPTICAL FEEDBACK
+
+[Article by V. B. Astaf'yev]
+
+[Text] An examination is made of the functional capabili-
+ties of devices vith optical feedback. It is shown that
+
+the increase of inforsation input to devices with optical
+feedback that realize transformations in the spatial co-
+ordinates of the device is limited by the time required
+
+for the optical signal to pass through the optical feedback
+circuit. A further increase in the rate of information
+
+input enables expansion of the functional capabilities of
+
+the device with optical feedback by synthesis of an optical
+digital filter. The weighting coefficients of optical digital
+filters are functions of two arguments and act on the spatial
+characteristics of the optical signal propagating in the
+optical feedback. In this way it becomes possible to process
+three-dimensional information in which one of the coordinates
+is time. while the other two correspond to the spatial co-
+ordinates of the device.
+
+The development of optical data processing is determined both by the develop-
+sent of an element base of optical computer facilities, and by expansion of
+the class of optically realizable transformations. Devices uith optical
+feedback have enabled expansion of the algorithmic capabilities of optical
+
+processors. Devices with optical feedback can be used to synthesize a real-
+tiae amplitude-phase filter [Ref. 1]. to synthesize an inverse filter (Ref. 2],
+
+35
+
+FOR OFFICIAL L'Sb‘. ONLY
+FOR OFFICIAL USE ONLY
+
+to eliminate multiplicative interference [Ref. 3] and nonlinear transformation
+of images (Ref. a], to solve Prehohn'a integral equations of the first kind by
+synthesis of Wiener and Tikhonov filters and by the iteration method lief.
+5-7], and to solve Predholm's integral equations of the second kind [Ref. 5.
+6, 8].
+
+The widespread opinion that the rate of data processing in optical computing
+devices is limited for practical purposes only by the the time of data input
+(Ref. 9] is not completely valid in the case of devices with optical feedback
+at high rates of data input since the time for feeding information into a
+device with optical feedback may be comparable with the time that the optical
+information signal is in the device repeatedly passing through the optical
+feedback circuit; furthermore, delay of the optical information signal in
+
+the optical feedback circuit does not lead to simple time shift of the pro-
+cessing result as is the case in devices without optical feedback. Thus in
+realizing transformations [Ref. [-8] the time of information input (and there-
+by the time of transformation) must be greater than the quantity NT, where T
+is the time required for an optical information signal to pass through the
+optical feedback circuit, N is the number of passages of the light through
+
+the optical feedback circuit that are taken into consideration in synthesizing
+the transformation; T-ILoc/c. where Loc is optical length of the optical feed-
+back circuit. c is the speed of light.
+
+On the other hand. in the case of matching the rate of information input to
+the delay T of the optical signal in the optical feedback circuit, the possi-
+bility is opened up for expansion of the functional capabilities of the device
+by using a time coordinate in addition.
+
+8 3'4” a 02 e: Let us consider the device shown in the diagram.
+which is analogous to a device with optical wedge
+in the optical feedback circuit [Ref. 6].
+
+     
+
+Device with optical feedback:
+01-05—-Fourier transformation
+lenses; Kn-optical wedge; P1
+and P;-—input and output planes;
+P2, P5. P3 and P5-- frequency
+
+a —0 . and object planes respectively
+
+The device is a correlator of diffraction type (Ref. 9] consisting of Fourier
+transformation lenses 0; and 02 with the addition of a feedback circuit formed
+by mirrors 3;. 32. 33. at and Fourier transformation lenses 0;. 0.. 05. Opti-
+cal wedge Kn is introduced in the object plane of the optical feedback circuit
+to shift the optical beam by an amount Aux in the space frequency plane. A
+plane-parallel plate inclined to the optical axis and located in the frequency
+plane of the optical feedback circuit can also be used as an element for shift-
+ing the beam by the ampunt [Aux].
+
+Let the distribution of light in plane P; be equal to S(x, y. t), and let
+the transmission of transparencies be An(mx. my) in plane P2. and 3n(”x' my)
+
+36
+
+FOR‘OFFﬂﬂAl.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+in plane P5 or P5. transparencies A3(. ) and Bub, -) being localized in the
+neighborhoods of points “‘x' nAmxa “’x" (n- mm“ respectively. and being
+
+of size Aux x Amy, where Aux and My are the dimensions of the spatial spectra
+of signal 80:. y. t) along coordinates x and y respectively. The transmission
+
+of the optical wedge is equal to exp (iAuxx). Then the distribution of light
+in the output plane P3 is equal to
+
+3&1; {ll/30:2e50/i new ”I”; J/ngij, (1)
+
+0:0
+where £01) is an operator equal to
+
+14:: 5/!) 1’)” ‘ﬂ”;f) 047(0177:
+- Isa/20994,? Hip/r tar) //,/p)
+
+4’ ”(5’) is the inverse Fourier transform of function Kuhn,“ my) .
+
+/(/al,.gu): “I n/“fn‘5J6 /M;“'Mz/“5a‘f)"' 6/901"
+= ”Ir/“30“?) ’78 a(“’n")'
+
+I’ll
+
+The factor exp (inwa;» in (i) arises as a consequence of the optical wedge
+in the object plane of the optical feedback, and leads to nonlinearity of
+the optical system as does any transparency in the object plane of the optical
+feedback circuit [Ref. lo]. Asst-lug the influence of the phase factor is
+
+eliminated by one of the methods given below, (I) is transformed to the fol-
+lowing expression:
+
+”(ﬁll
+5:” (nu/,0:- >31, III/Ix), (2)
+
+["0
+
+that dcscribes a linear system with transfer function
+
+(Mi/J I”): ”I” n‘ﬁ'yhyﬁngnﬂ, (3)
+
+I" a
+
+where w: is the angular time frequency.
+
+Expression (3) is obtained from (2) by triple Fourier transformation of both
+sides of the equation with respect to coordinates x. y. t.
+
+Comparing transfer function (3) with the transfer function of an electronic
+digital filter [Ref. 10]. which takes the form
+
+KM) 1“; K” «so/"M ~77.
+
+we can treat the system with optical feedback as an optical digital filter
+that is an optical analog of the electronic digital filter. the weighting
+
+37
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+coefficients in front of factors exp(-iutn1‘) in the optical digital filter.
+In contrast to the coefficients of the electronic digital filter. being func-
+tions of the spatial coordinates ax. my.
+
+The analogy between optical and electronic digital filters shows up most com-
+pletely when
+
+”a; {“fn‘ﬁ": (I/oﬁ‘w “”IO/m-
+
+'l'hen
+
+K/u“ I arﬁ’y/i I "/aq, l/(yaﬁ ,wnro)(7g/.,;.’nij
+
+0:0
+
+In this case. the digital filter realizes st—ation of the weighted signals
+80:. y. t) shifted not only with respect to time coordinate by n‘l'. but also
+with respect to space coordinate by nXo.
+
+If Auk-0 (no optical wedge in the object plane in the optical feedback cir-
+cuit). the transfer function of the system takes the form
+
+/(MM$~;“4)= 35.; many/6 ”m.«g,;ryw.~7/=
+
+= w... (a)
+- [fag ,[a’pﬁ 1 'u/( )7
+and corresponds to a recursive optical digital filter of first order. Let
+
+us take up methods of compensating the phase factor in sum (1). We note that
+if wa-O. this problen does not arise.
+
+l. Incoherent smation of lminous fluxes in the output plane [Ref. 14].
+In this case the coherence length ‘10 rof the light source mst be less than
+Loc. The class 0‘ transformations in rspatial coordinates is fairly narrow.
+
+2. Multiplying the spatial spectrum of light distribution in the output plane
+
+P; with subsequent filtration using a spatial slit filter of size [-Aux/Z,
+Aux/2] by the algoritl'n
+
+5“,] MjﬂF {3.3" (r, ,I)Ze1;o/-.hu; 9}”.- "‘7" an
+295.2? W" In W W’ 3’7'wJ/W3'L‘iz’3/QMJ
+
+N ma
+where’z’ﬂflwﬂgaﬂs the transmission function of the spatial spectrum mul-
+
+tiplier. The condition onr>Loc must be met.
+
+38
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+3. The holographic method of owning light fluxes lief. 71. A special case
+of the holographic method is heterodyning. by using a device analogous to
+that in the diagram (p 36) and including a tile modulator for shifting the
+frequency of light by an amount (ago. a fan of reference light bans is pro-
+
+duced
+_ .
+i cyzxnueuxwmua, m
+
+080
+
+that are combined with information signal (I). each intonation light flux
+appearing in sun (1) corresponding to a reference heme in sun (5) that is
+collinear and coherent only to that particular flrnt. Quadratic detection
+
+of the output signal at each point of the output plane by a photocell with
+subsequent electronic filtration of the time signal using a filter with trans-
+mission center on. ensures electrical st-nation of the terms of sun (2).
+
+In this case it is necessary that LK°,<L°c.
+
+The base of the three-dimensional signal to be processed in a device with
+optical feedback is determined by the product of the signal base with respect
+to the time coordinate and the signal base with respect to space coordinate.
+The base of the signal being processed with respect to time coordinate is
+determined by the nunber of filters located in plane P2 and is equal to the I.
+Since 8+1 and N filters are situated in the respective frequency planes P2
+and P! of the device. the information capacity in spatial coordinates of a de-
+vice with optical feedback is IHI times less than that of a device without
+optical feedback. Thus the information capacity with respect to time and
+space coordinates is redistributed in the device with optical feedback. The
+quantity N is limited chiefly by losses of light in the optical feedback cir-
+cuit. Inclusion of an optical wedge in the output plane of the optical feed-
+back circuit enables use of a mirror with reflectivity near 1001 as mirror
+
+3.. by oblique input of the optical been into the optical feedback circuit
+[Ref. ’0]. which considerably reduces light losses. Besides. an active aediu
+can be used for light amlification in the optical feedback cirCuit lief. 2].
+In case of necessity. the luminous fluxes that pass through the optical feed-
+back circuit can be equalized in intensity in plane P2. where N is determined
+by a reasonable value of efficiency of \tiliaation of the power of the light
+source.
+
+The time for passage of a light signal through the optical feedback circuit
+at LOCI-2 m. c- 3 10 ' m/s. is 6.7 us. which corresponds to an upper limit-
+ing time frequency of the signal introduced into the optical digital filter
+of 75 m2. whereas existing electro-optical and acousto-optical light modu-
+lators enable data input to optical computers with speeds in excess of 1 Ghz.
+
+Thus the time aspect when considering devices with optical feedback is useful
+since in the first place it enables estimation of the limiting speed of devices
+with optical feedback that realize transformations in spatial coordinates.
+and in the second place it opens up the capability for synthesis of optical
+digital filters that realize transformations of three-dimensional infomtion.
+
+39
+
+FOR OFFICIAL USE ONLY
+MWUSEONLY
+
+RIMES
+
+l. Gallagher. I. C... APPL. 01m. Vol 15. No b. 1976. p 882.
+
+2. Nagler. n. 0.. mm. on” Vol 10. No 2. 1971, p 2783.
+
+3. Mullet. 3.. Ruler. V.. on. cms.. V01 23. No 3. 1977. p 352.
+
+«'0. Mezlnnko. Ye. 8.. Sepktot. B. 1.. AWHA. No 3. 1976. p 98.
+
+5. Astaf'yev. V. 3.. "Daisy dokladov II Vseaoyutnoy shkoly po opticheskoy
+ohrabotke infernatsii" [Abstracts of Reports to the Second All-onion
+School on Optical Data Processing]. Gor'kiy. 1978. p 36; also in:
+"Opticheskaye obrsbotka infornatsii" [Optical Data Processing]. collection
+of papers edited by S. D. Gurevich. Leningrad. 1979. p 139.
+
+6. Vasilenko. G. 1.. "Teoriya vosstanovleniya signalov" [Theory of Signal
+Reconstruction). Noscow. "Sov. radio". 1979.
+
+7. Aataf'yev. V. 3.. "l‘ezisy doklsdov lll Veesoyuznoy shkoly po opticheskoy
+obrabotlri infomtsii" [Abstracts of Reports to the Third All-Union School
+on wtical Data Processing]. Riga. 1980. p 116.
+
+8. Auslender. A. I... Viahnyakov. G. N.. Levin. G. 6.. Stepanov. D. K” in:
+"Opticheskaya obrabotlta inforeatsii". collection of papers edited by
+s. D. Gurevich. Leningrad. 1979. p 107.
+
+9. Vasilenko. c. 1.. ”Golograficheakoye opornavaniye obrsrov" [Bolographic
+Pattern Recognition]. Hoscow. "Sov. radio". 1977.
+
+lo. Gonorovskiy. l. 5.. "Radiotekhnicheskiye tsepi i signaly" [Electronic
+Circuits and Signals]. Moscow. "Sov. radio". 1977.
+
+one 621.391.“
+
+SIGNAL AND mmcr A‘l‘ INPUT 0! ACOUS‘rO-OPIICAL SPECTRUM ANALYZER
+[Article by 8. V. Kulakov]
+
+[Text] The paper analyzes passage of a normal steady-state
+
+randoe signal and a useful signal through an electro-optical
+
+spectral analyzer.
+The acousto-optical spectrun analyzer (Lasbert analyzer) is attracting particu-
+lar attention in connection with the fact that it can be used for real-tine
+processing of radio signals with spectral width of several hundred NH: ("super
+wide-band signals") on carrier frequencies up to several Gilt.
+A large nuﬁer of papers have been devoted to studies of this device. which
+
+is shown sclneatically in Fig. 1. In particular. the following frequency-
+response function (response to a-action in the frequency region) was found
+
+40
+
+FOR OFHCIAI. [SE ONLY
+MWALIMONLY
+
+ 
+
+Fig. 1. Schematic diagram of acousto-optical spectra: ena-
+
+lyzer: l—coherent light source; 2--condenser lens; 3--
+
+collimator; b-acoustic light modulator; 5-integrating
+
+objective lens; 6--registration device (photodetector);
+7—piezoelectric transducer
+
+in Ref. 1. 2:
+
+7’ t
+
+. - - (M), VIM)
+
+61w»... é)-"”——ll—(“’ “”’ e’ e .
+' “Md:
+
+where ”as is the frequency of the harmonic input signal; 1‘- L/v is the dura-
+
+tion of the sample being analyzed: 1. is the dimension of the aperture of the
+acoustic light modulator in the direction of elastic wave propagation; v is
+the velocity of the elastic waves in the mediu- of acousto-optical interaction.
+
+(1)
+
+It can be easily demonstrated that when the passband of the acoustic light
+modulator is limited and the elastic waves are damped in the nodulator nediua.
+the frequency-response function is defined by the relation
+
+. .41.»); we»)! .61.: (am. ,1». «a» } ova-w)!
+. . -—-——- P
+
+where linouae) is the complex transfer constant of the piezoelectric transducer
+of the acoustic light modulator “(”30) is the frequency-dependent daQing
+factor of elastic waves in the median of acouato-opticel interaction.
+
+The frequency-response function of the analyzer enables us to find the output
+spectral distribution in accordance with the expression [Ref. 1. 2]:
+
+5,4140% 1'3/meiom . (a)
+
+61
+
+FOR OFFICIAL USE ONLY
+POI omcuu. [SE “V
+
+where 30») is the spectrun of an arbitrary input signal ; §m(e.t) is the
+instentaneoue output moth-3 Ac is the mduletion index corresponding to
+
+a harnonic input signal of unit anlitude. He will use this defining charac-
+teristic of the device to analyse tran-ission of tendon signals through it.
+
+For linear systene. including the Laden analyser at low input signal level
+lief. 2). the energy spectra end autocorrelation function of a tendon input
+signal are neat simply (and (let. 3. e].
+
+Let a continuous randon steadyostate (in the broad sense) ergodic process
+x(t) with nornel distribution law he sent to the input of the device. Its
+energy spectra. is Wu). autocorrelation function - Mt). end variance -
+0‘. Let us find analogous characteristics of a rando- signal in the output
+plane of the analyzer. i. e. in the spatial frequency plane.
+
+Let us isolate one realization of the randon signal x1“). Its spectral den-
+sity is
+
+'~
+
+,
+$;(w)'/ ”£109” a". a.)
+
+In accordance with (3). the spectral distribution in the output plane of this
+realization can be written as follows:
+
+-. ‘.._._.
+
+sits-(“0' 4' 5.14.) 5W. m, 4) dun . (5)
+u I.
+
+Relation (5) defines the instantaneous spectrum of realization 11(t). lists
+the duration of the eenple being analyzed is T-L/v. It is obvious that
+giant“, t) varies in a rando- wey fron one realisation to another.
+
+Let us find the square or the nodulus (5):
+£‘ 0. - ‘ i I (6)
+. I ' -' l I I
+Ste-WP i‘MM‘ﬂmm 0' 7174f] $;(ou)4(vq)ém u’u,‘)«§(“’.“’u. 044, We.
+(here and below * is the sign of complex conjugation). Let us carry out sta-
+
+tistical averaging in (6). In doing this. we consider the fact that operations
+of integration and averaging are cc-autative.
+
+Thus we have
+t e- I.
+
+l k . I s .; . , 0 I o
+< s. (a. 0 3,77 / I <5. (Mammamt‘w, <7)
+.- 0- -
+(As a consequence of ergodicity of the process. averaging over the set of
+realizations is replaced in (7) by tine averaging within the limits of one
+realisation of duration 1'). We note than in accordance with Ref. 3 (p 90)
+1.2
+
+FORWUSEONLY
+P0. “MAL USE ONLY
+
+23.-mém>-uﬂv’-J7w(i§5) , (a)
+
+where "0») is the energy spectra of the input signal. Mstituting (8) in
+(7) and carrying out integration over age. we have
+
+ 
+
+ 
+
+ 
+
+(simhk‘ﬁ; I ‘ ' ‘ ‘
+.J-i / w(u.)é(«zou.o&m«-u,om-
+u ,, (9)
+"' e
+. f; wank-WNW.
+For steady-state processes (9) can be written as
+_. - ‘n w ..
+v4.1») - 3‘17] wwm‘hmawéoh. (10)
+
+a”
+
+where wmm) is the energy spectrue of the randon output signal; ¢;(w. «’35)
+is the aperture-frequency function of the sodulstor.
+
+The aperture-frequency function is obtained by dropping cofector e’J (to-use)!
+in (2). and it depends on am“). the shape of the aperture of the acoustic
+light nodulator. end the bandwidth of its piezoelectric transducer. For the
+centered processes with which we are prilsrily concerned. the variance is
+
+ 
+
+ll
+
+Thus (9). (10) and (ll) define the statistical cherecteristics of a randoe spa-
+tial signal in the output plane of the analyzer. Since this is a linear de-
+vice. when the input process is nor-a1. the output signal will also have nor-
+nal distribution. The sutocorrelation function of the output signal in ac-
+cordance with the Hisner-Khinchin theoren will be defined by the Fourier trans-
+forn of (10). In this operation. it is necessary to convert to spatial fre-
+quencies u; by the substitution (Ref. 2] u-uzv.
+
+6}..- ' / whim/a! . (11)
+
+Let us now find the signel-to-noise ratio in the output plane of the analyzer
+and at the output of the photodetector. Each point of this plane situated
+on the spatial frequency axis can be treated es an individual optical output
+of the device. while the photodetector (see Fig. l) trensfores the optical
+output signal to an electric signal.
+
+Let us assue that a photodiode netrix is used as the photodetector. Such
+extraction of the optical output distribution can be used in analyzing periodic
+signals or signals with slowly changing spectra.
+
+when photodiodes are used to transforn the optical output eignsl to an elec-
+tric signal. linear detection of the noduleted luninous flunt takes place.
+
+#3
+
+5‘0! OFFICIAL USE ONLY
+“OFFICIALUSIONLY
+
+Thus the electric output signal is proportional to the square of tho enli-
+tude of tho light wave at a given point in the output plane. here the naming
+of ”point in the output plane" is arbitrary since the luinous flux to one
+ele-ent of the photodiode ostrix nanotos fro. sons stall area. latent.
+
+this "point" concept can be used if the size of such an area on the spatial
+frequency axis does not exceed the extent of one el-snt of resolution
+
+Afp- 1/1. The under I of olenents of resolution is usually deter-ined fra
+the relation
+
+ll
+Mutt/757‘,- v (12)
+
+where 2“; is the hand of simultaneous analysis.
+
+The useful signal at the J—th point of the plans is dotsrnined by the her-onic
+component of the input siml of frequency a . Interference at this point
+depends on the conponent of the rando- signs at the input of forn
+
+0-m- flaw/a}! ‘ $11)) ’ (13)
+
+where A1 (t) and 01(t) are randon processes with distribution laws that in
+the general case are different fron nor-a1.
+
+Thus the signal-to-noise ratio at the j-th point of the output plane of the
+analyzer andsisbon its j-th electric output can he obtained by ex-ining
+the tranuission of an additive nixture of useful hot-Ionic signal and a ran-
+dos signal of type (13) through the device. i. e. the signal
+
+e,/¢)- Val/e) tau/I, (11.)
+
+He disregard the set noises of the analyzer. asstning that conditions are
+not that appreciably reduce their level Ref. 5]. Let us assme that the
+interference at the input of the device is a steady-state rando- ergodic pro-
+cess with norsal distribution law. and U0»). Oh) and 0,.
+
+Let us also sssuoe that signal (13) is likewise a normal steady-state ergodic
+process met. lo]. At a low level of signal (13). we get narrow-band random
+light fluctuations of frequency uc3+uj (or u¢,- )also with a nonal dis-
+tribution law (”cs is the light frequency of the coarsnt light source). Let
+us determine the variance 03 of these oscillations. ln virtue of additivity
+of the variances of conponents of the tendon spatial signal in the output
+plane of the analyzer. finite resolution. and a limited mﬁer of elenents
+of resolution of the analyzer. we can write
+
+ 
+
+6,5, ad,“ 6.5 o8: - it?! (15)
+. ' l I
+where _ '
+1 I la
+6,- - 37mm»- A,“ . <16)
+and 266° - 2126(0.
+at
+
+FOR OFFICIAL USE ONLY
+FOIOFI‘IOALUSEONLY
+
+Considering (12). we have
+
+of - Malena. ' Wat-M)?" (m
+
+The lean square of the envelope of the rando- siznal at the j-th point lief.
+b] is
+
+< '9'.) ‘ “‘1" (la)
+
+The anplitude of the useful signal at this point of the output plane in ac-
+cordance with (13) is deterained by the relation
+
+1,. .4 11.3%] ”(w-watt“; 3509-1. % may). (19)
+
+Thus the signal-to-noise ratio (with respect to power) at the output of the
+i-th photodetector can be written in the following fora:
+
+A; . 3—. KM— , (20)
+. as}: «I; /: who; (4., .94..)
+
+Relation (20) shows that when the resolution of the analyzer is increased.
+there is an increase in the signal-to-noise ratio at its output. Such a con-
+clueion is readily explained. Actually. the higher the resolution of the
+device. the sore "nerrow~handed" is each of its outputs. And in narrow-band
+systems it is easier to isolate the signal tron the band noise.
+
+It can be readily shosm that in the case of white noise (Mu) His). relation
+(20) easily reduces to the for. a
+
+a ll '
+~ 7' 3
+.4; . 7‘- - . —— . (21)
+(q! ‘ W. ' M
+where 3 is the energy of a radio pulse of duration 1*. i. e. of the wk
+
+of the haraonic input signal deternined by the dimensions of the aperture
+of the acoustic light nodulator.
+
+ 
+
+Now let us find the signal-tomoise ratio at the output of the photodetector.
+To do this. it is necessary to consider the action on the quadratic photo-
+detector by an additive mixture of harnonic signal and narrow-band noise.
+
+1. e. a signal of the for-
+
+46/0-4oev(u&:*«¢)h4ﬂ)~€vdw41e>). <22)
+
+An analogous problem was solved for example in Ref. lo (see p 622). He will
+use the results obtained there.
+
+The variance of the output process is
+
+‘5‘... '° 4’: / 4:4. ’51“). (23)
+
+65
+
+MWLLBEONLY
+POIOII'I‘IGALIBEONLY
+
+where 0. ie a parneter that accounte for the propertiae of the photodetector
+and the cherecterietice of the luv-frequency filter that acte ea the load.
+
+The uaeful aim! ia
+
+U. 43 £21 (2‘)
+
+The eignal-to-noiae ratio at the output of the photodetector in
+
+l
+i. all—1131.?" , (25)
+
+Substituting (20) in (25) we get relatione for calculating the eisnal-to-
+noiae ratio on the j-th output of the analyzer.
+
+Let ue note that at low eipal-to-noiee retioe Inf. lo]
+
+3
+.14. . .40... . (26)
+93a- “9‘
+and at high ratioe ‘
+
+ 
+
+u ._I 121‘
+q‘. a (a ' (27)
+
+In the caee of white noiae at the input of the epectrun analyzer. the variance
+of the tendon eignal in the bend of analyeieuu. ie deternined by the relation
+
+6'" - (aﬁw. . (28)
+
+Then the eisnal-to-noiae ratio (with reepect to power) at the input of the
+analyzer can he written in the following fora:
+
+ 
+
+u. . u.
+at. “‘6“ . (29)
+
+Coneequent 1y
+
+I
+as:
+
+4.3251070” (30)
+
+- 2':
+rd}.
+‘l'hue the "narrow-hand filtration" that occurs in the apoctrun analyzer leada
+
+to inprovenent of the eisnal-to-noiee ratio at a given point of the output
+plane by a factor equal to the umber of ale-ante of reeolution of the device.
+
+46
+
+POI OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+WES
+
+l. Kulakov. s. V.. Hostalets. 0. 1)., Razehivin. 3. P.. "Sons Questions in
+the Theory of the Optical-Acoustic Spectra Analyser". mm mmeamooo
+INSTITIITA AVIA'I'SIGIIIOGO “WWA. No 64. 1969. pp 96-108.
+
+2. Kulakov. s. V.. "Akustooptichaskiye ustroystva spektral'nogo i
+korrelyatsionnogo analisa signalov" [neonate-Optical Devices for spectral
+and Correlation Analysis of Signals]. Leningrad. "Rania". 1978.
+
+3. ‘l'ikhonov. V. 1.. "Statisticheskaya radiotekhnika" [Statistical Electron-
+ics]. Hoscov. "Sov. radio”, 1966.
+
+lo. Gonorovskiy. I. 8.. "Radiotekhnicheskiye tsepi i signaly" [Electronic
+Circuits and Signalsl’. Moscow. Sov. radio". 1977.
+
+S. Preston.l(. . "Kogerentnyye opt'icheski'ye vychislitel'nyye sashiny" [Coherent
+Optical Computers]. Roscoe. "Mir". 1976.
+
+um 621.317
+FREQUENCY-RESPONSE FRICTION OF REAL ACOUSTO-OI’TICAL SPRTRUH ANALYZER
+[Article by V. V. holotok]
+
+[Text] The paper emines operation of an acousto-optical
+spectrum analyzer vith consideration of oblique incidence
+of a plane light wave on a light nodulator. attenuation
+and diffraction divergence of the elastic wave.
+
+The principal comprehensive characteristic of a spectrun analyzer as a linear
+device is its frequency-response function (Ref. 1]. i. e. the response to
+
+a d-action in the frequency plane. which corresponds to harnonic oscillation
+of unit amplitude. The input and output of a linear instrunent are related
+by the superposition integral. which for the case of a spectral instrulsent
+
+is written:
+
+5‘4»). ] 5,1w9j/u,u94w’,
+
+where go». u') is the frequency-response function. é“ 520») are spectral
+distributions at the input and output of the spectn- analyzer. The frequency-
+responae function of an ideal acousto-optical analyzer is described in Ref. 2,
+and takes the fora:
+
+(0 " .mt’II'N')
+9' "f' ) 4114’)?
+
+where T is the duration of tine sapling. This paper exanines only inter-
+action of a plane light wave and an undo-pad non-diverging elastic save for
+Roman-Hath or Bragg diffraction conditions. In real acousto-optical spectru-
+
+ 
+
+c¢t[!:f?v-aivl,
+
+67
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL [SE ONLY
+
+analyzers that have a band of analyeable frequencies of up to several hundred
+megahertz. apectma reproduction is influenced by absorption and diffraction
+divergence of the elastic wave. In this connection. we can no longer speak
+of a pure Bragg or Italian-Kath diffraction node since the angle of incidence
+of the plane light wave on the light modulator is adjusted to get a predeter-
+nined band of analysis. Therefore we vould like to get an expression for
+
+the frequency-response function of an acousto-optical spectrun analyser con-
+sidering the influence that diffraction divergence and attenuation of elastic
+waves as well as oblique incidence of a plane light wave have on the light
+aodulator.
+
+An optical diagran of an acousto-optical spectrum analyzer with arbitrary
+incidence of a plane light wave on the light nodulator is shown in Pig. 1.
+
+ 
+
+In the front focal plane of the collineting lens (plane x1) is. a point light
+source e(t. x;)- (n- xi) exp (jucet). where “c eis the frequency of the light
+waveforns. The light signals in the rear focale plane of the collineting lens
+(plane :2) are defined by
+
+ck x.)- j!!! 4'de —:m)dr.-«ww0'w 3,1: )7,
+
+where A is the wavelength of light. 1’ is the focal length of the collimating
+lens. Then the light nave incident on the light modulator can be written as
+
+elin.I)-‘9[/(«kf ' fab 994491WUMC’W ‘1‘")1
+
+where c and Rec are the speed of propagation and wave nunber of the light
+wave. 6 is the angle between the direction of the z-axis and the normal to
+the vavefront of the light wave incident on the modulator. That is. a plane
+light wave is incident on the light modulator at angle 8. This wave is nodu-
+lated by an elastic wave propagating in the aediun of interaction. that is
+excited by a piezoelectric transducer upon transnission of an electric wave-
+form. For determining the frequency-rotzponse function. such a waveform is
+
+a harnonic signal of unit amplitude. and an elastic wave
+
+8/¢,g). 34'» (J!- A 731-450],
+
+Ml
+
+FOR OFFICIAI USE ONLY
+FOR OFFICIAL USE ONLY
+
+propagates in the nediul of interaction of light and sound, where L-Iv-T;
+
+v and K' -(n'/V are the velocity of propagation in the medium of interaction
+and the wave number of the elastic wave. The light wave in the output plane
+of the light nodulator that forms the first diffraction order is defined as
+
+eo.(‘.;,!) ' ”/1:le omﬁi’O-qtyéaﬁéyq-d'xzi},
+
+where 8(K‘. e) is a weighting function that accOunts for the geosetry of
+interaction of light and sound. The weighting function H(K'. 0) describes
+the amplitude-frequency response of acousto-optical interaction independently
+of the node of diffraction. and is defined as [Ref. 3]:
+
+ 
+
+ 
+
+.-.. I
+
+ 
+
+am ' (moms-‘5 ,5 ,, ,
+m»- P? 1“” [lemme-)4.
+ﬁaumqsﬁku
+
+where i is the interaction length of light and sound. The light waveforms
+
+in the output plane of the spectrum analyzer (plane x;) are defined as the
+Fourier transforl of luainous distribution in plane X2. 1. e. the light signals
+in the Output plane of the spectrun analyzer in the vicinity of the first
+
+diffraction order are defined as
+
+411
+651/!.33)'j{ 55¢ﬂ%'*3)‘9’C/}ségl43‘5)46§ .
+«m
+
+. up {jw-M vwxvvasﬂ} ¥H(n'€’)ﬁ&40:'f)
+
+where go(w1. m3. u', t) is the frequency-response function of an ideal acou-
+sto-optical spectrum analyzer. Thus the frequency-response function of an
+acousto-optical spectrum analyzer with consideration of obliQue incidence
+
+of a plane light wave on the light modulator is defined as
+
+M. ‘4, N5!) - ”(40);.(4, ‘4,- wja) .
+
+ 
+
+Fig. 2 shows the results of calculation of the amplitude-frequency response
+of acousto-optical interaction for different angles of incidence of a plane
+
+49
+
+FOR1)FFN]AI.USE(MVLY
+FI”!(HHW(]AI.USEGJNLY
+
+light wave on the light modulator where the material of the interaction medium
+in mm, (z-z m. v-6.57°10‘ Inn/s, n.-2.2).
+
+An examination is made in Ref. «‘0 of the influence that daaping of elastic
+anes in the material of the median of interaction of light and sound has
+on the frequency-response function of an acousto-optical spectrum analyzer,
+i. e. the case is considered in which the elastic wave
+
+511,43). cyI-auﬂlx, oqunsmfu'é «I‘M v0.50]
+propagates in the interaction median. where 0.0.52) is the coefficient of daup-
+
+ing of elastic waves in the material of the interaction medium, e§-;;‘/v is
+spatial frequency. 0.SL< 3:60.51. [sic]. The frequency-response function of
+the acousto-optical spectrum analyzer with consideration of damping of elastic
+
+waves in the material of the interaction medium is defined by
+- I I ‘0 tdhﬁﬁjh' ":3 I
+a! - L— --,-L usual-ml
+M4 . ) WEN.” M.” 0'1“ )u apt/L
+
+Considering that over a broad frequency range the absorption of elastic waves
+in solids is a square-law function of frequency. 1. e. 01(0),") -I‘f'2. the
+frequency-response function of an acousto-optical spectrum analyzer can be
+written as
+
+, ' cam/£- l/- 77‘ ,
+WM'WW’” Ekﬁﬁg‘ﬂ/VJWWM
+
+In the case of snail elastic wave damping. i. e. 0.5rv‘rf'240. the expression
+for the frequency-response function with consideration of damping is written as
+
+ﬂail" ' 4""‘91W7/"Hi1(1.137).
+
+W94!
+
+4,... [77L
+
+'94-'91]
+
+    
+
+S
+
+ 
+
+Fig. 3
+
+Fig. 3 shows the results of calculation of the frequency-response function
+of an acouato-optical light analyzer with consideration of damping of elastic
+Haves by exact and approximate formulas (curves 1 and 2 respectively). The
+material of the interaction medium was PbHoOu (T- 5 us. v- 3.75-10‘ tun/s.
+
+r- 11.5 dB/cul 6112’).
+
+50
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In considering the diffraction divergence of the elastic waves. it is assured
+that z> h. where 9.x h is the area of the transducer. In this case the elastic
+
+wave can be considered divergent only with respect to the dilension h of the
+piezoelectric transducer. Then a wave
+
+83,24): [Inﬁmfvi‘ at": 'Vlzyﬂ
+
+propagates in the material of interaction of light and sound (Fig. 4; . where
+A(x. y). ¢(x. y) are the amplitude and phase of the wave excited in the
+interaction medium when a harmonic waveform
+
+of unit amplitude with frequency w' is ap-
+
+I
+m V ‘9 plied.
+:
+4!“ To deter-inc the saplitude and phase of the
+wave, we consider oscillations (pressure
+
+Fig. lo change in the interaction medium). Perturba-
+tions of the interaction medium caused by the
+
+transducer can be defined as [Ref. 5]:
+a.
+. I A’ZZCZZ‘
+:r - ‘ J c ‘ d
+J’iﬂml/ﬂﬁdl 1: 1.?»
+where A is the wavelength of the elastic Have, f(y) is the pressure distribu-
+
+tion over the transducer. We assume that pressure distribution over the
+transducer is uniform, i. e.
+
+ 
+
+’0 'ilﬁ £- -
+
+f - ,
+
+(y) {0. '7“?-
+then
+
+’ “ . 7 1 s
+ﬂ‘w'm'L whiff/114,.
+.41“; {Ir-7t.) cm» 715(5)- s(r.)J] uél/w’hﬁijﬂ
+
+where
+
+‘ , L a: -
+New); To- a“? w
+'
+Cl!)- 1 an (ﬁg-74.x is the Fresnel cosine integral;
+
+I ‘ '
+5(3) 0 / lin(—’i-t-—)n/x is the Fresnel sine integral;
+
+'”/'vr7"{l‘/*->-¢m>1“tsm-wfff «ma-MI? 73%
+
+51
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The given elastic wave interacts with the plane light wave incident on the
+light nodulator. The light signals in the output plane of the spectrum ana-
+lyzer in the region of first diffraction order are defined by
+
+t 4’4
+e,,/w._«,,¢). egof/(Mtllb’ﬂl/l mﬁaypmm
+a 1“
+
+"'f U1“: '4’ 7‘} (“P/ﬂ"; 174-? ~a’y'.
+
+This expression defines the frequency-response function of the acousto-optical
+spectrun analyzer with consideration of the diffraction divergence of elastic
+waves. Direct calculation of the function fro. the derived formula involves
+
+calculation of triple integrals since the amplitude and phase of the elastic
+wave are determined by Fresnel integrals. Therefore to reduce the multiplici-
+ty of the integration we use a representation of Fresnel integrals in the
+
+form of suns (Ref. 6]:
+
+ 
+
+      
+
+0, lxlcqn; ‘
+Jun! - 3’ -350 ' .
+51x). ”TH—3r *3"; T!) “"4“”.
+“I!
+05- I: > 4:!
+o W p I O
+we
+“hi-5:3" , |x|3415mra.!j§5
+(7:) s C .
+m 52—: -‘—"§5 , Luau.
+W“ ------ 5,3)
+45
+so
+a:
+d—A—l—b—l—‘J a:
+a u 4‘ a u 1.6
+Fig. 5
+
+For negative values of x: c(-x)--c(x); s(-x) --s(x). Fig. 5 shows the re-
+sults of calculation of Fresnel integrals by the exact formula (curve I) and
+by the approximate formula (curve 2).
+
+52
+
+FOII OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+1. Khurgin. Ya. 1.. Yakovlev. V. P.. "Pinitnyye funktsii v fizika i tekhnibs”
+[Finite Functions in Physics and Engineering]. lioscov. "lauka". 1971.
+
+2. Kulakov. s. V.. "Akustoopticheskiye ustroystva spektral'nogo i
+korrelyatsionnogo analiza signelov" [Acousto-Optic Devices for Spectral
+and Correlation Analysis of Signals]. Leningrad. "Hausa". 1978.
+
+3. Cohen. H. 6.. Gordon. B. J.. "Acoustic bean Probing Using Optical Tech-
+niques". 1112 321.1. srsrm TECHNICAL JOURNAL. April 1965. pp 693-721.
+
+6. Holotok. V. V.. Rauhivin. V. P.. "Influence of Acoustic Wave Damping
+on the Characteristics of Acousto-Optical Spectrum Analyzers" in:
+"Akustoopticheskiye metody i tekhnika obrabotki informatsii" [Acousto-
+Optic Hethods and Data Processing Techniques]. Leningrad. 1980.
+
+5. Papulis. A.. "Teoriys sistem i preobrazovaniy v optike" [Theory of Systems
+and Transformations in Optics]. Hoscow. "Mir". 1971.
+
+6. Abramovits. it. Stigan. I. It. editors. "Sprevochnik po spetsial'nym
+funktsiyam" [Handbook on Special Functions]. manta", 1979.
+
+000 621.396:S35.8
+
+STATISTICAL CHARACTERISTICS OF ACOUSTO-OPTIC RECEIVERS 0? LONG PSBUDORAM
+SIGNALS
+
+[Article by A. V. Kuzichkin]
+
+[Text] An exaaination is made of the problem of finding
+pseudo-random signals from code sequence delay by using
+
+a system comprising an acousto-optic convolver and recircu-
+lation delay line. Expressions are obtained for the proba-
+bility of correct determination of the time position of
+
+a pseudo-rando- signal and the average duration of the sig-
+nal detection procedure for the case of reception against
+a background of white gaussian noise. It is assumed that
+the duration of the received signal considerably exceeds
+the tine of signal delay in the region of acousto-opticsl
+interaction of the acousto-optic convolver.
+
+Correlation reception of pseudo-random signals is one of the most promising
+areas for using acousto-optical processors. The interest that has arisen
+
+in the design of pseudo-random signal receivers based on acousto-optical pro-
+cessing systems can be attributed primarily to the comparative simplicity
+
+of realization by using algorithu of matched filtration of pseudo-random
+signals under conditions of considerable uncertainty in the tine position
+
+of signals to be received. Fro- the standpoint of maxiniring flexibility
+
+in adaptation of receivers to changing conditions of pseudo-random signal
+reception. it is advisable to make the processing systen in an acousto-optic
+
+53
+
+FOR OFFICIAL USE ONLY
+POI OFFICIAL use MY
+
+convolver arrangensnt lief. l] in which the processing algoritl- is restruc-
+tured by changing the lav of for-etion of the reference signal.
+
+In the general case. the acousto-optic convolver is not a processor that is
+invariant to the tine position of the signal to be processed. however. if
+the duration of the received signal does not exceed the tins of delay ('1'.)
+of the signal in the region of acoueto-optical interaction of the aconeto-
+optic convolver. then detenination of the tile of pseudo-rando- aignsl ar-
+rival can be ensured for practical purposes within a single reception cycle
+at the expense of slightly increased complexity of the receiver and the use
+of continuous-wave transsission of the reference signal. Unfortunately in
+nest actual cases the pseudo-randon signal duration is considerably greater
+than tine 1.. To eliminate the energy losses that arise when processing such
+signals in an acouato-optic convolver. the output responses of the convolvsr
+are accumulated by using recirculation delay lines [Ref. 2] or photo-060's
+Inf. 3]. As a result. the acousto-optic receiver loses the capacity for
+searchless deternination of pseudo-randon signal arrival tins. and requires
+the use of special synchronization procedures (Ref. 5].
+
+This paper evaluates the statistical characteristics of procedures of pseudo-
+randoa signal search and processing by using an acousto-optical receiver con-
+sisting of an acousto’optic convolver and recirculation delay line. A block
+
+ 
+
+Fig. l
+
+diagral of the device to be analysed is shown in Fig. l. where R86 is the
+reference signal generator. AD!) is an adder. Di. is a delay line, MP is an
+aaplifier. cc is a gating circuit that cuts off accuulation of the output
+signal of the acousto-optic convolver IMO. and m. is the recirculation delay
+line]. The choice of the recirculation delay line as a cmulative elenent
+
+is dictated by the fact that in any cases the use of a recirculation delay
+line gives the required accu-Ilation interval (up to a few nilliaeconds).
+
+and realization of an acousto-optic receiver vith recirculation storage is
+
+far simpler than for a receiver with photo-CC!) storage.
+
+In the nest general case. the procedure of searching for pseudo-random signals
+by using an acousto-optic convolver with recirculation delay line consists
+
+in sequential step-by-atep correlation analysis of the signal being received
+at different delays of the reference signal. The decision on detection of a
+
+54
+
+FOR OFFICIAL USE ONLY
+MWLIISEONLV
+
+acouato-optic convolver is node with respect to the maxim output signal
+of the recirculation delay line after analyzing the entire region of tanporal
+uncertainty of the signal being received.
+
+BValuation of the statistical characteristics of pseudo-randon siml detec-
+tion by an acousto-optic receiver of the given type will be based on the
+following quite general assumtions.
+
+l. The size of the region of acousto-optical interaction of the convolvsr
+is selected in such a way that a whole nmer of recirculation cycles 1- Tc/T,
+is required for processing a pseudo-rando- signal of duration Tc.
+
+2. The signal arriving at the receiver input is for-ed by pseudo-undo. signal
+repetition formed in accordance with a law of the sac pseudo-random sequence.
+
+3. The reference signal sent to the acousto-optic convolver is for-ed by
+breaking dorm the initial pseudo-randon signal into [nisaing letter] «pants
+of duration I; each.‘ and by tine inversion of the resultant sag-ants.
+
+lo. The beginning of the recirculation period coincides with the beginning
+of the first sepent of the reference pseudo-rando- signal.
+
+Let us use the symbol AT to denote the time nianetch between the beginning
+
+of the received pseudo-rando- signal and the beginning of the reference pseudo-
+random signal. In doing this. we will scene that if the input siml leads
+the reference signal. AT<0. while if the input signal lags. A190 (IATI‘Tc/Z).
+
+He can readily see that the output correlation peak of the recirculation delay
+line and the time of its appearance are linearly dependent on the instantane-
+ous value of AT. and are determined by expressions of the form
+
+3 - t.“ - UPI/2?.) : (1)
+“.t-.f/z, -- (2)
+
+where C. is a proportionality constant and At is the interval between the
+beginning of the reference signal and the occurrence of the correlation peak.
+
+The principal characteristics of a correlation receiver operating in the node
+of pseudg-randon signal search are mean duration of the signal detection pro-
+cedure (To) and probability of correct determination of its tine position
+(Pup). we will find these characteristics for the most typical case of inco-
+herent reception of pseudo-tendon signals against a background of gaueaian
+white noise with zero average and correlation function of the form whom-:1).
+
+The average tine of pseudo-random signal detection by the slgoritll considered
+in this paper will be found as
+
+1'. - u, «nu-map ...rs1'.(i-P.,)H9q - t/e. '. “173. (3)
+
+55
+
+FOR OFFICIAL USE ONLY
+”WISEONLY
+
+here '1'. is the duration of the procedure of analyzing the output signal of
+
+the recirculation delay line in investigation of the entire region of moral
+uncertainty of the pseudo-rando- signal being received. The quantity 1.
+
+is determined by the duration of the received signal. the tins of delay of
+
+the signal in the acousto-optic ccnvolver. the amber of recirculation cycles
+required and the search step AT. (i. e. the tine shift of the reference signal
+of the acouato-optic convolver in step-by-step exanination of the tone of
+possible tine position of the pseudo-randa signal):
+
+t - tT,I/a1'..
+
+In this paper the statistical values are analysed for two values of the search
+step: AT-1 -'r, and Al"; - 21's- 'l‘he selection of just these values of or. is
+dictated by the following factors.
+
+1. To get correlation peaks at the output of the recirculation delay line
+with anplitude at any initial tenporal nisnatch or that would be sufficient
+for coqarativaly successful detection of pseudo-randon signals against a
+background of intense noises. relation (1) tells us that the condition
+
+s’o ‘ 81'.
+
+must be set.
+
+2. Displacenent of the reference signal by an mount that is a nultiple of
+‘l', considerably sinplifies realization of a tunable reference pseudo-tendon
+signal generator and a generator control systen.
+
+In the case of search for signals with step arm- 1". the procedure for anal-
+ysis of the output signal of the recirculation delay line takes up tine inter-
+val ‘l'un‘rck. and in searching for the tine position of the pseudo-tendon
+signal with step 61.: '21,. the duration of the analysis procedure is equal
+to “fulﬁl/2. In the case of search with step 1', for analysis tine 1'31.
+four signal correlation peaks will be observed at the output of the recircu-
+lation delay line. uhereas there vill be inly tvo correlation peaks in the
+case of search with step 21', for analysis tine r“. The occurrence of such
+a masher of correlatic. peaks is due to the fact that for the given search
+steps the tenporal nisnatch between the received and reference signals falls
+within the principal correlation region given by (l) (IA‘l‘I (21's) several
+tines (four times for Mm -l', and twice for A‘rgz- 21,). Then since the tine
+position of the signal being received can be deternined froa the
+the of occurrence of any signal correlation peak. probability Pup is found
+as the probability of detecting at least one correlation peak:
+
+0
+
+PIN ' 1-9399.) '- (a)
+s
+
+P”. . ‘- n (‘-P‘) . (5)
+
+H
+where P! is the probability that the anplitude J of the signal correlation peak
+is greater than anplituda z of all noise spikes at the output of the recircu-
+lation delay line.
+
+56
+
+F0! OFFICIAL USE ONLY
+FOR OFHOAI. USE ONLY
+
+In the case of incoherent reception of e pseudo-radon signal
+- 3 a
+R ' .IMM [mun] a , (a)
+s
+
+where
+
+a"
+
+II is the total umber of noise spikes (li- S-l. for um and h-B-Z for 413:);
+B is the base of the pseudo-radon signal; ninth/m; 33 is the energy of
+
+the signal that yields a correlation peak of napitude J at the output of
+
+the recirculation delay line; 190) is e nodified Bessel function of the first
+kind of zero order.
+
+Transforming expression (6) by a technique such as that described in “sf. 5.
+we finally set
+
+«I
+uu'[~(u‘o gall] 1,“,11‘1' 0 ﬂ 0!“ . (7)
+
+on“.
+
+"o
+
+where u- J/ho.
+
+ 
+
+r13. 2 mg. 3
+
+Fig. 2 and 3 show the average tine of pseudo-tendon signal detection as a
+function of the signal-tomoise ratio hi for different values of the base
+
+of the pseudo-rando- signal with naxinun Iisnatch between the received and
+reference signals. The curves on Fig. 2 are plotted for a search step 1'3.
+and on Fig. 3 for a search step 21,. Fig. 4 and 5 show the way that ‘1'. de-
+pends on hi at large excesses of the signal over noise (1. 5- 4096. A‘l'm- 21";
+2o 5- ‘096. Arll'Tgﬁ 3. 5.512. AT-l'Zi‘g; ‘0 3-5‘2. ”1.31.1.3; 5. 5.163“.
+AT" -r,; 6. 5-16384. A?“ - 21“,). All calculations were done by fornula
+
+(3) with consideration of relations (4). (S) and (6). Analysis of the re-
+sultsnt curves shows that at conparatively low values of hi ((10-15) the
+
+57
+
+FOR OFFICIAL USE ONLY
+Formosan“
+
+ 
+
+6 an as a an :5 a :5
+Pig.6 Fig.5
+
+greatest rste of search of pseudo-rendon signals is reached st a search step
+equal to T3. In the case of signal reception at week noise levels (h3>20)
+
+it is advisable to use search with s step 21', for rapid determination of the
+tine position of psmdo-rsndon signals. The nesn duration of the procedure
+
+for pseudo-rando- signal detection is close to R'l'c/Z in this case, which is
+
+SIR tines faster then for the case of search using conventional correlation
+
+receivers "Ref. 6].
+
+I.
+
+2.
+
+3.
+
+b.
+
+6.
+
+armors
+
+Kulskov. s. V” "Akustoopticheskiye ustroystve spektrsl'nogo i
+korrslystsionnogo analire signslov" [Acousto-Optic Device for Spectral
+and Correlstion Analysis of Signals]. Leningrad. 'Wauka". I978.
+
+Itorgsn. D. P.. liannnh. J. H.. "Surface wave Recirculstion Loops for Signal
+Processing". 1332 TRANS. SONICS AND mmrcs, Vol 25. No l. 1978. p 30.
+
+Sprague. R. A.. Koliopoulos. R. l... "Tine Integrating Acousto-Optic Cor-
+relstor". APPL. OPTICS. Vol 15. 1976. p 80.
+
+Kuzictdrin. A. V.. "Optical Processing of Couple): Signals Hith Unknown
+Tins Position" in: "Tesisy dokledov III Vsesoyuznoy shkoly po opticheskoy
+ohrshotke infomtsii" [Abstracts of Reports to the Third All-Union School
+on Optics]. Data Processinsl' Rigs. Psrt l, 1980. p 135.
+
+Viterhi. z. 0.. "Printeipy kogerentnoy svyszi" [Principles of Coherent
+(Io-nunicstions]. "Sov. rsdio". 1970.
+
+Tuzov. G. 1.. "Ststistichssksya tsoriye priyene slozhnykh signalov" [Ste-
+tisticel Theory of Couple): Signal Reception]. Hoscov. "Sov. radio". 1977.
+
+58
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 6213965318
+WSW-OPTIC CORRELATIM ANALYSIS OP emu SIGNALS vrm mom WC!
+[Article by A. V. Kuzichkin]
+
+[Text] A method is proposed and analysed for constructing
+acousto-optic correlation analysers that enable determination
+of the arrival timeand carrier frequency of complex signals
+with jming frequency practically within the limits of
+
+a single reception cycle.
+
+The solution of many problems in present-day electronics involves correlation
+analysis of signals of complex shape. The use of conventional methods of
+acousto-optic data processing Ref. 1. 2] enables correlation analysis only
+when the carrier frequencies of received and reference signals coincide. which
+considerably complicates processing of signals produced by codaining pseudo-
+random nodulation and stepwise change of carrier frequency [Ref. 3]. The
+case of frequency uncertainty of the received signal necessitates either con-
+siderable conplication of the acousto-optic analysis system, using a large
+number of processing channels with different reference signal carrier fre-
+quencies. or else considerable time expenditue; on determining the program
+for tuning the received signal.
+
+In the simplest case. rapid correlation analysis of signals with jusping fre-
+quency can be realised by repeatedly shifting the spatial carrier frequency
+
+of the reference signal fed to the input of an acousto-optic convolver, which
+in virtue of its advantages [Ref. 1) is the main elaent for acousto-optical
+processing of complex signals. The necessary displacement of the carrier
+frequency of the reference signal is most simply accomplished by an optical
+deflector placed in front of an acouato-optic modulator with reference signal
+to change the angle of incidence of light on the modulator. A considerable dis-
+advantage of such a processing algorithm is the difficulty of realization when
+searching for signals with a large nuaber of possible values of the carrier
+frequency. Since the spatial frequency of the reference signal must vary
+
+over the entire range of frequency uncertainty of the received signal within
+a time interval equal to the duration of a single symbol of a pseudo-random
+sequency of the complex signa1*, presently unattainable requirements are in-
+posed on the number of positions of the optical deflector and on the switching
+speed: in the case of discrete tuning of the carrier frequency of the refer-
+ence signal. the required speed H; for switching the optical deflector. and
+its capacity 31 (the nmber of deflection positions that are resolvable for
+the Rayleigh criterion) are defined by expressions of the form
+
+wt " ”z/l's 0' E! . ”I a (1)
+
+*Only in this case can we get simultaneous coincidence of received and
+reference signals with respect to frequency and delay of the pseudo-random
+sequence. and consequently only in this case will a correlation peak of maxi-
+mal possible anplitude be obtained at the output of the acousto-optic process-
+
+ing system for any values of the time and frequency mismatch between the re-
+ceived and reference signals.
+
+59
+
+FOR OFFIGAL USE ONLY
+MWLISEWLY
+
+Where Rf ie the total amber of poeeible frequency poeitione of the received
+eignal. and r. ia the duration of one eylhol of the peeudo-rendnn aeqnenoe.
+
+The requiraente for B; can be considerably relaxed for emle by enaurin;
+repeated coincidence of the received and reference eignele with reapect to
+delay of the peeudo-rendoe aequence during propegetion of one period of the
+received eisnal in the region of ecouato-optic interaction of the convolver
+(1',). In thie caee the initial region of frequency eeerch in broken down
+into n upente (- ie the neceaaery amber of coincidencee of the received
+and reference eignale with reepect to delay of the peeudo-randon aequence
+for tine 1“,). each of which in analyzed in different tine intervele of dura-
+tion Isle. The requir-ente for para-etere of an optical deflector that ree-
+lizee euch eeriee-parellel eeerch for the carrier frequency of received eig-
+nela are defined by the follovin; relatione:
+
+M- Ms. : ind/”o (2)
+
+shoving a reduction in the neceeeary cepecity of the deflector by a factor n.
+
+ 
+
+The capability of setting repeated coincidence of one period of the received
+end reference eisnele with reapect to delay of the paeudo-rendon eequence
+ie ieplied by the theore- on diaplceeent fron the theory of Fourier trane-
+forna (Ref. 6]:
+
+nut-t); - Fawn-gum. (3)
+vhere P ie the operator of Pourier transformation.
+The output electric aim]. for-ad at the output of the photodetector of the
+ecouato-optic enelyeie eyetee in an ecoueto-optic convolver errengenent (Ref.
+
+1] ie obtained by inveree Fourier treneforeation of the product of the epetial
+apectee of the received eignel ’nﬂo- um) end reference eignal Pom-mo):
+
+l..m - s‘l aroma-«.11 . m
+
+where u... :90 are the angular carrier frequenciee of the received eiynel and
+the reference eignel reepectively, end relation (Io) ie one of the poaeible
+forms of writing the field of uncertainty of the coeplex signal “let. 5):
+
+U» . 1mm) - i‘iw.)gué‘"}, (5)
+
+If the epetial apectrua of the received signal ie phaee-nodulated in accor-
+dance with (3)
+
+ﬁ(a-q.)o""" , (a)
+
+and the epatial epectru of the reference eignal ie diecretely ahifted in
+
+frequency
+elk-u.) - mm] .
+
+60
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+than the output aignal of the proceaaing eyatem will be defined by an em-
+preaaion of the following form:
+
+1-1:) - xix-«m. u- mo] .
+
+where o(t) ie the lav of pheae modulation of the received signal epectrum;
+mun) ia the law of frequency modulation of the reference signal.
+
+By appropriate aelection of the modulation lava Ann“) end o(t). we can make
+the output signal of the acouato-optic convolver proportional to the eought
+correlation function
+
+1...“) - afar-d») when u. aw).
+
+Consequently. at the time when o(t) - or. a correlation peak of maxim- ampli-
+tude will be formed at the output of the ecouato-optic analysis ayetem. One
+of the poeaible versions of variation of Awu(t) and a(t) ie ahown in the dia-
+
+gram. where Ara. a», are respectively the greateat time and frequency mismatch
+
+wu-
+
+   
+ 
+   
+ 
+
+corre ation
+peak
+
+ 
+
+between the received and reference aignala. and the broken line shove the cur-
+rent value of time mismatch that variea due to the movement of accuatic waves
+in the acoustic light modulator. the dot denoting the inatant of formation
+
+of the maximum correlation peak.
+
+The phase nodulation (6) that is neceeaary for implementing the given algo-
+rithm can be realized by using an optical deflector placed in the region of
+the spatial spectrum of the received aignal. In the caae of discrete phase
+modulation of the received aignal apectrtm. the speed and capacity of thia
+optical deflector are defined by a relation of the form
+
+w.‘ ‘/‘. o E..6 a (7)
+where 8 ie the baae of the complex aignnl.
+
+Thus. if 5¢Nf (a condition that is met no a rule when aignala with etepwiae
+variation of the carrier frequency are need). with proper choice of the param-
+eter n
+
+61
+
+FOR OFFICIAL USE ONLY
+FOIiOFFKJAl.USS(NULY
+
+"1‘ ' J‘s/5
+
+we can considerably relax the requirements for capacity of optical deflectors
+that are used without increasing requirements for maximum speed:
+
+W... ' la/ﬁ 3%... '15/51. : E... . E. - 5.
+mess
+
+I. Kulakov. S. V. "Akustoopticheskiye ustroystve spektral'nogo i
+torrelyetsionnogo analiza signalov" [Acousto-Optic Devices for Spectral
+and Correlation Analysis of Signals]. Leningrad. "Neuka". 1978.
+
+2. Krupitskiy. B. 1.. Yakovlev. V. I.. "Akustoopticheskiye protsessory radio-
+signalov" [Acousto-Optic Radio Signal Processors]. in: "Akustoopticheakiye
+setody obrabotki informatsii" [Acousto-Optic Data Processing methods].
+Leningrad. "Hanks". 1978. pp 30-65.
+
+3. Dikson. R. K.. ”Shirokopolyusnyye sistemy" [Hide-Band Systems]. Moscow.
+"Svyas'". 1979.
+
+b. Goodman. J.. "Vvedeniye v Fur'ye-optiku" [Introduction to Fourier Optics].
+Moscow. "Mir". 1970.
+
+5. Slots. V. 1.. "Voprosy obrabotki rsdiolokatsionnykh aignalov" [Problems
+of Radar Signal Processing]. Moscow. "Sov. radio". 1970.
+
+UDC 621.376.2.:S35.42
+Acousfo-OPTICAL RADIO SIGNAL DZHODULATION
+[Article by Yu. G. Vasil'yev]
+
+[Text] The paper describes an acousto-optic method of de-
+uodulating amplitudeqnodulated (An) signals. A method of
+perturbation theory is used to solve the problem of light
+diffraction by a complex AH signal when light is obliquely
+incident on an ultrasonic column. Expressions are derived
+for distribution of the light field in the region of acousto-
+optic interaction. and for the intensity of the diffracted
+light in the spatial frequency plane. Computer-calculated
+curves are given for the amplitude distortions of the light
+field as a function of the radio signal frequency bandwidth.
+as well as the results of an experimental study of an acousto-
+
+optical AH signal demodulator working in the Bragg diffrac-
+tion mode.
+
+Acounto-optical methods are currently being used extensively for radio signal
+processing. They are used for spectral and correlation analysis [Ref. 1].
+filtration [Ref. 2] and time scale variation [Ref. 3. 6]. Acousto-optical
+devices are also known for demodulating frequency-modulated (PH) signals [Ref.
+5. 6] that dsmodulste signals of unit amplitude. However. the need arises in
+
+62
+
+FOR OFTNCJA1.USE1DNL¥
+FOR OFFICIAL USE ONLY
+
+uunv processing problems for isolating laws of amplitude modulation (AH) of
+wide-band radio signals. Besides. when a collimated luinous fl!“ is dif-
+fracted by a complex signal, amplitude distortions of the space-time spectrum
+arise that are due to frequency selectivity of Bragg diffraction. It is neces-
+sary to account for such distortions for selecting the frequency band of the
+linear mode of demodulation.
+
+Let us consider diffraction of a plane light wave
+WM) ' °.m{i[&(asmousn- will
+
+by a phase diffraction grating excited by an Ali-PH radio signal in the acouato-
+optical demodulation system depicted in Pig. 1
+
+sm- amulnltwml. (1)
+
+Here C. is the amplitude of the light; k-wclc is the wave nuber of the light;
+c is the speed of light in vacuum; we is the cyclic frequency of the light;
+
+fo is the carrier frequency of the radio signal; 2W“) is the slowly varying
+part of the signal phase.
+
+ 
+
+Fig. l. Acousto-optical demodulation system: l--luminous
+flux; 2--aperture diaphragm; 3--ultrasonic light modulator ;
+lo--l-'ourier lens; S--photocell
+
+The distribution ot light along the cross section of the ultrasonic column
+
+in direction 0y is taken as constant and equal to unity in the interval
+0€y<h. where h is the dimension of thc- ultrasonic column in direction 0y.
+Since the frequency of light («ac/2r) considerably exceeds the frequency
+
+f(t) - fo+w(t) of the radio signal. we can limit ourselves to the quasi-steady
+case in solving the diffraction problem [Ref. 7].
+
+Distribution of the index of refraction of the acoustic line of the ultrasonic
+light modulator is described by the relation
+
+n(1.t)an.[h “(N-)1.
+
+63
+
+FOR OFI'1CIAL USE ONLY
+POI! OFFICIAL USE ONLY
+
+where no is the index of refraction of the unperturbed medhnn; 1- (An/n.)
+is the relative change in amplitude An of the index of refraction of the dia-
+turbed mde ital;
+
+um - mealtime - I - é) ° "'3’”?
+
+T- Zlv is a time sample corresponding to the working aperture of the acoustic
+line of the ultrasonic light modulator; v is the velocity of propagation of
+ultra-sound.
+
+When the quasi-harmonic condition
+
+lm-MG)‘ “-5 ‘2’
+“Na-n] elA(t~})| (3)
+
+are satisfied, the amplitude A(x. t) and phase w(x. t) of the ultrasonic wave
+can be respectively represented in the form
+
+Mun - M14) .
+n2.“ - ﬂt-f) - ﬁc-I).
+
+Conditions (2. 3) mean that within the limits of the aperture
+
+l ‘ '[ﬁrml
+
+a quasi-harmonic ultrasonic wave propagates with frequency that varies with
+elapsed time t according to the law
+
+m -i, 0 Om.
+
+The amplitude Mn, t) of the wave is a slowly changing function within the
+limits of the working aperture of the ultrasonic light modulator.
+
+and the inequality
+
+Taking our lead from Ref. 7. let us determine the spectral component E(u. p)
+of the light field in the region of acousto-optical interaction that is de-
+scribed by the equation
+
+I C
+#50:.» . yin.» . [v . m(t-I)m]t(u.n - o <0
+
+and boundary conditions of continuity on the media interfaces:
+
+E‘ufO) ' E0130) . (5)
+I (LIFO): E(\l,“°0) .
+
+64
+
+FOR OFFICIAL USE ONLY
+FINI€HWJC1AL.USE!JNLY
+
+where p-kz; u-K(t)x; B- iK(t)/k]2; K(t) -%{f°w'Ct--§)l is the wave nuaber
+of the ultrasonic wave.
+
+It is convenient to seek the solution of equation (6) in the form of s seires
+with respect to powers of y:
+
+(tum) - [calcium «'40:.» ‘ -- ' IWIKW’" $31)]. ‘6’
+
+Let us limit ourselves to the function C1(u. 9) that describes the first dif-
+fraction orders. he seek the solution in the form
+
+mu.» . Meant-M0B..(u.r)m(iu). (7)
+
+where the 831(u. p) are components of the amplitude of the light wave that
+forms the first diffraction orders.
+
+Substituting expression (7) in (6) and then in equation (4) with boundary
+conditions (5). we get the following expression for the coefficients:
+
+_ , . - «(u - - e
+s..t=.r.u=:c.m-D.‘;—a W “‘1‘” “Ml““z‘a-v l “P H [1' “mimics?! -
+where sinc u - sin nu/ﬂu.
+
+Then light field 8+1(x, a, t) that arises in the plus of the first diffzsction
+order is described in the region of acousto-optic intersecion at z- i by the
+
+expression .
+f“(r,!,t| - ‘3..(*»‘»‘) upl-jﬂtﬂ upwizom- $9)” .
+where ﬂu- U.t-n[s.(t-}) .m-hl- um -
+
+Considering that light distribution along the y-coordinate is constant. we
+can represent field 2+,(x, i, y. t) in the form
+
+E..(i.¢.y.tl- g(§)E..(x.¢,t) .
+
+where
+
+‘ 4, 0r$tl
+l“) {0, ”<0 *""
+
+If the Brain condition
+. l
+Sud.- 5 ‘0
+
+is satisfied for carrier frequency f0. then intensity 1+)(i, i. t) of the
+
+diffracted light in plane (C. C) of spatial frequencies of the Fourier lens
+takes the form
+
+I..(t,i,t) - usma‘a-Dm'}, [H.- %F*'(¢'§)]}s€~c'(;§-«). <8)
+
+65
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+where H- (“mo/A20”. V- Zlh is the volume of the region of acousto-optic
+interaction; 1’ is the focal length of the Fourier lens; A is the wavelength
+of the light incident on the ultrasonic light modulator;
+
+G(t) . sine‘ unpaid".
+
+{if
+
+a(t) - [w' gtn- -)/fo] is the relative change in frequency of radio signal (1);
+Q- (nu/A ) ii the wave parameter; Ao-v/fo is the wavelength of ultrasound.
+
+It can be seen from expression (8) that the intensity amplitude is proportional
+to the square of the envelope of the Ali-PH signal A(t-5’r) except for a factor
+
+wuusiu‘ {Mt-r; gym-{)1} “(£9 .
+
+where G(t) describes distortions that arise due to violation of the Bragg
+condition on frequencies f(t)f fo.
+
+6“!
+
+ 
+
+a...” 0 M u In)
+Fig. 2. l—Q-r; 2~-Q-lnr; 3—0'8'; 4"9'161'
+
+Curves for G(t) as a function of the relative frequency change a(t) for dif-
+ferent values of Q calculated on a BESH—loﬂ computer are shown in Fig. 2
+
+It can be shown that the frequency band Au' in which the relative change G(t)
+
+does not exceed 52 of the maximum of its value G(t) - 1 is defined by the
+formula
+
+of'- I,( {dig-9 A).
+
+If the function w'(t) of signal frequency change satisfies the inequality
+
+lf'ml c .
+
+then we can set G(t) :1 in expression (8) with accuracy to 5%.
+
+66
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The voltage of the electric signal coming from the photocell (see Pig. 1)
+with center of the photocathode situsted at point (5.. 0) is determined from
+the formula
+
+In! 1'
+
+mu-° T. 31.4“th . (9)
+
+H i
+where D is a constant that depends on the photocathode material; R is the
+
+load resistance of the photocell; A. A; are the dimensions of the photocathode
+in directions 05 and 0; respectively.
+
+Omitting intermediate calculations. we get from formula (9)
+
+. a ' " ' ‘e' M",
+U'hh "An“,niﬂamll- 1%? - chum...“ . ‘1”: ‘Jnl
+
+where U'(t) - (rU(t)AA1/WDRdd1) is the relative change in voltage;
+
+ 
+
+sin2(0. 51-319
+n- $10.31- -———L;
+
+clWIS)
+
+Si: is the integral sine; b(t)- TO' (t-- +73; d- (XE/Z). d1 - (AF/h) are the
+dimensions of the light field along 0: and 0; respectively.
+
+If
+r-gnt‘o u
+
+then the output voltage
+
+0
+v'm arm (Pi)
+is identical to the square of the signal envelope (1).
+
+The given method of acousto-optical demodulation was experimentally verified
+on a pilot model of an acousto-optic demodulator. The LG-78 laser was used
+
+as the light source. The acoustic line of the ultrasonic light modulator
+
+was made from a crystal of lithium niobate Limos; the pieroelectric transducer
+was a plate of lithiun niohete LiNb03 (Y+ 36°). The ultrasonic light modulator
+operated on a frequency of fo - 100 MHz in the passband of 20 mm. The luinous
+flux was focused by a Fourier lens with focal length of f- 200 In. and con-
+verted to an electric signal by an I’D-21K? photocell.
+
+To check the efficacy of the demodulator. an Alf-FM signal was used with dura-
+tion of 1 - [0 us with sinusoidal frequency modulation:
+
+m)- f. osfn’uérm) ,
+
+67
+
+FOR OFFICIAL USE ONLY
+POI OFHCIAI. USE ONLY
+
+where “I 100 H32. “-1 Has. f1-0.25 His.
+
+Oscillograns of input and output signals are shown on Pig. 3. lo.
+
+ 
+
+Pig. 3. Input signal Pig. 6. Output signal
+
+“we described scousto-optic method of deuodulating coupler aaplitude-aodulated
+signals enables us to distinguish laws of alplitude nodulation of both cw
+
+and pulse signals. In addition. the technique enables us to measure time
+intervals such as signal duration and recurrence period. The results of this
+paper can be also be used in calculating the geometry of acouato-optic inter-
+action in acousto-optic devices for couple: signal processing.
+
+REFERENCES
+
+l. Kulakov. s. V.. "Akustoopticheskiye ustroystva spe‘stral‘nogo i
+korrelyatsionnogo analiza signalov" [Acousto-Optic Devices for Spectral
+and Correlation Analysis of Signals]. Leningrad. "Naulm". 1978.
+
+2. Catrona. Leith. Palermo. Parcello. "Optical Systems for Signal Filtration
+and Processing". ZARUBEZHNAYA RADIOELHTRONIXA. No 10. 1962.
+
+3. Kulakov. S. V.. Kludzin. V. V.. Yezhov. V. 1.. "Acousto-Optic Time Scale
+Converters" in "Golografiya i obrabotka informatsii" [Bolography and Data
+Processing]. Leningrad. "Nauka". 1976.
+
+lo. Shulz. H. 3.. Holland. H. 6.. Davis. "Optical Pulse Coupression Using
+Bragg Scattering by Ultrasonic Haves". APPL. PHYS. LEI'L. Vol 11. No 7.
+1967.
+
+5. Yegorov. Yu. V.. Naimv. K. P.. "Acousto-Opric Denodulator of Frequency-
+Hodulated Signals" ln "Voprosy analisa i sinteaa radioaignalov i ikh
+ohrabotks" [Problems of Analyzing. Synthesising and Processing Radio Sig-
+nals]. interinstitutional anthology. RRI. LB‘II. HA1. NPI. No l. 1976.
+
+6. Vasil'yev. Yu. 6.. Karpov. Yu. S.. Snirnov. L. 1.. "Optico-Acouatic PM
+Signal Denodulstor”. mm SRZDS‘I'V SWAZI. SERIYA 01'. No 403). 1978.
+
+7. Rytov. S. H.. "Light Diffraction by Ultrasonic Haves". IZVBS‘I‘IYA AKADEHII
+NAUK SSSR: SBRIYA PIZICIIBSKAYA. No 2. 1937.
+
+68
+
+FOR OFFICIAL USE ONLY
+INJR‘OFF1CJAI.I£SEZ(NULY
+
+UDC 535.62
+PECULIARITIBS OF LIGHT DIFFRACTION BY COMPLEX ULTRASONIC SIGNALS
+(Article by Yu. G. Vasil'yev]
+
+[Text] A solution is found for the problem of light dif-
+fraction by a wide-band ultrasonic signal with arbitrary
+phase function. Computer plots are given of distortions
+
+of the diffracted light as a function of width of the sig-
+nal passband and wave paraneter Q- «Xi/A3. where i is the
+acouato-optical interaction length. l is the wavelength
+
+of light. Ao-v/f. is the wavelength of ultrasound on car-
+rier frequency f.. v is the velocity of propagation of ul-
+trasound. An expression is derived for calculating optimum
+length t.
+
+In Ref. 1-3 an investigation is made of the diffraction of coherent light
+
+by an ultrasonic harnonic wave. The problem of light diffraction by an ultra-
+sonic wave with linear frequency modulation is fairly well covered for cases
+of collineted (Ref. 4, 5] and divergent (Ref. 5. 6] light beams. Diffraction
+by a complex ultrasonic signal with arbitrary phase function is described
+
+in Ref. 7, 8. However. the results found there are either applicable to the
+case (Ref. 7] of a quasi-nonochronatic wave (Am/wo)¢1. where Au. u. are the
+cyclic width of the frequency band and the carrier frequency respectively.
+
+or else are quite cunbersone and require considerable expenditures of conputer
+fine in calculations (Ref. 8]. Besides, in solving some applied problems.
+such as hen designing acousto-optic devices, the necessity arises for eval-
+uating distortions of the diffracted light field. Such calculations have
+
+not been done up to the present for the case of interaction of light with
+
+an ultrasonic signal having a phase function of arbitrary shape.
+
+- .__ The problen of diffraction of a plane light wave
+
+8
+by ultrasound excited in an acousto-optic system
+XI); \Z (Fig. l) by a wide-band radio signal of duration 1
+O .
+— «truncate-ram»). m
+t
+v
+
+where w(t) is a phase function; B(t) is amplitude
+equal to unity over time t. is solved by s. H.
+Rytov's perturbation nethod (Ref. 2].
+
+   
+
+The plane light wave
+
+line.” . hawks“? . m6) at“,
+
+where k- n/vc is the wave number of the light;
+8'2. vc are the cyclic frequency of the light and
+its velocity respectively. is incident at angle
+0 to the 0: axis.
+
+Fig. l
+
+Acousto-optic systen
+l--1ncident light wave;
+
+2--acoustic line. 3--
+diffracted light
+
+69
+
+FOR OFFKJAI.USE(NVLY
+FOR OFHCIAL USE ONLY
+
+Electric field strength [(u. p) satisfies the scalar wave equation
+
+3%: . p Sift o [1 ~ “Sign“. - o (2)
+
+and boundary condit ions
+
+Hard-Hun»,
+
+E 0’. "4). [(8,1‘ O.) o
+in the re ion of acousto-optic interaction 0<e<i. where p-kz; u-Kgx;
+B- (lo/k) ; to - (mo/V) is the wave nuiasr of ultrasound on carrier frequency
+mo; v is the velocity of propagation of ultrasound in the acoustic line;
+
+y- (An/no) is the relative change in amplitude An of the index of refraction
+of the acoustic line; no is the index of refraction of the unperturbed nedim;
+s(u. t) - s(t-%--i:— ; 'r- (LIV) is the ties ample corresponding to aperture 1..
+
+Limiting ourselves to light waves of the zero and first diffraction orders.
+we will seek the solution of equation (2) in the form
+
+“I,” o [q o "4“")1"? {} [fen-{g $19.!” . (3)
+where
+
+m - «(on - .. ~ 10-37 {:17
+QM) {Antone-[mo] + Muwﬂltuq ,
+
+A3101. p) are the amplitudes of light waves that describe "plus" and "aims"
+first diffraction orders.
+Since a phase diffraction grating is being used and the angles of diffraction
+
+are snail. changes of amplitudes A3; at distances of the order of a wavelength
+of ultrasound can be considered small; consequently
+
+‘1“ Anita), a hum)
+
+and when expression (3) is substituted in (2) we get the following equation:
+
+ 
+
+a
+a Ave”) ’ 3i eat :3 Auk.” ' ”u ‘3: (“.0 - - (3, (lo)
+with boundary condition
+‘u(‘o°) ' 0 a
+where
+70
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+‘2‘. ":1.” o (:1')‘_(&*)(um)oﬂrh): (5)
+m . acid/ii"
+
+The quantity g” is complex, and
+. ._
+JR,“ ' t i1,.%’(£)].
+
+where was 0 (t) is the rate of frequency change of signal (1), c- t-§-V'
+
+For high-frequency asignals lng_ 1/Re g;1«l. and therefore 3.; 3 Reg”. Then
+disregarding ter- 37:7»; in equation (4) in virtue of its smallness, and
+assuming that the angle of incidence o of the plane light wave satisfies the
+
+Bragg condition
+K
+it . (6)
+
+we get a solution Mﬁu. p) of equation (6) that takes the form
+
+W» -(ma;a.)v~w'(-s%n...) .
+
+V" s “(g- mmyg uh.) .
+
+Q- (nu/A5) is the wave parameter. A. - (Zn/mo) is the wavelength of ultra—
+sound on carrier frequency (.30. Reg“. -a(l +a).
+
+1 3
+”ﬂaw m)
+
+is. the relative frequency change.
+
+vhe re
+
+Then the light field E+1(x. l. t) of the "plus" first diffraction order is
+described by the expression
+
+E“ 3.13) -u“(;,t,qm‘imz.!.u‘. (8)
+
+uhere
+
+mam - tut-n -m- umpmmﬁqwq-»
+
+7!
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+It should be noted that the function "+1 in expressions (7. 8) describes the
+changes in alplitude of the diffracted light field on frequencies
+
+w(t) - (no +33?” (c) ..
+
+when the elastic medium of the acoustic line is perturbed by a hernonic signal
+u(t) - m. the mlitude factor “+1 is equal to unity and the resultant ex-
+pressions coincide with those of Ref. 2. The occurrence of the additional
+factor ﬂu in solution of the diffraction problem is due to violation of con-
+dition (6) on frequencies w(t)fu..
+
+Conputer plots of 9+; as a function of relative frequency a at different values
+of the wave paraneter Q are shown on Fig. 2
+
+\L. __
+
+ 
+
+Pig. 2
+Curves for "+1 as e function of relative frequency end wave per-meter:
+
+l—Q- n; 2--Q-4s; 3--Q-16s
+
+It can be seen from Fig. 2 that when light is diffracted by a complex wide-
+band ultrasonic signal, asymmetric distribution of the light field results
+
+in the scousto-optical interaction region. "ith increasing frequency band
+
+Aw of the radio signal and wave paraneter Q. there is an increase in amplitude
+distortions of the diffracted light.
+
+If permissible changes of "+1 are assigned. e. g.
+
+m [g away]
+[g «(903‘
+
+ 
+
+.3.
+
+then by finding the value
+
+Q
+2- 0.0““ O !_'
+
+72
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+we can readily determine the frequency band
+
+“'“{W 41 .. (9)
+
+where Q... t 3. wherein changes of a-rplitude do not exceed the value of b.
+
+Frou expression (9) we detemine the wave paraneter
+
+T.‘ - --
+I
+Q [(9.34]
+«h.
+with respect to the given frequency band. and calculate the optima length
+l. of acoustc-optic interaction:
+
+to
+
+It should be noted that the resultant expression (l0) can be used for calcu-
+lating the length l of the piezoelectric transducer of an ultrasonic light
+nodulator with respect to given values of the carrier frequency (no. frequency
+bandwidth Au of the signals to be processed. and the wavelength of light A.
+
+where 2. - eons/n.
+
+Thus the results feund in this research enable us to use relatively simple
+formulas (7. 8) to calculate the diffracted light field 3+1“. 9.. t) in the
+region of accusto-optical interaction. and the optinua length l (10) of acous-
+to~optical interaction.
+
+The results of rats paper may find application both in physical research on
+the diffraction process and in calculations of acouato-optical devices for
+
+processing conplex wide-band radio signals.
+REFERENCES
+1. Raman. C. V., Nagendra hath, N. 5.. "ﬂue Diffraction of [Light] by [High-l
+Frequency Sound Haves". PROC. IFDIAN ACADEMY OF SCIENCE. Vol 2A. 1935.
+
+2. Rytov. s. 11.. "Eight Diffraction bv Ultrasonic Haves". IZVESTIYA AKADEHII
+NAUK SSSR: SERIYA PIZICHBSKAYA. No 2. 1937. p 223.
+
+3. Parygin. v. N.. “Light Diffraction by Traveling Acoustic Waves in Isotropic
+Medium". RADIOTEKHNIKA I ELBKTRONEKA. Vol l9. No l. 1976, p 38.
+
+b. Bakut. P. A” Chunk. V. 0., "Optiko-akuaticheskiy korrelyator dlys
+signals a lineynoy chastotnoy nodulyatsiyey" RADIOTBUINIKA I RETRONIKA.
+Vol 15, No 9. 1970. p 1916.
+
+73
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+5. Karavayav. V. 0.. Iayzulin. 2. 1.. "ﬂuoratical Analyaia of Actuate-Optic
+Systm for La: Radio Signal Conpreasion". nun! mmrmmmsxoco
+
+HIS‘I'I‘I'U'I'A MADE!!! WK 3851". No 5. I971. p 125.
+
+6. Shulz. H. V.. Rolland. H. 6.. Davis. 1... "Optical Pulaa Conpruaion Using
+Scattering by Ultrasonic Ham". APPL. ms. “11.. Vol 11. no 7. 1967.
+
+p 237.
+
+7. Hartynov. A. 11.. Hirar. I. 5.. 'Terturbation ﬂatbed for Calculating Light
+Diffraction by Ultraaound". IZVES‘IIYA WSSBIIE 0mm ZAVBDH'IY:
+
+RADIOFIZM. Vol 18. No 12. 1975. p 1865.
+
+8. Hartynov. A. 11.. "Diffraction of Arbitrary Cylindrical Light lean by
+Hide-land Ultrasonic Signal". mlmm l unmm. V01 22. No 3.
+1977. p 533.
+
+COPYRIGHT: LIYaP. 1981
+
+6610
+(280: 81106 [0669
+
+-END-
+
+76
+
+FOR OFFICIAL USE ONLY

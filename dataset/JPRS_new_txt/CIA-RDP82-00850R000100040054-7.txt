@@ -1,0 +1,2371 @@
+APPROVED FOR RELEASE: 2007/02/00: ClA-RDPO2-00080R00010004MB4-7
+FOR OFFICIAL USE ONLY
+
+JPRS L/8418
+25 April 1979
+
+TRANSLATIONS ON USSR SCIENCE AND TECHNOLOGY
+PHYSICAL SCIENCES AND TECHNOLOGY
+
+(FOUO 24/79)
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+lleadlines, editorial reports, and material enclosed in brackets
+I] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli~
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GWERNINO WNERSHIP OF
+MATERIALS REPRODUCE') HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOROEFICIM. USE ONLY.
+FOR OFFICIAL USE ONLY
+
+mas 149418
+25 April. 19‘
+
+TRANSLATIONS 0N USSR SCIENCE AND TECHNOLOGY
+
+PHYSICAL SCIENCES. AND TECHNOLOGY
+(1000 24/79)
+
+Cou'reu'rs
+CYISRNB‘I‘ICS. COMPUTERS AND Am'nou rmmowcv
+
+Computers in Expert-ant“ Physics
+(A.N. Vyotavltin; V381?!“ maul NAUK SSSR. No 1. 1979)..
+
+Activities at Institute of Autmtion and Bleetronetry
+(Yu. Yo. Neotorikhin; VBS‘I'NIK AKADEHII NAUK 8581!, No 1.
+
+1919) ooooooooooo-ooooottoooooooo.ooooocooooooonoo000....o
+
+GEOPHYSICS. ASTRONOMY AND SPACE
+
+'AIR 6 cosms‘ Ruperto on 'Snlyut-G' Mission Operations
+(Sarge Borg; All! 6 COWS. 7 Apt 79) .
+
+PHYSICS
+
+Genoration and Utilintion of Pmrful Nanoaecond Pal-en.
+A Scientific Continuation
+
+' (G.A. Manta; VBSTNIK MD!!! “MI! SSSR. No 2. 1979)
+PUBLICATIONS
+
+Organizing the Operation of a Computing Center '
+
+(LA. Orlov; ORGANIZATSIYA mm WCHISLITEL'NOGO
+TSENTRA. 1978) ...........................................
+FOR OFFICIAL USE ONLY
+
+CYBERNBTICS, mums AND ANIMATION TBCRNOLOG!
+
+UDC 001.812
+COMES II EXPERIMENTAL Paroles
+
+Moscow mm mm: nun 8883 in Russian lo 1. 1979 pp 53-61
+[Article by A. N. Vystavkin. doctor of technical sciences]
+
+[Text] Ihe growing scale and sophistication of experimental physics and the
+uninterrupted upward trend in the amount of information gained during exper-
+
+imentation have led to the need of automating experiments with computers and
+numerical methods.
+
+One of the first automated experiments that were computer-sided in the
+research centers of the Division of General Physics and Astronomy, IBSR Aca-
+dew of Sciences, were radar studies of the planets. These experiments began
+in 1961 in the Institute of Radiotechnoloy and Electronics, supervised by
+acudemician V. A. Kotel'nikov. In 1965-1970, the first automated diffracto-
+meters for monocrystals were developed in the Institute of Crystallography
+under the guidance of academician B. K. Vaynshteyn. In 1968-1972 the first
+automated systems for spectral studies in the suhmillimeter range were built
+in the Physics Institute imeni P. l. Lebedeov and the Institute of Radiotech-
+noloy and Electronics. Today in the research centers of the Division of
+General Physics and Stronoaw there are upwards of To large and small systems
+
+for automating experiments. Unquestionably. this is a notable success. all
+the more so in that nuerous systems are original developments. Even so.
+
+many more automated syst-s are needed.
+
+Study of the operating experience with the systems for automating experi-
+scnts built in our country and elsewhere shows that one of the main effects
+
+of their application is shortened times in conducting the cycle of measure-
+ments and processing their results. For example. the flow and volume of
+
+information in spectral inwsstigati ns and studieshof electrophysical pro-
+perties of semiconductors are 10-10 bits/s and lo -lO bits per workday;
+
+these times were reduced by a factor of 10 to 30. that is, instead of One
+to three years in conducting the cycle of studies, only from one to several
+
+months is required.
+
+'ihcre are times when experimentation is simply not possible without automa-
+tion. For example. in radar studies of planets digital filtering and signal
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+  
+              
+        
+
+ 
+  
+ 
+
+N94 .5“?
+ofeﬁﬁ-‘Oﬁﬁif‘gl
+l's'ﬂiﬁ'e’hﬂe“
+‘oeua‘vxnm
+
+ 
+ 
+
+/
+«x. a
+as
+
+Fig. 1. Structure of peptide structure obtained, inter-
+preted and displayed on a graphics plotter using an
+
+autouated systen
+
+processing on a coaputer, data can be obtained concerning distances to the
+planets to a precision of hundreds of neters and concerning planetary velo-
+cities to a precision of several centimeters per second immediately after
+
+reception of the
+
+echo signal. that is. in the real-tine mode. This is im-
+
+portant in refining the epheneris tines and stuwing the properties of pla-
+netary surface and atnosphere; the data acquired in the real-time node are
+
+necessary to the
+
+Another example:
+earth from space
+
+landing of interplanetary stations.
+
+investigation-4w physical methods—of natural resources on
+(these studies are being done by the Institute of Space
+
+Studies, the Institute of Radiotechnology and Electronics and other insti-
+tutes of the LBSR Academy of Sciences). 'me computer processes and dis-
+
+plws in conventional colors images of the different parts of the earth's
+
+surface1 .
+
+ 
+
+1 See: a. z. Sagdeyev, mm as sssn, No 3, 1917.
+
+2
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL USE ONLY
+
+A system for automating crystal growth for laser application, in the
+Physics Institute imeni P. l. Lebedev. maintains the electric power fed
+
+into the crystallatimtioﬁ unit in accordance with a given lm in time to
+within a precision of 10- . 'ihe system affords crystal homogeneity that
+
+is practically ideal for the given application; this makes it possible to
+build new high-capacity infrared crystals. The systems for automating
+
+crystallographic investigations, developed in the Institute of Crystallo-
+graphy, can form and interpret the diffraction patterns of crystals con-
+tained in a cell to a precision of hundreds of stems in different posi-
+tions. Hg. 1 shows the structure of the peptide crystal. A X-ray dif-
+fraction pattern of this crystal. its interpretation and the image of the
+structure were obtained with a computer.
+
+Apart from the automation system it is not possible to rapidly control the
+hundreds of element-panels of the ”TAN-600 radiotelescope in the source
+tracking mode; without automation systems it is also not possible to con-
+ceive of the functioning of facilities built in the Physics Institute for
+
+studies of laser thermonuclear fusion and so on.
+
+'Ihese examples tell us that the computer can rapidly and precisely control
+a facility for information flows up to 107 bits/s, as well as process large
+
+data files (106-408 and larger) in a multiplicity of operations.
+
+Today virtually all research in general physics and astroaoaw calls for
+automation. Roughly speaking, these investigations can be divided into
+
+the following groups:
+space study of the earth, the solar system and deep space
+
+land-based studies of the sun, near-earth and near-solar space and the pro-
+pagation of radio waves and laser radiation in the atmosphere
+
+astronomy, radio astronomy and radar astronomy
+plasma physics
+spectroscopy and crystallography
+
+laboratory studies of' solid-state physics. low-temperature physics, physical
+and quantum electronics, hydrodynamics. thermodynamics and so on
+
+Specific requirements on automation develop in each of these groups. An
+analogous situation exists also in chemistry. in biology. in earth sciences
+and in other fields of knowledge.
+
+The heavy demand for automating scientific investigations, as well as the
+need for working out a unified approach led to the automation of scientific
+
+studies taking shape as an autonomous scientific discipline. Finding deve-
+lopent in it are both methods of investigation and measurement in different
+
+3
+FOR OFFICIAL USE ONLY
+Q FOR OFFICIAL USE ONLY
+
+fields of science and a nuwer of mathematical subdisciplines; there are
+alsdsuhdivisiona in automation dealing with the designing and building of
+system for automating scientific experimentation and developing new methods
+of investigation.
+
+Designing automation systems is preceded by an analysis of the process of
+scientific investigation. As we know, the following stages can be distin-
+guished in scientific research, in particular, in experiments]. physics:
+formulation of the goal of the investigation; literature search and review;
+choice of the model of the phenomenon or process under study; theoretical
+analysis and modeling of the phenomenon or process; experimental. design;
+experimental preparations (designing and fabricating the parts and assem-
+blies of the experimental setups and producing materials and structures
+with new properties); monitoring parameters and states and control of the
+experimental setup; conducting measurements (acquisition, accululation and
+storage of measurement data); data processing, reduction and display; inter-
+pretation of measurements and their comparison with the model and formula-
+tion of conclusions; ‘and docusentation of data and conclusions and place-
+ment in archives (reports, publications and data banks).
+
+These stages may overlap, be conducted in parallel and be repeated. but in
+some volt-3e they are present in am investigation. The computer can be
+assigned, to a significant extent. the performance of functions that are
+amenable to formalization and, thus, to progra-ing. This amounts to most
+of the stages enumerated, save for those stages associated with goal formu-
+lation, choice of model and interpretation of results-atages that are heu-
+ristic by their very nature, that is, thq rely on the investigator's intu-
+ition. Still, even at these stages the computer can render much help, by
+rapidly supplying the necessary information and assisting in displaying the
+results of the investigation in the desired fora.
+
+If one considers that the investigation stages interrelate, one faces the
+problem of the integrated automation of scientific research. that is, the
+automation of virtually all research stages.
+
+Besides the stages listed. thought lust be given to controlling investiga-
+tions (monitoring the course of scientific reseach studies, recording the
+
+labor and coaputing salaries, recording the consuption of material values
+and so on). which can also be automated.
+
+Domestic and foreig: experience shows that it is preferable that the pro-
+blem of integrated autaation of scientific investigations—when there is
+a large number of tasks diverse in type and size--be solved on an institute-
+
+wide scale (or on the scale of a group of allied institutes), with the help
+of a multilevel. hierarchical. multicomputer measuring and computing cas-
+
+plex. A generalised block diagram of this complex, oriented for an insti-
+tute specialising in general naysics or an institute in which physical methods
+
+of investigation predominate, is shown in Pig. 2.
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+'Ihe following principles are embodied in the complex:
+
+setting up a fairly high-capacity measuring and computing center (ICC), on
+a shared-time basis at the highest level, consisting—when there is a large
+volume of computations-wt several large computers equipped with the re-
+quired set of information display devices, special data input/output
+
+units, external memory, devices for effective interaction of investigator
+with computer and so on
+
+building unified subsystems for automating the lower level,,oriented for
+groups of investigations (for general physics and astronomy these groups
+were enumerated above) and capable of functioning either autonomously as
+well as Jointly with the sec, that is. with data transmitted between levels
+over comunication lines or via a magnetic carrier (punched tape, magnetic
+tape and magnetic disk); and lower level subsystems for automating indivi-
+dual installations or groups of installations in a laboratory (division)
+are built on the basis of small computers (minicomputers or microcomputers)
+
+optimal distribution of tasks and Motions by levels (kinds of investiga-
+tions or their stages, programing, storage of programs and data and so on)
+
+use of level-homogeneous computers that are also program-compatible between
+
+levels, unified modules and blocks and development of homogeneous software
+on the modular principle
+
+'Iheee principles optimally correspond to the organizational structure of an
+institute that handles a multiplicity of diverse problems and permit the
+highest operating sconouy and reliability of the complex to be attained,
+the use effectiveness of all its components; also, these principles provide
+for the possibility of the stagewise introduction and development of the
+complex (expansion, upgrading and modernization).
+
+Complexes of this kind are being constructed at present (not considering
+institutes with a nuclear physics specialization) in the Institute of Radio-
+technolog and Electronics, the Physics Institute imeni P. N. Iebedev and
+
+the Engineering Physics Institute imeni A. F. Ioffe, lBSR Academy of Sciences;
+they are proJected, further, in several dozens of academy centers.
+
+Choice of the type and makeup of interfacing equipsent between experimental
+setups and laboratories devices with the computer is one of the primary tasks
+
+in building multicomputer and single-computer system for automating scienti-
+fic investigations. Of all the existing system for interfacing a process
+with a computer. the CAMAC system (came: Computer-Aided Measurement, Auto-
+mation and Control) is the most Fowler international standard; it has the
+highest operating speed and universality. 'lhis then served as the basis for
+its selection as the primry standard in building interfacing equipment in
+the centers of the USSR Academy of Sciences.
+
+5
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL USE ONLY
+
+ 
+
+Pig. 2. Generalized block diagra- ot nulticonputer. hierarchical
+
+measuring and computing couple: for auto-ating scientific inves-
+tigations in an institute specialing in general Wsics
+
+Key: 1. Measuring and coIputing couple:
+2. Large couputing unit (large computers with standard peripherals)
+3. Interace
+10.1w output subsyste-
+5. Automated designer's work station
+6. Subsystem for teninals
+7. 1b large experimental setup
+8. Buffer subsystem
+[Key concluded on next page]
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USS ONLY
+
+[Key to Fig. 2, on preceding page, concluded]
+
+9. Subsystem of input with carrier
+
+10. Image input subsyste-
+
+ll. write unit
+
+12. Experimental setup
+
+13. CAMAC crate with microcomputer
+
+lb. Minicomputer
+
+15. cmc crate
+
+16. Minicompute'r
+
+17. Laboratory subsystem with microcomputer
+18. Special processor
+
+19. Autonomous subsystem, including dispatch subsystems
+20. Laboratory subsystems with minicomputer
+
+Conceptually. the we system consists of the following. Specialized
+functional modules are built to control individual parts of a facility
+acquire interaction fron measuring inetrusents and sensors and output
+information to facilities not incorporated in the computer (oscillograph,
+graphics plotter and so on). The modules are built up in relation to the
+task and are inserted into a sectionaliaed frame (crate) interfaced with
+a computer. Up to 25 regular or the corresponding nusber of double. triple
+and other sizes of nodules can be inserted into a MC crate. All the
+nodules are connected into a unified data highway. ihe dinensions of the
+nodules. the nuber and order of the connections, the pover supply and
+strength of the electrical signals and the commands are standardised; this
+permits the nodules of different manufacturers and unified progress to be
+
+employed.
+
+Experience in developing the CAMC equipment and the automation system
+based on the cause in the Institute of Radiotechnology and Electronics,
+
+(883 Acadasv of Sciences. in the Institute of Automation and Electrometry.
+Siberian Division. [3811 Academy of Sciences. and in other institutes showed
+that the base set of nodules ensuring a wide range of experiments in general
+phyucs is not too large-oho-SO types. Incidentally. it differs appreciably
+from the set of nodules for investigations in nuclear physics.
+
+Multicomputer complexes that have the came equipment as the loveblevel
+subsystems lend themselves naturally to organizing the interfacing of these
+subsystems with the ncc under the cause standard. for which only the inter—
+facing nodule is added to the crate. he CANAC equipent optimally should
+be used also for unifying into the multicomputer complex computers of dif-
+ferent types in cases vhen for some reason computers differing in standards
+are used in the institutea.
+
+ 
+
+2 See: m. Ye. lesterihhin et al, swarms. so h, 1971..
+
+7
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL US! ONLY
+
+A large volume of won [:1 required in developing and putting together thc
+complex nortware support. Software is constructed Just like the complex--
+by the hierarchical nodular principle. The standard software that is part
+of the computers is used to the fullest; it is supplemented by system soft-
+ware for intercomputer interfacing and for working with the CAMAC equipment,
+software of the shared-time system. the intonation retrieval system, the
+design planning system, as well as the extensive applied software for solving
+specific theoretical and experimental problems and operations research tasks.
+
+Advances in systems for automating scientific research is bringing on the
+scene new research methods. In particular, a transition is projected from
+the simple breakdown of routine and creative functions (stages) between
+computers and the investigator to the fruitful interaction of investigator
+and the automated system (interactive mode) as the research proceeds.
+
+The first steps in this direction have alreathr been outlined. By way of
+exasple, we can mention the dialog system of spectral studies in the sub-
+millimeter range, based on a fourier spectrometer3. We know that in spec-
+tral measurements in the submillimeter range ming thermal sources, the
+investigator deals with low radiation energy; this requires a long signal
+buildup time. Extending the range of test frequencies and increasing reso-
+lution and the signal-to-noise ratio in this situation involves a large
+increase in the measurement time-up to dozens and hundreds of minutes.
+
+Envisioned in the system is the selection of the appropriate ratio of fre-
+quency interval, resolution and signal-to-noise ratio based on preliminary
+measurement of the signaloto-noise ratio when there is a zero interfero-
+meter path difference and based on measurement of a scanning interferogram,
+with the recording of the appropriate scanning spectrum. These two stages
+and the selection of the above-mentioned parameters are executed in the
+interactive mode. After these procedures are carried out, the working
+interferogram is recorded; it is then transformed into the spectrum in the
+automatic mode. As a result. the experimental tine is shortened by 10-15
+times.
+
+He presented an example of the interactive mode in selecting the appropriate
+levels at which the experiment was conducted (planned). The interactive mode
+
+can be altered also when the experimental findings are being processed. Ex-
+emplifying this is the processing of spectra recorded with a submillimeter
+
+diffraction spectrometer (Fig. 3). After the computer executes the fourier-
+transformation of the spectrum and displays its plot, from the fourier com-
+
+ponents the experimenter identifies and sends to the computer a cosssand to
+isolate the interference component caused by the interference of the radia-
+tion between the sample faces. and transmission averaged over the interference
+
+ 
+
+3 See: A. l. Vystavkin et al, “MIA, lo 2. 1978
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+period. by discriminating the rhite noise of the receiver (more exactly,
+its high-frequency components .
+
+A9911 cation of the described method of processing measurement data and the
+date of the interactive mode of its realisation significantly extends the
+potentialities of diffraction spectroscopy and speeds. by a factor of ten.
+the processing of the spectre measured.
+
+The interactive mode is suitable also at other investigatory stages; it op-
+timlly measures up to the process of scientific investigation.
+
+The dialog of investigator and automated system is a method of organizing
+the interactive mode. The appropriate software and hardware are necessary
+for an effective dialog in the system: convenient keyboard. graphic and
+other inmrmati'on display devices, accessories for entering marks on the
+alphanumeric files. graphic and video images and so on. Year by year, these
+devices are developing and improving.
+
+Besides the above-listed stages of scientific investigations in introducing
+automation, there is one more: program preparation and debugging. Uh...
+organising the interactive mode. it is very important that the investigator
+master programing and dialog techniques (without program-er participation).
+since it lets the investigator modify the experimental conditions directly
+during the investigation; when specific tasks are programmed, the investi-
+gator can apply procedures based on Wsical features and so on. Il'hat is
+vhy it is necessary to shorten and simplify the stage associated with pro-
+grassning. For example. this task was successfully solved in the series
+2200 Hang minicomputer. 'ihe computer uses a. quite powerful language,
+HANG-BASIC and simple program debugging means in the dialog mode. with an
+indication of the location and kind of errors. The dialog is much simpli-
+fied in that the his main instructions in the programming language and the
+20 arithmetic operations and the built-in mnctions are actuated by press-
+ing the right key. Just as in a pocket or desktop calculator. The other
+instructions. as usual. are formed letter by letter. learning the mini-1n
+set of instructions does not take much time. Also, it does not need to be
+memorized, since it is entered on the keyboard. Obviously, this experience
+must be taken into account in the future when developing new minicomputers.
+
+Interest lies in systems that will provide for the possibility of monitor-
+ing the process of investigation and remembering by the investigator of
+departures from the adopted program or some general rules. accmulatio‘n of
+research experience and its presentation in convenient form in later studies,
+analysis of the effectiveness of the interactive mode and the possibilities
+
+of its improvement and so on. Research in building these systems has only
+Just begun.
+
+ 
+
+1‘ See: '1'. M. Lifshits et a1. mm. ‘.’ol 12, No 3, 1977-
+
+9
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+__.1
+
+   
+
+      
+
+O.“ 0.“ O.“ 030 0..“ ' '
+
+0.0” (6) M‘I.
+
+a
+
+0.“
+
+,Pig. 3. Transmission spectm. coaputed spectral
+components and transmission coefficient of Bil-x8”:
+specimen
+
+Key: 1. Initial spectruv
+2. ll'ransaission
+
+3. Interference component
+lo. Relative units
+
+5. Absorption coef cient
+6. Have m-ber. of
+
+Another source of new research nethods that are computer-sided is conputa-
+tional physics-4 new division of mathematical physics. concerned with dev-
+eloping numerical Iethods as applied to theoretical physics and the process-
+ing of the results of physical experiaents. One primary direction in the
+advances in conputational physics is the counter experiaent (or numerical
+nodding”. which is an investigation-dieing a computer—of a mathematical
+model of a phenomenon. process or device. It significantly replaces a real
+
+physical experinent in those instances when the experinent is costly. pro-
+tracted or relatively inaccessible. The cosputer experinent. nrzeovru
+
+is easily controlled and affords broad variation of conditions and the safe
+realisation of critical resinee.
+
+Finally. the validity of a model unquestionably is verified in real condi-
+tions. but this verification after detailed investigation of the nodel by
+
+S
+
+ 
+
+See: A. A. Sansrskiy and Yu. P. Popov. PRIMM. No b. 1975.
+
+10
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+computational methods becomes much less laborious and requires much less
+time than the full investigation of the phenomenon or process with a real
+obJect.
+
+it appears natural to merge computer and real autosated experimental setups
+into a unified complex. by providing for recourse to the real obJect for
+comparing the consequences from the model studied with numerical methods,
+and also to secure additional information with the goal of correcting or
+
+modifying the model. This approach is already in use in investigations
+of processes in plasma. ion scattering in crystals and so on.
+
+ﬂew approaches and concepts relying on numerical methods and applied to
+the description of physical phenomena are to be anticipated. Just as fourier
+analysis. Green Nnctions. Feynman diagrams and other mathematical methods
+
+led. each in its time. to new physical concepts and made possible a fuller
+understanding of the fundamentals of given physical phenomena. the new
+
+methods of computational physics will promote an even profounder penetra-
+tion into the principles of nature. As applied to physical experiments.
+
+the new concepts must permit constructing a model of a physical phenomenon
+capressed in term of computational physics and represented by the appro-
+
+priate algorithm. naturally. with the optimal division of functions
+between the real and the computer experiment.
+
+Prior to automating scientific investigations. Just as prior to an autono-
+mous discipline, there are technical and organizational problems. in addi-
+tion to purely scientific problem. Constructing automated system-wand
+they are now needed by the dozens and hundreds--calls for a unified. sci-
+entifically substantiated approach. At work developing this approach is
+the Council on Automating Scientific Research. along with the complex of
+scientific-organizational measures in this field in the IBBR Academy of
+Sciences. As noted above. OAMAC was adopted as the standard in the acadeav.
+A program for designing and building systems for automating scientific in-
+vestigations was developed by the USSR Academy of Sciences in collaboration
+
+with the Ministry of Instrument Making. Autontion Squiment and Control
+Systems.
+
+Special subdivisions in many academy institutes have been constituted in
+solving problems of automating scientific research. Specialists on auto-
+muting scientific investigations at wort: in these subdivisions must possess
+the research techniques in their fields. have training in computers. applied
+mathematics. mathematical modeling and so on. The Council on Automating
+Scientific Research is holding schools and conferences to exchange experi-
+ence and upgrade the qualifications of specialists engaged in automating
+scientific investigations. Still. the specialists are few in masher; their
+training needs to be organized in institutions of higher learning. Some
+institutions of higher learning have taken these steps. but this is still
+
+far from enough. In addition. it is advisable to hold courses on the appli-
+cation of computers to scientific investigations for students who will be
+
+future physicists. chemists. biologists and specialists in other sciences.
+
+11
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Carrying out these actions v! 11 faster the fastest possible advances in
+
+efforts to automate scientific investigations in centers or the USSR
+Acadew of Sciences and other depart-ants. including in institutes special-
+ising in physics.
+
+COPYRIGHT: Isdatel‘stvo ”ﬂanks”. "Vestnik Akadeuii nauk 888R”, 1979
+
+10123
+080: 1870
+
+12
+FOR OFFICIAL US! ONLY
+FOR OFFICIAL USE ONLY
+
+CYBERNBTICS, COHPlﬂ‘BRS AND AUTOMATION TECHNOLOGY
+
+UDC 001.812
+
+AC'I'IVIIII A'i‘ INSTITU'E 0P AUTOMATION MID 21.3mm
+Moecov VIEW MM! NAUK 8883 in Russian llo 1. 1979 PP 3-11
+
+[Article by Yu. Ye. hesterikhin. corresponding member of the 188R Acadesu
+of Sciences and director. Institute of Automation and Electrometry]
+
+[Text] ‘ihe Institute of Automation and Blectrometry,
+Siberian Division of the teen Acadew of Sciences. was
+
+founded in 1957. The institute's scientific activities
+center on developing and building model problem-oriented
+systems based on CAMAC [computer-aided measurement.
+automation and control] standards for automating scien-
+tific investigations. study of the theoretical principles
+of memory and optical processing of intonation and re-
+search into the physics of nonlinear vaves.
+
+he Presidiu of the i883 Academy of Sciences gave a
+hearing to a paper by the director of the Institute
+of Automation and Electrometry. corresponding member
+of the [381! Acadew of Sciences to. Ye. Institute.
+relating the work of the institute.
+
+Paper by Yu. Ye. lesterikhin
+
+The aim of what the Institute of Automation and Electrometry is doing in
+automating scientific investigations is greater effectiveness and higher
+quality of scientific inquiry by the direct incorporation of computers in
+
+research procedm'es and the maximum use of caputer potentialities at all
+stages-4mm gathering experimental information to constructing a mathe-
+
+matical model of the phenomenon under study. its prime direction of vork
+at the institute in this field is carrying through the program of building
+model problem—oriented automated systems based on a unified system archi-
+tecture and unitized general-purpose hardvare and softvare. In other
+words. solutions are being found to problems of constructing system in
+which a model architecture (unified for all areas of experimentation) is
+
+merged with a model aggregation of units (unified for a given kind of
+experiment).
+
+13
+POI! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Today an adequate approach to this problem involves broad application of
+
+progran-controlled highway type modular system corresponding to the inter-
+.national CAMAC standards. These systems are sets of widely varying autono-
+
+mous devices-meme modules unified in design and modes of information
+exchange: using them. it is easy to configure programble structures for
+automating sophisticated experimental and process facilities.
+
+Development of CANAC equip-ant. conducted by the institute Jointly with the
+Special Design Office for Scientific Instrument-Making. Siberian Division.
+
+lBSB Academy of Sciences (the nomenclature of general-purpose CAHAC modules
+now numbers about 100 designations). served as the foundation for solving
+
+problems in automating the most widely varying experiments (from biomedical
+to nuclear physics)--in s frequency range of tens of kilohertz for contin-
+uous type experiments to hundreds of negahertr. for pulsed type experiments.
+And the "orientation" of the system toward a defined class of experiments
+was achieved by a very limited set of supplementary modules. For example.
+automating studies of phenomena in the electrical explosion of conductors
+called for two modules like these: an analog-to-digitsl converter, for
+recording a process at a frequency of 200 Mix and a high-speed memory.
+
+Largely. how effective automated complexes are is detersined by the "global"
+system architecture—the character of interaction between the systems that
+
+directly serve the experimental setup, the productive computers processing
+the information and the intelligent terminals-mautomated work stations of
+
+the experinenter, designer and so on. In deciding what model structure to
+select. one must weigh the state of the art in computer engineering: depart-
+mental dispersion in computer manufacturing and. as s consequence. computer
+standards irregularity; the scattered distribution of ”materialized experi-
+ence“ (software support) for coaputers of different types and so on.
+
+Work by institute scientists into the system architecture of automated con-
+plexes led to development of a new type of communication system--a unified
+highway type interchange system (0160 [unifitsirovannaya msgistral'naya sis-
+tcma obnenal). This is s high-output machine-independent channel executed
+under the MC standards. Computers of the principal types built in cm
+
+countries have been unified in the institute into a single complex. based
+on the channel: no computers. ASV'I‘. ”41030. w-Iooo. "-6000. Yes-1010 and
+
+Elektronika-loo). along with specialized single-purpose graphics input/output
+devices and systems functioning in-line with the experimental setup.
+
+Experience in recent years lent support to the usefulness of the proposed
+
+architecture. along with the hardware and software devices of automation
+that have been built in handling wide-ranging tasks in science and nanufac-
+
+turing.
+
+The proposal of the 0881! Academy of Sciences was passed at a conference of
+presidents of the academies of sciences of socialist countries (1971)—-to
+
+build nodel couplexes for auto-sting scientific investigations by unified
+combination of a variety of computers and by interfacing with experimental
+
+setups using program-controlled modular systens under CWO standards.
+
+lb
+’01! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Model CAMAC program-controlled modules
+
+15
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+mnoam moanemommup mm
+(1) aeromruwoonmm one am
+
+Dunc-mew u-vo
+( 3) Wuhan-o 39m
+
+13
+
+)
+
+ 
+
+Inplonontotion block disgru- for three-level syote- of automated
+inventisstiono in the Institute of Autustion and Electronstry.
+
+Siberion Division of 1881‘ Academy of Sciences
+Key: 1. “odd. woolen-oriented S. ﬁolosrsphic urchins
+
+system 6. Terminal of sutosuteo
+2. MO [Unified 11th W vol-t ststion
+
+Interchsnse System] 1. Miniconputcr (8M, "-1000. $6000)
+3. Couputor csntcr (produc- 8. lehet graphics plotter-encoder
+
+tive counters] [Kev concluded on next page]
+'0. Couputer (Yes. 91-10030.
+
+Beau-6)
+
+16
+
+POI OFFICIAL US! ONLY
+
+FOR OFFICIAL USE ONLY
+
+[Key to Figure on preceding page. concluded]
+
+9. Delta display
+
+10. Karat microfilming unit
+
+11. Laboratory-workshop
+
+1?. Minicomputer (as. 14400, 3-100!)
+
+13. Crate...Crate
+
+1h. CNMC [Computer-aided measurement, automation and control]
+15. ObJect
+
+Systems developed by the Institute of Automation and Electrometry. Siberian
+
+Division of the [883 Acadesly of Sciences. based on the model structure, were
+adopted as base problem-oriented automated systems.
+
+Further. Yu. Ye. lesterikhin characterized the investigations by the Insti-
+tute of Automation and Electrometry into optical processing of information.
+
+The scope of interferometric applications grew much larger with the advent
+of coherent radiation sources and electronic computers. Denis Gabor's dis-
+
+covery of the interference method of image formation helped in the observa-
+tion of interference effects when light reflects from any scattering obJects.
+Lasers substantially simplified interferometer design; experimentation was
+fully auteuted with the aid of electronic methods of intonation process-
+
+ing.
+
+A laser displacement meter. a laser gravimeter and a laser flowrete meter
+were designed and built in the Institute of Automation and Electrometry,
+based on laser interferometers (as part of the program of scientific research
+”Designing and Building user Devices for Information Sensing and Process-
+
+ing. under the coordinating Plan, Siberian Division. LBSR Academy of Sciences).
+These devices are intended for measuring lengths in physical experiments,
+
+determining changes in gravitational acceleration and in studying turbulence.
+
+The IPL-lo laser displacement meter can measure distances to 60 m with a
+relative error of 5'10‘7. 'l'he instnlment's operating speed is adequate for
+
+measurements when a test object is traveling up to 0.3 Isle. The IPL-lo has
+a digital readout and can function in automated experimental systems. The
+
+instrument found application in the assembly and certification of the refer-
+ence reading system of a machine tool for making parts weighing up to 250
+
+tone. the maximal dimensions of the two control parts, 5 m in length. coin-
+cided to a precision of 0.02 am. The high metrologic characteristics in com—
+
+bination with desim simplicity and convenience in operation place the IPL-lo
+device on a par with the world's best models.
+
+Operation of the laser grawimeter is based on the ballistic method of deter-
+
+mining gravitational acceleration. These measurements are taken by computing
+the path and time of fall of a test mass as the minimun over two intervals.
+
+The test mass in the instrment is a corner reflector falling freely in a
+tube under vacuum. A laser displacement meter is built into the instruent
+
+18
+FOR OFFICIAL USE ONLY
+ronn ormm ts: ONLY
+
+to mcnnurc the path intervals. A rubidinn standard (whose frequency drift
+does not exceed 5'10" 1 a day) is used as the time reference standard.
+
+Staff members of the Institute of Automation and Electrometry and the Insti-
+
+tute of Earth Physics imeni 0. Yu. Shmidt, [838 Academy of Sciences. using
+this instrument. measured gravitational acceleration at the support base of
+
+the world gravimetric network in Potsdam, as well as in Singapore and Paris.
+Similar measurements were made in Novosibirsk, Moscow, Tallin and 'Ibilisi.
+
+The outcome of these measurements was the control ti; of the 138R gravimetn‘c
+network to the world network to a precision of h-no‘ . work done by the
+
+Institute of Automation and Electrometry in laser gravimetry has gained
+high recognition in our country and abroad.
+
+Our measurements in the International Bureau of Heights and Measures (Paris)
+
+showed that the laser gravimeter, designed and built in the institute, today
+is the most precise and most productive instrument of its kind in the world.
+
+It turns out continuously up to 5000 measurements a day; they are processed
+by a minicomputer on a real-time basis with the experimental setup. For com-
+
+parison, we can state that several tens of measurements a year can be made
+with the I. Sakumi gravimeter (Paris).
+
+The LADO-l laser doppler velocity meter was built as a result of scientific
+cooperation of the Institute of Automtion and Electrometry and the Karl Zeiss
+Jena People's Enterprise (008). The determination of the doppler frequency
+
+shift in light scattered by impurity particles in a flow of liquid or gas
+was postulated on the basis of instrument operation. Laser radiation is
+
+focussed in a given region of the traveling medium. The doppler shift in
+the scattered light beam is discriminated by optical heterodyning.
+
+The instrument is built with a two-frequency circuit with shifting of the
+carrier beam frequency by a known amount; this permits simultaneous measure-
+
+ment of the magnitude and direction of two orthogonal components of the
+velocity vector. The range of the velocities measured is 0-80 m/s; measure-
+
+ment accuracy is 0.03 percent for an averaging time of l s. The volume over
+which the velocity measurement is averaged is several tens of microns; this
+
+affords the possibility of measuring velocity in boundary layers.
+
+This instruaent is made up of a laser. optical assemblies. an electronic
+signal processing block and a precision coordinate-measuring stand. The
+
+instrument can position, with precision, the measured volume relative to
+three orthogonal coordinate axes within the limits 1003;100:200 mm. The
+
+main area of application for the LADO-l laser instrument is experimental
+hydrodynamics and aerodynamics. Manufacture of a series—produced instru-
+
+ment model is proposed for CEHA countries.
+
+The step that follows in applying interferometry for investigating flows is
+designing and building a doppler photographic reading correlator. This
+
+instrument must function at very weak scattering levelst to units of
+photons.
+
+19
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Mobile facility for measuring gravitational
+acceleration '
+
+Broad use of laser measuring devices goes far in ensuring progress in scien-
+tific experimentation and in industrial technoloy.
+
+Concluding his paper, Yu. Ye. Nesterikhin highliyxted studies at the Insti-
+tute of Automation and Electrometry on the physics of nonlinear waves.
+
+Very marked progress in studying nonlinear phenomena was recorded worldwide
+over the past 10-20 years. This progress was due. in large part, to the
+
+[general advance in investigating mam-body problems and to developments in
+computer engineering that permit numerical experiments to he conducted with
+
+a large number of nonlinear equations.
+
+Studies into probl- oi‘ the physics of nonlinear phenomena were conducted
+by a group of theoretical physicists at the Institute of Automation and
+Electrometry.
+
+20
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+IADO-l laser doppler velocity meter
+
+A study was made into the problem of the parametric turbulence of waves
+
+originating when they are excited by an external homogeneous electromagnetic
+field, for example when magnons are excited in ferromagnetic materials by an
+
+electromagnetic fieldrin the UH? range, when sound in crystals is excited
+by laser radiation and so on.
+
+Decay processes leading to formation of a wave spectrum in terms of frequen-
+cies and directions of propagation are fairly strong in plasma. general”
+speaking. Plasm turbulence was shown. in contrast to hydro‘b'namic turbu-
+lence, to be severely anisotropic and nonstationary; its spectrum is singular
+and is concentrated at lines and surfaces and even in individual points in
+
+wave vector space.
+
+Couettc flow serving as the example (flow of fluid betveen coaxial cylin-
+ders, one of which is rotating), a stumr is underway dealing with the initi-
+
+ation of hydrodynamic turbulence.
+
+As early as 19103:. academician L. D. Landau proposed that the initiation of
+turbulence can proceed stage by stage: as the velocity of laminar flow in-
+
+creases. stability losses occur and a periodic flow vith a certain frequency
+originates; then stability loss again ensues, additional motion at a differ—
+
+ent frequency not comensurable with the first starts up, then——flov at a
+
+21
+FOR OFFICIAL USE ONLY
+M OFFICIAL USE ONLY
+
+third frequency and so on. To verity this hypothesis, in the institute a
+facility was built; with it. the flow rate of a liquid was neasured with the
+laser doppler velocity meter and in experinental real-tine data were fed into
+a computer operationally performing the statistical processing of the data,
+for exenple. conputing the pairwise autocorrelation velocity function. the
+power spectrum and so on.
+
+As the experiments revealed, 1.. D. Landau's proposal is valid only to the
+third critical velocity. Beyond that, instead of notion with new periods
+there ensues notion of an intenadiate type. when spatial periodicity is
+preserved to a significant extent; however, the tenporsl periodicity breaks
+down end the frequency spectrus proves to be not discrete, but continuous.
+Apparently. in this experiment the "strange attractor" effect—intensely
+under stw by nathenaticianso-vas realised. It turns out that regions
+
+with elongated trajectories (attractors) not containing stable points and
+limiting cycles can exist in the phase space of system with three or more
+
+degrees of freedom. At present detailed experinentel study of the strange
+attractor effect in Oouette flow is underway.
+
+Discussion of paper
+
+After Yu. Ye. Nesterihhin's paper was delivered, the floor was given to
+corresponding neﬁer of the (3811 Academy of Sciences Ye. P. Popovnchairnsn
+of the comission of the presidiun, IBSR Acadew of Sciences. that has been
+looking into activities at the Institute of Auto-etion and Electronstry.
+The reorganization of the institute one years ago, related Ye. P. Popov.
+yielded good results: automation was dovetailed in with nodern physics,
+leading to the achievements that were recounted in the paper.
+
+Original general-purpose system have been developed on the basis of CAM“
+standards. ‘lhe institute's achievements has won world recognition in the
+area of software support associated with the develop-ant of these syste-s.
+
+Particular nention lust be lads of the graphical display equipent built
+here. with high resolution md automatic recording devices.
+
+Studies on automation of scientific investigations are going on at the insti-
+tute at a very high level and can yield an even broader outcone-in the
+autoaation of designing in the nest wide-ranging sectors of the national
+
+econoey .
+
+The Institute of Automation and Electrometry has accuulated such positive
+experience in organising inter-industry design offices. These design offices
+
+are administratively under the enterprise, but as to scientific methodology
+the institute directs then. This kind of link between institute and industry
+
+did much to promote the broad realization of the achievasents end the results
+of investigations into manufacturing.
+
+Acadeaicians A. M. Prohhorov and I. A. Pilyugin and corresponding nessber,
+LBS}! Acadexy of Sciences A. F. Bogonolov spoke at the session of the Pre—
+sidiun of the USSR Acadesw of Sciences.
+
+22
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The president of the IBSR Acedeey of Sciences. acadenician A. P. Aleksandrov.
+spoke forcefully of the importance of the institute's studies. especially
+
+in desiming and building systeu in accordance with CANAC standards. This
+made -it possible. he said, to sharply improve the equipping of our insti-
+tutes engaged in physical. biological and even economic investigations.
+
+'ihe systems built by the institute for interfacing experimental facilities
+and computers. new in production in our country by various depart-eats, make
+
+it possible to build very flexible computer structures in Acadew of Sciences
+institutes that have a variety of computers. Here is an example: the system
+
+for nuclear studies that verc to he conducted in cmnhuilt in the Lenin-
+grad Institute of Nuclear mysics imeni B. P. Konstantinov--proved to be
+very effective. Soviet devices in accordance with CAMC standards were
+interfaced rapidly and without difficulty with Swiss, British and hench
+
+facilities. so that two days after arriving at cm. Soviet specialists
+co-enced measurements. Another example lies in the system of automation
+for KATA! [radiotelescope of the USSR Acadew of Sciences].
+
+Summing up the discussion, V. A. Kotel'nikov. vice president. 1883 Academy
+of Sciences, and academician. took note of the contribution of the Insti-
+
+tute of Automation and Electrometry to designing and building systems under
+CAMAc standards. The work that the institute is doing in auto-sting scien-
+
+tific investigations is very vital, in particular, for academy institutes,
+and this vorh must go on. Unquestionably, the institute has found its call-
+ing and must not change the direction of its investigations. .
+
+Resolution
+
+In the resolution passed by: the Presidium of the [BSR Acadew of Sciences,
+
+approval was given to the scientific and scientific-organisational activities
+of the Institute of Automation and Bleetrometry. Siberian Division, {88R
+
+Academy of Sciences. The primary directions of the institute's scientific
+activities were confined: studies on automating scientific investigations
+
+based on a model highvw type computer system Md CAMAC standards; inves-
+tigations into the theoretical principles of meaory and optical processing
+
+of information; stuw of physical effects for deceloping new principles of
+measurements and measuring devices: and investigations into the physics of
+nonlinear waves.
+
+The Presidiul of the £881! Academy of Sciences also approved the activities
+of the institute in developing new, more improved fares at introducing scien-
+
+tific innovations into the national econaw.
+commit: Iadatel'stvo "Hunks". ”Vestnik Akademii Haul 8883". 1919
+
+10123
+080: 1870
+
+23
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+GBOPRYSICS. ASTRONOMY AND SPACE
+
+'AIR 5 COSMOS' REPORTS ON 'SALYUT-G' HISSION OPERATIORS
+Pnrie All! a COSMOS in French 7 Apr 19 pp “-65
+[Article by Serge Berg: "Obaervatione, heintenence on Board '8alyut-6'"]
+
+[Toxtl Sena 1.0 operotione to repair and replace defective aateriele and
+equipment were conducted by tho "Soyuz-32" crew during the firet month
+on board "Salyut-6". according to IMSTIYA on 25 March.
+
+Sane of the repaire. which were tar-ed ”preventive eaintenance." were begun
+on aoon oe Vladimir Lyakhov end Valeriy Ryuin arrived at the orbital
+etetion; the othere were nede after the ”Progreee-S" freight treneport ehip
+had delivered replacenent parta.
+
+Thue, for example. a back-up ca-era wee brought by "Progreee;$“ because the
+on-board tel-wieion eyeten. which had been ueed exteneively by previoue
+
+crewa, ehowed eigne of failure. Similarly. the ehower atall curtain wee
+changed.
+
+But the neat important operation—and the longeet (eoverel daye)--coneiated
+of neutralizing a fuel tank in the propuleion eyetem. in which the neabrane
+wee damaged: the aeebrane eeparatee two perta of the tmk. one containing
+noneyuotrical dinethylhydrazine and the other-~coepreaead nitrogen. The
+
+"Solyut" atation hee three of these tanks. and consequently it wee poeeible
+
+to totally upty the defective tank without hindering the functioning of
+the station.
+
+The defect in thia membrane had already been noted by nieeion controllere
+and coenonaute [Kovelenok and Ivanchenkov] S nonthe ago. Only after a
+number of simulatione in ground laboratoriee could the procedure to be
+followed in orbit be eetabliehed.
+
+The operatione began on 16 March. Firet of all, the crew rotated the
+“Soyu2-32"-"8elyut-6"--"Progreee-S" coeplex along ite longitudinal axie
+in order to create an artificial microgravity; the centrifugal force thue
+created nade it poeeible to eeparate the combuetible frou the nitrogen.
+Port of the fuel could then be pumped into one of the empty tanhe on
+"Progreee.“ But the caplete evacuation required more than a week; the
+
+26
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+proceee wee beeed on the property of the epece vecum to "such" all tracee
+of hydrazine that could be found within the tank (which wee vented to open
+epece). With the evacuation conplete. the tent wee refilled with coepreeeed
+nitrogen. The operation laeted lO deye: it wee completed by "7 her-ch.
+
+Surveying Over Chine
+
+0f ell the experinente e great deal of ettention wee given to theee teking
+place in the ”Splav" end "Krietall" furnaces. which handled Soviet exporieente
+for 3 deye before the French-Soviet "Blue" experiaente began (cf. AIR 6 6083403.
+No 759). The Soviet preee hee eupheeized the intereet in obtaining by fueion
+
+very pure gleee to be ueed in the Ianufecturing of optical fibere for tele-
+ce-unicet ione. . . .
+
+Berth obeervatione continue to occupy en important place. end the Soviet
+preae wee particularly pleaeed to deecribe the work conducted over the
+USSR-Chine“ border region: obeervetione of the Peeire. the Lake leykel
+area. the region where BAH ie being conetructed....
+
+Ryuein end Lyahhov know theee ereee very well. One wae bore in Koeeonol‘ek-
+ne-Aeur. and the other did hie Iilitary eervicc in the extrene Per Beet.
+Tine end again they flew over theee regione in e 111-136 epecially equipped
+for flighte of coeeoneute eeking cbeervetione under the euepicee of the
+"Prirode" (neture) pregrn. Reeponeible for theee flighte ie Soviet teet
+pilot Nikoley Stcpanovich 2ateepe. The couree ueuelly flown wee: Hoecow-
+lrkutek-Kheberovek-Vledivoetoh-Keechetha-Duehenbe-Aetrekhen'-Hoecow.
+
+Ryuein end Lyekhov. who have already epent l eonth in orbit. inetelled on
+board the etetion e "Yelena" ga-e teleecope. which wee deeigned to record
+the flow of glue radiation end electrone; they heve eleo conducted the
+"Piton" and ”Biogravietet" experinente, which dealt with plent growth.
+
+Proe new on the two cononeute can conunicete with one another ueing the
+"Kol'teo" (ring) welkie-talhie eyetee. And finally. the coeeonaute eede
+poeeible yet enother epece "firet" on 26 Harch: thanke to e televieion
+receiver delivered by "l’rogreee-S" and inetalled on board "Salyut-o," the
+firet televieion picturee freu earth were viewed in orbit. Free new on
+there will be two-way conunicetione through televieion.
+
+COPYRIGHT: AIR 6 oosnos. Perle. 1979
+
+C50: 3100
+
+25
+FOR OFFICIAL USE ONLY
+POI ORIGIN. 088 ONLY
+
+PHYSICS
+
+"DC 621. 38
+
+NATION AID UTILIZING. C mm. macaw W18”. A ”WIPIC
+MONICA?!“
+
+Moecov Milt mm: m can in Rueeian no 2. 1979 pp 37-46
+[Article by Doctor of Technical scienoee o. h. lleeyete)
+
+(Text) ‘l'hie oc-unicaticn ie devoted to the technique of nanoeeoond pulaaao
+vhoee output variee tron negawatte to termtte or nore with pulae length
+tron tenthe to hundrede o! nanoeeconde. we began inveetigaticne in thie
+
+field et the M Polyteclmical lnetitnte in 1957 to iumtigete the develop-
+aent of electric diachargee in varioue dielectric nedien in liquide. eolide.
+gaeae and in a noun.
+
+At the and of the lOSo‘a and beginning of the 1960'e. intereet in theee in-
+veetigatione increaeed eepecially due to the need to utiliee powerful nano-
+eeocnd palace in a one: or new areee oi' phyeicen to generate poverrul
+laeer eaieeicn puleea, for input and diecherge of charged particlee in
+acceleratore (opacifically. in an accelerator with acute: bee-e). for in-
+veetigetione in nonlinear optioe. in nuclear phyeice (to euppiy power to
+apark ad atreaner chalbere). in hiﬁ-epeed photography and co co. nineti-
+getione of powerful nulcaeoond wieee. carried out at lone): Polytechnical
+lnetitute. contrilnu to a eigniiicent degree to rapid develop-eat or acne
+oi the neaed tielde. to: eagle, nethoda or indirectly pcleed inetallatione
+developed by our group were need in creation of powerful ruby laeere. epark
+and etreaaer Me. in inveetigaticne on nonlinear optice. in inveetiga-
+tion or nanoeeoond x-rey polaae and eo on. A eonogreph,‘ devoted to the
+technology or poveriul nanoaeoond puleee, vac publiahed in 1963.
+
+M rectore can be neued ahioh arouaed the great intereet in thie field or
+technology and ita rapid progreae. uret. thie vaa inveetigation of high-
+epeed proceeeee which occur due to the enact o! etrong electric and negnetic
+tielde within a very ehort tine; eecond, the energy of powerful nameeomd
+polaee can be converted to electron or ion energy. to elactroaagnetic radiation
+
+ 
+
+'0. h. Vcroh'yav and c. A. aeeyate, "hmiha tonirovaniye vyeckovol'tnykh
+nenoaekundnyhh inul'eov" t‘l‘he Technology or Shaping nigh-Voltage Nemeecond
+Nleael, Ioeoov, 1963.
+
+26
+
+YO! OFFICIAL USE ONLY
+FOR OFFICIAL ”8|! ONLY
+
+anarqy c! dinoront rango -- (rc- x-ray to ini'rarod -- and alsc to all!-
+radiaticn onorqy by using various physical onsets.
+
+ 
+
+V
+
+riguro 1. Mao-shaping Circuits: a -- disgra- c! aquaro-wavo
+pulss lcnaticn with aqlitudo 00/2; h - diagram
+with dcuhlo atcraoo lino: Do -- prolininary vcltago
+c! atcraco linoo ls l! -- switching ola-sntt 2 -- wsvo
+
+inodancs c! lino
+
+The prohlao aonsrsting powerful nanosecond pulaoo is one of the t onrla of
+invoatiqaticna of tho “saw-Garront lloctrcnica Inatituto (188) c; tho
+
+aihorian Dapartasnt of tho um Maddy c! aciancoa. rocontly croatod at
+'l‘cask. Varicua physical and anqinoorinc prchloas rolatod to tho mo of
+pcwortul nancooccno pulaoa aro now hoing aclwod in my sciantitic institu-
+tions of tho ccuntry: at tho Instituto ct Atclic mom iasni I. V.
+xurchstcv. in a nuhsr c! lshcratcrios ct tho thyaics Instituto iasni r. u.
+nobodsv of tho 088R Mad-y ct sci-secs, at tho Instituts of moloar Physics
+of tho sihorian Dapartasnt of tho om Madam c! Scioncoa. at tho Instituto
+c! Autcutica and lloctrclstry ct tho sihorisn Mart-ant of tho 0881!
+heads-y of Scioncos. at tho mum Dhyaica matituto of tho 0881! M
+
+c: Bcisncoa. at tho Joint lnstituto tor Mloar loss at Duhns, at tho
+mr'hcv thysicctschnical Instituto c! tho Ukrainian 8R Acsdoqy c2 aciancsa,
+at tho uningrad Icisntific Roaaarch Instituto ct Inoctrcphyaical Apparatus
+insni 0. V. Yarrow. at tho has): Pclytochnical Inatituto aw! so on. Any
+laboratory inwclwod in plaasa physics or lasor or nucloar physics ossontially
+now utiliaoa tho tochnclcoy ct pcwortul nancsoccnd pulsoa to coo cr ancthor
+
+docroo.
+
+'l'ho aisplost circuit for gsnoratinq pcwartul nancaoccnd pulaoa is proaantod
+in Piguro l. a. It is tot-ally sinilar to ordinary pulaod squiplsllt circuits.
+mo atcraco linss aro first charqu tc vcltaco no. u is a switching slsnsnt.
+as which spark caps aro uaad. x! tho load rosistanco R is oqual to tho
+charactoriatic wavo inodanco c! this lino 2. a squad-vows pulao with awli-
+tudo 00/2 and with lsngth oqual tc dcuhlo tho wawo travol tics in tho storaqo
+lino can ho canoratoi. 'lho onorw riao and docay tins in tho pulso is actor-
+ainsd by tho tranaiont prccsassa which occur in tho switching sls-snt.
+
+27
+'03 OPPXCKAI. US! ONLY
+FOR OFFICIAL 083 ONLY
+
+A circuit with doublo otorago lino. which poraito gonorotion of a voltago
+
+two timoo groator than in tho provioua circuit, in prooontod in Piguro l, b.
+‘l‘horo aro difforont aothodo of puioo convoroion, apocifically, ahortoning
+
+tho pulao front and puloo longth. oinco a oguaro-wavo puloo with ohort
+
+longth and with ohort front longth io con-only uaod. 'l'ho dovico which
+ohortono tho puloo front io callod a oharpanor. whilo tho dovioo which
+ahortono tho pulao longth io callod tho cutting olaoont. Tho cutting olonont
+and oharponor aro nonlinoar rooiotoro whooo valuo io high for oono timo and
+than docroaooo alnoot to taro vary rapidly within a nanooocond and oonotiaoo
+in fractiono of a nanooocond. Variouo typoo of aparh gapa or forrito olononto
+ara aoot froguontly uood ao nonlinoar rooiotoro.
+
+Ono of tho Iain problou in gonoration of poworful nanooocond pulaoo in tho
+prohlon of oo-utation. h diaohargo in difforont Iodia -- in a vacuu.
+gaooouo Indium liguid and aoootiaoo in a oolid -- ia uood for coauutotion.
+Conutating goa-dioohargo arroatero aro widoly uood. Tho tiaa during which
+tho puloo onorgy rioo ocouro froo coro to tho oaxilua valuo ia callod tho
+conutation ti-o. Thio tiIIo dotorlinoo tho uininun poooiblo puloo front.
+
+For gao-diochargo conutatoro with low curront valuo in tho pulao (up to
+10‘ A). tho oomtation til-o t); io calculatod from tho homo-ﬂair“ apark
+”601:
+
+A
+"I - (31" t
+
+whoro p io gao prooouro, 2 lo tho oloctric fiold intonaity and h io a con-
+otant which charactoriroo tho gapo. with fixod voltago in tho opark gap.
+tho valuo of I, to conotant: thoroforo. tho tiao tk will docroaoo with an
+incroaoo of proaouro. Iocauoo of thio. tho nitrogon. air or othor prooouro
+in thooo opark gapo ohould not ho loao than lo at. with pulao front longth
+boginning at nanooocond.
+
+Procooooo rolotod to tho inortia of chmnol oxpanoion begin to play a oig-
+nificant rolo with a largo incroaoo of curront. 1'ho channol ia unablo to
+expand rapidly within a ohort tiaa and to incroaao ita conductivity. 1horo-
+foro. tho prohlon ariooo of how to achiovo high valuoo of curront with ohort
+rioo tino. M aothodo of oolving thio probloa woro propoood at Isa so an
+SSSR.
+
+the firot notinod, collod avalancho conutation, conoioto in the fact that
+a largo mwor of oloctrona io crootod aimltanoouoly in tho opark gap upon
+application of an alootric fiold. Each of thooo oloctrono. locatad in a
+aufficiontly high oloctric fiold. croatoa an oloctron avalanche within a
+ohort tin: ono oloctron loodo to fox-nation of Iilliono and ovan hundroda
+of millions of oloctrono within a vary ohort tin and tho curront in tho
+goo incroaooo vory rapidly. ‘rhuo, tho apark channol io oli-inatod and,
+mroovor. oxtroaaly rapid procooooo occur which par-it a roduction of tho
+rioo tin to tontho of a nanooocond. morinonto ohwod that currant riao
+
+28
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ratee up to 1014 Va can be achieved during avalanche oo-utation. Moreover.
+higher pulee recurrence frequenciee (up to 10‘ lie or eore) are achieved with
+avalanche mutation.
+
+me eecond eethod propceed during development of the avalanche comtaticn
+method conaiete in injecting electrone from an electron eource directly into
+the gae. It the value or the injected electron current in high. the ehort
+col-utaticn tine and the high rate or current rlee are achieved even without
+avalanche nultiplication of electrona under oonditione or an independent
+epace diecharge. The device which operatea on thie principle in celled an
+injection thyratron. he la known. the olectrcna or ordinary thyratrone
+appear due to cathode heating. here the electrone are injected through the
+cathode from the outeide. m- pernite total control of the device: not
+only of ewitching it on. but aleo of ewitching it of! rapidly and etopping
+electron injection.
+
+thie device. propoeed in 1969. wee very ueerul {or dirrerent purpoeee.
+epecitically. in powertul gee laeer eguipeent. however. there ie one defi-
+ciency in the injection thyratron. he econ an the electric field in the
+gee decreaeee. the electron drift rate decreaeee during conutation and the
+conutetor will have high reeidual reeietance. Thle eane problee exlete in
+eperk gape with avalanche mutation. it correct thie deficiency. a gee
+euet be ueed in which high electron drift rate ie eainteined in low electric
+tielde. [or exaeple. Iathane hae thie property. The dependence of the
+electron drift rate in nethene on 8/1: (tigure 2) ie einilar in nature. At
+a/pﬁ’l Vocn'1 - ug’l. thie rate ie earl-um (on the order of 107 tale).
+although it ie coneiderably leee than 105 ave in ordinary gaeee. Thie
+artect per-mite a reduction or the reeidual reeietance or the injection
+thyratron by eeveral tectore.
+
+now reeidual reeietance and high current riee rate nay aleo be achieved in
+eperk gape with large nmer or eperk channele. Many channele can be formed
+in eolid-etete. liquid and gee eperk gape. h co-utator with air epark
+channele. developed at 1P1. in water which oomtate current of 150 la within
+O ne. ie shown in vigure 3. Hethode or igniting up to lo channele in e gee
+at voltage tron 0.5 to 3 U! have been developed at 183 so m 3333. In thie
+
+caee the tine between ignition of individual channele coeprieed unite or
+nanoeeoonde.
+
+Storage linee are ueed to etore energy. M typee o2 linee ere ueually
+eeployedt etrlp linee -- two etripe between which a dielectric ie placed.
+and coaxial linee -- two coaxial tubee between which a liquid dielectric ie
+ueually located. the can ehaw that the current related to the width of the
+etrip or die-ate: or the tube ie proportional to 315. where 3 ie the elec-
+tric field inteneity and 8 ie the dielectric pereeability of the ineuletion.
+Coneeguently. 8 and 3 of the ineulation euet be increaeed to increaee the
+current (by wing. (or axe-ple. dietilled water in which 3 - 81) and the
+dieeneione or the etorage elemnte mt aleo be increaeed. men the energy
+of the etorage eleeente reechee nillione or tene o! eillione of joulee. the
+etorage devicee acquire enorlloue dieaneione and their coat increaeee eharply.
+Moreover. ditlioultiee related to generation or ehort puleee appear (the
+larger the dieeneione. he eore ditricult it ie to generate ehort wevee).
+
+29
+POI! OFFICIAL USS ONLY
+FOR OPPICIAL USE ONLY
+
+      
+
+lllolkI-voolo
+
+rim 2. Dopondonoo o! Dinoront Goo Drift noto on Ratio of
+llootrio l'iold mtonoity I: to an Prouuro p: 0 --
+
+Argo--Cﬂ4lﬂ "C02
+
+ 
+
+liquro 3. Hultichonnol Diochorgo in Rotor
+
+morotoro, tho probloa of finding now otorogo dovicoo oriooo. lho ilportonco
+of thin promo: 1. illuotrotod by tho following owlo. It in known that
+
+1 mm: (3.6 m) or ordinuy olootrio onorqy oooto oovorol kopoolu. Not lou
+thon l Iillion ruhloo not bo opont to produoo tho oono povor in o nonooocond
+qonorotor. 'thorotoro. o ooorch for nothodo tor soot otticiont convoroion o!
+ordinory olootriool onorgy to poworrul short onorqy hoo boon oonduotod for o
+long ti- in tho loot divoroo loborotorioo.
+
+tho of tho oolutionl to tho dovolopod situation io to an inductivo onorgy
+otoroqo doviooo «Id cnrront onto“ in thou. mono invootigotionl on boinq
+oonduotod octivoly ond ouoooootully at tho Inotituto or Atooic Morgy inoni
+x. V. mrdutov undo: tho ouporvioion o: Modnicion Yo. P. Volikhov ond at
+tho Sciontitio March 0! Bloctrophyoicol hpporotuo honi D. V. Yotronov ot
+uninqrod. m prohlol of producing vory high pulood onorvy in tho [illi-
+ond limoocond bond- hoo boon oolvod thoro. m 183 so AN 888’. jointly
+with tho '11.): Polytomnlcol Inotituto io oolvinq tho problon of onorqy
+otorooo in inductonco and oonvoroion of it not only to niorooooond. but oloo
+to nonooooond olootron boon. It to not yot poooiblo to cowlotoly oolvo
+thio prohlu, but puloo gonorotoro hovo olroody boon dovolopod which ponit
+
+30
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+energy etorage in capacitors at low voltage, then pumping it to the inductance,
+after which the current is sharply cut off, usually due to explosion of the
+conductors. Solution of this problem became possible due to development of
+new current choppers, as which a set of a large number of copper micron con-
+ductors is used instead of the metal (oils used previously. The use of these
+conductors paraite a multitold increase of the current cutoff speed and con-
+sequently of pulse amplitude. These effects are used to develop small pulse
+generators with voltage of 0.6-l.5 NV. Electron accelerators are being
+developed on the basis or these generators.
+
+A pulsed cocelerator with electron energy of l HeV and current up to 20 kn.
+developed at 182 so an 885R end the musk Polytechnical Institute. is shown
+in Figure 4. Several of these accelerators are operating at institutes of
+the USSR Acadesv of Sciences.
+
+ 
+
+Figure d. "Puchok in" Electron Accelerator With Inductive
+Intermediate mercy Storage Device and Hicroconducting
+Current Chopper
+
+The disedvantage of current choppers in the tons of exploded conductors in
+their one-tine use. A nw conductor must be inserted to generate a new
+pulse. Usually several minutes are required for preparation and replace-
+ment of the chopper. 'ﬂueretore, these generators are not yet able to
+operate in the large-tregmncy pulae node. In this regard the injection
+thyratron which was discussed above opens up interesting possibilities.
+current tutor! in it may occur due to stopping electron injection.
+
+31
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL U88 ONLY
+
+'lhe following experiment wee conducted to check the poeeibility of current
+cutoff. A volteqe of 330 xv wee fed to en injection thyretron. The current
+of the injected electrone cocprieed 18 kit. The current in the thyretron
+iteelf wee 150 to. After the electron current wee etopped in the injector.
+the current in the thyretron wee etopped ee well. 1n. cutoff time of current
+of 150 ha oouprieed epprorieetely 200 ne.
+
+HoweVer, it ie difficult to uee en injection thyretron ee e current chopper
+in the preeenoe of en inductive etoreqe device due to develop-mt of inete-
+bility in the thyretron pleene. an. electric field in the epece gee die-
+cherge pleene of the thyretron increeeee etronqu during current cutoff. It
+eleo leede to inetebility of the epece diecherqe end forution of e diecherqe
+chennel. 'lb eliminete thie inetehility, the electric field met be reduced.
+for erewle. by increeeing the dietence between the thyretron cethode end
+enode with fixed volteqe. nut um leede to e decreeee of current which
+puape the inductive etorece device. 'lherefore, qeeeoue nedie uuet be found
+in which the dieoherqe current, proportionel to the electron drift rete,
+will be greeter in well electric fielde. lt wee noted above thet methane.
+the uee of which MY be very ueeful. hee thie property.
+
+ 
+
+figure 5. Printe of :lectron Beer: of Different Type
+
+One of the aoet eignificent trende in the uee of powerful nenoeecond pulee
+equipmnt ie .e‘“ uee in heevy-current nenoeecond electron ecceleretore.
+The firet inveeticetione in thie direction were conducted independently in
+
+32
+FOR OFFICIAL USE ONLY
+the USSR and in the United States. A group of research associates at 18!: so
+AN 8881! developed the first heavy-current nanosecond electron accelerator in
+the 0881! in 1.967. This was preceded by alnost a decade of Investigations on
+powerful nanosecond pulse technology and study of the discharge in a vacuu-
+duc to the effect of high-voltage nanosecond pulses. The investigations led
+to the discovery of the phenonenon of explosiVe electron eniseion, consisting
+in the fact that the nicroscopic points on the cathode explode due to the
+effect of the autoelsctrcn enission current. A natal-plans transition is
+forned in this case which contributes to sharp asplification of electron
+current. The electron currents nay be extrenely high -- up to hundreds of
+thousands and even nilliona of anperes.
+
+Explosive electron enission is used in heavy-current electron accelerators.
+There are three types of these accelerators. liret, an accelerator which
+permits ensration of a focused electron bean. For exanple. current density
+up to lo Ala2 has been achieved at the Institute of Atonic Energy insni
+
+I. v. Kurchatcv and at PIA” [Physics Institute ineni P. N. bebedev of the
+USSR Acadeny of Sciences].
+
+Second, an accelerator for generating large-area beans. A wide electron
+bean can be produced and discharged into the atnosphere with the existence
+of nany enissicn centers on a large surface. For exasple, beans with cur-
+rent up to 20 kA and area up to l n3 for to; laser pulping have been achieved
+at 188 so AN SSSR.
+
+Third. beans of tubular shape can be produced in accelerators by using diodes
+with intersecting electric and nagnetic fields. Prints of three different
+types of beans produced in accelerators of Isa 80 AN 3332: a -- an annular
+been 6 cn in diamter with current of lo hA and electron energy of 600 kev;
+b -- a flat bean lo on wide with current density of lo A/cnz. tk - 25 nsy
+
+and c -- a focused bean with current density of 5-106 vaz, are shown in
+Figure 5.
+
+Development of powerful nanosecond electron bean equipsnnt strongly stinulated
+the possibility of using than in theraonuclear fusion. These investigations
+are being conducted at a nusber of organizations in the USSR and prinarily at
+the Institute of Atoaic mergy under the supervision of 1.. I. mdakcv and at
+the Institute of Nuclear Physics of the Siberian Depertnsnt of the USSR
+Acadeny of Sciences under the supervision of Corresponding Hedaer of the
+
+USSR Acadeny of Sciences 0. D. Wutov.
+
+Three high-voltage stands of the IS: so AN 353]! for production of nanosecond
+pulses having voltage greater than 3 IN and current up to 500 RA, which will
+be med to conduct various types of investigations related to the effect of
+these pulses. are shown in figure 6.
+
+The use of high-voltage nanosecond pulse eguipnent pernits solution of the
+problan of niniaturizetion of high-voltage devices. It follows from Figure 7
+that the electric strength of insulation increases strongly with a decrease
+of pulse length, that is, high electric field intensity can be achieved with
+
+33
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL U58 ONLY
+
+ 
+
+Figure 6. liigh-Vclteqe Bundle for Nenoeecond Pulse ﬁsts
+
+short length. mis penits solution of the problem of miniaturization of
+high-voltage devices. a: this besis, e series of essentielly new x-rey
+epperetus hes been developed under the supervision of V. A. 'l‘sukerlen end
+
+N. I. Koeayek during the pest aw yeers st the no aurevestnik. uplosive
+emission oethodes ere used es the electron source in then. me tunde-sntel
+reseerch of uplosius electron eeission end the eutoeeission processes which
+stieulete it, cerried out by out group et monk, by G. N. Pursey et Leninqred
+University, end elso by K. I. Yelineon et the Institute of indie mqineerinq
+and Electronics of the U58)! Medea of Sciences end by v. N. Shrednix et
+
+the Leninqred Physicotechnicel Institute ineni A. !. Ioue of the USSR
+Acedeqy of Sciences. contributed to the success of: this work.
+
+The weight or the x-rey epperetus now produced is 8-10 tines less then ordi-
+nexy epperetus. these X-rey devices ere used ectively in flew detection,
+specificelly. to x-rey gee end oil pipelines. to celihrete redietion detec-
+tors, in udicel prectice end so on. Development end introduction of these
+nenosecond x-rey epperetus denotes e reel revolution in x-rey tedusoloqy.
+They ere now being sold in ell m countries end elso in the United stetes.
+West Gunny. mglend. Jepen end other cepitelist countries.
+
+34
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+figure 7. Woe of Blectric Strength of Different Hedie on
+Puleebenqth: lneir,p-10etm.d-Im 2-
+dieleotric weter eurfece. d - 3 a: 3 -- vecuun. d -
+- 0.5 u: d -- trmefor-er oil. d - 1.2 u
+
+The enell overell dieeneione end the poeeibility of producing high outpute
+rake powerful nenoeecond electronic accelerators exceptionally pro-icing
+for production purpoeee. aperilente conducted et :3: so AN sssn ehowed
+that euch proceeeee ee hardening polyeeter peinte end eterilitetion of
+eicroorceniene proceed with identicel eucceee upon expoeure to both conti-
+nuoue end nemeeoond pulee been with high pulee recurrence frequency.
+
+'lhe ”sinus-4" ecoeleretor, which hee everece output of 6 kw. pulee recurrence
+frequency of 100 I: end pulse length of 20 ne, ie preeented in figure a.
+
+An inetellntion for ueing powerful an? puleee with recurrence frequency of
+100 a: hee been developed in joint work of run. the Applied Phyeice lnetitute
+of the 088R hoedeely of Sciencee end 183 so an 8883. It inch e powerful
+nenoeeoond pulee generetor, e diode for eheping e tubuler electron been. e
+reeonetor end eolenoid. lnveetiqetione to produce powerful 5H! enieeion
+puleee Ming heevy-current electron bee-e were begun jointly in the 1970'e
+
+by the Applied "voice of lnetitute of the 0353 hcedeey of Sciencee end by
+rum. Theee inveetigetione leid the beeie for the lerce cycle of reeeerch
+which hee now received internetionel recognition.
+
+Powerful nenoeecond electron been equip-ht nede it poeeible to obtein new
+fundenentel reeulte in nucleer phyeice. eolid-etete phyeice. in gee- end
+vecmn-diecherqe phyeice end eo on. for exeqle. the firet inveetigetione
+of the effect of powerful been on ion cryetelline dielectrice end gleee
+were perforned et the Mk Polytechnicel lnetitute end the :8: so IN 8853
+due to the uee of heevy-current ecceleretore of 18! ee eerly ee 1969. meee
+inveetigetione peuitted the detection of euch phenonene ee brittle feilure
+of ion cryetele. eeniconductore end glee” funde-entnl pleene lunineecence
+heving tecpereture independence; high-energy conductivity during the effect
+
+35
+l’OR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure 8. “sinus-d" Electron Accelerator of 18! so A8 8559.
+
+of an electron beam and so on. One can state that a new trend related to
+study of phenouna caused by formstion of e degenerated electron-hole places
+whose density is up to 109 times higher than that in stationary irradiation
+in ordinary eooelerators, occurred in irrediation physics of dielectrics.
+
+'mus, powerful nanosecond pulse equipment now finds application both in
+various physicel investigations and in solving a number of production pro-
+blems and its capabilities are far free exhausted.
+
+A discussion was held after C. A. heeyate'a report.
+
+Academician .i.. V. Geponov-Grekhov pointed out the unique capabilities of
+euperhigh-pouer pulse generators to create high-frowncy eeission. Talking
+about the scientific trends developed at the Institute of heavy-Current
+Electronics of the USSR Academy of Sciences, A. v. Geponov-Grekhov euphasired
+that main efforts are concentrated here in developasnt of purely electron
+beans and, moreover, developnent of accelerators is being carried out for
+specific applications. The Applied Physice Institute of the USSR Acadeny
+
+of Sciences is cooperating effectively with the Institute of heavy-current
+Electronics. specifically in the field of sat—enission application.
+
+L. I. Rudekov euphesired in his talk the iwortance of extensive development
+of the problem of producing euperpoverful emission pulses, being carried out
+under the supervision of G. A. Hesyats at the Institute of Heavy-Current
+Electronics of the Siberian Deparwont of the USSR Academy of Sciences.
+
+36
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+l1. s. Rsbinovich noted the inportant role which the investigatione of the
+scientific collective headed by G. A. Ilesyate played in the work of run
+
+in laser technology and development of poverful an! generators. Approxi-
+Iately loo ditterent accelerators developed at different institutes are now
+
+operating in the USSR. There is already an acute need for industrial pro-
+duction or accelerators for various purposes.
+
+Aoadeeician Ye. P. Velikhov talked about the cooperation oi’ the Institute of
+Heavy-Current Bleotronics of the Siberian Department of the USSR Acadew oi'
+Sciencee and the Leningrad Scientific Research Institute of llectrophyeicel
+Apparatus insni D. V. Yetrenov in development of a seriee of accelerators
+for different purpoees. One of these accelerators is already produced by
+industry. -
+
+The President o! the 0888 MM of Sciences Acadenician A. P. Aleksandrov
+authorized the discussion. He turned attention to the fact that alnoet
+identical accelerators are now being developed at different institutee for
+ditterent production purposes and expressed the opinion of the need to
+coordinate ettorte in this iield. Raving noted the great successes of the
+recently created Institute of heavy-Current Blectronics of the Siberian
+Department or the USSR Acedesy of Sciences in working out the problee of
+superpwertul nanosecond pulses, A. P. Aleksandrov wished then further
+sucoese in developnnt of this Wt trend.
+
+COPYRIGHT: Indetel'stvo "Nauka'. ”Vestnik Akadeeii nauk sssn". 1979
+
+6521
+630: 1870
+
+37
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+PUBLlCATIONS
+
+ORGANIZING THE OPZMTIGI OF A CWUTING CENTER
+
+Moscow ORGANIZATSIYA RAM? VYCHISLITBL'NOGO TSBNTRA (Organizing the Opera-
+
+tion of n Conputing Cantor) in Russian 1978. signed to prooo 11 Jul 78.
+pp 1-6. 186-191
+
+lAnnotntion. foroword. introduction. Appondix S. bibliography. and table of
+
+contents fro- book by I. A. Orlov. tndotol'otvo "Enorgiyo." 28.000 copioo.
+192 pogco]
+
+[Tout ] ”NOTATION
+
+Tho purpoooo {or toning conputing contoro. thoir iunctiono. and organica-
+tional otructuro oro diocuoood in tho book. Aloo diocuoood oro oucotiono
+of otondarditing nothodo. procoduroo. ond tho oporttiono ooquonco ot tho
+conputing cantor. which oll turn out to bo baoic for achieving onooth and
+oyotonotic conputing contor oporationa. Procouao of proparing. controlling.
+and prucoooing intonation nro roviowod. no in tho principle of organining
+conputing cantor oporationo.
+
+Pluch attontion io dovotod to tho noon- and nonauroo instituted to cronto con-
+ditiona for not: offoctivo conputor utilization. In thio contont. quantiono
+of tho tonporoturo rongo within which oonutora oporoto. diotribution and
+oupply or cloon air in tho conputor roon. control of noioo and vibration.
+
+ond powor oupply of tho conputor oro conoidorod.
+
+Tho book io intondod for otudanto of tochnicnl high ochoolo who. through
+their vocation. aro tied to tho oorvicing and utilization of coqutoro that
+torn port of a counting contor.
+
+MAC!
+
+Tho prcoont tour for otudonto of technical high ochoolo io intended for tho
+couroo on orgonizing tho oporation of a oonputing contor. which conoo uodor
+tho opocialty aroa of oloctronic conputoro. inotrunonto. and dovicca. Con-
+oidoring tho oito of tho book and tho gononl diroction of tho couroo. tho
+outhor did not undortako to turn thin book into a roioronco volt-o with
+
+dotailod oxplanotiono of oil poooiblo nothodo and procoduroo of organizing
+and corrying out oporationo of a cowuting contcr. Nor did ho dolvo deeply
+into tho oroa of coin; tho oquipncnt and nothoda for aoouring ito oiioctivo
+
+38
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ()NIN
+
+utilization. The purpose of the book is to discuss the solution of all ques-
+tions from a general (and sufficiently complete) point of view and. above
+all. to create in the reader a proper understanding of how all basic work of
+a computing center should be conducted in principle and what the general
+forms and rules are for its organization and execution. Many of these fans
+are now practiced at our leading computing centers. although there are also
+those ingenious and useful methods found in the practice of foreign comput-
+ing centers race-ended in the book for our acceptance.
+
+The level of development reached by computer technology demands a correspond-
+ing level of organisation in its utilization. Only in that case will it be
+possible to obtain a truly well-adjusted end efficient operation of a com-
+puting center in all its branches. It is thus even more important to train
+young specialists into whose hands the future of our technology will be
+placed.
+
+INTRODUCTION
+
+The urgent tasks of further developing science end technology in our country
+and of finding the fastest (end the most efficient) solution of scientific.
+engineering. and economic problems arising as pert of these tasks gave rise
+to the formation of computing centers. rather than a simple desire to
+increase the efficiency of using digital computers and to improve the condi-
+tions of servicing them. National and foreign experience in manufacturing
+and applying computing technology shows that the most promising direction in
+solving such problems is the integrated utilization of a large number of dig-
+ital computers used within the framework of a computing center. which in
+final form represents a unified network of computing centers.
+
+The complexity and multifaceted nature of the problems posed leads to the
+necessity for maximum utilization of digital computer capabilities and to an
+intimate. creative collaboration of specialists in a whole line of disci-
+plines. The most favorable conditions for such cooperation and effective
+utilization of digital computers are possible within the framework of comput-
+ing centers equipped with digital computers of various classes. and by con-
+centrating large numbers of specialists with appropriate qualifications in a
+single place.
+
+But the cmuting center is not just a collection of computers and experi-
+enced specialists: it is a comlex mechanism. where there should not be sepa-
+rate cetegories such as computers. progran-srs. modelers. and so forth. but
+instead should be a unified. functional team. with a common plan. rule. and
+rhythm directed toward an effective implementation of the link between cus-
+toner and computer.
+
+Nevertheless. today. when computers are equipped with a well-developed
+
+library of subroutines and a system for automated programming. preparation
+of problems for solution on the computer still remains a laborious and _
+costly process. One of the reasons for this is that the necessary forms and
+
+39
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+rules for regulating the work of the besic work groups at the conputing cen-
+ter end for assuring nutuel understanding sarong then (end with the customers)
+in working out conplen progrens heve neither been sufficiently worked out nor
+are they being enforced rigidly enough. It is eesy to insgine how. under
+these conditions. the chsin linking custoner end cosputer. whose links are
+precisely sodelsr. progre-er. end operetor. is lengthened. It is therefore
+necessery to eeteblish stricter control of the entire process of prepering
+end processing infer-scion in e coeputing center. for which there should be
+provided et eech of the centers en eppropriete digest of rules end proce-
+dures. thet is. en esteblished fore (stenderd) for orgenising the work of the
+nodeler. progresser. operetor. end so forth. down to the nechsnicel utilize-
+tion of the cosputer itself. Only in thst ones will e cosputing center
+becoee en integreted. well-belenced nechenisn.
+
+By stenderdieetion is neent the eeteblishnsnt of strictly defined fares for
+docusentetion. generel rules end order for the execution end submission of
+
+work in ell subdivisions of the coeputing center. This is e neceesery pre-
+requisite for reeliting control over the operetion of the conputing center.
+end consequently else for the opportunity to increess its efficiency.
+
+Locking such stenderds. the lenders of the computing center find it is ispos-
+sible to eveluete precisely the tine for execution of one or snother opere-
+tion. end those who perform en operetion frequently heve only e vegue ides
+sbout this letter. cerrying out their obligetions in eccordence with their
+own conception of sethods end spheres of operetion.
+
+The existence of eppropriete stenderds for the work of personnel end equip-
+ment nekes it possible for the leedership to estinete properly the levels of
+expenditures. detes. end speeielist steffing necessery for the efficient
+operetion of the conputing center. end to introduce chengee into the existing
+systes of progre-s in order to eeteblish eppropriete control. Leedership hes
+to hsve the opportunity to evelute the true landing of the squipnent end
+personnel end. consequently. determine the nest efficient node of operetion
+of the entire computing center in view of sveilsble resources.
+
+of course. the took of precise stenderdiestion of the entire operetion of
+inforsstion processing in e cosputing center is coepliceted end collides with
+e whole number of problene. which Iekes it ispossible to solve it exsctly.
+The current incomplete chenge of cosputer generetions. the eppesrence of
+ninicosputere thet heve considereble cepebilities. the introduction of Iulti-
+progre-ing cospnters end cosputers with tine division operetion. end.
+finally. the successful developnent of devices thet receive infornetion
+directly fron text or es the spoken word. these ell prove end will continue
+to prove to heve e significent influence on the for- in which cosputer opere-
+tions ere orgenised st s conputing center. In view of the leek of edequete
+experience in the utilieetion of ell these modern cosputere. s certsin enount
+of tine will be required in order to crystellise s more efficient structure
+for cowuting centers end for the ferns for orgenieing the work in these cen-
+ters before it will be possible to speek of truly stenderd ferns end struc-
+turee.
+
+60
+FOR OFFICIAL USE ONLY
+FOR OPFICIAL USE ONLY
+
+At the one tine. operational experience at leeding conputing centore under
+all thou conditione than that it ie not only poaeible but neceaeary to
+
+booo ell work on otrict and conpletoly defined rulea for organization and
+procedure. which nnke pooeible not only ehorter tine apane for certain oper-
+etione hut aloo oubetantial increaae in the quality of execution. It io pre-
+cioely the etricter etenderditation of the current operating for-no at o con-
+puting center that hoe to be the haoio for sore efficient utilitetion end
+
+the platforo for nore euccaeoful develop-em and aoeiniletion of future
+developnento. In thin. the otenderdlution of the oporeting oide of infor-
+netion proceeoing has to be booed on o technological foundation which. in ito
+turn. «undo the iglooentation of ebeolutely preciee and detailed rulee.
+Only tho oloultaneouo eatietence of otendardited nethodo for uoing equipnent
+end provioion of an effective operation naho pooeihle the creation of e truly
+integrated. well-balanced nechonion. the noet efficient for. of inplenenting
+the link between cuotoler and computer. both in the prooent end in the future.
+
+’41
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL 088 ONLY
+
+   
+
+ 
+
+5 i
+e . a ., ..
+Am! 2‘ a 5 ° 5
+g a S E a
+' A x x x x _
+is 2 a 3 a
+._ x x x g -
+
+1:00 3731
+:m cm
+
+mo 33!!
+
+     
+
+(8)
+(3)
+(9)
+(10)
+
+.I
+WON}:
+
+353*. m-
+w;
+
+ 
+
+scam
+(0-00 (11)
+LVNO
+(coca (11)
+mm
+man”
+(0139) (11)
+new
+(030’) (11)
+
+62
+FOR OFFICIAL USE ONLY
+POR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000100040054-7
+
+I 2.8.3:! 0 nah-Maire) _ Anny . «ﬂu...
+_ u Salty: 0 akmea» £9) Anny «3.4.8
+A
+
+v9.1.9“
+5.. pw-ﬁxgleh raw—Jinn”) an: .«nwwkuu.
+tag. i. . .
+. Lap :an raw? ac .ﬁ.
+n :3 such
+
+a ouvoiauzgg . ..
+a: Lrnwau. 31$
+
+                                  
+
+. a.» ma.<.§.X§
+
+«3 a3. X82 XS“
+
+3 82 x :8. S“
+82 x. 8: on
+«— 82 Vtgu x 9‘
+
+3.. RB. X8323. 9.0 Ella .08 3 9.958.»: . ..
+
+. . £5 5!. 23 .mmn%
+.« .80qung no Ulric-a Ellie-13.23.84.— g
+a.» g..X§.X8~ a: ¢ g 9. 0.833 Andy g
+«#4. 8n. Xnvanéh v; may 2...“. cal-ICU. 5. go: :3 6%
+
+8.: .3323qu e“... A 3129.3 5.: 1:83.31»: 23 «3.18
+e.« 3825
+n _ Qanb
+
+  
+
+gag—3:3 x2323:
+
+(.3
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-ROPOZ-OOOSOROOMOOMOOSA-T
+up; gmﬂmﬁ__ I 9.3
+
+280»
+
+SS .38.
+
+8d BaxauXB... 826»
+23 .88.
+
+8.. 8332an 82.8
+§.X8:X _ .2 g
+
+«.5 98.xsnxﬁf A v.83»
+amﬁmﬁ as ”am...“
+:8. §.x§ SS .88.
+
+8.x a8.X3o.X~oz 5:3
+25 58.
+
+Q. 5.X2_.X§= SEQ
+. a 2d 83%
+
+an. X82 x 8... . . a 23.8
+FOR ONIOIAI. USE ONLY
+
+Key to Appendix 5
+
+1. Bquipeent code cueber
+
+2. Me end conceition of oquipnent
+
+3. Power required. in kilovette
+
+5. Heat generated. in kiloceloriee per hour
+
+5. Flow of eir through equipeent. in cubic netere per hour
+6. Overell dineneione. in I
+
+1. Aree required for eervicing. in equere netere
+
+8. Proceeeor
+
+9. Interconnect «itching cebinet
+
+10. Operetin; unory equipeent
+
+11. 11881!
+
+12. GDP.
+
+13. Polieh People‘e Republic
+
+16. Kultiplex chennel
+
+15. Kegnetic tepe etorepe
+
+16. Hegnetic dru etorege
+
+17. Dionounteble negaetic diec etorese
+
+18. Penenent negnetic diec etorese
+
+19. "emetic cerd etorese
+
+20. Control device {or necnetic tepe etorege
+
+21. Control device for nesnetic diec end drue etorese
+22. Input device for reedin; punched cerde vith 388R
+23. Punched tepe reeder
+
+25. Punched cerd output device uein; 388K
+
+25. Alphenuleric printer ueins BSSX end beecd on en Al'ePU 128-5 device
+26. Gupta-plotting device uein; e plotter with 388K
+27. Greph-plottinp device of roller type
+
+28. Input-output device {or elphenuleric end .reph inforletion ueing e
+cethode rey tube with 338!
+
+29. Renate terlinel for input-output 0! cl benuuri info.
+cethode rey tuba with 338‘ P c union “in:
+
+30. Printer with 388! beeed on the mam-zoo device
+31. Dete preperetion equip-eat
+
+65
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+BIBLIOGIAPHY
+Prinory
+
+l. Brondon. o. 10.. “argonizing tho Oporotion in o Computor Contot." Hoo-
+oov. Sutiotiko. 1970.
+
+2. Anon. "Software Syoto- for Conpntoro of tho Unifiod Sorioo." Mouton.
+Stotiltilu. 1976.
+
+3. Anon. “tho nos Oporoting Syotom for tho Unitiod Sorioo." rioocov. Sto-
+tiotikn. 1975.
+
+lo. Potoyov. A. Yo.; Roytnon. A. L; Potoyovn. 'r. P.; at. ol. "Application
+Progromo in tho Softworo Syoton for tho Unifiod Sorioo Coopntoro." Hoo-
+cov. Stotiotiko. 1979.
+
+5. Khrynkin. N. s. "Conpnting Contor Bqnipnont." )loocov. Stotiotiko. 1972.
+
+6. Rotnikov. 6. V.; Ob‘voktov. Yu. 8.; Crochov. V. I. "Dooign ond Supply
+of Conpnting Contoro hood on n Uniiiod Sorioo of Conpntoro." Hoocov.
+Stotintikn. 1977.
+
+Supplonontory
+
+l. Bnymnov. G. 01.; Tolluctovo. I... M. ”Plonning ond Accounting for Opera-
+tiono of Computing Pocilitioo.” Hoocov. Stotiotilln. 1976.
+
+2. Divnogortoov. c. In; Ymohin. V. H. "Syoton ond Equip-out of Intel-notion
+Exchongo in tho Conpnting Contor Notvorko.“ Hoocov. Swoz'. 1976.
+
+3. Ivonov. V. A. "Dotonining tho Throughput Copohility for Oporotiono ot
+Computing Contoro." Hoocov. Bhononilu. 1975.
+
+la. lloyngol'd. s. I»; ntoltobin. V. l. ”Orgonizotion and Opcrotion of Con-
+pnting Focilitioo,” Hoocov. Stotiotiko. 1976.
+
+5. son-m. V. V. “0n tho Qnootion of Bvolnoting tho Probohility of Brroro
+in Doto Produced by Conpnting Contoro," in tho hook "ltuoricol Conpnto-
+tionol ‘rochnology ond Progro-ing." Hoocou. Sovotohoyo lodio. loouo 7.
+1972.
+
+6. Sonivino. V. 8. "Botinoting tho Quolity of Functioning of Antontod
+Control Syotono." BkonoIikn. 1973.
+
+7. Orlov. l. A. "Ponndotiono of Comntor Tochnology ond Orgonizotion of
+Colputing Oporotiono.” Hoocov. Bnorgiyo. 1976.
+
+8. Lopohin. 6. H. "uporionco in Orgonising tho Oporotion of Computing
+Contoro." Loningrod. 1381?, A811? oorioo. 1975.
+
+9. Volkov. o. it. "Piro Protoction o! Conpnting Contoro.” Hoocov. Stroyit-
+dot. 1973. ‘
+
+10. Anon. "rho Dooignoro loforonco Book. Noioo Protootion." edited by Yo.
+Yo. Yndin. Hoocov. Stroyitdot. 1974.
+
+CONTENTS Pogo
+
+Pretoco 3
+
+Introduction ‘
+
+Choptor l. tor-notion of Computing Contoro 7
+56
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+1.1 Purpoooo for formation and baoic functiono of conputc-
+ing cantoro
+1.2 Organizational otructuro of computing contoro
+
+Chaptor 2. 8aquonco of Oparationo at a Counting Cantor
+2.1 'rho Valuo of otandardo for dirocting conputing cantor
+oparationo
+2.2 Hothodo uood by modal daoignoro in thoir work
+A. Choico of toninology
+l. Analyoio of procoduroo and docunanto
+c. Purpooo and nuboring of docuoonto
+D. Standardizing of block diagrano
+B. Liot of baoic oporationo
+2.3 Proparation and oxocution of prograao
+A. 'l'ha oyataa of conputor ooftvaro ao a noano for
+proparing and oxocuting programa
+I. Uoing tho liot of baoic oporationa
+C. Standardizing logic analyoia
+n. Proparation and azocution of programa
+B. noculonting tho progra-ing ayato-
+2.‘ Tho work of tho oporator
+A. Intorior arrangomont
+3. Accounting for nachino tiao
+C. work at tho toninal
+D. Contro1 functiono
+2. Library organization
+
+Chaptor 3. Rochanical Oporationo of Intonation Procoooing
+at tho Computing Cantor
+
+Rocoiving tho input information
+
+Proparing initial data
+
+Procooaing of information
+
+Proparing output documouation _
+
+‘l‘ha oifoct of oovoral factoro on information procooo-
+
+m
+
+Gonoral ruloo for phaood control of infornation
+
+A. locoiving and control of input don-onto
+
+l. Tranofor of information to nachino nodia
+
+C. lotoring conditional-parlanant infornation
+
+D. Procooaing of data in tho conputor
+
+8. Control and output of information
+
+3.7 Savoral quoationa concorning tho dotormination of
+raliability otatiotico for infornation procaooing
+
+3.8 Soquonco of uocuting computational work at a comput-
+ing cantor
+
+H UFUUU
+O MOUNH
+
+Chaptor 6. Houuroo and ﬂoano for Aoouring Bfficiant Utiliza-
+tion of Digital Water.
+6.1 ‘rochnical maintononco of digital computora
+
+47
+FOR OFFICIﬁL USE ONLY
+6.7
+
+6.8
+
+FOR OFFICIAL USE ONLY
+
+A. Routine preventive neintenence
+
+l. Servicing equip-en:
+
+c. Queetione of developing eoftvere eervice
+
+Effect of utilitetion conditione on the throughput
+
+of e digitel conputer
+
+Storege conditione for cerriere of interaction
+
+Cooling the «outer end dietributing eir in the
+
+coquter roon
+
+A. Cooling the conputer
+
+B. Dietribution of eir in the computer roo-
+
+Keene for providing cleen eir in the conputer roo-
+
+Air-conditioning ee en effective neene of neintein-
+
+ing opereting tenpereturee of the conputer
+
+A. Heene for eir-conditioning the counter tool
+
+I. Syetene for conditioning end cooling eir
+
+C. Syeten diegren for conditioning end cooling eir
+
+D. Stendby equipnent
+
+Heene of noiee euppreeeion end vibretion control in
+
+e coeputing center
+
+A. Meeeuree for lowering noiee end vibretion in e
+eoquting center
+
+I. Controlling operetionel noiee in e counter roo-
+
+Pover eupply. lighting. end fire prevention in e con-
+
+puting center
+
+Appendix 1. torn No. 1: "Report of Brrore Diecovered end of
+lnfornetion Controlled on e neily Beeie in e Conputing
+Center”
+
+Appendix 2. Liet of Control Operetiono in Proceeeing infome-
+
+tion
+
+Appendix 3. mm of Brrore Arieing in Proceeeing Infomtion
+et e Conputing Center
+
+Appendix o. leeeone for the Appeerence of Brrore in the Proc-
+eeeing of lnfornetion et e Computing Center
+
+Appendix 5. Reference here for Eerdvere of Colputere in the
+Unified Syeten
+
+Bibl iogrephy
+
+comzm: Indetel'etvo "Bnergiye." 1978
+
+6938
+
+080: 1870 END
+
+43
+FOR OFFICIAL USE ONLY

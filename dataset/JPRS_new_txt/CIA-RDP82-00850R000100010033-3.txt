@@ -1,0 +1,4502 @@
+APPROVED FOR RELEASE: 2007/02/08: CIA-RDP82-00880R000100010033-3
+FOR OH‘ILIAL USE ONLY
+
+JPRS L/8226
+17 January 1979
+
+SELECTED TRANSLATIONS FRO‘I THE SOVIET
+JOURNAL OF THE OPTICAL ENGINEERING INDUSTRY
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the origins! phrasing and
+other characteristics retained.
+
+headlines, editorial reports, and material enclosed in brackets
+(I are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was sumrized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Hords or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the u.s. Government.
+
+PROCUREMENT OF PUBLICATIWS
+
+JPRS publications may be ordered from the National Technical
+Information Service, Springfield, Virginia 22151. In order-
+ing, it is recosnended that the JPRS number, title, date and
+author, if applicable, of publication be cited.
+
+Current JPRS publications are announced in Government hearts
+Announcements issued semi-monthly by the National Technical
+Information Service, and are listed in the Monthly Catalog of
+0.8. Government Publications issued by the Superintendent of
+Documents, ".8. Government Printing Office, Washington, D.C.
+20602.
+
+Indexes to this report (by keyword, author, personal names,
+title and series) are available through Bell 6 howell, Old
+Mansfield Road, Rooster, Ohio, “691.
+
+Correspondence pertaining to matters other than procurement
+may be addressed to Joint Publications Research Service,
+1000 North Glebe Road, Arlington, Virginia 22201.
+$03" ‘I -
+
+ 
+
+ 
+
+REPORT MUUEMAWN h neon "°~ 2- ll lama Anne-en m
+m: : spas L/8226 _ ' _._..
+
+e. um and will. ' " " .‘._-.. - - ‘ "—— '_"" .‘.__.. 1 loan om 79
+SELECTED msunons non ms sovm JwRNAL or me ‘ 17 “n“ 19
+OPTICAL ENGINEERING INDUSTRY I
+
+. Mm owe-“ulna Home and Asian I l0. munnm; W ”I
+I
+Joint Publications Research Service m-
+1000 North Glebe Road I“
+Arlington, Va. 22201 ho:
+ILWML‘MMNW u. .,..n...u...;‘c:.:.';"“
+
+As above
+
+at W «cm
+OPTIKO-HEKBANICHESKAYA PROHYSEENNOST' . Leningrad. 1978
+
+lemma-mm“
+
+This report contains a selection of articles on optical information processing
+systeas. electrooptical direction-finding equipment and electrooptical scanning
+
+systems, and photodatectora. Several articles are devoted to characteristics
+of various types of optical glass.
+
+ 
+
+)1. lie-M Male a. Dew-n
+
+USSR Direction finding lnterferogran
+Optics Scanning Optical glass
+Information processing Photodetectors Dielectric mirrors
+
+I» WW um
+
+continuum—L73, 17c, 17H,_ 20?
+
+ 
+
+ 
+
+ 
+
+ 
+
+lt—MM nemm.mw» 2|.Mel'J”
+Pox orncm. us: our. united masher of -msuua._ I 85__ _ , ,__
+copies ava ilabls fro- JPRS a. sou-cu cu- am no» u. m.
+Uncle ‘ sified
+Mans-nel- lame-luau manna-m
+
+(7000.097 mes-u)
+W‘m
+FOR OFFICIAL USE ONLY
+
+JPRS L/8226
+
+17 January 1979
+
+SELECTED TRANSLATIONS FROM THE SOVIET
+JOURNAL OF THE OPTICAL ENGINEERING INDUSTRY
+
+Leningrad OPTIKO-MBKHANICKBSKAIA PROHYSHLBNNOST' in Russian 1978
+No 8 pp 5-9, 17-23, 42-44, 59-61 and No 9 pp 7-10, 25-28, 36-42,
+
+46-47, 56-58, 71-73
+
+CONTENTS
+
+The Relation Between Parameters of an Optical Information Processing
+System and Characterietice of the Optical Elements
+(Le 1e mpoV. 0t 81.)”...u...”cu...”nun-”unnuunu
+
+Evaluation of Star Seneor Errors in Electrooptical Direction-Finding
+Inetrumcnta
+
+(V. D. Smirnov)................................................
+
+Concurrent Optimization of Optical and Electrical Filters in
+Scanning Electrooptical Systems
+
+(YUe “e ”makty)eeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaeeea
+
+Analyeie of Methods for Taking Into Account Raster Dietortiona and
+Inatabilitiea in Electrooptical Instruments Hith Electronic
+
+Scanning
+(V. K. Sablin, et al.).........................................
+
+An Illuminating Device for Teeting Coordinate-Sensing Photo-
+detectors
+(Ye. N. Vyeotakiy, et al.).....................................
+
+Method for Determining the Nonlinearity of Photodetectora
+(Le Ne Abyutov, Ge Ke KMIOPOV)..."on.n..u.....un...nu
+
+Automating the Proceaeing of Interferograaa in the Testing of
+Optical Syetema
+
+(Va A- 2'02". Gt .1m)meaeaeeOeeeeeeeaeeeeeeeeeeeeeeeeeoeeeeeel
+
+PAGE
+
+12
+
+22
+
+30
+
+60
+
+- a - [I - ussn - L r000]
+
+POI? OPPTPTIT. "SR ONT-Y
+FOR OFFICIAL USE ONLY
+
+WMBNTS (Contimled)
+
+Computer Processing of Interferograna and Detemination of the
+Point Spread Function and Optical Transfer Function in Tooting
+and Finishim of Optical System
+(“0 A. en“. .t 01.).ODOOOOOOOOOOD0.0....OOOOCOO....I'..OOOOQO
+
+Catalog of Optical Glasaes of the USSR and 60!:
+(c. T. Petrov'kiy’ .t .10)....OIIOOUOOOOOOOOOOOIOIIOOOOOOOI.O
+
+Mechanical Strength and Thsrnal Stability of Needy-ital classes
+(V. “a H1t2m, at .10)Oaaseeeeoeaeeeeaseeseeaeeeessooeesaeeo
+
+Hide-Band Dielectric Mirrors Made of Titanium and Silicon
+Dioxidea
+(L. L. “takevl‘h, at ‘1.)OOOOOIOOOOIOOIIOIOOOOOOIOOOIOIIOIOO
+
+Heaaurins Badii of curvature and local Distortions of Hirror
+Surfaces
+(“0 LI “1“:1' Ct .10)....0...I.OIIOOOIOOO0.00000000000IOCOOO
+
+An Electtooptical Modulator iii-ch Snell Nonactive Losses
+(T. A. m:°vbv.)00000.0.0.000000000.00000IOOOOOOIOIOOIIOCOOI
+
+An Infrared Radio-etc: Based on a Galliu Anenide Injection
+Photodiode
+a“. A. “tw‘n. .t ‘1')...OO....00.DOOOOIOOOIOOOIIOIIOOOOOI
+
+- b -
+FOR OFFICIAL USE ONLY
+
+108
+
+57
+
+62
+
+70
+
+710
+
+79
+
+81
+u
+
+o.
+
+u
+
+SELECTED TRANSLATIONS FROM THE SOVIET
+JOURNAL OF THE OPTICAL ENGINEERING
+INDUSTRY
+
+OPTIKO-MEKHANICHBSKAYA PROHYSHLENNOST'
+
+Optiko-Htkhantcheahya Ptonyahlcnnoot'
+
+Lon ingrad
+
+1978
+
+Optilw-Hekhnnichuhyn Pro-yshlennost'
+1978
+FOR OFFICIAL USE ONLY
+
+THE RELATION BETWEEN PARAMETERS OF AN OPTICAL INFORMATION
+PROCESSING SYSTEM AND CHARACTERISTICS OF THE OPTICAL ELEMENTS
+
+Leningrad OPTIKO-MEKHANICHESKAYA PROMYSHLENNOST' in Russian
+No 8, 1978 pp 5-7
+
+[Article by L. I. Akopov, A. A. Ayazyan, v. Yu. Pedorov, and
+Ye. G. Tsitsishvili; all figures missing in original]
+
+[Text] The relation is defined between the frequency con-
+trast characteristic of an optical system and the
+basic parameters of an optical information processing
+system: volume of information, speed of operation,
+and reliability, which are determined by the density
+
+of information channels and the output power ratio
+between “one“ and “zero" signals.
+
+Recently in the development of computer equipment a great deal
+of attention has been given to the creation of systems for
+reading, writing, and transmitting discrete optical information
+in pictures (large blocks) consisting of combinations of light
+(“one") and dark (”zero") points [1-4]. Therefore it is
+necessary to evaluate optical elements in order to determine
+the possibilities for using them in computer systems. The
+most important characteristics of these systems are volume of
+information, speed of operation, and reliability. These
+parameters are interrelated, since the Operational reliability
+at low signal levels is determined by the ratio of the energy
+of the "one" signal, 11' to the energy of the 'zero' signal,
+10, at the system output, and the value of these energies is
+related to the dimensions of the information points, the light
+flux density (luminance or illumination) on them, and the time
+the signal is present at the photodetector.
+
+1
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+However, optical image transmission systems are characterized
+
+most fully by the frequency contrast characteristic (fcc) [5-8],
+which is essentially the coefficient of image contrast trans-
+mission as a function of the spatial frequency.
+
+The light intensity distribution in the image plane i(x,y) is
+defined by the expression [6.7]
+
++0
+
+where can is the light intensity distribution in the object
+plane (the information picture): su-t-v—i) is the "scattering
+function” describing the light distribution in the (x,y) plane
+produced by a point source in the object plane (i. t). It is
+assumed that the "scattering function" is independent of
+possible noise (such as flashes in the image plane and the dark
+background). Therefore, strictly speaking, the following
+results pertain to “passive“ systems of this kind.
+
+Clearly the most "critical" type of information picture is the
+case of a “zero” surrounded by ”ones". In this case the light
+distribution in the object plane may be expressed as
+
+on. c)-o,u. :)+u.-Iom(3f-)m(’7‘ (2)
+
+where 0,“. n is an infinite periodic function with basic period
+a (equal to one step in the information picture) having the form
+
+I s
+’I'Mhenl‘KﬁlCN-f.
+0 d g
+or“ 0- ’thenl!|<-§'. 3- «(k-7;
+luv}. -§-<m<-;-.
+
+Here 31 and Jo are respectively the intensities of a 'one' and
+a "zero' in the information field.
+
+formula (2) is written with the assumption that the linear
+dimensions of the information picture are much greater than its
+step. a. Having obtained the Fourier transformation of
+functions 0(3. t). and sot-t u—u and notin that the transform of
+the function su—t 1—0 is the fcc “On“: and integrating
+according to formula (1), we obtain
+
+2!
+w“)— . E: o...(-:l,% .Ttoum) _
+“-3—-
+
+Iln;e,ssln-;-u,a
+
+X ‘ (”a n’) .ber-q’ ”. (3)
+
+2
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+As follows from (3), to find a clear form of the function i(x,y)
+it is necessary to know the analytic form of the fcc ﬂea-ﬂ or
+
+to perform the numerical calculation (along the specific fcc
+curve for each optical element). Examination of only the periodic
+part of expression (4) simplifies the problem considerably and
+makes it possible to obtain qualitative results as well. Under
+these conditions the information picture is a collection of all
+the 'ones" between which appear nothing but ”zeroes". Since
+
+for such an information picture the ratio 11/10 is less than
+
+that of the real picture, it is clear that the results obtained
+in this case will be low.
+
+The intensity distribution in the image plane will be of the
+following form:
+
+to. y)-D..uo.o)+2ZD.Q(%-°)W%"+
+I:
+
++320.” %.O)m-?u+'4 EDMX
+I)
+
+l,->I
+
+2:
+x(%. % tool‘s-nym7u.
+
+where . .
+apart-4.; ppazgmh I
+
+Du-Jﬁ-lznishi-nln in: n90, cal-0.
+
+If the image transmission scale in the periodic picture case is
+taken to be one, then the energies of “one“ and “zero" at the
+output of the system will be, respectively,
+
+and
+
+((1. ”0- (4)'
+
+Performing the integration, for the ratio 11/10 we obtain
+,. (a+-’r:)«°)+(%)’%-')s'+%(%)‘(€:-')&
+7: (3+7})qo)-7'(% '(ﬁ—IP. '
+
+  
+ 
+
+(S)
+
+3
+
+FOR OFFICIAL USE ONLY
+FOR OFFlClM. USE ONLY
+
+where
+
+a>l
+
+s,..2,1:11m_-1)-_ I___
+
+II a
+
+It should be noted that in general the fee is a two-dimensional
+function. However, in view of the fact that the optical
+elements used must be axisymmetric, but the image plane must
+coincide with the surface of the image of mean curvature, the
+fcc does not depend on the direction of the spatial frequency
+
+and
+,(2. _)-$(V5"-'*E.
+
+d a a
+
+ 
+
+Expression (5) with a known fcc makes it possible to construct
+the ratio 11/10 as a function of the density of information
+channels. Thus, for example, the fcc's presented in fig. 2
+(for Jl/J 820) represent the functions shown in fig. 3.
+Corresponging to these curves, for information densities of
+interest it is clear that S;< 1.2 110) (the series (4) with
+mm) 3 quickly diverge), and 11/10( 8. From formula (5) it also
+follows that with sufficiently large values of Jl/J (specific-
+ally, J /JO» 3), 11/10< 13. For a given value of the ratio
+11/1 , iormula (5) makes it possible to estimate the corres-
+pond ng minimum value of 1a n(l/a), and consequently also the
+maximum possible operating density of information channels
+satisfying the required relation
+
+ 
+
+~(%)~(%)’ . (Hi-ﬁlm ' .m
+(7)2W‘T()(7§)2WT‘
+
+Thus, for example, for Jl/Jo-zo and Il/Ion4, 1hin(l/a)-0.62 t(0).
+
+As indicated, examination of a periodic picture ives a low
+result. At the same time, the largest value of (l/a) obtained
+in examination of this picture is greater than the value of
+
+13 (11a), corresponding to the true value of the operating
+
+den ity of information channels. It follows that an approxi-
+mate estimation of the Operating density may be obtained from
+
+expression (6).
+
+l.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Thus examination of a periodic picture makes it possible to
+obtain relations from which one may determine, according to
+the fcc's of the optical elements, the operating density of
+information channels in an Optical information processing
+system as a function of the required value of the ratio of
+energies of a "one” and a “zero”, 11/10.
+
+however, it must be taken into account that 11/10 is the ratio
+of mean optical signal levels, which are of course subject to
+fluctuations. The degree of these fluctuations decreases as
+the signal level increases: that is, in order to guarantee
+reliable operation of a read/write system it is necessary to
+maintain the signal level as the signal passes through the
+optical system. There are methods of determining both the
+degree of fluctuation of the signal levels of "1's" and “0's“
+passing successively through an optical system [9] and the
+optimum receiver threshold providing the minimum probability
+of signal detection error [10]. If n is the minimum number
+of light quanta providing a given progggility of reliable
+system operation and A t is the time the signal acts on the
+
+photodetector, then taking into account the fact that the
+signal power is °ﬂa§a (N is the number of information channels
+
+per unit area and E is the value of the density), we obtain
+% "«';'"ue.
+where if is the energy of a light quantum with wavelength 1.
+
+Thus in choosing the parameters of systems for converting and
+transmitting optical information it is necessary to take into
+account both the fee (the determination of the density of
+information channels) and the indicated mutually limiting
+relation between the speed of operation and the light flux
+density of picture elements.
+
+In conclusion the authors eXpress their gratitude to M. Ye.
+Perel'man for his interest in the work and useful discussions.
+
+References
+
+l. Shigin A. 6., Deryugin A. 3., "Tsifrovyye vychislitel'nyye
+mashiny,’ Moscow, ENERGIYA, 1975. [Digital computers]
+
+2. Kitovich V. V., 'Magnitnyye i magnitno-opticheskiye
+operativnyye zapominayushchiye ustroystva," [Magnetic and
+magnetooptic operational memory units], Moscow, ENERGIYA,
+1975.
+
+3. Chzhan' Ti, Zuk D., TIIBR, 1975, vol 63, no 8, p 137.
+
+4. Mikaelyan A. L. 25 al., KVANTOVAYA BLEKTRONIKA, 1971, no 1,
+p. 79.
+
+5. Perren P., USPERBI P12. Manx, 1962, vol. 18 no. 2, October,
+p. 307
+
+6. Neyl 3., 'Vvedeniye v statisticheskuyu optiku,‘l [Intro-
+
+5
+FOR OFFICIAL 038 ONE!
+0O
+
+10.
+
+FOR OFFICIAL USE ONLY
+
+auction to statistical optics] Moscow, MIR, 1966.
+Mareshal‘ A., Franson M., “Struktura opticheskogo
+lzobtaZheniya," [The structure of an optical image]
+Moscow, MIR, 1964.
+
+Semenov, Ye. P., OPT.-MEKH. PROMYSH., 1967, no 1, p. 12.
+“Kaskadnyye e1eknronno«0pticheakiye preobrazovateli i ikh
+primeneniyc," (Multistage image converters and their
+application], ed. by M. M. Butslov, Moscow, MIR, 1965.
+Curran T. 8., Ross H., 93°C. 0? THE 1335, 1965, vol. 53
+no. 11, p. 1769
+
+Received by editors 1 June 1977.
+
+COPYRIGHT: Optiko-Mekhanicheskaya Promyshlennost', 1978
+
+9187
+C50: 8144/468
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+EVALUATION 0? STAR SENSOR ERRORS IN ELECTROOPTICAL DIRECTION-
+PINDING INSTRUMENTS
+
+Leningrad OPTIKO-MEKHANICHBSKAYA PROMYSHLENNOST' in Russian
+No 8, 1978 pp 8-9
+
+[Article by v. D. Smirnov]
+
+[Text] An analysis is made of the effect of primary star
+sensor errors on the accuracy of determination of
+the direction in space to the star tracked. Formulae
+are derived determining the instrumental errors of
+a generalized model of a three-axis star sensor based
+on a two-axis gyrostabilizer. An expression is
+obtained for determining the magnitude of the total
+rms error of the star sensor.
+
+Astronomical equipment has found wide use in highly complex
+navigation systems [1]. The basic subassembly determining
+system accuracy is the star sensor, which may be implemented
+both in a television version (an astrotelevision system) and
+in an optical tracking version (an automatic optical star
+tracking system). An analysis of the effect of instrumental
+errors of the star sensor on the precision with which the
+coordinates of a star are determined is necessitated by
+increased requirements for precision in astronomical equipment
+used to correct navigation systems [2].
+
+The effect of instrumental errors on the precision of deter-
+mining a given direction in space is most conveniently investi-
+gated by the method of solving spatial problems which was
+proposed for application to angle-measuring instruments [3]
+
+and is based on the use of spherical trigonometry. As distinct
+from optical angle-measuring instruments, whose geometric
+schemes are most often implemented in the altazimuthal version,
+star sensors may be built in any of three versions: ortho-
+dromic (horizontal-cruciform), equatorial. and altazimuthal.
+The most widely used are the first and third versions.
+
+7
+
+FOR OFFICIAL USE UNLY
+FCIR ()FFILUI. USE ONLY
+
+Therefore it is upprOpriatt to examine a generalized geometric
+model which combines the ortho-
+dromic and ultazimuthal schemes.
+Chosen as the model is the
+five-axis system shown in thu
+figure. Including a three-
+
+axis stur sensor and a twu~
+axis gyrostabilizer. The
+measurement axes of this
+
+system are a-a, b-h, and
+
+1-1. Fixing one of the axes
+(a-a or b-b). one obtains
+
+the orthodromic or the
+altazimuthal version of the
+system. AXes c-c and d-d of
+the two-axis gyrostabilizer,
+
+the roll and p tch axes,
+stabilize the me:curement axes Geometric model °£ a
+of the system in space. five-axis system.
+
+ 
+
+The relation of the altitude h and bearing angle [3 of the star
+to the angles b,1 , and V measured in the system is determined
+
+from the spherical triangle 5A2 by the following equations:
+
+stake-rouse“.
+slut? -9)mh-alnl¢osb, (1)
+
+an -COI“! - 9)¢o\h.
+The equations relating errors in altitude and bearing to errors
+with respect to the measurement axes may in the linear approxi-
+mation be obtained by differentiating (1):
+
+ban—Ncmhlm—Mrou.
+mom--umb¢on+amm._v,mn.
+
+(2)
+
+where A2, Ab. and N? are errors with respect to the measure-
+ment axes caused by faults in the manufacture and assembly of
+the system’s is the angle between arcs of the great circles
+[~a(90‘-b) and~.ah; in the right spherical triangle.
+
+Errors in the determination of a given direction in space by
+the system may be suitably estimated by the magnitude of the
+ellipse of concentration on the celestial sphere with respect
+to the point whose direction is to be determined. The
+resulting magnitude of the ellipse is independent of which two
+axes (one of the measurement axes is unnecessary) the initial
+instrumental error was preliminarily assigned to. Therefore
+in further analysis of the given geometric model instrumental
+errors resulting from construction faults will be assigned to
+the b-b and 1-1 axes of the system.
+
+FOh OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Treating errors A b, AI, and AW” as random. and mutually
+uncorrelated, on the basis of the system of equations (2) it is
+
+simple to proceed to the rms errors of the system in altitude
+and bearing:
+
+a: u- a: to” 010': + a: to.“ s,
+t: cos": no} (03' b 403’. +5: sln' a. (3)
+
+The system of these equations determines the desired parameters
+of the ellipse of concentration of the point of intersection of
+the sighting line with the celestial sphere. From (3) we
+
+obtain a simple expression for determining the total rms error
+
+' - °: + .3009" utftm‘t 4-0:.
+
+(4)
+
+The task of the following analysis is to determine the relation
+between the magnitudes of errors with respect to the measure-
+ment axes of the system (b-b and 1-1) and the magnitudes of
+
+the initial faults producing these errors. Among initial
+faults in this case we include those faults in planning,
+assembling, and aligning the instrument which will, as the
+system rotates about its measurement axes, lead to a deviation
+of the optical axis from its intended trajectory in space.
+Included are non-orthogonality of the vertical axis of suspension
+a-a with the outer measurement axis l-l; non-orthogonality of
+the 1-1 axis with the inner measurement axis b-b: non-ortho-
+gonality of the optical axis of the system with the b-b
+
+suspension axis (collimation fault): and tilting of the vertical
+axis a-a.**
+
+Instrumental error resulting from the fault of non-orthogonality
+of the a-a axis with the 1-1 axis is assigned to two axes and
+is expressed in the form
+
+u-mghln l.
+60,—6.0-(030. (5)
+
+'Brrors Ab, AI , and AV result from a series of random faults
+in manufacture and assembly having a Gaussian distribution.
+Therefore they also are random and are characterized by the same
+distribution.
+
+nTilting of the a-a axis is a fault not of the star sensor but of
+the stabilizer and therefore will not be considered in the
+following. The effect of this fault on the measurement of altitude
+
+and bearing is determined by the well known relationships [1]:
+M-—.llsls3+ Mow n A,-slgk(0l¢09§+ «an».
+
+where Ai and A6 are compensation errors of the roll and pitch
+angles.
+
+9
+
+FOR OFFICIAL USE ONLY
+FOR «\FFICIM. "SH ONLY
+
+where c1 is the magnitude or non-orthogonality of the axes.
+
+Errors produced by the second fault (non-orthogonality of
+the 1-1 axis with the b-b axis) are assigned to only one axis
+(the error assigned to the second axis is negligible):
+
+-‘I:—-|,Ig b. (6)
+where c; is the magnitude cf non-orthogonality of the axes.
+
+And finally the instrumental error resulting from collimation
+fault is also assigned to only one measurement axis:
+
+l
+M'"*(¢osb _')’ (7)
+where k is the collimation fault.
+
+The formula [or the total rms error produced by the faults
+examined above, based on the expressions in (4) and taking into
+account equations (5)-(7), assumes the form
+
+6 o- : :i (I - cos 6P+ c1|alnﬂﬂnﬂ+ll~¢olnp -l-
++ 0:. sin’ him. (8)
+
+where 0'" is the magnitude of the rms error of non-orthogonality
+of the optical axis with the inner suspension axis; 0'c1 is the
+magnitude of the rms error or non-orthogonality of the a-a
+
+axis with the 1-1 axis: and 03 is the magnitude of the rms
+error of non-orthogonality of the inner suspension axis b-b
+with the outer axis 1-1.
+
+It should be remarked that in optical angle-measuring instru-
+ments one of the manufacturing errors listed -- the collimation
+fault k -- is usually reduced by adjustment during the tuning-
+up process, and therefore its effect on the total rms error of
+the system is minimal (the magnitude of k does not exceed a
+
+few tenths of an arc minute).
+
+The two remaining construction errors c1 and c; are not elimi-
+nated in the tuning-up process because of the complexity of
+adjusting the suspension axes. As a result their magnitude
+
+is determined only by the technological precision of the manu-
+facturing process and attains somewhat greater values (0.5-1.5'l
+than the collimation error. Thus, taking into account the
+
+fact that the greatest contribution to the total error is made
+by the second and third terms in expression (a), this may be
+rewritten in the form
+
+U-It}.[swnia'l-l-(|-¢080'l+‘3.lla'0|m. (9)
+
+[0
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Analysis of the formula obtained shows that errors in the
+generalized geometric star sensor model examined are minimal
+in the region near the zenith and increase as the sighting
+axis moves away from the zenith.
+
+We will determine the specific value of the total rms error of
+the star sensor when it operates on the horizon: i. e., under
+conditions least favorable from the point of view of the
+accuracy characteristics of the angle-measuring instrument. In
+this case, when there is equality among the values appearing in
+the formula for the rms errors of non-orthogonality of the
+suspension axes (mun-0:), we obtain
+
+0 - [ 0:“an sln'H-(l -¢og 1). .5. maul”- 1.7,"
+
+that is. the value of the total rms error of the three-axis
+
+star sensor model examined, operating under the worst conditions.
+may vary within the limits
+
+0-1.7(005‘los.)”1.-205'0
+Conclusions
+
+1. Analysis of expression (8) shows that errors of the three-
+axis star sensor are minimal in the region near the zenith
+(with 1-bn0) and increase as the optical axis moves away from
+the zenith. The greatest contribution to the total error is
+made by the second and third terms of the expression,
+characterizing the quality of the inner suspension axes.
+
+2. when the initial errors appearing in expression (9) are
+equal. the total rms error of the three-axis geometric model
+
+9"]‘0 In practice the values of errors of non-orthogonality
+of the axes may be reduced to Ub-O.S-1.S', and as a result
+the total rms error of the three-axis system is a’-l.0-2.5'.
+
+References
+
+l. Vorob'yev L. M., 'Astronomicheskaya navigatsiya letatel'e
+nykh apparatov,’ [Astronomical navigation of aircraft and
+spacecraft], Moscow. MASHINOSTROYENIYE, 1968.
+
+2. O'Donnel K. P., 'Inertsial'naya navigatsiya. Analiz i
+proyektirovaniye,“ [Inertial navigation. Analysis and
+planning), Moscow, "AURA, 1969.
+
+3. Pogarev G. V., 'Yustirovka opticheskikh priborov,”
+[Alignment of optical instruments], Leningrad, MASHINO-
+STROYBNIYB, 1968.
+
+6. Venttsel' Ye. 8., ”reoriya veroyatnostey.“ [Probability
+theory]. Moscow. PIZMATGIZ, 1962.
+
+Received by editors 21 November 1977.
+COPYRIGRT: Optiko-Hekhanicheskaya Promyshlennost'. 1978
+
+11
+9187
+' cso: 8144/5613 FOR OFFICIAL use ONLY
+FOR OFFICIAL USE ONL!
+
+CONCURRENT OPTIMIZATION OF OPTICAL AND ELECTRICAL FILTERS IN
+SCANNING BLECTROQPTICAL SYSTEMS
+
+Leningrad OPTIKO~MBKHANICHESKAYA PROMYSHLENNOST' in Russian
+No 8, 1978 pp 17-20
+
+[Article by Yu. N. Rakovskiy]
+
+(Text) A method is proposed for concurrently optimizing
+the optical filters (of wavelengths of electro-
+magnetic radiation) and electronic filters of a
+scanning electrooptical system taking into account
+
+internal noise and the interference of a nonuniform
+background.
+
+We will examine a scanning electrooptical (eo) system whose
+output signal is formed by the relative displacement of an
+image of objects and the photodetector. The incoming optical
+signal is subjected in the eo s tem to both spectral filtering
+(of wavelengths of electromagne c radiation) and (after
+conversion by the photodetector to an electrical signal)
+temporal filtering in an electronic amplification channel.
+Clearly the reaction of the system both to the useful signal
+and to the interference (background) is determined by the
+joint action of the optical and electronic filters.
+
+This work is devoted to the problem of the optimum choice of
+the corresponding filters. Since in the scanning process
+
+there is a conversion from a spatial to a temporal signal,
+
+the electronic filter may be viewed as spatial, and the optimi-
+zation of the so system filters as spectral and spatial.
+
+It will be useful to consider the signal from a point source,
+specified by its spectral irradiance at the input pupil of
+
+the objective lens of the eo system. Interference effects are
+internal system noise (basically, photodetector noise) and the
+external background. generally speaking a nonuniform luminance
+field. We will assume that the background is given either as
+
+12
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+a finite set of spectral luminances of the various objects
+forming the background or as the spectral and spatial correla-
+tion function of the random luminance field as a whole. More
+detailed information on the background (higher order moments,
+multivariate distributions, and so on) is in general entirely
+lacking, and methods for practical use of it have thus far
+
+not been developed.
+
+We will express the reaction of the so system to the useful
+signal and the background interference by functionals of the
+optical filter k(A) (the light filter) and of the electronic
+filter, which will be described either by its transient
+response h(t) or by its transfer function K(o)). One of the
+most important characteristics of the system is the output
+ratio of useful signal to internal noise. This parameter is
+easily monitored, and its comparison to the maximum possible
+(optimum for a given internal noise) value immediately shows
+the cost of achieving one or another degree of suppression of
+background interference. The signal-to-noise ratio at the
+output of a scanning eo system is
+
+V53" D’(- )*5_
+
+“‘5 IK.,(~.)I73.TS7:' (1)
+where B is the integral irradiance of the input pupil produced
+by radiation from a point source: so is the area of the input
+pupil of the objective lens; 110 is the total transmittance
+coefficient of the objective lens (at the maximum of the spectral
+transmittance characteristic curve): D*(hk) is the detection
+capability of the photodetector (at the maximum of its spectral
+
+response). measured at the frequency uh: Sip is the photo-
+sensitive surface area of the detector; K(t)) is the detector
+transfer function;
+
+Ann-+1,~ ”.1? more!» (2)
+
+is the equivalent noise band of the so system (G(hl) is the
+energy spectrum of photodetector noise);
+
+h-m'ul/cu) . h(t) . WM (3)
+
+is the transmission coefficient of the pulse amplitude of the
+useful signal for the detector (h1,(t)) and the filter (h(t)).
+while f¢(t) is the form of the useful signal, which with con-
+stant scanning speed is the convolution of the scattering spot
+of the objective lens on the photosensitive area of the detector
+in the direction of scanning (in the time domain); and ' is
+
+the operation of convolution.
+
+13
+
+FOR OFFICIAL USE ONUY
+FOR OFFICIAL USE ONLY
+
+Useful signals may be unequal both because of a difference in
+the objects themselves and because oi variations in the condi-
+tions under which they are obserVed. If it is necessary to
+provide given output characreristics of the so system for all
+possible signals, that is, even for the weakest, then it is
+natural to examine in the {allowing form the integral irradi-
+ancu of the input pupil appearing in (l):
+
+b' m win [‘5 0.7) L“... (A) I. (l) 10.. (a)
+7 ‘
+
+.. '9
+where an,” is the spectral irradiance of the input pupil (l is
+the vector of parameters defininn the various possible useful
+sienals); kupvl is the relative spectral response of the system
+consisting of optics and photodetector; k(X) is the desired
+filter; and A is the region over which the functions under the
+integral are defined.
+
+It is convenient to introduce the normalized (with respect to
+signal amplitude and noise level) relation
+
+v-- {f 0.. - mm.
+
+where Tbta/v is the duration of the useful signal (a is the
+angular size of the photosensitive area of the detector in the
+direction of scanning: v is the speed of scanning), and the
+quantity
+
+I K” (uh) I Sly
+
+S..v'..o°(-.) “ii-“- (5)
+From (2) and (3) it follows that the quantity W’is the functional
+of the electronic filter, that is, W-W(RUH- The integral
+irradiance of the input pupil (4) is the functional of the
+filter any ﬂ-EliOH- Therefore, taking into account the
+quantity (5), the output signal-to-noise ratio (1) may be
+re-written in the form
+
+I h
+9- 3' 5 (NH) ‘|' MUN.
+The maximum possible signal-to-noise ratio is
+
+l £9?
+- .— _. Emu ._—L
+"" .335,» 6‘ 2'5? no?" 6 '
+
+where . q
+5,-eml) =- u. 'I'o-‘I {MM
+
+and h°(t) is the transient response function of the electronic
+filter which maximizes the output signal-to-noise ratio.
+
+Normalizing
+r mnliEo-e It 0))
+
+and _
+" l0 WINE-“MOI.
+
+ultimately we obtain
+
+16
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+e-quumw IMO)-
+
+The normalized functionals e and W directly define losses in
+
+the magnitude of the signal-to-noise ratio caused by measures
+taken to suppress background interference: the value osesl
+defines losses resulting from limitation of the spectral band,
+and the value 0(‘Vél.defines those resulting from non-optimal
+
+(for a given internal noise) filtering in the electronic
+channel.
+
+We will examine the reaction of the eo system to background
+interference. If, in addition to a set of spectral luminances
+of various background objects. there is no other information
+on the background, then background interference is usually
+treated as the response of the system to a drop (or jump) in
+luminance produced by the transition of the instantaneous
+field of view of the scanning system from one background
+object to another. The spectral luminances of the background
+objects may be either averaged over all possible conditions
+of observation or related to specific conditions. If it is
+necessary to provide a given quality of eo system operation
+in all (even the worst) background conditions. then the inte-
+gral drop in luminance must be examined in the form
+
+68-68 (*0). lifting” [810. ‘)—BI (A, 51X *”(l)k(l)dl . (6)
+where 3'13 the vector of observation cOnditions and 31(Apa) and
+B (A,§) are the spectral luminances of the ith and jth back-
+9 ound objects, respectively.
+
+The reaction of the so system to a drop in luminance AB may
+conveniently be related. as with the useful signal, to the rms
+value of the internal noise: that is, the output signal-to-
+noise ratio may be considered to be
+
+a... ""“Iﬂmum.
+
+ 
+
+where 9" is the solid angle of the photosensitive area of the
+detector (the instantaneous field of View), and the functional
+
+Nlhml has the same meaning as ‘I' 91(1):. except that the form of
+the useful signal fc(t) in (3) must be replaced by the form of
+the interference fn(t):
+
+mum --:-:-m}1;u:x 1.0). 1).,(1) . Mel.
+
+O
+a
+where l-(O-Sldof- is the normalized response to a jump (the
+
+0
+Heavyside function) without taking into account the detector
+inertia or the effect of the electronic filter. If the eo
+system were optimized only according to internal noise, then
+
+15
+
+P01! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the background-to-noise ratio would clearly be
+
+m.
+no”?! 1‘8"“) -' I: N “5"); In 3):".- I‘m”.
+
+Ala-wane) - 1:. ~.-N:n.un.
+
+In the general case the background~to-noise ratio may be
+written in the form
+
+n-mouonunw» (H
+where
+6 (N1)! - 08 {I (With
+and , (a (4)) - N In (mm.
+are normalized functionals determining the degree of suppression
+
+of background interference by the methods of spectral and
+temporal filtering respectively.
+
+The output signal-to-background ratio may be expressed
+similarly:
+
+“-3--..“ mm 9 um». (a)
+where
+m—b—fﬁk («u-ﬁrm
+and
+«mm- "" ‘
+
+: ) '
+9 than - , {2(3' .
+
+For background having a given spectral and spatial correlation
+function of the random luminance field. we will also examine
+the background-to-noise and signal-to-background ratios,
+except that the response of the so system to background inter-
+ference will be characterized by the variance of the output
+signal from the background. we will derive an expression for
+the functionals corresponding to this case.
+
+We will assume that at least approximately the spectral and
+spatial correlation function of the homogeneous (stationary in
+space) luminance field may be expressed in the form of a
+
+product
+KOI' 1"- ’) . B “I. ‘1)R("’)I
+
+where R(x.y) is the correlation coefficient and satin 1, the-
+
+correlation function or spectral luminance, defining the
+variance of the integral luminance of the background in the
+following manner:
+
+‘73-£J;8(lu’1)*u,(ln)t~(l.)k(l.)&(la)a.ah, (9)
+
+16
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The ratio of the rms values of background interference and
+internal noise at the output of the so system is
+one, A. encuuon ,
+"OI-Tn" o. NMU)" (1°)
+
+ 
+
+where
+
+am 0 (no . to
+*3-43-H -3-;3—.,~,—’1 IK...,(~,. ~,) I’ I K... x (90;)K(Wr)l’d“1d‘y-
+
+Here Kup(“1-'y) is the spatial and frequency response characteristic
+of the system consisting of the objective lens and the photo-
+detector: K (0..) is the transfer function of the photodetector
+
+as an inerti'al element (the Fourier transformation of the
+function h» (1)): law) is the transfer function of the electronic
+filter (the Fourier transformation of the function h(t)): 0.(~..~.)
+is the Wiener spectrum of the integral luminance (the two-
+
+dimensional Fourier transformation of the spatial correlation
+function 4.1m. n
+
+9.. - ﬂ R(x.y)d.tdy
+
+is the background parameter, which for non-negative R(x,y) is
+the correlation region of the background (by analogy to the
+correlation interval for a one-dimensional process).
+
+The background-to-noise ratio has the same form as in (7), but
+the functional Hunl'in this case is
+
+a no) a x
+m(n|_..—fm.’ -1333,
+where 0. (0(1)) is determined by expression (9). and the functional
+of the electronic filter v-NIHOIHVo is determined by (10)
+
+since Nada. The same must be taken into account also in
+the signal-to-background ratio (8), where in this case '00-an
+
+Thus all necessary expressions have been determined for the
+output ratios of signal to noise q, background to noise n, and
+signal to background m both for the case when the background
+interference is treated in the form of a response of the so
+system to a jump (or a drop) in luminance and for the case when
+the response of the so system to the background is considered
+as a variance of the output background signal. Based on the
+expressions obtained, any criterion for the Optimization of the
+filters may be formulated as a conditional or unconditional
+extremum problem:
+
+cm PM. u).
+00)..”
+rm. I)“: (conditional extrenmm) (ll)
+17
+
+FOR OFFICIAL USE ONLY
+FOR IlF"'I('ln\ I. "til: ONLY
+
+01'
+
+.J;QMF(W") (unconditional extremum) (12)
+
+where r(q,n) are given functions (the optimization criterion)
+of the functionnln q and n: and C is a given constant.
+Examples of various criteria are
+
+q I
+max 1;. nm fl. mu ('I""'- max "-1122
+011:3“) IN Am ‘ mun) ntl).nu|V|-I°n‘
+I
+
+and so on.
+
+The first or the listed criteria is most appropriate when the
+background is given only as characteristics of separate compo-
+nents of the objects and the background-to-noise ratio has the
+meaning of a response of the en system to a drOp in luminance
+between two different objects relatiVe to the rms noise value.
+It is natural to use the last criterion when the background
+interference is :valuated as a variance since it represents
+the unconditional maximization of the ratio of the useful sig-
+nal to the sum of the variances of the internal noise and the
+background interference. If additionally noise and background
+are time-independent Gaussian processes, then the so system
+optimized according to this criterion will be optimal statis-
+tically as well (in the probabilistic sense). ‘
+
+We will show that problems (11) and (12) may be solved easily
+if we have all possible solutions to the problem
+
+min (a).
+
+‘3': 2;" (13)
+
+or the problem
+
+I“: (q)
+a (n. a m ( 14)
+
+I‘D.
+
+that is, all possible pairs of filters k°(A) and h°(t), each
+corresponding to a Specific value of the threshold level q.euuu
+in problem (13) or mélmnain problem (14). Since (13) and
+
+(14) are a dual problem pair [1, p 87], their solutions “on“d
+and sum) are mutual inverse functions, and sets of optimum
+filters coincide if the limits qn and n" are varied through the
+entire range of their possible values. This property of a
+dual problem pair makes it possible to limit oneself to any
+
+one of them singly.
+
+Let there be a complete solution to problem (13), that is, a
+function 0-h(00 and a set (practically speaking, of course, a
+
+finite collection) of pairs of filters k‘(A) and k°(t). each
+corresponding to a specific value of qx from the interval [0.qol.
+
+18
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Based on the results of [2] we obtain
+
+. of?“ mg. n) - 03:: I“. (v... nun. (0-)).
+
+I’m. a) .1 C. F. (q... 0-:th '< C.
+
+that is, the conditional extremum of the functional of
+functions HI) and Mt) is reduced to the determination of the
+extremum of a function of one variable q“. within a certain
+range defined by the condition Fa(o..n.u.(qu)=rc- Similarly, problem
+(12) is reduced to the determination of the extremum of the
+function P(q..u...(q.)) in the variable q.R over the entire range of
+possible values of this variable. According to the value of
+q; yielding the extremum of the Emotional P1 (or F) , we choose
+from the already determined set of filters k'Q) and h° (t) the
+pair of filters which corresponds to this particular value of
+
+q;-
+
+We will now show that the solution of problem (13) also in turn
+reduces to finding the extremum (minimum) of a function of one
+variable if all solutions are known to problems similar to (13)
+but related to each type of filtering (spectral and temporal)
+separately. In fact,
+
+uln (Io-an mm x. (to): w mm- molar (k (1)) gun mum]-
+
+AMA“) s in h
+0 v. ﬂimsy“); 20.11. (I) HMO; a c9140»)
+
+mm [a mu: ~...(e,;,—l'1'm,- ] - n. a}: [0... u.) .._., (7%)]
+
+where into.) is the result of solving the conditional extremum
+problem for spectral filtering
+
+:1!::b;A-().);
+use») 4.
+for all en from the interval [0,1] and ~-n(¢.) is.the solution to
+the conditional extremum problem for temporal filtering
+
+mu v mm
+A (I)
+a, pm] : c.
+
+for all 0- from the interval [0,1].
+
+For optimization criteria formulated as an unconditional
+extremum (12), it is sometimes more convenient to represent
+the solution in the form of the extremum of a function of two
+variables:
+
+can Pu. n) — em F(g.c¢.n,bv)—
+
+“th HIM“!
+- '0": My. (1*. Uo‘mn (fl) 'Ih (“”v
+r a
+19
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+For example,
+
+a (33'5"; )’ ' + n' “.31: VI + n. a... a.) v5. m)“
+We note also that any criterion P(q,n) may be replaced by own».
+where m-q/n is the signal-to-background ratio, and the “basic"
+problem instead of (13) becomes
+
+III! n:
+IN- NO( ).
+C)!"
+
+Thus for concurrent Optimization of filters according to any
+criterion it is necessary to have all solutions to conditional
+extremum problems for spectral (15) and temporal (16) fil-
+tering separately. The remaining operations (determining the
+extremum of a function of one or two variables) are elementary.
+
+Methods for solving spectral filtering extremum problems for
+functionals (4). (6), and (9) are examined in [3]. The condi-
+tional extremum problem for the filter h(t) in its general
+form is quite complex. However, in the practically important
+case in which the structure of the filter is given and only
+its parameters are to be determined, this problem is algorith-
+mically simpler than the problem of spectral filtering. In
+this case it is necessary to specify a set (in practice a
+finite collection) of parameters of the filter, and by this a
+set of filters, and among them to find those which satisfy
+the conditions of the extremum problem. If all these filters
+are enumerated, then the problem itself (16) takes the form
+
+M‘s-q
+
+9‘),-
+
+where i-l, 2..., N is the filter number. The solution of
+problem (17) may be obtained, for example, using the following
+algorithm.
+
+(17)
+
+We will order the collection of all previously calculated
+values of'Vso as to satisfy the strict inequalities
+v.<v.<...<m. (M < N).
+For this we will exclude all filters (except one) which reduce
+to equal values of‘P, that is, in each group of such filters
+we will leave only the one which gives the smallest value of
+the quantity V. (If in the group of filters corresponding to
+equali”: there turn out to be several filters giving lowest
+but equal values of‘v, then clearly it is possible to choose
+any one of them). Now, proceeding step by step from the end
+of the ordered sequence to its beginning (that is, beginning
+from the number M-l), we exclude from it all elements 9‘ for
+
+20
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+which ~:>~» where r is the number of the element left (that is,
+not excluded) at the previous step of this procedure. Then
+the remaining elements W and v and the filters corresponding
+to them will be solutions to problem (17) at the points vu-h
+
+In conclusion we note that the proposed method for concurrently
+optimizing optical and electronic filters. based on the prelimi-
+
+nary solution of problems for spectral (15) and temporal (16)
+filtering. has a number of advantages.
+
+1. The solutions to problems (15) and (16) are “building
+blocks" which may be used to synthesize widely differing eo
+systems according to various criteria for optimization.
+
+2. These solutions directly determine the effectiveness of
+that type of filtering, that is, they show what price (what
+reduction in the ratio of useful signal to noise) is paid for
+gne or another degree of suppression of background inter-
+erence.
+
+3. If one of the filters is given and it is necessary to find
+the other one, then the method is easily simplified: if the
+filter k(A) is given, then
+
+"do .‘nohmn (‘3‘)-
+and if the filter h(t) is given, then
+lob-Invioh(i#'-
+
+References
+
+l. Gol'shteyn Ye. 6.. 'Teoriya dvoystvennostl v matematicheskom
+programmirovanii i yeye prilozheniya,” [Duality theory and
+applications in mathematical programming], Moscow. NAUKA,
+1971.
+
+2. Rakovskly Yu. N., Smirnov A. P., OPT.-MEKH. PROMYSH., 1975,
+no. 2' pp. 1‘-150
+
+30 Rakovskiy Y“. Na, OWL-“BK“. PROHYSH.. 197‘, no. 11' Pp.
+16-17.
+
+Received by editors 17 November 1977.
+COPYRIGHT: Optiko-Mekhanicheskaya Promyshlennost', 1978
+
+9187
+C80: Gibb/568
+
+21
+
+FOR OFFTCIAL USE ONUY
+FOR OFFICIAL USE ONLY
+
+ANALYSIS OF METHODS FOR TAKING INTO ACCOUNT RASTBR DISTORTIONS
+
+AND INSTABILITIBS IN ELBCTROOPTICAL INSTRUMENTS WITH ELECTRONIC
+SCANNING
+
+Leningrad OPTIKO-NEKHANICHESKAYA PROMYSHLENNOST' in Russian
+NO 8; 1978 pp 20-23
+
+[Article by V. R. Sablin. V. A. Osipik, and V. I. Pedoseyev]
+
+[Text] Examines the effect of distortions and instabili-
+ties on the electronic raster in electrooptical
+instruments with electronic scanning on the precision
+of measurement of coordinates of point targets.
+Relationships are derived determining measurement
+error for various calibration methods.
+
+It is well known that electrooptical instruments with electronic
+scanning have. in addition to substantial favorable qualities.
+one drawback -- the occurrence of instabilities and distortions
+in the electronic raster. This article examines methods for
+taking into account these facts in relation to the measure-
+
+ment of coordinates of point targets and shows that with the
+appropriate choice of one or another method a high degree of
+measurement precision may be obtained.
+
+General relationships
+
+In an electrooptical instrument a two-dimensional image is
+converted into an electrical signal so that each point in the
+observed portion of space (the field of view) is assigned a
+pair of numbers determining the position of that point with
+respect to the electronic raster. These numbers will be
+called the raster coordinates and designated (t,r).
+
+If a system of rectangular coordinates x, y is introduced in
+the object plane such that the x-axis is parallel to the
+direction of line scan in the center of the raster, and the
+coordinate center lies on the sighting axis of the instrument.
+then for each point in the object plane with coordinates (x.y)
+there will be a corresponding pair of raster coordinates (t,T).
+
+22
+FOR¢E7ICIAL USS ONE!
+FOR OFFICIAL USE ONLY
+
+Therefore we will consider that the instrument performs a
+
+mutually single-valued transformation of (x.y) coordinates
+onto (t,T) coordinates:
+
+3-‘(h 7)- ’-)’“n 7’.
+Ig‘f‘ﬂ. “(T-(1'9. (1)
+in which the functions x(t,T) and y(t,T) are sufficiently
+
+smooth. Because of the presence of raster distortions this
+transformation is nonlinear.
+
+Measuring the coordinates of a point target requires that for
+values of (t,T) fixed by the instrument. the corresponding
+true (x,y) coordinates be determined.
+
+If distortions and instabilities are not present, then the
+functions in (l) have the form
+
+a". T)-x(l)nv, (f— '5)-
+!“ rI-y(l)-U,(T— 7a).
+
+where (t°,T ) is the initial measuring point and vx, v are
+known coefficients determining the scale of the transtrmation.
+
+Further analysis will be performed only for x-coordinates: all
+relations are analogous for y-coordinates.
+
+In the general case the functions in (1) may be written in
+the form of a Taylor series [1]
+
+w. n-w. r.)+x;a.. r.w-:.)+
++x',u.. nur- 7.) +-§-[:I.(I.. nut-tow
+
+tuba. nut-wr- 7.) +
++x'nu. 7.)(r- rm] +...
+
+Reordering terms we obtain
+
+w. n-:«. mum. 7.)(l-Q+R(I-lo)+
++dtvtl-l. 7- To). (3)
+
+Here R(t-t ) represents the sum of terms containing only (t-to)
+of degree through 00, and in the last component are included
+all terms containing (T-To) in various degrees. The component
+R(t-to) is associated with deflection nonlinearity along the
+Scan line, and 4” is associated with geometric distortions.
+It is important to note that since in Amethere appear components
+
+containing the factor (T-To) in various degrees, when T-To we
+have My ﬂo .
+
+Measurement without calibration
+
+In measurement without calibration the relations in (1) nbtain,
+that is, they are considered linear, having the form of (2)
+with known parameters to, To, vx, and vy. Subtracting (2)
+
+from (3), we obtain the absolute measurement error
+
+23
+
+FOR OFFICIAL US! ONLY
+FOR OFFICIAL U8” ONLY
+
+h ~\r.. + W..." .. I.) + RU -- I.) 4'
++ A" (1 - I“ 1‘- 7.).
+
+where “In-mo. r.) is the error caused by uncertainty of the true
+position of the initial measuring point: Min—Mo. 70-». is the
+error resulting from uncertainty as to the true magnitude of
+the scale of transformation at the initial point: Bit-to) is
+the error caused by variability in the scale of the trans-
+formation along the line of scan (because of nonlinearity):
+
+and amt-l. r-r.) is the error resulting from geometric
+distortions. Since (see. 3. 51., (ll)
+
+RU-l.) c 4-5:? lrﬂl. falu—ur-g‘U-M’.
+
+I: a Iii-H». (1-1.) + 41- (I—I.)’ 441..
+Here
+
+M, — 9H4,“ 1.)].
+
+we choose the initial measuring point in the center. that is
+
+I +:
+0-37"- Thus the error in the region of the center will be
+
+minimal. Designating by x the dimension fo the field of view
+along the x-axis. that is. xavx(t2-t1), from (4) we obtain an
+estimation of the relative error
+
+fii‘..<-ﬁ-H ‘ +37%? +‘a‘ua ”:7. +9.33%. I (5)
+where ‘n‘h'a'm‘a‘: are the corresponding maximum errors.
+
+ 
+
+In order to calculate the value of M2 it is necessary to know
+the specific form of the function x(t,'r) . M2 may be estimated
+if the nature of the function x(t,'r) is known, along with the
+coefficient of nonlinearity of transformation (1)
+
+, _,g'...-x'... axis-:3...
+
+a ‘Ln+’.na " .
+where x5,“ and acid are the maximum and minimum scales of
+transformation in ghe scan line.
+
+we assume that xit,T) may be approximated as a function of t by
+a polynomial of degree no higher than 3, As shown by experi-
+mental investigations, this is valid in instruments with high
+linearity in the variation of deflection currents. Then x;t(t,T)
+is a linear function of t (see figure) and the coefficient of
+nonlinearity may be expressed in x'(t.T) as
+
+'aln
+I
+
+5—7: S x}, (I. ma. (6)
+
+his
+
+26
+
+FOR OFFICIAL US! ONLY
+FOR OFFICIAL USE ONLY
+
+where t and t are the points at which x' and x'
+occur, géapectiv3i§. min max
+
+t!!!)
+
+1.1!: I)
+
+ 
+
+Graphs of the function x(t.T) and two deriVatives with
+fixed T in the case of third-order nonlinearities.
+
+Taking into account the fact that x"(t.T) is a linear function
+in t, we may write
+
+’IH
+
+jﬁmnm
+
+'au
+so that strict equality holds in the case when xgt(t.T)
+passes through zero within the interval (t1,t2).
+
+>~.'.'.~.7_«-:'~s. (7)
+
+ 
+
+ 
+
+From (6) and (7) for N; we obtain
+
+2h.g,_ 4h.v,_
+M'<l‘sm-'uhl“t*‘l‘ _ (8)
+
+Taking this into account. the general expression for calculating
+the relative maximum error (5) may be written in the form
+
+tr t I i 0 l a :
++<~ﬁ5+pﬁf+7t+4r2
+
+We note again that this expression was obtained with the
+assumption that nonlinear distortions were of order no greater
+than three. If we proceed from the assumption that x(t,T) is
+
+approximated by a second-order polynomial, then it may be
+shown that the kdzterm is replaced by are
+
+As an example we will examine measurement without calibration
+for typical values of parameters
+
+1-12—0115; 1171-0»; h..-o.os. “ﬁg-0.0:.
+
+The maximum error is 14‘ of the size of the field and is
+reached at the edge of the field.
+
+25
+
+FOR OFFICIAL USE ONLY
+)‘0R OFFH‘JM. "til-2 ONLY
+
+Measurement with a single reference point
+
+This method is implemented in the following manner. Projected
+onto the photocathode oi the detector, in addition to the
+image of the target is a light point (the reference point)
+whose coordinates x10) and y 9) are known precisely: coordi-
+nates t and T are nmaaured with respect to thin point and are
+taken as the initial to and T . Since xo=x(t°.To) and
+yg-y(t°,To) are known precisely, ﬁ.x.~ hqvam Then from (5) we
+0 tain
+
+in r l l. 0, l I, - I. a!” t
+_ .- ._ .. .. , .. .. '.'-
+.‘ ' I I‘. r 8 A" Q" . 0‘ .
+
+If the nonlinearity of the transformation is of order no
+higher than three, then M2 is estimated from formula (8).
+
+with the same data as in the previous example we obtain
+
+s
+-35-~u$ . and the maximum error occurs at the edge of the field
+
+as before.
+
+The use of a reference point in the center of the field of
+view makes it possible to achieve high accuracy in the central
+zone, where it is possible to ignore geometric distortions and
+nonlinearity. In a small central zone of size a we have
+
+“' 'Eﬂbz‘
+
+‘3‘ ‘7 0' T.
+
+with the same value of Jig-as in the previous example, for
+
+a 10‘ central zone 53‘“ that is. the error resulting from
+
+raster instability may in practice be ignored. These results
+were confirmed experimentally under strict operational
+conditions.
+
+Measurement with a coordinate grid without interpolation
+
+This method is known in the literature as the method of
+measurement with descrete image partition [2]. For measuring
+x-coordinates the method entails projecting onto the photo-
+cathode of the transmitting tube a coordinate grid consisting
+of n+1 straight lines dividing the entire scan line into n
+equal intervals. A rough determination of the x-coordinate
+is made by counting the number of grid lines from the begin-
+ning of the coordinates to the target. and a precise deter-
+mination is made by measuring the difference in raster cpordio
+nates between the target t and the last counted line t‘k .
+
+In exact measurement, the coordinate of lines t‘k) is taken
+as the initial asu in oint alon the sea ine within the
+rim, ,9 P 9 '26
+
+interval (t‘k). The coordinate of x , corresponding
+to t(k), is known precisely, so meIO. From (4) for points
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+in the interval (t‘k).t(k*1)) we have
+
+u . w,» o 4‘") + -.§-M.(I -I'")' +
+
+‘I' ‘19, (I I. l‘". 7- ru)| (9)
+where
+00:” us; (lm. T) - Cu:
+
+‘3“,(':‘) 1 g
+the integvahe(zrgprtrgsflting from geometric distortions in
+
+For third-order nonlinearities the maximum relative error in
+speed is
+
+If the t(R)-coordinate of the coordinate line is measured
+for T equal to the value of the T-coordinate of the target
+(that is. calibration is performed in the scan line in which
+the target is located), then in (9) it must be considered
+that TWO-0 and 14”“ -—l‘”, T— I‘D-.0.
+
+Then, taking into account that
+m.‘ (l-‘(“) _h—n-ﬂ(l +‘.).
+from (9) in the case of third-order nonlinearity we obtain
+a: Iv l+h 1+5:
+A" '~ ("27‘ W)“;- +’(":T‘)-
+us
+
+With the same parameters as previously and n-lS we have-1r¢0n§
+
+for the entire field of view. In experimental investigations
+with n-ls and the number of raster partition elements 128x128,
+a total error resulting from raster distortions and from the
+discrete nature of the partition of less than 0.8\ of the size
+of the field of view was obtained.
+
+Measurement with interpolation
+
+The problem of determining the target coordinates (x,y ) from
+the known coordinates (t T) may be approached differently.
+He will assume that the form of function (1) is unknown (as
+in fact it is). if values of functions (1) are known at
+several points (t ’T D), then by interpolation their
+values may be determined ati :ny (other point (t, T) not too
+far removed from mints (t1 The solution of this
+problem in the general form for functions of two variables
+encounters certain difficulties both in principle and in
+calculation. More expedient is interpolation according to
+each of the variables separately.
+
+27
+
+FOR OFFICIAL USE ONEY
+FOR OFTIMAL USE ONLY
+
+We will examine xtt,T) for a certain fixed T=¥. Then x(t,¥)
+for t t [t1.tzl is a -u ctlYn of the single variable t.
+According to Val??? x 0 ,? ....,x(n), which x(t.$) asuumes
+at pointu t(°),t ,....t n). it is necessary to determine
+the value of x(t,53 for any point t a [t1,t2]. Such a
+problem may be solved, for example, hiLh a Lagrangian poly~
+nomial of degree nLn(t) (3}. The interpolation error depends
+on the choice of interpolation points t 0 ,tll),...,t(" . It
+as interpolation points we choose roots of the Chebyshev poly-
+nomial of degree n+1 on the segment (t1,t21, then the error
+will be minimal.
+
+In measuring we may freely choose only the coordinates x‘l) of
+the calibration marks. The t -coordinates are obtained
+through measurement. Therefore, in general, it is not
+possible to arrange for the interpolation points to coincide
+with roots of the Chebyshev polynomial. However. as a result
+of the approximately linear dependence of x(t,¥), the inter-
+polation points "ill coincide approximately with the roots of
+the Chebyshev polynomial on the segment [t .t 1 if as the x )
+we choose roots of the Chebyshev polynomial oi degree n+1 on
+the segment [x1,x2).
+
+As an example we will examine the simplest case n+l=2. Then
+
+,(l)_,m u m_ n (on
+I.|(!)—;m-:Tal+x( :m_':“ ,
+
+ 
+
+'30. h—L. (I)! 4 -: 5"'(I’-ol.)'.
+
+The roots of the chebyshev polynomial are
+"‘I'J'""'z'2-('a-lo)+'x!‘1‘;ﬂ; xl.lII‘_ ﬂ("_x‘)+MT-h-_
+
+4
+The error in this case may be estimated as follows:
+Ixu. h- 1.. (0| < 1';- map-1.».
+
+For the same parameters as in the preceding examples, with a
+third-order nonlinearity we will have the following error
+
+values:
+a) if x1 and x2 are taken as calibration points, then
+
+lxn. r —L.(n <_fl=__z“;
+b) if x£°) and x1°) are taken as calibration points, then
+Ian. -L («I < ﬁs-um.
+
+28
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+If more than two calibration marks are chosen and polynomials
+of higher degrees are used, than the interpolation error
+
+may be reduced. To calculate it, the maximum value of the
+derivative of the function x(t,?] of order n+1 must be
+estimated, and this is difficult in practice since the forms
+of the functions in (l) are not known to high precision.
+
+When there are more than two calibration marks, it is possible
+to use linear interpolation in each of the intervals between
+successive interpolation points. If there are n+1 calibration
+
+points (n intervals). then the error may be estimated by the
+following expression:
+
+Ix“. ﬁ- mm: + “(iii)"
+
+With n-lS for the same parameters as in the previous examples,
+in the case of nonlinearities of order not greater than three,
+
+the error will not exceed 0.01! of the size of the field of
+v ew.
+
+Thus, using this or another calibration method, the error of
+
+an electrooptical instrument resulting from instabilities,
+deflection nonlinearities, and geometric distortions may be
+reduced to a negligibly small value. At the same time, in
+
+view of the ever expanding use of computer equipment to process
+measurement results, the implementation of complex interpolation
+algorithms providing extremely high precision is entirely
+practicable.
+
+References
+
+1. Korn 6., Korn T., "Spravochnik po matematike dlya nauchnykh
+rabotnikov," [Handbook of mathematics for scientific
+workers], Moscow, NAUKA, Chief editorial board for litera-
+ture in physics and mathematics, 1968.
+
+2. Polonik v. 3., ”Televisionnyye avtomaticheskiye ustroystva,"
+[Automatic television devices], Moscow, SVYAZ’, 1974.
+
+3. Berezin I. 8., Zhidkov N. 9., "Metody vychisleniy,”
+(Calculational methods], Hoscowp NAUKA, 1966.
+
+Received by editors 25 August 1977.
+COPYRIGHT: Optiko-Hekhanicheskaya Promyshlennost', 1978
+
+9187
+C50: 8144/468
+
+29
+
+FOR OPPICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+AN ILLUMINATING DEVICE FOR TESTING COORDINATE-SENSING
+PHOTODETBCTORS
+
+Leningrad OPTIKO-MBKHANICHBSKAYA PROMYSRLBNNOST' in Russian
+No 8. 1978 pp 42-44
+
+[Article by Ye. N. Vysotskiy. I. V. Reznikov, and h. N.
+Tikhomirovl
+
+[Text] The Optical design is described for an illumi-
+nating device having continuously regulable
+illumination and a field nonuniformity of l.S\.
+Blurring at the edge of the image projected onto
+the photodetector is calculated.
+
+High-quality light sources are the basic means for testing the
+parameters of coordinate-sensing photodetectors (cspd):
+dissectors. vidicons. scanistors, solid-state charge-coupled
+detectors, and so on. Features of the cspd's determine the
+quality criteria for light sources. For testing coordinate
+sensitivity over a field it is necessary to have sources
+with illumination nonuniformity not exceeding 2-3‘. In
+determining the limit of output signal nonlinearity with
+respect to illumination and threshold sensitivity, sources
+are required having continuous regulation of illumination
+with unvarying color temperature. Illuminators produced by
+industry and described in the literature do not entirely
+satisfy these requirements. The four-channel illumination
+system of the EM-536 projector with the "Mikronar-GOO'
+objective lens has an illumination nonuniformity of approxi-
+mately St, and in addition cannot be regulated in illumi-
+nation and is complex to construct. align, and use. The
+raster illumination system described in [ll allows an illumi-
+nation nonuniformity of greater than 5‘ at high illumination,
+and it also has some of the same characteristic shortcomings
+as the 8M-536.
+
+30
+
+FOR OFFICIAL USE ONLY
+90R OFFICIAL USE ONLY
+
+The design for testing cspd‘s using a distant light source
+and a mask placed directly on the cspd is both theoretically
+sound and practically proven. With this testing design the
+basic requirements are high illumination uniformity over the
+field and a minimal gap between the cspd and the mask.
+
+Presented in fig. 1 is an illuminator using this design for
+testing cspd's. The 80-2 incandescent lamp, light source A.
+has a color temperature T-2854K
+[2]. The light-absorbing
+screen. 2. reduces bright
+spots on the back wall of
+the lamp casing. 3, and the
+bulb. Diaphragms, 4. forming
+the light channel. act as a
+blind for protection from
+bright spots occurring on the
+internal surfaces of the walls Pi . 1. Optical design of
+of the telescope tube, 5. il uminater: l -- light source
+
+A (so-2 incandescent lamp).
+The positions of the diaphragms 2 -- light absorbing screen,
+are chosen so that they elimi- 3 -- lamp casing of illuminator.
+nate first- and second-order 4 " light-restricting diaphragms,
+
+ 
+
+bright spots (3.4], and in 5 -‘ telescope tubeo 6 '-
+combination with the matte neutral light filters, 7 '-
+black coating of the inner test mask. 8 -- tube displace-
+surface with KhS-llO'IGM ment device. 9 -- readout
+
+enamel they essentially pre- device, 10 -- cspd tested.
+
+vent any light from the sides 11 " light-tight chamber.
+
+of the tube from reaching the
+
+cspd, 10. The diameters are chosen so that they continually
+narrow the illumination angle in order to prevent light
+diffracted from the edges of the diaphragms from striking the
+cspd. Neutral light filters, 6. allow the illumination of
+
+the cspd under test to be varied in steps. The mask, 7, forms
+the required test pattern on the cspd. depending on the test
+mode. The pattern on the mask (the test matrix) is produced by
+photolithography on a bimetal [5]. The metal mask, as distinct
+from a glass or film mask, makes it possible to create an
+
+image with 100‘ contrast, very important for testing dissectors
+and photomultipliers operating in the single-electron mode.
+
+The use of a design with a distant light source and a system
+
+of light-restricting diaphragms has made it possible to achieve
+an illumination nonuniformity not greater than l.S\ over a
+field with a diameter of 35 mm.
+
+Continuous variation of the illumination is achieved by moving
+the light source away from the cspd using a device for
+displacing the telescope tube, 8. In combination with
+
+31
+
+FOR OFFICIAL USE 0ND!
+FOR OFFICIAL USE ONLY
+
+step-wine regulation by the light filters, the illumination is
+varied from 10 to 0.001 lx in the visible wavelength range.
+With continuous regulation the illumination varies in propor-
+tion to the square of the distance. so that within the limits
+of variation of the size of the telescope tube (400-500 mm)
+the illumination varies by a factor of 1.7 over all intermedi-
+ate values. with the minimum variation determined by the scale
+value of the readout device. 9. -- 0.6;.
+
+The degree of blurring of the edge of the image is determined
+by the distance I from the mask to the sensitive layer of the
+cspd (fig. 2). Taking into
+
+account the small viewing , , 0
+angle of the lamp filament, l, 1 _u., - .D .
+in the mask opening, 2. it ‘ ~4.:~‘- 343’- -' 1’:
+is possible to approximate ' F ‘
+with sufficient precision the --~“~-J --~ --L~-
+degree of blurring of the
+edge of the image projected Pig. 2. For calculating the
+onto the cspd. 3. using the blurring of the edge of the
+formula (not taking into projected image: 1 -- lamp
+account diffraction effects) filament, 2 -- mask with
+X-an opening, 3 -- cspd tested.
+
+where x is the degree of blurring of the edge of the projected
+image; 1 is the distance from the mask to the sensitive layer
+of the cspd: b is the size of the filament of the light source:
+and L i: the distance from the filament of the light source to
+the man .
+
+With Lnlnadoo mm, b-l mm, and 1-4 mm we obtain x-io m, which
+in many cases is considerably less than the resolvi 9 power of
+the cspd.
+
+The distance from the mask to the sensitive layer of the cspd
+is determined by the thickness of the glass envelope, which
+ranges from 2 to 4 mm.
+
+For solid-state charge-coupled detectors the degree of blur-
+ring may be considerably less (less than l/un) because of the
+reduction in tne magnitude of 1.
+
+The degree of blurring of the edge of the projected image is
+taken into account in testing the resolving power of the cspd
+for given parameters of the test matrix on the mask.
+
+The illuminator described is relatively simple to construct
+and completely satisfies cspd testing requirements for nonuni-
+
+formity and continuous regulability of illumination, contrast,
+and degree of blurring of the edge of the projected image.
+
+32
+
+FOR OFFICIAL USE ONLY
+2.
+
+3.
+4.
+
+5.
+
+FOR OFFICIAL USE ONLY
+
+References
+
+Bolotnikov V. A. 35 21., ELEKTRON. PROMYSH., 1975 no. 6,
+p. 29-34.
+
+Karalis v. N., Korneyevs E. A., "Apparatura dlya fluores-
+tssntnogo snalize," [Apparatus for fluorescent analysis],
+Moscow, Committee for standards, measures, and measuring
+instruments of the USSR Council of Ministers, 1970, p. 27.
+Sakin I. L., 'Inzhenernays optiks,” [Engineering optics],
+Leningrad, MASHINOSTROYENIYE, 1976. pp. 151-154.
+
+Kruger M. Ya. st sl., "Spravochnik konstruktora optiko-
+mekhsnichoskikﬁ'bfiborov,' [Handbood for the designer of
+optical engineering instruments], Leningrad, HASHINOSTROYE-
+NIYB‘ 1968! pp’ 385-3900
+
+Medggdeva I. Ye. g; 2;., OPT.-MEKH. PROMYSH., 1976, no. 2,
+p. .
+
+Received by editors 20 July 1977.
+
+COPYRIGHT: Optiko-Mekhanicheskaya Promyshlennost'. 1978
+
+9187
+C80: 8144/668
+
+33
+
+FOR OFPICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+METHOD FOR DETERMINING THE NONLINEARITY OP PHOTODETECTORS
+
+Leningrad OPTIKO-MBKHANICHESKAYA PROMYSHLENNOST' in Russian
+No 8, 1978 pp 59-61
+
+[Article by L. N. Aksyutov and G. K. Kh010pov]
+
+[Text] A method is described for numerically determining
+the nonlinearity of photoelectric radiation detectors,
+based on the measurement of their relative differ-
+ential sensitivity as a function of the magnitude of
+the output signal.
+
+In order to make precise photometric studies, the ratio between
+the magnitude of the output signal of the detector system and
+the measured magnitude must be known over the entire range of
+the detector. This requirement is satisfied if the detector
+system is linear. The linearity of a detector system in which
+a photodetector acts as the sensing element is judged by its
+energy response characteristic. However, it is known that
+nonlinear distortions in photodetector electrical circuits
+depend not only on the magnitude of the light flux incident
+
+on the detector, but also on parameters of the electrical
+circuit [1]. Thus linearity of the energy response characteri-
+stic of the photodetector is not sufficient to guarantee
+linearity of the detector system as a whole. Consequently,
+
+for testing the linearity of a detector system or estimating
+its nonlinearity, special measurements must be made using the
+
+system.
+
+The essence of traditional methods for determining the nonline-
+arity of radiation detectors [2] is the creation of a known
+level of illumination at the detector or the variation of the
+illumination according to a known law, presupposing graduation
+or calibration of the measuring equipment.
+
+The object of this article is to demonstrate the capabilities
+
+of a method for numerical estimation of the nonlinearity of
+photodetectors, based on the measurement of characteristics
+
+34
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+of their relative differential sensitivity. The method does
+not assume knowledge of the magnitude of detector illumination,
+
+nor of the law governing its variation.
+
+The nonlinearity of a pnotodetector is determined by the rela-
+tiVe variation of its sensitivity at differing illumination
+levels and is expressed by the value of the coefficient of
+
+nonlinearity [3]
+K-(S/S°)-l (l)
+
+where s is the sensitivity of the detector to a certain
+radiation flux producing an output signal N and a corresponding
+illumination 5; s is the sensitivity of the detector to a
+certain arbitrariYy chosen flux, corresponding to illumination
+30, which produces an output signal No. In practice 80
+corresponds to minimal light fluxes incident on the photo-
+detector, and B to any value of the flux in the dynamic range
+of measured values. Thus it is assumed that E>E°.
+
+In accordance with expression (1) a linear detector, for which
+s-so, is characterized by the value x-o. When K-const#0, the
+detector is also linear, but its sensitivity is different from
+so. The criterion of detector nonlinearity is'Kﬂconst, with
+K) 0 corresponding to the case in which detector sensitivity
+increases with increasing illumination, that is, “superlinear”
+sensitivity, and with K<,0 corresponding to the case in which
+sensitivity decreases with increasing illumination, that is,
+"sublinear" sensitivity.
+
+Since for detector sensitivity 8 we are taking the ratio of
+its output signal N produced by illumination 3 to the magnitude
+of this illumination, expression (1) may be rewritten in the
+
+form
+K-(NBO/NOE)-l (2)
+In accordance with the energy response characteristic of the
+
+detector, the value of the illumination is determined by the
+expression
+
+.‘ .v
+E a: f (ON/0E)" «IN = If. 4- £(0N,‘0E)" dN. ( 3)
+
+Substituting (3) in (2) we obtain
+0
+K = {IV/[M + f «mm W)“ -- I. m
+.\'.
+where thdE is the differential sensitivity of the detector [1]:
+
+ﬁiN)"(05705V(NJ50 is the relative differential sensitivity
+characteristic of the detector.
+
+35
+
+FOR OFFICIAL USE ONLY
+mu (‘l-‘FI’C'M. USE ONLY
+
+Expression (4) indicates the possibility of determining the
+nonlinearity of photouetecturs according to the known value
+
+or the output signal when. rather than the value of the
+illumination. the differential sensitivity of the detector
+
+is measured at a function of the magnitude of the output
+signal N. In this case the value of the differential sensi-
+tivity dth background illumination E::0 corresponds to output
+signal Nn produced by a modulated fluu (the signal flux [1]),
+created at the detector by an additional illumination ”0 above
+backdrOund. It the background illaminatiOn E (the background
+Elna (1]) is incrvnscd. then the changed value of the
+differential sensitivity at a constant value of the signal
+flux (Ho=censt) corresponds to the changed value of the output
+signal "5‘
+
+Taking measurements or the function N3=f(8) similar to measure-
+ments of the background characteristic [4], and simultaneously
+measuring the va‘ue of output signals N with identical modula-
+tion or the bactcround flux produced by the total illumination
+H+EO, it is possrble to construct the relative differential
+sensitivity characteristic of the detector (Ni-Mg/NO. This
+function, according to formula (4), determ nes the value of
+
+the coefficient oi nonlinearity K for a given magnitude of the
+output signal from the detector.
+
+From formulae (2) and (4) it follows that the numerical value
+of the nonlinearity, expressed by the coefficient K, for a
+given value of the output signal N will differ depending an
+the value taken for No. In practice the value of No is
+determined by the minimum signal-to-noise ratio, established
+for the specific case, and the maximum value of N is deter-
+mined by the values of illumination at which the detector
+sensitivity begins to saturate. Knowing the nonlinear
+characteristic of the photodetector and the value of illumi-
+nation corresponding to a particular value of N, it is possible
+to construct its energy response characteristic as needed.
+
+To illustrate the foregoing -¢ L ——S u "
+
+we present results of the -‘ ~---"’l§° “3|;
+determination of detector ,ﬁa"";"fﬁgt: I “
+nonlinearity obtained by {".6 CSV"'
+
+the method of measuring the )u l_ ¢
+
+relative differential sensi- ".4 b
+
+tivity. The measurements _ , _
+were performed on a device Fig. 1. Diagram of the measuring
+
+device: a) 1 -- source of back-
+
+5 o c of the ver ions of
+l l! n 5 ground flux; 1' -- source of sig-
+
+which is shown in fig. 1.
+
+The design of the source.
+1, and its placement rela-
+tive to the detector
+studied provides for varia-
+tion in the background
+illumination proportional
+
+36
+
+nal flux; 2, 2' -- slit/dia-
+phragm; 3 -- spherical mirror; 4,
+4' -- modulators: 5 -- photode-
+tector tested: b) relative posi-
+tions of incandescent elements of
+source: 1 -- tungsten ribbon of
+width and slit, 2, of width h.
+
+FOR OFFICIAL USE 05L?
+FOR OFFICIAL 088 ONLY
+
+to the width of the slit, 2, making it
+
+possible to measure the
+
+energy response characteristics of detectors on this device.
+
+Fig. 2 shows differential characteri-
+stics of Cds photodetectors measured
+for two values of No at each modula-
+tion frequency. The displacement of
+curves 1 and 3 along the N-axis rela-
+tive to curves 2 and 4 is caused by
+the increased sensitivity of the
+photodetector at a modulation fre-
+quency of 450 "2. though the maximum
+values of (i correspond to the same
+value of illumination in each case.
+The form of the p(n) curves indicates
+that the sensitivity of the photo-
+detector is superlinear over the
+entire range of measured signals and
+that there are no linear segments in
+its energy response characteristic.
+clearl the determination of the non-
+linear ty of photodetectors with
+superlinear sensitivity used as
+radiation measuring instruments is
+meaningful only at values of energy
+
+NM
+
+I
+l o
+
+  
+
+Pig. 2. Relative differ-
+ential sensitivity
+characteristic of Cds
+photoresistor: N -36[l],
+21m, soom, 368t41/N:
+1.3 -— 65 Hz: 2, 4 ~-
+
+450 Hz.
+
+illumination at which sensitivity saturation has not yet occurred.
+This value (see fig. 2) corresponds to the maximum output signals
+
+for which 9 (N) z 1.
+
+Nonlinearity characteristics for a Cds
+photodetector were calculated from
+p(N) characteristics using formula (4)
+and are presented in fig. 3.
+
+The reproducibility of results of
+nonlinearity determinations by this
+method was established by us earlier
+[3] in the study of a photomultiplier,
+for which the deviation from linearity
+was relatively small. Comparison of-
+the energy response characteristics
+of the cas photodetector calculated
+from results of the nonlinearity
+determination with those measured
+directly (see fig. 4) demonstrates
+
+    
+
+m
+x
+
+3 S.
+
+M ”5
+
+ﬁns
+
+2 s
+
+u o‘
+
+3.5,
+
+’3’?
+
+ocvn' n’ n' n‘ 19’
+Output signal N, [N
+
+Fig. 3. Nonlinearity
+
+characteristic for Cds
+
+photoresistor: l, 2 --
+
+65 Hz: 3, 4 -- 450 Hz.
+
+the reproducibility of the results for large nonlinearities as
+
+well.
+
+37
+
+FORIW?KHALISE(mMY
+FOR OFFICIAL USE ONLY
+
+We have used this method and the measuring device whose
+
+design is shown in fig. 1 to determine the nonlinearity of
+radiometers. he an example we may
+
+cite the results of determining the
+nonlinearity of two specific radio-
+meters with Pbs and InSb photo-
+resistors as the sensing elements.
+The relative differential sensiti-
+vity characteristic of these radio-
+meters is of the sublinear sensi-
+tivity type and may be espreased
+by a function of the form
+where for the Pbs radiometer:
+cat-0.19 v‘l. No-iooNn-vumusav:
+for the Ins radiometer: ¢ﬁ ﬂ ' 0
+‘-2.021 mV‘ , No”}°"n;25°€”‘"525dmv’ Slit width. mm
+N a the output s.gna va us: an Pi
+
+, g. 4. Bner res-
+Nn is the noise value at the output ponse charactgiistic
+
+°f the radiometer. of eds photoresistor:
+
+1 -- 65 “2: 2 -- 450 Hz:
+solid lines are cal-
+culated curves: circles
+are experimental data.
+
+d.
+a
+
+   
+
+Output signal, 3V
+*5. 3.. ‘3.
+
+3.
+
+In accordance with equations (4)
+and (5), the value of the coefficient
+
+of nonlinearity of the radiometers
+is expressed by the formula
+
+IN
+K“‘Tra=-.N,‘“-
+
+As demonstrated in the practical determination of the nonline-
+arity of photodetectora by the method of measuring their rela-
+tive differential sensitivity, this method of testing nonline-
+arity has the following advantages over traditional methods:
+
+1. No calibration or graduation of the measuring equipment is
+required.
+
+2. Use of the method is independent of the polarization of the
+radiation and of the polarization properties of the apparatus
+tested.
+
+3. Results of determdning the nonlinearity are reproducible
+regardless of its magnitude.
+
+4. The method requires little labor and only simple equipment.
+
+5. Nonlinearity may be tested with various spectral compositions
+of the signal and background fluxes.
+
+38
+
+FOR OPP'ICIM. US! ONLY
+1.
+2.
+3.
+4.
+5.
+
+FOR OFFICIAL USE ONLY
+
+References
+
+Korndorf s. P. g; g;., 'Reschet fotoelektricheekikh teepey,”
+[Design of photoelectric circuits). Moscow, ENERGIYA, 1967.
+Msygtov L.‘g.' KhOIOPOV Go Xe. OWL-MEX". PROMYSHH 1973'
+no. 0' p: a
+
+Moyutov I): Na. KhOIOPOV Go K0. OPT.-MEKH0 PROMYSH.. 1971'
+no. 10. p. 65.
+
+Aﬂtlf'yev A. 10. Kholopov Go Kn, OPTU‘MEKH. PROMYSH” 1969'
+
+no. 10. p. 1.
+Aksyutov L. N.. Kholopov G. K.. Melent'yeva L. 9., Inventor's
+
+certificate no. 450715. BYUL. IZOBR.. 1975, no. 4.
+
+Received by editors 3 October 1977.
+
+COPYRIGHT: Optiko-Mekhanicheakaya Promyehiennost'. 1978
+
+9187
+C80: 8144/468
+
+39
+
+909 (II-T‘N‘Tl' "QB WV
+l-‘Oli IWI-‘li in“. USE ONLY
+
+UDC 535-317.?
+MH‘OMM‘iNG THE PROCl-Zﬁﬁiiiﬁ Oi" INTERFEROGMKE IN THE TEGTINO OI" ONION. RYSTDB
+Leningrad OVI‘IKO-HEIGiANICIIESKAYA PRCiWSliiiﬁﬂNOST' in Russian No 9, 1978 pp 1-10
+
+[Article by Candidate of Sciences '1. A. 2verev. I. P. Agurok. Candidate of
+Sciences 8. A. Radionov and Candidate of Sciences ii. ii. Sohol'shiy]
+
+{Text} The mathematical apparatus and the programming system
+for computer programming or interferogramn and a method of
+eliminating errors produced by the interferometer are pro
+sen-ted. These will make it possible to determine the topo-
+graphy of wave front deformation and the main quality charac-
+teristics of the optical image. The results of processing of
+
+“ interferosraes obtained during testing of a hyperbolic airror
+with a diameter of 1.100 m are presented.
+
+The interference method is traditional in the testing of optical systems and
+surfaces. Visual evaluation of interferogrsmn makes it possible to deter-nine
+the extent and position of local wavefront deformations, as well as astig-
+cations. however. computer processing of the results is necessary in order to
+utilize most fully the possibilities of the aethod and to obtain the necessary
+intonation about a mirror surface or the wave aberration of an optical system.
+or to determine the quality characteristics of an optical image. This article
+describes the automation of interferogram processing during testing with an
+unequal-path interferometer.
+
+Obtaining the interferogram
+
+The system for testing with an unequal-path interferometer is well known (Fig.
+l-a). however. in order to reconstruct with good quality a wavefront defor-
+mation it is necessary to allow for errors produced by the system itself. some
+of which can be eliminated by subsequent computer processing. and others of
+which can be minim‘lzed by following the recommendations presented below.
+
+[Errors which cannot be eliminated by subsequent computer processing./ ‘i'hsse
+
+include a discrepancy between the recording surface 7 and the surface next to
+
+the output pupil of the system being tested. since in this case deformation of
+50
+
+FOR OFFICIAL USE OSLY
+FOR OFFICIAL USE ONLY
+
+the wavefront on surface 7 will result in an observed shift of the wave phase
+because the wavefront is propagating equidistantiy while diffraction phenom-
+ena are affecting it strongly. In the testing of optical systems we are in-
+terested in the deformation of the anefront in the plane of the exit pupil.
+Just as in testing of the surfaces of manufactured parts. since the main aim
+is to determine quality characteristics of the optical image on the basis of
+the scalar theory of diffraction, in which it is desirable to use the wave-
+front in planes where the Kirchhoff conditions are adhered to, i.e. in the
+system pupils [2, h]. A second error results fron the difference between the
+shape of the recording surface and the nearest comparison sphere of the wowe-
+front, which produces distortion. This occurs when the forward focus of the
+obJective)6 does not coincide with the autocollimation point A of the system
+P18. 1‘b e
+
+In experimental practice. of course. it is
+impossible to eliminate these errors com-
+pletely. But minimization of FA (Pig. l-b)
+to within 1-3 mm and focusing of the object-
+ive 6 on the pupil will guarantee that their
+effect will be insignificant.
+
+IBrrors which can be eliminated by subse-
+quent processing./ He will consider the
+causes of these errors. Methods of elimin-
+ating them are described in the next section.
+They include longitudinal and transverse de-
+focusing resulting from the shifting of points
+A and A' (Pig. l-a). introduced to produce
+the required type of interference pattern;
+
+ 
+
+Fig. l. The Optical System inclination of the photographic objective
+with respect to the axis of the beam leaving
+Key: 1. Laser the system, leading to distension in the
+2. Focusing objective interferogram equivalent to additional astig-
+3. Beam splitter matism; and inaccuracies in the manufacture
+h. Surface under test of the standard mirror and additional spher-
+5. Standard sphere ical aberration arising with apertures greater
+6. ObJective than 0.30.
+
+7. Film plane
+
+Obtaining Digital Information
+
+In order to process by computer the information in the interferogram. it must
+be converted to discrete digital form. For this purpose the interferogram is
+measured. The measurement procedure depends on the mathematical apparatus
+for reconstruction of the wave aberration function. An interferogram on film
+is measured using a DIN-21 (23). The distances from the axis of rotation of
+the measuring table to the points of intersection of rings by radii at angles
+selected so as to encompass all the characteristics of the interferogram, or
+the x.r coordinates of the rings (or fringes). are measured. In addition the
+X and Y coordinates of 10-20 points on the edge of the pupil are measured. The
+bl
+
+FOR OFFICIAL USE ONLY
+FUN DFP'KIAL "SH 03L?
+
+main source of noise in m-nnuring the cunrdinates or the rinsn is the indeter-
+minacy or the position of the obdt‘ﬁt or interest. the photometric maximum
+(minimum) or a fringe. when observing with a visual instrument. its relative
+nine in about t 0.05-«0.08 or the v‘sitie breadth oi‘ the fringe.
+
+f11th-nr-i'lcui Apparatus
+
+/i-2iininntior. of the error r- :ultir." from incEinatinn oi‘ the axis of the photo-
+graphic ochctive relative to the rui-s or the hem leaving the system being
+LentrdJ In order to eliminate th‘n error we nun'. uetcmine the ellipticity
+of the pupil harder it. the interfere iron and :mrrect the measurement results
+to a circular pupil. Tne coordinates of the center of the pupil are determined
+in advance as the urithmeticai remdts of measurement or the x and Y coordin-
+atcs or points on the pupil border. The coordinates of X0 and Y0 thus derived
+are the starting point for a nonlinear least-squares analysis, involving ain-
+imitation of
+
+N
+1 on. on
+gJﬁo- lit-ac; 66‘. - 17-}, Mr]-
+
+where
+
+ex : X0; C, '5 Y0. Ri- Mil—£6,” 171- ’55“
+
+and J is the index of the iteration interan [l].
+
+The pupil border is given in polar coordinates as follows:
+p-r+scos?(-'_a.-a).
+
+where p and iv are the radius vector and the polar angle; and p. a and at are
+unknowns. To determine the unknown parameters we use the following series of
+relationships in discrete form:
+
+{a 23 1a
+3 M? wary (:-r)u:.-a’:[ .ﬂ’éja-arasln’h.
+. J .
+The resultant r. a and 0‘ are the initial conditions for the nonlinear least-
+squnres analysis with convergence criteria A r- 10.3. A a-lO'3. Act-S - 10-h
+rad. These parameters must be determined beforehand, since the least-squares
+method may converge to a false extremal. [1]. Real values for a are about 0.05.
+
+IReeonstrueting the wave aberration for the system being tested./ The inter-
+rerogram being studied reflects the wave aberration we are seeking with deroc-
+uaing. The rings (fringes) of the interference pattern are the degrees of
+discretimation of the wavefront by A . 'i'he detocusing is an additional
+Motion and must be eliminated:
+
+P(X.r)-m+c1 . x+smr¥am (As-HRS
+'i'he derocusing is eliminated by the least-squares method with the criterion
+
+42
+FOR OFFICIAL USE OSLY
+FOR OFFICIAL USE ONLY
+
+a-
+94W“: 'a)-”(xl: Y,)|—mln.
+
+where the summation is carried out for all measurements. giving the minimum
+mean square wave aberration, and accordingly the maximal Strehl number [2].
+
+The fact that the total defocusing produced in the interferometer system and
+contined in the wave aberration of the system is eliminated means that analysis
+of the image quality will be carried out on the optimal plane of the apparatus
+and at the optimal point on it. In the operation of a spherical mirror. the
+spherical aberration which is linearly dependent on 020 (1) does not arise
+from the aplanatic point or an aspherical mirror with a corrector under the
+same conditions.
+
+here (with an aperture greater than 0.35) the defocusing is eliminated using
+a K determined in advance by calculation from the test system:
+
+N
+,2} [Fun m-mxu m: -K - can [m )7] -
+
+m- ans. (9)
+
+In order to construct the wave aberration diagram of the system in question.
+which is required. for example, in industrial testing of mirrors. and also
+for image quality analysis, it is necessary to reconstruct a two-dimensional
+wave aberration function. This function is reconstructed by a least-squares
+approximation with analysis of the significance of the coefficients that have
+been derived, making it possible to eliminate measurement noise. Three var-
+iants of least-squares approximation have been developed.
+
+The first method makes use of Zernike's polynomials. orthogonal on a circle.
+The system of normal least-squares equations is solved by the Gauss method.
+
+As indicated in [7]. the nmber of operations required in solution of a system
+of linear equations by the Gauss method is close the the theoretical minimum.
+Operation of the program in the test mode indicates a good degree of de-
+pendence in the system of linear equations.
+
+The second approximation method also uses the Zernike polynomials, but the
+system of normal equations is solved by the orthogonalisation method [1, 8].
+The selected basis (the Zernike polynomials) is orthogonalized on a random
+sampling function using the Gram-Schmidt method [8]. Neither of these programs
+requires prior elimination of defocusing, since the defocusing polynomials
+
+are present in the basis selected and the approach to elimination of defocus-
+ing described above is retained.
+
+In the third variant, the system of normal equations is also solved by the
+method of orthogonalisation. but the orthogonal basis is produced as described
+below. This method requires measurements along the radii. The defocusing is
+eliminated beforehand in accordance vith (2). On each measured radius, we
+construct according to the Forsythe relationship [1. 3] the orthogonal basis
+Q1.“ , ). where m is the number of radii and i is the degree of the polynomial.
+after which we construct an orthogonal basis inf-Vim“ the sampling iunction
+
+53
+FOR OFFICIAL USE ONLY
+FOR iW'I‘H'IM. USE ONLY
+
+function for the radio: angina. '..'.~ treat the polynomials mm as a Magic
+polynomial (m1 sconnt) by joining. the coefficients of the l-‘orsythe recurrence
+relations by apiinen. it in easily rccn that the basin \i’ (if )eQi(’a) is also
+orthogonal. This nethod is promising "or iwme sampling functions. After
+finding the coefficients we analyze their significance by the tent Ii]
+
+a.’ ' I ' .. . .
+(a -Jiﬁf-‘Ii‘f‘h'li”. .07? .- :-..,....
+r the coefficients cntsined. 9(0)
+
+the par-t'aetrrs and oh‘m m '3b
+
+is the covariat ion
+
+where 3 is the water 0
+in the hypothesis.
+
+matrix for evaluation of
+
+in the second and tnird variants we analyze the hypothesis; 1 e 0. where
+2&0). while in the first variant we
+
+in. 2.....m (b=i. Qsio, 0. 1.....0'.
+the coefficients are ana‘
+
+analyze a more complex hypothesin in which h! 2. he
+lyted in pairs starting with o 1 and O 1. i9 and then additionally with the
+
+highest correlations. iiext the error of the standard mirror which has been
+thod is subtracted from the recon-
+
+dctcmincd in advance by the three-mirror he
+ntructcd wave aberration.
+
+in cases of large lo-‘al errors we use the second method of reconstruction of
+th wave aberrations we use the first;
+
+the wave aberration.
+am systems with several methods for reconstructing the
+
+the existence of progr
+save aberration ashes for high quality and reliability of results.
+
+Analysis of image Quality of the System Under Test
+Analysis of image quality entails determination of diffraction point
+spread functions. the energy concentration mnction and the two-dimensional
+
+optical transfer mnction. According to the scalar theory of diffraction
+
+I2. h]. the point spread function is determined by applying the fast discrete
+
+Fourier transform (rpm) method to the pupil function. Introductions to the
+
+FD” algorithm are given in [5] and [6}. A special version of the fast four-
+ion and with a shift in the coord-
+
+ier transform algorithm without bit invers
+
+inatc origin. without an increase 1
+zeroes bordering the pupil function, has been developed. To determine the
+OPP (optical transfer mnetion). an algoriti- for transformation of the real
+function is used. The tion function (”(2) is computed by in-
+ction (PS? (mi) over circular domains by the
+Simpson method. The energ concentration function. the point
+y-phase cross sections and the
+
+diagram. the frequency-contrast and frequenc
+frequency-contrast curve on a logarithmic scale are output on a printer.
+
+he use of this mathematical apparatus and the computer programs
+ulations on interferogrm thrOugh the example of testing of
+the ATP-2h telescope.
+
+.100 III in diameter. of
+tor of curvature of
+
+The interferogram shown in Fig. 2 was obtained from the cen
+pherical aberration compensator applied to the mirror. Pig.
+
+the mirror with a s
+
+3 shows the wave aberration contours of the mirror after selection of the opti-
+
+aal comparison sphere. The printer also produced a cross section of the sur-
+int spread Motion. the frequency
+
+face deviation iron the ideal over 55°. the po
+point spread mnction and the
+
+frequencyocontrast curve and a contour map of the
+frequency-contrast curve. Fig. 1. shows a graph of the frequency-contrast curve
+
+and the energy concentration curves. The broken lines are for the ideal system.
+1:4
+
+FOR OFFIClM. CSE 031.?
+.SE ONLY
+The calculations were made for A I 0 63 microns and a central screening value
+of 0.5.
+This automated method for Intel-fer
+and is new
+FOR OFFICIAL USE ONLY
+
+ 
+
+   
+
+—-L—u-—L—J
+a .: :9 2: a: gar
+
+Fig. 2. The lnteri‘erosraa Fig. 1:. a: Energy distribution in
+
+scattering spot.
+
+Central screening 0.5 (r I ﬁle is the
+radius of the diffraction scattering
+spot; u is the rear aperture).
+
+1:: Frequency-contrast characteristic
+T0
+BIBLIOGRAPHY
+
+D Hudson. Statistics for Physicists. Mir, 1970.
+
+H. Born; and 3. Volt. Mdanentals of Optics. Nauka, 1970.
+R. V. liming. Numerical Methods. Ram. 1972.
+0. Goodman. Introduction to Fourier Optics. Mir, 1970.
+
+J. H. Cooley; and J. u. Mey. "An Algorittus for the Machine Calculation
+of Couple: Pourisr Series." HATE. COMP” 19 (April. 1965).
+
+Porsytgg. Koler. Ruericsl Methods for Solving Systems of Linear Equations.
+Mir. 1 9.
+
+46
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+8. nukhvnlov. Chiolennyye metody [Numerical methods]. Nnuko. 1975.
+Received 16 January 1978.
+
+COPYRIGHT: Optiko-Mekhnnicheokaya Promyahlennoae'. 1978
+
+8h80
+080: 811116/0569
+
+‘7
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC- 535.8l:778.h
+
+COMPUTER PROCESSING OF INTERFBROGRAMS AND DETERMINATION OF THE POINT SPREAD
+FUNCTION AND OPTICAL TRANSFER FUNCTION IN TESTING AND FINISHING OF OPTICAL
+
+SYSTEMS
+
+Leningggd OPTIKO-MEKHANICHESKAYA Paonvsanuuosr' in Russian No 9. 1978
+99 5~
+
+[Article by M. A. Gun. S. I. Ustinov, V. P. Kotov, P. A. Sergeyev and I. N.
+Tsvikevich]
+
+[Text] A method for constructing a complete contour map of
+wavefront deformations and calculating optical transfer
+functions (OPP) from the results of interferogram proces-
+sing is discussed. The method is based on approximation of
+wave aberrations by polynomials which are orthogonal over a
+discrete set of points and utilization of the fast Fourier
+transform. It is demonstrated that calculation of optical
+transfer functions for actual vavc aberrations is in good
+agreement with results from recording of two—dimensional
+optical transfer functions by the holographic method.
+
+The high requirements for image quality of modern optical systems for various
+purposes such as large-size astronomical and photographic systems [1], ob—
+Jectives for microelectronics, optical systems for coherent computer devices
+[2] and so on require not only design of practically aberration-free systems
+but also accurate testing, assembly and adjustment of optical products.
+
+Accordingly it is a pressing problem to determine the level of acceptable re-
+sidual aberration and to compensate manufacturing defects in optical parts
+on the basis of results of wavefront defonmation testing. Since the accept-
+able level of aberration is determined by the diffraction structure of the
+
+image. it is necessary to calculate the point spread function (PS? [PRT])-—
+the image of a star-and the optical transfer function (OT? [OPF]) for the
+real vave aberration of a system during its finishing and testing.
+
+Quantitative analysis of the effect of manufacturing defects is apparently
+carried on by the leading foreign companies [l3~15]. which in combination
+with an automated retouching process enables them to significantly speed up
+the finishing of complex optical systems.
+
+48
+
+FOR OFFICIAL USE ONLY
+Real wave aberrations are usually not symetrical. which makes the task of
+presentation of the calculation results required for decisions regarding
+correction of the optical system significantly harder. In addition to cal-
+culation of such generalized criteria as the standard deviation of the wave-
+front and the Strehl number [3], methods for the presentation of two-dimen-
+sional point spread functions and optical transfer functions using computer-
+controlled alphanumeric printers and graph plotters are necessary.
+
+The remarkable properties of the Twyman interferometer [h] as a device for
+
+testing optical systems were noted as early as the 30's by many investigators
+[5. 6]. but extensive application of this method was hindered by the lack of
+a source of light with a large coherent length. In addition. the processing
+
+of interferograms by graphic or graph-analytic methods required long periods
+of time.
+
+The development during the last decade of effective methods for computing
+Fourier transforms and the use of computers has apeeded up the processing and
+interpretation of interferograms. The use of the laser as a light source
+made it possible to develop a compact and rather universal unequal-path inter-
+ferometer [7], which is apparently the most widespread and convenient method
+for testing wavefront detonation in both the assembly and the final testing
+of optical systems.
+
+holographic optical components (608) are used in image formation systems and
+
+in optical information processing devices. The interferometric method is suit-
+able for testing these components, since the recording device is easy to
+change over for testing of the wavefront to be reconstructed by these com-
+ponents.
+
+Illumination extrema appear on the interferogram as a line of constant phase
+difference between the reference wavefront and a wavefront which has passed
+through the optical system ( if the tests are carried out with an autocollimated
+device it is necessary to allow for the Q factor for passage of the light
+through the optical system under test.
+
+After the coordinates of the interference fringes have been measured and the
+corresponding numbers assigned, we obtain the values “R for the discrepancy
+between the wavefront being studied and the reference wavefront over: a system
+of points (x. Y) ; 1-1, as J Il. p1} . where i is the number of the inter-
+ference fr nge. xgcordingly the wavefront discrepancy w can be written as
+"30:, y)1 ahi/Q. where A is the wavelength of the ligh used to make the
+interfere ram. According to the superposition theorem [3],
+
+'Vn- "+ '32- m
+where w is the wave aberration relative to the nearest reference sphere and
+(for small aberrations) . . .
+W330". n-D(X’+M+L,:+Lw+c- (3)
+
+where D, 1.x, 1., and c are parameters characterizing the transition
+from the reference sphere for which the interferogram was obtained to the
+nearest sphere for the wavefront being studied.
+
+69
+
+FOR OFFICIAL USE ONLY
+FOR OPHCIAI. US}: ONLY
+
+In general the system of points ((X, H”) is irregularly distributed over
+the surface of the interferogram and the selection of the reference sphere is
+not the best possible for assuring minimum deviation from the wavefront being
+tested; moreover, inclination m- defocusing oi‘ the reference front makes it
+easy to number the fringes, so that additional processing of the
+
+fringe coordinates is necessary to obtain thr distribution of the wave
+aberrations w. This processing comprises two stages: determining the
+optimal parameters of the reference sphere, and interpolation of the wave
+aberrations w for a nonuniform [nttcm {(X. “1 }. The latter is necessary
+both for presentation of the wave aberrations in the form of contour maps and
+for the computation of the point spread mnction and the optical transfer
+function.
+
+Both stages of the processing of the interferogram can be carried out by ap-
+proximating the function "a by a system of mnctions “mm" 1m Wm I new“).
+while the coefficients and“ can be obtained by the classical least-squares
+method [1]. This requires the setting up of a system of normal equations. He
+carry out a sequential numeration of the points (X. Y)”. (X. ”k' 101, Ii.
+where Iii pp ... +pn.and of the quantities "hi '"Rk' as well as a sequential
+numbering gt the coefficients 3mm": and of he functions Vn .- w, , where
+
+" ((mon) + 3m+n}/2. Then the system of normal equations takes the form
+I.
+
+gunned-[wt]. o-o.....z.
+where L-M(M+ 3)/2; M is the maximum degree of the two-dimensional polynomial
+9‘; and [l are Gaussian brackets indicating sensation over it from 1 to N.
+
+The coefficients of the system of normal equations depend on M. and accordingly
+to increase the degree of the polynomial from M to M1 it is necessary to set
+up and solve a new system of I. equations for a new value of ii: in order to
+avoid this difficulty we carry out an expansion of the function "3 to be ap-
+proximated. in terms of functions 0; which are orthogonal over the discrete set
+
+of points “X. HR} and normalized. ige.
+
+The system of functions 0: can be obtained by orthogonalizing the system of
+independent function ‘4'. by the Gram-Schmidt method (functions which are
+linearly dependent over the system of points ((X, 1):} must be excluded).
+
+Suppose that 1- l coefficients at?” of the expansion of "R by the system of
+functions ‘P; have been calculated; then the non-normalized orthogonal mne-
+tion F} corresponding to ‘P, is determined by the following formula:
+
+‘0'
+71-; 9”,; + he (3)
+
+a
+-- ..
+
+"u " " "MP
+
+where
+
+50
+FOR OFFICIAL USE ONLY
+In addition we calculate the non-normalized coefficients ‘3“ x
+i,-|. can (-1,
+
+.. "" (i)
+MPEM'M can o<I<I.
+
+next we normalize
+
+9 -? m3? um.
+I I I l (5)
+
+1...-7..Niil)”-
+
+Nov it is simple to compute the coefficient F. in the ex sion of HR corres-
+ponding to if. and the changes in the coefficients “1 0‘ i ‘8 )
+
+t-Imr 1°»
+
+and ﬂung?”
+- (7)
+.3"-.['-"+a,1u(o<1any]
+
+The condition for termination of the calculation is either attainment of the
+required accuracy (evaluated by standard deviation or the absolute value of
+the maximum deviation at each point) or attainment of the specified degree of
+the polynomial.
+
+In addition. statistical analysis and evaluation of the significance of the
+difference from zero of the coefficients ,5; is carried out according to the
+Fisher test [9]. The initial conditions are given for f IO by the following
+
+relationshi s: ..
+P “-7. - L
+
+Calculating the first coefficients ans 5 makes it possible to determine the
+optimal (in terns of standard deviation) values of the parameters “83‘
+
+(IDs-0.; '
+
+lx-s‘ -s .xtr—s’na..; I
+nut-wem-(asnnn
+
+In addition the effective value of the astigsatism A and its orientation
+
+are calculated:
+
+homer-"ruin”
+0 - 05 mt: (‘uK‘a- a.»
+
+If the above-mentioned conditions for termination of the calculation are not
+fulfilled. the degree of the approximation polynomial is increased by l and
+the calculation proceeds according to formulas (3)-(7)- The coefficients an.
+found in this vay are revised in accordance with expression (1) and ultimately
+_ the coefficients of "n m for the expansion of the real vave aberration in a
+Taylor series for the plane of best placement are obtained. The vave aberra-
+tion can be simply calculated for any point in the pupil using the coeffici-
+ents of H“...
+
+51
+FOR OFFICIAL L'SE ONLY
+.. - ; - a n. :I- 1:1. ‘-.'- I-uu I :i.‘.‘ Liv: Hi'l‘FHF
+'I; 5 . . z - . \i i '-u' ' . -: nun-11' :n'. 'I'i")]-!€.i ill I‘ll?! I.)
+required; for this purpose ve have provided for a supplementary call of
+INTHIL. which searches for the optimal. a hero for comparison and interpola-
+tiOn by a locally linear method. We have also provided for linear and non-
+linear correction of distorted interferogram scale.
+
+Processing of the interferogram provides information on the phase composition
+of the pupil function P(Xp. Yp) in some cases (mg. in optical systems oper-
+ating with Gaussian laser beams and holographic optical elements). This in-
+formation should be supplemented by the amplitude component of the pupil mne-
+tion [\(Xp. Y9). when the overall function will have the fans
+
+mx, Y,)—A(,\',. 7,)upmmx,. 7,».
+
+where (:3. Yp) are normalized coordinates [10]. The pupil Motion is related
+to the int spread mnction and the optical transfer function by the vell-
+
+knoun relationships [3) crux. r)..c.|r(p(x,. mm. (s)
+one-(1x. ~,)-c.r(epr(x. m (s)
+
+where i“ is the two-dimensional Fourier transform operator. X and Y are the
+normalized coordinates in the image plane [ll],vx ande are the normalized '
+spatial frequencies in image space [11]. and c1 and Ca are constant multipli-
+era.
+
+The calculation of the point spread function and the optical transfer function
+by (3) and (9) is carried out by the OTFDF subroutine using a fast Fourier
+transform (BPP). The use of the fast Fourier transform makes it possible to
+calculate the point spread function and the optical transfer function directly
+
+using the discrete Fourier trnasform, but satisfactory accuracy required stor-
+age and processing of large quantities of intonation which are not stored in
+the working memory of the computer. Accordingly we used magnetic drums to
+store the calculation results and certain intermediate data. but the inter-
+change with the drum was organized in large blocks of intonation using the
+BAROBMEH subroutine system [ll]. The Mundh method vas used for transposi-
+tion of matrices, required in the performance of the two-dimensional Fourier
+transform [12). The above enabled us to make full use of the advantages of
+the fast Fourier transform. The current variant of the program for the “Sh-6
+computer can calculate point spread function and optical transfer func-
+tion matrices with sizes from 631x 610 to 256: 256 elements.
+
+As an example we consider the processing of an interferogram of an astronom-
+ical objective with a pupil diameter of 500 an obtained on an unequal-path
+laser interferometer for a point on the axis with A I632 nm.
+
+Fig. 1 shows the distribution of wave aberrations vith respect to the plane
+of best placement and Pig. 2 gives the results of calculation of the point
+spread function. here the mean square value for wave aberration was 0.1,:
+and the boundary values -0.65A and «L381 , the effective astigsatism
+a-o.26 A and the Strehl number 0.5.
+
+52
+FOR OFFICIAL USE ONLY
+FUN HFPICIAL USE ONLY
+
+ 
+
+Fig. 1. Havefront Contours (Distribution of Wave Aberration).
+xp and Y are normalized coordinates on the screen. The contour interval
+correspogde to a wavefront difference of 0.125 X .
+
+ 
+
+Fig. 2. The Point Spread Function (Norlalized to the Strehl Number).
+
+53
+FOR OFFICIAL USE ONLY
+FOR OFFlﬁlAL USE ONLY
+
+The rcnults of calculation of the two-dinennional optical transfer function
+from the interferogram were compared with results from recording the modulus
+of the two-dimensional optical trannrer function holographicslly obtained by
+P. A. Sergeyev and I. N. Tsvikevich. Thin method is based on holographic
+recording of the overall amplitude diotribution in the image of a point and
+is analogous to the implementation of the digital method of computing the
+optical tranufer function. The resultn of calculation of the modulus of the
+two-dimensional optical transfer function for an obJective are shown in
+
+Pig. 3. Fig. h presents a graph or the moduli of the optical trsnofer func-
+tion in the best and worst crona sections. As can be oeen from the figures,
+the calculated and measured valuea agree uith an accuracy of 3 0.03. which
+
+does not exceed the error of experimental determination of the modulus of
+the optical transfer function.
+
+It should be noted in conclution that contour maps of vave aberrations can
+be uned to detenmine the areas and amounts of retouching; in addition, it is
+possible to determine the effectiveness of retouching by computer modeling.
+
+ 
+
+Fig. 3. The Modulus of the Optical Transfer Function.
+
+54
+
+FOR OFFICIAL U55 ONLY
+E‘OR OFFICIAL USE UNLY
+
+ 
+
+all R19 457 an (0’ v
+
+ 
+
+”1010 001030000”
+
+Pig. h. Comparison of the results of calculation of the optical transfer
+function for real wave aberrations (Fig. l) with data obtained by the holo-
+graphic method: a is the modulus of the GT? in the best section. b is the
+nodulus in the worst section. c is the modulus for a corresponding optical
+system without aberration. Broken lines represent calculated values. circles
+represent experimentally measured values.
+
+BIBLIOGRAPHY
+
+l. D. 8. Volosov. Fotograticheskaya optika [Photographic Optics]. Moscow.
+Iskusstvo. 1911.
+
+2. K. Preston. Coherent Optical Computers. noecow, Mir, 197'!-
+3. M. Born; and 3. Volt. Fundamentals of Optics. Moscow, Nauka, 1970.
+h. F. Twyman. PRIL. MAO.. Vol 35. No 1 (1918). P I'9- A
+
+5. 6. Ivan. Metody kontrolya opticheskikh poverkhnostey [Methods of Tbsting
+Optical Surfaces]. Moscow, Leningrad. Oborongiz. 1939.
+
+6. L. P. Moroz. 0MP [Optiko-Mekhanicheskaya Preqyshlennost']. No 11. 1936,
+pp 17-18; No 12. 1936. p 135-16; No 1, 1937. PP 11-18.
+
+1. V. A. Savin; and L. c. Fedina. novaya tekhnika v astrononii [New Equip-
+ment in Astronomy). No 3. Leningrad, nauha. 1970. pp 207-212.
+
+8. I. M. Gel'rand. Lektsii po lineynoy algebre [Lectures on Linear Algebra],
+macaw, Nauka. 1966.
+55
+
+FOR OFFICIAL USE OSLY
+FOR DPP'CIAL USE ONLY
+
+9. 0. Hudson. Statiscice for Physicists. Moscow. Mir. 1970.
+
+10. u. n. Hopkins. JAPAN JOURNAL OF APPL. PHYSICS. Vol. u. no 1 (1965).
+pp 31-35.
+
+11. V. I. Skripnichenko. Alsoritui nebesnoy ackhoniki [Algorithms of
+Celestial Mechanics]. Leningrad. 197k.
+
+12. a. o. Eklundh. "1888". Vol 21. No 1 (1972). pp 801-803.
+13. a. Beragren. oprrcsn SPECTRA. Vol 12 (1970). pp 22-25.
+
+lh. M. P. Riuner; c. “1 King; and D. a. Fox. APPL. 0PT.. Vbl 11. no. 12
+(1972). PP 2790-2796.
+
+15. J. J. Bruhing at 31. APPL. 0PT.. Vol. 13, No 1 (191b), pp 2693-2703.
+Received 10 June 1971.
+COPYRIORT: Opciko-Hekhsnichesksys Pronvshlennost', 1978.
+
+6h80
+C80: Blhh/Ohé9
+
+56
+FOR OFFICIAL USE OXLY
+FOR OFFICIAL USS ONLY
+
+006 666.11.011535-323
+CATAIDO OP OPTICAL GLASSES OF THE 088R MD ODR
+
+#11313qu OPPIKO-MBIOIANICHEKAYA PROMXSHLBIINOST' in Russian No 9. 1978
+
+[Article by Corresponding Member of the 088R Academy of sciences 0. '1‘.
+Petrovskiy, I. M. Bushinskiy and Candidate of Sciences V. 3!. Poluhhin]
+
+[Text] The efforts to develop a Joint tress-ans catalog of
+optical glasses are briefly characterised. their structure
+and content and the product range described, and the in.
+portance of the issuance of the catalog for current and
+future development of socialist integration in the optical
+glass field evaluated.
+
+In keeping with the plan for scientific and technical cooperation between the
+USSR and the con in the area of optical glass making. in 1976 a catalog of
+optical glasses of the USSR and ODR was compiled and issued. The compilation
+of the Joint catalog by the two largest producers of optical glass. each of
+which has its own long individual developmental history and traditions. is
+the first such experience in worldwide practice.
+
+Colpilation of the catalog required the solution during 1973-1916 of a complex
+of organisational, scientific and technical problem. _
+
+with the participation of a large number of specialists, the USSR-Bast German
+working groups solved the key problems. without a resolution of which it
+would have been impossible to compile a Joint catalog of optical glasses. A
+unified system of norms for the main optical glass parueters was worked out
+and unified norm and reference values to be included in the catalog were es-
+tablished. Unified methods for testing the numerous glass parameters were
+found. We should note that at this stage the testing methods and apparatus
+could not be coapletely unified, but it was reliably demonstrated that in
+spite of the existence of differences they gave identical results in measure-
+ment of glass parameters. Unified quality requirements for optical glasses
+were determined and unified evaluation criteria adopted. The catalog listing.
+consisting of 238 glasses (an equal number for each of the two participants)
+was developed. The determination of the list was a complex problem, since it
+
+57
+FOR OFFICIAL USE OﬂLY
+FOR OFFICIAL USE ONLY
+
+was connected with established production of optical instruments on both
+sides and accordingly alterations in it could not always be made quickly
+where desired. Accordingly it was necessary to include in the catalog a
+large number of "duplicate" glasses; this is why the catalog is called
+"Joint" and not "unified.” Complete unification of the list is a future
+task. which will be intricate and prolonged.
+
+The list of optical glasses was approved during compilation of the catalog:
+as new varieties of glass with extreme optical constants were incorporated.
+offering new possibilities for instrument making. and little-used and non-
+recommended glasses were eliminated. The glasses on the list are at the
+
+same level as those of the leading foreign companies. and in some cases sur-
+pass it. This catalog initiates the inclusion of not only optical glasses
+but also quartz glass, glass for fiber optics. and glass for bifocal eye-
+glasses with an invisible dividing line. Unified forms of supply were estab-
+lished and regulations for designation and coding of glasses coordinated.
+
+In order to carry out these measures, the specialists on both sides conducted
+an immense amount of supplementary investigation of glass quality. testing of
+procedures. review. revision. updating and expansion of information on the
+physical and chemical properties of glasses. and also developed new procedures
+for investigating quality and rating properties.
+
+During compilation of the catalog. the quality of optical glass was improved
+in s nunber of respects, including such important ones as light absorptivity
+and bubble content. A'special section was devoted to specially pure glasses
+with light absorption coefficients of 0.1-0.3 percent per centimeter. Glass
+products with smaller tolerances and improved quality indices were included.
+
+The Joint catalog of USSR and con optical glasses is the most complete single
+modern reference work on optical glass. The extremely detailed text. includ-
+ind a description of the catalog. appendices and also lists of the properties
+of each type of glass. gives the designer exhaustive information about the
+glass, its quality and the available forms. significantly simplifying the
+correct selection of glass and expanding the range of its applications.
+
+The catalog gives for the first time refractive indices for all laser frequen-
+cies, provides a dispersion formula for calculating refractive indices for
+other wavelengths. and presents diagrams for the selection of pairs of glasses
+with minimal secondary spectral values in four wavelength regions:
+
+lI-i’if'n. is—PU’n Iran-cu. Inn—‘4
+
+along with complete data on the light transmissivity of domestic glasses
+(ordinary and high-transmissivity) for the entire spectrum.
+
+The catalog gives 153 characteristics for each glass (the Alannion State
+Standard 008? 13859—68 gives as).
+
+58
+FOR OFFICIAL USE OSLY
+FOR OFFICIAL USE ONLY
+Table 1.
+
+U8IIR Gleason Cvma CIZCI'
+
+M Mama 1 Roman
+
+ 
+
+I .’IK| LK 00I mam 68.8! III 1m: 3? 239 I.0I4I3 40.01
+a mm 00) 1.44749 10.04 82 0024 m muss 30.11
+a mu ooI 1.4001 03.0! m 5023 24.1 I.6071J 48.I I
+4 mm 001 L410" 60.03 N 6020 m5 INS 38.41
+5 JIK7 009 M8287 00.30 05 6027 240 mom 43,97
+0 JIK8 (III “7000 60730 66 0028 240 IMIN 35.04
+7 QKIIFK cm I I997 69." 07 5032 2I9 I579" 88.69
+a can on W887 67.60 08 1604 war 27I I.17m 38.08
+9 M04 0'» I510” 65.00 09 T603 210 M8500 4I.I8
+I0' 70mm 0I0 LWI 05.22 70 11508 274 IN! 3.04
+II KIM M0 I592!“ 50.01 7| 1809 275 IMIT 42.77
+I2 742 080 I000" 30,02 72 18025 ‘ 270 was 31.45
+I3 K3 084 mm 80.36 73 1’60» 271 I.0I40I 30,42
+I4 KB 080 mm 64.01 74 1'60" 218 1.01011 43,03
+I8 RN 080 I5II78 00.03 75 1005 LI‘ 298 I 7 «3|
+I8 K I5 00I I535? 55.47 70 007 298 I578I2 4I.I I
+I7 KI8 051 mm 60.38 71 new 209 588782 42,0I
+I8 KI9 084 I.8I878 0|.69 78 Mg 300 L800“! 33.0I
+I0 K20 060 1.82m 00.“ 19 mm 30I I.5I8II 45.01
+20 5K4 BK on: 7.83079 07.47 no IIQII .1»: I560!" 48.70
+27 ENG IN I539” 59.67 8I .1002 (IN IWI «.07
+'12 BK!) 085 1.34678 62.10 82 «w p m was 30.98
+23 BKIO 080 L668“ 83 02 an I.6I0$ 36m
+24 6103' 093 1.8500 8I I5 84 04 370 Imus 05.01
+)5 7K2 I01 M7249 57,“ B '98 822 mow 37.97
+a: 7x4 I09 mm" a 08 09 301 mm 34.58
+27 TK8 III I.6I4Io 6M3 87 ¢I3 329 1.0m 80435
+28 "(9 II: I.6I720 5!.“ 88 M8 as! mm 35.20
+29 TKI2 us I.50888 €0.03 39 '70! 7F JII 1.6476: 31.87
+30 TR I3 I I1 Law 60.8! m 1'02 344 1.01260 32.23
+m mu m 1.61309 00.50 9| 1'03 348 mm 29.5:
+3: ”(In I2! 7.61m 33m 92 1’04 347 1.1m 2m
+:13 TKI7 I24 Imam 59,35 90 705 w - 576523 27.53
+34 mo I28 I.622I0 7| 94 1'01 am 51282: 2004
+.1“. "gal I27 1.65m am: 95 1'08 353 L689» am:
+38 74428 I29 I.589III mm 98 T¢l0 353 km
+
+31 CTR-1 81‘ I66 I.65900 57.15 97 Ton .387 mum 3|.59
+30 cuts“ 168 mum $859 98 Ton 358 was" 25.61
+89 CTK8 lee L70": £9.09 19 TOIa 089 M8466 26.33
+40 cm 170 1.7425; 50.74 I00 (:10: ST? 366 mm 20.42
+4| CTKIII I72 I.7379I 48.! I IN cm: 37 2.I70I8 17.00
+02 C'I‘KI2 I74 I.6920I 55.0I I02 CNN 38 2.06624 I603
+43 (:‘I’Iils I78 I.70J3I 54.71 I00 o¢I OF 308 1.82040 sun
+44 c7KI6 I77 M8808 45.62 I04 003 :09 1.81242 44.00
+45 CI’KI9 I78 I.744I:I 50.42 IN 001 390 IMO 40.46
+48 C‘I’K'JU Ian I,76482 50.25 I08 005 am - 1.66m! 4|.78
+I7 OKI I9I L522." 78.35 I07 008 392 mm 5|.04
+III 0K2 100 1.9027 73.08 I08 IIIII KO 1.50 1.45446 61M
+49 KM 10‘ 202 I.5I8III 58.93 IQ KY2 75! I358“ 87.18%
+:0 K06 208 Im 57.2! no KB 752 I.“ 67.“
+8| K07 m1 I§I789 5|.l5 III RH 78:! 1.45348 67.”
+52 5M B? 211 4.52419 54.06 II2 K3.» -R 1.54 1.45848 81.84
+83 504 2I9 1454809 53.” In 65K3 774 IMIO 57.8
+54 I306 22I 1.50970 49.45 III SOKI 770 Mm 7
+as rm m ”7960 $9.97 us 6002 p m I520 36.7
+m I»: 228 1.5321: 46.41 ms was: 083 1.8820 52.51
+51 SOII 227 I524“ so." II7 86508 858 I585?) “.20
+58 BIPI'I 219 Im 39.") I I8 BCSI3, “2 l.5|:II I 64.54
+30 MI: ”I mm 4821 II9 m m Isms 05.5I
+no now 270 mm 41.29 m JIK5 LK 008 I.~I78I7 65w
+
+ 
+
+Key: 1. Variety 2. Code number
+
+59
+FOR OFFICIAL USE ONLY
+'II‘II (Hi-J! '."7 (“CM-H |'II'
+
+WM" "IF-.4- .- ——..-. --—-—-—-Mnn~
+
+ 
+
+ 
+
+ 
+
+ 
+
+.\‘: MI III 'I. Koaomh" I I) In “a ‘ I '\0 IINI"
+
+IIIII “(cl-I nouns | 77,; ‘1 II I I ‘ "l...“ I "3...", "J I ”II
+I I h) Ina III-m I.-.I--' r-I .m-‘J .Im 1.35mi I 5)
+II F K6 um I .43; III 0-9,!!! «I III SI‘I. .157 Lax-m 4%!»
+3 I'SKI on I,.- IIII I ..:. I I'-.' II -I I 3:.3 LOW-‘1 43m
+-I PSKJ II II I..'-5‘) I . I- I. I'_' In "II-‘3 .159 I 7.0729 .93]
+.s I’SK'I 0‘5 1M3" “LL - m ml 1 .Im I'eoeIII I630
+.5 mm 0.58 I. I9 I-‘l- N- a; I.5 II.|-' 3.52 IONS“) III.”
+7 mm 05') I. mm m. I4 M “an! .Im I um I700
+3 IIKI uqu I.‘.Ifn76 73'. y) (' mm my. I mm 47 '50
+II "III 0076 I. am 6': I? as IIaI’Io an I 'onm II. II
+
+III III" 068 LSIW 6|. H 59 Km 39 I 551 Is 49.60
+II IIII IOI IMIIIJ 6|.50 70 KII’S.‘ :ISI $573! $1.64
+I? I.Iu 102 ~ MOI-10 56.46 7I KIFSI mus I «306 I3.”
+Ia KI IN I 978.76 II. a: 72 ms am I 'szIII mo
+N m I07 Mb .331) 7.1 mm :m was” 6|. I2
+I5 KIJ IUJ Iii-21.40 {I I." N I..II’ «II I .697l'2 66.97
+I6 KM I'o I.) a2cl‘l $.61 75 LIV 402 I .73I II I632
+I7 KII Ila I.6'.'I.I 58.5.} 76 LI!“ 409 I .770I3 40.76
+Ia 2K7 m Lyn“ em: 77 usv IzI Lam 30.09
+III III? l27 mm 60. I3 76 I ASP -I2I ”53986 28.37
+90 ZRI I26 I531“. as. 0| 79 [W 457 [57502 “.33
+2| 2K5 I'J‘J I'JII'J $.13 60 ”‘3 460 L662“ 42.03
+22 SILK? H2 IMHO 6|.M III F: ~I7I I. 59550 39.?)
+23 ISIK? I53 lbl'm 59.63 8': FIG 475 I. 599 H 36.40
+24 oaks 156 mm 55.57 :u H. 477 mom {was
+2‘, In!“ I53 IMIIIII 50.00 N Is In Lem: 36.98
+26 ml“ 19) I. .0248 57. 4.5 85 H ‘80 IMO.” 36.6I
+27 IIIII'III II?) ”:65” 50:03 Oh F? 4:" mm 35435
+2.4 SKI! I7I IMIII'» no.7:I II7 PI I In Low» .53»
+29 SK!) I13 I 339'? 61.20 6., P1 . 485 IMSJG
+
+30 SKIS I7! L60"? 53.2.1 89 IIaSFJ sII I.607l7 40.26
+3| SKII I76 LIAN! 60.96 IIII II am 503 IMII'IS 39.03
+3.: SK: I77 man so." In MP4 . 50! mm an
+31 SKI III Wow 59.63 92 mm 505 meow «.54
+3I 5K6 m I.6I376 56m 93 IhSI-‘z £05 [.66I46 III
+35 5K9 IM [bl-I06 53." 97 IIaSI-‘II 507 IM755 “.98
+an SSKII I65 I .6I766 55A! 95 835” 3m ”(“55 «JG
+37 SKI6 I66 I 26.“? 60.26 W "3393 509 1.723 In as.”
+36 SKI6 I87 I .62290 55.0 97 SP7 6?" 1.63978 3m)
+39 SK“) I60 I .67260 56.67 9‘ SF: 522 1.6069 3.1.67
+40 SKIB I69 L635) 55:5 99 9 526 l.66.'.0I 3.1.19
+II SW“ 20.; I .661?) 56.“ Im II) .523 ”66x" 33.")
+I! 5K2? 204 I.67II07 55.00 II)! 5 $26 ”.7270 32.24
+63 SSKIO 206 1.603“ 63.56 III! II 527 ”6693 :II.I5
+II SSKII 219 L751!» 63." I03 I5 am Im 30.06
+I!» SSKI 26'} I. 6I7I') “.05 IN I 579 \ I.7I736 29,50
+46 SSK7 265 I .oIoIs 50.35 I06 Io SIII l.7-2Im mas
+-I7 SSK2 266 I. «ma SLI-I I06 3 5“ L739” III
+48 SSK5 '167 I656“ 50.86 I07 I3 532 I.74076 27.7I
+4') l. LFII 2M woo: 45.I5 I08 4 5.1.3 I,7.‘.5'.'0 27,31
+50 KI‘J am I SI-L‘rI 5|.66 Iw S?“ {m I.16IIII 26.51
+5| Kl'a 301 |:5II16 8x96 . III) SP" 516 ”847.! 23.73
+52 was (III) I M740 SL6! III SF6 536 Iﬂblﬁ 25.46
+S! BJLFI an IJSNS 60.69 II2 SFSI 5.17 mm 20.96
+M IIaLI'J 322 I§7IM 63.“) III! I an 1.45651 67.14)
+55 MI.“ 3‘." 1.57967 smo II I 2 67': MS“! 67.50
+:15 new :27 1.5m 5m: II: 03 87:} new I57. I»
+57 LII-'6 :m ISII7I 48.90 ms 87.)! 373 I353 I6 67M
+6: LU") 339 MOON 47.25 II7 n I 933 ”33867 84. 74
+50 LLI’7 {III UAW) -I5.-|l Ila KLI’ 362 I629 I-I SI .73
+
+M
+Key: 1. Variety 2. Code number '
+60
+
+FOR 0F;~‘II‘.I.-\I. 3'53. .WLY
+FOR OVFICIAL USE ONLY
+
+The text of the catalog includes the following sections. which Rive scientific
+descriptions of the determining properties of glasses: optical constants,
+transmissivity and scattering, chemical stability. temperature characteristics.
+mechanical properties. electrical and magnetic properties. quality indicators,
+forms cf availability. test logs, lists of data on properties (an individual
+list for each variety). diagrams of glass types and the characteristic dis-
+persion curve for the spectrum.
+
+The appendices give tables of reflectivities as a function of refractive index.
+nomograms for determining the internal transmissivity and the overall trans-
+missivity from the light absorption coefficient; tables of coefficients for
+converting the measurement units used in the catalog into the international
+system of units. and geometric dimensions and tolerances for various available
+shapes (Appendices 81 and D1); changes in the list of glasses of codes 3 and
+D (Appendices 82 and D2); optical quartz glass (Appendices 83 and D3); opti-
+cal glass for fiber optics (Appendices 8k and Dh); optical glass for eye-
+glasses (Appendices SS and D5); and high-transmissivity optical glass (Appen-
+dices 86 and D6).
+
+The catalog is compiled in two languages and printed in two identical Variants:
+variant 5. in vhich the description begins with the Russian text. and variant
+D. in which it begins with the German text. The designations of the catalog
+are: complete catalog: version 3. 061; version D. ODl. A list of the
+glasses included in the Joint catalog is given in Tables 1 and 2.
+
+In the opinion of specialists on both sides, the catalog is a document of
+great importance for the further development of optical glass and optical
+glass making and an example of successful implementation in practice of so-
+cialist integration.
+
+Even during the preparatory stages, optical and mechanical experts on both
+sides made successful use of new optical glasses included in the Joint cata-
+log in the development of new optical systems.
+
+The introduction of this catalog will make it possible to improve the quality
+of optical-mechanical instruments as the designers use higher-quality glasses,
+and vill lead to greater specialization and extent of socialist integration,
+and as a result higher output and greater quality of optical glass.
+
+Interested organizations may obtain the Joint catalog of USSR and GDR optical
+glasses from the House of Optics in Moscow.
+
+Received 10 March 1978.
+
+COPYRIGRT: Optiko-Mehhanicheskaya Promyshlennosy', 1978
+
+once
+cso: Gibb/0569
+
+61
+FOR OFFICIAL USE OXLY
+FOR OFFICIAL U315 ONLY
+
+UDC 666.1z621.375.9:535
+MECHANICAL STRENGTH AND THERMAL STABILITY OF NEDDYMlUM GLASSES
+
+Leningrad OPTIKO-MEKHANICRESKAYA PROMYSHLENNOST' in Russian No 9. 1978
+pp 39-h2
+
+(Article by V. H. Mit'kin, Candidate of Sciences 0. S. Shchavelev and V. B.
+Zheltov]
+
+[Text] The results of a study of maximum stresses of the
+lateral surfaces of active elements and comparison of these
+data with thermal stabilities are presented. It is shown
+that the mechanical strength of phosphate glass specimens
+is within the 150-300 kg/cma range and that for silicate
+glasses in the 300-600 kg/cm2 range. The thermal stability
+of optical glasses of various chemical compositions is
+studied. A method for evaluating the thermal stability of
+glasses from their composition and coefficient of thermal
+expansion is presented.
+
+Neodymium glass, which is used in laser engineering for the manufacture of
+active elements, has been an obJect of study for some time. Investigations
+which were limited to questions or spectroscopy, thermal optics and manufact-
+uring processes have resulted in the development of extremely promising
+glasses [1, 2]. Further possibilities for the use of neodymium glasses in
+laser engineering depend to a significant degree on the problem or their me-
+chanical strength and thermal stability [3]. However, the literature con-
+tains insufficient infonmation about these properties.
+
+We shall discuss the results or studies of thenmal stability and maximum
+stress on the lateral surface of cylindrical active elements and data on the
+dependence of the thermal stability of optical glass on its chemical composi-
+tion.
+
+In contrast to the classical methods of breaking of samples (tensile testing.
+bending, impact and so on) we created mechanical stresses in the active ele-
+ments while they were in the laser head by optical pulping (internal heating)
+and intense cooling of the lateral surfaces with liquid (see e.g. {bl}. This
+produces a quasi-stationary parabolic temperature distribution across the
+active element as the pumping pulses are periodically applied, resulting in
+stresses with a similar radial distribution in the material [5]. The maximum
+
+62
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+stresses occur at the center (compression) and on the lateral surface (exten-
+sion). Tensile stresses on the lateral surface result in breaking when the
+maximum value is exceeded. in the method employed by us. the stress on the
+surface of the sample is uniquely determined by the frequency of the pump
+pulses and is monitored through a conoscopic pattern observable when the
+sample. located between crossed polarizers. is illuminated. For calculating
+the stress on the lateral surface of the cylindrical sample we used a formula
+with rather wide approval in quenching technology [6. 7]:
+
+o...-2~'1'-z-: (n
+
+where n is the number of rings in the conoscopic pattern; A. in the wavelength
+of the illumination source; 1 is the length of the sample: and B is the
+optical load coefficient.
+
+It is well known that the strength and durability of any glass sample depend
+on the condition of its lateral surface and depend in practice on the presence
+or absence of microcracks. A temperature fluctuation mechanism correctly ex-
+plains breaking [8]. The actual strength of a glass sample is considerably
+lower than the theoretical strength determined from the strength of the
+
+glass structure [8], i.e. glass breaks before the yield point is reached as
+
+a result of defects in the lateral surface [8]. This circumstance and the
+fact that the radial stress distribution in quenched samples and the samples
+described above are identical (this is shown experimentally in reference [h]
+by mutual compensation of stress) enabled the authors to use formula (1) to
+calculate the stress 6-” resulting in breaking of the sample. For this pur-
+pose we determined the number of rings “r“: in the conoscopic pattern before
+breaking of the sample and substituted the value into formula (1). The values
+for the breaking strengths thus obtained for active elements with a diameter
+of 10 mm and a length of 130 mm with an etched lateral surface are presented
+in Table l. The error in the values for c.“‘ which were found results pri-
+marily from error in measurement of the number of rings n.u, , which amounts
+to about 2 0.5 and 2 1 respectively for a small (approximately 5) and large
+
+( 1 10) number of rings.
+
+Table l.
+For systematic study of the ihvnm‘i :r':-|-ii;:y u:’ .1”qu as u function of
+their commsitloa we unm: etched :i'u'ii-h'. -4".!- dimensions hf 9.5x9.'3x 61 mm
+
+with a l-mm bevel on the edges. mahlc'a': n-- : :‘uum '1) llnlUstl‘ial and experi-
+mental optlcal Mill nun-iylhlum alarm-x whi-‘l. :E'l'erml i‘v'nne-uan-‘rclal glans.
+whunv thermal ntahillty in rather 'u‘ii shun-"i (her "4:. [(‘H by a high volume
+homogeneity of phyniea. anal r'hm-Ihru‘. prawn-U --.s and an: extremely broad range
+of chemical compositions tuned nu .lne'i‘r-senl mane—formers (emu phosphate.
+
+silicate and so on). The uamnlea were c‘..' fr'..:. highly homogeneous bubble-
+free pieces of glass. I. tor po;.::hinn with iii}? powder for silicate and M5
+powder for phosphate glasses. the LEUII'i‘PS were etched to decrease the number
+and the amount of danger from defecu am: to distribute them evenly over the
+entire surface. The above was aim-.1 at dowenzaing the difference in homo-
+geneity of properties between samples of a single variety of glass, which plays
+a significant part in the dispersion of experimental thermal stability values
+(for example. the great dispersion 01‘ t ermal stability of samples of non-
+homogeneoun technical glasses). The initial measurements taken on a large
+number of samples of the glasses RGSiilozl and $431 (38 and 33 samples respect-
+ively) indicated that as a result of the above measures. the dispersion of
+thermal stability value for different samples of the some variety of glass
+was extremely small ( no greater than 2-).“ C). making it possible in subsequent
+experiments to limit ourselves to 10 specimens of glass of each variety, or
+even to five in a few cases (it must be noted that the dispersion of values
+for each variety of glass did not exceed the value indicated). The thermal.
+stability was determine-i by dropping samples heated in a special mrhace into
+water at room temperature. Before dropping into the water. the samples were
+held at each temperature for 20 minutes. liear the expected maximum loads. the
+furnace temperature was increased by a-ncgree increments between trials uni 11
+all samples had broken. In design. our unit differed from the standard unit
+used in determining the thermal stability of comercinl glasses [9] only in
+the dropping mechanism.
+
+The experimental thermal stability values AT in Fig. l were compared with the
+values for the coefficient of thermal expansion 0‘ for the glass in the tem-
+perature interval 20-120° c using measurements obtained by the interference
+method. Although the nature of the relationship '1'- f(ot) for optical
+glasses in general is similar to the relationship given in the literature for
+commercial glasses [9]. the presence of glasses from five different chemical
+composition groups was clearly observable; for these glasses the relation-
+ship can be written using linear equations with different coefficient values
+
+'U o
+(hum "‘ nan—TNT. ' (2)
+
+where 61“, is the thermal stability of a hypothetical glass with a: 0-, and
+«HUN/da- is the angular coefficient of chat-.93 of thermal stability. The
+thermal stability of glass samples is calculated from equation (2) with almost
+the same accuracy as the experimental determination.
+
+For glasses in the first group, including horosilicates with a coefficient of
+thermal expansion not greater than 50 - 10' deg-1. the thermal stability de-
+creases sharply as the coefficient of expansion increases. The glasses in the
+other groups also showed decreasedd'l‘ as the coefficient of thermal expansion
+increased. but they had a practically identical value for the coefficient
+6t
+FOR OFFICIAL CSE 051.?
+i’OR OFFICIAL USE ONLY
+
+'95
+8:.
+
+   
+
+seseessisss
+
+um am an mmmm-UW' «3-1
+
+Fig. 1. Relationship of Thermal Stability of Optical Glasses to Coefficient.
+of Thermal Expansion.
+
+Q-Borosilicates; Q alkali silicates; o alumoborate-silicates; ‘f calcium
+phosphates; I calcium-strontitm phosphates; 0 barium and lead phosphates;
+':. alumofluorophosphates; A polylead silicates.
+
+dCGTVda- . about one-sixth that for borosilicate glasses in the first group.
+Accordingly glasses have different thermal stabilities for the same coefficient
+of themal expansion. This coefficient is highest for the alkali silicate
+group. Among phosphate glasses. those with calcium oxide are the most therm-
+ally stable. Barium-phosphate. lead-phosphate and fluorophosphate glasses
+
+are less thermally stable than calcium-phosphate glasses. The lowest thermal
+stability is observed for multi-lead silicate glasses. The thermal. stability
+levels for glasses in the four latter groups differ by approximately 20° c.
+
+The thermal stability of active elements 130 m long made of a number of indus-
+trial ncodymium glasses were determined as a function of their diameters with-
+in the range S~lS In. The relationship our to the diameter d which was ob-
+tained is shown in Fig. 2, and for samples of 10 us diameter also in Table l.
+The figure shows that the thermal stability of samples decreases as their
+diameters increase. here in order to obtain a straight line we also included
+points corresponding to the thermal stability of samples with square cross
+sections which were used for systematic studies, taking the maximum cross-
+sectional dimension (the diagonal) as the diameter. The extent of the de-
+crease in thermal stability in a rod of silicate glass as the diameter decreases
+by a millimeter averages 5.2 degrees. and that for phosphate glasses 2.7
+degrees. The divergence of these values within the groups studied did not
+exceed 1 deg/In.
+
+The thermal stability values which we obtained for neodymim glasses agree well
+with the data of other authors [10]. He used them to calculate the maximum
+stress in rods 10 ms in diameter x 130 u by the well-known formula:
+
+4,“ -738:- mus... (a)
+
+65
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL "iii-Z ONLY
+
+Pig. 2. 'i‘hm'uul litubility of Neodymium
+Glasses n.‘ a Function of Diameter
+
+E;
+
+ 
+
+m
+N Phosphate glasses:
+:0 1. RES?!”
+2. 01.822
+)0 3. VAX-$163“
+‘0 ' :lillcatc glances:
+50 h. KGSSS‘I‘
+M 5. 01553-2
+16 6. 61.93
+7- (“Si
+N
+
+o s a as 1: Mn»
+
+where E is Young's modulus; ,4 is the Poisuon coefficient; and his“ is a co-
+efficient depending on the intensity of heat withdrawal and the shape of the
+specimen [5]. The values of his.I in the mnction for Biot's criterion char-
+acterising the intensity of heat removal from the lateral surface of the sam-
+ple for rod-shaped samples with circular (curve 2) and rectangular (curve 1)
+cross section are shovn in Pig. 3 (data from reference [6], supplemented by
+the authors for cylindrical seaples). Under the experimental conditions,
+ms, 3 0.65. The results of calculating a i' are shown in Table 1. There
+is good agreement with the values of a as» $9 indirectly confirming the
+suitability of the method presented above for finding maxi-um stress.
+
+    
+
+310.9904“
+
+Fig. 3
+
+The connection between the tensile stress on the lateral surface of the sample
+and its themal stability can be described not only by the formula given above.
+
+but also by a siapler formula obtainable by substituting in (l) the double re-
+fraction value “max A 411st 0
+
+c3" — 2 77 AT. (4)
+
+where Q is the themoptical characteristic of the glass as given in [2]. The
+calculated values «a, are given in Table 1; an average value Q/BS 3.1 for
+the glasses van used in the calculation.
+
+66
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Thus the investigation establishes that the mechanical strengths of the samples
+or neodymium phosphate glass are in the 150-300 kg/cm2 range and those for the
+neodymium silicate glass samples in the 350-600 kg/cm2 range. The breaking
+stress may be calculated rather accurately from the therml stability at the
+sample. It may be found relatiVely easily by experiment or estimated from the
+composition or the glass and adJusted for the diameter of the sample.
+
+In conclusion we note that the stresses withstood by the glass samples depended
+on the time or heating [ll]. The maximum load values were greater when this
+was short. Fig. It shows the change in breaking stress on the lateral surface
+
+of a sample 10 III in diameter by l30 mm long of (“.81 glass as a function of
+the heating time t. The value “max determined from the thermal stability
+
+corresponds to small t. The relationships obtained are described by the vell-
+knovn formula [11]
+
+Here t is the durability of the sample and A and K are constants of the mater-
+ial which depend on the temperature.
+
+Table 2.
+
+ 
+  
+
+  
+
+manta K0“
+llOIGIfOI. MC.
+
+ 
+ 
+
+2 muons. 11,0 1—25 m 4.1
+
+""“"°'°' no ”4s m ~03
+FOR OFFICIAL USE ONLY
+
+ 
+
+A”
+0 J0
+60 MAC.”
+
+Fig. la. Effect of Duration of ﬂoating on Sample Durability
+
+Key :
+
+3:: experimental values
+
+Solid line: curve calculated from formula (5)
+Assumed values: A-30.000. Kao.01158
+
+1.
+
+2.
+
+9.
+
+BIBLIOGRAPHY
+M. M. Bubnov et a1. KVAM'OVAYA MWNIKA. No It (16). 1973. p 113.
+
+0. S. Shelmvelev et a1. 0MP [OPPIKO-MBICHANICRIKAYA PROMYSHLENNOST'].
+No T, 1.976. p 32.
+
+A. A. ﬂak et a1. KVARTOVAYA ELEKTRONIKA. Vol 2, No 1., 1975. P 850.
+V. M. Mit'kin. OHP. No 8. 1976, p 26.
+
+B. a. Beloatotskiy; and A. s. Rubanov. Teplovoy rezhim tverdotel'nykh
+am [The Thermal Regime or Solid-State Lasers]. Moscow, Energiya, 1973.
+
+G. M. Bartenev. uekhanicheskyye svoystva i teplovaya obrabotka stokla
+[Mechanical Properties and Thermal Treat-cut of Glass]. Mouow. Stray-
+izdat, 1960.
+
+I. A. Boguslsvakiy. Vysokoprochnyye zakelennyye atekla [High-Strength
+Tempered Glasses]. Moscow. Stroyizdat. 1969.
+
+G. M. Bartenev. Sverkhprochnyye i vysokoprochnyye neorganicheskne atekla
+[Super-Strength and lush-Strength Inorganic Glasses]. Moscow. Stroydzdat.
+
+197'.
+H. Schonborn. J. 800- GLASS TECHN., Vol 20, 1936, p 81.
+
+10. I. M. Buzhinskiy; and S. K. Manonov. TRUDY MV'I'U. Vol 1830, 197h. p 181.
+
+68
+FOR OFFICIAL USE 0.\'LY
+FOR OFFICIAL USE ONLY
+
+11. A. Ya. Bokin. Mekhonicheskyye avoystva eiiikatnykh atekol [Mechanical
+Properticn or Silicate Glasses]. Leningrad. Nauka. 1970.
+
+Received 21 June 1977.
+COPYRIGHT: Optiko-Mekhnnicheaknyn Pronyahlennont', 1978.
+
+8h80
+€80: 81hh/oh69
+
+69
+FOR OFFICIAL “SE ONLY
+UDC 539-23h
+WIDE-BAND DAELEOPRIC HIRROR3 HLDH UP PITAhIUN AND SILICON DIOXIDES
+Leningrad OPTIKO~HEKHANICHESKAYA FROMYSHLBNNOST' in Russian No 9. 1978 pp “6-”?
+[Article by L. L. Mntskcvich. V. V. Burninov and h. V. Ruchinskiy]
+
+[Text] A method of producing broad-band dielectric merrors
+for the 0.h-:.0 micron range from T102 and SiOp, in which
+the T102 in 1pplied by reactive evaporation of TiO, is
+described. Graphs of the spectral transmission of 17-.
+
+21- and 33-iayer mirrors are presented.
+
+Currently it is mainly ZnS and fiourides [1-3] which are used to produce
+broad-band dielectric mirrors with a reflectivity above 90 percent. but these
+mirrors have low operating characteristics. The process of application of the
+refractory oxides Snoz, Zr02 and $102 by electron-beam evaporation in a vacuum
+[h] which has recently been developed does not solve the problem of manufactur-
+ing broad-band mirrors, owing to the low refractive indiccs of Shoe and 2r02
+films. By resistive evaporation of titanium and silicon monooxides in oxygen
+[5] it is possible to produce two-oxide films of these substances with satis-
+factory refractive indiccs. But this method is very labor-consuming in the
+manufacture of mirrors with large numbers of layers.
+
+We have demonstrated the possibility of producing beam-splitting and reflect-
+ive surfaces with T102 films by reactive evaporation of titanium oxides [6].
+Using the process of reactive evaporation of T102 we produced broad-band
+dielectric mirrors for the 0.h-l.0 micron range. The coatings were applied to
+a substrate of K8 glass, either unheated or heated to 350-h00° C. The re-
+fractive indices of the titanium dioxide films vere determined spectrophoto-
+
+metrically [T].
+
+The films applied tc the unheated substrate have a refractive index of 2.15-2.2
+in the visible portion of the spectrum. Studies conducted since the conclusion
+of the work presented in [6] have indicated that the refractive indices ob-
+tained for titanium dioxide films depend on the quantity of the starting sub-
+stance (Tio) evaporated, i.e. the chemical composition of the substance in the
+electron-beam evaporation crucible, which tends to have an increasing oxygen
+content, so that the refractive index of the T102 film increases. The change
+
+70
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+in chemical composition of the material in the crucible can be observed
+visually. since after the Tio has been he ted in the crucible for 30-110 min-
+utes in the presence of women (~ 5 - 10" mm of mercury) the yellowish-brown
+Tio is converted into a mixture or blue-violet higher oxides (T1203. Ti3o and
+so on). when these higher oxides are exaporated. TiO films with retract ve
+indices of 2.5-2.2 are obtained. The refractive indices 01‘ T102 films ap-
+plied to a substrate heated to 350-h00“ c are 2.6-2.65 in the visible range
+and decrease to 2.105 at a wavelength of 1.0 microns.
+
+The broad-band mirrors were prepared from two oxides. titanium and silicon
+dioxides. Both materials were evaporated by an electron beam evaporator. The
+mirrors consisted of several elementary quarter-wave mirrors with intermediate
+reflective bands [1. 2]. The mirrors all had the same design:
+
+M k. k) )u )s’
+s (sa...s) man (ss...s) HBH (sn...s)
+11 layers 9 layers 1 layers
+(33-layer mirror on heated glass substrate)
+
+Here 3 is the substrate. K8 glass; 3 is the T102 layer. with a thickness of
+Mb. I! is the 8102 layer, with a thickness ofA/lo; A1, A3 and ). are the
+wavelengths for which the optical thicknesses of the 7-. 9- and 11- ayer were
+controlled; and A 2 and h 1, are the wavelengths for which the optical thick-
+nesaes or the intermediate layers were controlled; A 2 and M. had values
+intermediate between A1 and A and X3 and 7x5 respectively. A rice-3102
+system consisting of 21 layers ?see figure. graph a, curve 1) was applied to
+the unheated substrate.
+
+The integral reflection was measured with a selenium photoelement with a cor-
+reeting light filter made or 288 and ZhZSlﬂ colored glasses; for the mirror
+in question it was 93.55 with a transmissivity of 5.65. The accuracy of meas-
+urement of the transmissivity and reflectivity was 0.1% and 0.2, respectively.
+The light scattering. measured with a rue-36, was 0.13%
+
+man J"
+I”
+
+    
+
+(U I?! «U (”f a] a! [(fl 4! (c) ﬁ ”6‘ ”I” 271%)!
+
+Spectral Curves of Transmissivity oi‘ Dielectric Mirrors
+
+Key: a: curves 1 and 2 are for Zl-layer mirrors on cold and heated
+
+substrates respectively.
+1): curves 3 and I: are for 17- and 33-layer mirrors on a heated substrate.
+
+71
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+A series of mirrors consisting of 1?. 21 and 33 layers were prepared on heated
+substrates. The integral mirror characteristics are shown in the table and
+the spectral characteristics are given in the figure.
+
+1 "”113“! l? | an l m.
+
+ 
+
+2 Ilnrclwnuun
+
+3333315? 'r. 91.0 96.5 41.0 own-mo
+
+"mammal“!
+Mommies!
+scream. I 0.12-0J3 Ill l—0.l6 ".28 ~03"
+
+ 
+
+Key: 1. number of layers
+2. Integral reflectivity, S
+3. Integral coefficient of scattering. f
+
+The soisture resistance of the mirrors prepared on both the cold and heated
+substrates was evaluated by holding them in a climatic chamber (temperature
+loo° c, relative humidity 98%) and in running water. After 10 hours in the
+chamber, none of the mirrors studied had changed its mechanical strength or
+optical characteristics.
+
+Thus moisture-resistant and and mechanically strong broad-band mirrors based
+on TiOg-SiOa applied to heated and unheated substrates have been prepared
+using the vacuum method.
+
+Prom analysis of the relatively high scattering coefficients of the mirrors
+we may conclude that these values are primarily determined by the number of
+layers in the system rather than by the high temperature of the substrate.
+
+In addition, the scattering level in the T10 layers is significantly lover
+than in layers manufactured by the cathode [3] or high-frequency [9] methods,
+uith comparable optical and mechanical characteristics. This attests to the
+advantages of the ‘reactive method of producing the T102 layers. The search
+for ways of decreasing the light scattering will continue.
+
+BIBLIOGRAPKY
+i. F. A. Korolev et a1. OPT. I SPHCTR., Vol 28, 1970. p 775.
+2. A. P. Turner; and P. U. Batmeister. APPL. 0PT.. Vol 5. 1966, p 69.
+3. s. 1.. Perry. APPL. om, Vol. 1., 1965. p 981.
+
+h. A. P. Perveyev; B. I. Fadeyeva; and G. A. mranova. 0MP [OPTIKO-
+WICHEKAYA PROMSHWWT'], No 11, 1973, p 66.
+
+5. V. l. Roshdestvenskiy; and E. I. Padeyeva. 0MP, No 12, 1975, p M.
+72
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+6. L. L. Mntakevich; and V. V. Bazhinov. 0MP, No 2. 1977. D lol.
+
+7. 0. lam»; and R. Tun. The Physicn of Thin Films. Moscow, Mr. 197?.
+P 136.
+
+8. o. A. Motovuov; and o. 9. Radian. 0MP. No 6, 197)., p 36.
+9. A. P. Perveyev et. a1. 0MP, No 3. 1975. p h3.
+
+Received 18 December 1917.
+
+COPYRIGHT: Opuko-Mekhenicheekaya Pronyshlennost' . 1978
+
+81080
+C80: 8111M 01:69
+
+73
+
+FOR OFFICIAL USE ONLY
+FOR "Fl-'lClN. USR ONLY
+
+UDC 531.717.8:778.3B
+MEASURING RADII 0F CURVA‘NRE AND LOCAL DIS‘IOM'IONS Ol’ MIRROR SURFACES
+Leningrad OPPIKO-WICHESKAYA PROMYSBIENNOST' in Russian No 9. 1978 pp 56-58
+[Article by M. L. Ourari, A. P. Golikov and s. I. Prytkov]
+
+[Text] Rndii of curvature and local distortions of optical
+mirror surfaces are measured without using high-quality
+optics by the holographic shearing interferometer, vhose
+size does not depend on the curvature of the mirror being
+studied.
+
+The problem of accurate measurement of radii of curvature and defects of shape
+in the surfaces of mirrors in optical components using interference methods
+[1] becomes muchmore difficult as the dimensions and radii of curvature of the
+mirrors increase.
+
+The contact_ interferometric methods vhich are in broad use under production
+conditions (e.g. the test glass method) produce greater errors as the dimen-
+sions of the mirrors increase, necessitating frequent readJustment of the
+etalon.
+
+In non-contact interference instruments. such as the Mun-Green unequal-path
+interferometer [2], shear interferometers or scatter-screen interferometers
+(3-6], the base of the measuring device typically depends on the radius of
+curvature of the mirror being tested, so that the possibility of testing
+
+large mirrors with increasing radii of curvature is limited by the increasing
+role of vibration, air currents and the like. Testing of come; mirrors under
+similar conditions requires large-diameter matching objectives, whose precis-
+ion manufacture is troublesome.
+
+The possibility offered by holographic interferometry of comparing wavefronts
+of any form recorded at different moments of time has made it possible to de-
+velop a method of precise measurement of radii of curvature and surface shapes
+of large mirrors using a device of relatively small dimensions and independ-
+ently of the value or sign of the radius of curvature of the mirrors.
+
+7‘
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+A schematic of the measuring device is given in Fig. l. The mirror to be
+tested is mounted on a movable dolly, enabling it to be gradually moved along
+or perpendicular to the optical axis or to be turned relative to the apex. A
+di ffuser, covering the aperture of the mirror to be tested, is placed before
+the mirror at as small a distance as possible. The main requirement for the
+diffuser is that the intensity ‘of diffusion of the scattered component of the
+radiation be less that the intensity of the wave passing through it without
+scattering. The mirror is illuminated through the difmser by a divergent
+beam from a coherent point source located on the optical axis of the mirror.
+The radiation reflected from the mirror passes through the diffuser in the
+reverse direction. falls on a photographic plate and serves as the object
+beam in the recording of the hologram. The entire unit is mounted on an
+anti-vibration platform whose dimensions are determined primarily by the re-
+quirement of optinal illumination and coverage of the mirror by the diffuser.
+
+While the hologram is being produced. the photo plate is not moved from its
+exposure position. The diffuser surface is viewed through the hologram that
+has been obtained. The mirror being tested is moved from its initial posi-
+tion, producing an interference pattern located in the plane of the diffuser
+and recordable behind the hologram. The shape and period of the fringes in
+the interference pattern contain information about the radius of curvature
+and the shape of the mirror surface.
+
+The observable interference pattern is produced primarily by the component of
+the initial illuminating beam which passes through the diffuser without scat-
+tering. is reflected from the mirror surface and is scattered as it passes
+back through the diffuser. Two such waves are observed simultaneously: one
+is recorded on the hologram. and the other is observed directly and corresponds
+to the mirror in its shifted position. It can be shown that the observable
+pattern is equivalent to the interference pattern in the diffuser produced by
+waves from two identical sources: images of the illumination source in the
+mirror in the initial and shifted positions. During testing of a spherical
+mirror this pattern has the form of equidistant straight lines with a period
+
+same—=41.
+
+where A is the size of the transverse shift (perpendicular to the axis) of
+the mirror. R is the radius of curvature of the mirror, and sq and 3s are the
+distances along the axis from the mirror to the diffuser and the source respect-
+ively. When the diffuser is close to the mirror (zq/za-ro) the formula is
+
+i 1 :
+smper 3=%§.
+
+High measurement accuracy is obtained by employing a compensation procedure
+in which successive transverse and longitudinal (along the axis) shifts of the
+mirror are made along with a compensating rotation of the mirror in the plane
+which contains the optical axis and the vector of transverse movement, with
+the total spatial shift of the mirror equivalent to its rotation with respect
+to its own center of curvature. In this case local surface nonuniformities
+
+75
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Fig. 1. Diagram of Holographic Shear Inter-
+i‘eromoter with Diffuser.
+
+Key: 1. Beam splitter
+2. Lil-38 laser
+
+ 
+
+3 . Mi rror
+
+la . Etalon
+
+5 . AdJutment unit
+6 . Di fma er
+
+7 . Polaroid
+
+8 . Hologram
+
+are observed in the same way as in shear interferometers [7], while the radius
+of curvature is determined from the measured sizes of the movements:
+
+R=-“‘-.
+where 9 is the angle of the compensating rotation.
+
+Highly accurate measurement of the transverse shift presents no difficulty,
+since its size is specified in the experiment more or less as desired. The
+corresponding angles of compensatory rotation are generally very small. Since
+it is difficult to measure them with a high degree of accuracy, in order to
+measure the radius of curvature a small diameter standard mirror mounted to-
+gether with the mirror under test was used.
+
+The difference in radii of curvature results in a difference in the interfer-
+ence patterns observed on the two mirrors after an identical shift of position.
+This makes it possible to calculate the difference in radii of curvature be~
+tween the two mirrors without measuring the compensatory angle and increases
+the accuracy of measurement of the mirror under test.
+
+Measurements were conducted on a series of mirrors with diameters up to 220 mm
+and with radii of curvature from +10 to -30 meters on a stand about 180 cm
+long. At the same time these mirrors were tested on an unequal-path 'hryman-
+Green interferometer (aperture 150 mm), measuring their radii of curvature
+with an autocollimation system. Within the limits of accuracy of measurement
+on the autocollimation stand -(for R: 20 meters the relative error of measure-
+ment was 0.5%) no discrepancy between the measurement results was observable.
+
+Pig. 2 shows the interferogram obtained for one of the mirrors in the series
+(diameter 200 m. radius of curvature -18 m) made for the purpose of measuring
+local nonunifomities of shape. The measurements were made with tuning to the
+finite-width fringes [nastroyka na polosy honechnoy shiriny] parallel to the
+vector of the transverse shift; the shift was 27 mm. A strong deviation of
+the fringes in the peripheral section of the mirror corresponds to a wave ab-
+erration of ~ 0.1 microns measured with the Twyman-Green interferometer.
+
+Thus measurement of the radii of curvature of large mirrors and local nonuni-
+formities on their surfaces by the above method is carried out with a compact
+device whose dimensions do not depend on the sign and size of the radius of
+curvature. 76
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Fig. 3. Shearing Interferogram of a Spherical Mirror with Diameter 200 mm
+and Radius of Curvature 18,000 mm.
+
+The method is advantageous for testing convex mirrors and small-curvature con—
+cave mirrors with radii of curvature ranging from several meters to several
+dozen meters with a surface reflectivity greater than 20%. The universal
+method of illuminating all mirrors by a divergent spherical wave from a fixed
+point source renders the above method suitable for testing of mirrors over
+
+an extensive range of diameters. The upper limit on the diameters stems from
+the requirement for ease of illumination and observation, coherence of the
+radiation in the mirror aperture and simplicity of interpretation of the in-
+terferograms. with source coherent length l, for example.anda.diatance L
+between the diffuser and the hologram, it is theoretically possible to conduct
+measurements on mirrors with diameters up to
+
+2LV2—'[-+-ln-.
+
+With the LG—38 laser used in the experiment, the coherent length of which is z
+30 cm. and a platform length L25200 cm, it is possible to measure mirrors
+with diameters up to 220 cm. Mirrors up to 50 cm have been measured in prac-
+tice. With a laser beam output power of 0.03 W, the delay required to pro-
+duce the hologram was 100 seconds (a VR-L Mikrat photoplate was used with a
+radiation wavelength of 0.6328 microns). It would be possible to decrease
+the exposure time to several seconds by switching to other types of lasers,
+for example an argon laser with a beam power of l V. Using the above method,
+the measurement of local surface nonuniformities can be carried out with an
+accuracy approximating that of shearing interferometry. An accuracy of about
+0.1 percent was attained in experimental measurements of radii of curvature.
+
+77
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007I02108: CIA-RDP82-00850R000100010033-3
+
+F'.“ ”IJ’ICIAL *'I-' l'|'\'l‘,'
+A mndH'lvul. .1. a; l.=-.- .- | ,l-‘l' '-.-.;r:. ii '1' itslhlt.‘ [.0 ll
+
+curacy of :ncuzmu-n cn'. rn-I I .~ mun. :lr- mam» -nl' ummchrn mu
+Mare 01‘ the mirrorn Lim', mm m- Muted.
+
+9' .‘l. I"'-l-f.i F"
+
+‘. I. I. Dukhnru‘l; tl‘. 3- '3 "’ Hm “I“ [47”:KKh-MEE‘EIANICH
+l-Eﬂﬂl“'..'-'l"l. Ila 3, l.- L p 50.
+
+2. V. A. Saving and 1-. (i. .-‘-:d.|.=:\. NOW‘YI: .‘EI’IHNIKA V ASTROH
+p 207.
+
+3. n. Langenbcck. .zosa. Vol 61. N" 2, 1971. p 172.
+h. v. A. Kouiasaruk. 0MP, No 7. 1969. p 8.
+
+5. n. M. Scott. mm. mm. vm. 3. 3m :s. 195‘." 1- 531.
+
+6. J. Random. us Patent No 3199673. 1972;.
+
+7. J. a. Saundern. APPL. 0mm. Vol 9. No 7. 1910. p 1620.
+Received 12 August. 1977.
+
+COPYRIGHT: Optlko-Hekhanicheakaya Promyshlennoot' . 1918
+
+8h80
+CSO: 811:10/01069
+
+78
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02108: ClA-RDP82-00850R0001000100334
+FUR HFPIGIAL UHH HNLY
+
+UDC 5h8.0:535:771.36
+AN ELECTROOPTICAL MODULATOR WITH SMALL NONACTIVB LOSSES
+
+Leningrad OPTIKo-MEKHANICHEBKAYA PROMYSHLENNOST' in Russian No 9. 1978
+pp 71- 2
+
+[Article by T. A. Kuzovkova]
+
+[Text] Decreasing non-active losses in the Pockels cells used to modulate
+light and to control laser generation is a pressing problem of electrooptics.
+The effort to solve it has stimulated both a search for new types of electro-
+optical crystals with low absorptivity [l] and the search for new cell de-
+signs using short modulating elements.
+
+In some modulators based on the longitudinal Pockels effect in crystals of the
+KDP and DKDP types [2]. the lenght of the modulation element is chosen as
+2.5-3 times the diameter. This is because with strip electrodes this is the
+only way to assure uniform transmission of light in cross section [3].
+
+In order to decrease the length of the modulator element we attempted to con-
+centrate the electrical field in a narrow section of the crystal by using
+
+wide tubular electrodes enclosing the lateral surface of the crystal and pro-
+truding beyond it for a distance approximately equal to the diameter of the
+crystal. The gap between the electrodes is chosen with reference to the ne-
+cessity of maintaining its resistance to breakdown. Here the proJecting parts
+of the electrodes screen the ends of the crystal from effects of the potential
+in the surrounding space. As a result the electrostatic field is concentrated
+in a smaller volume than if the electrodes did not project.
+
+The concentration of the field can be strengthened even more if the parts of
+the electrodes proJecting beyond the crystal are galvanically separated from
+the electrodes on the crystal and given a charge opposite to that of the ad-
+Joining electrode.
+
+Fig. 1. presents a cross-sectional diagram of the modulation element with
+electrodes protruding beyond its end. Fig. 2 illustrates the calculated dis-
+tribution of residual transmissivity T of the modulator using a KDP crystal
+and with a length-to—breadth ratio of 1.5.
+
+79
+
+FOR OFFICIAL USE ONLY
+Experimental testing or this modulator indicates that the length of the elec-
+troopticol crystal can be decreased to 2/3-1/2 or that in existing designs,
+and conficna that the projecting parts of the electrodes effectively influence
+light transmission. Jith a length-to-breedth ratio or 1.5 for n KDP crystal.
+for example, and a residual tranamissivity through the center of l} in the
+off state, the use of protruding electrodes decreased trensmisaivity by an
+order of magnitude.
+
+In conclusion we note that when single-polarity voltage pulses ere red to the
+modulator located inside a grounded screen, the grounded part does not need
+to be screened from the end or the projecting electrode.
+
+BIBLIOGRAPHY
+
+l. I. 8. Rex. In Svoystve materialov. primenyayemykh v ustroystvakh opto-
+elcktroniki [Properties of materials employed in optoelectronic devices],
+USSR Academy of Sciences Corresponding Member K. s. Aleksandrov, ed.
+
+Krasnoyarsk, 1975-
+
+2. M. P. Lisitsa. KVANTOVAYA ELRKTRONIKA, No 6. 1972 pp 3-h8. Kiev, Naukova
+Dunks.
+
+3. M. G. Vitkov. OPTIKA I SPEKTBOSKOPIYA, V01 2h, No 5, 1963, pp 786-79h.
+Received 20 July 1977-
+
+COPYRIGHT: Optiko-Hekhanicheskaya Promyshlennost', 1978
+
+8h80
+CSO: 81hh/0569
+
+80
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 539.1.07h
+AN INFRARED RADIOMETER BASED ON A GALLIUM ARSENIDE INJECTION PHOTODIODE
+Leningrad OPTIKO—MEKHANICHESKAYA PROMXSHLBNNOST' in Russian No 9, 1978 pp 72-73
+
+[Article by Yu. A. Abramyan, I. D. Anisimova, V. P. Kalyayeva, E. G. Mirza-
+hekyan, I. I. Mikhaylov. a. G. Simonyan and v. I. Stafeyev]
+
+[Text] One method of detecting infrared radiation and measuring its intensity
+against a background of noise which is several orders of magnitude greater
+
+than the signal is a radiometer whose detection range is governed by an input
+photodetector. In the spectral range of 0.7-0.95 microns, the photodetectors
+most commonly used for radiometers are gallium arsenide inJection photodiodes.
+He used photodiodes with a pi£_structure, where the 1 region is high-resistance
+gallium arsenide doped with chromium. These photodiodes work with a forward
+bias, acting as internal amplification photodetectors, and have little noise
+and an integral sensitivity in the hundreds of milliamperes per lumen.
+
+face of the gallium srsenide photodetsctor. An FDK-l photodiode and an ALlOTA
+light-emitting diode, used to produce the reference signal, are located op-
+posite each other on the two sides of the rotating disk. The phases of the
+reference signal and the signal arriving at the gallium arsenide photodetector
+are adjusted precisely by shifting the FDK-l and the AL107A relative to the
+opening in the radiation modulator. The inner surface of the modulator with
+the abovementioned components is blackened.
+
+The electrical signal from the photodetector passes to the input of a preamp-
+lifier useing a KPZOZYe field transistor. With an input resistance of 10
+uegohms, the preamplifier noise arriving at the input is 15-17 microvolts.
+After preamplification and the subsequent amplification stage the signal ar-
+
+81
+FOR OFFICIAL USE OSLY'
+Diagram of IR Radiometer.
+
+Phase detector
+
+Matching output stage
+Reference signal amplifier
+Reference pulse shaper
+
+Key: 1. IR radiation modulator
+2. Low-noise preamplifier
+
+3. First amplification stage
+
+h. Synchronous integrator
+
+5. Second amplification stage
+
+a
+
+‘OO-Ja
+0
+
+Next, after amplification by a K28hUDlV operational amplifier with negative
+feedback for stabilization of the gain. the signal passes through a phase
+conversion stage and the required emitter repeaters and is fed to the input
+of a phase detector based on a differential amplifier stage with a current
+stabilizing transistor (KlUT2218). Tb trigger the phase detector. a reference
+voltage is also fed to the KlU2218 microcircuit. The utilization of the syn-
+chronous detector is Justified by its good selectivity and its transmission
+coefficient greater than 1 [2].
+
+The signal from the output of the phase detector is fed via a differential
+emitter repeater (a lNTSQlA microcireuit) to the output for recording by a
+KSP-h recorder with a lO—microvolt full-scale deflection. The radiometer
+
+time constant is -3 seconds. The threshold sensitivity in recording is
+
+1.5- 10'15 H-Hz‘l 2 (using a photodiode cooled to 77° K). The threshold
+sensitivity of the radiometer with an uncooled photodiode is 3- 10‘13 H-Hz‘l/a.
+An LED with a wavelength of 0.8 microns was used as the radiation source.
+
+The use of recently-developed inJection diodes with a threshold sensitivity of
+5- 10-16 w-md/2 (at 11° K) in the radiometer will improve its threshold
+sensitivity.
+
+BIBLIOGRAPﬂY
+1. A. V. Ipatov; and A. 8. Berlin. IZVEBTIYA VUZOV, Vol, 16, No 5, 1973.
+
+2. M. S. Reytman; and Yu. N. Rybin. Elektronnaya tekhnika v avtomatike
+[Electronic Equipment in Automatic Control]. Yu. Konev. ed. “o h, 1973,
+
+P 79.
+Received 20 July 1977.
+
+COPYRIGHT: Optiko-Mekhanicheskaya Promyshlennost', 1978
+
+8480
+050: 8144/0469 END
+
+82
+FOR OFFICIAL USE ONLY

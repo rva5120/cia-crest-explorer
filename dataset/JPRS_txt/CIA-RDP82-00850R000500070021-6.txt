@@ -1,0 +1,1028 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/ 10575
+10 June 1982
+
+West Europe Report
+
+SCIENCE AND TECHNOLOGY
+(FOUO 11/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+nor:
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the criginal phrasing and
+other characteristics retained.
+
+headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. were no processing indicator is given, the infor-
+ntion was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source .
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGlT W8 AND REGULATIONS GOVERNING MERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUEICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+WEST EUROPE REPORT
+
+SCIENCE AND TecnuoLoev
+(POUO 11/ 82)
+
+Comeurs
+
+ELECTRONICS
+
+Philips Optical Storage Disc: Continuing 8&1)
+(mmﬂ, 26 m 82) OOOOOOOOOOOOIUOOO00.00.0000...
+
+ENERGY
+
+'Haute-Deule' Deep Underground Coal Gaeification hoject
+(Jacques 319811; N m L'mn, Jm’p’b 82) 00090....
+
+INDUSTRIAL TECHNOWY
+
+Plane Take Shape for Revival of Machine Tool Industry
+(Nicole Beaucleir; A138: 003103, 17 Feb 82) .............
+
+TRANSPORTATION
+
+Tntervieu With President of Aerospatiale
+(Jacques Mitterrand Interview; PARIS HAM, 19 Feb 82) ..
+
+Government Makes Funds Available for New Fokker Strategy
+(mum, 27 Feb 82) OOOOOOOOOOOOIOO'O...00.0.0.0...
+
+A 310-300: Heavier, Longer-ﬂange Airbus Planned
+(m ET m, 27 Feb 2) .00..000...OCOCCOOOOO'OOOOOOOO
+
+Franco-Italian Am 1:2 Project Receives First Orders
+(m& m, 17 Am 82) O........C...Q...C.0.0.00.0..00
+
+-a- [III-WB-ISJ
+a'l’lCIALUSl-ZONI.Y
+FOR OFFICIAL USE ONLY
+
+ELECTRON ICS
+
+PHILIPS OPTICAL STORAGE DISC: WINDING REID
+Munich common: in German 26 Mar 82 pp 26-27
+[Article: "Optical Storage Discs Bold Homtains of Data"]
+
+[Text] German EDP specialists consider the storage media currently on the
+market to be overtaxed in terms of their capacityneven though they have not
+been in use all that long. Technicians are, therefore. once again looking
+for new storage media which can handle an even higher density than, for
+example, today's magnetic disc systems. Philips Data Systens took a giant
+step into the ”memory future" when some time ago it cams out with the first
+optical disc storage unit with a diode laser. Research and development
+experts from the laboratories in Siegen report below about their experiences.
+
+It is not secret that people in offices suffer under the growing flood of
+information and the constant pressure to have to stay up to date in their
+field of knowledge. Also they are concerned whether the correct decisions
+are made at the right time if information is not always complete. Integrated
+information and conunications systus shall and can be an important support
+for this creative potential in our business and administrative offices in
+
+the 1980's. Without intending to introduce a new definitionnby such
+comunication systans we mean here the totality of all elements and functions
+which come about through the merging of data and text processing (to date
+separate comnunication functions) and the service functions. which are to be
+understood as office service, as well as classical telecoununications. In
+this connection-to a very much greater degree than in the past—information
+storage and management assume increasing importance. The storage media
+currently on the market are overtued.
+
+Thus, the following requirements are placed on the new storage media:
+“higher storage capacity than today’s magnetic disc systems;
+
+«clearly improved cost-effectiveness ratio as compared with today's mass
+storage units;
+
+--recording capability of the new medium
+
+--fast and random access.
+
+Some time ago Philips presented the prototype of the world's first optical
+
+disc storage with a diode laser. The extr-ely compact storage device can
+record and read out data with a high density. As a storage medium there is a
+
+1
+FOR OFFICIAL USE ONLY
+FUN UI'I'ILIAI. USI. URL!
+
+rotating two-sided plastic disc, 30 cm in diameter, with grooves. The disc
+stores 10 0 bits of intonation which corresponds to the contents of about
+one-half million typewritten pages of text. Thus, it is far superior to the
+
+largest storage units with magnetic discs which are in use today in computer
+systems.
+
+Research was started in 1972. Since that time work has been in progress at
+Philips on optical recording methods. The first result was the video long
+play (VLP) disc which was introduced as a product in the 0.8. market in
+December 1978 and whose market introduction in Europe is imminent.
+
+Some 2.5 Tons of Paper on a Disc
+
+Using this basic technological research as a basis, development work was
+continued with the goal of utilizing this storage technology in the intonation
+processing systems sector, too. The result is the optical storage disc on
+which 1.25 billion bytes can now be stored per 12 inch unit. This is roughly
+the equivalent of 500.000 written pages of DIN [German industrial standard]
+
+A-lo paper—circa 2.5 tons of paper. It is possible to integrate several of
+these discs in a so-called megadoc system and to keep them in direct access
+
+so that approximately 60 billion characters can be stored in such an
+exchangeable disc unit. Even smaller versions of the optical storage disc
+
+are planned which will then have lower storage capacities.
+
+Overwriting Still on the Drawing Board
+
+The optical storage disc consists of a transparent and unbreakable core to
+which a thin storage layer has been applied. The information to be stored
+is burned into this storage layer with a laser beam and can be read as often
+as desired or else be declared invalid. Overwriting the informatio --
+comparable to today's magnetic disc storageucannor. be implemented yet for
+technological reasons. Efficient data bank systems will, however, make it
+possible once again to write altered, that is, updated or further developed
+intonation at another place on this disc which can be relocated again.
+
+In a certain context. today's data processing methods could be realized with
+it.
+
+The following example makes the accomplishment of the researchers and developer
+developers at Philips especially clear:
+
+From a gas laser apparatus, which some 10 years ago was 20 meters long. a
+semiconductor laser was meanwhile developed. the size of a matchbox. That was
+
+the real breakthrough for the application of this new technology in connection
+with future information processing systems.
+
+The theme is "lo-Year Plan." ‘l'hus, mention is made here of several milestones
+in the overall scheduling:
+
+-At present five preproduction models are in practical use in various
+research and application projects.
+
+-—In 1982 and 1983 in the PRC five pilot projects will be realized in order
+
+to outain, in the context of user testing of the overall system, additional
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ideas for possibilities for improvement in the user interfaces and peripheral
+equipment. A high level of IP know-how and the readiness to invest. which
+is necessary for such technology. must be assmed among the partners for the
+pilot projects.
+
+“Operational installations of closed co-unication systems with the optiml
+storage disc as various kinds of information storage systems are planned
+starting in 1984. including a comprehensive data bank system.
+
+Now some conercial data which should not be omitted in any short report of
+this type:
+
+--Up to starting the preproduction series far more than moo million will
+have been invested in this research and develsment project.
+
+COPYRIGHT: Computerwoche 1982
+
+12124
+C30: 3102/251
+
+FOR Ola-18A]. USE ONLY
+FOR OI‘HLML U50; ONLY
+
+ENERGY
+
+'HMJTE-DEULB' DEEP UNDERGROUND COAL GASIPICATION PROJECT
+Paris RBVUE DE L'ENERGIB in French Jan-Feb 82 pp.227-234
+
+[Article by Jacques Bieau, director of technical services at
+the French Coal Company, member of the steering committee of
+61368]
+
+[Excerpts] since 1978, France has been actively studying the
+feasibility of a new mining process, which consists of coal
+gasification at very great depths. For this purpose, four or-
+ganizations-~the BRGM [Bureau of Geological and Mining Explora-
+tion], the French Coal Company, the French Gas Company, and the
+French Petroleum Institute--have formed the GEGS [Underground
+Gasification Study Group].
+
+Future experiments call for:
+
+a. Pursuing research for a linkage between drillings, and
+improving these by the process of retro-combustion. This
+will be the goal of the experiments planned at 'Haute-
+Deule,” starting from ground level downward.
+
+b. Testing other methods of linkage, such as electrocarboni-
+zation (limited experiments are currently underway in the
+Loire region).
+
+c. Exploring new ways and means, such as linkage testing by
+guided drillings, derived from oil drilling techniques.
+
+The "Haute-Deule' Program
+
+I Objective
+
+The objective assigned to the Bruay site has been reached, and
+in order to enable the 6868 to continue testing in the field,
+
+a new site was made available by the French Coal Company and
+by the Bassin du Nord Pas-de-Calais Coal Mines.
+
+1;
+FOR(NWKJALIBE(NHN
+FOR OFFICIAL USE ONLY
+
+This site, known as 'Haute-Deule,‘ because it is located on
+both sides of the Haute-Ueule canal, is located between Lens
+and Carvin (Pas-de-Calais department). .
+
+The objective assigned to this new site means taking a step
+forward in research since:
+
+a. In order to reach the veins of coal located at depths
+
+of over 800 meters, the drilling will originate from the
+surface, and not from underground levels.
+
+b. The coal veins contain coal with different characteristics
+from the coal found at Bruay (dry-burning coal instead
+of rich coal). This will provide some information on
+the 'qualities' of various types of coal in relation to
+the underground gasification process.
+
+c. The experiments, which will last for about 5 years,
+should include the development at this site of a gasi-
+ffcation demonstration pilot, which would include all
+the information acquired. It would essentially serve
+to demonstrate the process in conditions close to those
+to he found during its future industrial development.
+The various phases will be the following:
+
+1. selection of the demonstration field;
+2. creation of shafts and interconnections;
+
+3. ignition of the coal and enlargement of
+linkages by retrocombustion;
+
+4. retrocombustion of the coal.
+
+Concerning the first objective, the selection of the demonstration
+field, this will include the definition of a precise site recon-
+naissance methodology for the purposes of an underground gasi-
+fication operation.
+
+Among the site selection criteria, the criterion concerning
+
+the continuity of the vein over a sufficient area may call for
+the use of geophysical methods. The need to indicate the loca-
+tion of throw faults larger than or equal to the thickness of
+the vein requires the use of the latest refinements of seismic
+reflection methods, such as: high resolution seismics and
+
+F0!(HﬂﬁCéﬂ.USl(MVLY
+FUR UI‘I'ILIAI. 03!. URL!
+
+a vertical seismic profile made from a drilling hole in which
+a receiver is placed to pick up waves from shots at the sur-
+face.
+
+II Scheduled Phases of the Project
+
+The geological studies done by the 6368 using mining documents
+suggest the possibility, during the first phase, of working
+from two surface areas, located directly above a series of
+veins with openings between 1.3 and 3 meters, located at depths
+between 800 and 1,200 meters.
+
+There are plans to undertake a test program consisting of
+several phases for these two areas:
+
+a. A reconnaissance and preparation phase for the end of
+1981 and the beginning of 1982.
+
+In each of these areas, an initial vertical drilling will
+
+go through all the coal veins for reconnaissance purposes. The
+analyses will be made by means of core samples, diagraphy,
+
+and physical measurements.
+
+The diameter Of these shafts will be 200 mm: heavy drills will
+be used for this purpose. These shafts will then be used for
+the placement of experimental equipment after completion.
+
+b. A limited objective experimental phase during 1982
+and 1983.
+
+The placement of the first experimental device will include
+the following operations:
+
+1. creation of a second drilling. completion of shaft:
+
+2. Conducting of a limited hydraulic fracturing opera-
+tion, called 'minifrac," designed to reveal the
+orientation of the fracture by a seismic-acoustical
+study;
+
+3. Possible creation of a third drilling if the
+direction of the fracture is clearly different
+from the one found in the first two shafts;
+
+4. Hydraulic fracturing after preparation by water
+injection;
+
+6
+F0!(NWKJALI£NEONUY
+FOR<WTKJAI.USECWHN
+
+5. Evaluation of the transmission qualities of the
+linkage;
+
+6. Beginning of localized combustion by ignition;
+
+7. Conducting of retrocombustion in the air (possibly
+oxygen-depleted);
+
+8. Start of the retrocombustion phase.
+
+Upon completion of this phase, a survey of the results might
+be done by mining methods.
+
+c. The pilot phase during 1983 and 1984.
+
+With a time delay after the preceding operations, so that the
+results may be put to use, a pilot program will be conducted in
+the same area or in the other area explored, until the oxygen
+gasification operation, which could begin sometime in 1984.
+
+For this purpose, the shafts will be designed to withstand high
+temperatures and the equipment will include a recovery device
+to ignite or incinerate the gases produced.
+
+III Conclusion
+
+With the support of both French and European governments, the
+6868 has begun a 125-million franc program covering the 1978-
+1984 period. This program includes all aspects of the problem,
+and between now and 1984, a technical feasibility operation for
+the production of primary gas is to be conducted.
+
+After the first promising results obtained at Bruay, there are
+still many problems remaining.
+
+At the instigation of the government officials, who asked that
+we move ahead as rapidly as possible, the 6868 now plans to ac-
+celerate the present program beginning in 1982, by moving very
+quickly into the second operation (the demonstration pilot) at
+the 'Haute-Deule” site.
+
+Furthermore, a supplemental 40-million franc program for 1982
+and 1982 has been proposed. Its execution will depend on the
+provision of major financial support by the government.
+
+After 1984, the development of the process will require an
+applied research program and at the same time, many pilot
+
+FOIIHTKJhLlEI(nﬂN
+I’UI UFO-Link 09‘ ”IV”.
+
+operations on the linkage technique and mastering the combustion
+process. This phase will last for about 10 years, starting in
+1985. It will provide a more precise evaluation of France's
+coal reserves suitable for underground gasification, based on
+the criteria for application of this process.
+
+The first large-scale industrial operation might be done between
+1995 and 2000. The cost of the gas produced will depend on its
+quality and on the quantity of coal that can he need through a
+pair of shafts, for the total cost is highly dependent on the
+drilling phase of the program. Nonetheless, it seems possible
+given the present status of economic estimates, and making all
+due reservations, that we may obtain a gas which can be used
+
+as a replacement for natural gas, at a cost under 15 cP/kWh.
+
+COPYRIGHT: 1982 REVUE DE L'ENERGIE
+
+7679
+C80: 3102/248
+
+FIHIOFFKJA1.U§E(NNLY
+FOR OFFICIAL USE ONLY
+
+INDUSTRIAL momma!
+
+PLANS TAKE SHAPE FOR REVIVAL OF MACHINE MI. INDIE?!“
+Paris AIR a COSHOS in French 17 Apr 82 pp 29-30
+[Article by Nicole Beauclair: "Plan for a French Machine Tool Industry']
+
+[Text] More than 4 months have gone by since the government
+adopted a development plan for the machine tool industry.
+Talk about it has run at a fast clip and not a week goes by
+without an announcement of a regrouping of this or that group
+of companies. what is really the situation? Jean Chauvet.
+head of the scmo [French Machine Tool Builders Association].
+has kindly provided some clarifications in this regard.
+
+The machine tool industry development program, generally referred to silply as
+the "Machine-Tool Plan.“ is based on the outcome of talks between the public
+authorities and the heads of enterprises. "The plan's objectives are ambitious
+and realizable only within an economic situation characterised by robust
+growth.‘ Jean Chauvet disclosed to AIR 3T cosmos, and as everyone knows. the
+machine tool industry is presently in the throes of a serious crisis from the
+standpoint of international competitiveness.
+
+Announced at the Council of Ministers of 2 December 1981. the machine-tool
+industry development plan. we recall. involves three lines of action that were
+reaffirmed by. the minister of industry at the General Assembly of 5 April. The
+first action is the one addressed in this article. .The French machine tool in-
+dustry must be reorganized, as must also that of components; the action being
+undertaken is aimed at forming industrial units capable of competing on an inter-
+national level. These units must be of adequate sire and must be headed by
+dynamic and efficient management teams; concurrently, the French cosponents
+industry must also be developed, inasmuch as its weakness fosters purchases
+abroad which in turn lead to increased production costs.
+
+officially, nothing has been announced as yet regarding the regroupments of
+enterprises. If we consider only the technological side of the enterprises (we
+will come to the human side later), regroupment plans are actually in the pro-
+cess of being put together. There is much discussion at this point in terms of
+a heavy-machine-tool industry 'pool" that would consist of two entities: one for
+milling, with TM]: [expansion unknown}Porest at Capdenac and Line 8.11. (Albert
+
+9
+FOR OFFICIAL USE ONLY
+I'UK UI'I‘ILIAI. UDI'. UNIJ
+
+plant), and the other for turning, with Berthiez at Givors (a subsidiary of
+sum [National Aircraft ine Study and Manufacturing Oalpanyj) and sum
+[Saint-Etienne Machine Tools (currently one of the Line-P53! [expansion unknown]
+grou ). This heavy-machine-toos industry I'pool" would have as its overseer the
+IDI Industrial Development Institute], which is moreover already a partaker in
+‘I'HI-Porest through as [expansion unknown], of which it is one of the subsidiar-
+ies. But these groupings pose financial problems, it being unnecessary to dwell
+on the problems that have confronted the Line group for more than 1 year now.
+and the latter despite the financial backing it receives from the state (which
+does not come under the current funding plan). If new one considers also the
+5330 and Berthiez grouping, which lost more than 30 million francs in 1981 on
+
+a turnover of 120 million francs, and on the other hand the Line s.n. and THI-
+Porest grouping. bearing in mind the well-known disappointments of the latter
+
+in its regrouping with Ratier-i'igeac and GSP [expansion unknown], it is fairly
+clear that these plans are still a long way from materializing.
+
+With regard still to the milling domain (excluding the 'heavy" sector). and in
+view of the difficulties encountered by Dufour (which became part of the PROFBL
+[expansion unknowrg/PRDMM‘ [expansion unkmwn] group over 1 year ago) , it appears
+that a solution could he found involving the Nice-based Vernier firm. although
+the latter (automatically designated a partner) does not seem inclined to merge.
+As regards machining centers, it would seem logical to associate ﬂute and Graf-
+fenstaden (CIT-ALCA'I'BL [International Telephone Compan -Alsatian Company for
+Ato'mic, Telecommunications and Electronic Construction group) to form an entity
+capable of being prime contractors in the actualization of flexible workshops;
+H. Brnault Sauna could be a part of this entity, but its agreement with myoda,
+which resulted last year in the creation of BS [expansioa unknown}'ibyoda in
+France (fabrication under license of machining centers), is proving a handicap.
+Has however has a major asset: Its lathe technology, witn the new line brought
+out last year, is tempting, since it lends itself so well to the actualization
+if not of flexible workshops then of production hubs, thanks to the automation
+of its lathes from the standpoint of the feeding of parts as well as that of
+automated tool-changes.
+
+Gambin, still from the milling standpoint (it too joined the Line-98M group sev-
+eral years ago after having ceased operations for almost 1 year), could also
+
+be grouped with ALGERIA [expansion unknown]; the regroupment of these two
+provincially-based companies (the first at Vuiz-en-Sallas, Baute Savoie,
+
+the second at Dole, near Belfort) should not be too ticklish a matter. This
+
+is the case also of a possible Rama-Caseneuve-hes Innovations Hecaniques re-
+groupment--three companies specializing in lathes, which. although their
+regroupment has been encouraged by the Ministry of Industry rather than imosed,
+
+presents a problem under a different aspect, in that it brings together private
+partners.
+
+As we seen so far, technological affinities render it easy... to come up with
+
+plans: but then there are the financial problems. Bach plan must be evaluated
+from two standpoints: The industrial 'one (six companies with industrial know-
+how have been designated by the Hinistry of Industry), and the financial one.
+
+Each of these evaluations produces findings that lead to reconsideration of
+
+FOR OFFICE]. USE ONLY
+TYPes of N/C
+Machines
+
+ 
+
+Drilling sachines
+
+Drilling and boring machines
+Boring machines
+
+Boring and milling machines
+Milling machines
+
+Multiple-function machining
+centers
+
+Parallel lathes
+Frontal lathes
+Vertical lathes
+Grinding nachines
+
+Horizontal-spindle turning
+centers
+
+vertical-spindle turning
+centers
+
+N/C special-purpose
+removing nachines
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000500070021-6
+
+run mum“. var. unu
+
+[Continuation of table on preceding page]
+
+ 
+
+Aeronau-
+tical Gon-
+struction
+_ Types of N/C (Number/
+__J_m°h1 9 M)—
+16
+Other C/N removal machines 7 2
+8
+m“ 0.9
+Bending presses 6
+0.6
+32
+Deep drawing presses 7 9
+Forging presses
+Cuttin machines ‘
+9 0.5
+6
+Punching machines 0 9
+Cutting and punching machines 3 3
+25
+Other forming machines 6 6
+'notal uocu [N/c machine 1,247
+tools] 7.9
+
+ 
+
+Partial results of survey conducted by BIPB [Boon
+tion and Forecasting Bureau] for DIME Directora
+
+- Metallurgical and Electrical Industries and sent
+that these results must be modified on the basis
+criteria and that the total HOCN's will be no nor
+(SCH/D Document).
+
+FOR OFFIC‘iiL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000500070021-6
+certain points in the plan. This explains in part the slowness with which final
+decisions are being taken. Then. if one adds the human problems inherent in the
+taking of such decisions, it becomes immediately clear that the heads of enter-
+prises. the Ministry of Industry and the government find themselves confronting
+an almost insoluble problem: that of regrouping enterprises according to pivotal
+interests while preserving jobs. It has been definitely established, for exam-
+ple, that a Berthiez-SEMO regrouping would necessitate, if not the laying off of
+personnel (much dependence would be placed, it seems. upon early retirements).
+then certainly the moving of personnel from the Givors plant to Saint-Etienne.
+involving in this case some 150 persons. hence 150 families! Obviously, this
+gives rise to multiple union controversies.
+
+Be that as it may, the cost to the state of these restructurings has been esti-
+mated at 4 billion francs. It would appear, according to Jean Chauvet. that
+while the Ministry of Industry has decided the extent of the aid it will provide
+to the enterprises (in the different forms stipulated in the Plan), the Ministry
+of the Budget and Finance has not yet agreed as to the extent to which it will
+share in this cost.
+
+The only thing one can urge at this pointin time seems to be the following: Let
+us not repeat the errors of the past, distributing subventions that serve hardly
+any purpose other than to keep failing enterprises afloat.
+
+Three courses of action must be undertaken forthwith by governnent authorities:
+Maintain or increase credit levels (transfer credits), beef up the MEGA Ad-
+vanced-Design Machines and Equipment] procedure designed to help the 9MB 3
+[Small- and Medium-size Businesses] acquire MOCN's [N/C machine tools], and last-
+ly accelerate buying by the public authorities. hence by the national educational
+system which at this time represents 1/20th of the market. In sum, demand first
+and foremost must be stimulated, since in the present situation it is hardly
+likely that a "Plan“ in and of itself will be crowned with success.
+
+COPYRIGHT: a. a c. 1292
+
+9399
+C80: 3102/252
+
+FOI‘OFFﬂjih.USE(NVLY
+EVA URELDLM var. van...
+
+TRANSPOKLATION
+
+INTERVIEW WITH PRESIDENT OF AEROSPATIALB
+Paris PARIS HATCH in French 19 Feb 82 p 107
+
+[Interview with Jacques Hitterand, president of Aerospatiale, by Laurence
+Masurel; date and place not specifieg
+
+@cerptg @uestiog? How does it affect you to learn that Concorde will no
+longer fly between Paris and Rio de Janeiro owing to unprofitibility?
+
+[Answej I am not indifferent. I note that its use is shrinking, but that hap-
+pily it continues on the north American route and will do so for a long time.
+
+@uestioy- At present the financial situation of airlines is hardly bright.
+But despite that, the Airbus is selling well?
+
+linens? For 18 months almost all airlines have experienced grave difficulties.
+Sc they are not thinking of renewing their fleets. He also observe a general
+compression of orders. Yet in this gloomy content 1981 was a much better year
+than for others. As of now, 159 aircraft have been delivered to 28 companies,
+and 3‘46 will be, which brings the figure to 505 planes.
+
+[Question-l Where does the Airbus 320 project stand?
+
+[Answeg/ He are negotiating with several airlines, including Air France, to
+give that program a solid launching base. We know that in 1987-88 all airlines
+will have to replace the present generation of 150-passenger aircraft, barring
+severe economic accident. The A 320 will correspond to that type of aircraft.
+But before asking the final decision we want firm commitments from companies:
+to build such a plane entails an investment of Pr 6 billion.
+
+@uestiog? To face such expenditures, do you not think it will some day be
+necessary to regroup the aeronautical sector, as was done in England or Germaa-
+ny?
+
+[Answes/ Actually, we can ask whether it would not be in the interest of France
+to conduct a gradual restructuration of the aeronautical sector. For the mo-
+ment, there is nothing like that in the government's program: the exposed por-
+tion of the iceberg makes no mention of it. But is there a hidden face? In
+my View, that would be in the logic of things. As far as I am concerned, I
+
+11;
+m onxcm. us: on!
+FOR OFFICIAL USE ONLY
+
+would favor a policy of rapprochement, case by case and sector by sector. I
+am thinkirg particularly of firms like Dassault, Hatra, Thomson, or SEP‘Zer:
+pension unknowg/, which is an important affiliate of CUB ngpansion unknow5/.
+I think such rapprochements by branches would be useful for a better distribu-
+tion of research funds, and also for avoiding perpetuation of the domestic
+
+fight for foreign markets. It would be a long-term task which should be con-
+ducted with a solid dose of pragmatism.
+
+[ﬁuestioé7 0n 5 December your tenure as president of Aerospatiale was renewed,
+although certain trade unions of the group were calling for a "change" of men
+
+at the top. The government has not, then, given satisfaction to the trade
+unions?
+
+ZEnsweﬁ? I am not the one who decided that I-would be kept on. I will not say
+that there were people happy with me, but that those who wanted me to be re-
+
+placed did not represent the majority, and that they did not have very clear
+motivations.
+
+[ﬁuestioﬁ7 Is it an advantage to be the president's brother when one directs
+an enterprise such as Aerospatiale?
+
+[Answeg/ The effects are complex. Hhat I notice is that I am listened to more
+easilyo-which does not mean that I am understood! Some people would like to
+make use of me as their spokesman to the president. I have no trouble resist-
+ing. I have never been an intimate in the corridors of power. During my forty
+f0ur and a half years of professional life I have always been very independent
+of those in government, and I am not about to be changed now!
+
+COPYRIGHT: 1982 par Cogedipresse S. A.
+
+61#5
+CSO: 3102/181
+
+15
+you orncm. use ONLY
+BUR VERLULM Ut’b Vﬂhl
+
+TRANSPORTATION
+
+GCVERNHENT MES WNW AVAILABLE FOR m m STRAMY
+Paris AIR 31' (1381408 in French 27 Feb 82 p 8
+
+[my Netherlands Economic Affairs Minister Jan Terlouw last week addressed a
+letter to the permanent economic affairs comittee of the Chamber in which he
+pointed out that Fokker will not have to pay back the 160 million florins pro-
+vided by the state for study of short/medium range aircraft. That sum is in
+
+fact being applied to preliminary studies in which there is an element of risk
+which cannot be borne by the builder.
+
+From 1975 to 1982 an estimated 196 million florins were spent on studies for
+the F 28 Super, F 29, and HDF-1OC, of which approximately 20 percent was fi-
+nanced directly by Fokker and 80 percent by the state. Of that total, Fokker
+has spent over 110 million florins provided by the Economic Affairs Ministry
+through the intermediary_of the NIVR @etherlands Institute for Aeronautics and
+Astronautics Developmeny. The balance was spent by the "LR (ﬁatimal Aeronau-
+tics and Astronautics Laboratori, which also receives funds through the NIVR.
+
+A comparable situation has already been experienced by the Netherlands authori-
+ties in connection with the VIM 611+. For that program. which failed, 25 million
+florins had to be written off.
+
+For the future, the Netherlands Government remains disposed to make 1.? billion
+florins available to Fokker in the form of guarantees and bank loans for execu~
+tion of a project in anticipation of which Fokker has set up a study group with
+the mission of defining in the coming weeks a new strategy for the firm. Mr
+Terlouw declared that prospects will have to be quickly brought out so as to
+determine under what conditions Fokker will be able to contiuL-e working in the
+90's on complete aircraft projects.
+
+For the moment, the halting of the [01" 100 program is not causing unemployment
+problems at Fokker, but only at the MR. At Fokker the F 2? and F 28 programs
+continue under more favorable conditions than were initially foreseen. The
+Netherlands authorities consider that the decision to put an end to cooperation
+between McDonnell Douglas and Fokker was the correct one from the time when it
+appeared impossible to arrive at a rapid launching of the MD!" 100 project.
+Fokker will have to resume conversations with Airbus Industries, Boeing, and
+even McDonnell Douglas.
+
+61115
+
+2 8
+6803 310/11 16
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+A 310-”: HEAVER, WEB-WE Ams PLANNED
+Paris AIR ET (”8&8 in French 2? Feb 82 p 11
+
+[Article signed R. N_.7
+
+lexg As the first A 310 emerged from the building shed (cf. AIR 31‘ 003106 no.
+95), Airbus Industries made public a number of technical details on future
+versions of the aircraft, and particularly on the long-range or A 310-300 ver-
+sion.
+
+He recall first of all that the A 310, though directly derived from the A 300
+and having the same fuselage cross section, is nevertheless characterized by
+the following modifications:
+
+A shorter fuselage (106.66 1:: compared to 53.62 m for the A 300);
+A new airfoil with less wing surface (219 m2 compared to 260 me;
+
+New engines to be chosen by option from the same builders: General Electric
+(CF6-80A1/A3‘) and Pratt and Whitney (JT9D—7RIOD1/E1). We note that Airbus In-
+dustries is currently studying a new supplementary option constituted by Rolls-
+Royce 123211-5398“ engines; -
+
+A new forward-facing crew cockpit characterized by digital avionics and instru-
+mentation with cathodic visualization;
+
+A new quieter and more economical Garrett GTO? 331 APU [Expansion unknow57.
+
+In its present basic version, called the 200, the A 300's "little brother" can
+transport from 195 to 265 passengers (the typical layout is for 210 seats) up
+to 5,000 km at a speed of Each 0.78 at 35,0CC ft altitude. Its minum weight
+at takeoff is 132 tons, of which 1+3 tons is fuel. Also proposed at present
+are a convertible A 510 0 version offering a 36.8 ton cargo capacity, and an
+all cargo A 310 F "Freighter" version, already ordered by Hertinair, offering
+a 210 m3 volume and a 39.4 ton capacity. These two versions are equipped with
+a large cargo door 5.6 m wide by 2.6 In high. While keeping to the same lift
+capacities, but in order to meet specific requirements of certain client com-
+panies, Airbus Industries has decided to develop two other versions of the
+
+A 310 to be characterized by greater takeoff weight, which would permit greater
+
+1?
+FOR OFFICIAL USE ONLY
+UV“ VbAbULM 09“ VAC“.
+
+fuel capacity, with a consequent increase in range. Thus the so-called "ZOC
+option" will soon appear, which will be actually proposed as such starting with
+the 17th aircraft, and will be available to be taken up as chosen by the air-
+lines. Its takeoff weight is increased to 138.6 tons, including 43 tons of
+fuel, and its range could reach 5,900 km with 218 passengers. No structural
+modification of the aircraft is necessary in view of the excellent optimiza-
+tion of airfoil achieved for the A 310.
+
+With the goal of further increasing the A 310's flexibility, Airbus Industries
+is also studying a long-range 300 version. If sufficient interest is shown by
+carriers in this new version, the decision to launch it could be taken during
+the summer, which would permit first deliveries early in 1986. The A 310-300
+this time will have a takeoff weight of 1119 tons, including 108 tons of fuel, an
+increase of 5 tons over the standard version. Its range will be increased to
+7,130 km with 218 passengers, which will make the A 310 particularly advantao
+geous on southeast Asian routes.
+
+Here again, the increase in characteristic masses would require no structural
+modification, for the European builders are this time considering placement of
+the additional fuel in the horizontal empennage, with a transfer system similar
+to that adopted for Concorde, which would permit in-flight adjustment of the
+aircraft's trim toward the stern. In addition to a substantial decrease in
+wing load, this would also permit reduction of drag at cruising speed, which
+would result in a 5 to 10 percent decrease in fuel consumption according to
+Airbus Industries.
+
+Payload-Range Curves of Different A 310 Versions: Left, With Pratt 8: Whitney
+Engines; Right, With General Electric Engines:
+
+MOMM
+
+ 
+
+COPYRIGHT: A. a c. 1982
+
+6th
+080: 3102/181
+
+18
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+MSPOMA‘I'IW
+
+FRANCO-ITALIAN ”PR ‘2 PM m '1”? 0m
+Paris AIR (- cossos in French 11 Apr 32 p 13
+[Article by J.ll.: "Ransose and Osmand Airways lave Chosen the A11! 42"]
+
+[Text] 'No top Aserican counter airlines have just confined the options they
+already held on the twin-turboprop AIR 42. Acting for the 618 [manque Interest
+Group] 'Avions de rransport Regional“ (formed recentl by ABROBPATIALB (French)
+National Industrial Aerospace Coupon?) and ARRI‘rALIA expansion unknown ). ABRO-
+SPA‘rIALa announced successively on a and 12 April:
+
+--A firn order from Ransom Airlines for six A'rR 42's. mese planes. which it is
+known will be equipped to transport 46 passengers. will be delivered beginning
+
+in Novesber 1985 and operated by this major U. 5. east coast carrier on a network
+that presently serves ll large cities with no flights daily. Ransom Airlines.
+formed ls years ago and based in Philadelphia. possesses currently a fleet of
+
+six 4-engine turboprop DEC-1's built in Canada by De liavilland Aircraft. and nine
+twin-turboprop u 262's built by ARMSPATIALB and in operation at Ransom since
+1972. In its release, ABROSPA‘l'IALB deens that "this first order from Ransoaie
+Airlines represents a major success for the An 02 over its cospetitors. The
+interest being shown in this plane by Ransoee opens the way to the development of
+the A11! family to include larger capacities."
+
+The value of the Ransosle order is placed at 330 nillion.
+
+--A firs order fros Comand Airways for three an 62's to be delivered beginning
+in 1986, to which are added options on another two planes. Based in Poughkeep-
+see (New York State), Comand Airways currently has six Shorts so 300's in ser-
+vice on its New York-Boston-white Plains and Albany routes. We note with inter-
+est, in passing, that the president of this cospany. Hr Kingsley Hora, is also
+president of the newly-forsed RAAA Regional Airlines Association of America].
+The an 42 has thus found in the On ted states a backer of woe weightl...
+
+While the detailed design study of the plane continues (the target dates, which
+remain unchanged. are: initial flights respectively August and October l9“:
+European and American certification flights in accordance with Part 25 standards
+during the third quarter of 1985; and deliveries to begin in the fourth quarter.
+that is--in the case of Ransom-within 43 nonths), it is interesting to note
+
+1
+FOR OFFICIA9I. USE ONLY
+me ("I'll IAI. “St. UNIX
+
+we published on this plane in October 198l (see AIR ET 008108. No 878, then
+
+881 and 882), wim respect to both its weight ratings and performance rat-
+ings, and both for the better. The AEROSPATIM Aircraft Division's Design
+Bureau in ‘ibulouse, which is carrying prime responsibility for the general archi-
+tecture of the plane and of its airfoil, has been assigned the dual mission of
+intensifying its efforts to raise the ATR 42's performance to the maximum and to
+lower its cost of productioa to the minimum: In the severe cometitive struggle that
+pits the two European builders against De Havilland Canada, Bnbraer, and the Saab-
+Pnirchild and CASA [Aeronautical Construction Companyl-Nurtanio combines (without
+forgetting Fokker. whi :h is studying a much-improved F 27), ABROSPATIALE and AERI-
+TALIA nust absolutely come up with a product that offers the best possible price-
+performance ratio at a fabrication cost that will ensure profitability within
+
+a reasonable tine period. The design bureaus of both companies are actively en-
+gaged in this mission.2
+
+he cabin measures 13.87 m in length by 2.57 m at its maximum interior width by
+1.91 m in height. It is pressurized at 6 psi [pounds per square inch] (420 g/cmz),
+providing at an altitude of 13,500 feet a cabin atmospheric pressure equal to
+that outside the cabin at ground level, and at 25,000 feet a cabin pressure equal
+to that at 6,500 feet: Passengers will thus experience the same comfort they do
+in the nest modern jets. This cabin will accoruodate ‘2 passengers seated in
+rows of four (2+ 2) at 32-inch row spacings, or 46 passengers by reducing this
+spacing to 30 inches, or 49 passengers by reducing slightly the volume (5.8 m3)
+of the forward baggage compartment. In all cases, the ATR 42 will have, located
+aft, a galley facility, a lavatory and a second baggage compartment measuring
+2.7 m3; the latter is in addition to, let us recall, the hand-luggage racks
+ranged above the seats and having a total volume of 1.6 m3.
+
+Its weight ratings are sun-arized in the accompanying table. Two standard
+versions are currently being offered: the ATR 42-100, capable of taking off at
+14,175 kg and of transporting 42 passengers over a distance of 1,300 or four
+185-km hops without refueling. and the ATR 42-200 (maxim weight: 15,500 kg),
+capable of tranporting 49 passengers over a single hop of 1,450 km or five
+lBS-km hops. Maximum takeoff weights have been increased substantially, pro-
+viding greater flexibility of operation. Incidentally, we point out that the
+Km 42-200 will have a range of around 1,550 nautical miles (2,070 km) with a
+payload reduced to 3,000 kg and 2,200 nautical miles (4,075 km) with a payload
+of 2,000 kg.
+
+Information will be forthcoming on the characteristics and performance ratings
+of the stretched NPR 42 (ATR xx), capable of transporting, in one of the versions
+being considered, 5‘ passengers at seat-row spacings of 32 inches, and 58 passen-
+gers at 30-inch spacings.
+
+20
+FOR OFFICIAL USE ONLY
+Other noteworthy points are:
+
+--The retapering of the fuselage aft, slenderizing it to reduce form drag (its
+overall length thus totals 22.70 m);
+
+--The definitive choice of the propellers that will equip the two PW 100/2
+turbomotors, each of which develops 1,800 shaft hp on takeoff at ISA+ 13 de-
+grees C (2,000 hp in 'emergency'). These will be 4-bladed, 3.96-m diameter,
+Hamilton Standard Type 14 SP'a.
+
+Height and gypicgl Perforggnce Ratings of ATR 42's
+
+ 
+
+Item 42- ATE ‘2-200
+
+Maximum takeoff weight (kg) 14,715 15,550
+Maximum landing weight (kg) 1d,715 15,300
+maximum weight less fuel (kg) 14,105 14,465
+Operational empty weight (kg) 9,295 9,335
+Maximum payload (kg) 4,810 5,130
+Maximum fuel (kg) 4,500 4,500
+Maximum cruising speed1 (km/hr) 513 509
+Cruising altitude (ft) 25,000 25,000
+Cruising altitude on 1 engine2 (ft) 4,005 3,475
+Takeoff runway length3:
+
+at 2' 0 (m) 950 1,070
+
+at 3,000 ft, 1834’10 (I) 1,150 1,280
+Landing runway length 3 (m) 895 950
+
+_____________________________________________________._________.
+1) At 20,000 ft, ISA atmosphere.
+
+2) At 97 percent of maximum weight, ISAﬁ-lo.
+
+3) At maximum rated weight.
+._______________________________________________________________
+
+COPYRIGHT: A. s c. 1982
+
+9399
+C50: 3102/252 END
+
+21
+FOR OFFICIAL USE ONLY

@@ -1,0 +1,869 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10191
+15 December 1981
+
+Worldwide Report
+
+TELECOMMUNICATIONS POLICY,
+RESEARCH AND DEVELOPMENT
+
+(FOUO 18/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or trsnsliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10191
+15 December 1981
+
+HORLMDE REPORT
+Temcommcmous Poucv. RESEARCH AND 05waqu
+(rouo 18/81)
+
+Couteurs
+SUB-SAHARA! AFRICA
+
+IVORY COAST
+
+Briefs
+Television Programs 1
+
+VEST EUROPE
+
+ITALY
+
+Present, Future Research in Telmtics Described
+(Basilio Catania; WOMCA B WWICAZIOII. Jul-Aug 81; .. .. 2
+
+- a - [III - WW - 140 2000]
+
+FOR OFHCMI. USE ONLY
+FOR OFFICIAL USE ONLY
+
+IVORY COAST
+
+BRIEFS
+
+TELEVISION PROGRAMS—Ivorian television began in 1963 and presently reception
+extends to 90 percent of the land, totsl reception is planned for next year.
+There are reportedly 250,000 TV sets in service and according to a survey the
+most popular programs are the newscast (51 percent), movies and serinls (39 per-
+cent). sports (25 percent) and s progrs- celled "Co-eat cs vs?" (18 percent)
+which gives humorous solutions to everyday problels. [Excerpt] [Paris MARCHBS
+TROPICAUX ET HEDITERRANEBNS in French No 1880. 20 Nov 81 p 2947] (comm:
+Rene Dbl-em: et Cie Paris 1981]
+
+C80: 5500/5633
+
+1
+FOR OFFICIAL USE ONLY
+FIHICIHHCJAI.US£(HULY
+
+ITALY
+
+PRESENT. FUTURE RESEARCH lN TELEHATICS DESCRIBED
+Turin ELETTRONICA E TELECOHUNICAZIONI in Italian Jul-Aug 81 pp 142-148*
+
+{Article by Dr Engr Basilio Catania. general manager of CSELT [Telecommunications
+Research and Study Center]. Turin: "Status of Research on Telematics Technolo-
+glek"; “Summary“ is as published in English]
+
+[Text] Summary--Research activity on telematics in Italy.
+
+In this article it is illustrated the state of the art of
+research carried out in Italy in the field of telemetics,
+with particular emphasis on CSELT studies. Expected
+evolutions are taken into account with reference to dif-
+ferent time situations. typical of the successive devel-
+opments oi the telecommunication network. It follows a
+description of the research in progress related to systems
+and protocols for services such as videotex. fac-simile,
+teletex, electronic mail. frozen-picture, recorded mes-
+
+sages and other kinds of audioservices. In particular. the
+use of the so-called INFOHIRE technique allows to supply
+
+many of these services contemporaneously with the usual
+telephone service. Finally. mention is made of both the
+research concerning the future variable bandwidth network
+(lSDN oi second generation) and the possible solution offered
+by n hybrid structure (satellite/optical fibres), which could
+anticipate and [or accelerate the supply of the above men-
+tioned services with respect to a situation based on a
+
+lully-terrestrial network.
+
+Research in telematics is being carried out in Italy under programs defined by
+the Ministry of Post and Telecommunications together with the SIP [Italian Tele-
+phone Company]. with technical and scientific support being provided by the lSPT
+
+[Post and Telecommunications Research Center], the CSBLT and the lordoui Founda-
+tion. This article will refer essentially to the research being done at the
+
+* Editor's notes : Frnm lhv "Telomntics '81" presentation held at the Milan
+Exhibition [5 April 1981.
+
+Typescript received 2 June 1981.
+
+2
+FORIOFFKJAI.USE(HVLY
+F0!‘OFFK]AI.USE(NNLY
+
+CSELT, coemiaaioned for the most part by the SIP, ITALTBL and recently
+
+by the SEAT. This research is directed toward satisfying the service require-
+ments relative to three different situations, not phased as of now with respect
+to each other and dependent upon future development of the telecommunications
+network. These situations (diagramed in Fig 1) may be characterized as follows:
+
+--Phase 1: Services capable of being provided by the existing telephone network
+when supplemented by the packet- and circuit-switching data network, actualiza-
+tion of which is to be completed in the near future;
+
+--Phase 2: Services capable of being provided in fully digitalized form after
+digitalization at 80 kilobits/sec (6a .16) of the existing distribution network,
+which is to follow the nationwide expansion of the necessary switching exchanges
+and digital transmission systems that will aCtualize the first generation of the
+so-called lSDN [Integrated Services Digital Network];
+
+--Phase 3: Services capable of being provided in the future by a network able to
+adjust its performance characteristics to fit the bandwidth, extensive though it
+may be, required by the user; that is, by a second-generation ISDN.
+
+The telematics services described in this article deal essentially with the first
+two of these phases, with emphasis on the desired objective of rendering viable
+the change from Phase 1 to Phase 2. specifically as contemplated by the system
+known as FILOINFORHAZIONE. The latter system, a practical demonstration of which
+was given during the presentation, makes it possible to provide telematics ser-
+vices with the present telephone and data network structure (Phase 1), supplemen-
+ted by a few accessories but substantially unchanged as regards terminals, ser-
+vice exchanges and access procedures from the moment in which the network becomes
+iully digitalized and integrated into the services (Phase 2).
+
+in particular, this article will discuss the research in progress on the equin-
+meut and procedures contemplated for Phases 1 and 2 mentioned above, in
+relation to the known services they can make available, namely, videotex (known
+in Italy as VIDEOTEL), facsimile, teletex, electronic mail. slow-scan video,
+recorded messages and various audio services, etc, defined as telematics services,
+although a very precise definition of these services has not been arrived at
+internationally as yet.
+
+Lastly. nwnticn will be made of some research relative to a variable-bandwidth
+network (second-generation ISDN) and to a possible solution by way of a hybrid
+satellite—optical liner structure. which (nuld antecede and/or accelerate an
+entirely terrestrial solution to Phase 3.
+
+"Filninlormnzione" (which has been named "lnfowire" in English) is a method
+developed by the CSELT to provide interactive data services by means of two 16-
+kilobit/sec channels. in simultaneity with telephone service. In particular,
+videotex service can be provided in accordance with the British Prestel system
+without any changes except insofar as concerns the methoo of insertion at the
+exchange and at the subscriber terminal.
+
+3
+Fill(lﬁﬂ(JAl.US£(3NlN
+FOItOFFHJAl.US£(NVLY
+
+Figure 2 illustrates the operating principle with respect to the short-term
+situation (Phase I). At the subscriber end, the telephone signal, which occupies
+the 0-th2 portion of the band. is mixed with the data signal (as well as. in the
+overall case. the chargeable-time indicator at 12 kHz and the broadcast program
+signal carried above 163 kHz) by means of a signal insertion set. The data sig-
+nal modulates digitally (using FSK [frequency-shift keying] modulation) the two
+carriers. positioned respectively at 27.5 and 52.5 kHz. In this manner. the
+various signals do not disturb each other and the subscriber can simultaneously
+use his telephone. his broadcast service and teletex service, as well as videotex
+or other telematits service requiring a bidirectional lb-kilobit/sec channel.
+
+At the exchange. a similar device extracts the telematica signals. which are then
+channeled into the local services exchange or. via a leased-facilities network,
+to the distant services exchange, while the telephone signals are channeled into
+the normal switched network.
+
+The simultaneity of telephone and data services made possible by the Filowire sys-
+tem must not be underestimated. above all because of the availability requirements
+in LJSOS oi emergency that have always contradistinguished telephone service
+throughout the world. Far from secondary also is the advantage of the simultan-
+eous availability oi both types of service under normal conditions as well to the
+various members oi the family of a normal subscriber.
+
+Figure 3 shows a typical videOtex subscr.ber terminal consisting of a color
+television set (prewired for this service) that provides, for example. weather
+iniormation at the same time that the telephone is being used for a conversation.
+At the lower right of the photograph is shown a prototype card for the insertion/
+modem set that is installed at the subscriber end.
+
+During the Telematits '81 presentation a practical demonstration was given of the
+use of iilowire service. obtained from a services exchange installed in the CSELT
+in Turin and consisting of a PDPll/60 computer containing the data bank with
+seVeral videotex tiles prepared purely for demonstration purposes. The services
+exchange was connected to the exhibition hall by a dedicated SIP hBOO-bits/sec
+line terminating in a suitable interface circuit which, under normal conditions
+would have been installed in an exchange.
+
+1he desired file is selected by using the television set's normal remote control
+keyboard.
+
+By way 0! example. we will go through the steps necessary to obtain the desired
+inlurmation display.
+
+Initially, the television set displays the words:
+
+THE SYSTEM 18 READY
+SELECT A FILE
+
+h
+FII!(HWﬂ(1AI.lEﬂE(MULY
+FOIIOFtﬂJAI.U§EiJNLY
+
+Pressing key f (request tor main file index) displays the index; then selecting,
+for example, and pressing key 1 displays the file:
+
+HEATHER AND ROAD CONDITIONS
+
+Of course. should it be desired at this moment to initiate a telephone call
+simultaneously it can be done, and, during that call. exact-time service. for
+example. can also be obtained by dialing the 161 code on another telephone instru-
+ment connected to the same "bight" as the television set, and, as was demonstrated
+at the presentation. the two services can be provided without interfering with
+each other.
+
+Coming back to iniowire. key 2 may be selected:
+MAX AND MIN TEMPERATURES
+
+thus displaying a geographic map of Italy showing maximum temperatures, after
+which key 6 (continuation) may be pressed to display a map like the previous one
+but showing minimum temperatures.
+
+Pressing key I again will bring back the main index and other files may be selec-
+ted. and so on.
+
+Canada. the United States and France are currently experimenting with network
+solutions similar to infowire. while other European nations (Germany, Holland and
+Japan [as publishedl) are experimenting with solutions of the British type, that
+is. with switching that will provide telephone or videotex services but only on
+an alternate basis.
+
+It is emphasized that the infcwire system is structured for assured compatibility
+with the future network to be integrated into the services (Phase 2). In fact,
+the solution based on the present network (Fig 6‘, as has been said. makes it
+possible to transmit the a-kﬂz telephone-band signals as well as the telematics
+services (videotex. facsimile. teletex or other data services) via the normal
+telephone "bight" to a conventional telephone exchange, equipped, however. with
+
+a suitable interluce device, toward services exchanges and the data network.
+
+As soon as the distribution network is digitalized (Pig 5), the telephone signal
+will be coded at 66 kilobits/sec and multiplexed with the telematics services
+
+by means oi a component called a CT! (Circuit Terminating Equipment or subscriber
+terminating set) enabling a bidirectional 6h +16 = 80-kilobits/sec digital stream.
+
+At the exchange. the stream will be subdivided into its two components, which
+will be channeled respectively into the digital telephone network and. through a
+suitable set of equipment (called an at [Data Processing Computer]). into ser-
+vices centers or the data leased-facilities network. Thus. no change will be
+required as regards terminals on subscriber premises (an important consideration,
+since new services can be phased in beginning now without impediment from this
+
+5
+
+FOIIOFFNJAI.USE(NVLY
+INJRlOFFTCJAl.lEﬂE(MNLY
+
+sidndpuinl). the ﬂuid networks and the services centers, and--again a not negli-
+gible consideration--us regards the subscriber distribution network. which will
+however be interfaced on both sides by new modems, to which we will refer later.
+
+Figure 6 shows a prototype of a CTE designed and built by the CSELT, photo-
+graphed near a vidcodata terminal with keyboard. As regards the modems, three
+different types are currently being evaluated, as is being done moreover in other
+international laboratories:
+
+--A time-division (ping pong) type (Fig 7). presently being tested on live traffic
+facilities in the SIP network. with satisfactory results;
+
+--A frequency-division type (Fig 8), currently being tested under laboratory
+Conditions. also with satisfactory results;
+
+--An echo-suppressor type. operation of which has been fully computer-simulated.
+enabling the executnry process to begin.
+
+As we have thus seen, research aimed at making available telematics services under
+solutions relative to the above-cited Phases 1 and 2 is at a well-advanced stage.
+It nust be pointed out. however, that both solutions are dependent upon actuali-
+zution of the packet- and circuit-switching data network, which, however. as
+
+was stated at the beginning of this article. should be completed within a few
+years, according to the Ministry of Post and Telecommunications and the 5!?
+
+(Fig 9).
+
+The CSELT has contributed to this actualization with--besides detailed system
+studies and support provided to the Ministry of Post and Telecommunications and
+SIP in the drawing up of specifications—-the design and building of the so-called
+ACP lPacket Adapter-Concentrator], which provides the interface between the
+packet-switching data network and the so-cailed "access network.“ that is, from
+the normal telephone. telex and leased-facilities networks by "packet" subscri-
+bers. The importance of this equipment is evident if one considers the number
+
+of such sets of equipment that will have to be used in the network: Each of these
+sets can handle a maximum 66 active terminals simultaneously.
+
+The AC? has many lunctlons. Besides collecting the traffic from the access net-
+work. if adapts the language of the subscriber terminals to that of packet trans-
+mission and switching. or, "X25 Procedure." and concentrates the traffic at high-
+capnrily junctures. enabling facility-utilization factors l0 to 100 times greater
+than those obtainable with circuit-switching systems. Moreover. the ACP being
+
+a stri component equipped with memory, it can function as a "flow control,“ that
+is. carry out all the functions necessary to avoid overloads (hence potential
+losses of data) both in the network and at subscriber terminals.
+
+The "X28 Procedure" has been developed to enable connecting up to the AC? 85 per-
+cent of the asynchronous character terminals presently on the Italian market and
+the synchronous ones (that is. with x25 Procedure) that are becoming increasingly
+widely available.
+
+6
+FOR OIITCJAI.US£10NLY
+PtIIUUlﬂJAl.Ual1MVLI
+
+Figure in shows the prototype designed and built by the CSELT in collaboration
+with ITALTEL. and already delivered to ITALTBL. on the basis of which it will be
+further engineered after the requisite positive results have been obtained in
+
+the field tests it is rurrently undergoing between Turin (CSELT) and Castelletto
+(lTALTEL).
+
+In ad ‘ion to the types of equipment described thus far. which are essentially
+systt onents related to successive Phases 1 and 2. the CSBLT is actively
+engage. 'esearch on terminals and on exchange equipment specifically intended
+to enabling the oilering of certain telematics services.
+
+One of these services is the so-called slowhscan video service (Fig ll). which
+can transmit fixed or slowly-updatable images. useful for supervisory monitoring
+(e.g.. traffic. intrusion. telemedicine. banking applications. etc). as well as
+for visual aid to audio or videoconference proceedings (transmission of slides).
+The equipment currently being tested by the CSBLT permits the transmission of
+froaen-images over an analog telephone line at speeds of 4.2 or 9.6 kilobits/sec
+and over digital lines at 66 kilobits/sec. Update times can be varied from 32
+seconds with no reduction of redundancy. hence with very high quality. down to
+1/2 second with heavy reduction of redundancy, requiring toleration however of a
+consequent reduction in quality of the received image.
+
+Lastly. with reference to message recording service. this is presently in study
+stage with respect solely to telephony. In this regard. it should be noted that
+many telematics services could be provided simply via audio facilities to those
+subscribers who might wish to have only a telephone terminal. and no other kind.
+connected into the network; this will be possible as soon .5 the techniques of
+voice synthesis and recognition. in which the CSELT has already obtained inter-
+esting results. are sufficiently perfected and become economically viable.
+
+Message recording service (Fig 12) provides-~besides delayed transmission of mes-
+sages--telephonic secretarial service. the recording of calls and intercept ser-
+
+Vice.
+
+The subscriber accesses the system either by dialing a special number for de-
+layed message service. or automatically for all the other services.
+
+The system furnishes instructions to the subscriber by way of telephoned proce-
+dural announcements, and receives information by way of the keyboard or the disk
+(or. if the system does not accommodate use of the disk. by way of numbers pro-
+nounced by the subscriber and recognized by the word-recognizing equipment).
+
+Analog or digital telephony undergoes a 6 to 1 compression (16 kilobits/sec) and
+is recorded in digital form in magnetic disk equipment.
+
+The system control coordinates the blocks and handles the index-filing of the
+reCnrding.
+
+Retrieval of the recorded message may be accomplished by subscriber interrogation
+oi the system ("Have you any messages for me ") or by automatic followup by the
+system ("1 have a message .0 repeat to you.").
+
+7
+FOI:0FFKJAL.USB(NVLY
+FOI‘DFFKJAl.USE(NVLY
+
+The mass-memory requirement tor a large urban network. and brsed on duplicating
+every message (thet is. recording it on two separate disks for greater security),
+is estimated at around 5,”)0 megabytes, if recording is done at 16 kilobits/sec.
+
+Experimental development oi this system has already started for the account of
+SIP. an' all concerned. except the government, have been made ready for it. The
+system is to be field tested together with many of the devices planned for the
+actualization of Phase 2 (CTE, digital modems and infowire) in conjunction with
+the digital exchange (UTlO/3) that is now in the pilot production stage by
+ITALTEL. Following this test, other tests will be carried out in conjunction
+with traditional electromechanical exchanges.
+
+what has been said until now relates to the status of networks cc:responding to
+Phases 1 and 2. and from what has been said it is clear that studies are present-
+ly at a very advanced stage. solutions sufficiently defined, and moreover that
+the transition iron Phase I to Phase 2 is planned in such a way as to produce
+
+the least possible waste 0! resources.
+
+The same cannot be said ol the transit'on from Phase 2 to Phase 3; that is, from
+operation substantially at 80 kilobits/sec to operation based on variable-within-
+very-wide bandwidth service requirements (up to bandwidths of several tens of
+megabits/sec). The tact is that in this case copper-wire distribution network
+can no longer be used and resort will have to be made to optical fibers; further-
+more. optical fibers will probably have to be used in the premises of business
+subscribers as well. with time-division ring structures, for example. and with
+CTE equipment of newer design and in general smarter; there will be no reason,
+however, to replace existing terminal equipment, but merely to increase its
+numbers and types in accordance with the further new service requirements.
+
+As regards switching exchanges. it is clear that even :he mod-tn digital ex-
+changes being planned by the first-generation ISDN will be unsuited to the hand-
+ling oi the wideband and at the same time variable bandwidth traffic, and that
+switching centrals oi a new conception will have to be resorted to.
+
+Lastly. the medium- and long-distance networks will also find themselves in
+trouble. having as they will to handle substantially increased traffic loads
+with variable bandwidth choraCteristiCs and a rate of evolution with time that
+will depend heavily upon the growth in demand for such types of services, con—
+sisting initially with that on the part of "business subscribers."
+
+[I is highly probable therefore that regenerative satellites with on-board switch-
+lng will play a determinative role. as much from the standpoint of more favor-
+able access techniques as from that of flexibility of interconnection with
+subscribers as a whole (irregularly dispersed. from a topographical standpoint).
+and lrom that ol laster deVelopment and placement in service.
+
+Several long-term trailic lorecasts compiled recently estimate traffic in Phase 3
+at a little less than one order of magnitude greater than in Phase 2 (even though
+the luture involved is rather distant). Based on this. it appears inevitable
+
+8
+FOIfHHﬂCJAl.USE(NVLY
+Ful¢lﬂﬂCJAl.USE(NNLY
+
+that the network required lor Phase 3 must grow out of and be piggy-backed on
+that oi Phase 2. perhaps using only its available civil works infrastructure
+(buildings. underground ducts, etc).
+
+Investment requirements relative to Phase 3 are estimated to be very high and
+the managers of telecommunications networks will therefore be confronted by
+far lrom easy planning problems in trying to satisfy these future demands,
+which are being placed at somewhere beyond the 1990's.
+
+Advanced studies are in progress at the CSELT with respect to all the components
+of this future wideband network. and specific studies are in progress on methods
+of ring interconnections at different topological hierarchies; on distributed.
+variable-within-wideband bandwith exchanges; on interconnection of second-genera-
+tion terminals with vide0tonference and videoservice systems in general; and on
+integration between terrestrial and satellite networks. In this sector, the CSBLT
+is currently participating. from the national standpoint, in the Campus NET [ex-
+pansion unknown] program sponsored by the CNR [National Research Council],
+
+and. lrom the European standpoint. in the 836's COST [expansion unknown] 202
+
+pragrnm.
+
+An idea can be had lrom what has been presented in this article of the research
+eiiort presently being deployed in the field of telematics. It appears from this,
+moreover. that this national effort is very much in line. as regards quantity as
+well as quality. with that of other international laboratories of high standing.
+
+9
+IND! OFFICIAL USI:(HVLY
+FOR 0FF1C1AI.USEINVLY
+
+.uouucauu ouuo ooonunzmma
+.oocououcoooova>
+
+.zamn :ouuauocomlucoovu
+
+6533303;
+
+.n wanna
+
+.ooo«> aﬂoaIIOAm
+
+.2352 “338 3338 03.33:: 28”
+.uou ocosncaou H00u0mo
+
+.omoa caucus. N ooosm
+
+.xuoauoc sumo
+
+.uwucoo moou>uom
+
+.connnunocouu can oeuzouu3o aquamuo.uuam
+.Ouuaoucu
+
+.uuao
+
+.uuﬂﬂ— O‘COHUOOHH
+
+.u00u>uum moauaaoaoa
+
+.UOm swuuﬂwCH
+
+422 332.38%: ~ 32:
+
+.aacaauou sumo
+
+.xuoaum: uconmoauu ocuocc
+
+.uum ozonaoauu mauocz
+.Aucououa. 0 0.02m
+
+.NN
+.Hw
+.o~
+.oa
+.ou
+.ha
+.OA
+.ma
+.va
+.na
+.NA
+.AA
+.oa
+.a
+.m
+.r
+.0
+.m
+.v
+.m
+.N
+am
+
+”>0:
+
+thug-’31 ‘
+:3 SI}. 7 .
+
+ 
+
+10
+
+FOR 0FF1C1AI.USE(MNLY
+'0“ OFFICIAL USE. ONLY
+
+$3.58 (3003 0:60.95
+.33
+
+. Jay-62:3 3339310328
+
+$8.338.
+onusso ﬂauanOl-oz
+
+. 3.3.52. «33:03:00.1!»
+
+.6093“... so:
+nan deem-no» hoot—0033
+
+2—05-33 33>
+2—05.33 030088
+.ocunuuouuso - 6.»
+
+.3330: 00203.6
+50:20.6
+
+Jo- c3335
+
+.nd
+.Nd
+1:
+.0.—
+.a
+.9
+
+.5
+.o
+.n
+.v
+.n
+.N
+in
+
+”an:
+
+  
+
+          
+
+        
+
+33:83 :13
+7.... In 3:35 c 8
+
+. saga
+in! :5 13.3.: oil-2.
+
+.2. 33m» .3
+
+and.)
+_ Wm
+
+I ‘I'll
+
+           
+
+all“. m INN!)
+
+4.3:...«3 . as
+
+A
+
+A:
+
+_ 33...)..3
+
+O:-
+sight-1N.
+
+ 
+
+11
+
+FOR OPHCIAI. USE ONLY
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000400080045-0
+
+FOR OFFICIAL USE ONLY
+
+ 
+
+Fig 3-view of subscriber terminal f
+videotex service using infant
+
+12
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000400080045-0
+PW UPIILIAL ”I. URL!
+
+:narucco O’UVINTI AINUMIOO
+-CENNIO SIIVRt
+:CiﬂﬂlALI 1IIMIIL£
+:lﬂ‘lﬂlﬂFun‘o‘ﬂﬂﬂhluﬂlllﬂl
+:MYEMI’I
+:" mum
+
+It?! a CONNISSKII A
+
+ 
+
+Key:
+
+1. Data terminal.
+
+2. AU- Subscriber analog ternination.
+
+3. C88 Services center.
+
+;. C‘r- Terminal exchange.
+
+5. ID- Out-of-band 16-kilobita/aec bit atrean insertion set.
+6. 80- Data network.
+
+7. R‘r-Transit network.
+
+8. Space-division connecting network.
+
+9. «RR: analog- plus- 16 kilobite/aec.
+
+10. Interface coeponent.
+
+Pig 4-Conpatibility of infovire system with the
+future first-generation 1508 (Phase 2).
+
+13
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+   
+     
+    
+     
+   
+
+- inacoo comm
+(3)cs : cum seam:
+(new : cumuu um
+
+(5) cu : - ° nan-«2m woman
+(6)" : rueonton u tunumno om
+(1)» - um om
+
+-- oc numno
+
+-- on cmmauvm no unto
+
+1. Data terminal.
+
+2. A!)- Subscriber termination.
+
+3. CS- Serviceo center.
+
+4. CT- Terminal. exchange.
+
+5. m: Subscriber terninatione exchange.
+6. er- Data processing cal-pater.
+
+7. ROI-Data network.
+
+8. RT-‘l‘raneit network.
+
+9. Tine-division connecting network.
+
+Pig 5-Schenatic of access network into first-
+generation ISBN ambit (Phase 2).
+
+1h
+FOR OFFICIAL USE ONLY
+...253- niacul
+142- co Basal-:0: no. .008
+S—n.>:v|>ocoa7t; no R—xuouOun Ir OT—
+POI OMCIAI. USE ONLY
+
+.3323: 08.0!“- aﬂoaanvlzog I29 .
+3.3533 98.02. wick—non}: n39 .
+.3255.» nouocucsonua .
+
+.02.: 030398 .
+
+30:: 00:03.5 .
+
+3.332.. 9.39:: .
+
+3.330... 33323.3 .
+
+. 32.: 9.383%
+
+.xuaou .aconagou. xuozuoc 0&002 .
+
+unvmov~oo
+
+v-I
+
+53:00 coca—.3503 93 2.80023: leg .2
+33:00 0068.358. .5 .
+
+.32. ocmnuuutouuoxoam I82 .
+.uOuauucoocOOIuouaa—i 09.03 :54 .
+
+“>0:
+
+2.22823... 0 23:30 .9 9:50 102
+
+2.220ch .9 2.50 so.
+
+9:288 a. 2.335.538 o one: 8.:
+
+5283 08.2.5980 .2883: 81
+.3335... 3.3 8.282. 0 32.6.0... «2.
+7:23:25 38.: 0:238 a 3258....»
+
+23.23. a agftp o:
+
+3383 mu? illle.
+3:318 3:: [/13
+
+lawn 0&2:
+.xuawb
+.(UiOuuuuL
+88004
+
+3.39..
+
+gNiEhma
+Ud¢03Wh08 .OA Nuwuc
+
+.mOuucoo luuaam
+
+$3.0! can: Rahal—03
+$03.58: 9.03
+.8350: 5300580235
+.8380... 330508.
+
+£030.69.
+:63 9:. 8233333
+
+.000». 050303 coon-0:
+.u-aaooluoooouoonau So...
+.2: 0222
+
+.0: 5533.: 0:0 :35
+09.2.0.3 02.95003
+320:0 33550303003
+
+.ad
+.AA
+.0»
+.0
+.o
+
+.5
+.0
+.m
+.0
+.n
+.N
+.A
+
+“>02
+
+.63“!
+.N‘prawﬂ A 0v
+
+as who. U
+(8104.” Wu 2.
+
+ 
+
+19710 by ERI-EDIZIONE RAI RADIUI'ELEVISIONB ITALIAIA
+
+COPYRIGHT:
+
+END
+
+9399
+
+18
+
+FOR OFFICIAL USE ONLY
+
+5500/2025
+
+C80:

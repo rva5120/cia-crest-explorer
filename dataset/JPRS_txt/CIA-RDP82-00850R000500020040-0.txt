@@ -1,0 +1,3301 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10271
+22 January 1982
+
+Translation
+
+RADIOPHYSICAL METHODS FOR INVESTIGATING
+
+WATER MASSES OF SNOW AND ICE
+
+Ed. by
+
+V.V. Bogorodskiy and V.A. Spitsyn
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or translitersted are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OHNERSHIP 0?
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/1027l
+22 January 1982
+
+RADIOPHYSICAL METHODS FOR INVESTIGATING
+HATER MASSES 0F SNOW AND ICE
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICHESKIY NAUCHNO-
+ISSLEDOVATEL'MY INSTITU'I‘. RADIOFIZICHBSKIYE METODY ISSLBDOVANIY
+VODNYKH MASS SNEGA I L'DA in Russian No 324, 1974 pp 4-32, 50-56,
+104-108. 114-117, 126-133, 144-150, 197-203
+
+[Selected articles from collection 'Radiophysical Methods for Investi-
+gating Water Masses of Snow and Ice", edited by v.v. Bogorodskiy.
+
+doctor of physical and mathematical sciences. and V.A. Spitsyn, candi-
+date of physical and mathematical sciences, Gidrometeoizdat]
+
+CONTENTS
+
+Focusing Factor in Radio Echo Sounding of Media.....;.............a............. 2
+Total Signal Attenuation in Radio Echo Sounding of Glaciers..................... 9
+
+Fluctuations of Amplitude of Reflected Radio Echo Signals in Sounding of
+
+Claciers..................u....cu......oc-nu.....u.......o............... 16
+
+Interpretation of Experimental Data when Measuring Inhomogeneous Sea Ice
+Samples in centmter Range..............-..............-uuu.o............. 2"
+
+Apparatus for Measuring the Electrical Parameters of Saline Ice at )‘3 cm....... 28
+Registry of Acoustic Haves Transmitted Prom Hater Into Ice...................... 35
+Use of Doppler Effect in Lasers for Investigating Stressed State of Ice......... 40
+Vibrations of Measurement Systems in a Flow in Studies of Ocean Hicrostructure.. 44
+
+Experience in Using IR Scanning Apparatus on the Sixteenth Soviet Antarctic
+Expedition (brine Detachment)..uu..u.u“on"...unu.............un.. 52
+
+Thermal Contrasts of a Natural Hater-Ice-Snow Surface and Possibility for .
+Quantitative Estimates of Such Contrasts Using Measurements by IR Methods..... 56
+
+Quantitative Estimate of Thermal Radiation of the Wnderlying Surface Using IR
+Scanning Apparatus.no....c......n.........u.o...cuoo........................ 59
+
+- a - [I - USSR '- E POUO]
+
+FOR OFFICIAL USE ONLY
+IKNIOFFKJALIEIZONLY
+
+Contents
+
+[Text] 1
+Focusing Factor in Radio Echo Sounding of Media...................o............. a
+Total Signal Attenuation in Radio Echo Sounding of Glaciers.....................12
+
+Fluctuations of Amplitude of Reflected Radio Echo Signals in Sounding of
+
+Glacierseooases.ones-ess'00000000000000.eoaoeoeooeeaeoeoeeosseoeooeeelRsous-0020
+
+Interpretation of Experimental Data When Measuring Inhomogeneous Sea Ice
+samples in centimter RangeOOOOOOIOOOOOOOOOIOOOOOOI_OOOOOOIODODIOOOOOCOOOOIOOCO28
+
+Apparatus for Measuring the Electrical Parameters of Saline Ice at ),3 cm.,.....50
+Registry of Acoustic Waves Transmitted Prom Hater Into Ice..............;......104
+Use of Doppler Effect in Lasers for Investigating Stressed State of Ice........114
+Vibrations of Measurement Systems in a Flow in Studies of Ocean Microstructure.126
+
+Experience in Using IR Scanning Apparatus on the Sixteenth Soviet Antarctic
+Expedition .(yarine Detachmnt)00000000..OOIOIIOOOOOOOQOOOOODOOeOOOOOOOIIIIOOOIaa
+
+Thermal Contrasts of a Natural Water-Ice-Snow Surface and Possibility for
+Quantitative Estimates of Such Contrasts Using Measurements by IR Methods....143
+
+Quantitative Estimate of Thermal Radiation of the Underlying Surface Using IR
+scanning Apparatus...OI...OOOOOICCIO.l0.OOOOOOOOOO.QOCOOOOOIOIDOOOIOO.0......197
+
+FOR<0FFKJA1.USE(NVLY
+ROR‘OFFICIA1.lEﬂ!(HVLY
+
+FOCUSING FACTOR IN RADIO ECHO SOUNDIHG 0F MEDIA
+
+Leningrad TRUDY. ORDENA LENINA ARKIICHBSKIY I ANTARKTICHESKIY NAUCHNO-ISSLBDOVATBL'-
+SKIY INSTITUT. RADIOFIZICHESKIYE HETODY ISSLEDOVANIY VODNYKH MASS SNEGA I L'DA
+in Russian No 324, 1974 pp 4-11
+
+[Article by V. V. Bogorodskiy, G. V. Trepov and B. A. Pedorov]
+
+[Text] The focusing of energy in the propagation of waves in inhomogeneous media
+
+has been repeatedly analyzed in the past [2]. However, in recently published studies
+on radio echo sounding of media [for example. 1, 3, 6] the focusing factor is not
+taken into account.
+
+in this article the focusing factor is examined in considerable detail applicable
+to radio echo, slant and vertical sounding of media.
+
+In a homogeneous medium at the distance r from a point radiation source the density
+of the power flux 1Tb is equal to
+
+1T0 - Pad/MHZ. (1)
+
+In a layered-inhomogeneous medium, where n - n(z), as a result of refraction the
+density of the power flux Trat this sane distance is different.
+
+The ratio
+
+"rd-"7 (2)
+
+is called the focusing factor.
+
+We will determine the focusing factor for a layered-inhomogeneous medium, in par-
+ticular including here the case of wave propagation in two homogeneous media with
+a plane discontinuity. Assume that the radiation source is situated at the origin
+
+of coordinates (0‘0 is the glancing angle of the ray at the pain; of emergence; °‘h
+is the glancing angle at the observation point at the depth h; R is the horizontal
+
+range).
+
+For an annular element ds of the area of the wave front included between the rays
+emerging at the angles etc and 0‘0 + deco, we obtain ds I 23211 sinothdk. Taking
+
+into account that dR - ~aR/aoto dato (the minus means that with h - const a greater
+010 corresponds to lesser R), we determine
+
+FOI‘OIIICIAI.IIEE(HULY
+FOR OFFICIAL USE ONLY
+
+(IS: - L’tR :‘Tslua. - ‘11..
+
+Since the power in the solid angle 52(from 0‘0 to 010 + data) is equal to
+
+I
+[usn - rad] I’u&-—§"“— cosoo - (“0. (a
+
+the density of the power flux at the distance r from the source is determined as
+
+I’ .. cost. .
+”a. --—;—.-—W;—. (to)
+thslﬂ I.
+
+Substituting expressions (1) and (lo) into equation (2), we obtain an expression for
+the focusing factor in the following form:
+
+11 - .
+R all? (5)
+
+For computing the focusing fac -r by tne use of formula (5) it is necessary to deter-
+
+mine R and mum . Taking int account that (2?. - ctgalzdz, and using the Snellius
+law cos at; - 1/n(z cos do, we obtain
+
+R j ...... ‘El‘l!___ . (5)
+
+thL- who
+
+where at; is the glancing angle at the depth 2.; n(s) is the relative refractive index
+of the medium at the depth 2 (relative to the medium at the point of emergence).
+
+We will find the derivative ail/ado by means of differentiation of the right- and
+left-hand sides of expression (6) for the angle 040 ‘
+
+ 
+
+0.6“. ‘III a _n'v' (2).” _ (7)
+"‘u ' ”a |n’(I)—~coshn.'-‘ '
+Finally in a general case ,2
+'I‘ . _ .--r. -__ ‘_. --- ..—_-.. _- -... —- -_ -_._-
+sin-onus, I — . .".‘ ._ _. AL (8)
+
+,, |n'l(:') .uu‘fzul'“ 5 In? (I) ---ws'-‘1..|"’
+
+.'-v angles of incidence ﬂ . 90° -0L expression (8) has the form
+
+ 
+
+r2
+,1 ,_. __._____.__ .__-.________. (88)
+
+ 
+
+”magma. ___""____,‘ 53(1)“ '7
+Small Clanclns Angles "2(3) "M’WI 'I: 6 ',,7(()—- sla’h| ‘
+
+In computing the focusing factor on the basis of expression (5) for small glancing
+,zles we takc into account that Rzr.
+
+Willi. . (9)
+
+hence, using equations (6) and (7), we find
+
+POROFHCMLISEONLY
+FOR OFFICIAL USE ONLY
+
+A
+
+ 
+
+(woo; _-_____d' __
+[111(2) — cosh. "'
+1‘ L: . . . (10)
+also a. sin a. f _JMF.
+3, In: (I) — c0170.] "
+
+In the case of one refracting boundary n(z) - 1 with 0<z<ho and n(z) - n with ho<
+zgho + h. Then expression (10), taking into account the ratio
+
+ah I 71!;(“2 _ c032a0)1/2
+
+aSSumes the form
+
+n. h. ) (11)
+n -——| -
+1. - _-- ...'K_°.9.-._‘.K;I.___
+-"5..‘L‘.’".'.- . J8.’0_'."I. '
+slu’: a“ slur-'3.
+where 0L1 is the glancing angle with ho< zého + hl.
+Table 1
+Focusing Factors and Attenuation of Signal During Its Propagation From Air Into Snow
+and Back (N)
+Glancing angle, degrees In 172 N, db
+1 0.0232 0.0103 36.4
+2 0.1.640 0.0206 30.10
+5 0.1160 0.0515 22.4
+10 0.2300 0.1020 l6.b
+
+As an example, ‘we will cite the results of computation of the focusing factor 71
+(in relative units) (Table 1) with passage of the radiation from a medium with the
+refractive index n31, - 1 (air) into a medium with a refractive index n ow . 1.5
+(snow with a density of about 0.5 g/cm3) and back 172 for ho) h1 and dinerent
+glancing angles in the first medium (air). The relative refractive indices will be:
+with propagation from the air into the snow n - “snow/“air - 1.5. with "backward"
+propagation n' - nan/“snow - 0.67.
+
+In this case .(with ho) hl), assuming coszdo - 1 and neglecting the terms containing t
+the second and third powers of sin «0, expression (11) can be reduced to the ex-
+
+tremely simple form m i.
+
+n-—- ’u‘--‘""ﬁ?'." 0'2)
+
+For the propagation of waves from the snow into the air (the point of emergence is
+in the snow, the glancing angle is u'o; the observation point is in the air, the
+
+glancing angle is (1'1) we have
+
+FOIOW'ICIALISEONLY
+POI OFFICIAL USE ONLY
+
+‘1] “I!" III —'I'
+- 9" 'u
+
+or, returning to the annotations adopted earlier_, corresponding to a point of emer-
+
+gence situated in the air.
+I slut“
+
+"”7" 457' (13)
+
+Then the attenuation of the signal N (db) in the case of its propagation in "forward"
+and "backward" directions is __
+
+N- --_-Iolg mmmmlg- ‘.".'._’- .
+
+nfu Ila-1"”
+
+Small Angles of Incidence (Vertical Sounding)
+
+In those cases when n(z) is a step function, it is convenient to use the following
+
+ 
+
+form of expression (8a) ram“
+"’1' _'—s"—1——- -
+no). [Inhdz IM. (1")
+‘3 a "(nun-'3.
+
+For the case of a plane boundary between two homogeneous media (n(z) - l with 0Sz<
+ho and n(z) - n with ho<z<ho + hi) expression (16) has the fore
+
+_ than},
+" *W “5’
+
+ws3.(hn|uh |' ﬁlm.1 )( 0531” mtoﬂjl
+
+He will deternine the dependence of the focusing factor on the ratio of ha and hl
+and the coefficient of refraction n. With small angles of incidence the following
+expressions are correct:
+
+'='"Io-l-’I.:
+
+lgﬁzslnﬂozﬁ’ ﬂ.
+{ghaslnfhzfﬁ WE”;
+6053.2: cos 9: z I.
+
+with these equations taken into account, from expression (15) we obtain the focusing
+factor
+(' +— 2;”)
+
+T]=-—(__' "T _L" . (16)
+
+We will find the focusing factor for the case of vertical radio echo sounding of the
+medium from the air. With propagation of the wave from the antenna to the reflecting
+object in the medium the focusing factor accordingly is equal to
+
+M OFFICIAL USE ONLY
+FOI<0FFKJAI.USE(NVLY
+
+, I
+'“" ( ' . . f (17)
+[a - antenna; c = layer]
+
+where ha - ho is the height of the antenna above the air-medium boundary; hlay . hl
+
+is the thickness of the sounded layer of the medium; n is the relative coefficient
+of refraction of the sounded medium.
+
+With propagation of the wave from the reflecting object in the medium to the antenna
+the "backward" focusing factor is
+
+(”my
+[OTP - refl; a - antenna: c - layer] n" r= h‘
+
+P‘ _‘ i he 2"
+Il-‘l |-"-'-h—.-)
+
+(18)
+
+ 
+
+The focusing factor in sounding of the medium is equal to the product of the focus-
+ing factors during the propagation of the wave in "forward" and "backward" direc-
+
+tions 1,: l
+I '1' -" 1' I: —('—ll'_). .—
+[mm- incid; o-rp - refl] ‘ *" "W ",(t I _I_ _ g. r ' (19)
+. II II‘
+It should be noted that the expressions for the focusing factor (l7), (l8) and (19)
+
+were obtained for a point isotropic sound source situated at the point where the an-
+tenna is located (focusing of direct signal). or at the point where the reflecting
+object is situated (focusing of the reflected signal), and do not take into ac-
+count the changes in the effective reflecting surface of the object, which can oc-
+cur with a replacement of the real inhomogeneOus medium by a homogeneous medium.
+
+Change in Effective Reflecting Area of Some Objects in an Inhomogeneous Medium
+
+Case of mirror reflecting plane. The effective reflecting area (39ft) of the mirror
+plane is determined by the expression seff - Jrrz. [In general Seff 'JTrZKfz. where
+Kg is the Fresnel coefficient. The Fresnel losses can be taken into account separ-
+ately and are not considered here.) In a homogeneous medium r is the distance from
+the source to the plane. in an inhomogeneous medium r is the radius of curvature of
+the wave front or the distance to a fictitious source; in the case of vertical prop-
+agation of a wave in the air and a homogeneous medium with the refractive index n
+
+r 2', ha M'llayera
+
+The change in the effective reflecting area in an inhomogeneous medium will be char-
+acterized by the ratio 2i - seff med/Segf. where seff is the effective reflecting
+area of the object in the air; seff med is the effective reflecting area in a partic-
+ular inhomogeneous medium with a constant spatial positioning of the object relative
+to the sounder antenna. '
+
+The parameter S for a mirror reflecting plane. in accordance with what has been said
+
+above. is equal to
+lﬂ(] +7}. . :_: 3
+
+[c - layer; a - antenna] Eh“----7r—1r-— . (20)
+(. + 12-)
+
+FOR OIIDCIAI.IEHECHVLY
+FORIOIFICJA1.USI2(HVLY
+
+The focusing factor from expression (19), taking into account the change in the
+effectxve reflecting plane (20), in the case of vertical sounding of the median
+with a plane mirror lower boundary, is equal to
+
+,' 2
+(I+’.—‘
+1"L—J1“.‘1'ﬂ* _-_:—,v.._-l ..._’T-_2. .
+["30- 1nu<ident); o1? - refl] (, T"; ) (21)
+I
+
+Case of scattering plane surface. When the scattering plane surface is situated in
+the near zone of the sounder its effective reflecting area is determined as seff .
+77:2. In this case for the focusing factor expression (21) is correct.
+
+However, when the scattering plane is situated in the far zone of the sounder, the
+effective reflecting area is determined using the formula
+
+where CV is the specific effective area; c is the velocity of electromagnetic waves
+in the a z; ‘cpulse is sounder pulse duration.
+
+For the case of sounding of the medium from the air r$:nh¢+h18 er» n - “layer and
+accordingly, the g, parameter for the scattering plane in the far zone of the sound-
+
+" 18 01.1.3?)
+
+" ‘-“_'_'- ' (23)
+
+[c - layer; a - antenna] (.141;
+‘s
+
+Using expressions (l9) and (23) we find that the focusing factor, taking into ac-
+count the change in the effective reflecting surface during sounding of a medium
+with a scattering plane lower boundary situated in the far zone of the sounder, is
+
+ 
+
+(. . e °
+4", 1:0 | h.- ' £375 . (21.)
+
+  
+
+op- o,| I
+
+Fig. l. Focusing factor '1' in case of vertical radio echo sounding of media with
+'lffercnt refractive indices n (1 - n - 9; 2 - n - a; 3 -- n - 1.79). a) isotrop-
+ic reflector; b) mirror reflection and scattering plane in near tone; 3) scattering
+plane in far zone.
+
+Figure 1 shows the dependence of the focusing factor ’1' on the ratio of the thick-
+ness of the layer of the medium to the height of rising of the antenna above the
+nnpef houndsrv of the sounded medium in accordance with the expressions (19), (21)
+nvd (2ﬁ\ Analyzing these dependences. it can be concluded that with vertical
+
+7
+FOIIOPHNJAIVUSI:ONLY
+IIIR‘OFFICLAL USEIODHJV
+
+sounding of the medium from the air the contribution of the focusing factor to
+the total attenuation of the radio echo signal in all cases is from ~20 lg n to
++20 lg n. For ice it is equal to from -6 to +6 db; therefore, the circumstance
+that some authors (for example, the author of [1]) did not take the focusing fac-
+tor into account (although it was nentioned) in computations of the total attenu-
+ation of the radio echo signal in a glacier, did not lead to such great errors as
+
+would cause a serious discrepancy between the computed and experimental data. How-
+ever, without question, the dependence of the focusing factor on the ratio h yer,
+ha is one of the reasons for the appreciable change in attenuation of the radio
+echo signal observed in practical work with an increase in aircraft flight alti-
+tude during radio echo measurements of the thickness of glaciers. In part, there-
+fore, a survey of thicknesses is usually made from aircraft flying low over the
+surface of glaciers.
+
+It follows from expressions (19), (21) and (24) that it is always relatively more
+advantageous (bearing in mind only the focusing factor) to sound thick layers than
+to sound thin layers. This must be taken into account when sounding floating sea
+and fresh ice. The influence of the focusing factor should be extremely important
+in the sounding of media with large n values, for example, for fresh water, for
+which at frequencies in the meter wavelength region n::9.
+
+BIBLIOGRAPHY
+
+1. Bogorodskiy, V. V., FIZICHBSKIYB HETODY ISSLBDOVANIYA LEDNIKOV (Physical Meth-
+ods for Investigating Glaciers), 1967, 2110 pages.
+
+2. Brekhovskikh, L. M., VOLNY V SLOISTYKH SREDAKB (Haves in Layered Media), Mos-
+cow, Izd-vo AN SSSR, 1957. 503 pages.
+
+3. Finkel'shteyn, H. I. and Kutev, V. A., "Sounding of Sea Ice Using a Series of
+Videopulses," RADIOTEKHNIKA I ELEKTRONIKA (Radio Engineering and Electronics),
+Vol XVII, No 10, pp 2107-2112, 1972.
+
+4. Evans, 5., "Progress Report on Radio Echo Sounding," POLAR RECORD, Vol 13,
+No 85, pp 613-420, 1967.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-iseledovatel'skiy institut
+(AANII), 1975
+
+FOIIHHWCIALIIHEONLY
+FOI‘OFFHJAI.USEINVLY
+
+TOTAL SIGNAL AITBNUATION IN RADIO ECHO SOUNDING 0P GLACIBRS
+
+Leningrad IRUDY. ORDENA LENINA ARKIICHESKIY I ANTARKTICHESKIY NAUCHNO-ISSLBDOVAIEL'-
+SKIY INSTITUT. RADIOFIZICHESKIYB METODY ISSLEDOVANIY VODNYKB MASS SNEGA I L'DA
+in Russian No 324, 1974 pp 12—19
+
+[Article by V. V. Bogorodskiy, G. V. Trepov and B. A. Fedorov]
+
+[Text] The problem of the total attenuation of a signal is extremely important in
+refining a model of radio wave propagation during radio echo sounding of media,
+
+investigation of the electric characteristics of ice, and also in selecting fre-
+quencies and potentials of scunding apparatus for the sounding of glaciers. 0n
+
+the basis of the general concepts of the theory of radio wave propagation and con-
+siderable material on the attenuation of electromagnetic waves during the radio
+echo sounding of glaciers it is possible to visualize the following additive mech-
+anisms of signal attenuation.
+
+1. Geometrical losses due to.spatial divergence of the wave front (N800).
+2. Losses due to focusing. caused by refraction at the air-glacier surface bound-
+
+ary anda change of density in the upper part of the glacier (NfOC).
+
+3. Absorption (Nab.)s
+
+a. Losses with reflection from the glacier-glacier bed boundary (Nr9f1).
+
+5. Scattering by the glacier surface and inhomogeneities within it (“scat)-
+
+6. Noncoincidenceof thenolarization of the reflected signal and polarization of
+the receiving antenna as a result of wave depolarization during propagation in
+the glacier (Npol).
+
+For geometrical losses and losses accompanying reflection in the case of mirror
+reflection and scattering when working in the near zone
+
+(h< [20-30] 52.39%)
+
+in accordance with seff . JThzsz we have
+N830 + “refl . 20mm. |-2l)|gl:~l-l0lg64x' --2(Hg k,. (1)
+
+where c is the speed of light in a vac-
+uum; 13pulse is scunder pulse duration; Seff is the effective reflecting area; h
+
+is glacier thickness; kf is the Fresnel coefficient of the ice-bed boundary; G is
+the antenna amplification factor; ).is the working wavelength of the sounder.
+
+llnl(lﬂﬂ(1Al.USlllﬂlV
+FOR OFFICIAL USE ONLY
+
+The losses Nrefl - -20 1g kf are dependent on the dielectric constant of the under-
+lying surface. With a change in the relative dielectric constant of rocks E'rock
+from 6 to 9 “refl changes from 16.2 to 11.8 db; here for the computations it was
+assumed that "refl - 11. db. Summing the components of geometrical losses and losses
+during reflection, we obtain
+
+as” + Ntefl - -20 13 61+ 20 lg h + (.2 (db). (2)
+
+The losses due to focusing are Nfoc - --10 1g )7 [l] at the Surface of the glacier
+and constitute 5 db. When working from an aircraft it is necessary to take into
+account their change with altitude.
+
+Absorption is determined by the thickness and temperature regime of the glacier.
+If the temperature distribution in the thickness of the glacier is known, absorp-
+tion can be computed using the expression
+
+h
+“abs . S ﬁabslt(z)ldz. (3)
+0
+
+Usually the temperature distribution is unkan and therefore the absorbing proper-
+ties of the thickness of the glacier will correspond to the absorption temperature
+tabs satisfying the expression -
+
+Nabs‘ ' Nabs (tabs )h°
+
+The ﬁabs(tabs) values were computed on the basis of the equation
+
+“abs ' 8,68 3;— [lg a V27 (db/m),
+
+where th is the tangent of the angle of dielectric losses; 5' relates to the gla-
+cier as a whole.
+
+The specific absorption is!” for glacier ice in the range of meter and decimeter
+waves (from 10 to 500 MHz)‘ is given below:
+
+tabs. °c -1 —s -10 ~20 -30 -1.0 -50 -60
+ﬁabsuabs). db/m 0.1062 0.0709 0.050 0.0322 0.0209 0.0129 0.0077 0.0025
+
+In the computations we used the results obtained by westphal [3] and extrapolation
+was carried out using the Debye formulas.
+
+Scattering by the glacier surface is characterized by the Fresnel coefficient for
+
+the air-ice boundary ..
+"scat ' --‘-’Ulu(l -w;)-...-o,7 (db) (1.)
+
+h I
+U ere ye __'I,:I
+
+[B - air] klu' .......:__..—— -o'283;
+'3’.l.v“’-
+ﬁ' and 5'31, - the relative dielectric constants of ice and air respectively.
+
+In some cases, for example during thawing, scattering at the upper boundary can be
+considerably greater.
+
+10
+FOR OFFICIAL USE ONLY
+Signal attenuation, db
+
+ 
+
+Glacier thickness, n
+
+Fig. 1. Total attenuation of radio echo signal in glacier for different absorption
+temperatures (tabs from -1 to -60°C) for case of sounding from surface transport.
+
+ 
+
+Fig. 2. Air temperature near glacier surface t and level of the reflected signal U.
+Hith the reception of waves with an arbitrary polarization with a linear dipole the
+losses “pol on the average are 3 db (with a uniform distribution of angles between
+the polarization plane of the receiving dipole and the received signal).
+
+Thus, the total attenuation. as a function of the sounder parameters, thickness of
+the glacier and temperature, can be written in the form
+
+11
+
+FOI.0IIIC1A1.UBB(M‘LY
+FOR OFFICIAL USE ONLY
+
+"2 " Ngeo 4‘ Nrefl "’ Nahs + Nfoc + “p01 + Nscat " '20 18 GA + (5)
+
++20 lg h + Nabs(tabs)h+40.7 (db).
+
+The results of computations of "8 in accordance with expression (5) are represent-
+ed in Fig. 1. For the computations it was assmned that G) . 10.
+
+The total attenuation, in general, is a random value and this is manifested in fluc-
+tuations of the reflected signal. but the great number of measurements of the total
+attenuation makes it possible to carry out averaging and check the correctness of
+the adopted computation model under different conditions (thickness of glacier, mean
+annual temperature, parameters of apparatus). In addition. the contribution of some
+mechanisms can be determined from special experiments.
+
+An investigation of the influence of temperature of the surface layer of the glacier
+on attenuation of the radio signal was carried out in the neighborhood of Mirnyy 0b-
+servatory in Antarctica from 11 January through 6 February 1967 at a frequency of
+41:0 MHz. The collected data on the excess of the signal over the receiver noise and
+air temperature near the ice surface are given in Fig. 2. The results of the experi-
+ment show that at a frequency of 460 MHz there is a strong dependence of attenuation
+of the radio echo signal on the tenperature of the surface layer of the glacier.
+llith thawing at the glacier surface the attenuation increases. The greatest incre-
+ments in attenuation (about 20 db) were registered with the falling of precipita-
+tion in the form of rain or snow mixed with rain. The maximum attenuation of the
+radio echo signal in the surface layer of a thawing glacier is more than 30 db.
+Similar results were obtained during the Eleventh Soviet Antarctic Expedition, when
+after the falling of rain the naxinum thicknesses attainable when making measure-
+ments at a frequency of 660 ME: decreased from 300-350 In to 100-150 In (near the
+shore), which corresponds to an increase in attenuation by 20 db or more.
+
+For an investigation of attenuation of the radar signal in a broad frequency range
+on the Fourteenth Soviet Antarctic Expedition on a path with an extent of 132 km
+
+to the south of Holodeahnaya Station specialists carried out sounding of the glacier
+by means of a multifrequency sounder and a sounder with a working frequency of 60
+MHz. [Some results were published in [2].] From a comparison of the total attenua-
+tion of the radio echo signal with sounding at six frequencies it is possible to
+
+draw' the following conclusions.
+
+1. The curves of change in attenuation along the path for frequencies of 60, 70,
+100, 140, 200, 460 MHz are sinilar and are very strongly correlated with glacier
+thickness.
+
+2. 0n the average the difference in signal levels in db at different frequencies
+is almost constant, regardless of the glacier thickness (220-950 m) and its mean
+annual temperature (“mean fron -4 to ~25°C). that is, the temperature dependence
+_ of total attenuation and its dependence on thickness are approximately identical
+at frequencies from 60 to 460 MHz.
+
+3. The strong dependence of total attenuation on temperature is confirmed; for ex-
+ample. whereas at the 10th kilometer (tmean - -8°C) a signal level of 10 db cor-
+responded to a thickness of 260 m, at the thh kilometer (tmean '- 16°C) it
+
+12
+FOR OFFICIAL USE ONLY
+FOI.OFF1CLAI.USIICﬂVLY
+
+corresponds to 440 m. at 60 n (tmean - -19°C)-n-850 m, at 128 m (tnean . -25'c) -
+900 m.
+
+6. In the coastal zone (approximately to kilometer 15) the difference in total at-'
+tenuations for low and high frequencies increases. The losses at low frequencies
+(100, 70 MHz) become smaller relative to those for the higher frequencies.
+
+A comparison of the computed values of total attenuation obtained on the basis of
+expression (5) for absorptioa temperatures tabs equal to 007stngln and 0-9Cmean
+and experimental data shows that:
+
+-- the general shape of the computed and experimental curves is identical;
+
+-- in the sector to the 15th kilometer the experimentally determined attenuation
+is greater than the computed value for tabs . 0.75tmean by 3-12 db, which can be
+attributed to scattering in the upper thawing layer of the glacier; losses in the
+upper layer increase with an increase in frequency and with approach to the shore-
+line;
+
+-- in the sector 15-48 km, 59-69 km, 116-116 km the data computed for tabs '
+0.75tmean and the experimental data coincide on the average with an accuracy to
+Z-b db;
+
+-- in the sector 121-130 km the measured attenuation is less than the computed val-
+ue for t be - 0-75tmean by 3-6 db; in this sector the absorption temperature for
+the glacier falls in the range 0-75tmean<tab8< 0-9cmean‘
+
+The results of experimental measurements of the total attenuation of a radio echo
+signal at frequencies 60, 70, 100, 140, 200 and 440 H32 and comparison of the com-
+puted data with the experimental data indicate the correctness of the adopted
+model of signal propagation during the sounding of glaciers. In accordance with
+this model it follows that:
+
+l. The geometrical losses were computed using the law llhz.
+
+2. It is necessary to take into account the focusing factor, as demonstrated in
+
+[l] (for sounding of the glacier directly from its surface the gain due to focus-
+ing is 5 db). .
+
+3. The losses with reflection from the glacier bed must be taken into account in
+accordance with expression (1).
+
+a. The losses in scattering must be considered approximately 1 db for cold glaciers
+and must be considered to increase to 20-30 db when there is thawing at the surface.
+5. When computing absorption it is necessary to know the absorption temperature;
+
+it can vary in some limits, such as 0.75-0.9 of the mean annual value, which does
+not cause significant errors in computing total attenuation.
+
+However, it is more correct to solve the inverse problem: using all the remaining
+components of total attenuation, discriminate from the measured attenuation the
+losses in absorption and ascertain the absorption temperature, which characterizes
+the temperature regime of the glacier.
+
+During subsequent Antarctic Expeditions (Fifteenth, Sixteenth and Seventeenth) the
+measurements of attenuation were made along the same route as on the Fourteenth
+Expedition, at frequencies of 60. 213 and 460 “3:. In the generalization we used
+random samples of attenuations. Qualitatively (and quantitatively with an accuracy
+to the range of fluctuations of amplitude) these results coincided with those
+
+13
+
+FOIinﬂﬂClALlﬁlZONlﬂ
+FINI¢IFFICJAI.IEHE(NNLV
+
+cited above. Particular attention should be given to data on attenuation determin-
+ed by A. H. Shalgin and L. A. Pedorinchik in the neighborhood of Hirnyy station
+
+in 1971/1972 in polygons measuring 5 x 5 km, situated at the 57th and 153d km from
+the shoreline. Measurements in each polygon were made along 22 intersecting lines
+at intervals of 250 m. Samples were taken from the observational series for the
+ranges in glacier thickness Ah - 100 m. In selecting the A h interval it was taken
+into account that, on the one hand, the samples should be adequately long, but on
+the other hand, the A; h value cannot be too great since in this case the regular
+change in signal amplitude caused by the dispersion of electromagnetic energy will
+be great.
+
+a a)
+
+   
+  
+
+.’?T_-_?_§
+
+ 
+
+e c)
+1
+g:
+3.3
+:
+B
+0
+3
+O
+“a ‘b) rd)
+3%
+32..
+,2
+
+ 
+
+“' “0 "I Mo :2 so as '
+
+o:-.o-.--.,.s Oeppa -
+Attenuation, db Attenuation,'db ' ‘6
+
+Fig. 3. Histograms of attenuations of radio echo signals in polygons 1 (a,b) and
+2 (c,d). a)Ah - 950-1050 m; b)Ah - 1050-1150 m; c) Ah - 1750-1850 m; d) Ah -
+1850-1950 m.
+
+Figure 3 shows the distribution of probabilities (repetition rates) of attenuation
+of radio echo signals for polygons 1 and 2. It is characterized by a variability of
+attenuation caused by the influence of random factors (scattering, depolarization)
+in the case of a constant temperature regime of the glacier (tabs - const) and an
+approximately constant thickness (hasconst). Figure 3 shows that the probabilities
+
+of attenuation have a Rayleigh distribution. In polygon 1 the mean attenuation val-
+ues are 136 and 138 db for mean thicknesses of 1000 and 1100 m, in polygon 2 --
+
+about 157 db for thicknesses of 1800 and 1900 m. These mean attenuation values once
+again confirm the correctness of the adopted attenuation computation scheme; they
+
+correspond to glacier absorption temperatures tabs - -11°C for polygon 1 and tabs
+- -l6°c for polygon 2, not contradicting existing concepts concerning the thermal
+regime of the glacier in the measurement regions.
+
+16
+FIIICIWWCJAI.UGIC(HVLY
+FOIIOFHHJA1.USE(NVLY
+
+BIBLIOGRAPHY
+
+1. Bogorodakiy, V. V., Trepov, G. V. and Fedorov, B. A., "Focusing Factor in Radio
+Echo Sounding of Media," in this collection of articles.
+
+2. Bogorodskiy, V. V., Trepov. G. V. and Pedorov, B. A.. "On Measuring Dielectric
+Properties of Glaciers in the Field," PROC. OF THE INTERNATIONAL MEETING ON
+mlocucmwcv LYNGBY, pp 20-31, 1970.
+
+3. Ragle, R. H., et a1., "Ice Core Studies of Hard nun: Island Ice Shelf," 1960.
+[By R. H. Ragle, R. G. Blair and L. B. Parsson]. JOURNAL OF GLACIOLOGY, Vol 5,
+No 37, pp 39-59, 1964.
+
+COPYRIGHT: Ariticheakiy i ancarkticheskiy nauchno-iasledovatel'skiy insticut
+(AANII), 1975
+
+15
+
+FOR‘OFFIJAI.USE(MVLY
+FIII(Iﬂﬂ(1AI.USE‘0NlY
+
+FLUCTUATIONS 0F AMPLITUDE 0P REFLECTED RADIO ECHO SIGNALS IN SOUNDING 0P GLACIBRS
+
+Leningrad TRUDY. 0RDBNA LENINA ARKTICHESKIY I ANTARKTICHBSKIY NAUCHNO-ISSLEDOVATBL'-
+SKIY INSTITUT. RADIOPIZICHESKIYE HBTODY ISSLEDOVANIY VODNYKH MASS SNEGA I L'DA
+in Russian No 324, 1974, pp 20-27
+
+[Article by V. V. Bogorodskiy, G. V. Trepov and B. A. Fedorov]
+
+[Text] Radio echo sounding of glaciers is carried out in the meter wavelength
+
+range [1]. When the resolution of the sounder is small in range and angle the
+structure of the signal received from the glacier bed region is quite complex.
+
+The echo signal is a series of resolved pulses with an amplitude which in general
+decreases. [By "resolved" is meant pulses whose peaks are resolved on the oscillo-
+
+gram.] If the sounder is moved horizontally, the echo signal fluctuates and its
+different parts fluctuate differently [5, 6]. This phenomenon has been called" spa-
+
+tial fading" [6]. The reasons for this are unevenness of the bed, the presence
+of morainsl inclusions, and also a change in signal polarization_[2], nonuniform-
+ity of the glacier, etc.
+
+A study by Halford [6] discusses an interesting practical application of “spatial
+fading." In particular, it was shown (and this has been confirmed by data from
+geodetic measurements) that with the carrying out of repeated registration of a
+bottom signal along paths it is possible to determine the displacement of the
+
+glacier surface relative to the bedrock relief.
+
+with respect to fluctuations per se, Halford determined the periodic length L of
+
+fadings of si male as functions of the partial time‘f from the moment of arrival
+of an echo (for a point with a glacier thickness of about 1090 m). For a theor—
+
+etical estimate of the L value Walford used an expression from an unpublished
+study by Berry:
+
+ 
+
+L __l Ill-5L0:
+2l/2 '/:I:;:(;;:F';-;:T - (1)
+
+where v is the velocity of propagation of a radio echo signal in the ice; J\ is
+the length (in the ice) of the sounder working wave; h is glacier thickness; 1
+
+is partial time3'c was determined by Berry, and in Halford's words, "differs
+negligibly from‘t" when computing L.
+
+There can be a different approach to the problem of study of fluctuations of bot-
+tom signals, and, in particular, fluctuations of their amplitude. It appears that
+a knowledge of the characteristics of spatial fading, such as the statistical
+
+l6
+
+FOI10FFIJAI.UBB(NNLY
+FOI(MHNC1AI.USE(MULY
+
+characteristics, can exert a substantial influence on solution of a number of prob-
+lems of practical importance, such as the choice of frequencies for measurements
+
+of displacement of the surface, evaluation of the effectiveness of accumulation
+of the energy of reflected signals during the sounding of a glacier from surface
+
+transportation and an aircraft and estimation of the size of irregularities of
+the bed comparable with the wavelength of the irradiating wave.
+
+Such an approach also determined the conditions for conducting the experiment.
+
+Table 1
+Experimental Values of Period (L) of Spatial Fading of Arrival Pulse of
+Bottom Echo Signal
+Glacier Frequency 60 MHz: trequency 213 MHz: Frequency 440 MHz:
+thickness, m 7" 2.8 m 2- 0.79 m )- 0.38 m
+1W1“ - lplsec "pulse - 2.5flsec {pulse - 0.3psec
+L Lmean L Lmean L Lmean
+300 2.8; 2.3 2.55 1.2; 1.3 1.25 1.0; 0.8 0.92
+. 0.5; 1.4
+600 7.0; 3.4 3.75 1.9 1.9 1.6; 1.2 1.28
+3.0; 1.6 1.3; 1.0
+850 2.4; 2.0 2.55 2.0 2.0 0.7 0.7
+3.0; 3.0
+2.2; 2.2
+1225 5.0; 5.2 5.17 2.0; 2.8 2.4 -- -
+6.5; 4.0
+1250 3.6; 6.2 4.6 2.4; 1.6 2.0 - -
+4.4; 4.2
+1900 3.6; 9.6 6.2 2.0 2.0 - --
+5.6; 6.0
+
+Note: Each L value with one and the same thickness is given for different measure-
+ment paths.
+
+First, for carrying out a frequency analysis of signal fluctuations we used multi-
+frequency sounding: frequencies 60, 213 and 440 MHz.
+
+Second, for the purpose of clarifying the stability of spatial fading and the de-
+pendence of the statistical characteristics, especially the autocorrelation radius
+of amplitude fluctuations, on glacier thickness the sounding was carried out at
+several points where the ice thicknesses were different.
+
+Third, since the electromagnetic signal, in propagating in the glacier, changes its
+polarization and the nature of the relief is hypothetically different in the direc-
+tions of the flow lines of the glacier and perpendicular to it, two lines were run
+at each measurement point: north-south and east-west.
+
+l7
+FIIICHHHCIAL.UGI:(HVLY
+FOI‘OFFKJAI.USE(M§LY
+
+I0
+0
+a
+O
+O
+0 0
+O
+0
+
+Period. m
+”some. I
+
+ 
+
+0104
+02.5
+
+3 o 3 o 6-
+
+6'.
+
+33
+
+=§
+
+9-:
+
+ 
+
+Frequency: 60 MHz (1); 213 “Hz (2): 4&0 MHz (3). Thickness
+of glacier: 300 m (a); 600 m (S): 850 m (b).
+
+Fig. 1. Experimental dependences of periods of spatial fading of arrival pulses of
+bottom echo signal on glacier thickness (a) and wavelength (b).
+
+The measurements were made on the Sixteenth Soviet Antarctic Expedition in 1971
+[A]. The work region was Holodezhnaya Station-Kilometer 105 to the south of Halo-
+dezhnaya. Signals from the oscillogrsph screen were registered on photographic
+film with movement of the transport vehicle with the sounders along paths whose
+length in different experiments was from 20 to 100 m. The registry frequency was
+200-250 frames per 100 m of path; an amplitude signal mark was used; scanning was
+type A.
+
+In processing of the collected data attention was concentrated on the first pulse
+
+-- the echo arrival pulse, since it, passing through the glacier alon the short-
+est distance, carries the basic information and as a rule has the max mum
+
+18
+
+FOI‘DFFKJAI.U§B(NVLY
+POI! OFFIGAI. USE ONLY
+
+amplitude of all the resolved bottom pulses. For the first pulses we constructed
+"amplitude-distance" diagrams, histograms of amplitudes and autocorrelation func-
+tions. Among the autocorrelation characteristics we obtained the 1. values as the
+distances from the maximum of the autocorrelation function to the first minim-I.
+
+Table 1 gives the L values for frequencies 60, 213 and £40 MHz, as well as their
+mean arithmetical values Lmean for discrete ice thicknesses. Here we also give
+the lengths of the working waves of the sounder in the ice ).and the durations of
+the pulses 1 “1“ radiated by them. Figure 1 show the experimental 1. values as
+functions of and 2 . The figure shows that the experimental 1. values do not fit
+into a linear dependence on 2, although it follows from expression (1) that there
+is a proportionality of L to the values 2, h and 1/ ﬂ. In addition, it is un-
+clear from expression (1) what value {'should have for the first resolved bottom
+signal. Clearly it is necessary to seek a suitable approximation of the experi-
+mental data represented in Fig. l and discuss its physical sense. ‘
+
+In order to obtain the initial expressions we will assume that in the case of an
+uneven bed. "bright" points (for example 3 and C in Pig. 2) participate in shaping
+of the echo signal; these points are situated in the glacier bed. During sounding
+Ah - 1/2 vt , where 1: is reckoned from the moment of echo arrival.
+
+It follows from Fig. 2 that
+r---Ia+.-§II=-1I: lném,
+
+ 
+
+.. __.. —_—_‘i—
+(I—V2I1M-l-(Ah)’=- V%m(2ﬁ+-2—m , (2)
+l
+.“0 -11____¢.r9~_- - ”T“
+HE) dr WW" VT—T“'
+Tm(2k+-2—m)
+
+Taking into account the signal propagation from the point A to the bed and back,
+we will determine the phase shift d (in wavelengths) for the increment dr: dy- 2/3
+dr.
+
+This phase shift corresponds to the spatial Doppler frequency
+V7: u:(2n 1.;— m)
+
+I
+“I T0!
+
+.."2 .11! I” .2
+L." I. I’ll.“ llr . him"
+
+(3)
+
+For the "bright" points of the bed, situated at the angle 0(- in plan to the direc-
+tion of movement of the sounder (for example, the point D in Fig. 2),
+
+/=/ﬂll 603‘.
+hence
+al
+a—‘ III'CCOS "f1"— . 'ﬁL—Wfﬂlb '5'“ a),
+
+and finally, taking into account that
+
+19
+
+FOR OFFICIAL USE ONLY
+MWLIJSEONLY
+
+sluzuccos-7£:-' ' V' "(I I.“ l)
+
+ 
+
+ 
+
+11¢ =3— “1 '—-" — 'é— h + — 0‘ X
+r-Tt-w» VW
+___._"/_-__., 4)
+X V' 477:“): (
+
+ 
+
+Fig. 2. Diagram explaining derivation of expression for period of spatial fading
+of arrival pulse of bottom echo signal.
+
+The power reflected from an element of the ring sdadd. (this sector is shaded in
+Fig. 2), on the assumption of an invariability of the power flux density P0 with-
+in the limits of the element,uill be
+
+I’ ---I’.n da do,
+
+or, converting from do and daL to the intervals (13,1: + d't) and (f, df), taking
+into account that
+
+ 
+
+, K, (“+"Y x
+
+I . (5)
+
+ 
+
+20
+FOR OFFICIAL USE ONLY
+FOIOFFIOALWEONLY
+
+It can be seen from equation (5) that in the spectrum of fluctuations of signal
+amplitude from a ring with a width corresponding to d’f with 1:- const, the upper
+frequencies fmax and those close to it are emphasized. Accordingly, the period
+of spatial fading from the ring Lana will be close to 1/2fux: the factor 2
+takes into account the presence of fluctuations of the frequencies fmax and ‘fmax
+in the spectrum. Thus,
+
+3' I-
+I I. h+?m
+
+Lu ,3? “‘4" _. (6)
+as full _2_ V: (2’, 4 .5. (1:)
+
+ 
+
+We will make a qualitative analysis of the spectrmn of fluctuations for the first
+rtsolved bottom signal. He note first that the frequency f.“ increases proportion-
+ally to F, whereas the relative contribution of the distant rings to the spec-
+trum of echo signal fluctuations for a nunber of obvious reasons decreases.
+
+The period of fluctuations of the first signal [.1 will be determined by the upper
+
+spectral component 2f“; for maximm of in the limits of the first resolved signal
+
+I
+l l h'l 704‘“...
+
+L @m ---'-== ---—?—-——— —_..—.__._——-.
+' T— ‘ V%v=(v+%v=)l...—.... 0’
+
+If it is taken into account that for the first signal in most practical cases
+h ) 1/2 vf, then
+
+x "‘57: _
+
+T.-y_|7—-l71—'ﬁ__-. (8)
+
+"' has:
+
+1...:
+
+Expression (8) is written not only as corresponding to the conditions of the ex-
+periments, but also as a more graphic representation. In particular, from this
+expression it can be seen clearly that for the first signal it is necessary that
+T be determined in such a way that the L1 values, computed using formulas (7) and
+(8), coincide with the experimental estimate of 1..
+
+If the first signal is resolved, the upper frequency in the spectrum of fluctua-
+tions of the first signal should not exceed the frequency which corresponds to
+{max = ‘C ulse' Accordingly, the period of the spatial fading for the first signal
+can be determined as 1.1 - 1/2fmax with ‘me - 171,01“. However, such an approach to
+the theoretical estimate of I. is not confirmed by experimental data, according to
+which I. obviously is not dependent on "pulser in any case for the durations cited
+
+in Table 1.
+
+Also unproductive is the idea of the use of diagrams of backscattering,'not depend-
+ent on )and h. [So it appears, extremely frequently for different types of sur-
+faces, especially sea surfaces [3].] With such an assumption L is not dependent on
+
+it
+Such a determination agrees with that adopted in the processing of experimental
+
+data.
+'21
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+h, which also contradicts the experimental data.
+
+Such an approximation of {max when
+
+‘Iau
+
+Tlu‘“ —n. (9)
+
+is successful; here It has the sense of the number of periods of the radio pulse
+pulse duty factor introducing a substantial energy contribution to the first sig-
+nal.
+
+The n value is random, not explicitly dependent on h, 2 and 19,11“. It should be
+noted that since expression (8), with equation (9) taken intop account, reads as
+
+follows
+L ~ ~"sz WT
+’ {Va ' (10)
+
+ 
+
+an estimate of n on the basis of experimental data must be accomplished in accord-
+ance with the fact of a proportionality of the L.va1ue to the root of n.
+
+Two estimates of n for 1.0 and 37 results of measurements (of 62) are given in
+Table 2.
+
+In this table 01/71 is the standard deviation of the 5 values from the mean
+arithmetical value n. The hum value corresponds to the mean arithmetical value
+/n and um“ and “max give the interval in which n falls with a probability 0.68.
+The legitimacy of these estimates is based on the approximate symmetry of the dis-
+tribution of specific/E values, computed on the basis of expression (10) relative
+to the maximum; the maximum of the distribution is attained with £153.10; nzll.5.
+
+Expression (10) characterizes scattering on the bed in the case of vertical sound-
+ing of glaciers and makes it possible to predict the value of the period of spatial
+fading of the arrival signal.
+
+Table 2
+Number of results taken Mean arithmet- 01/3) nu “max
+into account (of 42) ical value/n an“ n
+40 3.50 1.11; 12.2 5.6 21.5
+37 3.62 0.72 11.7 7. 3 17.2
+However, it'must be remembered that the value for different types of surfaces
+
+underlying the glacier can differ somewhat ron that obtained in this study. In
+particular, it is possible to expect lesser than values when sounding glaciers
+having a smoothed lower boundary, such as shelf glaciers, and large values when
+the bed is strongly incised.
+
+22
+
+FOR OFFICIAL USE ONLY
+1.
+
+2.
+
+3.
+
+‘0
+
+6.
+
+FOI.0FFICIAI.USEGHVLY
+
+BIBLIOGRAPHY
+
+Bogorodskiy. V. V., FIZICHESKIYE HETODY ISSLEDOVANIYA LEDNIKOV (Physical Meth-
+ods for Investigating Glaciers), Leningrad, Gidroneteoizdat, 1968, 214 pages.
+
+Bogorodskiy, V. V., Trepov, G. V. and Fedorov, B. A., "Tensor Electromagnetic
+Properties of Glacier Ice," TRUDY AANII (Transactions of the Arctic and Antarc-
+tic Scientific Research Institute), Vol 295, pp 120—126, 1970.
+
+Zubkovich, S. 6., STATISTICHESKIYE KBARARTERISTIKI.RADIOSIGNALOV, OTRAZHBNNYRB
+or ZEHNOY POVERKHNOSII (Statistical Characteristics of Radio Signals Reflected
+From the Earth's Surface), Moscow, "Sovatskoye Radio," 1968, 2100 pages.
+
+Kluge, A. M., Trepov, G. V., Pedorov, B. A. and Rhokhlov, c. P., "Some Results
+of Radar Sounding of Glaciers in Antarctica in the Stunner of 1970/71," TRUDY
+SOV. ANTARKT. EKSPED. (Transactions of the Soviet Antarctic Expedition), Vol
+
+61, pp 151-163, 1973.
+
+Pedorov, B. A., "Use of Active Radio Echo Sounding for Studying Antarctic
+Glaciers," INFORM. BYUL. SOV. ANTARKT. EKSPED. (Information Bulletin of the
+Soviet Antarctic Expedition), No 62, pp 19-24, 1967.
+
+Halford, H. E. R., "Glacier Movement Measured With a Radio Echo Technique,"
+NATURE, Vol 239, No 5367, pp 93~95. 1972.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+
+(AANII), 1975
+
+23
+
+FOROFHCIALUSEONLY
+FOR OFT-10A]. USE ONLY
+
+INTERPRETATION OF EXPERIMENTAL DATA WHEN MEASURING INHOHOGENEOUS SBA ICE SAMPLES
+IN CENTIMETER RANGE
+
+Leningrad TRUDY. 0RDBNA LENINA ARKTICHBSKIY I ANTARKTICHESKIY NAUCINO-ISSLEDOVATEL'-
+SKIY INSTITUT. RADIOPIZICHESKIYE NETODY ISSLEDOVANIY VODNYKH MASS SNBGA I L'DA
+in Russian No 324, pp 28-32
+
+[Article by V. V. Bogorodskiy and G. P. Khokhlov]
+
+[Text] In an investigation of the electrical parameters of saline ice in free space
+by means of apparatus operating in the centimeter range it has been noted that
+
+the degree of homogeneity of the properties of ice in the thickness of samples
+exerts a great influence on the character of the primary experimental data.*
+
+In the measurement of homogeneous samples with sufficiently great absorption the
+dependences of the displacement x of the minimum of the standing wave in the meas-
+
+urement line and attenuation T on sample thickness d have the form of straight
+lines. Using these dependences it is easy to determine the relative dielectric
+constant 5' and the tangent of the angle of losses tg 5 :
+
+ 
+
+In - waveguide] ‘.:_ (I I ‘2le . ‘%‘)""('»§‘at 2' (1)
+(am, u-uxum ‘
+'5'“ "37.3mm. '- - (2)
+
+where )\ is wavelength in free space; Agave uide is the wavelength in the wave-
+guide; A d is change in sample thickness;A , A '1‘ are the changes in X and ‘1‘ cor-
+responding to the value A d; N - A't/Ad is specific absorption.
+
+For samples with a sharply expressed inhomogeneity of the properties of ice in
+the thickness, for example, with a layered change in density and salinity, the
+constructed dependences x - f(d) and '1' - ¢(d) differ from linear. In the sea ice
+cover such changes are especially clearly expressed in its upper part (snow with a
+density changing in the thickness of the layer. layer of ice breccia, water-snow
+
+* V. V. Bogorodskiy, P. G. Zayets, G. K. Pogodin and G. P. Khokhlov, "Apparatus
+for MeaSuring the Electrical Parameters of Saline Ice at a wavelength of 3 cm,"
+in this collection of articles.
+
+2:.
+ran omcw. use ONLY
+FOR OFFICIAL USE ONLY
+
+layer). In the lower part of the ice cover, as in its upper part, it is possible
+to observe a substantial change in ice salinity without sharply expressed changes
+in the structural and textural criteria. Figure 1 shows the possible changes in
+the x and T values as a function of sample thickness. The mean values 5' and
+
+tg£ of all three samples are arbitrarily assumed to be equal and can be determin-
+ed from expressions (1) and (2). Depending on from what layer the thickness of the
+sample decreases, for one and the same inhomogeneous sample there will be curves
+of different types (curves 2 or 3 in Pig. 1).
+
+Fig. 1. Dependence of displacement x
+
+of minimum of standing wave and atten-
+uation T on thickness of homogeneous
+
+(1) and inhomogeneous (2, 3) samples
+
+(2 - increase in refractive index and
+specific absorption of ice with de-
+crease in thickness of two-layer sample;
+3) decrease in these parameters with
+
+increase in ice thickness).
+
+ 
+
+In the case of a multilayer sample the computation of specific absorption of each
+layer involves no difficulties. Since T - T1 - 12 it is possible to find the mean
+specific absorption (N) and N for each layer for the sample
+. T T ..
+
+.\ WWW: N. a“: ; Nye-.55” (3)
+The interpretation of the dependence of X on the thickness of a multilayer sample
+is more complex since the 8 ' value for the entire sample does not conform to the
+additivity rule. In an investigation of such nonlinear dependences for computation
+of 2' it is necessary to approximate the curves 2 or 3 (see Fig. l) by a series
+of straight lines and represent the sample in the form of a group of capacitors
+connected in series with losses. If one layer of the sample is characterized by the
+parameters C1, R1, and the other by the parameters Cg, R , by equating the imped-
+ance of the circuit to the resistance of an equivalent circuit (with the parameters
+C and R) it is possible to obtain the following expressions:
+
+._..-.”_t____ .___. ”2r...__._._.,__ _ R . . (a)
+n . ..'-'/(,-'(:;' ' n ”Page; 1 Iﬁlﬂc'? '
+
+"5% __3§‘:_i..._r.«36. .
+I I "Wain; l . "W301; l I sin-(f.- - (5)
+
+25
+
+FOR OITWCIAI.USEGDNLY
+FOI‘OFFICIAL USIIIN'LY
+
+Substituting into expressions (4) and (5) the values
+
+(where i - l, 2, 3;-S is the area of the capacitor plates), and also introducing
+abbreviations on both sides of the equations, we obtain
+
+‘ llzlgsl 9- II“. ___ MP].—
+—l ----‘p “ _'. m5“) “7' |_ '21..) n (6)
+
+.,(I 1- u; u,
+
+ 
+
+_ «I; ——:= (I __ (I
+=;(H.u.?u,) '_‘s'u-n-nu"-s) .;(|+m‘-'a,)' (7)
+
+After dividing the left- and right-hand sides of expressions (6) and (7) by one
+another, we obtain a final expression for tgéz
+
+(It; lgh (I -I~ lgrl') 44". II". (I 4- ‘3’!) (8)
+mi (' 4 MI.) -".-' (I + nEt) '
+and from equation (7) we obtain a final expression for 8'2
+
+‘é-fé-- -L‘Lﬂﬂj' 4 'K",)d, (9)
+[MI I-tc’°.)—d.-'(H—m*7)l(_l+—W '
+
+'g 5.. =1
+
+ 
+
+When tg 5 1(1 formulas (8) and (9) are simplified
+
+uﬁmi—mﬂun
+
+'gv»_.:-_a—m:_—d"’_. . (10)
+i. u - “cpl...
+I“. —— 11.97 ' (11)
+
+In an example we will demonstrate the process of computation of the electric para-
+meters of the layers of an inhomogeneous sample extracted from the upper part of
+
+white ice. The measurements were made in a marginal part of the Bering Sea at an
+air temperature -8°C. The mean salinity of the sample was 2.68°/oo; it consisted
+
+of an unconsolidated layer of white ice with large bubbles with a thickness of 13
+cm, undergoing an abrupt transition into a transparent dense layer of ice with a
+thickness 6 cm. The working of the sample for the purpose of reducing its thickness
+was from the direction of the unconsolidated layer. The curves constructed on the
+basis of experimental points (Fig. 2) are approximated by the straight lines 2 and
+3. First using the straight lines 1 and 2 we find the mean value for the sample
+
+N1 - 0.71 db/cm and the value N2 - 1.35 db/cm for a layer of dense ice. Then we
+compute the refractive indices n1 . 1.576, n2 . 1.742, and taking into account the
+conditions of smallness of the attenuation factor k (N 3.23 db/cm) -- the rela-
+tive dielectric constants 8'1 - ni - 2.68; 8'2 - n; - 3.06. Using expression (9)
+
+26
+
+FOR(HHHK1A1.USE(NNLY
+itlllDFFICJAI.IISIICNULY
+
+we determine 5'3 - 2.3 and n3 -J£i3 - 1.52. Taking into account that k - Rik/231'
+8.68, and tgé - an/Ei', it is possible to find
+
+k.==3,89 - 10".
+a,==1,4 . w".
+1g 3.54.94 - 10-2.
+tg3y=35 ~10“!
+
+ 
+
+   
+
+2
+lo ' 0 '
+L . .
+. 1', db?" .....__..o__.__r———d,c-
+
+Fig. 2. Experimental nonlinear dependences for sample extracted from upper part of
+sea ice cover. 1) straight line for computing mean values of ice parameters; 2, 3)
+
+approximating straight lines for layers with greater and lesser N and n values re-
+spectively.
+
+  
+
+Using expression (8) we determine tg 6 3 - 3.72°10'2. The value N3 . 0.515 db/cm.
+computed from the parameters £‘3 and tg‘53, differs by not more than 32 from the
+value N3 - 0.5 db/cm, found graphically using expressions (3). In this study we
+have derived equations and outlined a method for computing the parameters of a
+two-layer sample as being the most typical in studies of the electrical properties
+of sea ice. It is easy to make similar studies for multilayer samples.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+(AANII). 1975
+27
+
+FOI10FFKJA1.0581NVLY
+FOR OFFICIAL USE ONLY
+
+APPARATUS FOR MEASURING m ELECTRICAL PARAMETERS 0P SALINB ICE AT A3 cm
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHBSKI‘I I MARKTICHBSKIY NAUClmo-ISSLEDOVATEL'-
+
+SKIY INSTITUT. RADIOFIZICHBSKIYE HETODY ISSLBDOVANIY VODNYKR MASS SNEGA I L'DA
+in Russian No 326, 1974 pp 50-56
+
+[Article by 'V. V. Bogorodskiy, P. G. Zayets, G. K. Pogodin and G. P. Khokhlov]
+
+[Text] In selecting a method for measuring the parameters of saline ice in the SH?
+range it is necessary that two principal factors be taken into account: the possib-
+ility of the existence of. large ice crystals and large inhomogeneities in the nat-
+ural ice cover and also the presence therein of a liquid phase and salts causing a
+considerable absorption of electromagnetic energy. The first factor requires the
+fabrication of such a measurement apparatus as will make it possible to obtain in-
+formation on the averaged electric parameters of a sufficiently great volume of
+inhomogeneous sea ice. Apparatus in which the measurement element used is segments
+of waveguides filled with ice [3, lo] only in the first approximation must be re-
+garded as suitable for investigations of natural ice. Information on the parameters
+of ice of a considerable volume can be obtained by using optical measurement meth-
+ods [1, 2]. The second factor determines the requirements on the technical possibil-
+ities of the apparatus, that is, on its response, accuracy and energy potential. In
+addition, due to the great absorption of electromagnetic energy there is no pos-
+sibility for carrying out in situ measurements of the mean electrical parameters
+
+of the entire thickness of the ice cover. Accordingly, samples of ice of suf-
+ficiently large size should be used in the measurement apparatus as the object to
+be measured, taking into account the enumerated requirements.
+
+In this article we give a description of an apparatus for measuring the refractive
+index and the specific absorption of ice at a wavelength of 3 cm based on the op-
+tical method for measuring the complex coefficient of transparency of samples in
+free space and constructed using a high-response balanced circuit.
+
+We will examine the incidence of an electromagnetic wave with the amplitude A1 - 1
+from the air (medium 1) on a sample (medium 2) of ice with the thickness d. Assume
+that the measured parameters will be the modulus and phase of a wave propagating
+into the air (medium 3) through the samle, that is
+
+AJ‘=|AJI¢I".
+The components E and H for each medium can be written in the form
+
+28
+
+FOROFFICIALUSEONLY
+FOR OFFICIAL USE ONLY
+
+El =eIU+BIe- lb"
+II.—y (e"" — B.e""‘) (1)
+
+EgaAgel~i"l‘Bge ”.3: I
+
+H,= y}: (”"5" — new” (2)
+Ear-Ase,” I
+’I:=YA:¢’M. (3)
+
+where k0 - 231/} is the wave number; A1. 31 are the amplitudes of the incident
+and reflected waves in the i—th medium; at is a coordinate in the direction of
+propagation; y is the conductivity of media 1 and 3; a is the complex refractive
+index of medium 2.
+
+Using equations (1—3) with x - 0 (the boundary of media 1 and 2) and with x - d
+it is possible to obtain a fundamental expression in which the modulus and the .
+phase of a wave propagating through medium 2 are related to the complex refrac-
+tive index of this medium. '
+
+‘ e ”4— (I; + nil—[n.l'u _(,; _ men. A;
+
+A. _"—' n‘ ' (1.)
+
+Substituting into expression (’0) the value , 'k
+W-ﬂ—I .
+
+(where n- is the refractive index; k is the absorption coefficient), and also repre-
+senting expression (lo) in the form
+
+J. c"‘-‘s=c,-—jC,-=|C|c';. (5)
+A; .
+we find . ..
+P' K” I m 7715')“:— ' 1) |-2(+-|-1)|cos+ '
+"K" " Inf-1% F) 'z‘"l"1)‘5"'4'1 (6)
+w i n-iz-ri-)(+-I o-n-ze—msmw-
+"'|(" "hr—:1)“ "")|"°‘”'- I . (7)
+where 1 0“ M; “g died/I.
+
+We will examine the case of strong attenuation of waves in the sample when 7>l
+
+and we will neglect the value 1/)(7Y. Then expressions (6) and (7) can be repre-
+sented in the form C“ 7COS?'I 35““1'2
+
+(.‘_. 'IS'IH'f I (”0303.
+where
+
+a —1|(n-| "2.7.2,...‘2'; pd. 1(k"'755'5:}2)‘
+
+29
+
+FOIOFFICIALISEONLY
+FOR OFFICIAL USE ONLY
+
+51 e . .4
+nc |(‘|z~(.‘8‘+(:2:,.azlnz.
+
+and the modulus of the left-hand side of expression (6) is
+
+‘. IMF . -| 4...: 4 {u 4
+IM' "4:" ”r“ “Mm.
+
+we will determine
+
+ 
+
+The latter expression indicates the absence of oscillations caused by rereflections
+from the walls of the sample in the case of adequately great attenuation of elec-
+tromagnetic energy.
+
+We will examine the change in phase fwith a change in the thickness of the sample
+and the related y value. Since T__
+C,[|C|-rslnv. a [CI-“V 0 +93
+
+C;__ “tannin-Bros,
+«pk-mum ICI - - mcslu ————-—y;§T$ .
+
+We introduce as a convenience the annotations
+
+23;.- W- cos a. —:ﬂ_..$- ---.s|n a.
+
+Then .
+pranrcsln (--coso.silw~| sin wcos ?)'-=?o-|'1'-
+
+Since ‘Po is evidence of the initial constant phase shift, determined by“ and :8 .
+and accordingly, n and k, the phase change is dependent only on the change my :A?-
+A‘f' or A? - koA dn. Hence we see that there is a linear dependence of. the phase
+change on the thickness of the sample. having a strong absorption.
+
+It is possible to determine under what conditions oscillations of the transparency
+coefficient will be absent. Oscillations will evidently be absent if the amplitude
+of the first rereflected wave, propagating into the medium 3, is considerably less
+than the amplitude of the direct wave in this mediun, that is
+
+If: .u
+
+" «I.
+
+This condition is observed when k02dk>2 and it therefore follows that
+
+1
+k 7:?! ' (g)
+
+The measurement apparatus consists of the waveguide elements and units shown in
+Fig. l.
+
+The amplitude-modulated signal received from the generator is divided into two parts.
+Part of the SH? energy is radiated into the space between the horns where the
+sample 6 can be placed. Another part of the energy, playing the role of a reference
+
+30
+
+POI OFFICIAL USE ONLY
+FOI1OFFH3AI.USE(NVLY
+
+signal, is directed through the uncalibrated attenuator 7, serving for compensa-
+tion of the total energy losses in the upper part of the system (see Fig. l) in
+the measurement elements 8 and 9. The reference signal and the signal arriving
+from the receiving antenna, interfering with one another, give a standing wave
+which is registered by the measurement line sonde. The signal arriving from the
+measurement line sonde is amplified by an amplifier and is observed on an oscillo-
+
+scope screen. After introducing the ice sample between the horns the wave phase
+shift is determined by the displacement of the standing wave minimum in the meas-
+urement line. Attenuation is-determined by the difference between the new and for-
+
+mer readings of the precise measurement attenuator.
+
+I‘D}!
+
+Fig. 1. Block diagram of measurement apparatus. 1) 62-26 signal generator; 2, 3)
+directional couplers; 4, S) transmitting and receiving horn antennas; 6) sample;
+7) uncalibrated compensating attenuator; 8) 05-33 measurement attenuator; 9) Rl-A
+waveguide measurement line: 10) 02-4 amplifier; 11) 81-5 oscilloscope. '
+
+Since all the apparatus elements are fixed in position, it is somewhat more conven-
+ient than an apparatus in which the phase change after introduction of the sample
+between the horns is determined by the displacement of the horn [1].
+
+Since in the apparatus employed the displacement of the standing wave minimum is
+registered in the measurement line waveguide, and the movement of the sonde in
+this case occurs simultaneously relative to the reference signal and the signal
+propagating through the sample, the expression for the refractive index under the
+condition of strong attenuation assumes the form
+
+[3 - waveguide] 2X
+"‘=""T'Tt—'
+
+where X is the displacement of the standing wave minimum in the measurement line;
+
+)‘wavcguide is the wavelength in the waveguide.
+
+31
+
+F0!‘0FFHJA1.USE(HVLY
+INUI‘0I1HCJAI.IEHE(H‘LV
+
+Thus, the refractive index is determined by the slope of. the straight line on the
+graph of the dependence of measurement line readings on ice thickness
+
+25X l
+[B . waveguide] ”El 1""47' ' '1‘." (9)
+
+where A x is the change in the x value with a change in thickness by A d.
+
+Specific absorption in the ice is determined by the slope on the graph of the de-
+pendence of signal attenuation on sample thickness
+
+_ AT
+”‘17- (10)
+where AT is the change in attenuation T with a change in thickness by A d.
+
+At the same time, specific absorption is related to the absorption coefficient by
+the expression
+
+. 2‘
+”-1858 "r - (11)
+
+In addition, it is known that
+r’—--u'—k’.
+
+(12)
+
+Thus, using the measured values it is possible to compute any electric parameters
+of the ice.
+
+A test of the correctness of computation of n is unambiguity in determining the
+minimum points in the measurement line with a change in sample thickness, re-
+flecting the truth of the slope of the straight line 1: - f(d). Such an unambiguity
+is realized only in a case when the change in thickness by the value Ad causes a
+displacement of the minimum in the range AX . Awayeguide/ 2 (in this case AX - 2
+cm). It follows from expression (9) that for fresh ice with n - 1.775Ad should be
+not greater than 3.87 cm, whereas for sea ice with a possible anticipated value
+
+n - 3 Ad should not exceed 1.35 cm. Thus, always selectingAd at about 1 cm, it
+is possible to guarantee unambiguity in determining the phase shift caused by a
+change in the thickness of the sample, and accordingly, unambiguity in determining
+n within the limits of the indicated changes in its values.
+
+Figure 2 shows the dependence of x and T on the thickness of three identical
+samples extracted in the marginal part of the Bering Sea from a plate of gray ice.
+The measurements were made at a temperature -9°C. Sample salinity was 6.620/00.
+
+The results of the measurements coincide with an accuracy to *1: for n and with
+
+an accuracy to :10: for N. The refractive index of ice and specific absorption,
+computed from the straight lines in Pig. 2, are equal to 1.87 and 1.69 db/cm re-
+spectively. For one of the samples, whose thickness varied each 5 mm, in the depen-
+dence T - f(d) it is possible to trace a periodicity with a wavelength of 4 cm and
+
+an amplitude of about 1 db. This periodicity is related to reflections in waveguide
+
+channels and horn antenna systems which are difficult to take into account. It is
+evident that the periodicity. if it is detected on the graph by means of measure-
+ment of sample thickness with a small discreteness, exerts no influence on the
+accuracy in measuring specific absorption, which is determined, as follows from
+
+32
+
+FOR OFFICIAL USE ONLY
+lNJR‘OFFIC!A1.lEﬂE(HVLY
+
+expression (10), by the accuracy in measuring [ST and 13d (about 101).
+
+X.“
+
+ 
+
+Fig. 2. Dependence of parameters X and T on thickness of samples d. Three types of
+points correspond to the results of neasurenents of three samples. .
+
+However, if the sample thickness is decreased by a 43d value greater than a quarter
+of the period of the oscillating curve, greater errors can arise in determining
+specific absorption. In this case the relative error can be computed from the ex-
+
+1
+press on 1
+
+J - i i:;;;3_ '1002, (13)
+where "true is the true specific absorption.
+
+It can be seen from formula (13) that the error decreases with an increase in
+sample thickness and "true. It is possible to estimate the possible errors which
+
+may appear in such measurements. With a value “trued - 30 db (an attenuation at
+which the signal minimum was registered quite reliably) 5 does not exceed :31. with
+small specific absorptions (“true about 0.5 db/cn) and a sample thickness of about
+
+33
+
+INDIIOIIWCIAl.lﬂ5ll(MVLY
+FOI10FEKJA1.USE(NVLY
+
+20 cm the error is greater but not greater than 1101. Taking into account that the
+accuracy in reading on the measurement line rule is 0.01 mm, and the parallelism
+of the sample surfaces when processed on a special coordinate instrument does not
+exceed 1 mm, the relative error in determining the refractive index attains £11.
+
+It is possible to estimate the specific absorption value for which the error in de-
+termining 8' from expression (12) will not exceed a given value, such as 12. With
+
+E' - 3.15, if k2 - 0.0315, R - 0.177, it follows from formula (11) that N-ﬁ 3.23
+dblcm.
+
+it is necessary to mention a favorable factor exerting an influence on the accuracy
+in computing 8'. In the case of large "true values, as can be seen from expression
+(13), the error in computing spectific absorption, and accordingly k, is small.
+Therefore 5‘ is computed with sufficient accuracy. With small “true values
+
+the k2 value is small and therefore its influence on the dielectric constant in
+some cases can be neglected.
+
+This measurement apparatus was used in determining the electric parameters of sea
+ice during the Soviet-American "Bering" experiment. Similar apparatus can be fab-
+ricated for investigations at other frequencies in the centimeter range and be
+used not only for measuring the parameters of ice, but also the characteristics
+of other materials with strong absorption.
+
+BIBLIOGRAPHY
+
+1. Brand, A. A., ISSLEDOVANIYE DIELEKTRIKOV NA SVBRKHVYSOKIKH CHASTOTAKH (Investi-
+gation of Dielectrics at Superhigh Frequencies), Moscow, Goa. Izd-vo Piz.-Hat.
+Lit-ry, 1963, 403 pages. I
+
+2. Starikov, V. D., MBTODY ISSLEDOVANIYA NA SVCh S PRIHENENIYEH IZHBRITBL'NYKH
+LINIY (Methods for SB? Investigations With Use of Measurement Lines), Moscow,
+"Sovetskoye Radio," 1972, 144 pages.
+
+3. Hoekstra, P., "The Dielectric Properties of Sea Ice at UHF and Microwave Fre-
+quencies," PROCEEDINGS OF THE INTERNATIONAL MEETING ON RADIOGLACIOLOGY, pp 32-
+53, 1970.
+
+4. Cumming, H. A., "The Dielectric Properties of Ice and Snow at 3.2 cm,” J. APPL.
+PHYS., V01 23, No 7, pp 768-773, 1952.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+(AANII). 1975
+
+34
+
+FOIKOIIICIAl.lEﬂ5(M‘LY
+FilltﬂﬂﬂtlAl.lEﬂilﬂﬁlY
+
+REGISTRY 0P ACOUSTIC WIVES TRANSMITTBD PROM WATER INTO ICE
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICHBSKIY NAUCHNO-ISSLBDOVAIBL'-
+SKI! INSTITUT. RADIOPIZICEESKIYE H3100? ISSLEDOVANIY VODNYKH MASS SNEGA I L'DA
+in Russian No 324, 1976 pp 104-108
+
+[Article by I. K. Popov]
+
+[Text] In the practice of use of acoustic methods and apparatus in investigations
+of ocean areas covered by ice in many cases it is necessary to employ hydroacoustic
+converters embedded in the ice for the reception of acoustic oscillations from the
+water medium. Such a necessity arises, for example, when measuring the depth of
+water bodies through the ice cover or in the registry of seismoacoustic noise from
+sources situated at a considerable distance from the reception point when the waves,
+propagating directly into the ice in the acoustic frequency range, attenuate.
+
+Such investigations have demonstrated that acoustic converters, which in a water
+medium within the limits of the acoustic frequency range are nondirectional, when
+embedded in the ice exhibit directional properties relative to the oscillations
+arriving from the water medium. An analysis of this phenomenon indicates that this
+can be attributed to the conditions for sound propagation under the ice and the
+acoustic characteristics of transition of sound from water into ice; the latter
+factor, having an angular dependence, plays the decisive role. In addition, depend-
+ing on the frequency of the registered oscillations, the ice cover plays the role
+of a sort of plate, a layer of finite thickness or a semi-infinite medium.
+
+In the central part of the Arctic basin, the thickness of the perennial ice on
+which most of the seismoacoustic investigations are made from the drifting sta-
+tions averages 3 m. Such ice can be considered a thin plate with elastic oscilla-
+tions having frequencies not greater than 20-30 Hz, that is, in the subsonic region.
+
+At these frequencies for a plate lying on an elastic half-specs flexure is the only
+possible type of deformation. With such a representation of the ice cover its in-
+fluence on the nature of reflection of elastic waves arriving from the water medi-
+um is manifested as a second-order effect [1]: the reflection coefficient for a
+plane wave in absolute value is close to unity and its phase differs little from
+theﬂl value which it would have in the case of a free surface of the fluid.
+
+In such situations it is possible to regard an acoustic detector embedded in the
+ice as a converter situated within an infinite screen. The influence of an ice
+layer situated between the converter and water at low frequencies, as a result of
+
+35
+
+FOIllWlDA1.USE(lNlY_
+FOR OFFICIAL USE ONLY
+
+small attenuation, can be neglected. The directivity characteristics of the con-
+verter operating in an infinite screen is determined by the following expression:
+
+2!. ( j!- xln a)
+R” - Id '
+
+—l- Sill 0
+
+211 is a Bessel function of the first kind, of the first order; d is the diameter
+of the converter.
+
+(1)
+
+The directivity of such a system begins to be reflected at frequencies correspond-
+ing to the expression d/7\ . 1/2.
+
+Taking into accOunt the real dimensions of the used converters (rv150 run their di-
+rcctivity begins to be manifested from a frequency of about 5 KHz. Thus, in the
+subsonic region the converters embedded in the ice are virtually nondirectional.
+with an increase in the frequency of the registered oscillations of the ice cover
+the latter no longer can be regarded as a thin plate. In addition, with an in-
+crease in frequency there is an increase in the attenuation of sound in the ice.
+As a result, at frequencies of about 1 KB: and above the ice for all practical
+purposes can be regarded as a semi-infinite medium. In order to obtain the energy
+ratios for the transition of acoustic waves from the fluid to the solid medium
+
+the author of [3] introduces the concept of input resistance of the solid medium
+with the incidence of a plane wave of a fluid on it at the arbitrary angle 690. It
+is expressed by the following relationship:
+
+[T " solid] 3' '--ZC08""29 I-tsln’Qll, (2)
+
+where 2 ' Pea/cos 9, 5 - [oer/c038 are the wave resistances of the solid medium
+for longitudinal and transverse waves respectively; cd, or are the velocities of
+longitudinal and transverse waves; 9 and '3 are the refraction angles for longitud-
+inal and transverse waves with an angle of incidence from the fluid 6 0-
+
+Expression (2) is reduced to the form
+
+- . ff-L.
+" 'cmﬂ k"
+
+(3)
+I!
+k, .1 - slu’2ﬂ(I-- kg).
+
+lt follows from formula (3) that the angular characteristic of the input resistance
+of the solid medium is dependent only on the "stiffness" of the solid medium and
+in the limits of the angles sin 6‘ 0.9, that is, the value of the angle of total in-
+ternal reflection for longitudinal waves retains almost constant since the increase
+in zsolid due to a decrease in case in the denominator is compensated by approxim-
+
+ately the same decrease in the ksolid coefficient. The sharp dropoff in the input
+resistance is attributable to the fact that the correction
+
+22 1-J—1‘3 ~
+sin 8( 139)
+
+is dictated by the effect of shear waves. has a mazdmum at sin 6:: 0.8, after which
+it decreases rapidly.
+
+36
+FOR OFFICIAL USE ONLY
+FINI¢JFFICJAl.lEiE(HVLY
+
+Thus, the input resistance of the ice cover for longitudinal and transverse waves
+remains virtually unchanged up to the angle of total internal reflection for longi-
+
+tudinal waves. after which it sharply increases. The angle of incidence £90 at
+which the total internal reflection of longitudinal waves for ice is observed ac-
+cording to computations is 30-32', depending on the properties of the ice associat-
+ed with its formation. Accordingly, a detector embedded in the ice seemingly has
+
+a directivity characteristic having an aperture angle of approximately 60-65° rela-
+tive to the signals arriving from the water. 0n the other hand, source [2] gives
+computed data on the angular dependence of the coefficient of reflection of sound
+from the water-ice discontinuity for ice with values of the velocity of elastic
+waves in the ice from 2-105 to 3.7-10s cm/sec. These show that the coefficient of
+reflection at the water—ice discontinuity becomes close to l with angles of incid-
+ence from 22-40 to 90°, dependent on the elastic properties of the ice and its
+density. It follows from these data that the directivity of the embedded detectors
+is 45-90.. ‘6 db
+
+        
+
+    
+
+  
+
+n so so 40 so so 10
+Fig. l. Dropoff of signal (db) in the ice at frequencies of 3, 8, 12 KHz with hor-
+
+izontal movement of sound source at a depth of 10 n._
+
+ 
+
+Fig. 2. Directivity (in degrees) of detector embedded in ice relative to oscilla-
+tions transmitted into ice from water.
+
+At frequencies of the order of tens and hundreds of Hz the ice cover plays the role
+of a layer of finite thickness with the transmission of acoustic waves into it
+
+from the water medium. The wave pattern in this case is considerably complicated.
+Taking into account the insignificant attenuation of sound in the ice at these
+frequencies, it can be postulated that during the reception of signals in the ice
+
+37
+
+IND! OWWNCJAI.IEHECH'LV
+FOR OFFICIAL USE ONLY
+
+standing waves will develop in its thickness with a distribution of amplitudes
+changing with frequency. In this case in the reception of oscillations from the
+water the depth to which the detector is embedded in the thickness of the ice
+cover can be extremely important. In this case it is entirely possible that it
+is desirable that the detector not be embedded in the ice but that it be placed,
+for example, in a vertical opening made in the ice and filled with a nonfreesing
+solution and by its movement in this opening a aaximum value of the amplitude
+
+of the received oscillations be achieved.
+
+The experimental checking of the conditions for the reception of oscillations from
+the water by detectors embedded in the ice was carried out at the "Severnyy Polyne-
+15" drifting station simultaneously with study of sound attenuation in ice. A detec-
+tor enbedded in the ice to a depth of about 1 m registered signals from a sound
+source placed first in the ice layer and then in the water. The sound source pres-
+ent in the water moved in the horizontal plane at a depth of 10 m at the lover sur-
+face of ice, whose thickness at the observation point was 2.8 m. The signals from
+the sound source were registered simultaneously by a detector embedded in the ice
+and a detector situated in the water directly under the lower surface of the ice
+and on the same vertical with the first. The sound source was moved horizontally
+for a distance up to 150 m from the site of the detectors. Curves of the dropoff
+of signals registered by both detectors made it possible to determine the angular
+dependence of the levels registered by the detector in the ice (Fig. 1).
+
+Figure 2 shows the computed (on the basis of experimental data) angular character-
+istic of response for a detector in the ice at a frequency of 3 [(112, taking into
+account the dropoff of the signal in the water due to divergence of the wave front
+in conformity to a spherical law. The directivity characteristic at a frequency
+
+of 8 K32. judging from the curves of signal dropoff, differs little from that cited
+in Fig. 2, but at a frequency of 12 no the angle characterizing the directivity
+will be somewhat more acute. '
+
+Thus, the experimental results indicate that the directivity of an acoustic detec-
+tor embedded in the ice has a broader maximum than follows from the computed data.
+The angle of aperture of this characteristic at a frequency of several 1le is 125-
+
+140°. This is evidently attributable to the fact that in the computations no allow-
+ance was made for the unevenness of the lower ice surface, due to which the sound
+
+penetrates into the ice with angles of incidence greater than the computed values.
+It is known that in the case of propagation under the ice the energy of the acoustic
+field is concentrated in the near-ice water layer and the angles of emergence of
+rays experiencing total internal reflection are up to 10°. Accordingly, it must
+
+be expected that with detectors embedded in the ice it is difficult to register
+sources situated at distances greater than one cycle of the boundary ray, that is.
+at distances of more than ten kilometers, because the acoustic energy propagating
+along rays close to boundary rays and having the least attenuation with distance
+
+virtually does not penetrate into the ice.
+
+BIBLIOGRAPKY
+
+l. Krasil'nikov, V. 1., RASPROSTRANBNIYB IZGIBNYKH VOLN (Propagation of Pleural
+Haves). Report of Leningrad State University, 1960, 118 pages.
+
+38 .
+
+MWWONLY
+FOI'OFFICIAI. USE ONLY
+
+2. Scashkevich, A. P., AKUSTIKA HORYA (Marine Acoustics), Leningrad, "Sudostroy-
+eniye," 1966, 356 pages.
+
+3. Tarcakovskiy, B. 0., "Transmission of Acoustic Waves Through the Discontinuiciea
+
+of Solid and Liquid Media," ZHURNAL TWICHESKOY FIZIKI (Journal of Technical
+Physics), Vol 21, No 10, pp 1199-1201, 1951.
+
+COPYRIGHT: Arkticheskiy 1 mtarkticheskiy muchno-issledovatel'skiy institut
+(MNII), 1975
+
+39
+
+POROFFICIALUSEONLY
+FOI¢NHHKJAL.USB(MVLY
+
+USE OF DOPPLER EFFECT IN LASERS FOR INVESTIGATING STRESSBD STATE OF ICE
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICHESKIY NAUCHNO-ISSLBDOVATEL'-
+SKIY INSTITUT. RADIOFIZICHESKIYE METODY ISSLEDOVANIY VODNYKH MASS SNEGA I L'DA
+in Russian No 324, 1976 pp 114-117
+
+[Article by V. V. Bogorodskiy, V. P. Gavrilo and I. P. Ivanov]
+
+[Text] One of the highly promising methods for obtaining complete information on
+the stressed state of ice is based on the use of the Doppler effect in lasers. The
+merit of this method, in particular, is that it makes it possible to carry out
+continuous registry of the rates of relative movement of different points (sectors)
+of the ice cover and thereby determine the deformation and its temporal change. In
+comparison with others this method has a considerably greater dynamic range, a
+better resolution, and makes it possible to register the rate of change of deform-
+ation from values of about 1er/sec or more.
+
+In this article we examine some results of testing of a method for experimental de-
+
+termination of dynamic stresses in the ice using a Doppler laser system. The ex-
+periment was carried out on the ice of Lake Ladogs in April 1972. The thickness
+of the ice was 70 cm; the air temperature was from -2 to -3°C. The idea of the ex-
+
+periment for determining deformation of the ice cover and its temporal changes in-
+
+volved measurement of the difference frequency of the beats arising as a result of
+interaction of the radiation reflected from the moving object and the direct laser
+
+radiation.
+
+The principal element of the measuring apparatus was a laser (type ORG-13) whose
+divergence angle was 1.2-10"3 rad. The radiation from one of the ends of the laser
+
+was directed on a mirror mounted at a distance of 0.5 m directly on the ice cover.
+
+An PRU-36 photomultiplier was connected to the second end of the laser; it was sen-
+sitive to the radiation range 3000 A-6000 A. There was an interference filter at
+
+X - 6328 A for eliminating background radiation having a transmission band 25 A.
+The light beats discriminated by the P20 were amplified by a wide-band amplifier
+and through a cathode repeater were registered by a loop oscillograph (type 8-105).
+The reflection coefficient for the reflection mirror with a silver coating was
+
+962.
+
+The entire apparatus operated as a laser deformograph in an ice sector 0.5 m. With-
+out being inferior in response to seismic apparatus, the laser deformograph is a
+wider-band instrument which makes it possible to register aperiodic displacements
+
+40
+
+INIICIHHCIAI.USE1H¥LY
+F‘IIIJFIICIAI.IISIICHWLY
+
+and oscillations of the ice cover in a very broad frequency range.
+
+ 
+
+Fig. 1. Diagram of experiment for determining dynamic stresses in ice. 1) floe;
+2) ice cover; 3) reflection mirror.
+
+For our purposes the laser must operate in a single-frequency regime. There must
+be a brief frequency stability during the time of propagation of radiation to the
+reflector and back, that is, during the time t . 300/3-10110 - 10-8 sec. During
+this time the frequency must not change by more than 12 from the postulated Dop-
+pler shift, that is, 10'3 Hz.
+
+The stresses in the measured sector 1 (Fig. l) of the ice cover were created in the
+following way. In an ice hole (measuring 2 x b m) there was a floating floe which
+was brought into movement at different rates in the direction indicated by the
+
+arrow. With impact of the flee on the ice cover a stress and a corresponding
+deformation arise in it. On the oscillogram of the impact process and the pheno-
+nena accompanying it there was time scanning of the Doppler frequency, which was
+proportional to the rate of movement of the mirror and the laser, that is, to the
+temporal rate of deformation. Thus, if it is assumed that the ice under experi-
+mental conditions behaves as an elastic body. the stress in the ice can be esti-
+mated in the following way.
+
+From the expression for the Doppler frequency Alf'we determine the velocity v of
+ice particles with transmission of a voltage pulse caused by impact of the floe,
+
+‘l‘ , 1.. I , —5
+1, divans/Vi 753.. 10” ..-2.9 [(1 A],
+where V is the laser radiation frequency; c is the speed of light.
+
+After processing the impact oscillogram we obtained a graph of the curve of change
+of [if with time (Fig. 2). An analysis of the oscillogram reveals that initially
+our measurement system registers natural oscillations of the ice. The system re-
+acts only to horizontal compressions and dilatations. Vertical displacements exert
+an influence only on the intensity of the light ray incident on the photodetector.
+Evidently, to some degree the registered signal could also be influenced by vibra-
+tion of the connecting hoses between individual units of the measurement complex
+arising despite the measures undertaken for eliminating the influence of the wind
+on the entire system, which was situated partially on the ice and partially in the
+
+61
+
+F‘ll(ﬂﬂﬂCIAl.USI(NVLY
+FOI10FFKJAI.USEioNl¥
+
+laboratory. (The laboratory was a pavilion on runners with a height of about 2 m,
+which was at a distance of 1.5 m from the measurement base sector).
+
+M,“ Hz V,-mm/r “ll/86c
+IN
+200
+I
+30
+.00 arm 1,.» msec
+
+Fig. 2.Terral change A f (or change in v) according to results of processing of
+"impact oscillogram."
+
+The rate at which the natural (background) displacements of ice particles occurs
+is approximately 2.5-20}L/sec. The corresponding frequencies of the natural oscil-
+lations of the ice cover are approximately 1-10 Hz. At the time to of impact the
+velocity increases sharply and then changes in conformity to the curve (see Fig.
+
+2).
+
+Such a dependence of the rate of displacement indicates the following mechanism
+of propagation of an elastic wave in the ice. Initially the reflection mirror be-
+gins to move toward the laser. Then another wave reaches the laser and it. like
+the reflector, moves in one direction, as a result of which there is a subsequent
+decrease in velocity. Again the registered increase in the velocity indicates that
+the reflector begins to move in the opposite direction from the laser. The same
+nature of change in the relative velocity of movement of the ice particles in the
+measured sector with the length l was also observed on the remaining oscillograms
+
+of floe impacts.
+
+We will determine the stress in the ice cover operative, for example. in the first
+
+Alt - 0.05 see after the impact
+v - 2.9-10‘5-30033100}Am/sec.
+
+The absolute change in a base with the length l is equal to
+A! - VAt - loo-0.05 - Srm.
+
+42
+
+FOI1DFFKJA1.USE(NVLY
+FIIICIﬂﬂ(JAI.lEﬂE(HﬁLY
+
+The corresponding deformation 8 of the measured base ( 9, - 50 cm) in relative
+
+units (or percent) is A,
+“—47:- IO.“((),OI 96).
+
+The Young modulus, evaluated from the velocity of propagation of longitudinal waves
+in the ice cover, is equal to
+
+E =- 96' t: 95 Tlcu’.
+
+Then the stress will be
+
+0:15;. N)’ 5 . 95(m='0'95 kg/cmz.
+
+In evaluating the stresses in the ice in an impact produced by a different method
+from the measured values of the mass of the impact body, its velocity at the time
+of impact, the area of contact and impact time, it was possible to o tain compar-
+able results differing from the computed value 0‘ by about 0.5 kg/cm .
+
+For a more correct approach to determination of stresses in the ice by the proposed
+method it is desirable to know the real rheological properties of the ice, which
+usually are not described by a linear dependence between stress and strain.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-iasledovatel'skiy inatitut
+(MNII), 1975
+
+43
+I70! OFFICIAL USE ONLY
+FOB‘OFFKJAL.USE(NVLY‘
+
+VIBRATIONS 0P MEASUREMENT SYSTEMS IN A PLOW IN STUDIES 0? OCEAN MICROSTRUCTURE
+
+Leningrad TRUDY. ORDENA LZNINA ARKTICHESKIY I ANTARKIICHESKIY NAUCNMO-ISSLEDOVATBL'-
+SKIY INSTITUT. RADIOPIZICHBSKIYB HBTODY ISSLEDOVANIY VODNYKH MASS SNEGA I L'DA
+in Russian No 324, 1974 pp 126-133
+
+[Article by A. V. Gusev and A. P. Polyakov]
+
+[Text] In a study of microstructure of the sea medium measurements are made of its
+mean temperature, mean velocity, temperature fluctuations and fluctuations of flow
+velocity. Recently there has been a tendency to the use of low-inertia thermoanemo-
+metric sensors in measurements. These make it possible to register the change in
+the studied parameters with frequencies up to 20 Hz and amplitudes up to 0.05 mm/
+sec [1, 3]. However, thermistor-type sensors react to oscillatory motion and some-
+times are used in registering the movements of measurement elements [2]. There-
+fore. the possible oscillations of the measurement system will be interference
+
+in the investigations. This article is devoted to the problems involved in the ex-
+citation of oscillations of some elements of measurement systems in flows and ex-
+perimental investigation of these oscillations.
+
+In studying the spatial characteristics of flow velocity and its pulsations it is
+customary to employ spatially separated systems of sensors. This spacing is accom-
+plished by a distribution of the sensors along submerged electric or supporting
+cables or also on three-dimensional supporting frames of different configuration.
+The setting-out of these measurement systems is accomplished using supporting or
+electrical cables and bottom anchors and sunken floats in open seas and with lower-
+ing of the systems from the ice in arctic seas. The placement of the instruments
+
+at shallow depths is accomplished from the ice using rigid tubular rods.
+
+In the presence of currents these submerged systems are all subjected to hydrody-
+namic pressures. With flow around any cylindrical body a dead space is formed in
+the flow behind it in which the water is at rest, that is, does not experience
+translational motion in the direction of the flow. In the boundary layer between
+the moving medium and the medium at rest shearing forces arise which are caused by
+viscosity of the medium. These forces give rise to a rotational movement in the
+
+medium at rest, leading to the formation of two symmetrically arranged nuclei of
+eddies which develop at the expense of one another due to a small initial asym-
+metry.
+
+04
+
+FIMIINHHCJAI.USE10NIY
+RORlOFF1C1AI.IISEZ(HVLY
+
+We will examine the eddy excitation of pulsations of different mechanical oscilla-
+tory systems. As a result of collapse of the eddies pressure impulses are created
+which act perpendicularly to the flow direction. In the eddy formation process
+
+there is formation of a periodic induced force capable of bringing the particular .
+oscillatory system to its normal mode. At the present time, taking into account the
+role of eddy formation in the excitation of oscillations, it is assumed [5] that
+there is also a feedback. involving an influence of the oscillatory notion of the
+system on the process of formation and collapse of eddies. Thus. this phenomenon
+must not be regarded as an induced oscillation, but as an autooscillation. Fro: this
+point of view excitation at the normal mode is completely understandable. A definite
+number of standing waves is induced in a flexible electrical or supporting cable.
+The frequency of the oscillations and the length of the oscillating segments of
+cable can be determined approximately using the Strouhal formula and the string
+
+equation respectively:
+‘ a- ] 'I D . "-a ‘ —
+$.'---&—. I... 7— " l‘ , (1)
+
+where V is flow velocity; d is cable diameter; f. is the eddy collapse frequency; T
+is cable tension;}}a is linear density of the cable; f0 is the frequency of charac-
+teristic oscillations; 1 is the length of a half-wave of oscillations.
+
+The dimensionless Strouhal number St is dependent on the Reynolds number and is ap-
+proximately 0.2 for Reynolds numbers 300<R<100 000. The frequency f3 is dependent
+on the flow velocity (linearly), the frequency of cable oscillations is dependent
+on the ratio of f0 to £3 since the oscillations develop most intensively when there
+is an equality of these frequencies or at higher harmonics of oscillations of the
+system. Accordingly. the frequency of oscillations of the cable changes discretely
+from one form of oscillations to another; nevertheless. the mean frequency of the
+vibrations is almost linearly dependent on water velocity. when under the influ-
+ence of static forces the cable slopes relative to the flow it is necessary to take
+its component in the direction perpendicular to the axis of the cable as the velo-
+city determining the frequency of eddy collapse.
+
+0n the basis of expression (1), with small submergences of the systems and with
+small flow velocities it is possible to select such parameters of these systems
+with which there will be no excitation of vibrations. However, in actual practice
+this will not always be justified and in addition there are excitations of oscilla—
+tions even in the case of laminar flow around bodies, that is, when the Reynolds
+number is less than 50. This suggests that in addition to the well-known mechanism
+of excitation of vibrations by the flow during eddy formation there is also another
+mechanism for the development of forces leading to the excitation of oscillations
+
+also in the case of small Reynolds numbers.
+
+We will examine the behavior of a circular elastic cylinder in the flow. With a uni-
+form movement of the cylinder in unbounded space of a nonviscous fluid the velocity
+
+at points on a cylinder is equal to [b]:
+
+v 2szInH, (2)
+
+45
+
+FOIIOIIICIAI.IEIB(NVLY
+l-‘Ol OFHCIAL USE ONLY
+
+and the pressure distribution along the cylinder in the plane perpendicular to the
+axis is determined by the pressure coefficient
+
+I_"‘~-l ‘(TE-rr-J- -4sln’9. (3)
+
+For the lower half of the cylinder the V and 3' values are identical at points sym-
+metric relative to x and y. Accordingly, the projection of the hydrodynamic reac~
+tlon onto the x-axis (direction of movement) Rx, called drag, and also the pro-
+jection onto the direction Ry perpendicular to movement, called lift, are identical-
+ly equal to zero, which under real conditions is not observed. The reason for the
+development of the forces acting on the cylinder from the direction of the flow
+must be sought in the rejection of _assumptions that the fluid is unbounded, that
+
+it is nonviscous and that there is a constancy of velocity.
+
+We will examine the circulatory flow around a circular cylinder. He will superpose
+on noncirculatory flow around a cylinder a circulatory flow with a singularity
+(center of eddy) at the center of the cylinder. The characteristic function of
+this complex flow is expressed by the formula
+
+W V__.(z I 'f) |- iii-m2. (6)
+
+where r- V d? is the velocity circulation; z - x + iy; r0 is the cylinder radius.
+
+Assuming that the velocity of the circulatory flow V in polar coordinates at any
+point of the fluid is equal to r [21“ [lo], we obtain the velocity at the cylin-
+der surface in the form of the sum of the velocity of flow around a cylinder with-
+out circulation and the velocity of the circulatory flow
+
+I‘
+V"-.. V". | V,,rr.-.-2V~SlllH-I -§;r.._ - (5)
+
+The critical points on the cylinder K1, K2 are found under the condition V9 - 0;
+then
+
+_ |'
+
+hlll H; 2 "017;.“ . (6)
+Depending on the magnitude of the circulation there can be different variants of
+positioning of the critical points:
+
+I‘ . “rev“ - the equation has no solution;
+
+I' “my” - the critical points merge into one;
+
+I' ‘4cruV .- the critical points are symaetric relative
+‘ °' to the x-axis.
+
+For the latter case, using formula (5), we find that the velocity at points on
+the upper part of the cylinder 0< 6<n is equal to
+
+. r (7)
+
+46
+
+F0! OFFICIAL USE ONLY
+IIIICMWNCJAI.USE(NWLY
+
+and at points on the lower part of the cylinder 31< 9€231
+V..n=+l2V_sIuH|-I- "
+
+2K,” .
+
+ 
+
+(8)
+
+Using the Euler integral [6]
+9": t"3
+
+[In all cases 3 - upper; R - lower] p.‘ ‘i"='p'1.-7F—' . (9)
+
+we find that p w r<:pup er' that is, pressure at symmetric points on the lower
+part of the cylinder is less than on the upper part. These pressures, summed over
+the surface of the cylinder, lead to the appearance of lift Ry which will be equal
+to
+
+RF- "-9" VJ. (10)
+where I is the generatrix of a cylinder of a unit height.
+
+Accordingly, on any rotating cylinder with its relative movement in the fluid there
+will he a lift force operative which is proportional to the density of the fluid,
+velocity of the oncoming flow and circulation. The intensity of this force is pro-
+portional to the diameter of the cylinder. Under its influence the relative velo-
+city of the body will experience changes in time with respect to both value and
+direction, that is, V - V(x,y,z,t). Problems related to unsteady movement of bod-
+ies in a fluid can be considered only in a case when the coordinate system moves
+together with the body. Solving these problems [6], we obtain an expression for
+drag in general form
+(IV
+
+[1rp - app(arent)] R:-‘* ""W T ' (11)
+
+where mapp is the apparent mass of fluid.
+The lift will displace the cylinder from a state of equilibrium and with the striv-
+ing of the cylinder to occupy the most stable position there can be development of
+
+periodic oscillations in the direction across the flow. As a simplification we will
+assume that the oscillations are sinusoidal, that is, the velocity is equal to
+
+Vy sincdt. Then the total velocity of the cylinder V will be
+V‘ Vi-I Visllluf.
+
+The expression for acceleration includes the term sin 2¢Jt, that is, the force act-
+ing on the body in the direction along the flow will be periodic and its frequency
+will exceed by a factor of 2 the frequency of the possible transverse oscilla-
+tions.
+
+With the submergence of the measurement systems from the surface weights are sus-
+pended to them; when they are installed on the bottom there are floats for ensuring
+tension of the cable and maintaining it in a vertical position, and also for de-
+creasing the tilts of the instrument in the presence of currents. Depending on the
+
+relationship of the tensile stresses and weight of the electrical or supporting
+cable the systems will have different vibrational properties. If the tensile stress
+due to the weight or buoyancy greatly exceeds the weight of the cable the system
+
+47
+
+FOI‘OFFNJAI.USE(NNLY
+FOR OFFICIAL [SE ONLY
+
+will be similar in its oscillation parameters to a string and the expression for
+the possible oscillations of the system with its displacement from a state of
+equilibrium has the form
+
+Ila
+y=AslnT x, (12)
+
+where A are arbitrary constants. determined from the boundary conditions; I is
+the length of the Suspension.
+
+As a simplification we will examine the oscillations in only one plane. The origin
+of coordinates is matched with the end of the suspension and the x—axis is directed
+along the line of the "fiber." with a predominance of the weight of the cable over
+the weight of the weight the system oscillations are similar to the oscillations of
+a fiber with a distributed weight and are determined by the expression
+
+y, , Act—1,42“ y?) (13)
+
+where 10 is a Bessel function of the first kind of a zero order; g is the accelera-
+tion of free falling.
+
+An analysis of expressions (12) and (13) shows that a system similar to a string in
+an ideal case at its end does not have movements along the y-axis. However, a fiber
+with a distributed weight always has at its end a maximum amplitude of the displace-
+ments along the y-axis which is transmitted to the measuring instruments attached
+
+to the electrical or supporting cable at this place.
+
+It follows from this analysis that in order to reduce the vibrations in the measure-
+ment systems in the flow it is necessary to decrease the diameters of the extended
+cylindrical elements of the systems, damp the rotational motion of these elements,
+strive to impart to the suspension system the vibrational properties of the string
+and ensure the independent collapse of the eddies along the extended elements of the
+system.
+
+The experimental investigations of the vibrations of submerged systems arising in
+
+a flow were made using three-component vibrosensors. A vibrosensor was placed at
+the end of the submerged system in such a way that the response to vibrations in
+the vertical direction was 0.4 Big, in two mutually perpendicular directions in the
+horizontal plane - 1.8 B/g. A stabilizer is placed on the housing of the vibrosen-
+ear in order to ensure its orientation relative to the direction of flow.
+
+The results of the experimental investigations confirmed that the vibration in the
+
+direction perpendicular to the direction of flow is most intense. It exceeds the
+longitudinal and vertical oscillations by an order of magnitude. Figure 1 shows
+
+the spectral characteristics of the oscillatory velocity in the transverse, long-
+itudinal and vertical directions of the end of a cable with a diameter of 14 mm
+
+and a length of 20 m with a spherical weight at the end of 15 kg with a velocity
+
+of flow 7 cm/sec. The dashed sloping lines represent levels of equal displacements
+A. The values of the displacements and oscillatory velocity in Pig. 1 are given in
+real values, but for obtaining their amplitude values it is necessary that they be
+
+multiplied by 1.61.
+
+68
+
+FOI10FFI3AI.USE(HULY
+INJI¢OFFIC1AI.IJSEI(HULY
+
+ 
+
+Fig. 1. Spectral characteristics A of oscillatory velocity V of and of cable in
+transverse (1), longitudinal (2) and vertical (3) directions.
+
+ 
+
+Fig. 2. Spectral densities A of oscillatory velocity V of different suspension sys-
+tems. 1, 2, 3 -- oscillations of ends of ZO-m suspensions (1 -- vibrosensor hung
+
+on 3-mm cable to which another 6-nn cable is attached; 2 - hydrological weight of
+15 kg suspended to sane cables; 3 - teardrop-shaped weight of about 300 kg sus-
+pended to cables, with three porolon vanes with a width of 15 cm and a length of
+
+2 I attached to suspension cable; a) oscillations of end of rigid rod formed by
+tubes with a diameter of 6 cn and a length of 15 a.
+
+69
+
+FOI1OFﬁﬂ3Al.lEIEONlY
+FOI:0i1l€lkl.l!ﬂ£(ﬂil¥
+
+The oscillatory velocity of transverse vibrations in this case considerably ex:
+ceeds the longitudinal and vertical oscillations. Since the longitudinal and
+vertical oscillations are a result of transverse oscillations, whose intensity
+considerably predominates, in the study of vibrations of submerged systems it is
+only necessary to register the latter. This made it possible, in a study of os-
+cillations, to use thereafter a sensor in the form of a ceramic transducer having
+a spherical configuration and an identical response to vibrations in all direc-
+tions, which does noc require its orientation in the flow.
+
+Although the most intense oscillations are excited with an equality of f0 and f3,
+with an increase in flow velocity there is a tendency to a linear increase in the
+frequency of the excited oscillations. Figure 2 shows the spectral densities of
+the oscillatory velocity of different suspension systems with a flow velocity of
+10 cm/sec. A comparison of the oscillatory velocities of different systems shows
+that at some frequencies they differ by more than a factor of 1000. It is confirm-
+ed that a system similar to a string is more noise immune to vibrations than a
+fiber with a distributed weight.
+
+Stabilizers with a weight and vanes.on a cable impede the development of torsional
+oscillations of the system and vibrations, and also damp the system oscillations
+appearing due to eddy collapse.
+
+The results of the experimental data also confirm that with an increase in the dia-
+meter of the cables there is an increase in the intensity of the oscillations
+
+(see Figures 1 and 2). Accordingly, even with relatively small current velocities
+the oscillatory velocity of individual parts of the suspension systems can attain
+large values (tens of millimeters per second). It is entirely natural that with
+
+the use of sensors reacting to oscillatory motion the hydrodynamic vibrations of
+the suspension systems will create high noise levels which limit the range of
+measurement of the registered values and in the absence of control can be erron-
+eously considered to be the studied process.
+
+Thus, on the basis of a theoretical analysis and experimental data the following
+was established:
+
+1. During the study of the microstructure of the sea medium by sensors submerged
+on cables and rigid rods when currents are present there can be hydro-echanical
+vibrations of the submerged system which are detectable by sensors responsive to
+
+movement 0
+
+2. If special measures are not taken for the damping of oscillations, the oscilla-
+tory velocities can attain tens of millimeters per second even with relatively low
+current velocities (up to 10 cm/sec).
+
+3.‘ﬂhen making such measurements it is necessary to monitor the oscillations of the
+suspension system by vibrodetectors at the places where sensors are attached.
+
+4. In order to ensure the maximum noise immunity of submerged systems to vibrations
+an effort must be made to exclude rotations of elements of the system about its
+axis, decrease the diameters of the cables, have independent cutoff of the eddies
+
+50
+
+F0!‘0IIKJAI.USE(NULY
+FOR‘OFFKJAI.U§E(MULY
+
+along the length of extended elements of the system (such as electrical and support-
+ing cables), and also create a means for damping of the developing oscillations.
+
+1.
+
+2.
+
+3.
+
+4.
+
+So
+
+BIBLIOGRAPHY
+
+Kiselev, V. P., "Apparatus and Method for Remote Measurements of the Statistical
+Characteristics of the Parameters of the Sea Medium and Hives." TRUDY AANII
+(Transactions of the Arctic and Antarctic Scientific Research Institute), Vol
+281., pp 120-131, 1968.
+
+Kiselev, V. P. and Naumenko, Yu. 1., "Apparatus and Methods for Remote Monitor-
+ing of the Position and Stability of Underwater Measurement Systems," OKEAN-
+OLOGIYA (Oceanology), Vol VII, No 4, pp 691-696, 1967.
+
+Kolesnikov, A. G. (et a1.), "Experimental Investigations of Entrainment Under a
+Drifting Ploe," FIZIKA ATHOSPERY I OKEANA (Physics of the Atmosphere and
+Ocean), Vol 1, No 12. pp 1310-1316 [year not given].
+
+Fedyayevskiy, K. K. (et 31.), GIDROHEKHANIKA (Hydromechanics), Leningrad, Sudo—
+stroyeniye, 1968, 421 pages.
+
+Kharkevich, A. A., AVTOKOLBRANIYA (Autooscillations), Moscow, ”Hanks." 1953,
+93 pages.
+
+COPYRIGHT: Arkticheskiy i antarkticheakiy nauchno-issledovatel'skiy institut
+
+(AANII). 1975
+
+51
+
+lili<ﬂﬂﬂKJAl.USl(lﬂlY
+FOR OFFICIAL USE ONLY
+
+EXPERIENCE IN USING IR SCANNING APPARATUS ON THE SIXTEEN!!! SOVIET ANTARCTIC
+EKI’BDITION (HARINE DETACIMENT)
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARRTICIIESKIY NAUCHNO-ISSLEDOVATEL'-
+
+sam msn'ru'r. mmnzmmsmr arrow ISSLEDOVANIY vommcn mass sures I L'DA
+in Russian No 324, 1974 pp 144-147
+
+[Article by A. I. Galkina, Ye. A. Hartynova, V. A. Spitsyn and A. M. Shalygin]
+
+[Text] Remote thermal mapping on the basis of its characteristic infrared (IR) ra-
+diation is possible by employing IR apparatus situated on any moving carrier: air-
+craft, surface transport, ship, etc. It goes without saying in each specific case
+there will be definite peculiarities in the IR survey of a feature. It was of in-
+terest to study the possibility of using this apparatus on a ship because there
+
+is no information on the operation of IR scanning systeas on ships. Earlier such
+IR apparatus successfully underwent aircraft tests in the Arctic, as a result of
+which a great mass of thermal data was obtained on the state of the sea surface
+covered with ice and concerning island glaciers [2].
+
+An IR survey of the ocean surface was included in the work program of the radiophys-
+ics detachment of the scientific research ship "Professor Vize," which constituted
+part of the Sixteenth Soviet Antarctic Expedition. The laboratory was situated on
+the bridge deck on the ship's port side. The optical unit was set on a support
+attached to the deck and supplied with a rotating element which made it possible
+
+to select the optimum angle for scanning the investigated surface. Alongside the
+
+optical unit there was an aerial camera for the synchronous surveying of the exam-
+ined surface. The scanning was carried out perpendicular to the direction of move-
+
+ment of the ship.
+
+An IR survey of the ocean surface was made in the Strait of Magellan during the
+ship's run to Bellinsgauzen Station, and also in regions of floating ice and ice-
+bergs. ‘
+
+Figure 1,a shows a typical picture of the brightness contrasts of a sector of the
+water-ice surface. During operation the apparatus was adjusted in such a way that
+the colder sectors of the examined surface corresponded to a lighter tone of the
+photograph. Thus, water shows up as a dark background against which the ice can be
+seen in a gray-white tone. The presence of tone gradations is indicative of a dif-
+ferent thickness of the ice. In general, the IR maps of ti e water-ice surface of
+the ocean obtained in work from the ship do not contain new information in compar—
+ison with the results obtained in the Kara Sea and are inferior to the: in quality.
+
+52
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The setting up of the IR outfit optical unit at an angle to the scanned surface,
+rolling of the ship and nonuniformity of the rate of its movement cause apprec-
+iable distortions of the image.
+
+ 
+
+Fig. 1. IR map of sector of water-ice (a) and wave-covered (b) ocean surfaces.
+
+A study was also made of the possibility of determining the state of the ocean sur-
+face using data from an IR survey. Figure 1,b shows an IR photograph of the wave-
+covered water surface. It is easy to .ee waves and the direction of movement of the
+waves, which confirms the assumption of the existence of brightness contrasts of the
+wave—covered ocean surface. The appearance of these contrasts when waves are present
+can be attributed, on the one hand, to temperature nonuniformity of the water sur-
+face as a result of intensive mixing. The lower limit of the temperature inhomogen—
+eity, characterizing the thermal contrasts registered by the IR apparatus, is de-
+termined by the minimum temperature contrasts (ﬁsTmin) detectable by the IR appar-
+atus. With a water temperature at the time of the survey 20°C l3Tmin - 0.06'. On
+
+the other hand, when waves are present there is a change in the emission character—
+istics of the water Surface, that is. the dependence of water emissivity on sight-
+ing angle is clearly expressed.
+
+A negative result obtained in an attempt to determine the pattern of temperature
+contrasts of the thermal field of an iceberg is interesting. It was found that
+the 1R scanning apparatus does not detect an iceberg against a sky background. The
+
+53
+
+FOR OFFICIAL USE ONLY
+FOR‘OI1IC1AI.US£10NLN
+
+lroherg was clearly visible on the photograph taken with an aerial camera. The
+
+in map shows only the sky-ocean surface contrast and the iceberg cannot be dis-
+tinguished. A reason for such a phenomenon can be postulated. As is well known, an
+object can be detected only in a case when its emission differs from the background
+emission. Since the IR radiation of an object is a function of its temperature and
+emissivity, it is obvious that the object and the background will be distinguished
+either under the condition of an inequality of their temperatures or with an iden-
+tical temperature, but different emission coefficients. However, there can be such
+a combination of emissivities and temperatures of the object and its surroundings
+
+with which the radiation of the object is equal to the radiation of the background
+and there will be no brightness gradations on the photograph.
+
+8
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+
+o n 2
+O
+J at
+3 /~
+g 920 .1 '”
+143' ’“x I
+”9 V
+a one
+”E
+n
+H
+35
+q.-
+3
+Time, hours
+auras
+-r—r—r-v—t—ﬁﬁ'—rW—ﬂ—I—r—I—r
+22 —T as co m
+
+Fig. 2. Water temperature measured with a radiometer (l) and resistance thermometer
+(2) in convergence zone.
+
+Due to malfunctioning of the apparatus it was not possible to obtain the pattern of
+thermal contrasts of the ocean surface in the convergence region. However, here the
+temperature of the water surface was measured with a radiation thermometer, which
+was also provided for by the work program of the radiophysical detachment. Earlier
+the radiation thermometer was used successfully in the Arctic [1.3]. Figure 2 shows
+the change in water temperature measured with a radiation thermometer and a resis-
+tance thermometer on a profile along the 20th meridian (in the convergence zone).
+
+In both cases the temperature jump moment is clearly expressed. The discrepancy in
+the readings of the thermometers is entirely understandable since the radiation
+
+thermometer measures the temperature of the water surface (the thickness of the
+
+layer forming the IR radiation in the range 8-12tbm is several tens of micrometers)
+whereas the sensor of the resistance thermometer is at a depth of 5 m.
+
+54
+
+FORINHHCIA1.USE(HNLY
+FOR'OFIICJAI.USE40NIN
+
+In conclusion it should be noted that the collected experimental data confirm the
+possibility of remote thermal mapping of the water-ice surface from aboard a ship.
+Despite some shortcomings. complicating the collection of qualitative thermal in-
+formation under shipboard conditions, the IR apparatus on ships can be used in
+solving a number of problems in oceanology. We feel that it is possible to use
+these systems for studying the thermal structure of the water surface in zones
+
+of convergence (divergence), clusters of icebergs. currents and the coastal run-
+off of rivers both for the detection of these nonuniformities and for ascertaining
+the limits and extent of temperature anomalies. Evidently, such studies will re-
+quire more detailed study of the possibilities of TV apparatus for investigation
+of thermal fields with a small temperature gradient, for example, in evaluating
+the degree of influence of disturbances of the characteristic radiation caused by
+waves on the detection of the thermal structure of the investigated objects.
+
+BIBLIOGRAPHY
+
+l. Galkina, A. I. and Spitsyn, V. A., "Measurement of Temperature of the Surface
+of Water, Snow and Ice Hith a Radiation Thermometer," TRUDY AANII (Transactions
+
+of the Arctic and Antarctic Scientific Research Institute). Vol 295, pp 61-68,
+1970.
+
+2. Martynova. Ye. A. and Spitsyn, V. A., "Some Results of Tests of a Scanning IR
+Apparatus for Obtaining Thermal Maps in Polar Regions," TRUDY AANII, Vol 295,
+
+pp 69-73. 1970.
+
+3. Nalimov, Yu. V.. "Use of a Radiation Thermometer in the Mouth Reaches of Siber-
+ian Rivers," PROBLEHY ARKTIKI I ANTARKTIKI (Problems of the Arctic and Antarc-
+
+tica), No 38, pp 129-132, 1971.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+(AANII), 1975
+
+55
+FDI‘NWHCIAI.US£1DNLY
+FINII)FF1C1AI.[EE§(NNLY
+
+THERMAL CONTRASTS OF A NATURAL HATER-ICB-SNON SURFACE AND POSSIBILITY FOR
+QUANTITATIVE ESTIMATES OF SUCH CONTRASTS USING MEASUREMENTS BY IR METNODS
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHBSKIY I ANTARKTICHESKIY NAUCHNO-ISSLBDOVATEL'-
+SKIY INSTITUT. RADIOFIZICHBSKIYE METODY ISSLEDOVANIY VODNYKM MASS SNEGA I L'DA
+in Russian No 324, 1974 pp 148-150
+
+[Article by Ye. A. Martynova and V. A. Spitsyn]
+
+[Text] An analysis of the results of an infrared (IR) survey of the water-ice sea
+surface [2] indicates that its thermal map includes information on the relation-
+ship of ice cover thicknesses. It is known that the distinguishability of objects
+on the thermal map is determined both by their temperature differential and by the
+different emissivity. If as a first approximation the emissivity of the investig-
+ated ice surface is considered homogeneous, the brightness contrasts on an IR photo-
+graph will be attributable to the temperature inhomogeneities of the ice surface.
+The difference in temperature of the ice surface, all other conditions being
+equal, will be dependent on the ice thickness and the relationship of air temper-
+ature and the heat influx from the water. Under natural conditions the ice is al-
+most always covered with a layer of snow. The snow layer, a poor conductor of
+heat, on the ice surface will exert a screening influence on the detection of its
+temperature contrasts (and accordingly, also its changes in the ice thickness)
+
+and with certain definite thicknesses can completely distort the thermal pattern.
+
+In the winter of 1973 work was carried out on Lake Ladoga for the purpose of de-
+tecting the possibility of remote estimation of the thickness of the snow cover
+
+on the ice (sail). Such an experiment is of interest for clarifying the screening
+influence of the snow on the ice surface on determination of the age stages of
+ice. In addition, the possibility of remote determination of the thickness of the
+snow cover is important for estimating the moisture reserve. The measurements were
+made in an area corresponding to the scanning strip of the IR scanning apparatus
+
+whose optical unit was situated at a height of 3 m from the investigated surface.
+The IR apparatus successively examined the surface of rocks, water, ice and snow
+cover (on the ice) of different thickness. The signal was registered by an ampli-
+tude indicator (SI-20 oscillograph). At the same time measurements were made of the
+temperature of the underlying surface by a contact method (MT-54 resistance ther-
+mometers cut into a bridge circuit). The signal was registered at different times of
+day under different meteorological conditions.
+
+Figure 1 shows that change of the signal is easily traced in a successive examin-
+ation of the snow cover on the ice, sectors of ice of different thickness and the
+surface of rock having a nonidentical temperature (and emissivity). The amplitudes
+
+56
+
+INJI‘OFIICJAI.lISEZCNNLY
+FOI40FFNJAI.USE(MULY
+
+of signals from snow levels of different thickness lying on a homogeneous ice
+sector are clearly distinguishable. A signal from a snow layer of greater thickness,
+having a lower temperature, is stronger. A thin snow cover on ice with a thick-
+ness of 7 cm is perceived as warmer.
+
+ 
+
+Fig. 1. One of variants of investigated surface (a) and corresponding signals on
+oscillograph screen (b).
+
+In the course of the work we noted the following:
+
+1. with a decrease in air temperature the registered thermal contrasts of the snow
+
+levels increase; this increase is especially conspicuous in the case of small
+Snow thicknesses. These results agree with the computational dependence obtained
+
+by Yu. P. Doronin for the relationship between temperature of the snow surface
+and air temperature and different thicknesses of snow and ice [1].
+
+2. An increase in air temperature leads to a smoothing of the thermal contrasts
+of the snow cover. With air temperatures close to zero the snow levels were not
+distinguishable with the IR apparatus. On the other hand, with a decrease in pos-
+itive air temperature (without passing through zero) the contrasts in thicknesses
+of the snow cover could be registered. An inversion was observed: in the IR sur-
+vey the thicker snow layers were perceived as warmer.
+
+S7
+
+FOI‘OFFIJAI.USB(HULY
+ﬁbl¢lﬂﬂ£JAl.US£(NVLY
+
+3. The influence of solar radiation, which directly heats the snow cover surface
+and makes an IR contribution to the radiation detected by the IR apparatus, was
+
+Substantial. The resulting pattern of thermal contrasts in this case is consider-
+ably distorted.
+
+In addition to plotting of the thermal map by the scanning IR apparatus there was
+registry of the temperature of the investigated surface by use of a PRT-S radiation
+thermometer (produced by the Barnes Engineering Company, United States). In a
+rock-snow level sector the radiation temperature for the rock was the principal
+source of information on the relationship of the thermal contrasts of the snow
+cover. This sector was at the boundary of the scanning strip of the IR apparatus
+and therefore the registered signal was distorted. As indicated by measurements
+with the PRT-S, the thermal contrasts of the snow levels on the rock and ice with
+similar thicknesses of the snow cover were not identical. The snow on the rock is
+perceived as being colder.
+
+The collected experimental data make it possible to conclude that there is a pos-
+sihility for remote determination of the thickness of the snow cover by the IR
+method, but in this process it is necessary to evaluate the limits of applicability
+of the method. Evidently, the distinguishability of snow sectors of different thick-
+ness will be determined by the thickness of the snow cover; by the relationship of
+air temperature and temperature of the surface underlying the snow cover at the
+
+time of measurements; by the preceding variation of temperatures; by the thermophys-
+ical characteristics of the snow. Computations with'possible variants of the rela-
+tionship of these factors are necessary.
+
+BIBLIOGRAPHY
+
+1. Doronin, Yu. P., TEPLOVOYZ VZAIMODEYSTVIYB ATHDSPERY I GIDROSPERY (Thermal In-
+
+teraction Between the Atmosphere and Hydrosphere). Leningrad, Gidrometeoizdat.
+1969, 299 pages.
+
+2. Martynova, Ye. A. and Spitsyn, V. A., "Some Results of Testing of IR Scanning
+Apparatus for Obtaining Thermal Maps in the Polar Regions," TRUDY AANII (Trans-
+actions of the Arctic and Antarctic Scientific Research Institute), vol 295,
+pp 69—73, 1970.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+(AANII), 1975
+
+58
+
+FillCHHWCIAI.l!ﬂE(N§LY
+INJIICFIICIA1.USIIOhﬂJV
+
+QUANTITATIVE ESTIMATE 0P THERMAL RADIATION OF THE UNDERLYING SURFACE USING IR
+SCANNING APPARATUS
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICHESKIY NAUCHNO-ISSLEDOVAIEL'-
+SKIY INSTITUT. RADIOFIZICHESKIYE HETODY ISSLEDOVANIY VODNYKH MASS SNEGA I L'DA
+in Russian No 326, 1974 pp 197-203.
+
+[Article by Ye. A. Hartynova and V. A. Spitsyn]
+
+[Text] The principal characteristics of the IR scanning apparatus developed at the
+Arctic and Antarctic Scientific Research Institute and the possibilities of its
+
+use for thermal mapping of snow-ice surfaces have already been examined in [2].
+Being a system for transforming the received IR radiation into a visible image,
+such an apparatus in principle makes it possible to measure the temperature of
+
+the investigated features. It is possible to realize the possibility of simultan-
+eous registry of temperature of the underlying surface and its thermal mapping
+
+by introducing a special standard source whose radiation is compared with the radi-
+ation of the investigated object. From this point of view the optical system of the
+IR apparatus used earlier in experiments in the field of thermal mapping is opti-
+mum because it makes it possible to locate the source of reference (standard) radi-
+ation in such a way that the IR radiation of the investigated objects and the
+standard source travel one and the same optical path.
+
+As the sources of a standard level of radiation necessary for a changeover to meas-
+urements of the temperatures of the investigated surfaces it is possible to use
+models of an ideally black body (188) built into the optical unit or other methods
+for obtaining a reference signal (for example, a method using the characteristic
+thermal radiation of the cooled detectors of IR radiation). The possibility of us-
+ing a cooled radiation detector as the reference source is determined by the fact
+that the sensing element is at a constant temperature (in this case this is the
+boiling point of liquid nitrogen). ‘
+
+Now we will examine in greater detail the features of the IR apparatus reception
+unit and methods for its calibration.
+
+The oscillogram (Pig. l,a) makes it possible to determine the output voltages, pro-
+portional to the following difference fluxes, which act on the IR radiation detec-
+tor:
+
+59
+
+FOI10FFHJA1.UBE¢NVLY
+NOR 05‘WCJAI.lEﬂi(ﬂNLY
+
+A01 ' @1331 - duet; (1)
+A ¢2 ' ¢[BB], ' ¢surf3 (2)
+Ad>3 ' $1331 '63 13323 (3)
+4431. ' (1)1332 ' (psurf; (5)
+Ad’5 ' ¢Insz ' @det‘ (5)
+A¢6 " osurf ' ¢det’ (6)
+
+where (131“ is the flux from the corresponding 133 model; 4)“ . odet are the
+fluxes from the investigated surface and the detector of IR radiation.
+
+It therefore follows that with a known emissivity the temperature of the investigat-
+ed surface can be determined by interpolation or extrapolation methods in a case
+then in the field of view of the optical system there are two standard radiation
+
+sources (for example, 1 and 2 in Fig. l,b), whose temperature is different and can
+be measured.
+
+However, the nonlinearity of the dependence between temperature and the radiation
+flux, especially in the range of low temperatures, leads to substantial errors in
+determining temperature.
+
+Better results can be obtained if one of the following calibration curves is first
+obtained:
+
+Tsurf " f(A¢2) with 1.1331 - const; (7)
+Tsurf ' f(4¢1,) with T1332 . const; (8)
+Tﬂurf - E(A¢6) with rdet I const. (9)
+
+In the first two cases the radiation of the 183 models is the reference radiation;
+in the third the reference level is provided by the characteristic radiation of
+the IR radiation detector (autocollimation case).
+
+It is of interest to determine the most acceptable variant of calibration for the
+IR apparatus. ‘
+
+If expressions (2), (1c), (6) are written in greater detail, in each case taking
+into account the position of the scanning mirror (see Fig. 1), after correspond-
+
+ing transformations it is possible to obtain the following expressions character-
+izing the difference fluxes operative on the detector of IR radiation ( $2; $4;
+
+(p6):
+A(”2 " ¢1881 + (1 ‘ E 133“ ¢opt + ¢det)-u "' adet) 1381 " (psurf'a ' Eaurf)
+(d’opt + ¢det)"'(1 ' edet) ¢surfi (1°)
+
+60
+
+FOIOFFICIALUSEONLY
+llll(HﬂHClAl.USIIO%ﬂJ!
+
+ 
+
+ 
+
+Fig. 1. Shape of output signal on screen of amplitude indicator (a) and diagram
+of optical unit for moments in time corresponding to different positions of
+
+scanning mirror I, II, III, IV (b). 1, 2) I33 models; 3) scanning mirror; 4) ob-
+jective; 5) detector of IR radiation. 1) radiation of 1331 is received; II) de-
+tcctor "looks" at itself (autocollination); III) the investigated surface is ex-
+
+amined; IV) the radiation of I332 is incident directly on detector.
+
+Table
+Temperature of optical A (D2 A an A ¢ 6
+parts, °C
+14-10“?
+-9 1.2684 0.9190 0.7161
+-1 1.2670 0.8976 0.6982
+61
+
+FOIIOFFHJAI.U§E(NNLY
+FORIOI1NC1AI.lEﬂE(NVLY
+
+A49. - 4’1332 "’ (1 ’ £IBB)(¢det +4’ob) 4’ 00b " <1 ' 5 dec)(¢ob 4' ‘1’1332’ ‘
+
+¢8urf “1 ‘ f’surf)(<"det + 4’opt) ‘ ‘popt + (1 '5det)(¢surf + ¢opt); (ll)
+4% - omf + (1 -esu,rf)(<i>det My”) - (1 - em) 49m: - (1 - em)
+
+me: + 4n»); (12>
+where (1’ ¢ ob are the radiation fluxes of the optical parts and objective re-
+
+spcctiveﬂj’t 5138’s opt’ 862:, esurf are radiation coefficients.
+
+Using the expressions for the difference fluxes (10)-(12) and the tables published
+by M. A. Bramson [1], the authors made computations for the purpose of determining
+the influence of changes in temperature of the optical elements of the IR apparatus
+on the difference flux as a function of the calibration method. The initial data
+for the computations are given below:
+
+Radiating object 1331 1832 IR radiation Optical Investigated
+detector parts surface
+
+Temperature of
+object, °C 9 5 -33 -9, -1 -13
+
+The reSults of the computations are given in Table l. The cited data show that the
+difference fluxes, and accordingly the registered signal, are dependent on the tem-
+perature of the optical parts of the IR apparatus receiving unit. It can be noted
+that the minimum influence is exerted by a change in the temperature of the optical
+system on the signal caused by the resultant flux
+
+4‘92 ' q>113131 ‘ .01.:-
+
+The difference fluxes A¢Q and4¢g corresponding to the use of 1882 and a detector
+of their radiation (autocollimation method) as a measurement standard are approx-
+imately identically subject to the influence of temperature instability of the
+optical parts.
+
+Accordingly, from the point of view of the nondependence of the registered signal
+on the temperature of the optical parts of the IR apparatus it is preferable to
+use in calibration the radiation of a model of an ideally black body 1331..
+
+Now we will discuss the calibration method and method for subsequent temperature
+measurements of the investigated surface; Taking the above recommendations into
+account, our IR apparatus. which for the most part was intended for making observ-
+ations from an aircraft, was supplied with a built-in IBB model situated in front
+of the input element of the optical unit -— a scanning plane-parallel mirror. The
+positioning of the standard source corresponds to the position of I331 in Pig. 1.
+Due to the considerable size of the objective used in the optical unit, construct-
+ed in a Cassegrainian scheme (diameter of entrance aperture 150 an», it is neces-
+sary to use a model of an 133 with a large area of the entrance window. This con-
+
+dition follows from the basic requirement on the design of the optical channel,
+in which it is necessary to ensure a nondependence of the radiant flux at the in-
+put of the IR radiation detector on the distance to the investigated surface [3].
+
+62
+
+FINI¢HH§C1A1.USE(”NLY
+FOI1OFFHJAI.USE(MVLY
+
+In other words, the 138 model must be an extended source whose surface always
+overlaps the optical channel field of view.
+
+The large size of the IDS model in turn complicates the temperature stabilization
+process. The accuracy in maintaining this temperature at a stipulated level de-
+termines the accuracy in measuring the temperature of the investigated objects.
+The difficulties are also aggravated by the fact that in the design of the used
+optical unit the "IR apparatus" is not protected from the atmospheric effects
+
+of the entrance window. The absence of the protected entrance window, however,
+
+in combination with a strongly ventilating rotating plane-parallel mirror5does not
+make it possible to ensure an acceptable accuracy in maintaining the temperature
+of the standard source during flights under changing climatic conditions. Accord-
+ingly, it is desirable to desist completely from temperature stabilization of
+
+the used 138 model. In this case the temperature of the investigated surfaces can
+be determined in the following way: making use of temperature sensors, in the
+course of measurements there is constant registry of the temperature of the 133
+model, whereas the temperature of the investigated surface is ascertained from
+
+an earlier plotted calibration curve corresponding to the range of temperature
+
+changes of the 133 model (under measurement conditions) and the output signal
+value.
+
+Using this method plans call for obtaining a family of calibration curves whose
+parameter is T133,
+
+13“,. - fwd» - axon). (13)
+
+where Tsurf is surface temperature3134Dis the registered difference of fluxes; U
+is the output voltage; K is a proportionality factor.
+
+Despite the fact that this calibration method seems simple, it is inconvenient
+due to considerable expenditures of working time, also related to the need for
+obtaining individual calibration curves for surfaces with different emissivity.
+
+Therefore. when it is impossible to use the method for stabilization of a standard
+
+source. for the calibration of a scanning IR apparatus it is proposed that use be
+made of a simpler method in which two "extended" standard sources (138 models),
+
+identical in their characteristics. must be used. One of these is built in to the
+
+optical unit like the 1881 (see Fig. 1), whereas the other (1333) simulates the
+radiation of the investigated surface.
+
+In this case it is possible, quite simply, to obtain a single standardized calibra-
+tion curve
+
+TIBB - f(Ad>) - f(KU). (16)
+
+In order to determine this dependence the output voltage value is read from the
+amplitude recorder screen. This voltage corresponds to the difference in the radi-
+ation fluxes of the used 133 models with a different IBB temperature simulating
+the underlying surface. The 183 temperature of the IR apparatus installed in the
+optical unit is maintained during calibration of the constant.
+
+Figure 2 shows a variant of the calibration curve of the dependence of the output
+voltage ”out of the IR apparatus on 188 temperature.
+
+63
+
+FOR OWL USE ONLY
+F1Il(lﬂﬂK1Al.USE(HWLY
+
+ 
+
+Pig. 2. Variant of calibration curve.
+
+Under natural conditions, when a thermal survey is made from an aircraft, the radi-
+ation temperature of the investigated object can be determined from the known tem-
+perature of the 133 built into the optical unit and the amplitude of the signal
+registered on the oscillogram corresponding to the difference in the Inn - invest-
+igated object fluxes: using the calibration curve we find the 00 value correspond-
+ing to a particular IBB temperature (see Fig. 2). Then, knowing that the tempera-
+ture of the investigated surface is higher or lower than the 188 temperature (this
+can be seen on the amplitude indicator screen), we ascertain from the Do value the
+amplitude of the signal U1 and using the calibration curve we determine the sought-
+for temperature of the object T1.
+
+It should be emphasized that the condition of constancy of I331 temperature is not
+necessary; it is only sufficient to know its value at the time of measurement of
+temperature of the investigated object.
+
+It is entirely understandable that by using the constructed calibration curve under
+the real conditions of an IR survey it is possible to ascertain the radiation tem-
+perature of the investigated object. However, conversion to thermodynamic tempera-
+ture is possible if the emissivity coefficient is known for a given temperature
+
+and the spectral range employed.
+
+64
+
+FOI‘OFFKJAI.USE€0NIN
+FOIIOIIWCJAI.USE|MNLY
+
+BIBLIOGRAPHY
+
+1. Brannon, H. A., SPRANOCENYYB IABLITSY P0 INFRAKRASNOHU IZLUCBENIYU NAGRETYKE
+TEL (Reference Tables for 18 Radiation of Heated Bodies), Moscow, "Nauka."
+
+1965, 320 pages.
+
+2. Hartynova, Ye. A. and Spitayn. V. A., "Sane Results of Tests of a Scanning IR
+Apparatus for Obtaining Thermal Maps in the Polar Regions," TRUDY AANII (Trans-
+actions of the Arctic and Antarctic Scientific Research Institute), Vol 235,
+
+pp 69-73, 1970.
+
+3. Nikolayev, S. M., OPTIKO-ELEKTRONNYYE RADIOHETRY KOSHICEESKIKH APPARAIOV (0p-
+tical-Electronic Radioneters of Space Vehicles), Moscow, ”Hashinostroyeniye,"
+1971, 178 pages.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+(AANII). 1975
+
+5303 .. m ..
+cso: 8146/0318
+
+65
+
+FOI10F11C1A1.USEGIVLY
