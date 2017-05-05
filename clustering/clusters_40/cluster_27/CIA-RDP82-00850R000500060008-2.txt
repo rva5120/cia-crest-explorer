@@ -1,0 +1,376 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10495
+
+6 May 1982
+
+USSR Repon
+
+CONSTRUCTION AND EQUIPMENT
+
+(FOUO 3/82)
+
+FBI$ FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+ms publications contain information prinrily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials froa foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGH' LAWS AND REGULATIONS GWERNING OWNERSIIIP OF
+MATERIALS KEPROD'JCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLTCATION BB RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+CONTRUCTION AND EQUIPMENT
+
+(2000 3/82)
+
+CONTENTS
+
+NETALHORKING EQUIPMENT
+
+Report on Exposition "Podoh ipn Hui-81" [nwmmcs—all
+(v. I. Antipov, v. A. Pocopov; s'rmx I INSTRUMENT,
+Oct 81) 000...... ..... O ..... COCO... ......... 000.00....
+
+- a - [III - USSR
+
+FOR OFHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+HETALUORKING BQU 1mm
+
+UDC [061.6:621.822]"l98l"
+REPORT ON EXPOSITION "PODSHIPNIKI-Sl" [BALLBEARINGS-81]
+
+Moscow STANKI l INSTRIMENT in Russian No 10. Oct 81 (signed to press 12 Oct 81) pp
+33-37
+
+[Article by V. I. Antipov and V. A. Potapov: "'Ballbearings-Sl' Bxhibit"]
+
+[Test] The international "Ballbearings-81" exposition. in which sets than 100 com-
+panies from 15 countries took part. was held from 25 March through 8 April 1981 at
+the Sokol'niki Exhibition Conplex in Hoscow. The exhibit occupied over 7.000 mg.
+
+Here. we offer descriptions of the designs and specifications of several exhibits by
+foreign companies.
+
+Spindle assembly ballbearings were shown by Gamet. Nadella and Timken France (France)
+and PAC (ERG). A majority were precision bearings. which high manufacturing preci-
+sion and high-quality connecting surfaces, resulting in a high upper limit and ex-
+tended range of spindle rotation speeds for spindles mounted on these bearings.
+
+Camet offered single- and double-roller bearings with full rollers for lubricants.
+The following types are produced: single-row (type C) with or without bearing col-
+lar (25-506 an fit openings. rotation speeds of 10.200 to 760 rpm); single-row (type
+P) with a wide outer race and lubricant holes. as well as holes along the outer race
+face for installing springs (25- 177.8 m fit openings. rotation speeds of 10.200 to
+1,800 rpm); single-row (type Hydro P) with a wide outer race with lubricant holes and
+holes around the face for installing springs using an additional pretightened race
+whose tension is regulated by outside pressure; fit opening dianeter and rotation
+speeds are as in the type P bearings; double-row (type G) with a flush outer race
+and lubricant openings (25- 506 mm fit openings. rotation speeds of 10.200 to 760
+rpm); double-row_with a wide outer race with collar, fit openings and rotation speeds
+as for type C bearings; double-row (type ms) for use in high-speed spindle assembl-
+ies (35-210 mm fit openings and rotation speeds of 9.500 to 2,100 rpm).
+
+Comet also demonstrated a lathe spindle with chuck. The spindle design uses special
+ballbearings through which the chuck drive pressure fluid moves. This permits elimi-
+nating the hydraulic cylinder usually located on the spindle's rear race, inasmuch as
+it is designed as part of the chuck. It is the company's opinion that this permits
+decreasing the spindle's moment of inertia and freeing the rear race for the addition
+of other mechanisms or devices (if necessary).
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+One merit of this spindle design is the use of a double-row roller bearing. with the
+races located a considerable distance from each other. significantly increasing the
+unit's rigidity. The pressure fluid is fed through a baffle race clamped between
+the inner bearing races and precisely centered on the spindle at a point where the
+spindle strain under external load is minimal. A small gap is anticipated between
+the outer bearing race and the baffle race.
+
+The precision parameters of the Gamet ballbearings used in the spindle units are de-
+scribed by the following data: clearance along inner fit diameter (d) and outer dia-
+meter -- +0.005 mm (for dgl80 u) and +0.010 III (for d>180 m); radial play for inner
+and outer race rotation -- 0.0015 and 0.003 In. respectively (dglﬂo all) and 0.001-
+-0.006 and 0.003-0.006 um. respectively (d>180 an); end play of both the inner and
+outer races -- 0.003 mm (for dgl80 In) and 0.008 III: (for d>180 mm).
+
+Nadella demonstrated a wide range of needle bearings for various machine tools. in-
+cludinwes for drilling and boring machine gear boxes controlling wobble in vari-
+
+ous types of machine tools and spindles in lathes. boring and grinding machines. and
+other machine tools. '
+
+Figure 1 shows a boring machine spindle mounted on precision needle bearings (with
+retainer and control clearance) of the NaZOloDelta (forward race) and Na203SDe1ta
+(rear race) types . The outer bearing race strain is compensated for by plate-type
+springs adjusted to a certain tension. The unit also uses two needle thrust bearings
+of the A307 4062 type. between which a baffle race is installed. This spindle design
+ensures a rotation of up to 8,000 rpm. [Caption to Figure 1. not reproduced for this
+report: Boring machine spindle mounted on Nadella (France) needle bearings.)
+
+Figure 2 shows the forward bearing assembly of a milling head using a Na2025 Delta
+precision needle bearing with no outer race. but with retainer and control clearance;
+an ERG 60 tempered spindle journal serves as the race. The bearing is preloaded by
+a screw to a special—shaped spring resting on the expansion race lugs. Maximum spin-
+dle rotation speed is 1.400 rpm. [Caption to Figure 2. not reproduced for this re-
+port: Forward bearing assembly of a milling head with Nadella (France) bearings.]
+
+The Timken France exhibit offered materials showing examples of the use of company
+hearings in machine tool spindle assemblies. A majority of the spindle assemblies
+(using this company's bearings) are of the double-seat type. For example. in the
+spindles of the “IDS NFC [numerical preset control] lathe (Gildemeister, FRG). the
+lleynumat 2 (Heyligenstaedt. FRO). the Producent Sl (Bohle. FRG) and 3230 (Steinel,
+FRC) multiple-operation machines. the UFZI multipurpose milling machine (SW. FRO)
+and the 200-8 eight-spindle chuck automatic machine (Hickman. Britain).
+
+The company recommends that Hydra-Rib bearings with a sliding race permitting adjust-
+ment of bearing clearance during operation be used in spindle assemblies with high
+rotation speeds. Spindle units with such races have optimum dynamic specifications.
+Figure 3 shows a'Producent Sl spindle mounted on Hydra-Rib bearings (100 m fit open-
+ing. rotation speed of 11.200 to 4,500 rpm. transferable power of 11 k“). [Caption
+to Figure 3. not reproduced for this report: Bohle (FRO) Producent 51 multiple-
+operation machine tool spindle on Timken France (France) Hydra-Rib bearings.]
+
+The FAG exhibit was one of the most representative. It demonstrated bearings. grin-
+der spindle units. apparatus for monitoring parts quality (including bearing races)
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+and so on. This company's bearings are used in various types of machine tools. as
+for example. spindle assemblies and swivel tables of heavy-duty NPC boring and turn-
+ing lathes (the Innocenti Company. Itals) with 67000 on faceplates. Moreover. FAG
+bearings are used in machine tools made by Pittler, Traub. Roller-Hills and Kisser-
+1ing_ (PRC) and Ssimp Utita and Canavese (Italy).
+
+Figure lo shows a Heysomat 20 (the Ileyligenstaedt Company) duplicating lathe spindle
+using a series PAC NNU 1092!. SK MS? roller bearing on the front race and two series
+PAC 751126 KA.SP thrust bearings (angle contace) and a series PAC NR 3019'K.S.P. rol-
+ler bearing on the rear race. Maximum spindle rotation is 2,800 rpm and transferable
+power is 45 W. [Caption to Figure lo, not reproduced for this report: Heysonat 20
+duplicating lathe spindle (Heyligenstsedt Company. PRC) with FAG bearings (1736).]
+
+Nine foreign companies demonstrated equipment (21 units) for abrasion-machining
+rocker bearing parts. Inasmuch as the machines are intended basically for mass pro-
+duction. they are not equipped with NFC installations.
+
+The largest number of grinders was presented at the GDR display. Among them. we
+should note the SWAGLSO automatic cylinder-and—cone grinder (Figure 5), which is
+intended for grinding inner bearing races to 613-63 II. This machine, which is
+built into an KLRHR63 automatic line, does the final machining of a raceway set on
+stationary supports. Maximum circumferential speed of the grinding wheel installed
+on the PAC radial thrust bearings is 100 m/sec. The cutting feed is done by a moving
+grinding headstock equipped with flat and V-shaped rsce guides. A static frequency
+transformer is used to regulate the grinding wheel rotation speed. Precision is:
+tolerance -- 0.008 mm; out—of—round, faceting and rippling -- 0.0015 In; roughness
+of machined surface -- Ra'IOJo um. [Caption to Figure 5, not reproduced for this re-
+port: SWEAGLSO automatic cylinder-and-cone grinder (6010.1
+
+The centerless automatic cylinder-snd—cone grinder based on the SASL 125 (GDR) in the
+traditional configuration (with a movable drive wheel headstock) is intended for mach-
+ing barrle-type shaping rollers and is equipped with a loading-unloading installation.
+No rollers in-feed grind profile circles simultaneously. The circles are guided by
+a contour follower using single-point diamend tools. The roller monitoring measure-
+ments are made outside the machine tool working zone. The control installation makes
+adjustments based on measurement results.
+
+Enterprises of the GDR and Czechoslovak SSR and Japan's Seiko-Seiki Company demon-
+strated internal grinders for machining bearing races. Gamfior (Italy) demonstrated
+several high-speed race-mounted spindles and one spindle on hydrostatic mounts.
+
+Specialists took an interest in an experimental Czech BDL 50A NPC equipped and inten-
+ded for grinding holes 10-50 Ill wide and up to 40 m long in bearing races. The
+transverse feed drive and table pitch are changed by hydraulic cylinders controlled
+by servo valves. Inductive pick-ups provide feedback on table pitch and grinding
+hcatstock position.
+
+Switches on a broad connected to the control cabinet set cutting speed. feed and
+machining allowance, oscillation frequency and amplitude, amount of compensation,
+number of cycles between wheel adjustments or adjustment orders within a cycle, as
+well as operation by cycle, with an active monitoring device or with on-track moni-
+toring. Diameter precision is 6 ml, taper precision -- 1.5 um, out-of-roundﬂb’t
+
+3
+FOR OFFICIAL USE ONLY
+roe Oman use ONLY
+
+more than 2 um and roughness - R.-0.32 um. Electric grinding spindles are set in
+motion by static frequency transformers which ensure a spindle rotation speed (step-
+less regulation) of 20.000 to 87,000 rpm.
+
+In the Sig-O—HB automatic internal grinder (Figure 6) offered by Seiko-Seiki (Japan).
+the item is set in a rigid chock and roller; the unit is for making bearing race fit
+openings (external diameter -- 1.S-16 mm. internal diameter -- 1-9 mm). It is turned
+by a drive roller, and a hydraulic cylinder clamps the piece to the end race. This
+eliminates knurling on the parts. The transverse and axial adjustment tables and
+sealed hydrostatic guides are independent units installed on a welded base. The mach-
+ing can be ordered with an adaptive control system (stabilizing piece precision by
+maintaining a constant removal speed when taking off the final allowance). as well
+
+as a machined-piece monitoring system. The high-frequency grinding spindle drive
+(also manufactured by the company) is 0.35 k", wheel rotation speed is 100,000 to
+150.000 rpm and warranteed service life is 1,000 hours. [Caption to Figure 6, not
+reproduced for this report: Seiko-Seiki (Japan) SIC-O-HB automatic internal grinder.]
+
+The unitized machine tools offered by C2" (Strakonice. Czechoslovak 888) for (in-feed)
+grinding internal ballbearing races comes either automatic (model BEL214) or semi-
+automatic and automatic (model BEL 217). The grinding headstock and piece headstock
+are installed on the machine's stand. The piece headstock has magnetic clamping and
+feed devices and two sliding supports for the piece being fed in. All working move-
+ments in the cycle are done by the grinding headstock. The wheel is adjusted auto-
+matically at a prescribed adjustment interval determined by the number of raceways
+being machined: 1-63 (model BBL 21%) or 1-31 (model BEL 217).
+
+The cycle is controlled pneumatically and the control impulses are electrical. The
+machine can be ordered with an active monitoring device. The diameter of the race
+being ground (at speeds of up to 55 m/sec) is 5—30 on (model BEL 216) or 55-225 mm
+(model BEL 217). Piece dimensional precision is 20.01 mm. surface roughness is R.-
+-0.024 um and rippling is less than 0.8 um.
+
+Superfinishing and finishing machines were offered by Crieshaber, Supfina, Thielen-
+hens and Peter Walters (PRC) and ZVL (Povalska Bystrica. Czechoslovak SSR). The
+SH450 automatic centerless superfinishing machine equipped with bunder feed (Figure
+7) offered by Supfina (with several superfinishing heads) is intended for machining
+0.8- to 10-mm needle hearings in one pass. Each head has rail clamping force adjust-
+ment independent of the piece being machined. Needle speed across the rollers is
+
+2 m/min. Machined surface roughness is R.-0.02+0.03 um. out—of-round is less than
+0.1 um and noncylindricity is less than 1 pm. [Caption to Figure 7, not reproduced
+for this report: SH650 superfinishing machine. Supfina Company (PR6).)
+
+The SF" 7702 automatic superfinisher made by Grieshaber is intended for superfinisn-
+ing the bearing races. shafts and bushings (o10—40 mm, length 20-170 mm) of water
+pumps. It has four working positions. in which two races can be worked simultane-
+ously on one shaft. Shaft productivity for 615 mm is five pieces per minute. sur-
+face roughness is Ra-0.06 um and race out-of-round is less than 0.5 um.
+
+The automatic superfinishing machines produced by the Czechoslovak 888 are intended
+for machining outer and inner radial single-row bearing races with outside diameters
+of 6-16 mm (model DSLT 1/16) and 16-35 mm (model DSLT 2/35). The DSLT 1/16 is a
+single-spindle machine and the DSLT 2/35 is a double-spindle. Races on sliding
+
+l.
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+supports are secured using electromagnets and adjustments are made hydraulically.
+On these machines. surface quality is improved 80-90 percent and rippling and out-
+of-round decrease 65-75 and up to 50 percent. respectively.
+
+Peter Holters Company demonstrated double-disk vertical finishing machines. 0n the
+
+ALIH. with active monitoring and set up to work the faces of bearing races up to 200
+mm in diameter and 80 mm high. the operating cycle can be set from a control panel.
+
+The finishing disks. the upper one of which is hydraulically clamped. are 690 mm in
+
+diameter.
+
+The ALOO-IZ (Peter Halters Company). which is equipped with abs-mm wide finishing
+disks. is intended for machining needle and cylindrical rollers up to 35 - wide and
+100 mm long. The blank is first precision-ground. The AL-OO (same company) is in-
+tended for plane-parallel machining (between 310~mm finishing disks) the faces of
+bearing races 1-80 mm in diameter. The faces are set in retainers and make a plane-
+tary motion produced by a lantern reduction gear. The disk rotation speed is con-
+tinuously variable. The machine is equipped with active monitoring.
+
+The automatic HLRHR 63 line (GDR) is intended for abrading the inner races of ball-
+bearings with races 25-63 mm in diameter and 12-30 mm long. The line. consisting of
+an automatic SH!AGL50 cylinder-and-cone grinder (for external grinding of the race).
+a SIH3B automatic internal grinder (for grinding the inner race opening) and a szwa
+automatic superfinisher (for superfinishing the raceway). uses magazines with remov-
+able bins, which increases its productivity.
+
+Up to 6.000 races can be put into the removable bin. which is in the shape of a cube
+with sides 1,000 mm long. Each bin consists of 26 flat casettes into which the races
+are placed. The transport installation includes hoists and a pan system in the form
+of flexible belts. Transfer storage units with a capacity of 250-300 races each are
+located between machines. The presence of parts in the transport system is monitored
+by pneumatic sensors. The line's use coefficient is determined basically by the op-
+eration of the internal grinder, whose efficiency is in turn dependent on the dura-
+bility of the grinding wheel (approximately 100 races). The electrical equipment
+element base of the line is very reliable. The electrical control circuits are con-
+tactless sensors with a signal voltage of 12 V.
+
+Cutting and auxiliary tools were exhibited by Sandvik (Switzerland), which showed an
+extensive line of cutting tools (various types of blades, cutting points. drills with
+multifaceted rotating blades, milling cutters). as well as the Varilock auxiliary tool
+set (Figure 8. not reproduced for this report. Caption: Varilock auxiliary tool set
+(Sandvik Company. Switzerland): a) system 80; b) system 63; c) system 50).
+
+The Varilock set was conceived as a multipurpose system for fastening tools in the
+spindles of multiple-operation machine tools and was structured on a base of mandrels
+with 18040 (system 50). 15045 (system 63) and 18050 (system 80) couplings. reducers.
+chucks. extensions and tool assemblies. The tools comprising the set are intended
+for a broad range of operations. from rough milling to precision boring.
+
+The system 80 and 63 reducers are interchangeable. The elements comprising the sys-
+tem are connected by a central bolt (with a cutting-fluid opening), permitting use of
+internal cutting—fluid supply tools (the T-HAX. for example) and tools for machining
+shallow openings. "hen special tools are used. the set includes movable hone holders
+
+5
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+and semifinished blanks for manufacturing various tools (multiple-blade honing tools.
+for example).
+
+Measuring devices were demonstrated by Harposs (Italy). Rank Taylor Robson (Britain),
+FAG (PRC) and Steyr (Austria). as well as by CEHA member-nations. The Harposs Com-
+pany demonstrated a Hinialsar active monitoring unit used in circular grinding of
+smooth and noncontinuous shafts. The range of adjustment of the too-contact clamp
+
+is 3-90 mm. The company also offered devices for step-monitoring shafts and openings.
+The device consists of a Tester-type metering unit and manual internal gages. clamps
+and races with inductive transformers. The company demonstrated a multipurpose mo-
+dular measuring device for monitoring six parameters of variable-speed shafts.
+
+One feature of the Rank Taylor Robson Company's exhibits was the use of computer
+equipment for processing measurement results. permitting automation of that process
+and significantly increasing measurement precision. The computer equipment is used
+in corbination with a Talyrond 73-3R "krugloner" ["roundness neter"] (enlargement
+factor up to 200,000) and with a Talyserf ST-120.3A for measuring surface roughness
+and rippling. In addition to greater measurement precision, this provides an oppor-
+tunity for increasing the number of parameters being measured. The company also de-
+monstrated a Talycontor macroprofilograph for monitoring the shape of circular parts.
+and bearing races in particular. The dtvice has automatic vertical bit movement
+drive with a stop (when necessary) in the middle of the measurement range.
+
+The FPA "roundness meter" made by Steyr is intended for monitoring bearing races
+(outside diameter 26-l60 mm, inside siameter lO-105 mm). The device can be built
+into automatic complexes intended for machining bearing races.
+
+COPYRIGHT: Izdatel'stvo "Hashinostroyeniye", "Stanki i instrument", 1981
+
+11052
+CSO: 1821/028 END

@@ -1,0 +1,923 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10276
+25 January 1982
+
+West Europe Report
+
+SCIENCE AND TECHNOLOGY
+
+(FOUO 1/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10
+
+25 Januar
+
+NEST EUROPE REPORT
+
+SCIENCE AND TECHNOLOGY
+(F000 1/82)
+
+CONTENTS
+
+TRANSPORTATION
+
+Current Research Efforts in Magnetic Levitation Technology
+(Herbert Heb; ZBITSCHRIFT FUER BISEWBAHNHBSEN UND
+
+WWH, wt 81) no.oooooooooooooo-ooo-00.0.3000...
+
+-a- [III-WE-lSl
+
+can nun-Irv. v I ICE “I" V
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+CURRENT RESEARCH EFFORTS IN MAGNETIC LEVIIATION TECHNOLOGY
+
+was: Berlin zarrscum'r was nsmummsm mm vmmns‘rscmn in German Oct 81
+pp 311-319
+
+[Article by Prof Dr-Eng Herbert "eh. Technical University of Braunschweig: "Re-
+search Efforts in the Areas of Magnetic Suspension Technology and Linear Drives"l
+
+[Text] 1. Introduction
+
+Contactless transport technology is still today at the beginning of its develop-
+ment. In the PEG the direction taken by magnetic suspension technology is char-
+acterized by a developmental trend in which components are employed for combined
+propulsive and support functions.
+
+The area of application of various designs always enlarges whenever it is possi-
+ble to improve the characteristics of the functional elements. This continues
+to be true when it is a matter of applying contactless transport technology to
+small vehicles and to goods transport. Both of these latter cell for a substan-
+tial simplification and cheapening of the primary structural components.
+
+The research studies described in the following paper relate in each case to
+subdomains of contactless support and propulsion technology. They are segments
+of the research projects carried out at the Institute for Electrical Machines.
+Propulsion Systems and Roadways of the Technical University of Braunschweig for
+the German Federal Ministry of Research and Technology (BMPT). These projects
+aimed at developing further improvements for the future application of magnetic
+suspension technology.
+
+2. The Design of an Energy Supply for Long-Stator Drives
+
+The long-stator drive presents us with the task of outlining and developing
+while maintaining the desired high efficiency a cost favorable procedure for
+processing energy and conducting it to the winding. Here one must take into ac-
+count the need for keeping thrust variations law. There are also a number of
+technological prerequisites which must be taken into account here. For reasons
+of economy preference is given to the use of conventional switches to serve as
+switching elements connecting the winding sections with the power lines. The
+transmission voltage must be set at about 5 kilovolts in order to limit losses
+at the given conductor cross section.
+
+1
+
+FOR OFFlCl-AL use ONLY
+FOR OFFICIAL USP. ONLY
+
+The power feed design and winding arrangement for the Ensland Transrapid Test
+Facility (TV!) are shown schematically and in single phase in Figures is to 1c
+[1]. The winding sections are fed alternately by the inverted converters (HR) I
+and II. This synchronous procedure [2] permits a shackless motion of the vehi-
+cle from one winding section to another but on the other hand gives rise to only
+about 50-percent utilization of the inverted converters. The latter involve a
+pulse rectifier with automatic cosmtation which accounts for a substantial
+fraction of the cost of the substructure equipment. The engineering design
+which is still satisfactory for the test series of the Emsland project appears
+to be too expensive for the connercial use of magnetic suspension technology.
+
+,/_,
+
+ 
+
+H:
+
+'12:
+
+u
+- ,.
+
+Figure l. Single-strand winding, synchronous circuit (one slot per pole and
+phase).
+
+The basic idea of a new design which is being investigated with the support of
+the BHFT is:
+
+1. full utilization of the inverted converters and
+ii. reduction of the apparent power of the winding sections.
+
+By subdividing the winding strands of the three-phase winding into two parallel
+substrands and by feeding then separately through the inverted converters l and
+2 it is possible to sharply reduce the inverted convertzr power by using the
+power feed scheme sketched in Pigure 2s and 2b.
+
+The circuiting is so selected that in providing vehicle power both winding
+strands carry current. Thus normally both inverted converters are in use. It
+is not necessary to hold an additional inverted converter in reserve. In addi-
+tion there is the fact that as a result of the displaced longitudinal arrange-
+nent of the winding sections their total idling power demand is reduced in com-
+parison with the single-strand arrangement. This situation is also shown in the
+voltage diagram 2c and there in particular corresponds to the length of the in-
+ductive voltage xd/a'- For the same total length of the winding sections, the
+full magnitude of the surface magnetic energy is generated only by the section
+within whose two strands current is being carried. However. in comparison with
+the single-strand winding it has only half the length. 0n the remaining half of
+the corresponding section the magnetic energy is lower. Here the current in the
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+winding in reduced by at 1eaet half ao that the aurfaca energy enounta to at the
+noat one-quarter.
+
+ 
+
+Figure 2. Double-atrend arrangement. one inaide the other.
+
+I! the "ahort-circuit ayaten" ia daeigned in accordance with Figure 2a than one
+met elao take into account that in the unfed winding as a conaequence of the
+magnetic field in the fed winding a current ie induced which further weaken- the
+primary field. The effect of this procua heconaa all the greater the note
+cloaely the two atrcnda lie together (Figure 2b). In the caee when the arrange-
+ment ia in eeparate equidiatant alota the coupling ia about 20 percent. The re-
+aulting voltage drop then correaponde roughly to that of the diagra- in Figure
+2c. It nay he aeen that in conpariaon with the single-attend winding deaign one
+ohtaina 9. aharp reduction in the phaee angle between current and voltage. The
+apparent power of the two circuite in clearly leaa than the apparent power of an
+uneutdivided winding.
+
+It is evident that the procedure of douhle-atrand diaplaced winding aectione ia
+not exclusively confined to the uee of "abort-circuit teed linee" but can alao
+he need jointly with the tap line deaign (in analogy to Figure la). The two
+auhconductora can here alao without diaadvantage be placed in a m alot.
+kanination of the problena'of twitching over ahewe that here. too. there are
+clear advantagea on the aide of the double-atrend winding. In the cane when the
+awitching proceae coepele a current interruption for one winding attend the re-
+sidual thruet etill anounta under the moat peaaiaiatic eaaulptiona to 50 percent
+of the initial value. Through dynamic proceeaee in the current circuit. through
+the tendency of the winding to keep the magnetic flux conetent. the thruet-gen-
+erating winding will. however. carry a aonewhat higher current and will time
+partially conpeneate the interruption of force.
+
+In order to obtain e full aaoothiag out of the thruet variationa the ewitching
+on of the new winding section can he carried out already prior to entrance of
+the vehicle. If one ainultaneoualy mloyeaa in the other strand a aonewhat in-
+creaaed current than the two co-aon-fed sections can be operated at a reduced
+current with very alightly increaaed voltage. Since the otertup proceoaee tehe
+place very rapidly and can he very rapidly atabilined by noon: of the regulating
+system it in poaaible to avoid oacilletione in the thruet if the inverted con-
+vertera ere alightly overdinenaioned. The rated output of the inverted convert-
+era 1 and 2 taken together is also in thia case no higher than that aaeociated
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+with about 50 percent of the power of the inverted converters I and II in the
+case of a single-strand winding.
+
+3. Inverter Design for Short- and Long-Stator Drives
+
+The magnitude of the drive power requires for the transport of energy transmis-
+sion voltages in the range of S kilovolts. Low-loss linear drives are at the
+present time fed via automatically commutated inverted converters. This places
+a restriction on the conditions which must be met in order to obtain limited
+costs for the substructure equipment in the case of a long stator and to obtain
+low structural volumes and weights for a short-stator drive attached to the ve-
+hicle. In addition there is the fact that while it is possible for additional
+transformers to he used on the load side of the inverted converters in the case
+of the long-stator design nevertheless this gives rise to difficulties in
+achieving simple and cheap switching arrangements. Also in the case of short-
+stator drives a transformer on the vehicle implies an undesirable increase in
+weight which in turn must be paid for with greater drive power. Thus there
+arises a demand for frequency converters of sufficiently high voltage and having
+a design which is as simple as possible. Converter circuits which get along
+with natural commutation are most likely to meet this demand. Another argument
+in favor of such converters is the fact that semiconductor components are avail-
+able which permit a higher blocking voltage and greater currents. Admittedly.
+the use of naturally commutating converters should not he insisted upon at the
+cost of having to operate the linear motor in a state of hyperexcitation. This
+could result in too great disadvantages for the overall process of energy con-
+versions; with traditional inverted converter circuits it also implies limita-
+tion of the inverted converter function to frequencies which are not too low.
+
+A compromise solution-may be found if one employees adjustable idle current in-
+puts on the load side. such as switchable condensers. They permit. e.g.. natu-
+ral commutation above 50 percent of the highest frequency while in the lower
+range they serve as energy reservoirs for the quenching circuits of the auto-
+matic commutation.
+
+An inverted converter design operates throughout the entire frequency range
+without change in circuitry; its intermediate circuit is designed (Figure 3) in
+the form of a resonance circuit [3]. The connection to the primary power supply
+as well as to the load is through an inverting rectifier for single-phase con-
+nection to the oscillating circuit. This inverter is thus fully controllable
+with regard to frequency and power-in both directions. so far as the power is
+concerned. It requires for the primary power supply no idle current in reserve
+and imposes no requirements on the load resistance. Its control design is sim-
+ple; its frequency range is large and not tied to the frequency of the primary
+power supply. A series arrangement of the rectifiers for adaptation to high op-
+erating voltages appears here to be far freer of problems than in the case of
+automatically commuting inverters. The described inverter design obviously
+eliminates the frequency variations so familiar with direct inverters but in-
+volves only two-thirds of the rectifiers required by the latter. Within the
+framework of the research project funded by the IHPT investigations are being
+carried out of the properties and dimensioning conditions of this type of in-
+verter.
+
+h
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+1 ‘
+
+['""""'""_-"1-'T_'—--'—""'1 _____ 1
+I
+l
+I
+
+    
+
+Figure 3. Circuit and current profiles of s new inverter design.
+
+Key: 1. Inverting rectifier ... 3. Load
+2. Current intermediate circuit
+
+The obviously favorable structural volume makes this inverter appear to be very
+well suited to application to vehicles. Figure b shows a circuit in which two
+inverters of this type. each of which feeds a linear motor, are electrically
+connected in series. Here the power is fed from the DC power supply. or in
+other words. via DC current carrying electric rails having a voltage of. e.g..
+
+b kilovolts. The voltage diVision is symmetrirsd by a current control which op-
+erates on the two motor current circuits. In the design of the motors the se-
+ries circuitry has the advantage that the windings need be insulated only for
+the half-voltage and this is important for heat dissipation and in the construc-
+tion of lightweight motors. Through the saving in transformers and the favor-
+able design of the motors it is possible to obtain a clear improvement in the
+
+vehicle design.
+A. The Use of new Magnetic Materials
+
+The technologies of magnetic suspension and electrical linear drives are of par-
+ticular interest to the engineer specializing in magnetic technology because it
+
+is apparent that often very slight improvements in individual parts (magnets)
+can lead to considerable savings in other vehicle or roadway components. Thus.
+
+roe omdAL USE ONLY
+FOR OFFICIAL IS}: ONLY
+
+‘0
+
+e.g.. merely an increased flux density in the magnets-even when this involves a
+certain added expense-can lead to a quite significant cheapening of other vehi-
+cle or roadway components. Simultaneously it is possible with new and more ef-
+ficient magnets to achieve an improvement in the levitation characteristics.
+More favorable dynamic properties in the levitation magnets yield a more rapid
+return to a new position of equilibrium after a perturbation. In turn one can
+also derive from this savings in the control elements of the magnets. In the
+chain of elements. mutually interdependent in their dimensioning. the supporting
+and propulsion magnets assume a "strategically" important place; improvements in
+these specially critical locations have a particularly marked effect upon the
+characteristics of the entire system.
+
+ 
+
+Figure 4. Series circuitry of the inverted converters for feeding power to lin-
+ear motors. _
+
+The use of new magnetic materials makes possible, as has :ecently been learned.
+a new design of linear motors which are in fact of a type previously written off
+because of their too unfavorable operating characteristics for use in the trans-
+port sector. It now seems to be becoming possible to achieve high efficiencies
+and power factors simultaneously with acceptable weights for the drive. In con-
+sequence the installation of power-carrying motor parts into the vehicle (short—
+stator technology) is again becoming more attractive. Specially favorable de-
+sign solutione evidently arise whenever the motor can also take over the func-
+tion of the supporting element.
+
+As a further example of the use of high-energy permanent magnets (REC magnets)
+some statements should be made regarding possible improvements in the repulsive
+support process on the basis of permanent magnets. This support technology had
+already been suggested more than 10 years ago; however. its characteristics for
+use in transport technology had not yet become sufficiently favorable. Then the
+course was adopted of using superconductive coils as vehicle magnets and of in-
+troducing current-carrying rails or coils in place of magnets (normally conduct-
+ing) along the side of the roadway. This procedure which has been still further
+developed by the JNR in Japan requires a relatively high energy consumption for
+the support technology and leads to a rather complex overall system.
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+5. high-Energy Permanent Hagnets in Long-Stator Technology
+
+Synchronous long-stator drive is either designed with superconducting exciter
+coils in the vehicls--in which case it then uses an irouless stator-«or else the
+iron-containing stator variant is employed so that electromagnsts and/or perma-
+nent nagnsts can be used for the exciter field. In the case of iron-containing
+technology it is also possible to use the normal forces of the motor to compen-
+sate the weight of the vehicle. When a controlled magnetic field is used one
+can dispense with further supporting elements such as wheels [6].
+
+For high velocities the dynamic effects produced by perturbing forces and inac-
+
+curacies in the roadway acquire increasing significance. In the case of mechan-
+ical guidance they give rise to increased wear of the (mechanical) guiding ele-
+
+msnts. For this reason contact-free suspension is an attractive transport vari-
+ant; not least of all it also has the advantage of reduced maintenance cost.
+
+But in addition it is also possible to allow greater tolerances in the accuracy
+
+of the roadway and this in turn can yield a cheapsning of the roadway construc-
+
+tion.
+
+The disadvantage of the electromagnsts lies in the fact that particularly in the
+case of low-loss design they possess a large time constant. In order to achieve
+adequately rapid interventions in stabilizing the supporting function there are
+therefore required high values of maximum voltage and high power amplifications.
+The result is an increase in the quantity of power-electronics devices in the
+vehicle. If one dispenses with a high response speed in the magnets then this
+implies greater deviations between the roadway contour and the magnet pathway.
+This requires a greater average distance from the rail and a higher magnet power.
+The simultaneously increased magnet mass has an additional negative effect upon
+the levitation behavior and the attainable riding comfort.
+
+Especially from the dynamic point of view a relatively narrow range of options .
+is available in the design of supporting magnets and propulsion magnate.
+
+Low magnet weight. low losses and high force gradients are the desired goals.
+An average gap of about 1 cm is sought. The maxim gap deviations resulting
+from flexurs of the carriers should not exceed 3 -. In thin way it is possible
+to meet conventional comfort criteria. which essentially restrict the vertical
+accelerations of the passenger cabin. up to velocities of more than 600 lam/hr.
+here it is assumed that over carrier spans of about 25 meters the maxim flea:-
+ure amounts to about 0.8 en.
+
+The use of high-energy permanent magnets (REC magnets) for carrying and propul-
+sion substantially increases the range of design options in achieving a high
+riding comfort for given roadway tolerances. A placement of the permanent mag-
+nets directly at the air gap permits. with renanencs inductions of about 0.9 T.
+flux densities from 0.4 to 0.5 T and is characterised by small leakage flux.
+However. the use of additional control coils turns out with this form of magnet
+to be very unsuitable.
+
+The additional electrical excitation of the nagnet required for gap control re-
+quires. it is true. a modified magnet design. The average nagnetic flux. which
+
+7
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+corresponds to the stationary state. generated by the permanent megnet has su—
+perimposed upon it an adjustable flux generated by a coil. with relatively
+small additional flux components it is possible because of the quadratic rela-
+tion between flux and force to produce proportionately great control forces. It
+is certainly important for the magnetic circuit to be so configured that the ad-
+ditionally required flux components can be generated with limited circulation of
+magnetic potential through the coils [5]. The latter should also continue to be
+small for the maximum value of force as compared with the value required for
+electromagnets. In this connection experimental investigations have been car-
+ried out with the support of the Federal Ministry of Research and Technology in
+the Institute for Electrical Machines. Drives and Roadways (see Figure 5) which
+confirm the superiority of controlled permanent magnets in comparison with elec-
+trcmagnets. As the force current characteristic curves show when compared as in
+Figure 5 it is possible to carry out the control of the permanent magnets with
+relatively small circulations. Figure 6 shows an arrangement of magnets in
+which the flux-conducting magnet surface is greater than the pole surface (flux
+focusing) and in which soft iron poles serve to deflect the flux in the region
+of the air gap. In this way the magnetic resistance of the permanent magnet
+segment is diminished. As a consequence of the relatively small circulation of
+magnetic potential the winding cross sections can be reduced in comparison with
+the electromagnets. The magnetic time constant which is proportional to the
+winding cross section is also reduced. In this way the dynamic behavior of the
+magnet is made more favorable; the force gradient rises with constant voltage
+elevation. with the aim of obtaining the same dynamic behavior it is possible
+to diminish the power amplification (size of the current regulators) [5-7].
+
+ 
+
+Circulation of'magnetic potential ﬂu!
+
+Figure 5. Supporting force comparison between permanent magnet and electromag-
+net .
+
+A consideration important for applications in the case of long-stator drive is
+the reduction in levitation power. This power. apart from some other smaller
+elements. decisively determines the on-boerd energy requirement and is thus of
+essential importance for the provision of energy on board the vehicle. If it is
+desired to accomplish the latter without resorting to turbine power supplies or
+to a special power transmission system then one can make use of an induction ef-
+fect. Through the slot openings of the stator there arises in opposition to the
+fundamental wave of the exciter field a harmonic wave which varies relative to
+the exciter poles as a function of travel velocity. Its energy can be decoupled
+
+8
+FOR OFFICIAL USE ONLY
+by means of an alternating current winding in the poles of the vehicle.
+
+FOR OFFICIAL IFSl-I 0NI.\
+
+The use
+
+of the permanent magnets contributes significantly to limiting the power of this
+linear generator.
+
+ 
+
+Figure 6.
+m1 5 -- . '
+Pergurbationomr I 4‘ l
+a mum air all!
+' |
+— _---I
+“811‘. 529'- _ Ill-l
+°°m°1 l_--ml
+““5”“ n I-I-III
+2 M Di-. .r" “F
+“ ‘- J
+m-Il 3
+Power loss '
+of control I -
+coil I -
+'va «an I |
+0
+2 I. sic s
+
+be
+
+5-
+
+0
+
+Permanent magnet arrangement .
+
+----
+II'El-EII
+
+§§=a=u
+
+Wu:-
+
+-----
+IIm-II
+--lI-Il
+.‘I’N-ll
+-----
+- 2 ' L sec a
+
+Controlled permanent magnet Ug-ISV Blectromagne: U.-55V
+
+Figure 7 .
+
+Oscillograns of controlled permanent magnets.
+
+Figure 7 shows oscillograms which display the favorable behavior of controlled
+
+permanent magnets .
+
+The measurements show that in the case of electromagncts of
+
+the same weight perturbations of the same size are responded to with about the
+same gap deviations as in the case of the permanent magnet only if the battery
+
+voltage is approximately tripled.
+carrying rail with a pulse generator.
+
+A perturbation was produced by exciting the
+It is also apparent that for the control-
+
+led permanent magnet the power peaks are very much lower than for the electro-
+
+magnet.
+
+9
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL RSI”. ONLY
+
+If one attempts to simulate the effects of carrier flexure at high velocity
+(400 km/hr) on power requirement one can make a computational estimate of the
+requisite carrying power. To this end the selected simple two-mass model sup-
+plies a comparatively conservative estimate (with a proportionately high value).
+Converted to a vehicle which is about 50 meters long the simulation shown in
+Figure 8 yields a power peak of about 20 kilowatts; the average power is very
+much lower. These power values are to be compared with a carrier power of more
+than 300 kilowatts in the case of a vehicle using electronsgnets.
+
+N
+I)
+.5
+
+v
+I
+
+Power P [W]
+
+ 
+
+Figure 8. Power requirement in the case of sinusoidal perturbation (As - 8 an);
+nominal force of the magnets: Fo - 15,000 N.
+
+The qualitatively favorable levitation behavior can be made useful for high-
+velocity vehicles in various ways. Besides the positive effects upon the design
+and size of the control elements as well as upon the necr-asary on-board power
+the greater force gradients also permit more favorable conditions for allowing
+greater roadbed tolerances [7].
+
+In order to test the adequacy of this nagnet design on the scale of actual ap-
+plication there was developed in cooperation with Thyseen lienschel and Thyssen
+Stainless Steel Works a combined carrying and propulsion magnet having the di-
+mensiona appropriate to the IVA vehicle TR 05. Figure 9 shows the magnet on the
+test stand in the institute. Lifting devices were used in constructing the
+large-volume magnet units; also used were special assembling devices for in-
+stalling the magnets.
+
+with an 8-nn gap to the stator the carrying force in the currentless state
+amounts to 16.000 N; this is about 30 times the weight of the SmCos material and
+
+about 6 times the magnet weight.
+6. A New Short-Stator Linear Motor With High Efficiency
+
+The linear motor designs known up until recently could be adapted to a number of
+conditions of use; but without exception they all displayed a low efficiency
+which did not correspond to their power level—this efficiency being clearly
+
+less than 90 percent. In the case of a linear induction motor because of the
+so-called end effects one is limited to efficiencies below 80 percent. In con-
+sequence of the large gap and of a relatively high leakage the power factor is
+generally far lower so that it was hardly possible to exceed products n ° cos 6 -
+0.1.. This in turn iapliee very great design power for the frequency inverter
+
+10
+FOR OFFICIAL USE ONLY
+FOR 0FFK14|.USF.OVLY
+
+required on the vehicle, thus giving rise to a considerable additional space and
+weight requirement. If it is to be possible to solve the problem of energy sup-
+ply at high velocities then there exists moreover the problem of designing a
+linear motor having an apparent power which is not substantially greater than
+the yielded mechanical power.
+
+ 
+
+Figure 9. Test stand for investigating Figure 10. DELSYM model motor.
+controlled permanent magnets
+
+Within the framework of a research program for developing vehicles having short-
+stator drives investigations are being carried out at the Technical University
+of Braunschweig of a new synchronous motor with permanent magnet excitation. In
+contrast to previously known types this motor has no electrical excitation but
+an excitation through REC magnets. thus reducing in this way the losses and the
+motor weight. By doubling the exeiter arrangement it is possible to achieve an
+additional amplification of the interaction between the magnetic field and the
+armature currents. The effects of a homopolar and of a heteropolar interaction
+are superposed and lead to an increase in the induced voltage. The armature
+winding is designed with toroidal coils [9].
+
+Figure 10 shows the model motor as used for the first tests for force measure—
+ment. The rail employed here is of massive design. Measured force values are
+plotted in Figure l1 as a function of the surface current of the armature wind-
+ing; the magnet height amounts to 2 cm. It is apparent that the force densities
+required for propulsion can be generated with relatively small surface currents.
+This in turn implies that the motor can be operated with low winding losses so
+that an efficiency of about 95 percent appears to be obtainable. Of special in—
+terest with regard to achievement of a light vehicle is a motor configuration
+which provides not only the propulsive forces but also the carrying force and
+when necessary the lateral force. The cross section of such an arrangement is
+sketched in Figure 12. In addition to the REC magnets there is an arrangement
+of guide coils which via a control element excite the additional flux components
+required for dynamic stabilization. A control coil inserted in the toothed re-
+gion outside the winding produces by means of inward or outward field displace-
+ments controllable lateral forces for guiding the vehicle. These flux compo-
+nents generated by the control coils can also generate lateral forces when the
+vehicle is in the middle position.
+
+11
+FOR OFFICIAL USE ONLY
+secmd"? Part: :
+
+cross section
+
+Prim"? Part:
+°’°98 aecc1on
+FOR OFFICIAL L'SE ONLY
+
+design power of the inverted converter as compared with previously known design
+solutions.
+
+in addition operates without power [sic] [10]. This was also especially attrac-
+tive because the repulsive magnet arrangement leads to a magnetic vehicle which
+is fundamentally very simple in its structure. permits a small vehicle cross
+section and allows a simple attachment of the magnet to the vehicle. Quantita-
+tive investigations of ferrites yielded. however. several problem areas. As
+Figure 13 indicates the attainable force densities in repulsive csrrier technol-
+
+of less than 2.5 N/cm2 are attainable and this gives rise to very broad magnet
+rails or magnet coverings and a large magnet mass in the vehicle. Despite low
+specific magnet costs the result is very expensive vehicle equipment. The pro-
+
+support is lossless and accordingly takes place without damping it is easy to
+prove that the procedure is not suitable for vehicles which are intended to
+reach speeds greater than 50 km/hr.
+
+Also the bilateral use of REC magnets in the roadway and on_the vehicle does not
+come within the sphere of discussion. while this magnet arrangement does yield
+the desired reduction in magnet weight nevertheless the still absolutely large
+magnet weights for the given roadway structure are substantially too expensive.
+
+The basically obvious idea of using ferrite magnets on the roadway and 33$ mag-
+nets in the vehicle is to be sure fascinating. but it is not without its prob-
+lems. For it must first be made sure that the ferrite magnets are either not at
+all or very little demagnetised in the curved portion of their 3(H) characteris-
+tic. This must also be the case when taking into account temperature variations.
+This is all the more readily achieved the thinner the REC magnets and the higher
+the ferrite magnets and the more favorable their 3(H) characteristic profiles
+(Figure 14). Such magnet combinations lead to force densities close to 5 Mom2
+and lie approximately in the middle between the two characteristic curves for
+magnets of the same type according to Figure 13. To this value of the force
+density there corresponds a reduction in the magnet weight to less than 40 per-
+
+son much use ONLY
+FOR OFFICIAL I28}? (IVIA
+
+in the range below 4 mm are "blocked" by suitable coverings. In this way there
+is produced at the nominal point of the force a gap of 8 mm. Here the carrying
+force per side amounts to 10 kN/m. In consequence of the low weight of the REC
+carrying magnets it is possible. when the latter are coupled opposite to the ve-
+hicle in individual suspension. to attain a resonant frequency up to about 13 Hz.
+This yields with regard to the dynamic properties not only gradual changes but
+
+pure ferrite combination. If the magnets are connected via springs and dampers
+to the suspension structure and if this latter is then connected via the ”sec—
+
+ondary" springs and dampers at low frequency with the vehicle body then one ob-
+tains an oscillatory system (Figure 16) which is well damped over a large exci-
+tation range. Also without damping in the range of magnetic support it is pos~
+sible at all velocities of interest to limit the accelerations of the passenger
+cabin to values which meet comfort specifications (Figure 17).
+
+U1
+
+    
+
+NE D
+
+U C
+
+\ o
+
+2 vi
+U
+
+__ 0
+
+Li- '3
+
+.‘0 5
+
+0
+
+LI
+
+0
+
+U
+
+u
+
+I:
+
+1-!
+
+Es
+
+G
+
+u
+
+0 as L0 Figure 16. Denagnetizstion charac-
+
+Rntio hM/bM teriatica.
+
+Figure 13. Carrying force as a func-
+tion of magnet geometry.
+
+The use of REC magnets with a remanence induction of about 1 T has the effect of
+causing a highly interesting solution to arise out of a practically unusable de-
+
+sign. The computational results shown here were experimentally confirmed with
+regard to the support characteristic curve (force as a function of magnet spac-
+ing) for an appropriate material combination.
+
+Further improvements in the 3(a) characteristic curve with REC magnets and fer-
+rites will have an additional favorable effect upon reduction of the magnet vol-
+ume.
+
+1h
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+      
+ 
+  
+
+       
+   
+
+ 
+
+   
+
+:cu- \“iL £52k Ma
+b) _ I
+g
+
+ 
+
+o lo 20
+Air gap 6km]
+
+Figure 15. a) Field pattern. b) carrying force as a function of the air gap.
+
+ 
+
+Figure 16. Hultimaas model for simulating the vehicle dynamics: m - mass, f -
+resonant frequency. D - damping, index K - cabin. Z - intermediate
+plane. M - magnet.
+
+For dimensioning the support setup the attainable force densities for a particu-
+lar gap and also the attainable stiffness represent properties which are of
+equal importance. A low vehicle magnet weight is of great interest with regard
+to good dynamic properties. In order to be able to extract the energy of oscil-
+lation from the oscillatory eagnets when there is excitation coming from the
+track. the intermediate plane (suspension structure) inserted between magnet and
+
+15
+FOR OFFICIAL USE ONLY
+FOR ()FI’K‘IM. l-Sli ONLY
+
+vehicle body must possess a definite minimum mass. This is practically realiz-
+able. e.g.. by connecting the propulsive motor to the suspension structure.
+
+ 
+
+o m w w w 1m in
+Velocity vlnol
+
+if L -1
+
+U
+
+ 
+
+    
+
+'\"
+t: E
+0 ac
+UIN
+a I: 07 " '1
+III III! .
+0 .0 - g
+'3 8 o . . . J ..-_J.. ...J...-.-.'
+3 u o 70 w on no 100 m)
+< 0 Velocity v lm/sl
+
+Figure 17. Dynamic operating behavior.
+
+The shock absorptive connection between the magnet and the intermediate plane is
+in this latter case accomplished with a resonant frequency lying between that of
+the magnet support and the secondary spring system (see Figure 16). For mag-
+netic suspension technology there would probably be great advantage in being
+able to secure contectless support without resorting to control-theoretic sta-
+bilization. The number of required electronic devices and components can be
+substantially restricted and in this way a far greater measure of protection
+against perturbations can be achieved than was the case with the previously con-
+sidered engineering solutions.
+
+But the fact remains that the lateral guidance of the vehicle. if this is to be
+contactless. is impossible without resorting to an active control system. The
+mere use of an uncontrolled permanent magnet guidance system orthogonal to the
+stably operating carrying forces would produce destabilization for the latter.
+
+The multidimensional suspension of bodies in a magnetic field by permanent mag-
+nets is known to contradict the Barnshaw theorem. But this is not to say that
+the described supporting procedure cannot be translated into an entirely favor-
+
+able systen design involving a sharply reduced expense of control electronics.
+
+BIBLIOGRAPHY
+
+1. Eitlhuber. 8., "The Transrapid Test Facility in Emsland." ETR. Vol 29,
+No 6. 1980. pp 202-204.
+
+16
+FOR OFFICIAL USE ONLY
+2.
+
+3.
+
+4.
+
+5.
+
+10.
+
+11.
+
+FOR OFFICIAL I'SE 0N!)
+
+Parach. C. P., and Raschbichler, H.-G.. "The Ferrous Synchronous Long-
+Stator Motor for the Transrapid Test Facility in Emsland (TVE)." ZEV—GLAS.
+ANN.. Vol 105, No 7/8. 1981. pp 225-232.
+
+Schuarz. P. C., "An Improved Method of Resonant Current Pulse Modulation
+for Power Converters." IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS AND CON-
+TROL INSTRUMMATION, Vol II CI-22. No 2, May 1976.
+
+Web, 3., Vollsted. U.. and Mains, J., "Model of an Integrated Support and
+Propulsion System of ElectrOmagnetic Type." ELEKTROTECHNISCHE ZEITSCRRIFT-A,
+1974. p 686.
+
+Web, H., "Linear Synchronous Motor Development for Urban and Rapid Transit
+Systems." IEEE TRANS. 0N MAGN., Vol MAG-IS. No 5, 1979. p 1522.
+
+May, H., "Controlled Permanent Magnet (CPM) Configurations Generating
+Forces for Lift, Guidance and Thrust." 1832 PROCEEDINGS OF THE INTERNA-
+TIONAL CONFERENCE 0F CYBERNETICS AND SOCIETY. 1980. p 793.
+
+Kaupert, 6.. Huebner. K. 0.. and Web. H., "Dynamic Behavior of Controlled
+Permanent—Excited Carrying Magnets for High-Speed Railways," ELEKTROTECH-
+NISCHE ZEITUNG--archive (to appear shortly).
+
+"eh. H.. "Linear Synchronous Propulsion With Permanent Magnet Excitation.”
+IEEE PROCEEDINGS OF THE INTERNATIONAL CONPMCE OF CYBERNE'I‘ICS AND SOCI-
+ETY, [980, p 1042.
+
+Web. H., and May, H.. "Investigation of Synchronous Linear Motor With
+Double Permanent Magnet Excitation," PROCEEDINGS OF THE INTERNATIONAL CON—
+FMCE ON ELECTRICAL MACHINES, 1980. p 192.
+
+Polgreen, G. R.. "New Applications of Modern Magnets." MacDonald, London.
+1966.
+
+Heh, H., "Uses of Rare-Earth Permanent Magnets in Tracked Vehicles," paper
+No 11-3 at the Fifth International Workshop on Rare Earth-Cobalt Permanent
+Magnets and Their Applications, Roanoke, VA, June 1981 (book by University
+of Dayton, KL-365, Dayton, Ohio, 65469. USA).
+
+COPYRIGHT: Georg Siemens Verlagsbuchhandlung 1981
+
+8008
+£80:
+
+3102/80 END
+
+1
+FOR OFFICIAL USE ONLY

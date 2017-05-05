@@ -1,0 +1,4135 @@
+APPROVED FOR RELEASE: 2007102109: ClA-RDP02-00050R000100060031-2
+FOR OFFICIAL USE ONLY
+
+Jpns L/8395
+12 April 1979
+
+TRANSLATIONS 0N USSR SCIENCE AND TECHNOLOGY
+PHYSICAL SCIENCES AND TECHNOLOGY
+(FOUO 20/79)
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+Jl’lls publications contain Information primarilv i'lum foreign
+newspapers. periodicals and books. but also from urws agency
+transnissions and broadcasts. materials from foreign-language
+sources are translated; thone from English-languanc sources
+are transcribed or reprinted. with the original phrasing and
+other characteristics retained.
+
+headlines. editorial reports, and material enclosed in brackets
+[l are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. were no processing indicator is given. the infor-
+mation was summarized or extracted.
+
+Unfamiliar names tendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the aource. Times within items «are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the u.s. Government.
+
+COPYRIGHT MUS Ab .--'GUIJ\TIONS GOVERNING WHERSHI? OF
+MATERIALS "MODE .'. llBIBIN 3.2001]! TIM? DIIBINIMTION
+0' THIS PUBLICATII‘K $8 narslcm MOFNCIM. U" ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/8395
+12 April 19
+
+TRANSLATIONS 0N USSR SCIENCE MD TECHNOLOGY
+
+PHYSICAL SCIENCES AND. TECHNOLOGY
+(moo 20/79)
+
+Comm
+
+ELECTRONICS MID MIC“. momma:
+
+Circuit-Deaignil'echniquea for Reducing the Snitching Factor
+in Digital Syetna haed on Integrated Injection Logic
+(I. I. Shagurin; Imsnn mov: MDIOEEKTRONIKA,
+
+m 12. 1978)eeeeoeeeeeeoeeeaeeeeeeeeeeeeeoeeoeooeeeeeeeee
+
+121. Quaaiatatic Menory Cell
+(v. v. um»; rmsrm vuzov: mmmomn.
+
+m 12. 197a)eeeeeoeeeoeeaeeaeeoeeeeaeeeeeeeeeeeaeeeeeeeee
+
+The Relationship Between Sea Have Spectxa end the Spectral
+end Correletion Characterietice of a Reﬂected Redio
+Signal
+
+(A. A. Garnakex'yan; RADIO‘I'EKIINIKA I W“.
+
+Dec 78)..................................................
+
+Tranafonation of the Sun of No Periodic Phaae Ibdulated
+Signale by a Digital Side Lobe Cancellation Pilter
+(V. P. lpatov. et al,; MIMI“ I mom“,
+
+DOC 78)aeeaeoeeeeeeeeeeeeeeeeeeoeeoeeeeeoeeeeeeeeeoeeoeee
+
+Digital Pheapzncked boope for Proceeeing Video Signala
+(II. I. Zhodaiﬂnkiy: MIMI“ I EEKTRONIRA,
+
+kc 78)..eoooeeoeeeeoeoo..oooeeeeeaooeeeaooeeeeaecaccaeae
+
+SCIENTISTS AND SCIMIPIC ORGANIZATIONS
+
+Viktor Auzeapovich Albertmyan
+(mmn AKADDIII mm: 8881!, No 2. 1979).................
+
+Velentin Petrovich Gluahko
+(VBSTNIK AKADDIII “All! 855R. No 2. I979).................
+FOR OFFICIAL USE ONLY
+
+CONTENTS (Continued) Page
+
+Sex-soy L'vovich Sobolcv
+(VESTNIK MMIWSSSR. N0 2, 1979).............. 48
+
+11": Hikhaylovich rank
+(V8811!!! MMIIWKSSS'R. No 2, 1979).............. 50
+
+Basic Trends of Scientific Ruurch of tho Anssn Made-y
+of Scioucu
+(V. A. Merton-nu; VESTNIKAN 8888. No 2. 1979)...... 52
+m the Activity of the Division of Ocunology. Auoopheric
+Physics and Gaognphy
+(L. H. Bnkhovckikh; VBSTNIK M 8888, No 2, 1979)...... 62
+
+MLICATIORS
+Accelerated Eleétron ne'e- “run-litter
+(um-n tannin-cam S um WWI
+ﬁlm. 1978)....0.0.00.00.00.00ooooooooooo0000.00.00 72
+
+Theory of. Signal Tun-mica in Problem
+(raonm 9mm 3mm V mm. 1978)......... 75
+
+Cnpculacion of Rodioclcctronic Our
+(cmmmna mromom APPARANRY, 1978)..... 78
+
+-5-
+
+FOR OFIICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ELECI'RONICS MID EMICAL ENGINEERING
+
+uoc 621.382.8.381
+
+CIRCUIT-DESIGN MIIQUBS FOR REDUCIIKB THE SHITCKINO FACTOR IN DIGITAL
+8181736 8M3!) Oll INTERN!!!) IIIJECTIOII MIC
+
+Kiev KVBSTIYA VUZOV: RADIOELEKTROIIKA in Russian Vol 21, No 12. 1978
+DP 3'! 0
+
+[Article by I. I. shagurin]
+
+[Text] An examination is made of possible methods of
+structural organization of digital systems based on 121.
+for reducing power consuption P and switching factor A.
+It is shown that staged connection of inJection coupled
+I81 chips with series-connected injectors reduces the
+values of A and P by a factor of four, while the use of
+active-passive supply cuts these parameters by an order
+of magnitude or more. liew types of microcircuits are
+suggested for realizing these advantages.
+
+Among the bipolar transistor logic circuits, those based on integrated
+inJection logic (1%) give the lowest switching factors A-Ptg, where P.
+
+t3 are the average power consumption and switching delay. Estimates made
+with consideration of future improvements in techniques for making 12!.
+uicrocircuita give a minimum limiting value ‘min' (10"5-10'”) J (Ref. 1].
+The best values of A that have been achieved up to the present for individual
+:31. circuits are (2-5)-1o*"° J tau. 1. 2].
+
+however. the practical values of the switching factor realised in inJection
+digital microcircuits under actual working conditions are considerably
+higher (by a factor of 5-10) since the limiting estimates and experimental
+data cited above were obtained at rather low supply voltages (El-0.15 V in
+Ref. 1, 5-0.8 V in the experimental tests of Ref. 2). As shown in Ref. 3.
+to ensure adequately stable operation of inJection microcircuits it is
+necessary to use a supply voltage Eskuui, where 01 is the voltage drop on
+the open inJector Junction, X“- (30-5) is the coefficient of power losses
+to stabilization. In practice. there are also a nmber of other reasons
+why it is undesirable to use power supplies with low voltage 352 V in digital
+devices. Low-voltage supplies have reduced stability, efficiency and load
+
+FOR OFFICIAL USE ONLY
+POI OFFICIAL USE ONLY
+
+handling capacity. Signal transmission through external circuits with
+adequate interference immunity requires elevated values of the logical
+differential. which are attained by a corresponding increase in the supply
+voltage. InJection microcircuits are ordinarily used together with 'i'i'L
+microcircuits that have a typical supply voltage of 5.0 V. The addition
+of a low-voltage supply is detrimental to the overall characteristics of
+the digital device. Under these conditions. the following circuit-design
+techniques are offered for reducing the switching factor of inJection
+microcircuits.
+
+Sequential (staged) supply of LS! tweeters. when this nethod is used. the
+inacctor supply circuits of several chips are connected to the power source
+in sequence (Fig. 1). mo versions are possible for organizing the supply
+of inJcction microcircuits in the digital device.
+
+ 
+
+Fig. 1
+KEY: l--Input device 5--LSI chip
+2--0utput device 6.42:. 1.8! chip
+3--I-‘irst stage 1--Mainline
+huh-tn stage Sui/0 device
+
+In the case of direct cascading (Fig. la) the digital system is actually
+several independent data processing devices (channels) [Ref. la]. The logic
+levels of the nicrocircuits included in the different stages (channels) differ
+by an amount A00. (50' Iaui, where a-l,..., (k-l). k is the number of
+
+stages (channels). Information can he transferred directly from the lower to
+the upper channels, and infbnation can be transferred from the upper channels
+to the lower ones through ntching transistors [Ref. 5]. However. in this
+case there is a considerable reduction in the speed due to the increased
+
+logic differential for signals between channels by an amount 001, and there
+
+is an increase in the area of the crystal and the power consumption due to
+energizing of the matching elements. Therefore it is advisable to keep the
+number of connections between channels to a minim.
+
+2
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The input device distributes the information coming in to be processed among ,
+the channels of the systeu, ensuring the required levels of 'the input logic 2‘
+signals for each channel (stage). In principle, the input device is capable
+of "paralleling" the solution of a general problem anong k channels. In
+
+this case the input device includes a progra-sable permanent semory or sicro-
+processor. The input device transforms signals entering from different
+channels, providing standard levels of logic signals and the necessary load
+handling capacity at the output of the system. The output device can also
+carry out certain logical transfonations of infornation: multiplexing, '.
+mashing, channel switching and the like.
+
+In the mainline amngmnt (Fig. lb) all devices of the digital system
+exchange interaction through a comon ninlins by intermediate I/O devices.
+'i‘he.signals in the mainline have unified standard logic levels. 'ihe I/O
+devices ensure forward and reverse conversion of the levels of the logic
+signals in the mainline and in the inJection L31 chips of the different
+stages. me logic levels of the signals of the different stages differ by
+60°. 60‘. and therefore the information is exchanged between stages mainly
+through the I/O devices and the mainline. Direct connection (cascading) is
+possible only between different L81 chips of a single stage, and also from
+the outputs of the IS! chips of the lover stages to the inputs of those in
+the upper stages. 'ihe 1/0 devices in this arrangement. in addition to the
+functions of transforming logic levels and ensuring the load handling
+capacity necessary for the mainline, can also perform certain logic functions:
+multiplexing. various conutation of signals on mainlines and the like.
+
+Supply to the inJection I81 chips included in the different stages of the
+digital system can be most effectively handled by sources of stable current
+based on p-n transistors. as shown in Pig. 2. These circuits ensure stable
+operation at voltages mailman-S V. By changing
+resistance R (for instance by mutation of the
+external leads) we can regulate the supply current In
+of the inJection :31 chips, providing the required
+speed [Ref. 1, 1]. By adding resistor 3,, we can
+stake the necessary change in supply current. and
+hence in the speed of the separate stages of the
+injection L81 chips. The permissible number of L81
+stages in this case is x-(mn-umunwupm. For
+Pig. 2 typical values: Elﬁn-10.5 V, Unanin'o-s V,
+Ui.max"1'° V, we get k-h.
+
+ 
+
+Thus in the case of series connection of injectors when transistor current
+sources are used the loss factor K” decreases by a factor of k. reaching
+ng ~l.2. As a result, switching factors close to the liniting values [Ref.
+1, 2] can be actually realized in digital systens.
+
+Active-passive supply mode. when this nethod is used, the supply currents
+of the injection L8! chips vary during operation of the digital systen from
+zero to some limiting value In. ‘lhus a power savings is realised by
+
+3
+
+roe ORIGIN. US! 0"!”
+FOR OFFICIAL 083 OILY
+
+disconnecting devices from the supply that are not involved in data processing
+at the given instant. and speed is increased by feeding the naxilun current
+In to devices that are involved in data processing (Ref. 6].
+
+'lhe structure of a digital system vith active-passive supply node is shown
+in Fig. 3. Construction of the system requires controllable current sources.
+
+m: l--Data nainline
+2--Oomand mainline
+
+3—8upply control circuit
+h~ I/O device
+
+5-4.31 chip
+
+ 
+
+Fig. 3
+
+me sources must have high speed for svitching current In to avoid reducing
+the speed of the system. Control of the current sources is accomplished by a
+special nicrocircuit that analyzes incoming cmands and feeds energizing
+signals to the current supply sources of the devices that are taking part
+
+in execution of these cos-ands. Several levels of current supply are
+possible for executing cos-tends of different priorities.
+
+In order to prevent the operation of supply activation fro- delaying the
+solution of a problem. the control device can snalyse two successive
+commie simultaneously so as to pre-energise the supply for the devices
+required in executing the next con-and.
+
+The controlling nicrocircuit may be an appropriately progranned permnent
+menory, or a special supply-control microprocessor that will handle real-tine
+redistribution of the supply current to the devices in the digital system
+
+in accordance with the problem being solved.
+
+Since only some of the circuits (usually no more than 101) are simultaneously
+involved in data processing in digital system. the use of the active-passive
+supply node in principle can give a switching factor for logic circuits that
+is less than the liniting value given in Ref. 1. 2 by a factor of 1/9. where
+
+p is the average percentage of circuits involved in processing at each
+instant.
+
+CONCLUSION
+
+A further reduction in the switching factor of digital aicrocircuits based on
+121. requires not only continued ilprovenent of manufacturing techniques, but
+
+YOR OFFICIAL US! ONLY
+FOR OFFICIAL USE ONLY
+
+also the solution of circuit design problems for optimum power supply orga-
+nization. This means that research is needed in the following areas:
+
+high-quality stable current supplies, including sources with short on-off
+time;
+
+high-speed I/O ntomimuits that can be used in staged energizing of
+injection LSI chips;
+
+microcimuits for supply control devices.
+
+Development of the appropriate current supplies and I/O microcircuits
+
+will permit a reduction even on the present stage by a factor of four in the
+power consumption and accordingly in the switching factor of digital systems
+based on injection mierocircuits.
+
+Realization of the active-passive supply mode will enable a reduction in the
+average switching factor for many types of digital systems by another
+order of magnitude or more. To accomplish this. it is necessary first to
+solve problems of structural organization of digital systems with active-
+passlve supply mode, to define the class of problems where the use of such
+a mode is most effective, and also to develop the corresponding software
+for these systems. The use of this circuit-design technique for reducing
+the switching factor is promising not only for I L microcircuits, but also
+for other types of bipolar microcircuits. In this connection. the digital
+systems that utilize microcircuits based on bipolar transistors have power
+consumption approaching that of systems on complesentary mas transistors
+while retaining a considerable advantage in speed.
+
+REFERBUCE
+l. N. A. Avayev, V. N. Dulin. Yu. Ye. laumov, "Bol'shiye integral‘nyye
+skhemy s inzhektsionnym pitaniyem" [Injection Coupled LSI Chips].
+Moscow, Sovetakoye radio, 1977.
+
+2. V. Blatt. P. 8. welsh, LJJ. Kennedy, "Substrate Fed logic." 1832, 80-10,
+N0 5. 1915. p 335.
+
+3. I. i. Shagurin, "Particulars of Designing L‘igital Devices Based on 121..."
+Mlmcﬁbmﬂlm, Vol 7, No 3, 1978.
+
+’1. French Patent No 2.275.028, class 1101!. 21/06.
+
+,. K. Kuneko. 1'. on», u. Nagata, "'Stacked 12!. Circuit," memos LE‘I'I'.,
+Vol 12, No 10. 1976. 1) 21:9.
+
+5
+
+FOR OFFICIAL USE ONoY
+FOR OFFICIAL USE ONLY
+I
+
+6. I. I. Shugurln. "Circuitry Principles. Element. Baae and Particulars of
+Denmnlng Digital 1.81 mm and Super-[SI Chip: on Bipolar Transistors,"
+MIKROELBKTRONIKA. Vol 7. No 2, 1918, p 99.
+
+wPYRIOHT: ”Izveatlya vuzov SSSR - Moelektmniks". 1976
+
+6610
+use: emu/om
+
+6
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+unc 621.382
+121. quasrs'm'rc may cm.
+
+Kiex Ifz'es'rnn vuzov: nanmmxmonrxn in Russian Vol 21. so 12, 1978
+pp 1-
+
+[Article by v. v. Barinov]
+
+[Text] An examination is made of the particulars of oper-
+ation of an inJection-coupled quaaiatatic memory element
+containing two p-n-p and two n-p-n transistors. The area
+occupied by the memory cell is 2600 m2. recording time is
+20 ns. and readout time is 10-20 ns. The results of machine
+calculation and experimental research confirm the workability
+and high energy characteristics of the memory cell.
+
+Modern advances in development or bipolar circuits with 10 kbit dynamic
+storage capacity [Rei‘. 1-2] or even more [Bet 3] are due primarily to the
+development of a variety or masory cells (Mes) with inJection logic. At
+
+the present time injection HCs have been used as the basis for both static
+(Ref. 10] and dynamic (Ref. 5] integrated semiconductor storage circuit chips
+(ISSCCs). However. in the latter case [Rat 5] the dynamic MC has only a
+formal, outward appearance of the injection structure. and only in recording
+the logical "1" does it operate in the state characteristic of inJection
+circuits. A disadvantage of dynamic ISSCCs is the necessity for recon-
+structing (regenerating) intonation after definite time intervals that
+
+vary with ambient temperature. The known static inJection Mes contain at
+least six transistors. Therefore a further increase in the information
+capacity of static ISSCCs is possible only by improving technology or by
+modiiying conventional HCs.
+
+his paper examines an inJection MC that contains only four transistors
+
+with combined diffusion regions. In all modes of operation except readout,
+the described HC is a static unit. Destructive readout is possible; however,
+with limitation of the duration of the readout operation. information is
+self-restoring.
+
+7
+
+FOR OFFICIAL USE OKLY
+FOR OFFICIAL USE ONLY
+
+WORKING PRINCIPLE OF THE M3401“! CELL
+
+The inJection flip-flop on which all static Mes are based requires four
+transistors: two p-n-p and two n-p-n. If the emitters of current-setting
+p-n-p transistors are split. the flip-flop can be used for high-speed data
+recording [Ref. 6]. It turns out that current-setting p-n-p transistors
+are also convenient for use in data readout. The electric circuit of an
+injection MC of this type is shown in Fig.’ l.
+
+73 It
+
+A!
+
+ 
+
+Fig. 1
+
+Data storage. In this node, approximately equal currents flow in bit 'ines
+F0 and P1 (Fig. la) so that one of the transistors T1 or T2 (say Tl) is
+energ'2ed and saturated. Then the sec-and transistor (T2) is switched off.
+In practice. when equal potentials 00 are set on the bit lines of the MC in
+the storage node, the flip-flop will have two stable states if in the
+equivalent circuit of the inJection transistor liter. 1] IA“ >0, I” >0.
+This condition is met when
+
+«7,0»; .
+
+Capacities c, and Cg, which are principally the barrier capacitances of the
+emitter Junctions of transistors T1 and T2, have different charges:
+
+04-34,!“- QI-asuoase.
+
+Here "36 sac. Una Mac are the emitter-base and collector-enitter voltages
+of the saturated transistor. The charge ratio
+
+Q 5 bum
+’di' '07.;
+
+in practice with consideration of the voltage dependence of capacitances
+C1 and C2 is 10-20.
+
+Recording. To energize transistor T2, it is first necessary to switch off
+transistor Tl. This is accomplished by the collector current of T1 flowing
+through transistor T3. The current in line Pl at this tine is low or
+nonexistent. Transistor Tl goes out of saturation, and the potential in
+node 2 increases. Then transistor T2 is put into saturation by the base
+current.
+
+FOR OFFICIAL USE ONLI
+FOR OFFICIAL 088 ONLY
+
+Readout. The Information signal during readout is provided by the magnitude
+and direction of the current in the bit lines. which are due to the state
+
+of the me. In the storage mode. charges Q1 and Q2 differ considerably. If
+transistor T1 is energized. the collector Junction of transistor Tia is biased
+in the forward direction. while the collector Junction of transistor T3 has
+practically zero bias. iihen the supply is switched off (the emitter Junctions
+or T3 and Th have reverse or zero biasing). capacitanees c. and 02 begin to
+recharge. Capacitance C; will discharge through the forward-biased p-n
+Junctions: the emitter Junction of transistor '1'). and the collector Junction
+of transistor Th. which are combined in the chip structure. Besides.
+capacitance c; will be charged through the collector Junction of T1.
+
+A current due to charge in will flow through inversely connected transistor
+Tia in bit line Pl. For the short times of the readout stage. the change
+
+in readout current can be approximately evaluated by the formula
+
+“-0499.
+
+Where of is the inverse current transfer coefficient of the p-n-p transistor.
+(1 1:: some quantity that is constant for the MC and depends on the transfer
+coefficlcntu and currents of the diodes in the inJection structure model
+[Ref. 7]. 'ihere is practically no current in bit line P0. This difference
+in currents is utilized to identify the state of the MC and to determine the
+code of the stored information.
+
+As will be shown below. readout of up to 100 ns duration does not lead to a
+change in the state of the flip-flop. Such a time sement is completely
+sufficient to ensure workability of the readout circuits and the entire
+isscc in the dynamic readout mode. With transition to the storage mode.
+equal currents are set in the emitters of transistors T3 and Th. the memory
+cell is returned to the initial state since the voltage (and charge) on
+capacitance c. is still greater than the voltage (and‘ charge) on capacitance
+C2. Transistor 'i‘l goes into saturation. blocking transistor T2.
+
+Shown in Fig. l are diagrams of the inJection (a) and modified (b) quasistatic
+memory cells. A diotinctive feature of the modified quasistatic NC is that
+the p-n-p transistors are made in a pocket insulated from the n-p-n tran-
+sistors (Fig. lb). The base potential of transistors T3 and Th can be
+controlled by line A2. which is more convenient for the readout mode than
+with the inJection MC (Fig. la). However. let us note that the area of the
+latter in much smaller.
+
+ANALYSIS OF '11“: READOUI‘ WIDE
+
+'l'he Lime constant of discharge of the capacitance through the p-n Junction
+In; determined by the expression [Ref. 8)
+
+1...,3.
+
+9
+
+FOR OFFICIAL USE 0."I.Y
+POIi OPHCIM. "HR ONLY
+
+Hherc 1A0 is the initial current. of the p-n Junction. For real diodes.
+this quantity ranges from tens of milliseconds to tens of seconds. 'ihus
+ue haVe confirmed the feasibility of data retention by the quasiatatic
+injection MC during readout. Theoretically (if transistor T1 has been
+energised) the voltaue across capacitance 02 can never exceed that across
+cl. However, in reality because of interference and technological scatter
+it is necessary to consider the possibility of false switching of the NC
+with transition fro: the readout node to the storage node.
+
+In the storage node. the potentials at node points of the flip-flop are
+respectchly equal to
+
+v.-u....av.+o,m(a,-,13:—.;1;7-’,§).
+Ug—U..uae,ln(%-IE).
+
+llere the 37,", are current transfer coefficients. the superscript indicating
+the type of transistor. vhile the subscript indicates the method of manure-
+acnt (normal or inverse node). 1hese expressions are derived for the case
+where equal potentials Uo are net on the bit lines. Machine calculation
+has nhovn that 100 ns after the beginning of readout. the potential U;
+decreases by about 101. while the potential U: increases by about MOS.
+Shown in l-‘ig. 2 is the counter-calculated tine dependence of readout
+
+current. Analysis shove that this quantity is
+
+“"L i not critical to the aethod of selecting the MC
+0 lo ‘0 a an m for line Al. when we consider the possible
+
+[”3 ’II 30 30 79 g ”3" technological scatter by 15-20! in such paran-
+9 eters of the structure as the coefficients of
+40 current transfer. there is a corresponding
+50‘ change in readout current.
+It can be approxisately unused that the change
+of charge in the load during readout is pro-
+portional to the change of charge on the storage
+capacitance with coefficient of
+
+Adam.
+
+'lhcn the relative change in voltage that is due to this charge on the load
+capmitance cN will be equal to
+
+Fig.‘ 2. FHA-BA; uc'nn;
+xplntornne
+
+22.
+£3ng 0’
+
+Capacitancea c. and oz can be increased by using the so-called "guard bands"
+inef. 9].
+
+10
+
+FOR OFFICIAL USE ONLY
+POI OWICIM. USE ONLY
+
+CONSTRUCTION OF THE ACCIMULMOR
+
+‘me accumulator takes the form or a rectangular or square matrix. bit lines
+[’0 and Pl are Joined for the elements or each column. Address line Al is
+common to the "Ca of each line. we topology of an accumulator fragment is
+shown in Fig. 3. with collector size of the n-p-n transistor of 10x10 um
+and insulation of the g-n Junction. the area or the accumulator per bit of
+information is 2600 um . The use of dielectric insulation and more precise
+methods of combination can reduce the area or the no to 1000 umz.
+
+in an Isscc with arbitrary sampling it is necessary to provide for access
+to an individual memory cell. Let us consider in more detail some of the
+peculiarities of choosing the lice for a matrix of quasistatic elements.
+
+Choosing the Kits for readout. A reduction of the potentials of the bit lines
+results in the beginning of discharging oi‘ the storage capacitance of all
+“Cs of a given column. To prevent false readout it is necessary either to
+break the chain or discharge or the storage capacitances of unselected "Cs.
+or to time-space the stages of readout of the false and useful signals.
+
+The latter can be realised for instance if discharge of the capacitances of
+unselected MCs takes place with a much shorter time constant
+
+a
+”'tm'
+
+Sampling during readout of the memory cell depicted in Fig. lb can be
+implemented by a simpler method. using line A2.
+
+Selection of nc. in recording. In the data recording mode. data recording
+current 13.” flows through one of the selected bit lines. ‘Iio prevent
+switching of all "Ca in the given column. it is necessary that nearly all
+this current should be directed into a single MC. This can realized by
+reducing the input impedance of the selected memory cell. Fig. ’I, shoving
+
+’0! MI I” III
+
+ 
+  
+
+ 
+
+     
+
+£31412" v--.
+ur- [EFF
+$553232 man A
+
+a.
+
+     
+     
+
+  
+
+("III I F. 1'11 I rm
+
+Insulation
+Fig. 3
+
+ 
+
+Fig. '5. I‘m-input current
+Isl6 - selected current
+
+the input characteristic of a quasi- Incest sunselected current.
+
+static MC. illustrates the possibility
+of controlling input impedance by con- "€1:b:5‘:: 1:21;:ﬁue
+trolling the voltage through line All. ”Pu -
+
+Computer calculation shows that in practice it is sufficient to lover the
+voltage of the address line by 0.3 V. By selecting the appropriate storage
+
+11
+
+roe 0"“:th USE OVLY
+POI! orncmt USE ONLY
+
+current flowing in the other bit line. or by disconnecting it. we prevent
+the pouuib llity of switching unselected Hes.
+
+M. currents in the bit line of lam-l-S ma, data recording in the MC takes
+lullwi.‘ In N-30 an. The naln charge during readout flown in the load for
+10-20 as. Such characteristics enable us to design lSSCCs on quasistatic
+Mes with high speed. A memory circuit with 11096 hit capacity can be
+accomodated on a crystal with area of 20-25 .3.
+
+l-nwnm OF THE WWI. CIRCUIT
+
+As can be seen n-on expression (1). to get a fairl; strong useful signal
+(50-200 mV) it is necessary to saximtze the ratio cxlc... The load capacitance
+associated with the bit line consists of the input capacitances of all MCI.
+
+of the given eoluan nc x31' the input capacitance of the readout amplifier
+cox W and the parasit c capacitance of interconnections c":
+
+cl-"csaﬂl +cesye+cm
+
+C" in turn is comprised of the cspacitances of interaction of the bit line
+wlth the nearby line on the same level of metallization. the lines of the
+other level going in the perpendicular direction. and the cspaeitances
+between the line and the substrate. For an accuulator column that contains
+6h memory cells, calculation by the method described in Ref. 10 gives a
+value of Cnﬁa pF. 'ihe input capacitance of the memory cell can be reduced
+by reducing the capacitance of the emitter-base Junction of the p-nop
+transistor. 1!: do this, the "n* guard band" must be at a certain distance
+from the emitter region of the p-n-p transistor. Oontrariwise. for n-p-n
+transistors. overlapping the regions of base diffusion and the n‘ "band"
+enables an increase in storage capacitance c1. Considering that the emitter
+Junction of transistor '11 is forward-biased during data readout. while the
+emitter Junctions of the p—n-p transistors are reverse-biased, we can get
+
+a readout signal with amplitude sufficient for a differential amplifier.
+Moreover. the aceumlstor can be broken up into sections to reduce the load
+capacitance.
+
+One of the possible readout uplifier circuits is
+shown in Fig. 5. The circuit operates as follows.
+In the storage mode diodes m. 112 and transistors
+'15-'10 are blocked. During data readout. current
+generators I; and I; are opened. Negative pulse
+Um discharges the capacitances cN through diodes
+m and m to the initial level over the period of
+readout of false information. The readout signal
+charges one of the load capacitances. say cm». to
+a higher potential than cm. If the voltage
+difference on the eapacitances exceeds the firing
+level. the differential amplifier on transistors
+'15 and ’16 ”reads out" the information as soon as
+current generator I; is energized. Transistors
+
+ 
+
+12
+FOR OFFICIAL USE ONLY
+'17 and T6 permit us to stabilise ("latch") the state of the amplifier during
+readout. 'ihe suplii‘ied signal is taken off from load 31 and ﬁg.
+
+(INCLUSION
+
+An examination hen been made or different nodes or operation or a quaaistatic
+I’L memory cell containing two n-p-n and two p-n-p transietore. For standard
+technology with insulation of the p-n Junction. the uc occupies an area of
+2600 ua’. 'i'nia enables acconodation of an ISSCC with '0096 bit capacity on
+
+a crystal with area of 20-25 ma. ‘ihe speed of the MC during readout is
+10-20 no. and during recording - 20-30 no.
+
+i. 1.. Altman. ”Preview 01‘ ISSCC Exeites Deaignen." shamans. Vol ‘65.
+No 25. 1975. P 50.
+
+2. w. n. Sander. J. 14. Early. "A 3.96:1. 131. Bipolar Dynamic m." 11:31:
+ISSCC Dig. Techn. Pap.. 1976. p 182.
+
+3. L. Altman. ”Five Technologies Squeezing more Performance fro- LSI Chips."
+ELECTRONICS. V01 51, lb 17. 19'”. P 91.
+
+In. L. Altman. "It's a User's Paradise." ELECTRONICS. Vol 51. No 2. 1977.
+p 81.
+
+5. V. B. Sander et al.. ”InJection Logic Boosts Bipolar Perforaance While
+Dropping Cost." ELECTROMQ. Vol 51. No 17. 1977. p 10?.
+
+6. s. K. "indium. "Injection-Coupled Henry: A my. Density Static
+Bipolar Memory." 1323. 80-8. lo 5. 1973. P 332.
+
+1. V. V. Barinov. V. Ya. Kontarev, V. I. Moahkin. A. A. Orlikovakiy.
+"InJection Coupled Integrated Logicandlienory Circuits" in "Nitro-
+elementy i poluprovodnikovyye pribory" [Microelenents and Seaiconduetor
+ucvxccu). Moscow. Sovetshoye radio, no 1. 1916. p 108.
+
+8. ll. H. Henn. "Bipolar Dynaaic Memory Cell.” 1623. 80-6. lo 5. 1971. p 297.
+
+9. V. V. Barinov. V. Ya. Krealev. V. I. Hoshkin. A. A. Orlikovskiy.
+"InJection Coupled Integrated Circuits." ZARUBBZHNAYA BLBKTROIIAYA
+mama. Central Scientific Research Institute of Electronics. lo 9.
+1913. p 3.
+
+10. "Spravochnik po konstruirovaniyu EVM" [Handbook on Computer Design].
+edited by S. A. Mayorov. Moscow. Sovetskoye radio. 1975.
+COPYRIGHT: lzventiya vuzov sssn - Radioelektronika. 1978
+
+6610
+030: 81“: [0885
+
+13
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+BISC'IRONIOS AND ELECTRICAL MIMI:
+
+UN 621.3911
+
+ma RELATIONSHIP am 83A HAVE 8mm All!) M W MD comm-
+TION CHARAC'BRISTICS OF A m RADIO SIGML
+
+W800“ WImmNIKA I MI!“ in Russian NO 12. 900 78 pp 2511-3518
+[Krticle by A. A. Garnaker'yan. signed to press 21 hr 727
+
+[1"er Hithin the transwork of Kirchhoff's theory it has been shown
+that in the shortwave spectru- for saall viewing angles and wide antenna
+
+radiation patterns. a nornalized. three-disensional. correlation function
+of the reflected signal at snail Rayleigh variables coincides with a
+noraalized. three-dilensional. correlation function of the sea eta-face.
+
+1he relationship has been established between the frequemy spectrun of
+sea waves and the envelope spectru- of a reflected shortwave signal.
+originally beamed m- the air.
+
+'lhe results are presented of exparinents to detuaine by aerial radar the
+frequency spectru- or sea waves and the angular distribution function
+
+of wave energy. ‘Ihe «perinatal results correspond well with the derived
+data and deacnstrate the possibility of dated-lining sea wave spectra
+
+by serial radar with adequate precision.
+
+Introduction
+
+An iaportant national econoaio and scientific proble- today is the
+develop-out of telsaetric aethods to asasure sea wave para-eters. A
+two-dimensional spectrum S.(e..a) best describes sea wave phone-ens.
+
+1he analytic expression r the two-diaensional spectru- is usually
+written as the product 1]
+
+(i) 343;, 6) -S-(0-)9(a).
+“hm S.(o.)- 53-(0~¢)da is the trequency Bpsou'ull ﬂan-the angular
+distribution ﬁxation of wave energy:
+
+16
+
+P0! OFFICIAL US! ONLY
+FOR OFFICIAL 088 ONLY
+
+.(3) ﬂea-plural; -%‘¢<%3
+
+p-wmli¢1ns.!u1t}num
+i r(-’3-+ 1)
+2 O
+
+ 
+
+(3) P-
+
+ 
+
+— n+i
+Teen: Vsl‘(—5-
+om
+
+I‘m—seen functions n dependa on the inteneity end character of see
+wave phenonene.
+
+lie will ere-inc the possibility of deteneining eerielly a. see wove
+epectrue through the spectral and correlation chnracterietice of e
+ahcrtweve radio eignal.
+
+1. me relationship between the three-dinneionel correlation function
+
+of e reﬂected eignel end the timeo-dieeneionel correlation function of
+the sea eta-fece
+
+'lhe problen of e timeo-dieeneional correlation of a electzoaunetio field
+
+after peeeege through a cheotic nonhonocenecua deflector hoe been
+exaained in [2].
+
+Referencee 5.57 used the patchetion nethod to eolve the pueblee of
+three-dieeneional correletion ratios for eound end electromagnetic rave
+reflection tron e etetieticelly rough surface with large end null
+irregularities. then the ewe phenom um eeitted fro- e point source.
+
+'Do upnry and develop the results obtained in [5-97 in eolvim the
+oppoeite problea of scattering. uhich coneiote of determining the
+correlation function of e eu-fece according to the three-dinneional
+correlation function of e reflected wove. we will consider the width
+of the radieuon pattern of actual eeittete. the three-dimionality
+and enieotrcpy of the con eurfece.
+
+m. point MONA) (Fig. i) the‘eurfece is exposed to e eonoohxoeetic
+electromenetic wave. For viewing anglee clone to noml (K307. one
+nay ignore the contribution of null irrmnaritiee in the reflected
+
+35ml end consider only the reflection iron the tonic eurfece configure-
+One .
+
+15
+
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL USB ORLY
+
+Following 5. ()7 and unlna Kirchhorf'n aothod. no will nnnuao that tho
+.lrrmllnuxi ourl‘aoo. ox roused by :-Ia(:.y) . in oaooth and gently eiopint.
+1.9.. the oonditione . Q7
+
+Win-<03. ‘8 1~<0,3
+WeW'*’l. Wampk
+
+are ant. vhere 1e and 1-. are the mot-aean-equare elope angles; :- and
+ry—the local radii of the eta-race curvature in the direction of e
+coordinate axee 0x and 0y: 0 -the angle between the direction 0!
+irradiation and the noraal to the eurfaoe at point ll (Pic. 1)! i —the
+length of the radiated wave.
+
+and
+
+ 
+
+"M"! mam)
+Figure 1. Geoaetry of the Proble-
+
+1he plane a - 0 ie the new for the eta-face e - h(x.y). For eaall view-
+
+in; angles (p<30’) the couple: eta'eee aaplitude of l at the
+output of the receiving antenna any be Fitgen no _.'
+
+(o a(A)-3%Homes)n.-'epr-2mn.--hmp)ldsdu.
+,. .
+
+uhere k-ani: o... m P. in the power uitted by the antenna:
+(Io-antenna gain actor: 4.. -ettective antenna and "(Apex/0.);
+
+n.. —effecuve reeietance of the receivixu antenna: (5-1-0113): t -
+relative ooaplex peraittivity of water: a ¢',p) —a mmtion deeoribim
+the radiation pattern of the antenna; a, p. . bee ehoun in Pig. 1: S. -
+the projection of an irradiated ounce area on the aean plane.
+
+Axieyaaetric antennae. Ilene radiation pattern area were directed
+vertically downward (tn-0) were need for reception and traneaieeion.
+
+‘Dle Gaueeian equation [7]
+
+16
+
+you OFFICIAL USE ONLY
+FOR OFFICIAL 088 ONLY
+
+(5) O(a.a)-uv[--'- 9.. ”.(swﬂ.
+
+is used to describe the redietion petterns of the entennee. there 9. is
+the width of the entenne rsdietion pettern at he]: power.
+
+The existence of intervals of quesistebility and sections ofq
+honogeneity. es well as the suitehility of the ergodic theory(1
+were scanned for the see wuss.
+
+1he correletion functio of the reflected signnl st seperete points A end
+A’ is derived m. [2
+
+(o) n<A.A')-la(A)-m firm-«7W .
+
+uhere Wis the neen velue of coupler stress litudes ll: (25 —e velue.
+closely essecieted with 0(4). mm ehove in m indioetes the statis-
+ticel averaging of the rendon verieble h for en ensenble of reelisetions.
+
+According to experinentel and theoretical results the prohebility
+density of 1Jumre rises h follows the nor- nhsn the neon velue eguels
+zero (13-0) [1
+
+2:33 (15) end ensuring e nor-e1 distribution of rises h. mum (6)
+.03
+
+(7) MA. '40- -("°""') H6‘(e.p)ﬂ"dsdy”6‘(e,p'm. 'x
+
+ 
+
+Xml-wt (Ra-W) l (ml-Wm'm.‘ vt-ooe' N494”. onx
+X0“ ﬂ we 9') l-expl- (21‘s! coe' p+2k'o.' ex" 9’) ”d: dy.
+
+where M“. 4;) is the headlined correlation function of the eurteoe:
+—the stendnrd deviation of surface rises.
+
+He will essue thet the surtece correletion rediil. end 1.. ere signi-
+ticently sneller then the radius of the region, reg uired for retl_ on.
+mus. in tor-m (7) it m be essuned that 6"(3'. p)‘-G'(a. M. R."
+
+coep' most. while the linits of integration for the internel int-ogre).
+ere expended to infinity.
+
+In the case of snell surtece irregularities l(2ks.)'<i; mam] , es e
+
+result 0 nplex. but. sufficiently ext-basses master-nuns.“
+obtein 9
+
+17
+
+m OHICIAI. US! ONLY
+FOR OFFICIAL USE ONLY
+
+WMJN
+75:5“
+
+XﬂMds. Av)oxp{ - £515- ! (Az.—Ax)'+(Av.-Av)'l }X
+
+(8) RAJ. 4')-
+
+ 
+
+).cxp[- (2ko.)'+21kdslx
+
+x up {%1 (Ax.-Az)'+(Avn-AU)'1 }
+
+1b conpute the integral in (8) one hoe to define epociticeuy the fern
+of the three-dineneionel correlation ttmction or the std-rm MAS. Av)-
+!br three-dinetteionel enieotnopio eee mm the noneiined epetiel
+oomletion function appears on
+
+(9) “(Mm-upl- (%+%)]M%Asm-Ecm
+
+were 1.. end A, are comletion radii. endA-endA. neon lengthe of
+see «em in the direction of coondinete men 0: end 0y (Fig. 1). ‘lhe
+comletion tunotion (9) oomepomie to the spectre]. density. unich
+adequately and»? the spectre]. density o! non woven nee: the
+rentive nexinun i .
+
+By putting (9) into fonule (a). «mu Him . end holding the
+intensity oonetent. we derive. deleting intmedinry celeuletione. the
+fine]. expression for e etendexd three-dineneionel correletion function
+of the couple: uplitude of e reﬂected radio nave
+
+”4"”? ._.. .
+
+(1°) b.(A.A')- W- ap(2¢kdl)x
+68.. 6'.‘ 23 2::
+X“, [- (F+—)]WE:AI.ONEAU.
+
+M
+
+were
+
+ 
+
+ 
+
+5». _ i.
+‘~"~V‘+nm7' ‘" “V‘*(m..)-'
+
+ 
+
+Au-Mli 4- (0.7:,0']; lie-MD +«uiwlz
+
+9.3M 0.. use the widthe oruth beck ecettering pettern in the 0x and
+0y directionenop-i/klu: Dad/*L hwon (10) it follows that for nation
+reletione between the width of ﬁne redietien pnttern end the width or
+the heck netted-in; petternOJonend we... the trenevme cox-mention
+
+18
+”I OFFICIAL USE OIL!
+FOR OFFICIAL USE ONLY
+
+function of the ooaplex anplitude of a reflected signal (for As . 0). in
+general. does not coincide with the surface correlation function.
+
+For broad antennae. i.e.. when the conditions (M0555 and (I‘M.)'>5u.52.
+are fulfilled. the expression for the noraalised transverse spatial
+gag-relation function of the coupler asplitude of a reflected signal
+ones - w l -
+, _ Ac? Ay.‘ 2: in
+(m MAJ ) , up[ (u ‘11.; )lmrumoerdy.
+Run, in, this case the standard correlation function of the coupler
+aaplitude of a reflected signal agrees with the nor-sliced correlation
+function of the surface (ac-9.). Derivation (11) agrees fully with the
+result obtained in [b] for a point radiation source. For a sea surface
+the shortwave band well suits snall irregularities (um 1/16). In this
+
+wave band it is also easy to achieve an antenna with a wide radiation
+pattern.
+
+Thus. the use of shortwave radio waves lakes it possible. in principle.
+to solve the reverse problea of detenining the three-dinensional
+
+correlation function of a sea sin-face fro- the three-diaensicnal correla-
+tion function of a reflected signal.
+
+However. the aerial detmination of the ﬁmee-dimmionsl correlation
+function of a reflected signal presents significant technical probleas.
+'Iherefore. m. a technical point of View it is useful to determine
+the autocorrelation function or the envelope spectru- of a reﬂected
+signal.
+
+2. line relation between the sea wave spectrum and the envelope spectru-
+of a reﬂected signal for a surface serially irradiated
+
+II‘ith the reception of reflected signals by a single receiving antenna
+
+andanaerial flight speed in the horizontal plane of V. using the results
+derived above and substituting in (8)
+
+(‘2) Ax|- 3‘ ‘1‘ Aug. .I.
+
+one can show that the expression for a normalised autocorrelation
+function of a reflected signal becoaes
+
+(18) Mt)-cxp[ - (‘VL—T" Vi?” x
+Xcosﬂ-Vnocs-zl Paces 0.1.
+
+An Au
+
+ 
+
+19
+
+FOR OFFICIAL 088 (ML!
+FOR OFFICIAL USS ONLY
+
+where Vx and V are the horizontal velocity coaponents of flight in the
+direction of e coordinate area: 'c—tiae: Q—angular frequency of
+the reflected signal.
+
+In investigating sea waves hen the air it is useful to era-inc a
+section of the surface correlation function Mex. Ag) in the direction of
+flight a-p..(Ar), uhere Ar—‘fAf-MF.
+
+In this case, for a unifora sm'feoe. wing the resulte derived above. we
+
+will express the autocorrelation function for envelopes of the reflected
+signal as
+
+m ' z» '
+(u) p..(:)-up(--E-)oax:v.:.
+
+where Val... A. are the flight velocity. the correlation radius. and wave
+length in the direction of flightuxespectively.
+
+In the shortwave range. given oJi<'/u . the energy of a coherent
+(fixed) coaponent of a reflected signal P exceeds th energy of a
+nonooherent (fluctuating) cosponent '11: ( JP.>3) [1 . In this case
+the nor-sliced correlation function of a reflected signal envelope at
+linear detector output approxiaately equals 'the envelo of the
+mrealized correlation function of an input signal 9.. (Mt ~P«("n~
+
+Asauaing p.(t)ap«(t) and using (110). one can establish the relation between
+the surface wave nuaber SA») in the a direction and the normal spectru-
+of the reflected signal envelope 82“.):
+
+as) ‘3.(x.)-a.'v.s.-(:..v.).
+more .-
+x- - -2—“-: e.-x..!’.~
+
+A.
+
+me transition tron a frequency wave spectra to a surface wave nuabsr
+spectru- can be accolpliehed by the foruula in [1]
+
+(so) s.(x.)-%-V%s.(vza.
+
+where x. is the surface wave nuaber in a direction. coinciding with
+
+the general digction of sea wave propagation: g—acceleration due to
+gravi ty: “-11“,
+
+20
+FOR OHICIAL USE ONLY
+FOR OFFICIAL US! ONLY
+
+Using (15) and (16) we derive the relation between the sea wave frequency
+spectma and the spectrua cf the reflected wave envelope:
+
+(17) s.(o.)- ”M“ m).
+
+s.' —
+
+(P I
+
+where Vo represents flight. velocity in the direction of sea wave
+propagation: th-YMIV“
+
+3. Experimental results
+
+ 
+
+Aerial experiaents were conducted over the Black Sea between 1710-1973
+and in 1976 with the aid of a specially slogan shortwave radar.
+operating at a wave length of i-iOa 5.1 . 2 . e technical data
+
+obtained fro-[yd instrusnt are presented in 11. 1 . and a functional
+scheaatic in 11;.
+
+Flights with the radar on board a plane produced at various altitudes
+(soc-1.090 a). for various speeds (250-500 III/hr). and in various
+directions a relatively central direction of sea wave propagation. 'lhe
+area of the sea undergoing study was 15-20 In: fro- shore. and 150-200 a
+deep. In all more than 50 flights were lads. A loop osci
+
+was used to record on board the plane the reflected signal envelopes at
+receiver output. A Gil—16 wave recorder. located on the sea surface [117
+and activated free the plane. recorded the height of the waves.
+
+in. variance in sea stn'fsoe height a.‘ was neasured eiaultansously with
+the radar recording of the reflected signal envelopes in the shortwave
+band. A fumtionaldiegraaof medeviceusedton urectandthe
+
+aethod used to take aesstmeeente are in 117. and the results
+of the neasureaents can be found in (E1. 1 .
+
+‘1he sea wave frequency spectra S-(l-) were calculated according to wave
+recordings obtained from the Gil-16 wave recorder. while the cereal
+envelope spectra 830.)an the reflected signal envelope recordings.
+
+'lhe ncrlal spectra of reflected signal envelopes were recoaputed b
+fornuls (15) into surface wave hunter spectra and through foraula {17)
+into irequency spectra of sea wave rises. ‘1he frequency spectra of
+
+sea surface rises, obtained free the wave graphs nade by the (”H6 wave
+recorder. were conpared with the spectra of sea emu-face rises. calculated
+
+tron the erperinental spectra of reflected signal envelopes with the
+aid of fcnula (17).
+
+A comparative analysis was performed on some than 30 spectra. which
+showed that they coincided quite well.
+
+21
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+5”), "Em: (nee)
+
+  
+  
+
+  
+
+  
+
+a: a: a: no mm a! 0.2 as at 46 0.6m (Nu)
+m. 2. Frequency spectrum of Fig. 3. Frequency spectru- or
+see even nixed waves
+5(r),u’cex(eec)
+a!
+a"
+at!
+‘1 " 4'.
+am a:
+\\
+at a: a: q‘ as 45mm.) «40-» a a» so no .
+Fig. lb. Frequency spectru- of Pig. 5. Angular dietribution of
+wind driven nvee . wave energy
+
+Figuree 2-15, for eneple. show the frequency spectre of see em'i'ece
+rises. 3-0.) (Iv-0J2»). derived free wuve recordings. eede m- the
+cn-16 wave recozder (solid lines). and the spectre of see aux-thee rises.
+coeputed ml reflected eignel envelope recordings (broken line). Fig. 2
+
+about: the spectra of u see even: Fig. 3—e conbinetion of nvee; P15. '0
+-uind driven wave.
+
+22
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL "8! ONLY
+
+Fro- tho radar data on the wave nubor opootra 8J1.) in tho a dirootion
+wore oonputod angular distribution {motions of wavo onam Ma). Pig. 5
+shown the Nnotionvia).obuinod by radar for «all. when Mommy
+apootrun io prountod in Fig. 2. According to oxporiaontal findingo
+
+tho dogmo of tho oooino n of tho angular diotritmtion function of
+
+wavo onor lioo within tho rango n-i.3-6. itith an inoroaoo in uavo
+intensity wave height) tho dogroo of tho ooaino n inoroaooo.
+
+'lho oxporinontal rooulto showed that it io poooiblo in prinoiplo to
+dotornino a tuo-diaonoional apootru o! ooa wavoo and a doooription
+of ooa wavoo by aorial radar in tho ahortuaVo tango.
+
+391.1038“!!!
+
+1. Krylov. Yu. N. "8 tral'mo now ioolodovaniya i rooohota
+vatro Rh voln" Spectral Hothodo or Studying and Coaputing iin'.
+Havo . Gidnonotooindat. 1966.
+
+2. Rytov. S. H. "Vvodoniyo v autiotiohoolnmi radiotiziku“ [introduc-
+tion to summon Radio Vavo may. m. Nauka. 1966.
+
+3. Gulin. a. p. m. vuzov mesa sssr. (mzonzm) lotin of
+tho WZ'o of tho Minis of Ilium: and Sooondary pooiai Education
+ussa (Radio um myoioos7. Vol 6, no 6. 1963.
+
+a. Bass. P. 6.: Mo. 1. n. 'hoaoyaniyo voln na otatiotiohooki
+
+norovno povorkhnoati" [iioporsion or Vavoa on a satiation}: Rough
+Sui-too , lad. Nauka. 1W2.
+
+5. Brolmov mm L. n. m ﬁomu of Exporilontal and ‘lhoorotical
+Physic , Vol 3, No 9. 1952.
+
+6. Isakovich. H. A. m, Vo‘. 3. 30 9. 1952.
+7. Zubkovich. 5. G. ”SuuatIChooldyo toriatild. radiooignalov.
+
+ottawonnykh ot zonnoy povorldmoati" Statiotioal Charao atico
+
+of Radio Iavo Signals. Ronootod ma tho hrth'o Surtac . lad.
+Sovotokoyo radio. 1968.
+
+8. 12:92sovakiy. A. P. 12". \WV HVSSO SSSR (MDIQF’IZIKA). Vol 12. no ‘5.
+
+23
+
+70R OFFICIAL USE ONLY
+9.
+
+10.
+
+11.
+
+12.
+
+FOR OFFICIAL 088 ON“
+
+stanchion. I. S. Wilt. I. H. “mummy inwcrslov. m. v
+1 prolnvcdonly“ 50qu of Integrals. Sat. 80:10.. ml Pnduo .
+13d. Nam. 1971.
+
+mm. A. Po. mm. '0 "0 .bnMIHIm mm” 1
+“wrongly." In. anticipation and locum . Ind. Suda-
+amyoniyo. 1970.
+
+wor‘m. A. A0. ﬁamv. A. 8.. I‘M. '0 T5. ”“0 m.
+Pablo. of Housman; the "eight of 80: km by Nucleation."
+
+1n ”Nebnuktmo new Annex-only: “momma: motmv“
+5mm of m. m 3.1 «mm “mm“ lothoda o2 mum-1n;
+Ocoommphio Para-ours" . Gianumimt. 1975.
+
+Omnkor'yan. A. A» Soaunov. A. 8. MIMI”. 1 man.
+v01 21. m 110 1W6. p 2”.
+
+COPYRIGHT: Imul’ltvo "hula.” ”WWW 1 oloktmnlkl." 1978
+
+3506
+C50: 1870
+
+2‘
+
+FOR OFFICIAL USE ONLY
+'0! OHICIM. US! OIL?
+
+“861803108 m 81.301110”. MIMI!!!
+um 621.3913
+
+MSNRKA‘HON OF THE SUN 0" NO 3810010 PHASE mm 8161MB BY A
+DIGITAL SIB L033 cmmuon um
+
+homo" RADIO‘IIIHNIKA I W!“ in Man No 12. Dec 78 pp 2519-2522“
+
+[track by v. p. Ipatov. m. A. loloaenekiy. and In. x. Shmilov.
+eigneﬂ'to press 31m- 727
+
+[Fourth digital filter for cameling side lobes of o periodic output
+signal is analysed. It is shown that the interfereme of two signals
+at input into a linear digital filter is not aoooapanied by the
+
+ance of new side lobes at filter output. Quantitative relationships
+
+are established which connect the quantitation inoreaent by level with
+the efficiency coefficients of digital pmceasing.
+
+21th spect to periodic phase aodulated (pa) signals. as described in
+1]? it is possiblo in principle to cancel ooapletelv all side lobes or
+a periodic crescmrrelation mmtion (100!) of a signal. The conditions
+necessary to create a filter for side lobe cancellation of the roar
+(acre siaply axon) and the relations which deter-inc its structure are
+derived in [a]. One pmaising 8112!. apparently. has a digital
+configuration. In particular. Pig. 1 presents a block diegru of a
+transverse [3] digital 3w? (new!) for a binary pa-signal with a
+period or u digits. In tho diagraa tho digitiser (n) converts the
+analog input into a discrete sequence of analog medias. within the
+interval 1;. who're ‘t’. is the pa-eignal digit length: the analog-to-
+digital converter (Aw) quantities this sequence according to a giVen
+stutdam. whil the weighting factors u. i - 0. I - I. selected
+according to 2 J. weight tho All: output. and u - 1 delay eleaents (as)
+in t} prior to delivery to the accuaulator. llithout any loss to
+generality. one nay assuae that the weighting factors y1 satisfy the
+
+noraalizing condition g"... Since the saw is designed to resolve
+
+O
+periodic nae-signals. overlapping in tile [2] and the introduction of
+an we lakes tho device nonlinear. the effect or tho m on tho resolu-
+
+25 a
+
+M OFFICIAL US! in“!
+I0! ONICIAI. "8! ONLY
+
+tion woluoo dooorvoo opooiol ottontion. 'lhio ortiolo mlyuo in dotnil
+tho offoot thot tho ouporpooiton of two poriodio binary pn-oiaaolo, in
+oonbinotion with ohot noioo. hon on o new.
+
+ 
+
+Key:
+1. Input 10. m
+2. D 5. Accumulator
+3. AD: 6. Output
+
+Lot gun/(g) bo tho AD: muriotio. into thou input gooo tho digital-
+to-onoloc puloo train of tho {on
+
+§'P-‘«m"’h’«um+"~ I- ~ - ~ . -i. 0. i. 2. . . . .
+
+whoro (WP/(MN). 0<((I))<N—i. x.-:1-oonplox uplitudoo of a binary
+periodic pu-oignol. k—dni'tt of tho' oooonti pu-oignnl ulntivo to tho
+first in digit. nunbor. n —roodim of ototionory ohot noioo with m
+noon. unit vorinmo. pro lit: domity U(n) ml ti-o oomlntion no
+grotto: than 4,}; pr. 1- - i. z-rotio of tho inothntnnoouo voluo of tho
+r-th oignol ot tho uonont of quantiution to tho ootuol noioo voluo.
+-oo<p,<oo,
+
+bot. oloo. .
+om-‘RB- j mum-cm
+
+—i-th initial uooont of union voluo ot we output, M ot tho input
+
+of tho lottortho t oquolo thou-o! tho {ind ton gondtho noioo
+value In. {no-1m.
+
+Tho rooult of tho omlog-to-dicitll Wot-luau of tho input pmooo
+can bo uprooontod by o ooquonoo of unborn 9,-[(g,),;-...,—1,o.l.....
+whorou tho i-th initinl lount of tho J-th clout or thio ooquonoo
+
+_,
+91'; 1‘!) 03th um»)
+
+duo to tho poriodicity 03.3.4111 “finality of noioo poriodicouy
+
+([0]).!!! on J. 1o°oowwﬁ.
+
+26
+
+m OFFICIAL US! Oil!
+FOR ONICIAL US! ONLY
+
+Ho will introduco tho following notation: Y-(vo. III“... yn-uY—N-dioon-
+oional voctor aatrix oi‘ tho weighting oootficionta of tho nswr (filtor
+vector). 1- (0.. 0...... m...)’ —N-diaonoional oatrix of aoan valuoo o!
+roadimo at. All: output. o-|d.,'u ..,vx1v aatrix of tho iinoar operator of
+tho cyclical shift. uhooo oioaonto abovo tho diagonal and louor loft
+oloaont oqual i. all othoro—O.
+
+1hon for tho loan valuo of tho J-th rooding at 0811:? output no obtain
+Zt-(D'PYY
+or duo to tho orthogonality of matrix D and tho oquality (OW-D" .
+rooulting m. it.
+(t) 2,-F’D"Y.
+
+Givon an odd ADC oharactoriotio and oyuotrical noioo tho function MG)
+
+ia odd: thoroforo. tho coaponontoo.. 1-0. 77-10! voctor F with roopoct to
+r.- at tako on only four poooiblo valuoo
+
+SNKPF‘Ta). cit-hm»).
+(2) Q‘-{ 30‘00-h). Sim-81mm.
+
+Roux-i tire (2) M M " %[ (Sv'hmmnwn 01+?!) +(31'3mm00u0n-hn.
+
+for vootor F uo obtain
+1
+r - younm (xwm %’¢u(h-h) (X-D'X).
+
+uhoro X-(to. 8......8n-n)'—II-dioonoional oignal r-aatrix. Ac long
+as voctor Y auot bo ooloctod fro- tho condition 2!;
+
+0. I¢0 1mm):
+I - _
+:0- Y {um 1-0 (nodN).
+
+uhoro n charactoricoo tho linear swr loco rolativo to a aatchod
+filtor. thon for (i) no havo
+
+0. [”0. HmodN),
+
+1 _
+‘3) 2“ ?'I'N”I (Pd?!) +'|(Pc-'I) I; 1.003“ N):
+
+1 _
+? n'Nlc. (awn-Myra) l. I-k(uod N).
+
+Applyim analogous “cu-onto. ono can obtain tho following oxproooion
+for tho var-ion“ of tho J-th loading at nsmv output:
+
+27
+
+FOR OFFICIAL USE ONLY
+1'0! OFFICIAL USE ONLY
+
+(0 D (2:) - %l‘| (INTO +%(PI"Ps) “9:. 03+”) "
+
+«cu-m1 +§tm+m-¢«.<p.-p.)-v.'<p.+p.)+
+
+IO!
+
+ﬂu. (PI-Pun 23‘ammhium-
+
+The arrangesent in (3). (a) Pa-O yields obvious expressions for the
+lean value and variance at nsmr output given only a single input signal:
+
+21-0. II'Nmod N);
+bum-Mm). I-0(mod N):
+0“,) "! (PI) “V3000
+
+Relation (It) shows that the introdmtion of an All! with odd characteris-
+tic into the sum in processing the superposition of two tine variant
+
+binary periodic ps-signals fomces the variance at filter ouput to depeul
+on both the reading nonhu- J and the signal levels a. I!» that is sore.
+
+so is apparent nos (3). the signal levels effect the seen values of
+the Iain lobes of the Star. it the ease tine (see (3)) the new values
+of the side lobes ressin equal to zero independent of signal intensity.
+
+Us shall find quantatstiVe estisatss of these effects for equidistant
+All: with characteristic fors
+
+(5) “9-1.. (In—l2) e<g<(n+l2) A,
+
+m-....-l.0.i.2.....
+
+share A is the quantization inoresent by level. nor-Iliad to the
+actual value of the input noise.
+
+By mun; IR) as
+
+m. “9-2440“(~+-'2-)]-~[-°-°("42)"-
+
+0. 8<0.
+m- % s-a
+1. :>0.
+
+28
+
+P34! OFFICIAL USE OILY
+FOR OFFICIAL 083 ONLY
+
+and averaging. eseunirc mm). noioe. we obtain
+m-amrte-«u-‘in+rl«+a<~+—;-m.
+- no
+uhere Nth-(HIE); exp(-t'/2)d! is the mob-M1194 function. Mount
+
+O
+useful fornuletion of ) 5mm th mti t1.
+em: into e Fourier 3:31:25}? o by “Yum-"8 0 q no on
+. A .. 2a»
+m him-gab” m7;
+M’mnsv I" obtain
+. I
+(8) mm-” 2%(-n-.m.dﬂw,[-z(%1) ]
+m- Mﬂ-vﬂm °M.:;¥ write
+
+(a) M9)-v.’(q)- 2 (Ab-ww{r[q-A 0-13)]
+
+h...
+
+-r[«-a(~+-;-)1}.
+
+For-ulna (6) or (8) and (9) lake it possible with (3). (it) to celpute
+the neon veluea of the win lobee end the vorioooe 1?. new! output. In
+
+particular. for the neon value of the main lobe of the first 315ml
+we obtain foot (6). (3)
+
+«m a-Lz'fmrlmn-abuin
+
++»-[»37.+a(~+%)1HIM-«(min
+
++F[ mm“ (m + ia)”
+
+or Pro- (8). ('s)
+
+w».+£2‘2’m4-2uﬂr1
+
+ 
+
+no!
+
+Xoin 2". 2M. }.
+
+A AMT?!
+
+ 
+
+29
+
+POI OFFICIAL OS! OICLY
+FOR OPPIOML 088 ONLY
+
+0! spooiel interest is tho situstion in which one of the signsls. for
+ample. is week. Assn-in; p.<l and restricting onsself in expansions
+
+(10). (11) in ﬁne p1 lows only to nonbers with first degree 1);. we hsvo
+
+ 
+
+ 
+
+m) mfgélmL (“"(:+‘21)). ]
+W[ -""'“';*"='”' 1}. .
+
+or _ . - . - ﬂ . .2“:
+(13) z.=..m,.{1+:§.( 1) exp[ 2(A)lcos A h}.
+
+Series (12) very repidly converges for A>u. while (i3)—for A<:t.
+Considering tho oddness ofwlquimqnnd the (not that so ,,-q,,(h*,.)
+
+-Mm). methb'wm). for tho valence st new? output for p.<1
+we obtain
+
+an 0(2.)-D(z)=¢.o.)-v.'(p.)- 2, (Am-MpM'x
+
+x{F[~-°(--%)l-'[»-A(~+%)]}- .
+
+Figure 2 shows the functions
+
+t- W “(2)
+1mm”: A
+where A-consl. characterizing the worsening signsl-to-noise ratio of tho
+ssin lob. of s wool: signal et IBIS! output in oomrison with s lineu-
+
+sum, depending on tho intensity of the second. signsl. oolputod by
+formulas (12). (13). (11+).
+
+ 
+
+ 
+
+30
+'0]! OFFICIAL USE ONLY
+I08 OHICIM. US! ONLY
+
+1110 periodicity of i and eyeletry of the function blue/A) given the
+variation Q 4 iron we to on . caused by the periodicity and eyuetry
+of qusntiss on error (7). sake it possible in Pig. 2 to linit oneself
+to an interval of the abscissa
+
+Hui-u- loeeee in the signal-to-noiee rstio in the nth lobe of s weak
+signal. so Fig. 2 shows. is observed for intensities of the second eignsl
+Anna. while nininun losses for RICHMMA m n is e whole number.
+The reason for this in that for Rea-Athe seen vsluebot no input home
+the center of the horizontal sealant of the choreoteristic (5). so that
+the effect of the weak eignsl on Am output is ninissl. hora-(003M
+on the century. 1. occurs at the break point [(0. when the presence or
+sbsenee of o week eignsl is naxinslly felt.
+
+Pig. 2 also indicates that in the resolution of two signsls. one of
+which ie weak. the choice of the nornslised quantisetien increeent A5 2
+guarantees both s ensll loss in the sicnsl-to-noise rstie in cosparieon
+to s linear sum. and en almst totsl look of dependence of me neon
+value and variance of the nsin lobe of s vesk signol on the intensity
+ci‘ the second tignsl st filter input.
+
+BIBLIOGRAPRY
+
+1e Milt. Pe A03 bl'mv. 1e Ae‘ m1”v. 3. "e. mime Ac Ael
+Repin. V. 6.: Tartslnovskiy. G. P. Shimlnov. V. V. "Vopnosy stotis-
+ticheolroy toorii redioloksteii" Topics in the Ststisticol lbeory
+of Radiolocotion7. Vol 2. m. Sovetslmye radio. 196k.
+
+2. Ipsétgg. V. 1’. ”010139!!!“ I WM“. V01 22. No 8. 19”.
+P 1 0
+
+3. Bogner. 8.. and Komtontinidis. A.. editors. ”V eniye v ”1!on
+til‘trsteiyu" inundation to mun mun-1 . m. an». 1976.
+
+lb. gin. B. I‘. "Teoreticheoltiye osnovy ststistiche udiotekhnilti"
+_ eoretézsl Bases of Statistical Radio Milieu-i . Isd-i'cvetsluoye
+radio. 1 ).
+
+COPYRIGHT: Inlstel'stvo "huh." ”MOW!“ 1 olektronlkl." 1978
+
+8506
+050. 1870
+
+31
+m OFFICIAL UL . OIL?
+m omcm. us: omx'
+
+ELECTRONICS MD MEAL WWI!”
+
+unc 621.39i.2
+
+DIGITAL mas-mom WPS FOR MBSING mm 81W
+lbseou MIMI“ I mama in Russian 30 12.1w: 78 pp 2525-2533
+
+article by n. I. Zhodaishskiy. signed to press 28 July 77. originally
+presented at. the Second Scientific and Technical Seainar on Phase
+'-8ynchmniaation Systsas. Oor'kiy. Jun 1975)
+
+ﬁexgme probability distribution. expected value. and phase error
+variance of digital phase-locked loop tnokiu are analysed. mass-
+locked loop circuits are deeigneti to filter out-or-hound noise and
+pseudonoisy aigmls or serve as eyahcl synchronisation systens.
+
+Pertoraance Algorithms
+
+In addition to filtering haraonic signals digital pheaeolocked loops
+(cm. are used to filter vi eo signals (for syabol synchronisation
+
+[1‘ . . out-of-bound noise . 0 anti pseuionoisy signals). Siaple mm
+havo been studied in detail. in which the error signal is generated by
+using a "sen“ input signal and video noise air i e.. a short pulse.
+toned when thu input nix passes thrown servo [1.7 (conventionally. the
+first algorithn). 3mm circuits operate well men the signal-to-noise
+ratio at digital phase detector (on) input s - Uc/g (uhere no end 6
+are the signal anplitude an! standard deviation ct noise. respectively)
+is significantly greater than unity. However. of no less practical
+interest today is the case were and and especially “v.1. In these
+cases Mlle. “I“; a m input video signal-noise air. cannot function
+
+noraally. 'Do correct this deficiency the operational slgoritha of the
+DPD aust be ctsntrged.
+
+The second pertonance algorith- calls for ﬂue qmntisation or the input
+air at the anaent. t3. the reference oscillation changes sign. The
+mater a’ . thus generated. in the case of out-ot-bouui or pseuionoise
+synchronisation. is aultiplied by *1 or -1 dependim on whether the
+reference oscillation at acaent tg is positive or negative. During
+synchronisation (without using a separate sync signal) the amber s'is
+
+32
+
+'08 OFFICIAL USE ONLY
+FOR OWICIAI. USE ONLY
+
+stored in a single symbol. at. the end of which a special schematic (logic
+block) detenines whether there vas a change in binary digits close to tk.
+Afterwards a’ is multiplied by zero. if there was no change; by +1 if the
+digit #1 charged to -1. and by -1 if the reverse occurred. 'Ihe nueber .
+resultiru m- the multiplication. undergoes mrther processim through
+linear enoothing circuits ich are built the ease way in wn syabol
+synchronisation systems [1 and haraonic signal nm's [h . An
+era-pie of this circuit is shown in Fig. i (for a first order astatic
+state and binary quantization of the input nix). In this circuit the
+liaiter (Lia) rigidly limits the input. nix. the correctible counter
+
+CC. acts as a digital integrator (according to the sign of the nuber in
+the (261 before duping. an evaluation of the transeitted sysbol is aade:
++1 or -i); 062 (with nunerical coefficient n,) controls the transaiasion
+factor of the DPLL circuit. and the divide countor (with nuaerical
+coefficient a.) reduces the phase Jmp oi‘ the input signal to Wnao
+
+If the binary quantization of the input six is allowed. then the
+described algorithas make it possible to construct sisple any: for
+video signals. linen binary quantiaation is undesirable (due to energy
+loss) in the intonation channel. but allowable in the synchronization
+circ t. one can apply the circuit with secondary (binary) quantization
+[5. (conventionally. the third algoritha). In this circuit emu a
+single symbol (pulse) of the input video signal a sufficiently large
+nuaber of sultilevel readings are produced. which undergo further
+processing in the intonation channel. In the synchronisation circuit
+from these readings are selected only those at the resent the video
+input signals hypothetically change sign: they are aultiplied by 1 i
+(dependim on the direction of change in sign) and sued in several
+pulses. no result of the sunstion undergoes binary quantization.
+asking it possible to OPP)! the sale siaple linear snoothing circuits.
+which are also part of the algorithas described above.
+
+All three algorithas emined here are entirely realized as digital
+sicrocircuits. The known DPLL's or video signals are built using
+digital and analog elsaents [5. 2;. In these systeas. instead of
+quantitation of the input six at the assent the output pulse appears.
+quantization of the integration result occm-s for the gate length (1‘, ).
+whereas the time shift of the gate is dates-lined by the phase of the
+output signal (conventionally. the fourth algoriths).
+
+2. Discriaination and Fluctuation Characteristics. me emailinesr lode
+
+In amlyzing mm for a video signal we will use the sale quasi-
+continuous “that! that is also used in analyzing harmonic signal W's
+['6]. In general (for a haraonic signal especially). the coaputation
+
+33
+NR OFFICIAL USE ONLY
+'08 OFFICIAL 083 ONLY
+
+of the ﬂuctuation oherncterictic of the equivalent dieorininetor N.
+nppenre releti vely ounbereone. However. this article canines the once
+of u o lnted readings :.[r] atmc output. for which. men i‘ornule (is)
+in [5: . we obtain the following einple for-ulna
+
+(I)
+
+N.-ZD/F.
+where D. in the variance of Mr); F —qmntizetion frequency.
+
+(3)
+
+ 
+
+Key:
+1. Input 7. Correctible Counter 1
+2. Low Peso Filter 8. logic
+3. Liniter 9. Bin-.17 3:11:01:
+16. Analog-Distal Converter 10. Divide Counter
+5. Delay 11. Adder/Sumter
+6. Dup 12. Correctible Counter 2
+
+ 
+
+36
+
+ml OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Hero we are interested in the fixed soda. in which the phase error of
+nm tracking e— we... (the difference between the phase of the input
+signal less noise and the output phase) is less than the periodicity
+interval of the disorieination characteristic (no) and this periodicity
+say be ignored. lbreover. as will be seen further. the for- of the node)
+is well spproxisated by the varying linear function in Fig. 2. If |v|<0h
+then a quasilinear operation sode occurs. In this node the phase error
+«pm is ncrsslly distributed with variance .
+
+(2) °e"'NoAIM
+
+where N.-N./I:.’ is the equivalent fluctuation characteristic: ka-
+[dug/dc]... —trsnseission factor of the disorisinator; A]. -the
+equivalent bandwidth of the DPLL. For second order aststic state DPLL's
+
+the transfer function of the linear sleuthing circuits can be represented
+as
+
+(3) K(r)-(k.lp)(1+ilpre).
+when
+
+(4) tin-(m) (i+t/k1‘.).
+where k-k.k..
+
+Fbr first order sstatic state in (3) and (u) it lust be aseueed that
+1-,»... For a standard linear seeothing circuit configuration (as. for
+exasple. in Fig. i) k.-2nF/n.n,.
+
+In findiru “((9) and N. for sysbol synchronisation systess. which
+
+to be sisultaneously deeoduiation (detector) eyeteee for binary data
+sysbols. we will ignore the affect of errors in data “ing sysbols in
+DPLL operation. which is allowable for “all probabilities of error in
+detection. He will also ignore the difference in the +1 or -1 values
+of pseudonoisy signals. Our analysis will concern itself with the sore
+prevalent case of binary quantization. ‘Ihe forsulas presented below
+relate directly to the synchronization of an out-of-bound signal. For
+the synchronization of pseudonoisy signals and for eysbol synchronization
+half of the error signals :.[r] are equal to zero on the average: there-
+fore. 00;). k... Na. AI. are halved: N. is doubled. and o.‘ remains unchanged.
+
+He will cosputn the characteristics for the first algorithm. it ﬁts
+transnittim end of the radio circuit the video signal can be viewed as
+
+split. i.e.. a signal with infinitely steep edges. However. because of
+the united bandwidth of the receiver (fro- the antenna to the generator
+
+of the zero input air) the edges collapse. We will take theofteoused
+VPX linearzgypiodnation of the signal shape at receiver outp t
+( g; p 95: 3 ) with leadilu edge pulse tine «wt/2A1}. ([8 ,
+p. 95. where AP. is the equivalent receiver bandwidth (i.e.. the
+
+LP? bandwidth with rectangular n‘equenoy characteristic tron o to Al". its,
+equivalent to a receiver). lie will consider the fluctuations of the
+
+35
+
+FOR OFFICIAL USE OhLY
+FOR OFFICIAL USE ONLY
+
+pulse edges at. receiver output to be independent. and that the condition
+tat/IMF. is set. where 1. is pulse (syabol) length for synbol synchron~
+isstion and pseudonoise or the half-period or out-of-bound noise. ‘lhe
+noise variance at receiver output o'-N..-iI-'.,where No is the spectral
+density of white noise at input (transnission factor of the receiver in
+the transaission band is conventionally accepted to be unity). For the
+first algoritha at receiver output the condition 3)! obtains. for
+
+which the bability dis bution of zero fluctuations is practically
+norsal ( 13. . 28: [9 . p. 360). whereas the tine fluctuation
+variance 0‘... ll‘ . where l- UJt» is the slope of the pulse edge. After
+
+rcooaputine these tiae fluctuations into phase fluctuations (according
+to the formula tile-Welt. ), we obtain
+
+a ”we
+
+(5) out" T‘te’ve'A’e ‘
+
+'lhe error signal z.[r] takes the values +1 and -i with the following
+probabilities:
+
+P(+i)-0(¢l0.-). P(-i)-i-'-P(+1).
+
+From here it is easy to obtain the followiu expression for the dis-
+criaination characteristic:
+
+0(0)-P(+1)-P(_-1)-20(9/om)-i-
+
+This characteristic is well apprcadnted by the varying linear mnction
+(Pie. 2) with a slope (for the sloped portion) equal to
+
+20 t 12A!
+(5) I: -44,
+' div.
+and with horizontal portion c.-i.
+
+In the nest feasible case for the first aleoriths lel<9o we have 0.5!.
+
+tron which (Oh-21'. (since Iii/t.)- Using the tor-ula derived above {or
+this case it is not difficult to obtain (for a first order sstatic state)
+
+ 
+
+36
+
+FOR OFFICIAL USE ONLY
+FOR OWWMI. "RR ONLY
+
+ 
+
+Using 5) one can transfon (8) into the familiar fora presented in
+[To 27'
+,_ MG:-
+(9) a. View.“
+
+He now obtain the characteristic for the second algorithm. is in the
+case of the first algoriths. we assme that the video signal air arrives
+at we input with a leading pulse edge tine to.-i/ZAF.aui norsal noise
+with variance o‘—N.AF.. me probabilities of the +1 and -1 signals at
+All: output in this case are
+
+PHD-001.40): P(-i)-l-P(+l).
+where u.. is the signal value at the cement of quantization. from which
+
+s(9) ~20 (ﬁeld-i.
+
+In the cost interesting case for this algorithm. Ki . we have D.81
+and rpm here the no takes on the for- shown in Fig. 2. while u.-
+yi‘a/Vn. and for h. Ahead e.‘ fenulas (6)-(8) u. still valid. v.
+eaphasise. however. that the first algorithm works for oi. uhile the
+second algorithe (as well as the third and fourth) work for randos s.
+
+He now consider the third algoriths. It is convenient here to consider
+the output of the discrisinator as the output of a binary quantiser. it:
+find 4(9) and N. one sust first determine the ratio (an) of the expected
+value to the standard deviation of noise at quantiser input. Ignoring
+quantization error of the first quantiser. we find
+
+tat-ﬁnals.
+
+where a is the number of averageable readings (between the first and
+second quantiser): u... and a —signal value (at the accent of quantiza-
+tion) and the standard deviation of noise at first quantizer input. Since
+processing the hinarily quantized readings here does not differ free a
+similar processing in the preceding algorithms. the fcnulas derived
+
+above still apply. so long as s is replaced by sVIn. tie will apply
+
+these for-alas to calculate DPLL's of the second order astatic state
+
+examined in [3]. An equivalent transfer mncticn of the linear
+ssoottniw circuits in this systu equals
+
+MFA.
+
+(10) Km- p
+
+ 
+
+(”ﬁg .
+
+where F-mm A. and A. are coefficients i the proportional and integrat-
+ing loops of tne system (see Fig. i in 3]). By cospariu (10) and
+
+37
+FOR ORIGIN. 058 0&2?
+NR OFl’ICIAL USB 0!!“
+
+.\
+
+ 
+
+£3; we find h-énFA" rpm/am. Substituting these expressions in
+is . we find
+0 A
+(u) M,- A' 4-_'__
+
+11mg, '- 4mm. '
+
+As applied to the systos under exasinstion fonulaa (6) and (8) redme to
+the following:
+
+12'; m
+8‘!” ‘ .
+
+V 1.2- n't 'A
+'3 ._ L‘ﬂ‘s-At + as I
+( ) o. l'ﬂlh drunk:
+
+Fora las (11)-(13) for AL. 1:... o.‘ coincide with fonulas (18). (13). (20)
+in 3] for Wt. .4... o" . 1: one 2;- es the following correspondence
+3
+Inn-rt
+
+('2) ka-
+
+ 
+
+ 
+
+ 
+
+in notation between this uork and : meow: (Iv-A: t..-AT.; tin-N:
+mun: m'o-p. In asking the co son one should keep in aind that
+we are using here a one-sided band dth AI. and one-sided spectral
+densities (N. N.) . more» in [3 W. is a two-sided mum. at —
+a one-sided spectral density. and .(M-tuo-eided; therefore. N.- .(0):
+W,.-2AI.. 1h in this study is related to pulse length (w-Zmln).
+uheress in 3 g-to the period of output fluctuation (earn/r.) t there-
+fore,e-2@.A.,- “OJ-«3.1m quantity n. for us is equal to the ratio
+
+of reference pulses. entering the adder/subu-actsr. to the frequency of
+the first quantizationﬂltd. mich is twice as great as the frequency of
+the output signal in [3 ( ince two readius are generated for one
+output signal period in 3 ).
+
+'ihe fact that the formulas here ages with those in [3] is no accident:
+[3] also uses a quasioontinuous method for the siaplest case of
+independent r signals :.[r] and quasilinear operational node. has
+authors of 3 note the ”striking coincidence" of their data derived
+
+in this way with the experisental results having little enor (i.e..
+quasilinear node). However. both conditions (independence and q «-
+linearity) are not required to apply the quasioontinuous Iethod m.
+
+He turn to the fourth algorithm 'ib sisplify utters we seems that the
+gate length ‘l’. is much greater than the length of the leading pulse
+
+edge of a signal at lntegrator input and for this reason. it is neglected.
+ﬂoreover. it is easy to see that the variance and expected value of the
+process at All: input are
+
+0"IVWJ2; “n-0s‘I9,“ «Ollvl‘WL
+
+38
+FOR OFFICIAL US! Oil?
+FOR OFFICIAL ”8! ONLY
+
+hence
+P(+1)-ow.r.oﬁ?(avt'ﬂ.')'l:
+P(-i)-l-P(H).
+
+Coaparison of (11:) with the corresponding expressions for the algorithas.
+previously emitted. dentin that all the formulae derived above are
+still valid. if tn-iIZAFo is changed to 1'. . 1n. shape of the at: in
+this case also corresponds to that in Fig. 2.
+
+3. Nonlinear "Ode
+
+(M)
+
+In analysiru a nonlinear node we liait ourselves to an exaaination of
+DPLL's of a first order astatic state. ‘ Ilith the ai o the structural
+schsaatic of the quasioontinuous analog (Fig. i in 21 5}). valid for
+synchronisation of signals of any fore. and ot expression (3) (for 73-0“) .
+it is not difficult to foraulate the followim differential equation:
+
+(:5) o-o-hluhm'ﬂiuot
+
+Here v. represents the initial detuning of the input signal frequency:
+{(l) —noraalized white noise. at which
+
+(10) wnu-n-osw).
+
+'lhe differential equation (15) corresponds to the following Fokker-
+Plank equation for phase error probability density Mo):
+
+OD 0 3'
+(i7) 7‘ "a?“ (9)v}+0,5 WW»),
+
+where
+
+(18) A(9)'¢k"‘o¢(9)3 3-0.5”.N.
+
+In this case the probability of large snore M can be ignored: there-
+
+fore. the probability flux in a steady-state node is nonexistent and the
+steady-state distribution appears as
+
+as) w..(o)-(c/B)oxp{z I [AM/Bide}.
+
+Expressions (15)-(i9) are valid for any tors of signals. Substituting
+
+egpéessions Mo) and B in (19) for video signals and integratim. we
+0 n
+
+(20) mum-c.upl4(e.+k.a.)oIN.k.'l for e<-¢..
+(21) In“) W. expl-Zao(e-¢.e./k.ao)'/N.k.e.) for ‘9l<9<9u
+(22) v.(9)-r.erp[4(¢.-k.¢.)9/N.k.'l for 9WD.-
+
+39
+
+FOR OFFICIAL USE ONLY
+FOR OHICIAI. US! ONLY
+
+Coefficients c..c..c. are based on conditions
+”4"“) "MW.” ’49:) “”4903
+
+fume-1.
+
+Porforsins tho corresponding transfonntion and introducing tho notation
+
+"4m v-VW
+swim.
+
+we find
+
+i/c.°-l/yr'c.-l 1/] (1+1) loxpl-v‘ﬂ-H) 721+
+
++li/y(l-x)loxpl-V‘(l-3')/3]+m(oiv(l-I)1+
+
+WWW!) 1-1). t.‘-c.'-c.vr'-c.oxp[o.5y‘(i-x') ].
+Obviously. fros expressions (20)—(22). the probability distribution undo)
+consists of senents of exponential and normal distributions. Ibroovor.
+quantity r appears to be sons kind of characteristic of tho fluctuatiru
+properties of the systes. while 1M. —s symhzwonisation bandwidth. The
+value y charscterizes the relative length of the sloped section of tho
+no. uhsrsss 2 represents the relative value of the initial detunine.
+Fbr y>(3-5) and ssall s the am. circuit examined here behsves alsost
+
+like a linear system while for y<0'.5—like a continuous syste- (i.e..
+s systsa with continuous no). In the first case
+
+name-mung; wn(o)~w.(9):
+C.-. WEE-in!»
+
+In the second one say ignore the sidnle section of the probability
+
+distribution (mom) and consider only two exponentionsl functions mh)
+snd w.(c) . in which
+
+cu-Ca-zl(*ﬂo)'-(¢c)'l”‘n"o”m
+
+With the aid of (20)—(22) one can find the following expressions for
+the expected value and standard deviation of the phase error:
+
+(23) o-xr'm; s). «3-way. a):
+where (m. 3 and b)
+
+(24) My.s)-(ch/x){<-oxpl-v'u+m>x'
+i 1 - A.
+x (73+ "(j—7+.) >+‘“Pl-v'(i-x)]>x
+x (Vi—4+?(Ti-xT'» +(‘n'V/‘)(oxpl-r‘(1+zwz1_
+
+«xvi-f(i-:)'/2]+f§u<oly(i-t)1+0lv(1+8)1-1>);
+
+‘0
+
+NR OFFICIAL 083 ONLY
+FOR OFFICIAL USE ONLY
+
+(25) My. I) -c.‘v'(<oxpl -v'(1+s) l><vl (1+x)+
++2Jy(1+3)'+2ly'(l+s)')+<up[-y'(1-¢) px
+X(y.'(1-:)+2Jy(l-x)‘+2/y’(I-:)'>)+
++c.’v'(-v(t+z)cxvl-v'_(1-s)'/2l-v(|-I)X
+Xoxpl-v'(1+:)'/2]+12a(t+y‘x')x
+X<0lv(i-8) 1+0[r(1+s)l-D)-x'!.'(v. 8).
+
+Anny-1. of mum (2b) and (25) mﬁ’rt lug-5014.“. x-o).
+. , .
+
+,Illllln
+Jllllllﬂ
+.Egillﬂn
+lllgnlm
+gall-Mu
+AIIIIKMI
+IIMEZII
+signal-
+saga-ll
+,EEVIIII
+
+miu'“
+
+RS ' a
+1119 following say-pectic ammunition is valid {or n quasilinear lode:
+
+”(”- ”~14”. ‘) “F'-
+In discontinuous node
+
+       
+     
+   
+   
+   
+   
+ 
+ 
+
+  
+
+ 
+
+20+")
+
+2
+110.0813. MVJVIW.
+
+51
+
+FOR OFFICIAL USE ORR!
+103 ontcm. "8! ONLY
+
+In particular. for the 1mm exuined in [' 6]. using these tannin
+it. is not difficult to derive (for e discontinuous node given 9 - 0)
+
+(so) («Md-1921's:
+
+uhere Ao-Zu/npz 9-..... A coepurieon of the results oospu n fonuls
+(26) with the results obtained by discrete Herhov oheins 6 shows
+
+that. error in oelculstiu the vsrience by the qussioontinuous nethod does
+not exceed the value of the internsl phese fluctuetions (A.'lt)aiven sny s'.
+In pat-action circuits um veins (1.... vsrience of phase fluctusticne
+
+st cyst. output in the ebeenoe of input fluctuation-neon“ g W
+on?. 'lhe results derived m- torsuls (26) (solid curve) and (roll 1 )
+in J (crosses) are presented in as. 5. which slso shows the sueight
+dot-dosh line OJ Ao-Oﬁ. corresponding to internal phsse noise. We note
+thst 13",: is practical; iuiependent of I for the ususlly encountered
+cese > L.
+
+:54:
+5
+
+J
+
+Ilith the help of graphs in Pip 3 end ‘6 it. is not difficult to determine
+9 and o.’ for seen y vslues (0.5<v<3).
+
+ 
+
+I
+
+For colparison it should be kept in um thst in [6]. nu. 3] A
+and Ggstsnd for e. loop suple end input um nuctmuons 15-1133:qu
+of its periodfﬂo-WD. uhile in Fig. 5 end 12—pin” fluctuations in
+degrees ovum-m use which. using (26). we hove oe-aﬁ't's/I'p.
+
+62
+
+FOR OPPICIAL USE ONLY
+FOR OHICIAL 083 ONLY
+
+Analysis of the derived expressions shows that in the inst thus
+alsorithss s change in bandwidth AF. (gets 1'.) leads to s change in so.
+and consequently. s change in the synchronisation bandwidth km. 1h keep
+it fms changing with s x-mm increase in AF.(dsorease in 11,)». not
+be increased if 401:1. In this one increasing AP.(decressine t.) results
+in: for e quasilinear sods—s reduction in 9 given a.' does not change:
+
+for a discontinuous sods—en increase in both emrs. consequently. the
+option. AF. (or 1‘.) velue corresponds to the sen y vslue between the
+quasilinear and discontinuous sods. ‘lhsss properties essentially
+ssparste video signal W circuits use harmonic um. oirouits.
+
+nuuocnmr
+
+i. Ginsburg. V V.; lsystskss. A. A. "lboriye sinkhxonisstsii desodu-
+igiomv' ‘lhs mm o: Duodulstor amniuuog. m. som'.
+1 .
+
+20 um. '0 Jo. Am". To Os 1- m. We mmmr. Con-18.
+No 2. 1970. p 1'51.
+
+3e “013.3. Jo ‘el mm‘e Ce Re 133 We mme. co.‘22. h 19
+
+1:. modzishskiy. ll. I. RADIOTIIHIIIKA I mum. Vol 18. No 5. 1973.
+p. 979.
+
+5. ﬂoggishskiy. H. I. RADIOWIIA I WI“. Vol 18. No ‘6. 1973.
+P 7 ~
+
+6. Hell”. Js Ks In Me We. 00"200 N0 2' 1972. p 119s
+
+\
+
+7s Cegns. J. 3-: W. D. No In m3. com" Goa-20. No 2. 197“.
+p e
+
+8. 11min v. m; Veytsel'. v. A. "Radiouprsvlsniys" [ionic lsvs
+Control . Isd. Sovetshoys radio. 1962.
+
+9. Shlyspoherskiy. V. I. "Osnovy isthniki persdsohi dish-smith
+mugmrgguc nonunion or mam: Intonation Mission].
+
+COPYRIGRT: Isdstel'stvo 'lsuks." 'Motskhniks 1 slsktmnika.” 1978
+
+8505
+030: 1870
+
+103
+
+FOR OFFICIAL 053 ONLY
+VIKTOR AMAZASPOVICH AMBARTSUMYAN
+Moscow VESTNIK AKADBMII NAUK 888R in Russian No 2. 1979 p 123
+[Article commemorating V. A. Ambartsumyan's 70th birthday]
+
+[Text] Academician Viktor Amazespovich Ambartsumyan. Hero of Socialist
+Labor and President of ArmSSR Academy of Sciences. by ukase of the l’residlum
+of the USSR Supreme Soviet dated 15 September 1918. was awarded the Order
+of Lenin and his second gold Hammer and Sickle medal for outstanding services
+in the development of Soviet science and in connection with his 70th birthday.
+
+To mark the labor exploits of V. A. Ambartsumyan. Hero of Socialist Labor. a
+bronze bust will be erected in his homeland.
+
+V. A. Ambartsumysn is one of the fouiders of theoretical astrophysics in He
+USSR. At the same time as the Dutch astronomer Zanstra he created a physical
+theory of gaseous nebulae. being one of the first to draw attention to the
+importance of nonstationary phenomena in space in understanding the processes
+of stellar evolution: and developed methods for evaluating the loss of mass by
+nonstationary stars anti novas. V. A. Ambartsumyan first showed the meaning
+of stellar associations in solving the question of the origin of stars. thereby
+solving one of the problems of modern stellar cosmogony. lie is credited with
+the introduction in science of the concept of galactic nuclear activity.
+
+The value of the VIOI'IOi of V. A. Ambartsumyan on the theory of transmission of
+emission. especially the principle he formulated of invariance. has gone far
+beyond the framework of astrophysics. These works formed the basis for
+
+research into the phenomena of transmission in the most diverse fields of
+science.
+
+V. A. Ambnrtsumyan has given much attention to the training of scientific
+
+personnel. Among his numerous pupils are members of USSR Academy of
+Sciences and academics of sciences of Union reptblics.
+
+64
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE nNLY
+
+V. A. Ambartsumynn has worked for over 80 years as President of ArmSSR
+Academy of Sciences. which became one of the leading centers of Soviet
+science. He is head of the llyurakan Observatory which he created.
+
+The activity of V. A. Ambartsumyan is widely known in international scientific
+organimtions. For many years he was vice-president and president of the
+
+International Astronomical Union and president of the international Council of
+Scientific Unions.
+
+The scientific services of V. A. Ambartsumyan have received high evaluation
+throughout the world. lie is a laureate of USSR State Awards. has been honored
+with the gold medal and Award Imen! M. V. bomonosov of USSR Academy of
+Sciences. gold medals of the British Royal and Pacific Ocean Astronomical
+Societies. and has been elected a foreign and honorary member of many
+academics of sciences and scientific societies.
+
+V. A. Ambartsumyan is a member of the CPArm Central Committee and is a
+deputy of the USSR Supreme Soviet.
+
+ 
+
+COPYRIcll‘r: Izdotel'stvo "Noun." "Vutntk Ahdau unit 8881!." 1979
+
+8617
+C50: 1870
+
+45
+FOR OFFICIAL USE ONLY
+VALBN'I‘IN PB’I‘ROVI‘JH OLUSHKO
+Moscow VESTNIK AKADEMII NAUK 8888 in Russian No 2. 1979 p 124
+[Article commemorating V. P. Olushito's 10th birthday]
+
+[Text] Academician Valentin Petrovlch Oiushko. Hero of Socialist Labor.
+laureate of the lenin and State Prizes. has reached his 10th birthday.
+
+1hc Presidium of USSR Academy of Sciences sent V. P. Glushko a letter of
+
+greetings in which his scientific and science-organizational activity was
+described.
+
+From the first small experimental jet engines designed by V. P. Glmhlco in the
+years ”30-1931. says the greeting. to the family of powerful rocket motors of
+today-this is the path of the founder of Soviet rocket motor construction.
+
+In 195?. motors designed by V. P. Olushko lamched the first artificial Earth
+satellite in human history into orbit. Since then his erugines have bee placed in
+all missile systems; consequently Oil country has attained remarkable succesus
+in the study and mastery of outer space.
+
+V. P. Glushko is author of 245 scientific and popular science treatises (published
+sincc l926).
+
+In the greeting is noted V. P. Glushlto's ability to unite large scientific research
+collectives and to direct them to solve complex scientific and technical
+problems. V. P. Clushko has been the continuous leader of the scientific
+research and test design organization (ODD-0K8) proposed by him which. in
+1979. was 50 years old.
+
+66
+FOR OFFICIAL USE 0.‘!LY
+FOR OPVICXAL USE ONLY
+
+V. P. (ilmliko has given much attention to scientific organization activities of
+USSR Academy of Sciences. Everyone knows of the tremendous contribution of
+V. P. (llmhko to the creation of the three fundamental reference works of USSR
+Academy of Sciences on the thermochemical. thermodynamic and thermophysieal
+properties of substances. Including products of fuel combustion. These reference
+books. which have received world-wide recognition. provide the initial data to all
+forms of scientific and engineering and design studies.
+
+V. P. Glushko was awarded by gold medal imenl K. E. 1‘slolkovskiy by USSR
+Academy of Sciences.
+
+V. i’. Olushko's scientific and organizational work is combined with great socio-
+political activity. lie is a member of CPSU Central Comittec and is a deputy
+of the USSR Supreme Soviet.
+
+V. l’. Glushko. constructor general. has been awarded five Orders of Lenin and
+other orders and medals.
+
+in Odessa where V. P. Glishko was born his bronze bust was erected and a
+memorial plaque was set on the home in which he lived. Odessa elected V. P.
+Glushko ns its honored citizen.
+
+The Presidium of USSR Academy of Sciences wished V. P. Glushko good health.
+lnexhaustabie energy. and new creative accomplishments.
+
+ 
+
+COPYRIGHT: Izdatel'stvo "Ranks". "Veatntk Andean molt SSSR", 1979
+
+8617
+080: 1870
+
+47
+FOR OFFICIAL USE ONLY
+SERGE? L'VOVICH SOBOLBV
+Moscow VBS'I'NIK AKADEMII NAUK 8888 in Russian No 2. 1979 p 125
+[Article commemorating S. L. Soboiev‘s 70th birthday]
+
+[Text] By ukase of the USSR Supreme Soviet dated 5 October 1978. for services
+in development of Soviet science. training of scientific personnel. and on the
+occasion of his 70th birthday. Sergey L'vovich Soboiev was awarded the Order
+of the October Revolution.
+
+The fundamental results obtained by Academician S. l. Sobolev, Hero of
+Socialist Labor. had an exceptional effect on the development of mathematics.
+At the very start of his creative activity. he ran a series of outstanding
+experiments In theoretical and applied mathematical physics. The works of s.
+L. Sobolev in the dynamic theory of elasticity. diffraction of flat waves and the
+solution to the Cauchy problem for hyperbolic equations made his name a
+household word among mathematicians.
+
+Back in the 19303. for anticipating his time. S. L. Sobolev laid the foundations
+for a new approach to the problem of mathematical physics. introducing the
+concept of a generalized solution. generalized derivative. and generalized
+function. The theory of generalized functions is today a necessary instrument
+for all research connected with the solution of differential equations.
+
+In the field of boundary problems for elliptical equations. s. L. Sobolev created
+a new branch of functional analysis-the theory of embedding of functional
+spaces. Research in this direction has now been intensively developed
+throughout the world and has found various applications.
+
+s. l. Sobolev's achievements in solving equations of small oscillations of a
+rotating liquid led to profound results in the spectral theory of operators; his
+work on the theory of eubattI-e formulas are recognized as a model of brilliant
+solution of a mathematical problem.
+
+68
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+While deputy director or the Institute of Atomic Energy. S. L. Sobolcv put
+together a large collective of mathematicians who. under his leadership. solved
+a series of problems important for our country.
+
+8. l. Soboiev is one of the organizers of the Siberian Section USSR Academy of
+Sciences. a founder and continuous director of the institute of Mathematics of
+the Siberian Section USSR Academy of Sciences. member of the bureau of the
+Division of Mathematics. member of the Committee on the USSR Lenin and
+State Prizes in Science and Technology at the USSR Council of Ministers.
+
+S. i. Sobolev's services are great in the training of scientific personnel. The
+many monographs and textbooks he set up have become the reference books of
+mathematicians around the world.
+
+5. i. Sobolev was elected a foreign member of many leading foreign academics.
+
+in the note of greetings sent to the celebrant. the Presidium of USSR Academy
+
+of Sciences wished Sergoy L'vovich health, long life. and new creative successes
+to the benefit of Soviet science.
+
+ 
+
+COPYRIGHT: Izdatel'stvo "Nauka". "Veatnlk Akadelil nauk SSSR", 1979
+
+8617
+CSO: 1870
+
+49
+
+FOR OFFICIAL USE ONLY
+lL'YA MIKHAYLOVICH FRANK
+Moscow VESTNIK AKADBMII NAUK $888 in Russian No 2. 1979 p 126
+[Article commemorating l. M. Frank's 70th birthday]
+
+[Text] For services in developing Soviet science. training scientific personnel
+and on the occasion of his 70th birthday. Academician il'ya Mikhaylovich Frank
+was awarded the Order of the October Revolution by ukase of the Presidium of
+the USSR Supreme soviet dated 20 October :978.
+
+l. M. Prank arrived in science in a period of formation and violent development
+of Soviet physics; his contribution to its remarkable achievements is ponderous
+and many-faceted.
+
+His works on explaining the nature of the "enigmatic" Vaviiov-Cherenkov
+luminescence and further development of optics of charged particles. enriched
+physics theory with new ideas. received world acclaim. and strengthened the
+authority of Soviet science.
+
+During the war and the first years thereafter. when the Motherland was occupied
+with those problems. he took active part in solving the nuclear problem.
+successfully carrying out a large problem of scientific research connected with
+the establishment of Soviet nuclear reactors and the study of processes of
+interaction of neutrons with matter. Dtrirg this period he developed
+theoretically new methods of study which were later to receive wide dis-
+semination.
+
+Almost since the very start of his scientific activity. having shown interest
+towards the then only just nascent nuclear physics. 1. M. Prank did much to
+
+develop this field of knowledge and became one of the founders of domestic
+science on the atomic nucleus.
+
+50
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ilescarch trends such as the utilization of nuclear photocmulsions to study
+nuclear processes. the application of pulsed reactors in neutron spectroscopy. the
+production and utilization of ultrncold neutrons sprung up and evolved under his
+
+iamirrship. With his direct participation important results were obtained in the
+stuiiy of atmnci nuclei using neutrons. in stud ing the process of nuclear fission.
+nuclear reactions in light nuclei. and other ieids of nuclear physics.
+
+The successful solution of all these problems would be impossible without the
+great. intense scientific and organizational worlt being done by I. M. Frank in
+the posts of bureau member of the Division of Nuclear Physics USSR Academy
+of Sciences. directors of the neutron physics laboratory of the Combined
+Institute of Nuclear Research. chief of the laboratory of the atomic nucleus of
+the Physics institute lmeni P. N. Lebedev. and then the institute of Nuclear
+Research USSR Academy of Sciences. The scientist has paid much attention to
+the training of experts in nuclear physics.
+
+Recognition of the great scientific services of l. M. Frank took the form of an
+
+award of the USSR State Prize. high governmental awards. and the Nobel Prize
+in Physics.
+
+The Presidium of USSR Academy of Sciences in its greetings cordially
+congratulated the cclebrant and wished him robust health. happiness. new
+
+discoveries and aehieverr its. and fruith scientific activity to the benefit of
+our Motherland.
+
+ 
+
+COPYRIGHT: Izdntel'scvo "Natalia", "Vestntk Alsatian nault SSSR". 1979
+
+8617
+080: 1870
+
+51
+
+FOR OFFICIAL USE ON!)
+SCII'IN'I‘IS‘I’S AND SCIENTIFIC ORGANIZATIONS
+
+UDC 001.5
+
+BASIC TRENDS OP SCIENTIFIC RESEARCH 01’ THE ARMSSR ACADEMY OF
+SCIENCES
+
+Moscow VES'I‘NIK AN SSSR in Russian No 2. 1°79 pp 3-10
+[Report by V. A. Ambartsumyan. president. ArmSSR Academy of Sciences]
+
+[Text] At the end of 1978 the ArmSSR Academy of Sciences marked its 35th
+anniversary. it now consists of so scientific institutions. including 28 institutes.
+Over 7000 persons work in the academy. among these about 200 doctors of
+sciences.
+
+The Presidium of the USSR Academy of Sciences discussed the basic trends and
+future of development of scientific research of the ArmSSR Academy of
+Sciences. A report was read by V. A. Ambartsumyan. President of the ArmSSR
+Academy of Sciences.
+
+Report of V. A. Ambartsumyan
+
+The basic mission facing the ArmSSR is defined in resolutions of the 25th Cl’SU
+Congress. 28th ArmSSR 0? Congress. in addition to decrees of the CPSU
+Central Committee and USSR Council of Ministers on issues of further
+development of industry and agriculture. In particular. in the republic it is
+envisaged that there will be development of radio engineering industry.
+instrument construction. machine tool construction. etc. These decisions will
+greatly determine the trends of work of scientific organizations. Therefore the
+ArmSSR Academy of Sciences has reconsidered its themes of scientific research.
+More than 200 topics of on-going work are linked with specific problems of the
+national economy.
+
+The speaker noted that since its formation. the ArmSSR Academy of Sciences
+has striven to have its own personality and in no way to be a miniaturized
+version of the Academy of Sciences of the land. This principle has justified
+itself in practice: more or less significant successes of ArmSSR Academy of
+Sciences have been achieved wherever this has been done. Furthermore. the
+speaker reported on some specific achievements and basic trends of scientific
+research of the ArmSSR Academy of Sciences.
+
+52
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+At the Institute of Mathematics. ArmSSR Academy of Sciences. important
+results have been obtained in theory of functions. especially theory of complex
+variable fixictions. These resilts led to great success in the theory of
+approximations in complex fields.
+
+interesting results have recently been attained in a modern section of ma-
+thematics such as integral geometry. closely linked with the geometric theory of
+
+probabilities.
+
+v. A. Ambartsumyan mentioned that successes in integral geometry have been
+attained due to the utilisation of combinatory methods on one hand. and certain
+methods of mathematical physics. intensively developed by Armenian theo-
+retical astrophysicists In solving problems of the theory of transfer of emission
+on the other hand. '
+
+The academy-based Yerevan institute of Mathematical Machines. based on the
+initiative of Armenian mathematicians. is now engaged in work whose volume is
+only slightly less than that of the academy as a whole. In addition. industrial
+enterprises have been formed in the republic for the construction of computers.
+The initiative of the academy has been very valuable here too.
+
+The speaker noted shortcomings in the work of the academy's Computer Center
+which has hardly tackled questions of computer mathematics. whereas computer
+hardware will soon hold a visible place in the industry of the republic.
+
+Greet achievements have marked the activity of the Byil'altan Astrophysical
+Observatory. On the whole. the observatory is involved with problems of non-
+stationary stars and extragalactic astronomy where the attention of scientists
+has also been focused on non-stationary objects. Hmdreds of new flaring stars
+in stellar clusters and associations. The Byte-alien Observatory holds first place
+world-wide in the number of new flaring stars discovered. The role of flaring
+stars has been shown to be one of the early stages in the evolution of most stars.
+The question of the dependence of the amplitude-frequency characteristics of
+flaring stars on other variables and on the age of the system in which they reside
+has been formulated and partially resolved.
+
+We know that prior to the middle 19603. the possibilities of extragaiactic
+research in our comtry were limited due to the lack of powerful telescopes.
+With the introduction of wide-angle telescopes of the Schmitt system with their
+gigantic prisms at Byurakan. the situation has changed abruptly. In the past to
+years. the Byte-alien Observatory has "monopolized" world research with the
+discovery of galaxies having excess UV radiation in their spectrum: in the
+literature this has become known as Markaryan galaxies. Out of 1200 galaxies of
+this type which are of enormous scientific interest. over 90 percent were
+discovered at Byurakan. Due to the work of this observatory. we now lmow of
+about 10 times more Seifert galaxies with particularly active nuclei; this
+permitted us to study the nature of these objects and establish their genesis
+from quasars. New types of galactic systems have been discovered; only one of
+them. Shakhbasyan-l. has an entire series of studies devoted to it in the world
+
+literature. A new. large telescope with a mirror diameter of 2.6 meters recently
+entered the structue of Bywakan (in the USSR its dimensions are only infe-
+
+53
+FOR OFFICIAL USE ONLY
+Nit OFFICIAL USE ONLY
+
+rior to the S-mcter telescope at Zelenchuk). The use of this telescope has
+already led to new. interesting discoveries in the field of galactic nebulae. With
+the aid of the telescope situated on the Soyuz-l: satellite. coworkers at
+Byurakan have obtained UV spectra of very weak stars (of the 13th magnitude):
+this Isignificantly sis-passes the results obtained in observations made from other
+sate tea.
+
+The Institute of Radiophysies and Electronics. ArmSSR Academy of Sciences.
+achieved great success in developing highly-sensitive radiometric equipment: a
+parametric amplifier for the 4 millimeter range and others was developed.
+Methods for using polarized effects in precision SHP-phasometry have been
+proposed. developed and implemented. Another important research trend at this
+institute is the development of smell high-sensitivity photoelectric converters of
+angular motion. The results of the institute's work have been very valuable in
+space and natural resource research.
+
+In addition to the institute of Radiophysics and Electronics. physics work is done
+in Armenia at three large scientific centers: Yerevan Physics institute. Yerevan
+University. and the ArmSSR Academy of Sciences institue of Physical Research.
+One of the most significant successes of our physicists. the speaker noted. was
+the development of a theory of transient emission with whose aid were studied
+radiation processes. Monophoton nonlinear phenomena in gases were first
+studied at the institute of Physical Research.
+
+New crystals for laser electronics have been grown and studied at the institute:
+a two-frequency ruby laser was created for the first time and a single-crystal
+emerald was used in laser amplifiers of the millimeter range.
+
+Armenia is a republic with a developed chemical industry; therefore chemical
+scientists have always been valued in the academy. At the institue of Chemical
+
+Physics. much emphasis is placed on research into the mechanics of chemical
+reactions. A kinetic method for the accretion of radicals via freezing was
+developed there. which permits the study of their behavior in concentrations.
+This made it possible to study the mechanics of several oxidation and
+decomposition reactions. A new effect of heterogeneous-catalytic decom-
+position of peroxides into radicals. with partial transition of the radical into the
+gaseous phase. was discovered. At the institute a new method was proposed for
+producing especially pure heat-proof compounds: carbides. borides. silicides. and
+nitrides. This is only part of the work on self-propagating high-temperature
+synthesis. In collaboration with the USSR Academy of Sciences Institute of
+Chemical Physics. technology was developed to produce molybdenum disilieide
+that has been incorporated at the Kirovakan Plant of high-Temperature Heaters.
+
+Several other studies are carried out by the institute at plants of the republic's
+chemical industry.
+
+56
+
+908 OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+At the institute of Fine and Organic Chemistry. more than one thousand new
+substances are synthesized every two years to demonstrate the connection
+
+between their chemical structure and their effect on the organism. A basic
+practical goal is the search for new drugs to treat cardiovascular. nervous. and
+mental diseases and against malignant neoplasms.
+
+Based on the development of chemistry of non-limiting and heterocyclic
+compounds. and the research and development of medicinal plants of local flora.
+nine highly effective medicinal compounds have been introduced Into medical
+practice.
+
+Successful work has been done at the institute of Biochemistry. which specializes
+in neurochemistry. Fundamental research into physiologically highly-active
+neurohormones of the central nervous system has been done here: biologically
+active peptides. metelwtaining proteins. and proteolipids. The discovery and
+isolation of some new polypeptide hormones associated with the hypothalamus
+should be noted. as well as the isolation of a coppercontaining protein called
+neurocuprein from the grey and white cerebral matter. The institute has many
+qualified personnel and has been able to establish broad international relations.
+
+The institute of Microbiology has created a large collection of microbial
+cultures. among which some toxins are represented by the richest collection of
+strains in the country.
+
+The institute of Agrochemical Problems and Hydroponics. one of the pioneers of
+hydroponics in the Soviet Union. achieved significant results in industrial
+hydroponic cultivation of aromatic geranium. medicinal plants. and ntrsery-
+
+grown grapes.
+
+Important research is being done at the institute of Botany and Botanical
+Gardens on flora of Armenia: seven volumes of the lo-volume edition entitled
+"Flora of Armenia" have already been published; an original theory of aging of
+higher plants has been developed. Seven Hydrobiologicei Station has done great
+
+work in studying the biological cycle and productivity of water ecosystems of
+Lake Seven.
+
+As a mountainous country. the work of geologists is of major value for Armenia.
+In particular. the basic patterns of arrangement of major minerals have been
+shown and theoretical foundations have been elaborated for their search.
+
+Production of copper has existed for 100 years in Armenia. Due to the discovery
+of copper and molybdenum deposits in the Soviet period. the production of
+copper has not only expanded but the great production of molybdenum
+concentrates has been organized as well. At the institute of Geological Sciences
+research is being conducted on a high level into the metallogeny of Armenia;
+more detailed metallogenic maps have been drawn up.
+
+55
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+At the Institute of Geophysics and Engineering Seismology. a chronological
+catalogue of earthquake feel and a cumulative catalogue of intense earthquake
+foci in Armenia has been drawn up methods have been proposed and approved for
+comprehensive geological and geophysical. soismologicsl and engineering-seis-
+mological research to determine the seismic hazard of the construction sites of
+nuclear electric power plants. But despite several interesting studies on
+engineering seismology. the republic has still not highly developed seismologic
+science capable of predicting earthquakes. its development is planned: ArmSSR
+Academy of Sciences needs help from USSR Academy of Sciences.
+
+The activity of ArmSSR Academy of Sciences in the social sciences is extremely
+diverse. A large number of monographs on history. language. and art of Armenia
+has been published. The institute of History created a fundamental eight-
+volumc work “History of the Armenian People". in 1978 occurred the
+sesquicentennial of East Armenia's federation with Russia. when the Armenian
+people were saved from destruction. Works have been published on the
+evaluation of historical meanirg of the trandtion to a new stage in the history
+of the Armenian people. characterized by the gorwing collaboration with the
+brotherly Russian people and other peoples forming the USSR. it is gratifying
+to note that the most important place in historical research is occupied by works
+on the Soviet period of Armenian history-a period of the ultimate blossoming
+of all forms of its political. economic. and cuittral life.
+
+An important. complex task is the scientific study of the future development of
+the republic's national economy. Both industry and agriculture of Armenia are
+multi-sectorial; thus the composition of economic predictions is not an easy task.
+The first great step in this direction was taken in 1917 with the publication of
+the institute of Economics' work "On Major Trends in Socioeconomic Deve-
+lopment of the Republic Before 1990". This work has been presented to the
+State Planning Committee and the leading organs of the republic.
+
+The institute of Philosophy and Law. in addition to problems of history of
+Armenian philosophy and other issues. is working intensively on a comprehensive
+study of the mic-philosophical aspects of functioning and development of
+science in the period of scientific and technical revolution. Over 40 monographs
+and collections have been published on the subject.
+
+The Institute of Archeology and Ethnography has conducted important work in
+archeology. especially the excavation of such valuable historical treasures as the
+Karmir-Blur. Erebuni. Artashst. Gerni. and so forth.
+
+The institute of Literature imeni M. Abegyan created a five-volume "History of
+Soviet Armenian Literature". Among the achievements of the Institute of
+Language imeni R. Acharyan is the creation of a three-volume scientific
+grammar of the Armenian language the completion of work on the four-volume
+“Explanatory Dictionary of Modern Armenian".
+
+56
+FOR OFFICIAL USE 0i LY
+FOR OFFICIAL USE ONLY
+
+The speaker drew attention to the fact that the activity of the ArmSSR
+Academy of Sciences does not strive to develop all disciplines but selects those
+directions in which it can focm all efforts to achieve valuable results. Related
+to such trends are. in mathematics. the theory of functions. integral geometry;
+in astrophysics. non-stationary effects in outer space; in radiophysics and radio
+engineering. the use of effects in the SH? range to solve concrete technical
+problems; in chemistry. the study of mechanics of chemical reactions. synthesis
+of new compomds; in biochemistry. neurochemistry.
+
+Wherever this principle is not followed. indicated the speaker. in the scientific
+activity of the institutes of the academy there are shortcomings. especially in
+multiple themes which leads to the scattering of scientific efforts. Patent
+licensing work is not being done actively enotgh. 'ihe productivity and quality
+of scientific research work must be raised: it is to a great extent defined by the
+qualification of scientific personnel. In this regard. Armenia has propitiom
+horizons. since one-third of the scientific and scientific and tecimical workers of
+the academy are under 30 years of age.
+
+V. A. Ambartsumyan noted the acute problem of providing institutes with
+scientific equipment. especially imported hardware. in resolving this problem.
+great help could be rendered by the USSR Academy of Sciences. The limit of
+subscriptions to foreign scientific iotrnals must also be increased.
+
+The current computer pool of the ArmSSR Academy of Sciences Computer
+Center does not meet modern requirements and does not permit the study of
+systems programming nor the establishment of computer time-sharing for the
+scientific institutions of the republic. The arrangement of test production is not
+going well.
+
+in conclusion. the speaker stressed that the activity of the institutes of the
+ArmSSR Academy of Sciences. to a great degree. depends on interaction with
+the corresponding institutions of the USSR Academy of Sciences. and also with
+academies of sciences of brother republics. in particular. scientific ties were
+recently intensified with the academics of sciences of Georgia and Azer
+
+baydzhan.
+
+V. A. Ambartsumyan expressed gratitude to the USSR Academy of Sciences
+Commission which became deeply familiarized with the activity of the ArmSSR
+Academy of Sciences activities and noted that advice and recommendations
+made by the commission have already made significant contributions to the
+scientific institutions of the ArmSSR Academy of Sciences.
+
+A joint report was delivered by B. 8. Sokolov. chairman of the commission of the
+Presidium of the USSR Academy of Sciences familiar with activity of the
+ArmSSl't Academy of Sciences.
+
+57
+FOR OFFICIAL USE 0ND
+NR OFFICIAL USE ONLY
+
+8. S. Sokolov emphasized that since its inception. the ArmSSlt Academy of
+Sciences chose the completely proper path: it does not copy the activity of USSR
+Academy of Sciences and other academies. but develops its own powerful
+aspects. The ArmSSli Academy of Sciences. therefore. now represents an
+original scientific organization with great achievements.
+
+A scientiﬁc center of world renown. the Byts-akan Observatory. conducts unique
+astrophysical research. Armenia has had its own. long known mathematical
+school. Research of Armenian scholars in the field of radiophysics of superhigh
+frequencies occupies a firm place in modern science. Research in physical
+chemistry offers exceeding interest.
+
+Great deposits of minerals exist in Armenia; a detailed plan of assimilation
+ofneturai resources has been drawn up. Work is now being intensively done in
+engineering seismolcgy.
+
+Research done by Armenian scientists in neurophysiology and neurochemistry is
+at the forefront in our country.
+
+Very valuable experience has been gained thrown ruearch of bioeenoses and
+adjustment of the ecosystems of Lake Seven because of steps taken there to
+develop the republic's energy. A unique biological and geographical object like
+Seven is becoming a natural model for important research by the State: the
+results should be considered when similar steps are organised for Baykal and
+other regions.
+
+in many scientific trends. Armenian scientists have achieved great successes and
+practical works which have been incorporated into production.
+
+However. noted 8. S. Sokolov. at some institutes of the republic's Academy of
+Sciences efforts are inadequately concentrated on the main trends of research.
+small topics are retained. and qualified personnel are hard to get. The computer
+pool of the Computer Center needs renewal. Some institutes do not have enough
+modern equipment. Arrangement of the Library of the ArmSSR Academy of
+Sciences for the Geological Mmeum with its mique collection is not proceeding
+satisfactorily. Serious attention mint be paid to the construction of new sites
+for the institutes.
+
+in conclmion. B. S. Sckclov noted that party and council leadership of the
+republic is attentively relating to the needs of the Academy of Sciences and is
+promoting the development of science in Armenia.
+
+Discussion of Report
+
+Academician A. A. Bayev gave high evaluation to the achievements of
+Armenian scientists in the major branches of biology. in particular. he noted the
+Institute of Biochemistry where a very important direction is being taken in the
+study of chemical processes of the cerebrum.
+
+$8
+FOR OFPICIAL USE ONLY
+FOR OIFICIAL USE ONLY
+
+'l‘he xitnntion at the institute of Experimental Bioloitlh created to develop
+reattmreh in molecular biology but not yet Justii‘ying its purpose is not completely
+favorable. Some improvement In the institute's work occurred recently. but
+there are still multiple themes. incompatible directions of research and other
+organizational shortcomings.
+
+A. A. Bayev called attention of the leadership oi the ArmSSR Academy of
+Sciences to talte organizational steps in this institution aimed at fulfilling the
+resolution of the CPSU Central Committee and USSR Council of Ministers
+entitled "0n Meastres to Accelerate Development of Molecular Biology and
+Molecular Genetics and Use of These Achievements in the National Economy."
+in conclusion. A. A. Bayev emphasized the proposal to publish a new jotrnai
+nmaoallntlsritt at the ArmSSR Academy of Sciences. to become a towns! of
+world-wide standing.
+
+B. it. Mustei'. Corresponding Member of USSR Academy of Sciences. expressed
+the desire that the Byuraltan Observatory more actively coordinate leading
+extragalactic research in the USSR.
+
+Academician i. V. ‘i‘ananayev smestad improvement in the activity of the
+
+institute of General and inorganic Chemistry of the ArmSSlt Academy of
+Sciences.
+
+Academician P. N. Pedoseyev. Vice President of USSR Academy of Sciences
+noted the active work of the institute of Economies of ArmSSR Academy of
+Sciences. At the same time there is a state of comminution of economies
+institutions of the republic which must be overcome. Speaking of the de-
+velopment of historical science in Armenia. P. N. Pedoseyev called attention to
+the great meaning of activity of Armenian historians and areheoiogists. but also
+expressed the wish that historians would more attentively coordinate the study
+of complex historical issues with research being done at institutes of the
+
+Department of History of USSR Academy of Sciences especially the institute of
+USSR History.
+
+Academician N. G. Basov stressed the importance of research being conducted
+at the Institute of Radio Bngineeri and Electronics. the institute of Physical
+Research of ArmSSR Academy of Se ences. at Yerevan University. He noted the
+important role played in the development of laser radiophysics in the Soviet
+Union by achievements of the ArmSSR Academy 0! Sciences and industry of
+Armen.a. in particular. a high-quality ruby was first produced in Armenia
+
+and this made it possible to solve several important national economic problems.
+N. G. Basov noted the need for a study of the problems of optical computer
+technology in ArmSSR Academy of Sciences.
+
+59
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+(1. K. Skrynbin. Corresponding Member USSR Aeadem of Sciences noted the
+grout work done by the ArmSSR Academy of Sciences nstitute of Microbiology
+which. in several trends. holds the leading position in the Soviet Union.
+called attention of the Presidium of USSR Academy of Sciences to the problems
+with scientific equipment at institutions of ArmSSR Academy of Sciences and
+opined the need to aid his Armenian colleagues in this direction.
+
+The discussion was summed up by Academician V. A. Kotel'nikov. Vice-President
+USSR Academy of Sciences who emphasized that ArmSSR Academy of Sciences
+has great achievements and is one of the leading republican academies. V. A.
+Kotel'nikov expressed his confidence that ArmSSR Academy of Sciences and its
+Presidium will consider the critical remarks made to it and will achieve even
+higher results.
+
+Resolution
+
+The USSR Academy of Sciences Presidium approved the scientific and scientific-
+orgunizational activity of ArmSSR Academy of Sciences. Basic directions of
+scientific research at institutions of ArmSSR Academy of Sciences were
+confirmed.
+
+it was recommended to ArmSSR Academy of Sciences that it consider the
+comments and suggestions of the commission of scientists of USSR Academy of
+Sciences in its work; that is concentrate efforts and means to perform research
+along the main lines with guidance from resolutions of the 25th CPSU Congress
+on the development of science and the national ecortomy of the republic.
+Measures should be taken to develop new scientific directions at the academy:
+
+at the institute of Mathematics: geometric theory of probabilities; at the
+Computer Center: computer mathematics. numerical methods of mathematical
+physics. systems programming:
+
+at the institute of inorganic Chemistry: research of inorganic polymers. ion
+excharge in inorganic systems. and study of theoretically new methods of
+complex reprocessing of raw material containing light elements.
+
+it was proposed to intensify cooperation and creative ties of academieal
+institutes with scientific institutions and vuses of the republic.
+
+A decision was adopted to reexamine the structure of the Computer Center.
+institute of Mechanics. Institute of Physical Research. institute of Experimental
+Bio.egy. institute of Zoology. institute of Arts. bearing in mind the re-
+commendations made by the USSR Academy of Sciences commission of
+scientists.
+
+it was felt advisable to organize an interinstitute methods center of biological
+and chemical orientation to more efficiently utilize modern equipment.
+
+60
+FOR OFFICIAL USE OSLY
+FOR OFFICIAL USE ONLY
+
+The USSR Academy of Sciences Computer Center has been directed to study
+
+a program of development for a trl-level computer time-sharing system for
+institutions of ArmSSR Academy of Sciences.
+
+The USSR Academy of Sciences Division of Biochemistry. Biophysics. and
+Chemistry of Physiologically Active Compounds and USSR Academy of Sciences
+Division of Physiology have been directed to consider coordinating on-golng
+research in the USSR in the field of neurochemlstry.
+
+The USSR Academy of Sciences editorial and publishing comcil jointly with the
+Presidium oi ArmSSR Academy of Sciences have been instructed to prepare a
+proposal on the creation or an All-Union jotI-nal amocnmsmv.
+
+’l‘hc Presidium of USSR Academy of Sciences also resolved to ask the ArmSSR
+Council of Ministers to cooperate with Arm$R Academy of Sciences in solving
+questions associated with expulsion of industrial areas. development of the
+material and technical base of scientific institutions. and transmission to
+indatry of some of the work program of test productions of ArmSSR Academy
+0 iences.
+
+COPYRIGHT: lzdatcl'stvo "Nauka." "Vestnilt Akademii nauk SSSR." 1979
+
+8817
+C80: 1870
+
+61
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+SCIENTISTS AND SCIENTIFIC ORGANIZATIONS
+
+ON THE ACTIVITY OF THE DMSION 0F OCEANOLOGY. ATMOSPHERIC
+PIIYSICS AND GEOGRAPHY
+
+Moscow VES'I‘NIK AN SSSR In Russian No 2. 1979 pp 11-18
+
+[Report by L. M. Brekhovskikh. Academician-Secretary. Division of Oceanoiogy.
+Atmospheric Physics. and Geography, USSR Academy of Sciences)
+
+[Text] The USSR Academy of Sciences Division of Oceanoiogy. Atmospheric
+Physics and Geography was formed in 1968. The division consists of the Institute
+of Oceanoiogy imeni P. P. Shirshov. the Institute of Atmospheric Physics. the
+institute of Geography. the Institute of Water Problems. and the Institute of
+Limnoiogy. The division effects scientific and methods leadership along with the
+institutes of the Siberian Division. Far Eastern Science Center and branches of
+USSR Academy of Sciences. participates in me scientific and methods leadership
+of the Acoustics Institute and institutions (according to the division profile) of
+academies of sciences of Union republics. and also cooperates in the de-
+velopment of research and its coordination in the field of oeesnoiogy.
+atmospheric physics. geography. geocryoiogy. water problems and iimnology In
+many institutions of other agencies.
+
+The Scientific Council on Earth Cryology and the Geomorphologic Commission
+work in the division; the journals Izvestiya AN SSSR. Scriya Geograficheskaya;
+izvestiya AN 388R. Seriye Pizika Atmosfery i Okeana; Okeanologiya; Geo-
+morfoiogiya: and Vodnyye Rmursy are published there.
+
+Activity of the Division of Oceanology. Atmospheric Physics. and Geography was
+discussed at a meeting of the 0&3 Academy of Sciences Presidium.
+Academician i. M. Brekhovskikh. academieian-secretary of the division. pre-
+sented a report.
+
+62
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+A series of studies on ocean acomtics has been completed. The monograph
+"Ocean Acoustics" which was devised on the basis of these studies won the USSR
+State Prize in 1978.
+
+A large series of studies on the propagation of laser emission in the atmosphere
+has been completed. Data were obtained on the major optical characteristics oi
+air-borne particles and statistical patterns of variation were revealed.
+
+A study of twilight effects and observation data from spacecraft were used to
+develop methods of optical sensing of the high layers of the atmosphere. Based
+on measurements of reﬂected and inherent emission of the Barth's surface and
+atmosphere in the visible and lit ranges from Earth satellites Kosmos-MB. -
+243. -320 and 484. methods of remote analysis were designed for some
+geographical parameters of the atmosphere. Data obtained with these methods
+have been used to study Barth's natural resources using aerowace techniques.
+
+A spectroscopic devices was designed and expeditionary measirements of small
+impurities throughout the atmosphere were analyzed.
+
+The study of natural resets-cos and the environment were recently expanded
+significantly. Publication is completed of 14 monographs in the series "Natural
+Conditions and Resources of the USSR"; the monograph "Resources of the
+Biosphere in the Territory of the USSR: Scientific Bases of Rational Use and
+Conservation" was published.
+
+A plan was developed to form a Baykal Nature Conservation Zone; tentative
+prognosis of a change in the environment of the Aral Sea has been made; a
+system has been proposed for measures to transform and utilize the swamps of
+Western Siberia. .
+
+Using modern geophysical methods. a comprehensive study is being made of the
+natural ecosystems and anthropogenic transformation. including a comprehensive
+program of CMBA and the Interltosmos Program.
+
+The modern dynamics of glaciers has been studied; a prognosis of evolution of
+pulsating glaciers was developed for the Caucasus. Tyan'-Shan'. and Pamir; work
+has been done to compose a catalog of USSR glaciers.
+
+Cooperation with geographers of different comtries is being developed. in
+collaboration with Cuban scientists. a National Atlas of Cuba was put together
+(this work won the USSR State Prize). In collaboration with indian geographers.
+
+papers were published on the economic-geographic regionalization of India.
+Soviet-French studies have been done on the "Aleaucasus." Cooperative
+
+studies have been done on physical and economic geography with scientists of
+Poland. Czechouovakia. Bulgaria. East Germany. and other countries.
+
+63
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The Division of Oceanoloﬂy. Atmospheric Physics. and Geography concentrates
+its work on the solution of fundamental scientific problems. giving particular
+
+meaning to problems which are important to the economic development of our
+country.
+
+One of the chief achievements in oceanology was the discovery in the ocean by
+the Polygon-70 expedition from the Institute of Oceanology of meso-scale eddies
+(on the order of hundreds of kilometers in size) in which the primary energy of
+oceanic flows is concentrated. This discovery. confirmed by the data of other
+experiments. radically altered the then eta-rent notion about flows in the ocean.
+
+With the aid of hydrophysicai probes of increased resolution designed at the
+Institute of Oceanology. an evolved. delicate vertical structue of the ocean was
+detected and its universal prevalence was established.
+
+A global numerical model of ocean and atmosphere interaction was elaborated
+it theoretically possible to simulate the climate. The 'h‘opeks-n (Tropical
+Experiment) and ATRP-‘M (Atlantic 'h‘opical Experiment) were carried out with
+wide and comprehensive studies of atmospheric and oceanic interaction.
+
+A specially designed device was used to study petroleum contamination of the
+world's oceans. Dispersants have been developed to remove the petroleum film.
+Natural tests of three sorbents were successful. .'l‘hese agents were highly
+effective In cleaning the port landing area of petroleum. masut. and diesel fuel
+films.
+
+Numerous data on the geology of oceans were first reflected on maps of bed
+sediments of the world's oceans. mineralogical charts. geochemical. sediment
+physical property and other charts.
+
+A large cycle of research work on iron-manganwe concretions at the ocean
+bottom and of fields of propagation of metal-bearing sediments is completed.
+
+An important theoretical assumption was advanced on the optimum zones of
+petroleum and gas formation in landing areas as the largest foci of natural
+generation of different praised systems of hydrocarbons under the specific
+circumstances of an ocean-type sedimentary layer. New shelf and sea areas
+have shown promise of petroleum and gas content. Data have been obtained on
+the relief of the crystalline foundation and structure of the sedimentary cover
+beneath the landing area of the Middle Caspian; these data permitted
+recommendations to be made for petroleum and gas prospecting work.
+
+Much attention was given to studying of distributive features of biological zones
+in the ocean. Mathematical models of the function of biological communities of
+the pelagic zone were constructed. A structural-{metional analysis of biological
+communities was done of the most powerful bioproductive systems of the world
+
+ocean: the production of biological communities. their individual trophic levels
+and groups was evaluated.
+
+66
+FOR OFFICIAL USE ONLY
+I’OR OFFICIAL USE ONLY
+
+A geomorphologie commission coordinated research on vital scientific problems
+"Surfaces of Planation and Weathering Crust of the USSR" and "Modern Tectonic
+Movements."
+
+A great deal of attention has been given to studying the productive foreu of
+Siberia. questions of efficient utilization. conservation. and reproduction of
+natural resources. geographic rationale for future development of regions on the
+RAM route. Patterns of formation of the population have been revealed in
+regions of new assimilation in Siberia. A prognosis was developed for population
+dynamics in this region.
+
+Using materials from the Far Bast. methods of geographic prognosis have been
+developed for environmental change due to the paleoclimate on the global scale.
+Patterns of transformation have been established for teehnogenlc matter due to
+the complex of mining enterprises in the humid climate of the Seacoast.
+Detailed economic regionalization of the eastern portion of the RAM zone has
+been implemented.
+
+Ecosystems in the cha Basin have been studied. As as result of these studies
+a prognosis was made for change in ecosystems affected by the Zeya reservoir.
+
+Scientific foundations have been developed for controlling water resources of the
+country. Research has been done on processes of global and regional moisture
+exchange. Methods have been designed to determine the water content in the
+atmosphere. snow. and soils: methods were proposed for evaluating the amount
+of precipitation based on satellite data.
+
+A map of the underground runoff of our country has been drawn up and was
+evaluated in the world water balance. Methods of regional evaluation of
+resources of subterranean water were designed for problems of the General Plan
+of Comprehensive Utilization and Conservation of Water Resourt :s of the USSR.
+Work is complete on the quantitative evaluation of subterranean runoff into the
+world ocean under diverse natural conditions.
+
+Foundations of a theory of control of river runoff and fluctuation in the level
+of closed basins have been elaborated; a mathematical model of the complex
+water management system has been designed; the possibility of maintaining
+favorable conditions of the Caspian Sea level with significant economy of water
+fed from other basins has been substantiated.
+
+A prediction of possible changes until 1990 in water quality of the lvan'ko
+Reservoir--a primary source of water supply of Moscow-has been drawn up. A
+prediction of change in the biological and chemical conditions of lakes in the
+Northwest European territory of the Soviet Union and the Karelian Peninsula was
+written in connection with transfer of some of the runoff to the south.
+Research has been done on predicting water quality and overgrowth of
+reservoirs in various regions of the country (including the RAM region).
+
+$
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+’I‘hc hydromctcrologic conditions. water and thermal balance of the Baykal.
+ilrntsk reservoir. hydrochemistry of Baykal and its tributaries. biological
+productivity of linykul and the effect on it of agricultural activity have been
+stiulird. Ilecp wutcr dives in n bnthysnhore made in naykal permitted direct
+
+observation of the nature of deposition of sedimentary layers in the Baykal
+depression.
+
+Water resources of the Karelian Peninsula have been evaluated; natural features
+of Kurelian basins were studied: the effect of industrial and domestic discharge
+on water quality. water fauna and flora were determined. Research on the
+effect of the forestation of catchment areas on the formation of surface water
+resources of the Komi ASSR have been completed.
+
+A large amount of work has been done in the field of geocryology. Monographic
+descriptions have been written of geoeryologic conditions of mountain regions of
+Siberia and Yakutiya. The maximum thickness of rock cooled below 0 degrees
+Celsius on the Earth has been established. A considerable discontinuity of
+frozen layers was found in the mountainous part of our country's northeast. in
+conjunction with USSR State Committee for Construction, a geocryelogic map of
+the Soviet Union was drawn up. Geocryologie conditions of the territory of
+Mongolia were investigated and a geocryologic map was composed. A map was
+drawn of the cryogeomorphologic regionalization of Siberia and the Far East.
+
+In collaboration with sector organizations. engineering and biologic natural
+conservation recommendations have been made for the region of construction
+and exploitation of structures. extraction and transportation of gas in northern
+Siberia. Method were designed for hydrothermal land reclamation of soils in the
+zone of propagation of perennially frozen soils and recommendations were made
+for limnn irrigation of Central Yakutiya. in collaboration with the Institute of
+Hydt-oteehnics. theoretical foundations and engineering methods were developed
+for predicting degradation of permafrost with the construction of reservoirs.
+
+in concluding the speaker touched upon the scientific and organizational activity
+of the Division of Oceanology. Atmospheric Physics. and Geography. A general
+meeting of the division regularly hears reports on major scientific achievements.
+institute reports on their scientific activity. reports on vital problems of modern
+science.
+
+It considerable place in the work of the division is occupied by the organization
+of scientific sessions. Sessions run by the division were devoted to global
+research of the atmosphere and weather prediction; prediction of the con-
+sequences of human actions on the environment; the study of natural resources
+of the Komi ASSit; acoustics of the ocean and hydrophysics; new methods of
+studying ocean waters. atmomheric processes. relief of the dry land. natural
+water and glaciers. problems of the country's water balance; remote sensing of
+the environment from space; problems of solarsground links. etc. The session
+devoted to climatic problems is worthy of special note. it was called by the
+division in 1977 in conjunction with the USSR State Committee on Hydro-
+meteorlogy and Environmental Control. USSR Academy of Sciences Scientific
+Committee on the Problem "Weather Prediction". and the USSR Academy of
+Sciences Scientific Council on Problems of the Biosphere. At the session
+
+66
+FOR OFFICIAL USE ONLY
+i'Ult UI‘HUIAL USE. ONLY
+
+summaries of research into the genesis and prognosis of the climate were given
+and recommendations were made for further development of this research. .
+
+The division took an active part in elaborating the Comprehensive Program of
+Scientific and Technical Progress and its socioeconomic consequences for 1978-
+
+1990. and scientific and technical prognosis of efficient utilization and
+conservation of water resources mtil 2000.
+
+Especially important scientific and technical issues were covered by special
+meetings of the division bureau. The bureau also discussed questions of
+development of creative collaboration of scientific institutions of the division
+with production and acceleration of incorporation of results of scientific
+developments; it discussed steps toward further improvement of higher education
+in its profile. means of expanding ties with scientific institutions of the USSR
+Ministry of Education. compulsory and extracurricular institutions. Questions of
+training scientific personnel are regularly examined at buream meetings.
+
+The division devotes much attention to multilateral cooperation with academies
+of sciences of the socialist countries on the comprehensive program "Planetary
+Geophysical Research." the state of work on the PIGAP program (program of
+study of global atmospheric processes). activity of the Coordination Center of
+the Institute of Oceanology on the problem of member countries of CMEA
+"Study of Chemical. Physical. Biological. and Other Process of Major regions of
+the World Ocean and Development~of Modern Technical Means for Efficient
+Study and Mastery of its Resources."
+
+Stressing the successful development of scientific disciplines related to the
+division's competency. the speaker noted problems which division institutions
+have encountered due to the lack of necessary equipment. modern technical
+
+means for expeditionary research, work sites. and scientific personnel. especially
+in several new specializations.
+
+Discussion of the Report
+
+Academician V. V. Shuleykin touched on the problem of long~term weather
+predictions which. he feels. does not receive due attention from the Academy of
+Sciences. In studying this problem. he said. scientific policies must be
+completely altered. No matter how perfect the differential equations written by
+the experts are. they are not effective if they are integrated without considering
+boundary conditions. Boundary conditions. however. can not be considered since
+we do not know them: we have no continuous data about what goes on on the
+surface of the world ocean. Furthermore. to solve this problem. research of the
+ocean's waters must be carried out in continuous association with research of
+atmospheric physics.
+
+67
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+K. Ya. Kondrct'ycv. Correspondlgf Member of USSR Academy of Sciences.
+noted that the formation of the vision of Occanoiogy. Atmospheric Physics.
+and Geography in the Academy of Sciences promoted the more effective
+development of these major sections of Earth science. in the to years since the
+organization of the division. however. scientific problems have arisen. especially
+in the study of the environment and natural resources. These new problems are
+difficult to solve using the same efforts which the division new has available.
+For example. this is the problem with the climate which has long since been
+the subject not only of physics and chemistry. but of blegeophyslcs as well. It
+is quite clear that without a study of various interacting processes occurring in
+organic and inorganic nature. there is no chance of answering the question of
+why and how the climate changes. K. Ya. Kondrat'yev agreed with V. V.
+Shuleykln on the importance of considering boundary conditions in long-term
+weather forecasts. in fact. he said. it is not enough to me initial data alone
+for a forecast.
+
+it is now impossible to tell with certainty what is happening with the climate.
+mainly because there is not enough factual data for the entire globe. This data
+should mainly be obtained by satellites. Thus satellite climatology becomes
+extremely important. Research of the weather and climate on other planets is
+extremely important to understand the patterns of the Earth's climate: close
+contacts must be maintained with astrophysicists for this reason.
+
+The make-up of the division should more fully correspond with the new problems.
+More efficient mechanisms and forms of scientific cooperation are needed. In
+particular. an interdisciplinary program on the climate is needed which could
+unite members of various scientific trends and form a united front of research.
+which does not yet exist. Furthermore. and this concerns not only the problem
+of the climate. the division should more broadly coordinate research in its
+profile throughout the entire country.
+
+Yu. A. lzrael'. Corresponding Member of USSR Academy of Sciences. cha-
+ractcrized the problems which face scientists in solving problems of long-term
+weather forecasting and climatic change. as well as the study of the geophysical
+aspects of ecology.
+
+in research on hydrometeorology associated with solving the problem of long-
+term weather forecasting. he said. Soviet experts are actively collaborating with
+scientists of all countries. The i’iGAP program is an example of this
+collaboration. Work in this program should give valuable data for improving
+methods of long-term weather forecasts.
+
+A program associated with long-term weather forecasts continues to be formed.
+This problem requires special attention. Soviet scientists are doing a lot of
+work in weather forecasting. The ideas of Academician G. l. Marehuk on long-
+term prediction are very interesting. But in addition to these ideas and plans.
+it good system of observations is necessary. a system of data production which
+could be used to implement these ideas and plans. Therefore. another important
+problem is the creation of a continuous system of global meteorological
+surveying in which a great role should be given to aerospace observation
+systems. Consequently. a more rapid creation of a geostationary meteorologic
+satellite is becoming more and more important.
+68
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Closely allied with work on long-term weather prediction is worlt on climate
+study. it is still impossible to accurately describe the climate even for the near
+future. and our future depends heavily on this. On the suggestion of scientists
+of USSR Academy of Sciences and the USSR State Committee on Hydro-
+meteorology and Environmental Control. it was decided to create a national
+Soviet program on climate studies. This program will unite various forms of
+research into a unified front. '
+
+As concerns the contribution of the Division of Oceanoiogy. Atmospheric
+Physics. and Geography to the problem of environmental protection. it is mainly
+linked with solving a series of ecological questions. Cooperation has been
+arranged between institutions of USSR Academy of Sciences and the USSR State
+Committee on Hydrometeorology and Environmental Control. Hopefully it could
+be even closer.
+
+Academician A. M. Obukhov emphasised that the Division of Oceanoiogy.
+Atmospheric Physics. and Geography had significantly promoted a rise in the
+overall level of scientific research in its pertinent fields. Division sessions
+generally are creative and stimulate the use of new atmospheric and oceano-
+graphic research methods. The use of fine methods of spectroscopy to indicate
+atmospheric impurities. the use of natural thermal emission in the SHF range
+in problems of "aerospace geography" and oceanology could be given as
+examples. Furthermore. the division could play a greater role in thawing the
+attention of scientists working on fundamental problems to the practical needs
+of various agencies. This Is especially germane for atmospheric physics.
+
+Academician A. V. Sidorenlro stated that when the Division of Oceanology.
+Atmospheric Physics. and Geography had just been formed there was insufficient
+attention given to its strengthenim. The resources of some institutions in the
+division did not correspond to new problems. This is still the situation with the
+Institute of Geography. institute of Limnology. The Imtitute of Water Problems
+also was in a complex situation for a long time: it had basically been formed
+only on paper. Thus now primary attention must be given to reinforcirg the
+material and technical base of the institutes.
+
+It is very important to intensify the role of the division both in the coordination
+of research being conducted by institutions of the USSR Academy of Sciences
+and republic academies as well as in coordinating interdisciplinary and
+intcrugency research. This will aid in more clearly defining the general line of
+division activities.
+
+Academician i. P. Gerasimov spoke of the need to strengthen the material and
+technical base of institutes. especially the Institute of Geography. whose
+resources do not correspond to problems which it has to solve at today's level
+of geographic science. He also touched on the question of drawing up a program
+of fundamental research. in our division. he stated. we should develop or
+modernize programs to study the world oceans. climate. and the environment.
+An environmental program should be comprehensive and include biological.
+geographic. eronomic.and sociological research-
+
+69
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+A. I’. 'l‘reshnikov. Corresponding Member USSR Academy of Sciences. noted that
+the Arctic and Antarctic play a deciding role in shaping weather. and the study
+of these regions of the globe is very important in making forecasts. The USSR
+Academy of Sciences has an lnteragency Commission on the Study of the
+Antarctic. There is no coordinating unit for arctic research. but one is needed.
+Various agencies of our comtry are now working in the polar region. including
+the Arctic Ocean. But this work is not coordinated. there is no general line. no
+strictly scientific basis. Perhaps it is not only a coordinating mlt which is
+necessary. but a scientific research organization on questions of the Arctic.
+
+Academician A. P. Aieksandrov. president of the USSR Academy of Sciences
+noted the nced for creating climate programs which would include research
+
+connected with the design of means of climate control. as well as work on the
+paleoclimate.
+
+Resolution
+
+The Presidium of the USSR Academy of Sciences approved the activities of the
+Division of OecanolOsY. Atmospheric Physics. and Geography of the USSR
+Academy of Sciences.
+
+The chief task of scientific institutions of the division is the conduct of research
+on natural processes in the water and air envelopes and on the dry land of Earth
+using the latest methods and means with the goal of effective use and protection
+of resources and forecasting their evolution.
+
+In the future the scientific and research work of the institutes of the division
+will be concentrated in the following areas:
+
+the study of physical. chemical. biological. and geological processes in the
+world ocean and its sees; the study of the interaction of ocean, dry land and
+atmosphere to ﬁnd means of efficient utilization of resources and to ensure
+long-term weather forecasts; development of scientific means of prevention of
+pollution of the ocean; creation of new ways and means to study the world's
+
+oceans and. above all. multispectral space photographs and remote sensing;
+
+improvement of methods of long-term weather forecasting on the basis of
+the study of physical. chemical and other processes in the Earth's atmosphere
+and on other planets; fuller consideration of the interaction of atmosphere.
+continents. and oceans: study of climates of the past. development of a theory
+of climate and design of methods of prediction of natural and man-made
+changes; a search for principles of artificial impact on the weather and climate;
+and development of new methods of atmospheric research;
+
+70
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the search for more efficient means of utilization. protection. and
+transformation of the natural environment: elaboration of prognoses of its
+change due to increasing rates of technical advancement; establishment of
+scientiﬁc bases of Feeccoiogical monitoring of the state of the environment; and
+ways and means 0 purposeful control of natural and natural-technical systems:
+
+development of scientific bases of control of conditions. resources. and
+quality of dry land waters for their optimum utilization and protection based on
+studies of water and moisture exchange in the atmosphere dry land-ocean
+system;
+
+a study of patterns of formaton of cryolitliozones; creation of scientific
+foundations and methods of control of cryogenic processes for national economic
+assimilation of the region of seasonal and perenial frozen rock and the search
+for methods of reeultivation of distilbed nattral landscapes.
+
+The Presidium called attention of the division to the need to intensify and
+expand the coordination of research both with institutions of the ministries and
+agencies. and with institutions of academies of sciences of Union republics: and
+with institutes of other divisions of USSR Academy of Sciences as well
+(primarily the Division of General Physics and Astronomy. Division of Mechanics
+and Control Processes. Division of General Biology. division of Physical
+Chemisz and Technology of Inorganic Materials); to more widely utilize the
+resources of interdisciplinary cooperation (by wing optimum forms of or-
+ganizational communication with other institutions).
+
+A resolution was taken on the need of substantial improvement of the
+material, technical. and equipment provision of the institutes. and abo on the
+future development of experimental foundations, especially for the development
+of modern methods of study of the environment using aerospace means. remote
+sensing. modern computer technique. and so forth.
+
+COPYRIGHT: izdatel'stvo "Nauka." "Vestnik Akadcmii nauit SSSR". 1979
+
+8617
+CSO:I870
+
+71
+
+P01! OFFICIAL USE ONLY
+M OﬂICIM. USE ONLY
+PUBLICATIONS
+
+UDC 621.396.61.621.385.6
+ACCELERATED EIECTRON SEAN TRANSMITTER
+
+Moscow ELEP‘IENTY PERI-IDATCRIKOV s USKORENNYHI ELEKTRONNYHI PUCHKMI
+[Elements of Transmitters with Accelerated Electron beams] in Russian
+1973 signed to press l0 February 1978 pp 2-4. 126.127
+
+[Annotatiom foreword. and table of contents of a book by Boris Aleksandrovich
+Snedkov. izd-vo "Svyaz"'. 1,300 copies. 128 pages. with illustrations]
+
+[Text] Possibilities for using resonantly accelerated electron beams in
+transmitter elements are described. The book provides calculations of
+current pulses in bunchers and methods of electron resonant acceleration.
+basic attention is placed on examination of transmitter element operating
+principles and their designed features are also examined.
+
+The book is intended for engineering and technical workers who do the
+project planning of transmitters.
+
+Forward
+
+Type ”0" and ”H" electroVacuum instruments are being used in high-power
+microwave transmitters' Lav [travelling wave tube]. klystrons. and magnetrons.
+At the present time specific rules for the construction of transmitter circuits
+as well as rules for the elaboration of electronic instruments which have now
+become classic have been laid down. The capabilities of the classic circuits
+do not always satisfy the growing requirements of modern communications equip-
+ment:- Therefore. the nether has for several years directed his efforts at
+creation of the theory of new transmitter hybrid circuits using the elements
+of tuned amplifiers and the elements of floating-tube klystrons. The hybrid
+devices possess special energy characteristics and their analysis is undoubtedly
+of interest to readers.
+
+Examined in Chapter 1 are possibilities for using resonantly accelerated
+electron beams in transmitter elements. A theoretically new approach is beim
+used-m generator with an external excitation is looked upon as a stage to
+which, along with a dc source. is fed an auxiliary BF feed source, which
+materially increases the kinetic energy of the electron beam. Practice has
+
+72
+
+FOR OFFICIAL USE ONLY
+shown that the electron beams must possess a relatively homogeneous energy
+in order to obtain highly effective hybrid devices.
+
+Chapter 2. sets down a method of calculating current pulses in bunchers,
+which makes it easy to find the energy and time characteristics of the
+electron clusters. Using these characteristics. examined in Chapter 3
+
+are the circuits or the tuned electron amplifiers with monoenergetic beams.
+Such amplifiers are input as an integral part to the generators with exter-
+nal excitation but. in a number of instances. they can also accomplish
+independent tasks.
+
+Described in Chapters 4. and S are specific devicesl electronic antennas.
+
+phase inverters, microwave power switches. frequency amplifier and multiplier
+stages. and circuits of transmitting devices with accumulation of microwave
+energy in resonant systems. however. the devices examined do not exhaust all
+the mssible advantages of resonant acceleration. Also described in Chapter lo
+are several elements of the transmission channel which controls the bunched
+beams. Here the accent is placed on the capability of transmission of the
+microwave energy which carries information about the usable signal by an
+electron beau. Examined in Chapter 5 are the transmitter elements using
+bunched beams. and attention is also concentrated on the potential capabilities
+or accumulating the microwave power in the generator‘s oscillation system and
+in its electron beam. The design features of the transmitters are discussed
+
+in Chapter 6.
+
+The principle of resonant acceleration has been known for a long time and is
+being widely used in charged particle accelerators. Clear concepts exist on
+
+the elaboration and tuning of resonant and waveguide acceleration systems.
+Particle accelerators are used in high-energy devices. the category to which
+
+the output stages of microwave transmitters belong. Nonetheless. resonantly
+accelerated electron beams are used in transit-uter elements only under laboratory
+conditions now.
+
+The purpose of this book is to familiarise readers with the varied possibilities
+of using resonantly accelerated beams in transmitted elements using clear
+examples. Specific calculations of the circuits examined have been reduced.
+
+it seems to me, to the most interesting practical point of View.
+
+it” readers in their practical activities can use the principles of circuit
+construction and methods for computing them presented in the book. the author
+will consider that the job has been accomplished.
+
+The author is obliged to thank his teachers and tutors--Docent c. l. Zhileyko
+
+and Professor 8. l. Yevtyanov (deceased). who through their advice predetermined
+the direction the book took.
+
+The author expresses appreciation to readers who participate in discussing the
+book. Criticism and contents should be sent to lzdatel'stvo "Svyaz'”, 101000,
+Moscow, Chistoprudnyy bul'var 2.
+
+73
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Contents
+
+Fotcuotd slslbeeeslessee-soseeeesseeeseesseesseseesseaeeesesssessile.
+
+chapter 1. Possibilities of Using Resonantly Accelerated Electron
+new in Transmitter Elmnt. sososoosaossossoossesssssoessosseseas
+
+Chapter 2. Calculation of Current Pulses in Electron Bunchers ......
+Zola Introductory “0ch assess.aseesseas-secesssssssesoosseassasse
+2.2. Construction of the time characteristics of current mlses ..
+2.3. Obtaining short current pulses in klystron bunchers .........
+2.6. Harmonic composition of current pulses in klystron bunchers .
+2.5. Obtaining current pulses in waveguide launchers . .. . . ... .. ....
+2.6. Radial movement of electrons and calculation of the voltage
+
+of a magnetic field given formation of current pulses .....
+
+Page
+3
+
+5
+
+18
+18
+21
+27
+28
+31
+
+35
+
+Chapter 3. Methods of Resonant Honoenergetic Acceleration of Electron
+
+seas ...0000......0.00..0000....OIOCOOIOOOCOOIIOOIOCIOIOOOOIIOODOO
+3.1. Honoenergetic acceleration of current pulses in cavity
+systm ’OOIOOOIIOOOIIOOOOOIIOI.IIIOOOCOOIOOOIOOIOOOOOOIOOI
+3.2. Nonoenergetic acceleration of current pulses in a diaphrag-
+matic v‘vewide OeOOIODOIOII00'II'D...OOOCOODOOOIOOOOOIIIOI
+3.3. Acceleration of beams in resonant systems without formation
+
+of Clusters eeeleeseeeeseaseeeeseeeeeeeeeesesessseseseaosse
+
+3.1.. Influence of destabilizing factors on beam energy character-
+
+18:168 eseeeeleesesssoessesoseeeeeeesseseseseeolseeeeoeeeee
+
+Chapter lo. Elements of the Transmitting Channel which Controls
+Bunched Electron Bell" eeaesseaasosassesesessseaeossssseesesseeosse
+6.1. Magnetically retarded radiators .............................
+(6on Electric'lly ”tamed r‘di‘cor‘ seeeeassesseeoaasoseesssoeeoe
+(Oa3e Electrical “lemwﬁve mt Witch?! assaesesseesssaasaaeesose
+(ha. “15” mt electrical We inverters sososasosasoosssosssass
+0.5. Power integrator with harmonic suppression ..................
+
+Chapter 5. Transmitter Elements Using lunched Electron Beams .......
+5.1. Hicrowave oscillation amplifier with reduced feed voltage ...
+SsZa Frequency mitipller with Circul‘r be“ 8cm 0 e e s e e s o e a e a s a o s
+5.3. Pulse transmitter with direct line discharge to the beam ....
+5.1.. Transmitter with power accumulation in the electron beam ....
+5.5. Pulse transmitter with resonant storage of microwave energy
+5.6. Oscillation amplifier with automatic fine tuning of the
+
+auxiliary semtltor fmuency seeeeeeeeeeeeeeeeeesesssssees
+
+Chapter 6. Design Features of the Elements of a Transmitter with
+Accelerated Electron Beam assesssaaaoeossaeoaeeossoseoeosssssaasss
+6.1. Special features of the design computation of buncher and
+
+electron accelerator element. eeeelsseesseeseseecesseeeesse
+6.2. Special features of the electron beam fomation systan ......
+
+Bibliostlphy soseseases-easeassesssoseeeeseseeaeeaseseeeoooeesooeseoo
+COPYRIGHT: Isdatel'stvo "Svyar'", 1978
+
+7869 76
+C80: 1870 FOR OFFICIAL USE ONLY
+
+61
+61
+46
+52
+
+58
+
+62
+62
+69
+7b
+77
+81
+
+87
+87
+90
+93
+96
+100
+
+107
+
+110
+
+110
+117
+
+122
+POE OFFICIAL USE ONLY
+
+I‘ll! Ll CAT IONS
+
+UDC 621.391 (075.8)
+
+'ﬂlBORY OP SIGNAL TRANSMISSION IN mom
+
+Moscow TEORIYA PEREDACHI SIGNMDV V ZADACHAKB (Theory of Signal Transmission
+in Problems) in Russian 1978 signed to press 7 Mar 78 pp 2. 351-352
+
+[Annotation and table of contents from a book by Daniel Davydovich Klovskiy
+and Vlmlimir Afanas'yevich Shilkin, lzd-vo "Svyaz'". 18,000 copies, 252 pages.
+with illustrations]
+
+[Text] This is a handbook for rating systems for transmitting information
+via electrical comunication channels. Brief theoretical information in the
+for- of computational procedure is presented prior to formulation of problems
+in the separate sections which touch upon the comprehensive problems connected
+with the probability rating for various commication system elements.
+
+The book is intended for students in institutes of comnications and similar
+specialties and can be used by a broad circle of engineering and technical
+workers who are beginning to assimilate the methods and routines for statistical
+analysis and synthesis of intonation transmission systems.
+
+Contents Page
+
+Foreword seeseeeeeseeGeeseseeseeeseeeeeeeeeeeaeeeaeeeeleoeeeaeoaeeelI 3
+
+List of Basic Sylbolosy eeaeesesoasasoeseeoeeeoeaeeeaaaaoa-aaoasee-es 5
+
+Chapter 1. Spectral and Time Representation of Signals and
+Interference eeeeeeeaeeeeesaeeleeseaeeeesssoooeeeeleleeeeeeeeeeeeee
+l. 1. Spectral characteristics of random processes . . . . . . . . . . . . . . . . .
+1.2. Envelope, instantaneous phase. and frequency of a narrow-band
+
+rCNdon proces‘ eeeeeseeaaoaaaseeosoao-eaaoaeoeaaeeaoeeeeeeee 25
+1.3. Fundamentals of the theory of quantization of the functions
+
+of a continuous argulent. The Kotel'nikov Theorem ......... 38
+1‘6. Infomtion‘m .isn‘l 3mes OIIOIIOOOOIOOUOOIOOOOIOOO000'... ‘3
+1.5. Physical volume of the signal and col-unication channel ...... Sh
+
+75
+
+FOR OFFICIAL USE ONLY
+Chapter
+2 0 ll
+
+2.2.
+203.
+2A.
+Chapter
+3.1.
+3.2.
+3.3.
+3.4.
+
+Chapter
+II e lo
+(I a 2 a
+6.3.
+
+Chapter
+5 . i.
+
+502.
+503.
+5.1a.
+5.5.
+Chapter
+
+6.1.
+6.2.
+
+Chapter
+7 . l.
+
+7.2.
+
+FOR OFFICIAL USE ONLY
+
+2s Communic.tl°n Channels Ind Their EIOIERCO eseeeeeeeeeeees
+«:«mmiuation channel models and their mathematical
+”OICtlpcion seeseseeseeeeaeeseeseeeeasesoseeeeeseseseeeeess
+(:lmnges in the form of the signals stipulated by the
+characteristics of a continuous channel . . . . . . . . . . . . . . ... . . .
+Adaptive Interference in a continuous conunications channel
+Passage of random effects through a commanication channel
+ind it. elments ...”......u.........'....................
+
+3. Information Characteristics of Comnication Systems ....
+Quantitative determination of information. Entropy and
+productivity of a discrete information source .............
+Quantity and speed of information transmission via the
+discrete channel. Throughput of the discrete channel .....
+Entropy and productivity of a continuous information source
+Amount and speed of intonation transmission via the
+continuous channel. Throughput of the contimous channel
+
+4. Fund‘ncntiIs of Coding Theory eeseeeseeseaseseseaosessese
+Code representation. Code properties without redundancy ....
+Cotr9¢tin5 codes and their propertie. eeee-eeseeeeeeeeeseseae
+Relative effectivenesa of redundlnt coding sesslolseeseeeeeee
+
+5. Transmission of Discrete Information . . ... ... .. ... . ......
+Criteria of optimum reception. Algorittms of optima:
+reception giving an accurately known signal ...............
+Implementation of the algoritlm of optimum reception given
+an accurately known signal based upon matched filters......
+Noise illunity (probablity of error) of optimum receive
+circuits given an accurately known signal .................
+Algorithm of optimum reception and noise humanity given
+indeterminant 81“.]. "1‘39 and alletude Oeeeosesleeeeeeeae
+Relative effectiveness of discrete information trmsmission
+
+systems eeooeseeeeeeeesaeeseeeeole-eases.esteeesseaeeeaeeee
+
+6e Transmission of Continuous Inforu‘tion seoeeeescseeeseeee
+
+Optimum r‘tin‘ of individull Bisn.1 P.raneter8 aeoeseeeeeeeee
+
+Optimm reception of continuous information. Gain and
+generalized modem gain. Potential noise inunity given
+various types of modulation of the continuous information
+
+carIIEr eeeeeesseeeeeeeaeaeeeeseeeeseeeeeaeaeeseseeeeeaeeso
+
+Transmission of continuous intonation using discrete methods
+Optimum and suboptim- filtration of continuous signals .....
+Relative effectiveness of continuous informatim transmission
+
+systems eeeeeeeeeeeeeeseeseeoaasseaseeseeeeeeeeeeseesoseses
+
+7. Hultichannel Communication Systems ......................
+
+Separate and combination channeling systems given multi-
+channel Communication eeeaeeeeeeeeseeeeeoeesseeseeeseeeeee-
+
+Effectiveness characteristics and informational character-
+istics of nu1t1Chann91 systems eeeeeeeeeaeseeeeeeeesseeeeee
+
+76
+
+FOR OFFICIAL USE ONLY
+
+59
+
+59
+
+69
+79
+
+85
+98
+98
+
+108
+120
+
+129
+135
+135
+143
+168
+176
+176
+192
+201
+222
+234
+
+249
+249
+
+261
+286
+295
+308
+310
+314
+
+3310
+FOR OFFICIAL USE ONLY
+
+chapter 8. Problems in Selection of the Beat Comntcation System
+
+variant...oooocoooo-ooouonoocooto...aoDocoonooouoooooooooooooooooo-o 3‘07
+"IDIIOI'J'IImy ODOCOIOOOIOCO00000.0000...0.001IOOOOOOIOOOOOOOQOOllootltl 350
+COPYRIGHT! Izdatel'stvo "Svyaz"‘, 1978
+
+7869
+(3503 1870
+
+77
+
+P0! OFFICIAL USE ONLY
+you omcm. use ouu .
+
+PUBLICATIONS
+
+('APSULATION 0F MDIOEIECTRONIC GEAR
+
+Moscow GERHETIZNISIYA RADIOEIEKTRONNOY APPARATURY (Capsulation of Radio-
+electronic Gear) in Russian 1978 signed to press lo Mar 78 pp 2, 359-360
+
+[Annotation and table of contents from book by Yeva Izrailovna Fridman.
+Izd-vo "Energiya". 8,000 copies. 360 pages, with illustrations.)
+
+[Text] Examined in the book are questions of ca ulation of radio-
+technical components that are important for REA radioelectronic gear].
+Presented are the most effective methods of protection and modern capsula-
+tion materials. The functional dependencies of the basic parameters of
+polymers on the effect of various climatic factors are shown. Presented
+are schematics of the capeulation processes and individual examples of
+
+the capsulation of several components recomnded for use in severe climatic
+conditions.
+
+The book is intended for engineering and technical and scientific vorkers
+in radioclectronics and in similar sectors of industry who are involved
+in the design and production of components. which are protected against
+
+climatic effects. The book can be used by students in the corresponding
+specialties and technical VU2_'s.
+
+Contents Page
+
+Forcﬁord as.eeeeeameeeeaaemeeeeeeeeeemleeemlsomeeemeOOeeeeedoeeemmmmm' 3
+
+chapter 1. Basic Information on Sealing Polymers ................... 6
+1.1. Basic functions of polymers in radioelectronic gear. General
+information on capsulation processes ...................... 6
+1.2. Classification of capsulation processes. Advantages and
+special features of using polymers in REA ................. B
+1.3. Operating conditions for canponents which have been cap-
+sulated. Basic factors which cause components to mal-
+
+ﬁlnction....................o..oo.u.-.--.....oo......o....o 11
+
+1.1.. Basic qualities of sealants and sealant requirements ........ 26
+1-50 Sealant classes eleeeoeeeaaelmmeem000.com...memeeeemmlmmmeloo 36
+
+78
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+l‘huiiln'r 20 Qualities of l’oly‘mir Sealants cacao-eonsoscoauocesosooaaso
+3.1. TYIN‘S ni' Bi‘ﬂlnllts 00outOusaesoeaeoseeataocoooestslsaeoooooeeot
+2.2. In-lutivc Characteristics of water resistance of winding
+c-nmmnnnm mule leinn vnrlums unterprool'inu nu-tlmdx ........
+.2. i. Hii'cct ol' sealants and solvmnts on the enamel insulation of
+
+Hire "indliieaasaInsoneIcon-asslaasasaaaalaaaaaaseaaaaoaoaass
+
+(iiiulitm‘ ’0 Capelllatlon NnnUfacturlnﬁ Processes oacooacaaesoeoooosoosa
+3010 P‘lndmntﬂla of capsulation processes asaasaaaaoaeaoaaaosaaasa
+"a2. Capelllttlon mnufaCtul'lnB processes clscootooclseooooeesnlnooe
+1.3. Capsulation forms. auxiliary processes. and materials ........
+1.". General “1108 for use of ”IN: sealants ceasoaoooatasnosoeoe
+
+('haptcr Io. Finishing Operations Involving Use of Polymers ...........
+10.1. Assignment of finishing operations when capeulatin; electronic
+equimnt components assesses-recessIooosooaaaoaasoaoossaoaa
+
+6.2. Correction of various defects which arise during capsulation
+operations and processing of poly-era ......................
+In). Sealing. marking. and branding ...............................
+
+’aJI. Immunity of marking paints to tropical conditions and to
+alcoml md ancno mixtures 0.0.0.0.00000000000000000IUOOII
+
+chapter '3. Technical and Economic Aspects of Using Polymer Capsula-
+cit,“ 0000.00.00.00000'.0000.0..0.0I‘OI.0000.DOOOOOOOOOOODO‘OOOIOOODI
+
+5.1. Comparative technical and economic data when using methods of
+capsulation involving liquid and solid sealants ............
+
+5.2. Comparative technical and economic data when using poured
+materials containing and not containing solvents ...........
+
+Chapter 6. Labor Protection and Safety Equiulent During Capsulation .
+6.1. Basic regulations on mandatory safety equipment during
+
+capsulation cocoons.o-sreeeoaasooosooaeooaeooeoeooooesocoooo
+
+6.2. Toxicity of sealants and safety measures .....................
+6.3. Fire-fighting measures during the capsulation process ........
+
+Bibliography soossooeseoooou-cassoaeaeoesooeosaoosooeooooaeaoeaeeosoaa
+
+COPYRIGHT! Izdatel'stvo "Enersiya", 1978
+
+786‘)
+(1303 1870 END
+
+79
+
+FOR OFFICIAL USE ONLY
+
+81
+
+192
+206
+211
+211
+238
+301
+309
+312
+312
+
+315
+317
+
+326
+
+333
+335
+3101
+34!:
+3M:
+366
+350
+
+352

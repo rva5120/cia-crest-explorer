@@ -1,0 +1,147 @@
+[ '/home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500060033-4.txt'
+ '/home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400060007-4.txt'
+ '/home/grads/rva5120/cia-crest-explorer/dataset/JPRS_new_txt/CIA-RDP82-00850R000100020023-3.txt'
+ ...,
+ '/home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500030057-1.txt'
+ '/home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500020048-2.txt'
+ '/home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500040049-9.txt']
+1011 documents
+
+Extracting features from the training dataset using a sparse vectorizer
+done in 27.492521s
+n_samples: 1011, n_features: 10000
+Clustering sparse data with MiniBatchKMeans(batch_size=1000, compute_labels=True, init='k-means++',
+        init_size=1000, max_iter=100, max_no_improvement=10, n_clusters=40,
+        n_init=1, random_state=None, reassignment_ratio=0.01, tol=0.0,
+        verbose=False)
+Done in 8.051s
+
+------------ STATISTICS ------------
+Silhouette Coefficient: 0.078
+
+ Number of documents per cluster 
+[[ 16.]
+ [  1.]
+ [ 61.]
+ [ 69.]
+ [ 29.]
+ [ 23.]
+ [ 26.]
+ [ 17.]
+ [ 15.]
+ [  2.]
+ [  5.]
+ [ 59.]
+ [ 23.]
+ [ 10.]
+ [ 36.]
+ [ 12.]
+ [ 93.]
+ [ 16.]
+ [ 29.]
+ [ 52.]
+ [  5.]
+ [  6.]
+ [ 44.]
+ [ 11.]
+ [ 11.]
+ [ 30.]
+ [ 45.]
+ [  9.]
+ [ 26.]
+ [ 10.]
+ [  2.]
+ [ 14.]
+ [ 52.]
+ [  1.]
+ [ 54.]
+ [ 12.]
+ [  8.]
+ [ 50.]
+ [ 25.]
+ [  2.]]
+[ 1009.     2.]
+
+Closest document to each cluster:
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500040022-8.txt - Cluster 0
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_new_txt/CIA-RDP82-00850R000100010002-7.txt - Cluster 1
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400080043-2.txt - Cluster 2
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400080028-9.txt - Cluster 3
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500040058-9.txt - Cluster 4
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500070040-5.txt - Cluster 5
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400080042-3.txt - Cluster 6
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500080054-9.txt - Cluster 7
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500040057-0.txt - Cluster 8
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500070068-5.txt - Cluster 9
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400060002-9.txt - Cluster 10
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400070012-7.txt - Cluster 11
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_new_txt/CIA-RDP82-00850R000100040006-0.txt - Cluster 12
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500040030-9.txt - Cluster 13
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500070033-3.txt - Cluster 14
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/Stargate_txt/CIA-RDP96-00789R000700880001-8.txt - Cluster 15
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500080022-4.txt - Cluster 16
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500030045-4.txt - Cluster 17
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_new_txt/CIA-RDP82-00850R000100030050-2.txt - Cluster 18
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500070060-3.txt - Cluster 19
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400070061-3.txt - Cluster 20
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500030035-5.txt - Cluster 21
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500040059-8.txt - Cluster 22
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400070056-9.txt - Cluster 23
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500030050-8.txt - Cluster 24
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_new_txt/CIA-RDP82-00850R000100030018-8.txt - Cluster 25
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000200030012-3.txt - Cluster 26
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400070028-0.txt - Cluster 27
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500040037-2.txt - Cluster 28
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500020058-1.txt - Cluster 29
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_new_txt/CIA-RDP82-00850R000100030009-8.txt - Cluster 30
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500070070-2.txt - Cluster 31
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500010003-2.txt - Cluster 32
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400060027-2.txt - Cluster 33
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500040029-1.txt - Cluster 34
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_new_txt/CIA-RDP82-00850R000100040045-7.txt - Cluster 35
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500060022-6.txt - Cluster 36
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000500020027-5.txt - Cluster 37
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_new_txt/CIA-RDP82-00850R000100020024-2.txt - Cluster 38
+Doc /home/grads/rva5120/cia-crest-explorer/dataset/JPRS_txt/CIA-RDP82-00850R000400070026-2.txt - Cluster 39
+Creating Document Tree if necessary...
+Top terms per cluster:
+Cluster 0: tanaka japan suzuki faction japanese use ldp party diet official
+Cluster 1: african financing tho electricity energy use official fund ivory french
+Cluster 2: use frequency signal official laser wave optical radiation ref surface
+Cluster 3: drug police heroin narcotics drugs opium cocaine arrested 5300 seized
+Cluster 4: military combat defense enemy air use forces troops soviet training
+Cluster 5: quan dan doi nhan d01 gp 81 82 nnan vietnam
+Cluster 6: arab al egypt iraq sadat use official israel iraqi political
+Cluster 7: satellite satellites ariane space use official french orbit intelsat tv
+Cluster 8: production feed poultry agricultural farms percent use grain livestock crops
+Cluster 9: savings bank mexican growth money incomes population mexico group banking
+Cluster 10: cuba cuban citrus use official revolutionary castro political soviet river
+Cluster 11: japan japanese use tokyo official yen oi technology defense ohira
+Cluster 12: tho end use official ond thet io ere thio thie
+Cluster 13: abstract references udc 621 use reactor fuel article text official
+Cluster 14: social party soviet use people socialist political national work ideological
+Cluster 15: rdp96 release approved viewer target 08 cia cla 00787r000300300001 2000
+Cluster 16: use official party percent political french france basque government new
+Cluster 17: airbus use engine official fuel coal gas 310 air engines
+Cluster 18: use official african french africa 79 end tho 000 paris
+Cluster 19: power fuel use nuclear reactor gas electric official energy reactors
+Cluster 20: training infantry enemy artillery combat battalion regiment military troops tanks
+Cluster 21: ats machine use network official equipment tool bearings tools control
+Cluster 22: french african paris use africa official tropicaux francs 1981 cpa
+Cluster 23: cuba prela cuban havana use official salvador nicaragua people 3010
+Cluster 24: poland polish church solidarity use warsaw party official military poles
+Cluster 25: ocean use temperature surface data layer velocity water waves precipitation
+Cluster 26: arab al people iran iranian islamic palestinian moroccan israel political
+Cluster 27: lebanon syrian lebanese arab al palestinian syria asad arabi president
+Cluster 28: computer use data processor control storage input yes official systems
+Cluster 29: construction capital use production cost work official rubles expenditures fixed
+Cluster 30: china vehicle radar motor airborne warning japanese peking plant use
+Cluster 31: use population production goods percent consumer development enterprises freight kolkhoz
+Cluster 32: use official systems control pp sciences data scientific moscow chapter
+Cluster 33: youths pr fitness physical kg values stress 170 percent min
+Cluster 34: use official ntt research robot production data equipment development technology
+Cluster 35: pollution use water environmental forest protection official environment baltic sea
+Cluster 36: argentina argentine use aires buenos official cuba 3010 spanish end
+Cluster 37: production economic use labor development scientific official enterprises capital ussr
+Cluster 38: soviet use military official vietnamese people border ussr war states
+Cluster 39: digits adders npr digit adder use multipliers fig trade official

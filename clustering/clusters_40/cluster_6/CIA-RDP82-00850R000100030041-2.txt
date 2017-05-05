@@ -1,0 +1,4881 @@
+APPROVED FOR RELEASE: 2007/02/00: ClA-RDP02-00050R000100030041-2
+FOR OFFICIAL USE ONLY
+
+JPRS L/8338
+15 Match 1979
+
+TRANSLATIONS ON USSR SCIENCE AND TECHNOLOGY
+PHYSICAL SCIENCES AND TECHNOLOGY
+(FOUO 15/79)
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/08: ClA-RDP82-00850R000100030041-2
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books. but also fron news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English- language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+headlines, editorial reports. and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item. or following the
+last line of a brief, indicate how the original information was
+processed. there no processing indicator is given. the infor-
+nation was sumaarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributeu parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies. views or attitudes of the 0.8. Goverment.
+
+COPYRIGHT MRS AND REGULATIONS GOVERNING MERSHIP OF
+MATERIALS REPRODUCBD HERE!" REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED MOFFICIAL USE ONLY.
+DIOLIOGRA'MIC DAYA
+
+ 
+   
+  
+  
+     
+      
+  
+  
+       
+ 
+    
+      
+   
+
+I. Din-pun Nu. JPRS ‘ I 8338
+
+' mAnsnm‘ums nu ussu so mum AND 'rmmowcv - NWSICM.
+M. Imcus AND m: llNiiliKl Y, (F000 15/79)
+
+3. Reripnem‘ a Mere-Bu- Nu
+
+.m-
+
+r15 March 19 79
+
+l- Ruler-ins Ovaaanuuon lrn.
+
+ 
+  
+
+7. \uhulsl
+
+  
+
+ 
+
+  
+    
+ 
+    
+
+   
+ 
+
+’- I‘- liar-my ihmmum-n Hour at! A-Mtr“
+Joint Publications Research Service
+[000 North Globe load
+
+Arllnuton. Virginia 22201
+
+IO. Hoicct/Tackl'ocl Uau No.
+
+II. ('oauari [Oi-ﬂ No.
+I3. lypc oi Moon In Period
+Coveted
+
+ 
+
+‘2, ~. nun-ell; IhesnI/atiun Near and Adda-u
+
+   
+ 
+
+I‘ll nhove
+
+   
+
+It.
+
+11-h nrmJli Nun s
+
+u, \|.. um:-
+
+‘l‘hu n'pm'l. contains intonation on aeronautics; ostronoay and astrophysics;
+:Itmsphnrlc :n-icnces; chuaistry; earth sciences and oceanography; electronics
+and vioctrluni engineering: energy conversion: tutorials; mathematical
+sciences: cybernetic. coaputers; lochanicsl. industrial. civil. and aarine
+engineering nethoda and oquipnent; missile technology; navigation.
+conunicutions. detection. and countemaaureo. nuclear science and technology:
+ordnance: physics: propulsion and fuels; space technology; and scientists
+
+and scientific organization in the physical sciences.
+
+     
+ 
+      
+ 
+   
+   
+    
+  
+  
+  
+   
+  
+ 
+ 
+    
+  
+   
+    
+
+     
+
+I1. k- \ I.n.l-. mad Du- man-u Aulyxn. ‘ e. "O'M'Iﬂlls
+
+ussa Electronics Hissile Technology
+Aeronautics ﬁlectrical Engineering Navigation and
+Astronomy Energy Conversion Communications
+Astrophysics Materials Detection and
+Atmospheric Sciences Mathematics Comteraeasures
+Chemistry Mechanical Engineering Nuclear Science and
+(In-puivru Civil Engineering Technology
+(:ylwrncih-u lndmtrial Engineering Ordnance
+
+Earth Sciences Marine Engineering Physics
+ih-uunogrnphy Methods
+
+Propulsion and Fuels
+Bquipeent Space Technology
+
+no. u. mm- .-. up”. Incl-J 1m.-
+
+II- ""NllvlJ/‘W'N' 01.."3 06.07.08.09,10.11.12.13.16.16.17.18.1,9,20,21,22
+
+....__.—
+II |- «I .0 oh“ 4 m- m out
+
+For (Ill'icinl lim- Only. lJ-ilcd
+Number of Copies Available Free Ji’Rs
+
+. nu... nun a u.- - o I .
+
+ 
+
+ms man an m: sanemucen ““°““"" “"""'
+FOR OFFICIAL USE ONLY
+
+JPRS L/83
+15 March
+
+TRANSLATIONS (N USSR SCIENCE AND TECHNOLOGY
+
+PHYSICAL SCIENCES AND. TECHNOLOGY
+(rouo 15/79)
+
+Comm
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+'Hatchad Surface.Acoustic Have Filter for Low Transaission Rates
+(A. Ye. Zna-enskiy. Ye. S. Wrator; ELEKTROSVYAZ',
+
+No 11. 1978)............................. ...... ........
+
+Noncoherent Radar Syste-s
+(v.v. Karavayev. V.V. Saxonov; RADIOTEIOINIIIA I
+
+BLEK‘I'RONIKA. Nov 78)...................................
+
+Range and Bearing Accuracy Using Antenna Arrays
+(I. Ya. Kroner. 0.8. Nakh-anson; RADIOTBKRNIKA I
+
+“MONIKA. Nov 78)...................................
+
+Electromagnetic Interactions in Transmission Lines
+(ON. Sokolov. at. al.; RADIOTEKHNIKA I ELECTRONIKA.
+
+NOV 78)eessaceasessesaseeeasseeeaaaeseseesasaoeseaeaaes
+
+Signal Detection on CRT Against Noise Background: Nonpara-etric
+
+node].
+0].". Budko, et. al.; RADIO‘I'EIOINIKA I “MONK“,
+
+Nov 78)....aooe-oaoaaaaaaooaaaaoooooocooooaaaaoaeoaaaac
+
+Side-Lobe Filters for Phase-Hanipulated Signals
+(VJ. lpatov; RADIOTBKIINIKA I ELEKTRONIKA. Nov 78).....
+
+Amplification of Hide-Band Signals in Type 0 Traveling-
+
+Have Tubes
+(3. Ya. zhelezovskiy. et. al.; RADIOTEICBNIKA I
+
+ELEK'I‘RONIKA, Nov 78)...................................
+
+GEOPHYSICS. ASTRONOMY AND SPACE
+
+A Specialized Coaputer for Marine Digital Graviuetera
+(A.V. Staklo; PRIKMDNAYA GEOFIZIKA. No 88. l977)......
+OONTMS (Continued)
+
+First Results of Scientific Experiments on 'Venera-ll' and
+'Veneru-IZ'
+(PIS'HA V ASTROWICHBSKIY ZRURNAL. Vol 5. No 1.
+
+.1979).esoeeseeeeaeeeeeeeeeeeaeeeeeeeeeseeeeeeeeeeeeeeee
+
+PHYSICS
+
+Investigating the 'Noise Characteristics of an Optical
+Aaplifier in n XB-llB Mixture (K- 3.51 aicrone)
+(V.P. Logvinov, et. al.; RADIOTEKIINIKA I ammonia.
+
+No 1. 1979)............................................
+
+Investigating the Noise of a Dc Discharge Please in an
+Optical Anplifier Operating in a Mixture of HE and X8
+(v.1. bogvinov. et.-al.; RADIOTBKBNIM I BLBKTRONIKA.
+
+No 1, 1979)............................................
+
+Controlling the Para-eters of liicroeecond hission Pulses I
+(V.V. Arsen'yev. et. a1.; MDIO‘I'BKRNIKA I BLEKTRONIKA,
+
+“o 1. 1979)eeeeaeeeeeeeeeeseeeaeeeeeeeeeeeeeeeaeeeeesee
+
+A Method of Restoring Laser Been Energy Distribution Proa
+Data Obtained Fro- s Bolonetric Sensor Array
+(VJ. Yefreaenko: MDIOTWIKA I WI“.
+
+N0 1. 1979)eeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeeeesae
+
+PUBLICATIONS
+
+Nev Publication Reviews Latest Geophysical Instruments,
+Applications .
+(GBOFIZICHBSRAYA APPARATURA. Issue 610, 1978). . . . . . . . . . .
+TOR OFFICIAL USE ONLY
+
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+HATCNEO SURFACE ACOUSTIC HAVE FILTER FOR LOW TRANSMISSION RATES
+Moscow ELEKTROSVYAZ' in Russian No 11. 1978 pp 58-61
+[Article by A. Ye. Znamenskiy and Ye. s. Hurator]
+
+[Text] An optimal receiver for relative phase transmissions contains a
+filter matched to basebaad or radio-frequency pulses.
+
+Filters matched to baseband pulses for low transmission rates R- Suez: kbaud
+are made using active RC networks (hybrid construction) while those corres-
+ponding to high rates It? llbaud are made using miniature lunped parameter
+multitapped delay lines.
+
+In many cases equipment size is smaller and receiver circuitry is simpler.
+while its specifications are better when rf pulse-matched filters are used
+instead of basebsnd matched filters.
+
+Surface acoustic wave (SAW) device technology is widely used in construction
+of rf pulse matched filters [1. 2, 3]. The advantages of SA" technology is
+fully evident at information transmission rates exceeding R-Zonw30 kbaud.
+The lower limit for these rates is defined by two factors: 1) permissible
+temperature deviation of the center frequency of the most stable (with re-
+spect to temperature) piers-electric element (ST-cut of quartz at 40‘ t
+:§+50°C). and also 2) the actual dimensions of the working matched filter
+as will be shown.
+
+SAH devices are highly stable in a wide temperature range. a fact which is
+very important at low information transmission rates, their manufacturing
+technology is highly developed. they are very reliable and small in size as
+compared with the dimensions of series 153, 155, and 157 microcircuits.
+
+The SAN filter structure is shown in Fig l where l) is an acoustic guide;
+
+2) is an interdlgltal transducer (IOT): 3) is a wideband IDT; 6) is an
+nhsnrhlng layer. As we know the filter's amplitude-frequency charactertistic
+ac.) and Its pulse response h(t) are related by an inverse Fourier transform:
+
+1
+‘ POI! orncm. use ONLY
+FOR OFFICIAL USE ONLY
+
+I .. rut
+hm-ﬁ gun.» a». (1)
+
+Moreover. there exists a singular relationship between the pulse response h(t)
+and the shape of the envelope of the II) electrodes. Electrodes are position-
+ed at 'r - l/Zf. intervals along the acoustic guide. and the electrode length
+is: proportional to Mt) at the corresponding reference point?“ (see Fig 1).
+
+In general. during cslculations involving h(t) it is also necessary to in-
+clude the asplitude—Erequency characteristic of a second 101'
+
+“conundrum. (2)
+
+As a rule. in practice the second 101' has a such wider bandwidth so that
+the resultant aptitude-frequency characteristic is sainly defined by a
+single narrow-band transducer. i.e. “(9) =5 “1(a).
+
+llaulc requirements for notched filter parameters:
+
+Center frequency of the passband. II: E. 3 0.01“!
+
+For- of snplitude-frequency characteristic Sin x/x x-(f-fo)lfo
+Frequency band between the zeros of the aain lobe
+
+of Sin x/x, Hz 201290.033)
+Deviation of phase-frequency characteristic
+
+from liner response. degrees 1 5
+
+Insertion loss. db <30
+
+Relative level of crosstalk cowonents, db -20
+
+ 
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Pro- this assumption it follows that the desired pulas response h(t) is fully
+defined by the shape of the envelope of the distributed transducer electrodes.
+
+The greatest difficulties are encountered during manufacture of 8M! filters
+at the lower end of realizable transnission rates (R - 20~30 ltbaud). 'lhe
+snplitude-frequency response of a filter notched to s rectangular pulse is
+“(a-I) - Sin X]: where the pulse width is defined as:
+
+1-1/R. (3)
+
+Since a reduction of R leads to an increase in the transducer length l;
+
+1 -:v where v is the velocity of propagation of the surface wave in the
+acoustic guide. Thus. for R - 25 kbaud where v - 3.158 u/usec in an ST-cut
+quartz 13126 I. If we consider that the acoustic guide mat be even
+longer by about 20~30 as. then it is evident that such s filter is not an
+opti-un one.
+
+A second deficiency of the filter shown in Fig l is the difficulty of tuning
+a center frequency with high accuracy. It is shown that the velocity devia-
+tion in quarts acoustic guides is on the order of 10“. Pros the above it
+is clear that even if deviations involved during filter nanufacture are ex-
+cluded. it is very difficult to obtain the required accuracy for f. at low
+trons-ission rates. Although nethods used for tuning are known [‘1 these
+were carried out on seall-size acoustic guides (i.e. for those used in high
+transmission rates). The method of applying a unifors-thicknass setslized
+layer over the entire acoustic structure and the aging of this layer remains
+questionable.
+
+A scthod is described below for saking notched filters for low transnission
+rates which penits a reduction in the length of the acoustic guide by a
+factor of 2 and which allows for tuning the filter's center frequency while
+using relatively sinple Ianufacturing lethods.
+
+The couple: transfer function of WI using equidistant electrode spacing and
+a constant aperture say be expressed as [S]
+
+ 
+
+where no in a constant multiplier; t is the tile: and» - 217(f - fo).
+
+3
+M OFFICIAL US! ONLY
+FOR OFFICIAL USE ONLY
+
+Dropping the eh “1 multiplier. which corresponds to a linear phase character-
+istic. for the sake of siuplicity. expression (lo) nay be presented as:
+
+— ' '1n~_t 1—“--tu as
+“(IQ-ﬂ. lo ’0 2
+_0t e 1 + e .
+
+111:! first tern corresponds to s transfer function of a matched filter for s
+transmission rate equal to R - 2/t; while the second term may be considered
+a transfer function of a transducer consisting of 2 101‘s shifted with re-
+spect to one another by {/2. The general fore of these mm is silicer to
+the characteristic of conb filters.
+
+Figure 2 shows the structure of a netched filter for R - 1/1- rste, synthe-
+sized by cascsding a latched filter (in the upper part of the Pig) for R -
+2/4? rate and a comb filter (in the lower part of the Fig) uhere l) is the
+acoustic guide; 2) is the shaping 101‘ of the notched filter for rate 211:3)
+is a widehand 101’: II) is an absorbing layer; 5) is a shaping 101' of s coeb
+filter; 6) is a nettslic layer. .
+
+ 
+
+Fig 2
+
+both circuit sections are laid out on a single acoustic guide and are
+
+connected electrically. An absorbing layer is deposited between circuits
+to eliminate acoustic cross-talk between channels.
+
+    
+  
+    
+
+1311‘ 11‘...
+
+  
+ 
+ 
+
+511.?
+'A 4'11; [1-1 mg!“
+
+’a'? 153
+
+IIIIIInII
+UIIIIIIII
+
+bl." I‘VE A“:
+
+ 
+
+FOR omcm. use om}
+FOR OF?ICIAL USE ONLY
+
+In comparison with a single section latched-filter with transducer length '
+
+equal to ,w l/R. a two-section construction per-its a reduction in length
+by a factor of alnost 2 (the higher R. the closer to 2).
+
+In the above-described aethod of synthesis of a astched filter for low trans-
+nission rates per-its. to a certain extent. varying the filter's center
+frequency. This is accouplished by changing the distance ’CIZ between trans-
+ducer sections in the mob portion of the filter at the expense of increasing
+or decreasing the propagation velocity of the SA" in this region. It is
+known that the presence of a netalised layer in the propagation path of a
+
+SAH changes its velocity [6]. has, if a section of a continuously setsl-
+ized layer between transducer sections is reloved or deposited (see Fig 2)
+
+it is possible to vary the center frequency of the main anplitude-frequency
+_responae peak of the cab filter inside the wider .plitude-frequency response
+of the latched filter with R - 2/? . Corresponding alplitude-frequency
+characteristics are shown in Pig 3 where l) is the aaplitude-frequency
+characteristic of the satched filter for rate equal to 2k; 2) is the sapli-
+tude-frequency characteristic of the coab filter before returning: 3) is the
+amplitude-frequency characteristic of the coab filter after retuning.
+
+In fact, at the center frequency f. phasing condition 27" (-g-l’ +.) - 2 n
+
+is achieved (a is a whole nuaber). 'l'hua. f. - 2 nle . At the sale tine T/Z -
+L/V where L is the distance between centers of the conb filter sections; V is
+' the propagation velocity of the SAN.
+
+Deposition (re-oval) of the layer causes a corresponding reduction (increase)
+
+of the velocity in the region between sections Vequiv' Then
+
+/_ «0'1in
+0 I. '
+
+This method of frequency tuning is not optiasl because of a certain assynetry
+of side lobes. But. since the principal portion of the signal energy is con-
+centrated in the center lobe it is more important to tune to the center fre-
+quency even at the expense of a certain deviation in the level of sidelobes
+
+froa the design values in the range of 1 Mb. a fact which was confined ex-
+perinentally.
+
+It is noted that the formulas used for synthesis of satched filters cited
+here do not include the finite length of small electrodes. i.e. wideband
+transducers in the two-section structure. This is deelsed pernissible where
+the relationship 4? ((W2 holds.
+
+Second-order effects (spreading and scattering losses, losses due to disper-
+sion of the acoustic wave by the 101' grating in lieu of electrical and
+ueclunnical surface loading). the influence of matching networks on the input
+and output [7] cause distortions in the aaplitude-frequency characteristic
+
+5
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+response and an increase in crosswalk levels. These effects increase with
+decreasing R. In order to reduce these effects it is necessary to introduce
+cnrrectlnns in the trnnsducer aperture and to utilize a construction with.
+split electrodes. and nlso to consider the asplitude-frequancy characteris-
+tics of the electrics]. circuits on the filter's input and output.
+
+Bxperisental results.
+
+The constructed notched filter was designed for two intonation transmission
+rates - 256 kbsud; - 6b khsud and f. - 12 Mile. Calculations have in-
+dicated that the dieens ons of the filter are optiasl if one of its parts
+
+is node using s two-section structure (for R - 64 ltbsud rate) and the
+second - using a single section (for Itl . 253 baud rate) with subsequent
+positioning of both parts on s single coustic guide (Pig 1.).
+
+The filter was constructed using s themlly stable SR-cut quart: piste
+measuring 65X20x2.5 II. The 101' structure was formed using metal photo-
+etching techniques on chemically deposited silver 0.1.sgthiclt. Aperture of
+all ID'l‘s was 0.3 u. The number of electrodes aalting up the [Dr section
+was 67, which agrees with the given information transsission r te. and in
+the case of R2 — 91., which corresponds to the doubling of the trensnission
+
+rate e
+
+ 
+ 
+  
+
+ 
+
+  
+
+11—.._—_~1-'—_
+
+ 
+
+Mi
+“'9‘“ n-mm In Band
+
+The absorbing layer was deposited at the ends of the acoustic guide at inter-
+chsnnel spacing using the Fl. - 03 coating in order to reduce crosstalk.
+
+in order to reduce the insertion losses of the filter, its static transducer
+capacity was conpensated by inductances. The input resistance of emitter
+followers were used as high impedance loads. me losses in the band of in-
+terest were 18 1 2db. Deviation of side-lobe levels of the function Sin at]:
+from the theoretical values in the 1- 3R range of tuning did not exceed ldb.
+Other pnrnneters est the'given requiresents.
+
+The two-section latched filter was designed for R - 25.6 kbaud f. - lZHHz.
+An SR-cut quartz plate scesuring OOXZOXS I- was used for the acoustic guide.
+Filter structure was two-sectional. ‘l'he above-described construction tech-u
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+nlque van utilised. The aperture for all ID'l's was lo In. There were 2J5
+electrode pairs in the shaping 101' which corresponds to a doubling of infor-
+mation transnisaion rate. Pilter coupling into the R? strip and the static
+transducer capacitance coapensation aethod did not differ froa those in Pig It
+for R - 6‘ kbeud. Losses at the center frequency of the passband of interest
+were 16 1 ldb. Deviation of side lobes of the function Sin x]: in the 1; 3!!
+
+range of tuning did not exceed 2 db. Other para-etera net the given require-
+aents. ‘
+
+Thus. experiaental characteristics of eaall-aise filters with simple center
+frequency tuning agree fairly well with results of calculations according to
+given foraulea.
+
+The authors consider it their pleasant duty to express appreciation to A. P.
+Beletaki for his careful review of the manuscript and his observations which
+have helped iaprove the quality of the article.
+
+BI BLIOGRAPHY
+
+l. Znnunskii A. 8.. "Pil'try poverkhnostnykh akustichesklkh voln" ("Sur-
+face acoustic uave filters"] WWAZ', 1977. No 12.
+
+2. Nays IL. llartaann C. "Surface acoustic wave devices for coauunications"
+Proceeding of the 1322. 1976. Vol 610, No 5.,
+
+3. Dodonov A. B. et al. "Koapleksnsye aikroniniaturiretsiya priyeaousilitel'-
+nykh traktov na osnove integrsl'nykh sredstv chastotnoy selektsii" ("Con-
+plex aicroainiaturization of receiver sections using frequency selective
+
+integrated devices") ELBKTRONNAYA mama Series 11. 1976, 3rd edition
+(7). .
+
+lo. Hayde 9.. "Precision narrovband surface wave bandpass filters" 197A
+Ultrasonics Synposiua. Proceedings of the [383, Boston.
+
+5. A. De Vries et al. "Characteristics of surface wave integrstable filters"
+[EBB Transactions. 1971 Vol 3111-17. No l.
+
+6.. Karinskly s. S. "Ustroystvo onrabotki signslov na ul'trszvukovykh
+
+povcrkhnostnykh volnakh" (“Signal processing devices using ultrasonic
+surface waves"l H.. 80V. RADIO 1975.
+
+7. nondarcnko. V. S. et a1 "Osobennosti raboty uckopolosnogo fil'tra
+.mvcrkhnnsthykh nkyaticheskikh volu v razlichnykh rezhinakh nagruzlti"
+l"l'erforlmnce peculiarities of narrouband surface acoustic wave filter
+at different londs"l VOPROSY RADIOBLEKTRORIKI: SER OBSHCIIB‘I'EKHNICHBSKAYA.
+1976. Ed 7. '
+
+sub-mode“ 6. I977
+
+COPYRIGBT: Izdatel'stvo "Svyss'." "Blektroavysz'," 1978
+
+6981
+C80: 1870 . 7
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL will ONLY
+
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+NONCOHERENT RADAR SYSTEMS
+
+Moscow RADIOTEKHNIKA i ELEKTRONIKA in Russian No II, Nov 78 pp 2306-
+23”
+
+[Article by V. V. Karavayev and V. V. Sazonov: ”0n the Theory of Non-Coherent
+Detection"]
+
+[Text] The use of phased transmitting antenna arrays has several shortcomings
+in scanning space. Some of these shortcomings are as follows: energy dissipation
+in shaping a coherent probe signal in each element oi the active array, and
+concentration oi the beam to intensify emissivity due to increased antenna
+dimrnsions. In order to surmount these shortcomings. in [i] it was proposed to
+drop the phasing of individual elements oi the transmitting array. avoid emitting
+signals with dilierent (perhaps, random) modulation relationships: but coherent
+processing oi the received signal was do be done with the aid of a set oi
+reference signals generated for each angular bearing by a special device based on
+known or measured time relationships oi amplitudes and phases oi excitation oi
+each emitter. Modulation oi probe signals is needed to suppress gaps in
+transmitter directionality in non-cophase power conditions. A deficiency in this
+arrangement is the complex nature of producing a set of adjustable matching
+filters. Consequently. it is worth considering the characteristics of a system
+which does not employ time-matched filtration of an incoming noise signal
+(replacing it with band filtration)._ We shall demonstrate that with an optimum
+selection of system parameters. power losses due to noncoherent processing are
+not great.
+
+II the transmitting antenna array is not phas '. scintillation oi the target can be
+suppressed by separation oi the transmitters. Two versions of a transmitting
+system design will be examined below, diiiering in the manner oi separation of
+the probe signal. In the first version, several spatially-sepatated transmitters are
+employed which simultaneously irradiate the target at diiierent angles. In the
+screw version. the transmitters are superposed, but a multiple frequency probe
+signal is utilized. Formulation of this oblem here diiiers from that usually
+found in the literature (ci., for example. all in' that the incoming signal here has
+double modulation with different inherent times, occurring as a result oi the
+random field oi the transmitter and coefficient of reflection of the target.
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+I. THREE-DIMENSIONALLY SEPARATED SYSTEM
+
+Let us consider that the processing channel contains a filter whose bandwidth
+matches the spectrum of the emitted signal: connected to its output are a square-
+
+law detector and a signal-length memory. The output effect of this processing
+is
+
+I
+(n 1-! Ictc)+n(cwa:.
+
+where s(t) and (t) are independent signal and noise components of the filtered out
+input process and 'l' is processing time. In conformity with the above, the signal
+component may be represented in the form
+
+(2) «0-2 farm).
+hf
+
+where si(t) is a random signal emitted by the i-th transmitter; n is their number:
+6'; is the effective cross section of the target towards the receiver when it is
+
+irradiated by the j-th transmitter: and Oi is the phase shift occurring with
+reflection from the target.
+
+With fixed coefficients A; . 1;": in (2) and large n,signal sit) may be
+considered gaussian. in this case the distributive function of the quantity 2 is
+well described by the principle'XIZ:
+
+t‘"¢"’"'
+
+0’ (:1 At -~
+' ‘ I) o,~2.l,(m) s
+where 2m is the number of degrees of freedom and a? is dispersion per degree
+of freedom. These parameters are expressed thrgugh the effective band of the
+signal Al and signal di rs.i_o_n (7‘2 and noise 6:. in the following manner: m 2
+017.02 = 052 ‘01): 3 (It ’1|t||’)/2..\I.
+
+it is usually considered that the coefficients of reflection of target A; are nor-
+mal. For the same reason. if all Aj are independent and have identical dis-
+persions. then the random quantity 0’52 is distributed according to the principlel2
+with N . 2n degrees of freedom and dispersion ()2 per degree.
+
+The t'luroeteristi'e function 2 is obtain by averaging the arbitrary characteristic
+function «(u/0'm ) = (l - NEW;2 .63] )’m in terms oi the distribution
+0'52. Let us find
+
+0'. ‘ (noes-IV!
+5"" 49'") x
+o.‘ i 0" 1
+X01]. -—+"‘— ”’1 until . v. —+—'
+(a) cfu)... (49' 3|» a) ' " ’" (20‘ ‘9’“
+
+(~14p'u7' '
+
+9
+FOR OFFICIAL USE ONLY
+l’OR OIWICMI. USE ONLY
+
+where Wm“) is the Whittaker lunction. To derive the distributive law it is
+necessary to translorm (it) according to Fourier. in the general case this can not
+be done. out in the detection problem the case where the signal significantly
+exceeds noise is most substantial; here noise ailecrs tly the choice 0! threshold.
+And tn examining the statistics of the signal. noise may be Ignored. Then
+
+(5) - """”""K... (V?)
+
+'3" W7.—
+
+where Kle) is a Macdonald lunctlon.
+
+In the absence of a signal, 2 is distributed according to the x2 principle.
+Therelore. probability ol a lalse alarm is equal to
+
+‘I - 'c-UIH 8-4,qu
+F - I——— : - ————
+(6) L‘l'lmofd .- 2"I‘lml 62'
+
+where e' = cl 0’" 2. c is detection threshold. Probability of detection is eouai
+to
+
+D "I. 3"“"K...(:)d:
+
+n. —......-_
+
+(7) ['(m) rooz-on-t '
+
+where c. = l'C‘ole‘. This integral. ior integral and hall-integral values of tn
+is reduced to tabular definitions. For integral m
+
+non-t I-I
+
+c. Z'Ku-nslﬂ(c°)
+(a) 0 ‘W2 W
+VOR OWICIM. llSii ONLY
+
+Here Lu (x) is a Struve Itinction.
+
+The relationship P(c-) : I - D(c-) as a iunction oi c. is given in Figures I and
+2iorn=3and$andm=l.2.3,5,10.
+
+it is worth comparing the derived detection characteristics with those oi the
+system in which emission and reception oi the signal occurs coherently and
+where. as in the system in question. separation oi signal through independent
+channels is utilized. In this instance, with quadratic composition, the
+distribution oi the output eiiect is described by!2 with 2n degrees oi freedom.
+while the detection characteristics are given by the iormulas in [2]
+
+(IO) 0‘") 2.1%")
+D - " 3....-."
+
+v'ioiliuoi 2.1.00
+
+where l‘ is the sum signal-to-noise ratio. deiined as ii : rim; iii is the average
+signal-tomoise ratio in the i-th channel.
+
+A comparison oi the detection characteristics oi noncoherent and coherent
+systems shall be done ior identical energies oi the signal arriving at the input.
+In this case. the ordinates oi the curves in Figures l and 2 are deiined at
+pointsc.-V2mnr‘in)/ii.and c'(n) is derived according to iormula (i0) ior given
+F and n. Examples oi the relationship oi the threshold signal-to-noise ratio
+versus m are cited in Figures 3 and h ior n : 3 and n = 5. respectively. It
+can be seen that ior each value of it there exists an optimum m at which
+the threshold level of the signal is minimal. Here, in the form of horizon-
+tal lines. are also depicted the threshold characteristics of a coherent system.
+Minimal losses are delined by the distance irom these lines to the extreme
+points oi the corresponding curves. This losses are obviously not great. For
+
+0 : 0.5 they are (-0.6 to o 0.6 dB) and ior D = 0.99 they rise to 2.0 to 2.6
+dB.
+
+11
+FOR OFFICIAL USE ONLY
+l 23‘5‘800”
+
+Figure 3
+I'llll OFFICIAL IlSi-i ONLY
+
+2. SYSTEM WITH FREQUENCY SEPARATION
+
+To suppress fluctuations of a Rayleigh target, this system utilizes frequency
+retuning of the signal from Impulse to impulse. Processing consists of band
+filtration of each frequency channel. square-law memory of signal duration and
+
+memory of frequency channels.
+Consequently. the output effect of this system appears as
+
+m :-£.,- 2] iAp,(f)+m(t)l‘df.
+
+1-“ [cut 0
+
+where silt) and 1)‘(t) are independent signal and noise components in the band of
+of the i-th frequIncy channel and A- is the random coefficient of reflection of
+the target at the i-th frequency. VII shall assume that frequency separation is
+chosen so Ai are independent.
+
+At fixed values of A} the quantities z~, as before. may be considered as
+distributed according to Z2 with 2m = 26h degrees of freedom. Consequently.
+the arbitrary (for given Ai) characteristic function of quantity z] is given by the
+expression
+
+(l2) ct, (u/(AII) -l i-zm |,:,|a,.n+,..) l".
+
+where 6.2 and 602 are dispersions per degree of freedom of signal s-(t) and noise
+
+1-(t), respectively. The absolute characteristic function is obtgined y averaging
+II?) in terms of the distribution of the random quantity Mil (scattering cross
+section) vihlch we. as before. consider to be exponential with average unit
+power. Employing [3]. we find
+
+(I 3) e‘l d,
+
+c. , (u) - I _._—__| l-2iu (“cw“) 1- -
+clu-Q-n,u.~tls( '_m. 20103-1 )
+
+2iuo.’
+
+ 
+
+ 
+
+(-2luo.')'
+
+where l’ (t), x) is an incomplete gamma function.
+
+13
+FOR OFFICIAL USE OiiLY
+I-‘Oll (Wi’lClAl. llb'lf ONLY
+
+ 
+
+ 
+
+ 
+
+. g ‘ . . II.
+(l0) D-Jp(.)ds—f~§;!lc.(n)e‘ dud:-
+OXP II 2("0.""1__“£
+-1...‘.J' .—2“‘°'_.__2__.x
+2n__ (-21uo.')"
+tic
+ala—
+2mo.'—f 2
+x ..
+F0 in. 2fua.‘ ) u d"'
+2..
+
+where c is the threshold defined by the required value of false alarm. This
+integral can be computed only for n = 1. Thus we calculated the characteristics
+of detection by constructing an integral law of distribution of the quantity 2
+using the method of mathematical simulation. Being concerned with a region of
+rather high probability of detection and small false alarms at that. we will. as
+earlier, consider noise only In calculating threshold. Notably, the integral law of
+distribution was calculated of the quantity
+
+(I5) > t"2ldyl' 2'5.“
+
+where a and 5th are independents for different i and k and one from another
+are ra om quantities with unit dispersions of the quadrature terms.
+
+Integral laws P(§) for various m and n a 3 and n = 5 are shown in Figures 5
+and 6 as a function of l0|og§. Using these graphs it is easy to construct
+characteristics of detection for an probability of false alarm which. as before.
+is given by the integral law 12 (6;, but now with Zmn degrees of freedom:
+
+(l6) I" " :‘“"c"”;‘ds
+. 2“l‘(mn)o:"‘
+
+ 
+
+. 8""¢"" C
+
+" J: 2--r(mn) d" "‘3?
+
+Probability of detection is then derived according to
+
+ 
+
+c’Zntn
+(i7) ""4" (‘T
+
+where p. . as before, is the sum signal-to-noise ratio.
+
+When the latter formula and Figures 5 and 6 are utilized, relationships of
+threshold signal-to-noise ratio for various probabilities of detection are obtained
+as a function of the number m of time cells in each frequency channel. They
+are shown in Figures 7 and 8 for n :3 and n : 5 with a probability of false alarm
+l’ .- IO“. Characteristics of detection of a coherent system (horizontal lines)
+
+with the appropriate number of independent separation channels n are given here
+for comparison.
+
+ll.
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007/02/08: ClA-RDP82-00850R000100030041-2
+
+FOR ()I’I’ICMI. USR ONLY
+
+MC)
+
+       
+ 
+
+I
+Figure 7
+
+3 056700-
+
+15
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/08: ClA-RDP82-00860R000100030041-2
+FOR OFFICIAL "Si! ONLY
+
+The figures presented show that lust as In the case of three-dimensional
+separation. with increase m (to: given n) losses in ,1. for D ,>..o.s at first
+decrease and then grow. But this elfect is manifested more sharply. It is
+associated with the fact that the quantity of noncoherently stored discrete units
+with frequency separation is equal to mn. whereas in three-dimensional
+separation it is equal to m. Consequently. in the first case, due to noncoherent
+storage, losses being to show at much lower values of m. Accordingly, optimum
+values of m lie between one to two (versus 5 to 10 for three-dimensional
+separation), and losses are slightly higher (by 0.5 to l dB).
+
+CONCLUSION
+
+The characteristics of detection of a Rayleigh target by radar location are
+examined: there is no phasing of components of the transmitting system. For the
+case ol great three-dimensional separation of transmitters, analytical ex~
+pressions are obtained which describe the characteristics of detection. For the
+case of frequency separation the appropriate formulas are derived in quad-
+ratures. and calculation of characteristics of detection was done by the method
+ol mathematical simulation.
+
+it was found that with optimum selection ol the band of a random probe signal
+and number of branches of separation. abandonment ol the use 0! phasing does
+not lead to substantial losses in the signal-to-nolse ratio. According to the
+probability of detection. they range from 0.5 to 3 d8. A system with three-
+dimensional separation has minimal losses.
+
+The authors express their gratitude to l. G. Korobkova, who performed the
+calculations on computer.
+
+REFERENCES
+
+l. H. H. Woerrlein, Pat. USA No. 3, 680.l00, 25 Jul 72.
+
+2. P. A. Bakut, l. A. Bol'shaltov, B. M. Gerasimov et al. Problems at
+statistical theory of radiolocation [Voprosy statisticheskoy teorii ra-
+diololtatsii], l, lzd. Sovetsitoye radio, I963.
+
+3. l. s. Gradshteyn, I. M. Ryzhilt, Tables ol integrals, sums, series and
+derivations [Tablitsy integralov, summ, ryadov i proizvedeniye], m
+ed., GIFML. l962.
+
+COPYRIGHT: lzdatel'stvo "Naulta". "Redfoteithnilta 1 eloktronlka". 1978
+
+86! 7
+C50: I870
+
+16
+FOR OFFICIAL USE ONLY
+.RANGE AND BEARING ACCURACY USING ANTENNA ARRAYS
+
+gnoscow RADIOTEKI'INIKA I ELEKTRONIKA In Russian No II, Nov 78 pp 23“!-
+320 '
+
+[Article by I. Ya. Kramer and G. s. Nakhmansont "On the Potential Accuracy oi
+Estimating Range and Angular Coordinate oi a Target with Signal Reception by
+an Antenna Array in the General Case")
+
+[Text I INTRODUCTION
+
+The primary current assumptions oi the theory oi time-space processing oi
+signals Ill, 2] are valid ior arbitrary time-space signals. But speciiic results in
+the literature have mainly been obtained as they apply to the special case where
+the wave ironts oi signals can be considered ﬂat. i.e., the signal sources are in
+the remote zone oi the receiving antenna. It the signal source is situated in the
+Fresnel zone oi the receiving antenna. an estimate of the parameters oi time-
+space signals has substantial peculiarities associated with the curvature oi the
+signal wave iront. These distinctive aspects have been investigated in studies
+ll, 2. 6] as they apply to antennas with continuous linear apertures.
+
+in this article the potential accuracy oi estimates oi range and angular position
+oi a target are considered ior reception oi signals by an antenna array in the
+general case. which includes positioning oi the target both in a remote zone and
+in a Fresnel zone. The rise in potential accuracy oi range analysis owing to
+consideration oi signal wave iront curvature is analyzed as a iunction oi the
+number oi array elements. The ambiguity oi range measuement is considered
+ior reception in "widely spaced” arrays and conditions to eliminate this problem
+are discussed.
+
+i. .1...
+
+main
+
+Figure l
+
+17
+FOR OFFICIAL USE ONLY
+'ron orrtcuu. use oum
+
+l. POTENTIAL ACCURACY OF ANALYSIS OF TARGET COORDINATES
+WITH SPACE & TIME PROCESSING OF SIGNALS IN AN ANTENNA
+
+ARRAY
+
+Let us consider an equidistant linear array whose length is L and whose distance
+between elements is d having N a 2m + 1 elements (Figure I).
+
+Let us first consider the case oi active location. A sounding signal is emitted
+lrom point 0
+
+(i) :(l)-U(i) cos [cowl-0(0).
+
+A small target is situated at point M with coordinates (R0, 90). The vector the
+arriving signal may then be represented as
+
+(2) I:l(‘)'-I|’C(‘| no. es. «Hi-“MUN.
+
+where i = -m, ..., 0. ms at is the number of the receiving array element.
+
+In lormula (2) limit)" is a vector of gaussian interference with zero average
+values and correlation matrix IlBijitmz) = II<niTItl) on~(t2)>I|; T denotes the
+operation of transposition, and D is the direct Kronecker oduct oi the vectors.
+Hencelorth we shall consider that Bii(t1,t2) = (No/2) x JItl - t2)¢Iij, i.e..
+
+interierence in various elements of the array is not correlated and in all
+- elements has an identical correlation Iunction. Components of the signal vector
+are
+
+ 
+
+ 
+
+(3) ..(:,n., 9., (pd-0.0 (t — RT" ) m [0. (t _ R.:r« ) +
++0 (I 552:2 _ 9.]
+
+where (P0 is random initial phase, unlIormly distributed in interval [0, 2n]; 30
+is signal amplitude: r03 is distance from the target to the i-th receiving element
+of the antenna array, equal to'
+
+(a)
+
+_"'_—I-———'
+rut-rad. 13.. e.) 'V".'+ (Id) -2ldlI. Sin 6
+
+' In IorTr—iula I55. the relationship oi signal amplitude of the i-th element as a
+lmction of distance rm is not considered. since it can be shown that this
+relationship has very little ellect on the Iinal results where R0 7 L.
+
+18
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+When receiving a mixture oi (2). the optimum receiver shapes on output signal
+proportional to the log of the lunctional ol the likelihood ratio [3]:
+
+(s) M(Il.9)-~lul.[-2—;1Z(II.9)].
+
+where lo is a zero order Bessel function from an imaginary independent variable;
+2(R, O) is the envelope of a random process at the output of the linear portion
+of the receiver, defined by the relationship
+
+W-l52l«000-"*")«v{-I»('-"-‘Zi‘-)}*'l:
+
+C
+
+ 
+
+Inn-- 0
+
+r; is defined by expression (t) for arbitrary values of R and O.
+
+In measurement 0! signal parameters according to the method of maximum
+likelihood under conditions of reliable measurement (i.e., large signal-to-noise
+ratios at receiver output), estimates of Rm and O are unbiased with dis-
+persions. whose expressions in the llrst approximation rgave the appearance [3,0]
+
+(7) d.’-[II..(1..0*) I". 0-: "-Ukelb'P’) l-.. Punadanaee) 4'.
+W” 12.. - [”34" mm; r- (n. e).
+
+l-«E
+
+(a) cm..e..n..e.)-| 2 ”job-1%": x
+
+X!) (‘ _ er-ru R.—R.+r..—r.. }‘"l .
+
+'~ OX], [00“
+C c
+
+and indexes ‘9 and q acquire the values ol R, 0. Substitution of (8) in (7)
+considering (6) yields
+
+)
+(9 Bung. (i; )1 %.:'Tw+'iw-Y'Te] Q
+
+19
+FOR OFFICIAL USE ONLY
+Will OFFICIAL USE ONLY
+
+whore il.‘ min' II‘III(I)I’III / I i:(l)l'dl-- is the square of the equi-
+valent width of signal spectrum s(l)' Qo‘(3m+l)Q.-is the slgnal-to-noise
+ratio at the receiver output; 09'4“ IN.) gum)“ is the signal-to-nolse
+
+ratio at the output of an Individual receiving element. Functions 1.. and
+1,, 1. in (9) are defined as follows:
+
+ 
+
+ 
+
+Tun-(2M+l)" 2 c...',. ,.-(2,,.4.,)-. 2 c...
+(l0) "" '--
+Iu-(2m+I)-' 2 c..-.
+Yo-(2m+l)" 2 c... 1..-(2m+‘)-| 2 cm“.
+0(ll l-r.) 30“.“)
+where “"10” 1“ . cIo-[a W]
+
+In considering the range of distances for which L/R “ l is valid,
+rim. 0) may be expanded in terms of steps id/R:
+
+(“W605 sinecos‘e (ld)'
+(ll) 7.0!. 9)-H—idsiItO+T—2—e.+__T—._R._
+i—5sin‘6 s' (m‘
+-__8_w ,9.....‘_P_+.
+
+Allowing for (9)-(il). computation of dispersions of estimates (7) yields
+
+“2’ ll Ba’ u
+n————. . —- ' ' . . —: +
+a. «5’0. {‘_ [‘ 2(Il.’/m,’ l--_‘I)(m 9 +
+n.
+
++ —.:4in'6.) +a‘—roe'6.(7-3l sin'O.) ]+
+
++ ‘2" (BI-83)“. e.}-.
+
+20
+FOR llPFlCI/ll. USE ONLY
+FOR OVPICI’M. USE ONLY
+
+(13) , c‘
+
+0. -—__‘_ D . . n.‘ ' -i
+~0’0.(,,/2)'cmle.{ r-a B. 3.7:“: 0.} .
+
+II.I
+D. .. W [0.+a'(3 sln‘ 0o - coa’ 90)Bnl+3I+
+
++a'lal ti' 0. (38,—8.0 ~13. 603' 0.].
+
+B.-%(1+%). B.-:—5(t+%)(a+%-%).
+
+at - L/ZRO is the ratio of antenna aperture size to distance to the target in =
+L/Zd. ﬁrror in formulas (12) and (I3) have an order of magnitude. respectively.
+oi 001.6) and Dix“).
+
+In passive location of an emission source with known signal shape, taking the
+center of the antenna aperture as the readout origin, a signal in the i-th receiving
+element may be written out as follows:
+
+(It) "("Rh.ecn¢o)-ao0(l-h—:£°-)coa [m(t-"‘—:R—' +
+
++1: (:—'—":R' w. . .
+
+By making transformations similar to earlier ones, it is not difficult to see that
+
+ex)pression(s‘)for estimate dispersions for range and angular position coincide with
+7 . if in l
+
+ 
+
+ 
+
+(15)
+
+Substitution of (l5) in (lo). (7) yields
+
+(l6)
+
+ 
+
+4.9 n: -'
+0.. - “’Q“‘ m‘ e. {'78: +8.- 83' } .
+
+21
+FOR OFFICIAL USE ONLY
+NR (WI-'ICIM. Ilﬂh‘. ONLY
+
+    
+
+0,00: cow (was am an: 0.0: a
+
+Figure 2
+
+    
+
+w am am nor am ’an .
+Figure 3
+
+ 
+
+aquarmapmpmp: 0,05.
+Figute b
+
+22
+FOR "FPICIM. USE ONLY
+FOR OFFICIAL 088 ONLY
+
+(l7) _ e‘
+°" «cogs/arctic e x
+
+U U I _|
+one 9.6.1. mm. - 3'.)
+x D.--a’——-A—.nn——_3_-. .
+
+(lly'llﬂig.+ 1 ) ”3-”:
+
+4w d-b'
+Where m-9 co (and condition lrm 2 md = L). expressions ([2). (i3) and (i6). (i7)
+coincide with known ones obtained ior a continuous a rture [i]. For transition to
+a remote zone (RD-w, iii-.0). expressions (12),“) become
+
+. c' . . ”‘6 W "
+('8) a“ “1.00:" 0“ o.'Q.(Io/2)'Bicm'90 307+!) .
+
+which coincides with expressions obtained in [2,“).
+
+2. DISCUSSION OF RESULTS
+
+For the case oi active location. in Figure 2 is shown the ratio oi estimate
+dispersions ol target range ior various values oi the parameter oi wide bandwidth [3"
+vii, lelaand ior various values oi the angle oi signal arrival 90. with optimum
+space and time processing oi signals 2mol by receiving elements in an aperture
+L long “2). to the estimate disgersion oi range ior measurement oi the latter
+according to a signal delay 6' a (is) as a iunction oi 6t: md/Ro = LIZRO (ratio
+ii antenna aperture size to tw ce the distance to the target). The curves are
+constructed under the premise that the signal-to-noise ratio remains constant.
+
+The solid curves correspond to the arrival angle 00 = 0. while the dotted curves
+are 9 = 20°. Figure 2 indicates that the gain in measurement accuracy oi target
+range as 0- increases is proportional: this may be explained by the increased
+curvature oi the iront oi the incident wave when the target approaches the
+receiving antenna. This gain increases with a decrease in Go and the parameter
+oi wide bandwidth F as well. The ratio oi estimate dispersion oi target range
+with optimum space and time processing oi signals by an antenna array containing
+Zinil receiving elements, to the estimate dispersion oi range ior signal processing
+in a continuous aperture oi the same size ior various values oi parameters f and
+in as a iunction oi as is shown in Figure 3. Analysis oi curves in Figures 2 and
+3 shows that with constant dimensions oi an antenna system and identical va-
+
+lnes ni signal-to-noise ratio 00. a reduction in the number oi receiving elements
+leads to an increase in accuracy oi range measurement!
+
+' in practice. ‘W condition 0'! sameness 00 may be ignored: the signal-to-noise
+ratio may be reduced with a reduction in the number oi receiving elements
+(2min. in this case a reduction in accuracy caused by reduced 00 is. to some
+
+extent. equalized by raising accuracy as a result oi a reduction in m shown
+in Figures 2 and 3.
+
+23
+FOR OFFICIAL USE ONLY
+FOR OWICIM. USE ONLY
+
+When distances between antenna elements eitCeed the wavelength. ambiguity oi
+range measurement by wave iront curvature may occur. This ambiguity may be
+eliminated with combined measurement at range in terms oi delay time and in
+terms oi its wave iront curvature. For this purpose. the signal spectrum width
+should be such that in measuring range by delay time of a signal. the magnitude
+oi the resolution interval does not exceed the magnitude oi interval oi an
+unambiguous determination of range according to wave iront curvature.
+
+Let us determine the relationship oi the required signal spectrum width as a
+lunction oi antenna parameters and distance to target.
+
+For a signal irom the target located at a point having coordinstes R0. 00. the
+phase diiierence between signals received by the m-th and (m-i)st elements will
+be
+
+2n 2m-i d‘
+('9) AO“'--£(dlllleo+-2--§.m'eo) 0
+
+where)“: ”f. is wavelenght corresponding to carrier ireqoency.
+ii the target is located at point R0 0 SR. 00. the phase diiierence has me
+magnitude
+
+2:! 208-1
+(20’ 6Q", - “i: (thin 90 + '—
+
+ 
+
+ltn unambiguous measurement oi range occurs ii the change in phase diiierence
+satisiies the condition 6g: = ¢q*"-A¢"421t: the maximum interval of
+
+an unambiguous analysis oi 8 R corresponds to the value 8’me . From
+
+(i9) and (20) it ioiiows that 6‘9: 21" when
+
+(2:) _ 21m.
+dli (2m-l)d'cos'6. '
+
+ 
+
+0n the other hand. when measuring range by delay time. the resolution interval
+is determined by the equation All: c/zAf. Unambiguity oi range
+
+24
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+measurement according to wave iront curvature will be eliminated by mea-
+surement oi range by delay time. it AR <8R. As lollows irom (2|). this condition
+is met ii
+
+A] ant—i . .‘ -2m-i 12' ,
+(22) ’-T>Wd co. 9. 75;..(80) 00! 80-
+
+From equation (22) it is clear that ior given antenna dimensions. the required
+
+value Ai/io is inversely proportional to the number oi receiving elements and the
+range.
+
+Let us examine the eiiect oi slgnal wave iront curvature and antenna aperture
+discreteness on the potential accuracy oi measurement oi the target's angular
+coordinate. in Figure (i is shown the ratio oi (Salk/din" oi estimate
+dispersion oi the angular coordinate as a iunctlon oi as ior reception oi a
+signal by a linear antenna array consisting oi 2mol elements. to estimate
+dispersion oi the target‘s angular position in signal processing in a continuous
+aperture (or various values oi m. From Figure b it ioilows that. as In the case
+oi estimating range. with given antenna system dimensions and identical values oi
+signal-to-noise ratio. accuracy oi measurement oi the target's angular coordinate
+increase as the number oi receiving elements decreases. Analysis oi the
+possibility oi measuring the angular coordinate shows that. in contrast to target
+range measurement. consideration oi wave iront curvature has almost no eiiect
+
+on the selecth oi a value ior p. necessary ior an unambiguous readout oi angle;
+is deiined by the relationship
+
+A] 1
+3-7:";
+
+which coincides with the results at [5]. In systems with a small number oi
+receiving elements. when measuring bearing, in order to eliminate unambiguity it
+is necessary to have a substantial exoansion oi sicnal spectrum and the problem
+may be solved by using a multiple-trequency signal. in this instance. expression
+(22) remains true ii the interval between the extreme scale irequencies is taken
+as Al and the central irequency of this interval is taken as in.
+
+(WWII NON
+
+Relationships obtained in this article allow us to determine the potential accuracy
+at range and angular coordinate estimates oi a "point” target in the general case.
+including its position in both the remote and Fresnel zones
+
+25
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL "Si-2 ONLY
+
+oi the receiving antenna array. Furthermore, relationships suitable lor the
+remote zone loilow as a special case from relationships which are valid (or the
+Fresnel zone. '
+
+Analysis oi these relationships shows that in the Fresnel zone. the potential
+accuracy oi range estimation rises (versus remote zone) owing to consideration of
+inlormatlon included in the signal wave iront curvature. This rise Is even more
+substantial ii the curvature oi the wave lront is greater: it also depends on the
+number of array elements. With a constant signal-to-nolse ratio. potential
+accuracy is higher ii the number at array elements ls reduced. To some extent.
+this is compensation {or a drop in accuracy which may arise due to the drop in
+signal-to-nolse ratio when the number ol array elements is reduced.
+
+REFERENCES
+
+l. l. Ya. Kremer, V. A. Pon'kln. Radiotekhnilta i elektronilta I975. 20.
+6, ”86.
+
+2. Ya. D. Shirman. Resolution and compression ol signals [Razresheni-
+ye i szhatiye signaiov]. lzd. Sovetsltoyet radio. WM.
+
+3. Ye. l. Kuliltov. Estimating signal parameters in the presence of in-
+
+terlerence [Voprosy otsenolt parametrov signalov pri nalichii pomeith).
+lzd. Sovetskoye radio, i968.
+
+0. s. Ye. Fal'kovich. Estimating signal parameters [Otsenka parametrov
+signalal. lzd. Sovetsltoye radio, l970.
+
+5. liausin. Naybar. Nilson. Zarubezhnaya radioelektronilta, 1961, u. 33.
+
+6. l. Ya. Kremer. V. A. Pon'ltin. Radiotelthnilta i elektronika. l9", 22.
+l. 72.
+
+COPYRIGHT: lzdatel'atvo "Naulta". "Radiotelthntlu 1 elektronlka". 1978
+
+“M 7
+C30: [870
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OPI’IGIAI. USE ONLY
+
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+ELECTROMAGNETIC INTERACTIONS IN TRANSMISSION LINES
+
+Moscow RADIOTEKI'INIKA i ELEKTRONIKA In Russian No II. Nov 78 pp 2363-
+370
+
+IArlit'Ic by D. V. Soltolov, D. I. Trubetskov, Yu. P. Sharayevsltly and V. P.
+Slukhint "Interaction ol Electron Flux with High Frequency Fields 0! Coupled
+Transmission Lines. Type M Interaction")
+
+I Text I I. FUNDAMENTAL EQUATIONS
+
+As applied to type M beam-type devices. Ior simplicity we will take coupled
+transmission lines (CTL) to mean two identical electrodynamlc structures.
+periodic along the x-axis. situated at some distance opposite one another.
+iorming a combined wave-guide system (Fig. l).
+
+II we limit ourselves only to a consideration of three-dimensional harmonics oi
+the high-irequency ﬁeld in the CTL, then the corresponding components oi
+intensity oi the ”cold" electrical field are expressed through the amplitudes of
+normal waves of the wave-guide system In question as Iollows II}:
+. . .II a.” .chp ’
+30-2 (8) ——-+£ .
+(I) ' alum ‘("chp.a'
+
+ 
+
+ 
+
+”2.00%.
+
+where
+
+(2)
+81(3) -E|a(z)¢-.‘.
+
+3: (3) "Bu (8) 8"".
+
+27
+FOR OFFICIAL IISE ONLY
+VON ilPFIIIIAI. IISK (MIN
+
+    
+ 
+     
+
+on,
+
+I
+
+Figure l. Schematic representation
+oi electron iiux Interaction space
+moving in crossed iields with coupled
+transmission lines.
+
+ln expressions (I) and (2), the index i is related to an antisymmetrical normal
+wave occurring with antiphase excitation oi both periodic structures: and index
+2--to u symmetrical normal wave occurring in synphase excitation. Allowing (or
+(I) and (2). the system oi working equatios which describes interaction oi
+electron ilnx in crossed lields with high-irequency iields oi a CTI. may be
+written us iollows:
+
+ 
+
+ 
+
+dX_ clam? slim? .u
+'47 l[p'shp.7.+p'chpd’.]‘ '
+
+ 
+
+ 
+
+(3) «W sth chm?
+—--- + “K
+(it; [F'shmh “which '
+d’. -P.K|“ .II pgy 8
+dc +1”. 2“ . and." ax“
+W as " h v
+. .'... -l’ﬁ'. LL 1 '
+«19 ”(an I cit pd." 4A..
+
+In equations (3) and (it) the iollowing designations are introduced:
+
+ 
+
+E
+X- — i. I'm , , F u- "' 4m
+’3 0 ’y 0.! £00.. I
+
+4-9.".1’. bis-“(ﬁn-M/ﬂoDi. Do’-P.I.K./€..
+K." (”I "KO/3n Xu-Km/Koi Pct-ﬂy,»
+
+28
+FOR OFFICIAL USE ONLY
+Pull OVI’IUIAI. I188 ONLY
+
+Km are coupling resistances oi notmal waves in planes y = o a. respectively.
+System oi equations (3). (ll) is written in adiabatic approximation. ignoring the
+effect ol space chatge on interaction ptocesses.
+
+2. ESTIMATED RELATIONEHIPS FOR WEAK SIGNAL CONDITIONS
+
+Let us make some tentative estimates based on solution oi system of equations
+(Ii-(h) under weak signal conditions. using the method at successive ap-
+proximations [2].
+
+Assuming that X = X0 o g. Y = Yo s V (5".
+equgtion (Sit by integrating (”40) under the
+o. = i : 0; FM = mg). we llnd
+
+X— [Fa Ch Y. ‘.'.""“ III Y. C'”"-‘ ]
+
+III Y. b. '“""'“‘—
+
+.Y'“ i). Fl and F2 are constant in
+apptopriate initial conditions in =
+
+ 
+
+ 
+
+ 
+
+in Y. o.
+_ Ih 27. HIM-0‘"
+F‘ F"[”.I.'T. a. ]*
+cli2i°. (b.-b.)c~-5.¢un-m-5. _
+
++ _. —. .
+2r" all 2". bib. (’a‘bt) .
+
+(5)
+
+ 
+
+ 
+
+(6) r.-p..[ t+_'c:?;:—”’°'z."' 1+
+
+chZY. (6,-0.)W-b.¢l"~‘°~"+b.
+”mam. ' b.b.(b.-b.) '
+
+llndet antiphase initial excitation ol the CTL (E20 = 0). with bl = 0. we ilnd
+
+(7) p-p + a IIIZY.
+I ”(I 9 2—,?“ .
+(8)
+_ cii2Y. W—Ibm'W—i
+" ”“aazr. ‘ "a." ' '
+
+29
+FOR til'TICIAl. IISE ONLY
+FOR ler‘lCIM. USE ONLY
+
+ll high-irequency signals irom the outputs oi both periodic structures (cl. (I)
+where y = 3 a) are added in antlphase. then only the ileld oi antisymmetrlcal
+wave [3. is isolated: an expression ior it (cl. relationship (7)) when Yo > 0
+coincides with the corresponding iormula ior an ordinary traveling wave
+magnetron-type tube (TV/MTit while at Yo l~ O tor a TVIMT with positive cold
+cathode (coupled type oi interaction [2]. pp b7l-b8l').
+
+in the case oi synphase excitation (Em 2 O) at b; = 0. we ilnd a expression
+derived irom (7) and (8) by substituting El ‘82: b2 ablt sh 2 Yo! sh Va .1; sh
+2 Y?Ich2Y,t iurthermore. ii output signals are composed in phase. iormulas
+stmi or to those oi TWMT theory with one delay system are also derived.
+
+in the case that only one periodic structure is excited. e.g.. upper (Ex(-a) = 0,
+5‘“) = Ex‘. ci. (i)). then Flo = F20 = Fol2 and ii bl : - b; = b. one may derive
+the iollowing estimated relationship ior For
+
+. q' ., item/2)
+(9) F ~F. [1+?fth-' ﬂue”). (“‘01.
+
+In deriving (9). it was assumed ior simplicity that K. 3 K2. sh Yz ch
+
+Y 3 ell/2. From the latter iormula iollows the pulsating nature oi the high-
+ireqnenry iield, which is associated with periodic transier power between
+strtnrltircs.
+
+The partiCular cases considered above at the estimate level show that within the
+assumptions made. the use oi CTL in the traditional circuit oi a TWMT
+ampliiier. in linear mode, does not lead to improved eiiiciency oi interaction
+(non-linear operating mode oi TWMT with CTL will be examined below).
+Furthermore. without calculations it is clear that limiting eiilciency oi the
+device should be reduced in comparison with an ordinary TVMT, since the beam
+must be situated in the interaction space above plane Y0 = 0.
+
+Let us consider the case where electron ilux interacts with CTL iields in plane
+Yo r 0.
+
+In antiphase excitation. irom relationships (5)47) we derive the following
+expressions:
+
+’0. ""4
+
+- Oh Y. be
+
+(lol x W". H).
+
+'Remeinber'Tlht in'tl'i‘i-s—r-ase. coupling resistance is deiined in plane y = a.
+
+30
+FOR tWFlCIM. lL‘iiZ "NLY
+mil (Wi’liillil. "SK UNLY
+
+(H) P.-’lla
+
+(I2) ’_ 2P. (b.~b.)¢“¢-b.s*W¢+ii.
+. ahai. 5.5.(b.—b.) .
+
+From (i0) it iollows that within the assumptions made. in this system there
+occurs only longitudinal grouping oi electrons: optimum conditions oi grouping
+correspond to bl = 0. A similar eiiect, apparently. can be wisely used to create
+eiiective butchers in which the grouping process is not accompanied by a great
+loss oi potential electron energy". At Yo 2 0, Flo . l0 (synphase excitation)
+and b3 : 0. the iollowing relationships occurt
+
+Thus. within the applicability oi estimates, electrons have only transverse
+displacements: the degree oi grouping is identical ior electrons having Y > 0 and
+Y c 0. Thus. on the average. the electron beam does not lose potential energy
+in the high-irequency iieid. indicating the possible creation oi an eiiective
+buncher in this case as well.
+
+Some results oi solving s stem oi equations (3).“) in linear approximation
+under initial conditions m0). 7‘0) I 0 Flo : F20 = 0 are cited in study [3). in
+which is shown the possible creation oi eiiective noise transiormers containing
+C'i’Ls ior iiux in crossed iields.
+
+3. BASIC NON-UNEAR EFFECTS
+
+iielow we will consider basic iindings obtained as a result oi numerical solution
+oi system oi equations (3)46) using computers.
+
+"Galatians considering the eiiect oi space charge iorces within the model oi
+an iniiniteiy-thin beam. similar to that done in [2] (Ch. V). showed that
+transverse high-frequency displacements oi electrons due to the action oi space
+charge iorces are partially equalized by opposing displacements which occur
+End)" the iniluence oi the iieid oi the synphase wave 82. deﬁned by iormula
+i2 .
+
+31
+FOR OFFIClAl. USE ONLY
+FOR OFFICIAL USE ONLY
+
+.1. A TWMT amplliler using C'i‘l. (F‘(0) = F0. F'(0) = 0. b = 4);). Amplitude
+distribution oi the high-irequency iield along the length oi t e interaction space
+is shown in Figure 2. Strong pulsations IF’I. IF‘I are connected with the process
+oi spatial frequency beating in the CTL. Consequently. electron iiux alternately
+participates in regular or coupled iorrns oi interaction.
+
+Let us touch upon the physical interpretation oi processes taking place in
+greater detail.
+
+At small values oi q there occurs an ordinary mechanism oi grouping oi electron
+ﬂux in crossed ilelds (Fig. 2b). Then the grouped electron ilux ialls into a high-
+irequency iield oi diiierent polarization. corresponding to the coupled kind oi
+interaction (Fig. 2c). The grouping process continues. but the cluster begins to
+drop away irom the plane Y0 = 0 and the amplitude oi the high-irequency iields
+diminishes. Later the electron ilux again ialls in the iield oi initial polarization.
+but now in its acceleratlve phase: degrouping oi the cluster starts and the
+cluster continues to iall away (Fig. 2d). The remainlng portion oi the cluster
+ialls into the retardation phase oi the high-frequency iield. leading to a rise oi
+electrons. grouping. and increase oi the high-irequency iield (Fig. 2e. i). During
+the rise phase. electrons are able to get rather close to the delay systems. Thus
+when the cluster oi electrons returns to the accelerative phases oi the high-
+irequency iield. iirst rticipating in coupled and then in the regular kind oi
+interaction (Fig. 2g. is . the processes oi energy exchange occur so intensively
+that amplitudes IF‘I and IF‘I virtually disaprear (Fig. 2a. q = 9.6). Subsequently
+the grouped beam induces a high-irequency ield in the system which corresponds
+to the ordinary lrind oi interaction: and a process similar to that depicted in
+Figure 2! begins. At such lengths oi interaction space. electrons are already
+starting to settle into periodic structures.
+
+Ii electron ﬂux is in synchronism with one oi the normal CTL waves. ior
+example with wave 6. (b. s 0). then the nature oi the interaction process
+changes and will be similar to the corresponding processes in an ordinary TWMT.
+Let us emphasize once more that the chiei distinctions between the processes
+described and similar ones in type 0 interaction (ci. chapter I oi study [#1) are
+that the beam in crossed iields participates in both ordinary and coupled kinds
+oi interaction. '
+
+b. Grouping oi electron ﬂux in C‘l’l. iields. From estimated iormulas
+(l0)-(l2) it iollows that condition F2 . 0 corresponds to an ideal buncher.
+
+Let us analyze several iactors which signiiicantly alter the process oi ideal
+grouping in non-linear conditions.
+
+32
+FOR OFFICIAL USE ONLY
+90k (WPICIAI. USE ONLY
+
+lfl
+
+   
+
+  
+     
+
+ll!
+IV i. “ll
+, -- i ix 1: It". ----
+' (-0
+1%} Mil A
+is» f} 32‘ to ii ts “"
+A c a E r a a
+
+Figure 2. Distribution of amplitudes of
+high-frequency field in planes of upper
+lFollsolid lines) and lower lF-ildottedl
+periodic structures (a) and typical form
+of electron flux in different segments
+of interaction space (b-d) for the case
+where input signal is fed to the upper
+periodic structure (Po. e 0.3, Fo- = 0:
+Yo 3 0).
+
+If special measures are not taken to suppress wave 52 through the interaction
+space. there is some intensification of wave El up to and including saturation;
+the level of saturation weakly depends on the input signal level (Fig. 3a).
+Electrons in this case have both longitudinal and transverse displacements: the
+electron cluster remains immobile with respect to wave El. always located in its
+retardation phase. and breaks down into two virtually symmetrical portions. one
+of which rises upward from Y a 0. while the other falls (Fig. 3b); at some
+length. electrons begin to settle into periodic structures. This type of grouping
+is linked with the existence of wave 52 (hatched curves in Figure 3a), which is
+excited in phase with the cluster and remains almost synchronous with it. but
+slightly advanced in phase. virtually until the settling process begins (hatch-
+dotted line in Figure 3a). The most significant distinction of this buncher from
+an ideal one is that in the nascent inclined clusters. electrons are concentrated
+not in plane Y : 0, but in regions of maximum transverse displacements of
+electrons (vertical displacements may be reduced by increasing b2. or by using
+special "electrodynamic" means to attenuate the field of symmetrical wave 52
+and. as was noted, space charge forces should lead to a reduction in transverse
+displacements of electrons).
+
+33
+FOR OFFICIAL USE ONLY
+FOR (WFICIM. "SH (lNl-Y
+
+ 
+
+Figure 3. Distribution ol amplitudes
+of high-lrequency field of antisymme-
+trical IF I (solld lines) and symmetri-
+cal Ile dotted lines) waves and
+
+ol symmetric wave ‘1’; (hatch-dotted)
+(a) and position of individual electrons
+during one period oi high-frequency
+licld E. in dlﬂerent segments of in-
+teraction space (b) for the case where
+an antisymmetrical wave (Fm I 0,
+
+on=03bl =0,b2=-2;Yo=0)is
+excited at the input.
+FOR OFFICIAL USE ONLY
+
+Analysis of the buncher in which the input signal excites symmetrical wave E2
+showed that. as was done irom estimates. the potential energy of the beam
+changes slightly and the high-frequency field remains almost constant at large
+input signal values (Fig. 5a. b).
+
+"These results permit us to conclude that with the aid of a buncher containing
+CTL, it is possible to shape rather dense clusters. The use of this buncher as
+an input section in instruments havmg crossed fields may significantly improve
+the characteristics of the latter. Corresponding calculations show that
+eliiciency may be increased by [045%. The possibility of considerable
+truncation of the length of the input section (by 2 to 2.5 times) in comparison
+with an ordinary TWMT is most interesting; it is very important for the
+improvement oi device resistance to parasitic self-excitation.
+
+ 
+
+Figure la. Distribution of amplitudes Figure 5. Distribution of am-
+at high-lreqnem-y ﬁeld of antisymme- piitudes of high-ire uenc field
+Irirul Il-‘ll (solid lines) and symmetri- of antisymmetricai Fll lid
+«'ul li-‘2l(dntted lines) waves with asym- lines) and symmetrical IF2|(dot-
+metrical positioning of electron ﬂux ted) waves (a) and position 01
+(Yo I 0) [or the case where an anti- individual electrons during one
+symmetric-til wave is excited at the period of HF field E2 in dif-
+input ("l0 2 0.3, F20 = 0; bl = 0. ferent segments of interaction
+b2 -2). space (b) for the case where a
+
+symmetrical wave is excited at
+the input (F10 = 0, F28 i 0:
+bl =2,b2=0;Yo= .
+
+35
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL USE ONLY
+
+CONCLUSION
+
+The results cited above supplement the known picture oi physical processes oi
+interaction in crossed iieids and indicate the theoretical possibility oi creating
+beam-type type-M devices with improved parameters.
+
+In the iuture it will be important to study the eiiect oi the iorces oi space
+charge and cyclotron waves on the nature oi multiple-wave interaCtlons in type
+M beam-type devices.
+
+it is almost obvious, in particular. that explosive instability [5] must occur even
+in three-irequency interaction in type M beam-type devices when cyclotron
+waves are excited in the beam.
+
+Experimental verification oi the posited eiiects is especially important.
+AI’I’ENnIX
+
+Let us note that the problem oi an ideal buncher (no losses in potential energy
+oi the Hi’ iield) has an analytical solution.
+
+For an antisymmetrical buncher (F2 - 0) where Y - Yo. the solution oi equations
+(3) and (it) appears as
+
+ 
+
+(Pl) lo' ”’3’ --_’L.,
+tram» obi.
+
+For a symmetrical buncher (F1 - 0) where X - 0, we may derive
+
+”dealt Y) _ ’9
+
+“X. Ch Y.
+
+ 
+
+The right sides oi these equations completely determine the degree oi grouping
+oi electrons. Let us illustrate this with the derivation of conditions ol iorirmtion
+oi an "almost point” cluster.
+
+ii there are 20 "machine" electrons per period oi HF iield. then electrons lagging
+behind electrons which have the phase _o_ x by an interval A: 21/20. will gather
+in the interval 24 around an electron having the phase X0 = 0 (iorming an almost
+point cluster) at length q. which may be defined irom (Pl). For example. where
+Ya - l.2 for Fm = 0.5 is obtained q = 12 (high value oi q is linked with iact
+that no is deﬁned in plane oi periodic structures; in ”ordinary" deiinition Do is
+in plane ii beam q = 0.2).
+
+36
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+REFERENCES
+
+I. R. A. Sllln. V. P. Saxonov. Delay systems [Zunedlyayushchlye sys-
+tcmyl. Izd. Sovetskoye rodlo, I966.
+
+2. V. N. Shevchlk. D. l. Trubetskov. Analytical methods at calculation
+ln microwave clectronlcs [Malltlchesklye melody rascheta v elek-
+lronlkc SVCh]. Izd. Sovctskoye radio. 1970.
+
+3. Yo. P. Bocharov. D. I. Trubetskov. V. P. Shakhln. RADIOTEKHNIKA
+i ELEKTRONIKA, I976. 2|, I2, 2358.
+
+'6. D. V. Sokolov, D. I. Trubetskov. Yu. P. Sluraycvskiy. V. P. Shakhln.
+RADIOTEKHNIKA l ELEKTRONIKA, I978. 23. 8, IS".
+
+5. M. I. Robinovich. IZV. VUZOV MVSSO SSSR (Radloﬁzika). I97“, l7, 0
+09b.
+
+COPYRIGHT: Izdotol‘uvo "Noah". "Radiotekhnilu 1 ololltronilu", 1978
+
+8017
+(:80: 1870
+
+37
+FOR OFFICIAL USE ONLY
+Will lWI’ICIAI. "SI! ilNIN
+
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+SIGNAL “ETECTION ON CRT AGAINST NOISE BACKGROUND: NONPARA-
+METRIC MODEL
+
+Most-ow RADIOTEKHNIK/l i ELEKTRONIKA In Russian No II, Nov 78 pp 2039-
+21402
+
+[Article by V. N. iludko. F. M. Klement' yev, N. M. Novikova: "Nonparametric
+model oi detection oi signals observed by human operator on CRT against a
+background oi noises")
+
+[Text] For eiiicient operation oi radio engineering systems in which the iinal
+link in the processing oi iniormation is a human operator, it is necessary to
+match the working characteristics oi the systems and man. One vital issue oi
+such coordination is that oi a iormalized description of human behavior in visual
+detection oi signals against a background oi noises on a CRT. Let us consider
+in the general iorm those processes which make up the ioundation oi
+psychological data in describing the situation oi detection oi signals by a human
+operator. Let there exist some set oi signals 5, which in some iorm is depicted
+as a set oi mental images. Let us assume that there exists some solving device
+which. on the basis oi extant sensory data. works out a set oi response reactions
+or behavioral iorms. In addition to the set oi external signals there also exist
+suurtes ni additional external iniormation. Naturally, output iniormation linked
+with the results oi response reactions in the iorm oi ieedback enters the input
+oi the operating sensory system. Signals oi ieedback may be changes in the
+environment or iniormation about evaluation of results oi actual behavior oi the
+human operator. There exists a source oi internal iniormation which units
+various systems associated with the work oi the regulatory, predictive, and an
+especial motivational-estimational mechanism. Both sources oi external in-
+iormation and sources oi internal iniormation aiiect the work oi the decision
+unit. Thus the working characteristics oi the human operator who detects a
+signal against a background oi noises on the CRT has a probability nature.
+Working characteristics we take to mean the relationship oi probability oi
+rleteetion oi a signal and its intensity when the latter is observed on a
+background oi noise.
+
+38
+FOR OFFICIAL USE ONLY
+I'OR OFFICIAL USE ONLY
+
+The fundamental probability set of workin characteristics of a human operator
+is generated by the following features: I fluctuation of sensory threshold: 2)
+probability characteristics of external effects; 3) straying of attention; it) lack
+
+of observation time due to finite speed of information handling; and 5) signal
+masking by noise.
+
+We use the operational definition of threshold as some empirical ntity
+applicable for the characteristics of functional possibilities of man [i The
+actual working characteristics of the
+human operator are the result of an
+integrative action of the sources of the
+proba‘biiity set mentioned above. To
+explan the logical foundation of work
+a n n of the decision unit, and the logical
+behavioral basis of the human operator
+in the situation of detecting signals
+n n against a noise background on a CRT, it
+is necessary to eliminate the effect of
+the aforementioned causes on the work
+of the human operator. Actual working
+characteristics of the operator can be
+experimentally obtained allowing for the
+requirements stated above.
+Figure 1. Block diagram of
+connection of devices. The block diagram of connection
+of devices for the experiment is shown
+in Figure l.
+
+A trigger pulse from a synchronizer 1 produces simultaneous turn on of the
+display scanner g and the pulse shaper 2. An oscillograph type C8-9A with
+memory is used as the display. A U-pulse generator is employed as the pulse
+shaper. The U-shaped pulse obtained at the shaper output is transformed by
+filter 2 into a bell-shaped pulse and enters the adder Q, where there is additive
+summation with low-frequency noise (normally distributed) which enters from the
+noise generator Z. After passing through a matching filter 2. the signaionoise
+mixture is led to the oscillograph screen 9. The screen shows the realization of
+the mixture of bell-shaped pulse with normal low-frequency noise. The signal is
+elmsen with rather high intensity to eliminate the effect of sensory threshold
+fluctuations. To avoid having a priori information (as an additional information
+somce) display a probability nature, the signal was always situated at the same
+point on the seaming line: this was known to the operator. in the realization
+being presented. the signal was not always present, but only in 5/6 of the cases.
+Alternation of blank (noise only) and signal (signalonoise) realizations with
+different .ignal amplitudes was done in random sequence.
+
+39
+VOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The methods Used in working with operators who partici ted in the experiment
+were as lollowst the human operator was given the tas of detecting a signal
+
+presented as a one-time display of signal and noise mixture. The display
+observation time was unlimited. l.e.. the human operator had not Information
+handling time deficit. The brightness of the scanning line during the experiment
+was kept constant: before the start of the experiment the operator became
+adapted to this brightness. Experiments were run in a darkened room with
+no exterior illumination of the screen. The operator's reactions contained two
+responses: “yes”--there is a signal, and "m”«there is no signal. Operator
+responses were evaluated by a value matrix: reward lor correct detection and
+fine for erroneous decision. Errors were signals missed and false alarms--
+detection of a signal when only noise was displayed. Operators first took part
+in control experiments and were trained. When the results at the operators
+became stable. they switched to the basic experiments.
+
+Each series of experiments lasted an hour or less to eliminate fatigue of the
+visual analyzer and straying of operator attention.
+
+The probability of signal detection, and the probability of false alarm, were
+evaluated according to the frequency of the event being evaluated:
+
+P = Nlle
+
+where N. is the number of positive decisions; N is the total number of displays;
+in experiment N = l00 ior each signal-to-noise ratio.
+
+Four trained operators participated in the experiment; each received a working
+characteristic; the averaged working characteristic curve is shown in Figure 2.
+
+   
+
+Figure 2. Working characteristic of Figure 3. False alarm proba-
+mean statistical worker. bility versus coefficient H.
+
+40
+FOR OFFICIAL USE ONLY
+NR OVFICMI. USE ONLY
+
+In this li ure. the x-axis contains the lots of the probability oi correct
+detection n quantilcs oi normal dlstributont along the y-axls is plotted the
+slgnal-to-noise ratio. The operator's working characteristic In this system of
+coordinates is represented by a straight linet
+
+(l) ’M'IaN/oll.
+
+whore XL. is the probability of correct detection in quantiles of normal
+distribution: itn is the probability of false alarm in quantiles of normal dis-
+tribution with zero signal amplitudet a/ is the slgnai-to-noise ratio. H is some
+coefficient Which is typical of the human operator.
+
+According to thew" principle, one may claim that the points lle along a straight.
+line with 0.99 probability (1).
+
+Coefficient H may be computed for each operator by using his actual working
+characteristic obtained in our experiment.
+
+A simple relationship. shown in Figure 3. was found between coefficient H and
+the probability of lalse alarm "ai the probability of false alarm x is plotted
+along the x-axis in quantiles of normal distribution, and the coef icient H is
+plotted on the y-axis.
+
+Iiy using the’X,2 principle, we can state that the points lie on a straight line with
+a probability of 0.99.
+
+Under the conditions of our experiment, the relationship between H and ata is
+expressed by an equation of the type
+
+(2) i-l = -o.i7xa . 0.32.
+
+liy substituting (2) in (l), we derive an expression for the working characteristic
+of the mean statistical operator, where the parameter describing the individual
+nature of the operator will only be the probability of false alarm x3.
+
+Let us examine the working characteristics of automatic non-parametric signal
+detectors and compare them with the working characteristics of the human
+operator obtained in our experiment.
+
+A signal detector is trailed non-parametric if it provides constant probability of
+ialse alarm with very weak limitations on the statistical characteristics of input
+signals In The working characteristics of automatic nonparametric detectors
+used for signal detection are the sign, rank, and sign-rank statistics cited
+
+in l2]. They have identical structure and may be generalized and represented as
+follows:
+
+’01
+FOR OFFICIAL USE ONLY
+FOR OVVICIAL USE GRIN
+
+(3) lI-pul. MICK.
+
+where K is some coefficient. distinctive for different working characteristics.
+depending on the kind of slgnal and the distributive function of interference.
+Generalized formula (3) and the working characteristic of the mean statistical
+operator (1) have Identical structures. This also suggests that in detection of
+signals with background noise on a CRT, the human operator appears to use non.
+parametric criteria since the results of his work can be represented in a form
+analogous to (3).
+
+A distinctive feature of non-parametric detectors is the independence of the
+probability of false alarm on the kind of noise distribution function.
+
+For the human operator. this peculiarity was tested experimentally. The working
+rharavteristirs were recorded for the same four trained operators for two
+different noise distribution functions. Within the limits of reliable interpretation
+of error. the probability of false alarm was almost unchanged. The supposition
+of non-parametric criteria used by the human operator in signal detection with
+background noise on a CRT will aid in calculating the efficiency of operation of
+the "man-CRT" system.
+
+REFERENCES
+
+l. K. V. Bardin. Problems of sensitivity threshold and psychophyslcal
+methods [Problema porogov chuvstvitel’nosti i psikhofizicheskiye me-
+todyl. lzd. Nauka. I976.
+
+2. B. R. Levin. Theoretical bases of statistical radio engineering [Teo-
+rcticheskiye osnovy statisticheskoy radiotekhniki]. 3, lzd. Sovetsko-
+ye radio. l976.
+
+COPYRIGHT: Izdatel'atvo "Nauka". "Radioteithnflta 1 eleittronilta". 1978
+
+86”
+(:50: 1870
+
+42
+FOR OFFICIAL USE ONLY
+SIDE-LOSE FILTERS FOR PHASE-MANIPULATED SIGNALS
+
+Moscow RADIOTEKHNIKA i ELEKTRONIKA in Russian No II, Nov 78 pp 2‘602-
+2W}
+
+[Article by v. P. lpatov: "On side-lobe suppression filters (or periodic phase-
+mnnipulated signals"]
+
+[Text] The theoretical possibility oi total 5 ession oi all side-lobes oi a
+periodic reciprocal correlation iunction (PRCR oi a phase-manipulated signal
+and mirror pulse response oi a linear iilter is shown in study [I]. in [2] it was
+established that a necessary and adequate condition ior the existence oi such a
+ﬁlter (side-lobe suppression iiltert SLSF) is the linear independence oi all
+cyclical shiits oi the periodic phase-manipulated (PPM) signal. Relationships
+cited in [2]. which connect the structure and indicator oi SLSF with the periodic
+uttlocorreiation iunction (PACF) are convenient ior synthesis oi SLSF ior signals
+with relatively simple (ior example, one level [3]) PACF. In the same cases
+where the iorm oi PACF was not previously specified. especially in synthesis 01
+the PPM-signal/SLSF pair. it can be more preierable to have expressions
+obtained below with the aid of a discrete Fourier transiormation (DFT).
+
+As in [2]. let x0. xl, .... in.“ be a sequence oi complete amplitudes of a PPM
+signal oi period N; to the i-th cyclical shlit oi the signal "i' "(M-3. .... am.
+hi)" where (00) - k(mod N). O s (00) S N-l corresponds an N imensional
+vector-column (hatched line designates transposition):
+
+"i = uxj. mm». «(mum'-
+
+Sn 2 "II:
+we
+
+be the energy oi one period oi a PPM signal.
+
+Furthermore. lot
+
+43
+FOR OFFICIAL USE ONLY
+POI! OPPICIM. "SR ONLY
+
+ 
+
+Transversal SLSR of PPM signal
+
+Let us introduce an NxN matrix
+A = "X0. XI. no. XN.|".
+
+and write out a correlation matrix ol cyclical shifts of a signal 8 = "(i/E) (Xi.
+Xi)". where (Xi. Xi) is the scalar product of vectors Xi and Xi in the form
+(asterisk designates transposition with complex conjugation)
+
+I
+
+The block diagram of an SLSR as a transversai filter [‘6] is shown in the ligure.
+where 33 is an element of delay by the duration of the discrete of a PPM
+signal. and yo, y]. .... y". is a sequence of weight coefficients which can be
+seen as components of an -dimensionai vector-column of the ﬁlter
+
+Y = "ya. u. ..., yN-.ll'.
+
+Complex amplitudes 23, i : 0. N-i at the filter output ma be derived by periodic
+(circular) convolution [5] of the sequences xi, yl. I = , N-i
+
+'-I 1"
+(2) It "' giant-m - gnu-min l-o. N-I.
+
+iSy assuming in conformity with the filter designation :3 z 0, i : 1. N4, 20 :
+a. where a is an arbitrary complex number not equal to zero. and by introducing
+a DFT of the sequence 25
+
+NCO
+
+CA-guup (-1k%£), t-m.
+
+Us
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+we llnd that
+
+(3) {arm am.
+
+Now applying to (2) the theorem ol circular convolution (5] allowing lor (3). we
+arrive at
+
+. _
+(g) lit-t. n.0,”...
+
+Whel'c lot a ..|
+h" "(‘I'(-lk_‘). a... '.' (-.ﬂ‘) .—
+
+is the DFT of the sequences "i and W
+
+The i-ited relationship proves that [or the existence ol .1 SLSR is necessary and
+adequate a distinction ol all components oi the signal DPT lrorn zero. he. the
+satislaction ol N inequalities
+
+(5) we n-m
+
+The latter condition is identical to the condition 01 linear independence 01 all
+cyclical shilts ol the PPM signal
+
+(6) det A I 0.
+
+Actually. (6) only takes place when all intrinsic values ol A are not zero. But
+since the A matrix is a circulant [6]. its intrinsic values are equal to g“,
+Kr 3,71 -7 and thus (6) lollows lrorn (5) and vice versa.
+
+As seen in ('0). the SLSR converts the spectrum (in the sense of the DFT) ol a
+
+[FILM signal into a unilorrn one and thus may be called a discrete Urlrowitz filter
+7
+
+65
+FOR OFFICIAL USE ONLY
+POI! IWPICMI. "8|! ONLY
+
+Tn tierlve the weight (tOt‘Nll‘it‘iils oi the SLSR it sullices to switch to an inverse
+DFT in (ii)
+
+”-3...“ 2n . l-l "pot-3‘4)
+l" ~§"‘""( " 17‘) "2¢§“—..—-- MIT-'-
+
+Let us now dellne the slgnal-to-nolse ratio lot a primary lobe at the output at
+a SLSR it: = IBIZIYQKY. where K denotes the correlation matrix ol input noise.
+ii the latter is stationary and correlatlgn time doea not exceed the duration ol
+the discrete ol the PPM signal. K :6 . where U is average power oi noise.
+I is the unitary matrix. Then on the basis of (7)
+
+”I“ 'Cl' '0'
+PK? - o‘Y‘Y - 0'2 lnl' .. ——o' Ell-l".
+O-l N ‘
+
+.s -(n/ot) 2 ".14.
+
+Not only does the quantity q2 represent basic interest. but losses at the SLSR
+in the signal-to-noise ratio as compared with the matching iiiter ol a photon
+counter. in dezscriging them. 3s in 2] (with accuracy to denotations). by the
+number 1? - Iqo . where qo : E DH“ is the signal-tOonoise ratio {or the
+primary lobe at the output of a photon counter. we have {or earlier assumptions
+with respect to K XoKW =628. and
+
+(8) V - N
+
+'00
+
+5.;th
+
+ 
+
+Since the a matrix is a circulant (cl. (D). whose lines are cyclical permutations
+oi the PPM signal PACF. its intrinsic values are components of the DFT of the
+l'ACl’. ie. I; plzlE. it = 0. n-l. Due to the symmetricity of B. the intrinsic
+values 0! the inverse matrix 8". which always exist when (5) is valid (SLSR
+exists). are equal to El; kl'z. Thus (8) can be represented as
+
+v-N/sm-r
+
+(.6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+whvﬂ‘ 59“" is the trace ui matrix M.
+
+Relationships (7)48) tnay be extremely useiul in solving problems oi SLSF syn-
+thesis and tho PPM-signal pair (especially, a binary PPM signal) with the SLSR
+using computer: they require much lower expenditures oi machine time as com-
+pared to data obtained in [21- Actually. computation oi elements oi the Gram
+determinant Ior deriving 4) according to [2] requires execution oi N2/2 opera-
+tions oi multiplication oi complex numbers. To ex the determinant by
+reduction to triangular iorm requires another (N.l)(N N-l)l3 such operations. In
+sum. computation time Ior on computer ior large N Is proportional to the
+quantity N I). since multiplication usually occupies the overwhelming part oi
+computer time. At the same time. the use oi (ll) even in direct realizatign a!
+the OFT algorithm permits us to save time proportional (where N >)l) to N (N
+operations oi multiplication oi complex numbers to compute all I It and N
+computations oi the square oi the modulus oi 3“). This 3ain in "9.0mm“
+
+oi computer time may be increased many times by using known algorithms ior
+rapid Fourier transiormation [0. 5].
+
+REFERENCES
+I. Questions oi statistical theory oi radio location [Voprosy statisticheskoy
+
+teorii radiololratsiil. ed. by O. P. Tartaltovsitiy, ll, lzd. Sovetsltoye radio.
+I966.
+
+2. V. l’. lpatov, RADl01'EKHNIKA i ELEKTRONIKJ977. 22, 8. [600.
+
+3. M. B. Sverdlilt. Optimum discrete signals [Optimal'nyye diskretnyye
+signalyl. lzd. Sovetsiruye radio. I97).
+
+'4. introduction to digital iiltration [Vvedeeiye v tsiirovuyu iil'tratsiyu]
+ed. by R. i'iogner and A. Konstantinidis. lzd. Mir, I976.
+
+). l'l. Gold. Ch. Raider. Digital processing oi signals [Tsiirovaya obra-
+botka signalov). lzd. Sovetsitoye radio, I973.
+
+6. R. Bellman. Introduction to the theory oi matrices [Vvedeniye v teo-
+riyu tnatritsl. lad. Naulta. I976.
+
+7. H. Urkotvitz. Filters ior Detection ol Small Signals in Clutter. J.
+Appl. Phys.. I9”, 20. l02li.
+
+COPYRIGHT: ladaeel'oevo "Naulta". "Radiotelthnilta i elelttronilta". 1978
+
+his] 7
+(:80: llI7O
+
+67
+FOR OFFICIAL "SE ONLY
+AMPLIPICATION OF WIDE-BAND SIGNALS iN TYPE 0 TRAVELING-WAVE
+TUNES
+
+Moscow liADlOTEKl-lNlKA i ELEKTRONlKA in Russian No II. Nov 78 pp 2055-
+2058
+
+IArticle by Ii. Ye. Zhelezovsltly. Ye. Ye. Zhelezovskiy. R. N. Karimov. Yu. V.
+Klinnyev: "Study oi Aspects oi Ampliiication oi Wide-Band Signals in Type 0
+Traveling-Wave Tubes with Random Oscillations"]
+
+ll’extl Ampliﬁcation oi noise-type oscillations (cl. [1,2,31) is employed in the
+operation ol some electronic deviCes and radio engineering systems in microwave
+technology. in this respect. the greatest interest is involved with wide-band
+ampliﬁers. especially type 0 and M traveling-wave tubes.
+
+Ordinary ampliﬁcation oi a noise-type signal in a traveling-wave tube (TV/T) is
+associated with its direct action on the input of the delay system. As far as
+the authors know. theoretical analysis oi noise-type signal ampliﬁcation in TVITs
+has only been done [or M-type devices [it].
+
+in this study, a similar approach has been taken toward Tll‘l's. The investigation
+was mainly aimed at explaining the ampliﬁcation efﬁciency of noise-type
+signals in TWT with various methods of insertion into interaction space.
+
+The tnethod oi investigation of noise-type signal ampliﬁcation employed is a
+realization oi a stationary normal random process and is based on the notion that
+it is termed by the harmonics of various frequencies. it is clear that a random
+process has no determinate harmonic components. but it makes it possible to
+lormaily carry out Fourier analysis and compute the spectral components.
+Evaluation ol the spectral density oi noise-type signals is inconsistent, but a
+smoothed evaluation will be suited for practical applications. To obtain
+rotisislt‘tlt statistical evaluations. it is necessary to smooth out the spectral
+sampling density in terms oi a set of segments of realization oi noise-type
+signals or in terms oi irequencies [5L
+
+£8
+FOR OFFICIAL USE ONLY
+FOR "PFICIAL USE ONLY
+
+Furthermore. a spectral description of a noise-type signal is convenient for shaping
+realizations of pre-set spectral density.
+
+ 
+
+Figure 1. Distribution of amplitudes of noise-type signal components through
+length of interaction space with: (a) insertion of signal to input of delay system;
+(b) insertion of signal via electron flux.
+
+Nonlinear equations of multiple-frequency interaction of electron flux with a
+direct electromagnetic traveling wave were utilized in calculations. Calculations
+were carried out according to known equations described, for example. in [6].
+
+In determinacy computations it was assumed that the delay system of a traveling-
+wave tube has an octave bandpass and delay and coupling resistance are constant
+in this band. The effect of attenuation. the action of space charge forces and the
+interaction beyond the limits of the band with double overlap in frequency were
+not taken into account. The case of a thin beam with synchronism of electron flux
+with a traveling electromagnetic wave was investigated. Calculations were carried
+out for equidistant spectra, simulated by ten components with a ratio of extreme
+spectral frequencies to the fundamental frequency of the working equations equal
+to 9 and 18, respectively. The quantities of initial amplitudes of the spectral
+components with the interaction of a noise-type signal on the input of the delay
+system and the quantities of amplitudes of high-frequency fields which modulate
+the electron flux at the input into the interaction space (with signal insertion via
+electron flux) were obtained by repeated multiplication by a norming multiplier of
+random numbers from the set with normal distributive law having parameters (OJ),
+and quantities of initial phases—from a set of random numbers with uniform
+distribution in the interval (-11.11). Each realization differed in quantity and phase
+nl each spectral component. Furthermore, the dispersion of normal and the
+distributive interval of uniform random numbers did not vary from spectrum to
+spt't‘trtun. The values of the norming coefficients for normal random numbers were
+selected as equal to 0.02. The amplification parameter was taken as equal to 0.05.
+The munber ol electrons per period of fundamental freuqenecy was chosen as equal
+in 288. For each of the two methods of insertion of the noise-type signal (directly
+into the input of the delay system and via electron flux) into the interaction space
+of the traveling-wave tube, l0 realizations of the random process were in-
+vestigated.
+
+69
+FOR OFFICIAL USE ONLY
+l’illl iW‘l-‘liillil. llSl‘! UNLY
+
+The nature oi gain oi spectral components oi the individual realization is
+illustrated in Figure l. in it is shown the distribution lengthwise in the interaction
+
+spare oi the traveling-wave tube oi amplitudes oi components oi the high-
+lrequency iield with insertion oi a noise-type signal into the input oi the delay
+system (Fig. la) and by means oi pre-modulatlon oi electron ilux. Numeration oi
+curves in the iigures corresponds to the order number oi the component oi the
+equidistant spectrum used in calculations. The distinctive behavior oi relationships
+at initial sections oi the interaction iield and at the point oi maximums oi the
+component iieids is clearly seen in the ligures.
+
+The behavioral nature oi the curves, as a rule. corresponds to the patterns oi
+signal gain in the multiple-irequency operating mode oi a traveling-wave tube:
+spectral components with greatest values oi input signal amplitudes are ampliiied
+usually to greater output amplitudes; excitation oi intensive harmonics oi low-
+ireqneney i'omponents oi the spectrum is observed (especially with small
+mteraetion space lengths); phase relationships play a major role in the amp-
+lilii-atinn process: one may see suppression oi individual components, especially
+those havmg stnall input signal amlitudes. and so iorth.
+
+in Figure 2 is shown the lengthwise distribution oi traveling-wave tube interaction
+spare oi the total high-frequency power ior various realizations. As an example is
+given the power distribution oi iive realizations with insertion oi a noise-type
+signal directly into the input oi the delay system (Figure 2a) and via electron ilux
+(Figure 2b). One can see the unified pattern of behavior oi relationships ior
+individual realizations. The iirst peak is associated with the pretered amplification
+at one or more (most oiten. high-irequency) components oi the octave spectrum.
+The set-and peak is due (with greater length oi delay system) to the more uniiortn
+ulnplilit'aliun oi diverse components. The quantity and location oi the power peaks
+tlu-mselves diiier ior individual realizations and reilect the change in power irom
+realization to realization. Naturally, when the noise-type signal is inserted via
+electron llux. the output power has peaks with shorter lengths oi the delay system,
+and the diilerent'e in size oi the peaks themselves is barely related to the method
+at signal insertion into the traveling-wave tube.
+
+in Figure 3 are shown the mean statistical relationships obtained by averaging
+.tu nrding to realizations. Curve 1 oi Figure 3 depicts the lengthwise distribution
+nl traveling-wave tube interaction space of medium high-lrequency output with the
+llllllli‘llt’t' nl a noise-type signal on the delay system input; curve Zuwith
+preliminary noise-type modulation oi electron iiux. For comparison. in the same
+Iignre curve 3 shows the lengthwise distribution oi interaction space oi a high-
+lrt'quem‘y power TWT with ampiiiication oi a monochromatic signal led to the
+delay system input at a irequency equal to the average irequency oi the noise-type
+spectrum. A mmparison oi relationships proves that with ampliiication oi a wide-
+band noise-type signal in a TWT. the magnitude oi output power is much lower
+than with atnplilit'ation ol a monochromatic signal. The magnitude oi peak output
+power at the maximum. lor the cited relationships with amplification oi a noise-
+type signal. is about i.) to l.“ times lower than in amplification oi a harmonic
+signal. Of course. with the lixcd length oi a device. the drop in output power may
+
+50
+FOR ill-'FICIAI. USE ONLY
+Hill lii‘i-‘lCMI. "Bl-2 ONLY
+
+be more signiﬁcant. For example. with an interaction space length corresponding
+to the maximum power oi a harmonic signal. the output power at an amplliled
+wide-band noise-type signal is almost halved. Thus. with optimization oi TVIT
+design ior ampllllcation oi a noise-type signal. the basic geometric dimensions oi
+interaction space. and particularly the delay system length, must be selected to
+allow lor random characteristics oi the input signal. Additional increase oi
+eliiciency may be provided by ordinary methods described. ior example, in [6. 7].
+or by preconceived alteration oi input signal parameters.
+
+ 
+
+l-‘igure 2. Lengthwise distribution oi interaction space oi total microwave outputs
+[or live realizations oi a noise-type signal where: (a) signal is inserted into delay
+system input; (b) signal is inserted by means oi electron iiux.
+
+The proposed methods ol analysis and numerical calculations on computer let us
+evaluate the energy possibilities oi TWT with amplification oi wide-band noise-
+type oscillations. Cases oi insertion oi high-frequency power directly into the
+delay system and via electron ilux were analyzed. The results oi computation
+showed that with ampiiiication oi noise-type oscillations in “I’ll/T there is a drop
+in output power as compared with the ampliﬁcation oi monochromatic oscillations;
+in actual devices. designed ior ampliﬁcation oi harmonic signals. this could be
+extrmncly signiﬁcant and could make it necessary to incorporate design changes.
+
+ 
+
+Figure 3. Lengthwise distribution oi interaction space oi averaged total
+microwave power where: (i) noise-type signal is inserted into delay system input
+(upper scale ol y-axis); (2) noise-type signal is inserted via electron ilux (lower
+scale oi y-axis); (3) harmonic signal is inserted into input oi delay system.
+
+51
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+REFERENCES
+
+2.
+
+’0
+
+It.
+
+,0
+
+6.
+
+7.
+
+Mli‘rowave engineering ISVCh-energetlkal. ed. E. Okress. lzd. er. I97].
+I. Pp. Il,°.2,v
+
+A. M. l’adeyev. Noise radiolocatlon systems (review). ZARUBEZHNAYA
+RADIOELEKTRONIKA. '0. I968.
+
+Microwave engineering, op. cit.. 3. pp. I00-l09.
+
+B. Ye. Zhelezovskiy. Ye.Ye. Zhelezovskiy, R. N. Karimov, Yu.V. Kllnayev.
+RADIOTEKHNIKA i ELEKTRONIKA, I977. 22. 6. I222.
+
+Dali. m-iidat. A. l’irsol. Measurement and analysis of random processes.
+(Translation Irom English). lzd. Mir. I970.
+
+A. M. Kuts. Ye. M. ll'ina. I. A. Man'kin. Nonlinear phenomena in mic-
+roWave devires ol 0 type with prolonged interaction [Neline nyye yavle-
+myu v SVCh-priborakh O-tipa s dlitel'nym vzaimodeystviyem lzd. Sover-
+skoye radio. I975.
+
+L. If. Teslenko. A. ll. Semenova. Increasing efficiency in O-type travel-
+ing wave tubes. OBZORY PO ELEKTRONNOY
+
+TEKHNIKE, SERIYA ELEKTRONIKA SVCl-l, Vyp. 10025). Tlel "Elektro-
+nika“. Mowow. I975.
+
+COPYRIGHT: tzdntel'stvo "Nnuko". "Radiotekhnilu 1 elektrontkn". 1978
+
+th7
+CS": I370
+
+52
+FOR OFFICIAL USE ONLY
+l’OR OFFICIAL USE ONLY
+
+WES, comm AND SPACE
+
+A superman NINE}! FOR my: DIGITAL Gamma
+Moscow PRIWYA @9121“ in Mulch No 88. 1977 pp 102-111
+
+[Ax-tic}. by A. v. Steklot ”A Specielised counter for Merino mum Crevi-
+meters
+
+[Text] Tent-wire red-store end eocelemneters (1.,6), the m [entoneted
+urine grevinstsr] ?10) end the 'mo [digits]. sutueeted grevineter] (l)
+belong to the oless of eerine grevinster devices heving output in digitel
+code form. The lest-reentionsd device is very sdvenoed. New devices, es per
+(08? [All-Union Stete Stenderdj recpireesnts, ere rsgaired to heve units
+which per-it recording in digitel fore. In order to redace the volume of
+recorded dete end the ties remind for finel pncessiru of uteriel on e
+genera-purpose counter end eleo to provide for convenience in the work of
+the operetor. it is desirable to cerry out initiel processing of the grevi-
+sstric dete right st the tins of the observetion in the oceen.
+
+Besioelly, initiel processing elounte to filtering the signele incoming from
+the grevi-ster. Counting by reedouts free the equipment of e madden in-
+creese in the force of grevity is required in eddition to the filtering.
+For the ueJority of grevineters. grevitetionel incruents any be defined by
+the fomle (5)
+
+4‘ "a (""h) {"10" "e”. U)
+
+where k1 end k. ere the grevineter constents end no end n ere the initiel
+end current n‘douts.
+
+For grevineters with precticelly lineer cherecteristice such so the ‘l‘eAG,
+kg 3 Go
+
+A filter which nekcs it possible to sepereto the signel from the noise in the
+best m is celled en optima filter. 0f the possible criterie of quelity
+for e grevinster, the nest ilportent on filter occur-soy. high-speed response ,
+cost end its cospleacity. In studies (8.9) the cherecteristics of the output
+end noise during urine grevinstric annoying ere given neking it possible to
+conclude thet e filter mich is optimal eccording to the criterion of the
+
+53
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL "SE ONLY
+
+ainisna root-nean-equars should come close to being an ideal filter for low
+frequencies having a very steep characteristic slope with a cutoff frequency
+of appmxisately 0.003 "I.
+
+Closest to the ideal filter are the Battervort, the Chsbyshev, the elliptical
+and others. In principle, any of then nay be used for solving the problem
+of separating a gravinetric signal froa noise. In practice, filters which
+have a siupler stmcture are often used. mltistage filtering with variable
+cutoff (6) is especially easy to program and requires a small expenditure of
+whine tiﬂh
+
+Let us examine the construction of digital filters from the point of View of
+the convenience in igleaenting then in a specialized unit. For a descrip-
+tion of digital filters it is convenient to use a s-transfora which is a
+
+discrete analog Laplace transfom (2,7). If the transfer function of the
+linear system is represented in the font
+
+at .\'
+w ma 3 a“ am". .‘II<A'.
+1-0 on.
+
+then the comsponding discrete transfer function is expressed in general
+fem as follows:
+
+N-l
+
+N
+. IV (z) ‘ 2 Cl:-’l(l+z 0‘." )o (2’
+
+I'. [-I
+
+where s = .s‘l' is the shift in tile ‘1’ statement.
+
+If at least one value b is not «pal to zero, then the filter in expression
+(2) is recursive , that s for generating the output signal not on]; the value
+of the input signal is used but also the previous value of the output. If
+all b : 0 then the filter has a nonrecursivs structure and a siwle linear
+weigh ing of the itput readmte is used for generating the output signal.
+
+Nonrecureive filters may have excellent phase characteristics but a large
+mnber of sections is required for achieving a sharp cutoff. Filters with
+
+a sharp cutoff of the frequency characteristic are easy to design using a
+recursive structure.
+
+For illustration let us consider the design of a digital Battervort filter.
+The square of the Iodulus of the frequency characteristic of this filter is
+
+I w (z) I41 It :- ( - u" «AWN. (a)
+uhere We is the cutoff frequency.
+
+In this case it is convenient to make use of a bilinear s-transfcrn (7) using
+the substitution
+
+l--:" 2
+n-o',—.-..-T (5)
+
+54
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The trensfer function of the regiimd «mm mm besed on (3) end (1.) is
+
+W m - {I i-(-- I)" [G;—::+)/£;l]m}q. (5)
+
+In this expres ion only a roots of the polynoeiel of the denosinstor ere
+reteined in s" which exceed the unit cirounferenoe (in terns of enelog theory
+this neens thet the roots of the demeinetor of the trensfer function “an
+anion lie to the 1m. of the helf-plens s (7) ere reteined). For the
+
+filter produced in study (9) with I = 5 end e cutoff freqreney me = 0.02 o'l.
+
+um (I -- ':-l our! rim“ 35:" ‘ :4)
+mum‘——5.lnm?'.rl '
+
+ 
+   
+
+W R) -
+
+   
+
+_ rum-mud : 4.!m29rt—cnmmms- '
+
+From expressions (5) end (5') it 1. evident um the structure of the rum-
+turns out to he rether oospliceted. In e gensrel cese, 2s: cells for storing
+the fsctors is required end airing sdjustlent of the filter ell the footers
+ere veried. A high level of eocureoy in representing the fsotors is neceesery
+when designing e high order digitel filter in lineer node. In sddition.
+serious prohlees erise in the stebility of the digitel filter.
+
+Siuiler high order filters my be inensntsd in ”nerd-purpose centers.
+In e specielized unit it is desireehle to use e silpler end nors conveniently
+
+inpletsented filter.
+
+The structure end pereneters of the Bettervort filter considered previously
+ere shown in study (9) end besed on the speetrel density velues of the sig-
+nel end noise. In order to determine the ”visible limits of the filter
+ohereoteristics, it is necessery to very the criterion someuret; specifioelly.
+it is predetermined by the required velues of the trensfer function in the
+eree of the useful signel end the noise. The desired filter should procrce
+
+e smell ettemetion of the signel end e prsctieslly ccqlete quenching of the
+noise. in optima filter in this use will serve es s reference. es s theo-
+reticel limit in ecmreoy.
+
+Considering thst the cutoff frequency of the signel daring urine observetions
+is eppreximstely 0.003 He, the ettenuetion previously predaced by the optimal
+filter, thet is 3 dB, not he etteined st this frequency. At the bees fre-
+quency of oscilletion of the ship (shout 0.1 He) the ettenuetion should be
+
+et leest 120 dB. Such noise free long-period oscillstion of the see level
+(1-2 min) which rseches 10-20 lilligel is criticelo consequently, the etten-
+uetion st these frequencies should he et leest 1.0 dB. From the lsrge umber
+of filters which echieve the essigmd ettenuetion velue, let us pick out
+
+those which heve the highest-speed response end cull phese distortions in
+the eree of the useful signel (song with en uneospliceted etmeturs.
+
+Trensfer functions of the lerge cetegory of filters which includes, in perti-
+culer, the Bettervort, Bessel', Chehyshev end other filters my be represented
+in the form
+
+-
+W (s . II —" «5|
+) m ‘+“ . ‘
+
+55
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL "SB ONLY
+
+In the cuss which interests us. the terninels -sJ us close to the virtusl
+axis on the plane s. here it spproxintss (2)
+
+Wm.» fl ._ '11}... m
+I" (I --e"‘ r!)
+
+Thus it is logical to design the filter for the specialised digitul counter
+unit 3mm in the font of s series connection of first order sections. A
+series structure for the filter is prefereble else from the point of view of
+
+stability. A non-:- high-speed response is sohieved with s I s : ...,sI : s
+and consequently the desired filter will consist of identic sec ions.
+
+tum . M51)
+
+    
+
+Fig. 1. Diagram of a First Order Recursive Filter
+
+Key:
+1. Input 2. Output
+
+The transfer function
+
+. T
+Ii (z) 37:”? (8)
+
+is a s-transforn of the weighting function of the aperiodic section H(t) : e’“.
+
+Hith e sufficiently s-sll intervsl of discreteness ‘f and cutoff frequency s,
+the trsnsfer function
+
+I" “i "W ' (8‘)'
+
+describes the siqslest recursive filter schenstioany illustrated in figure
+
+1. As shown in (3). such a filter is extremely easily inleaented. especia-
+ly when a - 2'9. 111s simlicity of ﬁlmntstion snakes it possible to carry
+out antistage filtering by fonds (
+
+Let us consider some of the characteristics of this filter. With the hut
+signs]. x(n‘f) acting on the digitd filter, the output signs). is
+
+R
+“"7: '42 (l--Iz)‘:(n1‘---I'I‘). . (a;
+
+I“.
+
+If x(n‘l') I 1 st e imut‘, then we obtain the transient function
+y(n‘f) : 1414)" . ‘lhe frequency cheraeteristic of en. “R'Snﬁ detsninsd
+by input to it of s discrete uncle; of the sine wsve x(n‘f) = e :
+
+N‘"7)"(l-¢H(n1‘—T)s‘i“7 : "(,1- 6cm"
+_ ’-_‘TT' .
+unr)..|u-l._1e‘m.’_ l-(I -a).~ M
+
+“0)
+
+56
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+where
+“M “It ', (Inn)? «w~u)m«-ul'l""'o
+
+(I ~-1)elluul'
+
++ W MW u‘h-‘TT?’
+
+The periodicity of the frequency is apparent free (10). For a single-valued
+representation of a signal with discrete readoute. its laud-mu frequency w
+lust be less than Jr. If ou f<< 1, then the characteristics of (10) corres-
+pond to an analog systeau such as an no filter with a tine constant 'c I T/a.
+
+During multistage filtering the require-ants for sufficient attenuation with
+a noise frequency of 0.1 Ila will be not practically always and noise with
+1-2 ruin periods will be more critical. In order to achieve attenuation of
+to dB at the frequency ou- 0.ls' , the following tine constants are needed
+for each section depending on the filter frequency:
+
+ 
+
+I\V(I.)l ‘ 0.7 I 0.1:: l 0.00 l 0.53
+
+The transfer constants in the frequency of the useful signal f : 0.003 II:
+are placed on the bottoeu row. It is apparent that the distort on of the
+useful signal with the indicated parameter coabinations does not smeed ac-
+ceptable limits.
+
+The calculations shown indicate that the time constant of the filter and its
+frequency may be varied in rather broad limits depending on the problem at
+hand. As a result of this. the following section tine constants are included
+in the described 31's“): 6.1., 12.8, 25.6 and 51.2 sec, with the snallest tine
+constant intended for laboratory and test unit research and the largest for
+potential extresuely unfavorable conditions. 1n. filtering frequency may be
+adjusted up to u e 10.
+
+Turning to the phase characteristics of this filter, a general observation
+not be suede. It is known that the characteriet'i‘fs of the filter are improved
+considerably by inserting a time delay equal to (s) uhen s : 0. In gravi-
+nuotric surveying, a time delay is perfectly acceptable. Calculating the time
+delay during filtering with variable cutoff, for instance, means that the
+remit of averaging is related to the mean of the cutoff. When filtering
+
+with an no filter section it is necessary to include a time delq equal to
+
+the tisue constant.
+
+57
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+If the phase characteristics turn out to be ideal when filtering with a
+variable cutoff or other filters with a symtrical weighting function,
+phase distortions are inevitable for a filter with a transfer function (3).
+Nonetheless, with a large a the transfer function approximates the function
+of a section with the proper tins delay and the phase characteristics are
+iwroved. This is illustrated in figure 2 in which phase characteristics
+are shown which allow for a shift in In: for the following filters providing
+» identical attenuation in ”agency on 0.lc" .
+
+Since the phase distortions may be ccuputed to be negligibly enall only for
+a signal with a period greater than 1000 see for two-stage filtering, a
+tenth order filter does not produce appreciable phase distortions up to a
+signal with a period of 100 sec.
+
+‘3
+
+V
+'va
+
+ 
+
+Fig. 2. Phase Characteristics of Filters
+l—r =100aec, n:2; 2—1: eZOsec, 3-633—1- :12 sec, ale.
+
+Thus, the examined filter consisting of series connected muesrical analogs
+
+of an aperiodic section achieves a small attenuation and insignificant phase
+distortions in the area of the useful signal and practically couplets quenching
+of the noise. Hith the inclusion of a tins delay, the filter has an order of
+astatisa equal to two, that is upon coepletion of the transfer processes,
+
+the linearly varying useful signal is reproduced precisely (7). The described
+STsVU (fig. 3), like any digital coquter, includes a data input unit (IND),
+
+a unit for output of results (Wk), an arithmetic unit (AU). a train nsnory
+(ow). a read-only memory (P20) and a control unit (W).
+
+Tho input unit is for converting input values to a four convenient for con-
+puting. In this case the irput unit of the S'l'sW is a converter of physical
+values to digital code. The conversion of signals of such paraasters as
+those of TsAG's and taut-wire accelerclnsters are isplstesnted by a frequency
+meter similar to that described in (6). A distinguishing feature is the
+availability of a binary counter in addition to the decimal counter. ‘lhs
+
+58
+FOR OFFICIAL USE ONLY
+FOR Ol’PICMl. "Si-2 ONLY
+
+deciml counter is used for direct meeurements, the binery for convenience
+in osrrying out ccsputing in the STsW. The solutions given by such core-
+puting ere ncre eccncnicel then using e decinel-binery converter. in intervel
+of noesurenents is selected egrel to 0.1 sec.
+
+The output unit is for converting the results of cceputing to e form convenient
+for their mrther use end their output tree the STsiIU. Three toms of out--
+put dete ere included: recording the results 01‘ nemrseents with e discrete-
+nese of 0.1 sec on e tepe recorder. punching the ccqauting results et 10 end
+60 sec intervels end converting the results to enelog fore end recording then
+on on sutesetic recorder.
+
+The eritiunotic unit is cosposed of two per-ts: e counting block {or e sudden
+increeec in greviteticnel force end e filtering block. Computing e sudden
+increese is done by female (1). The difference n - :9 is produced by set-
+ting the biner-y counter initielly to the napcsition th this velue expressed
+in coqolenent torn. Thus, ii‘An is pcsiti it is represented in linesr
+
+fern; if negetivo it is represented in cowlensnt fore.
+
+  
+ 
+
+{E}
+
+Fig. 3. Block Disgren of en STew
+
+Key:
+1. Hein nescry 1.. Dete irput unit ,
+2. Reed-only wry 5. Unit for output of results
+3. Arithmetic unit 6. Control unit
+
+The codes k1, k2,-no ere set up in binery tone by speciel switches.
+
+All erithnetic operetions ere perfumed by seriel codes which signifies the
+unit design end takes it possible to inprove the structure's flexibility end
+the moduler- design of the digits]. circuits. The edcpted representeticn of
+muebers in cleencnt torn corresponds best to inlenenting the digits}. unit
+with seriel er'ithsetic, since sddition operetions any be cerried out beginning
+with low-order- digits without previous knowledge of the mnbsrs end without
+Inter correction or the sures cbteined es in the ceee of reverse code.
+
+The seriel irput eccumletcr for edding numbers in cowlenent fern is extreme-
+ly eiwle in design. It consists of e couplets binery edder with e deley in
+one digit for trensterring e csrry to the imut.
+
+For echieving e high level of scour-soy of ccsputing, mltiplicetion is done
+by reteining ell the digits of the product. This is possible beceuee the
+
+59
+FOR OFFICIAL USE ONLY
+FOR OVNCIM. USE ONLY
+
+velues of the ope rends ere not independent. due to the nee of the oelouletion
+in the freqaonoy ION? without the loss of the counter pulses.
+
+The filter is imloeonted in the previously coneidond cone (see fig. 1).
+consulting is done by e recursive for-us resulting from the trensfer function
+
+(0).
+v(n1'+ 1‘)-u(nT)-—av(nr)+oz(nr+1'). (H)
+
+Here. the rum version presented in (3) is used in uhioh map licetion
+to the fector e - 2'9 1. roplecod by e shift toq digits which siqiifios
+the filter circuit oonsidorebly. For-Inn (11) using ooriel erithnotio eekos
+it possible to construct e filter with only one resistor in oontrest to the
+circuit shoun in (3).
+
+The SToVU memory is not isoleted stmctureny in tho form of e soperete unit.
+The rectors k 1,1:2 end n ere stored in tho nod-Only notary. The oein memory
+is enoceted end cosposgd of resistors in tho comter end filter.
+
+“to control unit produces tho control signels needed for colputing. A clock
+frequency of 10 he is preset by e crystel oscinetor end tho froqionoy divi-
+ders of the input unit.
+
+ 
+
+Fig. 1.. Frequency Cherectoriotios of tho STsVU Filter
+l-In:l.; 2—e:6.
+
+Tho 81's!!!) is constructed of integretod eicrocircuito. Indeed. their use hes
+trade it possible to develop on effective instnmont of this sort. 'lho fro-
+queney cherecteristics of the S‘l‘sVU, the trenoient end weighting functions
+hove been plotted char-in; leboretory rsseerch. Although the porfomnce of
+the filter is described comletoly by era of those cherecteristice, it is
+more grephic to use e11 three for eneJyzing the corresponding frequency,
+tine end phese chersctoristics of the oysten.
+
+60
+FOR OFFICIAL USE ONLY
+V00! HH‘ICIM. USP. ONLY
+
+ 
+
+Fig. 5. Transient (a) and weighting (b) Functions of the Filter
+l—In:l.z d—a:6;3-n:8: t—ealo.
+
+The frequency characteristic of the 31‘s“) is plotted in the area of noise
+with the period 1‘s for the tine constant to 6.1. sec and Is I I. and 6 (fig.l.).
+For large time constants and rates of acceleration it is inpossible to ana-
+lyse experimntally the value of the noise at the output of the filter. ‘lhe
+plotted characteristics coincide with the theoretical, mich attests to the
+accurate operation of the filter's digital circuits.
+
+Although the characteristics of digital filters are calculated with a high
+level of precision, nonetheless it is interesting to study the system of
+gravilseters: filters for signals which eimlate a gravitational field up to
+periods of lOOO-ZCDO see with an enlitude to several tailligals.
+
+Transient processes in the enained 81's“! (fig. 5) say be characterized by
+the following values: the duration of the transient process, that is the
+time from the lament of input of the signal l(t) to the nonent when the sig-
+nal reaches the value 0.99 at the output, the tile delay from the meant of
+reaching the 0.5 level and the tile for the gain to equal l/y(t)m.
+
+The dependence of these characteristics on the filter frequency (fig. 6) for
+the ties of the transient process and the delay ties with u>t is practically
+linear, mile the delay time is equal to at . The delay tins with large
+frequencies depends on a slightly. 1he weighting functions plotted experimen-
+tally (fig. 5) coincide with the theoretical as defined by the fomtla
+
+rollf‘n-l
+(es—iﬂt’m.
+Note that with an increase in the filtering frequency the weighting function
+
+become ever cons synetrical which corresponds to the conclusion on the
+ieproveaent of the phase characteristics.
+
+”I (I) v.
+
+ 
+
+61
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL IISH UNIX
+
+ 
+
+Pig. 6. Charecterietics of Transient Processes
+l-tine of the transient process, 2- delay time, 3- increnent time.
+
+The stated theoretical and experimental data allows the following conclusions
+.10 b. dame
+
+l. 1he described S‘l‘eVU has lads it possible to record both a digital
+and an analog fora of the value of gravitational force, filtered out from
+noise related to vertical accelerations by means of the operation of high-
+speed response grevinetsre.
+
+2. The use of an Stew makes it possible for an operator to analyze the
+gravineter operation and the nature of the gravitational field right at the
+tins of the observations and to correct the filtering parameters depending
+on the conditions of the observations.
+
+BIBLIOGRAPHY
+
+l. Veselov. K. 3.; and (New, 6. 3. "A New Digital Automated Gravineter
+mo of the All-Union Scientific Research Institute of Geophysics,"
+Human-912m. Issue 66, Moscow, Nedrs. 1972.
+
+z. Gold, 8.; and Reyder. c. “Digital Signal Processing," Moscow, $VBTSKDYE
+RADIO, 1973.
+
+3. Comets, N. ".3 and Staklo. A. 8. "Method: of Linear Filtering for
+Digital Gravinoters," Moscow, Isd. VINI‘I'I, No lath-70, 1970.
+
+62
+FOR OFFICIAL USE ONLY
+1..
+
+6.
+
+10.
+
+ll.
+
+Losinekeys, A. 11.; Famine, 2. 1.; end Yeshcheyev, I. L. "Aemgrevinetric
+Device bend on Teutéwire Detectors," PRIKLAWAYA .FIZIKA, Issue 70,
+Moscow, Neda, 1973.
+
+Bobrov, In. v.; mummy, A. 7.; Gisdun, v. A. end others. ”Opredeleniye
+sily t uhesti nu more" notemining the Grevitetionel Force in the
+Ocean , Moscow, Nedn, 1970.
+
+Ivenkin, L. 6.; Simkov, V. 8.; Stsklo, A. V. and others. ”An Emeriment
+in Detained Grevinetric Surveying by Tut-wire Grevineters in tho Blsok
+See,“ 12V. AN 3833 SBR. FIZIKA MI, No 9, 1971..
+
+Pugschev, V. 3. (ed.) “Osnovy evtousticheekogo upnvleniye" [Dues of
+Automatic Control], Moscow, mm. 1967.
+
+Penteleyev, V. 1..; Zhivitskm, I. N.; and Isulkhodsheev, 8. K.
+
+“Analysis of the Statisticel Chsmterietics of en Agitation Accelero-
+meter,“ lDRSKIY mammals IWVANIYA, Issue 10, Moscow, Isd. mu,
+1969-
+
+Steklo, A. V.; Sinkov, V. 3.; end Kossove, K. A. "Gravitational Signal.
+Noise end e 3mm, of the Filtering Method using Gnvimetric Hemrement
+in the Ooeen," Moscow, Izd. VINI‘I'I, No 157-71., 197a.
+
+mlin, V. A.; and Osinsque, 3. V. "Marine Gravineter with Automated
+Readout," in ”Appemtun i netody imreniye s11: tmhesti ne more"
+[Iquipaent and Methods for Measuring Gnvitstionel Force in the 0ceen_7.
+Moscow, Hanks, 1970.
+
+"Tsifrome obnbotks signeiov" [Digits]. Signsl Processing], Moscow,
+"IR, 1975.
+
+comm: Izdetel'stvo "Nedrs," 1973
+
+891.5
+cso:
+
+811.1. / 0851.8
+
+63
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+GBOPHYSICS. ASI‘ROIDHY All) SPACB
+
+unc 532.42
+PIRSI' RESUIJI'S 0F SCIENTIFIC mums 0N 'vammv All.) 'vmmdz'
+Hoecov PIS'HA V momentum umamu. in Rneeien ‘Id 5, No 1.1979 pp 1-7
+
+| Text I Soviet interplanetary automatic etatione "Venera-ll" and "Venue-12."
+V. L. Barmhov. V. c. Zolotukhin. V. M. Kovtunenko. end ll. 2. Sagdeyev.
+Soviet interplanetary autonetic etatione "Venue-ll" end "Venue-u" are
+cloee in deeign to "Venue-lo.“ however they were equipped vith coupletely
+different inetrmente. The expert-emu conducted during the deecent of the
+
+etatione into the Venutian eteoephere were eined et etudyim three lein
+prohlm:
+
+a) Fine chenical analyeie of etnoepheric geeee;
+b) Nature of clwde;
+
+c) Theml balance of eucephere.
+
+Below ie a liet oi the inetn-ente deeianed to nutty the etnoephere. end the
+prohleee for which the intonation obtained vith their help ie inportent are
+noted in parentheeee:
+
+l. Pku-epectroneter (e. b).
+
+2. Gee chraatogreph (a, h).
+
+3. Optic epectrcneter and photaeter (a. b. c).
+
+6. Nepheloueter (h).
+
+5. X-ray fluoreecent epectraneter (h).
+
+6. lnetrunent to neaeure electrical activity of etnoephere (h. c).
+
+In addition neaeuruente were neck of tapereture. preeeure end eerodyn-ic
+6-forcee. All the expert-en“ uere eucceeeful. lelov ere the tint reporte
+of their reeulte. The detee of launching. lending. coordinetee of the lending ,
+pointe. zenith dietence o: the eun et pointe of landing. ee well ee the pree-
+eure and tnperature et the tux-face are ee follow:
+
+"ere- l l” "Venere- l2"
+Date of launching 9 October, l978 llo October. 1978
+Date of lending 25 Deccher. 1978 21 heater. 1978
+Latitude ~13° .70
+Longitude 300° 29a°
+Zenith dietance of eun 19° 24°
+Temperature on eurtece 733 743K
+Preeeure on eurfece 92 at. 90 et-
+
+6’.
+FOR OFFICIAL USE ONLY
+mm "FFICIAI. "SI-2 UNLY
+
+The flight epperetue of the interplanetary eutoeetio etetione "Venere-ll” end
+"Venere-lZ“ etter eeperetion o: the duacvnt Vclulclc peeeed the plenet
+et en eltitude of ehout 36.000 In. They provided retrenenieeion of infor-
+eetion Im the derunl w-hlclo. end eleo cerrled e eet of eclentltic
+lnetn-ente deeisned to etudy the upper etneephere o! Venue (UV- epectroeeter.
+eee below the report on the rewlte). eoler vlnd. coo-it eoureee of me-
+redietion. In the prooeee of properm end teeting the eet of ecientitic em-
+retue e eyete- wee eet up for expreee prooeeein; of eclentitic lntonetion
+thet lede it poeeihle to repidly prooeee dete fro- the flidit end descent.
+
+vvh Ir l r .
+
+Heeeurenente o! chenicel end ieotope conpoeition o! etnoephere with e we-
+epectroneter. V. G. Iota-in. It. V. Grechnev. V. A. Kochnev, V. A. Pevlenko.
+L. N. Ozerov. end V. G. Klinovitekiy. (II the dcnccnt vehicle of "Venom-
+
+ll” end ”Venere-lZ“ neee-epectruetric eeeeureeente were nede on the eteoe-
+pheric conpoeition. In both enpertnente leee-epectruetere were ensued et
+eltitude ~26 h. end opereted ell the vey to lending o! the epperetue. A
+conperieon of the neee-epectre fro- the two epperetue ehove the coeplete iden-
+tity of the findinge. The eein cherecterletloe of the uployed nee-epectro-
+netere ere ouch thet the renge tron ll to l0: m ie ecenned in 7 e. whereby the
+reeolution et level 0.1 peek “~35: the the for teklng e gee enplo le icoe
+then 5 x 10'3 e. frequency of e-plluuouce in 3 nlmtee. A totel o! 22
+euplee vote teken end ehout 200 nee-epectre were tron-itted to eerth.
+
+M e rueult of the neeeur-mte it wee eetebliehed thet in edditim to the
+eein coeponent- .coz the Vemtlen etnoephere hee e coneiderehle quantity of
+nitrogen (ebout 5 volt). The Ieeeoepectraeter eleo detected (no e nell coupo-
+nent) veter vepor (e eurplue et peeke 17 end 10 m); there ere lndlcetione of
+the preeence of chlorine in conperehle nounte (et 35 m). eultur (exceee et
+peek 32 an. end poeeihly. coepounde conteinlu chlorine end eullur.
+
+The isotope conpoeltion of cerhon neeeured fro- retioe of peeke 13 end 12 m.
+vlth error ebwt 101 correepdnd to Eerth'e (”c/12%.: x 10-2).
+
+The me-epectraeeter eleo recorded ergon ieotopee (36. 38 end 40 w). neon
+
+(20 m) krypton (86 m). The may c t of ell the erson ieotope ~-
+ehout 1038/0. content 01 neon -20--ehout l0‘ IO, end krypton-Blows x lO'zo/o.
+
+The isotope caepoeition of ergon in the Venutien etnoephere reveele e etrons
+enmely in coaperieon to the ieotope capoeltion of ergon in t Berth'e
+eteoephere: en ehundence of. "eecondery‘ (rediosenlc) ieotope Ar in the
+”nugget! of Vewe equel to the emery ehundence of "ninety“ leotopee of
+
+Ar, . Reletively the ebundenoee of both ”pri-ery“ ieotopee of ergon in
+the Vewtien etnoephere. on the other , egree well vith thoee for the
+ergon ieotopee of ‘erth'e eteoephere ( Ar/33Aw5).
+
+Anelyeie of denial coupoeition of Venutien et-oephere by cu-chraletogrephic
+lethod. B. G. Gol'lnn, V. C. Zolotukhtn. V. V. Keukov. N. I. W. A. I.
+Llpetov, B. V. Levchuk. L. H. mm. D. P. Neneroltov, B. P. Okhotnlkov, A. V.
+Slnel'nlkov. V. A. Rotin. and V. l. Khokhlov. The enell-elted get chm-ete-
+greph "Sim" wee inetelled eboerd the Soviet mtonetic etetlone ”Venue-ll"
+end “Venue-12" for chenlcel enelyeie of the Venutien etnoephere.
+
+()5
+
+FOR OFFICIAL USE ONLY
+FOR IWPICIM. IISI‘Z "MN
+
+The nain feature oi the given chronatographuuse of a special ionization
+detector in which the adnixture to be analyzed is ionized by eetastable stone
+of neon. In the beginning of the neaauring cycle the chroeatograph conducted
+a "dI-y” analysis. verified its efficiency with the help of an electrical
+test-signal, and carried out calibration with the help of a control gas
+nixture. A special device for taking in the saeplss excluded the entrance
+into the instmant of foreign abirturas associated with the functioning of
+the releasable apparatus.
+
+with the help of the gas chrasatograph "Sign" nine analyses were node of
+samples of the venutian atnosphere. kprsss processing of the findings shouted
+the presence in the atnoaphare besides CO (nain couponent) of a whole
+
+mnher of geasso-nitrogen Mt). argon (~ .6 r 1040/0). and carbon nonouds
+(several thousands of a percent). Band on the analyses eade one can drav e
+prelininary conclusion about the presence in the Vemtian ateosphere of sulfur
+coepounds (including 502 on the level 10'2 volt-attic percents).
+
+Spectrophotoeetric study of scattering and absorption of solar radiation in
+the Venutian etnosphere. Yu. H. Golovin, V. I. Horoc. 3. Ya. lloshkin. N. A.
+Parfant'yev. N. l’. San'lro. end A. P. nonuov. 0n the dvsﬁ‘nt which
+
+after opening of the parachute every l0 s with the help of an instruent aspec-
+ially created for this purpose the spectra: of the diurnal Vewtian sky was
+recorded in the range fro- lo.500 to 12,000 K. and the angular distribution of
+brightness of scattered radiation for filters: 6.900. 1,l00. 10.200. and ”.000
+A (effective wavelengths). The spectral channel of the inatruent provides
+resolution of UM =30. phetuaetric Mil“, vith amulet resolution of both
+channels about l5°. Study of the spectre of the Vemtien diurnal sky on the
+Soviet releasable apparatus was carried out for the first tins. on ”Pionor-
+Venus" this teal: was not set up.
+
+The findings (about 500 spectra and angular scans) dancmtrated a gradual
+change in the distribution of energy in the spectrum for scattered solar radi-
+ation as the spacecrafts entered deeper into the atnosphers. This change was
+governed by aerosol scattering (on particles of clouds). gas Rayleigh scat-
+term and absorption in absorption hands belonging to 002 and "20. In the
+spectra obtained directly true the surface and near it deep bands._of (:02 are
+mm. (0.000, 3.700. 10,500 K) and ”20 (£8,200. 9.500. 11,400 A). A
+
+broad region of true absorption. aa yet unidentified. is observed at these
+9mm.- m the interval mono-5.500 x. In the interval fro- 6,000 to 3,500
+A the intensity of scattered solar radiation free the height of parachute
+opening to the surface is reduced roughly 10-fold; within the cloud layer--
+only 2-fold. The lower border of clouds is located et altitude about 68-50 ha,
+and near it the volu-etric scattering coefficient is the mil-In.
+
+As a result of an analysis and interpretation of this naterial it is proposed
+that data will be obtained on the chemical conposition. structure of the cloud
+layer and thereel balance of the ateoaphsre.
+
+Studies of aerosol canponent of the Venutian eteosphere. H. Ya. Harov. V. N.
+Labedev. V. Ye. Lystsev, and K. K. Hanuylov. The back-scattering nepbeloeeter
+
+66
+
+FOR OFFICIAL USE ONLY
+inetelled on the tlvm'.vlll vchlclc ie e eource of noduleted frequency for
+has of eoundiu redietion et wevelength 0.92 n with helt width 0.0l3 e for
+the level 0.5. end photo-eter- recording thie redietion ecettered by the
+externel nedit- into the reer heeiephere in the renge o1 englee l74¢l00° thet
+ere united into e eingle block.
+
+According to the reeulte o! e prelieinery enelyeie of the obteined intonetion
+the conclueion wee confined thet wee node on the beeie of nephelonetric neee-
+ur-ente on "Venerv’" med “Venue-10” on the poeition of the lower border of
+cloude et eltitude ebout at.» h. The cloud cover neer the lower border
+(between 40 end 51 In) either poeeeeeee imreeeed optic denoity. or here
+
+lerge perticlee with high refrection index n begin to nehe e noticeeble contri-
+bution. Below the cloude the etnoeplnre ee e whole ie ieirly treneperent.
+however there ere regione where due to the preeence of eeroeol the enount of
+beck ecettering intreeeee. beeidee the ereee oi eeroeol thet we proviouely
+noted neer llo-l'l he one can ieolete e einiler region between 5 end 10 h.
+
+Beeod on the nodel thet we propoeed (lerge eeroeol perticlee with enell r”;-
+2.5m. meld-2.0 end lull wolmetric concentretion N~l-2 cl'3) one cen hypo.
+theeize thet the eeroeol under the cloude. like the eeroeol neer the lower
+border of cloude ie perticlee of eulfur (n-l.9). With egreee with Young'e
+theoreticel nodel. At the one tine with regerd for the eitectiveneee of
+exheletion of voletile eubetencee with e high eurtece tenpereture end the
+probebility of their condeneetion in the etnoephere et diiierent levele it ie
+inpoeeible to exclude the possibility of enother identification of the detected
+locel regione of eeroeol in the lower etnoephere o! the plant.
+
+Experiment "Groze." L. V. Keenfoneliti. 0. P. Outpenteerove. Ye. V. Petrove.
+end A. P. Suvorov.‘l‘he cut of the experiment wee to etudy the electricel
+ectivity of Vemtien etnoephere. A long-wave epeetn- enelyur wee need with
+renge 8-l00 kn: with en externel entenne. It hed en ecouetic chennel with
+externel m-murr.
+
+The electronegnetic tielde of en inpulee neture found during the deecent of
+”Venere- l2" hed degree of inteneity loo-250 uV'In et 10 hli: and 20-30;;Wn et
+
+lb 101:. The innuleee were grouped into two eeperete pechegee end were locking
+between then. At eltitudee below 2 k- end on the eurtece the nplitude of the
+i-puleee wee very low.
+
+A conperieon oi the reeulte obteined by the two epperetue thet hed einiler
+rantee ehowed thet the phenonene eeeocieted with the novueent end electrifi-
+cetion of the epperetue were ineigniticmt. Only one group epprouinetely
+node of 103 inpuleoe et eltitudee 5-11 h coincide. In the niddle of the
+deecent of "Veneredl" for 13 ninutee e lerge group of inpuleee wee recorded
+(up to 25 imp/e) with field intensity up to 700. I30. 40 end 6 “VII et
+frequnciee 10, lb. 36 end 80 Hi: reopectively. The felling epectrel cherec-
+terietice eekee it poeeible. upon enelogy with Earth's etone, to coneider
+
+the source feirly dietent. Another group of inpuleee emrently belonge to
+e source with enell enguler dineneione.
+
+The e preliminery enelyoit of the expert-eat“ reeulte neket it poeeible to
+hypotheeizo thet the recorded inwleee of the field ere linked to proceeeee
+
+67
+FOR OFFICIAL USE ONLY
+in the Venution stooaphoro. The frequency of succession of inpulsea greatly
+exceeds that observed during Barth's atoms. Below the level 2 he and on the
+surface of the planet the field intensity drops sharply: it is not excluded
+that the lower layer of tho Vonutian ataoaphore has a strong screening effect
+in the range 3-100 hllz.
+
+The acoustic channel during descent of the apparatus recorded an asrodynaaic
+noise with level over 88 db. wring landing the noise ceased. after which
+there were individual impulse sounds linked to the operation of the apparatus.
+In 32 oinutea after landing of ”liners-ll" a sound was noted with level about
+82 db of an unknown origin.
+
+Study of scattered ultraviolet radiation in the upper Venutian otnoophoro fro-
+tho flight apparatus. 2h. 1.. Borto. an. E. Blown. V. 6. Kurt. A. S. asirnov,
+and N. N. Ronanova. To study tho scattered ultraviolet radiation in tho upper
+Vonutian atnoaphoro a multiple-channel diffraction spectroIaotor to record
+ainultanooualy radiation in lo spectral channels in tho region of tho spectru-
+fron 300 to 1,657 K was installed on tho flight apparatus. The optic axis
+
+of tho spectrometer was oriented roughly in an antiaolar direction and stunned
+tho illuainatod disc of tho planet during tho near-planet session of ooosure-
+nonto lasting over 2 h. The apparatus passed a distance 100.000 to (6.6 radii
+{rm the cantor of tho planet). and tho angular dianotor of tho planet was
+17°. The optic axis ~ of tho apectraoter scanned tho Valuation disc alnoet
+along the diooter: tho uni-n distanco fra- tho conter of the planet was
+3.4 and lo.5° (for "Venue-12“ and “Vonoro-ll" respectively). At the and of
+tho session tho visual bean passed a distance 3 radii tron tho center of the
+planet.
+
+In the channel “.216 A (III) the rise in,.ths signal was noticablo throughout
+the entire session, in the channel A586 A (list) there was also a certain rise
+noted in tho signal for iron tho planet. In the other channels the signal
+differed fro- the level of tho backgromd only during sighting of the planetary
+disc. The table presents the rates of. counting (in un. inp/s) tor the back-
+ground and illuninatod disc. as wall as the ratio of those counts.
+
+"ugh I .."'e I i..\ | 19-1.)- I n. |(3)'.1"e
+
+  
+  
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+I, \ "do-sin
+:Im “.44- r..:. HUI um .91.‘ Icon 40
+mi 2.6» It." 3.7.7 11m" 2.!“ 60 :«J.
+1:u'. :u‘. u :|.u.'. Ifm 2.45 5.2 2.33
+Kll Ln 2| 4M um 2.32 3.7 1.50
+mm in.“ an HIS
+Key:
+1' "background 2' t‘disc: 3° “d/“b
+
+In order to determine the intensity in the selected lines of the opoctmn
+
+it is necessary to consider the scattered light inhtho apoctronoter that nainly
+surges from the radiation lines H.216 and l,300 A. The naximn of instru-
+nent sonsitivity is reached near 800 A (about 1 i-p/s for l Rayleigh). on line
+Al.2l6 A the sensitivity drops to l lop/a for 10 Rayleighs.
+
+68
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Tho noon-out doto ohtotood tro- tho two otottono oro in good mt
+vtth oooh othor.
+
+Study of ootoool of tho Vomttoo cloud loot. Yu. A. Suthov. F. P. Ktnooov.
+V. &. Khrtottooov ,v. I. Gut-'yonw. V. N. Gloxov. B. N. Kmhuunov. on] A. 0.
+mo. on tho unto-out tntorplonotory ototton "Vonoto-u" for tho “rot
+tho on otto-pt woo Iodo to dotoutho tho olo-ont coopoottton o! ooroool tn
+tho Vomtton cloud Igor with tho holp of on x-toy-ﬂoutootont onolyoor.
+
+Tho tutu-oat cmuto ot o dotootor block ouch voo tootollod outouo tho
+honottcolly ooolod oodnlo of tho dcuccnt vehicle. ond oulttplo-chomol
+onolyoor of topaloo qlttudo plocod “this: tho hot-otttolly ooolod “IO.
+Tho dotoctor block contain: o) Molyttcol oocttan in which o tutor for
+collocttng ooroool, oodtooootopo oourooo ond dotootoro o! ﬂuoroocont nou-
+ttoa on lototod; h) Bloctroutc ooctton oootomm Mutton, out! .911-
+ftoro. povor oourcoo ond oo forth; c) Mumporchonoo to pup otooophoto
+through ood oottlo ooroool on tho tutor. Tho mlttplzochonnol onolyoor of
+topoloo uplitudo hoo 256 chomlo with «putty of 21 topulooo to oooh
+chonnol. It to dtvtdod into 2 oocttouo of 120 chomolo oooh 1n Mch “polo
+onto: fra- 2 dotoctoro. Tho {trot moo-do tho opoctm o! fluoroocont rod:-
+otion outtod tn tho ooroool by tho tootooo ooum of tron-55. tho mood--
+by tootopo oourco o! cotton-109.
+
+Tho mun-out opototod on tho oopont of tho porocluto doocoot o: tho otottoo
+tn thoVomttn otooophoro ot oltttudoo oppratootoly ha 60 to lo: loo ohovo
+tho outfoco. mm; tho poooogo of thto ”pout ohout l o3 otooophoto voo
+n-pod through tho moth-out. swam” vtth oottun of tho ooroool
+
+on tho ultor 1t voo irratotod by radio-note” ooumo and tho opoctro of
+tho outtod ﬂuoroocoat rodtottn no mordod.
+
+Homo-onto Ioro oodo o! 2 opoctto to tho tongoo of ooorg to. A to 7.5
+kw, ood tra- vl.5 to 15 hoV. on! o than no oloo “cordon to tho roto o!
+couattnc dorm tho mutton o! ootoool ond mono-oat of opoctro.
+
+Accordion to pun-nary doto tho poooooeo o! chlottno no tom! to tho coopoo
+otttoo o! uroool. ad tho prooouo of outta: no not goo! Ihuo tho
+prooomo of oomry on o qooottty motor thou 1 x 10' glen no «cloud.
+
+Rocotvod 3 Jomoty. 1979
+comma: lodotol'otvo "mu." ”Pto‘oo v m." 1979
+
+9035
+690: 1870
+
+69
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+PﬂYSICS
+
+00C 621.375.826.038.823
+
+mvasncwrmc run uoxsr canacrsnrsncs or an opncu. mamas
+m A xs-ns uzx'wne (A - 3.51 microns)
+
+Moscow RADIOTBKHNIKA I ELEKTRONIKA in Russian No i, 1979
+signed to press 12 Sep 77 pp 91-94
+
+[Article by V. P. Logvinov, I. P. Mazan'ko and V. A. Tsar'kov]
+
+[Text] The results of investigating the noise
+of a receiving system, consisting of a photo-
+detector and sectional single-mode optical
+amplifier with high amplification factor (on
+the order of 107) are reported. It is shown
+that the noise introduced by the optical
+amplifier is technical in nature and the
+modulation noise is considerably less than the
+additive noise with input laser signal power
+less than 10'12 H. The pnotodetecting system in
+the frequency range from 10 to 100 kn: had a
+
+threshold sensitivity on the order of l0'15
+w/uzl/z.
+
+One of the most important characteristics of a weak signal
+optical amplifier (00) is the noise introduced by it. The
+additive noise of OU spontaneous emission impinging on the
+photodetector and so-called multiplicative or modulation
+noise are distinguished. Estimates from the results of
+previous investigations show that natural additive noise of
+
+a xenon-helium amplifier of special design (optimum by noise)
+ll. 2] has a value on the order of 10-17 H/ﬂzl/Z, which is
+considerably less than threshold sensitivity of standard
+infrared photodetectors. However, available data on the noise
+characteristics of ianon-helium 00 [3, 4) are usually
+
+70
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+qualitative in nature and do not permit one to make specific
+conclusions either about the capabilities of these 00 or about
+the nature of their natural noise. The results of investigating
+the noise of a xenon-heliuu on, which has a high aaplification
+factor (K approximately 5 - 105) are outlined in this paper.
+
+The investigations were conducted on an installation whose
+diagran is presented in Figure l. The emission of xenon-helium
+laser (optical generator 06) operating at a wavelength of 3.51
+nicrons. passed through a glass attenuator O. latching lenses
+
+L1 and 52 and entered the optical aeplifier 00. The anplified
+emission was detected by a photodetector FP. as which a photo-
+resistor. cooled to nitrogen temperature. based on indium
+antimonide with threshold sensitivity of 6'10‘11 w/ﬂt1/3 at a
+frequency of 100 kuz, was used. One of the mirrors of the
+probing 06 was placed in piezoceranics PK. which Iade it possible
+to readjust its frequency: the output emission was modulated by
+
+a mechanical breaker P. The OU operated in a single diffraction
+node Ill and consisted of two stages K1 and K2, latching between
+which was acconplished by a lens L4 and diaphrages 01 and 02.
+Lenses L, and L5 for-ed the input and output beans, respectively.
+The photoresponse voltage was amplified by a preanplifier Pu and
+was fed to the spectral analyzer AS input.
+
+ 
+
+Figure l. Diagra- of Experimental
+Installation.
+
+71
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The spectra of the photodetector noise. caused by spontaneous
+nsission of the 00 and by the amplified laser signal. are
+(hown in Figure 2, a. The spontaneous enissivs power of the
+OU inpinging on the photodetector had a value of approximately
+5 pw. while the intensity fluctuations of the probing 06 (with
+power of the last order of several sicrowatts) were negligible
+over the entire range of investigated frequencies. It is
+obvious that all the graphs have sharp rises in the region of
+30-40 kuz and approximately 70 kHz, apparently caused by the
+presence of regular plasma oscillations (strata) in the
+discharge.
+
+The spectrus of the discharge current fluctuations of the first
+stage K1 is shown in Figure 2, b for cosparison. It is easy to
+note the specific correlation between the spectra and Figure 2,
+a and b (for current of zlnA). We note that the spectra of
+spontaneous emission fluctuations and the spectra of current
+fluctuations of the second stage have no sharply marked rises
+at typical frequencies.
+
+  
+
+su- 0'5 and”
+5
+‘
+DAM 01
+l
+I
+, M3» :m
+am an
+u.n‘”" ”W
+C“ Wk-O .
+0 w w ﬂ' n Intuw 0 . b (an
+a
+
+Figure 2. Spectra Reduced To 00 Input of Noise (a)
+And Discharge Current Fluctuations Of First
+Stage (b). The nusbers near the curves
+indicate the input laser signal power "vkh
+(a) and the value of the first stage discharge
+current (b). The second stage current is lOnA.
+
+72
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The shape of the spectrum and the absolute value of the spectral
+density of noise are strongly dependent on the first stage
+discharge current of the 00 (figures 2, b and J). The
+dependence of the signal/noise ratio on the values of the
+discharge currents of the stages are shown in figure 3.
+Reception was accomplished at a frequency of 1 has (the
+mechanical cut-off frequency of the 06 signal) and the radio-
+amplifier band comprised approximately 60 us. figure 3 shows
+that the maximum amplification is shifted to the range of
+
+high currents with respect to the maximum signal/noise. i.e..
+
+esplification is maximum in the region of a sharp increase of
+plasea fluctuations.
+
+An increase of input laser signal power leads to an increase
+
+of amplifier noise due to modulation addition.(?igures l and 4).
+Measurements at a frequency of 1 has showed that the modulation
+noise increases, as one would expect. in proportion to the
+
+input laser signal power (with variation from 10'14 to 10"11 H)
+and it is comparable in value to additive noise at power of
+approximately 10‘12 K (Figure 4). The further increase of
+
+input signal power (fron 10'11 to 10'9 u) did not lead to an
+increase of modulation noise due to amplifier saturation [5].
+Moreover. the total amplifier noise level even decreased due
+
+to a decrease of additive noise. since the latter is the product
+of the spontaneous eniesive power of the effective source
+located at the beginning of the 00 by its amplification factor
+for spontaneous emission [S] (the latter was saturated by the
+laser signal). However, a drop of 2! amplification occurs
+
+sore rapidly than a decrease of ncise since the saturated 00
+
+has worse noise characteristics compared to a linear
+(unsaturated) on.
+
+The results of the investigations per-it one to make the
+following conclusions.
+
+73
+FOR OFFICIAL USE ONLY
+FOR OPVICIAL USE ONLY
+
+   
+
+”ha
+
+Figure 3. Dependence Of Signal/Noise Ratio On Discharge
+Current: a-of second stage (Hvkh - 2.0-10"1 w,
+the first stage is switched off) and b-of the
+first stage ("vkh . 1.7.10'13w, the second stage
+current is 8.5-h). The dependence of amplifi-
+
+cation on current (in relative units) is shown
+by the dashed line.
+
+KEY:
+l. Siqnal/noise.
+
+l. The noise of a photodetector plus xenon-helius 00 syste-
+uas detersinsd in the given case primarily by plasma paraseter
+fluctuations. Local fluctuations (along the discharge length),
+which lead to relatively deep modulation of the intensity of the
+
+spontaneous eaission source, apparently have the most signifi-
+cant effect on 00 noise.
+
+2. The spectral density of the additive noise of a xenon-
+helium 00 with high amplification (on the order of 70 d8)
+comprises a value on the order of 10"9 W/ﬂzl/z. which exceeds
+
+the threshold sensitivity of infrared photodetsctors by sore
+than an order.
+
+win-vi"
+
+'F/ﬂ
+’0! OPPICIAL USE ONLY
+
+Pigure 4. hodulatlon Noise Reduced To 00 Input As A
+Function 0! Input Laser Bmissive Power M vkh'
+
+The additive noise level is shown by the dashed
+line.
+
+3. The shape of the spectrum and the absolute value of the
+spectral noise density of the 00 are considerably dependent
+on the values of the discharge currents at the stages and the
+optiaua signal/noise ratio does not coincide with the saxisua
+amplification as a function or current.
+
+4. Modulation noise is significantly less than additive noise
+
+at input laser signals with power less then approximately 10'12
+“O
+
+5. The linear operating node of an 00 is preferable since a
+nonlinear optical amplifier has considerably worse noise
+characteristics.
+
+In conclusion the authors feel it their duty to express deep
+qratitude to Yu. V. Denisov (or fruitful assistance in the
+paper and participation in discussion of the results.
+
+BIBLIOGRAPBY
+
+l. Logvinov, V. I. and V. A. Tsar'kov, KVANTOVAYA BLSKTRONIKA,
+Vol 3, 1976.
+
+2. Logvinov, v.1. and V. A. Tsar'kov, KVANTOVAYA BLEKTRONIKA,
+Vol 3, 1976.
+
+3. Kluver, J. U., J. APPL. PHYS., V01 37, 1966.
+
+4. Kuznetsov Ye. P. and I. P. Hazan‘ko, 2H. PRIKL.
+SPEKTROSKOPII, Vol 7, 1967.
+
+a. Hazan'ko, I. P. and H. V. Sviridov, OPTIKA I SPBKTROSKOPIYA,
+Vol 23. 1972.
+
+COPYRIGHT: lzdatel'stvo 'Nauka'. 'Radiotekhnika i elektronika'.
+1979
+
+6521
+
+cso:8144/0323 75
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+PHYSICS
+
+UOC 621.375.826.038.823
+
+INVESTIGATING THE NOISE OF A DC DISCHARGE PLASMA IN AN OPTICAL
+AMPLIFIER OPERATING IN A MIXTURE OF NE AND XE
+
+Moscow RADIOTEKHNIKA I ELEKTRONIKA in Russian No l, l979 signed
+to press 12 Sep 77 pp 95-98
+
+[Article by V. I. Logvinov, N. I. Resnichenko and V. A.
+Tsar'kov]
+
+[Text] The results of investigeting the noise
+of a Dc discharge plasma in an opitcal amplifier
+operating in a us-xr mixture are reported. It
+is shown that the Dc discharge in a na-xa
+mixture is characterized by the presence of a
+zone of reactiveoscilletions(at low currents),
+strata (at high currents) and anoscillation-
+free section (in the intermediate region of
+currents). The current boundaries of the
+oscillation-free section are constricted with
+
+an increase of filament voltage. When the
+strata are excited, they are amplified in the
+direction toward the cathode and the local
+percentage modulation of the lateral spontaneous
+emission in the visible region of the spectrum
+may reach 100 percent. The strata had the
+following characteristics: wavelength of
+approximately lcn, frequency of approximately
+30k": and phase velocity of approximately lo‘cm/sec.
+
+The optimum quantum noise level for two-stage design noise for
+xenon-helium opitcal amplifier (00) (A- 3.51 microns) is
+several orders below the noise level of the best infrared
+photodetectors [1). However, it has been noted in the
+literature [2) that the additive noise of 00 may have a value
+appreciably exceeding the sensitivity threshold of a standard
+
+76
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE OﬂLY
+
+photodatector. This noise is apparently technical in nature
+and may specifically be caused by fluctuations of plasma
+parameters. We note that there is practically no data in
+the literature on investigation on the noise properties of a
+discharge in a xenon-heliun nixtura. The results of
+investigating the conditions for the occurrence and the
+existence ofoscillationsin a discharge plasaa in the
+cuvattes of a xenon-helium 00 are outlined in this paper.
+
+The 00 cuvette was placed on a lovable plattors which could
+be moved along the horizontal axis with respect to a vertical
+slit diaphragm. The lateral spontaneous emission of the
+
+narrow section of the discharge (on the order of lnn) passed
+through the glass wall of the cuvette. was modulated by a
+nachanical breaker and was detected by a photodatector, as
+which a silicon photodiode with saxinum sensitivity in the
+visible region of the spectrue was used. The photoresponse
+voltage was anplified by a radio preamplifier and was fed to
+
+a spectral analyser and synschronous detector. The current
+fluctuation signal (which was a reference signal for syn-
+schronous detection when measuring the wavelength of the strata)
+was taken iron the resistor in the cathode discharge circuit.
+The currents in both arms of the cuvette were balanced during
+aeasureeent. The cuvette paraneters used in the exparieents
+are presented in the table. All the cuvettas had two-anode
+design with central hot cathode and were equipped with a bypass
+channel which made it possible to eliminate separation of the
+mixture due to cataphoresis.
+
+115 .42). lawman... W ‘5’
+
+eel! mason "panama: om Em
+M m.» ”Elm-mm. ”31?."
+I. :
+
+      
+  
+  
+
+   
+
+ 
+
+. unsaspsol(6)
+1 0 mo 15.1 2.‘ n .
+smmpuluuﬂ
+~ 7 smuud7)
+2 to 310 30.1 I. am .
+, s . «)0 «5:1 as m.“
+
+[Kcy [or table on following page]
+
+77
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+KKYI
+1. Inner diameter. mm 4. Total pressure. torr
+2. Length of discharge 5. Comments
+interval, mm 6. Annular molded and pin
+3. Partial pressure anodes
+ratio of 881x: 7. Annular molded anodes
+
+We note that the necessity of operating in the visible region
+
+of the spectrum
+
+was caused by the absence of appropriate
+
+infrared photodetectors. The low threshold sensitivity of the
+
+latter makes it
+
+impossible to record lateral spontaneous
+
+emission at a wavelength of 3.51 microns. however, the nature
+
+of the behavior
+visible regions
+since the xenon
+direct electron
+
+Figure 1.
+
+of spontaneous emission in the infrared and
+of the spectrum should not differ significantly
+
+levels are populated primarily as a result of
+impact [3].
+
+3.3-” a...
+
+ 
+
+Emission (Solid Curves) And Current
+(Dashed Curve) Noise Spectra Por
+Cuvette 1 with Filament Voltage Of
+an - llV. The numbers near the curves
+indicate the value of the discharge
+current.
+
+The intensity fluctuation spectra of latera. spontaneous
+
+emission S and
+
+of discharge current sI for a cuvette i (see
+
+table) at yifferent values of discharge current It (here and
+
+78 '
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+further we have in mind current in each arm of the cuvette)
+
+are presented in Figure l. The appreciable correlation
+
+between the spectra is clearly obvious; both have typical
+
+peaks which indicate the presence of regularoscillations. The
+spectral noise density increases with an increase of discharge
+current. the spectrum is enriched with new components and the
+frequency of the mainoscillation decreases. The typical pattern
+of intensity modulation distribution of lateral spontaneous
+emission along the length of the cuvette (see Figure 3. a)
+permits one to assume that these regularoscillations are strata
+[4-6]. The similarity of the current fluctuation and emission
+intensity fluctuation spectra is explained by the fact that
+
+the traveling strata modulate the discharge current. Sharp
+peaks were detected at frequencies of 8-9 Ru: and (considerably
+less in a value) at frequencies of 16-18 has, caused by the
+presence of reactive plasmaoscillation! (71: for th18 Dams
+cuvette at currents less than the lower boundary of existence
+of the strata. The amplitude of these peaks was approximately
+constant along the length of the cuvette. as was the difference
+of the signal and discharge current phases. Moreover. a drop
+of the percentage modulation of emission and discharge current
+with an increase of the latter was observed. The dependence of
+the frequencies of the strata and reactiveoscillations on a
+discharge current are presented in Figure 2. One should note
+
+the presence of hysteresis and sections with positive slope for
+the stratal branch.
+
+(net
+
+ 
+
+J—hl__h
+
+u ta :b .w .a so!”
+
+[(Mptlun for Figure 2 on following page]
+
+79
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Figure 2. Dependence On Current: l-reactive oscillation
+frequency in cuvette la 2-of strata in cuvette
+l: 3-of strata in cuvette 2. The arrows on
+the curves indicate the direction of current
+variation.
+
+The results of measuring the percentage modulation M of the
+lateral emission of cuvettes l and 2 by strata at different
+discharge currents are presented in Figure 3, a and b. It is
+obvious that amplification of the strata occurs toward the
+cathode (unlike a neon-helium mixture where the strata are
+amplified toward the anode [5]). We note that amplification
+of the strata toward the cathode is also observed in pure
+helium and xenon [8; 9]. The distribution of percentage
+modulation is symmetrical with respect to the cathode for
+cuvette 2. The asymmetry of distribution for cuvette l was
+apparently caused by the fact that. unlike cuvette 2, it had
+different anodes: an anode in the form of a molybdenum rod
+(the left anode in Figure 3. a) and an annular molded anode.
+The dips near the cathode on the curves of percentage modula-
+tion distribution may be caused by inhomogeneity of the
+cuvette channel near the cathode outlet and possibly by the
+mutual effect of strata in different arms. Typical fluctuations
+of the percentage modulation of emission along the cuvette
+axis are observed at currents slightly exceeding the threshold
+value of the occurrence of strata and modulation disappears
+near the cathode. These fluctuations are determined by
+interference between the members, one of which describes the
+distribution of strata along the cuvette axis and the other of
+which describes modulation of discharge current [10, ll]. We
+note that the distance between adjacent maximums is equal to
+the wavelength of the strata. The amplification index of the
+strata was determined by the slope of the linear section of
+the curves and had a value on the order of 0.1 cm'l.
+
+80
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+——l——l—l—l—-‘-—J—l—l—e
+M.”" 31110 1“,”!
+b
+
+Figure 3. Distribution or Percentage Modulation or
+Lateral Discharge Emission Along the Length
+Of a Cuvette: a-for cuvette l: b-for
+cuvette 2. The nuebers near the curves indicate
+the value of the discharge current.
+
+KEY:
+
+l. Anode
+2. Cathode
+
+The strata were artifically excited to leasure the dispersion
+characteristic and to estinate the value of the phase velocity,
+for which a voltage tron an audio generator was fed to the
+anode circuit of a cuvette 3 (see Table) through a separating
+capacitor (with value of 150 pf). The derived function is
+easily approximated by the expression
+
+I-l.3-10‘(i/A.—0J5)".
+
+81
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL U88 ONLY
+
+where f is frequency in hertz and A0 is the wavelength in
+centimeters. It is obvious that. as in the case of pure
+
+xenon [9; the phase velocity is negative. The phase velocity
+of a natural strata, determined by the slope of the curve
+
+f (1/)so) at the corresponding point, was equal to -l.8'lo4cm/
+sec.
+
+ 
+
+Figure 4. Dependence of Current Boundaries Of The
+Existence 0f Oscillationeln A Discharge Plasma
+In Cuvette 1 On the Cathode Filament Voltage
+
+KEY:
+
+l. Strata
+2. Reactive oscillations
+
+The cathode filament voltage has a significant effect on the
+width of the current region in which there are no regular
+plasmaoscillationg, The boundaries of this region are shown
+in Figure 4 as a function of filament voltage. The maximum
+width of the region is achieved at the lowest voltage 01,
+determined by the normal operating conditions of an oxide
+cathode. The current boundaries of the regions of existence
+of strata and reactiveoscllltfionlintersect at specific
+voltage 02 and a region appears in which theseoscillations may
+exist simultaneously. A characteristic feature is that the
+stratain this region are excited by the second harmonic of
+relaxationoscillations. we note that constriction of the
+region where there are no regularoscillations may be caused by
+the indicated synchronization since a reverse effect is observed
+
+in some cases: an increase of filament current leads to expansion
+of this region [7, 12].
+
+82
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The results of the investigations permit one to make the
+following conclusions.
+
+1. A Dc discharge in a xenon-helium mixture is characterised
+by the presence of three typical regions as a function of its
+
+value: regions of the existence of strata (at high currents).
+reactiveoscillations(at low currents) and an oscillation-free
+
+region. while the boundaries of the latter are constricted with
+an increase of filament voltage.
+
+2. The strata are amplified from the anode to the cathode and
+amplification is subject to exponential law with index of
+approximately 0.1 cn'1 in the initial section.
+
+3. An increase of the total pressure of the gaseous mixture
+leads to a decrease of the typical frequency of the strata:
+from approximately 30 R": at pressure of 2.4 torr to
+approximately 20 RR: at 4.8 torr.
+
+4. The local (along the length of discharge) percentage
+
+modulation of lateral spontaneous emission by strata may reach
+100 percent.
+
+5. The shape of the anode affects the conditions for the
+occurrence and existence of strata at small values of discharge
+
+current (and, accordingly, at low amplification factors of the
+strata).
+
+6. Phase velocity is opposite to group velocity a direction
+and has a value on the order of lo4 cn/scc.
+
+BIBLIOGRAPHY
+
+l. Logvinov, V. 1. and V. A. Tsar’kov, KVANTOVAYA BLEKTRONIKA,
+V01 3, 1976.
+
+2. Kusnetsov. Ye. P. and I. P. Hazan’ko, 2H. PRIKL.
+SPBKTROSKOPII, V01 7, 1967.
+
+3. Hoskalenko, V. F. et al, OPTIKA I SPEKTROSKOPIYA, V01 23,
+1967.
+
+83
+
+FOR OFFICIAL USE ONLY
+10.
+
+11.
+
+12.
+
+FOR OFFICIAL USE ONLY
+
+Suzuki, 7., JAPAN J. APPL. PHYS.. V01 9. 1970.
+
+Baaayov, A. 8., M. I. Holchanov and N. G. Yazoshonko.
+zarr, Vol 45, 1975.
+
+Burnaahcv, u. N., V. YO. Privalov and Ya. A. Potanov,
+OPTIKA I SPBKTROSKOPIYA, V01 42, 1977.
+
+Zakharonko. Yu. G. and V. Yo. Privalov, OPTIKA I
+SPBKTROSKOPXYA, V01 35, 1973.
+
+Oho, K. and I. Takoda, JAPAN J. APPL. PHYS., Vol 11, 1972.
+
+Yoshi-ate, a. and Y. Yanashita, J. Pan. SOC. JAPAN.
+V01 22, 1967.
+
+Nodospasov. A. 9., uspsxnx 912. N., Vol 94, 1968.
+
+Lands, 9. s. and Yu. v. Pono-arev. RADrorsxiuzxA 1
+unsxraourxn. Vol 21, No 11. 1976.
+
+Vorob'yova. I. A. at 31, ZHTP, Vol 44. 1974.
+
+Copyright: Izdatol'ntvo “Nauka", “Radiotokhnika 1 oloktronlka"
+
+1979
+
+6521
+
+cs0:8144/0823
+
+86
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+PHYSICS
+
+UDC 621.375.826
+CONTROLLING THE PARAHBTBRS 0F HICROSBCOND EMISSION PULSBS
+
+Moscow RADIOTBKNNIKA I BLBKTRONINA in Russian No l, 1979
+signed to press 20 Dec 71 pp 105-108
+
+[Article by V. V. Arsen'yev, I. N. Matveyev and A. N.
+Stepanovl
+
+[Text] The results of experimental investi-
+gation of the effect of different laws of
+Q-switching on the shape. length.
+
+amplitude and stability of microsecond pulses
+of ruby laser emission with negative feedback
+are presented. It is shown that the
+possibilities of controlling the microsecond
+emission pulse parameters increase signifi-
+cantly when using a modulating pulse
+consisting of a jog corresponding to
+
+rapid Q-switching, a pulse peek
+
+slowly increasing by exponential law and a
+steep trailing edge. The instability of the
+moment of initial generation decreased to e value
+of approximately 25 nsec when using step
+connection of the cavity Q-factor.
+
+One of the most effective methods of increasing the emission
+pulse length of solid-state lasers with Q-switching to
+microseconds or more is the use of negative feedback (008)
+and slow connection of cavity Q-factor [1-3]. It follows
+from analysis of balance equations of this laser that the
+shape of the emission pulse is considerably dependent on the
+law of cavity Q-switching (ll. It is very difficult to
+
+85
+
+FOR OFFICIAL USE ONLY
+FOR 0F?ICIAL USE ONLY
+
+derive theoretically the required law of Q-switching for
+different pulse shapes. In the simplest case. the cavity
+Q-factor should vary by exponential law to shape square-
+wave emission pulses, which provides equality of ampli-
+fication and losses in the cavity [4]. The law of switching
+close to exponential was used in experimental investigations
+of lasers with 003 described in [1-3].
+
+The results of investigating the effect of various laws of
+cavity Q-switching on the shape of the microsecond pulse of
+
+a RL-8x120/180 ruby laser with electrooptical feedback are
+presented in the given paper. The diagram of the experi-
+mental installation is similar to that described in [3]. The
+laser cavity 0.6m long had a configuration close to semicon-
+centric. A smoother emission pulse peak is achieved with this
+configuration [2]. The cavity Q-factor was controlled by a
+DKDP crystal light shutter, to whose electrodes modulating
+pulses and negative feedback voltage were fed. The modulating
+
+voltage pulses were shaped by a special generator which permits
+regulation of their parameters.
+
+Generation of a laser with feedback having slow law of cavity
+Q-switching was initially investigated. The shape of the
+modulating voltage on the shutter electrodes (Figure l, a) was
+approximated to the form
+
+ 
+
+U.-U(t)-£—:'arccos{2K.erp (-é'hat» - 1}.
+(1)
+
+where U A 2 is the half-wave voltage of the shutter, K0 is the
+amplification factor, ( is the emission pulse length, d (f)
+are the losses in the cavity with completely open shutter and
+U0 is the shutter cut-off voltage. Emission pulses 1-3 ’ASOC
+long with flat peak and smoothly decreasing trailing edge were
+shaped in this case. The generated pulses had high instability
+of the moment of formation of the leading edge (A tn) With
+respect to initial connection of the modulating pulse ( [th
+200 nscc). Analysis of the experimental data showed that this
+
+ﬁn”
+
+- 86
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+instability has the greatest effect on the shape of emission
+pulses, since the value and steepness of the modulating voltage
+at which the leading edge of the pulse is formed vary in this
+
+680..
+
+   
+
+Iii
+
+WW"
+
+ﬂ
+
+      
+
+Figure 1. Control of The Emission Pulse Shape.
+
+The oscillograms of the control voltage pulses
+(upper pulses, calibration of 500 V/div) and
+the corresponding emission pulses (lower,
+calibration of 60 kH/div) at E u 610 J and K0s
+= 3.75«10'3 V/w) Kos - 1.5'10"3 V/W 4m). Scen-
+ning was 0.5’45ec/div
+
+To stabilize the moment of the beginning of generation and also
+the shape of the emission pulse, it was suggested that complex
+cavity Q-switching be introduced (Figure 1, c). To do this,
+the modulating voltage pulse was a jog corresponding to fast
+cavity Q-switching which changed to a slowly increasing
+modulating pulse peak variable by law (1) and had a steep
+
+87
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+trailing edge. The use of this modulating pulse made it
+possible toriqidlystabilire the moment of the beginning of
+generation of the emission pulse. The measurements showed
+that instability Atn decreased to a value of approximately
+25 nsec with this law. At the same time, the stability of
+the emission pulse shape increased significantly. Variation
+of the square-wave pulse amplitude in the form of Figure l,
+
+f from burst to burst did not exceed 5 percent over the entire
+length.
+
+a. h
+'utfn ...
+l u
+
+.(s m I
+[I
+11‘ IN
+I“ .90 ' .
+“.5.
+il.‘ 70
+0 __L. L_.g_4__;m
+
+.' u'." m u.» .muru
+
+Figure 2. Dependence Of The Amplitude o: The Leading Edge
+Of The Emission Pulse 0n Value Of Jog U.) 3n -
+610 J and s - 0.5 kV/ ,4sec '
+
+An important positive feature of introducing a jog in the
+modulating pulse was to expand the possibility of controlling
+the shape of the emission pulse. The amplitude of the jog U.
+affects the emission pulse delay t, with respect to the leading
+edge of the modulating pulse and the amplitude of the leading
+edge of the emission pulse I . Oscillograms of esission pulses
+at different amplitudes of jog Us are presented in Figure l,
+
+d and f. The experimental dependence of 1p and t2 on U. are
+presented in Figure 2. It follows from them that delay of the
+moment of the beginning of pulse generation t2 decreases with
+an increase of Us. reaching some practically constant value
+determined by the time of development of generation. In this
+case the amplitude of the leading edge.of the emission pulse
+
+Ip does not change initially. but then increases rapidly. This
+dependence of I? on U. permits one to tranform square-wave
+
+88
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+enieeion pulses to triangular pulses with steep leading and
+extended trailing edges (Figure l, d and o).
+
+ 
+
+Figure 3. Variation of Emission Pulse Shape with Increase
+Of Pumping Energy Em: b - 190 J; c - 450 J;
+b - 610 J; a - 800 J; KOS - 3.75 V/W; a -
+oscillogram of modulating pulse corresponding to
+them; f - emission pulse with slow cavity
+Q-switching and at an n 800 J and Kos - 6.25-10'3
+
+V/W
+
+By cutting off the cavity Q-factor at the necessary moment of
+time, one can cut the descending trailing edge of the emission
+pulse (Figure l, e, f, i and j) and one can shape pulses close
+to square-wave and one can also change their length.
+
+89
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Regulation of the emission pulse length is also possible by
+varying the pumping energy an. The delay of the beginning of
+generation tz decreases and the eeission pulse length increases
+with an increase of En. In this case the pulse amplitude varies
+slightly (Figure 3). The pulse shape changes to triangular
+(Figure 3, b) with pumping close to generation threshold. The
+segment of the modulating voltage pulse corresponding to slow
+cavity Q-switching determines the shape of the emission pulse
+peak. Square-wave emission pulses are formed during selection
+of the law of variation of the modulating voltage on this
+section which provides equality of amplification and losses
+(Figure l, f). The slope of the emission pulse peak can be
+regulated and it can be made convex by changing the steepness
+
+S of this segment of the modulating pulse (Figure l, h). The
+amplitude of pulse convexity Iv increases with an increase of
+steepness s (Figure 4). By changing the amplitude of the
+modulating pulse jog Us and the steepness of the voltage increase
+at the modulating pulse peak 8. one can rind square-wave emission
+pulses with different amplitudes, which is not achieved when
+using modulating pulses without a jog. Regulation of the
+emission pulse amplitude is also possible by varying the depth
+
+of feedback (Figure l, f and 1). However, this method has
+limited use since a ﬂacrease of negative feedback increases the
+cut of the emission pulse peak and makes its overall stability
+worse.
+
+ls-f'”
+
+ 
+
+.‘~ .16 I!‘ y'5,A‘/'IIA(I'K
+
+Figure 4. Dependence of Pulse Convexity Iv On Modulating
+Pulse Steepness by U, - 0.7 kv and 3n - 610 J
+
+90
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USB ONLY .
+
+By using slow switching law (Figure l. a) with high value of
+pumping energy 3n and deep feedback (to. - 6.25-10'3 Viv),
+pulses with steep leading edge may be transformed to pulses
+with smoothly increasing amplitude (Figure 3. t). This
+transformation of pulse shape is related to the fact that
+
+the generation threshold is carried out with high losses on
+the light shutter which provide a :low increase of the number
+of photons in the cavity.
+
+Thus, the investigations showed that the use of special stepped
+nodulating voltage pulses pernits one to increase the stability
+of microsecond emission pulses and to expand the possibility of
+controlling their length, amplitude and shape.
+
+BldLIOGRhPHY
+
+l. Balashov, I. P., V. A. serenberg and s. A. Yernakov, ZHTP,
+Vol 43. No 7, 1973.
+
+2. Arsen'yev, V. V., V. N. Lomakin, I. N. Natveyev and
+A. N. Stepanov, KVANTOVAYA BLBKTRONIKA, Vol 3, No 5, 1976.
+
+3. Arsen’yev, v. V., I. N. Hatveyev. Yu. V. Prichko and
+A. N. Stepenov, PRIBORY I TBKNNIKA BKSPBRIHBNTA, No 2, 1976.
+
+4. Balashov, I. 3., V. A. Berenberg and s. A. Yernakov, ZHTP,
+Vol 38, No S, 1968.
+
+COPYRIONT: Izdatel'stvo “Nauka', ”Radiotekhnika i elektronika',
+1979
+
+6521
+cs0:8144 lcs23
+
+91
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007/02/00: ClA-RDP02-00050R000100030041-2
+FOR 0F?ICIAL USE ONLY
+
+PRYSICS
+
+UDC 535.231.12.038.62x621.317.794
+
+A METHOD OF RESTORING LASER BEAM EAERGY DISTRIBUTION FROM DATA
+OBTAINED PRO“ A BOLOHETRIC SENSOR ARRAY
+
+Moscow RADIOTBKHNIKA l ELEKTRONIKA in Russian No 1, 1979,
+signed to press 24 Aug 77 pp 193-196
+
+(Article by v. v. Yefrenenkol
+
+[text] Existing methods of investigating the distribution of
+laser energy in the beam cross-section are usually related to
+the necessity of branching part of the energy to a measuring
+device [1). which is difficult to accomplish at high energy
+densities and large beam cross-sections. The use of an array
+of bolometric vire sensors in combination with a specific
+processing a;gorithm makes it possible to measure the energy
+distribution over a wide spectral range [2]. having avoided
+the necessity of energy branching. A method of determining
+the energy center and effective beam diameter by using
+bolometers is described [31, but this method does not permit
+one to measure the energy distribution. At the same time an
+important advantage of reticular bolometric sensors,
+consisting in the fact that they do not introduce significant
+distortions in the transient laser beam, provides the basis
+to attempt to use them as an onergy distribution meter.
+
+92
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL 088 ONLY
+
+ 
+
+Figure l. Arrange-ant Of Boloaeter Array with Respect
+To Laser-Bound Coordinate Syste-
+
+KEY:
+l. Boloneters
+
+To simplify further consideration, let us make a nu-ber of
+aasunptions. Let us assule the following:
+
+(1) the spacing of the holonetric arrays h is such greater
+than the laser emission wavelength A and the boloneter diameter
+d. i.e.. we scenes that the eutual effect of the bolo-eters
+during diffraction of the esission on the grid say be
+disregarded:
+
+(2) the grid dinenaions are each greater than the typical
+cross-sectional dinensiona of the laser energy concentration
+
+zone and integration can he carried out within infinite
+intervals:
+
+(3) laser enission has circular polarization:
+
+(4) the laser pulse length {i is much less than the constant
+bolonater cooling tile;
+
+(5) the effect of emission does not lead to thermal expansion
+of the boloneters. while the dependence of holoueter resistance
+on asission intensity is linear.
+
+93
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Let laser emission be propagated along axis Oz in a coordinate
+system (x, y, r‘). bound to a laser source (Pigure l). The
+value of power w (x. y. r, t) in plane r-z', located in the
+Prauenhoter zone, will be a cross-section of the space-time
+power distribution of the laser source at r-r'. Let us
+
+further assume that the axes of parallel wire boloneters with
+diameter d and spacing h are located in this same plane. Let
+us also assume that there are several arrays of parallel
+boloseters and that they are arranged rather close to each
+other along axis 02. Let us describe the orientation of the
+boloseters of the j-th array n by using the coordinate
+
+system {'1' yj, 25}, whose axis 0y, coincides with that of the
+centralwiuu Let us assume that axis 0y, is rotated by angle
+
+Gj with respect to axis 0 . Keeping in sind the short length
+of the laser pulse compare to the thermal constant tins of the
+boloseter, one may assume that variation of boloneter resistance
+AR will be detersined by the integral of power by the pulse
+time or by the energy distribution or the laser pulse
+
+P (x, y, z). z _ z..
+
+53-1 . PM» u). M. will".
+-. ' (1)
+
+Where Y is the absorption coefficient dependent on the wire
+diameter. the material from which it is made and in the general
+case on the polarization of the incident radiation. Graphs of
+
+the dependence krvYVd on A provided that d.»A£or cylinders of
+various metals and for two polarizations of incident radiation
+
+with respect to the cylinder axes are presented in Figure 2,
+taken from [4].
+
+96
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+    
+
+0 2 t 5 8 1.10m
+
+Figure 2. Dependence 0f Coefficients 0f Absorption Of
+Electromagnetic Radiation h", k‘ By Cylinders
+0f Different Hetels 0n Wavelength. The first
+two curves (from top to bottom) -- Pt) the
+
+second two curves -- Ni: the lest two curves
+-- Au
+
+If the measured Voltage or current increment on the i-th
+bolometer of the j-th array is denoted by g(x‘j). the signals
+of all bolometers of the array determine the sequence
+
+(9(xij)) , each term of which is related to energy distribution
+P (x. V) by the relation
+
+ﬁrm-e ”mum. nummwwuu ( 2,
+
+Coefficient « depends on the absorption coefficient Y. The
+sequence {90:1 )} determines the discrete projection of the
+desired 6 strigution function r (x. y) onto axis 0y). with
+this approach. the problem of measuring the energy distribution
+reduces to that of restoring the function of two variables
+
+P (x, y) by discrete projections measured at angles 9 .
+
+Radon [5], who used a method similar to iterative met ods, was
+apparently the first to work successfully on the problem of
+restoring the functions of several variables by their projections.
+In the considered case an approach based on the mathematical
+apparatus of Fourier transformations (P?) of functions of many
+variables is more promising.
+
+95
+FOR OFFICIAL USE ONLY
+FOR 0F?ICIAL USE ONLY
+
+Two important properties related to projection of function
+
+f (x) with the Fourier-image of this function are subsequently
+required. The first property consists in the fact that if
+
+f (x) and P («1) form the pair PP. then f (xh) and P (aJA)
+will also be the pair PF provided that matrix A. which describes
+the transformation of coordinates, is orthogonal. The second
+property, also called the theorem on projections and cross-
+sections [6]. permits one to state that (N-1)-dimensional PF
+of projection is the cross-section of the N-dimensional P? of
+function f (3). Taking both properties into account, one may
+conclude that the projection for which the projection axis is
+the transformed coordinate axis uj. has (N-l)-dimensional PP,
+which is the cross-section P (11) at £11 - 0. and coordinate
+systems u and!) are related to systems x ended by the same
+orthogonal transformation
+
+"“‘ "M (a)
+
+In the con'idered case, rotation of each bolometer grid around
+axis Oz by angle 01 is described by orthogonal transformation
+of coordinates
+
+‘_[000} sine; ]. (4)
+~ﬂ09, 00.91
+
+In this regard the data obtained from each bolometer array
+
+and which determined the discrete projection of distribution
+
+P (x. y) at angle 9 simultaneously determine the cross-
+section of the Fourier-image of spectral distribution at the
+same angle and space. The relationship between the projections
+of the function of two variables and the cross-section of its
+P? is presented in Figure 3.
+
+96
+FOR 0??!CIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+463)
+
+69'0”]!
+
+     
+
+gx‘
+
+ 
+
+Figure 3. Relationship Between Projection or Two-
+Dinensionai Punction And Cross-section of Its
+Pourier Transfor-
+
+KEY:
+
+1. Projection axis 3. Angle of cross-section
+2. Angle of projection 4. Cross-section
+
+By using the properties of PP pairs outlined above, one can
+construct the algorithm for restoration of energy distribution
+
+P (x, y) by the measured sequences (2). The main steps will
+be the following.
+
+1. Measuring the oriented arrays of sequences (2) in the
+appropriate eanner by using H.
+
+2. Determining the images oriented in space according to
+orientation of the signal arrays in space by using the
+
+discrete Fourier transform (DP?) H or the Fourier-image
+cross-sections of the desired distribution (P) x, y.
+
+3. Applying the images of the effective interpolation
+operation obtained by readings in space to find the array of
+readings required for reverse OPP.
+
+a. Calculating the readings of the desired two-dimensional
+function P (x, y) in the signal space by applying the two-
+disensional reverse DP? to the readings in the spectral space.
+
+97
+FOR OFFICIAL USE ONLY
+5.
+
+FOR OFFICIAL USE ONLY
+
+Interpolation of the derived readings to determine the
+
+values of the desired function P (x, y).
+
+It should be noted in conclusion that aachine realization of
+the described process of restoration can be based on use of
+
+the ”test P?“ algorithm [7], which significantly reduces the
+losses of machine time. Moreover, the discrete nature of
+measuring the projections by using boloaeters permits efficient
+organization of data input into the computer.
+
+7.
+
+BIBLIOGRAPHY
+
+Bautin. A. V., Yu. A. Polyakov and A. A. Shilyayev,
+KVANTOVAYA BLEKTRONIKA, Vol 3, 1976.
+
+Konozenko. l. 0.. ZHTP, Vol 20, l95q.
+
+Kuz'nichev, V. H. and A. B. Katrich, KVANTOVAYA BLEKTRONIKA,
+Vol 2. 1975.
+
+Kuz'michev, v. H., Yu. H. Latynin and I. A. Priz,
+PRIBORY I TEKHNIKA EKSPBRIMENTA, Vol 2, 1974.
+
+Radon, J., BERICHTE VERHANDL. SACHS. GBSBLLSCRAFT. MATH.-
+PHYS. KL., V01 69, 1917.
+
+Mersero. R. and A. Oppenkheyn, TIIBR, Vol 62, No 10, 1974.
+
+Cooly, J. H. and J. W. Tukey, MATH. COHPUT., Vol 19, 1965.
+
+COPYRIGHT: Izdatel'stvo "Nauka", ”Radiotekhnika i slektronika',
+
+1979
+
+6521
+
+CSO:8144/0321
+
+98
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+PUBLICATIONS
+
+REV PUBLICATION REVIEWS LATEST GEOPHYSICAL INSTRUHBFIS. APPLICATIONS
+
+Leningrad GEOPIZIGIESKAYA APPAM‘I'URA (Geophysical Equip-ant) in Russian
+Issue 64. 1978 signed to press 210 Mar 78 pp 187-189
+
+[Table of contents fro- collection of articles, Izdatel'stvo Nedrs,
+1,900 copies. 192 pages]
+
+l‘l‘extl Table of Contents Page
+Hikel'son. B. 3.. "New Developmt Projects of the Geofizika
+Science-Production Association: . . . ... . . . . . . . . . 3
+lbgnetonetry
+
+Shiftin. V. Ys., Pak. V. P., and Zhirov, G. 1., "Study of the
+Ketrological Para-eters of the Single-Chub“ Self-
+Generating 11-33 Hegmtooeter" . . . . . . . . . . . . . . . 15
+
+Blednov, V. A.. Rotshtsyn, A. 2a., and Gluskina, H. A.. "Modula-
+tion Error in Nuclear Hegnetoseters" . . . . . . . . . . . 26
+
+Blednov, V. A., and Rotshteyn, A. Ya., ”Principles of Construction
+and Study of a Nuclear Measuring Transforaer with Optimal
+NoiseSuppression" . 29
+
+Plotkin. V. 11.. Tokarev. P. V.. Verzhbolovich. N. A., and
+Savchenlw, V. D. . "Auto-sting the Processing of Aerial Magnetic
+Exploration Data Received in Initial Analog Porn" . . . . . 35
+
+Sosnovsluy, V. IL, and Kashirskaya. 1'. Yu., "Signal Amplifiers
+for a Hell-Type Quanta: Hegnetoneter" . . . . . . . . . . 62
+
+Kolesnik. A. V., Pedorova, L. 1., and Psdeyev. D. A., "Cylindrical
+Induction Pleasuring Device for Studying the biagnetic Properties
+ofRorkondOreSanples" ................. k9
+
+Dolinskiy, Yu. 8., Irzak, A. l... Kleper. R. 8.. and Nikolaysv,
+V. 1.. "Bxperi-entsl Test of the Possibility of Reducing the
+Rondo- Colponent of the Error of Measuring Blocks of Magne-
+touter." I O O O 0 O 0 O O O O O 0 O O O O O O O O O O O O 52
+
+99
+NR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Electrometry
+
+Mynsoyedov. A. P.. and Ochkalov, A. M., "The Use of MDP Trans-
+istors end Microcircuits as an Analog Key at High Tempere-
+ture." O O O I l O O O O O O O O O I C O O O O O O O G O C 57
+
+Porfilkin. E. G., and Zhurbitskiy, D. 1., "The Use of high-Speed
+Frequency Converters in Systems of Bquipnent for Measuring
+and Processing Geophysical Data" . . . . . . . . . . . . . . . 62
+
+Minchenko. I. S., Mitrofanov. A. V.. Shilov, Yu. M., Pil'chukov.
+G. A.. and Brodov, G. 8.. "Characteristics of Noise in s
+Non-Hire Electricsl Communication Channel" . . . . . . . . . . 7l
+
+Yefimov, A. D.. "Apparatus for the Dipole Version of the Trans-
+fer Processes Technique" . . . . . . . . . . . . . . . . . . 77
+
+Nuclear Geophysics
+
+Voznesenshiy. L. 1., Gerling. V. 2.. Sheposhnikov, V. A.,
+Volkov. A. A.. and Grsbovskiy. A. V., "The Use of Roentgen
+Radiometric Apparatus with a Semiconductor Detector to Analyze
+Zirconium in Complex Ores" . . . . . . . . . . . . . . . . . 86
+
+Ioffe, Ye. M., and Stepsnov. Yu. N., "Rays to Rsise the Threshold
+Sensitivity in the Neutron-Proton Method of Determining Con-
+centrstion of Hydrogen" . . . . . . . . . . . . . . . . . . . 90
+
+Dorisenko. Yu. N.. Portnov, V. 8., and Polkovnikov, Yu. V.,
+"The Too-Beam 2! Probe with Step-hy-Step Excitation for
+the Selective Gsmns-Gsmma Method" . . . . . . . . . . . . . . 93
+
+Tovsenko, Yu. G., Yeliseyev, G. 1.. Yuzhin, A. I.. and
+Mskedontsev. M. A., "Hell Roentgen Radiometric Device with
+Proportional Counter and Differential Filters" . . . . . . . 96
+
+Kozynds. Yu. 0.. and Sinitsyn. A. Ya.. "The Use of Small Scintil-
+lntors to Analyze the Uranium snd Thorium in Hells" . . . . .101
+
+Well Geophysics
+
+Perel'mnn, A. L., snd Sternin, V. 1., "Smell-Diameter Acoustic
+Logging Hell Instruments for Ore wells" . . . . . . . . . . .llO
+
+Mcdvid'. Ya. V., and Pedoriv. R. F., "Improving the Precision of
+Measurement of Interval Time in Acoustic Hell Logging" . . . .120
+
+Leontovich, Ye. 1.. ”Frequency Converter for en Acoustic
+Cement Gauge" . . . . . . . . . . . . . . . . . . . . . . . .123
+
+100
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Suleynonov. H. A.. Vdovin. 8. 3L. and Korovin. V. m. "Logarithmic
+Alplifier of an Acoustic Hell Logging Device" . . . . . . . . . 126
+
+Butuzov, Yu. A., Pritaker, 1.. S., Shadkhin. V. 1., Paanik. V. 1.. .
+Tealyuk. Ii. V.. and Chelok'yen, R. 8.. "The HP-l Inter-well '
+sound“: unit" 0 O O O C O O O O C O C I O O t O O O b I O I l O 131
+
+Butuzov. Yu. A., Pritaker. 1.. 8.. Shadkhin. V. 1.. and Konarov.
+V. 8.. ”The ”‘2 Int.m11 Soundﬂls Unit" a a o e a e a a o a a 133
+
+Akael'rod, s. H., Danevich, V. 1.. lhainov, l. A., and Yevdokinov,
+A. P., "Calculationa of a Nuclear Magnetic Logging Probe with
+Optiadl Electrical Paranetere" . . . . . . . . . . . . . . . . 137
+
+Guaeynov, A. it. Davydov, A. V., Kubiyev, G. K., and Markukhin,
+Ye. IL, ”Device for Batiaating the Average Diameter of Dry
+well." 0 O O O O 0 I O O O O C 0 O O 6 O O O O b O O O O I O O 1“
+
+Seiametry
+
+Sarkiayon, R. Ye.. Aykazyan, A. 6.. and Petroayan, It. A.. "Cali-
+bration Stand for SeiaIic Apparatua with Digital Heaaurelaent
+of the Frequency of Oacillationa" . . . . . . . . . . . . . . . 167
+
+Kozlov, L. 6.. Kogun, Yu. P., and ledavniy. V. 1.. "Controlling an
+Electromechanical Vibrator Uaed in Vibration Seinic Explora-
+tion" 0 O O I 0 O O O O O O O O O C O I O O O U 0 O 0 0 I O O O 151
+
+Gravinetry
+
+Kulinich, A. V.. "Detenining the Scale Diviaion of Second Claaa
+Graviletera" .........................158
+
+Colputer Technology
+
+Drabkin, A. 6., and Snirnov. K. V., "Controlled Spatial Light Modu-
+lator for Optical Inge Proceaaing" . . . . . . . . . . . . . . 160
+
+Bxchange of Experience
+
+Knliotratov, G. A.. and Lobankov. V. m, "ﬂoat-Stable Seaiconductor
+Kodulator"...........................167
+
+Sonov, c. A.. and Botakalev, V. P.. "Excitation of Perroeoodea by
+the Revolving Magnetic Field of a Single-Phaae Current
+Generator"...........................l69
+
+Yefinov. A. 1).. "Preamplifier for the Autonoloua Frame of a Unit
+Using the Trenat'er Proceaaea Hethod" . . . . . . . . . . . . . 172
+
+101
+FOR OFFICIAL USE ONLY
+FOR OWICIAL USE ONLY
+
+Popov. 1.. 9.. 'l'ereahchenleo. Yu. P., and Shlain, A. 1.. "Standard-
+ized Control Panel for the DI-TP-S-ll" Induction Dafoctouatar
+and‘rubel’rofilecauge"....................l‘l3
+
+Yuahko, V. 3., "Calibration of Apparatus for nuclear Geophysical
+Tuttu" l O O I O I O D O O I 0 O O O O O O C I O O O I O O O 0 17s
+
+OOPYRIGIIT: Izdatal'atvo "Nedra", 1978
+
+11 , 176
+680 : 1870 m
+
+102
+
+FOR OFFICIAL USE ONLY

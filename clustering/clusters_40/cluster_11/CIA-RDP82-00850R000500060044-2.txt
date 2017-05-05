@@ -1,0 +1,1848 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10531
+
+9 May 1982
+
+Japan Report
+
+(FOUO 31/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+
+other characteristics retained.
+
+headlines, editorial reports, and material enclosed in brackets
+[) are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+nation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED NEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+JAPAN REPORT
+
+(Pouo 31/82) .
+
+CONTENTS
+
+SCIEIICE AND TEGINOLOGY
+
+Characteristics of Hitachi :i—280H Computer Described
+(Kenichi We, at 31.; NIKKI]: ELBQ'RCIYICS, 1 Feb 82) .... 1
+
+Overseas Petrochemical Projects Face Difﬁculties
+“'13” mm Sﬁmw. 18. 19m82) ODOOOI'OOOIOOOOOOOIOOOO 3h
+
+- a - [III - ASIA - 111 POGO]
+
+FOR OFHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+SCIENCE AND TECHNOLWY
+
+CHARACTERISTICS OF HITACHI “-2803! C(HPUTBR DESCRIBED
+Tokyo NIKKEI ELECTRONICS in Japanese 1 Feb 82 pp 156-182
+
+[Article by Kenichi Furumaya (chief), Toshihiko Ktaka, Katsuhiko Takizawa,
+Fumiyuki Kobayashi. Chikahiko Izumi of Dept. of Development, Kanagawa Plant. Hit
+Hitachi, Ltd.]
+
+[Text] Abstract by Nikkei Electronics
+
+The H-280H is a general-purpose large computer which has
+1.3-1.6 times more throughput than the conventional
+H-ZOOH. In order to realize this throughput, various
+improvements have been made in the systems and in the
+semiconductor technology. Regarding the system, they
+are not basically different from the 14-2003. However.
+
+the H-280H has delicate cortrol. for instance, disorders
+in the pipeline are reduced“ by subdividing SS (storage to
+storage) type instructions for piocessing. In semiconduc-
+tor technology, the degree of integration of logic-in
+memories and high-speed bipolar memories is doubled and
+quadrupled respectively to give latitude for the expansion
+of buffer memories. Also, the main memory capacity is
+enlarged to 32 M bytes from the conventional wins: 16 H
+bytes, and the channel throughput to the maxim- 96 bytes/
+sec.
+
+The systems for users who utilize large computers have recently increased in
+scale rapidly, and the mode of use tends to be increasingly diversified. In
+line with this trend, computer makers strive continuously to develop new
+large models with better throughput.’ 2 5 7
+
+The IIITAC “-280“ (called "-2801! hereafter) is the top model of the HITAC M
+series due to its larger scale, greater versatility and higher performance.
+It is better than the H—ZOOH annomced in 1978.1
+
+The H—280H was developed under the following guidelines.
+(1) Improvement of Throughput
+Using the latest hardware technology, the speed of the logic system was raised,
+
+and firmware such as a system expansion mechanism and a VIM (virtual machine
+assist) mechanism, was incorporated.
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+(2) Emphasis on New System Mechanism Support and Future Expandability
+
+It is supplied with a main memory which exceeds 16 H bytes and can acco-odate
+over 16 channel connections, and a 3 H bytes/sec high-speed channel connection.
+
+Also, it has room for future expansion of the main storage, expansion of the
+buffer storage and connection for a high-speed I/O unit.
+
+(3) Improvement in Reliability/Maintainability
+
+highly reliable parts were used, and it is fully equipped with an automatic
+recovery function and a maintenance function.
+
+(14) Relaxation of Equipment Conditions
+
+Aiming at space-saving and energy-saving, cables for connecting peripherals
+(discs in particular) are more extendable than in conventional models. Also,
+
+an optical channel adapter was provided to make it possible to use optical
+fibers in lieu of I/O cables.
+
+(5) Improvement in Opernbility
+
+The console function is fully equipped, and the automatic-run function is
+reinforced.
+
+Among the above developmental guidelines, the most important item is the im-
+provement of throughput suitable for the top model.
+
+Throughput of computer systems has two aspects: a capability based on how fast
+
+a job can be processed and a capability based on how many jobs can be processed
+in a given time. The former capability is demanded by large-scale science and
+technology calculations, while the latter capability is demanded by on-line sys-
+tems for bank deposits and seat reservations. Recently, demands for processing
+many jobs in a given time, such as on-line processing and conversation process-
+ing, are on the rise, and improvement of system throughput has tended to be
+stressed. However. with the progress of science and technology, demands for
+high-speed processing of large-scale science and technology calculations (one
+job) are also increasing.
+
+In November 1980, the U.S. IBM introduced a new large computer, the H-308l
+(Model group D). This model is said to have a great improvement in perform-
+ance over the same company's model 3033, which was the top of the line until
+then. Also, it was highlighted because of its double-headed processor.6 In
+the case of the double-headed processor, two processors operate in parallel,
+and the capability to process many jobs in a given time is the sum of the two
+processors. however, the capability to process a job at high speed may some-
+times he determined by the capability of one processor, reducing capability,
+in this case, to half of the total throughput.
+
+With tnis background in mind, we developed a high-performance processor which
+greatly exceeds that of the H-ZOOH, incorporating a single processor in order
+to meet the two demands-—improvement of system throughput and high—weed process-
+ing (of one job).
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL “SI-Z ONLY
+
+The M—280u can use practically all the software, peripherals and terminals of
+the existing M—series as system components. It is considered that a system
+composed of this processor, a VOS3/SP (virtual storage operating system 3/sys—
+
+spindle) to be supported by these, along with a Chinese character printer and
+a video data system, can very well accommodate diverse user needs.
+
+1. Processor Outline
+
+Figure 1 shows the external appearance of the H—280H system. Figure 2 gives
+
+an example of the architectureofa two—unit close—linked multiprocessor.
+
+The M—ZBOH is the sister machine of the M-ZOOH, and its external appearance and
+logic structure are similar to the M—ZOOH. HOwever. it is a processor designed
+
+for high speed and high reliability using newly developed high-integration LSI
+and semiconductor memories.
+
+ 
+
+Figure 1. External Appearance of the M—ZBOH Processor
+
+3
+FOR OFFICIAL USE ONLY
+2. Chart shows cw
+:tural limit: incorp
+
+Lt
+FOR OFFICIAL USE ONLY
+
+Realization of Throughput 1.3-1.6 Times Greater Than the H-ZOOH
+
+Table 1 gives the general specifications of the H-28OH in comparison with
+
+the M-ZOOH and the M-180, which were yesterday's top of the line models. The
+system functiOnal specifications of the “-2808 were expanded, for example,
+doubling the main storage capacity and the channel numbers connectable to the
+system compared to the H-ZOOH. Also, the channel total data transfer capabil-
+ity is approximately four times better than the H-ZOOH, to a maximum of 96 H
+
+bytes/sec/processor.
+
+Table 1. Architectural Couparison of H—280H With Conventional H-200H and
+H—180. System specifications of H—28OH are expanded in main storage
+capacity and in number of connectable channels.
+
+ 
+
+ 
+
+Item n—zsou H-ZOOH H—180
+Main storage maximum capacity
+(M—byte) 32 16 16
+capacity (It byte) 6’. 61¢ 32
+buffer control system, set associative set associative
+storage column x line 64x16 256x4
+block size (byte) 64 64 32
+address
+translation setup, entry x level 256x2 256:2 128:2
+buff" number of entries 512 512 256
+maximum number of IOP 4 3 2
+I/O maximum number of channels 32 16 16
+channel
+total data transfer
+capability 96 26 16
+Integrated array processor yes yes yes
+System expansion mechanism Standard Peripheral Peripheral
+
+ 
+
+In performance, the M—280H has a throughput 3.5-5 times and 1.3-1.6 times more
+than the M-180 and the M-ZOOH, respectively. Figure 3 gives an example of a
+specific performance comparison when some jobs were processed. In this case,
+the assigned jobs consisted of two technical calculations, one general compile
+job and one Cobol office calculation. With the standard “-2803, performance
+about 4.5-5 times superior to the H-180 (1.4-1.5 times superior to the H-ZOOB)
+was obtained inhandling the technical calculations and the general compile job,
+while performance 5 times superior (1.6 times to the H-ZOOB) was obtained in the
+office calculation. In calculations using a H-ZBOH with IAP (integrated array
+processor), performance was approximately 6 times and almost 16 times better
+
+in handling the respective jobs.
+
+5
+FOR OFTWCIAI.IHSE(NNLY
+FOR OFFICIAL USE ONLY
+
+«my-1| (2)
+0159172 (3)
+.umaquws-r (b)
+WQIV (5)
+
+o
+7.0
+'1
+s
+
+s
+
+C
+
+a
+
+2
+
+I
+
+M480 ”-2”?! “-2.0“
+“MM “4”"
+[AP "D IAP H5
+
+ 
+
+Figure 3. Example of Performance in Bench-ark Test-Program
+
+Key:
+
+(1) perfomnce ratio (lo) general (compile) job
+(2) technical job 1 (5) Cobol job
+
+(3) technical job 2 (6) with IAP
+
+The throughput of technical calculations using this system with IAP is equiva-
+lent to approximately 10 HFLOPS (million floating point operations per second).
+This range of performance is close to that of a supercomputer, and is very
+difficult for a general-purpose computer to achieve.
+
+The high—speed processing of the 14-280“ is primarily derived from the
+shortened nachine cycle tine; Inorder to shorten the machine cycle time, we
+have developed the latest hardware technology beginning with a maximum 1.500
+gate/chip high-integration high-speed L81 and logic systems suitable tothat,
+as will be discussed later in this article. Also. high speed is achieved by
+incorporating a systm which was designed to shorten the operation execution
+cycle in respect to some instructions.
+
+Upgrading of Element Integration and Expansion of System Specifications
+
+In the following, hardware technology, logic systems and system specifications
+newly deVeloped for the H—280ﬂ will be listed in comparison with those of the
+H—ZOOH.
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+l. Hardware Technology
+
+Logic LSI withHaximum Cate 550/1500. Improved approximately two-thirds compared
+with that used for the H—ZOOH in terms of speed power product.
+
+Logic—In Memory Element. Used for address array of the buffer storage. The
+degree of integration is double that of the H—ZOOH.
+
+a K Bit High-Speed Bipolar Memory--maintains 7 ns-element-level maximum access
+time and is used for control storage and buffer storage. The degree of inte-
+gration is quadrupled compared with that of the H-ZOOB.
+
+66 K Big High Speed n MOS Hemory--used for the main storage. The degree of
+integration is quadruple that of the H—ZOOH.
+
+18 Layer Backboard. Improved in wiring density 33 percent. to 18 layers,
+compared with the H-200H. The backboard of the H-ZOOH has 15 layers.
+
+2. Logic Systems
+
+The logic systems adopted in the H—280H took basic parts from the M-ZOOH, but
+those parts were also further strengthened in several ways. What the H-ZBOH
+took from the basic logic systems1 of the H—ZOOH are: (1) sophisticated
+pipeline control. (2) microprogram distribution and layout, (3) 64 K byte
+high-speed buffer storage accessible every l/2 machine cycle, (4) 512 pairs
+of address translation buffers (TLB). (5) high-speedcomputation mechanism
+calculable at 1/2 machine cycle, (6) 8 or 16 way interleaves of main storage,
+(7) integrated array processor (IAP).
+
+In the M-ZBOH. the following further points were reinforced making the most of
+the characteristics of these logic systems.
+
+Reinforcement of Pipeline Control
+
+Development of primitive resolution function.
+Augmentation of branch instruction control.
+Augmentation of pipeline disorder factor detection capability.
+
+Improvement of capability to recover from pipeline disorders.
+Shortening of computation cycle numbers of decimal arithmetic instructions.
+
+integrated array processor instruction expansion
+Firmware provided as standard.
+
+3. Expansion of System Specifications
+Maximum Main Storage Capacity Expanded to 32 H Byte
+
+That of the conventional M series is 16 H bytes. In order to expand the main
+storage capacity, it is necessary to exppnd the effective address from 24 bits.
+Therefore, the page table entry which translates a logical address to an effec-
+tive address was expanded.
+
+7
+INDRIOFF1C1AL USIZCM‘LY
+FOR OFFICIAL USE ONLY
+
+Maximum Connectable Channel Numbers Expanded From 16 to 32
+
+The channel throughput was enlarged to accommodate an increase of system file
+capacity and improvement of the processor's internal processing speed.
+
+11. Logic Structure and System Improvement
+
+A big problem in improving processor performance is the architectural method
+of the main storage system.
+
+Many of the current general-purpose large processors have a bihierarchical
+storage system comprised of high-speed buffer storage and comparatively low-
+speed main storage. The H-ZOOH also used a bihierarchical storage system.
+When striving to enhance the performance of a single processor mainly by up-
+grading the speed of the machine cycle. it is necessary to improve the speed
+of the main storage in proportion to improvement of the machine cycle in order
+to enhance the total performance proportionately to the improvement in the
+machine cycle.
+
+0n the other hand, demand for a larger main storage capacity is also increas-
+
+ing. This is because systems that perform in parallel conversational process-
+ing, batchprocessing, data base processing, etc, all in the same system, have
+
+increased, and a large main storage capacity suitable for these systems is
+
+in demand. These needs are especially prevalent in regard to large computers.
+
+In other words, there are two things demanded of the memory-improvement in the
+speed of elements and upgrading of the capacity. However, from the aspect of
+semiconductor technology, a project to achieve higher speed and integration not
+only encounters technical difficulty but also raises costs, making it difficult
+noimprove the cost performance ratio. Therefore, a general solution to this
+problem boils down to the adoption of a high-speed buffer storage.
+
+An average instruction execution time Tavg of a processor with a buffer storage
+can be expressed as
+
+7
+
+Tavg - Tb + % - Tacc
+
+The inverse number to this, MIPS (million instruction per second), is often
+used as an index for performance. Tb is the average instruction execution time
+when all instructions and operands are present in the buffer storage. Tacc is
+the access time of the main storage viewed from the processor. N indicates the
+incidence rate, once in so many instructions in cases where data to be
+
+accessed cannot be found in the buffer storage. Accordingly. (1/N)-Tacc
+expresses time taken for the main storage access in case the buffer storage
+does not contain data as an average overhead time/instruction.
+
+(1 - l/N) is the probability of the presence of the necessary data in the
+buffer storage, and is sometimes called the hit ratio of the buffer storage.
+The buffer storage hit ratio is determined by the buffer storage capacity and
+the nature of a job or a program. When a buffer memory is 64 K bytes, gener-
+ally the ratio will be in the 85-99 percent range.
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Incidentally, by accelerating the processor machine cycle, Tb can be propor-
+tionately reduced. However, (IMO-Tact remains the same if no further measures
+are taken. and the total performance sometimes may not improve in proportion
+to the machine cycle. Consequently, it is necessary to raise the previously
+described hit ratio, that is. increase the value of N (enlarge buffer storage
+capacity) to enhance the total performance.
+
+Giving Expandability to Buffer Storage by Upgrading Element Integration
+
+Concerning the above described architectural problem of the memory systems, the
+following guidelines were observed for the development of the H-ZBOB to avoid
+the complexity of memory architecture as a whole.
+
+(1) Elements for the main storage were highly integrated to enlarge the storage
+capacity and to give it future expandability.
+
+(2) A bihierarchical memory structure was adapted, and expandability was
+giver. to the buffer storage for the improvement of the buffer storage hit
+ratio.
+
+In line with these guidelines, for the main storage use, a highly integrated
+
+64 K bit n Mos memory was developed which was suitable for enlargement of
+capacity. Also, for the buffer storage use, a 6 K bit bipolar memory was
+developed. in consideration of future expansion, which was four times more
+highly integrated than that of the 11-2003. Intensity of integration was doubled
+for the logic—in memory (to be described later), also for the sake of future
+expandability.
+
+Meanwhile, in order to reduce Tb. a basic policy was set to develop high-speed
+and high-integration logic 1.51 to be packaged at a high density to improve
+the machine cycle. This idea to inrove performance by high-speed high-density
+packaging will be discussed further later, but at present, specific examples of
+improvement in logic systems implemented in conjunction with this will be
+
+given.
+Further Strengthening of Pipeline Control System
+
+The architecture of the H—ZBOH is shown in Figure lo. The internal makeup of
+the central processing unit (CPU) is similar to that of the Ill-2001i and con-
+sists of a storage control unit (500). an instruction control unit (10), an
+arithmetic unit (EU) and a service unit (SVU). -
+
+The M—280H is characterized by the fact that the inside of the arithmetic
+unit (EU) is subdivided into a general arithmetic unit (GU) and a floating-
+polnt unit (FU), each working as independent logic unit.
+
+As described above, by giving an independent control and memory to each
+separate general arithmetic unit and floating-point unit, it is possible to
+shorten the arithmetic loop time required for calculation (fer example, time
+taken for work register contents in a fixed-point addition executed by a
+general arithmetic unit to be added up and returned to the work register),
+which eventually shortens the machine cycle.
+
+9
+nos OFFICIAL USE ONLY
+CIA-RDP02-00850R000500060044-2
+
+APPROVED FOR RELEASE: 2007/02/09:
+
+FOR OFFICML USE ONLY
+
+   
+
+mean: 05 we 330320.: 0.33 .e 9.59;
+
+gunk—m 3333M ".2. H
+
+Ba
+55;
+
+hﬂ33.h|b
+
+ 
+
+ 
+
+       
+
+95. m. .n...
+
+10
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007102100: CIA-RDP02-00050R000500000044-2
+FOR OFFICIAL USE ONLY
+
+Regarding GU control storage, the storage capacity is doubled compared to the
+H-200Il for the purposes of supporting an intervirtual memory communication
+function, providing various firmware as a standard. and shortening the arith-
+metic cycle numbers.
+
+To realize high-speed operations, the standard operation width is 64 bits. The
+main calculators are, for instance, a serial adder, a parallel adder, a shifter
+and a multiplier-divider (BSA).
+
+Next, improvement of the pipeline control system, improvement in reducing the
+arithmetic cycle numbers necessary for execution of general instructions, and
+a contrivance for vector processing in an IAP will be described as samples of
+improvements and contrivances achieved for the instruction processing system.
+
+‘I. pipeline control system, similar to the “-2008, flows as shown in Figure 5
+when typical instructions-40': instance, / a, Compare, etc—are consecutively
+given. In processing consecutive typical orders such as this, the 10 can
+transmit an interpreted instruction to the GU at 1 machine cycle pitch. The
+EU can process this at 1 machine cycle pitch.
+
+The following are possible factors that disturb the above described pipeline
+control.
+
+(1) Absence of instructions created by the delayed instruction read-out due
+to the concurring operand read-out and instruction read-out to the buffer
+storage.
+
+(2) kecution of branch instructions.
+(3) Execution of SS (storage to storage) instructions.
+
+(4) Absence of operands by waiting when operands are read immediately after
+they are written.
+
+(5) Becution of a system control instruction.
+
+(1) is the absence of instructions which occurs when the operand readout of
+an instruction given four instructions prior to the instruction which met be
+presently read-out concurs in the same machine cycle in the flow of the pipe-
+line shown in Figure 5, and the instruction read-out in such a case, is put
+on hold.
+
+To solve this situation, the system was tempered when the H—ZOOH was being
+developed, so that the simultaneous operand read-out and instruction read-out
+become possible in the same machine cycle in relation to the buffer storage.
+Specifically, it was designed to give access to the high-speed buffer storage
+two times in 1 machine cycle-l machine cycle was divided into a former-half
+and a latter-half cycle, and the former-half cycle was used for the operand
+read-out and the latter-half cycle was used for read/write operation. This
+system is adopted also in the H-28OH. As a result, this problem was completely
+solved.
+
+11
+FOR OFFICIAL USE ONLY
+FOR OPHCIAL USE ONLY
+
+ 
+
+610010"
+
+ 
+
+Figure 5. Flow of u—zaon Pipeline Control
+
+Key: H—ZBOH pipeline example operation of
+IF: instruction read-out instruction
+D: instruction decode and address calculation control
+A: address translation unit
+0?: operand read-out
+. operation of
+. instruction execution } arithletic unit
+
+(2) is a pipeline disorder during a branch instruction execution due to the
+absence of an instruction until an instruction is readout from the branch.
+
+In case of the branch instruction, the next instruction is read as an operand.
+Therefore, an instruction from the branch can ba'exacuted at the sane tine as
+the execution of the instruction given three instructions later, considering
+that the data read as an operand is executed as an instruction according to
+the flow chart of the pipeline in Figure 5. '
+
+This flow cannot be essentially avoided. however, in case's negative result
+
+is obtained when deciding whether or not to branch based upon the judgnent of
+branching conditions, for instance, in dealing with conditional branch instruc-
+tions, the waiting tine for the results of the judpent of the branch conditions
+becomes wasteful pipeline disorder time since the only thing to do in reality
+
+is to execute the next instruction.
+
+In order to minimize this tine, for example, if there are no instructions to
+change the condition code (CC) before the execution of the branch instruction
+after the execution of an instruction which deternines the cc to be used for
+the judgment of branch conditions, branching can be contesplsted during that
+tine. Specifically, in Figure 5, where instruction(l) is an instruction to
+determine the CC for judgsent of branching, step (6) is a branch instruction,
+and intermediate (2) and (3) are instructions not to change the cc, branching
+can be contemplated while executing steps (2) and (3). Such a systes was par-
+tially adopted in the H-280h to speed up the processing.
+
+12
+FIIICHWWCIAI.USE(NVLY
+ma OFFICIAL use ontv
+
+SS Type Instructions Loaded on the Pipeline Flow
+
+Next, referring to factors (3), (A) and (5), curtailment of pipeline control
+disorders derived from these was stressed. As an example of efforts in
+achieving this goal, let us talk about a high-speed processing method loaded
+on the pipeline processing flow for SS-type logic operation instructions.
+which are often used in office calculatuxlprograns, on-line programs and con-
+trol programs.
+
+In the conventional processing of SS-type instructions, pipeline processing
+was often suspended when these instructions were interpreted because of
+pipeline processing difficulty due to the procedure where data read from the
+main storage (or buffer storage) was computed and written into the main
+storage (or buffer storage).
+
+As a specific instruction, let us think of a love character (HVC) instruction.
+HVC instruction is an instruction to transfer operands of a certain number of
+bytes designated by the L (length) field of the instruction from the field
+designated by the second operand address to the field designated by the first
+operand address.
+
+For simplification, we shall assume that the length of an operand is 60 bytes,
+and the operation of the instruction is completed after 5 readings and S writ-
+ings, 8 bytes at a time. Under this condition, we shall assume that 8 byte
+loading and 8 byte storing will be executed 5 tines each, and initatively,
+
+8 byte load instructions and 8 byte store instructions will be repeatedly
+processed. By treating this as repetitious consecutive processing of load
+instructions and store instructions, HVC instructions can be put on the flow
+of the pipeline processing. The flow of HVC instructions in such a case is
+shown in Figure 6 (b).
+
+In the flow of the MVC instruction executed in Figure 6, the first operand
+address is computed in the D1 cycle to keep the address available in the
+address register. The (0?) cycle is not required for HVC instructions, but it
+reads out operands in an SS—type logic operation, which uses even the first
+operand for the operation.
+
+The second operand address is computed in the DZ cycle; the second operand is
+read in the 0? cycle using the above address and written into the first
+operand address in the E cycle.
+
+Subsequently, 8 is added to the first and second operand addresses and 8 is
+subtracted from the operand length L. and the processing from the same D2
+cycle will be repeated.
+
+Hith this arrangement, the pipeline processing as shown in Figure 6 (b) can
+be executed. Figure 6 (a) shows an imaginary computer processing flow without
+
+the above described concept. The time to execute the instruction following the
+HVC instruction is approximately cut in half.
+
+13
+FOR‘OFIIC]AI.IEH!(HVLY
+FOR OFFICIAL USE ONLY
+
+       
+
+(1) nlzzua55:5ensuuuuxsnnnnmzlaa
+cum:
+
+(2) |
+
+swam l
+
+(3)
+
+“m.nnumn
+I.-
+mum
+
+.-
+man“
+I.-
+(a) mama
+.\|\'C'a'.r ---
+
+ 
+
+Ib|(5) MVC: mrerxlwuf-Jﬁis‘
+(6) C]: m'c mmne 4 7n-
+
+ 
+
+ 
+
+Figure 6. Pipeline Flow of HVC Instruction Processing. The nuberofmachine
+cycles is nearly cut in half in the 14-2801! mated to conventional
+
+computers .
+
+As an exanple of speed enhancement by reducing the number of arithmetic cycles,
+a decimal arithmetic instruction can be given.
+
+In the decimal arithmetic instruction, provisions for a special arithmetic
+circuit are nade when there is a speed-improving effect. At the same time,
+enhancement or speed was sought by adding specific microprogram routines to
+respective flows, when, for instance. the processing flow changes due to the
+difference in the length of operands even within the same instruction.
+
+In Figure 7. decimal instruction performce ratios of the 14-2001! and the
+H-ZBOH are shown. 0n the average, regarding the 6 instructionsnaddition,
+
+1’;
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+h“ III E“ ‘ III. E.
+
+(2) (3) (4) (5) (6) (7)
+
+Figure 7. Deciml Arithmetic Instruction Performance Comarison
+
+Key:
+
+(1) performance ratio (5) rounding
+
+(2) addition (6) binary conversion
+(3) multiplication (7) compression
+
+(Io) division
+
+multiplication, division, rounding. binary conversion and compression-«he
+performance of the 11-28011 has improved about twofold over the 11—20011.
+
+With improvement of the arithmetic systems such as indicated above, the “-28%!
+achieves a throughput 1.5 times greater than the 11-2003 in the Oobol office
+
+calculation programs shown in Figure 2.
+
+0n the other hand, for science and technology calculations, it has an IAP
+add-on mechanism which is unique logic mechanism. The IAP add-on mechanism
+as shown in Figure It consists of a vector data buffer, a vector address
+
+adding mechanism and special microprograms.
+
+The IAP converts the innermost side D0 100p written by Portran into a special
+vector instruction and processes it at high speed using an arithmetic pipe-
+line system which is practiced in supercomputers. '
+
+The processing rate at this time occasionally reaches seven-eight times faster
+than the cases processed by normal instructions.” However, the entire program
+Is not processed at such a high speed. Generally, as shown in Figure 8, the pro-
+cessing rate of the entire program becomes 2.5 times faster when, for instance,
+80 percent of the program execution time of a normal instruction is converted
+into that of a vector instruction, and that portion is processed four times
+faster. The smaller the percentage of theportion which cannot be processed by
+the vector instruction, the faster the entire program processing rate.
+
+15
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLV
+
+F———_——‘————
+
+(2)t—_‘
+
+(1) N“ 7 It It (3)
+lic’i’nﬂﬁﬂ It!“ '4' “7 f bbﬂlill‘" 5.
+"‘13 .
+
+      
+
+ 
+
+(0
+
+IAI’HJOM
+
+L___
+
+——_.——_--——._----..- . -.--.-.-
+
+,,
+It.
+
+Figure 8. Normal Instruction Processing Tine and Processing Title by IAP
+
+ 
+
+Key:
+(1) normal. instruction processing (3) portion which can be processed by
+(2) portion which cannot be processed vector instruction
+
+by vector instruction (6) processing by IA?
+
+The ratio of this vector instruction processing is designated as vector effi-
+ciency, and if vector efficiency is designated as a and the high-speed pro-
+cessing ratio (acceleration ratio) of the vector instruction processing is
+designated as K, the imprnvenent level of the entire progral eutecution tile 8
+can be obtained by the following equation:
+
+I
+
+8' a+K(l-e5
+
+As indicated above. inprovenent of vector efficiency is inortant for the
+improvement of general performance. The H-ZOOB has provisions for 18 instruc-
+tions mainly focusing on four fundamental rule arithmetic vector instructions
+and vector nacro .instructions such as an inner product, product sum and
+suction.
+
+In the D0 loops of a science and technology calculation program. the D0 loop,
+which contains conditional sentences (I? statements), appears cnparatively
+frequently but is not suitable for processing the above described four funda-
+mental rule operation and-acro instruction by vector instructions.
+
+In the 31—2808. a new vector instruction has been added aimed at facilitating
+vector processing of this DO loop with conditional sentences, in order to
+
+improve the vector efficiency.16 Simultaneously a Fortran coniler was devel-
+oped. which automatically converted DO loops with conditional sentences into
+
+16
+FOR OFFICIAL [BE ONLY
+FOR OFFICIAL USE ONLY
+
+a vector instruction. By this development, we canexpect automatic improvement
+in vector efficiency and an improvement in the processing rate associated with
+it.
+
+III. Channel Logic Systea Design
+
+The channel is under a centralized control system whereby one 0/0 processor
+(10?) controls all eight channels, and 10? is highly densely packaged using
+1.51 with 1500 gates to make a more conpact architecture than the 14-2008. One
+10? unit and eight channels are housed on one backboard. 10? is given an
+image of an independent 1/0 operation specialty processor with an internal
+control storage, and has provisions for future functional expansion.
+
+Generally, channel logic consists of an 1/0 interface operation control
+channel, a data transfer control which controls the data transfer operations
+relating to the main storage, and an 1/0 instruction control which controls
+activations and interruptions. Figure 9 is a block chart which indicates the
+architecture of an 1/0 processor with 8 channels connected.
+
+The channel unit contains byte multiplexer channels and block multiplater
+channels, and the maximum two units of the former and the eight units of the
+latter can be connected per one unit of 10? for a versatile connection. The
+block multiplexer channel, in particular, is equipped with asynchronous
+transfer function which transfers data at high speed to lake 3 H bytes/sec
+data transfer possible. The conventional maximum 16 channel limit was in-
+creased to 32 channels, and the standard block multiplexer channel data
+transfer speed was upgraded from 1.5 H bytes/sec to 3 H bytes/sec, to achieve
+an overall throughput increase of approximately fourfold and to make provi-
+sions for larger files and a better system throughput.
+
+Data transfer control and 1/0 instruction control have many interchannel
+common operations and are independent of the 1/0 interface operations.
+Therefore, they are concentrated and compact as a common control. The data
+transfer control contains data buffer register and address register groups for
+data transfer. It sends addresses to the min storage in accordance with the
+read and write requests from the channel to the Iain storage and reads or
+writes data from or into the main storage.
+
+The 1/0 instruction control has a special control storage. Complicated acti-
+vation and interruption processing are controlled by the microprograns within
+the control storage.
+
+Also, the 1/0 instruction control has a channel storage which stores unit con-
+trol words (UCH)--information that controls the 1/0 device. The unit control
+words can be connected to the channel and must be provided with as many as the
+number of simltaneously operable 1/0 devices. In the past, 256 words (8 bit
+address), equivalent to the number of addresses of 1/0 devices affiliated with
+the channel, were provided for the byte mltiplexer channels in consideration
+of the connection of the conunication lines, but 256 words were not necessarilj
+provided for the block multiplexer channels, considering that the number of
+simultaneously operable 1/0 was small. In the "-280“, 256 unit control words
+
+17
+F0! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+data tramfer
+
+res-hi.
+control
+3 to rs
+
+channe
+storage
+
+ 
+
+Figure 9. I/O Processor's Logic Structure. Consisting of mtually indepen-
+
+dent and overlapping channels, data transfer control and 1/0
+instruction control.
+
+are provided for all block nultiplexer channels in consideration of the
+capacity increase of the mass storage system 0188). The 1/0 instruction con-
+trol centralizes and nanages channel neaories that store the unit control
+words. Unit control words. for instance, store details of channel co-and
+words delivered fron software during activation, and the status information
+is renewed with the progress of the channel operation. After the completion
+of the operation. part of the details will be reported to the software as
+
+interrupt information. Table 2 cowares specifications of the new model with
+the former model.
+
+18
+POI OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Table 2. Comparison of Channel Specifications
+
+ 
+
+ 
+
+Number Item H-280li "-2001!
+l 10? number/CPU lo 2
+2 number of channel/10? 8
+3 number of channel/CPU 32 16
+lo types of channels
+byte multiplexer channel maximum 2/10? maximum 2/10?
+block multiplexer channel maximum 8/10? maximum 6/10?
+5 number of U0"
+byte multiplexer channel 256 256
+block multiplexer channel 256 610
+6 transfer speed
+byte mltiplexer channel maxi-1m 100 maxim 100
+block multiplexer channel maximum 1.5
+(H bytes/sec) maximum 3 (maximum 3)*
+
+Thigh-speed block mltiplexer channel
+
+Channel Speed Acceleration by Independent Parallel Operation of Three Basic
+Units
+
+For the acceleration of the channel operation speed and compaction of archi-
+tecture. lead control and parallel control are required just as in processors.
+In a processor, as a basic concept. the instruction control unit, the arithm-
+tic unit and the memory control unit, known as the three basic units, are
+designated to perform their respective Emotions independently in parallel for
+the enhancement of the speed.
+
+Similarly, in 10?, the channel unit, the 1/0 instruction control unit and the
+data transfer control unit can perform their respective functions independently
+in parallel. while mltiple channels of the channel unit are performing 1/0
+interface data transfer operations in parallel, 1/0 instruction control can
+activate the next 1/0 instruction received and can execute interrupt handling
+of I/O operations already completed. Data transfer control can process data
+transfer requests fron multiple channels one after another. Specifically,
+eight channels, 1/0 control and data transfer control can mutually overlap
+
+and operate. Figure 10 indicates the state of overlap operations.
+
+Figure 10 shows the state of overlap operations in terms of the relationship
+of the respective operations to tile. assuaing that channels A and C execute
+writing into the 1/0 device (reading from the main storage) while channel 3
+executes reading (writing into the main storage) from the 1/0 device after
+three channels, channel A, channel 3 and channel C, are activated.
+
+FOIOFFICIALIEEONLY
+I] II I] [l I] I] [l [I Ell/M-Iu-MSI
+*8 llﬂllll llﬂllllﬂl
+(sycowcc
+FOR OFFICIAL USE ONLY
+
+in this manner. sufficient transfer capacity has been given to the present
+high-speed file magnetic disc unit with a capacity of 1260 H bytes/spindle
+and a data transfer speed of 3 H bytes/sec. As for the IOP throughput, the
+10? has provisions for connecting even higher transfer capacity channels when
+a high-speed file is developed and I/O interface data transfer capability is
+improved in the future.
+
+IV. Improvement of Semiconductor Element Technology
+
+In conjunction with the above described logic system improvements, we decided
+to develop a new high—speed high-density LSI and to devise high-density
+packaging with it.
+
+Assuming that the 1.3-1.6 performance improvement over the M-ZOOH would be
+achieved basically by improving the machine cycles, a circuit speed goal and
+an integration goal for elements were determined. Assuming that an average
+delay/row of gates including wiring delay and loading delay is called a system
+delay. this system delay must be accelerated at least 1.3 times and more. If
+this can be achieved only by improving the gate switching time, the machine
+cycle improvement ratio "y" will be expressed as follows, where "a" is the
+percentage of gate switching time delay to the system delay and "x" is the
+switching time improvement level:
+
+1
+
+(l-a) + a
+
+ 
+
+if a - 0.6 and y - 1.3, x - 1.6, which means an improvement of about 1.6
+
+times is necessary. The machine cycle was improved from both angles: for LSI
+with maximum 550 gates, 60 percent acceleration was planned, and circuit delay
+time 0.7 ns was improved to 0.45 ns. Concurrently, packaging density was en-
+hanced by admixing LSI with maximum 1500 gates to shorten the wiring delay,
+which contributes to the system delay.
+
+Adoption of Three-Dimensional Packaging System Similar to the H-200K
+
+The packaging system of the H-ZSOH uses three-dimensional packaging which con-
+hines two types of substrates called package and backboard just as in the
+H-200H, with increased package density/capacity.
+
+Figure 11 shows a large high-density substrate (package) of approximately
+
+40 x 20 cm size for loading LSI and HSI. In the "-2803, as in the M-ZOOH, L8!
+is admixed with M51 and $81 in consideration of gate-pin ratio (ratio of
+integrable number of gates to a given number of pins). In one package, a
+maximum of 20 L31 and 20 M81 and 881 can be packaged.
+
+As a connector to connect this package to the outside components, a SO-mil
+
+(1 mil = 25.6 um) pitch connector is used; 580 pins in all, combining front
+and back terminals. can be used. The substrate is composed of glass-epoxy and
+has a total of 10 conductive layers. The grid pitch is designated as 75 mils
+to enlarge the wiring capacity of each layer for the facilitation of high-
+density packaging.
+
+o
+
+21
+
+FKHI(NHHCIAL USEIDNLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure ll. Package Loaded Hith LSI
+
+The backboard is the substrate on which a package is housed. On one sheet of
+backboard, 2h packages can be housed as a standard. An entire backboard can
+house 50 K-ZOO K gates, and has a total of 18 conductive layers. The wiring
+capacity is upgraded compared to the backboard (lb layers) used in the “-200“.
+
+Semiconductor Process Technology Improved From the Conventional 3 pm to 2 um
+
+The semiconductor technology used for the H-ZSOH is in principle an improve-
+ment in speed or integration over that of the H—ZOOH. However, the basic
+technology used in developing these semiconductors is markedly reformed from
+that of the M—ZOOH.
+
+To improve the speed and integration of semiconductors, the switching speed
+must be upgraded and the power must be downgraded by reforming the semicon»
+ductor process. The following semiconductor technologies were developed using
+the technologies reformed for this purpose—~2 um photolithography technology,
+dry-etching type microwiring technology, process technology such as three-layer
+wiring technology, and technology such as LSI automatic design system, LSI
+diagnostic system and test system.
+
+1. Logic 1.81
+
+The logic LSI was improved in two different ways: 60 percent acceleration of
+the speed of the conventional 550 gate LSI without changing the number of
+gates; achievement of high-density packaging of logic with a better gate-pin
+ratio by a newly deveIOped maximum 1500 gate L81.
+
+2. Logic-in Memory Element
+
+As a new logic-in memory element, an element which can house a blbé bit memory
+and a 770 gate logic circuit was developed. The integration of this element
+is ahmostdouble that of the M—ZOOH. Since this logic-in memory element is
+called IA (index array), we will refer below to the one developed for the
+H-ZOOH as IA 1 L81 and the one developed at this time as IA 2 L81.
+
+22
+ll)R‘0¥1ﬂ(]Al.USIZ(HVLY
+FOR OFFICIAL USE ONLY
+
+3. High-Speed Bipolar Hemry Element
+
+A new high-speed (access time 7 ns) and high-integration (’0 K bit) bipolar
+memory element was developed as a memory element to be used for buffer
+storage and control. This memory has the same access time but is integrated
+four times better than that used for the 14-20011.
+
+4. Main Storage Use 61. K Bit n HOS Maury Element
+
+As a memory element to be used for main storage. a 610 K bit memory element was
+developed. The capacity of the main storage was upgraded by designing to have
+virtually the same access time as the 16 K bit memory used in the 14-2001! with
+this memory packaged in the main storage. Tables 3 and lo show specifications
+of logic and high-speed memory.
+
+Table 3. Comparison of Logic LSI of the 11-2801! and the H-ZOOH
+
+—_—______—————.———————————————_——
+
+ 
+
+It- H—ZBOB M-ZOOH
+_____________________________._
+1500 gate [.81 nunber of gates maximum 1500
+
+circuit speed 0.8
+
+number of pins 108
+
+average power (H) 3.5
+550 gate LSI number of gates minus 550 maximum 550
+
+circuit speed 0.65 0.7
+
+number of pins 108 108
+
+average power (H) 3.3 3.3
+
+_—_________—__._—.—————————————
+
+Table 4. Comparison of Logic-in Memory and High-Speed Bipolar Memory
+Element Devel- Element Devel-
+
+Item 05d for “-2801! oped for n-zoou
+logic-in memory number of memry bits 61106 3072
+element number of gates 770 470
+memory access time (ns) 6.7 6.7
+average power (H) 5.2 3.9
+bipolar memory number of memory bits 14096 1024
+element memory access time (ns') 7 7
+average power (W) 1 0.8
+
+______——____—_—————————————
+
+23
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+1500 Cute Mnstersllco LSI Packaged in the Same Package as the 550 Gate LSI
+
+While a process with a 3 ma miniaturization was used for the $50 gate 1.81 of
+the H-ZOOH, the miniaturization was further advanced for the high-speed 550
+gate 1.51 of the H-ZBOH by designating 2 pm as the smallest size emitter.
+Consequently, speed was accelerated from 0.7 ns/gate to 0.45 ns using vir-
+tually the same circuit current. Besides the miniaturization of transistors,
+the chip size was also reduced to two-thirds in terms of area ratio, from 5.7
+III! square to 4.5 In square, by reducing the aluminum wiring width and span.
+This size reduction increased the nmber of chips to be obtained from a wafer
+of identical size.
+
+0n the other hand, a maximum 1500 gate masterslice model gate array 1.81 was
+developed using the 2 pm process for the achievuent of high integration.”
+A photo of this chip is shown in Figure 12. This [.51 uses a high-speed 861.
+system just as in the 550 gate LSI. Its power voltage is -lo.5V and there are
+88 external input/output pins, which are packaged on the same 108 pin flat
+package.8 The basic circuit is composed of three input ORIROR. Hired/0R and
+Correct/AND are manipulative and can be used as logic gate equivalents, con-
+tributing to the higher density of the logic gates. One block is constructed
+with these four basic circuits, and this block is lined vertically and hori-
+zontally in a matrix, with the wiring channels running between the matrix.
+
+An automatic layout and automatic wiring program handles gate layout and inte-
+grate wiring. If the wiring channel capacity is too small, it takes too such
+computer time for layout and wiring and it may take design time for manual
+wiring in case the unwired space is left to the end. On the other hand, if
+the wiring channel capacity is too large, the chip size will increase. The
+optimum number of channels was determined based upon the results of the 550
+gate LSI, and 1500 gates were successfully integrated on a 5.8 III square size
+chip. The reduction of the chip size leads to reduction of costs and allows
+the use of the same LSI package as the 550 gate 1.51.
+
+The automatic layout and automatic wiring programs were remodeled for use
+in the !.500 gate LSI; they can complete layout and wiring virtually within the
+same time as in the 500 gate 1.81.
+
+In order to package the 1500 gate LSI, which is three times more integrated
+than the conventional LSI, while holding down the electric consumption to the
+same level on the same package, the following innovations were made. Speci-
+fically, the current of the basic circuit was reduced to one-third that of
+
+the 550 gate LSI, but the on—load activation current was set at two-thirds.
+Furthermore, compared to the conventional two-layer wiring on the chip, a
+three-layer wiring technology was developed at this time; the power wiring
+
+was transferred to the third layer while the logic wiring was installed on
+
+the first and second layers. In addition to this arrangement, the wiring pitch
+was 30 percent more densified. The power current is the same as with a 550 gate
+gate LSI, so that the latest LSI can be used jointly with the former 1.51.
+
+In using LSI, a 1500 gate 1.81 is used for the logic with a good gate-pin ratio,
+and a 500 gate LSI is discriminately used for other irregular logic. This
+proper use of 1.81 resulted in an increase in packaging efficiency, improvement
+in total system packaging density and shortening of machine cycles.
+
+2h
+POI! OFFICIAL USE ONLY
+‘1‘- .
+'u ‘
+
+‘.9 ”kiwi-v?
+
+-Eﬁm
+
+men--
+
+It- 4- v.
+
+F R OFFICIAL USE ONLY
+8t.- ” >51. .1. 3.... ”g .3332: “go 523 "a
+15:52:! ”H3 .5395 "(u Iii " an: . taint-gm "30
+
+    
+  
+
+023.. can
+
+Iooaou uﬁud. , <0
+FOR OFFICIAL USE ONLY
+
+Doubling the Nulber of Bits and Gates of Logic-in Memory Element
+
+Tlu- logic-in memory element has a cannon use for the address translation
+buffer (TLB) and the buffer address array (BAA) of high-speed buffer storage
+(BS). In the M-ZOOH. the memory array and logic were cut out and a 3072 bit
+and 670 gate IA 1 LSI was developed‘1 so that this element could have cannon
+use for both a 256 column at 2 line TLB and a 64 colmn x 16 line BAA. In the
+H-280H, IA 2 L51, practically the same circuit speed and doubled integration
+level was developed to facilitate the improvement of BS packaging density and
+to make provisions for future capacity expansion.12 Figure 13 shows the inter-
+nal block chart of an IA 2 L51, and Figure 14 shows an example of its applica-
+
+tion to the BAA. This application method is the same as in application exam-
+plel concerning the M-ZOOH.
+
+  
+   
+
+  
+
+Figure 14. IA 2 L51 Example of
+Application to BAA (buffer address
+
+array). The dark box shows part
+added in IA 2.
+
+buffer storage
+
+address
+buffer storage
+
+    
+
+ 
+
+ 
+
+27
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+--.-~m.n u -. "I .
+i . ' -—
+
+{11"
+
+Figure 15. Pictures
+IA 1 L51 (8) and
+IA 2 LSI (b).
+
+I‘D-Iii
+
+i
+E
+i
+7v.
+o
+
+FOR OFFICIAL USE ONLY
+u
+N
+0
+E
+S
+.u
+L
+A
+m
+0
+m
+F
+FOR OFFICIAL USE ONLY
+
+‘l‘he IA 2 LSI and high-speed bipolar memory are designed to be sufficiently
+reliable even against alpha-ray obstacles. Generally. soft errors due to
+alpha rays are more liable to occur in proportion to the advancement in inte-
+gration and speed of the memory. However. it is proven that the soft error
+ratio was held below 30 FIT (l PIT: one defect out of 109 parts 8 time) accord-
+ing to operation results of the l K bit memory for the 11-200}! with provisions
+for countering alpha ray obstacles such as improvements in circuit‘technology,
+chip-coating and quality of packaging materials.15
+
+In addition to this achievement, the In K bit memory, IA 2 L51, which incor-
+porates radiation instrumentation, quantitative analytic technology for
+uranium and thoriua contained in very small amounts in packaging materials
+high purity. high heat-resistance and improved flexible coating materials,“
+also realizes a soft error ratio equivalent to that of the l K bit memozy.
+
+The high-speed 61. K bit n MOS memory element used for the main storage unit is
+slightly slow in access time compared to the 16 K bit element. However, the
+overall performance of the main storage unit viewed from the storage control
+unit was made to be the same as when a 16 K bit was in use by using many of
+the previously described 550 gate and 1500 gate 1.51 in the peripheral logic of
+the memory and storage control for the compaction of the overall space.
+
+Figure 17 shows a picture of a 66 K bit n nos memory element.
+
+Complete Supportive Setup for Development
+
+In the above, we have focused on the merits of the logic systems and system
+specifications and hardware technology that support them, comparing them with
+the H-ZOOH.
+
+A higher speed was achieved for the 14-280}! based upon the H—ZOOH using high-
+speed LSI and high—integration saliconductors, and simultaneously it was
+designed to meet the needs for sophistication and versatility of the system
+by extending the framework of system specifications such as expansion of the
+main storage capacity and expansion of the connectable channels. These expan-
+sions of specifications also have much to do with the progress of the semi-
+conductor technology.
+
+Likewise. improvement and development of performance evaluation technology,
+design automation technology. logic verification simulation technology, cir-
+cuit delay verification simulation technology, LSI RAH test technology
+
+and package diagnostic technology are important. in addition to the develop-
+ment of logic systems and hardware technologies for the development of a pro-
+cessor such as this. Fair and honest efforts to improve these technologies
+are the foundations for the development.
+
+In conclusion, we would like to express our determination to make use of the
+technical experience obtained in connection with the development of the “-2808
+as resources for our future efforts to develop a better system.
+
+30
+FOR OFFICIAL USE ONLY
+RAH Chip.
+
+m
+n
+t
+1
+B
+K
+[4
+6
+a
+f
+o
+e
+r
+u
+t
+c
+1
+P
+
+I'll-I33. 6' i l .1
+
+Figure 17.
+10.
+
+11.
+
+12.
+
+13.
+
+FOR OFFICIAL USE ONLY
+
+FOOTNOTES
+
+Nkazava, Funnoya and Odaka: "Fastest Comercial General Couputer With a
+Pipeline System Strengthened by 1.81 Technology," NIKKEI ELECTRONICS,
+26 Dec 1979. No 228, pp 104-130.
+
+Hatauzaki: "Eacamination of Internal Structure of Large Computer 1m 3081,"
+NIKKEI ELECTRONICS, 22 Jun 1981, No 267, pp 172-200.
+
+Horikoahi, IL, Nagaahilna, S., Purumaya, K. and Okada, T.: "An Example
+of LSI-Oriented Logic Implementation in a Large-Scale Computer, The
+11-20011,” DIGEST 0F PAPERS CMPCON SPRING, pp 62-65, Feb 1980.
+
+Chiba, T., Furumaya, K. and Hoaoaaka, 8.: "Packaging Trade-Offa for an
+LSI-Oriented Very High-Speed Computer, The NITAC 14-2008," IEEE TRANS.
+on CENT, Vol CHHT 4, No 2. pp 166-172. Jun 1981.
+
+Izumi, Homoae, Hosoaaka and Kobayaahi: "Development of KITAC “-2803
+Processor,” HITACHI HYORON, V01 63, No 9, pp 43-48, Sep 1981.
+
+Saito, Furukatau, Hiki, Tokunaga, Hatanabe and Tomita: "High Speed
+Technology and Architecture of Large Computer ACOS 1000," NIKKEI ELEC-
+TRONICS, 11 Hay 1981, No 264, pp 174-200.
+
+Hirakuri, Ueno, Tauchimoto: "Large Computer H—380/382 With Improved
+Performance by Trihierarchical Henry System and High-Density Technology,"
+NIKKEI ELECTRONICS, 11 Hay 1981, No 264, pp 176-200.
+
+Ohtsuka, K. and Dani, T.: "Design of a 108 Pin VLSI Package With Low
+Thermal Resistance," DIGEST 0P 3RD EUROPEAN HYBRID MICROELECTRONICS
+CONFERENCE, pp 94-99, 1981.
+
+Maaaki. A., Harada, Y. and Ikeda, T.: ”Optimization of the Oxide,
+Iaolater Transistor Structure for ECI. Haateralice LSI'a," ESSCIRC'77
+DIGEST OF TECHNICAL PAPERS, pp 128-129, Sep 1977.
+
+Anzai, A.. Ohya, Y. and Nitta. Y.: "High Speed Bipolar [.81 Technology,"
+IIIGH SPEED DIGITAL TECHNOLOGY CONFERENCE DIGEST, 2-2, Jan 1981.
+
+Hotta. A., Ogiue, K., Mitausada, K.. Yanaguchi, K.. Inadachi, H. and
+llinai. M.: "Bipolar Memory LSI Chips for Computer," IEEE INTERNATIONAL
+SOLID-STATE CIRCUITS CONFERENCE (ISSCC), DIGEST OF TECHNICAL PAPERS,
+THAN 9.1, pp 98-99. Feb 1979.
+
+Odnka. H., Ivabuchi, M., Ogiue, K., Kitaukawa. 6., Yamaguchi, K. and
+Inadachi, 11.: "A Nev High-Speed Logic-in Memory VLSI for Main Frame
+Computer," ibid., Feb 1982, to be published.
+
+Inadachi, 11., Home. N., Ymguchi, IL, Ikeda, T. and Biguchi, 11.:
+"A 6 no lo kb Bipolar RAH Using Switched Load Resiater Memory Cell,"
+ibid., THAN 9. 6, pp 108-109, Feb 1979.
+
+32
+OFFICIAL USE ONLY
+FOR 0Fi1CJAl.USE1DNLN
+
+1a. Hitausada. Nishikawa, Nulata. Ringo. Taunano. Shiraau. Sahara and
+Hakino: "u-Ray Blocking Seniconductor Coating Material 'PIQ.'" Proceed-
+inga from FY-al National Convention of Semiconductor-Material Sector of the
+Society of Electronic Comnicationa, Proceedinga No 65. Oct 1981.
+
+15. Takizawa, Kato, Ogiue, Mitauaada, Yanaguchi and Inakata: "Dependency of
+a-Ray Related Software Errors on Cycle Tile in Bipolar RAH," sale aa
+above, Proceedings No 64, Oct 1981.
+
+16. "Portran for Interpreting Repetitive Operations in I? aentencea in no
+Loop Into Vector Instructions." NIKKEI ELECTRONICS, 9 Nov 1981, No 277,
+pp 96-99.
+
+17. Kawabe, Unetani, Takanuki, Hurayana. and Odaka: "BITAC HeZOOﬂ Integrated
+Array Processor (TAP)," DENKI TSUSHIR GAKKAI GIJUTSU KENKYO HOKDKU,
+3680-99, pp 67-75, March 1981.
+
+18. Tanaka: "High-Speed Technique for Science and Technology Calculation
+Computer.“ NIKKEI ELECTRONICS. 3 Aug 1981,80 270, pp 122-136.
+
+COPYRIGHT: Nikkei-HCGraw-Hill, Inc 1982
+
+89b0
+CSO: 4106/62
+
+33
+INDI‘OFIICJAl.lEli(ﬂVLY
+FOR OFFICIAL USE ONLY
+
+some: AND TECHNOLOGY
+
+OVERSEAS rmommcm. Homers PACE DIFFICULTIBS
+Tokyo union KEIZAI sannnm in Japanese 18, 19 Mar 82
+[18 Mar 82 p 7]
+
+[Text] Overseas petrochemical projects, staked with rosy drea- are having a
+difficult tine. Following the Iranian petrochenical business. which has be-
+cone alnost a "corpse." the Singapore pstrocheuical enterprise is faced with
+difficulty now that Hitsui Petrochenical Industry has expressed its desire to
+withdraw. The enenies of overseas projects include country risks sonstines,
+and inflated raw nterial and construction costs at other tines. Diffi-
+culties which assembling and processing industries will never experience can
+crop up because of the sheer size of a project. However, overseas expansion
+is an mavoidable course for Japan's petrochqsicsl industry. because it has a
+decisive handicap in the area of raw naterials. Petrochenicel [industry]
+circles are searching in earnest for the desirable format for overseas
+projects which can ilprove profits and reduce risks.
+
+A Sigh Upon withdrawal by Hitusi Petrochenical
+
+"The inevitable has cone." In late February, when it beta-e known that
+Hitsui Petrochenical had decided to withdraw fro. the ethylene glycol (36)
+undertaking, which is the nucleus of the Singapore petrochenical project, the
+leaders of industrial circles all sighed equally.
+
+The Singapore petroche-ical project was started in late 1971, before the first
+oil shock, upon the request of the Singapore Govern-ant to Sunitono Chedcal
+Industry for cooperation. The original plan was to use naphtha (crude gaso-
+line) produccd by Singapore's petroleu refinery base. which is one of the
+leading bases in the world. as the raw naterial and to produce a consistent
+series of petrochenical products, including ethylene. high-, nediun—, and low-
+pressure polyethylene. polypropylene, and no to be distributed over the South-
+east Asian narkets.
+
+At that tins, the project was supposed to be couplets with three i-portant
+conditions consisting of raw nterial. narket and infrastructure. However,
+after the oil shock and the consequent rise in the cost of naphtha. which is
+produced fron oil, it becane clear that they could no longer coqete with the
+0.8. and Canadian petrochenical industries, which use cheaper natural gas as
+
+31.
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the raw material. Nevertheless, the project was pushed forward according to
+schedule. In 1975, a basic contract between the Singapore Government and
+Sumitomo Chemical Industry was signed. and in 1977 the project was upgraded
+as a national project The project was launched with a hidden Achilles heel—
+"high raw material costs."
+
+Remaining Group Heaters Conduct Bitter Negotiations
+
+0n the other hand, the price of BC in the Southeast Asian market dropped to
+120-130 yen per kilogram, thanks to the offensive launched by 0.8. and
+Canadian products. In the case of the Singapore project, "160 yen per kilo-
+gram is the profit line, based on calculations that take into consideration the
+cost of raw materials and of plant construction. It cannot be lowered any
+further," (according to Mitsubishi Petrochemical, which participated in its HG
+enterprise). Under present circumstances, the Singapore petrochemical busi-
+ness must be prepared to lose if it wants to sell in the Southeast Asian
+market.
+
+"We are already bearing the load of Iran Petrochemical and can bear no more
+overseas burdens," explained Naritada Tannawa, president of the Hitsui Petro-
+chemical, to the other members of the consortium. But it is quite evident
+that a loss of confidence in the prospects for a profit on EG from the Singe-
+pore enterprise was the major motive for its withdrawal.
+
+The members of the EC enterprise consortium that were left behind after the
+withdrawal by Hitsui—Hitsubishi Petrochemical and Nippon Shokubai Kagaku
+Kogyo, together with Sumitomo Chemicalubegan negotiations with the Singapore
+Government concerning stopgap measures necessitated by the withdrawal of
+Hitsui Petrochemical. The Singapore Government is reluctant to raise its con-
+tribution rate, however, and bitter negotiations continue.
+
+Singapore was not alone in feeling the impact of the offensive launched by the
+petrochemical industry based on natural gas.
+
+Korea Suffers From the Same Difficulty
+
+Korea's Honam Petrochemical is a complex built in the Yosu area through a
+joint effort by Korea and the Hitsui group (Hitsui a Go, Kitsui Toatsu Chemi-
+cal. Hitsui Petrochemical, and Nippon Petrochemical), which carpeted with its
+rival the Mitsubishi group and won the contract. The leading role played by
+this project in the modernization of the industry was much talked about. ‘lhey
+went into comercial operation in the fall of 1979. but they are operating in
+the red today. The reason for this is the fact that its EC, one of the main
+products. cannot compete with 0.8. and Canadian inorts. Fiber products con-
+stitute an inortant part of Korea's exports. so the manufacturers are seeking
+cheaper raw materials in order to cut costs.
+
+The raw material situation is just as serious in Korea as it is in Japan. So
+far, its ethylene costs approximately 200 yen per kilogram, which is higher
+
+than Japan's 170-180 yen. It is quite obvious that Korea cannot compete with
+U.S. and Canadian inorts. At this juncture, the price of naphtha has dropped
+
+35
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL [ESE ONLY
+
+smeuhat. but the Japanese (Mitsui & Co.) are apprehensive about Whether
+this can become a decisive factor by which profits can be ilproved."
+
+The Saudi Arabian Petrochemical enterprise participated in by the Mitsubishi
+group received an unexpected blow amid this worldwide relaxation in the de-
+Iand and supply of oil and the consequent reduction in the cost of oil. All
+the participating members had expected to reap a plus-alpha profit, aside
+from the petrochemical business, from the bonus crude oil they are to get
+over a period of 15 years starting in 1986, when the petrochemical enterprise
+begins comercial operations, as a reward for their contribution to the de-
+velopment of the enterprise.
+
+The irony of the matter is that the price of oil dropped rapidly in January
+when advance shipments of the bonus crude oil began. Crude oil whose 68?
+(official sale price set by the government) is lower than that of Saudi
+crude—such as Iranian crude and North Sea crude—has even appeared, so the
+situation that existed last sumer, when the price of Saudi crude was lover
+than that of other crude, has been cowletely upset.
+
+As a result, the advantage of "cheap Saudi crude" has been lost. The disap-
+pointment to the participating melters has been especially great, because al-
+most all participating members had counted on the profit they would get from
+the bonus crude to make up for the risks that go with projects in oil-produc-
+ing countries. If the relaxed state of oil demand and supply persists, bonus
+oil can turn into penalty oil. Cries for help have been heard.
+
+The greatest enemy of overseas projects used to be the country risk. The
+Mitsubishi group is still bogged down in the quagmire of the Iran Petrochemi-
+cal project as a result of the Iranian revolution and war. In recent years,
+new types of difficulties, including the cost differential for raw materials,
+have begun to cast ominous shadows. The distress in petrochemical industry
+circles can only deepen. .
+
+[19 Mar 82 p 8]
+
+[Text] Since the year before last, petrochemical industry circles have been
+jostling around overseas expansion plans centered in the United States, Canada
+and Australianincluding, for exawle, a Canadian and Alaskan petrochemical
+base project undertaken by the Mitsubishi group consisting of Mitsubishi
+Chemical Industry and Mitsubishi Corporation; a South Australia petrochemical
+base project, jointly participated in by Asahi Chemial Industry and Mitsui
+Toatsu Chemical; and a vinyl chloride intemdiate raw material project in
+Alberta, Canada, by Mitsui & Co. The aim of these projects is to use the
+abundant natural gas as a raw material and to produce basic chemical products
+and intermediate raw materials which will have a cmtitive edge in advanced
+nations where the political situation is stable.
+
+Revised Feasibility Study
+
+The UFO (Iran-Japan Petrochemical) enterprise has shown us vividly the fright-
+fulness of the country risk (the risk to the investment due to the host
+
+36
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+cauntry). Moreover, after two oil shocks, natural gas has become a cheaper
+starting raw material than naphtha (crude gasoline) refined from crude oil for
+the production of ethylene-from one-half to two-thirds cheaper, based on the
+cost of ethylene. It is quite natural that petrochemical industry circles
+would look to advanced nations with fewer risks and abundant natural gas.
+
+Even these new ventures, however, are not without unemected miscalculations.
+First of all, the crude oil price, to which the. movement of the petrochemical
+products aarket and the raw material costs in Japan are directly tied, has
+dropped. Executive Director Kenjiro (Ira of Hitsubiahi Corporation, which
+
+is pushing ahead with a petrochemical base project in the province of
+British Ooh-bis, Canada, lamented about his headaches: "Us figured that
+
+the project was feasible if the price of crude oil went up to $60-$70 per
+barrel. But in reality, the price may dip below $30 per barrel, and construc-
+tion costs are ballooning as a result of inflation. Therefore, even if the
+project is approved, we must reevaluate the feasibility study. The actual
+operation date mat be pushed back further and further."
+
+No matter how cheap the natural gas may be, it after all is only a portion of
+the total cost. Unless the movement of petrochemical products can be ac-
+tivated against the background of rising oil prices, there is no appeal to
+plunging further into development and ilport activities with huge investment
+sums. The Alaska project, which requires a much larger investaent than the
+British Columbia project because its industrial base needs to be fixed first,‘
+has begun to be referred to as a ”let century project" in some sectors, so
+completion of this project has been pushed further into the “future.
+
+Red Ink Unavoidable for 5 Years
+
+“nether or not the South Australia project undertaken mainly by Asahi (Itemi-
+cal Industry can take off depends in large measure on how many Japanese
+manufacturers of vinyl chloride are willing to participate and how much as-
+sistance the provincial government is willing to offer to fix the industrial
+base. There is no way of knowing whether or not the project can materialize.
+
+The worldwide slump in petrochemical products and the recent situation whereby
+0.5. and Canadian chemical products can be imported cheaply are making it
+
+very difficult to implemm new overseas projects. According to Hitsui & 00.,
+which is making plans to manufacture vinyl chloride intermediate raw mater-
+ials in Alberta, Canada: "Apart from trade in products, more and more enter-
+prises are exercising caution when it comes to investing" (General Chemical
+Products Department): This is an indication of how difficult it is to im-
+plement a project.
+
+Petrochemical industry circles have their hands full just coping with this
+unexpectedly severe doaestic slump. Although petrochemical industry circles
+have begun to make preliminary moves to capture the natural gas of advanced
+nations, they cannot help but be cautious when they think of their own re-
+sources. Hiroshi "atanabe, executive director of hitsubishi Chemical Indus-
+tries, which is participating in Canada's British Columbia project and the 11.8.
+Alaska project, revealed a cautious attitude when he said: ”One must be
+
+37
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+"prepared to operate in the red for the first 5 years, because overseas
+projects are so capital intensive. In contrast. nimble domestic facilities,
+which have been almost completely depreciated, can somehow weather it for
+
+a while, even if raw material costs happen to be high."
+
+In the long run, however. Japanese petrochemical industry circles must fol-
+low the path of international production. lhe Industrial Structure Council,
+which is investigating relief measures for the petrochemical industry, has
+pointed out: ”To expand into overseas regions where cheap raw materials
+
+and fuel are available to develop and iQort—these are the sole keys to
+survival for the Japanese petrochemical industry." Anid all this, a mater
+of a new type of overseas expansion plans have attracted attention. niece
+plans include a joint venture between Dow Chemical and four Japanese firms,
+including Kanegafuchi Chemical Industry, in Alberta, Canada, and a joint
+venture between hitsui 'l'oatsu Chenical end the 11.8. Bistron Co.
+
+"Toyota-type" Strategy Surfaces
+
+The joint venture with Dow Chemical consists of separating the existing fac-
+ilities of Dow Canada and absorbing then among the participating firms in
+order to supply vinyl chloride intermediate raw material to the four Japanese
+investor firms. The contract for the joint venture is expected to be signed
+by May. On the other hand, Mitsui Toatsu is to establish an acrylonitrile
+production base in the United States within 1-2 years by utilizing surplus
+facilities owned by Bistron, which is the chemical enterprise branch of the
+11.8. [firm] Standard Oil of (bio. These projects are cowarable to the
+"Toyota" strategy of utilizing existing GM facilities—unlike Nissan Motors,
+which is constructing a new plant in the United States on its own.
+
+"If you buy an existing facility today, you can start operating tomorrow.
+There are no uncertainties related to construction, and there are fewer risks
+as well. Nor is there any need to bear the interest burden for a period of
+2-3 years while construction is under way. Instead of building large—scale
+new plants. it is time for Japanese enterprises to go out into the world, and
+especially the United States, and put to good use those plants that are not in
+operation," declares the head of a large colraercial firm.
+
+In fact, in recent years many American enterprises have been approaching big
+Japanese petrochemical and consercial firms about plant sales. Participating
+in production is an existing facility or, to go one step further, purchasing
+existing plants seems to provide Japanese petrochemical industry circles
+with an effective strategy for realizing their overseas expansion plans.
+
+38
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000500060044-2
+
+aaua<
+
+nooa
+
+moan
+
+mums
+
+owon
+
+ 
+
+can:
+uwwuoh
+
+0333353
+
+oo>uuu>wuov vogue a:o«ua>
+can .oaouhaoun .o:ou>:uu
+
+Houuounl Bun
+
+ouwwvuaHOuuu awakenso
+Haaw> .avoo owuosoo
+
+Haﬁuouua sun ouuaeoﬂ
+Inuudu ovauoano uh:«>
+
+kuuouua sun
+muonvoauoucw ovuuoHno
+leaca> .avoa caunauu
+ocuuanoua .oaoahauu
+
+auosvoum
+
+nanuoun .Hquaaonu aauaoa «snail
+
+.uuo .uaom an .Huoaaogu ”Hasm
+.1396 :8 £35.35 ”3126
+ﬁnaﬁnaauux .aoauauonuoo «guanaou«z
+
+.ouo .ou-u
+Ida-.6 .8 3.391 .8 a «9.3":
+
+nuance
+
+H8328 :8 $353qu 33528
+23.33:. 55265 H8328 3:
+:56 2:. .3355 :8qu 33:.
+.buaéﬁ H8128 «533093.
+
+mania
+
+cuuvucno nosuo ouunu can .hadaaou
+undue «£dn< .Haoaaénoouucm
+«saunnauax .ouuuunsvsu aneuaonu
+23€3§.§:383033€3§
+
+ouauauunsw
+
+  
+  
+
+ 
+
+uuogh no woman aucu «no Huauuom
+
+ 
+
+OWOD gaun-
+
+omoa .38:
+
+avg—Io . I» won:
+
+.238 .3251
+
+cocaoo
+wdnlbdoo Jouuuun
+
+nauuuuoa
+
+:owuusuuncoo nova: uuuaoum acousonuouuom odomuo>o uoﬁqx
+
+39
+
+END
+
+Nihon Keiza1 Ski-buneha 1982.
+
+.
+0
+
+0106/93
+
+COPYRIGHT
+
+9113
+C50:
+
+APPROVED FOR RELEASE: 2007I02109: CIA-RDP82-00850R000500060044-2

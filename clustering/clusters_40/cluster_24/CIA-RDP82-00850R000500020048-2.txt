@@ -1,0 +1,2813 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10279
+25 January 1982
+
+Translation
+
+PHYSICAL METHODS FOR INVESTIGATING ICE AND SNOW
+
+Ed. by
+
+V.V. Bogorodskiy an'd V.A. Spitsyn
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreig--language
+sources are translated; those from English-language sources
+are transcribed or reprinted. with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the u.s. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10279
+25 January 1982
+
+PHYSICAL METHODS FOR INVESTIGATING ICE AND SNOW
+
+Leningrad TRUDY. ORDBNA LENINA ARKTICHESKIY I ANTARKTICHESKIY NAUCHNO-
+ISSLEDOVATEL'SKIY INSTITU'I‘. FIZICHESKIYE MBTODY ISSLEDOVANIYA L'DA I
+SNEGA in Russian NO 326, 1975 pp 2-23, 51-54, 74-79, 90-93, 104-120,
+143-146
+
+[Annotation, table of contents and selected articles from collection
+"Physical Methods for Investigating Ice and Snow", edited by
+
+v.v. Bogorodskiy, doctor of physical and mathematical sciences, and
+V.A. Spitsyn, candidate of physical and mathematical sciences,
+Gidrometeoizdat]
+
+CONTENTS
+
+Annotation.................................................................... 1
+Table of Contents............................................................. 1
+
+meace....................................................................... 4
+
+Radiophyaical Methods for Investigating Ice and Snow
+(v. v. Boprodskiy)l0.000IIOOOOOOOOOOCOOIOOI.IOGOOUOOOOIOOOIOQO'OOOO.II 6
+
+Radar FM Signals Reflected Prom Ice Surfaces and Possibilities of
+'lheir lbdellng
+(A. n. Eabnmv. et 1). 13
+
+Influence of Ice Structure on Its Radiation Characteristics in the SH?
+Range
+(A. Ye. Basharinuv. A. A. Kurakaya).... ..... .. ....... ................. 18
+
+Remte Phasurement of Sea Ice 'lhickneaa by lhdar hthoda
+(N. I. Fi'lkel'shteyn, ct al.)......................................... 21
+
+Instrumntation for Investigating Spectral Reflection of Liquid Water
+in the Wavelength «egion 1-50ﬂlﬂ
+(H. A. Krorotnin) 25
+
+Ice Behavior in High-Strength hpidly Varying Electmnayxetic Fields
+(1.. B. Nekraaov)..... ................................................ 31
+
+- a - [I - USSR - E FOUO]
+
+FOR OFHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Dynamics of Ice in Coastal Reginns According to Data From Side-booking
+Radar Survey From Aircraft
+(5. “a maev. Y“. A. mtbmov)ooooooooo00000000000..eeoooooeoeooeeoeooe
+
+(bservations of Sea Surface Temperature Using a Radiation met-meter
+From an Ice Reconnaissance Aircraft
+(A. I. Paramov, et a1.)..............................................
+
+Study of Dynamics of Glaciers Using laser mfomgnph
+(I. H. Belomwa' et 81.)...0.......0.0...O....IOOIDOOCUOOIOOOOOOOOOOIO
+
+FOR OFFICIAL USE ONLY
+
+35
+
+(.1.
+
+51
+FOR OFFICIAL USE ONLY
+
+[Text] Annotation. This collection of articles includes materials from a scientific
+Hymposium organized by the Order of Lenin Arctic and Antarctic Scientific Research
+Institute and the Interdepartmental Commission on Study of Antarctica, Earth Sci-
+ences Section, Presidium, USSR Academy of Sciences, held in Leningrad, 1-5 October
+1973. The articles by Soviet and foreign scientists reflect the results of investi-
+gations of recent years in the following directions: 1. Electromagnetic methods for
+investigating snow and ice, active and passive radar observations of ice and snow
+surfaces. 2. Optical methods for investigating snow, ice and water. Dynamic and
+static methods for investigating the dynamic properties of ice and snow.
+
+Contents Original page
+
+Prefacaeeo-oanoneooooooeeooooooooel.ooooOeoeoooeseeslsoooooeoeooooooolsou-00v.to 7
+
+Bogorodskiy, V. V., "Radiophysical Methods for Investigating Ice and Snow"...... 9
+
+Bnbayev, A. 8., Logachev, V. P., Parfent‘yev, V. N., Pedorov, V. A. and Shemo-
+manova, G. P., "Radar FM Signals Reflected From Ice Surfaces and Possibilities
+of Their Monitoriig"......................................................... 17
+
+unsharlnov, A. Ye. and Kursknya, A. A., "Influence of Ice Structure on Its
+Radiation Characteristics in the 88? Range".................................. 21
+
+Bogorodskiy, V. V., Trepov, c. V. and Pedorov, B. A., "Radio Have Propagation in
+
+claciErS".........................o.......oo.....ooo..oooocoooo.............. 2‘
+
+Bogorodskiy, V. V. and Tripol'nikov, V. P., "Radio Echo Sounding of Sea Ice"... 29
+
+Bogorodskiy, V. V., Kozlov, A. I. and Tuchkov, L. T., "Emissivity of Ice, Land
+and Sea Surfaces Simulated by Layeredmlnhomogeneous Structures"............... 32
+
+Clough. J. V., "Measurements of Reflected Signals in Radio Echo Sounding in a
+Large Range of An‘_".‘$".oos IOOOODIIOOOOIOO...0......OCCOUOUOCCCOCCOUOCC.'0'... 39
+
+Clnnnh. J. N., "Depolarization of Reflected Radio Signals"...................... 45
+
+Fiskel'shteyn. M. l., Kuta;ev, V. A., Glushnev, V. G. and Lazarev, E. 1.,
+Remote Measurement of Sea Ice Thickness by Radar Hethods".................... 51
+
+Zhgbrovskiy, A. K.. Strakhovskiy, G. H., Nedostayev, V. i. and Stebin, V. 1..
+Electric Properties of Ice Formed in Vacuum and Their Interrelationship to
+
+n "
+StruCtufe canoecocoon...scocooneonssososooneooooosoooooosesosocc'eeeooecee'oes 55
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Vershinin, S. A., Kopaygorodskiy, Ye. H., Panov, V. v. and snvayshteyn, z. 1.,
+"Ice Pressure on Separately Standing Supports According to Labratory and
+
+In Situ Tests".....u.....o.....o...u........o.............n...o...........ao 59
+
+Davis, H. and Hunis, R., "Correlation Between the Salinity of Sea Ice and
+Extinction of Light With Wavelength 6328 A"................................... 66
+
+Gaytskhoki, B. Ya., "Optical Characteristics of Some Varieties of Natural Ice“.. 71
+
+Kropotkin, H. A., "Instrumentation for Investigating Spectral Reflection
+of Liquid Water in Region of Wavelengths From 1 to SOPLm"..................... 74
+
+Petera, V., "0n Study of the Process of Charge Formation on the Phase Discontin-
+uity Directed Toward a Freezing 10'3 Molar Solution of Sodium Chloride"....... 80
+
+Nekrasov, L. 8., "Ice Behavior in a Highly Variable High-Strength Electromagnetic
+
+Fieldusosoooooosssssoooooossooooooossoso.ooooooosloooooIssoooooooooooooooooooo 9°
+
+Volod'ko, B. V., Yakupov, V. S., Akhmcdzyanov, E. N., Kalinin, V. H., Papitash-
+vili, V. 0. and Sereda, G. A.. "Magnetic Survey of Reformed Vein Ice"......... 94
+
+Hel'nikov, V. P. and Snegirev, A. H., "Low-Frequency Polarization of Ice and
+Frozen Coarsely Disperse Fomt1°n3nsoosooosoooooooooscooooooooosooooosooooooo 99
+
+Losev, S. H. and Gorbunov, Yu. A., "Dynamics of Ice in Coastal Regions According
+to Data From Side-Looking Radar Survey From Aircraft"........................ 106
+
+Paramonov. A. 1., Corbunov, Yu. A. and Losev, S. H., "Observation of Sea Surface
+Temperature Using a Radiation Thermometer Prom an Ice Rec:nnaisssnce
+
+Aircraft"oossoosOoooooooooosassso.osootooo'ooooooooooooosoosooooooooooosooooo 11‘
+
+Cavrilo, V. P. and Gusev, A. V., "Use of Acoustic Methods for Investigating
+
+Show and Icenossstooosso...our.osooooIoooooooooooooosooooo-oosoooooososvooooo 121
+
+Bogorodskiy, V. V., Smirnov, G. Ye. and Smirnov, S. A., "Absorption and
+Scattering of Acoustic Waves by Sea Ice"..................................... 128
+
+Grubnik, N. A. and Kudryavtsev, 0. V., "One Nethod for Measuring Sound Atten-
+ution in Natural ICe.'OICOOOOOOIIOID0.00000IUOOOIOOOOOOOOOOIOOOOOIOOOOIOIIIOO 135
+
+Smirnov, V. N. and Lin'kov, Ye. H., "Seismic and Tiltmeter Methods for
+Investigating the Ice Cover"................................................. 137
+
+Belousova, I. H., Ivanov. I. P. and Firsov, N. 6., "Study of Dynamics of
+Glaciers Using Laser Deformograph"........................................... 143
+
+- 2 -
+
+IN)I1DFFICIAI.lEﬂ5(NVLY
+FOR OFFICIAL USE ONLY
+
+Panov, V. V.. Panyusnkin, A. v., Sinochkin, Yu. D. and Shvayshteyn, Z. 1.,
+“Experimental Study of Ice Adhesion Under Laboratory and In Situ Conditions".
+
+Grubnik, N. A., Fomin, V. I. and Shemyakin, A. 8.. "Study of the Process of
+Destruction of an Ice Layer".................................................
+
+Vuori, A. F., "Mechanical Properties of Snow as a Construction Material".......
+
+Dolgin, I. M., Bryazgin, N. N. and Petrov, L. 8., "Snow Cover of the Arctic"...
+
+Avdyushin. S. 1., Bsrabanshchikov, R. M., Kogan, R. M., Kulagin. Yu. M.,
+Nazarov, I. M., Fridman, Sh. D. and Yudkevich, I. 8., "Method for Measuring
+Moisture Reserves in the Snow Cover Using Cosmic Radiation"..................
+
+Abul', 6., "Methods for Measuring the Strength Characteristics of Natural and
+
+Processed Snow ..............................................................
+
+Buzuyev, A. Ya., "Statistical Evaluation of Spatial Distribution of the
+Principal Parameters of the Ice Cover".......................................
+
+Korzhavin, K. N. and Ivchenko, A. 8., "Investigation of Mechanical Properties
+of Fresh-Hater Ice With Slow Changes in Load"................................
+
+Zaretskiy, Yu. K., Fish. A. M.. Cavrilo, V. P. and Gusev, A. V., "Problems in
+Short-Term Creep of Ice and Kinetics of Formation of Microfissures"..........
+
+Ryvlin, A. Ya., "In Situ Investigations of Physicomechanical Properties of
+
+Ice Cover ooooosooooeoooeooeooooooooooooooooooooooooooeooooooooooooooooooooeo
+
+Kheysin. D. Ye., Likhomanov, V. A. and Kurdyunov, V. A., "Determination of
+Specific Energy of Destruction and Contact Pressures With Impact of Solid
+
+“Ody 0n [Ce ooooooooono...Ioooooooooooooooooneoo-oooooooooo-ooooo-ooooeooooo'
+
+Hogorodskiy, V. V.. Cuvrilo, V. P. and Polyakov. A. P., "Radiohydroacoustic
+Method for Using Mesoscale Characteristics of Dynamics of Sea Ice" ...........
+
+FOR OFFICIAL USE ONLY
+
+167
+
+155
+
+157
+
+165
+
+171
+
+176
+
+187
+
+193
+
+197
+
+205
+
+210
+
+219
+FOR¢0FFKJAI.USE(MVLY
+
+PREFACE
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICHESKIY NAUCHNO-ISSLEDOVAIEL'-
+
+SKIY INSTITUT. FIZICHESKIYE HBTODY ISSLEDOVANIYA L'DA I SNEGA in Russian No 326,
+1975 pp 7-8 '
+
+[Unsigned article]
+
+[Text] This collection of articles contains studies devoted to physical methods for
+the investigation of ice and snow. It can now be assumed that a new direction has
+already been formed in glaciology -- the physics of ice.
+
+Taking into account the increasing interest in physical methods for investigating
+ice, the Arctic and Antarctic Scientific Research Institute and the Interdepart-
+mental Commission on Study of Antarctica organized a special symposium which was
+held in October 1973 at Leningrad. Host of the reports presented at the symposium
+were finalized in the form of articles which have been published in this collection
+of articles.
+
+The articles presented in the collection reflect the results of investigations of
+recent years in the following directions:
+
+1. Electromagnetic methods for investigating snow and ice. Active and passive radar
+of ice and snow covers.
+2. Optical methods for investigating snow, ice and water.
+
+3. Dynamic and static methods for investigating the mechanical properties of ice
+and snow.
+
+Many of the articﬂas are devoted to the results and methods for investigating the
+mechanics-acoustical properties of ice and snow. The importance of further investi-
+gations in this direction is demonstrated, especially determination of the charac-
+teristics of internal friction. the coefficients of absorption, viscosity, velocity
+ies of propagation of wave processes, reflecting and scattering properties in a
+broad range of amplitudes of deformations and frequencies of elastic and visco-
+elastic oscillations (seisnic range, infralow-frequency, acoustic and ultrasonic
+frequencies -10'2-106Hz).
+
+Recently investigations have been initiated of dynamic phenomena and the stressed
+state of the ice covers of different ocean areas by seismoacoustic methods and also
+methods based on the use of lasers.
+
+IND! OIWHCIAI.IHNE(HULY
+FOR OFFICIAL USE ONLY
+
+The studies made in these three directions reflected new results of investigations
+which are a considerable contribution to the physics of ice. These results bring
+considerably closer the solution of highly important physicotechnirnl problems
+related to artificial modification of ice and snow (radar observation or sea ice,
+problems of ice destruction, evaluation of the stressed states of the ice covers
+by the laser and seismoacoustic method, remote determination of large moisture re-
+serves in the snow cover, etc.).
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+(AANII). 1975
+
+5
+
+FOR‘0F11CIA1.IEHE(NVLY
+FOI1OFFKJAI.USE(MULY
+
+RADIOPHYSICAL METHODS FOR INVESTIGAIINC ICE AHD SNOW
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICHBSKIY NAUCHNO-ISSLEDOVATSL'-
+SKIY INSTITUT. PIZICHESKIYE HETODY ISSLEDOVANIYA L'DA I SNEGA in Russian No 326,
+1975 pp 9-16
+
+[Article by V. V. Bogorodskiy]
+
+[Text] Ice. one of the physical bodies occurring most widely over the surface of
+our planet, is an example of a proton dielectric, a viscoelastic body, capable
+with a relatively small change in external conditions of changing its micro- and
+nacrostructure. electric and mechanical properties.
+
+Continental and mountain glaciers are sources of pure water and the principal water
+resources for irrigation in arid regions. The glaciers and ice covers to a consid-
+erable degree are regulators of weather and climate. At the same time, glaciers and
+ice covers on-the seas are features creating dangerous natural phenomena.
+
+The shelf of arctic seas and regions of permafrost in Siberia constitute rich ware-
+houses of natural resources. Their exploitation is determined by the possibility of
+overcoming of the ice, that is, its destruction. or use as a material. Both these
+aspects lead to the need for studying all the properties of ice and snow. The diver—
+aity of problems favored the formation of an independent direction in ice investiga-
+tions (not only as a substance, but also as a geophysical feature), ice physics.
+
+The physics of ice as a science has already attained considerable successes in the
+study of the atomic-molecular structure of ice, the behavior of protons in hydrogen
+bonds and lattice dynamics. This has been facilitated by the work of Professor
+Granicher (Switzerland) and Doctor "all (Canada). Important investigations have been
+carried out for studying the growth of ice crystals and their orientation by N. P.
+Cherepanov and P. A. Shumskiy (USSR), Doctor Hobbs and Doctor Kitcham (United
+States).
+
+However, in ice physics there are a number of problems which until now have only
+been formulated. From our point of view such important problems include the ther-
+moelectric effect of ice, potential jump at the boundary of development of phases
+and precipitation of impurities during the growth of ice crystals from a melt and
+solution. The investigation of the processes of thermoelectricity and potential
+jump, to be sure, in the long run will lead to an evaluation of the possibility of
+using the energy of the discussed phenomena. At the present time quantitative
+
+6
+
+iiﬂlfﬂﬁﬂK1A1.USB(lVLY
+FOR OFFKJAL.USEGDNLY
+
+estimates are already being given for the thermoelectric potential gradient and the
+potential gradient at the ice-water discontinuity, attaining several tens of volts.
+Primary laboratory investigations show that these phenomena are in fact singular
+natural generators of electric energy.
+
+Investigations of the influence of impurities on ice structure are very interesting.
+It has been established that exceedingly small quantities of impurities (F, HP) in
+
+virtually every case bring fresh-water ice close in its properties to sea ice. Pene-
+trating between the crystals, in many cases they give a complex structure with vari-
+
+able salinity and the presence of small volumes of saline water. Such a structure
+is the subject of intensive study by physicists: it is responsible for the mechan-
+ical and electrical properties of ice. A comprehension of the physical principles
+of the growth of crystals in the presence of impurities is of great importance in
+developing reliable methods for obtaining drinking water from the sea by means of
+
+its freezing. The problems of atomic-molecular physics of ice were discussed more
+completely in [4].
+
+In this article we examine some problems related to study of the electromagnetic
+characteristics of snow and ice (including the optical and mechanical properties of
+snow and ice and dynamics of the ice covers).
+
+The availability of these data makes it possible to solve a number of seriOus prac-
+tical problems: creation of radio equipment for sounding ice covers, study of the
+functional dependence of the mechanical characteristics of ice, conditions for the
+transfer of radiant energy through ice covers, measurement of the rate of movement
+of ice covers and evaluation of their stressed state.
+
+Electromagnetic Characteristics of Ice and Radio Probing of Ice Covers
+
+During recent years specialists in the USSR, United States, Denmark, Canada and
+
+Japan have carried out extensive laboratory and field investigations of the elec-
+tromagnetic characteristics 6 and tg 5 of glacier, fresh-water and sea ice in a
+
+broad range of frequencies from 100 Hz, including optical.
+
+The generalization and analysis of theoretical and experimental data on electromag-
+netic characteristics made it possible to create reliable radio apparatus for study
+of the structure (tr'cknoss. layering, inhomogeneity) and state (mean effective
+temperature) of euro, moderure and warn glaciers. Using radio apparatus created
+
+in Great Britain, Denmark, bSSR and the United States and installed on different
+carriers, new possibilities appeared for the study of the ice shields of Antarctica,
+Greenland, the Arctic and other glaciers of our planet.
+
+An important conclusion drawn as a result of radio measurements is a new idea con-
+cerning the thickness of glaciers and the structure of Antarctic relief beneath the
+ice. Figure 1 shows that the relief of Antarctica beneath the ice in not smoothed
+
+(for example, in the zone of the Soviet investigations), as was speculated before,
+
+but instead has abrupt dropoffs and mountains with sharp peaks. Radar makes it pos-
+sible to refine maps of Antarctic relief. It is interesting that a detailed radar
+survey of the polygons also revealed a very great diversity of relief. Interesting
+results from radar probing of this type were obtained by researchers at the Scott
+
+FOI‘OFFKJAL.USE(NULY
+FOR OFFICIAL USE ONLY
+
+Institute (Cambridge) and the Professor Gudmandsun Laboratory (Denmark).
+
+Table l
+Electromagnetic Characteristics of Some Media
+Medium Velocity. m/P-sec Specific ab- Measurement
+sorption f - conditions
+30 HR:
+Cold glaciers 169 0.065 at -60°C
+169 0.025 at -10°C
+Harm glaciers 169 0.05 at -l°C
+169 0.035 at -5°c
+Perennial permafrost 110 1-8 at -5°C
+0.4-2.5 at -lS°C
+Fresh water bodies 33 0.5-2.5 --
+Sandy ground 170 0.05 dry
+55 2 moisture con-
+tent 301
+Sea pack ice 150 1-2 at -20°C
+thickness
+2-9 m
+Young sea ice 100 3-5 at -20°C
+thickness 0.9-
+
+1 m
+
+A more complex cycle of measurements of the electromagnetic characteristics of sea
+ice in the SH? range led to the solution of an equally important problem - the
+fundamental possibility of remote measurement of thickness of drifting sea ice. In
+the USSR this problem was solved by the scientific personnel of the Arctic and Ant-
+arctic Scientific Research Institute and the Institute of Civil Aviation Engineers
+(Riga). At the same time this same problem was solved by researchers in the United
+States, Canada and Denmark.
+
+Radio sounding of glaciers and sea ice was facilitated to a considerable degree by
+radio sounding of highly absorbing media: desert sands for the detection of water-
+bearing layers, fresh-water bodies and permafrost.
+
+Table 1 gives the electromagnetic characteristics of highly absorbing media. They
+show that it is possible to employ radio apparatus for sounding these media.
+
+Fluctuations of Radio Signals in Probing of Ice Covers. Depolarization of Radio
+Haves in Glaciers
+
+The nonuniformity of ice covers and the complex structure of the underlying bed
+change the amplitude, phase, shape of envelope, lag and polarization of the stud-
+ied radio signals. A statistical analysis of the random process of change in the
+
+signal amplitude. which is determined by the different influence of scattering on
+the surface of the glacier and its bed, is of interest in estimating the rate of
+its movement. A mass of data on fluctuations of amplitudes made it possible to
+
+8
+
+It”!(ﬂﬁﬂ(1Al.USE(NULY
+compute the autocorrclation radius and demonstrate its direct dependence on the
+radiated frequency.
+
+ 
+
+Fig. 1. Profiles of relief under ice along radio sounding profiles. In upper left
+corner -- vertical scale.
+
+Figure 2 illustrates the fluctuations of signals reflected by the glacier bed for
+
+frequencies of 440, 213 and 60 Mllz. These frequencies correspond to autocorrela-
+tiun radii of 0.8, 2 6 and 6.1 m respectively. The frequency dependence of the
+autocorrelation radius of t.- :tuations of amplitudes can be used in measuring the
+rate of movement of glaciers in any regions of Antarctica.
+
+In the USSR much work has been done on studying the phenomenon of depolarization
+of electromagnetic waves during their vertical propagation in a glacier. Similar
+investigations are being made by Clough (in the United States). Our studies indi-
+cated that one of the principal reasons for depolarization is double refraction.
+
+Ice Optics
+Recently extensive use has been made of optical methods for investigating ice.
+
+This has been dictated by the timeliness of those scientific and practical problems
+which they make it possible to solve. Investigations of the interaction of optical
+
+FOR OFFICIAL USE ONLY
+FCH!()FFIC1AI.II§EZ(NNLY
+
+radiation with ice are being carried out in a wide range of wavelengths, including
+both the visible and IR parts of the spectrum. Infrared spectroscopy of ice made
+
+it possible to take a considerable step forward in the study of its molecular struc-
+ture and to reveal a great diversity of structural forms.
+
+U a
+w
+
+0.9
+
+0 a
+0..
+
+0.7
+
+     
+
+. _-_.__..__._._.+__ ..
+
+C
+
+3 a
+
+ 
+
+Fig. 2. Distribution of amplitudes of reflected signals for frequencies 660 MHz
+(a), 213 "Hz (b) and 60 HE: (C).
+
+The problem of radiation transfer through the snow and ice cover of water areas is
+acquiring particular importance. The energy penetrating through the ice is consid-
+erably attenuated and greatly changes the character of the underwater light field,
+and accordingly, biological activity and the conditions for the use of different
+optical systems for underiCe visibility and other problems.
+
+It should be noted that an estimate of the total attenuation of optical radiation
+during transmission through the ice involves great difficulties. The scattering in-
+
+dicatrices for ice are very diverse. They are indicative of the complex scattering
+prOperties of ice structure.
+
+Mechanical Characteristics of Ice and Stressed State of Ice Covers. Movement of
+Glaciers
+
+10
+
+F03‘0FFNJA1.USE¢NNLY
+FOR OFFICIAL USE ONLY
+
+The study of the mechanical properties of ice and snow is an important problem
+which is now being solved by the scientists of Canada, USSR, United States, Great
+Britain and Japan. The increased interest in this problem is obvious: in the study
+or exploitation of polar territories and ocean areas it is necessary to improve
+the types of transportation and either destroy the ice or use it as a construction
+material. In both aspects the success is determined by a knowledge of the mechan-
+ical characteristics of the ice and snow obtained by dynamic and static methods.
+
+A study of the mechanical properties of ice in combination with the packing of
+
+its macrocrystalline struccure made it possible to estimate the strength charac-
+teristics of sea and fresh-water ice freezing under different hydrometeorological
+conditions.
+
+The acoustic method for studying the mechanical characteristics of ice has been
+found to be promising. This method. not destroying the investigated medium, makes
+it possible to make measurements in individual crystals, blocks and the ice cover.
+The mechanical characteristics obtained by an acoustic method made it possible to
+develop a method for predicting their distribution in the thickness of the ice
+cover, knowing the air temperature.
+
+At the present time for further progress in this field it is necessary to have
+new theoretical models reflecting the state of ice in response to rapid and slow
+effects and taking into accOunt the thermal oscillations of atoms and molecules,
+and also the developing changes in the structure of the bonds among them during
+deformation.
+
+An equally important problem is study of the stressed state of ice covers. At the
+Arctic and Antarctic Scientific Research Institute specialists are developing two
+directions toward its solution: study of the sound emission of deforming ice and
+use of special Doppler laser systems. Similar work is being carried out by Profes—
+sor Bentley in the United States. The principal aspect of this problem is a deter-
+mination of the numerical values of the developing pressures and their quantita-
+tive and qualitative correlation with hydrometeorological conditions. Information
+of this character would facilitate prediction of the stressed state of ice and es-
+pecially the moments of its destruction. However, this problem is considerably
+complicated by the strong dependence of the physical properties of ice on many
+factors, the Strong 'ariability of the thickness of drifting ice, the absence
+
+of satisfactory noueis for .rediction of macroscale deformations and the drift of
+ice on the basis of the measured hydrometeorological parameters. The intensity of
+the acoustic emission and the parameters of the acoustic signals radiated during
+the deformation of ice can be a key to solution of the problem.
+
+It has now been established that the amplitudes of the oscillations. the spectral
+composition of waves, their velocity, duration of pulses and their repetition
+rate are objective criteria determining the general character of stages of the
+stressed state. It was also found that this information is carried by oscilla-
+tions with a broad spectrum of frequencies from 10’2 to 106 Hz. However, there
+
+is also a definite selectivity: at the temperatures of critical stresses the maxi-
+mum of the acOustic emission spectrum for ice falls in the band 100—400 Hz. The
+first in situ experiments revealed the good prospects of the acoustic method for
+determining the stressed state of the ice cover. The correlation coefficient be-
+
+tween the regis:ered acoustic emission and air temperature fluctuation was about
+0.8 [1, 2].
+
+ll
+
+FOI.OFIWC1Al.lEﬂE(MVLY
+FOR OFFICIAL USE ONLY
+
+The use of lasers also makes it possible to make estimates of the stressed state
+
+of ice covers. The preliminary experiments carried out on the ice of Lake Ladoga in
+the winter of 1972 made it possible to obtain the numerical values of stresses in
+the ice [3]. The physical basis for estimating stressed state by this method is
+
+the possibility of determining the deformation of ice under the influence of some
+factors. The Doppler laser method applicable to this problem shows that the deter-
+mined deformation, multiplied by the dynamic modulus, leads to an evaluation of
+
+the stressed state. The study of glacier movement is a timely problem for whose
+solution there is a good theoretical basis [5, 6].
+
+Some progress has also been noted in the experimental investigation of glacier
+movement: the basis for this progress is laser Doppler systems, the scattering
+
+properties of the glacier bed and a detailed radio survey of oriented polygons.
+
+The Arctic and Antarctic Scientific Research Institute, in collaboration with the
+State Optical Institute imeni Acadeudcian S. I. Vavilov, has developed special
+laser systems known as deformographs; these have undergone testing in Antarctica.
+These tests revealed that laser apparatus with a high degree of accuracy can
+register the absolute and relative rates of glacier movement.
+
+At the Arctic and Antarctic Scientific Research Institute experiments have begun
+on study of the movement of glaciers relative to irregularities of the bed under
+the ice. We already have qualitative confirmations of a partial realization of this
+idea. The essence of the method is a repeated (with a definite time interval) de-
+tailed radin survey of the relief under the ice in polygons whose coordinates were
+determined with a high accuracy. A survey of these polygons repeated after a year
+demonstrated the presence of a complex displacement of the glacier.
+
+BIBLIOGRAPHY
+
+1. Bogorodskiy, V. V. and Cavrilo, V. P., "Physical Methods for Investigating the
+Stressed State of the Ice Cover," TRUDY AANII (Transactions of the Arctic and
+Antarctic Scientific Research Institute), Vol 316, pp 59—69, 1974.
+
+2. Bogorodskiy, V. V., Cavrilo, V. P. and Gusev, A. V., "Acoustic Effects in the
+Friction of Ice," TRUDY AANII, Vol 324, pp 97-103, 1975.
+
+3. Bogorodskiy, V. V., Cavrilo, V. P. and Ivanov, I. P., "Use of the Doppler Effect
+in Lasers for Investigating the Stressed State of Ice," TRUDY AANII, Vol 324,
+pp 114-117, 1975.
+
+4. FIZIKA L'DA. OBZOR DOKLADOV HEZHDUNARODNOGO SIMPOZIUHA P0 PIZIKB L'DA, SOSTOYAV-
+SHEGOSYA 9-14 SENTYABRYA 1968 V HYUNKHENE (Ice Physics. Review of Reports at the
+International Symposium on Ice Physics Held at Munich 9-14 September 1968), Len-
+ingrad, Gidrometeoizdat, 1973, 154 pages.
+
+5. Shumskiy, P. A., DINAMICHESKAYA CLYATSIOLOCIYA (Dynamic Glaciology), Moscow,
+Izd—vo AN SSSR, 1970, 200 pages.
+
+6. Budd, w. P., THE DYNAMICS OF ICE MASSES, issued by the Antarctic Division, De-
+partment of Supply, Melbourne, 1969, 216 pages.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+(AANII), 1975
+
+12
+Itﬂl(lﬂﬂ(1Al.USE(NNLY
+FOR OF‘ICIAI.IEIB(HVLY
+
+RADAR FM SIGNALS REFLECTED FLOR ICE SURFACES AND POSSIBILITIES OF THEIR MODELING
+
+Leningrad mum. ORDENA LENINA mncussxn I mmrmmsxn NAUCHNO-ISSLEDOVATBL'~
+sxnl msn'ru-r. PIZICHBSKIYE mom 1351.31»vaer L'DA I SNEGA in Russian No 326,
+1975 pp 17-20
+
+[Article by A. B. Babayev. V. P. Logachev, V. N. Parfent'yev, V. A. Pedorov and
+G. P. Shelomanova]
+
+[Text] This article gives some results of experimental investigations of the phys-
+ical properties of ice surfaces and the radio signals reflected from them. Experi-
+mental investigations of the rangefinder signal were made with smooth and humnocky
+ice of different salinity with a thickness of about 2 m.
+
+In rangefinding it is important that saline sea ice at its lower edge has a trans-
+itional unconsolidated layer attenuating the reflection of the sounding signal. A
+source of radiosignal loss is also the unevenness of both edges of the ice layer.
+with a roughness parameter greater than 0.2 the periodicity of change in the mirror
+reflection coefficient Kfo, characteristic of the layer, disappears and Kfo becomes
+a random value [1].
+
+In the course of making the experiment, on the basis of the measurements computa-
+tions are made of the specific effective area of reflection for ice with different
+degrees of unevenness of the edges. The computations were made using the formula
+
+. .,(."'f)." ’.’.’_'_"'_2_ "-v (1)
+" ' "3.11.33.“ ‘75.".
+
+where H is the range; 99 is the angle of surface irradiation; D is the antenna am-
+plification factor; A is the radiation wavelength; Aﬁ,AY is the width of the
+antenna directional diagram in the orthogonal planes; Prec is the power received
+in the antenna; P0 is the radiated power.
+
+Figure 1 shows the dependence of <7 on the angle of irradiation of ice surfaces.
+The accuracy in measurements is (l. 2.0 db). Using the proportional relationship
+[K “I . _.._-._’I((e_ ._ .__. 51- _ (2)
+' re I M ‘l ‘ I I: h- ‘-‘ '
+ml .2 ( - )I ml l- l
+
+ 
+
+ 
+
+where Kfo is the mirror reflection coefficient, Urefl is the amplitude of the re-
+flected signal, C75 is the standard deviation of height of the irregularity, we
+obtained the values for saline ice and ice with low salinity.
+
+13
+
+FORlOFFKJAl.USE(NVLY
+FOR OFFICIAL.US£1DNLY
+
+The results of the computations are given in Table 1. from which it can be seen
+
+that K50 for ice with a low salinity is approximately twice as great as Kf for
+sea ice. It can be postulated that this increase in the reflection coeffic ent
+
+occurs due to reflection from the lower edge of the ice layer with a low salinity
+content.
+
+Table l
+Coefficients of Hirror Reflection as Function of Type of Surface
+Type of surface Sea water Fresh water Sea ice Fresh ice Asphalt
+Ahzdh o o 0.3 o o
+Kfo 0.85 0.78 0.35 0.68 0.49
+
+ 
+
+.30 ._._ ._ .'...__. __l.-_
+
+00 10 50 ”(P
+
+Fig. 1. Dependence of specific effective area of reflection (76 of different sur-
+faces. (1 -- ice cover with presence of small hummocks on surface; 2) same with
+large hummocks; 3) smooth surface of fresh-water ice; 6) snow field; 5) smooth
+water surface); 6) dependence of U1 and u2 on angle of irradiation (p0.
+
+An investigation of the accuracy characteristics of rangefinders operating in the
+
+centimeter range indicntes that they all give exaggerated readings in the case of
+measurement over an ice layer. An analysis of structure of the reflected signal
+
+revealed that there are two maxima in the signal spectrum corresponding to reflec-
+tion from the upper and lower edges of the ice layer.
+
+The ratio U1/Uz(<P) with a change in the angle of irradiation of the ice layer is
+
+of interest. The experimental curve U1/U2(<p) is also shown in Fig. 1 (ice with a
+low salinity, Zlﬂic - 2 m). The figure shows that with a change in the irradia-
+
+tion angle y7the relationship of the signals from the two edges changes to a
+
+14
+
+FOR!0FFKJA1.USE(MULY
+considerable degree. The mechanism of this change can be attributed to the dif-
+ferent angles of refraction at the discontinuity of the two media and signal scat-
+tering on the uneven boundaries of the layer.
+
+The results of the experiment cited above indicate that the accuracy of the read-
+ings of the rangefinders over a layered ice surface deteriorates. In addition, the
+experiment revealed that anomalous phenomena at the time of radio signal reflection
+
+from the ice layer can he used in obtaining information from the reflecting sur-
+face.
+
+The problem of reflection from a layer with uneven discontinuities is complex and
+
+for the time being no rigorous solution has been obtained. For this reason for the
+special problems of radar observation of ice it is desirable to use a model based
+
+on representation of the layer in the form of a set of independent elementary re-
+flectors distributed in space.
+
+The basis of the model considered below is the results of experimental investiga-
+tions of the operation of frequency rangefinders in the centimeter range and some
+results which were mentioned above. The radio signal reflected from the ice layer
+can be written in the form of the equation
+
+MU) $212314". v. II). (3)
+h 9 II .
+where 69, $0, H are the spherical coordinates of the spatial position of elementary
+reflectors. Assuming the antenna diagrams to be axisymmetric and the reflecting
+
+medium to be isotropic with respect to azimuth 9’, the signal at the output of the
+balanced mixer can be determined using the formula
+
+um) :33519. H, l)cos|'b(8, II, 1) Hm, ”)I. (1.)
+
+all
+
+where y’(€9» H) is the equiprobahle initial random phase. After the necessary com-
+putations it is possible to obtain the time-averaged correlation function of this
+signal [1,2]
+
+b= bl " .vs‘ 1 §3 9.1! -s2=-. F...
+l a l mu. x) .1..7,I)(+°.II)...|£.( )m . (5)
+
+where 2‘49, H) is dcpendc.r on the type of modulating function; D2(6. II) is the
+dispersion of an elementar~ signal.
+
+The averaged energy spectrum of the signal of beats in this case is written in the
+form of the equation
+
+3:777)- :Egmw, m 3'“; IzF..)E.(”. II).
+I
+
+all
+
+(6)
+in the case of a pencil-beam antenna the broadening of the spectrum will occur only
+
+due to the thickness of the reflecting layer. The factor 02(69, H) includes the nor-
+
+malizvd function f(é;, H) characterizing the reflecting properties of the ice. In
+the case of n pencil-beam antenna
+
+It". In mun“, m. (7)
+15
+
+IN)R<OFF1(1A1.IISEZ(HVLY
+FOR OFFICIAL USE ONLY
+
+For ice with a low salinity and fresh ice in the centimeter range the function
+f 6 (H), as demonstrated by the experiment, is approximated well by the expression
+
+f..(ll)---/\.3(Il - H.) maul-412). (a)
+
+where (3 (z) is a delta function; A1, A2 are coefficients dependent on the electro-
+physical parameters of the reflecting layer of ice.
+
+with expression (8) taken into account, the readings of the frequency rangefinder
+in the case of narrow antenna directional diagrams can be written in the form
+
+E_4_.l/I-F.-Il. I
+
+”F T— ""f;_7_/‘1'T."_inT‘+T‘ZT_uV‘___X
+I II. (9)
+X "4&4. an.|__:'_._ ..
+
+ 
+
+f
+
+where Eice is the mean value of the dielectric constant in the thickness of the
+ice; PM is the modulation frequency; A f is the frequency deviation; c is the
+speed of light.
+
+For practical computations a major role is played by the values of the electrophys-
+ical parameters of ice in the SH? range. He used the results of measurement of
+
+£1“ and tg51ce obtained by a. 1'. Kapitkin.
+
+All the experimental results and computations cited above indicate that rangefinder
+FM apparatus can be used with some modernization for determining the parameters of
+the ice layer, for example, its thickness AHice' A simplified block diagram of one
+of the possible methods for processing the rangefinder signal for determining the
+thickness of the ice layer should contain an envelope detector and a unit for meas-
+uring the mean modulation of signal frequency, averaged for the period, at the out-
+put of the envelope detector.
+
+With expressions (6) and (8) taken into account, it can be shown that the mean mod-
+
+ulation of signal frequency, averaged for the period, at the detector output in the
+
+(zse of a narrow antenna directional diagram is proportional to the ice thickness
+Hice‘
+
+In conclusion we should note the following facts:
+
+1. The results of experimental investigations of the reflecting properties of ice
+surfaces make it possible to find new methods for obtaining information on the re-
+
+flecting surfaces.
+2. It is fundamentally possible to determine the thickness of a thin ice layer on
+the basis of use of radio rangefinding FM apparatus.
+
+16
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+BIBLIOGRAPHY
+Zubkovich, S. 6., STATISTICHESKIYE KHARAKTERISTIKI RADIOSIGNALOV, OTRAZHENNYKH
+0T ZEMNOY POVERKHNOSTI (Statistical Characteristics of Radio Signals Reflect-
+ed From the Earth's Surface), Moscow, "Sovctskoye Radio," 1968, 223 pages.
+
+Tsvetnov, V. V., "Statistical Properties of Radar Signals From Extended Surfaces
+in Systems With Internal Coherence," TR. MAI (Transactions of the Moscow Avia-
+tion Institute), 30 1. pp 5-26, 1966.
+
+ZOPYRIGH‘I': Arktichcskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+(AANII), 1975
+
+17
+
+FOR OFFICIAL USE ONLY
+FOR‘OFIICIAI.US£|MNLY
+
+INFLUENCE 0? ICE STRUCTURE 0N ITS RADIATION CHARACTERISTICS IN THE SHF RANGE
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICHBSKIY NAUCHNO-ISSLEDOVATBL'-
+SKIY INSTITUT. PIZICHESKIYE HBTODY ISSLEDOVANIYA L'DA I SNEGA in Russian No 326,
+1975 pp 21-23
+
+[Article by A. Ye. Basharinov and A. A. Kurskaya]
+
+[Text] Experimental investigations of radiothermal radiation of sea and continental
+ice carried out in the Soviet Union and the United States have revealed the spec-
+tral characteristics associated with the nature of ice, its age, degree of salinity
+and microstructure [1-4]. In this article we describe the influence exerted on
+
+the SH? radiation characteristics of sea ice by the effects of scattering on air
+bubbles and small inhomogeneities.
+
+The microstructure of sea ice experiences changes dependent on the conditions of
+ice formation and age. Young ice with a thickness of the layer of several deci-
+meters has increased moisture content and salinity. with an increase in ice age
+
+the moisture and salinity content decrease. In the upper layers of the perennial ice
+there is an increased content of air bubbles. With a strong degree of porosity the
+air content increases to 100 cm3/kg.
+
+According to data from measurements made on the artificial earth satellite "Cosmos-
+243" over the Antarctic zone, in the region of perennial ice there is an apprec-
+iable decrease in radiobrightness temperature for the short-wave parts of the range.
+Figure 1 shows experimental data for the spectral dependences of the degree of
+blackness for young and perennial ice obtained in processing the results of observ-
+ations cited in [1, a]. The transfer of radiation in the upper layers of perennial
+sea ice is accompanied by the effects of scattering on inhomogeneities of the diel-
+ectric constant. The emissivity of ice formations is determined by the value of the
+dielectric constant and the thickness of the ice layer [2].
+
+The effect of the influence of internal scatterings, dependent on the relationship
+of the sizes of the inhomogeneities, wavelength and degree of ice porosity, is re-
+flected in the form of the spectrum of radiobrightness temperatures and on the
+angular characteristics of the radiation field. The degree of blackness of the
+emitting layer of ice, with internal scatterings taken into account, is evaluated
+using the expression
+
+p I -|R.-I-Px(‘ 'R.)l- (1)
+
+18
+
+FOI‘OFFICIAI.USE¢DNLY
+FOR OFFICIAL USE ONLY
+
+where R 5 is the reflection coefficient at the boundary of the ice layer, determin-
+ed without allowance for internal acatterings; Pﬁis a coefficient characterizing
+the fraction of the power scattered on inhomogeneities: ‘Piceu - R9) is a coef-
+ficient characterizing the fraction of the power scattered in the upper half-space.
+
+ 
+
+—,-— -——'——.__'_____'_._.
+o I a a 1 1.:-
+
+Pig. 1. Couputed and experimental spectral dependences of degree of blackness for
+"young" and "old" ice obtained in processing the results of observations on the
+"Cosmos-243" artificial earth satellite and from "Convair—990."
+
+with allowance for the effects of single scattering from randomly distributed small
+inhomogeneities the mean value of the coefficient of reflection from an elementary
+volume is determined by summation of the partial scattering fields
+
+6." -12:lr—1—g-w 6-, (2)
+
+where 0'1 is the scattering section of the inhomogeneities; dN/dV is the spatial
+density of the lnhonngen ltles.
+
+The mean value of the l"‘fj“‘.l.lon coefficient from a layer with a depth correspond-
+
+ing to the skin layer is determined using the formula .m
+
+1"“ '—()‘)’Il-
+['9 - elem(enLary)] P W
+
+where Q elem} - 'A/Z’Jl ﬂ tgd is the depth of the skin layer.
+
+is the depth of the skin layer.
+
+The spectral dependence of the scattering section, determined by the relationship
+a! the sizes of the inhormgeneities and the wavelength, is manifested in the form of
+.1 decrease in the degree of blackness with a shortening of the wavelength.
+
+Model computations of the spectral dependence of the degree of blackness of the ice
+
+cover were carried out taking into account the contribution of the effects of scat-
+tering on bubble inhomogeneities of :~ spherical form on the assumption of a
+
+19
+
+FOR OFFICIAL USE ONLY
+INJI‘OF1WCIA1.IISEZ(NNLY
+
+uniformity of the structure of the upper layer to a depth of 30-60 cm. A comparison
+of the computed and experinental values of the spectrum of the degree of blackness
+for long-term sea ice makes it possible to evaluate the degree of porosity of ice
+samples (see Fig. 1). Thus, an evaluation of the content of air inclusions for the
+sounded ice fields gives 30-50 cm3/kg with a mean diameter of the bubbles of about
+1 mm. The difference in the SH? spectral characteristics of one-year and perennial
+ice can be used in the diagnosis of sea ice.
+
+1.
+
+3.
+
+[is
+
+BIBLIOGRAPHY
+
+Basharinov, A. Ye., Gurvich, A. 8., Yegorov, S. T., Zhukov. V. I. and Kurskaya,
+A. A., "Results of Observation of Thermal Radio Emission of the Earth's Surface
+According to Data of the Experiment on the ABS 'Cosmos-243'," KOSMICHESKIYE
+ISSLEDOVANIYA (Space Research), Vol IX, No 2, pp 268-279, 1971.
+
+Tuchkov, L. T.. YESTESTVENNYYE SHUMOVYYE IZLUCHENIYA V RADIOKANALAKH (Natural
+Noise Radiations in Radio Channels), Moscow, "Sovetskoye Radio," 1968, 152
+pages.
+
+Tuchkov, L. T., Basharinov, A. Ye., Kolosov, M. A. and Kurskaya, A. A., "Ther-
+mal Radio Emission of the Ice Cover in the SH? Range," TRUDY GGO (Transactions
+of the Main Geophysical Observatory), No 222, pp 159-161, 1968.
+
+Hilheit, T., Nordberg, N., Blinn, J.. et a1., "Aircraft Measurements of Micro-
+
+wave Emission From Arctic Sea Ice," REMOTE SENSING OF ENVIRONMENT, No 2, pp
+25-28, 1972.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+
+(AANII), 1975
+
+20
+
+FOR OFFICIAL USE ONLY
+FOI‘OFFKJAI.USE¢M‘LY
+
+REMOTE MEASUREMENT OF SEA ICE THICKNESS BY RADAR METHODS
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICHESKIY NAUCHNO-ISSLEDOVATEL'-
+SKIY INSTITUT. FIZICHESKIYE HETODY ISSLEDOVANIYA L'DA I SNBGA in Russian No 326,
+1975 pp 51-56
+
+[Article by M. I. Finkel'shteyn, V. A. Kutev, V. G. Gluahnev and E. I. Lazarev]
+
+[Text] Introduction. The radar method, based on measurement of the time interval
+between separately observed signals reflected from the ice boundaries, is widely
+used in measuring the thickness of glaciers, for example, in Antarctica [1]. Due
+to the successes of nanosecond pulsed apparatus and the technique for the process-
+ing of signals the method can be applied to thinner sea ice whose thickness usual-
+ly does not exceed 2 m. However, a great attenuation occurs in this case.
+
+In order to compute the ratio of the amplitudes of signals reflected from the boun-
+daries of sea ice it is possible to use the data of J. Addison [7], which are con-
+firmed by our radar sounding of sea ice. There is a definite "frequency window"
+lying in the meter and partially in the short~wave wavelength ranges [6].
+
+Method of Individual Radio Pulses
+
+A radio pulse is characterized by the presence of at least several, for example,
+three periods of high-frequency oscillations, so that the minimum activity is
+'Lumin = 3/f, where f is the frequency of high-frequency oscillations. This cor-
+responds to the minimum thickness of the homogeneous layer of ice hicemin -
+Vice13u in/Z' where Vice - _ he] eice is the velocity of radio wave propagation
+in ice Te ice is the complva dielectric constant).
+
+Table 1 gives the limiting hicemin values and the ratio r of the bottom/top ampli-
+tudes [2]. The salinity of ice was selected so as to be characteristic for sea
+ice of the corresponding thickness (ice temperature -30°C).
+
+The table shows that of the three frequencies only for f - 40 MHz is the ratio of
+the bottom/top amplitudes acceptable for measurement from the point of view of
+resolution of signals with a limited ice thickness. However, in this case hicemin
+= 5.9 m. With higher frequencies the bottom/top ratio SQ 0.1. which makes the
+process of measurement of the time interval between two reflected pulses, being
+at the limit of resolution. virtually impossible. Only a frequency f - 300 MHz
+makes a resolution of 0.8 m acceptable for practical purposes, but in order to
+
+21
+
+FOR OFFICIAL USE ONLY
+FIHI¢JFFICJAl.lEﬂE(N§LV
+
+ensure measurements there must be an increase in the r ratio by two orders of
+magnitude, for which the salinity of ice must be approximately three times less.
+
+Table 1
+
+Dependence of Resolution and hicemin Value on Frequency of Sounding Signal
+
+f, MHz 13am“. nanosec 5.2 hicemin' “‘ r
+
+60 75 1-1.5 5.9 0.38
+100 30 5-6 2 0.1
+300 10 12-13 0.8 0.03
+
+Method for Shock Excitation of Antenna
+
+In 1960 J. Cook proposed the use of a monopulse in the form of one period of a
+high-frequency oscillation for ensuring the contradictory requirements of use of
+the above-mentioned frequency window and maintenance of the necessary resolution
+[8]. The shock excitation of an antenna was proposed in order to obtain a mono-
+pulse. It should be noted that the optimum shape of a pulse from the point of
+view of the best resolution in the case of shock excitation differs from a monob
+pulse [3].
+
+This method was checked by N. Meyer, using horn antennas having a frequency band
+from 150 MHz to 600 HR: [10]. In our experiments (in 1969 from a beacon ano in
+1970 from aboard a helicopter) the shock excitation method was used by us in up-
+paratus for the shaping of short radio pulses. Using wind-band vibrator antenxas
+it was possible to obtain radio pulses with a duration of 6, 12, 20 nanoseconds
+corresponding to the central frequencies 440, 300, 140 MHz. In addition, using
+more low-frequency antennas with a central frequency of 70 MHz it was possible
+
+to obtain pulses with a duration of 40 nanoseconds. In addition to measurement of
+ice thickness, the inverse problem was solved: determination of the ice parameters
+from the ratio of the amplitudes of the signals and the time interval between
+them [4].
+
+These experiments confirmed the possibility of using the method for fresh-water
+and slightly saline ice and its inapplicability for highly saline sea ice. This
+is associated witha strungnonuniformity of the frequency characteristic of real
+antennas, especially in the low-frequency region, which leads to the "ringing"
+phenomenon. This was mentioned by S. Evans as an important technical problem [9].
+
+Videoinpulae Method (Method of Shock Excitation With Correction)
+
+He proposed and from aboard a helicopter (1971) and aircraft (1972. 1973) made
+practical use of a method for the compensation of ringing based on the use in the
+receiving channel of narrow-band channels for the multiple frequencies P, 2F,...,
+
+“P, which jointly with the frequency characteristic of the antenna form a uniform
+comblike filter [5]. The signal with which a particular comblike filter is matched
+is a packet of video pulses with the repetition rate P. Measurements can be made
+from one of the pulses in the packet.
+
+22
+
+FOR OFFIC1A1.USEIMNLY
+M OFFICIAL USE ONLY
+
+ 
+
+at,»
+nanosec
+
+Fig. 1. Dependence of true thickness of ice hue on time interval between pulse
+maxim At. 1) 81cc = 6.5-139/00, twater - -22 - -36°C; 2) 1.5-2.5°/oo, twntcr ' '8-
+-18°C; 3) perennial ice.
+
+Our experiments revealed the possibility of measuring the thickness of sea ice be—
+ginning with 50-60 ca. 'The presence of an adequate stability of the lean velocity
+of radio wave propagation in ice of different thickness was demonstrated for sev-
+eral gradations of the state of ice (Fig. 1). For one-year sea ice at an air tem-
+perature tair -20°C and a mean ice salinity S - 4.5-l3°/oo the velocity of radio
+wave propagation in the ice is 2.3 times less than in the air. With a decrease in
+salinity this ratio decreases to 2 or more to the known value 1.79 for fresh ice.
+An increase in air temperature ‘air above -20°C exerts a considerable influence on
+the attenuation of radio waves in ice. In this case for young highly saline ice and
+perennial ice the s‘gnal do- a not attain the lower layers, which makes it difficult
+to determine the velocity 0' radio waves in the ice and also calibration when meas-
+uring the thickness of such ice.
+
+BIBLIOGRAPHY
+
+l. lmgorodakiy, V. V., PIZICHESKIYE METOD‘I ISSLEDOVANIYA LBDNIKOV (Physical Meth-
+ods for Investigating Glaciers), Leningrad. Gidrometeoizdat, pp 3-211, 1968.
+
+2. Mendel'son, V. l... Kozlov, A. I. and Finkel'shteyn, M. 1., "Investigation of
+Some Electrodynaulc Models of Ice in Radar Sounding -Prob1ems," IZV. AN SSSR:
+FIZIKA ATHOSFERY I OKEANA, V01 VIII, No lo, pp 396-602, 1972.
+
+'J. Finkel'shteyn, H. 1., "Optimum Shape of Pulse in Radar Sounding of Sea Ice,"
+RADIOTEKHNIKA I ELEKTRONIKA (Radio Engineering and Electronics), Vol 25, XV,
+No 12. pp 2468-2672, 1970.
+
+23
+
+FOR OFFICIAL USE ONLY
+POI‘OITHCIAI.US£10NLN
+
+a. Pinkel'ehteyn, M. I.and Glushnev, V. 6., "Some Electrophysical Characteris-
+tics of Sea Ice Measured by Radar Sounding in the Meter Wavelength Range,"
+DOKLADY AN SSSR (Reports of the USSR Academy of Sciences), Vol 203. No 3,
+pp 577-580, 1972.
+
+5. Finkel'shteyn, M. I. and Kutev, V. A., "Sounding of Sea Ice Using a Series of
+Videopulses," RADIUI'EKHNIKA I ELEKTRO'NIKA, Vol XVII. No 10, pp 2107-2112, 1972.
+
+6. Pinkel'shteyn, M. 1., Kozlov, A. I. and Mendel'son. V. L., "Modeling of Reflec-
+
+tion of Radio Waves From Sea Ice," RADIOTEKNNIKA I ELEKTRONIKA, Vol XV, No
+11, pp 2282-2288, 1970.
+
+7. Addison, J. R., "Electrical Properties of Saline Ice," J. OF APPLIED PHYS.,
+V01 60, No 8, pp 3105-3116, 1969.
+
+8. Cook, J. 0., "Proposed Monocycle Pulse Very-High-Erequency Radar for Airborne
+Ice and Snow Measurement," TRANS. AMER. TEE. P 1 (Connun. and Electronics),
+Vbl 79, No 51, p 588, 1960.
+
+9. Evans, 8.. "Progress Report on Radio Echo Sounding," THE POLAR RECORD. Vol 13,
+No 85, pp 613-420, 1966.
+
+10. Meyer, M. A., "Remote Sensing of Ice and Snow Thickness." PROC. OF THE FOURTH
+SYMPOSIUM 0F REMOTE SENSING OF ENVIRONMENT, The University of Michigan, pp 183-
+192, 1966.
+
+COPYRIGHT: Arkticheskiy i antarktlcheskiy nauchno-issledovatel'skiy institut
+(AANII), 1975
+
+20
+
+FOR‘OFFHJAI.USE(NNLY
+INSTRUMENTATION FOR INVESTIGATING SPECTRAL REFLECTION 0F LIQUID WATER IN THE
+WAVELENGTH REGION 1-50}Lm
+
+Leningrad mum. 01mm LENINA ARKTICHESKIY I mammmsm wcrmo-xssmoovmstn
+sum msrrwr. nzmussxm mow Issunovmnm Um I swam in Russian No 326,
+1975 pp 74-79
+
+[Article by H. A. Kropotkin]
+
+[Text] Remote sensing methods, based on use of radiations in the IR range, are
+now being used more and more extensively in measuring the temperature of a water
+surface. In interpreting the results obtained by remote sensing methods it is
+necessary to know such optical characteristics of the water surface as the coef-
+ficients of spectral reflection, spectral and integral radiation in the visible
+
+and especially in the IR part of the spectrum, and also the dependence of the
+optical parameters of water on such factors as salinity and temperature.
+
+Investigations for study of the reflection of liquid water in the IR range have al-
+ready been carried out over the course of several decades. During recent years the
+reflection properties of liquid water are being investigated especially intensive-
+ly. Work on investigation of the reflective properties of liquid water has also
+been carried out at the Department of Principles of Electrovacuum Technology at
+
+the Leningrad Electrotechnical Institute.
+
+In this article we describe instrumentation used at the Leningrad Electrotechnical
+Institute for measuring the spectral coefficients of reflection of liquid water
+
+in the wavelength ruage fro" 1 to SOFLm [2. 3] and give some results of the inves—
+tigations made.
+
+The study of the spectral reflection of liquid water is complicated by the fact
+that, first of all, the coefficients of reflection of liquid water, especially
+In the case of small angles of incidence, in the IR range are small, and second,
+the surface of the liquid water does not remain plane due to vibrations of the
+ground. Accordingly, sometimes reflection at the air-liquid water discontinuity
+is not investigated, but instead at a dielectric—water discontinuity. The coef-
+[icients of reflection of the latter are then determined by computations. In ex-
+perimental respects such a method is very convenient, but due to the absence of
+nnterials transparent in the IR region and insoluble in water, such a method can
+
+be used only in the region of wavelengths less than lZ-lSle.
+
+At the Leningrad Electrotechnical Institute the investigation of the spectral re—
+Election of liquid water has been accomplished using instrumentation in which a
+mirror hemisphere is used for focusing the radiation reflected by the water.
+
+25
+
+FOR‘OFIICIAI.IISE:(NNLY
+IN)Ii0FFIC1Al.USIZ(H§LY
+
+Due to the use of this hemisphere there is a considerable reduction in the harmful
+influence of ground vibration.
+
+In the wavelength region up to ZOPLm the measurements were made with an attachment
+to a standard single-ray IR spectrometer, whose optical diagram is shown as Fig. 1.
+in this attachment the cell with the water to be investigated and the radiation
+detector are situated under the mirror hemisphere at an identical distance from
+the center of the hemisphere in the plane of its great circle. The plane mirror
+
+H4 can be rotated. When making measurements of reflected radiation this mirror
+directs monochromatic radiation onto the water surface to be investigated. The
+reflected radiation is focused by the mirror hemisphere onto a radiation detector.
+
+When measuring the incident radiation the mirror M4 is turned into a second posi-
+tion, in which it directs the radiation directly onto the detector. Thus, if the
+reflection coefficient of the mirror surfacing of the hemisphere is known, by
+means of this attachment it is possible to measure the absolute reflection coef-
+
+ficient of water.
+
+The reflection coefficient of the mirror surfacing of the hemisphere was determined
+with an accuracy to #11 by measuring the reflection coefficient of a plane mirror
+which was sprayed simultaneously with the hemisphere. The possibility of measuring
+the absolute reflection coefficient is an important advantage of this measurement
+method since in the measurement of the relative reflection coefficient it is neces-
+sary to use a comparison mirror. In this procedure it is necessary to take into ac-
+count the difference in the character of the polarization of the radiation re-
+flected by the water and comparison mirror, especially with angles of incidence
+close to the Brewster angle.
+
+As the radiation detector use was made of a radiation thermoelement with a window
+RRS = S. In measurements in the wavelength region up to 10y.m the recording in-
+strument was an H 195/2 multilimit galvanometer. in parallel with which a 1.7-
+hilohm resistor was connected. The response of the measurement system could there-
+fore be varied: it was maximum when measuring reflected energy and 10 times less
+
+when measuring incident energy. With measurements in the wavelength region 12-20
+Ilm, where the source energy is small, the galvanometer was replaced by a d-c am-
+
+plifier and an EFF-09 automatic recorder.
+
+In the wavelength zone from 20 to 50p.m the measurement of spectral reflection of
+liquid water was accomplished using an apparatus consisting of a long-wave single-
+ray IR spectrometer designed using a Pfund autocollimation scheme in which the
+dispersing element used was interchangeable diffraction gratings and an optical
+system focusing the monochromatic radiation either on the sample or on the detec-
+tor. The optical system and the diffraction gratings are situated under the mirror
+hemisphere. The switching of the ray from the sample to the detector is accomplish-
+
+ed using the rotatable spherical mirror.
+
+The source in this apparatus is a globar (lamp); the detector is a radiation ther-
+moelement with a KRS-S window operating in combination with a d-c amplifier and an
+
+EPP-09 electronic automatic recorder. In order to suppress the scattered short-wave
+radiation the optical system of the monochromator has two fluorite reflecting fil-
+
+ters and a transmission filter of smoked polyethylene. In addition. in the measure-
+ments use was made of a cutting slide of sodium fluoride. All the enumerated
+
+26
+
+FORIOFTTCIAI.USEGMVLY
+measures made it possible to reduce the level of scattered interfering short-wave
+rudiat ion to 1-22.
+
+Q00.
+0,0.
+0.0.
+
+0.01 ‘
+
+ 
+
+-—r--—---- -—r"‘ - - ---r‘ ——----l,--
+
+I}; ‘I no no G) P”
+
+Fig. 2. Reflection spectrum of liquid water.
+
+During the measurements the water was poured into a special cell which was divided
+into a number of sections by several horizontal and vertical partitions. The water
+
+layer over the upper horizontal partition was 1.5 mm. Adjustment was accomplished
+by use of a flat mirror whose reflecting surface was placed at the level of the
+
+upper section of the cell. Upon completion of adjustment the mirror is removed and
+the cell is filled to the edges with water.
+
+In all the measurements a convergent beam of rays with an angle at the vertex in
+the plane of incidence of 5° was incident on the investigated surface. The angle
+of incidence for the central ray of this beam was 17°. The nonparallel nature of
+
+the incident beam is a source of additional errors, but with a change in the angle
+27
+FOR 0F!1CLALI1§E(NULY
+FOIUOFFKJAI.US£|DNIN
+
+of incidence in the range tS' it is possible to assume that the change in the co-
+efficient of reflection of water as a function of the angle of incidence is lin-
+ear; therefore, the error in determining the reflection coefficient, caused by the
+nonparallel nature of the incident beam, is small. According to our estimate it is
+not greater than 11.
+
+The nonlinearity of the radiation detector, d-c amplifier and electronic potentio-
+meter can exert a substantial influence on measurement accuracy. The influence of
+nonlinearity of the thermoelectric detector in this case is insignificant since
+the measurements are made twice at each wavelength: for incident and reflected
+
+radiation. From this point of view the presence of some selectivity of the thermo-
+element is also unimportant.
+
+The nonlinearity of the d-c amplifier (an prov-1s was used for this purpose) was
+
+caused by the nonuniformity of illumination and response over the surface of the
+photoelements. If prior to each measurement a zero position of the boundary between
+
+the light and shadow is set strictly in the middle of the second stage grids, the
+FEOU is linear with an accuracy to 1%. In order to decrease the influence of nonlin-
+earity of the EFF-09 electronic potentiometer on the measurement accuracy, in this
+work use was made of a specially selected automatic recorder the nonlinearity of
+whose scale did not exceed 21.
+
+Thus, it is extremely difficult to make a precise evaluation of the error possible
+when determining the absolute values of the reflection coefficients. It is evi-
+dently a value not greater than 4-51. The checking of the reproducibility of the
+results indicated that in the case of repeated measurements the scatter of the de-
+termined values does not exceed 2.51.
+
+Figure 2 shows the reflection spectrum of distilled water (curve 1) which we ob-
+tained using the described apparatus. As a comparison, this same figure shows the
+reflection spectra of water obtained by other researchers. Curve 2 was taken from
+[7], curve 3 -- from {8], and curve a - from [9]. Curve 5 was computed from the
+values of the optical constants of liquid water cited in [1].
+
+Figure 2 shows that the reflection spectrum of liquid water which we obtained is
+characterized by-the selective reflection bands at 2.93 and 6.1+Lm, and also at
+46 and GBPLm. A somewhat greater value of the reflection coefficient in the re-
+gion of wavelengths less than lZ’Lm is attributable to the fact that the data of
+other authors were obtained with lesser angles of incidence (curves 2, 3 with
+
+a normal angle of incidence, and curve 4 with an angle of incidence 10°). In the
+more long-range spectral region our results also satisfactorily agree with the
+results of other authors. The selective reflection bands which we discovered at
+44 and hBilm agree well with the absorption bands in the spectrum of liquid water
+obtained by N. c. Yaroslavakiy and A. Ye. Stanevich [5]. True, in a later publica-
+tion dealing with the investigation of the transmission of liquid water in the
+long-wave IR spectral region [6] the mentioned bands are absent. In [6] the ab-
+
+sorption spectrum was determined using a two-component spectrometer. The authors
+of this article assume that the bands discovered by N. G. Yaroslavskiy and A. Ye.
+Stanevich were caused by the absorption of the water vapor present in the volume
+of the spectrometer. However, the DIKS-l used by N. G. Yaroslavskiy and A. Ye.
+Stanevich was of the vacuum type, so that this cause is improbable.
+
+28
+
+FOR OITICJAI.lEﬂE(N§LY
+The described apparatus can also be used in studying the reflection spectra of
+snow and ice. However, in an investigation of snow and ice in order to preserve
+the natural state of their surface it is necessary to use special refrigeration
+
+apparatus. For this purpose it is convenient to use miniaturized semiconductor
+
+condensers produced by our industry. In the case of use of refrigeration apparatus
+it is difficult to ensure a small distance between the investigated sample and the
+
+radiation detector. If a mirror hemisphere is used, this distance cannot be great
+since its increase is linked to a sharp increase in aberration of the hemispher-
+ical mirror. There is a particularly strong increase in aberration in the case
+
+of a diffuse or mixed character of reflection from the investigated object, such
+as snow.
+
+In the case of considerable aberrations of the optical system in order to measure
+the entire reflected flux it is necessary to have an indicator with a large re-
+ceiving area. Such an indicator has a low sensitivity.
+
+it can be shown that a mirror semiellipsoid (half of a mirror whose surface is
+formed by the rotation of the ellipse about the semi-major axis) has considerably
+lesser aberrations. With the use of a mirror seniellipsoid for measuring the re-
+flection coefficients a sample is placed in one of its foci. This sample is ir-
+radiated thr0ugh an aperture in the upper part of the semiellipsoid, whereas the
+radiation detector is placed in its other focus.
+
+In the Department of the Principles of Electrovacuum Technology at the Leningrad
+Electrotechnical Institute a new variant of an attachment has been developed for
+the IR spectrometer. Here a mirror hemisphere is used in place of a mirror semi-
+cllipsoid [4]. Work is also being done on replacing the mirror semiellipsoid in the
+apparatus intended for measuring the reflection coefficients in the region of
+wavelengths 20-50P.m.
+
+The described apparatus is now being used at the present time at the Leningrad
+Electrutechnical Institute for studying the influence of salinity and temperature
+on the spectral reflection of water, and also for investigating the optical prop-
+erties of snow and ice in the IR range.
+
+BIBLIOGRAPHY
+
+l. Zolotarev, V. M., Mikhug'nv, B. A., Al'perovich, L. I. and Popova, S. 1., "Dis-
+persion and Absorption of Liquid Hater in the IR and Radiowave Spectral Re-
+gions," OPTIKA I SPEKTROSKOPIYA (Optics and Spectroscopy), Vyp 27, No 5, pp
+790-795, 1969.
+
+2. Kroputkin, N. A. and Kozyrev, B. P., "Determination of the Spectral Coefficients
+of Reflection of Bulk Haterials in the Wavelength Region 0.7-15P.m." IZV.
+VYSSHIKH UCHEBHYKH ZAVEDENIY: FIZIKA (News of Higher Institutes of Education:
+Physics), No 3, pp 27-29, 1965.
+
+3. Krupotkin, N. A. and Kozyrev, B. P., "Apparatus for Investigating Spectral Re-
+floctinn of Scattering Haterials in the Long-Wave IR Part of the Spectrum,"
+IZV. VYSSHIKH UCHEBNYKN ZAVEDENIY-PRIBOROSTROYENIYE (News of Higher Institutes
+or Education: Instrument Making), No 6, pp 123-130, 1963.
+
+29
+
+FORIOFFKJAI.USE(NHLY
+4.
+
+S.
+
+6.
+
+7.
+
+8.
+
+9.
+
+FOI‘OFWHJAI.USE(MNLY
+
+Kropotkin, H. A., Kutilina, N. B. and Sheveleva, T. Yu., "Apparatus for Hess-
+uring the Transmission and Reflection Coefficients of Scattering Materials
+in the Wavelength Region From 1 to 20P"’" IZV. LBTI (News of the Leningrad
+
+Electrotechnical Institute), No 161, pp 110-116, 1975.
+
+Stanevich, A. Ye. and Yaroslavakiy, N. 6., "Absorption of Liquid Water in the
+Long-Have Region of the IR Spectrum." OPTIKA I SPEKTROSKOPIYA (Optics and
+Spectroscopy), No 10, pp 278-281, 1961.
+
+Draequert, D. A., Stone, N. H., Hillians, D. and Curnutte, 3., ”Far IR Spec-
+trum of Liquid Hater," J. OPT. SOC. AMER., Vol 56, No 1, pp 64-69, 1966.
+
+Pontier. L. and Dechanbenoy, C., "Determination des constantes optiques de
+l'eau liquide entre 1 et 40 aka. Application an caICul de son pouvoir reflec-
+teur et de son enissivite," ANN. GEOPHYS., Vol 22, No A, pp 633-641, 1966.
+
+Rush, A. N., Williams. D. and Querry, M. 8.. "Optical Constants 0E Hater in
+the Infrared," J. OPT. SOC. AHER., Vol 61, No 7, pp 895-903. 1971.
+
+Querry, H. R., Curnutte, 8.. and Williams. 0., "Refractive Index of Hater in
+the Infrared." J. 0PT. SOC. AMBR., Vol 59. No 10, pp 1299-1305, 1969.
+
+COPYRIGHT: Arkticheskiy i nntarkricheskiy nauchno-issledovatel'skiy inatitut
+
+(AANII), 1975
+
+30
+
+FOI'OFFNJAI.USE(HUUY
+FOR OFFICIAL USE ONLY
+
+ICE BEHAVIOR IN HIGH-STRENGTH RAPIDLY VARYING ELECTROMAGNETIC FIELDS
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICHESKIY NABCHNO-ISSLEDOVATEL'-
+SKIY INSTITUT. FIZICHESKIYB HETODY ISSLEDOVANIYA L'DA I SNEGA in Russian No 326,
+1975 pp 90-93
+
+[Article by L. B. Nekrasov]
+
+[Text] Theoretical and experimental investigations of recent years indicate the ex-
+istence of a fluid or quasifluid water film on the ice surface. The hypothesis of
+existence of a thin water film on the ice surface at temperatures below its melting
+point was expressed for the first time by Faraday in 1860 in [6]. The matter of
+
+the energetically stable existence of a water film on an ice surface at negative
+temperatures was the subject of a discussion between Faraday, Thomson and Tyndall
+[5]. The hypothesis of a quasifluid film on the ice surface was further developed
+by Weyl, who attempted to explain the existence of film water on the ice surface
+on the basis of the concept of an impaired structure of the surface layers of
+solids.
+
+There are now experimental data [7, 8] indirectly confirming the presence of a
+water film on the basis of measurement of the tensile strength and shearing
+strength of ice, especially that frozen on a plate of stainless steel and optical
+quartz. Experiments for studying shearing strength gave values which could be
+expected if one accepts the hypothesis of the existence of a quasifluid layer be-
+tween the ice and the surface of these materials.
+
+Dilatation experime'ts give rise to fractures in the ice mass. There were no frac-
+tures of the material (quar‘- plate) at the ice-surface contact. The author pos-
+rulates that the factor responsible for this is surface tension forces in the
+
+quasifluid layer existing between the ice surface and the plate.
+
+The existence of a fluid film on the ice surface is indicated by investigations
+of nuclear magnetic resonance, making it possible to obtain information on the
+degree of mobility of molecules. Due to the inadequate response of the nuclear
+magnetic resonance method dat:1were obtained [3] confirming the existence of film
+water only in highly disperse ice (hoarfrost on the walls of a Dewar vessel with
+
+liquid nitrogen).
+
+These data once again confirm the widely held opinion that the adsorbed state of
+water in the form of a quasifluid film is a comnnn property of the disperse
+
+state of matter. Nevertheless, nuclear magnetic resonance data do not give a con-
+vincing answer to the question as to whether there is a water film in monolithic
+
+31
+
+non OFFICIAL USE ONLY
+FORiOFﬁKJAl.USE(M€LY
+
+Semicrystallinc ice - the most interesting case for practical purposes.
+
+Studies for inveStigation of the adhesion properties of ice, in our opinion, make
+the problem of the existence of a quasifluid film in monolithic ice still more de—
+batable. He made an attempt at experimental confirmation of the fact of existence
+of film water in semicrystalline ice on the basis of its behavior in highly vari-
+able high-strength electromagnetic fields.
+
+It is well known that ice, especially pure ice, being a good dielectric, is vir-
+tually not heated in highly variable fields even of a very high strength. How-
+ever, as indicated by our experiments carried out in the Problems Laboratory of
+Destruction of Rocks by Powerful Electromagnetic Fields of the Leningrad Mining
+'nstitute, semicrvstallinc ice at negative temperatures is extremely effectively
+destroyed in a high-strength HF electromagnetic field.
+
+The experiments were carried out with strongly mincralized ice (prepared from sea
+water), ice with slight mineralization (distillate) and ice prepared from chem-
+ically pure water (subjected to anion-cation purification and degassing). The
+destruction of ice in all cases developed approximately identically: after 1.5-2
+sec from the time of exposure to an electromagnetic field (E - 4 KV/cm; f = 60.68
+MHz) the ice (weakly mineralized) loses its optical and mechanical homogeneity:
+
+after 3-4 sec poorly distinguishable inclusions of volume water and voids appear
+in the sample: after 7-8 sec there is a stage of intensive fracturing of the
+
+sample, ending with complete disintegration into individual crystals.
+
+As is well known, dielectric heating is determined by the loss factor £5" - 8'
+tgb. The value of this characteristic for quasifluid films at the ice surface is
+n0t mentioned in the literature. However, there is basis for assuming that the
+value of the loss factor 8 " for film water at the ice surface must not differ
+greatly from the adsorbed water on other substances at the corresponding tempera-
+tures and frequencies. We will compare 6." for the ice and water adsorbed on sil-
+ica gel at negative temperatures and also for ice and volume water at positive tem-
+peratures.
+
+For adsorbed water at frequencies of hundreds of HR: at a temperature to -70°c
+tg.6 - 5-10"2 and 8 ' - 4 [1]; £' is slightly dependent on frequency and temper-
+ature [2]. At frequencies of about 2 MHz and with a temperature of about -30°C
+tg,6 - 0.3 [2]. There are far more data on the electric properties of volume water
+and ice. Since the rate of dielectric heating is dependent primarily on the fac-
+tor of losses of the heated material and on field frequency, it is desirable to
+examine the behavior of volume water in high-frequency fields in dependence on
+these characteristics. Source [4] gives the dependence of £3 tg 6 f - E "f on
+field frequency for volume water and ice in a broad frequency range.
+
+The value 5 "f for water in the range of high and especially superhigh frequencies
+greatly exceeds this same value for ice. For example, at a frequency of 2375 M“:
+(the frequency of industrial technological apparatus) this value for water is 3.6-
+1010 whereas for ice (with t - 20'C) it is equal to only 4.3-106.
+
+He will compare the electric characteristics of ice, film and volume water at nega-
+tive and positive temperatures. It was demonstrated in [1] that at a frequency of
+213 MHz tg 6 for ice is (4.2-7)-10", whereas the dielectric constant is 3.2.
+
+32
+
+FOR 0FFNJAI.USE(NVLY
+In other words, the loss factor 8" for ice at a frequency of 213 MHz is equal to
+1.3-10'3. For adsorbed water at negative temperatures at this same frequency 6"-
+2-10‘1, for volume water at positive temperatures -£"- 2.4.
+
+Scaled to the value 8' tg 6 f (determining the capacity of the material to absorb
+HF energy) for ice, film water (at a temperature corresponding to the temperature
+of ice) and volume water (as a temperature close to 0°C) we obtain the values
+3.2-105; 4.3-107 and 5.l~10 . Thus. the intensity of absorption of the HP energy
+by the film water at a frequency of 213 MHz exceeds by two orders of magnitude
+
+(to be more precise, by a factor of 111) the intensity of absorption of HP energy
+by ice at this same frequency.
+
+The intensity of absorption of HF energy by volume water in comparison with ice is
+still greater (by a factor of 160). In the light of these data the behavior of the
+polycrystalline ice in rapidly variable high-strength fields can be explained in
+
+the following way. Under the influence of a high-frequency field on the ice the
+absorption of energy OCCurs for the most part at the surface and at the boundaries
+of the grains. As a result. the liquid layer will increase and the mechanical
+Strength of the ice will decrease. From the moment of appearance of the volume water
+the process of ice destruction will be accelerated still more (avalanchelike pro-
+cess). With some critical thickness of the water layers between the individual
+crystals the ice monolith breaks apart under its own weight.
+
+For highly mineralized ice it is also possible to give other explanations of the
+behavior of ice in an electromagnetic field. The admixtures dissolved in the water
+at the time of phase transitions are squeezed toward the boundaries of the crystals
+and can be the source of local losses leading to the fracturing of the ice without
+melting in its entire mass.
+
+However, such a mechanism can scarcely explain the similar pattern of behavior of
+ice prepared from distilled water. In any case, for ice which is virtually conr
+pletely deprived of chemical admixtures, the explanation of the observed pattern
+of destruction is obviously different. Evidently. the only possible source of in-
+creased dielectric losses in the semicrystalline ice may be film water, whose
+
+E ' and cg 3 parameters, according to available data, are much greater than for
+ice.
+
+BIBLIOGRAPHY
+
+i. ﬂognrodskiy, V. V. and Fedorov, B. A., "Radar Sounding of Glaciers," ZHURN.
+TEKHN. FIZ. (Journal of Technical Physics), Vol 37, Ho 4, pp 781-788, 1967.
+
+2. Zhilenkov, I. V., "Debye Dispersion of Adsorbed Water at Low Temperatures,"
+12V. AN SSSR: OKhN (News of the USSR Academy of Sciences: Division of Chem-
+ical Sciences), No 2, pp 232-236, 1957.
+
+3. Kvlivldze. V. 1., Kiselev, V. F. and Ushakova, L. A., "Existence of a Quasi—
+rlutd Film on an Ice Surface," DOKLADY AN SSSR (Reports of the USSR Academy
+of Scivnrus), No 191(5). pp 1088-1090, 1970.
+
+33
+
+FOI,OF?1(JAI.lﬂﬂE(NHLY
+5.
+
+FOR UI'I'ILIAI. Dbl; ONLY
+
+Nekrasov, L. B. and Ivanov, V. 6., "Destruction of Ice in Strong HF Electromag-
+netic Fields," FIZIKO-TBKHNICHESKIYE PROBLEMY RAZRABOTKI POLEZNYKH ISKOPAYEMYKH
+
+(Physicotechnical Problems in Mineral Output), No 5, pp 26-28, 1971.
+
+Ushakova, L. A., Kvlividze, V. I. and Sklyankin, A. A., "Surface Properties of
+Snow and the Hetamorphisn Process," GIDROLOGIYA SUSHI. GLYAISIOLOGIYA. ITOGI
+NAUKI (Hydrology of the Land. Glaciology. Results of Science), Moscow, Izd-vo
+AN SSSR, pp 9-39, 1968. ‘
+
+Faraday, H., "Note on Regelation," PROC. ROY. SOC. LONDON, No 10, p 440, 1860.
+
+Jelllnek, H. H. 0., "Liquid-like Layer on Ice," J. APPL. PHYS., No 32, p 1793,
+1961.
+
+Jellinek, H. H. 6., "Liquid-like (Transition) Layer on Ice," J. COLL. AND INTER-
+FACE SCI., No 25, pp 192-205, 1967.
+
+COPYRIGHT: Arkticheskiy 1 antarkticheskiy nauchno-issledovatel'ekiy institut
+
+(AANII), 1975
+
+36
+
+FOI‘OFFKJAI.USEIHVLY
+DYNAMICS OF ICE IN COASTAL REGIONS ACCORDING TO DATA FROM SIDE-LOOKING RADAR
+SURVEY PROM AIRCRAFT
+
+Leningrad TRUDY. ORDENA LBNINA ARKTICHESKIY I ANTARKIICHESKIY NAUCHNO—ISSLEDOVATEL'-
+
+SKIY INSTITUT. FIZICHESKIYE MBTODY ISSLEDOVANIYA L'DA I SNEGA in Russian No 326,
+1975 pp 104-113
+
+[Article by S. H. Losev and Yu. A. Gorbunov]
+
+[Text] Among the new noncontact methods for investigating the ice cover which have
+come into practical use during the last decade is a side-looking radar survey from
+an aircraft [1, 3, 5, 7]. In this article the emphasis is on those possibilities
+which are afforded by a radar image in a study of the drift of ice and some pheno-
+mena associated with it.
+
+Experience in work with the films of an electronic photorecording unit of a side-
+looking radar station convinces us that they contain much important information
+
+which can be used successfully for a deeper investigation of the kinematics and
+dynamics of the ice cover.
+
+The materials from surveys with a side-looking radar in arctic seas during the per—
+iod from 1968 through 1972 were used by us in investigating the following problems:
+influence of the land on the forming of drift in the coastal regions, spatial vari-
+ability of the field of velocity of ice movement. mobility of ice fields relative
+
+to one another and their rotation, compression and thinning of the continuous drift-
+ing ice.
+
+Much of the materials usnd lure were obtained in ice aerial reconnaissance. The sur-
+veys were carried out both along individual flight alines and along parallel runs
+with coverage of a considerable area of the sea. The time interval between observa-
+tions in one and the same region for the most part was two days.
+
+A knowledge of the peculiarities of ice drift in the coastal regions is of great
+importance for ensuring navigation and also for the designing and operation of
+different kinds of hydraulic structures. However, there have been no effective
+methods for investigating the patterns of movement of ice under the real conditions
+prevailing in arctic seas with simultaneous coverage of quite extensive zones. In
+turn, attempts at an analytical solution of the problem of ice cover drift have
+
+not always been successful due to the difficulties in correct allowance for
+
+35
+
+FOR OFFICIAL USE ONLY
+l!”l(ﬂﬂﬂ€]Al.lEﬂi(ﬂULY
+
+influence of the land. In this respect the data obtained using a side—looking radar
+can give much which is highly valuable for both practical work and for theory.
+
+The material which we had at our disposal made it possible to analyze several
+schemes of the fields of velocity of drift of packed ice in the neighborhood of
+the islands. It was established that as a result of the transfer of the normal
+pressure forces in the ice cover on the drift side of the islands there is forma-
+tion of zones of compression within which the normal drift component vn decreases
+with approach to the shore.
+
+As the extent of the nondrift zone of influence of the island we will use the dis-
+tance Lf in the direction of the general drift from the point where a decrease in
+velocities to the central part of the island begins. Then the extent of the zone
+of influence of the island can be expressed by the value
+
+L:
+h,
+
+wherellis the section of the island along the normal to Lf. According to the col-
+lected data this ratio was close to 5 (Table 1).
+
+Table 1
+Characteristics of Field of Ice Drift Velocity on Drift Side of Island (Summertime)
+
+Measurement Length of Section of vmax, Extent of Extent of Lf/h LO/h
+
+series island, km island along km/day zone of zone of
+normal to fixed ice island
+drift h, km Lo, km influence
+Lf, km “
+1 11.1 9.6 11.8 8.1 50.6 5.25 0.8b
+2 12.0 12.0 10.5 11.1 58.1 4.84 0.92
+3 14.5 11.5 14.7 10.8 61.4 5.34 0.94
+mean 5.15 0.90
+
+The change in the component V“ in the direction of the general drift as a function
+of distance to the shore L is characterized by a regularity which in general form
+can be represented by the equation
+
+731“” (‘1'?)-
+
+”mu
+
+where Vnmax is the normal component of drift velocity at the bOundary of the zone of
+
+influence of the island; L2 is the distance from the shore to the boundary of this
+zone.
+
+Directly near the island on the drift side there is formation of a zone of fixed
+
+ice in the form of a wedge directed toward the drift and giving the island a stream-
+lined shape. In sumner the ratio of the length of the wedge Lo, measured from the
+section h, to the value of the section itself on the average is equal to 0.9. In
+winter as a result of freezing together of the ice the wedge can be more elongated.
+According to data from one of the surveys made during this period the Lo/h value
+
+was 1.51.
+
+36
+
+FINICNHWC]AI.[ERE(NVLY
+FOR OFFICIAL USE ONLY
+
+0n the approaches to the wedge the drift divided and the ice, bending around the
+island on both sides, again converges on the opposite side. The zone of open pack
+in: developing beyond the island disappears at a distance from 0.6 to 2h. The zone
+of influence of the island on the field of velocity of movement of the ice on the
+sheltered side is approximately half as great as on the drift side. The increase
+in velocity beyond the island ceases on the average at a distance of 2.5 h (Table
+2).
+
+Table 2
+
+Characteristics of Field of Ice Drift Velocity on Sheltered Side of Island (Sumner)
+
+Measurement Length of Section of island Extent of zone Lb/ h
+series island, km along noraal to of influence
+drift h, In: of island 1.1,,
+km
+7 12.0 12.0 32.0 2.67
+3 14.5 11.5 32.0 2.78
+4 37.0 26.0 62.0 2.38
+5 22.0 16.5 35.5 2.15
+mean 2.50
+v
+
+ 
+ 
+ 
+   
+    
+
+3.... Winter
+
+.20
+
+   
+
+' 'Tﬁ—r—ﬁ'ﬂ 1"'| ‘l 'r'
+(I lumIJOGOWWVONOOIOOIIOI I30
+
+Fig. 1. Change in drift velocity components of packed ice as function of distance
+to shore. 1) normal component; 2) tangential component.
+
+The use of films for the photorecording unit in a study of ice drift in straits be-
+tween two islands or between an island and the mainland made it possible to estab-
+lish that the formation of zones of compression and fixed ice on the drift side of
+LIIL' islands creates the effect of an "increase" in the length of the strait. For
+
+this reason the zone of increase in the velocity of ice mvement at the entry into
+
+n strait is 1.2-2 times longer than the zone of decrease in velocity at the exit
+From the strait. The profiles of the velocity of the tangential component of drift
+
+37
+
+FOR OFFICIAL USE ONLY
+IIIICHHNCJAI.USEIMNLY
+
+across the central part of the strait and between the zone of compression and
+the shore of the mainland to all practical purposes are similar to one another.
+
+It is known from observations that the shore exerts a different influence on the
+normal and tangential drift components. However, traditional methods for the study
+of ice drift under real conditions_(radio beacons, DARMS stations, drifting ata-
+tions) have not given simultaneous data for a detailed spatial analysis of change
+of these components. Surveys made using the side-looking radar make it possible to
+carry out such an analysis. '
+
+Figure 1 shows the change in ice drift velocity components for ice with a continuity
+of 9-10 units. The surveys were made in winter. In this case at a distance of 130-
+140 km from the land, where the drift components for all practical purposes no
+
+longer changed, the general direction of ice movement was at an angle ,6- 23' to
+the boundary of the shore ice (the width of the shore ice was about 15 km).
+
+It follows from the cited data that with approach to the shore the tangential com-
+ponent v1 first increases, whereas the vn component decreases. This is attributable
+to the fact that in this sector the value of the drift velocity vectors virtually
+does not change. At the same time, they rotate and in direction they gradually
+approach the direction of the shore ice boundary.
+
+At a distance of 40—45 km from the fixed ice the influence of boundary zone friction
+begins to be reflected. Within its limits the v1 values intensively decrease and at
+
+the boundary of the shore ice this component is only 0.4 of its maximum value.
+
+The normal drift component vn within the limits of the boundary zone is usually less
+than the VL component. In the immediate neighborhood of the shore or shore ice in a
+
+zone with a width of 10-15 km it is close to zero. Beyond the limits of the boundary
+zone the relationship between the v1 and vn values can be different and be determin-
+ed completely by the value of the 5 angle.
+
+In summer the change in the ice drift components in general is characterized by the
+same regularities. This is indicated by the data obtained in the neighborhood of
+the islands. However, the width of the boundary zone in the presence of packed ice
+during this period decreases to 10-15 km. The reaction of the normal-drift compon-
+ent to the influence of the shore is transmitted within the region of the ice cover
+the same, evidently, as over shorter distances. At this time we have not been able
+
+to obtain any specific data on this problem.
+
+The drift of the ice cover is accompanied by relative movements of the floes. The
+intensity of movement of the floes relative to one another has already been invest-
+igated on the basis of an aerial photographic survey with averaging of velocity dur-
+ing time intervals of about one hour [2. 6]. Using films from the photorecording
+unit we analyzed the velocities of relative movement of the ice with time averaging
+of two days. The mobility of the floes was examined in the direction of the mean
+
+drift and along the normal to it. For this we used the mean square values of the
+longitudinal v'L and transverse v'n deviations of the velocity vector of each flee
+from the vector of mean ice drift velocity. The areas of the zones for which the
+drift was averaged were 600-800 kmz. It follows from these results that the
+
+38
+
+FOI‘OFENJAI.USE(NVLY
+INJRIOFFICJAI.IISEZCNVLV
+
+relative displacements of the floes along the general drift increase with an in-
+crease in the mean "elocity modulus v for movement of the ice cover (Table 3).
+
+Table 3
+Mean Square Values of Longitudinal Deviations 3'1 of Ice Drift Velocity Vector, in
+km/day
+
+Ice continuity, Mean ice drift velocity, km/day
+units
+
+7-9 9-11 11-13 13-15 15-17
+6-6 1.81 2.43 2.69 2.98 3.56
+7 1.20 1.55 1.72 2.06 2.35
+8-10 0.62 0.74 0.86 1.11 1.30
+
+The dependence of the V'L value on'the 3 and C parameters is entirely satisfactor-
+ily approximated by the expression
+
+17.40.41 -—0,037C)17.
+
+The mean square values of the transverse displacements of floes V'n also increase
+with an acceleration of the general movement of the ice cover (Table 4). At the
+
+same time it is impossible to note any significant influence_pf ice continuity with
+its change from 4 to 9-10 units. In general, the deviations v'n are comparable with
+the longitudinal deviations of the drift velocity vectors for packed ice.
+
+The mean deviation between V'n and V is 0.102.
+
+It should be noted that in a coastal zone with a width of 15-20 km the fluctuations
+of the drift velocity vector are greater than in the more seaward zone. For ex-
+ample, with an ice continuity of 6-6 units the longitudinal deviations exceed the
+values cited in Table 2 on the average by a factor of 1.5. The values of the trans-
+verse deviations near the shore increase by a factor of 2-3.
+
+Table 4
+
+Mean Square Values of Transverse Deviations 7'“ of Ice Drift Velocity Vector. kmdday
+
+3, Ian/day V _, Ian/day 7, Ian/day V'n, Ian/day
+7-9 0.78 13-15 1.21
+9-11 1.13 15-17 1.73
+11—13 1.10 17-19 1.95
+
+A joint analysis of the deviations 3}_and v'n makes it possible to establish a change
+in the nature of the distribution of the velocity vectors for movement of floes rela-
+tive to the mean vector with an increase in continuity of the ice cover. It was found
+that in open pack ice the longitudinal displacements of the floes predominate over
+the transverse displacements, that is, v'n/v'1<:l (Fig. 2). With an ice continuity
+
+of about 8 units the deviations on the average become equal. In more continuous ice
+the transverse displacements of the floes are greater than the longitudinal dis-
+placements. The dependence of the ratio v'n/vfgon ice continuity is determined ap—
+proximately using the formula 0- I
+
+I
+
+a; ' Tie—7.712117.“
+
+39
+F03¢Nﬂﬂl1Al.USE(MVBY
+FOR OHMJAI. USE ONLY
+
+  
+
+units
+
+TT‘1—T'TT1'0 °-°"
+
+Fig. 2. Change in ratio Vh'/31' as function of ice continuity (in units).
+
+ellipses of scattering of the deviations v), and v'n. If the resultant drift is di-
+rected in the direction of any obstacle (toward the shore or zone of stranded ice),
+limiting the movements of the ice cover, the longer axis of the ellipse of scatter-
+ing rotates relative to the mean velocity vector, tending to be oriented along the
+general direction of the obstacle. The very same occurs in the case of drift of
+open pack ice in the direction of the ice mass. For example, with a direction of
+the mean velocity vector at an angle of 50° to the boundary of the ice mass the
+greater axis of the ellipse was deflected from this b0undary by only 15', that is,
+it was turned relative to the mean drift by 35°. In the ice mass itself, near its
+boundary, with a similar direction of the resultant movement of the ice, the el-
+lipses of scattering were also oriented along the boundary of the pack ice.
+
+It was established earlier on the basis of materials from an aerial photographic
+survey that with the drift of open pack ice, uniformly distributed in space, and in
+the absence of obstacles the greater axis of the ellipses is usually deflected from
+the direction of the averaged drift by not more than 10° [4). Now it has been found
+that in the presence of an ice continuity gradient the displacement of the floes
+relative to the mean velocity vector occurs differently. The velocity vectors are
+distributed in such a way that there is a predominance of drift fluctuations in
+
+the region of lesser ice continuity. Evidently. this peculiarity is attributable
+
+to internal processes transpiring in the ice cover as a result of both contact and
+hydrodynamic interaction of ice [6].
+
+0n the basis of materials from a radar survey it is possible to investigate the spa-
+tial variability of the field of ice drift velocity. As a characteristic of the
+
+correlation between the velocities of ice movement at individual points in the
+drift field we computed the normalized spatial correlation functions:
+
+40
+
+IN)! OIWWCJAI.IISIECNVLY
+FORGDFFKJAL.USE10NLN
+
+‘ '
+7-7- 12!.” (1'0". (Ll + l)
+
+RU); -_..___‘__
+
+where v'(L1) and v'(L1+ l) are the deviations from the mean drift velocity at the
+points L1 and L1 + 1; I is the interval in which the correlation function was de—
+termined;o“2, is the dispersion of drift velocity.
+
+In computations we used a scheme of ice drift taking in an area of about 110,000
+km2 and averaged during a time interval of two days. The analysis was made in the
+direction of the general drift and along the normal to it.
+
+The values of the mean velocity of ice movement and the standard deviations along
+the general drift were ggual to v - 9.2 km/day; 03,- 0.02 km/day, and along the
+normal to the drift -- v - 9.6 km/day; C7; - 2.90 km/day.
+
+RI”
+
+ 
+
+Fig. 3. Normalized spatial correlation functions of drift velocity of pack ice. 1)
+along direction of general drift; 2) along normal to general drift.
+
+It can be seen from Fig. 3. which shows the results of computations, that the dif-
+ference in the normalized correlation functions in the directions mentioned above
+is extremely signifi-ant. A substantial linear correlation between the drift velo-
+cities ncross the movement 1:. ice (with R(L)< 0.5) is observed at points distant
+from one another by not more than 18 km, whereas along the drift this distance in-
+creases to 39 km. The first intersection of the axis of distances with the curve
+of the correlation function along the normal to the drift is observed with l = 35
+km. The correlation function along the direction of drift attains zero with Q - 75
+km. Thus, the mean values of the maximum size of the structural formations of the
+field of drift velocity in the direction of ice movement and along the normal to
+it differ by a factor of appruximately 2. This means that the structural forma-
+tions of drift velocity, that is, zones of increased and decreased velocities of
+ice movement, have an elliptical shape and are drawn out in the direction of the
+general movement of ice.
+
+One of the peculiarities of ice drift is rotation of flees during their translation-
+
+al movement. The floes can rotate both as a reSult of random interactions between
+them and under the influence of the general nonuniformity of the field of velocity
+
+61
+
+FORIOFFKJAI.USE(NNLY
+I‘ll OIIWCJAL.USIZ(HVLY
+
+of ice movement. It is evident that the rotation of large ice fields for the most
+part is attributable to the nonuniformity of drift and to a lesser degree is de-
+pendent on random factors. For a clarification of this circumstance we analyzed
+
+the rotation of 65 ice fields measuring from 2 to 8 km with an ice continuity of
+U-lO units, making use of electronic photoregistry films. The velocity of rotation
+of the floes was compared with the local transverse drift velocity gradient in the
+sector of movement of each field. It was discovered that there is a direct correla-
+tion between these values, that is, with an increase in the absolute value of the
+transverse drift gradient the intensity of rotation of floss also increases. This
+dependence is expressed approximately by the equation
+
+‘)
+
+. III'
+‘3"5 - «Tum
+where the transverse drift velocity gradient av/an is expressed in km/day / km,
+and the velocity of rotation u)- in degrees per day.
+
+A study of deformation of the ice surface is of great importance, that is, an inves-
+tigation of the compressions and dilatations arising in it. For a quantitative
+evaluation of these phenomena we used the change in area ASS of a "surface ele-
+ment," discriminated from the characteristic points on individual floes. Since the
+electronic photoregistry films make it possible to establish the relative position
+of the floes at the times of the first and second surveys, it is also possible to
+determine the deformation.A S of the contour during the interval between observa-
+tions (it. The intensity of deformation is expressed most simply by the relative
+change in the area of a surface element in a unit time
+
+. s, .5.
+""117-
+
+where 81 and 52 are the areas of the contour during the first and second surveys.
+The relative deformation value is identical to the divergence of the ice drift velo-
+city field.
+
+A total of 134 Hrvalues were obtained by the described method using data from summer
+surveys of pack ice. Seventy of these were with a plus sign and 64 were with a minus.
+In the computations for the most part we discriminated rectangular contours. The
+areas of the figures on the average were 100-120 kmz. It was established as a result
+of a careful analysis of the materials that the deformation of figures of such a
+scale is determined by the changes of both the ve10city and direction of drift.
+
+The mean positive p.value was +0.142; the mean negative value was -0.l36; the mean
+for the entire sample was +0.009: the standard deviation was 0.186. The extreme
+p.values were +0.95 and -0.38. The curve of y distribution is characterized by a
+positive asymmetry and a positive excess. The totality of these data makes it pos-
+sible to assume that in the studied situation the deformations of the surface of
+the continuous ice cover during compression were manifested less intensively than
+during dilatation.
+
+Spatially the P-values were not distributed unsystematically, but form individual
+zones with positive and negative values. In such zones during the period between
+
+surveys there were dilatations or compressions of the ice respectively. The zones
+of compression, elongated along the normal to the general drift, alternate with
+
+42
+
+FIHICHHHCIAI.IEIE(HVLY
+FINICHﬂﬂCJAl.USE(MVLY
+
+zones of dilatation. The width of the first on the average is 30 km; the width of
+the second on the average is 60 km. The maximum negative}; values were observed
+on the drift side of the islands, that is, in zones of intensive decrease in the
+velocity of ice movement. The maximum positive y.values were observed at the en-
+trances to straits. where. on the other hand, the velocity increases were consid-
+erable. In zones of positiveil values it was usually possible to observe the form-
+ing of channels or chains of leads.
+
+In this article we have by no means examined all the aspects of use of side-looking
+radar for study of the dynamics of the ice cover in the coastal regions of arctic
+seas. Nevertheless, we hope that the results cited here will be indicative of the
+possibilities of a multisided application of this method, which is not dependent
+
+on such factors as the illumination of the underlying surface and visibility. At
+the same time, we assume that the method requires further development, which evi-
+dently must be directed both along the lines of technical improvement of the radar
+system and along the lines of broad automation of the procedures of processing and
+analysis of the collected data.
+
+BIBLIOGRAPHY
+
+I. Corbunov, Yu. A. and Losev, S. M.. "Use of the Side-Looking 'Toros' Radar Set
+for Investigating Ice Drift," TRUDY AANII (Transactions of the Arctic and Ant-
+arctic Scientific Research Institute), Vol 316, pp 153-162, 1976.
+
+2. Corbunov, Yu. A. and Timokhov, L. A., "Investigation of the Dynamics of Ice,"
+
+IZV. AN SSSR: SERIYA FIZIKA ATMOSPERY I OKEANA (News of the USSR Academy of
+Sciences: Physics of the Atmosphere and Ocean), Vol 6, No 10, pp 1086—1091,
+1968.
+
+3. Glushkov, V., et a1., ”New Means for Obtaining Ice Information," MORSKOY PLOT
+(Navy), No 9. pp 27-28, 1910.
+
+a. Losev, S. H., “Statistical Analysis of Relative Mobility of Ice Cover," TRUDY
+AANII, Vol 307, pp 28—40, 1973.
+
+S. Loshchilov, V. S. and Voyovodin, V. A., "Determination of Ice Cover Drift Ele-
+ments and Movemc-ts of thu Ice Edge Using the 'Toros' Airborne Side-Looking
+Radar Set," VROBLEMS ARIFTKI I ANTARKTIKI (Problems of the Arctic and Antarc-
+tic), No 40, pp 23-30, .372.
+
+6. Timokhov, L. A., "Dynamics of the Ice Cover and Changes in Its Continuity,"
+TRUDY AANII, Vol 257, pp 125-134, 1967.
+
+7. Johnson, J. D. and Farmer, L. 0., "Use of Side-Looking Airborne Radar for Sea
+Ice Identification," J. GEOPHYS. RES., Vol 76, No 9, pp 2138-2155, 1971.
+
+COPYRIGHT: Arktlcheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+(AANII), 1975
+
+43
+
+FORIDFFKJAI.USE(H‘LV
+INJI‘OFINCIAI.IEHE(HULY
+
+OBSERVATIONS OP SEA SURFACE TEMPERATURE USING A RADIATION THERHOHBTER FROM AN
+ICE RBCONNAISSARCE AIRCRAFT
+
+Leningrad TRUDY. ORDEHA LENINA ARKTICHESKIY I ANTRRKTICHESKIY NAUCHNO—ISSLEDOVATEL'-
+
+3x11 INSTITUT. rrzrcussxxvs unroov ISSLEDONANIYA L'DA 1 such in Russian No 326,
+1975 pp 114-120
+
+[Article by A. I. Paramonov, Yu. A. Gorbunov and S. H. Losev]
+
+[Text] During August-September 1973 in the eastern region of the Arctic for the
+first time specialists made regular observations of the temperature of the sea
+surface using a radiation thermometer. The following problems were solved: deter-
+mination of the possibility of measuring the temperature of the sea surface in
+leads amidst thin and scattered ice, the collection of data on the temperature of
+the surface of ice of different age, evaluation of the accuracy of observations,
+perfection of the method for aerial temperature surveys frou an ice reconnaissance
+
+aircraft.
+The following apparatus was used in carrying out surveys
+
+Precise Radiation Thermometer, Model PRT-S. Barnes Engineering Co., United States
+
+Range of measured temperatures, °c -20 - +75
+Accuracy, '6 0.5
+Response, °C 0.1
+Inertia, sec 0.5
+working range of ambient temperatures, °c -20 - +60
+Working range of wavelengths. Pm B-lb
+Angle of View, degrees 2
+
+Electronic Automatic Recording Potentiometer, Model KSP-a, USSR
+
+Range of measured voltages, mV 0-10
+Rate of run of carriage along entire scale, sec 2.5
+Input resistance, ohms 1000
+Rate of motion of registry tape, mn/hour 20, 60, 240, 720, 1800,
+5400 and same values x 10
+Accuracy, 2 of entire scale 0.5
+Ah
+
+FOI‘OPFK]AI.USE¢MVLY
+FOI‘OFEK]AL.U§E(NVLY
+
+Electronic Automatically Recording Potentiometer (Ankersmit), Model SP-65V, Riken
+Denshi Co., Japan)
+
+Range of measured voltages 0-5 mV, 0-10 aV to 10 V on
+fixed and variable scales
+Rate of run of carriage along entire scale,
+
+sec 1.0
+Accuracy, z of entire scale 0.5
+Rate of motion of registry tape, mm/hour 75, 150, 300
+nn/min 10, 15, 30, 60, 120, 240, 480
+
+Converter of voltage from 27 V d-c current to 220 V 50 Hz a-c current, voltage
+converter type P0-300, power 600-700 H
+
+Model of IR Thermometer Developed in REVT Laboratory at Leningrad Electrotechnical
+Institute imeni V. I. Ul'yanov (Lenin) in Portable Variant
+
+Range of measured temperatures, °C -50 - +100
+Accuracy, °C 0.5
+Response, °C 0.2
+Inertia, sec 2.0
+Working range of ambient temperatures, °c -50 - +50
+Working range of wavelengths,}im 2.5-40
+Angle of View, degrees 5.0
+
+The checking of the working state of the apparatus was accomplished in the Radio-
+physical Research Section of the Arctic and Antarctic Scientific Research Institute
+in Leningrad and at the observatory of the Pevek Administration of the Hydrometeor-
+olosical Service in Pevek. In carrying out the observations the apparatus was in-
+stalled aboard an 11-14 aircraft which carried out ice reconnaissance in the east-
+ern region of the Arctic. Methodological studies for checking the accuracy of tem-
+
+perature measurements were carried out during the time of flights for ice recon-
+naissance and temperature Surveys during the period 14 August - 28 September.
+
+Such studies were carried out, in particular, on the Kolyma River, in the neighbor-
+hood of Chcrskiy station, where simultaneously with measurements with a radiation
+thermometer from a motor boat a mercury thermometer was used in measuring the tem-
+perature of the watt: surfa c layer in the river. The discrepancy in water tempera-
+ture measurements did not e:-eed 0.2° (Table 1).
+
+During the period of aerial temperature surveys it was also possible twice to carry
+out joint observations from aboard the expeditionary ship "Hayak." [The oceanograph-
+ic expedition of the Arctic and Antarctic Scientific Research Institute aboard the
+expeditionary ship "Mayak" was headed by A. V. Chireykin.] Water temperature at the
+surface and at the horizons 0.5, l, 2 and 5 m was measured from shipboard. In both
+cases the water temperature in the upper S-m layer was virtually identical. Meteor—
+ulogical observations were made simultaneously (Table 2).
+
+The difference in data obtained when measuring water temperature at the sea surface
+
+with a PRT—S thermometer and the data obtained on the "Hayak" ship in the first
+case was 0.1 and in the second case 0.4° (see Table 1). An aerial temperature sur-
+vey of the ice-free sea surface was made on 22 September. The aircraft flight path
+
+65
+
+FOIIOF11C1A1.USB{DNLN
+FOI10FFIJAI.USE10NLY
+
+duplicated the standard hydrological runs made from the ship "Kayak."
+Table 1
+
+Temperature of Sea Surface According to Heasurements at Polar Stations, "Hayak" Ship
+and From Aircraft With PRT-S Radiation Thermometer
+
+Date Region Temperature
+PRT-S polar station or
+ship
+IS/August Cape Vankarem 2.6; 2.4; 2.1 0.5
+Kolyuchin Island 2.1; 1.6; 2.3 0.8
+Ayon Island 2.5 1.8
+Ambarchik Bay 11.0 9.3
+20/August Ayon Island 1.2 0.6
+Chetyrekhstolbovoy 3.2 2.3
+Kolyma River. Cherskiy 11.0 10.9
+30/August Chukotskoye More
+("Mayak") 1.0; 1.0 0.9
+3l/August Kolyma River, Cherskiy 8.0 7.8
+l7/Scptember Kolyma River, Cherskiy 1.8 1.9
+21/September Kolyma River, Cherskiy 2.2 2.0
+22/September Chukotskoye More 1.7; 1.4; 1.5; 1.4 1.1
+
+"myakﬂ
+Table 2
+
+Meteorological Conditions According to Observational Data Obtained From Aboard the
+"Hayak" at Time of Joint Work With Aircraft
+
+Date Air temperature, Relative hunid- Wind State of
+°C ity. 2 direction velo- sea, units
+city,
+m/aec
+30/Aug 3.6 95 S 8 2
+22/Sep 1.8 93 W 3 3
+
+Figure 1 presents the results of observations obtained using the PRT-S and a ship
+on one such section with an extent of about 200 miles. The expeditionary ship
+"Kayak" occupied oceanological stations each 30 miles. Readings on the hand indi-
+cator were made on the average each 6.5 miles of flight. Registry on the tape of
+a KSP-4 potentiometer was uninterrupted.
+
+The substantial difference in the data obtained from aboard the ship and using the
+PRT in individual segments of the profile is attributable to the fact that the ob-
+servations were made at different times. Due to the considerable time required for
+running the profile (19-28 September) and the great distance between stations the
+ship data have a smoothed character. The observational data obtained using the
+
+46
+
+FOIioFFKJAl.USEGNVLY
+INJR¢OFFIC1AI.tEﬂi(MVLY
+
+radiation thermometer indicate a more complex structure of the temperature field.
+
+Itc
+. a
+
+ 
+
+Fig. 1. Change in water temperature at sea Surface along standard profile. 1) ob-
+servational data obtained from aboard "Mayak" ship; 2) discrete readings on hand
+indicator of IR radiometer; 3) continuous registry on potentiometer tape.
+
+Aircraft sorties were made to polar stations for checking the accuracy of readings
+of the radiation thermometer. At the time of aircraft approach to the station
+simultaneous measurements were made of water temperature at the sea surface on the
+hand indicator of the radiometer and by the polar station observer. The results of
+measurements of water temperature are commmnicated by the polar stations to the
+aircraft. The radiometer measurements had to be made precisely at the time of air-
+craft flight over the position of polar station observations. This was difficult
+to achieve. Taking into account that in the coastal regions the horizontal temper-
+ature gradients of -he water are usually considerable, great discrepancies in the
+readings of the radiometer '-d polar station (see Table l) are entirely natural.
+
+During the execution of ice reconnaissance leads were encountered on almost every
+flight; these were covered with young ice. If the young ice had the age stage of
+ice slush or ice crust or older, the radiometer measured the temperature of the
+surface of this ice. If ice needles were observed in the lead, it could be assumed
+that the temperature at the surface of the lead has the freezing temperature of
+water. In this case the radiometer readings were compared with the freezing tem-
+perature of water with the mean long-term salinity value for this region.
+
+An analysis of the results of aerial temperature surveys and methodological studies
+
+reveals that the instruments used meet the principal requirements of operation on
+board aircraft under arctic conditions. The PRT-S precise radiation thermometer has
+
+47
+
+F0!‘0FFKJAI.USE¢NVLY
+I'm UH‘ILIAL USE URL!
+
+good operational qualities, 3 high stability. insignificant inertia and stable
+reading. During the entire operating period the error in measurements with this
+radiometer did not exceed the value indicated in the certificate.
+
+Among the shortcomings of the PRT-S we should include the complexity of the cir-
+cuitry and the great number of highly sensitive elements, which results in a high
+cost of the instrument and lowers its reliability. With respect to design a rad-
+tion thermometer has an inadequate strength of the plugs and contacts and an inad-
+equate hermetic sealing. During the time of operation of the PRT-S radiometer
+
+there was one failure in its operation as a result of increased vibration and entry
+of moisture from the air into the optical head. This led to disruption of the con-
+tacts of the sensing elements. In general, however, the results of the work con-
+firmed the accuracy of its measurements. This made possible extensive use of the
+PRT-S radiometer for the collection of important information on temperature of the
+
+sea surface. The collected data were used in the scientific-operational support
+of sea operations.
+
+Q
+
+'.° 1 and 2
+4 In 2
+
+, r--1
+2
+.3 u
+4 '2' 2
+'5
+a .9. ' °
+. l—‘
+3 a
+
+m
+n
+-n
+"°______ __.n i_L__'__n |__1 ____,
+b ‘ 5 ‘ 6
+l
+.___-_J——m——I—_——_h—
+o u 9 3 -- min
+
+t3 8.0 v.0 ~-
+
+Fig. 2. Fragment of record of surface temperature of ice cover on 28 September 1973.
+l) slush ice; 2) dark ice crust; 3) light ice crust; A) one-year ice; 5) field of
+perennial ice.
+
+During the flights specialists also made tests of a model of an IR thermometer devel-
+oped in the REVT laboratory of the Leningrad Electrotechnical Institute in a port-
+able variant. A peculiarity of this instrument is the simplicity of the circuitry,
+low cost, strength and reliability in operation. The inadequacies include an
+
+48
+
+FOR OFFICIAL USE ONLY
+FOR OFFNJAI.USEioNLY
+
+increased zero drift and a broad transmission band of the optical filters.
+
+The xsp-a and Ankersmit potentiometers met the requirements of aerial temperature
+surveys.
+
+In addition to measurements of the water temperature at the sea surface, the radia-
+tion thermometer registered the surface temperature of the ice cover. The measure-
+ments which were made confirmed the idea expressed in [2] that the temperature of
+ice of different age is different (Pig. 2). Such a difference is a result of a de-
+crease in the heat flow from the water to the upper surface of the ice with an in-
+crease in its thickness. In autumn and in winter at negative air temperatures the
+young ice is invariably warmer than the perennial ice. This fact is of unquestion-
+able interest and merits the closest attention in further investigations. Such in-
+vestigations will afford a possibility for study of the peculiarities of heat ex-
+change between the ocean and the atmosphere through the ice cover over a consider-
+able area. At the same time, the temperature contrast at the ice surface, depend-
+ing on its thickness, will make it possible to solve the inverse problem: use of
+
+IR apparatus for determining ice of different age. However, at present there are
+still no data for any generalizations along these lines. For this reason the col-
+lection of data on temperature of the ice cover must be continued. For an objective
+interpretation of ice and preparation of new standards on the basis of data from
+
+IR apparatus it is desirable that such observations be supplemented by an aerial
+photographic survey along the flight route.
+
+In addition, it is important to clarify how the nature of the correlation between
+the thermal contrast and ice age changes with transition of air temperature from
+nega:ive to positive values and also whether there is a sufficiently clear depend-
+ence between these characteristics in summer, when the its surface is covered by a
+thin water film and patches of snow. The value of the observations is increased if
+the measurements with the radiometer are supplemented by direct measurements of tem-
+perature of the ice surface by highly sensitive contact sensors. Such data are nec-
+essary for experimental determination of the optical characteristics of the ice
+cover surface.
+
+In order to draw final conclusions concerning the correspondence between the temper-
+ature of the thin film and the temperature of the sea surface layer it is necessary
+to carry out special nethodniogical investigations similar to the investigations
+described in [1]. They also hould include parallel measurements with a radiometer
+and the contact sensors of the expeditionary ship. It is particularly important
+
+to carry out such work in leads where there is thin or scattered ice since under
+these conditions the effect of wind mixing is lessened and as a result of the thawu
+ing of ice the stability of the water surface layer is increased. The organization
+of such observations will also make possible a more precise determination of the
+influence of state of the atmosphere on radiometer readings.
+
+BIBLIOGRAPHY
+1. Vinogradov, V. V., "Some Results of Measurements of Water Temperature Distribu-
+tion in the Surface Layer of the Northern Part of the Atlantic Ocean," TRUDY
+
+OKEANOGRAFICMESKOGO INSTITUTA (Transactions of the Oceanographic Institute), No
+100, pp 38-46, 1970.
+
+49
+
+FOR OFFICIAI.USE(MVLY
+FOR OFFICIAL USE ONLY
+
+2. Galkina. A. I. and Spitsyn, V. A., ”Measurement of Surface Temperature of Hater,
+Snow and Ice by :1 Radiation Thermometer," TRUDY MNII (Transactions of the Arc-
+tic and Antarctic Scientific Research Institute), Vol 295, pp 66-68, 1970.
+
+COPYRIGHT; Arkticheskiy i antarkticheekiy nauchno-iasledovatel'skiy institut
+(AARII), 1975
+
+50
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+STUDY OF DYNAMICS OF GLACIERS USING LASER DEPOMGRAPR
+
+Leningrad TRUDY. ORDENA LENINA ARKTICHESKIY I ANTARKTICIESKIY NAUGHNO-ISSLEDOVATBL'-
+SKIY INSTITUT. FIZICHESKIYE HETODY ISSLBDOVANIYA L'DA I SNEGA in Russian "0 326,
+1975 pp 143-146
+
+[Article by I. M. Belousova, I. P. Ivanov and N. c. Firsov]
+
+[Text] This article is a discussion of some characteristics of a laser deformgraph
+and also the results of investigations which were obtained using this instrument
+on glaciers in the neighborhood of Miruyy station in Antarctica.
+
+The fundamental possibility of creating such an instrument was mentioned in [1,3].
+
+Laboratory and field investigations carried out using'a laboratory model of the in-
+strument in Antarctica, on the ice of Lake Ladoga and on the glaciers of the Cauc-
+
+aSus mde it possible to formulate the following requirements on individual instru-
+ment blocks.
+
+1. Its laser should be: a) single-frequency, since only in this case is the modula-
+tion intensity of the output radiation not dependent on the distances to the inves-
+tigated object; b) single-anode, which ensures the necessary modulation intensity
+and makes it possible to avoid intermode beats [2]; c) stable with respect to radi-
+ation frequency, with adherence to the following condition:
+
+A” No <°LeE£/L.
+
+where ALeff is the ‘Ieasured shift, L is the distance to the measured object, AV is
+the change in the frequency r‘1? laser radiation, as a result of system instability.
+V0 is the laser radiation rrequency.
+
+2. The Optical system of the instrument must include receiving and transmitting
+telescopes which are selected from the condition of full use of laser radiation
+with reflection from the investigated object.
+
+3. The registry system must include a photomultiplier (PRU), amplifier and spectrum
+analyzer, upon which special requirements are not .‘nposed.
+
+Our laboratory investigations made it possible to determine the limits of the rates
+of movement of the object to be determined, which with respect to the upper limit
+
+are determined by the width of the resonance line of the laser and are 1-2 MHz
+(0.6 m/sec), and which with respect to the lower limit are determined by the width
+
+51
+
+FOR OFFICIAL USE ONLY
+FOR'OFI1C1A1.USI2(NQLY
+
+of the generation line, whose theoretical width is determined by the specific con-
+ditions of the experiment and is a value about 10'3 H2. Under natural conditions it
+is dependent on thermal deformations, the microphone effect, fluctuations of the
+atmOSphere on the radiation path.
+
+In addition, by means of laboratory investigations it was possible to determine
+absolute sensitivity to the shift. whose minimum value in the case of use of a
+laser with a three-mirror resonator (unmatched) is 0.002,,tm.
+
+Field tests of a model of the instrument in Antarctica in the neighborhood of Holo-
+dezhnaya station during the period of operation of the 15th Soviet Antarctic Exped-
+ition [4] indicated that the instrument could perform in severe climatic situations
+and also that it is possible to determine the rate of movement of objects at dis-
+tances from 380 m. One of the important conclusions from this study was that the
+atmosphere over the glacier cover in Antarctica is exceedingly favorable for the
+carrying out of this type of interferometer measurements. As a result of what has
+been presented above, we designed and fabricated a laser deformograph.
+
+Laser Dcformograph Operating Principle
+
+The laser radiation is directed through the forming optical system to a reflector
+mounted on the investigated glacier. and being reflected from it, returns to the
+instrument. The beats arising in the laser are registered by a photodetector; their
+frequency is determined by the recording apparatus. The instrument consists of
+three blocks: reflector, recording apparatus together with a power source for the
+entire apparatus, laser with a photodetector and with the optical system. The in-
+strument uses a specially developed single-frequency ().- 6328 A) helium-neodymium
+
+laser with frequency stabilization which is created by control of the resonator by
+an error signal shaped using a neon absorbing cell in a magnetic field and a
+doubly refracting prism.
+
+The laser deformograph is intended for operation at distances up to 1.5 km. The
+very sane 20x telescope is used as the transmitting and receiving optical system.
+The reflector, whose diameter is 200 mm, is a set of triple high-quality prisms
+(i"-3"). For a methodological comparison, and also for operation with internal
+frequency stabilization, a Michelson interferometer is incorporated in the in-
+strument. By means of an eyepiece fitted directly into the instrument the laser
+radiation is visually directed to the reflector. The system operates in a mis-
+matched coupled resonator so that the fraction of light returned to the laser is
+small and the intensity of this radiation is modulated in conformity to a sinusoidal
+law. The period of modulation of the radiation corresponds to the Doppler fre-
+quency, related to the movement of the object by the formula
+
+1" Vienna"
+
+8h
+
+ 
+
+ 
+
+[OTP = refl] Al=e cos(2v-§-l-r?),
+
+wherezl I is the change in laser intensity; ‘Vb is the frequency of laser radiation;
+v is the rate of movement of the object; c is the speed of light; I is the length of
+the resonator; a is the distance to the object; Rrefl is the coefficient of reflec-
+
+tion within the resonator; R0 - l - To is the coefficient of reflection of the re-
+flector.
+
+52
+
+FOR10FFKJA1.USE(NVLY
+Pravda Coast
+
+ 
+
+Fig. 1. Diagram of investigated region.
+
+Calibration was accomplished by means of a specially developed simulator of move-
+ment based on thermal expansion. By means of the simulator the translational move-
+
+ment along a guide with rates from 0.5rlm/82c to lOO’Lm/sec is communicated to the
+triple prism reflector.
+
+This instrument was tested in operation during the seasonal period of the 18th
+Soviet Antarctic Expedition in Antarctica in the neighborhood of Hirnyy station.
+The first step was to determine the instrument's effective range, that is, a deter-
+m'nation of the maximum distance at which laser radiation does not lose its coher-
+ence property. It was discovered that with the passage of radiation through a layer
+of the atmosphere with a thickness up to 2 km the coherence of the radiation is not
+
+impaired. Measurements of atmospheric transparency were made for radiation with
+A - 6328 A.
+
+Atmospheric transparency was determined at different times of day during the period
+from 20 January t..ough 20 June 1973. A correlation was found between atmospheric
+transparency for 2.- 6328 A and the meteorological range of visibility. It can be
+concluded from these experiments that atmospheric transparency is very high and
+virtually all the laser rad.‘tion passes through the atmosphere, that is, there is
+confirmation for the conclusion drawn during the period of operation of the 15th
+Soviet Antarctic Expedition that the atmosphere over the Antarctic glacier is very
+favorable for interferometer measurements of this kind. An outlying camp for study
+of movement of the glacier cover was organized in the neighborhood of the small
+hill of the Winds (Sopka Vetrov) (Fig. l). The instrument was set up directly in
+the tent on bare rock, together with apparatus for adjusting and checking individ-
+ual instrument components. All the apparatus was supplied current from a gasolene-
+powered generator. The rates of movement of different points on Lhe 813618 were
+determined (distant up to 1 km from the rocks).
+
+The registered oscillograms were used in computing the rate of movement of some
+point on the glacier during the time of observation; this varied in the range from
+0.5PLm/sec to 1.2}im/sec. in some cases it can be seen from the oscillograms that
+
+53
+
+POI! omcm. USE ONLY
+IN)! 0F1NCIAI.USIZCMVLY
+
+the rate of movement of this point on the glacier is not constant even during the
+observation time, that is, during a time of about 10 sec.
+
+Thus, the laser deformograph, successfully undergoing tests under field conditions
+in Antarctica, makes it possible to obtain new data on the movement of the glacier
+cover and undoubtedly in the future it can be used in solving many glaciological
+problems.
+
+1.
+
+BIBLIOGRAPHY
+
+Belousova, I.H., Bogorodskiy. V. V. and Ivanov, I. P.. "Measurement of the Rate
+of Movement and Deformation of Glaciers Using Doppler Systems," TEZISY DOKLADOV
+NA XV GENERAL'NOY ASSAHBLEYE HGGS (Summaries of Reports at the Fifteenth General
+Assembly of IQSY), Moscow, 1971, 47 pages.
+
+Belousova, I.H.. Danilov, 0. B. and Lyubimov, V. V., "Intermodal Beats in the
+Low-Frequency Spectral Region," ZHURN. TEKHN. FIZ., No 6, p 1134, 1967.
+
+Belousova, I.M., Bogorodskiy, V. V., Danilov, 0. B. and Ivanov, I. P., "Investi-
+gation of the Dynamics of Movement of Glaciers Using a Laser," DOKLADY AN SSSR
+(Reports of the USSR Academy of Sciences), Vol 199, No 5, pp 1055-1057, 1970.
+
+Ivanov, I. P. and Chudakov, V. 1., "Possibility of Determining the Rate of Hove-
+ment of Glaciers Using the Doppler Effect in a Laser," INFORM. BYULL. 5A2
+(Information Bulletin of the Soviet Antarctic Expedition), No 8, pp 143~146,
+1973.
+
+COPYRIGHT: Arkticheskiy i antarkticheskiy nauchno-issledovatel'skiy institut
+
+5303
+C80:
+
+(AANII), 1975
+
+- END -
+8144/0319
+
+54
+FOR'OFFKJA1.USE(MULY

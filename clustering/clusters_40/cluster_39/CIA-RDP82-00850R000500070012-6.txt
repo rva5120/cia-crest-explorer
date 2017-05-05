@@ -1,0 +1,928 @@
+FOR OFFICIAL USE ONLY
+
+IPRS L/10566
+' June 1982
+
+USSR Report
+
+ENERGY
+
+(FOUO 8/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarised or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+lhe contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS W10566
+7 June 1982
+
+ussa REPORT
+ENERGY
+
+(moo 3/92)
+CONTENTS
+
+”(ERIC PWER
+
+Methods of Calculating nuclear-Ml matures Discussed
+(L.D. Otter-an; momma: armsn. Mar 82) ........... 1
+
+Brief!
+All-mien Contcmncc 9
+
+FUELS
+
+Ministries Involved Content on Roundublo Talks About Pipeline-
+
+building
+($1. Doagaryan. et 51.; WW I PRAVO, lo 12, 1981) H... 10
+
+Book D13 amaca New Method: for Improving Recovery of 011, Gas ,
+Gas-Condensate .
+(Yuriy Vuil'ycvich chtaev, Yuriy Ayrapetovich Bmkirov;
+mBYm "BHI I W, 1981) coco-cocootooooooooocoococo-000.000 15
+
+- a - [III - USSR - 37 9000]
+ZLBCTR 16 PM
+
+U'DC 621.311.25:621.039.55:657Jo7l.l.001.26
+METHODS OF CWTIRG WEAR-FUEL mmiwnns 318608830
+
+Moscow ELEKTRICEBSKIYE STANTSII in Russian he 3. Mar 82 pp 6-9
+
+[Article by 1.. I}. Gitel'nan. candidate of econosic sciences at the ursi'sltiy Poly-
+technicel Institute: 'Tarticulai Features of Calculating and Planning Expenditures
+
+for Nuclear Fuel "
+
+[Text] Up until now. the matter of calculating and planning nuclear-fuel expendi-
+tures has been a controversial question in the econoly of nuclear power stations.
+
+To a considerable degree. this is associated with the specific properties of nuclear
+fuel and the characteristics of its production consuwtion at us's. The calculation
+of the fuel conponent in the cost of electric power fron AEs's is couples and differs
+fmdseentally from the aethod enloyed st thersal electric-power stations. The cal-
+culation is cmla, since it requires that one consider my constantly changing
+fuel-cycle parameters. the depth to which the nuclear fuel burns. partial-recharge
+operation of the fuel. assemblies. the presence of a transient period of reactor oper-
+
+ation and the feasibility of reclaiming spent fuel.
+
+The method used to calculate the fuel cosponent nust have the correct theoretical
+basis. Up until now. the points of view regarding the economic nature of the re-
+actor’s fuel load have been varied. In [1] it is shown that. theoretically. the
+necessity of applying the fuel load to the fixed capital has been clearly estab-
+lished for ABs's operating in an open fuel cycle. Recently. many practical and
+scientific workers who previously held another opinion (the fuel load is to be ap-
+plied to the working capital) have since changed it. Thus, the authors [2] believe
+that the fuel load met first of all be applied to the “8's fixed capital. while
+the fuel ease-bliss added during partial recharging must be applied to working capi—
+tel. Such a "split" solution is theoretically incorrect. since. with the exception
+of monies invested in the initial fuel load. capital is not required to carry out
+partial rechargings. with a correctly fora-slated eethod for calculating the fuel
+component. each group of fuel asaerblies transfers its cost to the cost of electric
+power up until the nonent that aeseebly is replaced. we shall explain.
+
+In the general case. the fuel couponent consists of 71 similar groups of fuel assen-
+bliee (each sisilar group is taken to be a specific set of fuel assediliee possessing
+identical cost and service life). The cost of each sisilar group is transferred to
+
+_.._____.._._———..
+In the fora of a discussion. Ed.
+
+”MUSEONLY
+roe OFFICIAL USE ONLY
+
+the electric power in accordance with the group's service life. The first group
+of fuel asseﬁlies transfers its cost per unit of time in the amount of 01/11; the
+second is (31/ng the third 03/7,. and so forth. Thus. the initial advanced cost
+of the fuel charge
+
+is broken into parts from the moment the fuel charge enters the production process.
+Each of these parts begins to be converted at a very specific rate.
+
+Up until the moment any of the fuel-asseﬁly groups is replaced, cssh must be set
+aside to accomplish recharging. This is possible if the amount of the cost trans-
+ferred over a specific period of time corresponds to the amount of the fuel charge
+burned. The letter is determined as the total burn-up of all fuel-charge comonents
+of similar groups. Consequently. if this condition is met. partial rechargings do
+not require additional expenditures. A portion of the initial advanced cost which
+has returned to its initial point is spent for this purpose. If additional fuel
+assesblies or assemblies more expensive than those previously located in the core
+(it is possible. for example. in the transition period when fuel-assemblies of a
+higher enrichment level are loaded) are'used during recharging, then additional funds
+are required. In this case. these funds must come from capital investment.
+
+The issue of the economic nature of the fuel charge is not only theoretical-ﬁt has
+important practical significance. The application in practice of the fuel charge to
+the working capital leads to a nutter of negative points. aside from the difficulty
+in creating a method of determining the fuel component. In design practice, the
+determination of the indicator for per-unit capital investment in construction is
+based on the cost of the find capital created. When the fuel load is applied to
+the working capital, the vaiue of this indicator is reduced considerably. In accord-
+ance with the existing stand on financing the working capital of an enterprise under
+construction. the necessary cash funds for manufacturing the first fuel charge are
+allocated after a considerable delay. This complicates the mutual financial rela-
+tionship of the client and the manufacturing plant.
+
+The method employed for calculating the fuel component must meet the following re-
+quirements:
+
+it must provide for the feasibility of regenerating the fuel charge when the reactor
+reaches its maxim-1 service life;
+
+it must include in the electric-powercost the total expenditures for partial re-
+charging;
+
+it must be as stable as possible over the course of the period for which the release
+tariff on electric power is established (over the course of the five-year plan. -
+viously);
+
+it must be simple and easy to use;
+
+mmmmv
+POI MAI. USE ONLY
+
+it must be as universal as possible; that is. it must be suitable for making calcula-
+tions at ABs's with various types of reactors and different methods of fuel-cycle
+organisation (operating on "waste" or with regeneration. with "complete burning"
+
+of fuel assadslies unloaded in the transition period or without their repeat utili-
+ration).
+
+In order to realize complete regeneration of the fuel charge. one must. in our opin-
+ion. establish a depreciation rate for the renovation. This rate mat be determined
+based upon the reactor's service life. As far as partial recharging is concerned.
+there are a mater of specific features stening from the presence of a transition
+period of reactor operation (as noted in [3], page 298. "in the general case. any
+change in the technical-economic characteristics of the fuel elements used gives
+
+rise to a transition period."). This transition period can reach 6 to 8 years for
+
+a channel-type reactor. Fluctuations occur in the fuel assedalies during this period.
+and they can be eliminated by only one method--by a proportional distribution of
+
+the future recharging expenditures for any period.
+
+Obviously. it is necessary to establish a five-year accounting period. The objections
+of some operational workers based on the difficulties encountered in predicting re-
+charging expenditures for 5 years in the future are not to be examined as a contrary
+arm-ant, since the five-year plan for an ABS. just like for any other enterprise.
+
+is developed according to a undatory procedure. The problem consists of achieving
+the necessary degree of accuracy in the average term calculations.
+
+Thus. expenditures for partial rechargings must be written off gradually according
+to a fixed rate. despite the economic notion that the rate of depreciation for major
+overhauls not approved in the state planning agencies is a local accounting entry.
+
+As a result of the theoretical approach examined. we have developed a working method
+that combines long-term fuel~assesﬁly planning (for the five-year plan) and current
+fuel-assedaly planning (annual) and determines the actual fuel-assembly value.
+
+In [2] it is suggested that the time factor be taken into consideration when deter-
+mining the annual deductions from the initial fuel charge. we will note the method
+used at “8'9 in capitalist countries: the annual totals for depreciation are dis-
+counted by the amomt of income which these funds bring to the enterprise. These
+funds remain in circulation until the moment when they are needed for total regen-
+eration of the fuel charge. In our country. a number of economists propose that the
+time factor be taken into consideration when calculating the depreciation deductions.
+without going into a theoretical discussion. we note that. in our opinion, the exam-
+[nation of this factor as applied to us'. is premture until the natter is resolved
+for the economy as a whole.
+
+The problem is more couple: when it comes to the regeneration of spent nuclear fuel
+[1.]. In this case. production at AEs's must be considered as multipurpose: the
+generation of electric power and the nanufacture of intermediate products in an effort
+to extract plutonium-239 and the remaining uranium-235. Dual-purpose production
+
+is examined for further simultaneous production of hot water and steam at an MES
+
+(an A1113). The distilling of water and the carrying out of radiochemical processes.
+etc.. are possible in principle.
+
+MWUSEONLY
+rm OFFICIAL use ONLY
+
+The cost of fuel in dual-purpose production is split--one half is included in the
+cost of the electric power. the other in the cost of the intermediate products.
+
+Since the duration of the electric-power production cycle and the intermediate-product
+cycle are not identical. the process by which each indicated part of the fuel-charge
+cost is transferred to the output takes place in various ways.
+
+The electric-power production cycle at AEs's is many times shorter than the period
+
+of fuel-charge functioning. Consequently. a corresponding portion of the fuel-charge
+coat is gradually transferred to the electric power and is likewise gradually re-
+placed in cash form to the degree it is realised. Only fixed capital is sinilar
+
+in nature with respect to productive consumption and cost turnover.
+
+The production cycle for intermediate products is equal to the tine individual groups
+of fuel elements are located in the reactor. that is, the operating period. Conse-
+quently. the other part of the fuel-charge cost is transformed to the manufactured
+product in one production cycle and is replaced in cash form after its realization.
+(bviously. this part of the cost appears as working capital.
+
+This is illustrated in the drawing for an individual fuel element in the fuel charge.
+
+In bookkeeping practice, an individual accounting of the fuel-charge cost components
+is not suitable. The following conclusions can be made in favor of including it
+with the fixed capital.
+
+In the first place. in a fuel cycle without regeneration, the issue of the economic
+nature of the fuel charge as fixed capital is resolved clearly. as was shown. In the
+general case. when the ABS operates in a cycle with regeneration as well as without
+it. uniformity will be insured in accounting for the fuel charge.
+
+In the second place. including the fuel charge in the fixed capital makes it possible
+to consider the objective nature of the movement of the greater part of its cost
+
+(the formation and utilization of the depreciation fund and the procedure for f inan-
+cing regeneration). For fast reactors where the core and breeding blanket are sepa-
+rated in the design, another solution is possible: the coat of the core is applied
+
+to the AES's fixed assets, while the cost of the breeding blanket is applied to the
+working capital.
+
+The features noted for fuel-charge productive consuaption in an ABS reactor operating
+in a closed fuel cycle must be taken into account when calculating the cost of the
+power generated. The selection of a method of calculation depends on how the ABS
+output will be classified according to the specific purpose of the production pro-
+cess.
+
+Obviously. the prinary purpose of production at an ABS with thermal reactors will
+
+be the generation of electric power. Thus. in this case. this product will also
+
+be the primary one. The spent fuel (intermediate product) in which plutonium is
+accululated. formed as an unavoidable result of the production process, must be exam-
+ined as a by-product. Since the latter is an unvoidable consequence of the produc-
+tion process. one can some that only a portion of the past labor applied to the
+cost of the raw material from which this by-product is derived and only a part of
+
+the direct'expenditures in its manufacture (if there are such) take part in the
+formation of its cost. All remaining expenditures in the given production process
+are applied to the cost of the primary product.
+
+we 0W“. USE ONLY
+“OFFICIALUSEONLY
+
+The production process at ABs's with fast reactors is arranged so as to obtain two
+specific products-«electric power and plutonium. Consequently, each of these is
+
+a primary product. in such production. all expenditures (excluding direct) are ap-
+plied to a certain degree to both products.
+
+Taking this into consideration. the following methods of calculating the coat of
+production can be proposed for “8's with thermal reactors.
+
+l. The exclusion or write-off method. In this method. the cost of the bydproductm
+the intermediate product-is not calculated.
+
+The cost of the spent fuel elements at previously established prices is subtracted
+from the overall expenditures. depending upon the depth to which the fuel has burned.
+The remaining figure is applied to the fuel component of the electricdpower cost.
+
+The prisary drawback to the exclusion method consists of the following. The costs
+for the spent fuel elements can differ significantly from the actual A38 expendi-
+tures for the formation of plutonium in the nuclear raw material, since many factors
+that do not depend on the ABS influence the level of these costs. As a result. it
+is possible that "in certain cases, the fuel component of the cost of electric power
+can approach zero. and, seemingly paradoxical at first glance, a negative value can
+arise for the fuel cosponent of the cost of electric power generated at an ABS."
+
+[3. page 166). The appearance of such a "paradox" contradicts the labor theory of
+cost.
+
+0:: the other hand. the exclusion method is simple and in principle is not ruled out
+for application at ABs's with thermal reactors where the price levels correspond.
+
+2. The distribution method. Expenditures for fuel are distributed between the elec-
+tric power and the intermediate product using some criterion.
+
+Such a criterion can be selected based upon the physical nature of the production
+process: proportional to the amount of neutrons in the core expended on f iasion and
+radioactive capture. Or. the criterion can be economic. It can be, for example,
+proportional to the cost of the co-odity output with respect to wholesale prices.
+or it can be proportional to the average industry cost for each of its products.
+All remaining expenditures are included in the electric power.
+
+This method is more complicated than the first. but its important advantage is that
+it makes it possible to calculate the cost of electric power with greater accuracy.
+Moreover. in this case the possibility of the "paradox" we mentioned arising is ruled
+”to
+
+At Aﬁs'a with fast reactors. as was pointed out. the electric power and the inter-
+mediate product are the primary products. This predetermines the methodological
+features of the calculation. In out opinion. the cost of each product must be cal-
+culated. This is only possible when the expenditure-distribution method is employed.
+First of all. it is necessary to distribute the fuel expenditures with respect to
+
+a specific criterion.
+
+MWLIISEMV
+,aﬂnkuumovaaime»
+awbwu
+
+ 
+
+Hypothetical Diagram of the ibvenent of Fuel-Blenent Coat
+Key:
+
+1. Initial coat of the fuel element
+
+2. Portion of the coat applied to the cost of the intermediate product
+3. Portion of the coat applied to the coat of the electric pouer
+
+6. Realization
+
+5. Acquisition of new fuel elements
+
+6. Service life of fuel ele-ent
+
+7. Spent fuel-~internediate product
+
+8. Cash
+
+9. Cash equal to the initial coat of the fuel element
+
+FOI‘DIFIJAI.UBE1IVLY
+FOR OFFICIAL USE ONLY
+
+Another simpler method, however, is possible. If, in the precise-approximtion pro-
+cedure. it is assmed that heat is formed in the core while plutonium is formed in
+the breeder blanket. then it is logical that the cost of the core fuel be applied to
+the electric power and the cost of the raw material in the breeder blanket to the
+intermediate product. Thus method, of course. provides an approximte result. Con-
+sidering the ease with which it can be applied. we must examine its feasibility.
+
+All remaining expenditures can be calculated by a similar method used at TBTs's:
+
+the direct expenditures and inediately applied to the product with whose generation
+they are associated. The indirect expenditures are distributed proportional to the
+values of the fuel and raw-material coqonenta of the cost of the electric power
+and the intermediate product.
+
+When the distribution method is applied, the matter of the relationship between the
+level of prices according to which the spent fuel assemblies (the intermediate pro-
+duct) are realized and the cost of the intermediate product itself is very isportant
+for the economic activity of an A38. Since this price is established based on the
+necessary expenditures for the production of plutonium (1’). three versions of the
+relationship between its value and the cost of the intermediate product (01?) are
+possible in the general case: I) P- ICU; + m; 2) P > 019+ P"; 3) P < 01? 4- Pg,
+where PN is the normal profit for an ABS. When the prices established for spent fuel
+elements correspond to the individual expenditures for production (version 1). A25
+revenues are insured at the normal industry level.
+
+If the price for spent fuel elements is considerably higher than the cost of the
+intermediate product (version 2). additional revenues are generated for the ABS which
+are not a result of any improvement in its economic activity. (bviously, the extra
+revenues must be removed from the budget. Another method can be esployednone can
+establish estimated prices for spent fuel elements at the level of individual produc-
+tion expenditures at a given ABS.
+
+Finally, with version 3. the utilization of a method of expenditure distribution
+when calculating the cost of production can lead to systematically unprofitable ABS
+operation. In order to avoid this. in the given case it is advisable to use the
+exclusion method for ABS's with thermal reactors, especially since at such a price
+level the possibility of the indicated "paradox" occurring is eliminated. As far
+as “8'3 with fast reactors are concerned, such a method of relating the price and
+the cost of the intermediate product is doubtful.
+
+Conclusions
+
+I. For an ABS operating in an open fuel cycle, the reactor's fuel charge must he
+considered as part of the fixed assets. Applying the fuel charge to the circulating
+capital causes a nunber of problems.
+
+2. The method used to calculate the fuel component must examine the total regenera-
+tion of the fuel charge and provide for an acctnaulation of cash for partial recharg-
+ings. In the author's opinion, it is most advisable if the expenditures for partial
+recharging are written off gradually according to a fixed norm determined for the
+
+f ive-year plan.
+
+3. Hith regeneration of spent fuel, the fuel charge of a nuclear reactor has a dual
+economic nature—it simultaneously takes on the roles of fixed and working capital.
+
+mmmmv
+”OFFICIALUSEONLY
+
+In practice, the entire cost of the fuel charge must be included in the AES's fixed
+assets. The calculation of the fuel cosponent nuat be node in accordance with this.
+
+6. At AES's with thersal reactors, electric power is the primary product, vhile
+spent fuel elenents (the intermediate product) are considered a by-product. This
+being the case, it is advisable to calculate the cost of production using the enclu-
+sion method or the uthod of distribution of expenditures.
+
+5. At AEs‘s with fast reactors, the electric power and the intermediate plutonium
+product are the primry products. In this case, the calculation of the cost of each
+of the products trust be carried out on the basis of the nethod of distribution of
+the overall expenditures.
+
+BIBLIOGRAPHY
+
+l. Batov, B. 1., Khanin. V. V. and Gitel'mn, L. D., "Certain Questions of the
+Econony of Nuclear Electric Power Stations,“ BLEKTRICEBSKIYE STANSTII, No 12.
+[971.
+
+2. Brodov, D. I... et s1., "0n Calculating the Fuel Coqonent of the Cost of Electric
+Power and the Efficiency of Fuel Utilization at AES's," Scientific Proceedings
+of the Bnergiya Scientific Production Association of the USSR Hinenergo, No 2,
+I975.
+
+3. Batov. V. V. and Koryskin, A. PL, "Ekononika yadernoy energetiki" [The Economics
+of Nuclear Power Engineering]. Atonizdat, Hoscow, 1969.
+
+lo. Citel'nan, 1.. D. and Khsnin, V. V., "0n the Method of Calculating the Fuel
+Component of the Cost of Electric Pover at ABS's Hith Regeneration of the Nuclear
+Fuel." Proceedings of the Ural'skiy Polytechnical Institute, Sverdlovsk, No 212,
+1973.
+
+COPYRIGHT: Energoizdat. "Blektricheskiye stantsii", 1982
+
+9512
+C50: [822/123
+
+MWWONLY
+roeommrustoutv
+
+EIECTRIC m
+
+BRIEFS
+
+ALL-UNION CONFERENCE—An All-Union Conference organised by the USSR Ministry of Power
+and Electrification. Sverdlovenergo. Uraltekhenergo and the Sverdlovsk (blast Admin-
+istration for the Scientific and Technical Society of Electrification and the Power
+Industry took place in Sverdlovsk. Representatives of loading scientific-research
+and design institutes, installation and adjustnent organizations. manufacturing
+plants. power stations and power systems took part in the conference's work. At the
+conference, 65 papers and reports were listened to and discussed. In his address,
+chief engineer of Glavtekhupravleniye V. N. Timofeyev esphssised that in the coming
+years the aribastus fuel and power-production comlex will be developed further.
+
+he also pointed out the urgency of questions associated with the burning of lkibastuz
+coal and the set-up and mastery of son-m power mite. At the conference. opera-
+tional experience gained from six power mite at the Reftinskaya and Troitshsya
+GRBS's as well as the Ekibastuz 61138-1 was covered. The speakers noted that a great
+contribution to the construction and mastery of power-unit equipment was made by the
+collectives of the Podol'sk Machine-Construction Plant ineni s. Ordzhonikidse (210);
+the Khar'lrov Turbine Plant (Kthz); the Blektrotyashmsh and Sibelektrotyazhnsh
+plants; the Troitskaya, Reftinskaya and Bribastus GRBS's; Chelyabenergo.
+Sverdlovenergo, Pavlodarenergo, Glavtekhupravleniye of the USSR Minenergo. the Kazakh
+SSR Ministry of Power and Electrification, Teploelektroproyekt, the All-Union
+Institute of Fleet Engineering ineni P. B. Dsershinslriy. Soyuztekhenergo. the Kazakh
+Scientific Research Institute of Power Basineering, lasenergonsladka and enterprises
+of Glavteploenergomontazh and Glavenergorenont. All power units of the Troitskaya
+and Reftinskaya GREs's achieved their design-indicator levels. The per-unit expend-
+iture of fuel at the best unit (No. 8 of the Troitskaya CRIS) was 328.8 g/m. The
+utilization factor of installed capacity at the No. 8 unit of the Raftinskaya cans
+reached 90 percent. The msximm period of uninterrupted operation at the GRBS's
+
+No. 7 wait was 2,352 hours. In addition. the participants at the conference noted
+that a under of inortant natters reuin unresolved. The accident rate on turbines
+has risen considerably in recent tines. The low quality of power-unit equipment
+delivered by plants of Hinelektrotekhpron. Hinkhimsh and Hinenergonash was noted.
+In a nutter of cases. there are significant shortcomings in the design docuentation.
+The problem of reducing the harmful nitric oxides released into the stnosphere has
+not been solved. The conference adopted a further resolution directed at continually
+improving the reliability and economy of 500-)!" units operating on Bkibastus coal.
+[Text] [Moscow REKTRICHBSKIYB STANTSII in Russian No 3. Mar 81 p 78] 9512
+
+COPYRIGHT: her-goisdat, ”Blektricheskiye stantsii". 1982
+(:50: [822/123
+
+memories“
+FOR OFFICIAL USE ONLY
+
+FUELS
+
+. MINISTRIES INVOLVED com 0" ROUNDTABLE TALKS ABOUT PIPELINEBUILDING '
+Moscow KHOZYAYSTVO I PRAVO in Russian "0 12, 1981 pp 81-83
+
+[Replies by Deputy Minister of Petroleum Industry sh. nongaryan. Deputy USSR lini-
+ster of Gas Industry A. Gudz (deceased) and First Deputy linister of Construction
+of Petroleua and Gas Industry Enterprises Yu. Batalin to previously published
+roundtable discussion report: "Work Zealously and Build Economically“: passages
+enclosed in slantlines printed in boldface: for previous reporting on this round-
+table discussion please see JPRS 80205, 1 March 1982, USSR Report Energy, No 91.
+pp 21-44]
+
+[Text] Information about a roundtable meeting organized by the
+editors of the journals KHOZYAYSTVO I PRAVO [The Economy and the
+Law], PLANCVOYE KHOZYAYSM [The Flaming Activity], MATERIAL“
+NO-I‘EKHNICHESKOYE SNABZHENIYE [The Supplying of laterials and
+Equipment] and SOTSIALISTICEBSKIY TRUD [Socialist Labor], which
+was held in Tyumen', and at which questions of the rational use
+of resources during oil and gas pipeline construction were dis-
+cussed, was published in the journal's fifth issue this year.
+
+The editorial board is publishing replies that have been re-
+ceived from the Ministry'of Petroleum Industry, Ministry of Gas
+Industry and Ministry of Construction of Petroleum and Gas
+Industry Enterprises.
+
+/Deputy Minister of Petroleum Industry Sh. Dongaryan/reports that a large number of
+urgent problems on whose solution the ministry is working constantly were touched
+upon in the information that was published.
+
+One of the most important ways to increase capital—investment effectiveness is to
+concentrate it, to reduce the number of construction projects. The capital-invest-
+ment concentration that the ministry is now effecting is marked by the following
+data. while the amount of work performed in 1981 increased by 38 percent over 1978.
+the number of facilities being erected simultaneously was decreased.
+
+Minneftegazstroy [Ministry of Construction of Petroleum and Gas Industry Enterpris-
+es], winnefteprom [Iinistry of Petroleum Industry] and Hingazprom [Ministry of Gas
+Industry] have also unified the dimensional schemes for production buildings for
+
+various oil and gas industry facilities. Minnefteprom and Iinneftegazstro design
+organization specialists have prepared a list of outfitted-module8(BKU's) at are
+
+necessary for building the appropriate facilities.
+
+10
+FOR OFFICIAL USE ONLY
+Ft“!(ﬂﬂﬂ(]Al.USEiJNLY
+
+The industrialization of construction. based upon the use of outfitted modules,is a
+basic Minnefteproa engineering policy. Today's construction volume is unthinkable
+without further development of the outfitted-module method and the solution of
+questions that participants of the Tyumen' roundtable meeting spoke about.
+
+/These problems would be solved more successfully if they were included in inte-
+
+grated systems programs formulated by the USSR State Committee on Science and
+Technology./
+
+Supplying outfitted-module production with the required equipment sh0uld be im-
+proved. Minnefteprom and Iinneftegazstroy are working on solution of the question
+referred to.
+
+/But also directly connected with this is the overdue need to abolish the USSR Gos-
+stroy decision of 30 December 1976 to include the cost of manufacturing outfitted
+modules in construction and installing operations volume. The cost of the BKU's,
+as industrial products. should, in our opinion. be included in equipment costs./
+
+In 1975-1976. temporary prices that were supposed to be reexamined during the mas-
+tery of large-scale module output were set for experimental BKU's. However, these
+prices are still in effect now. In the opinion of specialists of Giprotyumennefte-
+gaz Il‘yumen' State Institute for the Design of Oil 'and Gas Industry Enterprises] of Minnef-
+tcprom. they have been overstated by 20-40 percent for various types of BKU's.
+
+Articles produced by linnefteprom plants in Tyumen' average 25 percent lower in
+cost than similar output by linneftegazstroy. USSR Goskomtsen [State Committee for
+Prices], USSR Gosplan and USSR Gosstroy could participate in solution of the indi-
+cated problem.
+
+The roundtable participants expressed an interesting suggestion about including a
+chapter, "The Organization of the Supplying of Materials and Equipment." in trunk
+pipeline construction designs. It is desirable to introduce this also into the de-
+sign for the buildup of oilfield facilities. If USSR Gosstroy produces a positive
+solution to the question. the erection of facilities for furnishing supplies and
+equipment to construction projects will be regularized.
+
+The Ministry of Petroleum Industry also considered the proposal of the roundtable
+participants to grant USSR Gossnab's main regional administrations the right to
+redistribute above-standard surpluses of equipment and materials that exist at en-
+terprises, regardless of the agency having jurisdiction, to be justified. This
+will satisfy entirely the task of making rational use of supply and equipment re-
+sources that was advanced in 26th CPSU Congress decisions.
+
+The balancing of plans for production and for construction and installing opera-
+tions in regard to all indicators is a basic for successful fulfillment of the
+established tasks. Iinnefteprom is taking all the steps that are necessary for
+this. However. it is still not possible to achieve a full balancing. Thus, only
+the client ministry. not the contracting construction ministries. has to plan the
+introduction into operation of fixed capital in production construction and of liv-
+ing space inhousing construction. This causes great difficulties in the formula-
+tion and realization of plans. Minneftegazstroy often breaks down for its organi-
+zations tasks for introducing housing into operation that are different from the
+
+Minncfteprom planning indicators. Planning organs should firmly adopt the measures
+called for by the CPSU Central Committee and U SR Council of Ministers decree of 12
+
+July 1979.
+
+ll
+IIIlCHHHCJA1.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+/Twicc winnefteprom has examined linneftegazstroy proposals to build trunk oil
+pipelines turnkey style, and it considers this possible (in accordance with lin-
+nefteprom designs) in regard to gas-treatment plants and repair plants. production
+bases. supply bases, and centers for gathering and processing oil and gas./ The
+turnkey construction of trunk oil-pipelines imunacceptable, since all the construction
+and installing work on the linear portion is concealed. and even where there is
+constant client surveillance. it is not always possible to get the necessaay’quali-
+ty in laying them. In turnkey construction the client is eliminated entirely from
+surveillance.
+
+In order to coordinate with precision the work to develop the recovery of oil and
+gas and to build housing and social and cultural facilities in West Siberia. lin-
+nefteprom has created within its central staff a standing current-operations group
+manned by highly qualified specialists. West Siberian sections have been estab-
+lished within a number of administrations.
+
+In 1985, drilling done by the expeditionary rotating-personnel method in west Si-
+beria will increase 2.6-fold over 1980. and worker manning will be approximately
+doubled. For those who work under the rotating-personnel regime. a summarized ac-
+counting of worktime is being established. Brigade members work. as a rule. on a
+12-hour schedule in continuous productiOn work and on a 10-12 hour schedule in
+noncontinuous production. with the personnel changing each 15 days.
+
+In order to provide for supervision over workers. additional posts for engineers.
+technicians and workers have been introduced into departments, brigades and other
+structural subunits. In particular. a second foreman is being introduced into the
+drilling brigade, and a deputy chief for administration is being introduced into
+the drilling-administration staff.
+
+/In order to regulate rest time and worktime and to regularize mutual relationships
+among drilling organizations, the ministry has recently developed the following
+documents: "Temporary Regulation on the Rotating-Personnel Method of Conducting
+Drilling Operations," "Instructions on the Procedure for Accounting for Worktime
+and Time Spent en Route." and "Temporary Regulations on Worktime and nest Time for
+workers Who Work Under the Rotating-Personnel Expeditionary Iethod." However.
+there are no interindustry documents on organization of the rotating-personnel
+method. Obviously. such documents should be developed and approved in the near
+future./
+
+Minneftcprom is working to introduce the brigade contract widely. For example. as
+of I May 1981. out of 129 drilling brigades in Glavtyumenneftegaz [Main Administra-
+tion for the oil and Gas Industry in Tyumenskaya Oblast] lie-«or 90 percent-—were
+working under the brigade contract. In Tatneft' [Tatarskaya ASSR Oil Production
+Administration] all drilling and construction brigades are under contract. Alto-
+gether. 164 brigades converted to the brigade contract in 1980. 260 brigades in
+1981.
+
+with the severe shortage of labor resources in West Siberian Oil and Gas Complex
+areas, the role of centralized sources for furnishing workers to enterprises is
+growing. USSR Gosprofobr [state Committee for Vocational and Technical Education]
+should solve more rapidly the problem of the possibility of sending PTU [vocation-
+al and technical school] graduates from the various regions to west Siberia's oil-
+industry enterprises.
+
+12
+FNII‘DIINCIAI.IJSEZ(MNLY
+FOR OFFICIAL USE ONLY
+
+/Considering the importance of the Nest Siberian Oil and Gas Complex, it is desira-
+ble that USSR Gosplan. USSR Goskomtrud [State Committee for Labor and Social Prob-
+lens] and USSR Gosprofobr authorize West Siberian oil-industry enterprises to per-
+form the selection and training of workers in linnefteprom-aystem educational in-
+stitutions that are located in other parts of the country./
+
+The ministry has charged appropriate subunits, enterprises and organizations with
+
+considering the preposals for practical work that were expressed at the reundtable
+meeting.
+
+/Deputy minister of USSR Gas Industry A. Gudz (deceasedV’noted that his industry
+has attentively analyzed the information from the roundtable meeting. Insuring
+that deadlines are met for high-quality construction and for the introduction of
+gas—industry facilities into operation. and. in the final analysis, that estab-
+lished tasks fer recovering and transporting gas are fulfilled, depends to a great
+extent upon the precise solution of the questions raised.
+
+Some Minneftegazstroy construction and installing organizations are not insuring
+fulfillment of established tasks for introducing production capacity. housing and
+facilities for social, cultural and domestic-amenity purposes into operation.
+
+The ministry of Gas Industry, for its part, is doing everything possible to reduce
+uncompleted construction. The plan for the current year includes the construction
+of 44 fewer facilities than in 1980. Ninety-one percent of the capital investment
+allocated is ained at construction projects that are due for early startup. This
+will help to reduce the amount of uncompleted construction by 400 million rubles in
+1981.
+
+/The ninistry recently developed and sent to Minneftegazstroy for coordination a
+draf1.of"Regulations for the Turnkey Construction of Gas-Industry Enterprises (and
+Structuresh"which was approved 13 October 1980. and putting the indicated document
+into effect will provide for actual conversion to the construction of facilities on
+the basis of this principle./ Turnkey erection of the industry's facilities will
+enable capital-investment effectiveness and the motivation of prime contracting or-
+ganizations to introduce facilities into operation to be raised.
+
+lFirst Deputy Minister of Construction of Petroleum and Gas Industry Enterprises
+Yu. Batalin/ reported that the ainistry has examined the report about the round-
+table meeting. and it considers that questions of making rational use of material
+and labor resources during the construction of trunk pipelines are urgent in the
+highest degree. In July 1931 these questions were discussed at a session of the
+board and at a ministry party meeting.
+
+"The Rain Directions for the Economic and Social Development of the USSR During
+1981-1985 and During the Period up to 1990" calls for implementation of a program
+for boosted development of gas recovery, by accelerating the assimilation of
+West Siberian gas fields. Realization of this program will be based upon broad
+use of the newest achievements of science and technology. the falfillment of indus-
+try and interindustry systems programs. the introduction of progressive methods for
+organizing the perfonmance of construction and installing work. and the use of ef-
+fective technological decisions through the whole construction cycle-from design
+to the introduction of facilities into operation. The ministry is taking concrete
+steps to carry this out.
+
+13
+FOI¢NHHC1AI.USE1ONLY
+FOR OFFICIAL USO; ONLY
+
+More rational routes for laying trunk lines have been planned, jointly with lin-
+gazprom. and questions about building them in one corridor have been solved. The
+main rules about organizing the construction of trunk gas pipeline systems by large
+flow-line operating groups. using the shuttle method. have been worked out. This
+will permit the time lost by redeployment from Job to job to be precluded, prepara-
+tory operations to be carried out in good time, and housing settlements with the
+amenities to be created for the builders of compressor stations and for the linear
+flow-line groups.
+
+The outfitted method of construction will be further developed. Thanks to its use.
+labor productivity during the last 5 years for "on-ground" construction was raised
+by 23 percent, and the average time for erecting compressor stations was reduced 30
+percent. This year more than 63 percent of all work on the building of compressor
+and pump stations. installations for the integrated processing of oil and gas. and
+other gas and oil industry facilities will be carried out by the outfittedqmodule
+method.
+
+[The ministry is at present formulating an industry program to improve systems for
+the delivery and use of pipe./ Organization supervisors have been vested with per-
+sonal responsibility for the use of pipe and other equipment. Intensive work is
+being done to save electricity and heat and to suppress cases of wastefulness. 0r—
+ganizations and enterprises of the industry have committed themselves to saving
+11,000 tons of rolled metal. 25,000 tons of cement, 1,200 tons of standard fuel
+equivalent. and 20 million kw-hr of electricity in 1981.
+
+/The ministry has developed a master scheme for managing the construction of oil
+and gas industry enterprises. It will enable systematic acceleration in the pace
+of erecting trunk pipeline systems, building up gas field and oilfield facilities.
+and constructing cities and settlements of lest Siberia in integrated fashion./
+
+The industry is taking a number of steps to improve the organization of pay. A
+third of the total construction and installing work volume has been carried out by
+the brigade-contract method. As a result of introducing this method, construction
+effectiveness has been raised. and the time taken to erect the most important fa-
+cilities has been reduced.
+
+/The board's ministry and the Central Committee of the Trade Union of oil and Gas
+Industry Workers have approved a specific program for developing and improving the
+brigade contract in Minneftegazstroy organizations during 1981-1985. By the end of
+1981, 40 percent of all the work will be done by contract brigades./
+
+COPYRIGHT: Izdatel'stvo "Ekonomika". "Khozyaystvo i pravo", 1981
+
+11409
+cs0: 1822/143
+
+1h
+FOR‘DFFMJA1.USE(NHLY
+FOR OFFICIAL USE ONLY
+
+FUELS
+
+UDC 622.276.5«0622J79ob
+
+BOOK DISCUSSEB IEH METHODS POR'INPROVIIG RECOVERY OF OIL, GAS, GAS-COIDEIBAT!
+moscow DOBYCHA NBFTI I GAZA in Russian 1981 (signed to press 23 Sep 81) pp 1-4. 384
+
+[Annotatiom foreword and table of contents of the book, "oil and Gas Recovery." by
+Yuriy Vasil'yevich Zaytsev and Yuriy Ayrapetovich Balakirov. Nedra. 4,400 copies,
+384 pages]
+
+[Text] A set of questions associated with drilling into the pay. completing and
+studying wells. and operating oil, gas and gas-condensate fields and with the
+equipment and technology for recovering oil and gas is set forth.
+
+Methods for recovering oil and gas and for raising well productivity in the envir-
+onment of the country's northern regions and offshore fields are examined. Light
+is thrown on the chief directions of the work to preserve the environment during
+the drilling and operation of oil, gas and gas-condensate wells. and the prospects
+for developing the oil and gas industry are determined. .
+
+The book is for engineers and technicians of the oil and gas industry. It will
+also be useful to students of petroleum vuzes and departments.
+
+There are 97 tables, 172 illustrations and a bibliography of 80 items.
+
+Foreword
+
+The Accountability Report to the 26th CPSU Congress stated: "...the successes of
+the whole national economy will depend greatly upon an increase in the effective-
+ness of the extractive industries. The way to do this is to accelerate scientific
+and technical progress...."
+
+Improvement of the equipment and technology for operating wells (in combination
+with the various progressive processes for stimulating the formation) is the most
+effective, accessible and high-speed method for increasing the formation's produc-
+tive capacity. Unlike intrafonmation processes for stimulating the formation in
+order to promote the flow of fluids. the use of the potential possibilities of the
+well itself will enable a planned increase in the output of hydrocarbons to be ob-
+tained with few resources and in a much shorter time. obviously. it is also
+impossible to ignore intrafonsation processes for stimulating the collector; on the
+contrary. only with creation of the best conditions for the movement of fluids in
+the formation can flow from the well be intensified.
+
+_15
+FOI‘OFFKJAI.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+During the last two decades new means for lifting the foraation liquid from wells.
+taking various oilfield-geology and cliaatic and geographic factors into account.
+and new methods for stimulating the bottoa-hole zone of oil, gas and gas-condensate
+wells and for preservation of the environment in oil and gas recovering regions
+have been tested and introduced at the industry's oil and gas recovery enterprises.
+huch experience in developing and Operating offshore oil. gas and gas-condensate
+fields and wells has been gained in our country and abroad.
+
+The authors have strivento focus the reader's attention mainly on that information
+that has not been generalised in publications of this nature,and. of course. they
+have tried not to repeat inforaation that has been published in recent years.
+
+The authors set themselves the extreuely extensive and iaportant task of setting
+forth systeaatically a whole complex of questions associated with recovering oil
+and gas. This task is extensive because one has to examine the whole technological
+sequence of the basic aethod for recovering oil and gas, questions of design and
+optimization and of technical and econoaic evaluation when forecasting operating
+methods. and so on.
+
+The authors express gratitude to their readers who will consider it necessary. first,
+to introduce the inforaation about the most effective and new methods and ways
+for recovering oil and gas at their own production sites or to use the information
+when preparing scientific and design documentation. and second. to express their
+desires and coments about the book they have read.
+
+Table of Contents
+Page
+
+Foreml‘do.o..................oooco...oo..oc.oo.......u..............oouo.. 3
+
+Part I-The Recovery of Oil
+Chapter I. The Composition and Parameters of Drilling Fluids Used in Drill-
+ing into Productive Horizons.................................. 5
+Chapter II. Methods for Completion of Oil and Injection Wells.............. 13
+Chapter III. Study During Nell Conpletion................................ 65
+Chapter IV. The Iaproveaent of Pumping Jacks............................... 96
+chapter V. Optimization of Computerized Pumped-Well Operations............. 119
+
+Chapter VI. The Use of Snell Polyaer Additives to Increase Oil—Well
+Productivity................................................. 160
+
+Chapter VII. The Modern Technical status of the DevelOpaent and Operation
+of Oil and Gas Fields of the Continental Shelf.............. 181
+
+Part II—The Recovery of Gas
+
+Chapter I . The Operation of Gas and Gas-Condensate Wells. . . . . . . . . . . . . . . . . . . 233
+Chapter II . The study of Gas and Gas-Condensate Wells and Formations. . . . . . . 264
+Chapter III . Methods for Hydrochloric-Acid Treatsent of Gas Wells. . . . . . . . . . 285
+
+16
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Page
+Chapter IV. Inproveoent of the Buildup of cue-Field hoilitiee.............. 308
+
+Chapter v. Preservation of the Environment During tho Development of on and
+G“ 'iold..O0OOODOIQOOCDO0.00.0.0.0...OOOOOOOOOOOOOOOOOOICDill. 3‘3
+
+Biblio‘mWooooooooeooooooeevveeeovooooaone.oe00oooooooeejveeevOOOCOOOOIOCOO 3.81
+
+COPYRIGE‘I': Izdltel'ltvo “Nedre”. 1901
+
+11409
+cs0: 1322/1“ m
+
+17
+FOR OFFICIAL USE ONLY

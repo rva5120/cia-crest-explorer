@@ -1,0 +1,2451 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10711
+
+4 August 1982
+
+USSR Report
+
+MATERIALS SCIENCE AND METALLURGY
+(FOUO 4/82.)-
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+no: OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports. and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief. indicate how the original information was
+processed. "here no processing indicator is given, the infor«
+nation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+HATERuLs SCIENCE AND Menuunsv
+(moo 4/92)
+
+Courems
+
+AVIATION HAM
+
+Aviation Imtrunent numb; and Structural Mntericls........ 1
+3cm 0? mm
+
+Iqroving Structure of Metal. Input in Indutry................. 7
+
+Benny of Heal Through usher Qunnty mm................... 18
+moms mum
+
+ktruction of Copper, luck“ and Cobalt with Suva-‘1
+WMOOOOOOOOOOIOIOOODOOOOOOOOOOO§‘IOOOOIOOOOOOODIOOOOOOO. 27
+
+MATERIALS SCIENCE ms
+
+Sosa Directions for Denim-oat of Modern Senna of
+
+mt.ru1.00000IOOQOOOOOOOOCOO...OOQIOCOCOOOOOOOOO'CO'OOOOOOIC. 33
+
+- a - [III - USSR - 216 551‘ PC
+F0!‘0FﬂKJAl.USE(HVLY
+
+AVIAIION MATERIALS
+
+UDC: 669.017.018.5 (075.0)
+
+AVIATION msmnm mammmc AND STRUCTURAL MATERIALS
+
+Moscow MAIERIALY DLYA ANIAJPIOMNOGO PRIEOEDSTIOYEMIYA I EOMSTIUEISIY in Russian
+(signed to press 19 Nov 81) pp 2-b. 397-600
+
+[Annotation. foreword end table of contents free book "Materials for Aviation
+Instrument Engineering and structures", edited by Academician A. P. lelov,
+lzdstel'stvo "Metallurgiye", 3300 copies. #00 pages]
+
+[Text] This textbook examines conductor, seeiconductor, dielectric, magnetic
+and structural materials eeployed in aviation instrument engineering and
+structures. Their electrical, magnetic and nschanical properties are described.
+Principal attention is devoted to on analysis of the relationship between the
+properties of materials, their conposition and structure. Practical application
+of specific eaterials in designing aircraft equipment is shown.
+
+This textbook is intended for students enrolled at aviation higher educational
+institutions. It may also be of use to engineers and technicians in the natal-
+lurgical and aircraft industry.
+
+TABLE 0! CONTENTS Page
+
+Foreword 3
+
+Part 1. Materials With Special Physical and Physical-Mechanical
+
+Properties
+
+Section 1. Conductor Materials 5
+Chapter 1. Metallic Conductor Materials 5
+1. Electrical Conductivity of Metals S
+2. Metals and Alloys Hith High Electrical Conductivity ll
+3. Conductor Elements of Microelectronic Circuits 15
+b. Electrical Conductors at Low reaperatures 20
+5. Contact Materials 21
+6. Alloys With High Electrical Resistance 2‘
+7. Einetellic Conductors and Thermobinetals 29
+
+8. Materials Hith Special Electrical and Mechanical Properties
+Operating in Conditions of Corrosion Effect 32
+
+FOI‘DPFKJAI.USE(HMLY
+MWLIJSEONLY
+
+Chapter 2. Superconducting Huterials
+
+l. Sone Points of Theory of Superconductivity
+2. Superconducting Blenents
+3. Superconducting Alloys
+
+6. Superconducting Co-pounds
+Section 1:. Suiconductor Materials
+Chapter 3. Structure and Properties of Soniconductor Haterials
+1. Nature of Suiconductors
+2. Principles of Obteining Seeiconductor Materials Hith Predeter-
+nined Properties
+3. Physicochenicel Principles of ﬂeet Treat-eat or Seniconductore
+
+Chapter lo. lasic Groups of Suiconductor listeriale and Areas of Their
+Application
+
+1. Cleseification of Seniconductor Keteriels
+2. Principal Areas of Application of Semiconductor Hateriale
+
+Section III. Haterials With Special Hegnetic Properties
+Chapter 5. Magnetic tutorials With e Rectenguler Hysteresis Cycle '
+1. Basic Pereneters and Characteristics
+2. Perrites with a Rectangular hyeteresis Cycle
+3. Textured terronegnetic 'repea Hith a lectanguler Bysteresia Cycle
+Chapter 6. Thin Perronegnetic Film
+1. Sone Questions of Theory and Principles of Utilization
+2. Futures of the Don-in Structure of Thin Ierronsgnetic I'll-e
+3. Hultileyer Perronegnetic mu
+Chapter 7. Heterials for Magnetic Recording hedia
+1. Powder Magnetic Recording Media
+2. Metallized Hepetic Recording Media
+3. Materials for Hegnetic lieads
+Chapter 8. Perunent Magneto Based on Rare-Barth llelents
+1. Electronic Structure and Properties of Rare-Barth lie-eats
+2. Technology of ﬂaking Hagnets Beaed on Coupounde of Rare-Berth
+Bluents with Cobalt
+Chapter 9. Corrosion-Resistant and Minion-Resistant Hegnetic Alloys
+
+1. Corrosion-Resistent Hagnetic Alloys
+2. Radiation-Resistant Magnetic Alloys
+
+Nematustoutv
+
+b1
+
+61
+67
+
+S3
+55
+55
+55
+
+58
+7S
+
+2
+
+82
+
+91
+91
+96
+96
+98
+98
+101
+106
+107
+109
+11‘
+117
+119
+120
+126
+128
+
+128
+131
+FOR OFFICIAL USE ONLY
+
+Section IV. Materials With Special Physiconechanical and Mechanical
+Properties
+
+Chapter 10. Alloys Rith "Mechanical Pore Memory" Effect
+
+1. Features of the Kinetics of Phase Transformations in Alloys
+Hith "Mechanical Porn Meaory" Effect
+2. Characteristics of Alloys With "Mechanical Porn Mallory” affect
+
+Chapter ll. lerylliua and Its Alloys
+
+1. Properties of Berylliu-
+2. Alloys of Berylliu-
+3. Employment of Berylliua and Its Alloys
+
+Chapter 12. Conposite Materials
+
+1. Couposite Materials Reinforced by Particles
+
+2. Pilanentary Composite Materials
+
+3. Reinforcing Materials
+
+6. Methods of Obtaining Composite Materials
+
+5. Coaposite Materials Based on Aluinm and Ala-inu- Alloys
+6. Magnesia-Base Coaposits Materials
+
+7. Michel-Base Conposite Materials
+
+8. Titanium-Base Couposite Materials
+
+Chapter 13. ﬁelding. Soldering and Brazing Materials for Aviation
+lnatruasnt Engineering
+
+1. ﬁelding Materials
+2. Soldering and Brazing Materials
+
+Part II. Non-Metallic Materials. General Description
+Section 1. Organic Mon-Metallic Materials
+Chapter 1. Poly-ere -- Basis of Mon-Metallic Materials
+1. Structure of and Obtaining Polymers
+2. Physical Properties
+3. Therm-echanical Properties
+6. Mechanical Properties
+5. Dielectric Properties
+Chapter 2. Thermplastics
+
+l. Nonpo‘ar Thermoplastica
+2. Polar Ihemplastics
+
+Chapter 3. Synthetic Resins (Polyfunctional Hardening Oligoaers)
+1. Rcaine nardening with the Releaae of By-Producte
+2. Reeine Hardening Without the Release of By-Producta
+
+3. Rev neat-leeieting Ileaine
+hapter 4.. law and Cured Rubbere
+
+1. General
+2. Phyeicotechnical Propertiea oi Vulcanized Rubber-e
+
+ection II. Inorganic Non-Metallic Heteriala
+
+haptcr 5. Graphite
+
+1. Synthetic Graphite
+2. Propertiee of Synthetic Graphite
+
+3. hploynent of Graphite
+hapter 6. Glue and Sitalle
+
+1. Inorganic Glaaa
+2. Sitalle
+
+:haptcr 7 . Cereaica
+
+1. New Inductrial Cora-ice
+2. Electrical Engineering Cora-ice
+
+Section III. Iiln-Forning Heteriala
+:hnpter 8. Gluee
+
+:haptcr 9. Sealera
+
+:hapter.10. Painte and Varniehee
+
+1. Protective Paint and Vernieh Heteriale and Coatinge
+2. nectricel Ineulation Varniehee and Coupounde
+
+Chapter ll. Polyleric Pine
+Section IV. Iilaaentery Heteriale
+Chapter 12. Filmente
+1. Organic Pile-cute
+2. Inorganic Pile-cote
+3. Pilatentary Gryetele
+Chapter 13. Ron-Woven Textile Heteriale
+
+l. Quilted, Lightly-Glued and netted Materiela
+2. Yarn. thread and Mated Producte
+POI OFFICIAL USE ONLY
+
+Chapter 16. “oven Fabrics, Knitted Goods and Materials 363
+l. Uoven Fabrics and Knitted "Goods . 363
+2. lbteriala -- Leather Substitutes and Vanished Clothe 366
+Section V. Plastics and Conpositee 368
+Chapter 15. Gee-Filled Plastics 368
+l. loaned Plastics 368
+2. Boneycod: Plastics 371
+Chapter 16. Powder and Piber Plastics 371.
+1. Powder Plastics 375
+2. Fiber Plastics 379
+Chapter 17. Laninated Plastics 382
+1. Traditional Laninated Plastics 382
+2. Polymer-Matrix Conposite Materials 385
+3. Carbon-Carbon (C-C) Coapoeitee 392
+Reno-ended Bibliography 396
+FOREWORD
+
+This country's aviation higher educational institutions offer lecture courses
+on the properties of structural and electrical engineering naterials enployed
+in aviation inetruent engineering. There are no standard textbooks and
+nanuals on this subject, however; at the use tine considerable Soviet and
+foreign infornation on specific nateriale is contained in nuneroue periodicals
+and nonographe and requires certain systenatiaation.
+
+Thus there aroae the need to produce a textbook coabining within the franewwk
+of established curricula not only basic information on theory of nodern
+specialised eaterials for aviation inetruaent engineering. but also on their
+practical application.
+
+In writing this book the authors were guided by the current course curriculu-
+"Structural and Electrical Engineering Materials" for Aviation Higher
+Educational Institutions. This hook consists of two parts. The first part
+deals with neterials with special physical and physiconechanical properties.
+It exanines conductor and semiconductor eateriala, nateriale with special nag-
+netic properties, and nateriale with special physiconechanical properties.
+
+The second part of this textbook contains a general description of nonnatallic
+naterials and exanines the physical. nechanical, and chemical properties of
+thernoplastics. synthetic resins, raw and cured rubber, graphite, ceranics,
+glass and sitalle, as well as filamentary and fih-forning neteriale. plaetics
+and polyur-base conposite natarials.
+
+FOR OFFICIAL USE ONLY
+FINICHWHCJA1.lEﬂE(NMLY
+
+Considerable attention is devoted to study of the most difficult and new areas
+of aaterlals science, which are lacking or are inadequately treated in existing
+textbooks and manuals. The following sections, for eaanple, are contained for
+the first time in this textbook: "Materials With Special Electrical and
+Mechanical Properties Operating in Conditions of Corrosion Effect”; "Physico-
+chemical Principles of heat Treatment of Seniconductors"; etc. Considerable
+attention is devoted to fundamentally important questions connected with
+analysis of the relationshp between the properties of eaterials, their composi-
+tion and structure, for the purpose of determining possibilities of application
+of specific materials in aircraft equipment. In conformity with the curriculum,
+the authors also sought to reflect in this textbook important materials con-
+nected with the future area of specialization of engineers.
+
+The literature listed at the end of the book is recommended for a more
+thorough study of a number of subjects. Compositions of alloys in this book
+are stated as percentages by mass.
+
+Subsections 1-5 of Chapter 1 and Chapter 6, Part I, were written by T. S.
+Morozova; Subsection 6 of Chapter 1, Part I - Ye. V. Ryebchenko; Subsection 7
+of Chapter 1 and Chapter 9, Part I - V. S. Terent'yeva; Subsection 8 of
+Chapter I, Part I -- A. A. Klypin; chapters 2 and 10, Part I - Yu. P. Prolov;
+the Foreword, chapters 3-5 of Part I -- A. Ya. Potemkin; Chapter 7 of Part I -
+V. V. Nikolenko; Chapter 8 of Part I -- M. G. Karpman; Chapter II of Part I --
+C. P. Benediktova and A. A. xlypin; chapter 12 of Part I - A. S. Viskov;
+Chapter 13 of Part I -- G. P. Petisov; the introductory part, Subsection 1 of
+Chapter 1, chapters 3, 5, 7, 8-16, and 17 of Part II -- Yu. I. Sheydeman; sub-
+sections 2-5 of Chapter 1, chapters 2, 6, 6, 15 and 16 of Part II - G. Ye.
+Vishnevskiy.
+
+This textbook was readied for publication by Doctor of Chemical Sciences
+Professor A. Ya. Potenkin (Part I) and Candidate of Technical Sciences Docent
+I. Yu. Sheydeman (Part II).
+
+The authors would like to express their deep gratitude to the reviewers for
+valuable comments made during perusal of the manuscript: to Doctor of Technical
+Sciences Professor P. T. Kolomytsev and the faculty members of the Department
+of Materials Science of Electronic Equipment at the Moscow Institute of
+Electronic Machine Building, Doctor of Technical Sciences Professor A. A.
+Shmykov, chairnan. The authors are also very grateful to the faculty and
+
+staff members of the Department of Aviation Materials Science at the Moscow
+Aviation Institute for their considerable assistance in readying the manuscript
+for publication.
+
+COPYRIGHT: Isdatel'stvo "Metallurgiya", 1982
+
+3024
+C50: 1862/132
+
+6
+
+INDI‘OIINCJAI.USEZ(HVLY
+FOR OFFICIAL USE ONLY
+
+scuba or mus
+
+IMPROVING STRUCTURE OF METALS INPUT IR mwsm
+
+Moscow VOPROSY momma in Russian no 4. Apr 82 pp 75-82
+
+[Article by N. lvantsova: "Metals Intensiveness of Production and Reserve
+Potential for Achieving Savings in Metal")
+
+[Text] The CPSU Central Oo-ittee and 0883 Council of Hinisters decree en-
+titled ”On lnteneifying Efforts for scone-y and Efﬁcient Utilization of Raw
+Materials. Fuel-Energy end Other Material Reecurces" specifies a group of con-
+crete aeaeures to inprove the systen of planning and incentive applying to
+utilization of eateriel resources. The objective is to achieve savings in
+resources both in the production process proper and in consunption of the
+finiaMd product. -
+
+Machine building, astalvorking and construction are the principal consu-ers of
+finished natal products. The growth rate of these industries, change in their
+structure, and the level of netels input [astelloyedtost' -- also translated ea
+"netals requirsuents" end "Ietals intensiveness”) in production exert direct in-
+fluence on the volune of netsl consunption and netsls input of societal product.
+Machine building and netelworlting census the largest volunes of netsl. In the
+structure of eaterial outlays of nachine building and netelvorking. for exenple,
+netals comprise epproxinstely 30 percent taking into account internal turnover
+within the aschine building industry, and 50 percent excluding it, that is.
+
+they coaprise the bulk of the material outlays in this branch.
+
+The level of netsls input in production is still conparatively high, which
+leads to considerable netal waste in the netel-conauning branches. At the
+26th CPSU Congress 1.. I. Brezhnev noted that reduction of losses and waste in
+aetelvorking by only one half would be equivalent to s 10 percent increase in
+output of finished ferrous netsls rolled stock. natal waste in consuning
+branches is growing and presently exceeds 19 nillion tons per year (including
+9 nillion tons into chips). The rolled netals utilisation factor in nechine
+building has remained unchanged in the last 10 years - 0.72. The decree on
+econonising in asterial resources notes the necessity of inproving the
+structure of the scone-y, its branches and sectors in the direction of all-
+out reduction in the energy and laterials requiremente of production.
+
+The specific netels input of production varies free one branch of nachine
+building and netelvorlting to another. and therefore changes in the branch
+
+5'0! OFFICIAL USE ONLY
+roe OFFICIAL USE ONLY
+
+structure of this complex exert differing effect on the production metals in-
+put of machine building, industry, and societal product as a whole. lieavy,
+power, transport, tractor and agricultural machine building are the most
+netals-intensive within nachine building. their percentage share of branch
+gross output is high (almost 30 percent) and exerts an influence on growth of
+the production metals input of all aachine building. In the future the
+production volume growth rate of these branches will slow somewhat and the
+percentage share of their output in machine building will decline, which will
+cause a decrease in the production metals input of nachine building as a whole.
+The level of production metals input of the road. construction and chemical
+machine building and automotive industry is close to the level of production
+metals input of machine building as a whole. The percentage share of this
+group of branches will increase and cause a certain rise in the production
+metals input of machine building as a whole.
+
+Machine tool building, machine building for light industry and the food process-
+ing industry, the electrical equipment industry, and especially instn-ent en-
+gineering are characterized by a lower metals input. The level of production
+metals input in inatruaent engineering is l/lhh that of heavy, transport, and
+power machine building. Intensive development of the above-listed branches
+with a lower metals input will promote a decrease throughout machine building,
+although natal consunption volumes will rise.
+
+Studies of the internal structure of individual machine building subbranches
+attest to considerable reserve potential for reducing the metals input of
+aschine building production on the basis of improving the structure of its
+suhbranchea and design of the products aanufactured. The structure of
+production of tractors, machine tools and certain other machinery and equip-eat
+renains fairly metals-intensive. For example, caterpillar tractors comprise a
+substantial share in the structure of tractor manufacture (to percent).
+Standard metal consumption per crawler tractor is 80 percent more than for a
+wheeled tractor. In the future we should inprove the structure of manufacture
+of tractors, increasing the manufacture of wheeled and small-horsepower
+tractors, including orchard-and-garden tractors. This will help reduce the
+aetals input of the tractor industry and machine building as a whole.
+
+The most effective ways to reduce production specific metals input per unit of
+principal nachine paraneters are concentration of power in one unit, increased
+productivity and improved performance characteristics of machinery and equipnent.
+in recent years there has been observed in many types of equipment a gap
+between the technical capabilities of machinery being manufactured :nd the
+level of its actual utilization, that is, improved performance is far from
+fully utilized. For example, the volume of large and heavy metalworking equip-
+ment is considerable within the structure of nanufacture of metal-cutting
+machine tools and press forging equipment. This ratio causes an increase in
+the production aetals input of machine tool building and machine building as a
+whole, while large machine tools are not always used at full capacity. This
+leads to inefficient expenditures not only of material but of labor resources
+as well. It is therefore very inportant that designers and engineers, when
+designing machinery and equipment, proceed from the actual conditions of
+equip-ent utilization.
+
+FOR OFFICIAL USE ONLY
+IND! 0531(1AL USIZCMNLY
+
+Improvement of the type-size structure of machinery and equipment remains a
+pressing matter. herein lies significant reserve potential for achieving
+savings in metal and other productive resources. With unchanged metal re-
+sources. using the same production facilities and with comparatively small ad-
+ditional outlays, it is possible substantially to increase output of machine
+building products. In order to determine this reserve potential one should
+caICulate specific metals input when designing machinery and subsequently dur-
+ing operation not only for specifications and performance characteristics but
+also for work performed. This indicator is determined by the ratio of all
+material outlays (production and operation) to the volume of work performed by
+a machine during its service up to the first major overhaul. work to optimize
+the type-sire structure of machines should be performed in all branches of
+machine building. It is noted in the Basic Directions of Economic and Social
+Development of the USSR in 1981-1985 and the Period up to 1990 that it is
+essential to increase within optimal limits the unit power output of
+
+machinery and equipment with a simultaneous decrease in their physical size.
+metals input. power consumption, and a decrease in the cost per unit of end
+useful effect.
+
+Efficient utilization of metal products in consuming branches and elaboration
+of ways to achieve savings in metals during their processing depend in large
+measure on metal product manufacturing branches. In spite of certain ad-
+vances in the area of improving the structure and qualitative characteristics
+of metal, the requirements of the branches and sectors of the nation's
+economy in the majority of highly economical types of rolled stock are far
+from being fully satisfied. Hany machines of Soviet manufacture are heavier
+than counterpart foreign-built units, primarily because of an insufficiently
+modern structure of the metal: a comparatively high percentage share of cast-
+ings in the structure of metal production and an insufficient percentage
+share of rolled plate, and especially sheet. in the structure of rolled netal
+products.
+
+Factors which determine the 1e'el of metals input, reliability and durability
+of machines, instruments, and structures include the quality and structure of
+ferrous metals. A decrease in structural metal requirements is promoted by im-
+provement in the structure of metal production -- a decrease in the percen-
+tage share of castings and an increase in the share of rolled products, in-
+cuding sheet and economical products. In recent years the structure of con-
+sumed ferrous metals has been characterized by progressive trends, but the
+percentage share of castings continues to remain comparatively high (see
+table).
+
+Consolidated Structure of Hetal Consumed in Machine Building (as percentages)
+
+—___———_———_———————————_-
+
+ 
+
+ 
+
+Consuming Branches Percentage Share Percentage Share
+of Castings in of Plate andSheet
+(1) Metal Production in Finished (3)
+2 Rolled Stock
+1966 1980 1966 1980
+Machine building and metalworking 31.1 27.8 46.9 52.6
+of that:
+tractor and agricultural machine building 38.8 31.9 35.5 43.2
+9
+
+FINI¢JFF1CJAI.I£§EI(N‘LY
+FOR OFFICIAL USE ONLY
+
+Table on preceding page, cont'd
+
+ 
+
+—_————-———————
+
+(1) $22 532
+1966 1980 1966 1980
+heavy machine building 32.9 33.3 06.3 69.7
+automotive industry 18.6 18.5 60.3 69.0
+machine tool industry 51.5 51.1 30.3 38.0
+road.construction machine building 29.9 26.0 56.7 59.2
+chemical machine building 35.5 3b.7 58.0 61.3
+
+ 
+
+As is evident from the figures in the table, the structure of metal for machine
+building as a whole changed insignificantly during the 15 years: the per-
+centage share of castings declined by 3.3 percent, while plate and sheet
+production increased by 5.7 percent. In the largest consuming branches -
+machine tool building, the automotive industry, heavy and chemical machine
+building ~- the percentage share of castings remained practically unchanged.
+And an insignificant decrease in the percentage share of castings is planned
+
+by 1985 for practically all machine building branches other than machine tools
+and construction-road construction machine building.
+
+The relatively high percentage share of castings in the structure of metals
+consumption is due in a number of instances to a shortage of certain types of
+rolled steel. This leads to the manufacture of castings out of heavy ingots
+and the forming of a high metals-input structure of certain branches of
+
+machine building. Analysis of the structure of castings consumption has shown
+that in the future castings production in consumption volumes can be reduced
+by 5-7 million tons per year by replacing cast parts with rolled metal and
+reducing the weight of castings by adopting precision casting methods. This
+will make it possible to reduce production metals input and to obtain sub-
+stantial savings. For example, replaceaent of parts made of steel castings
+with welded structures of steel plates generates savings of approximately
+
+103 rubles per ton in calculated expenditures. Consequently, replacement of 5-
+7 ailiion tons of castings with parts made of rolled stock will make it pos-
+sible to obtain annual savings of 500-700 million rubles nationwide.
+
+At the present time a number of organizations in this country have completed
+work on technical-economic substantiation of the fabrication of welded
+structures out of rolled stock in place of castings. The institutes of the
+machine tool and tool industry have designed a number of welded machine bed
+structures of rolled stock in place of cast iron for larhes and grinding
+machines, machine tools for finish machining, and press forging machines.
+
+Work has been completed on development of lighter-weight structural designu
+for agricultural machinery employing parts fabricated of rolled stock in place
+of castings.
+
+Considerable work is being done in the area of reducing the metals '.quire~
+ments of machine structures by VNIImetmash [All-Union Scientific (asearch
+and Design Institute of Metallurgical Machine Building], which has designed,
+
+jointly with the Electric welding Institute imeni Ye. 0. Paton. an automated
+line for the manufacture of radiators out of sheet steel (in coils. by
+stamping and welding) in place of cast iron. The mass (specific metal
+
+10
+
+FOIEOFFKJAI.USE(MHLY
+FOI:OF1WCJAI.USEGDNLY
+
+requirements) of an equivalent square meter of a welded radiator made of
+
+sheet steel is 3.6 times less than with cast iron. Manufazture of radiators
+of rolled sheet will save substantial volumes of metal. Vﬂllmetmash has
+developed a new method of designing prestressed beds for hydraulic presses.
+rolling and pipe mills. Building presses with prestressed beds reduces metals
+consumption 2-7-fold in comparison with presses with conventional columns or
+with a frame errangement. Stressed-sheathing bed designs for rolling and pipe
+mills are approximately half as heavy as unit-cast structures.1
+
+Rolled product which is presently in short supply is required for going into
+production with lightweight structures which have already been designed. In
+the last five-year plan the production growth rate was the same for rolled
+stock and castings, which is not a sign of progress. Appropriate reorganiza-
+tion of metals production should be accomplished in the next few years, rein-
+forced by a system of economic incentive. in order to ensure that the rolled
+metals production growth rate (under the condition of allocation of the
+
+requisite quantities for replacing castings) exceeds the production growth rate
+of steel and iron castings.
+
+Reduction in the weight of machinery and equipment is being held back by the
+extensive employment of merchant shapes in the consuming branches. Merchant
+shapes continue to represent a substantial percentage within the structure of
+finished rolled stock: almost 50 percent in machine building and metalworking,
+and from $0 to 60 percent in certain branches of machine building.
+
+Change in the production structure of finished rolled products is essential
+
+in connection with the accelerated development of branches of industry with
+high requirements in sheet and plate, which are demanding increasingly larger
+quantities of these products. Sheet and plate production should grow at a
+substantially more rapid rate than merchant shapes production in order to
+satisfy the requirements of those branches with high sheet and plate re-
+quirements -- the automotive industry and electrical equipment industry; for
+the manufacture of pipe for natural gas and oil pipelines, structural tubing.
+curved structural shapes. and coated. plated. and clad sheet; for employment in
+construction; replacement of castings and merchant shapes. Employment of sheet
+and plate. and especially cold-rolled, produces considerable economic effect.
+Calculated outlays per ton of finished parts (rubles per ton) fabricated of
+sheet and plate are approximately 20 percent less than with merchant shapes.
+with an increase in the percentage share of plate and sheet in the rolled
+products structure to 50 percent (it is approximately 60 percent at the
+
+present time), savings to the economy could total approximately 1.5-2 billion
+rubles.
+
+The variety of available merchant shape: is expanding comparatively slowly.
+According to the approximate calculations of experts, the requirements of the
+branches and sectors of the economy in these products are running ahead of
+production by 50-100 percent. in order fully to meet the requirements of
+machine building. for example, it would be necessary to put into production
+more than 800 new structural shapes. One shortcoming of the product mix of
+simple structural shapes is the limited number of size graduations which
+leads to overconsumption of metal (2.5-15 percent goes into chips)2 or to
+
+11
+
+FOR OFFICIAL USE ONLY
+roe OFFICIAL USE ONLY
+
+increased metals input of machines and structures, and diminishes societal
+labor productivity. An increase in the number of intermediate rolled product
+sizes would make it possible substantially to increase metal savings in its
+consumption.
+
+0n the whole we must note that there is inadequate production of economical
+rolled sectional shapes: merchant shapes and high-precision shapes, and curved
+shapes -- employment of which in place of conventional products reduces the
+weight of workpieces and finished products. General and special-purpose mer-
+chant shapes are more economical. Only half of the entire number of mer-
+chant shapes (970) are produced in lightweight versions.
+
+Reduction in the metals requirements of machinery depends in large measure on
+utilization of rolled products made of low-alloy cteels, heat-treatment
+hardened, coated, plated and clad. special and lightweight merchant shapes.
+For the most part hot-rolled co-ercial carbon steel is employed in the na-
+tion's economy (75 percent), steel which many times fails to meet the elevated
+demands on modern materials, especially as regards strength. Much more effec-
+tive are low-alloy steels which are stronger than carbon steels and which pos-
+sess good plasticity, toughness, weldability, and resistance to corrosion.
+
+An important means of ensuring the durability of machinery and metal savings
+is a systematic increase in the quantities of manufacture of rolled stock with
+various types of coatings, platings, and claddings, and heat-treatment
+hardened. Losses to corrosion comprise approximately 10 percent of iron and
+steel production. A large percentage of rolled stock is produced without
+suitable hardening treatment. while heat treatment of hot-rolled carbon and
+low—alloy steel makes it possible significantly to increase its strength.
+Plastic-coated sheet and sheet aluminum are produced in insignificant quanti-
+ties. The economic effectiveness of consumption of heat-treatment hardened
+rolled stock, coated, plated and clad rolled products and rolled stock of low-
+alloy steel ranges from 20 to 60 rubles per ton in calculated outlays.
+Machines and structures made of such metal are stronger and lighter, are
+longer-lived, while metal consumption and the metals requirements of products
+are reduced. For example, products made of galvanized sheet last approximate-
+ly two to five times as long as items made of untreated sheet. Requirements
+in these rolled products are considerably greater than volume of production.
+
+In order to improve the structure of metal and rolled stock and to improve
+their qualitative characteristics, it is necessary to conduct a number of
+measures together with optimization of the organizational structure of ferrous
+metallurgy and primary processing production in the machine building industry.
+Simultaneous adoption of advanced directions in the production and consumption
+of metal and improvement in technological level not only in the producing but
+also in the consuming branches ensure conditions for fullest utilization of
+reserve potential for achieving metal savings. Let us examine some of these
+areas.
+
+Considerable influence on improving the technological level of metallurgical
+production is exerted by accelerated development of steelmaking in oxygen con-
+verters and electric furnaces, out-of-oven degassing and continuous steel
+
+12
+
+FOI‘OFIICIAI.USE!0NIN
+IN)R 0F?!C1Al.lh5£i(MVLY
+
+casting. and extensive adoption of modern, high-output equipment capable of
+ensuring the requisite quality of metal products. Possibilities of intensifica-
+tion of ferrous metals production depend in large measure on the structure of
+capital investment in the iron and steel industry. It is advisable to in-
+crease the percentage share of capital spending in rolling-mill production.
+including on improving quality and expanding the variety of rolled products.
+
+Precision casting and stamping methods, welding and rolling parts, and powder
+metallurgy methods, that is, low-waste and no-waste methods of manufacturing
+machine and equipment parts are promising areas in the development of metal-
+working technology. Mechanical working of metal by cutting still predominates
+in the machine building industry, however, which leads to considerable metal
+waste in the form of chips and increases metals input, labor intensiveness and
+the capital-to-output ratio of production. what is needed is standardization
+of manufacturing processes and development of optimal technologies in the
+initial processing shops of the machine building industry. The structure of
+manufacturing processes should be planned according to materials labor in-
+tensiveness. It is essential to perform analysis of machine structural
+designs and processing in a planned and systematic manner. in order to deter-
+mine reserve potential for achieving metal savings and to expand the scale of
+utilization of advanced structural materials. Improvement in the technical
+and organizational level of metalworking technology is one of the important
+ways to achieve savings in metal.
+
+An insufficiently high degree of specialization and concentration of initial
+processing production in the machine building industry is holding back the
+adoption of high-output resource-conserving equipment and efficient manufactur-
+ing processes. It is advisable to plan specialization indices for intensive
+development of the centralized production of castings, forgings, etc A long-
+range specialization and co-production plan for the various machine building
+branches should also be drawn up, including the manufacture of castings,
+forgings and other initial-process items. Capital investment must be al-
+located precisely to these specialized production operations, not into ex-
+panding initial processing shops at machine building enterprises or for
+building combined plants.
+
+Efficient utilization of metals and a decrease in production metals input
+depend on the scale of employment of a number of structural materials used in
+place of metals. Plastics are widely employed in all branches and sectors of
+the economy. Plastics consuming branches have developed advanced, lighter-
+weight structures with employment of polymeric materials in place of ferrous
+and nonferrous metals. The level and rate of development of the chemical
+industry. however, do not yet ensure technical and economic possibilities of
+consumption of these efficient structural materials, both in production volume
+and in qualitative characteristics. Production volumes of plastics, especial-
+ly modern structural thermoplastics and glass plastics, are still inadequate.
+Prices on structural plastics and synthetic resins remain high.
+
+All this is hindering expansion of the scale of employment of structural
+polymeric materials and decrease in production metals input. The requirements
+of the machine building branches in plastics are being met by 65 percent on
+
+13
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the average. while this percentage is lower for certain types of plastics An
+increase in the production volumes of structural plastics, especially with en-
+hanced characteristics. which are capable of competing with ferrous and non-
+ferrous metals, improvement of the technical and economic characteristics of
+plastics production and decrease in the production cost of plastics will an-
+sure conditions for reducing not only production metals input but also the
+weight of machinery and equipment.
+
+Obviously in the future we should plan accelerated development of structural
+plastics and more intensively improve the technical base for their production
+and intrabranch structure. The structure of plastics production should be
+planned in such a manner that they are utilized primarily in those industries
+where they generate the greatest effect. Branch technical and structural
+policy should be focused toward this.
+
+One promising substitute for ferrous metals is aluainum, which is characterized
+by excellent physical-mechanical properties and corrosion resistance, low
+specific weight, good decorative qualities. and effectively replaces steel
+
+and heavy nonferrous metals, substantially reducing the weight of machines
+
+and equipment. Transport machine building is the most effective area of
+employment of aluminum alloys. a priority rate in the production and con-
+aumption of aluminun has become one of the characteristic features of tech-
+nological progress. In our canny the growth rate of aluminum in recent years
+has been running ahead of that of ferrous metals.
+
+Achieving savings in metal on the basis of improving the technical and organiza-
+tion level of enterprises depends in large measure on indices specified in
+production plans. The present system of planning, evaluation and economic
+stimulation of production in tons and in volume of product sold leads to the
+manufacture of heavier and more metals-requiring rolled stock and equipment.
+L. l. Brezhnev noted at the November (1981) CPSU Central Committee Plenu-
+
+that we have not yet succeeded in eliminating indices which essentially an-
+courage waste. He was referring to the vaunted "gross" in tone or rubles.
+Enterprises have no incentive to manufacture new, lightweight rolled sectional
+shapes or lighter-weight machines. since their manufacture worsens an enter-
+prise's technical-economic performance indices -- volume of sold production
+and labor productivity decline. .In the iron and steel industry the labor in-
+tenaiveness and capital-to-output ratio of high-quality product are frequently
+increased, since these products require additional processing. All this has a
+negative effect on material incentive funds. ‘
+
+The system of measures to achieve further improvement of plan and evaluation
+indices specified by the CPSU Central Committee and USSR Council of Ministers
+decree entitled "0n Iaproved Planning and Strengthening the Effect of the
+Economic Mechanism on Improving Efficiency of Production and Hort Quality" is
+being implemented slowly and not in all branches. Incentive for economical
+utilization of material resources is provided by planning such indices as
+standard net production and sales volume taking into account meeting product
+sales deliveries on the basis of contracts and sales orders. It is essential
+to plan an expanded product list in units of measurement which more fully
+characterize product use properties.
+
+16
+
+IKHICIﬂﬂCJA1.UEE(MVLY
+FOR OFFICIAL USE ONLY
+
+New indices should be reflected in prices and technical-standards documenta-
+tion. Product materials intensiveneas indices were taken into consideration
+to a greater degree than previously in elaborating the wholesale prices which
+became effective in 1982, which makes it possible to intensify the incentive
+role of prices in economizing in material resources. Planning and production
+incentive for certain types of equipment, however, are expressed in tons. The
+ton also renains the principal planning and evaluation indicator in ferrous
+metallurgy, since on the basis of tonnage it is easier to fulfill the plan
+
+by increasing volumes of ordinary-grade rolled stock. He should note that ex-
+periments are being conducted in the iron and steel industry on planning and
+record keeping on certain types of rolled stock and rolled product in neters,
+square esters, and theoretical weight. It is advisable to expand approval of
+indicators which most fully take the quality of metal into account. Metals
+input and standard weight of product items characterize econoay both of their
+production and consumption. Obviously this indicator should become mandatory
+in designing structures and manufacturing processes and when putting new or
+modernized product items into production. There is not yet adequate econonic
+incentive, however, for designers and engineers to develop less materials-in-
+tensive products. Insufficient attention is also being devoted to reducing eate-
+risl intensiveness of products at machine building enterprises. This is
+
+due to the fact that according to existing regulations an lten is put into
+production if it meets all requirements imposed on it other than the require-
+ment of reduced materials intensiveness. Nor is a high level of materials in-
+tensiveneas an obstacle in awarding a product the Seal of Quality.
+
+An inportant role in overcoming these deficiencies will be played by implementa-
+tion of measures. specified in the decree on economising in material resources,
+pertaining to further improving standards and technical specifications and en-
+hancing their role in improving product quality and in economical utilization
+of materials. Now principal product characteristics incorporated into
+standards and specifications will include indicators of a product's naterials
+intensiveness and energy requirements, corresponding to the finest achieve-
+ments of Soviet and foreign science and technology. 0n certification, a
+
+product can be assigned to the top quality category only if these requirements
+are satisfied.
+
+In order to implement measures specified by the decree pertaining to economical
+utilization of material resources, it is essential to make appropriate changes
+in organization of accounting and record keeping pertaining to indices
+characterizing efficient utilization of material resources. In partiCular.
+there should be established a technically substantiated standards base for the
+major sateriel resources, for all metals, as well as for the principal
+
+machine building products. Until recently only savings in hot-rolled metal
+was planned. Many machine building products are not covered by standards. As
+a result, for example, castings production and consumption volumes unwarranted-
+ly grew and. correspondingly, the percentage share of castings in the total
+netal structure was declining slowly. This was impeding the progress of
+reduction in weight of machines. In addition, consumption standards are not
+always revised with the adoption of scientific and technological advances.
+Planning of targets pertaining to an average decrease in specific consumption
+for steel and iron castings and forgings from ingots, as well is a rolled stock
+
+15
+
+F0!‘0FFKJAI.USE(N‘LV
+FOR OFFICIAL USE ONLY
+
+utilization factor was adopted effective 1981. This should provide incentive
+for acre efficient utilization of all metal.
+
+The decree specifies establishing, beginning in l)83, for industrial, construc-
+tion and transport ministries. associations, enrerprisee and organizations
+production cost targets in five-year and annual plans, including a ceiling on
+material outlays in aonetary terms per ruble of output. Consumption standards
+for the major types of materials, fuel and energy will be established in
+physical terms per unit of output. The list of material resources on which
+centralized targets pertaining to average decrease in consumption standards are
+established will be expanded. In order to carry out thepbaned measures. it is
+essential to improve the standards operations of enterprises. Existing
+standards on consumption of raw materials. supplies. fuel and energy resources
+should be promptly revised and new ones established proceeding from plan tar-
+gets. tzking into account adoption of scientific and technological advances.
+
+A number of scientific research institutes have begun implementing these
+measures. In particular, NllPiN [Scientific Research Institute of Planning and
+Standards] under USSd Gosplan is preparing a list of the most important
+materials-intensive products and material resources. is drawing up standard
+methods for calculating technically and economically substantiated standards
+and for planning the materials intensiveness of products. and is drafting a
+standard regulation on organization of bonus payments for achieving savings
+
+in material-technical resources and reducing the materials intensiveness of
+products manufactured.
+
+of great importance for efficient utilization of materials is a balance between
+production and consumption of all types of resources and the availability of
+
+an optimal central reserve of these resources. A shortage of certain types of
+rolled products and ceiling-limited distribution of ferrous metals are forcing
+enterprises to incorporate reserves into consumption standards for principal
+product items. Enterprises are essentially creating ”their own" internal
+reserves for meeting various additionally occurring needs. including compensat-
+ing for losses due to production-line rejects. which leads to inefficient
+utilisation and freezing (accumulation) of certain quantities of material
+resources at enterprises and the development of a short-supply situation for
+certain metal products.
+
+At the stage of plan drafting, ministries should determine actual requirements
+in all types of rolled products and capabilities to meet these requirements.
+Essential for this is elaboration of a balanced metals production and consump-
+tion plan. For proportional and balanced development of the economy, when
+drawing up national economy econonic and social development plans it is es~
+sential to specify centralised material reserves. Their formation will
+pro-ate an end to scattering of materials among separate agencies and enter-
+prises and will create the possibility of selection of necessary materials and
+their more efficient utilization.
+
+The decree on economizing in material resources acknowledges as essential in-
+creased incentive for workers, managers. engineers. technicians and office
+employees of associations, enterprises, and organizations to achieve efficient
+
+16
+
+FOI‘OFFHJAI.USE(NHLY
+FOR OFFKJAI.I£SE(NVLY
+
+utilization of material resources. lbviously a uniform system of material
+incentive to economize should be created. Economic incentive funds of
+ministries and agencies, associations, enterprises and organizations will be
+formed in relation to the level of material outlays per ruble of product (work
+performed) and total savings achieved by reducing material outlays in com-
+parison with the ratified ceiling. Horkers, foremen, process engineers,
+designers and other engineer-technician personnel will be awarded bonuses for
+achieving savings in specific types of materhl resources in comparison with
+the specified technically substantiated consumption standards. Payment of
+bonuses to administrative office personnel at production associations, enter-
+prises and organizations would be in relation to the level of material outlays
+per ruble of product in comparison with the established ceiling, taking into
+account fulfillment of targets pertaining to product cost for the association,
+enterprise, and organization. Implementation of all these measures will serve
+as a basis for establishing a uniform system of incentive to economize in
+resources.
+
+Economical utilization of material resources will be promoted by converting over
+all branches of industry to planning a sales volume indicator taking into ac-
+count completion of production deliveries according to the full list and
+variety. Uhen figuring the material incentive fund, one shOuld take into ac-
+cOunt the levels of materials intensiveness of product items and fulfillment
+
+of contracts pertaining to delivery schedule, product quality and variety. It
+is advisable to increase the amount of fines and to increase the personal
+liability of officials of enterprises, ministries and supply personnel for
+failure to meet contractual agreements.
+
+In our opinion the above-examined areas of reducing production metals input and
+achieving efficient metals utilisation, particularly optimisation of the
+branch structure of metals consumers and improvement in the structure of
+structural materials will foster economical utilization of material resources.
+
+POOTNOTBS
+
+1. See A. l. tselikov, "Metallurgicheskiye mashiny i agregsty: nastoyashcheye
+i budushcheye' [Metallurgical Machinery and Equipment: Present and Future],
+Izdatel'stvo Metallurgiya, 1979, page 136.
+
+2. See N. F. Sklckin, "Ekonomicheskiye problemy povysheniya kachestva i
+razvitiya sortauenta chernykh metallov" [Economic Problems of Improving the
+Quality and Enlarging the Variety of FerrOus Metals], Izdatel‘stvo
+Metallurglya, 1978. page 138.
+
+COPYRIGHT: Izdatel'stvo "Pravda", "Voprosy ekonomiki", 1982.
+
+3026
+C80: 1862/134
+
+l7
+
+FORloFFKJAl.USE(NﬂlY
+FOR OFFICIAL USE OILY
+
+[CW 01' mm. W HIGHER WALITY D8111.
+
+Hoecow mmmtn I mansun mm mm in Ruaaian no 5.
+Mn 82 pp 2-6
+
+[Articles "An Increaae in the Quality of netal - the Real Henna of Ira
+Bconoey"]
+
+[Text] The econoay of aetal ie one of the key prohleaa of aodern nachine
+building. Under conditione of the iaprovenent. expanaion and optiaieation
+of the exieting production. the rational uae of netal beconea very i-portent.
+Therefore. in the ”Baeic Trende in the Beonoeic and Social Developaent of
+the 083! for the yeera 1981-1985 and for the period up to 1990" together
+with the formulation of the ecientific and technical probleae. the aolution
+to which allowe obtaining a coneiderable eevinga of netallic neteriale. the
+need for iapI-enting another. aore effective neene ie underlined: the
+:ealoua uae of netal in the proceaa of ite proceeeing. econoeicel with
+reepect to the national good. "...He. of courae. will put new aetallurgical
+plante into operation. But to overcoat the ehortage of netal. there eniete
+another neene. a aore ekillful and coeplete uae of that which in produced."
+eaid L. I. Brezhnev at the 26th 080 congreaa [l]. Thia ie a practical
+anhodiaent of the Leniniat thought about the fact that comni- begina with
+the everyday care of the workere concerning each pond of aetal and grain and
+the increaee in the labor productivity.
+
+If we bear in nind the problale of the econoay of netal which ariae free the
+firat trend. the ieproveaent of production haaed upon new acientific and
+technical achieveaenta. then. firat of all. we need to know the feature
+
+which is characteristic for it: theee probleaa are eaaentially coeplex.
+
+They can he aolved effectively only under the condition of the econoey of
+neteriala in all linke of the induatrial chain of aenufacturing a part.
+beginning with the uelting of the aetal and ending with finiehing operatione.
+i.e.. it ia neceeeary at the eaee tine to eael: the eeane of the econoey of
+eetal in the reeervee which are available in aetallurgy. in nachine building.
+in particular. in aetal working. and no on. The greateat eavinge of aeteriale
+can be achieved in eolving haeic prohleaa of the nodern production of producta:
+an increaae in the quality of the natal; ieproveaent of the aetallurgical
+convereion; the develop-ant of powder netallurgy; an increaee in the corro-
+aion reaiatance of nteriala; the developeent of new atrcutural ateela and
+alloya; the iaproveaent and develop-eat of new forna of heat. detonation and
+chaaicalv-heat treataenta; and the introduction of low-waste technology.
+
+18
+
+m O’PICIAL US! ONLY
+FOR OFFICIAL USE ONLY
+
+The increase in the quality of the metal is the basic way to increase the
+life of the parts and one of the main sources of the economy of steels and
+alloys. Therefore, the development of ferrous Ietallurgy in the trend of
+the improvement and creation of methods of production. which provide an
+increase in the quality of the emeltable materials. is. at the same time.
+one of the means of the economy of metal. In the llth Five-Year Plan there
+will be further development in electric-furnace steel smelting and oxygen-
+conversion production 91th and increase in the smelting of steel by 1.6 and
+1.3 times. respectively. [1). plasma smelting. and also processes of electric-
+slag. vacuum-arc. vacuum induction,and electron-bean reseltings [2]. The
+portion of the metal scrap and waste products of ferrous metals will be con-
+siderably increased in the charge. For example, in the smelting of electric-
+furnace steel, the quality of it will consist of more than 951 of the w ight
+of the whole charge, and in the total volume of steel production the portion
+of metal scrap exceeds 6b! [3]. There is much interest in the smelting of
+steel with the use of metallised pellets as the charge. which was developed
+at the Oskol'sk electrometallargical combine. In the next five-year plan.
+the production of largetonnage forms of metallurgical production with reliable
+and stnble normalised quality characteristics will be carried out. In the
+first place. it is necessary to ensure an increase in the uniformity and
+purity of the metal with respect to harmful impurities: a decrease in the
+content of sulfur and phosphorus down to thousandths of a percent. This
+makes it possible to increase considerably the ductility at low temperatures
+of the alloyed high-strength and low-alloyed steels for gas and oil pipe—
+lines. building structures for the northern regions and so on. The large-
+tonnage production of such aetal will be possible because of the intensive
+development of the extrafurnace methods of refining. The volume of steel
+refined by degassing is increased by 3.2 times. by inert gases. 1.6 times.
+and by synthetic slags. 1.3 times. Thus. for example. the use of vacuum
+processing of electric (sheet) steels in the ladle at the Cherepovets
+metallurgical works made it possible to increase considerably the output
+
+of high-quality steels and. furthermore. to lower the cost of one ton of a
+cold-rolled sheet by 18-20 rubles [b]. The refining of steel also permits
+reducing the consumption of ferroalloys. decreasing the rejects of metal
+with respect to chemical composition and defects of the surface of the
+rolled stock. and stabilizing the properties of steel fros smelting to
+snelting.
+
+The improvement of the metallurgical process stage is one of the trends
+which provide a considerable economy of the materials without an increase
+in the volume of its production. The main effect is reached due to the
+production of efficient forms of metal production and the introduction of
+new progressive industrial processes. which improve the structure and com-
+plex of mechanical properties of the metal.
+
+In the first case the most promising are works on the optisisation of the
+dimensions. the increase in precision of the rolled stock and pipes, the
+expansion of their grades (for the purpose of equipping the customer with
+materials with minimal deviations of the dimensions from those required),
+and also the creation of fundamentally new deforming devices, for example,
+
+19
+
+FOI‘OFIICJAI.USEGDNLY
+POI OFFICIAL USE ONLY
+
+part-rolling sills which allow making by plastic deformation either the
+parts directly or blanhs having the configuration of parts. with nininal
+allowances for nachining. At present. ferrous netallorgy in the USSR
+produces nore than 1,500 nerchant. shaped roll-forned and high-precision
+section dimensions of rolled stock. sheet rolled stock - 22,000 dinenaions.
+steel pipes - 30.000 section dinensions. and netsl hardware — 50,000 forms
+[2]. In recent years about 900 state and dozens of branch standards and
+
+5‘00 specifications for producible production have been renewed. About 300
+obsolete and heavy sections are excluded free the assortnent. and requirements
+for deviations free the assigned dimensions are tightened. In spite of the
+fact that only in the last five years there has been the developnent and
+assimilation of netal production of a large range of products (rolled stock
+of 870 new progressive section dinensions. including 339 hot-rolled shaped,
+283 roll-forned and 268 shaped of high precision), during years of the llth
+Pive-Year Plan there will be an increase in the production of roll-formed
+section of 1.5 tines. of wide-flange beans 1.2 times. and of sheet cold-
+rolled steel 1.5 times [2]. The naxinun economy of netel is achieved in
+precision forging and rolling in a field of negative and narrowed tolerances.
+For exsnple. as a result of rolling in a field of negative tolerances, at
+
+the "Azovstal'" plant. the Donetsk. western Siberian. Cherepovets Novo»
+Lipatak. Chelyabinsk. and Taganrog netallurgical works. the Dneprovsk
+metallurgical works ineni Daershinsk. and the "snurstal'" plant, more than
+34,000 tons of netal are saved [5]. Extra-sly efficient is the introduction
+at the wire. light-section and nediun-section rolling nills of preliminarily
+stressed stands (PSS). which makes it possible to produce rolled stock of
+high precision. here the nicrostructure and properties of the metal are im-
+proved. losses to scale and the thickness of the dacarbonized layer of the
+rolled wire are decreased, and the specific quantity of natal of the struc—
+tures is lowered. The national econonic effect resulting fron the introduc-
+tion of a new system of stands. at the cherepovets netallurgical works
+
+alone was about 60 million rubles. In the llth five-Year Plan the PSS will
+be installed at the light-section nills of the western Siberian and Chelyabinsk
+netallurgicel works and the "Krivoy log" plant IS]. A considerable reserve
+in the economy of metal is the putting into production of progressive indus-
+trial processes based on the nest recent achievenents in science and tech—
+nolosy. for exanple. the manufacture of machineubuilding parts by the method
+of rolling. About a hundred part-rolling nills are already operating in our
+country. An increase of 6-5 times in their number nakea it possible not only
+to save 350,000 tons of metal yearly. but also free about 20.00()netal-cutting
+nachines and 27,000 workers. The total savings amount to about 500 million
+rubles per year [6]. Thus only owing to the development of progressive
+methods of producing rolled stock of steel pipes and netal hardware, will
+
+The second trend of works on inproving the netallurgical process stage
+permits obtaining an econony of natal owing to an increase in the couples
+
+of its nechsnical properties. The successful developnent in this trend in
+
+the next five-year plan. in the first place. is deternined by the results
+achieved in the 10th Five-Year Plan in the field of applied and theoretical
+physical metallurgy and the theory and practice of heat and deforestion treat-
+ments. The basic neans for increasing nechsnical properties of metal is the
+
+20
+
+INMICNHHKJAI.USEIJ§LY
+FOR OFFICIAL USE ONLY
+
+regulation of the temperature-rate parameters of processes of the deforma-
+tion of ingots in their treatment and the combination 0: plastic deforma-
+tion with heat treatment. To achieve the maximum economy of metal. it is
+necessary to conduct extensive studies on the finding of efficient indus-
+trial schemes of heat and heat and strain hardening with the appropriate
+alloying of steel. Deserving special attention among these schemes are:
+
+the hardening of the rolled stock by heat treatment from special or milling
+heating. monitorable rolling. heat treatment from the intercritical tempera-
+ture range. the use of INT [Thermomechanical Treatment] in the production of
+rolled stock from steels with perlitic conversion. and thermocyclic treat-
+ment. For example. thermal hardening from milling heating in the flow of
+
+the mills. based on the theory of the thermomechanicsl effect on steel and
+
+a technology worked out in each specific case with the use of simple devices
+for the cooling of the steel from the deformation temperature. permits a
+saving on the avaerage of 221 of the metal and the obtaining in the national
+economy of an economical effect of about 38 rubles per ton [7]. During
+1981-1985 an increase in the production of such rolled stock of 1.8 times
+will be provided. The monitorsble rolling of the lowvalloyed steels. carried
+out with high degrees of deformation at comparatively low temperatures. ensures
+an increase in their strength and plastic properties. The putting into opera-
+tion of the 3000 mill at the Il'ich metallurgical works permits the rolling
+additionally in monitorable modes up to two million tons of plate per year [2].
+The implementation in future years of rolled stock by monitorsble modes and
+different schemes of heat and thermomechanical treatments will provide not
+only a saving of the metal. but also a considerable saving of the alloying
+elements. since with such methods of treatment it is possible to use economic
+cally alloyed materials. As a result of the improvement of the metallurgi-
+cal process stage in all links. by 1985 there will be an assimilation of the
+technology of the production of sheet and section steel and pipes with an
+ultimate strength of 700.2500 HPa. and the average strength of the metal will
+increase by 51-61 as compared with that reached in 1980 12].
+
+The powder or "little" metallurgy in the 11th Five-Year Plan should provide
+
+a considerable economy of steels and alloys because of the high utilization
+factor of the metal. In the production of each thousand tons of products
+
+by such method. a savings of 2.5 thousand tons of rolled stock will be
+achieved. The effect of the savings. first of all. depends on the volume
+
+of production of the high-quality iron powders and also powders from alloyed
+steels and alloys. and. therefore. by 1985 it is planned to increase the
+production of metallic powder by 3.3 times. To do this. it is necessary to
+concentrate the scientific studies in the direction of obtaining iron powders
+by the method of the spraying of melts by high-pressure water and the method
+of restoration of the ores and hydrogen superconcentrate and of the obtaining
+of pure iron oxide and iron powders of higher quality from the depleted
+hydrochloric-acid etching solutions of the rolling production. From these
+powders it is planned to manufacture products with increased wear resistance.
+life, corrosion resistance. and other special properties. This requires the
+development of new heat-resistant and corrosion-resistant alloys on the basis
+of intermetallic compounds and refractory metals and the improvement of pro-
+cesses of the application of heat—resistant. wear-resistant and snticorrosion
+
+21
+
+FOR‘0F‘WC1AI.USE|MNLY
+FOR OFFICIAL USE ONLY
+
+coatings by the gas-thermal and ion-plasaa nethods. There is increased
+interest in powder cosposite asterials. and the use of these naterials
+allows saving not only the scarce alloying elements, but also the special
+expansive steels. Tor exanple, the replacaaent on just one centerless
+
+lathe of rollers of hardened steel nous. which feed and hold the bars to be
+aachined. by rollers of sintered alloy, titaniun carbide and stainless
+steel. takes it possible to increase the resistance by 15-20 tines and obtain
+an annual savings of five to six thousand rubles Ill].
+
+The increase in the corrosion resistance of natarials is one of the east
+iaportant probleas of modern physical netallurgy, the successful solution
+to which is governed by the effectiveness of conbatting corrosion. which
+brings losses in the billions of rubles to the national econony. The basic
+studies are conducted in the direction of developaent of fundanentsls of the
+alloying of new corrosion-resistant steels and alloys and the creation of
+poly-er and netallic coatings with the aininal use of expensive and scarce
+
+aetals and. nanely. snticorrosion coatings for parts of nachine-building
+production and coatings for pipes.
+
+In the developnent of new naterials. the principle inportance is in works
+on the optimization of the conposition of coaplexly alloyed steels and alloys
+for the purpose of reducing the consuaption of scarce netsls. for exanple.
+nickel. the investigation of the effect of alloying elenents and inpurities
+on the structure and corrosion resistance, and the creation of new alloys
+with increased corrosion resistance. The use of coatings. especially polyner.
+is one of the proaiaing trends in the protection of aetal fron corrosion.
+The coabination of the steel base and poly-er coatings pernits creating new
+structural naterials with assigned properties. including resistance in dif-
+ferent cheaicsl needle. and thernal and sound insulation materials with good
+staapability and a concrcial fora. At the present. rmncumm [Central
+Scientific Research Institute of Ferrous lietallurgy ineni I. P. Bardin],
+jointly with a number of institutes of the chenical industry, is conducting
+works to create a new corrosion-resistant and salt-tolerant naterial for
+the autonotive industry of the type "Tsinkronetall" [2]. Of the known
+nethods of applying netallic coatings, a special place is occupied by vacuua
+chronising (VC). the technology of which has been developed by UkrNIISP'BTsSTAL'
+[Ukrainian Scientific Research Institute of Special Steel] in collaboration
+with a nunber of netallurgical works of our country [8]. This technology
+has certain advantages over other nethods of the application of coatings.
+For example, a diffusion layer 100-200 us thick with saturation in a vacuun
+is for-ed in 3-5 minutes; to obtain a sinilar coating by gas or powder nethods
+28-36 hours are required. Such a high rate of the formation of the diffusion
+layer is caused by the special feature of the very process of the vc: the
+netallising spray gun is vaporized in the heating process in a vacuus, and its
+vapors precipitate onto the surface of the article heated above 7oo'c. Under
+these conditions an effective diffusion saturation of the surface layers of
+the netal occurs. The natal rolled stock (sheets. pipes) with coatings
+applied by this aethod has practically the sane resistance at increased
+temperatures as do the corrosion-resistant steels KhlBTl and lOKh13 and, in
+individual cases. as austenite steels of the type 18-10. i.e., after such
+
+22
+
+FOROFl-‘ICIALUSEONLY
+FOR OFFICIAL USE ONLY
+
+treatment the standard rolled stock can be successfully used instead of the
+more expensive and complerly alloyed steels. A thin chrome-plated sheet.
+with respect to corrosion resistance, is equivalent to a himetal, and its
+net cost is considerably lower. The VC of boiler pipes, in the retention of
+high heat resistance, allows increasing by 2-4 times the resistance of gas
+corrosion. increasing the reliability of operation of high-pressure boilers
+and considerably reducing the number of major repairs [8].
+
+Other methods of applying coatings are of great importance. Thus a process
+which is progressive is the industrial process of the production of a hot-
+aluminized thin sheet - a corrosion-resistant. weatherproof and heat-resis-
+tant structural material. the application of which in the construction in-
+dustry allows increasing by three times the life of the structures as compared
+with hot zinc-plated metal [2].
+
+Special attention in the problem of the economy of metal is being given to the
+protection of pipes from corrosion: a decrease in their thickness even of
+several percent makes it possible to save a significant quantity of steel and
+alloys for the national economy. Thus the use of glass enanel coating of
+pipes for heat simultaneously with an increase in the period and service of
+five to six times allows decreasing the thickness of the wall of the pipes
+by 301 to k0! and sharply reducing the consumption of metal [9]. The appli-
+cation of the method of applying coatings developed in the UralNITI [Ural
+Scientific Research and Technical Institute] at the Sokolovskaarbay mining
+combine. with a yearly productivity of the section of 5000 meters of pipes
+377 millimeters in diameter, ensures an increase in the resistance of the
+pipes of 10 times [9] and a savings of 150 rubles from the use of each meter
+of pipe. A large saving of metals is achieved in the production of multi-
+layered pipes. In this case the fundamental importance is acquired by the
+metal physical problems of producing high-strength rolled steel, beginning
+from its smelting and ending with the development of the technology of de-
+formation and heat treatment. Showing promise is the modern technology of
+smelting steel in oxygen steel-making converters, which ensures the possi-
+bility of obtaining the content of alloying elements in narrow limits, the
+uniformity of the structure and mechanical properties of the rolled stock.
+and the possibility of using the best possible conditions of the milling
+being monitored.
+
+The development of new structural materials is a fundamental problem of
+modern physical metallurgy. and the successful solution to it, first of all,
+depends on the economy of steel and alloying elements. The creation of
+
+new materials in the near future will be accomplished mainly in the same
+directions as that of the 10th PivedYear Plan [10]. The main effect of the
+economy can be achieved as a result of the development of economically
+alloyed steels and alloys possessing an increased complex of physical and
+mechanical properties: low-carbon steels alloyed by abundant elements
+
+CHn. Si, Cr), low—carbon steels with carbonitride hardening, martensite-
+aging economically alloyed steels, and low—carbon steels of the ferrite-
+martensite grades. A considerable savings can be obtained as a result of
+the creation of new materials intended for the introduction of highly
+
+23
+
+FOR 0FINC1AI.[EHE(NVLY
+FOR OFFICIAL USE ONLY
+
+then in special operating conditions in regions of the Far North. In connec-
+tion with this, there is interest in works on the introduction of scone-inal-
+ly alloyed steels for gas pipelines, which operate under a pressure of 100 at.
+and highly cold-resistant steels (down to ~120'c) for reservoirs and building
+structures [2]. For the Operation of the pipelines at increased pressure.
+it is necessary to develop steel with a higher couple: of properties than
+is used for this steel 096278. The new steel should possess increased im-
+
+and metal scientists, since to do this it is necessary to develop the technology
+of snelting steel with narrow linits of the content of the alloying eluents.
+
+26 In); and the technology of the production of pipes. which ensures a high
+reliability of the basic metal and welded joint. and an effective corrosion
+coating for pipes. The technology for obtaining rolled stock and pipes
+
+fro. steels with nitride-vanadiun hardening will he assimilated in the nest
+five-year plan. Structural steels which are resistant to sulfide embrittle-
+nent will be used in the llth Five-Year Plan for pipes of petrolsun grade and
+apparatuses for processing natural gas. Also fundamentally inportant are
+works on the testing of weldable steels with 0.- 800-1000 HPa for the nanu-
+fscture of Inchine building parts and parts of building constructions and
+also works on the development and introduction of high-strength steel for
+welded housings of new atonic energy plants.
+
+The improve-eat and development of new forss of heat. deformation and chemi-
+cal-heat treatments are efficient means in the economy of steels and alloys.
+
+with an increase in the conplex of mechanical properties and structural
+strength, new netth and progressive industrial processes sake it possible
+to improve the quality of the output production and, consequently. increase
+the reliability and life of the essential parts of different structures.
+
+trial frequency for heating; heat treatsent (heating) in protective stnospheres
+and a vacuum; and the laser treatment of metals. In the llth Five-Year Plan
+the nest prosising are works in the field of m [1'hernonechanicsl Treatnent].
+in particular. the introduction of H111 [High-Taperature Themechanical
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In the field of chemical and heat treatment (CRT) processes which allow
+obtaining diffusion layers of high quality and. ultimately. increasing the
+life of the parts will be developed. Belonging to these processes, in the
+first place, can be different forms of low- and high-temperature processes
+
+of Chemical-Thermal Treatment: cyaniding. cyanidation. carbonitriding, short-
+term nitriding. and others. There is special interest in chemical-thermal
+treatment at increased temperatures in a vacuum. and when this is carried
+
+out it is possible to effectively act upon the structure of the diffusion
+layer through the change in the pressure and improve the quality of the pro-
+ducts through the elimination of internal oxidation.
+
+The introduction of low-waste technology. At present in the creation of
+new methods of the treatment of materials, beginning with the smelting and
+ending with the manufacture of a part. it is necessary to strive for the
+development of low-waste technology. This is one of the main sources of
+the economy of metal. l'or example, already for several years the collec-
+tive P0 211. [Planning Department of the Moscow Automobile Plant
+
+imeni Likhachev] has been carrying out a long-term progras for introducing
+low-waste technology. as a result of which tens of thousands of tons of
+netal have already been saved [6]. A considerable importance in this
+article of economy is occupied by problems of the lowering of the specific
+quantity of metal of the structures and the increase in the utilisation
+factor of the metal [6]. In connection with this. special significance is
+acquired by the combined development by metal scientists. netal physicists
+and mechanical engineers of methods for evaluating the structural strength
+for the purpose of optimizing the strength safety factors in the calculation
+of structures operating in different temperature-rate loading conditions.
+In spite of the fact tint in this direction certain achievements have al-
+ready been made (determination of the destructive strength of asterisls and
+components of impact strength. the plotting of serial curves. and so on).
+on the whole the problem remains unsolved. There is fundamental importance
+in the studies of the connection of the structure with structural strength.
+the classification of factors determining the brittle and ductile failure,
+and the creation of universal criteria for estimating the structural strength.
+
+The main efforts in the creation of new machines and assemblies are directed
+at the lowering of their weight in calculati‘m per unit power. For example,
+89 of the 128 most important products being produced by the machinevbuilding
+works of the Sverdlovsk Oblast have a lower specific metal content than
+similar Soviet and foreign specimens [6]. however. as Comrade L. I. Brezhnev
+noted. "...the specific quantity of metal of many machines and equipment
+being produced remains excessively high. The amount of waste in metal work-
+ing has not been reduced. Precision billets are slowly being introduced."
+In connection with this. the basic problem lies in the creation of such
+processes of treataent which will ensure the obtaining of a utilisation
+factor of the metal of higher than 0.72-0.73 [6].
+
+The measures outlined for improving the quality of metal. the increase in
+the complex of its physical and mechanical properties. and also the improve-
+ment of designs of machines and the technology of metal working and s more
+
+25
+
+FOR OFFICIAL USE ONLV
+me OFFICIAL USE ONLY
+
+extensive use of netsllic snd poly-er eeterisls nske it possible to save
+
+eight nillion tons of rolled stock in nechine building snd two million tons
+in construction [6]. Such s result can be resched only if the capetition
+for the saving of netsl tskes on sn even wider scope. end it in esch lshor
+collective. ss is required by resolutions of the love-her (1981) Plenu- of
+
+the cc 0280. results of its work will be snslyzed. sud reserves for the
+succeuful inlmntstion of the production sssigt-ents will be put into
+opetstion. . -~ .
+
+“8le
+
+1. Wisterisly nu s"ye:ds nss" [Heterisls of the beauty-sixth Congress
+of the CPSU]. Hoscov: Politirdst. 1981. p 39. '
+
+2. Kugushin. A. A.. "Tests of Drench Science in Light of the Resolutions
+of the Minty-sixth Congress of the CPSU." STAL'. 1981. No 9. p 1.
+
+3. Khonskiy. G. 5.. "State sud Prospects of the Denloplent of the Process-
+ing of Ketel Strep." 5111'. 1981. No 11. p 6.
+
+6. "Bigher the Quality of Metal.” PRAVM. 1981. 22 Dec.
+
+5. Kostyultov. 1. 1.. "Co-petition end Technicsl Progress." m'. 1981.
+lo 10. p 2.
+
+6. "Bcononize the lietsl.” PRAVDA. 1981. 30 Dec.
+
+7. Brodov. A. A.. et sl.. In the Collection: "lftektivnost' tekhnicheskogo
+progresse v'chernoy netsllurgii" [Bfiiciency of Technical Progress in
+Ferrous Hetsllurgy]. Hoscov: Mstsllurgiys. 1979. lo 3. p 28.
+
+8. Petrov. A. L. et sl.. "Diffusion Chroee Coatings on Steel." STAL'.
+1981. lo 9. p 63.
+
+9. 81inov. Yu. 1.. "Protection of Pipes fro- Corrosion snt’. Beer." STAL'.
+1981. No 10. p 67.
+
+10. "Phynicsl Hetellurgy snd Best Trestnent on the Boundary of the Tenth snd
+Eleventh Five-Year Phns." H110! [METALLOVBDKNHB I TMCRBSKAYA
+03mm mm]. 1981. No 2. p 3.
+
+11. Gurevich. Yu. 6.. st s1.. 8111'. No 10. p 77.
+
+comum: lzdstel'stvo "lisshinostroyeniye". "Hetsllovedeniye i ternichesksys
+obrshotlu netsllov". 1982
+
+9978
+680: 1842/1119
+
+26
+
+MWI’SIONIJ
+NR OFFICIAL USE ONLY
+
+WW5 HEW
+
+unc: 669.2:66.061.S
+EXTRAC‘IIw OF COPPER. 31cm. AND MALT U111! SEVEN OXYOXIHBS
+Hoscow ‘l’SVE‘l'NYYB WY in Russian No 3, Her 82 pp 24-27
+
+[Article by V. P. ‘rrawkin, V. V. Yekahin, V. 8. Ul'yanov, A. H. Hirokhin and
+I. V. Belysyev]
+
+[Text] Hydro-stallurgicel methods are the principal nethods enployed in
+processing low-grade off-balance sheet as well as difficult-to-heneficiate
+oxidized copper ores. In the past these ores were processed according to the
+scheme leaching-cenentation, while in recent years extraction nethods of
+recovering copper fro. leaching solutions have been in increasingly widespread
+ue. This becene possible in connection with the develop-eat of Lix. SHE-529.
+Acorga. end Kelex type reagents [1-3], which are used for selective extraction
+of copper fro- weakly acid solutions.
+
+Copper extracting agents belonging to the category of oxyoxines — one [5], AB?
+[5-7], and others - have been developed in the USSR. 0! these extracting
+agents, alhylbensophenonoxine -- A)? - which has gone through full-scale tests
+and has heen recs-ended for co-erciel adoption [8] -- has been studied in
+
+the greatest detail.
+
+In spite of the fact that extraction nethoda are already being enployed in the
+copper industry abroad, the search for new. lore efficient and cheaper reagents
+is continuing. at considerable interest, for angle. is an evaluation of the
+influence of the structure of an oxyoxine on its extraction properties. For
+ex-ple. introduction of a chlorine atoa into the nolecule of the Lix 70 re-
+agent has the result that copper extraction can he sccoaplished fron mre
+
+acid solutions “Balm-1.5). It therefore was of interest to exanine the
+properties of alkoxyoxines containing an oxygen eton. which can increase the
+stability of the copper cosplex with the oxyoxine (ADM-l and AOBP-Z). Finally,
+the presence of two oxyoxine groupings in the extracting agent nolecule can
+
+lead to an increase in the copper extracting capacity of the extracting agent
+(OKFO).
+
+In this article we shall exanine the extraction properties of the following re-
+agents, which are were of the class of oxyoxines:
+
+Io-alk (Cy-Cg) oxy-Z-oxybensophenonoxiae (AOBP—l);
+
+27
+
+FOIOFFICIALUSEONLY
+FT”!(HWW(1AI.USE‘DNLN
+
+6-alk (Cy-C9) oxy-2-oxyphennaphthenyloxise (asst-2);
+bis-(6-oay-S-caprinophenoxiae)-2.Z-propane (OKIO).
+
+he used specinens of r .gents containing not less than 95-97 percent of the
+principal substance. All reagents are viscous liquids of a dark brown color.
+with a density of 0.92-0.96 g/cn3. The reagents anarzi and A088-2 are readily
+soluble in kerosene, and the reagent OKPO - in s nixture of kerosene plus
+
+20 percent octyl a1;nhol. The viscosity of 10 percent (by values) solutions
+
+of these reagents in appropriate organic solvents vaa (1.50-1.95) x 10'2n2/s at
+JO'C. Preli-inary tests established that in 2-3 sinutec of phase airing. extrac-
+tion of copper into organic phase is not less than 90-95 percent.
+
+0! the greatest interest is extraction of copper fron sulfate solutions. It
+
+is evident free the figures in Table 1 that the tested reagents possess a
+
+fairly high copper capacity and selectivity as regards principal iapurities,
+which are not inferior to the properties of A8? reagent. At the ease tine re-
+agent AOBI-l is even sonevhat superior in these properties to Ali. and therefore
+we shall subsequently era-ins in detail the principal properties of precisely
+this reagent.
+
+Table 1. Distribution of Copper and Inpurities During Extraction by 10 Percent
+(by Volule) Solutions of Oxyoxines in larosene (0:3-lzl) and Re-
+extraction by 20 Percent Sulfuric Acid (0:3-1:1)
+
+Solutions pH Content 1
+Cu 11 Fe 111 Zn 11 ni 11 Co 11
+
+ 
+
+Initial
+
+Refining
+
+Agent: 2.01 2.3 0.85 1.72 1.68 0.81
+
+OKFO 1.68 0.76 0.86 1.70 1.68 0.81
+
+AOBP-Z 1.66 0.79 0.83 1.71 1.66 0.80
+
+AOBP-l 1.63 0.62 0.86 1.72 1.67 0.81
+
+A8? 1.65 0.67 0.82 1.71 1.67 0.81
+
+Rsextract:
+
+OKFO - 1.69 0.05 0.05 0.06 0.005
+AOBP-Z - 1.56 0.07 0.05 0.02 0.005
+AOBP-l - 1.68 0.06 0.03 0.03 0.005
+A8? - 1.66 0.06 0.06 0.03 0.005
+
+As a rule sulfate solutions for leaching copper-containing ore have a pH of
+1.5-3.0. in this case the deter-thing factor in selective separation of copper
+free iron, as the principal inpurity, is the acidity of the aqueous phase.
+Separation of copper and iron takes place nost efficiently vhen pﬂ-1.0-2.0
+(Figure 1).
+
+Renoval of copper and iron inpuritiea fron nickel electrolyte is a couple:
+technical problen. During extraction with enploynent of alkoxybenrophenon-
+oxiea with pa-S. copper and iron pass into organic phase, while virtually no
+nickel is extracted. Reextraction of the copper from organic phase is
+accomplished with a solution containing 150-200 gll of 32505. uhereby
+
+28
+
+FIHRGIWWCJAI.USE10NLV
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure 1. Influence of pa ov extraction (I) - degree of extraction) fro-
+aulfate aolntiona -- copper 1. iron 2. nickel 3. and cobalt 6. by A0" colu-
+tione in keroaene. Initial aqueona phaae, gll: 1.2 Co; 2.0 Peal); 5.83 hi,
+0.85 Co
+
+ 
+
+reextracta are obtained, on which electrodepoaition of copper can be per-
+toned.
+
+Studies have ahown that the principal nechanialo of extraction of netala by
+alkoxybenzophenonoxina tron aulfate and anlfate-chlorida aolutiona are sinilar.
+Copper ia extracted at p850: extraction (pl! at which “-1), equal to 1.2 for
+eulfate and 1.0 for aulfate-chloride aolntiona. Extraction of the other netale
+tahea place in the following acqnence: iron-nichol-cobalt-nanganeae-zinc
+(Table 2).
+Table 2. p350; Valnaa of lietala in Extraction by a 10 Percent (by Volume)
+aolution of A03! in Ietrachlorethylene
+
+natal Sulfate Solution. Sulfate-Chloride Solution“
+Cu 1.2 1.0
+Fe 2 . 5 2 . 3
+hi 5. 7 6.6
+Co 5 . 8 6. 7
+Mn 5.8 4.7
+Zn 5.9 5.0
+
+’I 50 371 aulfate ion concentration.
+H 60 g/l aulfate ion, 10 gll chloride ion concentration.
+
+ 
+
+In the case of aulfate-chloride eolutiona, the page; value. are displaced into
+the nore acid region. Thia ia probably connected with the uiatenca of
+chloride or anlfate—chloride groupa in ouch aolutiono, which are better ex-
+tracted by oxyoxine than netal eulfatea.
+
+uploynent of tetrachlorethylene aa a diluent pravanta the fornation of a
+second organic phase, which ia connected with the high aoluhility of conplexea
+of copper or other netala with oxyoxinea in diluenta of thin type. In addition,
+
+29
+
+MWLIJSEONLV
+FOR OFFICIAL USE ONLY
+
+«ploy-ant of this diluent askes it possible to extract aetals froa nore acid
+solutions than with the eaploynent of a solution of A031? reagent in kerosene.
+For exaaple. with extraction of copper fron sulfate solutions of 10 percent
+(by volt-e) alkoxybenrophenonoxins in kerosene. ﬁlm-1.65, while in
+tetrachlorethylene , pasoz-l. 2 .
+
+0f practical significance is the separation of copper and zinc when they are
+both present in sulfate and sulfate-chloride solutions. Extraction of zinc and
+cadniun by oxyoxines, even when pin-s, is quite insignificant (razom). which
+aakea it possible selectively to recover copper fron such solutions by
+extraction. The extraction process can be used to renowe copper fro. ainc
+electrolytes and to treat copper-chlorine cake in the production of zinc.
+
+Ansonia nethode of processing copper- ad nickel-containing ore are of in-
+terest. Processes of extracting copper [9) and nickel [10] fro. a-onia solu-
+tions with oxyoxines used as extracting agents are in practical use at the
+present tine. One can encounter in industry anonia solutions with a fairly
+high content of carbonate. sulfate and chloride ions. Concentrations of copper,
+nickel, and cobalt in these solutions can vary across a broad range.
+
+I
+100
+M
+
+  
+ 
+
+M
+
+[n.1, m
+
+Figure 2. Relationship between extraction of copper l. nickel 2, and cobalt 3
+froa an .onia concentration for an A031? solution in kerosene.
+
+Aqueous phase. gll: 1.1 Cu; 3.6 Ni; 1.2 Co; 10 003'
+
+ 
+
+As is evident fron Figure 2. change in s-onia concentration in s-onia-
+carbonate solutions has practically no effect on extraction of copper, while
+nickel distribution factors increase fro- l to 10. and extraction of cobalt in-
+to organic phase is quite negligible «demon-0.003). Consequently.
+selective separation of copper and nickel fron cobalt during extraction fro-
+n-onia-carbonste solutions is possible. The slight influence of changes of
+concentrations of main nakes the process of extraction of copper and nickel
+
+easily controllable.
+
+The concentration of carbonate ion in the aqueous phase has practically no ef-
+fect an extraction of copper, which is extracted by 10 percent (by volune)
+AODF-l with a high Q (>100). Extraction of nickel decreases smoothly with
+
+30
+
+FOR OFFICIAL USE ONLY
+an increase in con entration of carbonate ion: for solutions with a 003' -10 g/l.
+ltd-10. and for [ 1-60 gll - [4-1 (a-onia content 50 g/1). Thus in the case
+of mania-carbonate solutions. the separation factors of copper-cobalt and
+nickel-cobalt pairs are large across the entire range of change in carbonate
+
+ion concentration. For «sale, with a carbonate ion concentration of 40 3/1
+and anonia 50 g/l. para-16.000. and 3.1143,:350. This nkes it possible
+selectively to recover copper and nickel froa the aqueous phase. Separation
+
+of these netals can be accolplished at the reextraction stage. A sulfuric
+
+acid solution at a concentration of 50-80 g/l is used for resurrection of
+nickel. and 150-300 g/l for copper.
+
+Extraction of nets;- froa a-onia-sulfate solutions has certain peculiarities.
+For exeaple. an increase in the a-onia concentration leads to suppression of
+copper and cobalt extraction. while nickel is extracted by oryoxiae [l] in a
+fairly narrow range of anemia concentrattns (30-80 gll), with Kd-Z-h. The
+metal separation factors reach saxima values with fairly low a-onia con-
+centrations (to 60-60 gll).
+
+I
+
+m i
+
+70
+
+to
+
+m ’
+
+0,0 M m on
+toad. m
+
+Figure 3. Relationship between extraction of nickel 1 and cobalt 2 froa a
+calciua chloride concentration for an A0” solution in kerosene. AqueOus phase,
+3/1: 4.6 Ni; 1.5 Co; 90 M3 (bond)
+
+ 
+
+Sulfate ion concentration in the aqueous phase does not greatly affect ex-
+traction of copper: Rd: 10 in the range 50-250 g/l of sulfate ion. Extraction
+of nickel increases with an increase in sulfate ion concentration, while
+extraction of cobalt decreases. Bxperinental data indicates that with the aid
+of alkoxybenrophenonoxiae [11 one can selectively recover nickel and cobalt
+froa anonia-sulfate solutions with high sulfate-ion concentrations (>150 g/l)
+and comparatively low a-onia concentrations (< 60 g/l). In these conditions
+cobalt renains in solution.
+
+Recovery of netals fron anemia-chloride solutions has been exsnined in the
+example of nickel and cobalt. with a constant concentration of calciun
+
+chloride (~150 g/l). change in the sunnia content in aqueous phase does not
+lead to a substantial change in extraction of nickel and cobalt. Throughout the
+entire investigated range of anaonia concentration (60-120 g/l). nickel distribu-
+tion factors rennin high (ltd; 100). and cobalt -- low (lazOJ). This sakes it
+possible to separate nickel and cobalt with [33900-1000. Calciun chloride
+
+31
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+concentration also has little effect on the coefficients of distribution of
+nickel and cobalt (Figure 3). Thus nickel and cobalt can easily be separated
+with extraction by oxyoxias [1] also in the case of sulfate-chloride solutions.
+Conclusions. 1. The high selectivity of recovery of copper fro. eulfete and
+sulfate-chloride solutions with the eqloy-ent of slkoxybentophcnonoxiae so
+extracting agent hae been shown.
+
+2. The possibility of separating copper, nickel and cobalt iron as-
+aonia-carbonate and a-onia-eulfate solutions by neans of extraction by
+alkogbenuphenonoxiu has been established.
+
+3. lickel. during utrection fro- a-onia-chloride solutions. transi-
+tions to organic phase with high coefficients of distribntion. while cobalt
+renaina in aqueous phase.
+
+BIBLIOGRAPHY
+l. Hut. 0. 5. am. IND“ No 17. 1977, pp 706-712.
+2. Van der zeeuw, mm. Vol 30, lo 6, 1977, pp 30-37.
+
+3. Probert. ‘l‘. 1.. and Richards, K. 1., Pace. 1830. Vol 2. 1980. Liege. Belgim.
+pp 80-228.
+
+6. user. I. 1.; Giganov. G. P.; and Redneva. Ye. 31., rsvmm METAL“, No 2.
+1976. pp Zb-ZS.
+
+S. Laskorin. I. IL; Ul'yanov. V. 5.; end Sviridova. R. A.. rsvmmn mum.
+I70 10. 1972, pp 17-18.
+
+6. Laskorin. B. 11.; Ul'yanov, V. 8.; Sviridova. l. A.; and Akinove, I. 0..
+TSWB “FULLY, No 6, 1975. pp 26-28.
+
+7. Laokorin. 3. IL; skorovarov. D. 1.; Shatalov. V. V.; et a1, 13m
+mum. Ito 6. 1971, pp 19-21.
+
+8. Trevkin. V. 1.; Ivanov. A. V.; Yakshin. V. V.; et sl, TSVB‘IIIYYB MAL“,
+lo 11. 1979. pp 26-28.
+
+9. Kuhn. H. C.. CMJIIN. MD at. b .. Vol 67. 11, No 762. 1976. pp 62-73.
+10. CI“ BULLET“. Vol 67. Rio 7402. 1976. pp 82-86.
+COPYRIGB‘I': Irdatel’stvo "Hetellurﬂya", ”TSVBMYB MY", 1982
+
+3026
+(:80: 81“ I 1166
+
+32
+
+”WIMONLY
+MATERIALS scmcs ms
+
+UDC 66.017
+
+5013 DIRECTIONS ?08 0mm or was sum 0? MATERIALS
+Moscow VESTNIK WWII “AUX SSSR in Russian No 1. Jan 82 pp 47-56
+
+[Article by Ch.v. Kopetsxiy, corresponding member. 0881! Mada-y of Sciences. and
+LP. Vyatkin. candidate of physical and mathematical sciences]
+
+[Text] The solution of problems related to the creation of materials with given
+physicochemical and mechanical properties determines the progress being made in many
+branches of technology and the national economy. In connection with this, there are
+heightened requirements for the development of the science of materials as a field
+of knowledge that has been called upon to provide scientific substantiation and
+practical recommendations for the creation and utilization of new and the production
+of traditional materials with extremely good characteristics. One of the main goals
+is to investigate the surface of materials. which has a definite effect on a materi-
+al's properties and the nature of the processes taking place when articles made from
+it are being used. The rapidly growing flow of scientific publications in this
+field has resulted in an extraordinarily broad spectrum of practical problems. the
+successful solution of which is directly related to understanding the properties of
+a surface. the progressive development of methods of investigating it. and the emer-
+gence of new. highly effective methods for treating both the external and internal
+surfaces of \aterials. In this article we discuss several of the areas of investi-
+gation in the science of materials that have been developing most actively in recent
+years.
+
+The traditional object of the science of materials is metal. The knowledge that has
+
+been amassed in the field of the science of materials makes it possible to formu-
+late, in particular. the following conclusion: in order to provide metal articles
+
+with the hast mechanical properties. it is necessary to create a given macro- and
+nicrostructure with a controllable chemical composition. including that of any al-
+loyed material; in connection with this. in most cases it is important to have chem-
+ical and structural uniformity.
+
+It is a well known fact that a metal polycrystalline aggregate is characterised by a
+ramified system of internal surfaces: these are the boundaries of the grains. on
+which intergrain. internal adsorption of impurities--primarily harmful ones--active-
+1y develops. In this case, the grains' boundaries obviously become the weakest
+place in the material. Censequently. for a generally invariable content of harmful
+impurities in a metal. reducing the size of the grain--that is, increasing the over-
+all area of the grain boundaries-«must result in a reduction in the impurity content
+per unit of grain boundary area and an increase in the material's three-dimensional
+strength. -
+
+33
+It”!(lﬂﬂ€141.lﬂﬂi(ﬂ1l¥
+FOR OFFICIAL USE ONLY
+
+     
+
+$33 Per this purpose we are developing differ-
+ent methods for treating metals that are
+‘0 realized during crystallization from the
+liquid state and during processing of a
+3° metal in the solid state. They include.
+,0 for example. the use of ultrasound in the
+zone of crystallization of a steel ingot in
+«0 continuous casting units. which results in
+a reduction in the size of the grain that
+vooo .9... "00 no use mo .0 is accompanied by an improvement in the
+Figure 1. Dependence of iqact strength characteristics.
+strength on temrature: 1. after
+treatment with ultrasound during rigure 1 depicts the dependence of ispact
+crystallization: 2. without treatment strength a): on tesperature for a piece of
+with ultrasound. steel subjected to such treatment (curve 1)
+
+and a piece cast without the use of ultra-
+sound (curve 2). The equiaxial. small-crystal structure that is typical of an ingot
+treated with ultrasound. instead of the coarse-grained dendrite structure that is
+obtained by standard technology. provides» as is obvious from Figure l--a twofold
+increase in impact strength.
+
+A substantial reduction in grain size in the solid state (for steels. in particular)
+is also possible when other metal treatment methodsuincluding detonation and re-
+crystallisation processes with repeated heating and cooling--are used. because of
+phase recrystallization (including phase cold hardening during rapid heating). Such
+treatment proved to be particularly effective for the pipe steels for the main high-
+pressure pipelines that are used in the northern regions of our country. For in-
+stance. the method of cyclic (three or more cycles) heat treatment with heating
+rates of lo deg/s and cooling in water after each cycle makes it possible to obtain
+a material with a grain size of 3—5 um (13th ball). which results in an increase in
+impact strength and a lowering of the fracture transition temperature. When l7GlS
+steel in treated in this way. its impact strength is increased from 6 to 10.5 )ug/cm2
+(when tested at 40°C).
+
+In the limiting case. the small-crystal structure can be represented as amorphous.
+Right now, intensive work is being done to develop different methods for hardening
+from the liquid state for the purpose of obtaining an amorphous or extraordinarily
+small crystalline structure. In order to do this. it is necessary to achieve cool-
+ing rates of 106-107 deg/s. The interest in such materials is huge. since they dem-
+onstrate new and unique properties. for example. for compounds of the Pe-P-C and
+Pe-Cr-P-c types. the maximum strength °B is 310 and 385 kg/s-z. respectively. while
+filaments with an amorphous structure that are made frou the alloy P960036m6328
+have 03 u 450 kg/l.2 and. in addition. are very hard and resistant to wear1 (the
+level of hardness for “80320 reaches 4,100 kgf/uz). The mechanical characterist-
+ics of amorphous alloys are extraordinarily sensitive to a change in the alloy's
+composition. for example. replacement of part of the iron in the alloy "80":7‘913
+with titanium, vanadium. chromium or manganese leads to an increase in its micro-
+hardness from 750 to 850 kgf/mz. However. the introduction into the alloy of such
+
+ 
+
+1See: Duhay. 9., Sitek. 1.. Prejsa. m. and Butvin. p.. ms. 5m. s01... Vol 35m.
+No 1. 1976. pp 223-233.
+
+3‘
+
+FORWUSEONLY
+«lvwmts as cobalt nickel or copper results in a lowering of the microhardness val-
+nor-:1 to 650 my .
+
+The detonation mechanism of such alloys is interesting. Hhen stretched they are
+subject to brittle failure. whereas during compression or flexure testing a high deo
+gree of plasticity is seen. Por example. bars made from the alloy Pd-rLs-Cue-Silsj
+that are 2 am: in diameter can be rolled into strips that are 0.1 II thick. The high
+plasticity of amorphous materials makes it possible to produce deformable tapes from
+brittle materials, such as hu—Si and hu-Ge solder and other solders used in elec-
+tronics to join stainless steels and heat-resistant alloys (NiagCrsi'e3814Sie).
+
+Rapid hardening from the liquid state. which eliminates segregation effects almost
+completely. provides both a uniform chemical composition and a homogeneous structure
+in the solid state. The absence in amorphous metal alloys of defects of the type of
+grain boundaries. dislocations and so on. which are typical of a crystalline struc-
+ture and are sources for the origination of corrosion processes. provide these ma-
+
+terials with good anticorrosion properties. In the present literature there are
+description of many experimental facts that note for amorphous alloys either a com-
+
+plete lack oi corrosion losses or a reduction in them in comparison with crystalline
+alloys having the same composition.
+
+The magnetic characteristics of amorphous alloys are extremely good: high magnetic
+permeability and low coercive force. while the magnetostriction of the saturation of
+a number of alloys reaches previously unachievable values (6 5°10”) . Thanks to
+these properties. amorphous materials are extremely promising for the production of
+magnetic circuits, transformers and motors (instead of texturized ferrosilicon). the
+magnetic circuits of magnetic recording heads. magnetic screens and so on.
+
+Thanks to the development of methods for directed action on the external surface of
+materials in recent years, it is now possible to solve on a qualitatively new level
+the well known problem of insuring the optimum relationship between the surface's
+properties and the bulk of the material. Here we are talking about the intensive
+development work that is being done on methods involving laser treatment, ion doping
+and modern methods for creating special coatings. The use of these surface treat-
+ment methods makes it possible to raise the level of the mechanical and physico-
+chemical properties of material surfaces and achieve fundamentally new effects that
+are expanding substantially the boundaries of the practical utilisation of such ma-
+terials.
+
+Surface treatment with lasers is being introduced intensively in various technologi-
+cal methods for treating materials. We should also point out the extensive intro-
+duction of laser technology in the automobile industry and other branches of machine
+building. which is being can; ed out under the leadership of Academician Ye.P.
+Velikhov. when the treatment modes are varied, it is possible to realize different
+mechanisms for strengthening material surfaces. For instance. by partially melting
+the surface of a piece that is being worked. rapid cooling causes the effect of re-
+duction in grain size to be achieved. when working without partial melting, mechan-
+isms typical for traditional hardening methods are realized. he Academician v.0.
+Sadovskiy points out. phase cold hardening plays the basic role in them.
+
+ISN‘: Hasumoto, Tu SCIENCE REPORTS JUST NHOKU UNIV” Vol 26A. No 4/5: 1977: PP
+246-262.
+
+35
+FOR 0mm USE ONLY
+FOR OFFICIAL USE ONLY
+
+Laser chemicothermal treatment, or laser doping, offers extensive prospects for the
+creation of materials with unique properties. Hith the help of treatment of this
+type. by using the effect of rapid melting and hardening it is possible to introduce
+into the surface layers of steel the most variegated calponents in cosbinations and
+quantities that cannot be achieved by standard chemicothermal treatment methods.
+
+“'0 9
+
+    
+
+    
+
+      
+
+.5 .0 lb 0 l
+0.6 to 3.3 10' 25 “(1) 0 | 3. l’ -(1)
+
+Figure 2. Change with depth of hardness of steel (left) and coaposition of
+alloying ccaponents (right) after laser chemiootheraal treatment.
+
+Key: 1. Depth. an 2. Composition. Q
+
+When the treatment mode parameters (radiated power and duration of the effect on the
+zone being treated) are chosen appropriately. it is possible to create a given
+structure in the surface layer of a material. For instance, when fusing together a
+powder with a complex cuposition (Ho. Cr. Ni, Si and chronium carbide). using .
+continuous €02 laser with a radiated power of 8-10 ha and an exposure time of about
+1 s, in the surface layer of low-carbon steel a structure that insures a fourfold
+increaie in hardness (Figure 2) and has a ramified system of micropores is ob-
+
+Such a structure. as is well known, insures the maximum wear resistance
+for the parts of a friction assembly that are functioning under hydrodynamic fric-
+tion conditions.
+
+When creating laser treatment (in the pulsed mode. for example) conditions that in-
+sure the hardening rates needed to obtain amorphous alloys from the liquid state, in
+alloys of the Pe-B-Si type it is possible to create a thin surface layer (about
+10-15 um thick) with an amorphous structure. The nontriviality of this statement is
+based on the fact that the amorphous phase exists in direct contact with a crystal-
+line phase having the same composition.
+
+At the present time there already exist quite a few publications describing the use
+of laser thermal and chenicothermal treatment to improve such operating properties
+as wear and corrosion resistance. thermal stability and so forth. In connection
+with this. the basic advantages of the laser treatment of materials over furnace and
+induction heating catsist of the possibility of carrying out effective surface ther-
+nal treatment with a high productivity rate, including the possibility of local
+
+ 
+
+ 
+
+1800: Pelmondo. A” and Castagna, H" ‘1'!!!“ SOLID runs. V01 64, 1979. pp 249-256.
+
+36
+POI OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+thermal strengthening of given sections of a surface with mir imal distortions of the
+geometry of the surface being treated and minimal thermal stresses. The latter fact
+is particularly important when treating precision parts with complex shapes and ar-
+ticles made of cast iron. At the sue time, energy consumption for the heating of
+the inner bulk of a material, which is not being strengthened, is eliminated.
+
+Laser chemicothermal treatment opens the possibility of the widespread replacement
+of expensive alloyed steels with simple carbon ones. Nevertheless. the present
+stage of development of this method can be characterised as the initial one, con-
+sisting of the accumulation of experimental facts. The quite thorough science of
+materials analysis of phases and structures that are obtained and the determination
+of the general rules governing their formation and evolution--in a word. everything
+that has been developed for traditional thermal treatment methods--is now of no val-
+ue. This area is still a ”blank spot“ in science of materials.
+
+This applies to equal degree to methods f -r
+treating materials using ion doping. It
+now firmly implanted in technological meth-
+ods for the creation of modern semiconduct-
+ing instruments, but in the field of metal
+treatment only the first steps have been
+taken. The well-known skepticism with re-
+spect to implantation metallurgy. which is
+usually related to the shallowness of the
+effect on the material (no more than sever-
+al thousand angstroms) and the relatively
+complicated and expensive equipment, is
+disappearing rapidly because of the exten-
+sive possibilities of the treatment method.
+Ion doping makes it possible to introduce,
+in the required concentration, any admix-
+ture in any material at any temperature to
+a given (within the capabilities of this
+
+      
+
+o
+9
+
+o 1.2 2.4 so As method) depth. As a result. it is possible
+: vauueuQ) to obtain states in the surface layers of a
+Figure 3. Dependence of rate of nor- material that are fundamentally impossible
+malised wear of stainless steel on to realize by such traditional methods as,
+slippage distance: a. unimplanted for example, cementntion and nitriding.
+sawles; b. implanted samples.
+Key: 1. Normalized wear rate A large part of the different uses of ion
+2. Distance, km doping are related to improving the mechan-
+
+ical properties of the surfaces of metals.
+This means, primarily, increasing the wear resistance and fatigue strength. For in-
+stance, when stainless steel is doped with carbon. boron. nitrogen. titanium or a
+combination of titanium with one of the named metalloids. the wear resistance of
+test pieces is increased by a factor of 100 (Figure 3)1. In connection with this it
+turns out to be essential that the effect of the increase in wear resistance pene-
+trates to a depth many times greater than that achievable with an implanted ion.
+
+ 
+
+15cc: Hirvonen, 1.x., et al.. rum soup FILMS. Vol 63, 1979. pp 5-10.
+
+37
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+This phenomenon is related to radiation-stimulated diffusion, which is well known
+from the science of irradiated materials and which consists of a significant (up to
+several orders of magnitude) increase in the diffusion coefficients of a material's
+components when radiation defects are introdu-ed into it. During ion doping. when
+the ions' energy can reach 200 kev and the dose is about 1013 ions/c1112. a signifi-
+cant concentration of radiation defects is also achieved. In addition to this. when
+materials undergoing wear tests are subjected to friction, quite high temperatures
+are realized at the interacting pair's area of contact, which leads to an increase
+in the mobility of a material's different components and complexes of them contain-
+ing radiation defects. .Radiation-stimulated diffusion and the local increase in
+temperature at the point of contact result. therefore. in the propagation in the
+body of a test piece of a dose of initially introduced ions. the maximum concentra-
+tion of which is reached at a depth of 500-1 .000 K in the irradiation zone. depend-
+ing on the nature and energy of the ions.
+
+As far as the detailed mechanism of the process of increasing wear resistance is
+concerned. because of the insignificant amount of experimental data from investiga-
+tions of composition and structure. it is still quite difficult to draw even quanti-
+tative conclusions. It should be mentioned here that even in materials not doped
+with ions this multifaceted mechanical process. which is composed of different
+physicochemical phenomena. has not yet had any clear description at the atomic lev-
+el. This applies, in equal measure. to the understanding of the phenomenon of an
+increase in a material's fatigue strength after ion doping.
+
+Ion doping is also extremely promising from the viewpoint of increasing the corro-
+sion resistance of materials. In the first place. it is possible to achieve high
+corrosion resistance values because of the creation in the surface layer of com-
+pounds with new physicochemical characteristics. It is obvious that such is the
+case when titanium is doped with palladium. when the treated material's resistance
+to corrosion1 increases by a factor of more than 1.000. In the second place. when
+the material to be irradiated and the doping ion are chosen appropriately. along
+with the energy and intensity of the irradiation. in the treated material's surface
+layer there appears an amorphous state that is also characterized by increased cor-
+rosion resistance (as is the case for amorphous alloys produced by hardening from a
+liquid state). The possibility of obtaining amorphous states by ion doping methods
+is also interesting because it can be realized for even pure metals. This has now
+been achieved in practice for the following systems: copper implanted with tantalum
+or tungsten and iron implanted with tantalum. me distinctive property of such
+amorphous states is their high thermal stability. for example. a Cu-H system does
+not lose the characteristics of an amorphous structure even when it is aged at 600'C
+for 1.5 h.
+
+As in the case of amorphous layers obtained by laser treatment methods. during the
+creation of ion-doped layers. the amorphous surface layer coexists with the crystal-
+line state without any disruption in continuity. In both cases the transition from
+the amorphous to the crystalline state apparently takes place through a series of
+intermediate states. This type of structure is of extraordinary theoretical inter-
+est, since it can give information about the nature and evolution of the amorphous
+state. which is of importance for the practical utilization of amorphous materials.
+
+—.___.—————
+
+1'l‘oumshev. N.D.. Guseva. H.I.. et al.. DOKL. AN SSSR. Vol 256. No S. 1981. pp 1129-
+1133.
+
+38
+
+FOR OFFICIAL USE ONLY
+_ “a. BLgIILl-luﬂllbc uaacaw u, av" wy‘ll" “nan-"3,
+
+methods is the creation of complex surface compounds that cannot be produced by tra-
+ditional methods. including methods for hardening from a liquid state and direct ion
+
+doping methods. since the ion doping process is accompanied by atomization of the
+basic material. for sufficiently large doses a state is reached where no further in-
+
+tration in the substrate is limited to a certain value. In crder to achieve a high-
+er level of concentration of a required ion in a given substrate, the process is
+
+A thin (on the order of several hundred
+angstroms) layer of the material that is
+needed in order to obtain the required com-
+pound in the surface layer is first applied
+to the substrate's surface in any manner.
+such as by thermal evaporation in a vacuum.
+This two-layered composition is then ir-
+
+gee radiated by flows of ions of . for example.
+
+a an inert gas. As a result of the complex
+
+93-0 processes occurring when the gas ions col~
+
+i lide with the atoms of the applied surface
+. 33.7 layer. as well as the dissipation of the
+
+implanting layer's energy, the applied lay-
+er mixes with the material of the basic
+substrate and compounds with different
+stoichiometric compositions are formed.
+
+    
+ 
+
+”’0 so 40 00 so too This method is now the only possible one
+A. «x u. N- for obtaining, in a solid state, alloys
+Figure 4. Dependence of lattice pa- with a uniform distribution of components
+rameter of metastable solid alloys in a broad area of concentrations of sys-
+formed by ion-beam mixing, at differ- tens characterized by limited solubility
+ent temperatures. from an initial both in the liquid and the solid state.
+
+film composition: a. G‘i‘sK [possibly For example, for an Ag-Ni system the maxi-
+face-centered cubic) solution based mum equilibrium solubilitv in the solid
+on Ag: b. G‘rsK solution based on Ni. state is 0.1 at. \ Ni in Ag at 960°C and 2
+Key: 1. Lattice parameter. X at. t Ag in Ni near the monotectic tempera-
+2. (Vegard's) Law ture of l,435°c. Over a broad interval of
+compositions. in the liquid state this sys-
+tem is subject to lamination beC'use of the limited solubility of the components in
+each other. When the ion-beam mixing method is used on a multilaer composition con-
+
+20-100 X and the total thickness being 800 i, when xenon ions with an energy level
+of 300 kev are used it is possible to obtain solid, homogeneous alloys throughout
+the entire interval of concentrationsl. An analysis of these alloys showed (Figure
+4) that there are two phases present. in them: a solution based on Ag and a solution
+based on Ni, differing not only in the parameters of the crystalline lattice. but al-
+so in other properties. in particular the dependence of the Ni-based solution's lat-
+tice parameter on the temperature at which the alloy was formed.
+
+_—_________
+1500: Tsanr, a.v., and Hayer, I.w.. apps. pays. LET'I‘., Vol 37(4), 1930, pp 389-392.
+39
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The prospects for using ion doping to create materials with special properties are
+extremely good, and it is already clear that they are far from being exhausted by
+the exawles given above. morefore, the science of materials aspects of this meth-
+od of treating material surfaces are becoming the determinant ones for the introduc-
+tion of ion doping in practice.
+
+The first investigations of the properties of ion-doped layers already show that
+with this method it is possible to obtain the most variegated structural states and.
+in particular, stable solid solutions that are typical of equilibrium conditions for
+solution formation. For examle, an Au-Ag system forms a continuous series of solid
+solutions both for standard methods for the formation of these alloys and when ion
+doping is used. However, for systems characterised by limited solubility in the
+solid state, such as Cu-Ag, the solubility limits are enlarged considerably: in oth-
+er systems there appear different metastable solutions of a substitutional as well
+as an interstitial nature. The regularities governing the formation of these solu-
+tions are not subject to the known rules of alloy formation, although to formulate
+new rules is still impossible, since only single binary systems have as yet been in-
+vestigated. The theoretical analysis of this problem is quite complicated. because
+along with the physicochemical properties of the elements forming the alloys it is
+necessary to take into consideration the effects caused by the alloy formation pro-
+cess itself . such as the formation of radiation defects, replacement collisions and
+so forth.
+
+Among the methods for directed action on the surface of solids, the creation of
+coatings is new the one most cosmonly used in practice. In connection with this,
+along with the traditional methods (diffusion, galvanic and so on) intensive devel-
+opment work is being done on new ones: plasmochemical, magnetronic vaporization
+methods, various methods for ion-beam deposition of coatings and so on.
+
+Progress in the development of these methods is related to the possibility of creat-
+ing. with their help, coatings from materials from a broad class, ranging from sim-
+ple materials to complex composition and compounds that determine, in turn, the var-
+iegated spectrum of properties of these coatings and make it possible to use these
+materials in the most widely separated areas of the national economy, from machine
+building to the production of the very smallest instruments used in medical technol-
+ogy and the submicron elements of semiconducting instmnts and superconductors.
+
+Industry--particular1y different branches of machine building and the machine tool
+building industrynis now making extensive use of coatings to increase both the wear
+resistance and fatigue strength of friction assesbly parts, as well as the wear re-
+sistancc of cutting tools. As a rule, the materials used for coatings of this type
+are compounds characterized, on the one hand, by a high hardness level and. on the
+other, low chemical activity. The choice of coating is determined by the fact that
+in most cases a material's wear resistance is directly proportional to its surface
+layer's microhardness and inversely proportional to its chemical activity. Allowing
+for this, as well as economic factors, the coating most cosmonly used right now is
+
+titanium nitride.
+
+For instance, when this coating is produced under certain conditions, it is possible
+to obtain a microhardness value of about 3,500 hg/mz, in connection with which the
+coating's compositionl corresponds to a eutectic mixture of 50 percent Tin and SO
+
+ 
+
+1See: Yacobson, 8.3., Nil-sajadda, R., and Banshah, ILL, mm SOLID FILMS, Vol 63.
+1979' Pp 333-339.
+so
+
+FOR OFFICIAL USE ONLY
+ope-WI”.
+88
+M
+0
+83...
+z
+.55
+3.?
+“g
+00
+5:
+Q
+'9.
+5.5
+F:
+
+nub. In"
+3
+u
+0
+5
+a
+n
+
+A
+Inc
+w
+
+00:! a esion, m a
+umber of cases multilayer coat‘ngs are
+' 1203. created. e use in the tool inauatry, 1’:
+Key: 1. Depth of wear crater, u example. of. multilayered coatings of the
+me + A1 03 and MC + um
+tools is slgnificant and increaaea t service life 0
+to: of 4-10 (Figure 5). In this case
+material that "
+
+e ion'a ener
+lace. e advantages of this
+continued convincingly by measurements of coating Inlet-alumnus:
+its level is always higher or Couposlte coatings.
+Unique propert
+
+emstrated by 30-1:
+
+alled diam
+methods for
+
+obtaining th
+
+.5.
+
+61
+FOR OFFICIAL USE ONLY
+POI OFFIOAL USE ONLY
+
+cmplex conditions of the cosbined effect of an aggressive nediun and high tespera-
+tures and so on. The effectiveness of their use at the present time and further
+progress in the development of methods for obtaining then depend essentially on our
+gaining an understanding of the formation and evolution of the coatings' structures
+and coqositions, as well as the processes taking place on the interphase boundar-.
+ies.
+
+At the present time, the study of coatings in the science of materials is lagging
+considerably behind their practical utilisation. As was pointed out earlier, this
+applies to all the modern methods for acting on internal and external interfaces
+and is obviously related to the fact that the layers of a material in which substan-
+tial changes take place in both structure and properties as the result of treatment
+with modern methods are extraordinarily thin. Traditional science of materials
+methods for investigating such structures cannot produce the necessary intonation
+about the processes taking place in these layers.
+
+Therefore, further progress in the development of the science of materials as ap-
+plied to thin surface layers must be related to the use of modern methods of surface
+analysis. Quite a few original and smary works devoted to the development and ap-
+plication of nodern surface analysis methods have now been published in both the
+foreign and domestic literature. The spread of these methods to specific science of
+metals investigations is being held up only because of 'a lack of the appropriate
+equipment, since the Soviet tool buil"ng industry has only just begun to develop
+and produce some types of it. The development of the tool building industry for in-
+vestigations in the field of the science of material surfaces will undoubtedly make
+it possible to elevate this research to qualitatively s new level.
+
+COPYRIGHT: Isdetel'stvo 'Nauka". 'Vestnik Akademii nauk sssn". 1982
+
+11746
+C50: 1842/1128 - m '-
+
+62
+
+5'0! OFFICIAL USE ONLY

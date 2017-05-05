@@ -1,0 +1,1277 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10222
+30 December 1981
+
+Worldwide Report
+
+TELECOMMUNICATIONS POLICY,
+RESEARCH AND DEVELOPMENT
+
+(FOUO 20/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation Has summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT [ANS AND REGULATIONS GOVERNING CHEERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+ma OFFICIAL “SF 0‘! \‘
+
+JPRS mm
+30 Decemb
+
+HORLDHIIE REPORT
+Teucommxunous Poucv, RESEARCH AND DEVELOPMENT
+(9000 20/81)
+
+Cameras
+
+SUB-SAHARA" AFRICA
+Dim-AFRICAN AFFAIRS
+
+Kuwait, Tunisia Sign Loan Agreement for Telecomlunications Project
+(HARM TROPICAUI ET HBDITERRANEEIIS, 6 Nov 81)............
+
+0838.
+
+Methods for Locating Breaks in Optical Cables
+(8. H. Vernik, A. H. Kuznetsov; mm, Sep 81).....
+
+Climatic, Mechanical Tests of 'Iztok' Comunication System
+(Ya. Ya. 511111.811; mmmu', &p 81) 0000050050000. 000
+
+Development of Comunications in Belorussia
+(I. "0 Gritsuk; mm‘z" sep 81) OOOOOOOOOOIOOOOOOCUO
+
+Rural Hire Broadcasting Discussed
+(mm‘z', sep 81) OOOOOOOOOOQOOOOOOOOOQCOO00.00.00...
+
+Haws of Developing Rural Telephone Communication, Hire
+Broadcasting
+
+. (Go Honing; W', M 81) clotooooooolooooooloeeoo
+Automatic Telephone Exchange 'Kvant' for Agencies, Industry
+
+Discussed
+(0. "Stalin; WM', 39!) 81) ooeoeooooooeooooooeaoooo
+
+-a- [III-W-l‘OPO
+
+l-‘OROl-TICIALUSEONLY
+Paris HARCHES ThOPICADX ET MEDITERRANEENS in French No 1878, 6 Nov 81 p 2312
+
+[Text] Tunisian-Kuwaiti cooperation, details of which we have reported several times,
+has materialized again. In a ceremony held on 31 October, at the headquarters of
+
+the Arab Fund for Economic and Social Development (TADBS) in Kuwait. the Tunisian
+ambassador to Kuwait, Mohamed Hegdiche. and the president of the fund, Mohamed Imady.
+signed a loan agreement for a total of 3.7 million Kuwaite diners or about 6.675
+million Tunisian diners.
+
+The loan-at a 6 percent interest rate and repayable in 15 years, with a 6-year grace
+period-will be applied to finance the outlay of foreign exchange required to build
+the Tunisian section of the fourth inter-Arab telecommunications project (Algeria-
+Tunisia) with an estimated cost of 6.4 million Kuwaiti diners.
+
+The project envisages expanding and improving the telecoalunications network between
+the Magreb countries with the installation of coaxial cables and multiple: circuits
+for national and international communications.
+
+One should remember that the FADES has already granted several loans to Tunisia and
+these loans total 27.2 million Kuwaiti diners.
+
+It should also be pointed out that, last week, the deputy director general of the
+Kuwaiti Fund, Badr Bl Hamaidi, was in Tunis where he conducted talks with Tunisian
+officials, mainly with Minister of Plan and Finance Hanaour Moalla, on the subject
+
+of cooperation between Tunisia and the Fund, and on ways to increase this cooperation.
+Badr £1 Hamaidi also studied with the minister of transports and communications.
+Sadoh Ben Jones, a project to modernize the basic infrastructure of the railroad line
+between Tunis and Bordj Cedria and he mentioned that four other projects will be
+undertaken in 1982. These projects are: the development of the Oued Siliana region,
+the drainage of the Mateur region. the utilization of waste water for agriculture
+
+in Tunisia and, finally, the building of an asphalt road in Beja. The Kuwaiti Fund
+is reported to be also prepared to finance a project to build a 70-kilometer rail-
+road line between Gabes and Hedenine. This railroad line. where construction work
+
+is scheduled to start next year, will cost in the region of 20 million Tunisian diners.
+
+It was announced in Tunis that the crown prince of Kuwait, who is also the president
+of the Council of Ministers, will pay an official visit to Tunisia this coming
+
+December.
+
+COPYRIGHT: Rene Horeux et Cie Paris 1981.
+
+8796 1
+680: 5500/5003 roe omcm us: ONLY
+METHODS FOR LOCATING BREAKS IN OPTICAL CABLES
+Moscow ELEEIROSVYAZ' in Russian No 9, Sep 81 pp 25-28
+[Article by S. H. Vernik and A. H. Kuznetsov, submitted 6 Aug 80]
+
+[Text] Successful operation of communication lines is determined to a
+considerable degree by the possibility of locating the exact
+point of their break. The solution of this problem is usually
+connected with great difficulties both in developing measurement
+methods, and in developing measuring instruments. Por optical
+cable communication lines (OILS), particularly for long lines
+with an attenuation of the order of 30-60 dB, the solution of
+this problem is connected with additional difficulties caused by
+the complexity of the processes of propagation and reflection of
+light signals in optical fibers (0V).
+
+Let us examine the possible methods of locating the break points
+of 0V and 0x [optical cables] as a whole and particularly the
+methods suitable for using on long lines.
+
+As is known, not any actual breakdown of an optical fiber (0V) totally stops the pro-
+pagation of a signal. For example, a break of 0v with a vertical shear and separa-
+tion of 0V in the cable by 2-5 pm leads only to an insignificant increase in the at-
+tenuation of the signal. Therefore, a break of 0V will be considered a damage at
+which the propagation of light energy stops completely. There exist three methods
+for locating the breaking point in 0V.
+
+The method of measuring light energy radiated into the surrounding medium is used
+for quality control of initial semifinished products -- "moldings" from which 0V are
+stretched, as well as for locating 0V breaks and great (of the order of 2-31) non-
+uniformities. Quality control of moldings is accomplished by probing them with ra-
+diation of a gas laser of the visible spectrum (‘1.- 0.62 pm). Luminescence is ob-
+served at the points of 0V nonuniformity. The quality of the molding can be judged
+by the intensity and the number of the luminescent points. By statistical process-
+ing of the results of visual observations, it is Possible to establish the correla-
+tional connection between the quality of the molding and the 0V nonuniformity.
+
+At the points of great 0V nonuniformities, some of the energy of light signals is
+radiated into the surrounding space. In this case, the measuring signal introduced
+
+FOI'OFFﬂial.USE(HﬂLY
+FOR‘OFFNJAI.USE(NVLY
+
+into the 0V consists of powerful light pulses (of tL: order of 1-3 H) repeated with
+frequency of 1-5 kna. The light signals radiated into the surrounding space are
+picked up by the photodetector of the receiving device and are transformed into
+
+pulses of current (voltage) which are then amplified in the narrow-band amplifier
+which is characterized by a great gain factor and is tuned to the frequency of the
+repetition of the light pulses.
+
+In the process of measurements, 0V moves in relation to the photoreceiver, and the
+intensity of the radiation in it becomes fixed. The function of the distribution of
+the power of the radiated signals along the length of the 0V characterizes the dis-
+tribution of nonuniformities. The CV break point usually corresponds to the high
+amplitude of the emitted signal. As is shown by preliminary results, this method
+can be realized if the dynamic range of the receiving device is 110-160 dB.
+
+The method of measuring intensity of the Rayleigh backseattering is used widely in
+measuring the distribution functions of nonuniformities along OKLS and the attenua-
+
+tion equivalent of 0V and 0K.
+
+L1.- ~21
+
+Figure 1.
+
+The functional diagram of the measuring device used in this method is shown in Fig-
+ure 1. The OKLS S is probed by short (2-5 ns) high-power light pulses (1-2 H) which
+are introduced into the 0! through the differential device 6. The reflected back-
+scattering flux is received on the receiving device 6; the screen of the BET [elec-
+tron-ray tube] 7 (or some other indicator) shows the dependence of the intensity of
+the backscattering flux on the length of the line (or the time of signal propagation),
+as well as the point of 0V nonuniformities. The point of 0v break is characterised
+
+by a sharp drop of the scattering power.
+
+The main drawback of this method is the low level of the backseattering flux, which
+makes it impossible to use this method for locating breaks in long OILS due to insuf-
+ficient sensitivity of the receiving device. Moreover, in the presence of relative-
+ly great nonuniformities (which is the case at the existing level of the manufactur-
+ing technology of 0V and 0K), tLB power of the counter flux of light pulses could be
+considerably higher than the power of the Rayleigh scattering flux. This distorts
+the results of measurements.
+
+The location method of determining breaking points of 0V is identical to the pulse
+method of measuring the distribution functions of nonuniformities which is widely
+used on cable communication lines.
+
+FINICHHHC£A1.USEIJNLY
+Figure 2.
+Key: 1. Break
+
+The functional diagram of the measuring device used in the location method is anal-
+ogous to the one shown in Figure l. The generator of sounding light pulses l of
+5-10 ns is triggered by the electronic driving oscillator 2 which, simultaneously or
+with some delay (‘75 ), triggers the scanning generator of the BLT 3. The sounding
+pulse passes through the differential system A to the 0V 5 being measured. Part of
+the energy reflected from the 0V nonuniformities creates a reverse light flux which
+arrives at the photodetector 6 and transforms into voltage pulses. having been am-
+plified in the amplifier 7. they are delivered to the vertical plates of the BET,
+causing the deflection of the electron beam upward or downward along the axis y from
+the middle line. The arrival time of the reflected pulses is registered in the
+scale of the scanning time s(t) which can easily be converted into the distance, km,
+to the place of reflection (Figure 2):
+
+1-0.58 (1)0. (1)
+
+where v is the light energy propagation speed.
+
+The breaking point is determined by the distance x beyond which the reflected pulses
+do not arrive to the receiving device.
+
+The main difference of the parameters of the circuit of Figure l which is used for
+measuring breaking points and distribution functions of nonuniformities by the loca-
+tion method from the parameters of analogous circuits intended for measuring the in-
+tensity of the backscattering flux is that the receiving device used in the location
+method has a narrower operating frequency range. This makes it possible to have an
+amplifier of the receiving device with a dynamic range of 50-60 dB. Moreover, as
+was mentioned before. the signals reflected from the nonuniformities and breaking
+points usually are by several orders higher than the intensity of backscattering
+fluxes. Thus, this method makes it possible to conduct measurements on long OILS.
+
+It can be seen from examining the functional circuit of Figure l and the description
+of its operation that it is analogous to the widely known circuits used in devices
+of the PS-type or UIP-type [3] which are intended for studying distribution functions
+of nonuniformities and for locating breaking points of cable conductors as one of the
+great nonuniformities in which the reflection coefficient is equal or close to one.
+his fact is quite important, because it makes it rather simple to design a device
+for locating 0V breaks in the form of an attachment to the series-produced PS-type
+instruments. However, when measuring OK, it is necessary to consider the special
+characteristics of the propagation of optical signals and reflections of optical
+fluxes in CV which lead to the appearance of additional errors.
+
+1;
+FOI:OI1W(JA1.USEIMNLY
+FOR‘OFFKJAI.USFIONLY
+
+Location Method Errors. Optical signals attenuate when they are transmitted through
+0V due to losses in CV, which leads to a decrease in the energy of the sounding light
+pulse H0 at the end of an OK with length L to the value
+
+r:- = r. e«3.21m L . (2)
+where UL is the attenuation factor of 0V, dB.
+
+The energy of the pulse reflected from the and of the line, when it is fully reflect-
+ed. measured at the beginning of the line is
+
+“3;" _ I’. e—( .u-o L (3)
+
+Knowing the attenuation value of the regeneration section of the OKLS or , it
+
+is possible to determine the minimum dynamic range of the measuring de ce a In I
+2 a pep . In order to determine the dynamic range of the measuring device, it i:
+necessary to increase a man by the attenuation, a1 or which characterizes energy
+losses during reflection at a point situated at the diEtance L1 from the beginning
+of the OILS. These losses are stochastic in nature and are a function 1P1 of a set
+of stochastic values: modulus of the reflection coefficient at the i-th point P1;
+distribution function of angles at which light waves of various modes reflect from
+
+the surface of the av break (91 p, where p is the number of the mode of the light
+wave. Moreover, a1 1 depends on the aperture angle of the 0V 0 and the conditions
+of the propagation é} thividual modes in the 0V. Thus,
+
+Gum-t (Pl- 1: u' 6) (a)
+
+and is stochastic in nature.
+
+ 
+
+Figure 3.
+Key: 1. Breaking point
+
+5
+son omcw. use ONLY
+Figure 3 shows possible profiles of 0V breaks and oscillograms of the reflected sig-
+nals corresponding to them. The smallest losses occur if the break surface is
+
+perpendicular to the 0V axis (Figure 3a), and the largest losses occur if the angle
+of the break plane with the 0V axis is equal to 45 degrees (Figure 3b); in the case
+of a complex surface of the break (Figure 3c), the value of the losses is stochastic
+
+in nature. Besides the losses as a result of reflection, it is necessary to consider
+also the losses in the differential assembly of the measuring device a nn¢ . Conse-
+quently,
+
+an} I- 26," — 3:17 -.- 8;... (5)
+
+If we limit ourselves to measuring the point of 0V break from two sides of the regen-
+eration section, then
+
+‘.: yrs "" 9m "' ‘r'r " 53‘6- (6)
+
+The maximum value of any achieved in practice is 80-90 db for the power of the
+sounding pulse of the order of 1-2 H. Losses in the differential device are usually
+equal to 8-10 dB [1], and the attenuation of the regeneration section is 30-35 dB.
+It follows from this that a o , if measured on one side of the regeneration sec-
+tion, can be not more than 0-fg>dB; when measuring on both sides -- 25-35 dB, which
+makes it possible to locate the breaking point of the 0V with a high degree of ac-
+
+curacy.
+
+The length of the sounding signal can also affect the error in the determination of
+the 0V breaking point [2]. When determining this error, it is necessary to consider
+the widening of the pulses in the line. when a light pulse with a duration of to
+propagates along the 0V, it widens at the beginning of the fiber due to dispersion
+of the 0V material, due to the dependence of the group delay time on the number of
+the mode of the light waves, and due to the stochastic spread of values of the group
+delay time in the 0V.
+
+These distortions result in the widening of the sounding pulses as they get farther
+away from the light source. As a result of this, the resolving power of this method
+is not the same: it has the highest value at the beginning of the line, and the low-
+est value at the end of it. The value of the widening of the pulse depends on the
+type of the fiber and the characteristics of the radiation source.
+
+For example, when an incoherent light pulse with a duration of to is transmitted in
+a multimode fiber. it widens toward the end of the regeneration section with the
+length L to the value [1]
+
+.‘;-I.'.: -\t:‘_---lr'-:'.'!'. (7)
+
+where (kt -- spread of the group delay time per length unit in a multimode fiber
+due to the presence of various nodes; 111.: -- widening of the pulse per length
+unit due to dispersion in the material and dispersion of the natural waves.
+
+When the natural modes are mixed on the irregularities of the fiber, the pulse at
+the end of the fiber widens to the value[l]
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+.','-1 (:E—JlizL:~.\I: LL ' (8)
+
+where Lc is the average length of the W on which the total exchange of energy be-
+tween the nodes takes place.
+
+In practice, I. ) 1.5 4': y A Ta, and the value of the pulse widening A t
+is proportional to “W1?“ example, at An/n . 0.01, the spread of the group
+delay time At is 48.1. ns/km, and at a coherent light source, 26.2 ns/km. For a
+gradient fiber. we have, respectively, 6.86 ns/km and 2.62 ns/kn. thus, with a
+sounding pulse of to - 10 ns and a coherent light source, the pulse widens to 34.2
+us at the end of the first kilometer of the line. These data indicate that there is
+no point in decreasing the length of the sounding pulses below 5-10 ns.
+
+5.’ a)
+
+ 
+
+ 
+
+Figure lo.
+Key: 1. Uniform
+
+The maximum value of the error in locating a break corresponds to the maximum value
+of a ‘rp , when the reflected pulse is not observed at the breaking point of the 07
+on :3. screen of the measuring device (Figure 3b). In this c‘eaee. the operator usual-
+ly assumes that the location of the break is the point of the closest 0V nonunifor-
+mity on the side of the sounding generator (Figure la) which, after the break, has
+the form shown in Figure lob. In this case, the measurement error will be determined
+
+by the section of a high uniformity loan of the 0V. where no reflected pulses are
+observed.
+
+with the improvement of the 0V quality, do”, will be increasing to the values of
+the 0K factory lengths, because, as a rule, joint reflections occur at the points of
+OK joints which are registered by pulsed instruments.
+
+By using these reflections. with the aid of the location method, it is possible
+to determine the factory length of the or where the break took place.
+
+7
+FOR OFFICIAL USE ONLY
+Conclusions. The analysis of the location method of the determination of the break-
+ing point of 0V showed that the possibilities of errors in measurements depend sub-
+stantially on a number of random factors which can lead to impermissibly greet
+errors. In order to liait then in the process of the construction of OKLS, it ap-
+pears to be appropriate to measure the nonuniformity distribution functions along
+the length of the line and to include these characteristics in the operation manual
+_of the OILS. These characteristics measured on both sides of the regeneration sec-
+tion supplemented by actual data about the length of the construction sections of OK,
+distribution of nonuniformities, values of reflections at the joints of the factory
+lengths, and actual attenuation of OK make it possible by their changes to judge
+about the constancy of 0! parameters by periodic measurements of the nonuniformity
+'distribution functions and a more accurate determination of the 0V failures. In
+this case, the characteristic of the distribution functions of nonuniformities ob-
+tained in the course of the latest measurements can be used as a reference scale
+for the determination of the 07 failure. Measurements of the nonuniformity distri-
+bution functions on both ends of the regeneration section to the break point and
+after it will contribute to a more accurate determination of the failure point of
+'the fiber.
+
+3 IBLIOGRAPHY
+
+1. Unger, O. c. "Opticheskaya svyaz'" [Optical Communications], Moscow, Svysz',
+1979.
+
+2. Grodnyev, I. I., at sl. "Koaksial’nyye kabeli svyasi" [Coaxial Communication
+Cables], Moscov, Svyaz', 1970.
+
+3. Kuchikyan, L. I. "Fiaicheskaya optika volokonnykh svetovodov" [Physical Optics
+of Fiber Light Guides], Moscow, Energiya, 1979.
+
+a. Muradyan, A. G. and Ginsburg, S. A. "Sisteny peredachi informatsii po optiches-
+komu kabelyu" [Optical Cable Data Transmission Systems], Moscow, Svyas', 1980.
+
+5. Teumin, I. I. ‘Volnovody opticheskoy avyasi" [Optical Communication waveguides],
+Moscow Svyaz', 1978.
+
+6. Makhlin, R. Ye. and Titov, I. V. "Measurement of Reduced Factor of Reflection
+from the End of the Fiber when There is a Break in an Optical Fiber Communica-
+tion Line," PIS'MA V ZHTF [Letters to the Journal of Technical Physics), Vol I,
+No ll, 1975.
+
+7. Makhlin,R. Kh.; Ku7netsov, A. A.: and Titov, I. V. "Observation of Optical
+Pulses Reflected from the Far End of the Fiber," RADIOTEKHNIKA I BLEKTRONIKA,
+Vol XX, No 6, 1975.
+
+8. Cuttman, J. and Krumpholz, 0. "Location of Imperfections in Optical Glass Fiber
+Haveguides," ELECTRONICS LETTERS, Vol 11, No 10, 1975.
+
+9. Veno, Y. and Motoh Shimlzu. "Optical Fiber Fault Location Method," APPLIED OP-
+TICS, Vol 15, No 6, 1976.
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+10. Personik, C. D. "Photon Problem -- an Optical Fiber Time Domain Reflectmter,‘
+PS‘I‘J, Vol 56, No 3, 1977.
+
+[1. "Detection and Location of Fiber Breaks in Optical Cmunication Lines," m,
+Vol 90, No 11, 1977.
+
+COPYRIGHT: IZDATBL'STVO "RADIO I SVYAZ'", 'nmnosmz'", 1981
+
+10233
+C80: 5500/1005
+
+9
+FOR OFFICIAL USE ONLY
+CLIMATIC, MECHANICAL TESTS OF 'IZTOK' MUNICATION SYSTEM
+
+Moscow ELBICI'ROSVYAZ' in Russian No 9, Sep 81 pp 12-15
+[Article by Ya. Ya. Silin'sh, submitted 15 Nov 78]
+
+[Text] Series production of the integrated analog-digital communication system
+as ATs "Istok" has been started [1]. In the process of the preparation of the
+documentation for series production, a complex system of production quality con-
+trol (ISM) of YeSS ATs was developed, guaranteeing a high quality of the station
+
+equipment [2] .
+
+The KSUKP YeSS Al's includes a complex of organizational, scientific, and technical
+problems which are solved at all stages of production and operation of the ass
+Al's equipment. This complex includes four groups of problems: general system pro-
+blems, problems of the stages of designing, manufacturing, and operation.
+
+The general system problems prwide for continuous control of the plans of measures
+for the purpose of quantitative evaluation of the quality of work and the provision
+of unified metrological and patent-information means for the entire development of
+the system.
+
+The problems of the designing stage include: the order of the quality control of
+the design and technical documentation and verification of this documentation by
+the reliability, metrology, and standardization services; safety program; methods
+of climatic and mechanical tests, etc.
+
+At the manufacturing stage, the quality of the equipment of YeSS Al's is ensured by
+the analysis of causes of defects and failures; organisation of the optimal input
+control of materials, semifinished products and components; certification of the
+equipment and technological processes by quality levels; conducting Quality Days,
+etc.
+
+The problems of the state of operation include the collection, processing, and sub-
+mission of information to the designer and the plant about failures of the equip-
+ment during the operation in the experimental zone, conducting controlled operation
+of series stations, establishing the exact amount of spare parts, etc.
+
+10
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The quality and reliability of the Yess his equipment are greatly affected by ex-
+ternal climatic and mechanical influences. Moreover, in the process of the manufac-
+turing of equipment, there unavoidably occur hidden defects which are revealed
+only in the running-in process of the equipment. The developed methods of climatic
+and mechanical tests included in the KSUKP YeSS ATs made it possible to check ra-
+pidly the operating ability of the equipment under various conditions and to reveal
+the causes of its failures and hidden defects.
+
+Climatic Tests. The reliability of the functioning of Yess AIs is affected the
+most by temperature, since most of its electroradio elements (ERR) are sensitive
+to its changes.
+
+According to specifications for the equipment of this class, it should operate at
+a higher temperature of +b000. However, local overheating occurs in some electronic
+assemblies of the equipment due to the special characteristics of their design.
+
+GDR specialists studied the dependence of the overheating temperature toverheat
+within the bay of Yess ATs on the released thermal power P: of individual assemblies
+located in a given bay [3]. The results of these studies for the middle (curve 1)
+and end (curve 2) bays of the set are shown in Figure 1.
+
+As can be seen from the curves, at the maximum power release within the bay equal
+to 500 H, local overheating of the bay located in the middle of the bay set will
+be 'v 15°C. For this reason, tests of the 1:33 Are components, such as sections,
+cells, transformers and other BRB, must be conducted at a temperature of +55°C,
+and not at 440°C.
+
+3.
+
+ 
+
+Figure 1.
+
+Key: 1. t
+
+overheat
+
+In temperature tests, in order to correctly reflect real operational conditions and
+to select correctly the conditions of the tests, it is necessary to consider ther-
+mal balance of the objects being tested. It has been established that a specimen
+has to be kept in the testing chamber at the higher operating temperature of +55°c
+for four hours. But the casing, for example, of the multiple integrated connector
+(HIS) used in the YeSS ATs reaches this temperature only after four hours, i.e.,
+the time origin of HTS tests must be moved to that time. heat-releasing objects
+(powerful transistors, resistors, etc) reach a higher operating temperature
+
+11
+FOI‘OIFKJAI.US£GNVLY
+considerably earlier, and the stable temperature value of their casings even ex-
+ceeds the operating temperature in the chamber. All this is shown clearly in Fig-
+ure 2 which gives the dependence of the air temperature in the testing chamber
+(curve 1), temperature of the specimen surface (curve 2) and the surfaces of power-
+ful transistors (curve 3) on the testing time.
+
+ 
+
+F'_?"'- r‘ 6 1.: (2)
+
+Figure 2
+Key: 1. Ttest - 4 hours
+2. Hours
+
+Tests of equipment at lower operating temperatures are conducted in the same way.
+
+Moisture resistance tests of the equipment are also done in a special chamber, where
+real operating conditions are simulated. It is taken into consideration that under
+real conditions, the object is under an electrical load which affects the formation
+of dew on the casing of the object and lowers by one order or more the resistance
+
+of the insulation of the printed circuit plates, transformers, etc.
+
+The next test of the equipment for various transportation conditions is done in a
+cyclic mode, with variable ambient temperature and humidity. Aftei these tests,
+
+the equipment must be acclimatized under normal conditions at an ambient temperature
+of +251100c and humidity of 65:15% in the course of 6-24 hours. This is necessary,
+because all electrical parameters of the equipment must return to the initial nor-
+mal state.
+
+It is considered that the equipment has successfully passed the tests, if its cer-
+tain electrical parameters did not exceed the established limits during these tests.
+
+Mechanical Tests. In order to check the equipment completely under various modes
+of transportation and operation, it is tested for mechanical, vibration, and shock
+effects. The sample is placed on a special platform which is set into vibration
+with variable acceleration and frequency.
+
+YeSS ATs equipment can be transported by motor vehicles, railroad, sea and air.
+Therefore, it is necessary to examine the conditions corresponding to these types
+of transportation. Figure 3 shows the dependence of acceleration g on frequency f
+for various types of transportation obtained in [4-6]: curve 1 -- plane, 2 -- ship,
+3 -- motor vehicle, A -- container carrier. The same figure gives the dependence
+of g on f for shock (curve 5 -- for packaged equipment, curve 6 -- for unpackaged
+
+12
+FOI1OFFKJA1.USE(NULY
+FOR OFFICIAL USE ONLY
+
+equipment) and vibration (curve 7) effects. Curve 8 corresponds to the existing
+conditions of testing for vibration effects. The frequency range (10-500 Hz) was
+determined by the passband of the measuring instruments used.
+
+ 
+
+ 
+
+" .5: 2: 5:- tr 232' 577
+Figure 3.
+Key: 1. B:
+
+ 
+
+As can be seen from Figure 3, the greatest accelerations in the equipment occur
+during transportation by plane, and all types of transportation are characterised
+by an increase in acceleration from the frequency of 10 Hz.
+
+Tests of samples for sinusoidal vibration were conducted on a special stand. For
+such tests, it is necessary to use only an electrodynsmic stand (for example, VEDS
+400) which makes it possible to obtain a sliding sinusoidal signal with a speed of
+one octave per minute with automatic adjustment of the amplitude of movement and
+acceleration. Vibration stability tests were conducted with voltage turned on, i.
+e., under load, and those for vibration strength -- under no-load conditions with
+visual and electrical checking of the sample after the tests. In the process of
+developing a sample, it is recoumendedmuse stifﬁr tests (by 30-50%) than the ex-
+isting ones for ensuring the margin of safety of the structure during periodic
+plant tests.
+
+13
+lill¢lﬂﬂC1Al.USElMVLY
+GDR specialists proposed to simulate transportation conditions by means of 1000
+
+pulse shocks of 6 no at an acceleration of 100 g, unloading jobs -- by throwing
+
+the equipment from a height of up to 85 cm or by six shocks with an acceleration
+of up to 600 3.
+
+Figure 6 shows the dependence of g and f occurring in the toss AIs obtained in
+mechanical tests of a sample for its stability to external effects: curve 1 -- dur-
+ing the switching of tumblers; 2 -- during the replacement of cells; 3 -- during
+accidental shocks during the operation of the equipment. Curve 6 shows the exist-
+ing conditions of testing for the detection of resonance frequency in the equipment;
+curves 5 and 6 -- testing conditions accepted for YeSS AIs for shock and vibration
+stability. As can be seen from Figure 3 (curve 8) and Figure 4 (curve 4), the ex-
+isting testing conditions used at plants manufacturing AIS [automatic telephone ex-
+changes] cannot ensure qualitative checking of the YeSS A18.
+
+Difficulties are caused also by discrepancies in the normative technical documents-
+tion for ERR [8], where 20 degrees of rigidity are given for vibration effects which
+do not correspond to the effects occurring during operation. For example, rigidity
+degrees I, II and V for the frequency ranges, respectively, of 10-35, 10-60, and
+10-100 Hs have the same acceleration of lg, which is not substantiated scientifi-
+cally at all.
+
+As was shown by the studies (Figure 4), tests for the vibration stability of cells
+and sections 0f the equipment of YeSS ATs should be conducted in the frequency
+
+range of 10-500 Hz with an acceleration of up to 0.5 g. Shock stability test must
+be conducted at an acceleration of 2.5 g and the length of the shock pulse of 6 as.
+
+In order to ensure a high quality of standard replacement elements (TEZ) of the
+YeSS Ara equipment, they are subjected to accelerated reliability tests in the pro-
+cess of manufacturing. A method was developed according to which, after mechanical
+effects on T32, they are tested for nonfailure operation under a maximum electri-
+cal load in a special compact chamber at a temperature of +SS°C in the course of
+1000 hours. These tests showed the possibility of revealing design and technologi-
+cal failures of 122.
+
+In the manufacturing process of the equipment, there unavoidably occur hidden de-
+fects which lead to running-in failures. Short-term forced climatic and mechani-
+cal effects make it possible to reveal these defects and reduce the running-in
+
+failures [9, 10], which is confirmed by the tests of the experimental specimens of
+the YeSS ATs "Istok".
+
+BIBLIOGRAPHY
+
+l. Adzhemov, S. A.; Hisulovin, L. Ya.; and Parilov, V. P. "General Principles of
+Constructing an Integrated Quasi-Electronic Analog-Digital Conmmnication Sys-
+
+tem,” ELEXTROSVYAZ', No 10, 1975.
+2. Kerr, W. A. "Nine Axioms for Quality Control," QUALITY PROGRESS, No 3, 1974.
+
+3. Harkert, C. "Brwarmenysprobleme in elektronischen Geraten," Dissertation TU
+Dresden, Pakultat fur Blektrotechnik, 1967.
+
+lb
+INJIIOIIWCJAI.IEIE(MULY
+10.
+
+FOR (WI-1C1“. "SF. ONLY
+
+Reissnann, E. ”Bin Beitreg zur Hessung mechanischer Umvelteinflusse und vir-
+kungsequivelenten PruEfung von Gereten," Dissertation TU Dresden, 1972.
+
+Reissnann, E. "Zusemnenhnng zwischen Teldbedingungen und Ptufbedingungen."
+Anlege 2 sum Abschlussbericht TU Dresden, Sektion informationotedenik, 1973.
+
+Lipnann, R., and Heinrich, Ch. "Schwingungsbeenspruchung von Peckungen,"
+DIE VERPACKUNG, No l, 1977.
+
+TGL 2000-0057, "Stossfolge und Schwingungsprufung," 1971.
+
+COST 16962-72. "Electronic and Electrical Engineering Products. Mechanical
+and Climatic Effects. Requirements and Testing Methods."
+
+Silinbh, Ya. Ya., and Yedchenko, K. I. "Accelerated Technological Run of Seni-
+conductor Equipment." NADBZHNOST' I KONTROL' RACHBSTVA, No 6, 1972.
+
+Silin'ah, Ye. Yn.. and Yedchenko, K. I. Patent No 659745 (USSR). "Radio Equip-
+ment Aging Methods"
+
+COPYRIGHT: IZDATBL'STVO "RADIO I SVYAZ'", "ELEXTROSVYAZ'", 1981
+
+10233
+
+CSO:
+
+5500/1005 .
+
+15
+non omcm. use ONLY
+DEVELOPMENT 0? COMMUNICATIONS IN BELORUSSIA
+Moscow BLEKTROSVYAZ' in Russian 30 9, Sep 81 pp 1-3
+
+[Article by I. H. Gritsuk, minister of communications of the Belorussian 883: ”Re-
+sults and Directions of the Development of Communications in Belorussia"]
+
+[Text] Communications workers of Belorussia, just as all Soviet people, have started
+working on the fulfillment of the tasks of the Eleventh Five-Year Plan. Workers,
+engineers, technicians, and the entire personnel of the commmnicstions industry of
+the republic are concentrating their efforts on complete fulfillment of the resolu-
+tions of the 26th CPSU Congress and instructions of the USSR Ministry of Communica-
+tions, realizing that faultless operation of the means of communication is an essen-
+tial condition for the intensive development of the entire national economic complex.
+
+This industry commenced the current five-year plan with fairly good technical equip-
+ment which makes it possible to conduct effective work on the improvement of the
+services to the population and the national economy of the republic with all types
+of communications, increasing labor productivity and reliability of the means of com-
+munication.
+
+The preceding Tenth Five-Year Plan was the years of further strengthening of the
+material and technical base of communications. It will suffice to say that the five-
+year target for the introduction of the fixed capital was fulfilled in Belorussia in
+6 years, and the value of the capital increased almost by 462.
+
+Year after year, the allotted capital investments were used systematically, and
+their volume increased by 361 in five years. This made it possible to increase the
+length of intercity telephone channels almost l.7-fold and introduce new capacities
+of automatic intercity telephone stations. The industry was modernized on a new
+technical basis. Main lines were equipped with transmission systems R-3600, K-l920,
+KPIOZO, BK-960, and the intraoblast networks were equipped with system X-300, [-60-
+P which replaced KV-Za, KV-lz, V-12-2, and HB-B systems.
+
+A large volume of work was done on the equipping telephone channels with semiautoma-
+tic and automatic equipment; the level of automation reached 921. On the whole, this
+made it possible to automate tandem operation by 96%, and to handle outgoing calls,
+whose number increased by 651, without increasing the number of operators.
+
+16
+FOI‘OFFKJAI.USE(I§LY
+I‘MICMNNCJAL.USEGDNLV
+
+The number of intercity coin telephones (HTA) increased by 40% during the five-year
+plan, which provided additional convenience for the population and guests of the
+republic's capital, the heroic city of Minsk, and other cities and produced a defi-
+nite economic effect. The 260 HTA of Minsk (including automated intercity public
+call stations operating twenty-four hours a day) are attended by 23 people. These
+MBA handle about 17,500 outgoing calls a day. The handling of such a number of
+calls through operators via Minsk HTS [intercity telephone exchange] would require
+a staff of about 300 telephone operators.
+
+Telegraph communications were also developed. The capacity of the network of sub-
+scribers' telegraph exchanges increased by more than 401 during the five-year plan;
+the first section of the data transmission network which was completed covers all
+rayon communication centers. Telegraph networks were equipped with DUHKA, "Inter-
+val", KANT, and TART equipment and with automatic switching crossbar exchanges AT-
+Ps-PD, ATK-PD, and ATK-ZO U.
+
+The republic searched for ways of improving the organisation of telegram deliveries
+and lowering the costs of the delivery service. The experience of the Minsk post
+office in creating a reference telephone card file deserves attention. It makes it
+possible to transmit telegraph messages to the addressee by phone (including business
+phones).
+
+In the republic, telephones were installed in about 75% of the apartments of the
+heads of rural communication departments (06), which made it possible in 1980 to da-
+liver to rural residents and receive from them about 60.000 telegrams in the even-
+ings after the business hours of OS and during holidays.
+
+The city and rural telephone communications were developing at an accelerated pace.
+For example, the capacity of GTS [cit telephone networks] increased 1.67-fold and
+that of STS [rural telephone networks increased l.S7-fold. Work was done on speed-
+ing up the operation of installed capacities. Their utilisation factor as of 1 Jan
+1981 was 94% for GTS and 80% for STS.
+
+The introduction of centralized repair services at the GT3 of Minsk and other oblsst
+centers made it possible to perform up to 96.71 of repairs within the established
+time limits, to increase labor productivity and create additional convenience for
+the population by concentrating transportation facilities and human resources. The
+number of coin telephones at GT8 increased by almost 301; the republic occupies the
+fourth place in the country with respect to their number per capita.
+
+The automated rural telephone network is based only on crossbar exchanges. At more
+than 900 kolkhores and sovkhores, telephone intercommunication facilities (VPTS)
+were reconstructed. At one half of these farms, these jobs were combined with the
+organization of the dispatcher's telephone communication service, and the volume of
+capital investments used just for these purposes was on the order of 30.5 million
+rubles. The dispatcher's communication service organised between rayon centers and
+kolkhoses in 33 rayons of the republic proved to be highly effective for the national
+economy.
+
+17
+FOI‘OIFKJAI.USB(NVLY
+The rural communication network uses many thousands of kilometers of KSPP-type cables
+with which a considerable number of connecting lines were organized with the aid of
+analog and digital channel-forming equipment during the years of the Tenth Five-Year
+Plan. However, under the conditions existing in Belorussia, it would be wrong to
+disregard the possibility of increasing the number of connecting lines by suspending
+additional aerial cables with their subsequent multiplexing.
+
+The television network of Belorussia is based on the transmitting television stations
+of the metric-wave band of the types "Len“, "Uragan", "Yakor'", and "Zena". During
+the past five-year plan, three powerful relay stations were built, which made it pos-
+sible to improve the reception of the first television program for 901 of the repub-
+
+lic's populatiOn, of the second (republic) program -- for 702 and of the third pro-
+gram -- for 161.
+
+The wire-broadcasting rediffusion network has 3.6 million loudspeakers. More than
+700,000 loudspeakers were installed during the five-year plan, and their density in-
+creased to 37.6 per one hundred people, including 30.2 paid loudspeakers.
+
+In order to provide better postal services to the population, more than 250 new post
+offices were opened; 1500 out of 6400 post offices meet the requirements of "enter-
+prises of high standards". Twenty-eight new buildings of rayon post offices were
+built, six central enterprises, 210 shops and sections were fully mechanized, and
+#50 primary electronic machines were introduced for mechanizing postal money-handling
+operations. Rural mailmen deliver more than three million pieces of mail a year to
+homes of the population, which contributes to the raising of the effectiveness of
+the utilization of rural labor resources.
+
+The introduction of a complex of organizational and technical measures made it pos-
+sibLe to increase labor productivity of the communications workers in the republic
+
+by 241, save 5.7 million rubles against the goal of 6.5 million rubles and to relieve
+more than 5500 employees.
+
+The steps of the economic growth in the Eleventh Five-Year Plan are steep, and we
+must take bigger strides than in the last five-year plan. In 1981 and during the
+five-year plan as a whole, communications workers of Belorussia are faced with ex-
+tensive tasks of technical improvement of networks, raising the effectiveness of the
+utilization of the fixed capital, and improvement of the operation of all types of
+communication.
+
+It is planned to increase considerably the length of intercity telephone channels,
+to build new ANTS [automatic long-distance telephone exchangesJin Brest (in 1981),
+Minsk, Comel', Hogilev, to expand the ANTS macrodno and to complete the automation
+of the zonal communications in the republic.
+
+The number of outgoing long-distance calls must be increased l.6-fold with a stable
+
+number of employecs; the number of automated channels will increase more than 2.3-
+fold.
+
+The telegraph network will be developed further. New AT-PS-PD stations will be built
+in Hogilev and Brest, the subscribers' telegraph network will increase by almost 25%,
+and the completion of the construction of a low-speed data transmission network will
+
+18
+FOB OFFICJAI.USE(NVLY
+FINI(NNWCJAI.USE<0N1N
+
+make it possible to cover the entire agricultural and industrial complex of the re-
+public. Provisions are made for considerable capital investments for equipping this
+subbranch with new electronic devices.
+
+As the number of families having home phones increases, the method of transmitting
+telegrams by phone will be introduced more and more actively. In 1983, it is planned
+to complete the installation of telephones in the apartments of heads of rural com-
+munication departments, which make it possible to create favorable conditions every-
+where for delivering telegrams to rural residents after the business hours of OS and
+
+on holidays.
+
+The capacity of urban and rural telephone networks will increase 1.3-fold; in 1984,
+
+there will be more than one million telephOnes. VPTS in more than 620 kolkhozes and
+
+sovkhozes will be expanded in combination with the organisation of dispatchers' com-
+munication at the rayon center -- kolkhos level. The number of connecting lines in
+
+rural telephone networks will increase by 351.
+
+In the Eleventh Pive-Year Plan, as a result of the introduction of progressive tech-
+nology, mechanization and automation of production processes, scientific organization
+of labor, reconstruction and reequipment of enterprises, labor productivity in the
+industry will increase by 18.8-191, and not less than 81% of the increment of the
+production volume will be accomplished due to the growth of labor productivity. 0n
+the whole, it is planned to achieve conditional release of 11,700 people of the pro-
+duction staff. Re are continuing to search for methods of saving and effective use
+of material resources, energy, and fuel.
+
+The experiment on wiring of all city ATS [automatic telephone exchanges] by the me-
+thod of "free spread of station cables" yielded a saving of over 20% and will be the
+main method in the Eleventh Five-Year Plan.
+
+In 1981, it is planned to complete the reconstruction of the Vitebsk Radio Television
+Station, to reconstruct the Grodno station in 1982, and build two new television sta-
+tions during the five-year plan. As a result of these measures, it is envisaged to
+cover 97% of the republic's territory by one television program, up to 851 -- by two
+programs, and up to 352 by three programs.
+
+The annual program of the "Belsvyss'stroy" Trust, which they are fulfilling by their
+own efforts, will be ata level of 25-27 million rubles, and that of the "Belremstroy-
+svyaz'" will increase by 602, reaching lk-lS million rubles. It is planned to
+strengthen substantially the material base of the construction industry. In order
+to satisfy the needs in special furniture for public buildings, a furniture shop was
+built with a design output capacity of 650,000 ruble-worth of products. An automated
+mortar plant with a capacity of 30,000 cubic meters of mortar is in operation, and
+its second section is under construction. The reinforced-concrete shop with a cape-
+city of 25,000 cubic meters will make it possible in 1984 to produce about 05,000
+reinforced-concrete supports and satisfy the needs in hollow decking and high-qual-
+ity reinforced-concrete products. The production base of the "Belsvyas'stroy" Trust
+will be expanded, which will make it possible to produce more than one hundred kinds
+of nonstandard parts and articles.
+
+19
+IKIICINNCIAI.USE(N‘LY
+Measures are being taken for a more effective utilization of the capital investments
+allotted for the Eleventh Five-Year Plan; however, in order to solve all problems of
+the five-year plan in the development and strengthening of the material and technical
+bese of the cmmmunication network of the republic, it will be necessary to use also
+some above~plan credits of the Gosbank and Stroybank of the USSR.
+
+The equipping of the communication network with new equipment, raising of the level
+of operation of the technical base, increasing labor productivity, expanding social-
+ist competitions at communication enterprises, and spreading advanced experience
+will make it possible to impr0ve the services of all types of communication to the
+population and national economy of the republic in Eleventh Five-Year Plan and to
+realize the main directions of the economic and social development of Belorussis
+established by the 26th CPSU Congress.
+
+COPYRIGHT: IZDATEL'STVO "RADIO I SVYAZ'", "ELEKTROSVYAZ'", 1981
+
+10233
+080: 5500/1005
+
+20
+F08‘0FFHJAI.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+USSR
+
+RURAL WIRE BROADCASTIK: DISCUSSED
+
+Moscow ELBKTROSVYAZ' in Russian No 9, Sep 81 p 47
+
+[Report on the meeting of the Scientific and Technical Council of the USSR Ministry
+of Consnunications]
+
+[Text] In December 1980, a meeting was held at the Scientific and Technical Council
+of the USSR Ministry of Comnications on the subject: "Problems of Delivering Pro-
+grams and Automation of Hire Broadcasting Facilities in Rural Areas."
+
+The discussion of this problem was brought about by the necessity of improving the
+quality indexes of the wire broadcasting networks and increasing the hours of daily
+
+operation of rediffusion stations.
+
+Research, design, and planning organisations and operating enterprises of the USSR
+Ministry of Conunications have done work on the improvement of the technical and
+economic indexes of wire broadcasting in rural areas by automating the equipment of
+radio wire broadcasting centers (RTD'). Modern equipment has been developed for auto-
+matic control systems of RTU located in the zone of confident reception of ultra-
+short-wave frequency-modulated radio stations: remote control units (m0) installed
+on ultrashort-wave transmitters; a device for autouting tube amplifiers with a power
+of 1 kW ("Duet-2"); low-power radio wire broadcasting centers TOW-0.25X2. TOW-05
+x2 and THIN-0.1; equipment for transmitting broadcasting program over the rural tele-
+phone comunication networks (AVSP), and station-wide automation system (08A); a unit
+for transmitting broadcasting programs in systems with IR! [pulse-code modulation].
+
+As a result of systematic introduction of new equipment, about 6000 rediffusion sta-
+tions were changed to distant control and were fully automated in the last 10 years.
+Due to this, the quality indexes of rural wire broadcasting improved, the length of
+daily broadcasting increased, and the number of the attending personnel was reduced.
+
+The Scientific and Technical Council resolved: that the projects directed toward in-
+tegration of rural stations and external plants of wire broadcasting and telephone
+covmnunications, as well as measures for centralising maintenance of rural wire broad-
+casting and telephone cosqunication facilities are promising; to transmit rayon
+broadcasting programs to rural radio wire broadcasting centers located in the sones
+of confident reception of ultrashort-wave frequency-modulated broadcasting stations
+through standard audio frequency channels; to conclude the development of proposals
+for reducing external plants of wire broadcasting in rural areas; to define specifi-
+
+cations for main design projects necessary for ensuring the integration of equipment
+
+21
+FOR OFFICIAL USE ONLY
+and centralization of maintenance of wire broadcasting facilities and telephone com-
+munications in rural areas; to give priority to the development of proposals for the
+operation of automated RTU and for devices for switching standard audio frequency
+channels for circular messages from rayon centers to automated RTU located in the
+ione of confident reception of ultrashort-uave frequency-modulated radio stations;
+to develop proposals for improving the program transmission method and ensuring the
+automation of RTU in sparsely populated regions located outside the zone of con-
+fident reception of ultrashort-vave radio stations; to develop standards for terms
+and their definitions in application to the systems, structures and devices of radio
+wire broadcasting centers; to develop standard designs for stations of rural radio
+wire broadcasting centers with consideration for the installation of new automatic
+equipment.
+
+COPYRIGHT: IZDATEL'STVO "RADIO I SVYAZ'", "ELBKTROSVYAZ'", 1981
+
+10233
+CSO: 5500/1005
+
+22
+FOR‘OFFKJAI.USE10NLY
+FOR OFFICIAL "SF. ONI.Y
+
+USSR
+
+HAYS OP DBVEIDPIK} RURAL TBIEFHONE CWCATION. WIRE BBOANASTINO
+
+Moscow BLBKTROSVYAZ' in Russian No 9, Sep 81, pp 61-62
+[Article by G. Honina, from the materials of an industrial and technical seminar]
+
+[Text] In March 1981, an industrial and technical seminar was held in Chelyabinsk
+on the subject "Ways of Increasing the Effectiveness and Quality of Rural Telephone
+Communication and wire Broadcasting". It was organized by the Main Administration
+of Rural Telephone Communication and Main Radio Administration of the RSPSR Ministry
+of Communicathnl,0ral Center of Scientific and Technical Propaganda of the RSPSR
+Society "Znaniye",Chelyabinskaya Oblast Production and Technical Administration of
+Communication and Chelyabinekaya Oblast Administration board of NTORBS [Scientific
+and Technical Society of Radio Engineering, Electronics and Communication] imeni A.
+S. Popov. About 200 specialists, members of the PTUS [Industrial and Technical Com-
+munication Administration] of the republic and representatives of scientific research
+and educational institutes participating in the seminar.
+
+A considerable role in the achievements of communication workers in the Tenth Five-
+Year Plan belongs to the communication workers of the Russian Federation, who did
+much for the implementation of the program for improving the effectiveness and qual-
+ity of production mapped out by the 25th CPSU Congress.
+
+Having opened the seminar, G. s. Voloboy, director of COSTS [Main Administration of
+Rural Telephone Communications] of the RSPSR Ministry of Communications, summarised
+the results of the fulfillment of the tasks of the five-year plan in the republic. Pro-
+gress has been made in its facilities of electrical and postal communications, tele-
+vision, broadcasting, and Soyuspechat' [Main Adminstration for the Distribution of
+Publications]. For example, the length of telephone channels on the oblast communi-
+cation lines of the Russian Federation increased during the Tenth Pive-Year Plan by
+a factor of 1.6 against 1.3 of the plan. The capacity of city and rural telephone
+stations in the republic increased almost by three million numbers. The task of in-
+creasing the number of receiving points of newpaper pages by the phototelegtaphic ma-
+thod was fulfilled ahead of schedule, in 1979. The five-year plan of the introduc-
+tion of powerful television stations was fulfilled one year ahead of schedule.
+
+The five-year plan for increasing the capacities of telephone stations in rural areas
+was overfulfilled by 6.61. The task of the construction of telephone facilities in
+rural areas of the Nonchernozem Zone was fulfilled in 6 years and 9 months.
+
+The task for the construction of telephone intercmmmnucation facilities (VPTS) in
+kolkhoass and sovhoses was overfulfilled.
+
+23
+FOR‘OFFKJAI.USE(NVLY
+telephone cocanunicstion (STS) facilities on the basis of new progressive methods
+(see "ELEKTROSVYAZ'", 1979, No 9). As a result: of this conference, "Basic Principles
+of Centralized Operation of Rural Telephone Communication Facilities" was prepared
+for publicati-on. The development of a complex of equipment for technical control of
+STS facilities, the introduction of new equipment and improvement of the existing
+
+of rural telephone network. During the years of the last five-year plan, experinen-
+tal operation of an "Istok"-type ATS [automatic telephone exchange] was completed
+and the introduction of the following equipment was started: IKH-SVCh [pulse-code
+modulated-microwave] radio relay equipment of the "Radan" and "Oktaedr" types, trans-
+mission systems for cable lines 1101-15 and "Zone" and for aerial networks -- VO-12-
+Ye2. Experimental operation of cables KSPPZTs with signal conductors and TSPZPB
+5X2X0.9 with aluminum-copper conductors was conducted. In 1981, the republic's net-
+works received the first few hundreds of kilometers of this cable.
+
+The reliability of STS networks depends greatly on the condition of external plants,
+on their timely overhaul and maintenance. Unfortunately, not everything is satis-
+factory in this area: not all PTUS of the republic fulfilled the plan for line re-
+pairs. There is insufficient control on the part of BTUS (RUS) [operational and
+technical conmunication centers (rayon communication centers)] over the correctness
+
+these problems require serious attention of the specialists in rural telephone con-
+municat ions .
+
+In 1981-1985, it is planned to build rural tele hone networks for general use cover-
+ing rayon centers located in villages and VHS {telephone intercomunication] net-
+works in sovkhozes and kolkhozes with a total capacity of about 800,000 numbers, in-
+cluding about 300,000 numbers in the Nonchernosem Zone of the RSPSR. It is planned
+
+to put into operation ATS for general use in rural areas, including quasi-electron-
+
+Tenth Pive~Year Plan for the development and inorovement of wire broadcasting (W)
+in the Russian Federation have been completed successfully. The plan for increasing
+the number of wire-broadcast loudspeakers was overfulfilled. They were installed
+in 1670 settlements. Multiprogram wire broadcasting was developed further and can
+be enjoyed by the population of more than 31.0 cities and city-type settlements of
+
+21;
+FOR OFFICIAL USE ONLY
+FOR!0FFKJAI.USE10N1Y
+
+the republic. More than 3000 rural radio wire broadcasting centers (RTU) were auto-
+mated and changed to remote control, which made it possible to relieve about 3500
+
+units of attending personnel. Great successes were achieved in the complex solution
+of problems of automating rural radio centers by the radio specialists of Tul'skaya,
+
+Gor'kovskaya and Kuybyshevskaya oblasts.
+
+However, there are some shortcomings in the organization of the operation of wire
+broadcasting facilities. The problems of automating rural rediffusion stations are
+not solved in an integrated manner everywhere, which lowers the effect of the imple-
+mented measures. There are no clear recommendations for the optimization of the for-
+mation of centers of wire broadcasting networks in the rayons for the purpose of re-
+ducing the length of the lines. There are long interruptions in the operation of
+wire broadcasting loudspeakers due to the demolition of PV lines during the recon-
+struction of electric power networks and other construction jobs. Subscribers' loud-
+speakers are not produced by the industry in sufficient quantities.
+
+In the Eleventh Five-Year Plan, wire broadcasting. including multiprogram broadcast-
+ing, will be developed further. It is planned to change all rural radio centers to
+remote control and complete automation. Long-range plans will be developed for pro-
+viding radio broadcasting services to the rayons with consideration for the optimisa-
+tion of the formation of centers in the networks, reducing the length of wire broad-
+casting lines, and organisation of the delivery of programs of rayon broadcasting to
+the radio centers of the rayon. A wide dissemination of production experience will
+make it possible to increase the effectiveness and quality of operation of Pv facili-
+
+ties.
+
+The problems touched upon in the main reports were developed further by the partici-
+pants of the seminar. The following problems were discussed: improvement of the ef-
+
+fectiveness and quality of STS and PV operation in application to the conditions of
+various oblasts of the RSFSR; special characteristics of the sets of equipment of
+the system of centralized technical control of STS networks and the introduction of
+
+control systems; ways of introducing a complex quality control system for STS oper-
+ations; experience in the operation of transmission systems with pulse-code modula-
+
+tion for rural telephone networks; modern methods of cabling local telephone net-
+
+works; problems of the organization of rayon broadcasting at automated rural radio
+centers controlled through an ultrashort-wave channels; possibilities of reducing
+
+the volume of external plants for wire broadcasting in rural areas. '
+
+There was a helpful exchange of opinions among the specialists in rural telephone
+communications and wire broadcasting, and recommendations were developed for solving
+urgent problems, such as the improvement of the quality of STS and PV and the growth
+of labor productivity of each enterprise.
+
+COPYRIGHT: IZDATEL'STVO "RADIO I SVYAZ'", "ELEKTROSVYAZ'", 1981
+
+10233
+CSO: 5500/1005
+
+25
+roe omcm. use ONLY
+AUTOMATIC TElEPﬂONE EXCHANGE ‘KVANT' FOR AGENCIES, INDUSTRY DISCUSSED
+Moscow ELEKTROSVYAZ' in Russian No 9, Sep 81 pp 62-63
+
+Article by C. Hatlin: "Scientific and Technical Seminar on the Administrative and
+ndustrial Automatic Telephone Exchange 'Kvant' of a Quasi-Electronic System"]
+
+[Text] The section of industrial communications of the Central Administration Board
+of NTORES [Scientific and Technical Society of Radio Engineering, Electronics and
+Communications] imeni A. S. Popov held a scientific and technical seminar in Riga in
+April 1981 on the "Kvant"-type automatic telephone exchange of a quasi-electronic
+System developed and produced by the Riga Order of Lenin Production Association VET
+
+[Electrical Engineering Plant] imeni V. I. Lenin to be used in agencies and industry
+in various sectors of the national economy.
+
+The seminar was attended by more than 150 specialists representing 14 union and re-
+public ministries, 35 largest industrial enterprises (Hagnitogorsk and Noril'ak me-
+tallurgical combines, Automobile Plant imeni Likhachev, and others), 30 research,
+design, and educational institutes, and other organisations. Opening addresses were
+given by P. 0. Vidoniks, deputy general director of the VB? Association, and V. N.
+Roginskiy, member of the board of RTORES imeni A. S. Popov.
+
+Specialists of the design bureau of the VB? Association reported on the special char-
+acteristics of the RE ATS [quasi-electronic automatic telephone exchange] "Kvant"
+for agencies and industrial enterprises, the composition of its equipment, its pro-
+grams, organisation of additional services, procedures of its designing, installa-
+tion, and its start-up and adjustment work.
+
+The participants of the seminar familiarised themselves with the state of series
+production of the "Kvant" equipment. It was mentioned that its development and in-
+troduction signify a new qualitative stage in the development of the techniques of
+industrial communications which opens up fundamentally new possibilities in the ap-
+plication and operation of telephone exchanges at industrial enterprises. in trans-
+portation, and in construction. KE ATS "Kvant" is based on modern elements and con-
+trols the process of establishing a connection with the aid of specialised computers
+on the basis of appropriate programs; its users are provided with a set of addition-
+al services most of which are accomplished by means of programs; the complex of pro-
+
+grams makes it possible to determine failures without the participation of operating
+personnel.
+
+26
+FORIOFFNJAI.USEioNLY
+FOR‘0F11CIAI.USE1MVLY
+
+At the same time, it was established that the introduction of "Kvant" at industrial
+enterprises causes some definite difficulties some of which must be eliminated by
+modifying its design, and others by implementing organizational measures. "Kvant"
+exchanges require the presence of storage batteries i.e., a buffer mode of elec-
+tric power supply, because the executive program and the stored information are lost
+if the power supply stops even for a short time. The restoration of the executive
+program requires some time in the course of which the exchange cannot operate. The
+existing programs of the exchange do not provide for the automation of the process
+of clearing the memory devices of erroneous, excessive, and other unnecessary infor-
+mation which accumulates constantly in the process of establishing the connections.
+Among other things, this necessitates the presence of operators, which lowers sharp-
+ly the economic indexes of the exchange.
+
+The high initial cost of the equipment and the previOusly unforeseen expensesonsnin-
+taining operators lower the economic indexes of the exchange and complicate the pro-
+cess of its introduction. The situation is particularly grave for the customers who
+were counting on the installation of a low-capacity ATS (64, 128, 256 numbers).
+
+Most likely, the delivery of an ATS of a new generation, to which "Kvant" belongs,
+cannot be approached from the same position as the delivery of This-69 [universal
+automatic telephone exchange-49]or ATSK-lOO/ZOOO [crossbar automatic telephone ex-
+change-lOO/ZOOO]. The exchange cannot operate without a complete set of equipment
+including a special device for information input (output) to specialised.computers.
+Therefore. many specialists rightfully insisted that KB ATS "Kvant" should be deliv-
+ered with a complete set of its entire equipment regardless of the manufacturers of
+its individual types, and this was reflected in the recommendations passed at the
+seminar.
+
+It was also noted that no optimal solution has been yet achieved on the problems of
+the organisation of centralized operation of the exchange in the case of its mass
+introduction, there is no sufficient information on the designing, installation and
+operation of the "Kvant", and there are no necessary materials for the buyers of the
+exchange.
+
+The seminar recommended, among other things, to introduce a course on quasi-electron-
+
+ic automatic telephone exchanges in electrical engineering institutes and communica-
+tions tekhnikums.
+
+COPYRIGHT: IZDATEL'STVO "RADIO I SVYAZ'", "ELEKIROSVYAZ'", 1981
+
+10,233
+C50: 5500/1005 END
+
+27
+FOR 0FI1CLA1.USE(NNLY

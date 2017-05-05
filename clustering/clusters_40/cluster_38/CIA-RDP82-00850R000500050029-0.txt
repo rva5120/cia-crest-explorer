@@ -1,0 +1,2745 @@
+FOR OFFICIAL USE ONLY
+
+PRS L/10453
+
+3 ADHI1982
+
+USSR Report
+
+ENGINEERING AND EQUIPMENT
+(FOUO 3/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+
+I
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+I] are supplied by JPRS. Processing indicators such as [Text]
+or {Excerpt} in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or trausliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+ENGINEERING AND EQUIPMENT
+
+CPOUO 3/82)
+
+CONTENTS
+
+NUCLEAR ENERGY
+
+Improving Reliability and Economic Efficiency of Thermal
+and Nuclear Power Plants ..................................
+
+Construction of Nuclear and Organic-Fuel-Pired Power Plants .
+
+Research and Development of Materials for Nuclear Fusion
+
+Reactors
+TURBINE AND ENGINE DESIGN
+Turbodynanos
+NAVIGATION AND GUIDANCE SYSTEMS
+Man as Element of Follow-Up System ........................I..
+FLUID MECHANICS
+
+Influence of Snell Amunta of Polymer Additives Introduced
+Into Stress on Hydrodynamic Characteristics of Flat
+
+Mrfoile soassess-oasesoasessosseesssssssssssssssssssssason
+
+Thermodynamics, Heat-and-Hass Transfer in low-Temperature
+Apparatus ...........t.....................................
+
+- a - [III - USSR - 21? SI
+
+FOR OFFICIAL USE ONLY
+NUCLEAR ENERGY
+
+IMPROVING RELIABILITY AND ECONOWIC EFFICIENCY OF THERMAL AND NUCLEAR POWER
+PLANTS
+
+Moscow TRUDY HOSKOVSKOGO ORDENA LKNINA I 0RDKNA OKTYABR'SKOY REVOLUTSII ENERGBTI-
+CHESKOGO INSTITUTA, TEHATICHESKIY SBORNIK: POVYSHBNIYE NADEZHNOSTI I EKONOHICH-
+NOSTI TBS I A35 in Russian No 503, 1980 (signed to press 10 Feb 81) pp 2, 173-179
+
+[Annotation and abstracts from collection of papers "Inproving the Reliability and
+Economic Efficiency of Thermal and Nuclear Power Plants", edited by Doctor of
+Technical Sciences Professor “.0. iassokhin, Moscow Power Engineering Institute,
+500 copies, 179 pages]
+
+[Text] In this collection are presented articles by associates of the departments
+of nuclear electric power plants, thermal power plants, engineering thermal
+physics. power plant steam generators, automated systems for controlling thermal
+processes and of the theoretical fundamentals of heat engineering relating to
+studying questions of the reliability and economic efficiency both of individual
+systems and of modern thermal and nuclear power plant units as a whole.
+
+Included in this collection are the results of both experimental and theoretical
+research covering a broad range of questions relating to the technology, design
+
+and operation of thermal and nuclear power plants. Much attention is paid also
+
+to studying the reliability of individual nulcear power plant systems and to model-
+ing dynamic prOcesses originating in them under transient conditions.
+
+This collection is intended for scientific and engineering and technical personnel
+working on problems of the design and operation of thermal and nuclear power
+plants.
+
+UDC 621.311.22
+USE OF CNELATES FOR CLEANING LON-CAPACITY BOILERS AT OPERATING PARAMETERS
+
+[Abstract of article by Rassokhin, H.G., Monakhov, A.s., Ryabova, L.V., Dik, V.P.,
+Voronov, V.N. and Hayorov, H.P.]
+
+[Text] Recommendations are given on the use of chelates (Trilon "3“) for cleaning
+deposits from the inside heating surfaces of lowbcapacity boilers of the DKVr type,
+as the result of washing "in operation," i.e., without lowering operating para-
+meters. Hashing is achieved by dispensing into the boiler'a feed water Trilon B
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+in .1 quantity of 1.5 to 2 tines the stoichiometric, for the purpose of combining
+with hardness and iron cations present in the feed water. as well as for dissolv-
+ing previously formed deposits and converting than into a complex easily soluble
+form convenient for the removal of impurities with the blovdown, which is increased
+to 10 percent. The feasibility of performing a washing cycle "in operation" for
+low-capacity boilers is demonstrated.
+
+UDC 6Zl.3ll.25:621.039
+
+QUESTIONS RELATING TO THE HEAT ENGINEERING RELIABILITY OF HATER-COOLED POWER
+REACTORS
+
+[Abstract of article by Kabanov, LP. and Reynsh, V.]
+
+[Text] An analysis is made of a three-dimensional calculation scheme for estimt-
+ing heat engineering reliability. The results are given of a calculation for
+reactors of the VVER-MO and Willi-1000 type.
+
+UDC 621.311.25:621.039
+
+ESTIMATION OF THE PERFORMANCE RELIABILITY OF THE SHELL OF A NUCLEAR POWER PLANT
+REACTOR
+
+[Abstract of article by Kuznetsov, V.D. and Tsimer, A.]
+
+[Text] A procedure is presented for calculating the reliability of the shell of
+a nuclear power plant reactor by using the probabilistic approach. An attempt is
+made to take into account the existence of flaws in the shell's material and the
+dynamics of their development. The procedure makes it possible to take into ac-
+count the influence of such factors as the nature of operation, features of ef-
+fective loads and embrittlement of the material.
+
+UDC 621.039.53
+
+TWO-METAL CREVICE CORROSION OF STRUCTURAL STEEL UNDER CONDITIONS OF NEUTRAL
+WATER PARAMETERS WITH THE FEEDING 0F OXYGEN
+
+[Abstract of article by Tolstykh, A.N. and Lipanina, A.A.]
+
+[Text] The results are given of a study of the two-metal crevice corrosion of
+steel specimens in a loop with the following parameters of the medium: pressure
+of 0.6 MP8, temperature of 428 K, traveling speed of medium (condensate) of 0.5
+m/s. Oxygen content-~04 to 0.4 met/kg. The size of the gap in assemblies was
+not greater than 0.1 m. Studies were made of specimens of grade 20 steel in com-
+bination with steel of grades 0|(h18N10T, AS—9 and EP-53 for 1500 h. It is demon.-
+strated that the rate of corrosion of grade 20 steel reaches maximum values of
+0.037 g/mzh in combination with grade as-9 steel and minimal values of 0.025
+g/mzh in contact with grade 0Khl8NlO‘l‘ steel. Pits up to 70 microns deep were
+present in grade 20 steel after testing, and there were no pits in the other ma-
+terials tested.
+
+2
+FOR OFFICIAL USE ONLY
+UDC 621.311.253621.039
+
+C
+
+USE OF RELIABILITY METHODS l'OR A COMPARATIVE ANALYSIS OP NUCLEAR POWER PLANT
+SAFETY SYSTEMS
+
+[Abstract of arti‘E‘le by Kabanov, LP. and Hakarovskiy, P.L.]
+
+[Text] A comparative analysis is made of. the reliability of the emergency cooling
+systems of RINK-1000 and scan reactors by means of the HdOOOl program, which
+analyzes reliability by means of the "failure tree" method.
+
+UDC 621.039.53
+
+STUDY OF THE CORROSION RESISTANCE 0P PEARLITIC STEEL AS APPLIED TO THE OPERATING
+CONDITIONS OF THE CONDENSATE FEED SECTIM OP STEAM POWER PL‘NTS
+
+[Abstract of article by Tolstykh, A.N. and Ten. A.]
+
+[Text] The results are given of a study of the corrosion resistance of pearlitic
+steel in an experimental loop at a temperature of 628 K with a rate of movement
+of the condensate of 5 m/s for 1500 h. It is demonstrated that under conditions
+of neutral water parameters with the feeding of 10 to 30 11ng of oxygen the cor-
+rosion of grade 20 steel reaches 0.1“ g/mzh.
+
+UDC 621.039.58
+
+STABILITY OF A REACTOR OF THE POOL TYPE OPERATING UNDER CONDITIONS OF SURFACE
+BOILING
+
+[Abstract of article by Ratnikov. Ye.F., Vlasov, V.I., Hokrushiy, S.A., Radchenko,
+R.V., Shagslov, A.G., Shtoyk, A.G. and Ismgilov, R.Sh.]
+
+[Text] The hydrodynamic stability of the channels of an IW—Z reactor is dis-
+cussed. It is demonstrated that conditions are possible under which the reactor
+operates unatably. The appearance of instability in the core can result in the
+origin of heat stresses and the failure of fuel elements. It is demonstrated that
+for determining the region of stable operation of a reactor it is necessary to
+develop methods of fixing conditions for boiling of the heat transfer agent.
+
+UDC 621.311.25:621.039
+mDELING 01' DYNAMIC PROCESSES IN A NUCLEAR POWER PLANT
+[Abstract of article by Kuznetsov, N). and Romanov, Ye.V.]
+[Text] The dynamics of a reactor are discussed, taking into account six groups of
+delayed neutrons and reactivity feedback. The results are given of the calcula-
+
+tion of some accidental processes, in particular, with de-energising of the main
+circulating pumps.
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.311.25:621.039
+
+EXPERIMENTAL STUDY OF THE MECHANISM FOR EJECTION OF THE WATER HEAT TRANSFER AGENT
+WITH THO -HAY OUTPLOU
+
+[Abstract of article by Dement'yev, B.A. and A1'-Bakhili]
+
+[Text] The results are given of an experimental study of hydrodynamic processes
+in sudden ejection of the water heat transfer agent with two-way outflow from a
+high-pressure vessel, simulating the shell of a water-cooled reactor with intra-
+shell equipment. The mechanism for ejection of the boiling heat transfer agent
+and the influence of various factors on dewatering of the vessel are discussed.
+
+UDC 621.311.25:621.039
+DETERMINATION OF NONSTATIONARY'RATE O? FLOW 0? A BOILING HEAT TRANSFER AGENT
+[Abstract of article by Dement'yev, B.A. and A1'-Bakhili]
+
+[Text] The procedure and the results are given of a determination of the non-
+stationary rate of flow of a boiling heat transfer agent when it is ejected from
+a high-pressure vessel. An approximation equation which describes the nonstation-
+
+ary rate of flow is given.
+
+UDC 621.039.526.53:669.26
+
+INFLUENCE OF NICKEL ON THE CONVERSION FACTOR 0F PAST REACTORS
+(Abstract of article by Kalsfati, D.D. and Groshkov, 6.1.]
+
+[Text] A study is made of the influence of nickel, contained in the construction
+materials of fast reactors, on the conversion factor for several heat transfer
+agents. It is demonstrated that the conversion factor is reduced considerably
+with an increase in nickel content. The conclusion is drawn that in selecting
+construction materials for fast reactors it is desirable to be oriented toward
+grades of steel and alloys with a low nickel content, especially for steam-cooled
+reactors.
+
+UDC 621.311.22:639.025
+
+SUPPLY OF HEAT FROM THE PRIMARY CIRCUIT 0P HATER-COOLED POWER REACTORS FOR
+COVERING THE PEAK HEAT DEMAND OF A NUCLEAR HEAT AND POHER PLANT
+
+[Abstract of article by Abramov, A.I., Il'chenko, A.c. and Kayekin, V.S.]
+
+[Text] A scheme is presented for covering the peak heat demand of a nuclear heat
+and power plant with the heat of the primary circuit of a reactor. For a nuclea:
+heat and power plant with a reactor of the water-cooled power reactor type, a pro-
+cedure is given for determining the amount of adjusted expenditures for nuclear
+fuel taking into account the change in the heat rating of the reactor and the
+
+size of the reactivity margin while holding constant the values of the flow rate
+
+FON:0FF“NAI.USE(NVLY
+of the heat transfer agent, the length of the reactor‘s lifetime and the critical
+heat demand safety factor.
+
+The results of technical and economic calculations are presented.
+
+UDC 621.311.223639.025
+CHOICE OF SEPARATING PRESSURE FOR EXTRACTION TUEBINES OPERATING 0“ SAIUEATED STEAM
+[Abstract of article by Abramov, A.I., Tishin, 3.6. and Il'chenko. A.G.]
+
+[Text] The results are given of calculations for selecting the optimum value of
+the separating pressure in systems of nuclear heat and power plant steam turbine
+plants of the TKrQSOISOO-GS type, with high attached condensation capacity.
+
+It is demonstrated that the value of the separating pressure in systems of these
+plants can be selected to be the same as for nuclear power plant condensing tur—
+
+bines.
+
+UDC 621.1:621.311.2
+
+OPTIMIZATION OF DISTRIBUTION OF REGENERATIVE HEATING OF HATER IN A NUCLEAR POHER
+PLANT
+
+[Abstract of article by Ryzhkin, v.Ya., Tssnev, S.V. and Sarvate, 8.]
+
+[Text] A procedure is discussed for making an analytical determination of the
+optimum distribution of the regenerative heating of the feed water of nuclear
+steam turbine plants operating on saturated steam. For the sake of comparison,
+the results are given of a determination of the optimum distribution of heating
+of water by means of alternative calculations.
+
+UDC 621.311.253621.039
+AERODYNAHICS 0P VENT TUBES
+[Abstract of article by Gsvrilov, Ye.I. and Yakunin, A.V.]
+[Text] In a nuclear power plant radioactive gases are blown off from the equip-
+ment of the first circuit. pass through a special gas cleaning system, are thinned
+with ventilation air and are saitted in the atmosphere by means of vent tubes.
+
+Aerodynamic systems are suggested for vent tubes which make rarefaction possible
+over the entire height of the gas venting shaft.
+
+000 621.311.25:621.039.681.332/333
+
+SIMULATION 0N SHALL COMPUTERS IN REAL TIME OF ELEMENTS AND SYSTEMS OP THE FIRST
+CIRCUIT OF A NUCLEAR POWER PLANT "TIE VVER-440 UNITS
+
+[Abstract of article by Plyutinakiy, V.I., Koloskov. Yu.V. and Gribanova. Z.K.]
+
+5
+ma omcm. use ONLY
+I U“ V. I'l~ll‘h Us!“ Vl‘hl
+
+[Text] The use of the mode approach to simulating the operation of a nuclear
+power plant with VVER-440 units in creating simulators based on small computers
+is discussed.
+
+The results are presented of calculations of the dynamic characteristics of
+various models of the VVER—440 reactor with various operating modes of the
+nuclear power plant and the use of a large integration step for differential
+equations.
+
+UDC 621.039.524.44
+
+MATHEMATICAL MODEL OF CIRCULATION DYNAMICS IN A LARGE SHELL-TYPE BOILING HATER
+REACTOR
+
+[Abstract of article by Plyutinskiy. V.I. and Leppik, P.A.]
+
+[Text] A linear mathematical spatially distributed model of the natural circula—
+tion loop in a large shell-type boiling water reactor is discussed. The conditions
+for interchannel and loopwide hydraulic stability are formulated.
+
+UDC 621.176:536.248.2
+PROCEDURE FOR A CHECK CALCUUNTIOH OF A CONDENSATION INJECTOR
+
+[Abstract of article by Shpil'rayn, 8.3., Sevast'yanov, A.P., An, I.V., Buturlinov,
+A.V., Grigoryan, A.B. and Solov'yev. A.A.]
+
+[Text] A procedure is presented which is constructed on the basis of the experi-
+mental data described in the paper. An analysis is made of the structure of the
+flow and of the measured static pressure field, liquid phase velocity and acoustic
+characteristics of the stream. The conclusion is drawn that a structural transi-
+tion exists from a steam drop flow to a foam bubble one. A system of 18 differen—
+tial equations of conservation with corresponding closing relations is suggested
+for the laminar flow section. The systems of equations presented make it possible
+to calculate flow parameters in the injector's mixing chamber from assigned initial
+parameters and a known geometry.
+
+UDC 621.176:536.248.2
+
+CALCULATION OF THE COEFFICIENT 0P VELOCITY OF THE MIXING CHAMBER OF A CONDENSATIOH
+INJECTOR HITH CENTRAL FEEDING OF SUPERHEATED STEAM
+
+[Abstract of article by Shpil'rayn, 3.8., Sevast'yanov, A.P., An. I.V. and
+Solov'yev. A.A.]
+
+[Text] The parameters of the main effects determining the value of the coefficient
+of velocity of a mixing chamber, ok , are discussed: the shock wave in the region
+of the exit section of nozzles and Ehe shock wave at the center of the mixing
+chamber. Friction losses of the two—phase stream against the channel wall are
+calculated, taking into account the distribution of mixing losses (shock losses)
+
+FOR OFFICIAL USE ONLY
+over the length of the mixing chanber. On this basis a semienpirical relation-
+ship is obtained for calculating d . valid in general fora for the class of
+injectors with the central feeding E! superheated steam at supersonic velocity.
+
+Agreement with the experimental data is satisfactory.
+
+UDC 621.039.578.001.5
+
+STUDY OF THE CONVECTIVE HEAT EXCHANGE CRISIS IN PIPES AT LOW VBDOCITIBS 0? THE
+STEAM-AND-HATER MIXTURE
+
+[Abstract of article by Smirnov, 0.x. and Afonin, V.K.]
+
+[Text] The results are given of a regression analysis of data obtained on the
+convective heat exchange crisis boundary and convective heat exchange coefficients
+in the supercritical region with low velocities of the steamwand-unter mixture in
+pipes. A comparison is made of data with a calculation according to the familiar
+empirical relationships.
+
+UDC 621.039.516
+
+PHYSICAL PREMISES FOR ACOUSTICAL DIAGNOSIS OF HODIPICATION OP PLOW CONDITIONS OF
+A TWO-PHASE MEDIUM
+
+[Abstract of article by Proskuryakov, K.N.]
+
+[Text] The results are given of a theoretical and calculation study of the
+dependence of acoustic vibrations in a two-phase flow on flow conditions.
+
+It is demonstrated that an increase in the acoustical capacity of the heat transfer
+agent results in the appearance of a negative component of acoustic resistance
+and is conducive to the amplification of vibrations.
+
+COPYRIGHT: Moskovskiy energeticheskiy institut, 1980
+
+8831
+C50: 1861/154
+
+7
+FOR 0F11C1A1.USBGDNLN
+I'UK UPPILIAL use ONLY
+
+CONSTRUCTION OF NUCLEAR AND ORGANIC-FUEL-FIRED POWER PLANTS
+
+Moscow STROITEL'STVO TBPLOVYK“ ELEKTROSTANTSIY NA YADBKNOH I ORGANICHBSKOH
+TOPLIVE in Russian No 180, 1980 (signed to press 12 Aug 80) PP 2, 132—133
+
+[Annotation and table of contents from book "Construction of Nuclear and Organic-
+Fuel-Fired Power Plants", edited by Professor Doctor of Technical Sciences
+
+v.3. Dubrovskiy and Assistant Professor Candidate of Technical Sciences N.Ya.
+Thrchin, Moscow Order of the Red Banner of Labor Engineering—Construction In-
+stitute imeni V.V. Kuybyshev. 1000 copies, 134 pages]
+
+[Text] Articles are published here. representing the results of research on the
+protection, strength and economic characteristics of construction designs of
+nuclear and thermal power plants, and articles devoted to studying the aftereffects
+of chemical, mechanical and structural changes taking place in a number of con—
+struction materials in the work process, and to study of the technical and economic
+indices of the construction of thermal and nuclear power plants.
+
+Intended for scientific personnel and engineers specializing in various areas
+of the planning and construction of power plants, as well as for students
+enrolled in the course "Construction of Thermal and Nuclear Power Plants."
+
+CONTENTS Page
+
+Koltun, 0.V. and Lavdanskiy, P.A. "Determination of the Bulk Height of
+Concrete Shields in Designing the Shielding for Nuclear Power Plant
+Technological Equipment" 3
+
+Koltun, 0.V., Lavdanskiy, P.A. and Shekhovtsova, V.D. "Influence of
+
+the Quantity Factor in the Production of Assembly Elements on the Cost
+
+of their Manufacture Under Conditions of the Construction of a Nuclear
+
+Power Plant" 6
+
+Pergsmenshchik, B.K., Zholdak, 6.1. and Volkova, L.V. 'ﬁhermal Conditions
+of Shielding Structures of a Nuclear Power Plant" 10
+
+Dubrovskiy, v.3. and Muzalevskiy, L.P. "Decisive Parameters and Criteria
+of the Radiation Resistance of Concrete" 17
+
+Barman, G.M., Bolberov, A.A. and Solov'yev, V.N. "Influence of Process
+Structure on the Radiation Resistance of Epoxy Compositions" 26
+
+8
+FOR OFFICIAL USE ONLY
+D' ynkov, Ye. M. and Solov' yev. V. N "Influence of Irradiation on
+Radiation Aging of Polyethylene"
+
+Popov, N. N., Zharnitskiy, v.1. and Belikov, A. A. "New Method of Calculat—
+ing Perroconcrete Structures in the Elastoplastic Stage"
+
+Turchin, N. Ya. and Makarin, L. V. "Information System and System for Quality
+Control of work in the Construction and Preparation for Entry into Service of
+Thermal Power Plants"
+
+Pavlov. A.S. "Optimization of Circulation Flow Rate at a Thermal Power
+Plant with Cooling Towers"
+
+Mskarin, L.V. "Designing Series-Produced Thermal Power Plants for an
+Energy Complex"
+
+Yegorovn, M.V. "Some Questions Relating to Specialization of Production"
+
+Korsun, Yu.N. and Hskarin, L.V. "Influence of Design Solutions for
+Boiler Rooms of Series-Produced Thermal Power Plants an Assembly Indicators
+of Low-Strain Beam Systems at High-Capacity Suspended Steam Generators"
+
+Turchin. N.Ya., Hal'kov, V.V. and Shishkin, V.V. "Procedure for Determining
+Actual Specific Labor Costs in Construction of Thermal and Nuclear Power
+Plants"
+
+Mal'kov, V.V. and Shishkin, V.V. "Measurement of Labor Productivity Utiliz-
+ing Full-Scale Indicators"
+
+Turchin, N.Ya. '"Classification of General Plans and Preliminary Determina-
+tion of Areas to be Set Aside for the Construction of Thermal Power Plants
+with 300-HW Power-Generating Units"
+
+Zmiy, S.N. "Technical and Economic Substantiation of Choice of Optimum
+Solutions for a Construction Hester Plot Plan"
+
+Volkova, L.V., Pergamenshchik, 3.x. and Kim, K.N. "Study of the Character—
+istics of High-Plasticity Concrete Mixtures"
+
+Pis'mcnskiy. V.K., Gudin, u.c., Pergamenshchik, 3.x. and Spirkin, V.Ya.
+"Pressure of 8 Concrete Mixture"
+
+Nichiporuk, 1.1. "Question of the Choice of Designs for Ash Conveyer
+Lines for a High-Capacity GEES"
+
+COPYRIGHT: “181 in. V.V. Kuybysheva, 1980
+
+8831
+cso: 1861/149
+
+9
+INJR‘OFFICJAJ.IJSEZ(NVLY
+
+28
+
+39
+
+49
+
+59
+
+67
+
+72
+
+77
+
+86
+
+92
+
+100
+
+108
+
+113
+
+119
+
+127
+run Ul‘flblﬂh UJD Ul‘hl
+
+UDC 669.018.293621.039.5/.6
+RESEARCH AND DEVELOPMENT 01’ MATERIALS FOR NUCLEAR FUSION REACTORS
+
+Moscow ISSLEDOVANTYE I RAZRABOTKA MATERIALOV DLYA RBAK‘I‘OROV TEWADBRNOGO
+SIN'I‘EZA in Russian 1981 pp 2, 172—183
+
+[Annotation and abstracts from collection of articles "Research and Development
+of Materials for Nuclear Fusion Reactors", edited by Academician N.V. Ageyev,
+Izdatel'stvo "Nauka", 183 pages]
+
+[Text] At the present time one of the most important tasks facing our country's
+scientists and engineers is the creation of a new energy base based on the
+utilization of thermonuclear power engineering.
+
+The creation in the very near future of demonstration and industrial nuclear
+fusion reactors with mgnetic and inertial plasma confinement has already now
+become a reality. However, in order to solve these problems it is necessary to
+create and study many classes of construction materials able to function under
+the very severe conditions of thermonuclear reactors.
+
+The present collection is made up of original articles on fundamental problems
+of solid-state radiation physics as applied to problems of creating mterials
+for nuclear fusion reactors. developing construction materials, etc. Individual
+sections of the collection are devoted to studying the bulk and surface radiation
+properties of various metallic and other materials; also included are original
+articles on materials-science problems relating to pulsed thermonuclear reactors.
+
+This edition is intended for a wide range of researchers and practical workers
+working on scientific and engineering problems of controlled nuclear fusion.
+
+UDC 539.12.06.:621.039.616
+STUDY OF THE INFLUENCE OF ALLOYING ON THE RADIATION RESISTANCE 0F HOLYBDENUM
+[Abstract of article by Kalin, B.A., Skorov, 0.11. and Yakushin, V.L.]
+
+[Text] A study is made of the cathode sputtering and blistering of grade KChVP
+vacuum-melted molybdenum and alloys TsﬂlOVD, TsM6 and Mo — 0.6 to 2.6 percent by
+weight V - 0.03 percent by weight C when exposed to helium ions. Sputtering was
+carried out in a low-pressure helium glow discharge and blistering was studied
+under exposure to a monoenergetic ion beam with energy of 20 keV at a temperature
+
+10
+FOR OFFICIAL USE ONLY
+of 330 K with a,dose of 5-1017 ions/cmz. It is demonstrated that alloying
+molybdenum with slight additions of vanadium, boron, aluminum and carbon does not
+result in considerable changes in the erosion coefficients of alloys and in
+blister-formation parameters as compared with pure molybdenum. Increasing the
+content of vanadium in the Ho-V-C system results in some reduction of the alloy's
+
+sputtering coefficient.
+
+UDC 621.039.532.21
+
+momma ALTERATION or mom-mm or GRAPHITE cousmucnou mmms IN THE
+RANGE or 70-950 °c TO names or 2.5-1022 n/cm2
+
+[Abstract of article by Virgil'yev, Yu.s. and Koatikov, V.I.]
+
+[Text] Data are given on radiation alteration of the physical properties (dimen-
+sional stability, heat conduction, strength, creep, etc.) of construction graphite
+for a wide temperature and neutron fluence range. The influence of several
+technological factors in the production of graphite on radiation resistance is
+
+discussed.
+
+It is suggested that the data presented can be used for a preliminary estimate
+
+of the working capacity of graphite under conditions of a fusion reactor. It is
+furthermore noted that selection of the optimum working temperature in addition
+to selection of the grade of graphite will make it possible to reduce radiation
+disturbance of its properties and at the same time to extend the period for the
+
+functioning of graphite in a fusion reactor.
+
+UDC 620.172.251.2
+
+PROCEDURE FOR STUDYING CREEP OF MATERIALS IN THE PROCESS OF THERMAL CYCLING
+[Abstract of article by Skorov. D.H., Kalin, B.A. and Fedotov, V.T.]
+
+[Text] As applied to proposed temperature-time parameters of the operation of
+fusion reactors, a procedure is suggested for studying creep with the temperature
+changing in cycles, making it possible to conduct tests under temperature condi-
+tions controlled with high precision and to compare anisothermic tests with re-
+sults obtained at constant temperatures. A description is given of a high-vacuum
+unit, of a model of special design heated by the direct passing of electric
+current through it, and of the flowchart of the program for calculating on a
+computer anisothermic creep curves, and the results of a study of niobium alloy
+
+ELNl are given.
+UDC 621.039.636
+
+PROBLEMS 0? CONSTRUCTION MATERIALS FOR THE FIRST "ALL OF A FUSION REACTOR
+ASSOCIATED WITH VOLUMETRIC RADIATION EFFECTS
+
+[Abstract of article by Kazakov, V.A. and Shamardin. V.K.]
+
+11
+iron omcm. use ONLY
+I'UK UI‘I'IL'IAI. Ubl‘. ONLY
+
+[Textl A review of the published data has established definite progress both
+
+in determination of the probable working parameters of the first wall in fusion
+reactors of various designs and in understanding of the features of radiation
+effects which will take place in fusion reactors. The most complicated problems
+invoIve volumetric radiation damage. They are similar to a great extent to those
+discovered and studied in sufficient detail in materials used in fission reactors.
+
+A whole series of experimental studies indicate the possibility of a more drastic
+manifestation of some already known problems, such as, for example, high-tempera-
+ture radiation embrittlement and swelling of nickel-containing steel and alloys
+under conditions of the use of the first wall of a fusion reactor. These radia-
+tion effects are intensified on account of the high concentrations of helium
+formed in the majority of elements on account of nuclear reactions caused by
+neutrons with energy of 14 HeV. The possibility is indicated of realistic tech-
+nological and design solutions to a whole series of difficulties in the selection
+and recommendation of materials for the first generation of fusion reactors.
+
+The complexity of materials science problems associated with volumetric radiation
+effects and the diversity of ways of solving them necessitate a comprehensive
+approach for the purpose of finding the most economical and safe variants of
+designs for the blanket of a fusion reactor.
+
+UDC 533.924:539.12.17
+STUDY OF PROCESSES 0P SUBLIHATION OF SOME CONSTRDCTION MATERIALS
+[Abstract of article by Fedichkin, G.M., Bondarenko, 6.6. and Shmykov, A.A.]
+
+[Text] By the method of microveighing under high vacuum, measurements are made
+of the rates of sublimation of grade EP838 and 316 steel, the "Nimonik" alloy
+
+(50 percent gamma phase) and a beta-titanium alloy over a wide temperature range.
+Kinetic mechanisms are obtained for processes of the sublimation of volatile com-
+ponents from the alloys studied. It is established that processes of the subli-
+mation of volatile components of these alloys are limited by diffusion of these'
+components toward the sublimation surface. Individual activation energies are
+calculated. It is demonstrated that the manganese in EP-838 steel (2 - 45.7
+heal/mole) is sublimated at the highest rate at working temperatures,aresu1ting
+in the appearance of impermissible ferromagnetic regions on the surface of the
+material. Based on the results obtained, an estimate is made of the contribution
+of sublimation processes to the total erosion of construction materials.
+
+UDC 539.12.04:621.039.616
+INFLUENCE OF INTENSITY 0F ION FLUX ON RADIATION EROSION OF MATERIALS
+[Abstract of article by Kalin, B.A., Pol'skiy, v.1. and Skorov, D.M.]
+[Text] An analysis is made of the influence of the intensity of a beam of light
+ions on the heating-up temperature of an irradiated target and its radiation
+
+destruction as applied to fusion reactors. Heating-up temperatures are calculated
+from a fourth-order heat balance equation for various cases of heat removal of
+
+12
+FOR OFFICIAL USE ONLY
+the target. An estimate is also made of the possible migration of bubbles of
+introduced gas from the depth to the surface of the target. The calculations
+presented demonstrate that erosion of the surface on account of the gas bubble
+migration mechanism depends substantially on heating up of the target and results
+in the appearance of an.etched relief in the for: of a spongy or acicular struc-
+ture of the surface of the irradiated target.
+
+UDC 539.12.04:621.039.616
+
+STUDY OF MASS TEANSFER MECHANISMS IN A 'COVERING - GAP - FIRST HALL' SYSTEM
+AS APPLIED TO FUSION REACTORS
+
+[Abstract of article by Kirilin, N.H., Shulov, V.A., Skorov, D.H., Yevstyukhin,
+A.I. and Kalin, B;A.]
+
+[Text] A thermodynamic and kinetic analysis is made of the an alloy-covering system
+with the presence between them of a gap fillgdzwith a_gixture of active gases
+(hydrogen, oxygen, etc.) with pressure of 10 to 10 “t.-
+
+Blements with an atomic number of less than 14 and their compounds are discussed
+as shielding materials, and alloys based on vanadium. molybdenum and niobium and
+stainless steels as materials for the first wall. It is demonstrated that alloy-
+ing high-melting metals with T1 and Si (for niobiumo suppresses the mass transfer
+of atoms of alloys to the covering over the 800-1200 °c temperature rnage. From
+the viewpoint of mass transfer, of the shielding materials considered preference
+
+is to be given to compounds based on aluminum.
+
+UDC S33.924:539.12.17
+
+DEPENDENCE OF RADIATION EROSION OF OKh16N15HZB STAINLESS STEEL ON THE DOSE
+IN IRRADIATION HITH NELIUM IONS WITH ENERGY 0? 20 keV
+
+[Abstract of article by Kalin, B.A., Kirilin, N.H., Skorov, D.N. and Chernov, I.I.]
+
+[Text] A study is made of the radiation erosion of 0Khl6Nl$MZB stainless steel
+in the austenitized and 20-percent cold-strained states when irradiated with
+
+helium ions with energy of 20 keV at 200 °c over the dose range of (10 to 500)'
+-10“ ions/m2. It 13 demonstrated that in the dose range studied the maximum
+
+erosion coefficient was on the order of 0.5 at/ion when irradiating with a dose
+of 1'1022 ion/m2 and was reduced'with an increase in the ion dose. with irradia-
+
+tion doses higher than 2-102, ions/m2 the total erosion coefficient practically
+equals the ateel's sputtering ratio. The influence of pretreatment on erosion of
+the material is reduced with an increase in dose and is practically lacking with
+high irradiation doses of (4 to 6)'1022 ions/m2.
+
+'UDC 669.27:537.S36.9
+
+FIELD-ION AND ELECTRON MICROSCOPE STUDY OF THE SURIACE OP TUNGSTEN IEEADIATED
+WITH HELIUH IONS
+
+13
+FOIiOFFKJA1.USE(NVLY
+o «as we 0 ls-‘lmu by... Use...
+
+[Abstract of article by Dranova, Zh.I., Mlkhaylovskiy, I.H., Pivovar, L.I. and
+Tostolutskaya, G.D.]
+
+[Text] By the methods of electron and field-ion microscopy studies were made of
+changes in the structure and microrelief of the surface of tungsten under the
+effect of irradiation with helium ions. A study was made by means of an electron
+microscope of the influence on blistering of the original structure of the mater-
+ial formed as the result of rolling and recrystallization annealing.
+
+Comparison of structures formed on the surface of tungsten as the result of
+irradiation at room temperature and as the result of irradiation with subsequent
+annealing demonstrated that no substantial difference was observed in the nature
+of scouring. Measurements were made of the thickness of the scoured layer as a
+function of the ion energy and a comparison was made of the thickness of covers
+with calculated values of the mean free paths of helium ions in tungsten.
+
+By means of a field-ion microscope a study was made of the atomic topography
+of single crystals of tungsten irradiated with helium ions with energy of 0.1
+to 3.0 keV over the dose range of 10H to 1017 cm-z. It was established that
+with an irradiation dose of 10u to 10‘2 cm-2 the change in microtopography as
+the result of the radiation effect is two orders of magnitude greater than the
+form-alteration effect caused by erosion. Early stages of blister formation
+were observed with doses of 101 cm 2 and higher; the blisters measured 102 to
+103 A. A study was made of the microstructure of irradiated tungsten by means
+of the method of field-controlled layer-by-layer sublimation.
+
+UDC 533.924:539.12.l7
+
+HAGNETO-OTPICAL STUDY OF ISOLATION OF THE FERROHAGNBTIC PHASE ON THE SURFACE OF
+SOME CONSTRUCTION MATERIALS FOR FUSION REACTORS
+
+[Abstract of article by Krinchik, G.S., Nikitin, L.V., Bondarenko, G.G. and
+Fedichkin, G.M.]
+
+[Text] By the magneto-optical method a study is made of isolation of the ferro-
+magnetic phase on the surface of chrome-manganese austenitic steel after various
+kinds of heat treatment. The ferromagnetic phase was not detected on the original
+samples which had been electropolished, but after vacuum annealing the appearance
+of a ferromagnetic alpha phase was observed caused by the sublimation of susten-
+itized components. Quantitative characteristics of the selective sublimation of
+these components are given. obtained by the method of microweighing under high
+vacuum. For the purpose of studying the kinetics of the alpha phase formation
+process taking place, temperature measurements were made with a specially created
+magneto—optical apparatus making it possible to study surface magnetic character-
+istics under conditions of high vacuum and high temperatures. A comparative ana-
+lysis is made of processes taking place in materials of various compositions
+
+and the possibility is indicated of the appearance of a thin ferromagnetic layer
+in the course of utilization of the first wall of a reactor.
+
+1h
+FOR OFFICIAL USE ONLY
+UDC 662.7‘7:546.ll:533.9:537.525
+
+INTERACTION OF CARBON (GRAPHITE AND DIAMOND) COATINGS RITE THE HYDROGEN PLASMA
+OF A 61.0“ DISCHARGE
+
+[Abstract of attitle by Fedoseyev, D.V., Deryagin, B.V., Tolmachev, {u.N.,
+Bukhovets, V.L., Varnin, V.P. and Teremetskaya, 1.6.]
+
+[Text] It has been proven that the application of a coating of an acetylene-
+hydrogen plasma to char substantially reduces the rate of gasiticetion of the
+char in a hydrogen plasma. The dependence of the rate of gasification of a
+carbon coating in a hydrogen plasma on the temperature has a 550-900 °C section
+in which the reaction rate is reduced with an increase in temperature. The
+depth of penetration of the reaction into a layer of diamond powder coated with
+graphite does not exceed 1 an with a particle size of 100 to 125 microns, which
+is associated with the rapid recombination of hydrogen atoms in the powder layer.
+In the interaction of polycrystalline graphite with a hydrogen plasma the amor-
+phous component is gasified first, whereas graphite crystals are gasitied at a
+considerably slower rate.
+
+UDC 539.9.082:533.926
+BLISTERING IN VANADIUM WITH SUCCESSIVE IRRADIATION WITH HYDROGEN AND EELIUM IONS
+
+[Abstract of article by Guseva, M.I., Zykova, N.M., Ionova, Ye.S., Koltygin, V.M.,
+Krasulin, Yu.L., Kurakina, T.S., Nedoapasov, A.V. and Rozina, I.A.]
+
+[Iext] A study is made of the influence of preliminary and later implantation of
+H ions on helium blistering in monocrystalline vanadium. The considerable in-
+fluence of irradiation with hydrogen ions on erosion of the surface has been
+proven and the introduction of hydrogen causes embrittlement of the surface of
+vanadium, resulting in the opening of blisters along the outline of shells.
+
+UDC 621.032.573
+MATERIALS SCIENCE QUESTIONS IN THE PROBLEM O? PDLSED FUSION REACTORS
+
+[Abstract of article by Gryaznov; G.H., Yevtikhin. V.A., Kosukhin. A.Ya., Zanegina.
+O.A., Mosin, A.P. and Gurov, A.D.]
+
+[Text] Factors of the effect of a thermonuclear microexplosion on materials of
+
+the first wall are discussed in condensed form. Key trends of studies relating
+to the theoretical and experimental investigation of materials are indicated.
+
+UDC 533.926:539.12.l7
+
+STUDY OF THE PROCESS OF BLISTERING 0F ALUMINUM AND STAINLESS STEEL IN IRRADIATION
+WITH HELIUM IONS
+
+[Abstract of article by Bondarenko, 6.6. and Vasil'yevskiy, V.V.]
+
+15
+FOR omcm. use ONLY
+l'UK EII'I'I‘LIAL 05f. UNI-I
+
+[Text] An electron microscope study is made of erosion of the surface of poly~
+crystalline aluminum.and stainless steel of austenitic class EP-838 under the
+effect of helium ions with energy of 10. 20 and 175 keV. The materials were
+irradiated in the “Vezuviy” [Vesuvius] heavy ion accelerator, as well as directly
+in the column of an EFZ-ZG field-emission microscope by means of a special
+attachment.
+
+A study is made of the influence of postradiation annealing on the nature of
+form modification and scouring of the surface of EP-838 steel. It has been
+proven that increasing the temperature of the irradiated sample to 1200 'C re-
+sults in an approximately sevenfold increase in the surface erosion coefficient.
+
+A study is made of the influence of particle energy and the irradiation dose
+
+on the nature of radiation damage to the surface in polycrystalline aluminum.
+
+It is demonstrated that with low energies of helium ions (5 to 10 keV) the domi-
+nant process is physical erosion of the irradiated surface, and with increased
+energies (20 to 30 keV) the blistering effect. In the 5'10l7 to 1.7'10‘° ions/
+[cm2 range increasing the irradiation dose results in an increase in the surface
+erosion coefficient by more than an order of magnitude.
+
+UDC 620. 19
+
+MATERIALS SCIENCE QUESTIONS RELATING TO CREATION OF LIQUID METAL SYSTEMS FOR
+PULSED FUSION REACTORS
+
+[Abstract of article by Gryaznov, G.M., Kosukhin, A.Ya.. Koloskov, D.H.,
+Loseva, N.V. and Yevtikhin, V.A.]
+
+[Text] Possible corrosion processes in a construction material - lithium system
+are discussed. The influence of various factors responsible for the peaetrability
+of an alkali metal and corrosion is demonstrated.
+
+A determination is made of the necessary conditions and technological requirements,
+confirmed by full-scale circuit tests, making possible the reliable working
+capacity of materials of liquid metal systems with lithium.
+
+An analysis is made of working conditions for materials of the blanket zone of
+a pulsed fusion reactor. The possible influence of factors of the microexplosion
+of a D-T target on the materials of the first wall and blanket zone is demon-
+strated. The key trends of studies relating to materials science research are
+delineated.
+
+unc 539.12.04:621.039.616
+STUDY OF RADIATION EROSION OF MATERIALS IN CYCLIC IRRADIATION WITH IONS
+
+[Abstract of article by Begrsmbekov, L.B., Kalin, B.A.. Korshunov, S.N., Skorov,
+D.H., Skulanov, 8.3., Tel'kovskiy. v.9. and Yakushin, V.L.]
+
+[Text] A study is made of the radiation blistering of grade MChV? molybdenum and
+grade VBL—Z vanadium when irradiated with helium ions with energy of 20 keV
+
+16
+FOR OFFICIAL USE ONLY
+in a dose of 2' '10” ions/cm2 over a wide range of angles of incidence of ions
+
+and with a cyclic mode of irradiation. Sinulation of the range of angles of
+incidence of ions is accomplished by evenly turning the target in the process of
+irradiation around an axis perpendicular to the incident ion beam. It is demon-
+strated that the irradiation of materials over a wide range of angles of incidence
+of ions results in reduction of the erosion coefficients of the tutorials because
+of the breaking of blisters and changes in blister formation parameters.
+
+UDC 539.234
+
+PASSING 0P BEAhS 0P HIGH-ENERGY _ELECTRONS THROUGH A GRAPHITE FOIL
+[Abstract of article by Pedoseyev, D.V., Vnukov, S.P. and Statenkova, Ye.V.]
+
+[Text] Graphite foilua material produced as the result of the pyrolysis of
+methane and acetylene—is vacuum tight and thermally stable and therefore can be
+recommended for the windows of high-energy electron accelerators.
+
+A calculation presented of the passing of a fairly powerful beam of relativistic
+electrons (approximately 2 HeV) through graphite foil has demonstrated that
+it can transmit pulses of up to 3 10’ Jim2 .
+
+UDC 539.121.72
+
+HIGH-INTENSITY NEUTRON GENERATORS
+[Abstract of article by Tel'kovskiy, v.c.1
+
+[Text] Methods of producing intense (greater than 10‘3 MM!) neutron flux with
+energy on the order of 14 MeV are discussed. Circuits of neutron generators
+with these parameters developed in our country and abroad are analyzed, utilizing
+the reaction for the helm of deuterium and tritium ("solid __state" and "gas"
+targets) and the reaction for fusion of lithium-7 and deuterium.
+
+In the case of neutron generators with a solid-state target (ions of deuterium
+irradiate a metal target saturated with tritium), design solutions for neutron
+generators are discussed, as well as the physics of processes taking place on the
+irradiated surface (including questions relating to confining the tritium in the
+target).
+
+In the case of a gas target (ions of deuterium bombard a supersonic stream of
+tritium). processes of heat transfer from the reaction zone, the problem of
+
+the entry of a powerful ion beam into a dense gas target and possible design so-
+lutions for neutron generators are discussed.
+
+Possibilities of the creation and the features of neutron generators with a
+lithium target are discussed and the possible circuit of a neutron generator is
+given.
+
+Based on an analysis of the results. directions of further study required for
+the creation of high-intensity neutron generators are pointed out.
+
+FOR OFFICIIA‘II. USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 533.2
+
+PROCESSES 0F DEFECT POMTION AND DIFFUSION IN MOLYBDENUH UNDER CONDITIONS OF
+IRRADIATION WITH LON-ENERGY IONS OF HYDROGEN, DEUTERIUM AND HELIUH
+
+[Abstract of article by Zakharov, A.P.]
+
+[Text] By means of electron microscope methods, structural changes are. traced
+
+in surface layers of molybdenum irradiated with low-energy hydrogen ions. In
+studying processes of the penetration of hydrogen through a metal under conditions
+of the plasma of a glow discharge, the effect of the radiation-accelerated diffu-
+sion of hydrogen has been discovered, caused by the formation of an internal
+interstitial atom - hydrogen atom dynamic complex with a dissociation energy of
+approximately 2 eV. New possibilities for studying the distribution of light
+implanted ions are offered by the method of layer-by-layer analysis by means of
+erosion with argon ions. Because of its application it has been possible to
+
+fix the position of ions in the lattice of a metal with various irradiation tem-
+peratures and to reveal the phenomenon of the redistribution of helium found in
+vacancies as the result of reaction with SAM-N complexes.
+
+UDC 68l.32:548.lo
+INFLUENCE 0N BARDBNING OF THE ALIGNMENT OF RADIATION DEFECTS IN THE SUPERLATTICB
+[Abstract of article by Ibragimov, Sh.Sh., Kirsanov, V.V. and Mpkina, 0.G.]
+
+[Text] By means of a modified Formen-Meykin model the particular case of the
+distribution of radiation defects in front of a moving dislocation is discussed,
+namely, their ordered arrangement (the so-called superlattice of defects).
+
+Since defects in exPerimentally observed superlattices are nonuniform in size,
+it is to be expected that in interaction with a moving dislocation they will
+behave differently. Within the framework of the model used an attempt is made
+to take this effect into account, by introducing two sizes of point obstacles
+and distributing them randomly over points of the superlattice.
+
+UDC 620.193.6:539.219.3
+
+RESULTS OF STUDYING THE PROPERTIES OF NICKEL-FREE STAINLESS STEEL UNDER CONDITIONS
+CHARACTERISTIC O? A FUSION REACTOR
+
+[Abstract of article by Barannikova, G.A.. Vaulin, L.N.. Gol'tsov, v.a.. Guseva,
+H.I., Latyshev, V.V., Prokof'yev, Yu.c., Saksaganskiy, 6.1... Sotnichanko. A.L.
+and Fefelov, P.A.]
+
+[Text] The results are presented of studies of the properties of chrome-manganese
+steel O6Kh17Gl7DAMB (A59) and 0610117615NAB (AS/o3) performed in connection with
+studying the possibility of using these steels in designs of fusion reactors.
+
+In particular, experimental data are presented on the change in the mechanical
+characteristics of these steels in the temperature range of 20 to 700 °c after
+being irradiated with fast neutrons (dose of 8'102° n/cmz, irradiation
+
+18
+FOR OFFICIAL USE ONLY
+temperature of: 650 '0) and on a study of short—tine fatigue in the 20—600 '0
+remperature range under vacuum and in hydrogen.
+
+Data are also presented on the erosion resistance of the steels studied when
+irradiated with hydrogen and helium ions and on their gas diffusion and nagnetic
+
+I .v. -
+
+characteristics.
+
+UDC 539.9.082:533.924
+
+PROBLEMS RELATING TO THE FIRST HALL OF FUSION REACTORS
+[Abstract of article by Guseva, H.I.. Hartynenko, Yu.v. and Pleshivtsev, N.V.]
+
+[Text] Major processes on the surface of the first wall of a thermonuclear
+reactor-—a tokamak-are discussed. A calculation is made of the rate of erosion
+of the wall of a T-ZO tokamak under the effect of bombarding ions (atoms), D ,
+
+T and He . It is demonstrated that the main physical process responsible for
+erosion of the surface of the first wall is erosion of the wall's material by
+
+D , T and He ions. Ways of protecting the first wall from erosion are discussed.
+
+UDC 539.9.082:533.924
+
+STUDY OF EROSION OF THE SURFACE OF CHROME-NICKEL ALLOYS IN BOMBARDHENT WITH
+HELIUH AND HYDROGEN IONS
+
+[Abstract of article by Busharov. N.P., Gusev, V.H., Guseva, H.1., lonova, Ye.S.,
+Hansurovn, A.N., Chelnokov, 0.1.. Afrikanov, I.N., Hbroaov. V.N. and Pefelov, P.A.]
+
+[Text] Studies are made of radiation damage to the surface of Pe-Cr-Ni alloys
+in bombardment with ions with energy of 40 keV at various temperatures. At
+
+irr re 10" - 200 'C scouring of layers is observed and the erosion rate
+reaches Sppr ximately 1 at/ion, and at 500 'C blisters form on the surface.
+Maximum erosion of the surface takes place at Tirr about 39% of melting point."
+Erosion coefficients of these alloys are measured for ions with energy of 10 Rev.
+
+000 621.791.85:669.018.8
+
+ROLE OF RADIATION-STIMULATBD PHASE TRANSFORMATIONS IN CHANGING OF THE PROPERTIES
+OF FUSION REACTOR MATERIALS
+
+[Abstract of article by Bystrov, L.N., Ivanov, L.I., Ustinovshchikov, V.H. and
+Tsepelev, A.B.]
+
+[Text] The question of the influence of radiation-stimulated structural phase
+transformations on the mechanical properties of fusion reactor construction ma-
+terials is discussed. A study is made of grades 316 and EP838 stainless steel.
+
+A study is made of the kinetics of a change in the electrical resistance of
+
+316 steel under the effect of electron irradiation with energy of 2.3 Hev in the
+temperature range of 100-400 'c and the possible mechanism for changes observed
+in electrical resistance is discussed. By the active tension method and a
+
+study of creep a measurement is made of the mechanical characteristics of 316 and
+
+19
+FOR OFFICIAI.USEGDNLY
+FOR OFFICIAL USE ONLY
+
+EP838 steel irradiated with electrons in the austenitized and cold-strained
+states. The conclusion is drawn that there is the possibility of the considerable
+
+influence of radiation-stimulated diffusion processes on changing of the properties
+of eustenitic stainless steel in the process of operation of a fusion reactor.
+
+UDC 533.924:S39.12.17
+
+STUDY OF RADIATION EROSION OP NIOBIUH ALmYS
+[Abstract of article by Kalin, B.A., Skorov, D.H. and Shishkin, G.N.]
+
+[Text] An electron microscope study is made of failure in ion bombardment of
+
+the surface of alloys of the system Nb-Zr-C having undergone tests for 1-percent
+creep in L1. Irradiation was with helium ions with energy of 15 keV over the
+dose range of (0.5 to lO)°lO1° ions/cm2 at 700 ’C with a beam current of 0.é mA/
+[cm2 . It is demonstrated that the process of blister formation takes place
+
+with doses of (S to 10)'1017 ions/cm and practically does not depend on the tech-
+nological characteristics of the alloy. With an increase in the dose to 5'10u
+ions/cm2 and more radiation erosion is determined basically by sputtering.
+
+The alloys tested prior to irradiation for an extended period under a load in
+lithium tend toward local erosion with the formation of craters measuring 200-
+
+700 x.
+UDC 620.17:537.531.
+
+COMBINATION OF EXPERIMENTAL APPARATUS FOR STUDYING RADIATIONJVACUUM AND PHYSICO-
+MECHANICAL CHARACTERISTICS OF FUSION REACTOR CONSTRUCTION MATERIALS
+
+[Abstract of article by Karasev, 3.6., Komarov, V.L., Prokof'yev, Yu.G.,
+Saksaganskiy, G.L., Serebrennikov, D.V., Spirchenko, Yu.V. and Pefelov, P.A.]
+
+[Text] A brief description is given of the designs and technical charauteristics
+of experimentation stands for studying erosion resistance of the surface, water
+tightness at high temperatures and the mechanical characteristics under conditions
+of static and cyclic straining, of construction materials which are promising for
+use in fusion reactors.
+
+The SVICh stand has a hydrogen ion source with energy from 20 to 80 keV, current
+density of the beam at the target of 0.01 to 0.1 A/cm2 and background pressure in
+the measuring chamber of 1‘10 ° mm Hg.
+
+The MRI stand has been created for irradiating materials with ion beams with
+
+a mass spectrum from 1 to 40. The ion energy is 0.1 to 20 keV, the beam current
+is a maximum of 5 mA and the background pressure in the target chamber is 1'10'1‘
+mm Hg. The possibility is provided of irradiating the target simultaneously with
+two ion beams of different types.
+
+The TYeST and LUCh stands are designed for studying the water tightness of mater-
+ials at high temperatures. including by taking into account nonequilibrium con-
+ditions and the stressed-strained state of the material.
+
+20 '
+won omcm. use ONLY
+The TsIKL stand has been created for studying the influence on materials of
+static and cyclic mechanical loads at various temperatures over the range of
+-260 to 1000 '0. Investigation of the behavior of materials with variation in
+strain forces and temperatures of samples according to a specific program is
+provided for.
+
+BBC 539.9.082:533.926
+
+INFLUENCE OF ORIENTATION 0N EROSION OF MONOCRXSTALLINE VANADIUH UNDER BOMBARDHENT
+WITH HELIUH IONS
+
+[Abstract of article by Guseva, H.I., Zykova, N.H.. Ionova, Ye.s., Koltygin. V.H.,
+Krasulin, Yu.L.,_Kurakina, T‘s.. Nedospasov, A.V. and Rosina. I.A.]
+
+[Text] Studies are made of radiation damage to the surface of monocrystalline
+vanadium under bombardment with He ions with energy of 10 and 60 kaV. It is
+demonstrated that with a dose of 0.5 curies/cmz in the case of irradiation with
+He ions with energy of 10 keV, on a {100}, {111} and {110} surface blisters are
+formed with undamaged shells, whereas after implantation with 60-kev He ions,
+other conditions being equal, on these planes multilayer scouring is observed,
+and strong anisotropy of blistering and flaking occurs.
+
+UDC 621.039.553
+
+PROSPECTS FOR USING AEPHA ALLOYS OF TITARIUH A8 A CONSTRDCTION MATERIAL FOR THE
+FIRST HALL OF THE LOU-TEMPERATURE DISCHARGE CHAMBER OF A FUSION REACTOR
+
+[Abstract of article by A1'tovakiy, I.V., Gorynin, I.V., Kozhevnikov, 0.A..
+Lemke, N.G., Odintsov. N.B., Odintsov, V.R., Parshin, A.H., Privol'neva, A.S.,
+Syshchikov, V.I., Ushkov, 5.8., Peielov, P.A., Chechulin, 3.3., Yakovleva, T.A.
+and Yaroshevich, V.D.]
+
+[Text] The results are presented of a study of grade VTl—O technically pure
+titanium and of the alpha alloy PT-7H in the original state and after neutron
+irradiation with fluence up to 2°1021 n/cm2 (E 3_0.85 meV). It is demonstrated
+that the alloys studied possess high radiation resistance and preserve their
+ductile properties at a sufficient level both under short-term and extended test-
+ing. The conclusion is drawn that in terms of combination of physicomechanical
+properties lowballoy alpha alloys of titanium satisfy the requirements imposed
+on construction materials for discharge chambers of fusion reactors and are pro-
+mising for use in these structures.
+
+UDC 533.926.:539.12.l7
+
+RICE-NICKEL ALLOYS OF THE CBS-42 AND CBS-43 TYPE AS MATERIALS FOR THE FIRST HALL
+OF FUSION REACTORS
+
+[Abstract of article by Bannykh, 0.A.. Gorynin, I.V., Ibragimov, Sh.Sh.. Ivanov.
+
+A.I., Kozhevnikov. 0.A.. Lapin, A.N.. Lopstina, 0.A.. Hakhlin, N.A., Parshin,
+A.H., Pen'kov. G.A. and Yaroshevich, V.D.]
+
+21
+FOR OFTNCLALIISE(NNLY
+FOR OFFICIAL USE ONLY
+
+[Text] Questions are discussed relating to using high-nickel alloys of the
+cns-az and ens-43 type as construction materials for the first wall of a fusion
+reactor nver a broad temperature range. Data are presented on the radiation
+resistance of these alloys, obtained on the basis of both reactor and simulation
+tests. These data confirm that in terms of their radiation resistance and also
+their combination of key physicomechanical properties alloys of the ens-42 and
+ChS—53 typc surpass a number of well-known domestic and foreign steels of the
+
+austenitic class.
+
+UDC 548.539
+
+INFLUENCE OF FORMATION OF MOBILE INTERNAL POINT DEFECT - IMPURITY AIOM COMPLEXES
+0N DIFFUSION FLOWS 0F DEFECTS TO DISLOCATIONS AND PORES
+
+[Abstract of article by Vershok, B.A. and Gorbatov, 6.2.]
+
+[Text] A Study is made of the influence of the formation of mobile binary
+internal point defect (STD) - impurity atom complexes on diffusion flow of
+
+STD's toward dislocations and pores, as well as on the origin of superequilibrium
+segregations of an impurity in sinks. On the basis of solving stationary equa-
+tions of diffusion around a straight-line edge dislocation and spherical pore.
+simple analytical expressions are obtained for diffusion flows of each type of
+defect and segregations of an impurity in sinks. The formation of complexes re-
+sults in a change in elastic interaction and the effectiveness of the absorption
+of STD's by dislocations. This can result in a substantial change in vacancy
+
+swelling with the addition of an impurity.
+UDC 539.16.04
+
+STUDY OF BLISTERING IN SINGLE CRYSTALS OP ZIRCONIUM OXIDE STABILIZED WITH
+YTTRIUH OXIDE
+
+[Abstract of article by Akishin, A.I., Halov, M.M., Pokhil, G.P., Ryazantsev,
+A.D., Snlov'yev, G.G., Tulinov, A.P. and Chumanov, V.Ya.]
+
+[Text] A study is made of crystals of zirconium oxide irradiated with protons
+with energy of 100 keV right up to the appearance of blisters. By the back-
+scattering method a determination is made of the profiles of defects at the early
+stages of the origin of blistering. At the same time, at the early stages of
+defect formation a study was made of the change in the optical properties of
+zirconium oxide. The data obtained indicate that the mechanism for the formation
+of blisters in zirconium oxide in irradiation with protons is associated with the
+development of mechanical stresses in the irradiated zone rather than with the
+
+growth of gas pores.
+
+UDC Sh8.77:620.174
+
+ANISOTROPY 0F BRITTLE FAILURE OF ROLLED HDLYBDENUM ALLOYS AND THEIR HELDED JOINTS
+
+[Abstract of article by Yevstyukhin, A.I.. Perlovich, Yu,A., Baskov, A.P.,
+Semenov, V.V., Nerodenko, H.H. and Polishchuk, Ye.P.]
+
+2
+FOR.OFFK§AI.USEIONLY
+[Text] A studyfiﬁ'made of the influence of structural factors on the anisotropy
+of brittle failure of a number of widely used rolled alloys based on molybdenum
+(Tan-2a, UM—6, Tau-8, Tau-10 and VM—S) and of their welded joints. The tempera-
+ture of brittle'failure was determined in bending tests of samples cut from a
+sheet at various angles to the rolling direction. In changing from one alloy to
+another their metallographic and crystallographic textures vary substantially,
+which makes it possible to isolate their contributions to the anisotropy of
+brittle failure observed. In analyzing mechanisms of the influence of texture
+
+on the anisotropy of brittle failure. the form and size of structural elements,
+primarily the orientation of shear boundaries and planes, were taken into account.
+
+The principal nature of the anisotropy of brittle failure is determined by the
+metallographic texture, and when it is weakened by the crystallographic texture.
+The nature of the anisotropy of brittle failure of welded joints is similar to
+that observed for welded sheets of molybdenum alloys.
+
+UDC 621.039.573
+
+MATERIALS SCIENCE PROBLEMS IN THERMDNUCLEAR POWER GENERATION
+
+[Abstract of article by Ivanov. L.I.]
+
+[Text] 0n the general level key problems in selecting materials for the first
+wall of a fusion reactor are discussed. The promise of creating porous protective
+coatings on elements with low 2 is indicated. For the purpose of improving
+
+the radiation resistance of metal materials for the first wall, it is recommended
+that alloying elements be chosen with small nuclear cross sections for nuclear
+reactions with fusion neutrons resulting in the formation of helium.
+
+In this connection the promise of using manganese austenitic steel as a material
+for the first wall is indicated. Attention is turned to the performance of
+specific kinds of mechanical treatment of industrial metal materials for improving
+their radiation resistance.
+
+COPYRIGHT: Izdatel'stvo "Nauka", 1981
+
+8831
+C80: 1861/153
+
+23
+FOR omcm. use ONLY
+a vb; 0. o emu-mu \auu up nun
+
+TURBINE AND ENGINE DESIGN
+
+TURBODYNAMOS
+
+Moscow TRUDY MOSKOVSKOGO ORDENA LENINA I GREENA OKIYABR'SKOY REVOLYUTSII
+ENERGETICHESKOGO INSTITUTA, TEHATICHESKIY SBORNIK: TURBOMASEINY in Russian
+No 506, 1980 (signed to press 18 Mar 81) pp 2, 160-147
+
+[Annotation and abstracts from collection of papers "Turbodynanos", edited by
+Doctor of Technical Sciences Professor A.Ye. Zaryankin, Moscow Power Engineering
+Institute, 300 copies, 147 pages]
+
+[Text] Studies by the Steam and Gas Turbines Faculty performed from 1977 to 1978
+are presented in this collection.
+
+A considerable portion of the material presented covers questions relating to the
+gas dynamical improvement of various elements of the flow section of stean and
+saturated steam turbines, questions relating_to the experimental investigation
+
+of turbines and questions relating to improving the reliability of turbine plants.
+A number of articles are devoted to automatic control, experimentation stands
+
+and improvement of procedures for designing turbodynsmos.
+
+This collection is of interest to engineering and technical and scientific per-
+sonnel and graduate students at scientific research and educational institutes
+working on problems of improving turbodynamos, as well as to engineering and tech-
+nical personnel of all turbine-building plants.
+
+UDC 62-135:533.6.011
+
+INFLUENCE OF THE SHAPE OF THE TRAILING EDGE OF A SECTION ON THE HAGNITUDE 0P
+LIP LOSSES
+
+[Abstract of article by Deych, M.Ye., Lazarev, L.Ya. and Zhegalin, A.S.]
+
+[Text] Experimental data are presented on traversing of the outlet field of the
+stream of a plane vane cascade placed in a wind tunnel of the open type.
+
+It is demonstrated that by adding cutouts to the trailing edge of the section of
+a turbine blade the plane flow in the wake of the lip is transformed into 3-di-
+
+mensional flow consisting of individual three-dimensional wakes interacting with
+one another.
+
+won omcikt use our
+UDC 621.165.53.001.5
+
+INFLUENCE OF RELATIVE HEIGHT OF A BLADE ONSBPARATION 01’ THE STREAM AND LOSSES
+IN AN ACTIVE SUPERSONIC BLADTNG
+
+[Abstract of article by Hikesh, 1.]
+
+[Text] Physical aspects of the interaction of prinary and secondary flows in
+supersonic active bladings with separation of the stream along the profile are
+discussed.
+
+It is demonstrated that with low relative heights of the blading secondary flows
+
+are conducive to reduction of the zone of separation along the profile and to the
+reduction of secondary losses.
+
+UDC 621.165.001
+
+RESULTS OF INVESTIGATION OF A MODIFIED RADIAL-AXIAL STAGE
+[Abstract of article by Denin, Yu.V., Ignat'yevskiy, Ye.A. and Prolov, V.V.]
+[Text] Experimental dependences are presented, of the internal relative efficiency
+and degree of reactivity of a radial-axial stage without radial blades on the
+ratio of the total pressure in front of the stage to the pressure behind the stage
+and on the velocity ratio with a constant Reynolds number.
+
+UDC 621.165.6.019
+
+INFLUENCE OF PRODUCTION PROCESS DEVIATIONS 0N ECONOMIC EFFICIENCY OF STEAM
+TURBINE BLADINGS
+
+[Abstract of article by Abramov, v.1. and Khali' . A.B.]
+[Text] The results are presented of an experimental study of the influence of
+production errors in the manufacture of guide vanes and blades for turbines on
+
+profile energy losses.
+
+Recommendations are given on selecting the manufacturing precision for blades
+with various chords.
+
+UDC 621.165.533.6
+SOME ASPECTS OF A STATISTICAL DESCRIPTION OF TURBULENCE
+[Abstract of article by Zaryankin, A.Ye. and Baranovskiy, B.V.]
+
+[Text] 0n the theoretical plane the possibility of constructing a closed statis-
+tical theory of turbulence is discussed.
+
+It is demonstrated that the hypothesis used at the present tine, regarding the
+independence of uniform statistical criteria. cannot serve as _a basis for
+
+2
+FKHR()FIICJiI.lEﬂE(NNLY
+I'UK UI'I'IL'IAL US]: ONLY
+
+closing equations of turbulence, and that a correct solution to this problem
+is on the whole problematic.
+
+UDC 621.532
+
+ESTIMATION OF THE ZONE OP SEPARATION-FREE PLOW IN A DITTUSER USING VARIOUS
+FLO" SEPARATION CRITERIA
+
+[Abstract of article by Gribin, V.G. and Denisov, V.N.]
+
+[Text] The possibility is discussed of using various criteria for separation of
+a turbulent boundary layer for estimating the zone of separation-free flow in a
+diffuser channel. Comparison of the results obtained with experimental data
+
+has demonstrated the possibility of using the criterion suggested by L.G.
+Loytsyanskiy for calculations of this sort.
+
+UDC 621.165.51-166.24
+
+REDESIGNING OF CONTROL VALVES 0“ TYPE PT-60 AND R-SO LMZ TUBBINES
+[Abstract of article by Zaryankin, A.Ye. and Tolkachev. B.P.]
+[Text] Design modifications of the control valves of PT-60 and R-SO turbines
+are presented, which are conducive to improving the reliability and economic
+efficiency of the steam admission elements of these turbines.
+The possible savings from this redesigning is indicated.
+
+UDC 625.165.6.0l9.3003.31
+
+SELECTION OF OPTIMUM PRINCIPLES FOR THE VARIATION OF FLON_SECTIONS 0P DIFFUSER
+CHANNELS
+
+[Abstract of article by Kasilov, V.?.]
+
+[Text] A principle for profiling a diffuser channel on the condition of the
+pre-separstion state of the turbulent boundary layer over its length is discussed.
+An expression is derived for calculating the instantaneous degree of expansion
+
+of the diffuser. -
+
+Calculation and experimental data on the geometrical and aerodynanic characteristics
+of pre-separation diffusers are presented.
+
+UDC 621.165.6.019
+THEORETICAL ESTIMATE 0? ABRODYNAHIC CHARACTERISTICS OF AXIRADIAL DIPTUSERS
+[Abstract of article by Tyufyakov, 1.1.]
+
+[Text] A procedure is presented for calculating losses in axiradial diffusers,
+based on the calculation of boundary layer characteristics.
+
+26
+FOR OFIHCJAL UGEZCMNLY
+Diagrams are presented which make it possible to estimate the order of losses
+in diffusers with various outlines of the flow section.
+
+000 621.165.6.019
+
+SOME ASPECTS OF FLOW IN CONICAL DIPTUSERS
+[Abstract of article by Tarvat, A.Kh.]
+
+[Text] The question of experimentally estimating the characteristics of diffusers
+is discussed. It is demonstrated that even in an sxiaymmetric channel the
+symmetry of the flow is broken and that this fact can have a substantial effect
+
+on the accuracy of an experimental estimate of losses.
+
+UDC 621.165.6.019
+STUDY OF PLANE DIFFUSBRS WITH JOINED BOUNDARY LAYERS IN THEIR INLET
+[Abstract of article by Sherstyuk, A.N. and Bronovets, I.P.]
+
+[Text] The results are given of studies of a large series of plane diffusers
+with joined boundary layers in their inlet. The data obtained makes it possible
+to estimate the order of magnitude of losses in plane diffusers with various
+geometrical proportions.
+
+UDC 621.165.001.S
+
+INFLUENCE 0? FAN SHAPE OF A STAGE ON OPERATION OF THE 'LAST STAGE - OUTLET
+CONNECTION' COMBINATION
+
+[Abstract of article by Rodionova, L.K.]
+
+[Text] Based on a theoretical and calculation analysis, a study is made of the
+influence of the fan shape of a stage on the operation of the "last stage -
+outlet connection" combination over a wide range of variation of operating modes.
+The analysis has demonstrated that increasing the degree of tanning of a stage
+causes worsening of the restoration of pressure in the outlet connection and
+
+the mutual influence of the stage and this connection is intensified.
+
+UDC 621.165.013
+STUDY OF MOISTURE COAGULATOR
+
+[Abstract of article by Pilippov, G.A., Povarov, 0.A., Nikol'skiy, A.I. and
+Scmenyuk, A.V.]
+
+[Text] The results are given of experimental studies of a special mechanical
+:oagulator which is designed to increase the effectiveness of moisture removal
+in different kinds of separators. ‘Tests were made in an exper tel turbine
+utilizing finely divided wet steam with a modal drop size of dk - 0.3 um.
+
+FOR1OFFK§XI.USI10NLN
+FOR OFFICIAL USE." ONLY
+
+UDC 621.165-185.3:533.6.0015
+
+SOME RESULTS OF A NUMERICAL STUDY OF TRANSONIC ELON IN CHANNELS BY THE 'LARGE
+PARTICLB' METHOD
+
+[Abstract of article by Mayorskiy. Ye.V., Aparkin, P.M., Gsragulya, B.A. and
+Kulikov, V.D.]
+
+[Text] The results of a numerical study of flow in channels by the nonstationary
+"large particle" method are discussed.
+
+Calculated and experimental distributions of flow parameters are presented.
+
+The possibility of using this numerical method for calculating flow around turbine
+bladings is demonstrated.
+
+UDC 621.165-253.S.001.57
+
+CALCULATION OP DYNAMIC STRESSES IN TURBINE BLADES TAKING INTO ACCOUNT THE FORCE
+EFFECT PHASE SHIFT RELATIVE TO HEIGHT
+
+[Abstract of article by Samoylovich, G.S. and Antipin, A.V.]
+
+[Text] A method is discussed for calculating dvnamic stresses in the vibration of
+blades with nonsimultaneity of the force effect of disturbing forces relative to
+height. Experimental phase shift angles are presented. A confirmation of the
+procedure is carried out and calculation results are presented.
+
+UDC 621.165:529/576.6.001.S.
+ESTIMATING THE MAGNITUDE OF RESONANCE DYNAMIC STRESSES IN THE BLADES OF A COMPRESSOR
+
+[Abstract of article by Samoylovich. G.S., Nitusov, V.V.. Strekopytov, A.S.,
+Pis'min, I.N., Opilst, v.c. and Kravtsov, Yu.A.]
+
+[Text] A method is discussed for final adjustment of the blading of a compressor
+in relation to the level of dynamic stresses in real time. It is suggested that
+in addition to the usual aerodynamic measurements in testing measurements of the
+peripheral inhomogeneity of the flow behind the guiding apparatus be provided for.
+
+The results of a study of velocity nonuniformity and the values of calculated
+aerodynamic forces are presented, and an estimate is made of the level of stresses
+in the heel of n full-scale blade.
+
+UDC 621.16S:681.3
+
+MATHEMATICAL MODELING OF RANDOM DISTURBANCES IN THE CONTROL SYSTEM OF A POWER
+TURBINE
+
+[Abstract of article by Kalashnikov, A.A.]
+
+28
+FOR 0F1ﬂC]Al.USE(NVLY
+[Text] Based on a Poisson random process a model is proposed for deviations in
+the rate of rotation of the rotor of s turbogenerator set operating in a power
+system. The parameters of the model are selected by comparing calculated auto-
+correlation functions of the random process with experimental data. The influence
+of the nature of the flow of autocorrelation functions on the results of studying
+
+the turbine control system is demonstrated.
+UDC 621.165
+
+EXPERIMENTAL DYNAMIC CHARACTERISTICS OF THE OVPT-SOO TURBOPUHP UNIT
+
+[Abstract of article by Khizantsyan, H.S.]
+
+[Text] Experimental dynamic characteristics of s turbopump unit are presented in
+the form of acceleration curves and an approximation of them by channel.
+
+UDC 621.65/18.001.6
+
+ANALYTICAL DESCRIPTION OF THE FIELD OF CHARACTERISTICS OF A CENTRIFUGAL PUMP
+
+[Abstract of article by Vertelin, S.N.]
+
+[Text] Linearized equations are obtained by means of which from the known rate
+of rotation of the pump's shaft and system head curve it is possible to determine
+with a degree of precision sufficient for practical calculations the pump's output
+
+and head, the power required by it and the torque on its shaft.
+UDC 621.515.12.001.5
+
+USE OF TURBODYNAMOS IN A SYSTEM FOR THE LON-TEMPERATURE RROCESSING OF NATURAL GAS
+
+[Abstract of article by Snkolov, A.l. and Chishov. V.V.]
+
+[Text] An analysis is made of possible layouts for the structural design of
+turbo-separators for the low-temperature processing of natural gas. SeVeral
+structural layouts are suggested for the flow section of turbines with organiza-
+tion of the separation of the liquid phase from the gas stream. Justification is
+given for the most appropriate variant of the flow section of a turbo-separator.
+
+UDC 621.165.752.0015
+
+EXPERIMENTAL APPARATUS FOR STUDYING AERODYNAHIC FORCES IN A MODEL OF A TURBO-
+DYNAMO SEAL
+
+[Abstract of article by Kiselev. L.Ye.]
+
+[Text] A description is given of an experimental apparatus consisting of a ring-
+:haped chamber with a radial nozzle unit from which a twisted flow of air enters
+labyrinth seals formed by a stationary shroud and a disk turned by an electric
+motor. The measurement system makes it possible to measure aerodynamic forces
+both directly by the weighing method and by measuring the distribution of pressure
+in the chambers of the seals over their circumference.
+
+2
+FOR MORE. USE ONLY
+PW Ul'rlLlAl. 03!: UNLY
+
+UDC 621.438-529
+USE OF AUTOMATED DIGITAL MEASURING SYSTEMS IN AERODYNAHIC STUDIES
+
+[Abstract of article by Kazintsev, F.V. and Konyayeva, N.P.]
+
+[Text] A brief description is given of two measuring systems used in aerodynamic
+studies. Comparisons are made with the industrially produced K—734, K-486 and
+M-6000 systems.
+
+UDC 621.438-529
+
+AUTOMATIC SYSTEM FOR LOGGING DATA IN AN AERODYNAMIC EXPERIMENT
+[Abstract of article by Golovin, V.A. and Pedyakin, V.V.]
+
+[Text] A description is given of an automatic system, constructed with standard
+V2—23. F5033K and BUM-23D instruments, for recording the difference in total
+Pitot pressures in relation to the spacing of a plane blade cascade. The system's
+operation is controlled by means of a control unit which moves a probe along by
+steps, sets the time delay and issues instructions to print out coordinates,
+
+the pressure difference and angles. After passing along the cascade step by step
+the probe returns to its starting position.
+
+DDC 532.62(045)
+
+STUDY OF PRIMARY ELECTRICAL TRANSDUCERS FOR MEASURING THE THICKNESS OF A LIQUID
+FILM HHICB TUNE OUT THE INFLUENCE OF CONDUCTIVITY
+
+[Abstract of article by Fedorov, A.S. and Diktov, N.V.]
+
+[Text] Electrical transducers are suggested whose output voltage changes 20
+percent when going from tap water to condensate.
+
+COPYRIGHT: Moskovskiy energeticheskiy institut, 1980
+
+8831
+C80: 1861/151
+
+FOR 0Wﬂﬂ€i§h.lﬂﬂ£(ﬂﬂl¥
+NAVIGATION AND GUIDANCE 81313318
+
+UDC 62-50
+
+MAN AS ELDﬂ-‘NT 0F FOLLOW-UP SYSTEM
+
+Moscow CHELOVEK KAK ZVENO SLEDYASﬂgﬂEY SISTEHY in Russian 1981 (signed to press
+
+22 Jun 81) pp 2-5
+
+[Annotation and table of contents from book "Man as an Element of a Follow-Up
+System", by Iosif Yevseyevich Tsibulevskiy, Izdatel'stvo "Nauka", 6700 copies,
+
+288 pages]
+
+[Text] Beginning from the time of the Second Horld War the dynamic characteristics
+of man as part of a follow-up system have been studied extensively. From numerous
+domestic and foreign studies scattered throughout periodicals on engineering and
+psychology. in this book reliable and, practically speaking, valuable data needed
+
+by developers and investigators of man-machine systems have been singled out,
+critically evaluated and generalized. Methods of improving the efficiency of
+
+the actions of a human being performing a followbup operation are discussed.
+
+This monograph is intended for scientific personnel and engineers involved in
+
+designing, testing and studying man-machine systems. as well as for students and
+
+graduate students studying ergonomics and engineering psychology.
+CONTENTS
+
+Forewnrd
+Chapter 1. Goals and Methods of Studying a Follow-Up Operation to Be
+Performed by a Human Being
+Objectives of studying a follow-up operation
+Input and output quantities of a human operator performing follouhup
+Basic varieties of a follow-up operation
+Types of follow-up systems
+Law of motion of the target
+Numerical characteristics of the accuracy of follow-up
+Methods of experimental investigation of the follow-up process
+thapter 2. Reaction_of the "Human Operator and Servolink" System to a
+Step Function
+8. Methods of experimental investigation
+1. Characteristics of the transient process
+.0. Delay, time and speed
+11. Dependence of nature of the transient process on mechanical parameters
+of the control lever
+
+\lO‘UbU-JF‘
+a o o
+
+a...
+
+‘
+
+31
+FOR OFFICIAL USE ONLY
+
+Page
+6
+
+11
+11
+13
+16
+21
+25
+27
+31
+
+33
+33
+37
+
+. 39
+
+62
+12.
+13.
+lb.
+15.
+
+FOR OFFICIAL USE ONLY
+
+Expectation and standard deviation of transient process
+Adaptability of dynamic parameters of a human operator
+Optimum gain of the servolink
+
+Closed or open control?
+
+Chapter 3. Reaction of the "Human Operator and Integrator“ System to
+
+16.
+l7.
+l8.
+19.
+20.
+
+21.
+
+a Step Panction
+thaczixes an; methods of experimental investigation
+Delay and movement time
+Expectation and standard deviation of transie.t process
+Adaptation of human operator to gain of the integrator
+Movement of the hand of an operator processing a step input function
+by means of an integrator
+Optimum gain of an integrator
+
+hapcer 4. Following 3 Variable Signal “
+
+22.
+1.
+
+2.
+3.
+
+Id
+
+3.
+
+NwNH
+g . .
+.
+
+1.
+
+3.
+4.
+
+N H. Is}
+a a
+
+& WNHNw
+o s
+
+éU'JI—‘NU
+a u o a
+
+Following in terms of position
+Objectives and methods of investigation
+
+Dependence of accuracy of follow-up on gain
+
+Influence of mechanical characteristics of control lever on accuracy
+of follow-up
+
+Following in terms of speed
+Objectives and methods of investigation
+Optimum gain
+Comparison of systems with kinematic and power control
+
+Comparative accuracy of accompanying and compensating follow-up
+Objectives of studying comparative accuracy
+Accompanying and compensating follow-up in terms of position
+Accompanying and compensating follow—up in terms of speed
+Accompanying and compensating follow-up by means of a combined system
+and circuit for follow-up in terms of acceleration
+
+Dependence of relative accuracy of accompanying and compensating follow-
+up on level of training of the operator
+
+Influence of non-visual feedback on accuracy of the performance of a
+followbup operation by a human being
+
+Following with foresight and hindsight
+
+Influence of foresight and hindsight on the follow-up process
+Improving the accuracy of follow-up by extrapolation of the input
+signal
+Key results of investigation of following with foresight and hindsight
+Multicoordinate following
+Objectives of investigation of multicoordinate following
+Independence of foIIOwing processes in terms of various coordinates
+Aspects of following in the case of different dynamic properties of
+the system for each coordinate
+
+Influence of the form of error representation on the accuracy of multi-
+coordinate following
+Key results of investigation of multicoordinate following
+
+Following by means of a combined system
+Objectives of investigation of a combined system
+
+Determination of optimum parameters of a system by the theoretical method
+Experimental determination of the optimum time constant
+
+Comparative evaluation of a combined system and system for following in
+terms of position and speed
+
+. a?
+l-OR om AL use ONLY
+
+65
+50
+53
+57
+
+68
+68
+70
+75
+85
+
+88
+90
+93
+93
+93
+96
+
+101
+103
+103
+106
+106
+108
+108
+109
+115
+
+120
+123
+
+127
+130
+130
+
+135
+136
+137
+137
+139
+
+149
+
+152
+153
+154
+156
+155
+163
+
+166
+Chapter 5. Continuous. Mode1s of a Human Performing a 1'0qu Operation
+
+2.5. Features at a humn as an element of a control system
+
+29. Basic kinds of human operator models
+
+30. Methods of determining the parameters of a linear model
+
+1. Spectral method of determining the amplitude-frequency characteristic
+
+2. Spectral methods of determining amplitude-frequency and phase frequency
+characteristics
+
+3. Correlation method
+
+4. Methods of estimating the accuracy of a linear model
+
+31. Models of a human performing follow—up by means of a servolink and
+integrator
+
+1. Man and servolink
+
+2. Man and integrator
+
+32. Models of a human performing followbup by means of an integrator and
+double integrator
+
+1. Man and integrator
+
+2. Man and double integrator
+
+33. Universal models
+
+34. Model of a human controlling a complex dynamic system
+
+35. Model of a human performing followeup under conditions of interference
+
+36. Model for accompanying follow-up
+
+37. Model for remainder of the output signal of a human operator
+
+Chapter 6. Diaeontinuous Models of a Human Performing a Pollow-up Operation
+
+38. Basic traits of s discontinuous model
+
+39. Pulse model for compensating followbup
+
+40. Influence of random component of the interval between pulses on the
+spectral density of the output signal of a pulse model
+
+41. Model for accompanying follow-up
+
+42. Model for compensating and accompanying follow-up
+
+43. Model with standard form of control pulses
+
+1. Square pulses
+
+. Triangular pulses
+
+44. Models for follow-up with foresight
+
+1. Model with imaginary weighting function
+
+2. Model with accelerated analogue of controlled system
+
+. Model with dynamic programming
+
+45. Forecasting models
+
+1. Model for following a step function
+
+2. Model for following a continuously variable signal
+
+46. Two-circuit model for following a step function and continuously
+variable signal
+
+Chapter 7. Methods of Improving the Efficiency of Follow-Up Performed by
+
+a Human Operator
+
+47. Possible ways of improving the efficiency of performance of a follow-up
+operation by a human
+
+48. Accelerating circuits
+
+49. Forecasting display
+
+1. G. Zibolts'a circuit
+
+2. Improving the efficiency of the operations of an operator controlling
+the depth of submersion of a submarine
+
+50. Dzh. Khertsog's method
+
+33
+FOR‘0FFK3AI.USE(NNLY
+51.
+
+52.
+53.
+1.
+2.
+
+COPYRIGHT:
+
+Improving the accuracy of follow-up on account of the nobility-o:
+
+the operator's chair
+
+A. Meleshev's circuit
+
+c. Tatevosyen'a circuit
+Synchronization operation
+
+Combined follow-up system controlled by two operators
+Conclusivu
+Bibliography
+
+literatury, 1981
+
+8831
+050:
+
+1861/152
+
+Izdatel'stvo "Nnuka". Glavnayo redaktsiya fiziko-uatematicheskoy
+
+3h
+ron omcuu. use ONLY
+
+269
+273
+275
+275
+278
+281
+283
+FLUID MECHANICS
+
+000 532.526
+
+INFLUENCE OF SMALL AMOUNTS 0F POLYMER ADDITIVBS INTRODUCED INTO STREAM 0N HYDRO-
+DYNAMIC CHARACTERISTICS OF FLAT AIRFOILS
+
+Moscow [ZVESTIYA AKADBMII NAUK SSSR: HBKHANIKA ZHIDKOSTI I GAZA in Russian N0 6,
+Nov-Dec 81 (manuscript received 30 Apr 80) pp 35-41
+
+[Article by V.V. Droblenkov and 6.1. Kanevskiyl
+
+[Text] This article considers the undetached flow of weak homo-
+geneous polymer solutions past flat airfoils. To solve the prob-
+lem, the stream is divided into two regions by the interface be-
+tween the boundary layer and wake: the acne of potential flow and
+that of viscous liquid flow (i.e., the boundary layer and wake,
+whose characteristics are continuously contiguous at the inter-
+face).
+
+After the stream is divided into two components, the problem is
+solved by successive approximation, taking into account the inter-
+action of the two regions. The influence of the zone of potential
+flow on that of viscous flow is incorporated through the pressure
+distribution at the interface of the boundary layer and wake.
+
+That of the viscous flow cemponent is taken into account by in-
+troducing an additional eddy whose strength equals the vorticity
+integral over the entire viscous regiOn and additional velocities
+at the wake-boundary layer interface that deform the streamlines
+in the potential flow region and bring them into conformity with
+the flow pattern in a real liquid.
+
+The results yielded by calculatioa of hydrodynamic characteristics
+for a Zhukovskiy-type airfoil are coapared with experimental
+data. The influence of introduction of small amounts of polymer
+additives into the stream on the distributed and integrated flow
+characteristics for a number of Reynolds numbers is analysed for
+a modified NACA66 profile.
+
+. The boundary-layer parameters for the upper and lower surfaces of an airfoil are
+alculated separately, using the integral-relationship method [I], which takes into
+account the laminar. transitional, and turbulent flow zones in the layer. The pre-
+sence of small amounts of polymer additives in the stream is taken into considera-
+tion by using the Meyer correlatioa for the longitudinal velocity component u in the
+
+FOI.OFFK§§I.USE¢MNLY
+FUR UI-HCIAL US]: ONLY
+
+turbulent boundary layer at an airfoil [2]:
+
+inbuilt n—(i—cos “”——'-)+s.+AB
+v' x v u 5
+
+(1.1)
+AB-O v'<v., AB-pln— .. v‘>v.‘
+
+Herc yI is the coordinate perpendicular to the surface around which the stream flows,
+
+v* is the dynamic velocity, K - 0.4 and B . 5.2 are the turbulence constants, H is
+
+0
+the Cowles parameter, 6 is the thickness of the boundary layer, B is a parameter
+
+that takes into account the properties of the dissolved polymer and its concentration
+in the solution, and v0* is the dynamic velocity corresponding to the point at which
+
+the Thoms effect develops.
+
+The characteristics of the turbulent wake beyond the airfoil are determined sepa-
+
+rately for its upper and lower portions, using the integral method [3]. The axis
+
+of the wake is assumed to be the zero-deflection streamline in an ideal liquid for
+a predetermined velocity circulation around the airfoil. The distributions of the
+longitudinal flow-speed component u and the tangential stresses 1 in the wake are
+
+approximated by the relationships
+
+ 
+
+—=I-(I-—:){«—vexp(-£‘;—’> ;3(«+«» 1—“)1
+(1.3) p;.,_-2x.(1-Ul:)’1L(1—)kr “kt—{é—epr
+
+Here ”6 is-the longitudinal flow-speed component at the outer boundary of the wake,
+Um is the flow speed at the wake axis, k and y are wake parameters that vary along
+the length of the wake, p is the density of the liquid, and Kl is the turbulent
+
+viscosity coefficient, which also varies along the length of the wake.
+
+Assuming the influence of small amounts of polymer additives to consist solely in
+reorganisation of turbulent exchange in the immediate vicinity of the surface around
+which the stream flows and to have no direct action on the free turbulence, we pro-
+ceed on the premise that the entire influence of the additives on flow characteris-
+tics in the wake is taken into account in the changes in the initial data employed
+for its calculation. The initial parameter values for the upper and lover portions
+of the wake are determined from the continuity condition for the thickness 6, the
+displacement distance 6*, the momentum-loss distance 6**, and the maximum tangential
+stresses for the transition from the boundary layer to the wake.
+
+In order to determine the position of the interface between the viscous and non-
+viscous flow zones, the thickness of the boundary layer (wake) is laid off along
+perpendiculars to the airfoil surface or wake axis. The resultant boundary is
+smoothed by fitting to cubic parabolas in the immediate vicinity of the trailing
+edge of the airfoil.
+
+36
+FOR OFFICIAL USE ONLY
+The characteristics of the potential flow component are calculated by using the
+~heory of conformal mapping. A profile of the desired shape is laid out on the
+physical plane a and a circle of radius a is laid out on the auxiliary plane c.
+The mapping function relating the two complex planes has the form of the Laurent
+series
+
+(1.4) “UV-+2. m-r'
+
+Its coefficients are calculated by the method described by Zavadovskiy and Rusets-
+kiy la].
+
+The complex flow potential is divided into two terms, the first of which is associ-
+ated with the circulation of an ideal liquid around the airfoil and the second with
+the additional velocities that provide the displacement of the streamlines necessary
+in order for the influence of viscosity to be taken into consideration:
+
+lV-=PV(+IV. P
+(1.5) W.—l; oxp(—iu)+a'§" exp(ia)+2—1-‘_—ln§
+
+here a is the angle of attack and F is the circulation of the additional eddy.
+
+The condition for determination of the calculated circulation in the viscous liquid
+is the requirement that the vortical flows converging [ram the upper and lower sur-
+faces of the airfoil in the wake be equal, which was first proposed by Taylor in
+
+I924 Isl. In the wake, the condition that the vortical flows calculated for its
+upper and lower portions be equal is equivalent to the requirement that the pressures
+at the wake axis be continuous:
+
+I. O.
+(1.6) 1.“: jm.udy.=I--2je.udy.: pu-m-
+. 0
+
+where I is the vortical flow through the wake cross-section, wz is the vorticity at
+.he point in questioa. and p0 is the pressure at the wake axis; the plus and minus
+
+:ubscripts pertain to the upper and lover portions of the wake respectively.
+
+Jeglecting the change in pressure across the wake, we obtain V5+ - V6_ for the
+)dulus of the velocity vector V6 at the outer boundary of the wake. when applied
+
+”0 points at the outer limit of the boundary layer corresponding to the trailing
+:dge of the airfoil (the initial cross-section of the wake). this relationship can
+:lso be employed to determine the calculated circulation.
+
+n order to provide the requisite displacement of the streamlines in the potential
+wrtion of the stream, bringing them into conformity with the flow pattern in a real
+iquid, a system of inflows and drains is laid out at the surface of the airfoil
+
+yd the wake axis; their flow rates are determined in the linear-theory approxima-
+;on, from the condition sz - Avn, where Avn are the additional normal velocities
+
+that develop in the viscous liquid at the interface between the boundary layer and
+
+(37
+FOR om AL USE ONLY
+I'UK UI'I'ILIAL Ubl‘. ONLY
+
+and wake. The values of Avn are found frOm the continuity condition for the velo-
+
+cities on passage through the boundary between the viscous and potential flow zones:
+
+(1.7) Au. z i”"°"" (Va—ma!
+
+Here x it the longitudinal coordinate. The subscripts I and 2 are for the parameters
+determined in viscous and ideal liquids respectively.
+
+Equation (1.7) contains the unknown V6, and the quantities 5 and 6* dependent on it,
+
+so that the problem of determining the additional velocities produced by the recipro-
+cal influence of the viscous flow zene on the potential flow is solved by the suc-
+cessive-approximatiOn method.
+
+In order to detennine the circulation integral for the additional eddy in the via-
+cous liquid, the flow parameters are calculated for a series of values of F and the
+circulation integral for which the condition “5+ - VG- is satisfied is then faund.
+
+The resultant circulation figure is employed for recalculation of the distributed
+hydrodynamic characteristics of the airfoil by which the viscous liquid flows. For
+each circulation value, the flow parameters are determined in a sequence of itera-
+tions that includes calculation of the characteristics of the ideal liquid, boundary
+layer, and wake and their interaction. A relaxation constant of 0.5 is introduced
+
+to ensure convergence of the successive-approximation process in calculating the
+velocities at the interface bevteen the two flow zones. The successive-approximation
+procedure is terminated on satisfaction of the condition
+
+as) _ |V.,--v.‘."|<o.o1; |v..-—v.'.."|<om
+
+In Eq. (1.8), the velocities V6 are determined for points corresponding to the
+trailing edge of the airfoil, while the superscript k represents the iteration number.
+After determination of the calculated circulation integral and the characteristics
+
+of the boundary layer and wake, the lift coefficients Cy, the profile drag cx, and
+
+the momentum Cm are found frOm the relationships [6]
+
+ 
+
+ 
+
+.c R. 21‘ _ C R, - 25-00
+'- (kW-'1: U.L ' ' 0.59031. L
+“I dun r .
+- '— ' — __ _. __ + +
+c- 0'59”: L1 UsL' [ 2““ (can 003 a. 6“ am a)
+
++c.. cos Zen-c... sin 20:]
+
+Here U0 is the flow speed of the incident stream, L is the airfoil chord length,
+6“f* is the momentum-loss thickness at an infinite distance beyond the airfoil,
+and COR' cOi, clR’ and cli are the real and imaginary parts of the mapping-function
+
+coefficients. The momentum Hz is determined relative to the coordinate origin,
+
+38
+FOR OFFICIAL USE ONLY
+Table l
+
+   
+
+ 
+
+ 
+
+0 10.0 0
+0.3598 103 0.311
+0.71“ “.78 0,686
+
+which is located at the tip of the profile. The value of 6af* is found by applying
+
+the Squire—Young formula [6] to the cross-section of the wake lying at a distance
+beyond the trailing edge of the airfoil equivalent to 601 of its length:
+
+VQ+ .,$(|O'o) v.- ) .,S(.ON.)
+b _ ._ _00 __.
+6"“5’ .'( U.) +5 u.
+
+hhere 6+**, 6_**, V6#, V5_, 8* -6+*/6+**, and H_ - 6_*/6-** are determined with
+
+'L a 1.6. The coordinate g is reckoned from the tip of the profile along the
+arfoil chord and its continuation.
+
+c. The proposed method was used to write a program in the ALGOL-60 language for
+
+a BESM-é computer. The initial data specified for calculations with this program
+re the mapping-function cOefficients for the airfoil, the prnfile chord (L), the
+ugle of attack (a), the flow speed of the incident stream (U ), its degree of
+urbulcnce (c), the kinematic viscosity constant (v), and the parameters defining
+no influence of the polymer additives (v0* and B).
+
+gure l and Table I compare the results of calculatiOns of hydrodynamic charac-
+
+'¢ristics made for a Zhukovskiy-type airfoil having a relative thickness of 11.8
+percent with experimental data [7].
+
+FORGDFHK321.USE(NVLY
+I'UK UI'I'ILIAI. 03L Ul‘hl
+
+The [actor 10" is omitted for all the drag coefficients in Table I and henceforth.
+In accordance with the experimental conditions employed by Preston and Sweating [7].
+the calculations were made for a de tee of free turbulence e - 1.75 percent and a
+Reynolds number Re - UQL/v - 6.2'l0 . For purposes of comparison, Table I also
+givos the lift coefficients calculated for flow of an ideal liquid past the airfoil
+(Cuz). Figure 1 compares the distributions calculated for the pressure coefficient
+
+q at rte outer limit of the boundary layer with the results of pressure measurements
+made at he airfoil surface with the aid of drainage tubes. Curves I-3 and experi-
+mental points 4-6 are for angles of attack a of 0, 3, and 6° respectively. This
+figure also compares the calculated (curves 7-9) and experimentally determined
+(points IO-IZ [7]) dimensionless values of the momentum-loss thickness 6**/L. Curve
+7 and point ID are for an angle of attack a - 0, curve 8 and point II are for a - 6°
+and the upper surface of the airfoil, and curve 9 and point 12 are for a - 6° and
+the lower surface of the airfoil.
+
+The results given indicate satisfactory agreement between the calculated and experi-
+mental data [or both the force parameters and the distributed hydrodynamic charac-
+teristics.
+
+in order to analyze the influence of introduction of small amounts of polymer addi-
+tives into the stream on the hydrodynamic characteristics of flat airfoils, we made
+systematic calculations for a laminarized NACA66 airfoil with a relative thickness
+
+of 5 percent and a curvature of 1 percent.
+
+The calculations were carried out for Reynolds numbers of 6'IO‘ and 3'l07 with angles
+of attack of -3, 0, 1.5, and 3°. We assumed L - I m and "O - 9 m/sec with Re - 6'l0‘
+
+and L = 1.6 m and U0 - 30 m/sec with Re - 3'107. The value of v0* was assumed to
+
+be 0.023 m/sec and the parameter 8 was assigned values of 0, 2.5, 4.34, and 7.5,
+which roughly corresponded to flow of homogeneous aqueous solutions of HSR-30l poly-
+ethylene oxide with concentrations of 0.5, IO, and 25 ppm past the airfoil. The
+degree of free turbulence was presumed to equal 2% in all the calculations.
+
+Figures 2 and 3 show the distributiOn of the pressure coefficient over the airfoil
+
+in a nbnviscous liquid (curves 1) and over the u;:er limit of the boundary layer
+
+in a Viacous liquid at Re a 6'I0‘ and B = 0 (curves 2) and at Re - 6'106 and 8 - 6.36
+(curves 3). All the results are for flow past the profile with a - 3°.
+
+Equidistant displacement of the q curves corresponding to flow of a viscous liquid
+past the airfoil in relation to the curves calculated for a nonviseous liquid was
+observed over virtually the entire length of the airfoil. except for the extreme
+tip and rail regions. Introduction of polymer additives into the stream caused the
+calculated pressure coefficients q to approximate to the values corresponding to
+flow of a nonviscous liquid past the airfoil. A quite substantial pressure redis-
+tribution resulting from the appearance of viscosity forces was observed in the vici-
+nity of the leading—edge critical point. It must be noted that, according to our
+calculations, introduction of small amounts of polymer additives into the stream
+should not lead to any perceptible change in the decompression peak near the tip
+
+of the airfoil- In the immediate vicinity of the trailing edge, q underwent a
+change from I in a nonviscous liquid to 0.12-0.lb in a viscous liquid.
+
+to
+Iron OFFICIAL use ONLY
+Figure l.
+
+1
+m oméu. use ONLY
+I'Uﬂ UI'I'ILIAL U35 Ul‘hl
+
+Table 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“oil?
+a _om.ou1 o.ms c.5- own 0,212 no: mm mm am or
+2.5 —o'm —'.om o'mn ‘ 511 c.2139 mu 0.011: um um 0:115":
+us .ms o'rm 33m mom 0.22:: 3.1:: 0.0:; our» 1.13 0.1::-
+1.512'tu --.om1 01m: :1:oo.'ao1 was 2.1“ mom 0.4.4.“ 2.1“ mm
+nua4m
+
+—° “7. 5:31—03!" 0J1“ 5.202 0.“ am 5.33. 0.0:” I.“ 5
+2.2:. 4'20“ 23a 4.013: mm lam oases maulzm I I!” [0131
+
+Figure 4 represents the distribution of the momentum-loss thickness in the boundary
+layer and wake beyond the NACA66 airfoil. The results were obtained for Re - 6 10
+and a I 3°. Curves l and 2 correspond to the values of 6**/L obtained for the upper
+and lover surfaces of the airfoil with B - 0 and curves 3 and 4 correspond to those
+obtained for these surfaces with B - 4o 34. The influence of polymer additives re-
+sulted in a substantial reductiOn in the momentum-loss thickness 6** in the regions
+occupied by the turbulent boundary layer and wake.
+
+The results yielded by calculation of Cx, Cy. and C“I for the NACA66 airfoil are given
+
+in Table 2. The values found for the lift coefficient and mementum coefficient in
+a nonviscous liquid with a - -3, o, n.5, and 3° were cyz - -0.21I6, 0.1312. 0.3026,
+
+and 0.4737 and Cm2 - -0.0246. 0.0645. 0.1099. and 0.1533 respectively. These data
+show that the dependence of Cy on the angle of attack in a viscous liquid remained
+
+linear. An increase in the Reynolds number or introduction of small amunts of poly-
+mer additives into the stream caused Cy and CuI to change in such fashion that they
+
+approximated to the corresponding figures found in a nonviscous liquid. The drag
+coefficient cx decreased as the Reynolds number ruse and fell sharply when polymer
+
+additives were introduced into the stream. An increase in the polymer cancentration
+in the solution produced a larger change in all the integral hydrodynamic character-
+istics of the airfoil. It must he noted that the polymer additives had their strong-
+est effect on the profile drag. causing only minor changes in the lift and hydrody-
+namic momentum of the airfoil.
+
+BIBLIOGRAPHY
+
+I. Droblenkov, V. V. and Kancvskiy, G 1., "Development of a Calculation Procedure
+for a Flat Boundary Layer in Weak Polymer Solutions with Laminar, TransitiOnal,
+and Turbulent Flow Zones," IZV. AN 8888, ms, No 3, p ‘2, 1977.
+
+2. Heyer, H.A., "A Correlation of Frictional Characteristics for Turbulent Flow of
+Dilute Viscoelastic Non-Newtonian Fluids in Pipes." A.I.CH.B. JOURNAL. Vol l2,
+No 3. p 522, 1966.
+
+hi?
+FOR OFFICIAL USE ONLY
+. Droblenkov, v. V. and Kaneuskiy, G. 1., "CalculatiOn of a Short-Range Plat turbu-
+
+lent Hake," "Gidrodinanika vyaokikh okbroatay" [Hydrodynamics of High Speeds],
+Sudoatroyeniye, Leningrad, 197‘, p 2l3.
+
+Zavadovakiy, N.Yu. and Enact-kiy, A.A., "A Method for Calculating the Preaaure
+on Propeller Blades," ”Gidrodinauika vyebkikh akoreatey," Sudoatroyeniye, Lenin-
+grad, I977, p 65.
+
+Preston, J.H., "The Calculation of Lift Taking Account of the Boundary Layer,"
+ABRONAUT. RES. COMM. REP.,AND HBM., No 2725. I953.
+
+Loytsyanekiy. L.G., "Hekhanika zhidkoeti i gaze" [Mechanics of Liquids and Cases],
+3rd edition, revised and expanded, Nauka. Moscow. 1970.
+
+Preston, J.H. and Sweeting, N.3.. "The Experimental Determination of the Baundary
+Layer and Wake Characterietica of a Simple Joukoweki Aerofoil with Particular
+Reference to the Trailing Edge Region," ABRONAUT. RES. COMM., REP. AND MEM.,
+
+No I998, I943.
+
+COPYRIGHT: Izdatel' atvo "Nauka", "Izveatiya AN SSSR. Mekhanika zhidkoati i gaza" ,
+
+I981
+
+2478
+C80: 8I46/077S
+
+FIMICNHHKHil.lﬂﬂE(NVLY
+I-UK OFFICIAL USE ONLY
+
+THERMODYNAMICS, HEAT—AND-HASS TRANSFER IN LOW—TEMPERATURE APPARATUS
+
+Moscow TRUDY HOSKOVSKOGO ORDENA LENINA I ORDENA OKTYABR'SKOY REVOLYUTSII
+ENERGETICHBSKOGO INSTITUTA, TEHATICHESKIY SBORNIK: VOPROSY TERMODINAMIKI I
+TEPLOHASSOOBMENA V NIZKOTBMPERATURNYKH USTANOVKAKH in Russian No ‘91, 1980
+(signed to press 16 Mar 81) pp 2, 107-111
+
+[Annotation and abstracts from collection of articles "Questions of Thermodynamics
+and Heat-and-Mass Transfer in Low—Temperature Apparatus", edited by Doctor of
+Technical Sciences Professor VJ‘I. Brodyanskiy, Hoscow Power Engineering Institute,
+500 copies, 111 pages]
+
+[Text] This collection includes papers from two departments of the Energy Physics
+l-‘aculty--Cryogenic Engineering and Engineering Thermal Physics--as well as fron
+the Heat-and-Hass Transfer Processes and Apparatus Department of the Industrial
+Heat and Power Faculty.
+
+The first group of papers contained in this collection directly concerns problems
+arising in the calculation and design of cryogenic apparatus and machines. Papers
+of this group include an analysis of influx of heat in microcryogenic throttling
+systems; calculation of solid phase - liquid equilibrium for mixtures of nitrogen
+with saturated hydrocarbons at low temperatures; analysis of the influence of
+
+the ratio of the overall dimensions of the low-temperature unit on the magiitude
+of losses from the influx of heat through the insulation; an analysis of factors
+determining the energy efficiency of a thermomechanical pump for low-tenperature
+products; and an evaluation of the feasibility of using jet pumps for transferring
+liquefied natural gases.
+
+The second group is made up of experimental works relating to the study of heat
+transfer in thermosiphons of the slotted type and in a closed evaporation-condensa-
+tion system with separate channels for the liquid and steam.
+
+Papers included in the third group concern general questions of heat transfer.
+Hethods are discussed for a numerical solution to problems of heat transfer with
+free laminar convection around a vertical plate for helium in the supercritical
+
+region of parameters and with the flow of an incompressible fluid around a moving
+surface.
+
+Questions relating to heat transfer in He-II are represented in papers in which
+a new procedure is suggested for determining the temperature of the heating
+
+FOR OFFIéﬂL USE ONLY
+surface in the film boiling of He-II are an emrtaental apparatus for studying
+maximum heat loads is described. Finally, two papers are devoted to studying
+the viscosity of compressed gases at low temperatures.
+
+This collection is intended for scientific and technical personnel and engineers
+involved in designing cryogenic equipment and studying the processes taking place
+in them. as well as for graduate students and students in the corresponding areas
+
+of specialization .
+
+UDC 621.59
+
+ANALYSIS OF INFLUX OF HEAT IN HICROCRYOGBNIC THRO’I‘TLING SYSTEMS
+
+[Abstract of article by Boyarskiy, H.Yu., Lunln, A.I., Gusakov. A.G. and
+Aloyan, 0.8.]
+
+[Text] It is demonstrated that in calculating the influx of heat in microcryo-
+genic throttling systems it is necessary to take into account heat transfer between
+the reverse flow and resistance thermometer bridges. The procedure is based on
+solving differential equations describing the change in temperatures of the forward
+and reverse flows and of the resistance thermometer bridge along the length of
+
+the low-temperature unit, taking into account the influx of heat through the in-
+aulation. The system of equations was solved by the approximtion-iterstion
+method on an MIR-2 computer. Comparison of the calculation results with experi-
+mental data for a refrigerator operating on nitrogen has confirmed the appropriate-
+ness of the calculation method suggested.
+
+UDC 621.565
+
+CALCULATION OF LIQUID AND SOLID PHASE EQUILIBRIUM IN HULTICOHPONENT NITROGEN-
+HYDROCARBON MIXTURES
+
+[Abstract of article by Boyarskiy. H.Yu. and Lunin. A.I.]
+
+{Text} It is demonstrated that calculation of solid phase - liquid equilibrium
+for mixtures of nitrogen with saturated hydrocarbons at low temperatures (T -
+
+e 80 K) can be performed on the basis of the theory of ordered solutions. An ana-
+lysis is made of the application of the method to two cases. In the first the
+mud phase represents one of the components of the mixture in pure form. In the
+second the components forming the solid phase form a solid solution.
+
+we 536.242
+:-‘.KPERIHENTAL APPARATUS FOR STUDYING MAXIMUM HEAT LOADS IN He-II
+Mbstract of article by Spiridonov, A.G. and Aletiatov, Ye.V.]
+Text] A description is given of an experimental apparatus designed for studying
+
+neat transfer and extremum heat flux in lie-II. Some initial experimental data on
+the maximum heat flux density are presented.
+
+FOR omdlit USE ONLY
+I'VE Url‘lbll‘h Udl‘. Ul‘hl
+
+UDC $36.27.001.5
+
+EXPERIMENTAL STUDY OF HEAT TRANSFER IN A CLOSED TWO-PHASE THERHOSIPHON OF THE
+SLOTTED TYPE
+
+[Abstract of article by Kormilitsyn, A.A., Snytin, S.Yu. and Pedorov, N.V.]
+
+[Text] The results are given of an experimental study in a closed thermosiphon
+of the slotted type with extended surfaces of zones of the admission and removal of
+
+heat with the heat load supplied varying from 0 to 1400 N.
+UDC 621.59.001.2
+
+OPTIMUM PROPORTIONS OF THE OVERALL DIMENSIONS OF THE LOU-TEMPERATURE UNIT OF A
+HELIUM PLANT
+
+[Abstract of article by Sinyavskiy, Yu.V., Galushko, 0.P. and Kan. A.H.]
+
+[Text] The results are discussed of a theoretical analysis of the influence of
+
+the proportions of the overall dimensions of the low-temperature unit of a helium
+plant on the magnitude of energy losses from the influx of heat through the insula-
+tion. The major role of the law of variation of the temperature of the plant's
+elements along its axis is emphasized. The influence of the volume of the low—
+temperature unit and of the properties of the materials out of which the cryostat
+is made is demonstrated.
+
+UDC 533.581
+
+INFLUENCE OF THE SIZE OF THE INNER SPACE OF A RECENERATIVE HEAT EXCHANGER ON THE
+EFFICIENCY OF A THERMOHECHANICAL PUMP FOR LON-TEMPERATURE PRODUCTS
+
+[Abstract of article by Sinyavskiy, Yu.V. and Sosnina, G.Yu.]
+
+[Text] A qualitative analysis is made of factors determining the energy efficiency
+of a thermomechanical pump. A procedure is suggested and the results are given of
+calculations relating to determination of the region of relative spaces of a re-
+generative heat exchanger corresponding to minimum energy input. The influence of
+the discharge pressure on shifting of the region of optimum values of the relative
+spaces of a heat exchanger is discussed.
+
+UDC 536.242
+
+ONE METHOD OF DETERMINING THE TEHTERATURE 0E THE HEATING SURIHCE IN THE FILM
+BOILING 0F He-II
+
+[Abstract of article by Labuntsov, D.A., Spiridonov, A.G. and Ametistov, Ye.V.]
+[Text] A new procedure is proposed for determining the temperature of the heating
+surface in the "noiseless" film boiling of He-II,using calculation equations of
+
+the linear theory of nonequilibrium processes and the data of photographing the
+boiling process.
+
+FOR OWTHCHRI.USE(NVLY
+ﬂ UDC 621.176:S36,258.2
+EVALUATION OF THE FEASIBILITY 0F TRANSFERRING LIQUEPIED NATURAL GASES BY THE JET
+METHOD
+
+[Abstract of article by Shpil'rayn, 3.8., Sevast'yanov, A.P.. Kozlov, V.B.,
+An, I.V. and Grigoryan, A.B.]
+
+{Text} A preliminary theoretical evaluation is made of the use of jet pumps for
+transferring liquefied gases. A determination is made of the amount of under-
+heating of liquid Freon-12 and methane at the pump's inlet necessary for normal
+operation of the equipment, as well as of the maximum possible values of pressure
+developed by the pump with the underheating usual for the storage of gases.
+
+UDC 546.29lz533.16
+
+ANALYSIS, SUMMARY OF EXPERIMENTAL DATA AND TABULATION OF THE VISCOSITY 0P
+HELIUM-é AT CRYOGENIC TEMPERATURES
+
+[Abstract of article by Ulybin, S.A., Makerushkin, V.I. and Skorodumov, S.V.]
+
+[Text] In this paper an analysis is made of experimental results and published
+tables on the viscosity of helium-4 in the temperature range of 2.5 to 500 K
+
+at pressures to 30 MPa. It is shown that the new experimental values at low
+temperatures differ up to 10 percent from the table values available. Based on
+an analysis of measurement procedures, the most reliable values for viscosity are
+singled out. and these have been used by the authors.
+
+UDC 533.16:536.68
+
+EXPERIMENTAL APPARATUS FOR STUDYING THE VISCOSITY OP COMPRESSED GASES AT LOW
+TEMPERATURES
+
+5Abstract of article by Ulybin, S.A.. Makarushkin, V.I. and Skorodumov, S.V.]
+
+[Text] A description is given of an experimental apparatus for studying the via-
+uosity of liquids and gases at low temperatures. Measurements are made by the
+.apillary tube method with a constant rate of flow of the substance being studied.
+ﬁtationary flow conditions are made possible by means of a pressure regulator of
+original design. The expected error of experimental results is 1.0 to 1.5 percent.
+
+UDC 536.26.532.22532.529.2.
+
+'ALCULATION OF FREE LAMINAR CONVECTION AROUND A VERTICAL PLATE FOR HELIUM IN THE
+iUPERCRITICAL REGION OF STATE VARIABLES
+
+abstract of article by Yan'kov, 6.6. and Popov, V.N.]
+
+[Text] A method is discussed for a numerical solution to a system of differential
+equations of motion, continuity and energy, written in a boundary layer approxima-
+tion, for the case of free laminar convection at a vertical plate. An analysis is
+
+FOR OFHC'AAI. USE ONLY
+To“ U... I‘JI‘D Us’b \Il‘h.
+
+made of parameters of the finite-difference system and of factors influencing the
+accuracy of the solution. Calculations are made for helium (P a 0.25 HPa) for
+two boundary conditions: constant heat flux and constant temperature of the heat
+transfer surface.
+
+UDC 621.396.61
+
+STUDY OF A MODEL OF THE BOILING PROCESS IN SLOTTBD CHANNELS
+[Abstract of article by Galaktionov, V.A., Mironenko, A.V. and Portnov, V.D.]
+
+[Text] A comparison is made between a theoretical model and experimental data on
+the boiling of a liquid in thermosiphons with slotted channels. It is shown that
+the experimental data confirm the boiling model suggested.
+
+UDC 532.543
+AERODYNAHIC APPARATUS FOR EXPERIMENTAL STUDY OF BOUNDAR! LAYER CHARACTERISTICS
+[Abstract of article by Kiril'tsev, V.T., Hotulevich, V.P. and Sergiyevskiy, B.D.]
+
+[Text] A description is given of an aerodynamic apparatus (ADD) for an experimental
+study of the characteristics of the boundary layer on a porous plate with the
+presence of a longitudinal pressure gradient. The data obtained demonstrate that
+the design of the inlet line makes it possible to make compact ADU's with a suf-
+ficiently uniform velocity profile and a low level of turbulence in the inlet to
+
+the working section.
+
+UDC 532.536
+HEAT TRANSFER IN FLOW AROUND A MOVING SURFACE
+[Abstract of article by Zhuhrin, S.V. and Sergiyevskiy, B.D.]
+
+[Text] The results are given of a calculation of heat transfer with self-similar
+flow in the laminar boundary layer of an incompressible fluid with a longitudinal
+pressure gradient when the longitudinal component at the well does not equal zero.
+The influence of the speed of the surface, its direction and pressure gradient
+
+on the local heat flux density and the heat transfer parameter is demonstrated.
+For the limiting case of equality of velocities in the nonturbulent flow and at
+the wall the analytical relationships for heat transfer in the field of nomviscous
+flow agree well with the numerical calculation.
+
+COPYRIGHT: Moskovskiy energeticheskiy institut, 1980
+
+‘8831" "
+C80: 1861/150 END
+
+hs
+son OFFICIAL use ONLY

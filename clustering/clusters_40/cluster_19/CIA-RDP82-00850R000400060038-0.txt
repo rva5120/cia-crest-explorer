@@ -1,0 +1,2696 @@
+Translation
+
+MARINE ELECTROMAGNETIC RESEARCH.
+
+COLLECTION OF THE INSTITUTE OF TERRESTRIAL MAGNETISM.
+
+THE IONOSPHERE AND RADIO WAVE PROPAGATION
+
+OF THE USSR ACADEMY OF SCIENCES
+
+Ed. by
+
+G.A. Fonarev
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+I] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+nation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.3. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+NI! 0511““. "SR ONLY
+
+JPRS L/10061
+
+21 October 1981
+
+. MARINE ELECTRONABNETIC RESEARCH.
+COLLECTION OF THE INSTITUTE OF TERRESTRIAL NAGNETISH,
+THE IONOSPHERE AND RADIO HAVE PROPAGATION
+OF THE USSR ACADEMY OF SCIENCES
+
+Moscow MORSKIYE ELEKTROMAGNITNYYE ISSLEDOVANIYA: SBORNIX IZMIRAN in
+
+Russian 1975 (signed to press 25 Mar 1976) 200 copies, pp 2-80
+
+[Edited by Gennadiy Aleksandrovich Ponarev, Candidate of Physico-
+Mathematical Sciences]
+
+Comems
+mnocamntootoiioo.OOOOQOOOOOOOOOOOOOOOIO.QCOOOCOOIOOOQOOOOOOO00.000.000.00... 1
+Vertical Component of the Electric Field Intensity Induced by the lbtion
+
+of Sea Hater
+(L. H. Abrmv" et “0)....OOOOOQOOOOCOOI.I.0.......OOOOOOOOOOOOOOOOODt 2
+[xternination of the Conductivity of Sedinnto by honoring the Electric
+and magnetic Fields and Have Velocity mnponente at the Bottom of the
+Sea
+(L. “Q Abrmva)0000000100.0.000...00.0.00...00......000.000.00.00000000 8
+Statistical Characteristics of the Elation of the "eve Parameters to the
+Induced Electromagnetic Field
+(Yu. M. ”rmov, L. H. ﬁrm“)...oOOOOIOOOO'DOOCOOOOOOOCCO00....0.0... 11
+Complex Measuremnt'e of Electromagnetic Fields of Haven in the mental
+Zone. (Research Procedure and Some Results)
+(Yu. “0 ”ram. e: ‘1.)000000000000.0.00000QOOODOOOOOOOOOOQO0.00.0.0... 16
+comparison of ‘nm hype: of Device. for Marine Electra-emetic Sounding
+(1.. B. Volta-inlays, G. A. Pmrev).................................... 28
+Measuring the Sea Have-Induced Electric Field
+(60 A. m‘mv' v. Y“. s.m°v)0000O...OOOOIOOCOOOOIOOOOOOO0.0.0.0.0.... 32
+- a - ' II - Ussn - a rave]
+
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL USU-I ONLY
+
+Estimating Electric Field: Created by a M-Dinensional Have Spectru-
+(“o H. Bosorodakiy)cooou000.0.000...000-000....IOICCOOOOOOOOOOIOOOOOOOO
+
+General Properties of the Anomalous Mayretic Field in the World Ocean
+(v. c. urkm' e: al.)..lb....00...!00.0.0.0....UOCUCOOCCOIOUOOOCOCOOOO
+
+FOR OFHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ANNOTATION
+
+Articles in this collection are devoted to studies of the electromagnetic fields
+
+of sea waves, certain aspects of magnetotelluric sounding and analysis of ano-al-
+ous magnetic fields. The collection is designed for specialists working in the
+field of studying electranagnetic phenomena in the seas and oceans.
+
+1
+
+FOR OFFICIAL USE ONLY
+"0R CN'I'IC'I \l I'K‘l "VI \
+
+VERTICAL COMPONENT OF THE ELECTRIC FIELD INTENSITY INDUCED BY THE MOTION 0P SEA
+HATER
+
+[1.. M. Abramova, V. N. Mitrofanov, S. A. Skrysbin. pp 3-10]
+
+The vertical component of the electric field Bz induced by the motion of sea vater
+in the geomagnetic field B occupies a special position in the studies of the elec-
+tric field of a hydrodynamic source and the dynamics of the source itself. This
+arises from theexistence in the sea of a sharp conductivity boundary: the"seawater-
+air" boundary. The component B , in the general case. in the center of large-scale
+movements does not depend on tbs conductivity distribution or the configuration of
+the motion, being a function only of the local velocity and horizontal component of
+the earth's magnetic field [1].
+
+Ez'VxBy‘VyBx . (1)
+V xy are the velocity components of the sea water.
+Young. at al. considered this fact for the first time. 88 indicated
+
+in reference [2]. Later this component was used to study the speed of moaement of
+sea water [3, lo]. For sea waves 8 was presented in [S], where the solution for the
+electric field potential of a two-dinensional progressive wave obtained in reference
+[1] was used. For the analysis and estimates of B the above-indicated authors
+either investigated the two-dimensional model of m3tion or it was assumed that the
+meter was placed at the middle of the flow.
+
+The more general solution by comparison with the preceding one for E was obtained
+by D. Sanford [6] for the class of movements, the horizontal dimensisna of which are
+much greater than the vertical nonunifornities. In particular, he studied the
+model in which there is only a horizontal velocity conponent V (the vertical
+velocity component is seemed to be negligibly smll by comparfxon with the hori-
+zontal one), which is entirely acceptable for a large class of large scale move-
+ments of the sea and waves in shoal water.
+
+The vertical component of the electric field is expressed as follows:
+
+E; Vx Bijy BX -%!Bz(vyvy)d§'%zféz(VX-EM§ (2)
+
+where fo'ﬁ‘ IV” (1? is the speed averaged with respect to depth considering the
+
+2
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+conductivity of the sediments -— the effective speed. D - H + (02/01) (lls - H) is
+
+the average depth of the sea considering the conductivity of the sediments — the
+effective depth of the sea. H is the depth of the sea, ﬂ. is the thickness of the
+layer of sediments, 01 is the conductivity of sea water, 02 is the conductivity of
+the sediments.
+
+For potential velocity distribution (or at the center of symetric distribution)
+expression (2) becomes (1), that is, it is the sum of two terms, the ratio of which
+depends only on the direction of motion of the sea water. This expression, as was
+pointed out above, is validly used in practice when studying large-scale movements
+when the velocity distribution is sufficiently stable and known.
+
+In the case of wind waves the velocity distribution is of a random nature, and the
+
+dimensions of the source are small by comparison with the measurement bases;
+it is also necessary to consider the last two terms in expression (2) which depend
+on the vertical component of the main magnetic field of the earth, 3:.
+
+For a more detailed study of the distribution of E in the waves in the coastal
+zone of the sea, let us consider the specific problem with the following velocity
+distribution: _ (11-: u!)
+
+._ .
+
+Vx'ivox €05£y8 fx(l) ,
+
+$34,013"?[YCi(kx-M)I,(Z) .
+
+K -V, -=0 for: lylrzq—é‘
+
+This distribution is characterized by the fact that the velocity components along
+the crest (the y-coordinate) and along the wave propagation (the x-coordinate)
+have different damping laws with respect to depth. The existence of such distri-
+bution obviously is realistic [7]. For this model of a wave expression (2) is
+represented in the following form:
+
+(3)
+
+«(ix-u!)
+
+V15 -' ,xf fx(z)cos£y-£Bzf.x(z)-sin[y}
+’Voy sin 3!fo f,(z)'ka,,(z)] .
+
+where . f.., : ﬁlm)“ ,Jmm.
+
+From formla (4) it is obvious that as a result the characteristic features of the
+electrodynamic solution, the functions f (z) and flu) have significantly different
+dependence on depth: namely,
+
+(4)
+
+on the surface, 2 - 0
+
+ﬂab-0, 'fl(z)som
+
+on the bottom 2 . -H
+
+Mano, 22(3)”.
+
+3
+
+FOR OFFICIAL USE ONLY
+FOR OFF" '| \l I'M" ON] \
+
+From this condition it follows that in the general case on the surface of the sun
+the vertical component of the electric field E is defined only by the horizontal
+component of the field B , and on the botton.zby the sum of two terms, one of which
+arises from the verticalxXomponent of the magnetic field of the earth 8:, and the
+other, the horizontal component B . Inasmuch as for one term of the expresson (4)
+there is no imaginary factor, thexphase B will depend on the relation of the ve-
+locity components, depth and position of zthe point of measurement with respect to
+the crest. In the middle of the crest (y - 0) the phase B is constant with respect
+to the entire depth; for other values of y the phase varies with respect to cross
+section.
+
+Depending on these factors. the magnitude of the measured signal. that is, the con-
+tribution from each term of expression (6), will vary. The ratio of the contribu-
+tions of the horizontal and vertical components of the earth's magnetic field in B:
+is defined by the ratio of these components of the geomagnetic field, and it also
+depends on the characteristic dimensions along the crest 11123., the coordinate z
+(the observation horizon) and the contribution of the conducting sediments.
+
+For the velocity V directed along the meridian the contribution to 8 will occur
+only as a result of the vertical component of the earth's magnetic fiefd. Dz,
+
+where it will be the most significant. of course, at high latitudes, on the magnetic
+equator with this direction of the wave motion Ez .-. 0.
+
+In the case of latitudinal direction of the velocity and large values (high geomag-
+netic latitudes), the contribution as a result of the two components can be consen-
+surate in a wave of equivalent dimensions with respect to wave length and crest
+length, especially on the horizons 41/2. In the middle and low latitudes the pri-
+mary contribution is made by the part 3:1 caused by the horizontal component of the
+primary magnetic field of the earth.
+
+in the case of a pure "wave current" where the velocity is uniform to the bottom,
+that is, f(z) .. const - f. and Vy - 0,
+
+511mm...“ «1- $93.51. an, (5)
+
+that is. the vertical component of the electric field B of the "wave current" is
+equal to zero on the surface, is maximal at the bottom ind has constant phase.
+
+Let us consider this phenomenon in the example of the electric field of sea waves.
+In 1973 in the vicinity of the port of Hirnyy (the Crimea) experimental studies were
+mde of an electromagnetic field of a hydrodynamic source.
+
+The vertical component of the electric field of sea waves was measured by two static
+meters with silver chloride electrodes by the mum-1m system. One vertical
+measuring base was locate-1 at the bottom, and the other near the surface (Figure l).
+The length of each base was 1 meter; the distance between centers of the bases was
+~2 meters. Both bases were located on the same vertical. Along with the electric
+field sensors was a wire wave meter for recording the wave height. The depth of the
+sea at the measurement point was ~5 meters. The recording of the electric field
+measured on the upper and lower bases and the wave height was made on one tape of
+the K-12-22 oscillographic automatic recorder. the mean amplitude Ez recorded by
+the upper meter was ‘0 to 60 microvolts per meter; the amplitude recorded by the
+
+1.
+
+FOR OFFICIAL USE ONLY
+FOR OFFK‘IU INT 0"" \
+
+lower meter was 30 microvolts per meter. and the average oscillation period '1' ~
+
+L)
+seconds. The vertical component was measured during stormy weather.
+
+for
+
+5N.
+
+in
+
+Figure l.
+A characteristic feature of the recorded vertical fields is the presence of a sig-
+
+nificant phase shift between the upper and lower field asters. The phase fluc-
+tuates from 60° to 120'.
+
+For interpretation of the results of measuring the electric field E of the wave
+action, as an example let us consider the model of a wave with creef of finite length
+and with a specific velocity damping law with respect to depth. He ehall consider
+
+~ (6)
+
+where k' - Ikz + £2 . This nodel approximates the wave motion in shallow water when
+i! < A/2.
+
+In this case
+
+Ez‘EzI 'EzzZ EusFﬂx 3
+EthzVo {‘sin tyedh'uuMk’H '
+
+fWI ' rﬁ—thk’Hj. m
+
+The pair of electrodes located near the surface recorded the field amplitude 3
+caused actually by the first term 3 . For estimation of the ratio of the sigﬁals
+measured on the bottom and on the surface, let us give the actual values of:
+
+v - 2 I/sec, r, - 0.2-10-4, r - 5 sec, k z 0.2. 9. - 0.06. n - 30 meters. Then on
+tRe surface, 2 O 0
+
+ih- t)
+E1*Ez.'F,\’,=40coslye( w (microvolts/meter).
+
+The second pair of electrodes located near the bottom, 2 - I! neasured the following:
+
+! k l t(k - 0
+Eu =V0F, C0$£VE ( x .u )'Eh"kl‘l'H—5 ZﬁCOSZyC .’ Zlmicrovolts/Ieter);
+
+5
+
+FOR OFFICIAL USE ONLY
+FOR OFHCIAI. USE ONLY
+
+tn “var, {esgan‘f‘ ﬂm'u- 51mm}
+”‘52 5i” we microvolts/meter) .
+
+The sum of the component E2 on the bottom will give an oscillation with an amplitude of
+~27 microvolts shifted in space along the crest with respect to B‘ on the surface by
+an angle o 3 60'. The amplitude ratio of the field on the surface and on the bottom
+
+8
+z surf
+__E_ - 1.5.
+a bottom
+
+According to the experimental data, the average value of this ratio will be «2.0.
+The scattering can be explained. on the one hand, by the arbitrary choice of the
+parameters It and 2. and the field 1' (since the direction of wave propagation was
+determined approximately); and on the other hand, by the fact that in real three
+dimensional waves the damping coefficient obtained by the experimental data pre-
+supposes faster damping of the orbital velocity with depth [8].
+
+The magnitude of the phase shift and the enlitude ratio B near the bottom and near
+the surface are defined obviously by all the terms of expriesion (6); for more exact
+estimation of these values it is necessary to know the reel velocity distribution in
+the wave and the location of the meter with respect to the wave.
+
+By the surface measurements of E . the order of magnitude of the peak. value of the
+
+a
+velocity component in the east-west direction ”least-west was estimated.
+
+-5 i
+" _ 40'50 "0: o.
+le-suu - PF:- 02'50- 2;; m/sec.
+
+(a)
+
+Key: a. east-west max
+
+This is an entirely realistic value for the speed in shallow water during a severe
+storm.
+
+In conclusion, it must be noted that inasmuch as the solution (2) which we took from
+[6] was obtained for the steady state problem with one restriction — the character-
+istic horizontal dimensions of the source are such greater than the effective depth
+of the ocean -- the study nsde in this article is valid for an entire class of sea
+movements satisfying this condition: currents, tides, long rolling Ben and
+tsunami on the shelf and wind waves in the coastal zone.
+
+In the case of measuring the electromagnetic field which can be considered as a ran-
+dom process. it is necessary to consider that not only the magnitude. but also the
+
+phase of the recorded components depends upon the position of the meter with re-
+spect to the investigated wave.
+
+FOR OFFICIAL USE ONLY
+1.
+
+2.
+
+3.
+
+l0.
+
+5.
+
+6.
+
+7.
+
+FOR OFFICIAL USE ONLY
+
+BIBLIOGRAPHY
+
+H. Longuett-Higsins, K. Stern and E. Stonel, “1008 501.3 OCEANOGRAPHIC INSTITUTE
+CONTRIB” 19614. p 690.
+
+F. 3. Young, V. Gerrard and N. Jerous, PHIL. mm, No lo, 1920.
+
+G. A. Fourev, V. S. Slmeyer, PROBLEM! mm I ANTARKITIKI (Problems of the
+Arctic and Antarctic), Leningrad, Gidrouteoizdec, No 31, 1969, p (08.
+
+ll. Harvey, mum-72, HAWAII INST. 0? cm. Honolulu, 1972.
+
+G. A. Pmrev, GBOHAGNITNYYB ISSLKDOVAN‘HA (Gempetic Research), Ho 13, Moscow,
+Nauka. 1971.
+
+T. Sanford, J. 0? GEOPHYS. 338., No 15, 1971, p 76.
+
+R. N. Ivenov, 12V. AN SSSR, SERIYA GEDPIZ. (News of the USSR Academy of Sciences,
+Geophysics Series), No 7, 1962.
+
+A. I. Dwanin, VOINOVYYE DVIZHKNIYA V 1033 (Wave Nahume in the Sea), Leningrad,
+Gidroneteoizdat, 1968.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+DETERMINATION OF THE CONDUCTIVITY OP SEDIMENTS BY MEASURING THE ELECTRIC AND MAGNETIC
+FIELDS AND HAVE VELOCITY COMPONENTS AT THE mom 0]" THE SEA
+
+[L. M. Abra-ova, pp 11-16]
+
+Electromagnetic fields induced by the movement of sea water in the geomagnetic field
+are used in oceanography to obtain detailed intonation about the velocity structure
+of the ocean movements which sometimes is very difficult if not in general impossible
+to obtain by other methods.
+
+Another aspect of using a hydrodynamic source is the study of the deep struc-
+ture of the earth, for the fields induced by it depend on the conductivity. the
+thickness of the sediments and the distance to the conducting mantle. The effort to
+use this source to determine the depth to the conducting mantle was made by Larsen
+[1] by the method of magnetotelluric sounding. Teramoto proposed a method of de-
+termining the effective conductivity of the bottom of the channel by measuring the
+potential difference across the channel, the electric currmt density and the speed
+of the water [2]. By using this method a zone of anomalous conductivity was isolated
+under the Sangarskiy Strait} which is a continuation of the conductivity anomaly
+Observed in Japan.
+
+In the indicated papers a study was made of a uniformly layered model made up of the con-
+ductivities of the ocean 01, the sediments 02, the nonconductimg crust and highly con-
+
+ducting mantle (II [1, Z].
+
+The influence of the mantle on the induction mechanism depends on the ratio of the
+linear dimensions of the hydrodynamic source I. end the skin depth of the mantle 5-
+
+at the frequency w. The el7ctromagnetic frequency wave penetrates the mantle toI
+a depth a - (2/(p.w. on”
+
+"hen 6 -/I. >> 1 it is possible to neglect the mantle; for 6 an << 1 it is necessary
+to consider the effect of the mantle when estimating the conductivity.
+
+In this paper a method is proposed for determining the effective conductivity of the
+sediments by neasurements of the electric and magnetic fields and the velocity
+components at the bottom. Here the class of movements for which 6 m“ >> 1 can be
+used as the sounding source. This includes the wind-driven waves and swell in
+shallow water, the stationary and certain other movements for which the contribu-
+
+tion of the nantle to the mutual induction process between the ocean and the mantle
+is negligible.
+
+1Tsugaru Strait.
+
+FOR OFFICIAL USE ONLY
+FOR OFHCIAL USE ONLY
+
+Let us consider a model of the ocean movement with three-dimensional velocity distri-
+bution with respect to the x, y and z -coordinates.
+
+In general form the components of the electric and magnetic field induced by the
+movement of the sea water in the model with three-dimensional velocity distribution.
+according to the solution of Sanford [3] are expressed as follows:
+
+Ex '5 V,” . 11/6! . (l)
+5,: F v; 7/6,, (2)
+5x+GIEW H) (I-ZHJI}. <3)
+h'ﬁ‘EYyU’.‘ NH) (1' )h. (1.)
+where jxy' Exy and any are the components of the electric current, the field and
+
+magnetic field. respectively; F2 is the vertical component of the. gaunagnetic field,
+u is the mapetic permeability, 2(11 is the specific conductivity of sea water v?” -
+
+(1/0)}? nydﬁ is the average velocity with respect to depth considering the conduc-
+
+tivity of the sediments -- the effective velocity 1) - 8(1 + Y) — the "effective"
+depth to which the induced current penetrates (considering the conductivity of the
+sediments), Y - S Isl is the ratio of the longitudinal conductivities of the sedi-
+ments $2 and the ea water 81. and H is the depth of the sea.
+
+Expressing '1): and 3 from (1) and (2) and substituting in (3) and (lo), we obtain the
+value of the xparalne¥er Y - the ratio of the integral conductivities of the layer
+of sediments and sea water:
+
+. .5”----_€_5L__ .fxi/L___L_{26 _.
+H E! 1‘61“!!! Ex 1“!"1 (5)
+
+Having data available from'bottom measurements on V”, Bay and Bxy’ it is possible
+to estimate the total longitudinal conductivity of the aediments $2 - Ysl.
+
+In the case of a model with one velocity coqonent, for example, V f the parameter
+Y will be determined from the expression:
+
+FV 26
+'.""'E;L”,chFTFI' <6)
+
+The parameter S. as applied to the induction problems of wind-driven waves is quite
+provisional in fhe geophysical sense, for the linear dimensions of the source can be
+less than the layer of sediments; in this case S defines the effective conductivity
+of the part of the sediments to which the curren is closed. For long rolling
+seas, meteorological fluctuations, and so on. the linear dimensions of which are
+commensurate with the thickness of the layer of sediments, this parameter determines
+the effect of the entire layer.
+
+The contribution of the conducting sediments to the process of electromagnetic
+field induction as a result of the waves was estimated by the synchronous recordings
+
+9
+
+FOR OFFICIAL USE ONLY
+FOR OI-‘I-‘If‘IAI. USE ONLY
+
+obtained during bottom measurements of the magnetic field Bx. electric field E and
+velocity components vat of the windedrivan waves. The depth of the sea at the {in
+of the measurements was 1.2 to 1.5 meters [6]. The vertical componznt of the
+
+earth's magnetic field in the measurement zone was 0-52'10 “‘1.-
+
+By formla (6) an estimate was made of the parameter Y - 82/81. The mean values of
+
+the amplitudes obtained in the time interval of -100 seconds were taken for the
+calculations: V - 2.3 Mac. 8, - 8.640'6 volts/mater, B - 1.2 nteala. The
+corresponding vafue turned out to be equal to 18. If we tafe the total longitudi-
+nal conductivity of sea water 8 - all! - «.8 to 6 (moh), it is possible approximately
+to estimate the efiective longitudinal conductivity of the part of the sediment
+layer through which the currents are closed
+
+‘51- is, -18o («wanes-1w (noh)
+The correctness of the estimate was confirmed by the results of the spectral analy-
+sis of these materials when for the given a priori hydrodynamic nodal, the spectra
+of the electric field components were calculated by the measured velocity spectra.
+The spectra calculated considering the value of S demonstrated good agreement with
+the experimentally obtained estimates of the specEraJ. densities of the electric
+
+field. What has been stated here again confirms that the wave move-ants of the
+field can he an additional source for studying the deep structure of the earth.
+
+BIBLIOGRAPHY
+l. J. C. Larsen, GEOPHYS. J. ROY. ASTRON. SOC., Vol. 16, No l, 1968, p 47.
+2. T. Teramoto, J. OCEANOGR. SOC. JAP. Vol 27, No 1. 1971.
+3. '1‘. Sanford, J. GEOPHYS. RES” V01 76, No 15, 1971.
+1.. Yu. :4. Abramov, L. H. Abramovs, S. M. Minasyan. V. N. Hitrofanov. A. S. sucherba-
+
+kova. "Complex Measurements of Electromagnetic Fields of Haves in the Coastal
+Zone. Investigation Procedure and Some Results (see this collection)."
+
+10
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+STATISTICAL CHARACTERISTICS 0? THE RELATION OF THE HAVE PARAMETERS TO THE INDUCED
+ELECTROMAGNETIC FIELD
+
+[Yu. H. Abramov, L. h. Abramova. pp 15-21]
+
+Up to the present time. judging by the published papers only a small outer of stu-
+dies were made including simultaneous recording of the parameters of the velocity
+field of sea waves and electric and magnetic fields induced by the wave movements.
+The small number of such studies is explained by difficulty in stating the coupler
+measurements at sea. including the absence of special electromgnetic marine equip-
+ment.
+
+Complex studies of the electromagnetic fields of the waves in the coastal zone have
+been performed at the mum SSSR [Institute of Terrestrial Magnetism, the Iona-
+sphere and Radio Have Propagation of the USSR Academy of Sciences] since 1971. In
+the given paper the results are presented from full-scale studies of electromagnetic
+fields of waves, the purpose of which was establishment of the statistical relations
+between the characteristics of the electromagnetic and hydrodynamic fields of the
+waves.
+
+The components of the electric and magnetic fields of the wave action and the hydro-
+logic parameters -- the wave velocity and height — were recorded in the coastal
+zone of the White Sea (the vicinity of Cape Abramsvskiy).
+
+The measurement procedure is described in [1]. As a result of this study, synchro-
+nous recordings vere obtained for three components of the magnetic field of the
+waves Bx’ By, Bz’ two horizontal components of the electric field 8‘ and By and also
+
+the hydrc gic parameters - the shift of the free surface h. - 2A (A is the wave
+amplitude) and the velocity component normal to the shore. Vx.
+
+when processing on a computer, the recording was usually made at increments of 0.5 to
+0.6 second.
+
+The statistical characteristics of the distribution, the mutual correlation and
+mutual spectral functions and also the coherence functions were calculated.
+
+The statistical parameters obtained during the processing (the excess and say-retry
+coefficients of the distribution functions of the y-axes of the wave height
+recordings. velocity and parameters of the electromagnetic wave) demonstrated
+that in the first approximation usually the hypothesis of norml distribution is
+applied.
+
+11
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+An example of one of the mutual correlogrm characterizing the relation of the
+parameters Ex and h" is illustrated in Figure 1.
+
+All of the mutual correlograns have the form of functions that damp to the 0.1
+level from the laximum value in 10-20 seconds.
+
+The form of the correlograns indicates that in both processes there is a quasiperio-
+dic component present with a period of 5-6 seconds which is typical for wind-driven
+waves. The processes are close to the ao-called narrow-hand processes with charac-
+
+teristic periods related to the frequency “’0’ near which the maxim- energy of the
+process is concentrated.
+
+For all of the mutual correlograns characterizing the relation of the components of
+the electric field (E . E ) and the hydrodynamic parameters (V . 2A) the presence of
+a shift of a maximum hf the mutual correlation function is typical, indicating the
+existence of a phase difference of the oscillations of these conponents. The
+degree of the relation of the electric field component B and the velocity paraneters
+(the wave height) is low, and the mutual correlation factor 1' - 0.5. the small
+magnitude of the mutual correlation coefficient of these para§3ters obviously is
+explained by the fact that the measurenenta were taken not at one point, but they
+lay on a straight line not coinciding with the general direction of motion of the
+wave front. As for the degree of the correlation of the components Bx - V‘. it
+appears to be closer, rxy ~ 0.7, and this is explained by the fact that the esters
+
+for measuring these parameters were located in practice at one "point," which re-
+vealed better interrelation of the processes.
+
+ 
+
+Key: a. 1, sec
+12
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Mutual correlation analysis of ttehydrodynmic and electromagnetic parenters did
+not demonstrateasufficiently convincing relation between the processes in the time
+region. which is explained by imperfection of the measurement procedure. The re-
+sults of spectral analysis. however, indicate the presence of a clear relation be-
+tween the investigated processes and the frequency region. A comparison of the ve-
+locity spectrum (just 88 the wave height) with the spectra of the components
+of the electric and magnetic fields demonstrated that in accordance with linear
+
+theory, there is good similarity of these characteristics in the spectral sense,
+Figure 2 a, h.
+
+ 
+
+o 2.0 ‘40.“ to :0 I2 :4 (1)
+
+ 
+
+Figure 2
+
+Key: 1. second
+
+The curves for the estimates of the spectral density functions of the cave height 2A,
+the velocity V“ and the electric field components 8: and B y have basic peaks at the
+
+periods of the wind-driven waves. The peaks are well expressed and coincide with
+each other. In the estimates of the spectral densities there are additional peaks
+
+13
+
+FOR OFFICIAL USE ONLY
+FOR1DFFKJAL.USE(MVLY
+
+6.0.0.»: (a)
+
+ 
+
+Figure 3.
+
+Key: s. radians b. second
+
+at the periods close to the basic period which are lower with respect to amplitude,
+but coincide with each other for all components.
+
+The presence of a relation between the electromagnetic field and the velocity field
+
+parameters in the frequency region also confirm the calculated mutual spectra for
+these parameters. Figure 3 illustrates the mutual spectrum of the components 3‘ -
+
+Vx, Sxy(m).
+
+The wave frequency is plotted on the x—axis, and the mutual spectrum characteristics
+are plotted on the y-axis:
+
+G is the mutual spectral density function.
+C is the cospectrum,
+
+Q is the quadrature spectrum,
+
+0 is the phase shift between coaponents.
+
+The graphs of the components of the mutual spectra indicate that the energy exchange
+between the investigated components takes place primarily in the range of periods of
+b-8 seconds corresponding to the wind-driven waves. 0n the remaining periods, the
+energy exchange is insignificant. The nature of the phase curves is different for
+
+14
+
+FIIICIHHCJA1.USE1DNL¥
+FOR OFFICIAL USE ONLY
+
+different components, which is explained by the separation of the observation
+points in space.
+
+The coherence of the investigated parameters is high; its peaks come on the same
+frequencies as the spectral density and mutual zspectral density 32““ Figure lo
+shows the coherence functions F (m) - sty (03)]2 IS («1)5y (m), 0 < (w) _<_ l as a func-
+
+tion of the vave period calculated for the electric field components, velocity and
+wave height.
+
+ 
+
+Key: a. '1‘, seconds
+
+The investigated results of the spectral analysis of the parameters of the hydro-
+dynamic and electromagnetic wave fields under various meteorological conditions in—
+dicate that there is a clear and stable spectral relation between these parameters.
+
+This again confirms that the electronagnetic fields are a sufficiently exact representa-
+
+uonof wave hydrodynamic processes in the sea.
+
+BIBLIOGRAPHY
+
+1. Yu. M. Abramov, L. M. Abramva. s. H. Hinasyan, V. Ii. Mitrofanov, A. S. Shcherba-
+
+kova."‘rhe Complex Measurements of Electromagnetic Fields of Waves in the Coastal
+Zone. (Research Procedure and Some Results)," See this collection.
+
+15
+
+NR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+COMPLEX MEASUREMENTS 0P EBCTROHAGNB‘IIC FIELDS OF WAVES IN TEE COASTAL ZONE. (RB-
+SEARCH PROCEDURE AND some RESULTS)
+
+I‘m. H. Abramov, L. M. Abramva, S. M. Mnasyan, V. N. Hitrofanov, A. S. Shcherbakova
+pp 22-40}
+
+At the present time marine electromagnetic measurements are acquiring great sig-
+nificance in the overall complex of marine geophysical research.
+
+In spite of their obvious urgency, the measurements of the variable electromagnetic
+
+field widespread for dryland research has still not received sufficient development
+under marine conditions. The reason for this lies primarily in the fact that during
+experimental studies in the sea difficulties arise connected with the sealing of the
+measuring equipment, its stabilization on a moving platform (buoy and floating sta-
+tion) and chemical sgressiveness of sea water. In addition, the studies of the
+electromagnetic variations in the sea are complicated by the appearance of an addi-
+tional source of a variable electromagnetic field — a hydrodynamic field caused by
+movement of the conducting sea water in the magnetic field of the earth.
+
+the most powerful interference when studying the morphology of the variations in the
+sea in the short-period part of the spectrum are the electromagnetic fields of
+wind-driven waves and swells.
+
+The data from theoretical calculations and experimental measurements indicate
+that the maximum amplitudes of the electromagnetic fields of sea waves have values
+from tenths to units of game in the magnetic field and from tenths to hundreds of
+millivolts per kilometer in the electric field in the range of periods of 1-60
+seconds, which is entirely consensurate with the electromagnetic fields caused by
+an ionospheric source in the same frequency range (short-period oscillations) and
+even exceeds them. The structure of the distribution of these fields in the water
+and in the air has a complex nature connected with the conditions of the movement
+of waves in the world ocean, the conductivity distribution in the ocean and sedi—
+ments, the depth of the ocean, and so on.
+
+The electromagnetic fields induced by a hydrodynamic source can have a significant effect
+on the operation of marine electronic reconnaissance gem-of the electromagnetic current
+
+meter (nut), lowering the reliability of the assured values. On the other hand.
+the induced fields as a function of conductivity, thickness of the sediments and
+distance to the conducting mantle, offer the hope for future use of electromagnetic
+fields of the hydrodynamic source to study the geoelectric section [1].
+
+16
+
+FOR OFFICIAL USE ONLY
+FORtOFﬁKJAl.USE(NVLY
+
+It is no less important to study the electromagnetic Ilelds ot hydrodynamic utlslu
+in the interests of oceanography. At the present time the EHIT [electromagnetic
+current meter] is widely known and is finding practical application in oceanography.
+The electromagnetic fields of wind-driven waves and swells can also be used to study
+the nature and the characteristic features of their scurce.
+
+The enumerated factors indicate the urgency of setting up theoretical and experi-
+mental studies of electromagnetic fields of wind-driven waves and swell.
+
+The small number of experimental studies of these phenomena is connected with the
+difficulty of setting up this type of measurement at sea. The wind-driven wave and
+swell fields attenuate rapidly with depth; there is an alternative - either to sta-
+bilize the measuring elements in the hydrodynamic field when performing measurements
+at the source or remove the sensors from the source. increasing the sensitivity of
+the measuring device. Both alternatives still run into technical and procedural
+difficulties. 0n the existing level of measurement equipment and means of setting
+
+it up in the sea. reliable measurements of the electromagnetic fields of sea waves
+can be taken most successfully under shoal water conditions. Technically it is
+easier to measure the magnetic and electric fields of waves in shoal water; both
+scalar and component sensitive elements can be used with the same degree of success
+here, for they are installed on the bottom. The advantage of measurements under these
+conditions is the possibility of using differential devices permitting isolation of
+the wave fields in "pure“ form. For this purpose one measuring sensor is placed in
+the range of the electromagnetic fields of the waves. and the other at a considerable
+distance from the source, on land. In the absence of noticeable geomagnetic variation
+field gradients of external sources. the difference of the signals of these sensors
+is proportional to the electromagnetic field of hydrodynamic origin. In addition.
+for certain wavelengths in the short-period pirt of the spectrum. even a shallow
+
+sea (H" 5-7 meters) can be considered as "deep" (8 > All). which permits use of
+short wind-driven waves as a micromodel of long rolling seas in deep water.
+
+In the USSR and abroad there are a quite large number of magnetometric and electro-
+metric devices for recording variable electromagnetic fields on the dry land under
+stationary conditions. The specific nature of the operation of the meters under
+marine conditions as part of buoy. bottom and floating stations limits the possi-
+bilities of the application of this equipment. especially when measuring components
+
+[2].
+
+The basic requirements on the equipment for measuring the electromagnetic fields of
+sea waves with respect to resolution (0.01 to l p in a magnetic field and 0.1 to 10
+microns/m in an electric field) and frequency range (1-0.03 hertz) demonstrate that
+such observatiors can be made using the device for measuring electromagnetic field
+variations in the sea.
+
+In this paper primarily the results of measuring the electromagnetic fields of sea
+waves are considered which were obtained on an expedition for complex investigation
+of variable magnetic fields in the vicinity of Cape Abramovskiy in the White Sea in
+
+1973.
+
+Taking measurements of the electromagnetic fields of sea waves in this region
+was complicated by the fact that it is in a zone of increased magnetic activity.
+On the other hand. the advantage of measurements at high latitudes is that
+
+17-
+
+FOR OFIlC1A1.USEGDNlV
+FOR OFFICIAL USE ONLY
+
+basically only the vertical component of the earth's primary magnetic field
+is present, which simplifies interpretation of the data obtained and the choice of
+models.
+
+The region in which the measurements are taken is characterized by a flat coastline
+with a slope of 1—2' directed from west to east. At this location the syzygisl
+tides have a height on the order of 7 meters, and the quadrature tides 6 meters. and
+they have a strict semidiurnal nature.
+
+The diagram for deploying a set of measuring equipment is presented in Figure 1.
+
+Atmaximmnlow tide the depth of the sea at the point of installation of the sensors
+is 1 meter, and the distance to shore at low tide is 300 meters.
+
+The electric potential differences were measured by static meters on two mutually
+perpendicular bases by 5 silver chloride electrodes of the IZHIRAH-IELAN system.
+Different combinations of these electrodes made it possible to select the length of
+the aessuring bases equal to 10 or 20 meters. The signal from the electrodes tra-
+veled along a P-268 type cable to the recording equipment located on the shore.
+All of the measured values a this experiment were recorded on the 12-channsl K-lZ»
+22 automatic recorder; the sensitivity of recording the potential differences was
+0.03 mv/mm. The diagram of the installation of the electrodes in the sea is pre-
+sented in Figure 2. In addition to measurements of the potential difference of the
+wave electric field, the potential method was used, the essence of which consists
+in the fact that one of the electrodes (the measuring electrode) is placed directly
+in the measured field, and the other ("zero") outside the range of this field. The
+signal picked up from the electrodes is in this case proportional to the potential
+of the measured electric field at the point of installation of the measuring elec-
+trode.
+
+Inasmuch as the investigated signal varies synchronously in time with the speed of
+the wave relative to the measuring electrode. the component of the measured electric
+
+field parallel to the direction of this velocity is defined as follows:
+3! V23!
+Ex‘ x 2 v0 at l (1)
+where Ex is the electric field intensity component,
+
+o is the signal aessured by the potential method,
+
+.'
+
+V¢ is the phase wave velocity with respect to the measuring electrode.
+
+Lead plates 50 X 700 X 3Ium served as the zero electrode in the potential measure-
+ment method. They were dug into the ground a distance of 200-300 meters from the
+edge of the water on the land.
+
+The magnetic field components of seawaves were measured by a ferrosonde three-
+component magnetometer installed on the bottom. The "y" component sensor was set up
+
+perpendicular to the meridian and parallel to the shore; the "x" sensor was set up
+
+in the direction of the aeridian and perpendicular to the shore, and the "a" sensor,
+
+vertically.
+
+18
+
+FOR OFFIGAI. USE ONLY
+FOI‘OFFHJAI.USE(NNLY
+
+ 
+
+A-ﬂAT'IHK cxopacm u Wu” (3)
+o~ murpogu (1:)
+
+Pigure l. [-mruuroﬂtrp (c)
+Key: a. laboratory facility e. acarp h - 10-15 meters
+h. speed and pressure gage f. maximum low tide line
+c. electrodes g. depth profile with
+d. magnetometer respect to the A'A line
+
+h. depth scale
+
+The general complex for measuring the magnetic field components was made up of the
+follon.ug:
+
+1. 86-56 magnetometer with sensor,
+2. compensator for the constant component of the earth's magnetic field,
+
+3. connecting cable,
+19
+
+F!HI(HWHCLALIJSE(NVLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+J- lumps!
+z-aa‘ut
+5-- normal"
+
+«use»
+5- 90.!
+
+Figure 2 .
+
+Key: 1. electrode 6. anchor
+2. cable 5. halyard
+3. float
+
+lo. recorder.
+5. power pack,
+6. nonmagnetic container made of fiberglass.
+
+The sensors of the magnetometer fastened orthogonally in a common frame and the
+magnetometer were placed in a sealed container. In turn. the container was fastened
+to a massive nonmagnetic slab and was put on the bottom from a boat at maximum low tide.
+The slab was held on the bottom by weights for greater stability. The signal from
+
+the magnetometer was transmitted over a KNSh-l8 type cable to shore to the recording
+system. A composition current was fed over the same cable to the sensors.
+
+The components at, y and z of the magnetic field were recorded with speeds of 6 ml
+
+sec or 1.5 Il/sec. The magnetometer had the following scale divisions of the analog
+recording by components: at - 0.52 Y/II. y - 1.0 ylm. z - 0.48 Y/m.
+
+The measurements of the hydrologic paramt :ers of the waves (velocity component normal
+
+to shore. V and wave . height 2A) were taken by electrochemical converters convert-
+ing the mechanical inputs to an electric signal.
+
+In addition to the enumerated measurements when performing the operations, the
+meteorological and hydrological conditions in the vicinity of Cape Abrsmovskiy were
+observed and recorded by the hydrogrsphic service of the meteorological station.
+
+Every three hours the following characteristics were recorded: the wind speed and
+direction, the average wave height, the nature and predominant direction of the waves.
+the water level at the measurement point. These data were taken into account when
+processing and analyzing the observation results.
+
+20
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+K crystal variation meter of the V. N. Bobrov system was set up on shore. The
+magnetic activity when measuring the electromagnetic fields of the waves was esti-
+mated by the readings of this meter.
+
+As a result of the studies. synchronous recordings were obtained for the electromsg~
+netic field components and the hydrodynamic parameters at different depths resulting
+from the tides. A sample recording is presented in Figure 3.
+
+The procedure for processing the experimental data depends to a significant degree
+
+on the purposes and goals of the study. The following set of parameters was
+processed:
+
+l. The electric potential differences Ad on bases perpendicular and parallel to the
+shore (the electric field components Ex and By, respectively).
+
+2. The wave potential at the point 0.
+
+3. The magnetic field components Bx, B
+
+’ B O
+
+y 2
+
+4. The velocity components of the water perpendicular to the shore, V‘.
+5. The displacements of the free surface at a point, 2A.
+
+In order noestablish the amplitude-phase relations between different field components
+from synchronous recordings, the ordinates E, B, V, A were picked up, and the ampli~
+tude and phase relations were studied for pairs of these parameters.
+
+When using the statistical method of interpretation of the results obtained, the
+
+recordings were deciphered by special standard curves. The volume of one realization
+included less than 80 to 100 wave periods [3]. The digitalization step size was
+selected as 0.5-0.6 second. The ordinates were reckoned from the base line.
+
+The primary processing was done on the "Mir-l" computer by the programs of [4].
+
+For each parameter of the electric, magnetic and hydrodynamic fieldsthe statistical
+characteristics of the investigated processes were calculated: dispersion, mean
+
+square deviation, asymmetry coefficient, excess coefficient and their errors. These
+calculations demonstrated that both the hydrodynamic parameters and the characteris-
+tics of the electromagnetic field of the sea waves (periods and amplitudes) are
+subject to a normal distribution law on the whole.
+
+Histograms and distribution curves of the wave heights, velocity and electromagnetic
+field which had been constructed by empirical data were used to study the statistical
+properties of the amplitude and period distribution of the investigated processes.
+
+Let us first consider the amplitude distribution.
+
+Figures 4-5 show the amplitude histograms of the components B , B of the electric
+
+field, the velocity Vx and wave height 2A for different depths ofy the sea H - 1.5
+meter and 7 meters.
+
+Ranges of values of the investigated element are plotted on the x-axis on
+the graphs, and the number of cases is plotted on the y-axis in percentages of the
+total number of terms of the series n (n . 300). The upper scale of the x-axis is
+
+21
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+WWW
+llama)
+
+WWW}
+
+1. - 0.52.1/m
+t, - 1,0 I/M
+£2 I 0,46 (INN
+£4 =' 0.3“"
+Figure 3.
+
+Key: a . sec
+
+the transfomd distribution series, and the lover scale is expressed in units of the
+
+investigated element. The relations constructed on the basis of the histograms are
+the distribution or recurrence curves of the element.
+
+Using the recurrence curve data, by successive sumation of the nutter
+
+of cases, the x-axes of the integral distribution curve called the elenent guaran-
+tee curve in oceanography, were calculated and constructed.
+
+The characteristic values of the investigated element are as follows: ;- is the mean
+value or center of distribution, ’50! is the value of the element with 502 guarantee.
+
+yn-nax is the value of the element of greatest recurrence (node); they pernit deter-
+
+mination of what type of distribution is characteristic of the given parameter.
+Thus, for y - ySOZ - yn , there is a syuetric distribution curve. Examples of
+
+the recurrence and guarantee curves of the electric field and velocity anplitudes
+for sea depths of 1.5 meters and 7 esters are presented in Figures 6 and 7.
+
+Analogous calculations and constructions were performed for the periods of the
+
+electromagnetic field and hydrodynasic paraseters, Figures 8—11. As is obvious from
+the histograms, waves are most frequently observed with periods of 2-6 sec. Such
+periods have the highest recurrence rate in the electric and magnetic field of the
+waves. The analysis of these curves lust give answers to the following questions:
+
+1. Does a relation exist between the alplitudes and periods of an electromagnetic
+and hydrodynamic field and in which coqonents is it the closest.
+
+2. lion does the variation of the sea depth at the measure-ant point influence the
+properties of the distribution curves.
+
+22
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+80
+
+M
+40
+
+         
+
+-‘n I o! I ‘ £9
+as M an 25 3'3 XIO’Y'JA) 1 .
+Figure Io. x
+Key: a. wave height 0. n/sec
+b. speed d. B? - electric field
+
+An analysis of the histograms, the recurrence and guarantee curves for the amplitudes
+and periods indicates that the statistical relation exists and is quite re-
+liable.
+
+The peaks of the distribution curves with respect to amplitudes clearly coincide with
+each other, Figures 6-7. The amplitude distribution curves of the electric field
+
+and velocity are closest to each other. The peaks of the electric field and velocity
+distribution curves by periods do not coincide with each other. The peaks of the
+electric field distribution curves 8 , as a rule. are shifted somewhat in the long-
+period direction. y
+
+The estimates of the similarity of the distribution curves made by the Kolmogorov-
+Smirnov number A demonstrated that with a probability a - 0.01 all pairs of
+velocity and electric field distribution curves give values of the coefficient A less
+than Acr’ which indicates the presence of reliable similarity of these curves.
+
+The distribution of the magnetic field components both by periods and by amplitudes
+is less clearly expressed by comparison with the other elements. This is explained
+
+23
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+30 (a)
+' (Kapotms
+V.
+
+ 
+
+«2 d7 ‘ i: (AI/cu) (b)
+
+  
+
+0
+is 2'7 5.: (cal/.440“
+Figure 5.
+Key: a. velocity c. electric field E
+b. Ilsec d.(nnuvo1u/neze}S-10'2
+
+by the fact that the magnetic field as an integral characteristic is the Gull
+of the interaction of the electric currents in some part of space.
+
+Let us consider the distribution chsracteristics of the elements of the investigated
+fields for different sea depths. It is known that in deep water (H. > X12) and
+
+shallow water (H ¢ 2/2) waves are characterized by different types of amplitude distri-
+bution.
+
+210
+
+FOR OFT-10A]. USE ONLY
+FOR OFFICIAL USE ONLY
+
+I'l- $5».
+
+ 
+
+Figure 7 .
+
+Thus. a symetric gaussian curve describes the wave height distribution in shallow
+water, and the asy'nnetric Rayleigh distribution curve is characteristic of deep sea
+distribution.
+
+The results obtained by the experimental data confirm this proposition. For E - 7
+
+meters the wave height distribution curves are asymtric; some asymuetry is
+observed also in the velocity distribution (y f ym f ySOZ)’ See Figure 7. The
+
+recurrence and guarantee curves of the electric field amplitudes coincide vith an
+accuracy to 5-102 with the corresponding wave height and velocity curves. This
+case, judging by the eleaent distribution, is an approximation to the "deep" sea
+model, although, strictly speaking, at a depth of 7 meters the sea can not be
+considered "deep" (H > A/Z) for all spectral conponents.
+
+The statistical wave height distribution in shallow water (Ii - 1.5 meters). as Figure
+6 shows, is characterized by a decrease in the variety of the-wave heights
+
+as well as the amplitudesof the induced electric field. This is explained by the
+25
+
+FOR OFFICIAL USE ONLY
+sﬂ—v‘ra‘.
+0(3)
+I0
+Tax
+7 I: 29 35
+2A (a)
+so
+:0
+l0 , .
+t0!)
+as u 4.5 ““
+
+Figure 8.
+
+Key: n. T, sec
+
+Titer (a)
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure 11.
+
+Key: a. '1‘, sec
+
+Thus, the investigated distribution characteristics make it possible to consider that
+there is a defined statistical-probability relation with respect to amplitude and
+period between the parameters of the hydrodynamic source and the components of the
+induced electromagnetic field. The recurrence and guarantee curves of the electric
+field and velocity are closest to each other.
+
+This result indicates expediency of the search for a functional relation in the
+electric fields and velocities during furtherstudiea of the magnetohydrodynamic
+
+processes in the sea.
+
+BIBLIOGRAPHY
+1. J. Larsen, GEOPHYS. J. ROY. ASTRON. SOC, Vol 16, No 1, 1968, p 67.
+
+2. V. V. Novysh, I. I. Belyayev, D. 1.. Finger, 1.. H. Abramova. HORSKAYA MAGNITO-
+METRICHESKAYA APPARATURA (Karine Magnetometric Equipment), HG SSSR VIM.
+Moscow, 1976.
+
+3. I. F. Shadrin. PRO‘ISESSY RAZVITIYA I HB‘I‘ODY ISSLBDOVANIYA PRIBREKHNOY ZONY MORYA
+(Development Processes and Hethoda of Investigation of the Coastal Zone of the
+Sea). Moscow, Nauka, 1972.
+
+lo. ALGORITMY I PROGRAM STATISTICIIESKOY 03ml I NABLYUDBNIY NA ETSVH MIR I
+“RISK-22 VASKHNIL (Algorithm and Programs for Statistical Processing and Obser—
+
+vations on the Mir and Hinsk-ZZ Digital Computers of the All-Union Academy of
+Agricultural Sciences). izd. Pochvennogo inst-ta in V. V. Dokuchayeve, Moscow,
+
+1973.
+
+27
+
+FOR OFFICIAL USE ONLY
+FOR OFHCIAL USE ONLY
+
+COMPARISON OF rm TYPES OF DEVICES FOR MARINE WWTIC SOUNDIM
+[1... B. Volkonirskaya, G. A. Fonarev, pp 41-65]
+
+The most urgent problem for interpretation of electromagnetic soundings using natural
+fields is the problem of the influence of the horizontal geoelectric nonunifornities.
+
+When performing magnetotelluric soundings in the sea, the effect of the nonuniformi-
+ties can be especially perceptible, for the measuring devices can be in direct
+
+proximity to these nonuniformities. In the theory of marine magnetotelluric sound-
+ings, the 'rikhonov-Kan' yer bottom unit and separate magnetic device are considered
+prospective [1].
+
+In this paper a comparison is made between these two types of mgnetotelluric de-
+vices.
+
+Let us consider the two-dimensional model of nonuniformity. Let a plate of finite
+thickness d consist of two halfplates in contact along the interface for x - 0 and
+having conductivities 01 3‘ 02- At the top and bottom of the plate is an insulating
+
+medium. The external inducing field is uniforn and equal to 30. Let us propose
+
+met at. a depth of d1 I 6 there is a unit'ora field source 8 - {(50 , In this
+case in [2] a method was proposed for gradual approximation to construét the approxi-
+mate solution. According to this method for the m + l approximation the field com-
+ponents are expressed as follows:
+
+3:".(9 z)" 1331‘! o,0)L‘B—U‘EAL—m‘‘19!) '
+-JB;(% (@Mdyo; (1)
+
+mo! -
+371.90% 'ZBWQID) “5}de <2)
+
+B;pl(q.d)IZBa’I(q'd)_ $4. I “.5Ly‘f-ygal— d9" ' (3)
+
+where I? (“2/ i0) is the Green function. Then for the first approximtion consid-
+
+ering the expressions for the Green functions given in [3]. fron (l. 2, 3) it is
+possible to obtain:
+
+28
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ELM-3W8,fad)”:(-if12é1(¢1;&$37c‘&sgz;y;q (4)
+51a)--%¥IIB.1(B.A,)§(-Inge;cosgnz-
+
+'dZLIMHI.-d;l)exP(-d,,g)-ﬂ; (5)
+WIND-23vf‘aIB.'§(-l)?(8..d)lgéi‘ (6)
+
+-(¢;-J;J{El(¢uy)?"‘_9-Ei(-¢My)e‘""}. ’
+B;(q.d)-2f(8.,,d,)-ﬁlaﬁﬁfﬂsmmﬁga ‘ m
+
+'ét:.-d;’.){Ei(d.,g)é‘"y-Ei(¢..9)6‘"y} .
+
+Here
+
+«am-u: en-n 2:3 *1'11'255/‘76
+
+3" '"x/d; . 5-1.2...z
+
+Let us consider the case where Bw(9-dl-&;(y.0)' and let us write the relations of
+the components Bx/ByIz-d and Bylz-OIByIz-d’
+
+E. ;%[go;gﬂ§ae:rgﬁ-11M}d;i —
+
+EL, Z'aﬁaTi'n_o('l)"an—‘oéiQT- “)A ' (a)
+where: A;;'El(dnzq)b‘:g-Ei(L'duyh‘fu-y}I ‘-
+
+uaz‘éalugrgsue-m '
+
+Byli-d Z'ﬁll‘ﬂx‘lmn a: “-dImM]. (9)
+
+The most general method of interpreting the mgnetotelluric soundings in all cases
+consists in direct calculetion and subsequent interpretation of the curve or, the
+apparent resistance.
+
+In the case of measuring by the‘rikhonov-Kan'yer bottom device the curve 01. 18 cal-
+culeted by the formula:
+
+3:13.423, .— (10)
+
+where l/II|"‘—5:L I!
+
+The methods of calculating the curve 9 for a gradient magnetic sounding are inves-
+tigated in [6]. He shall use the for-nah:
+
+29
+
+FOR OFFICIAL USE ONLY
+INJRIOIFWCJAI.lEIE(M‘LY
+
+ 
+
+:.o°r'Psm-E"I%-( d1¥%-2—']zfnmézdl ’ (n)
+
+For our case - athiokplste -— this formula has a small error. Let us convert for-
+mula (ll). For this purpose we make the assumption thatgdzln/Re#-
+
+“'P'ﬂ'ﬁ%)‘<w’vb .
+
+Then:
+
+where X‘IIILJ;I;;Z£ .'
+
+It is theoretically possible also to perform more exact calculations by formula (11).
+but in this case it is necessary to perform the calculations on high speed computers.
+
+In the figure there is a graph of the functions 191790 for different relations be-
+
+tween the conductivities of two halfplatea. where we denote the apparent resistance
+of a uniform plate as p0.
+
+For the calculations of E./QJ;L$ and ~E?4LJLV by formulae (8, 9) we assumed that
+
+v zao’
+the measurements are performed in the sea at distances of 0.ld from the nonunifor-
+mity. Hith approach of the observation point to the nonuniformity the relations
+must be maintained qualitatively. The solid lines join the points calculated by
+
+5/7
+
+9
+
+ 
+
+61/61
+(8. 9) with limitation to the first term in the series considering smallness of
+
+cozy. “01’; the dotted curves were obtained from the asymptotes of the formulas (8,
+
+9) for 01 = a . Curve 1 is constructed for measurements by the Tikhonov—Kan'yar
+method. Curvg 2 is constructed for the method of magnetic gradient sounding.
+
+30
+
+FOR‘OFIICIAI.USE|DNLY
+FOR40FFﬂJAl.US£1NNLY
+
+A comparison of the two devices permits the conclusion to be drawn that the Tikhonov-
+Kan'yar botton device is significantly sore strongly subjected to the influence of
+
+the nonunifornity. This indicates that the distortions in the electric field are
+greater than in the magnetic field.
+
+1.
+
+2.
+
+3.
+
+4.
+
+BIBLIOGRAPEY
+
+H. .. Berdichevskiy. L. L. Vsn‘yan, 12V. AR 8883. PIZIKA ZEHLI (News of the
+USSR Academy of Sciences. Earth Phyoics), No 11, 1969, p 51.
+
+R. Trey-an, GEOHAGNETIZH I AERONOHIYA (Geomagnetisn and Aeronony), Vol 10, No 6,
+1970, p 588.
+
+R. Treyuan, GEOHAGNETIZH I AERONOHIYA, V01 10, No 3. 1970, p 678.
+
+I. L. Trofinov. G. A. Fonarev. GEOHAGNETIZM I ABRONOMIYA, Vol 12, No 2, 1972,
+p 301.
+
+31
+
+FOR‘OFFﬂJAI.USE(NVLY
+FIII(HNHC1AI.USE(MVLY
+
+MEASURING THE SEA HAVE-INDUCED ELECTRIC FIELD
+[6. A. Fonarev, V. Yu. Semenov, pp 46-51]
+
+It is known that during propagation of sea waves in the earth‘s magnetic field not
+only magnetic. but also electric fields are induced. The calculation of the magni-
+tude of the induced electric field based on the potential hydrodynamic theory of
+motion of a fluid in a two-dimensional progressive wave. was performed by the authors
+of [1, 5]. Analogous calculations for waves characterized by the eddy nature of
+motion of the fluid in them were performed by the authors of reference [2]. Inas-
+much as the process of induction of the electric field by sea waves is described
+
+most simply by a mathematical model presented in the first papers. the analysis of
+the measurement procedure and interpretation of the electric field of the waves is
+performed on the basis of this model.
+
+The electric field induced by sea waves is measured usually by the method of measur-
+ing the potential difference between two different points in space inside the fluid.
+The magnitude of the electric field potential d at any point of a two-dimensional
+wave is described in the form [1]:
+
+9(x, ; z,)-a(z,)tos(kx,-wt).
+
+fluid particles in the wave and on the intensity of the constant magnetic field of
+
+the earth; k - ZnIA, w - ZI/T, where A is the wavelength, and T is its period. The
+waves are considered to be steady. propagated in the direction of the x-axis.
+
+Let us consider the case of measuring the horizontal field induced by the wave. Let
+us propose that the potential difference is measured between two points in the sea
+
+lagging behind each other a distance L in the direction of propagation of the wave.
+The magnitude of the recorded potential difference is then written in the form:
+
+‘!('L/3 ; lo)‘1(L/3 ; Z.)'-2a(l;)5!n(§L)SInwt .‘
+
+The expression for the potential difference. if it is measured in the vertical direc-
+tion can be written in the form:
+
++06:Add)?»looL);Pl(l.)-a(z.ol;)jcosl(kmot),
+
+32
+FOR 0F1ﬂ€1A1,lEﬂE(HVLY
+FOR OFFICIAL USE ONLY
+
+presented in Figure 1. As the unit in the figure, the aaxﬂmua possible signal
+picked up from the electrodes equal to 2a is used. Thus. the measured potential
+
+zontal electric field of groups of waves on the recordings. This situation can be
+realized when the spacing between the electrodes is equal to or a multiple of the
+basic wavelength in the sea wave spectrun. For example, when aeasuring a horizontal
+electric field in the sea with a depth of three meters waves with periods of 3.8 and
+
+and 26 meters respectively [3]. The periods of these waves are close and, conse-
+quently, the formation of beats on the electric field recording is possible. Thus.
+
+ing of the potential difference of the horizontal electric field of the sea, it is
+necessary to consider that the usually applied smoothing of the spectral density
+can lead to significant reduction of the signal in the frequency range, the wave
+lengths of which are less than the length of the neasuring base.
+
+Now let us consider the experimental data. In Figure 2 spectra are presented for
+the synchronously recorded amplitudes of the see wave and variations of the hori-
+zontal electric field. As is obvious from the figure. the spectra of the investi-
+gated processes differ noticeably: on the spectrum of the electric field recorded
+in the direction perpendicular to the direction of wave propagation with a distance
+between the electrodes of 300 neters. sharp. statistically significant "troughs" in
+the spectral density are obvious at the same tine as analogous phenomena are not
+
+observed in the wave spectrum. Thus. it is possible to propose that waves with
+
+periods of about 10 and 20 seconds have a crest length equal to or a multiple of
+300 meters.
+
+33
+
+FOR OFFICIAL USE ONLY
+lNDI!0l1NC1Al.lEﬂE(NNLV
+
+ 
+
+Figure 1.
+
+Thus, using the peculiarities of the procedure for observing the horizontal electric
+
+field induced by the sea waves, it is possible to determine the relation between the
+wavelength and the length of its crest and also directly to check the hydrodynamic
+
+disperse relation using a spectral analysis of the recordings of this field.
+The conclusions drawn are valid both for stationary neasuring bases and in the case
+
+of moving electrodes. However, in the last case it is necessary to consider that
+
+the recorded period of the electric field oscillations can fail to compare with the
+sea wave period.
+
+3‘
+
+INJR OFIHCJAl,lﬂﬂE(HNLY
+1.
+
+2.
+
+3.
+
+POI! OFFICIAL USE ONLY
+
+ 
+
+BIBLIOGRAPHY
+
+G. A. Fonarev. GEOMAGNITNYYE ISSLBDOVANIYA (Geomgnetic Research), No 13, Moscow,
+Nauka, 1971.
+
+A. B. Leybo, V. Yu. Senenov. GWETIZH I AERONOHIYA (Goongnecian and Aero-
+nomy), Vol 15, No 2. 1.975, p 231.
+
+B. Moore, WEDENIYE V GIDRODINAMIKU I TEORIYU VOLN NA V003 (Introduction to ﬂy-
+drodynanlce and Have Theory in the water), Leningrad, Gidroneteoizdac, 1976.
+
+V. S. Bychkov, S. S. Screkalov, HORSKIYE ”REGULYARNYYE VODNY (Irregular Sea
+Haves), Moscow, Nauka, 1971.
+
+M. S. [magnet-Higgins. H. E. Stern, R. Sta-n31, PAPERS PHYS. OCEANOG. METEOROL.
+
+HASSACHUSLTTS INST. TEHCN. AND “0005 801.3 OCEANOG. INST. Vol 13. No 1, 1956.
+p 1.
+
+FOR OFFICIAL USE ONLY
+FOI‘OFFHJAI.USEIONLY
+
+ESTIMATING ELECTRIC FIELDS CREATED BY A THO-DIMENSIONAL HAVE SPECTRUM
+IN. N. Bogorodskiy, pp 52-61]
+
+Hydrophysical electrical electrode studies are performed for the solution of a
+number of scientific and practical problems. In this paper a study is made of the
+possibilities of interpreting the data from the point of view of the theory of small-
+amplitude potential waves. beginning with the concepts of sea waves as the probable
+process having the property of ergodicity. In the linear approximation the surface
+can be represented in the form of the sum of a large number of simple waves having
+different amplitudes. lengths. propagation directions and random phases [1, 3, b].
+The results are found in the form of integral spectra.
+
+Let us introduce the carteaian coordinate system xoy, placing the origin of the co-
+
+ordinates on the level of the undisturbed sea surface. The elementary wave. the
+beam of which makes an angle 8 with the x—axis can be written in the form
+
+§(t,y,z,f) -.a 345% earlobe -l(z wﬁoyMOU’ (1)
+
+where ;(x, y. z. t) is the vertical deviation,
+
+k - 2n/A is the wave number (A is the wave length),
+
+m - 2n/T is the angular frequency (T is the wave period).
+h is the depth of the sea,
+
+c is an arbitrary phase shift.
+
+Let us first define the electric potential caused in the water by the effect of the
+earth's magnetic field Hx. Hy. H with monochrome (l). The results of studying the
+
+electric field of a monochromatic wave [6] permits recording the electric potential
+for such a wave in the form:
+
+«pawn -c~ @060 -u, sm0]- will), (
+2)
+
+where Hx and "y are the components of the earth's magnetic field,
+_ A “H‘.;;
+C _- afar/11M“ is the phase velocity.
+
+36
+
+FOIIOFFKJAI.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+The wave elevations will he represented in the fore of the sun of the large number
+of nonochrones of the type of (l). describing each of the. in the form
+
+Se. <1.y.:.i>=a(wiq,)lw—.o W.
+I' WI“?! ' a) ‘H‘W’SBJ 1.501%!) ' (3)
+
+In this case the total wave elevation can be represented in the fore:
+
+Jami). f fancy/m6 W
+u-m J's-n. ‘
+
+(4)
+
+.mM. (fume; .ysmw.
+
+Here, in accordance with the papers by Yu. M. Krylov [l] and V. Pierbon [lo] we shall
+consider that the phase :1.1 of each term of (3) is a random variable uniformly dis-
+
+tributed in the interval from 0 to 21!. on the basis of which the value of X (x, y,
+z. t) is also random. We shall also consider that the phase 813 is an aligned
+
+ergodic function of the horizontal coordinatessnd time so that for the point A (11,
+y . z ):
+1 1
+
+6&1 :55} (3:! 51,1) , (5)
+and also
+“a
+a? 5"- =0
+(6)
+
+The total electric potential of the point A with respect to the bottom where it is
+found to be equal to zero will he found by aux-ling the elementary terns of (2):
+
+<f’(1.y.l.l)'-Z Z ‘Kl(w,0.l)-§q (£4.01), (7)
+
+where for multiplicity of the recording the following Emotion is introduced:
+
+91) (u,0,z) =CJH, (058) -!{t anal.) 32: 19-5.: . h) (8)
+
+or. what amounts to the same thing:
+
+$020.91)“ 4}“ it’ll”! ”‘61 #:5me [W12 (9)
+
+The electric potential dispersion of the point (x. y, z. t) can now be written as
+the sum of the individual contributions of the type:
+
+My .3! Yuﬂﬂowaa-‘ﬁ; (m)
+
+37
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+On transition to continuity, the integral spectrum of the electric pot:ntial of the
+point acquires the fora:
+
+__ -9’
+ma) - 24,1[Wmavaﬂaz0Mﬁ-dw <10
+
+The intensity of the electric field 3(1, y, z, t) can also he considered as the
+sun of the intensities created by the individual monochrome. From (7) we have:
+
+M
+
+5; :ﬂhﬂé‘hﬁfﬂﬂaﬂ 9/740. (12)
+
+l (010‘! of". -k‘ (1 (050/ oysmgiy;
+3 ( . .1!) _
+[$ch +-
+
+‘ : inwammewmo use}.
+
+is-m Jpn.
+
+r sm[w‘t '6le 'ka(1 6059145019121;
+
+(13)
+
+£,(z.y.z,:).l,¢%mz=
+
+”Z ZkLW/a)“(%9ﬂa;$sm®- (14)
+
+(3‘0! jl-n
+
+I $043.51 '6"- Li‘- (I 0056?]- ¢g 59:01)]
+
+When making the transition to the continuity the integral spectrum of the components
+of the electric field intensity at the point acquires the torn:
+
+__ .. sr .' .
+
+[1" (I)= 3' //k‘(w)c&5 2(3 4) ‘l’quﬂﬁIJﬂMWéﬁ (15)
+a -:r
+
+-_ _ .. r '
+
+[Z (Z)--2[-//k’(ar)w‘0 Yz(ﬂ’.9.l)(frz(0ﬂ)d0dw;\ (15)
+o -r
+
+_...-. o- 9"
+
+[92(2) = 2!” j {k lady/:30 W70, 9.00/70, 05)“ aw); (17)
+
+where wzau. e. 2) can he represented by expression (9) considering that k(w) is the
+solution of the equation:
+
+38
+
+FOR OFFICIAL USE ONLY
+FINICMNNCJAI.lEﬂE(HVLY
+
+It is essential to note that for z > —h even a narrow region of angles 6 for which
+e2(w. 6) ¢ 0 makes a defined contribution to the spectre of all three components of
+the electric field vector. Prom formulas (12). (lb) and (15) it is obvious that
+
+82 does not have correlation with Ex or By' Simultaneously it is obvious that the
+
+the two-dimensional terms 21“ and 31” are distinguished only by the proportion-
+
+ality factor which permits confirmation of the presence of the correlation between
+any mutually perpendicular components of the horizontal intensity of the electric
+field at the point with the exception of the isolated directions in which the cor-
+relation changes sign.
+
+In the following calculations we shall consider that the two-dimensional energy
+spectrum of the electric potential b (u. v, a) is given as a function cf the wave
+numbers u and v directed along the x and y axes. respectively. The variables u and
+v will be introduced in terms of the variables m and 6 as follows:
+
+a = ((0) cost?
+224(9)) m0
+
+where k(w) is the solution of equation (l8).
+
+(19)
+
+In the new varitbles the expression for the integral spectrum of the electric poten-
+tial will be written in the form:
+
+52(3) 3 2" lulqual, 1],!) dd‘dy_ (20)
+
+-s-~o-
+
+In particular, the spectrum b2(u, v. a) can be given in the form:
+
+' a"(w,0) 5W wﬂ z
+54 (u, v.2)- ”EYE-é?) , (21)
+
+where the inverse transition from the wave numbers (u, v) to the variables (w, 8) is
+easily realizable considering (18):
+
+82(6), 9) ‘1‘”(0’, 0,2): 6721(0), 8); v(w,0),1]-
+. k(w)- 2,531 , (22)
+however, further conclusions do not explicitly depend on the form of expression (20).
+
+Let us consider the potential difference "AB between the points A(x, y. z) and 8(x2.
+
+’2’ z)z Let us mentally connect the points A and B by a straight line making the
+
+8081e U with the X-axis and let us consider. according to the monograph by Yu. H.
+Krylov [l], the course of the potential along this line at some fixed point in time.
+
+The potential spectrum along the line AB [Eltd'l L expressed in terms of the wave
+number u' taken along the ray:
+
+39
+FOR'0FFKJA1.USE(NHLY
+FIHICIHHIJAI.IMSEI(MVLY
+
+A
+
+.9. £11.
+
+23
+yry‘ , ()
+
+emerging fron the origin of the coordinates of the initial epectrun h2(u, v, s)
+has the form:
+
+' ' I‘ 'I “Z ’
+g 63%": 0:15,], (my a , (24)
+
+where .
+u’:uco.s'0 'l/éiﬂvé
+v’=-u smo‘vcas’é - (25)
+
+Inasmuch as the spectrun (26) and the autocorrelation function for the potential
+I; k . I- ) with respect to the sane direction are uniquely related [5]. we have:
+
+ﬁg (Ra‘s-riff 6; (aft) wsku’du". (26)
+0
+
+Now we can write the dispersion of the potential difference st the points A and B
+in terns of the known values of
+
+£77m.z)=(¢",-¢:‘)==z[<mdram] <2"
+
+where
+
+ 
+
+12:! . 2. - 2
+___(.Z: In) (9: y) (28)
+
+02(2) is the dispersion of the aligned function 0(1). for example, (11), (20).
+The magnitude of the sutocorrelstion function of the electric potential with respect
+
+to direction entering into expression (27) can be represented in the form of the
+integral frequency spectrum if we consider that free (26), (25), (24). (20) and (19)
+
+it follows that: ‘7
+ligvgﬂ=1§J‘ﬂw56;ksm0,4w5[kkw5(0-92’dq
+
+(29)
+from which considering (18) we have:
+x“ ,2). a5[k,z,k(w m. . (30)
+where I ' .
+ae ram )J .1 MW .
+a! ”Wan/um)
+40
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+1 [2’ 571MB kw 911w5[kkw5(0 9MB
+W: a:
+I“ (Mk/u " )
+d”. “'21 W- ,
+
+In the case where the spacing betwen the electrodes is large. that is, for
+
+n»X,Z s%(&zﬂ~0,. on
+
+where f. is the average crest length expression (27) degenerates, acquiring the form:
+
+EEUF%ZFHL " on
+
+In the special case vhere the wave spectru- is linited to a colpsretively narrow
+frequency band Au and the directions A6 (swell), applying the theorem of the scan
+to the expressions (ll), (16) and (17) and seeming, without liniting the generality
+e - 0. considering (32) we have:
+
+'E=k=(a7)$‘(z)=gk‘(m(7‘a); ' <33)
+7 .
+Eyso. . ‘ on
+
+The courseof the horizontal electric field intensity Ex in the vicinity of the
+point (x, y. z. t) can now be approximated in the fora:
+
+[x (1,991). gum/(7‘73 mp: .145) .2], (13,
+
+Sometimes instead of the mean square values for the speed of the estimates it is
+
+convenient to use the nean nodulus values. As a result of the proposition of
+narrouness of the frequency band we have:
+
+4177(2) =Z%IU(1)I
+
+and it is possible to rewrite (13) in the fern:
+£11.51, If): guaﬂl/(zﬁsmkt 4(0); 05]. (13)
+
+Expressing 1:03) in terns of the average wavelength X, we have the uorking for-ole
+for estimating the mean amplitude of the horizontal conponent of. the electric field '
+anal!) at a depth 2 for the swell propagated from the direction coinciding with the
+x—ax s:
+
+ 
+
+61
+FOR OFFICIAL USE ONLY
+FIIICMNHCIAI.USEIDNLY
+
+ﬁ[£x<z?l=%—‘/IT"” add/WIS
+
+Considering (13), (13) and (31), we have:
+
+m[9‘(2)]= Ell/T), -- {71W (35)
+
+where the sign 3; denotes the average amplitude. Let us note that the expressions
+(as) and (36) do not depend on the forn (10) of the function 4.20», e, z) or on the
+proposition (6) which require [2] confirmation. Significant generality of the
+expressions (35) and (36) makes it possible to use than for experimental checking of
+the relations (6) and (10).
+
+Conclusions:
+
+1. within the framework of the linear theory of small-amplitude waves propagated
+in a sea of arbitrary fixed depth and interacting with the earth's magnetic field,
+two-dimensional integral spectra are obtained for the electric potential and three
+components of the electric field at the point where the two-dimensional spectrum of
+the wave elevations on the sea surface is given. It is demonstrated that for all
+horizons above the bottom, even the narrow nonzero region of the two—dimensional
+wave spectrum creates nonzero spectra of all three components of the electric in-
+
+tensity field; here the correlation between the vertical and horizontal components
+of the electric intensity within the framework of the linear model is absent. and
+
+the horizontal components of the electric intensity, in general, are correlated.
+
+2. In the general case of a two-dimensional spectrum of the electric potential
+connected with the two-dimensional wave spectrum, the expression is found for the
+integral spectrum of the electric potential difference arising at the ends of an
+arbitrarily oriented horizontal base as a function of its length and orientation.
+
+It is demonstrated that if the length of the base is much greater than the mean
+
+wave length (or the mean crest length). and the spectrum of the electric potential
+difference at its ends will be equal to twice the spectrum of the electric potential
+of the point located at the same depth, and it does not depend on the length and
+direction of the base. The relation found from its experimental study of the
+variation with depth of the electric potential spectrum. independently of the
+propositions regarding the distribution of the phase shifts and the damping with
+depth and also independently of the presence of a "zero" point for electric measure-
+ments.
+
+3. In the special case of limiting the two-dimensional wave spectrum by the narrow
+frequency band and propagation angles (swell). operating relations have been ob—
+tained for finding the mean amplitude values of the electric potential and hori-
+zontal component of the electric intensity at the point where, for example, by the
+measurenent results the magnitude of the mean square (or the mean modulus) value
+
+of the aligned potential difference on a "long" base and the mean wave length are
+known. These relations also do not depend on the propositions of the course of the
+electric potential field with depth.
+
+The author expresses his sincere appreciation to G. A. Ponarev and V. Yu. Semenov
+who looked at the paper and made a number of valuable comments.
+
+42
+
+FIHR¢ﬂWﬂCJAl.USE(HVLY
+FOR OFFICIAL USE ONLY
+
+BIBLIOGRAPHY
+Yu. H. Krylov. SPEKTRAL‘NYYE METODY ISSLEDOVANIYA I RASCEIB‘IA VETROVYKH VOUI
+(Spectral Methods of Investigating and Calculating Hind-print: Haves), Lenin-
+grad, Gidroncteoizdat, 1966.
+
+A. B. Leybo, V. Yu. Smnov. GBOHAGNE‘I‘IZH I AERONOHIYA (Geousnetisn and Aero-
+nomy). Vol 15, No 2, 1975.
+
+M. S. Longuet-Higgins, VETROWYB VOLNY (Wind-Driven Haves). IL, 1962.
+V. J. Pearson. VETROVYYE VOLNY, IL. 1962.
+
+V. V. Solodovnikov, A. S. Uskov, STATISTICBESKIY ANALIZ OU'YEKTOV REGULIROVANIYA
+(Statistical Analysis of Adjust-ant Targets), Moscow, Mashgiz, 1960.
+
+G. A. Fonarcv. GMGNITNYYE ISSLEDOVANIYA (Gsomgnetic Research), No 13, Moscow,
+Nauka, 1971.
+
+43
+
+FOR OFFICIAL USE ONLY
+ItIl(HﬂﬂCJA1.USE(HVLY
+
+GENERAL PROPERTIES OF THE ANOHALOUS HAGNBTIC FIELD IN THE WORLD OCEAN
+IV. C. Larkin, V. N. Lugovenko, A. G. Popov. pp 62-79]
+
+In accordance with the work program of the Soviet Antarctic Expeditions from 1970 to
+
+1976 on the expeditionary vessels, diesel electric "Ob'." diesel electric "Navarin"
+and scientific research vessel "Professor Vite." measurements were made along the
+
+way of the modulus of the total intensity of the earth's magnetic field.
+
+The surveys were made along the longest routes.uhich were in the Atlantic and
+Anarctic Oceans (Figure l). The total length of the processed marine magnetic pro-
+files is about 100.000 km.
+
+Magnetic observations were performed by the co-workers of the IZHIRAN Institute us-
+ing the towed marine quantum T-magnetometer providing for obtaining field values
+with accuracy to 3? gamma. The mean square error of the surveys, including the
+errors for field variation, inaccuracy in gridding the vessel, and deviation
+amounted to about 135 gammas.
+
+All the data obtained on the sparse profile grid permit the solution of the most
+
+general problems with respect to interpretation of the anomalous magnetic field
+and its relations to the geological structure of the ocean floor.
+
+At the present time throughout the entire world interest is increasing in the
+exploitation of the mineral resources of the world ocean at greater and greater
+depths and at greater and greater distance from the shore.
+
+The revelation of the history of the world ocean. its tectonic regionalization are
+important theoretical problems. the solution of which is necessary, in particular,
+also to discovery of the laws of the location of mineral deposits [1].
+
+Magnetometry is perhaps the only geophysical method which can provide information
+not only about the structure of our planet, but also about the evolution of its
+development. The geophysical analysis of the anomalous magnetic field in the oceans
+is an effective means of determining the chronological, kinematic and geometric
+characteristics of movement of the lithospheric plates.
+
+Since the results of the hydromagnetic survey are a continuous recording of the geo-
+magnetic field along individual profiles of great extent. it is expedient to sub-
+
+ject the anomalous magnetic field along these profiles to a statistical analysis.
+The expediency of a statistical analysis is connected with the fact that it permits
+
+66
+FOR¢OFHKJAI.USE(HVLY
+FOII OFFICIAL USE ONLY
+
+        
+  
+
+  
+  
+
+ 
+
+: 'EIIII L' '
+IIIIIIIIIIRHHIIIIIEIHIIIII'IIIIIHIIIIII
+Illllllllﬂtlllllll: ﬁllilllllﬂitlﬂll
+
+E ,
+IIIIIIIEIIIEIEEIIIII JEEEEJEEEEISIIIIII
+
+mallii'jdijﬂﬁilﬁlillikiiiil
+
+———’
+
+  
+
+has:
+
+      
+
+Figure 1.
+
+Key: a. chart of the magnetic measurement routes
+b. Canary Islands
+c. Bellingshausen Ilee
+d. Orkney Islands
+. Sandwich Islands
+. Novolazarevakaya station
+. Holodezhnaya
+. Amery
+. lilrnyy
+. Vostok
+k. Leningradakaya
+1. Kerguelen
+
+urn-zooms
+
+discovery of the principal defining properties of the field which can be related to
+
+the basic peculiarities of the structure of the ocean floor. In contrast to the
+usually accepted procedure when individual anossliea are interpreted, in a statis-
+tical analysis preliminary separation of the field as a united process into its
+individual elements takes place, each of which reflects sose property of the
+anomalous mgaetic field which. in turn. is related to ease peculiarity of the
+structure of the ocean crust.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Let us present a brief description of the investigated statistical parameters and
+their physical meaning.
+
+The dispersion of the anomalous magnetic field so basically represents the charac-
+
+teristic of magnetization of the magnetic sources' (as a rule. basalts making up
+the sea bed).
+
+The correlation radius of the anomalous magnetic field r 3 reflects the horizontal
+
+dimensions of the anomalies. which is basically connectes'with the depth of the
+sources and their horizontal dimensions.
+
+The mathematical expectation of the anomalous magnetic field (H) represents the total
+effect: inaccuracy of approximation of the normal field, average depth of sources,
+measure of magnetization, and so on.
+
+For estimation of the general properties of the field and its relation to the geo-
+logical structure of the earth's crust. a statistical analysis has been used more
+than once. Thus, in reference [2] a correlation analysis of the anomalous magnetic
+field of the Pacific Ocean was performed. and the difference in values of r and
+R was noted for the mid-ocean rise and slopes. Tectonic mapping was carries'gut
+basically with respect to the general pattern of distribution of the anomalous
+magnetic field (the amplitude of the anomalies, their horizontal dimensions) using
+data on the statistical characteristics of the anomalous magnetic field (the dis-
+persion and correlation radius). In reference [3] a statistical analysis is pre-
+sented of the circular latitudinal profile of the vertical component of the mag-
+netic field passing near 40° south latitude. and the possibility of applying the
+autocorrelation analysis for regionalizstion of the anomalous fields is demonstra-
+ted. The statistical characteristics of the anomalous magnetic field in the cen-
+tral part of the Atlantic Ocean were investigated in reference [4] in which the
+results of the autocorrelation analysis are also presented. In this paper regiona-
+lization of the sea bed is carried out with respect to the morphological attri-
+butes, and a study is made of the behavior of the statistical parameters within the
+limits of the isolated zones. In reference [5] a study is made of the properties of
+the anomalous magnetic field in the vicinity of the Indian Ocean using the sliding
+energy spectrum procedure. A statistical analysis of the anomalous magnetic field
+of the Indian Ocean was also carried out in reference [6] in which a method was
+developed for quantitative discription of the variations of the anomalous magnetic
+field on long individual profiles.
+
+however, up to now the problem of the difference or similarity in the statistical
+properties of the anomalous magnetic field of the continental and ocean crust has
+not been finally solved. Thus, in reference [7] the conclusion is drawn that the
+structure of the continental crust differs theoretically free the structure of the
+ocean crust, which finds it reflection in the difference of the statistical proper-
+ties of the anomalous magnetic field. On the contrary, in reference [8] the
+authors arrive at the conclusion of similarity of the average characteristics of
+the magnetic field of the continents and oceans. This difference in points of
+View obviously is related first with the fact that when analyzing the anomalous
+magnetic fiefd various procedures were used. and secondly, the fact that in these
+papers the regionalization of the territory of the dry land and the oceans as uni-
+form regions was not clearly carried out in the sense of the geological structure
+of the region.
+
+46
+
+FOR OFINCJAI.1EHE(HVLY
+FOR OFFICIAL USE ONLY
+
+In references [2, 9] an estimate is made of the statistical properties of the
+anomalous magnetic field separately for different tectonic provinces and it was
+demonstrated that the tectonic provinces uniform in the genesis sense have station-
+
+ary anomalous magnetic fields. For this purpose in order more precisely to define
+the concept of the nature of the anomalous magnetic field of the ocean crust and
+
+its relation to the structure of the sea bed, we made estimates of the statistical
+properties of the field along a nutter of profiles of the marine magnetic survey.
+
+The statistical analysis procedure was identical to the one used in reference [9]
+in which basically an analysis of the anomalous magnetic fields of the continents
+
+was performed.
+
+The ocean floor can be divided into four large provinces differing with respect to
+origin and development [4]: the midocean ridges, the slopes of the ridges, the
+deep sea trenches and coastal regions. Therefore when generalizing the statistical
+analysis of the anomalous magnetic field. average field characteristics were deter-
+mined separately for each province.
+
+The procedure for estimating the statistical properties of the field was reduced to
+the following. The normal field T was isolated for all profiles of the surveys by
+representation of it by aspherical uharmonic: series with n - 9 harmonics. Then the
+
+obtained difference ATa - T - Tu was centered, and the statistical parameters of
+
+the anomalous magnetic field were calculated for the aligned values of the anomalous
+field.
+
+In order to obtain information on the statistical properties of the anomalous mag-
+netic field along the profiles, a special program was used to perform the calcula-
+tions on a digital computer. The essence of the program consists in the following:
+
+1) Information is input to the digital computer on the profile of the field T (the
+coordinates of the points of rotation of the profile, observed values of T every 5
+km, the magnitude of the secular variation).
+
+2) For each value of the field I the normal field Ta and the field ATa are calcula-
+ted.
+
+3) The file of values of ATa formed is aligned for the segment of the profile L
+which must "slide" along the initial profile. For the aligned values of the enema-
+lous magnetic field. the autocorrelation function and other statistical character-
+istics are calculated .
+
+4) Then the sliding segment L is shifted along the file of values ATa by some amount
+
+AL. the calculation is repeated. then a new shift by AL takes place, 8and so on to
+the end of the profile.
+
+For all routes L was selected equal to 1020 km, and AL - 125 km.
+
+The selected model of the normal field is not always sufficiently high quality. As
+a result of analysis of the mathematical expectation of several sections in the
+Antarctic Ocean it was discovered that inexact alignment of the anomalous magnetic
+fields along the profiles is connected with the fact that:
+
+l) the variable part of the field is not considered in the analysis;
+
+47
+
+FOR OFEKJA1.USE(NNLY
+l-‘OR OFFICIAL USE ONLY
+
+2) the model of the spherical harmonic series approximates the main geomgnetic
+field in southern Latitudes with some error (the mathematical expectation reaches
+150 gams).
+
+By the results of statistical processing of the analyzed profiles of the anomalous
+magnetic field we constructed maps of the graphs of some of the statistical parame-
+ters. In Figures 2 and 3 the maps of the graphs are presented for the parameter a,
+(0 - fig ) and the correlation radius to 3 of the anomalous field.
+
+The maps were constructed as follows. All of the analyzed sections were applied to
+the base with a scale of l:l$,000,000. and the profiles of the sliding uglnents were
+numbered along the profiles.
+
+The lines for the arrangement of the profiles corresponded to the median value of
+each of the investigated statistical parameters when constructing the graphs of
+these parameters along the profiles. The values of the parameters exceeding the
+median were plotted to the north (for suhlatitudinal profiles) or to the east (for
+submeridianal profiles) of the profile line and they were plotted on the maps by
+solid lines on the corresponding vertical scale for each of the statistical parame-
+ters. The dotted lines designate the values of the parameters which are less than
+the nedian value.
+
+When analyzing the laps of the graphs of the statistical parameters it is necessary
+to consider first of all the requirement of co-dimensionality in which the relation
+is laid out between the choice of the length of the analyzed section and the size
+of the tectonic structures. The selected length of the profile 1020 km, which is
+optimal for statistical representativeness of the analysis can be recognized as
+comensurate with the large tectonic structures such as the ocean trenches, the
+slopes of the midocean rises and the seamounts themselves. Secondly, it is neces-
+sary to consider the requirement of sameness of the method of obtaining the
+statistical characteristics of the anomalous magnetic field over all the ocean
+profiles and for the aeromagnetic profiles on the continent [9], to solve the prob-
+lem of similarity and difference of the statistical characteristics of the anomalous
+magnetic field for sections of the continent and ocean.
+
+The parameter a (Figure 2) is distributed most regularly. 0n the map it is quite
+clear that the increased values of this parameter are associated with the regions
+of the midocean rises. Thus, for example, the southern part of the Midatlantic
+Ridge, the western and eastern branches of the Indian seamounts have values of
+
+0 . 170-180 games. The deep sea trenches are characterized by reduced values of
+the parameter 0 reaching about 100 game here. As for the very large values of
+a - 220-250 galmas in the vicinity of the African-Antarctic Ridge on the Pacific
+Ocean seamount and also in the African-Antarctic and New Zealsnd trenches, this is
+
+obviously connected with the fact that the profiles of the hydromagnetic survey
+in these regions run along the linear anomalous zones.
+
+From the graphs of r0 3 (Figure 3) it is obvious that the minimum values of this
+
+parameter (5-6 km) are characteristic for the majority of midocean ridges if the
+survey profiles are run across the strike of the ridges. The deep water trenches
+
+located at significant distances from the axis of the ridges have values of re 3
+for the sane arrangement of the profiles with respect to the strike of the '
+
+structures. three or four times greater than over the ridges themselves, and they
+are equal to 16-25 km.
+
+68
+FOR OFFICIAL USE ONLY
+K
+0
+.<
+
+HMS’NMOO-OO'D
+
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure 2.
+
+. map of the graphs 0 of the field (AI)a
+. South America
+
+. Africa
+
+. Bellingehauaen
+
+. Novolaurevekaye
+
+. Malodezhnaya
+
+. lenyy
+
+. Vostok
+
+. Antarcuca
+
+. Leningredekaye
+
+109
+
+FOR OFFICIAL USE ONLY
+
+FOR OFFICIAL USE ONLY
+
+The slopes of the mldocean ridges of seamounts occupy an intermediate position
+with respect to the values of o and r0 3.
+
+Since the magnitude of the parameter r0 3 is influenced by the direction of the pro-
+
+file with respect to the strike of the anomalies. when generalizing the results, the
+values of the correlation radius of the anomalous magnetic field were used which
+
+characterized the anomalous field along the profiles cutting defined structures
+across their strike.
+
+In connection with the fact that the magnitude of some of the statistical parameters
+(especially the dispersion and correlation radius) is essentially influenced by the
+
+height of the magnetic survey with respect to the magnetic sources, it is necessary
+to reduce the obtained values to the identical relative level of the survey.
+
+For this purpose the calculated mean statistical parameters of the anomalous mg-
+netic field for profiles cutting the middle ridges across their strike were recalcu-
+lated upward so that the recalculated values of the parameters gave a representation
+of the properties of the anomalous field on the same altitude with respect to the
+magnetic sources. The parameterso and r0 3 for the midocean ridges were recalcula-
+
+ted to a height of h = 2 km, for the difference Ah between the average depth of the
+ocean over the ridge (~2 km) and the average depth above the trenches (~b km) is
+about 2 km. The parameters of the anomalous magnetic field for the slopes were
+recalculated for Ah - 1.5 km, and Ah of the trenches was taken equal to zero. The
+parameters of the anomalous magnetic field for the coastal regions were not recalcu-
+lated, for it is difficult to estimate the effect of the magnetically active sources
+of the ocean crust in this zone as a result of the presence of magnetic sources of
+the continental shelf.
+
+if we approximate the correlation funct 0? of the anomlous magnetic field by an
+
+exponential-cosine function: R - R e'“ T cos BT, in which the parameter a de-
+fines the rate of decrease of the function R, and the parameter 8 reflects the basic
+
+periodicity of the tuner ion. we obtain the following mean values of the parameters
+of the anomalous magnetic field for different provinces:
+
+Before re—
+Statistical parameters -calculation
+
+321.00 2 10225 2
+0.1 km'1 0.08 Iun‘1
+0.11. rad-km‘l 0.12 m-n‘l
+
+     
+  
+  
+
+  
+ 
+   
+
+Ocean provinces
+
+ 
+
+Nidocean ridges
+
+     
+ 
+     
+ 
+     
+      
+    
+
+6 km 8 km
+Slopes of the ridges 22500 2 1690 2__1
+0.7 mild 0.7 km 1
+0.09 rad-km 0.039 rad'km' ,
+9 km 13.8 km
+
+       
+ 
+
+In Figure A the relation is presented for the mean value of the parameter 0 as a
+function of the distance to the center to the middle ridge with respect to isolated
+
+zones --- the solid line corresponds to the initial values of the parameter. and
+the dotted line, to the recalculated ones.
+
+51
+FOR OFHCIAI. USE ONLY
+INJR OWWNCJAI.IJSE2(H§LY
+
+In Figure 5 an analogous relation is presented for the parameter.
+
+The upper solid line corresponds to the average values of the parameter r0 3 with
+respect to all profiles. the loser solid line, with respect to the profiles cutting
+across the midocean ridges and the dotted line is the analog of the last curve
+
+recalculated upward.
+
+UM“ ; '
+
+150
+
+  
+
+100
+
+cpalumto - (a) Lb) I; d)
+onauuvnxvc x u 6' l a m
+
+n as us run n‘oauaruf: 2:3J:::' Is"? on! e -
+
+Figure lo. Graph of the statistical parameter 0‘.
+
+Key: a. midocean rises c. deep sea trenches
+b. slopes of the rises d. coastal regions
+
+Since the parameter a is a function of the degree of magnetization of the sources,
+it is possible to arrive at the conclusion that in the last ten million years the
+magnetization of the rock has decreased somewhat, and at a significant distance
+from the rise the rock formed several tens of millions of years ago has still less
+
+magnet izat ion .
+
+This conclusion finds its confirmation in reference [4], the authors of which.
+estimating the distribution of the natural residual magnetization of the ocean re-
+sults and the dependence of the amplitudes of the ocean anomalies on the depth of
+the floor and on the distance to the axis of the midatlantic ridge arrive at an
+analogous conclusion: the decrease in the intensity of the magnetic anomalies on
+going away from the axis of the ridge is connected not only with an increase in
+depth of the floor. but, primarily, with variation of the nature of the sources of
+
+the anomalies.
+
+The average values of to 3 of the anomalous magnetic field turned out to be equal
+to 6 km, 9 km and 20 km. respectively, for the middle ridges, slopes and trenches.
+
+52
+
+FOR OFFICIAL USE ONLY
+INHICNHHCJAL.USE(NNLV
+
+H; .m
+
+l "
+£0
+
+ 
+
+cpeaumlo - (b) . 69‘0"“: .3")! ate
+ﬁﬁﬁ‘éW" nggﬂﬁ. rxomohmu ' pa WIN
+Figure 5. Graph of the correlation radius r0 3
+Vey- a. r0 3, km d. deep vatar trenches
+
+b. midocean rises e. coastal regions
+
+c. slopes of the rises
+
+After recalculation of the survey for one altitude, new values turned out to be 8
+km and 13.8 km, respectively. for the middle ridges and their slopes. This fact
+obviously indicates an increase in the horizontal dimensions of the blocks into
+which the ocean crust is broken on going away from the axis of the middle rise.
+
+The unrecalculated values obtained for the parameters 0 and r0 3 coincide well with
+
+the analogous parameters of the anomalous magnetic field calculated in reference [6],
+in spite of the fact that the authors of this paper applied another procedure for
+estimating the statistical properties of the anomalous magnetic field: another
+model of the normal field. another (and inconstsnt) length of the investigated
+profile and an entirely different stepsize of the sampling of the field values
+
+A): - 0.5 km. This indicates reliability of the results that we obtained and also
+that the sample of initial values of the field used by us (Ax - 5 km) was sufficient
+in the first approximation to discover the frequency properties of the field even in
+the vicinity of the midocean rises, for the difference in values of the parameter
+r0.3 which we obtained in reference [6] does not exceed 1 to 1.5 km.
+
+From what has been discussed above it follows that the statistical properties of the
+
+ocean are different for its different geomorphological provinces. Therefore it is
+expedient to compare individual uniform provinces of the oceans among each other,
+and these provinces with the uniform regions on the continents.
+
+For example, if we compare the anomalous magnetic fields of the most ancient plat-
+forms (of the Siberian type) with the anomalous magnetic fields of the youngest
+midocean ridges. the difference in horizontal dimensions of the magnetic anomalies
+
+53
+
+FOR OFFICIAL USE ONLY
+FI”!CHHﬂ(1AI.lHﬂE(NULY
+
+is isolated clearly (the median of the distribution of the parameter ro of the
+anomalous magnetic field of the Siberian platform is 22.5 km). This prégably is
+
+connected with different horizontal dimensions of the blocks of the continental
+
+and ocean crust and. possibly. is defined by different thickness of the entire litho-
+sphere within the limits of the compared regions. A comparison of analogous parame-
+
+ters for the same platform and deep water ocean trenches does not give a noticeable
+difference which obviously is caused by approximately identical thickness of the
+lithosphere of the compared regions.
+
+In connection with the fact that the analysis of the anomalous magnetic field has
+great significance for the creation of new global tectonics (plate tectonics), we
+studied the anomalous magnetic field in the southern part of the Atlantic Ocean
+also from the point of view of the hypothesis of expansion of the ocean floor.
+
+Two sublatitudinal profiles of the marine magnetic survey were subjected to analysis.
+the location of which is presented in Figure 6. From a comparison of the observed
+value of the field with the curves for the time variations of the field on the same
+days when the observations of the magnetic field were made along the profiles in
+
+Figure 7 it is obvious that the measurements were taken on days with undisturbed
+magnetic field.
+
+Profile I (Figure 7) has the picture of the anomalous magnetic field which is typi-
+cal of the midocean rises. As for profile 11. although it is appreciably south of
+the South Atlantic ridge and in the bottom relief of the ocean in this part there is
+no significant rise as occurs in the vicinity of profile I, the picture of the
+anomalous magnetic field along profile II is astonishingly similar to that which is
+observed in profile I.
+
+60 50 AD 50 20 10 0 IO
+
+   
+
+     
+
+      
+
+ 
+
+  
+
+no w _
+*0 to
+so ' so
+a!
+10 0
+
+Figure 6. Location of profiles I and II.
+
+54
+
+FOR 0F11C1Al.USIZ(NVLY
+FOR OFHCIAI. USE ONLY
+
+ 
+
+ 
+
+ 
+
+r—“—‘ . - "
+
+Graphs of TH and Ta along the profiles I and II.
+
+Key: a. profile I
+h. profile 11
+
+Considering this fact and also based on the data on the seismic activity in the
+vicinity of profile II [10] and the presence in this region of s slight rise of the
+ocean floor, we have drawn the conclusion of a continuation of the South Atlantic
+Rise from Bouvet Island southwest in the direction of the Antarctic continent.
+
+Thus, it is possible to consider that the rift system of the South Atlantic Ridge
+
+has its continuation to the southwest, and in the vicinity of Bouvet Island there
+
+is a node from which three rift systems radiate analogously to one which is ob-
+
+served in the center of the Indian Ocean. Estimates of the separation of the ocean
+floor made by profiles I and II confirm identical rate of separation of the ocean .
+floor in the South Atlantic and in the vicinity of the southern Sandwich archipelligot$
+
+Generalizing the results of the studies, it is possible to draw the following con-
+clusiona:
+
+1. Regular variation of the statistical properties of the field in various parts of
+the World Ocean is demonstrated.
+
+2. It is shown that the magnetization of the ocean rock and horizontal dimensions
+of the blocks of the ocean crust vary uniformly as a function of the distance to the
+axis of the ridges.
+
+3. When comparing the spectral composition of the anomalous magnetic field of con—
+tinents and oceans, differences are discovered in the spectrum of the midocesnic
+rises and ancient continental platforms. which indicates a difference in structure
+of the ocean and continental crust of these regions.
+
+a. In the spectral composition of the ancient platforms and deep water trenches no
+
+noticeable difference is detected which indicates similarity in the structure of
+
+these regions and also that the thickness of the lithosphere under these structures
+in practice is identical.
+
+5. The difference in frequency properties of the anomalous magnetic field 4°95 “0‘ dis-
+appear after recalculating the survey level for one altitude.
+
+55
+
+INDR OFFICIAL USI:(HVLY
+6.
+
+FINICMOWCJAI.USEIHNLY
+
+On the basis of analysis of the constructed maps of the graphs, an effort is
+
+made at tectonic regionaliaation of the ocean floor.
+
+7.
+
+A continuation of the South Atlantic Ridge to the southwest of Hoover Island in
+
+the direction of the Antarctic continent was discovered, and the conclusion was
+drawn of the existence of a node in the vicinity of Bouvet Island fron which three
+rift systems radiate.
+
+1.
+
+3.
+
+5.
+
+6.
+
+9.
+
+BIBLIOGRAPHY
+
+V. V. Fedynskiy, V. Ye. Khalil, HINERAL'NYYE RBSURSY HIROVOGO OKEANA (Mlnetal
+Resources of the Horld Ocean), Moscow, Nauka, 1974.
+
+H. A. Effendiyeva, ANOHAL'NOYE NAGNITNOYE POLE TIKNOGO OKEANA I EGO SVYAz' SO
+STROYENIYEM OKEANICIIESKOGO DNA. AVNREF. KAND. DISS. (Anomalous Magnetic Field
+of the Pacific Ocean and Its Relation to the Structure of the Ocean Floor.
+Author's Review of Candidates Dissertation), Leningrad, 1970.
+
+Ye. N. Roze, H. A. Bffendiyeva, GEOHAGNETIZH I AERONOHIYA (Geomagnetiam and
+Aeronomy), Vol 8, No 4, 1968.
+
+Ye. G. Mirlin, et 81., ISSLEDOVANIYE P0 PROBLEMS RIPTOVYKH ZON HIROVOGO OKBANA
+(Investigation of the Problem of Rift Zones in the Horld Ocean), Moscow, Nauka,
+1974.
+
+V. N. Lugovenko, A. N. Pushkov, METODIKA GEOFIZICHBSKIICH ISSLDOVANIYE OICEANOV
+(Procedure for Geophysical Studies of the Oceans), Moscow, Nauka, 1974.
+
+H. A. Roeser, “Fourier Analysis of widely Spaced Magnetic Profiles from the
+Northwest Indian Ocean," GEOL. IB. £2, Bannover, 1974, p 81.
+
+V. N. Belugina, E. A. Burtseva, V. N. Lugovenko, N. N. Lugovenko, IEZISY DOKLADOV
+VIII KONFBRENTSII PO POSTOYANNOHU MAGNITNONM POLYU, PALEOHAGNETIZMM I SVOYSTVAH
+GORNYKH POROD CH. I. POSTOYANNOYB GEOHAGNITNOYE POLE (Topics of Reports of the
+8th Conference on the Constant Magnetic Field, Paleomagnetism and the Properties
+of Rock. Part 1. Constant Geomagnetic FieId), Moscow, 1970.
+
+T. N. Simonenko, T. A. Gotshkova, A. A. Petrova, TBZISY DOKLADOV VIII KONPBREN-
+
+TSII PO POSTOYANNOHU HAGNITNOHU POLYU, PALEOHAGNBTIZMU I SVOYSTVAH GORNYKH POROD,
+CH. I. POSTOYANNOYE GEOHAGNITNOYE POLE, Moscow, 1970.
+
+V. N. Lugovenko, SIATISTICHESKIY ANALIZ ANOHAL'NOGO MAGNIINOGO POLYA TERRITORII
+
+SSSR (Statistical Analysis of the Anomalous Magnetic Field of the Territory of
+the USSR), Moscow, Nauka, 1974.
+
+10. I. S. Kulon. RAZRASTANIYE OKEANICHESKOGO DNA I DRBYF HATERIKOV (Expansion of the
+
+Ocean Floor and Drift of the Continents). Leningrad, Nedra, 1973.
+
+COPYRIGHT: IZHIRAN, 1975
+
+10845
+
+CSO:
+
+8144/1460
+END
+56
+
+IYHICMNWCJAI.USE‘ONLY

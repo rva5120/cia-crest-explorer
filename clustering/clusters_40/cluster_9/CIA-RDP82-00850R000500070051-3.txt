@@ -1,0 +1,1023 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10605
+22 JUNE 1982
+
+West Europe Report
+
+SCIENCE AND TECHNOLOGY
+
+(FOUO 12/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFl-TGAL USE ONLY
+1m:
+
+3m publications contain information primrily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phra'sing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Hhere no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.3. Govermsent.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING WHERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BB RESTRICTED FOR OFFICIAL USE ONLY.
+FOR omcm. USE ONLY
+
+JPRS L/lOI
+22 June 1‘
+
+WEST EUROPE REPORT
+
+SCIENCE AND TECHNOLOGY
+(P000 12/82)
+
+CONTENTS
+ELECTRONICS
+
+French Aeronautical Industry Urea , Producea Gate Arrays
+(Gerard Collin; m 8 608308. 3 Apr 82) ..................
+
+arc Introduces Couplete Line of BC]. Gate Arraya
+(Atk‘mm. 3”: 82) O.U00".IOOOOCOOIOOOIOOOOOO00....
+
+ENERGY
+llheinbraun Develops ﬂuidized-led Gaaiﬂeation Proceaaeo
+(Bane Teuero . et a1.; BRDOEI. & roux-Bums-
+mm’ Apt 82) 0....DOCIIOUCOOOOOO'OOOCOOOOOOOO0.0...
+MSPORTATIOE
+
+A 310: Pirat Performance Teata Pro-icing
+(Alaacosms. ZIOMOZ) O..00....OOOOOOOOOOCOOOOOOOOOOI.
+
+Airbua: A 310 Teen, Production, Equip-ant
+(unsmsms. ”hr 82) 0.00000IOOOOOIOOUCO00.00.0000...
+
+MM: Saab-Pairchild-M Project Enter. Phaac Three
+(AIR&CW. 3A,: 82) C.0.CIOOCOOOOOOOOIOOOIDOOOO'0'...
+
+Project Deocription, Schedule, by Resin Noye
+Cockpit, Avionica
+
+-a- [III-WB-ISI
+FOR OFFICIAL USE ONLY
+
+ELECTRONICS
+
+FRENCH AERORAU‘I‘ICAL INDUSTRY USES, PRODDCBS GATE ARRAYS
+Paris AIR 5 008108 in French 3 Apr 82 pp 37, 38, ‘1
+
+[Article by Gerard Collin: ”The Vogue of Cate Arrays“!
+
+[Excerpt] Seductive
+
+Prediffused arrays seen indeed very attractive: they truly appear to be the
+approach of the future, leaving the arena of specific integrated circuits solely to
+
+universal coqonents (such are licroproosssors and menorirs). and the few very large
+production circuits. Prediffused circuits thus encroach both on ouston and on
+hybrids circuits; but they can also been-e specific coqonents in hybrid
+nicroelectronics, with which they are compatible.
+
+It should therefore not be surprising that the cowonents industry is wide open for
+gate-arrays. In France, Thoma-68?, through ”018. has installed in St. Egreve,
+near Grenoble, a unit to produce cans and bipolar gate-arrays, going as far as the
+characterization of circuits for the final user. Hatra Harris, in Nantes, launched
+a family of ans gate-arrays with 600, 800, 1200, and soon, 2000 and 5000 gates in
+1983. are as well, is launching a range of circuits (see p 61, this issue). Also
+in the running, srs Burotechnique, SIN‘I'RA, SORBP, and others.
+
+This general trend of the national coqonenta industry will be followed with
+interest by equipnent manufacturers.
+
+It should be added that until now, such circuits were available only abroad, and
+mainly in the United States (in the Silicon Valley. of coursel), an area in which a
+French coupany, Atac Diffusion, subsidiary of the Blf Aquitaine group. has already
+
+established soae roots.
+Atac Diffusion
+
+Today, Atac Diffusion consists of 17 persons, and represents in France the American
+company Interdesign (which has itself become a subsidiary of Perranti), which
+produces bipolar and ems gate-arrays. Atac Diffusion also represents Perranti for
+ULA digital bipolar gate-arrays. And finally, Atac Diffusion has just reached an
+agreement with ZYHOS, a company which offers circuits presented as interlediates
+between gate-arrays and custom circuits, based on catalogs! For Mr Creugny, of
+Atac, these circuits represent a new step in the field of integrated circuits,
+
+1
+FOR OFFICIAL USE ONLY
+?0R OFFICIAL USE ONLY
+
+coding closer to full cuetoe but retaining the flexibility of gate-arrays. This
+should prove, as if proof were needed, that gets— arrays are evolving. According to
+Atac, the "catalog full custom" (e granatically offensive uses) is typically
+
+50 percent larger in area then custom integrated circuits (and thus 50 percent eore
+expensive in recurring costs), but two to five tines less expensive in development:
+the lead time for delivery of the first circuits would be only two eontha according
+to Atac! The coeputer resources for moving froe electrical circuit drawings to the
+design of interconnection masks are being developed at Atec. end should be
+operational by the end of May.
+
+Atac already has the scans to personalise gate-arrays, in the guise of Applicon CAD
+(computer-aided design) equipsent. But Atac is also very open to different types of
+cooperation with equip-eat unufecturere: from supplying bere circuits to the
+delivery of finished ones, and including the training of customer engineers in the
+techniques of circuit personalisation. Atac also expects to subcontract the
+production of circuits in France.
+
+Atsc has already established contacts with several French eeroneutice companies,
+such as Sages, Sfena. Dauault, Metre, Deutsch, and Thouon-CSF.
+
+CAD
+
+One of the inportant features of gate-arrays is that their peuonaliaation can be
+performed by the equipment eenufecturers themselves. Indeed, the manufacturer can
+work on the arrays in his own plant, thus eliminating the need to deal with e
+sicroelectronice company and Iaintaining full control of his own components. This
+was the approach taken taken by Sages, which today appears to be one of the Prench
+leaders in the use of gate-arrays, from circuit study to ness production.
+
+Sages has already installed. in Argenteuil, considerable resources for coeputer
+processing of gate-arrays through all their steps:
+
+Translation of circuit diagrals by leans of CAD. At this point in the process, an
+experienced engineer has already a fairly good idea of the gste-srrsy which will
+ultimately be used. This is followed by s computer simletion of the electronic
+circuit's operation, which involves an electrical simulation (voltage and
+teepereture variations), static and dynamic simulations, and verification of testing
+capabilities. In this respect, Segen has already acquired extensive knowledge of ,
+or experience with the progress known among specialists as DIANA. SPICE l and 2,
+ASTEC, LOC CAP, 186A V, and SAGDYN (the latter having been developed by Sage.
+itself).
+
+These progress are run on Sagee's oo-puters, or at such fine as CISI or Control
+Data. At this level of the study, the engineers are practic lly sure of the choice
+of the final gate-array.
+
+The next step is the mask design. Given the selected gate-array. and therefore the
+available grid, the interconnection circuit is designed to prepare the mask design.
+
+Sages is currently aiming for 70-75 percent rates, but higher ones are possible,
+particularly with sequential logic circuits.
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The circuit is designed with interactive CAD (Applicon): the operator has access to
+a cell catalog, a library which is gradually enriched by the operator himself, who
+eliainates inevitable interconnection conflicts (crossings) by such neana as taking
+advantage of underpasses provided in the gate-array.
+
+Beyond this CAD, Sages expects to imtall progress for autonatic location and
+routing.
+
+Once the iaplantation has been finalised, a timing analysis can also be perforned by
+the conputer. which in addition verifies that the rules of the ert. such as spacing
+between connections, line widths. and so on, have been respected (design route
+check).
+
+The resainder of the process is no less conputerised: creating the nagnetic tapes
+which will control Isak design (pattern generator) and the tape for autonaticslly
+testing the circuit, with definition of test prograns and equipment!
+
+‘1“ top it all, we should add that Sage- is installing scans for qualifying scales.
+and for characterizing transistors and nodelling their behavior!
+
+For production itself, Sagen is installing facilities for seek personalisation.
+primarily using, for the purpose. squipnent and procedures already established for
+thin-fills hybrids. ‘l'hese neans are of course intended to assure the production of
+gate-arrays for Sages's internal needs (aerospace. rockets, defense). but the
+cospany is already offering its know-hour to outside custoners: the lead tines for
+availability of first tested sales are shorter than three nonths (including custo-
+delays). It should be noted that Sages has already obtained circuits that were good
+on the first try. with a single nodification being the naxinun required!
+
+Sages has thus created five new circuits in the last six nontha; typical of the
+gate-arrays that have already been fabricated for aeronautics are:
+
+A frequency dividing chain for supplying gyroscopes and gyro-stare;
+
+Logic circuits for detecting and analysing failures in redundant systens:
+Ant! increnental accumulators for strap-down conponents.
+
+COPYRIGBT: A. & C. 1982
+
+l [.023
+C80: 3102/ 220
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+BISCIRONICS
+
+m INTRODUCES comm LINE OF SCI. GATE ASRAYS
+Paris AIR & COSMOS in Trench 3 Apr 82 p 61
+
+[Unsigned article]
+
+[Text] RTC has introduced a cmlete line of SOL-technology gate-arrays, called the
+ACE (Advanced Custoeised 80L) fasily.
+
+ACE arrays are characterized by their speed (0.6 ns/gate); their factor of merit
+(l N); end a cosputarieed sisplitied design.
+
+The line will include five ACE arrays that differ in the cosplaxity of their logic:
+600 (600 gates, 26 internal cells); 900 (900 gates, 36 internal cells); 1600
+
+(1‘00 gates. 60 internal cells) ; 2200 (2200 gates, 100 internal cells); [256
+
+(1000 gstes, 256 um sesory points, and 68 internsl cells).
+
+ACE arrays are coepstihle with 10K and 100! BCL's, which then benefit fro. the use
+performncee. Moreover, I! end h! [M sesories are equally 10! or IOOK-comstihle
+with the some perforsances.
+
+Speed
+
+For gates: propagation time is 0.35 no for GIL-technology internsl gstes, that is,
+gstes without power transistors, used solely for SCI. outputs;
+
+For a flip-flop connected as divider. the input signal frequency is 600 Mile;
+
+The rise or decsy tine of input and output gates is 0.75 ns. This speed gives the
+srrsy a speed fully cospstihle with the 100K BC]...
+
+Factor of Herit
+
+(Product of consuqtion tines speed, generslly used to consre technologies with one
+another). For ACE arrays, the consumption per gate is 2-3 I" for a speed of
+
+0.35 ns, which gives a factor of merit of one picojoule. As a cosparison. and st
+the other end of the perforlanca scale, one csn consider a mos LSI circuit whose
+consu-ption per gste is about 100 IV for a speed of 10 us. which is also of the
+order of l N.
+
+1.
+FOR OFFICIAL 08?. ONLY
+FOR OFFICIAL USE ONLY
+
+AC! arrays have the following consunptions: 1.8 H for the AC! 600, 2.3 H for the
+AC! 900, 3.5 H for the AC! 1500, S V for the AC! 2200, and 3.5 U for the A63 1256.
+
+The consumption per gate is between 2 and 3 IR.
+
+A standard 100K BCL circuit censuses 60 I" per gate. The consuaption gain factor is
+of the order of 20. ~
+
+Package
+ACE 600 and AC! 900: 66 pins; ACE 1‘00, AC! 2200, and AC! 1256: 120 pins.
+
+Availability dates: AC! 600 and AB! 900, available; ACE 1‘00, third quarter of
+1982; ACE 2200, first quarter of 1983; AC! 1256, second quarter of 1983.
+
+RTC has turned an "expertise center," whose function is to train and later assist
+customers during the whole design period, or to fulfill this function in their
+stead. In 1981. this center trained several custoners in the use of ICL and ISL
+gate-arrays, in the areas of couputers and teleconlunications for civilian or
+niiitary applications.
+
+Inproved design assistance tools (catalogs, design manuals, and so on) have been a
+second aspect of the center's activities.
+
+Finally, RTC has conpleted its line of gate-arrays with the introduction of a LOCHOS
+700-gate array.
+
+COPYRIGﬂT: A. d C. 1982
+
+11,023
+CSO: 3102/220
+
+5
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+mum W8 INJURED-BED GASI‘FICATIGI W
+Mars Ml. G xm-rmas-nmcmm in German Apr 82 pp 178-184
+
+[Article by Dr ﬂans Taggers, Dr Karl-August Theis, Dr bother Schrsder.
+Rheiniache Braunkohlenverke AG [Incorporated], Stuettgsnvsg 2. 0-5000, Cologne
+bl: "Synthesis Gases and Synthetic Natural Gas froe Brown Coal”l
+
+[Excerpts] Rheinische Braunkohlearerke AG (nheinbraun)
+
+is developing two fluidized-bed gaeification processes
+operating under pressure. 0n the one hand the High-
+Teapsrature-Uinklerbm-i Process for the generation of
+co and az-rich Synthesis Gas and on the other hand the
+lydrogaaification of Coal (HIV) to generate Substitute
+Natural Gas (8N6). Building of couercial-scale plants
+are proposed for both processes. The first line of a m-
+Deaonstration plant in s comrcial scale is scheduled for
+operation in 1981:. The plant with finally deliver 1
+billion I3/yr synthesis gas for nethanol production by
+1987. The HIV-Duonstration plant of the sane capacity is
+scheduled for operation in shout 1990.
+
+l . Introduction
+
+The generation of gases from coal for chemical syntheses and as energy source
+has been known already since the last century. During the 1960's. gas fron
+coal in the chemical industry sector was displaced by synthesis gas tron heavy
+oil, crude gasoline, or natural gas and from the energy sector by natural gas
+for reasons of econouy. Since the start of the 1970's gas generation from coal
+has again. been constantly seaming greater significance due to the constant
+rise in the cost of crude oil and natural gas. This applies above all to coal
+grades which are easy to nine and which have a high reaction capability, for
+angle. in the no. brown coal from the Rhineland. The Rhineland hroun coal
+plants follow a concept graduated in terms of tine and content vhich futures
+the developnent of two gasification processes. that is to say, first of all
+for the generation of synthesis gas and then for the generation of synthetic
+natural gas.
+
+Due to the high reaction capability and the fine-grained aspect connected with
+the production process as such. both cases point to the use of fluidized bed
+methods. The development effort extends via the construction and operation of
+
+6
+POI! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+experimental and pilot plants—for whose promotion we would like to thank the
+am [Federal Ministry of Research and Technology] at this point in this study
+«all the way to demonstration plants.
+
+2. Synthesis Gas from Brown Coal: m method
+
+2.1. Development of High-Temperature-Vinkler Method
+
+Union Rheinieche Braunkohlen Kraftstoff AG (UK [division] Heeeeling). an af-
+filiate of Rheinische Braunkohlenwerke, during the 1950's and 1960's operated
+a synthesis gas generation facility with two Hinkler gaeifiera each with 17,000
+m3 (1.“. [standardD/hr crude gas capacity.
+
+0n the basis of these experiences. this technology was developed further with
+the objective of improving the performance data and the gas quality through an
+increase in the pressure and the temperature. The higher temperature gave the
+process the nae m (High-Temperature Winner) method. Here are the main
+points in this improvement:
+
+Gaaification under pressure to increase the specific output end to reduce the
+coupresaion energy for the subsequent chemical syntheses;
+
+Gasification at higher temeratures to inrove the gas quality and to increase
+the volume processed;
+
+Increase in carbon processing rate through return of dust, expelled overhead
+into the fluidized bed.
+
+The fundamentals of the method were developed in a technical testing facility
+at the mm [Rhine-Westphalia Technical College] in Aachen. This plant is
+still being used for basic research to check the applicability of the method
+for various other types of coal and carbon sources. In the middle of 1978,
+an 81'" pilot plant was placed in operation on the grounds of the Prechen
+factory near Cologne. At this time, a demonstration plant for the generation
+of methanol synthesis gas on an industrial scale is being planned; its first
+line is to go into operation in 1984.
+
+The RT“ method furthermore can he used for the generation of:
+Reduction gas for metallurgical purposes,
+Hydrogen as chemical raw material and for hydration purposes,
+
+Lean gas for burning purposes.
+
+7
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+2.2. Description of It!" Experimental Plant
+
+liars are the essential design data for the ETD experimental plant;
+
+Coal processing rate Up to 1,300 kg/hr dry brown coal
+Gesitication agent Oxygen/rater vapor or air
+
+on production Up to 2,200 n3 (1.1mm or 107 hol/hr
+Gesificetion pressure Up to 10 bar
+
+Gesification tauperature Up to 1,100' c
+
+Cowletion 1978
+
+Figure 1 shows s signified flow diagrea for the experimental plant. The
+charge coal for the plant is dry brown coal with 18 percent water content.
+such as it is used for hriquette production. The water content, depending on
+
+the goal of the experiment, can be reduced further to 8-12 percent in e
+twist-tube drier. '
+
+The coal is brought to the reaction pressure of up to 10 her hy teens of a
+
+system of locks and is introduced into the fluidized bed gasifier via a vor-
+gear.
+
+ 
+
+Figure 1. Flow diagrea of m experinental plant. Key: 1—Coal hopper;
+2—Secondary drying; 3-Cyclone; low-Reactor; 5-ﬂaste heat hoiler; 6-Uater
+washing; 7—Conversion; 8—Linsetone hopper; 9-Air: lMtean; 11—Mh;
+12-Cyclone dust; 13-Boiler.
+
+In the gesifier, the coal reacts with the preheated gasification agent which
+can consist either of oxygen/steal or air and which is supplied on various
+levels of height.
+
+Snaller coke particles leave the gas generator at the reactor heed along with
+the rev gas. The coarser particles are separated in a first separator and
+are returned to the fluidized bed. Further separation of particles carried
+along iron the rev gas takes place in the second separator; the ash developing
+at the foot of the reactor is evacuated by means of a cooling worn gear and
+pressure is removed by mess of a lock systen. In the experiaental plant, the
+gas than purified is cooled in a vaste heat boiler and is then burned in the
+power plant.
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+3. SNG from Brown Coal: Hydrogaaification of Coal
+3.1. Hain Development Points and Areas of Application
+
+The production of artificial natural gas (5N6) offers special advantages from
+the angle of long-term marketing possibilities. For this purpose. hydrogasi-
+ficstion of coal-likewise a pressure fluidized bed measure-wuss deVeloped.
+Gaeification with hydrogen leads to a particularly high primary methane content
+in the raw gas and is thus particularly suitable for $86 generation. The
+hydrogen can be supplied in two ways (Figure 10). In the first case, the
+residual coke from hydrogasification is gasified with the help of the previous-
+ly descrihed 3TH method and the raw gas is converted into hydrogen in a cor-
+responding, suhsequently connected gas treatment plant. This comhination
+process on the whole features a low oxygen requirement, a high carhon process-
+ing rate, and does not require any methanization step.
+
+Nyauecsnde seamen". LUKE:
+
+Mama's! Winkle! Venom
+mm
+
+mummy leaﬂet
+We!”
+
+ 
+
+Figure 10. Combined method for brown coal gasification: EXT-380 or HIV-BTU.
+Key: l--Gss treatment; 2-Coal; 3-Residual coke lock; 6-Ash lock; HIV--
+Hydrogasification of coal; HIV-oaigh-temperature Hinkler gasificstion;
+DKA--Steam poser plant; HTR——High-temperature reactor; RSO-Pipe fission fur-
+
+nace o
+
+The energy supply in the form of steam and current can come from fossil or
+nuclear power plants. The second possibility of hydrogen preparation consists
+in connecting hydrogasification of coal with a high-temperature nuclear reactor.
+here, a part of the methane generated is catalytically converted into a
+hydrogen-rich gas in a pipe fission furnace with the nuclear process heat.
+
+This combination process leads to a coal saving of up to 40 percent and further-
+more, in long-range terms, also promises to yield economic advantages. The
+
+9
+FOItOFFNJAI.USEZONLN
+FOR OFFICIAL USE ONLY
+
+stoff in Uesseling. This plant was built by the Lurgi Company of l'rankfurt as
+engineering partner. The flow diagram of this experimental plant is illus-
+trated in Figure 11. The predried coal is brought up to gasification pressure.
+as in the m method, viaasystemof locks and is then placed on the fluidized
+bed via a worm gear or it is inserted into the lower part of the fluidized bed
+via a slanting pipe. Hydrogen, the preheated gasification agent. is inserted
+in the lower part of the gasifier and at the same time serves as eddy medium.
+As in the case of the HT" method. the raw gas is taken off at the gasifier
+head, it is purified in a subsequently connected cyclone, and it is then
+cooled and burned. The plant as in experimental operation until the end of
+September 1981 for about 21,700 his, including almost 9,500 hmunder gasifica-
+tion conditions. During that time, almost 1,400 t of dry brown coal. were
+processed at gasification temperatures betveen 820 and 1,000’ 0 and gasifica-
+tion pressures between 55 and 95 bar. Here. a methane content in the raw
+
+gas of almost 50 percent by volume and C processing rates of up to 82 percent
+were obtained. The longest continuing experimental phase came to 31 days.
+
+a 7
+
+    
+
+Figure 11. Semi-industrial experimental plant for hydrogasification of coal.
+Key: 1--'l‘wist pipe drier; 2—Heighing hopper; 3-Coa1 lock; 16--Reactor;
+5--Cyclone; 6—Haste gas; 7-Rau gas; 8—-Coal hopper; 9-Heater; lOwCooling
+water; 11-Raw gas cooler; 12-41111; 13—High—pressure steam; 14--Coke cooler;
+lS--Dust lock; lb—Coke hopper; 17—Compressor; 18—02 [illegible] compressor;
+19-~Coke lock; 20-Coke conveyor; Zl—Rav gas condensate; 22--Coke; Oder--
+or.
+
+3.4. Status of Hark on HKV Pilot Plant
+
+In the previously described experimental plant, all essential parameters—such
+as, for example. the degree of gasification, the raw gas composition, and the
+
+10
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+gasifier output-«ere determined and the foundation for the design of a larger
+pilot plant was thus worked out. This plant will have a raw coal requirement
+of about 25 t/hr and it will go into operation in 1982. In the experimental
+plant, the emphasis was only on the real gaaification step; this pilot plant
+will contain all essential system components all the way to the finished pro-
+duct, that is, 8N6. Figure 16 shows a rough process flow chart with the
+essential design data for this pilot plant which is likewise being erected on
+the grounds of the Hesseling UK at this time in the insdiate vicinity of the
+BIG] experimental plant.
+
+ 
+
+Figure 16. hydrogasification of coal pilot plant. Kay: l—Cyclone; 2--
+Secondnry drying; 3v—Heighing hopper; lo—Coal lock system; Subust cyclone;
+6--Low-tenperature deconposition; 7-[illegible in photostat]; 8—Coal hopper;
+9—Conhustion chamber; lO—Beat exchanger; ll—Stean; lZ—Uaste heat boiler;
+l3-Water washing; lb—[illegihle]; lS-Gas neter for lock stressing; 16--Re-
+sidual coke lock; l7—Dust lock; mum condensate; l9--Coal delivery; 20-
+Residual coke hopper; Zl—Residual coke loading; 22—hactor; 23--Raw gas.
+Gasification pressure up to 120 bar; coal processing rate up to 9.6 t/hr TBKI;
+Gasification temperature up to 950° C; gas output up to 7,800 .3 (i.N.)/hr.
+
+To design the application of gas to the gas generator [gassing of the gas
+generator] and to cool the residual coke produced, cosprehensive flow-nechanics
+investigations were again conducted here at the industrial chenistry institute
+of the University of Hanover.
+
+After sufficient results are available from the operation of this pilot plant,
+plans call for operating a denonstration plant of a consercisl size with an
+SNG output of about 1 billion 1:3/yr with conventional energy supply by about
+1990. Here again it will be possible to use the lessons learned tron the
+operation of the 8TH demonstration plant.
+
+In a next step, in long—range terns, the tie-in with the high-teaperature
+nuclear reactor can then take place if this reactor type is improved in keep-
+ing with its ultimate purpose.
+
+1].
+FOR OFFICIAL USE ONLY
+1.
+
+3.
+
+5.
+
+FOR OFFICIAL USE ONLY
+
+BIBLIOGRAPIH
+
+I. Teggera and J . Engelhard. "llydrogaaitication of Coal with Process that
+iron nigh-Tenenture Nuclear Reactors and line of Residual Coke from
+nydrogaeification of Bram Coal.” "Kohlevergaaung in der Energietechnik"
+[Coal Gasification in Energy Technology]. van-r3 201, 1979. 99-109; 768
+Kraftwerketechnik MB. Publishing Bouae for Technical-Scientific Herb.
+
+Fl. Teggere and K. A. Then, The Rheinhraun high-tenperature Uinkler- and
+Bydrogaaification processes. Proceedings of the First International Gas
+Research Conference, Chicago, 9-12 June 1980. Library of Congress Catalog
+No 80-83 454 0.980) 632-650 (Published by Government Institute, Inc.).
+
+H. Adlhoch and K. A. Thais, The Rheinhraun High Temperature Uinklar Om)
+Proceaa- Horkshop on Synthetic Fuels: Statua and Future Direction
+San Francisco, 1980.
+
+L. Schrader, Fl. Tenure, and K. A. Thais, "Hydrogasification of Coal."
+m-INEENIm-TBCHNIK, 52, 10 796-802, 1980.
+
+P. Speich, "Brown Coal on the Way to Large-Scale Industrial Refining,"
+VIK—MIT'I'EILUNGEN, 3/5, 53-61, 1981.
+
+COPYRIM: Industrieverlag von Bernhausaen KG, Ila-burg 1982
+
+5058
+
+080:
+
+3102/275
+
+12
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+MRSPOR‘PATION
+
+A 310: FIRST WHERE mes WSW
+Paris AIR 6 008108 in Prench 24 Apr 82 pp 13. 60
+[Articles “Airbus a 310: 26 Flight hours in 7 Takeoffs and Landings”:
+
+:_‘i‘ext] Oouencing at 'noulouse Saturday 3 April. flight tests of Airbus No. 162.
+in other words A 310 No. 1. continue with impressive regularity in the hands of
+Bernard Ziegler and Pierre Baud; two other pilots, Gilbert Defer and Gordon
+Corps, have also piloted the new plane.
+
+On Tuesday 20 April, the A 310 totaled 26 hours 20 sinutes of flight in 7 take-
+offs and landings. After its first flight on 3 April (duration: 2 hours 15 min-
+utes), the plane completed the following ones:
+
+«Plight No. 2 (8 April): 4 hours 45 sin of flight;
+"Plight No. 3 (10 April): 4 hours of flight:
+"Flight No. 4 (14 April): 3 hours 40 aim
+
+«Plight No. S (15 April): 3 hours;
+
+—?light No. 6 (17 April): 4 hours 5 sin)
+
+"Plight No. 7 (20 April): 3 hours 25 min.
+
+The next takeoff (night No. 8) is scheduled for 24 April. As for A 310 No. 2
+(plane No. 172), it will start its flight tests in early May. its first flight
+being scheduled for 7 May.
+
+Berna:d Ziegler confirsed to us Tuesday that up to now he has I’every reason to
+feel satisfied with the results obtained in the course of these 7 flights."
+Testing is proceeding exactly on schedule: exploration of the flight dosain has
+already justified reaching into the higher speeds, up to Mach 0.78/360 knots
+and Mach 0.82/380 knots (The next flight should persit going to Each 0.84). The
+plane's behavior is “very sound": in particular: “The test team has observed
+
+13
+FOIOFFICIALUSEONLY
+FOR OFFICIAL USE ONLY
+
+nothing in the plane's performance characteristics to date to warrant a departure
+from the original purity of its airfoil.‘
+
+Among the tests carried out. the following are worthy of note: Study of its man-
+euvering limits without buffeting at high altitude (35,000 feet). making it pos-
+sible as of now to conclude that its maximum ceilings (a function of weight) can
+be substantially increased: stall performance tests in all flight configurations
+(stringer. slats and flaps out), showing that no modification is required: per-
+formance tests with one engine stopped, and reignition tests: automatic approach-
+es with slats and flaps at 20 degrees; takeoffs at maximum weight (132 tons):
+and. of course, flutter tests, starting from the third flight and based on the
+use of flutter vanes. or aerodynamic esciters (one per wing). which per-it the
+obtention at will of symnetric or antisymmetric excitations at controlled
+frequencies.
+
+In sum. the performance tests carried out to date indicate that the A 310's
+efficiency over a type-hop could be improved by 5 percent over its calculated
+one. Decidely, at Toulouse as at Seattle (see page 15). the engineers are per-
+forming miracles...
+
+ 
+
+‘ Which, in plain language, means that the A 310 will very likely be able to do
+without the conventional 'vortex generators“ that caused so much ink to flow a
+few years ago. We note in passing that the B 767 has them (see page 15); which
+does not mean, of course. that the wing of the American plane was incorrectly
+designed, to borrow from the expression so imprudently used with regard to the
+A 300 by a French deputy...
+
+COPYRIGHT: A. 5 C. 1982
+
+9399
+cs0: 3102/27:
+
+15
+IN3R 0F11C1AI.UBE§(H‘LY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATIW
+
+arms: a no 1381's. meme-nos. Bournem-
+Paris AIR 5 COSMOS in French 30 Apr 82 p 12
+[Attica by a. in: '5 no Ahead of Schedule“)
+
+:Text] Test flights of Airbus a 310 so. 1 are continuing at Mlouse with the
+sane regularity. Last week (Tuesday 20 April). we were at 26 hours 20 sin of
+flight tise aocusulated in 7 flights: this mesday 27 April, Bernard Ziegler
+brought us up to date again on the test program ‘i‘he 10th flight had been con-
+pleted that morning and the plane had at that tine chalked up 35 hours 55 aim
+of flight.
+
+The most recent flights were devoted especially to flutter tests (which actually
+began with the third flight), still using "flutter vanes' (aerodynasic exci-
+ters). and to the calibration of the Air Data Conputer (an anenoneter systen),
+on the proper functioning of which will depend the precision of performance
+measurements. M other flights have been scheduled for this week: thus, over
+a period of 1 south, the A 310 will very probably have comieted a good dozen
+flights and more than ‘0 hours of flight. which represents a net gain over its
+planned schedule (35 flight hour per aonth) .
+
+iron the production standpoint. the coming off the asseably line of the first of
+the four A 300 Bd-ZOO's for China Airlines. equipped with Pratt and Whitney
+mD-56A engines. was reported on 13 April (see AIR 31' 009108 No. 902. p 19).
+and on that sane date the maiden flight of the A 300 “-200 (plane No. 188).
+equipped with c9640 engines, built.for Air runisi These two planes had been
+scheduled for delivery in June. Tunis Air‘s plane has one distinctive feature:
+It (like the six A 300 34's already delivered to Indonesia's Garuda cospany) is
+equipped with a double Crouset m Type 300 installation for long distance
+flights outside of VCR-MB [Very-nigh-Prequency unidirectional Radio Range--
+Distance-ﬂeasuring Equip-tent] range. This eystea is characterised by its fully
+digital interface compatible with Mime-700 avimics--specifically. it delivers
+a guidance signal to the SPENA [french Air-Navigation Equip-ant company] Digital
+PA [automatic pilotJ—and from this standpoint is unique on the market.
+
+The control-hos. or CDO [Central Data Unit], was the object of a special study
+made together with Airbus lndustrie's pilots to achieve a perfect integration of
+the FPOC [forward-Pacing Crew Oospartnent] concept that characterizes the Airbus
+
+15
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLV
+
+planes for Garuda and Tunis Air. so as to reduce the load on the crew. The con
+per-its the simultaneous loading of both calculators, with preservation of all
+the navigational data on flight after flight. A 'check“ function enables is-
+sediate verification of the flight plan and facilitates the preparation and
+execution of diversion operations.
+
+Optimization of the mega signal processing software took into account the
+experimental data obtained on 5,000 hours of flight during which all navigational
+data was recorded. 'l‘hese flights were effected on a on [expansion unknown]
+
+DC 10. throughout the world. many of then in Southeast Asia where Omega coverage
+is particularly scant, pending the putting into service of the Australian
+station.
+
+The performances obtained confor- to m [Radio Technical Co-ission for Aero-
+nautich standards in the Garuda operating zone where until then the use of the
+Onsga network alone had not been deesed feasible for long distance navigation.
+
+Crouset has in hand 300 first orders for its cam systen and currently produces
+60 to so of then a year. which enables the many to envision new applications
+for its assets that would integrate it into a complete flight management system.
+
+COPYRIGHT: A. G C. 1982
+
+9399
+C80: 3102/272
+
+l6
+POIOFFICIALUSEONLY
+BMW: This article is republished
+
+fron JPRS L/10559, of 2 June l982,
+
+No (P000 10/82) of this series pp 10-14
+TRANSPORTATION to correct certain terminology.
+
+3mm: SMD-FAIRCHTLD-340 PROJECT ems PHASE THREE
+
+Project Description, Schedule
+Paris AIR 8 COSHOS in French 3 Apr 82 pp 15, 17, 66
+[Article by Regis Noye: "Saab-Feirchild: An Effective Cooperation"]
+
+[Text] Bight nonths after the prototype left the shop, the program of the
+American-Swedish SL360 "co-later" plane, developed jointly by Saab-Beanie
+
+and Peirchild Industries, has now cons to naturity. Phase three of the
+
+design, properly speaking, has been underway since Noveaber, at which tine
+all the characteristics of the apparatus were established and its principal
+systems and equipment chosen. Thus, the “-360 is the noat advanced of the
+five progress of counter planes with seating capacity for more then 30 per-
+sons presently under developnent throughout the world, illeedietely followed
+
+by the Dash-8 of de havilland Canada and the Brasilia of mm [Brazilian
+Aeronautics Conpeny] (the other two being the AIR-42 and the Case-blurtenio-23S).
+0n the colleertisl level, despite a nerked slowdown in sales felt for son's nonths
+by Saab-Peirchild (as, moreover, by the competition) and attributed to the
+worldwide economic recession, the total number of orders has reached 116, of
+which 6 are options, or, according to the manufacturers, nearly 30 percent of
+the total sales obtained up to now by the 5 conpetitors (2). [Sentence as
+published]
+
+In order to show the detailed progress of the work on both sides of the Atlantic,
+as well as the facilities developed in Sweden, Seeb-Scenia invited about 20
+journalists of the international aeronautical press to Linkoping at the begin-
+ning of the week.
+
+Let us first recell that the first egreeaent eiaed at jointly developing a
+twin-propeller regional transport plane was signed by the two fires in June
+1979 at the Bourget Exposition. The first phase of the program, consisting of
+the overall definition of the project during which the choice of notors was
+made. was completed in September 1980. The two parties had quickly agreed in
+their thinking and, a short time after a earket study indicating that between
+now and 1996 there would be a worldwide need for 1,600 to 2,000 units of the
+chosen category. they decided on the official launching of the SP-360. Since
+then, the second phase, consisting of a detailed study of the equipment and
+necessary tooling. took a little sore than a year, being coupleted last
+November when the first prototypes of the wings and fuselage nade their
+
+17
+FOR OFFICIAL USE ONLY
+FOR OFFIGAL USE ONLY
+
+appearance. Meanwhile. two important developments were made in June 1981:
+the choice of entirely digital standard avionics and rounding the bend on
+100 orders. Since that time, the engineering mockmp, constructed in wood at
+a scale of 1 to 1, has been serving only to finalise certain systems. It is
+to be noted that more than 60 percent of the general engineering of the
+equipment is attributed to Saab-Scania and that the two manufacturers are
+making considerable use of computer assisted techniques: 20 percent of the
+airframe and systems and 60 percent of the tooling were thus conceived.
+
+The Saab-Fairchild—abo is noted for the importance attached to the economy
+
+factor resulting from the application of advanced techniques: modern General
+Electric CT7-S motors (1.675 hp); three-bladed Dowty Rotol propellers nade
+
+of composite materials; assemblage of parts by gluing (aluminum on aluminum
+
+for subaasemblies of the airfoil and fuselage; aluainua on honeycomb for the
+flaps and stabilizers); the use of composite materials of sandwich construc-
+tion (kevlar-kevlsr for the engine naceller, the wing fillets, the ailerons,
+
+the movable surfaces of the empenage; glass on glass for the redone, air in-
+lets and cabin floorboard); digital avionics (see page 19 of this edition)
+comprising five Collins cathode_displgys and §_fuel management system. The
+economy factor is not only apparent in fuel consumption (05 seats per nautical
+mile per 0.5. gallon* for 34 passengers, or at least 20 percent better than
+the old generation aircraft like the Fokker P-27-500), but also in maintenance.
+Thus, the SF-360 will be a craft which offers an extremely low DOC (direct
+operational cost), estimated, for example. to be less than 70 percent of that
+of the Gulf Stream 1, its principal competitor in the United States at present.
+
+Let us recall at this time that the SF-340 is planned to appear in two versions:
+one called an "airliner" for the transport of 36 passengers (11 rows of 3 seats
+in front plus 1 row of 6 seats in the back at a distance of 30 inches); the
+other called an "executive" for business trips and having a capacity of 12 or
+16 seats according to the chosen arrangement. Other versions are now being
+studied: for cargo or military use and with stretch-body configuration. Al-
+though Saab-Fairchild is not yet giving out any details on the latter, it
+nevertheless admits that its capacity will be limited to 50 passengers due to
+the chosen width of the fuselage (2.16 meters inside), permitting only 3 seats
+
+in front.
+
+The performance and characteristics of the SP-360 have naturally changed since
+the beginning of the studies. Among the latter we note the following: a cer-
+tain increase in weight (7.19h kg empty compared with 6,668 formerly; 11,794
+kg on takeoff compared with 11,360), which means a slight decrease in the pays
+load (3.239 kg compared with 3.311), and an increase in the length of the run-
+way required for takeoff (1,175 meters compared with 1,082) and a lowering of
+the single engine service ceiling. 0n the other hand, the maximum cruising
+speed went from 680 km per hour to 507 km per hour and the range with 34 passen-
+gers and IPR reserve went from 1,520 km to 1,670 km.
+
+_____.._____________
+*Or 22 seats per kilometer per liter of fuel.
+
+18
+FOI:OFFNJAI.USE(MVLY
+FOR OFFICIAL USE ONLY
+
+Distribution of Manufacture
+
+On the production side, the distribution of workloads is 50 percent for each,
+valuedwise. Pairchild Industries is responsible for manufacturing the airfoil
+and engine nacelles as well as the tail assemblies; the American firm is also
+responsible for the fuel system and all that part of the hydraulic system which
+
+is integral to it, so that the fuel systems can come completely equipped from
+long Island (New York). Moreover, they have assigned to their affiliate, Swear-
+ingen (Texas) the manufacture of the entire cabin arrangement and its components
+as well as their installation on the planes, which will be delivered to the
+United States. Saab-Scania, in turn, is building the fuselage assembly (divided
+in three sections) as well ag_the_wing fillets; The finsl assembly willalso
+
+take place in Linkoping. In this connection, the Swedish-firm has invested
+200 million Swedish krona in the construction of new installations with a
+surface area of 25,000 square meters, including a hangar 185 meters long by
+
+35 meters wide by 12 meters high to house the assembly line comprising 12 work
+stations. Moreover, the new buildings house a machine shop. a surface-treatment
+shop and a gluing shop, the latter two having been operational since August.
+They have a large group of machine tools, representing A2 percent of the total
+investment, and many of which have numerical control. However, these new facil-
+ities might prove to be too narrow to house the preassembly bays (presently
+installed next to the Vari-Viggen assembly line) and the paint shop (not yet
+located). The first fuselage parts were manufactured in the underground facil-
+ities usually reserved for military programs....
+
+First Flight in 10 Months
+
+An initial series of 15 units has been under construction since November on one
+or the other side of the Atlantic. Although the upper and lower panels of the
+two initial fuselages are already waiting for final assembly, the side panels
+are in preassembly, while those of the following two (reserved respectively for
+static and fatigue tests) are being fastened together. The first tail assembly
+will arrive in Linkoping in hay and the first airfoil in August, when the final
+assembly of prototype No 1 will begin; this prototype is scheduled to leave
+
+the shop in November, and the first flight will be at the beginning of next
+year, followed shortly thereafter by No 2. Moreover, the CT7-5A motor is to
+begin its trials in flight, with the Dowty propeller, in August at General
+Electric's flight-testing facility (a Gulf Stream 1). The construction of a
+series of lo motors is already underway with 6 units to be delivered this sum-
+mer (a for the two prototypes and 2 spare units), the first sample of the
+series not to be sent to Saab-Scania until 1983.
+
+Certification of the SP-340 calls for 1,000 flight hours, which will be com-
+pleted on the two prototypes by the end of 1985. Swedish confirmation will
+first be granted by the LFV [Swedish National Civil Aviation Administration]
+European [JAR 25 norms), than the American(FAR 25). At this point we may note
+that the total investment in the Saab-Pairchild 360 program is estimated at
+$100 million and that the total number of people employed in the program comes
+to 1,500, divided equally between the two firms.
+
+19
+FOR OFFKJA1.USE(N§LY
+FOR OFFICIAL USE ONLY
+
+Half of the Break-Bven Point
+
+On the co-ercial side, the 116 orders now on the books represent more than half
+of the program's break—even point, estimated at 200 units sold. The prime ob-
+jective is to reach this figure before the first delivery. To do this, the
+organization put together by Saab-rairchild is the following: responsibility
+for the North American continent (United States, Canada, Mexico) is assigned
+to Pairchild Swearingen ($8 planes ordered, half of which are of the executive
+version); for Australia and Southeast Asia to the distributor, Stillwell Avia-
+tion (Sydney): for the rest of the world to the joint Saab-Tairchild BB affil-
+iate, whose administration is in Linkoping with headquarters in Paris (58
+planes sold. 6 being optional). One last word on the subject of the unit's
+price: $6.75 million for the airliner version. $5.5 million for the executive
+version (according to economic conditions of November 1981).
+
+COPYRIGHT: A. b C. 1982
+Cockpit. Avionics
+Paris AIR & (”$1405 in French 3 Apr 82 p 19
+[Article by 6.0.: "SP-340: Only Model With Cathode Instrments")
+
+[Text] Elsewhere in this edition we have given a detailed picture of the
+SF-Bbo's cockpit and avionics system.
+
+Obviously, the cockpit is designed for two pilots without a third man. It has
+five color cathode displays (Collins); two in the pilot and copilot areas
+(electronic ADI [Attitude Director Indicator] and BS! [Horizontal Situation
+Indicatorl) and a fifth (optional in a central panel; the latter serves for
+the general presentation of navigational information, checklists and so on.
+
+It will be noted that Saab-Pairchild is no longer proposing an "electromechani-
+cal" version for the principal flight instrulenta: the advantages of the
+cathode system in terms of reliability and maintenance costs (cost of ownership)
+appear to be attractive enough to make all users renounce conventional instru-
+ments. This simplifies the task of the engineering departments of the aircraft
+manufacturers .
+
+with regard to the avionics system, the four principal cathode displays are
+supplied by two symbol generators. These receive information from airspeed
+and control-mechanism sensors, particularly the attitude data generator which
+is of the connected-components type, also Collins.
+
+The upper panel is in conformance with the generally accepted principle: "if
+all lights are out, all is well."
+
+Pilot visibility is good, in fact better than that recommended by document
+SAESGOB.
+
+with regard to suppliers, we note that Collins has the lion's share in this
+plane, particularly with the cathode displays, the automatic pilot assembly
+
+20
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+and the flight controludigitel-end the directional and vertical gyro- with
+connected coeponente.
+
+Finally, it ehould be noted that Saab and rairchild have retained certain
+French equip-ant euppliero for thie plane:
+
+«Sane. which he juet received a contract for cable voltage resulatore for
+the firot 50 unite with an option on the next 150.
+
+-Jeo!.‘er: firat order of note than 10 nillion trance for panel inotrunente
+(altineter, eirapeed indicator. vertical epeed indicator—primer! and backup.
+
+—3fena: 3-inch horizon standby gyroscope.
+-Saft, on order for 30 batteriee in connection vith this program
+comm: A. a C. 1982
+
+8568
+C50: 3102/ 221 m
+
+21
+FOR OFFICIAL USE ONLY

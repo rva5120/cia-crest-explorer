@@ -1,0 +1,1007 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10336
+19 February 1982
+
+West Europe Report
+
+SClENCE AND TECHNOLOGY
+
+(FOUO 3/82)
+
+FOREIGN BROADCAST INFORMATION seavuce
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the u.s. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS 1/103
+19 Pebmaz
+
+WEST EUROPE REPORT
+
+SCIENCE AND TECHNOLOGY
+(rouo 3/82)
+
+CONTENTS
+
+WWICS
+
+Siemens Expands 7800 System Uﬁwsrd Hith Fujitsu Models
+(m-I'W, h he 81) .0...‘.......CDOO$OIOOOOOIIOCOII.
+
+ENERGY
+
+Briefs
+Coal Oesificetion in Italy
+
+INNSTRIAL TECHNOIIXEI
+
+Active Magnetic Bearing for Very High Speed Machining
+(Germ Collin; AIR& m, 12 M 81) eeeeeeeoeeeeeooeee
+
+TRANSMTATION
+
+A 310: First Flight, Seles, Production Schedule
+(‘13 ET CM“, 19 me 81) OOOOOOOOOOOIOOOOOOIOOOI.0.00....
+
+Airbus Industries Plans Expertied Line of Aircrett -
+(J‘cqu.3 “asset, AIR & NOS, 2 Jan 82) oeeeeeeeeeeooee
+
+Briefs
+Airbus Subcontrac ts
+
+- s - ' [111 - we - 151
+FOR OFFICIAL USE ONLY
+
+ELECTNNICS
+
+SIEMENS EXPANDS 7800 SYSTEM "WARD WITH FUJITSU HODELS
+Munich COHPUTBRHOCHB in German lo Dec 8l pp 1, 2
+
+[Article: "Puj itsu 7.890 and 7.892 Models Announced as Top of the Line in Large
+Fujitsu Computers"]
+
+[Text] Munich (CH)--Siemens AG will expand their system 7.800
+with Fujitsu's large 7.890 and 7.892 computers (CH No 47/81
+
+p 1). According to the lhmich electrical concern, the current
+largest model. the 7.892. has 15 times the capability of the
+smallest Fujitsu machine, the model 7.865—2. Of interest to
+those moving up in system software is the fact that with the
+"Advanced Virtual Machine" (AW), comparable to 1814's super
+tool VH/370 (Virtual Machine/370). several operating systems
+can work simultaneously.
+
+All models of the 7.800 family are compatible with the BS 3000, ms. Vii/37‘ and
+VSl operating systems. The new 7.790/92 corputer can, according to Siemens. also
+operate with the IBM systems mS/SPl and 2 as well as with the VH/SP release 2.
+
+The capacity of the 7.890 single processor is about 2.5 times that of the model
+7.880—2. until now the largest single processor of the 7.800 system. The primary
+memory capacity ranges from 16 to 64 MB. The model 7.892-2 multiprocessor also
+offers about 2.5 times the capacity of the model 7.882-2, until now the largest
+multiprocessor. The main memory is expandable from 32 to 128 113. Both models can
+be equipped with a maxim of 64 channels for s maxim processing rate of 96 MB
+per second.
+
+According to Siemens, the program throughput of the new models will be achieved
+through the 3-level storage hierarchy: main computer, global and local buffer
+memories. Pulse-counsnd control inproves bus management. Distributed micropro-
+grems for controlling comand execution and arithmetic operations result in fast
+access to the microprogram memories.
+
+The L8! technology in the new models includes logic modules with a gate response
+time of 350 picoseconda and memory elements with acquisition times of 5.5 nano-
+seconds for the local buffer memory and 16 nanoseconds for the global buffer
+memory. The main memory consists of 615-bit chips. The heat generated in the
+chips is conducted away by small cooling channels.
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The current version of the 883000 (BS3000 8&0) operating system has been expanded
+by several functions, according to the Munich firm. Thus, with 2 gigabytes of
+real addressable memory, the entire main memory can now be used for normal task
+
+switching operations.
+
+It can contain the executable code and the buffer and control blocks for input/
+output operations and user data fields. Hith only a few exceptions, all address
+locations of the expanded memory are available. Through stronger parameterization
+of the likewise expanded system decision manager (SDH), heavily loaded systems can
+be more readily optimized.
+
+Additional software protection to prevent simultaneous alteration of stored data
+sets by several systems is achieved with the software product DSISD (Data Set
+Integrity for Shared DASD). The delivery date for these BS3000 expansions is
+July 1982.
+
+The new software product "Advanced Virtual Machine" (AVM) offers 7.800 users the
+capability of employing several operating systems on a single computer at the
+same time. In particular, AVM permits users who are presently working with an
+IBM operating system on a 7.800 to convert stepwise to the BS3000. The current
+system is operated in parallel with the BS3000 under AVH control. The VH/370,
+DOS/VS, VSl and HVS operating systems can also be used with the BS3000.
+
+The basic 7.890 configuration with 16 MB of resident memory and 16 channels costs
+about on 8.1 million. The model 7.892 with 32 MB and 32 channels goes for DH 15
+million. Also, Siemens is lowering prices for the 7.875—2, 80-2 and 81-2 by up
+
+to 20 percent.
+
+The first System-7.890 computer will be delivered in the spring of 1983. Siemens
+has already sold 55 Japanese Jumbos, 1a for delivery outside the PRC.
+
+COPYRIGHT: Computerwoche 1981
+
+9160
+080: 3102/119
+
+2
+FOR OFFKJAI.USE(MVLY
+FOR OFFICIAL USE ONLY
+
+BRIEFS
+
+COAL GASIFICATION IN HALF-A consortium consisting of Westinghouse Electric Corpo-
+ration, Fiat and Ansaldo S.p.A., a subsidiary of the state-owned firm IRI Pinnac-
+csnics, will be toned to build a 16-!!! electric power plant in Southern Italy.
+
+It will use lowgrade coal with a high sulfur content; however. environ-sntsl pollu-
+tion 9111 be kept ninimsl. This project is especially important since Italy plans
+to reduce its dependence on oil and to diversify its energy supply. Italy will
+increase its coal consuwtion from the present 18 million to 50 million tons per
+year by 1990. The coal gasificstion facility will be financed in part by an EC
+loan to Fist and Ansaldo in the amount of 8 billion lire. The total cost has not
+yet been disclosed. [Text] [Ila-burg ERDOEL & Roma-WW! in German
+Nov 81 p 1.72] [COPYRIGHT: Industrisverlas von Hernhsussen KG, Hamburg 1981] 9160
+
+050: 3102/ 119
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+INDUSTRIAL rscnmwc!
+
+ACIIVE MAGNETIC BEARING FOR VERY HIGH SPE- MACHINING
+Paris AI 5 oosms in Ranch 12 Dec 81 p 31
+[Article by Gerard Collin]
+
+[Text] The program of development of suspension by scans of active magnetic bear-
+ings has reached the preindustrisl phase. after having been started 15 years ago
+
+by the team of LRBA [Ballistic and Aerodynamic Research Laboratory] and continued
+
+by 53? [European Propellant Conany]. The 82!! company--a joint subsidiary of SE?
+and SIG—which is now responsible for this program, believes. in fact, that the
+market is beginning to respond significantly to the presentations and demonstrations
+of prototypes sects-dated in France, Germany. the United States and Japan especially.
+
+M markets seem to be directly concerned by the possibilities offered by the $2!
+Actidyne active magnetic bearings: turning machines and machine tools.
+
+Turning machines include medium-power machines. machines with large shaft lines
+
+and cryogenic machines. 52!! has already achieved considerable success in this
+
+area in the PRC and the United States. In the United States. for exanple, with
+
+a centrifugal colpressor and Ingersol Rant (power: 6 m and at Delaval. The
+
+EDP [French Electric Company] signed a contract for the development of two prototype
+bearings now in process of delivery. A cold helium laboratory compressor has also
+been put in operation at Air Liquids.
+
+It is also noted that 82! has already produced 260 turbomolecular vacumn pulvps
+00"“ bars, 30,000 rpm), whose advantage is not causing pollution of the vacuum
+by lubricants and not causing vibrations. 82!! has also sold, in the ERG and Japan,
+remachining pins. engraved printing cylinder pins and rolling mill cylinder rec-
+tification pins.
+
+T“ the field of aerospace--in which. we remind the reader. Actidyne was born—the
+following applications are in progress:
+
+The receiving stations for pictures from SEP's VIZIR satellite are equipped with
+a film drum suspended by active magnetic bearings. The advantage is a lack of
+friction. therefore. weak. constant couple. This makes possible an accuracy of
+the drum's speed of rotation on the order of 10" and respect for micrometric ac-
+curacy of printing of the film by laser (see illustration at end).
+FOR OFFICIAL USE ONLY
+
+NASA has signed a feasibility study contract with 82)! concerning the Space Shuttle.
+This study pertains to placing the turbo feed puns of the Shuttle's liquid hydrogen
+and oxygen engines—therefore around -260°c--on active magnetic bearings.
+
+For the Space Lab, this time. 82!! has studied vacuum pumps for the metallurgy even
+under vsightlessness. The advantages are a lackof friction. therefore no cooling
+and no vibrations, and machining at very high speed or ‘l‘GV [Very High Speed].
+
+TGV Machining: Boeing and the Others
+
+At a time when the authorities and industry are devoting attention to the case
+of the French machine-tool industry. the Actidyne bearings should give rise to
+much interest in machindng. Now. it must be observed that it really seems that
+foreign aerospace industry will take first advantage of them. unless there is a
+definite acceleration of the program in progress in France.
+
+We have already described, in these columns, the French TGV machining development
+program. See All & cosms number 875 page -- and page - especially.
+
+He should point out that' this program is conducted primarily between 82!! for the
+
+pins. RI'DO [expansion unknown] for the tools (carbide), m Forest for associated
+machines and Dsssault.
+
+After the first validation tests of the concept, 1141 Forest developed a testing
+machine making it possible towork at high speeds of advance--30 meters a minute-4»:
+on only one axle. The first tests on this machine have just taken place at Capdenac,
+so that the first really industrial productions in the French aerospace field are
+not expected in the innediate future.
+
+At the same time. Boeing has decided to jm over all thepreliminary steps and
+has placed an order at ‘rurchan for two machines with one head, 15 kH/five axles.
+The first one is in operation at Wichita.
+
+It seems at this stage that the French aerospace industry is finally follouing
+
+up on this work only "very weakly." Horeover. although it can be believed that
+IGV machining of light alloys has virtually been mastered in its principle (es-
+pecially for a determination of associated tools). it seems that everything still
+has to be done with regard to steels. The subject of TGV turning--a priori favor-
+because of its high speeds of advance-«does not seen to have been tackled either.
+
+Within the framework of the government program for recovery of the French machine-
+tool industry, 82“ has proposed three subjects:
+
+Continuation of Work in Light Alloys
+Study of IGV machining of steels.
+Sudies on TGV machining of "hard" composite materials. By this we understand mater-
+
+ials of the carbon-carbon type (for aircraft brakes, for example) that are raising
+serious machining problems at present.
+
+5
+FOR omau. USE ONLY
+FOR OFFICIAL USE ONLY
+
+There certainly is no cause for presenting TGV machining as a panacea for the
+machine-tool industry and the aerospace industry. There are a number of factors
+other than turning time that intervene in production costs. But. on the other
+hand. TGV machining provides a productivity supplement that should even be able
+to become significant in the case of special machinings: large parts (panels,
+girders, masts), turning, "hard" composite materials, ceramics and so on.
+
+Then, why not play this very French card to the limit!
+
+ 
+
+$2M has set up, at Vernon. a demonstration of TGV machining simulated by a horizon-
+:al 1athe—-making speeds of advance of 15 meters a minute possible--in a light
+aeronautic A045 state T4 alloy. machined by an RITO tool, one tooth (brazed blade,
+20‘ cutting angle. 25 millimeter diameter, blade sweep 23°, speed of rotation
+54.000 rpm, 810-1000 (10 kW) pin. Result: 500 to 700 cubic centimeters a minute
+removed. for a productivity of 70 cubic centimeters a minute per kilowatt.
+
+ 
+
+Film support drum of SEP's VIZIR stations. Each picture consists of 15,000 15,000-
+dot line, or 7-micron dots for a 900-meter resolution of terrestrial imagery. The
+film carried on the drum is printed by laser. Engraving accuracy must make it
+possible to superimpose several films with an accuracy close to e micron or better.
+Drum positioning accuracy is, therefore, on the same order at rotation speeds of
+
+1 to 20 revolutons per second. Drum weight: 22 kilograms. Mnty devices have
+been delivered up to now.
+
+COPYRIGHT: A. 6 C. 1981
+
+10.042
+CSO: 3102/116
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORIATIQI
+
+A 310: FIRST FLIGHT, SALES, PRONGI‘IG‘ 301mm
+Paris A1]? EI‘ cosmos in French 19 Dec 81 pp 22, 23. 25, 26
+
+[Article signed J. H.: "Airbus Industrial Resolved to Expand its Product
+Line to Increase its Share of the Market"; passages enclosed in slantlines
+printed in boldfac_e_7
+
+[17er A few months from the /A 310's first flight/, mjor executives of Air-
+bus Industrial have presented to specialized journalists the new aircraft.
+two of which are in the final stages of construction in shop H90 of Aerospa-
+tiale at Toulouse St. Martin. The visit was also the occasion for a series
+of presentations covering the whole range of production--present and future--
+of the European consortium, and for reports on its comercial activity, in-
+dustrial foundation, and position vis—a-vis other mjor world aircraft build-
+ers. Never had Airbus Industrial gone to such lengths to inform journalists,
+and it is out of the question in these few pages to publish even a summry
+of the mass of informtiom so dispensed. Thus our readers will find in the
+weeks to come substantial supplements to the present account.
+
+Before proceeding to the A 310 proper, it is fitting to recall /order and
+delivery figures/ for the /A 300-A 310/ line of products. At mid-December,
+Airbus Industrial was still announcing /502 aircraft sold/ (32“ A 3003 and
+178 A 3103) of which /3l+3 were firm orders (255 A 3003. 88 A 3103) and 159
+were options/ (69 A 300s, 90 A 3103). The only difference lies in the fact
+that one of the "non-announced" companies was actually Singapore Airlines,
+which has just converted six A 300 options into firm orders, and taken two
+A 310 options. The number of carriers who have officially ordered A 300s
+thus still remains at 310. but the number of those who are acquiring A 310s
+has risen from 13 to 11+. Taking into account those comapnies who have opted
+for both aircraft at the same time, the total number of acquirers rises to
+1+2, not including Air Algeria which has rented two A 310 810-100 from Luft-
+
+We
+
+Still at mid-December, Airbus Industrial had /dllivered 158 aircraft/ (#7
+A 300 323, 111 A 300 M), with the number of operators rising to 2?. Thus
+it still had /3‘04 Airbusses to deliver/, assuming all options are changed
+to firm orders, which seems probable in most cases. To the 502 planes al-
+
+7
+ron carom. use om:
+run orriulnn USE ONLY
+
+ready mentioned, 5 can be added (3 A 300s and 2 A 3103) for which three firms
+have already accepted proposals made by the consortium. To sum up, the grand
+total would be /507 planes for hh firms/. Another interesting point in these
+statistics is that Airbus Industrial has as buyers 18 of the 20 countries in
+
+the world with the highest GNP; the two missing, obviously, being the Soviet
+
+Union and the People's Republic of China.
+
+Concerning /production/, it is freely recalled at Toulouse that Airbus Indus-
+trial depends on four partners (Aerospatiale, British Aerospace, CASA [Empan-
+sion unknowé7, and Deutsche Airbus, whose employees exceed 160,000, of whom
+/H?,000/, or only slightly more than 10 percent, work for Airbus Industrial;
+the margin for maneuver is thus very high. These work force figures are com-
+parable to those of Boeing (81,000) and McDonnell-Douglas (70,000). More-
+over, the geographical dispersion of the means of production among the four
+countries constituting the birthplace of the European consortium is far less
+than that found, for example, in the case of Boeing for the B 76? program,
+even omitting the Japanese and Italian subcontractors.
+
+The /production program/ curve, even if provisional, is interesting to com-
+pare with the much more perturbed ones of American aircraft builders. /The
+progressive rise in production rate remains an important economic factor/ in
+the broad sense of the word: it will be /5# in 1982, 70 in 1983, and 88 in
+198R/(that is, 8 planes per month for 11 months). Of course, that growth in .
+production is matched by a very considerable investment effort: DH 600 mil-
+lion in Germany, Fr #00 million for Aerospatiale (1980), Ptas 1,#50 million
+for CASA, and about 30 million pounds sterling for British Aerospace (1979-
+1982), as well as #0 million pounds sterling for additional tooling to raise
+to 98 the annual production capacity for A 300 and A 310 wing assemblies,
+
+not to mention the two Super Guppies already in process of manufacture, which
+will raise to k the number of planes of that type used for fast and economi-
+cal transportation from plant to plant of the bulkiest components.
+
+In terms of the world market for aircraft of large carrying capacity, Airbus
+Industrial modestly (I) shows for this year a /penetration rate of 5“ percent/,
+thanks to firm sales of #5 A BOO/A 3105 as against 7 B-76?s (8 percent), 15
+B-?#73 (18 percent), 8 L—1011s(10 percent), and 8 DC-10s (10 percent).
+
+Still more interesting is the comparison of tocal 1981 sales (83 planes) to
+1980 sales: for the same period, that of the first 11 months, total firm
+sales were in fact 135 in 1980 (which clearly indicates the massing of sales),
+but Airbus Industrial's part grew by 15 percent, to the detriment of all other
+builders.
+
+Finally, we note that Airbus Industrial has further enhanced its backlog of
+aircraft to be delivered: in 11 months, this grew from 3k1 to 3h#/3h9. In
+fact, delivery lags have become such that there is little chance of seeing
+further growth in back orders, though the effects of the present bad situa-
+tion are somewhat offset by those lags. To reach its set goal of 1,000 air-
+craft, Airbus Industrial is striving above all to increase the number of its
+
+8
+ran orncm. use ONLY
+FOR OFFICIAL USE ONLY
+
+customers, which increased in 11 months from 39 to 1+4. Broadening of the '
+product line should facilitate that growth.
+
+As was pointed out by Pierre G. Paineret, senior vice president for market-
+ing of the consortium, the policy of Airbus Industrial is simple, and is de-
+
+fined by three lines of action: to /meet demand, improve present products,
+and broaden the product line/ so as to maintain a viable European industry.
+
+"hence the studies now in progress (to which we shall return in future is-
+sues), which are directed concurrently toward the "small" A 320, the large
+capacity TA 9, the TA 12 (a long-range A 310), and the very long-range qua-
+druple-Jet TA 11. The market, of course, will decide what priority to give
+this or that program, it being accepted that the A 320 and TA 9 are front
+runners in this race to development. For the A 320, discussions are now well
+underway with Delta Airlines, but the number one problem remains that of the
+very "advanced" engine indispensable to provide the aircraft with the best
+possible economic foundation (see article p 15, this issue).
+
+most important is that Airbus Industrial is now attaining true mturity in
+terms of industrial tooling and technical-comercial policy/. In a word, the
+European consortium has become "totally credible," and is calling the tune
+to other major aircraft builders of the world, while negotiating as an equal
+with engine builders and systems suppliers. Negotiations such as those now
+proceeding with Delta on the A 320 are the best demonstration of that credi-
+bility and stature.
+
+To return to the A 310, we have seen at Toulouse /the first A 310/ (aircraft
+no 162) practically finished, with its cabin floor occupied by many record-
+ing devices, and now beginning its vibration tests with the aid of ONERA
+Eational Office for Aeronautical Studies and Researcg. Technicians anti-
+cipate the aircraft will be ready to begin flight tests by mid-March (the
+target date is 31 March), provided of course that weather conditions are not
+
+too unfavorable.
+
+A 310 no 2 (airframe no 172) has now received its fin and awaits its engines.
+Owing to the fact that it will not have to undergo the same preliminary tests
+as aircraft no 1, it has some chance of catching up with the latter, although
+the target date for its first flight is the end of April. Thus the second
+
+A 310 could be ready to fly in March, and within optimum limits these two
+prototypes could be capable of making their first flights the same day.
+
+An interesting aspect of preparations for these tests relates to the use of
+A 300 no 3 as a demonstrator of the EFIS [Electronic Flight Instrument Sys-
+teﬂ, that is, the cathode ray tubes for piloting and navigational data dis-
+play which are an integral part of the A 310 cockpit. Two Thomson-08F EFIS
+have been in service since 8 December on A 310 no 3, thus saving precious
+time in perfecting the A 310 thanks to the experience gained in flight.
+
+The third A 310 airframe, marked for fatigue tests, will be "operational" as
+early as April. /The third A 310 to fly/«this one ..‘Ith General Electric
+
+9
+FOR OFFILIAL us: om:
+run mucus. USE ONLY
+
+CF6-80A turbojets--is intended for Lufthansa and bears serial no 191. It
+
+will reach the final assembly stage in April, and will fly in late July or
+early August.
+
+The fourth A 510 (airframe no 201), also equipped with CPS-80‘ engines, will
+fly in late September or early October. The fifth A 510 (airframe no 217),
+equipped with Pratt and Whitney engines, will fly in late November or early
+December. These last two aircraft will be rapidly fitted out for commercial
+operation, but will also participate in the flight testing program, which
+should make it possible to obtain /by the end of March 1983 the type certi-
+fication for the two versions (Pratt and Whitney or General Electric engines).
+
+Meanwhile, by August 1982 the airframe for static tests will have started
+its ground tests.
+
+Finally, we recall that integration of the A 510 into the comon A BOO-A 510
+assembly line is planned for as early as next fall, in principle for the
+sixth A 310 (approximate number ranking in series: 220). This will be a
+delicate operation requiring rigorous balancing of time factors.
+
+A 310: To 148 Tons?
+
+Latest wind tunnel test results, at low and high speeds, with simulation of
+engine installations, have shown that announced performance levels will be
+attained, and thanks to various modifications made in the aircraft, they
+even permit anticipation of still better performance at takeoff, in terms
+of takeoff weight for a given 1e th of runway. Hith 257 passengers and
+reserves of FAR [expansion unkn International type fuel, and cruising
+at Mach 0.78 within an altitude range of 31,000 to 35,000 ft, the A 310
+will have a range of:
+
+/2,500 nautical miles/,or 45670 km for the basic A 310-200 version. with
+mximum weight of 132 tons;
+
+/3,0CC' nautical miles, or 5,550 km, for the "developped" A 310-200 version,
+with maximum weight of 138.6 tons.
+
+But wind tunnel tests of buffeting limits permit anticipation that it will
+be possible some day to develop an A 310-300 weighing up to 1% tons. Such
+an aircraft (see AIR ET cosuos no 8844) should have a range of 3,500 nautical
+miles, or nearly 6,50C km.
+
+A 510: First Lightening Program
+As it is with all new aircraft, the builders of the A _310 are striving, by
+
+means of a /lightening program/, for further reductions in empty weight
+yielding an equivalent gain in useful load.
+
+10
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+c Ptogremme highlights
+
+"71 One”! "It! "I‘Il
+
+"N In“ tllllllﬂlﬂﬂl ﬂ '1‘“.
+"II lam)" I” in Olllﬂ’lll —" '
+II" level "I" "'5" we I
+I") Ian! "2:: Illl'll' I”.
+I." lent "I" .1".th AND-“O
+
+"I“ "I‘ll
+
+PIOMNOI M"
+
+   
+
+Production curve for A 30c and A 310. The 200th Distribution of firm
+unit will come off the line early in 198“. the sales of high capaci-
+kCCth in March 1985, the SOCth in April 1986. Pro- ty aircraft from “.
+duotion rate now close to 4.5 units per month, January 1981 to em
+is to reach é units per month by spring 1984. November; Douglas
+
+figure includes Kc-1O
+(Airbus Industrial
+document).
+
+m These two curves of aerodynamic efficiency '
+‘ l in relation to lift coefficient illustrate
+the performance improvement expected from
+the new A 310 wine (up to 7 percent). The
+triangles, circles, and crosses which per-
+mitted tracing of the anticipated aerody-
+namic efficiency curve for the A 310 are
+the result of wind tunnel tests made at
+Modane by ONERA, Amsterdam by NIB [ex -
+' sion unlmovg‘, and Bradford by ARA expan-
+sion unknovg/ on models allowing for engine
+inﬂuence on air flow at cruising speed of
+
+L’ﬂ’H Mach 0.78.
+
+ 
+
+11
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+L REPARTITION DU TRAVAIL
+
+ 
+
+Distribution of components manufacturing for the A 310 among the four part-
+ners of the European consortium: Aerospatiale, 37.9 percent; British Aero-
+space, 20 percent; CASA, “.2 percent; and Deutsche Airbus, 37.9 percent.
+Major subcontractors and suppliers are: airframe, Fokker and SONACA (BelAir—
+bus); landing gear, Messier-Hispano—Bugatti and its associates. Engines, we
+recall, are supplied by Pratt and Whitney and General Electric with SNECHA
+[ﬁational Aircraft Engine Research and Construction Compan17 and MIG [Expan-
+sion unknogg/ participation. Nacelles are supplied by Rohr. The automatic
+piloting system (numerical CADV [Expansion unknoqﬁ? is supplied by SFENA
+[french Air Navigation Equipment Companx/ and its associates.
+
+12
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Initial weight tests have already shown the airframe to be somewhat lighter
+(by 91 kg) than anticipated. The lightening program now adopted leads to
+/a useful load gain of 68? kg/. Other weight-saving measures can be consi-
+dered, in part through greater use of carbon fibers. But that program is
+being held in reserve, to be started only if the clientele asks for it.
+Weight saving thus obtained would total some 880 kg, but the cost would be
+on the order of 85°C per kg saved.
+
+COPYRIGHT: A. 8: C. 1981
+
+5145
+C80: 3102/11?
+
+13
+FOR OFFICIAL use ONLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+AIRBUS INDUSTRIB PLANS EXPANDED LINE OF AIRCRAFT
+Paris AIR & assess in French 2 Jan 82»-pp 10. ll, 68
+[Article by Jacques Horisset: "Airbus Industrie's Heccano"]
+
+[Text] Heccano (registered trade name): "metal construction toy with interchange-
+able parts. invented by P. Hornby." his definition (by Larousse) of the famous
+construction set is perfectly applicable, almost to scale, to the future series
+
+of heavy transport aircraft under study in airbus Industrie and its partners.
+
+But what a set! Tonnages from 184 to 227 metric tons. Planned capacities range
+(in reverse order) from 344 to 253 seats. Ranges are included batween 3.100 and
+1.2.650 kilometers. depending on the type of aircraft and method of use. Enough
+
+to meet, practically, most of the future requirements of companies for heavy trans-
+port aircraft. except for the large slot filled by the 3-777.
+
+In fact. so far..Airbus Industrie has aimed only at the single slot of heavy and
+medium transport aircraft with the A-300. then the A-310 and the future A-300-600.
+This is a profitable slot, however. insofar as the low cost of fuel had masked.
+for a long time, the mediocre adaptation of American heavy transport aircraft to
+median and, especially. short runs. You do not transport with inunity tons of
+metal (structure and engines) that have become useless as soon as long runs are
+no longer involved.
+
+Airbus Industrie. from now on firmly established in that slot. with Mo customer
+cowanies scattered over five continents. with a line constantly undergoing modern-
+ization (starting in 1984. the A-30034 and 04-600 will replace the present b30034 ,
+and cl. aircraft). has planned to develop its activities along two lines: production
+of a ISO-seat aircraft. the A-320. whose characteristics will be firmed up in the
+coming months (see our last issue); development of a new series of heavy transport
+aircraft, making maximum use of already existing components (A-3OO and A-310) or
+under development: (A-300-600), but oriented in accordance with two plans: on
+
+the one hand, offer of a larger capacity (TA-9) and. on the other hand. production
+of long- and very-long-range aircraft: IA-ll and “IA-12.
+
+In the coming weeks, we shall have occasion :to discuss the characteristics and
+performances of these three aircraft again, summarized, however, in the compara-
+tive table that we are publishing now [at and] and that shows the possibilities
+of the future aircraft. Because it is realized that there is no question of the
+European consortium's wanting to launch everything at the same time. it is obvious
+that a priority will be set up that will depend first of all on the market, that
+
+1h
+FOR OFFICIAL USE ONLY
+
+is to say on the real marketing possibilities. In practice. the TA-9 has the best
+chances of showing up in first place in the race in the second half of the decade.
+The objective aimed at (capacity increased by 25 percent) will enable the TA-'9
+
+to present itself as the successor of the nc-lo and of the L-lOll on all runs
+
+not exceeding 6,000-6.500 kilonsters. provided. of course. that the twin-engine
+formula is acceptable. This is already a very wide slot in itself. for which demand
+will show up all the more rapidly now that Lockheed has decided to stop producing
+
+the ‘l‘riStar and Douglas is forced to consider abandonment of the DC-lO line in
+the future.
+
+This observation also applies. however. to the long-range TA—ll (four jets) and
+the TA—lz (twin-jet) aircraft. Between 150 and 200 seats. there will be the
+DC-8-70 (Dc-8-60 reengined with Clix-56 engines). Starting at 350 seats. there
+
+is the 3-767. In between. there will no longer be anything. Therefore. the slot
+really exists that the TA-ll and TA-lZ can fill all the more effectively. because
+these two aircraft will have the maxim in cot-non. on the one hand. with the
+A-300-600 and the A-310, on the other hand. with regard to fuselage. cockpit. sys-
+tems and tail unit. 0n the other hand. the wing will be new. if only because of
+the need for increasing its area and for asking best use of the progress achieved
+in aerodynamics. But the research depart-ants are now working on an airfoil whose
+basic comments will be the same for the TA-9. for the TA-ll and for the TA-lz,
+but capable of taking either two engines with a 28-ton thrust (TA-9 and TA-lZ).
+
+or four engines with a 15.5-ton thrust (TA-ll).
+
+The diagram that we reproduce here [at and] shows the mechanism by which the fuse-
+lages of these three aircraft types will use both components already existing (or
+under developmnt) and a new component: the center section designed to take the
+
+new airfoil. Because the dianeter retains obviously the same. the only new tooling
+required will be for this new center section. In view of the increase in takeoff
+masses (+11 percent and +37 percent). the landing gear will also be redesigned.
+
+but its basic components will be similar for the three aircraft under consideration.
+
+To our knowledge. this the first time that atransport aircraft builder is proposing
+to devote himself to this kind of Heccano set. not a posteriori. but, rather. a
+priori. by studying in that spirit all the structural conponents. This will result
+in a considerable saving of means. which will make the operation particularly pro-
+fitable from the industrial point of view. of course. Boeing lays claim to similar
+ideas with regard to the development of the B-767 series. but. up to now. it has
+envisaged only a three-jet derivative. the 3-777 (of which it is. moreover. no
+longer a question. at least for the time being). On the other hand. Airbus Indus-
+trie leads by several lengths in this kind of operation and it will. in any case.
+be in a position. if its partners so desire. to propose a series of transport air-
+craft as broad as it is colpetitive. Carriers. who are anxious to have several
+suppliers. will appreciate this.
+
+It is observed. then. that the development of Airbus Industrie no longer rests
+
+on a work tool (the industrial capacities of its partners are still mobilized only
+partially). but. rather on the consensus of those industrialists. on the aptitude
+to mobilize the indispensable financial collaboration and on the budgetary capa-
+bilities of the goverr-ents concerned. The technico-industrial problem is becoming
+political. because the desire to love ahead and to take the necessary risks is
+
+15
+son omcm. use ONLY
+FOR OFFICIAL USE ONLY
+
+the real driving force of development. At any rate, in Airbus Industrie Europe
+has more than ever a remarkable chance to affirm itself on the huge world market
+for air transport and finally to break the American quasi-monopoly.
+
+Comparative Characteristics and Performances of the Future Airbus Series
+
+     
+  
+    
+ 
+
+   
+
+    
+
+1’” YA." I‘) IA." I’)
+
+ 
+
+ 
+       
+
+  
+
+ 
+
+—-————_——_———.——————_——
+
+2XII¥2x21J72x23M2xa 2x20 ‘XISA 4x1“ 2x2!
+moon CFW ensue: MIA eta-sac swam M“ M
+
+  
+
+mu. cu mm (0(3)
+
+I’ypedomouur
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘WS.’ (5)( 6)
+mulch (mug) T7
+Allow goon-Mon (8)
+
+34.“ ‘3.” «M M.“ an M SIM an
+
+   
+  
+  
+   
+   
+   
+ 
+        
+  
+    
+  
+ 
+
+_—-—_————————
+
+) m
+
+(12+ no) (104.1901 nuns) mum (3+2!!! (”#2121
+111 2’ 36 as w 29
+moon. ISL” ”(.03 am: ”L03 nun (1L0! ﬁlm
+”a? +1Im3 +11Jm3+1mn9+113m3+123nﬂ+1uwo!
+
+    
+   
+ 
+    
+      
+
+—mmumal (11(11)
+Capsule dos amass (12)
+(comm + In! an moi (
+
+ 
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+  
+  
+
+    
+  
+ 
+ 
+   
+  
+
+"so an (3) as no m m an: an no
+a.“ ma m m «a nu no.5 ms
+5am ms as no 19 ms no no:
+— a wa- gon-«ml 3.0 17.14 sun 85/"; 105.0 16.3 100.1 ”.5
+— ohms oayanle 9 10.4: rm was 415/62: «.4 32.4 as as
+— autumn man (20) mo «no a a on 95.1 no.1 05.10) ,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dist-Ices medium 0)
+— out 0!. ml (NMJIun)
+— Mt poem .33!
+
+l
+221NIJI$ woo/mo zoo/soon MIMI! (“/3110 sass/ms 5m] (M “I"
+2950/5“ ”/5530 NIIIIO SSW/M anon/ms COW/"(ﬂ “I!“ MOI“
+
+  
+ 
+
+ 
+
+(l) at the rate of 30 inches for the A—320. the A-310 and the A-300; at the rate
+of 33-31. inches for the TA-ll and TA-IZ; (2) the distances for passengers only
+
+(and their baggage) are for the mixed-type arrangement; (3) there is. in the plan-
+ning stage, an A-310-300 capable of taking off with a mass of 1105-1198 metric tons
+and able to cover 3,500 nautical miles. or close to 6.500 kilometers; (4) the maxi-
+mum mass of the A-300-600 is scheduled to be increased to 170 metric tons; (5) LR -
+Long Range and ELR - Extended Long Range; (6) this capacity w0u1d actually be far
+in excess.
+
+Key:
+1. developed 13. (containers and bulk freight)
+2. not yet determined lb. emery of masses (metric tone)
+3. thrust on takeoff 15. maxim at takeoff
+lo. engine type 16. maximum at landing
+5. wingspan 17. maximum without fuel
+6. length overall 18. operationally empty
+7. wing area 19. maximum payload
+8. geometric sepect ratio 20. maxim fuel
+9. number of seats 21. ranges
+10. in mixed arrangement 22. with maximum payload (nautical miles/
+11. maximum kilometers)
+12. cargo coopertments 23. with passengers only (nautical miles/
+
+kilometers)
+
+16
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+    
+   
+
+n k l
+.. - KN“
+.-....\
+
+Only the new aircraft-A-320. TA-9. TA-ll and TA-12--are shown on the graph of
+payloads and ranges. The ranges are calculated for the A-320 and the TA-9 with
+"domestic" type FAR [Federal Aviation Regulations] reserves; for the TA-9 and
+TA-ll with "international" type PAR reserves. _
+
+A‘
+
+A“
+
+A“
+
+A’
+
+A”
+
+A”
+-WWAQ
+~f~
+
+ 
+
+Puselages: The A-300-600 needs only one single new cylindrical section; the
+TA-9, TA-ll and 'l‘A-lz, on the other hand, will require development of a new cen-
+
+ter section .
+
+17
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+The future new airfoil with an area of 330 square meters will equip both the Tat-9,
+TA-ll and TA-IZ. The differences will pertain to the tank capacities and to the
+
+points where the engine pods are attached.
+This Sketch Smarizes the Anticipated Development of the Airbus Series
+
+ 
+
+”1m
+TA12
+
+WPYRIGRI‘: A. & C. 1981
+
+10,042
+CSO: 3102/115
+
+18
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+BRIEFS
+
+AIRBUS SUMMRAC'IS-ﬂithin the framework of compensation agreements, the Nor-
+wegian Raufuss Company is now collaborating in manufacturing for Airbus. to which
+it is supplying loading system components. This subcontracting agreement was con-
+cluded by the German partners of Airbus Industrie responsible for agreements with
+Italian and Norwegian industry. while Aerospatiale has concluded similar agreements
+with Portugal and Greece, and British Aerospace with Australia and Switzerland.
+[Text] ParisAIR & (”SIDS in French 9 Jan 82 p 11] [COPYRIGH'h A. a C. 1981]
+
+10042
+
+CSO: 3102/115 DH)
+
+19

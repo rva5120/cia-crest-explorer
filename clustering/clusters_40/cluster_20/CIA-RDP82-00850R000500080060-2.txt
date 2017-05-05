@@ -1,0 +1,2647 @@
+FOR OFHCIAL USE ONLY
+
+IPRS L/10686
+
+26 July' 1982
+
+USSR Report
+
+METEOROLOGY AND HYDROLOGY
+No. 5. May 1982 -
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFHCIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or (Excerpt) in the first line of each item. or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAMS AND REGULATIONS GOVERNING OHNERSNIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+
+METEOROLOGY AND HYDROLOGY
+
+Mo. 5, May 1982
+Translations or abstracts of all articles of the Russian-language
+
+monthly journal METEOROLOGIYA I GIDROLOGIYA published in Moscow by
+Gidrotneteoizdat.
+
+CONTENTS
+
+*Influence of Processes in Atlospheric Boundary Layer on Formation of
+Macroscale Clinatic Characteristics.......................................... 1
+
+Changes in Globaluater Exchange................................................ 2
+*Have Movements in Low Latitudes............................................... 18
+*Lidar Sensing of Origin and Evolution of Radiation Pogs....................... 19
+
+’Application of Isotopic Glaciology Method for Studying Nuclear Shot Products
+in Mtarctic‘tO...0..000.0...0000..00...00......IOOOOIOOOOOOOOOOOOOOOO00.... 20
+
+*Experinental Evaluation of Sons Parameters of Mercury Migration in Soil
+Surface Layer............................................................... 21
+
+Dynamic-Stochastic Computations of Seasonal Geoetrophic Circulation of
+Surface Haters in Eastern Tropical Zone of Indian 0cean............ ...... ... 22
+
+*Detemining Statistical Characteristics of Passive Inpurity Field in Sea
+water Using Conservative Marker............................................. 31
+
+Investigation of Surface Pile Teaperature Pros Results of See 0bservations.... 32
+*COnputations of Maximum Hater Discharges in Multiflood Regine................. 39
+
+*Application of Muserical Method in Coaputing Unsteady Motion of Cohesive
+Mudflow Along Hatercourse................................................... 60
+
+*Energy Potential of lowland Part of Central Asia and Its Use by Phytocoenoses. 61
+
+* Denotes items which have been abstracted.
+FOR 0H1CIAI. USE 0N1)!
+
+*Influence of Mixing on Foning of Ice Nuclei With Introduction of Solid
+Carbon Dioxide Into Cloud.. ‘2
+
+*Artificial Crystallization of Supercooled Aqueous Aerosols. . . . . . . . . . . . . . 43
+
+*Electric Field Potential Gradient Under Conditions of Atnoapheric
+Industrial Pollution.........,........................................ Mo
+
+*Analyais of Long M-Dinenaional Series of Light Signal Measure-cuts in
+Atnospheric Surface Layer. 65
+
+*Seventieth Birthday of Igor' Vladimir-ouch Popov. . . . . . . . . . . . . . . . . . . . . . . . #6
+
+“Activities at USSR State Connittee on Bydroneteorology and
+Environmental Monitoring ..... b7
+
+*COnferencea, Meetings and Seninars.. 68
+
+*Notea Fron Abroad 50
+
+a
+Denotes itens which have been abstracted.
+
+IDIOFHCIALUSEONLY
+FOR OFFICIAL USE ONLY
+
+"DC 551. 510. 522:551.582.001 . 57
+
+INFLUENCE OF PROCESSES IN ATMOSPHERIC BOUKDARY LAYER 0N FORMATION OF
+MACROSCALB CLIMATIC CHARACTERISTICS
+
+lbscow HEIEOROLOGIYA I CIDROLOGIYA in Russian No 5, May 82 (manuscript
+received 1 Oct 81) pp 5-18
+
+[Article by V. P. Heleshko and b. Ye. Shneyerov. candidates of physical and
+mathematical sciences. A. S. Dubov and L. N. Hagasenltov. Main Geophysical
+Observatory]
+
+[Abstract] An effort was made to determine how sensitive the macroscale charac-
+teristics of the climatic regime computed in models are to the methods employed
+in parameterizing the boundary layer and which of the adopted hypotheses or val-
+ues of the initial parameters are most important for a proper description of
+turbulent flows. By means of numerical experiments with a three-dimensional hy-
+drodynamic model of the atmosphere a study was made of response of the computed
+climatic regime to methods for boundary layer parameterisetion in the example
+of two schemes: a semiempiricsl scheme (scheme I) and a scheme based on the hy-
+potheses of similarity theory (scheme II). The schemes. first proposed by other
+authors, are examined in detail. The basic differences between the schemes are
+as follows: in scheme 1 no allowance is made for the vertical change in the di-
+rection of the wind velocity vector in the boundary layer and accordingly the
+change in the vector of turbulent frictional stress is not taken into account;
+in the first scheme no allowance is made for the differences in aerodynamic
+characteristics of the underlying surface on the continents and oceans; the
+ache-es use different values of equilibriu gradients. It was found that the
+total quantity of heat entering the atmosphere from the underlying surface over
+the cont inenta and oceans is approximately identical in both experiments, but
+the formation of circulation, the thermal regime and moisture cycle in the at-
+mosphere is considerably influenced by the redistribution of this heat between
+explicit and latent forms. The most important conclusion drawn is that the use
+of similarity theory hypotheses in s model is preferable because the mean zonal
+distribution of temperature and the intensity of macroscale quasistationary
+pressure systems over the oceans and continents agree better with actual data.
+Figures 2, tables 6; references 23: 8 Russien. 15 Hestern.
+
+FOR OFFIOAL USE ONLY
+MWUSSONLV
+
+“DC 556.].
+cancers 11' GLOBAL HATE! EXCHANGE
+
+ibscov WMWIYA I GIDROLOGIYA in Russian no 5, May 82 (unuscript
+received 1 Sep 81) PP 19-30
+
+[Article by R. K. nige. doctor of geographical sciences, Institute of Hater
+Problem]
+
+[Text] Abstract: An investigation of long-tern
+changes in individual coqonents of the
+global water balance indicated that they
+are prinarily deter-lined by the change
+in observed global thernal conditions at
+the land surface. As a result of aodern
+changes in clients and water «change
+processes a gradual dessicstion of the
+continents and replenisI-nt of the world
+ocean is occurring.
+
+Investigations carried out during recent years indicate that as a result of a
+change in a nunber of geophysical processes and especme natural energy
+factors, which deterained climatic fluctuations. global water exchange is
+experiencing considerable fluctuations. Since the end of the last century
+there has been an appreciable warning of clinate, which attained a uni-:- in
+the ”Jo's-1960's, constituting almost l'c. Then there was none dropoff of
+tenperature to the laid-1960's. which was then replaced by its relatively snsll
+increase (6, 21, 27]. According to data published by H. I. Budyho [2], the
+tenperature increase during the last 12 years’ was about 0.3'C.
+
+An important feature is the considerably greater (approxinately by a factor
+of 3.5) anplitude of tenperature changes in the high latitudes than in the
+low latitudes. which is leading to a substantial change in the nsan naridional
+tenperature gradient. Computations show that an increase in air tenperature in
+the northern henisphere by 0.1'c will lead to a relative decrease in the ner-
+idional gradient by 0.51 for nean annual conditions [3). There is a quite
+close inverse relationship between then which is changing sonewhat in depend-
+ence on the namitude of the teqerature anonalies:
+
+~0.656tm - 0.06 with At (0.1;
+A10 - ~19.uA:2 + 0.15““ -0.62 with 0.1{Atm<0.3;
+
+-o.sH"¢:m + 0.12 Hm Amp 0.3.
+
+FOIOI'I‘ICIALIBIONLY
+FOR OFFICIAL USE ONLY
+
+The changes in the meridional gradient in turn determine the changes in the
+nature of the intensity of atmospheric circulation and the corresponding
+changes in the regime of moisture receipt on the continents. For example,
+according to the data published by O. A. Drozdov [7], during the period of
+the warming there is a decrease in the intensity of moisture transfer and
+an increase in precipitation over the oceans and its decrease in the intra-
+continental regions. During the period 1891-1973, with a global warming by
+0.S°C, there was an appreciable decrease in winter precipitation over a large
+part of the grain regions. During this season the decrease in the sums of
+precipitation in a number of cases attained 302 of the average. Although the
+change in mean annual precipitation was less, nevertheless in a number of
+regions it attained 10-152 [3].
+
+Investigations of the correlation between the total quantity of precipita-
+tion over the area of the continents. computed both on the basis of data
+from direct observations [31] and on the basis of water balance computa-
+tions. indicated that with a global increase in air temperature as a rule
+its quantity over the land increases. which can be written approximately as
+follows:
+
+xcon - 798.7 + 156.8 At“ mm.
+
+At the same time. an analysis of the correlation between the total quantity
+of precipitation and the change in the meridional gradient revealed a ten—
+dency to an inverse dependence. which is particularly characteristic for the
+intracontinentsl regions and can be expressed approximately as follows:
+
+xcon - 801.2 - 285mm“ mm.
+
+The correlations between precipitation and anomalies of mean annual air tem-
+perature (Atm) and the meridional temperature gradients ( AYNH) of the
+northern hemisphere make it possible to obtain an approximate equation for
+determining global precipitation over the territory of the land (without
+Antarctica and the islands):
+xc'on - 73.39 (10.89 +Atm - 1.944Ym) Ill.
+In general, for the territory of the land the long-term changes in precipita-
+tion anomalies (xcon) can also be computed with a definite degree of approx-
+imation using the water balance equation [11]. taking into account changes in
+
+evaporation (zcon) and river runoff (AYcon)
+
+Axcon ' “con I” Azcon) + (Ycon *AYcon) ‘ xcon'
+
+water balance computations show that long-term changes in precipitation in
+the current century had a number of peculiarities.
+
+For example. an increase in precipitation (somewhat mre than 21) occurred
+over the ocean (Fig. l) in the late l930’s-early 1940's (during a period of
+warming). whereas over the territory of the continents (without Antarctica
+and the islands) during this period there was a sharp reduction of precipit-
+ation and the meridional gradient (about 1'0).
+
+3
+FOR OFFICIAL USE ONLY
+INJRGJFFKJAI.USE‘DNLY
+
+The temporal Variability of precipitation in Antarctica was investigated
+
+on the basis of the annual layer of snow accumulation. averaged by decades.
+by H. Schwerdtfeger [29], N. V. Petrov [l6], and others. It was found that
+the rate of feeding of the Antarctic ice cover increased from the end of the
+19th century to the 1930's and began to decrease by the l9b0's-l950's.
+
+The long—term variation of the change in the percentage of precipitation
+over the continental territory relative to ocean areas is of definite inter-
+est; it shows (Fig. 1) that with the development of a warming the percent~
+age of precipitation over the continents begins to decrease and attains a
+minimum (in the limits 2!) during the period of the highest temperatures
+
+and their minimum gradients.
+
+In general. however, for the current century against the background of a
+general gradual warming a small tendency to an increase in precipitation
+over the continents (without Antarctica) was characteristic; this amounted
+to about 0.25 mm (31 km3) per year or about 0.031. The peculiarities of
+
+the long-term variation of precipitation are very closely related to the
+long-term changes in mean annual air temperature and changes in its mer-
+idional gradient. With an increase in air temperature there was an increase
+in evaporation from the surface of the world ocean. The transport of this
+moisture onto the continent led to an increase in precipitation at the be-
+ginning of the warming. At the same time, with an increase in temperature
+there was an appreciable change in the anomalies of the meridional air tem-
+perature gradient which attained minimum values during the period of maxi-
+mum warming in the 1940's. with a change in the latitudinal temperature
+gradient there was a change in the intensity of water vapor transport from
+the ocean onto the continents [2]. A decrease in the meridional temperature
+gradient led to a lessening of the intensity of atmospheric circulation.
+which finally led to a decrease in the flow of water vapor arriving in the
+intracontinenral regions and the quantity of precipitation over a consid-
+erable part of the land decreased. The opposite situation developed in the
+
+l950's-1960's.
+
+Quite significant changes should occur in the current century in evaporation
+processes, which are determined by the relationship of heat and moisture in
+
+different regions.
+
+The total annual evaporation as a whole from the territory of the land, with-
+out islands and Antarctica, can be determined approximately uging an equation
+taking into account the mean annual temperature of the land (tcon), air tem-
+
+perature anomalies in the northern hemisphere (A t“), mean _a_nnual river
+
+(Ycon) and underground runoff (Uc ) and their anomalies (‘sycon’ lecon).
+
+[K - con; (7 - mu Z_=lln.s+o.oa (7.+av.)+(0.+w.)HT..+AI..)+a.o
+
+1-70.03“. + it")
+
+on
+
+and corresponding empirical coefficients.
+
+0n the basis of an analysis of the interrelationship of water-heat-anergy bale
+ance equations a formula was proposed in [13] for computing evaporation
+through the maximum possible evaporation (zevap) and precipitation (Icon)
+
+6
+
+IN)I‘0FIIC1AL USE'OBﬂJV
+FOI(MﬂﬂKJAL.US£(HVLY
+
+-.L
+lK = con; 11 I evup] =Z.HI+ (x:)-.] ‘.
+
+In general. for the total territory of the continents (without Antarctica and
+the islands) quite satisfactory results are given by the equation
+
+[K ' con; 24 a evap] Z.=Z.[] + (_§:)~’]-O.I_
+
+where evaporsbility can be determined using the somewhat lodified L. Tyurk
+equation [18]
+Imam +25UZ+ at.) + 0.05 (F. + M.)-
+
+[K - con: H - evap]
+
+or using the equations [1.8.16]. taking into account the sun of tespera-
+tures above lO'C (29>10'C), for example
+
+2"", - 306 + o.229> 10’C.
+
+An investigation of evaporability (Z.v.p ) on the continents during the period
+1881-1975 shows that it. changing proportionally to variations in mean annual
+air tesperature. could vary iron 1083 mm (1884-1885) to 1161 Im/year (1938)
+(32.51) with a mean long-term value of about 1110 am (Zubenok, 1976). Between
+1881 and 1938 there was a tendency to an increase in the maximum possible
+evaporation on the average with a rate of about 0.7 mm/yesr, which then was
+replaced by a tendency to its decrease in the limits 0.55 Ila/year (Pig. 2).
+
+Computations of the long-tern variation of total evaporation from the entire
+area of the continents without Antarctica (area about 125.1 aillion kmz ) aade
+it possible to establish its variations (+6. 51) in anomalies from -39 2(1805)
+to 22 nn/year (1938) with a mean long-ter; value of 526 II (65 802 km2 ). In
+the long-tern variation of total evaporation fro. the land it is possible to
+note a number of characteristic periods (Pig. 2). For example, increased
+evaporation was observed primarily during the years 1897-1901, 1921-1954.
+1970-1975. and reduced evaporation during the periods 1881-1896, 1902-1920,
+1955-1969 with a mean period of about 16 years. Evaporation was also charac-
+terized by a tendency to an increase of about 0.3 mn/year (0.072). These
+changes in total evaporation from the territory of the land were detersined
+by the nature of the relationship between the heat and water resources of
+the land during individual periods.
+
+One of the important components of global water exchange is river runoff,
+study of whose variations shows that in general the change in runoff and
+total precipitation falling on the continents is quite closely related to
+air temperature fluctuations. Usually for large regions with an increase in
+temperature to a definite limit both precipitation and runoff increase. how-
+ever, for individual physiogrsphic regions the pattern can differ somewhat.
+especially in internal regions located in a zone of inadequate aoistening
+[10. 15].
+
+A decrease in the runoff of the continents in individual cases can also oc-
+
+cur during periods of cooling when there is a decrease in evaporation from
+the ocean surface. a decrease in the receipts of moisture on the land. as
+
+5
+INDI:()FF1CIAL.USEI(NVLY
+FOR OFFICIAL USE ONLY
+
+Changes in Earth's Surface Hydroaphere (Nunerator -- 1908-1958 (51
+Years), Dcmninator - 1896-1975 (82 Years)
+
+  
+     
+ 
+   
+ 
+ 
+  
+
+ 
+
+Prac-
+
+tion Volu- Total
+Total vg -of get“
+m. I!!! IIde
+
+ 
+
+Lakes "6.4- IO’ 0.0!
+
+Ground water 343-"? 237
+Land glaciers cos-w Isa-nod
+Reservoirs 0340: (“No-a
+
+Land (without Ar -
+.i-IG' 48
+tic and Antarcti a)“ 2'
+
+Glaciers of Arc- ”540' 6.0840 '
+tic islands 1
+
+Greenland slacie s 2.3-"? 0."
+
+Antarctic glacie s 2|.6-IO' 1.56
+
+Arctic islands 24.0-[0' L13
+and Antarctica
+
+Land as whole 53-“, ‘1'
+Uorld ocean IJMO' 96.54
+world ocean and Int-I0 96.54
+
+M OFFICIAL I.“ ONLY
+
+Table 1
+
+Fraction of
+change of
+world bal-
+ance coupon-
+ent, X
+5‘0! OFFICIAL USE ONLY
+
+was observed in 1886-1888. 1917-1921 and 1962-1967.
+
+In general. for the territory of the land. including regions without runoff
+
+(without the islands of Antarctica). the change in river and underground run-
+off was from 2763 (1925) to 317 Ildysar (1897,1976). which with an amplitude
+of 60 an (5004 n 3) attained fluctuations in the range 16. 51 of its mean long-
+
+tern value of 300 In. or 37 593 kl3 . of which about 12 II, or 1572 kn3. was
+accounted for by underground runoff.
+
+”I ”0' M"
+”” xocean
+
+    
+
+Fig. 1. Changes in quantity of precipitation over waters of world ocean (X0).
+over continents (xcon) and percentage of continental precipitation relative
+
+to oceanic precipitation (Xcon Z).
+
+In the course of the last hundred years the total runoff of the continents as
+a whole did not experience an adequately definite tendency in its changes,
+despite an appreciable increase in global te-peratures and an increase in
+evaporation of about 8. 8 kn3/year. The conpensation of losses in runoff by
+evaporation occurred due to an increase in the runoff of nountain rivers as
+a result of the sore intensive thawing of glaciers, which gave an increase
+
+in runoff volule of about 0. 6 kn 3/year, and also an increase in the runoff
+of ocean-facing slopes as a result of an increase in precipitation.
+
+In the runoff of internal regions without runoff there is a negative tendency
+which leads to its decrease by about 8. 8 kn 3lyear (Pig. 2).
+
+A slight tendency to an increase in runoff is observed in rivers flowing direct-
+ly into the ocean and a more appreciable positive tendency is characteristic
+
+for runoff from islands (Fig. 2) in a volule of about 1.2 kn lyear, caused
+
+by the tendency to an increase in precipitation in the ocean region.
+
+The reduction in the runoff of internal regions of the land, an increase in
+evaporation and some reduction of precipitation led to a decrease in the
+total moistening of the continents, especially of regions without runoff.
+This circuustance was clearly reflected in a decrease in the level and vol-
+uses of lakes without runoff [9. 20].
+
+Computations of the change in the increase in the total voluse of lakes with-
+out runoff in dependence on fluctuations of their level and area show that
+the strongest reduction in volumes occurred in the 1960's in the period of
+
+FOI403FHJAI.USIINVLY
+FOR OITWC1AL USEIMNLY
+
+greatest warming. At this time the total discharge of lake waters could at-
+tain 380 km3/year (Fig. 3). Between 1890 and 1940 the water reserves in the
+lakes were reduced by almost 6000 km3, which was about 3.42 of their total
+
+mm (176 400 1.1.3).
+
+From the mid-1960‘s up to 1975 the total volume of the lakes had increased
+in the limits of about 2000 km3, which was associated with a cooling during
+this period.
+
+In general, during the period 1896-1975 the mean reduction of lake waters was
+about 33 ka3/year (Fig. 3. Table l).
+
+The present century is characterised by a decrease in the reserves of ground
+water on the continents [12]. Investigations show that this process trans—
+pired most intensively free the 1920's through the 1950's, when the volume
+of ground water decreased at a mean rate of about 860 km3/year (Fig. 3).
+
+The changes in ground water reserves were determined primarily by thermal
+variations at the earth‘s surface. At the same time. the percentage of the
+anthropogenic effect with each passing year is becoming increasingly signif-
+icant. especially for such regions as Europe and North America.
+
+A najor role in the change in global water exchange can be played by the
+earth's glacier cover by an increase or decrease in the quantity of water par-
+ticipating in the active cycle at the earth's surface.
+
+The total glacier flow is about 6300 km3/year. The overwhelming majority of
+this quantity is accounted for by runoff from the largest ice sheets. Each
+
+year about 2200 km3 of water enters the ocean from Antarctica, and from Green-
+land -- about 800 km3. Together this amounts to 92 of the runoff of all the
+rivers of the earth. In Greenland the liquid runoff constitutes almost half of
+its discharge, whereas in Antarctica almost the entire discharge occurs by the
+calving of icebergs (the total liquid runoff is 15 km3). In the modern era ice-
+bergs in the southern hemisphere are propagated to 65-50’8 and their total vol-
+uae, entering into the world ocean, is equal to approximately half the an-
+
+nual runoff of the earth's rivers.
+
+Investigations of many [6, 19, 22, 24, 26, 28. 30] glaciologists indicate that
+from the end of the 19th century an appreciable decrease of the earth's gla-
+cier cover began. Between 1900 and 1950 it decreased by approximately 101.
+
+The average thickness of the ice in the Arctic decreased by half and its area
+decreased by more than lOX. The most intensive decrease in glaciation occurred
+in the l930's-1960's. In the l960's-l970's the reduction in glaciation was
+slowed and in many regions there was a change to an advance. This was asso-
+ciated primarily with a relatively small global decrease in temperature and
+
+an increase in precipitation in a number of regions.
+
+These computations indicated that during the period from 1908 to 1958 there
+was a reduction in the water reserves in mountain glaciers at a rate of about
+58 km3/year. for glaciers of the arctic islands -- 37 km3/year. for the glac-
+iers of Greenland - 27S ka3/year, for the glaciers of Antarctica -- 770 km3/
+year. This process has now slowed considerably, although the reduction of
+
+glaciers still attains about 170 km3/year (Pig. 3).
+8
+
+FOI<OFFKJAI.USIIHVLY
+ﬁbl¢lﬂﬂCJAl.US£(ﬂVLY
+
+An ever- increasing influence on the change in the regime of waters on the
+land is being exerted by the activity of Ian. as a result of which, on the
+one hand. there is an appreciable increase in the losses of water in evapor-
+ation in the process of developmt of irrigation and an increase in the
+area of reservoirs. and on the other hand, an a result of the construction of
+
+water uanagesent structures there is an accumulation of water in artificial
+water bodies and a replenishment of waters on the land. In general, at the
+present time, as a result of the creation of reservoirs, there is an annual
+
+accumulation in then of about 31 kl3 of
+
+ 
+
+        
+
+water (Pig. 3).
+
+40'
+
+“W
+
+l
+
+"“1
+
+If. '
+Zevap I:
+2m o[ W
+a TIA“,
+xcon " v
+N - N
+a 7 o
+'10 'I 2[ M.
+.., I —___—/.-.
+to Ycon '
+'EWWM .
+.n . 0
+7E u. ‘11“ ‘2' M.
+5‘. "" ' Ysu con .
+‘7
+no " , Ysu is a
+"" 'M
+' , mo ma mo mp mo 45
+
+       
+
+Hg. 2. Changes in region of contin-
+ents of evaporability 42“”. evapor-
+ation Alum. precipitation A xcon’
+surface runoff as a whole AYcon’ run-
+off of ;nternal regions AYm, surface
+and underground runoff from continents
+AV“ con and islands 4Y8“ is'
+
+. 30 tm mo nu ma my
+
+ulah
+
+gr
+
+"ice
+
+"res
+
+eel
+
+0C1
+
+Pig. 3. Changes in reserves of water
+
+resources of lakes ARI e' ground
+
+water A981,. glaciers A ice- reser-
+voirs Auras, land as whole Auearth
+
+and world ocean Avocean°
+
+Thus. as a result of the natural and artificial changes in the regise of sur-
+face and ground water of the land during the period from 1896 through 1975
+there was a reduction of their mean reserves at an average rate of about 316
+
+9
+
+FOR OFFICIAL USE ONLY
+FORlﬂﬂﬂCJAl.USEIMNLY
+
+0N.c
+~o.ae
+ca.“
+00.”
+os.on
+on.wn
+oc.oo~
+
+nunuou
+
+no N
+
+NI
+«an:
+
+emu
+
+oo~t
+
+acct
+4o¢+
+
+can: It:
+nnuOnI ~o.an
+mnnnn
+
+OOnNI co.n
+«once: ou.no
+MHOOOI ca.n~
+4nmo-+ oo.oo~
+
+ounaouwu
+nix «0 N
+
+«am
+not
+an»:
+aunt
+
+”~01
+moan:
+anon:
+
+oo~a+ a<u-+
+
+MES
+
+N~.o
+oe.on
+«n.a
+na.¢n
+~n.no
+oo.oo~
+
+auauouou
+«0 u
+
+owns
+
+n~¢+
+FORiOFFKJAl.USE(NNLY
+
+kn3/year (Table 2). This process transpired most intensively from 1918
+through 1950 when the exhaustion of the water reserves of the land on the
+average could attain 1361 h3/year (Fig. 3).
+
+u ' '
+
+a.
+
+0
+
+we
+
+00 u. [subscript "0" - "ocean"]
+I
+
+‘4'
+
+"E ‘5 '
+
+’
+
+n 4% '.
+
+Pig. 4. Changes in water balance components of world ocean in anomalies: evap-
+orationA zoceanv precipitation .Axocun. river and glacier runoff AYocean
+and annual increment of ocean waters Aroean°
+
+Table 3
+Hater Balance of Horld Ocean (1896-1975)
+
+Balance elesents b3 I: Z of discharge
+Evaporation -507153 4.606 -100.00
+Precipitation 44.57232 +1263 +9045
+River runoff 464182 +122 +0.71
+Underground runoff +2500 +7 +0.69
+Glacier runoff +3555 +10 +0.70
+Total runoff +50237 +139 +9.91
+Nonclosure of balance +316 +1 40.06
+
+The change in the water balance of the land is very closely related to changes
+in the entire world water balance. including the water balance of the uorld
+ocean.
+
+The principal discharge or loss cosponent of the water balance of the ocean
+is evaporation fron its surface, vhich in combination with the peculiarities
+of atnoapheric circulation determines the receipts of moisture on the land.
+
+Since the nagnitude of the long-term change in evaporation from the ocean sur—
+face is closely related to the heat receipts. to a conaiderable degree it
+oust be proportional to the change in thermal conditions at the earth's sur-
+face. The earning in the current century should lead to an increase in total
+
+11
+NI OFFICIAL USE ONLY
+FOR OFFNCJAI.US£10NLN
+
+evaporation from the ocean and a definite increase in the intensity of the
+moisture cycle. Computations [10. 17 and others] show that beginning from
+the end of the last century. when the evaporability anomalies could attain
+about -60 mm. up to the 1960's there should be a predominance of a tendency
+to an increase in total evaporation from the ocean (Fig. 6). which should
+lead to its increase by 78 mm (by almost 27 000 km3). or by more than S! of
+its mean long-term value of 507 153 km3 (1895—1915). By the 1960's there was
+some decrease (about 22).
+
+Relatively intensive recent changes in global water exchange are causing ap-
+preciable variations in the volume of the world ocean. which during the per-
+iod from 1894 through 1975 could attain from -10 196 km3 (1916) to +9366
+km3/yesr (1916. 1961) (Fig. 3), on the average being about +316 km3 (Table
+3). The nest substantial increment in the water mass of the ocean occurred
+during the period 1908-1958. when on the average it could attain about 1103
+km3/year. and if it were not for the creation of artificial water bodies,
+holding part of the surface waters. this quantity would have attained 1118
+km3. During the period from 1894 through 1975 the ocean was supplemented
+
+by so 253 n.3, which 1. only about 6.3-10'32 of 1:. mass.
+
+The annual quantity of precipitation on the ocean surface can be determined
+approximately on the basis of the change in the main components of water ex-
+change in the world ocean: ocean volume £385cc‘n, level [380. area Focean'
+seashore slope of. evaporation zocean' river 'ocean' underground "ocean and
+glacier runoff Aocean‘
+
+Asuocean ' llnocean(yocesn + adsn°C¢Bn)'
+
+xocean ' zocean ' Yocean ' uocean ' Aocean +£3"ocean'
+
+The quantity of precipitation at the ocean surface can also be determined ap-
+proximately using an equation taking into account evaporation zoceano incre-
+ment of the volume of ocean waters roean and anomalies of mean sea surface
+temperature ASto
+
+xocean I 0.98(Zocean + roean) - 108(1.48At°c“n + 1).
+
+In the long-term variation of precipitation up to 1940 there was a predom-
+inance of a tendency to its increase with a mean rate of about 500 km3/year.
+which then was replaced by a tendency to a decrease in precipitation of ap-
+proximately the same magnitude. The lowest precipitation quantities over the
+ocean probably fell in 1882, 1908. 1912 and 1916 when they must have been ap-
+proximately 30-60 mm below the mean long-term value. whereas the highest quan-
+tities. with an excess of the mean long~term value by an amount somewhat
+greater than 60 smgcorresponded to the maximum warming in the years 1938 and
+1901. The total changes in precipitation during the period from 1818 through
+1966 were a relatively low value of about :31 (Pig. 6).
+
+Thus. actual data show that with an increase in global temperature there is
+an increase in the total quantity of precipitation not only over the waters
+
+of the world ocean. but also in general over the territory of both the entire
+earth and the continents. It must be remembered that the distribution of
+
+12
+
+FOIlOIIﬂCJAl.USE(DNLY
+FOR OFFICIAL USE ONLY
+
+precipitation over the territory of the land will change considerably: the
+coastal regions and the oceanic slopes should experience a considerable
+increase in precipitation. whereas in the intracontinental regions during
+periods of considerable warnings (1°C) the precipitation should be reduced.
+
+One of the most important problems is a clarification of the possible changes
+in global water exchange in the future. The investigations which have been
+made show that these changes will be very closely related to variations in
+climatic conditions at the earth's surface and the development of the influ-
+ence exerted by man's activity on natural processes.
+
+An analysis of the variability of the elements of global heat exchange by
+means of autocorrelation functions indicated that there is a definite lag
+
+in these elements relative to climatic fluctuations. For example, the level
+of the world ocean has a lag relative to quite large variations in global
+temperature by 11 years. the ground water level -- by 12 years. the level of
+the Caspian Sea - by 15 years. the level of lakes without runoff - on the
+average by 6 years. etc. This circumstance makes it possible with a definite
+degree of reliability to foresee possible changes in individual elements
+
+of water exchange in the immediate future.
+
+An investigation of the components of global water exchange shows that at
+the present time the tendencies in their changes are determined primarily
+by a relatively increased (by 0.5’C) air temperature at the earth's surface.
+
+The computations show that even if the climatic conditions existing at the
+present time remain unchanged, at least over the course of a decade one
+should expect retention of existing tendencies in change in water balance
+components. This is associated primarily with the warming in the 20th cen-
+tury. as a result of which the equilibrium of water exchange changed. Thus.
+the level of the world ocean will also in the future continue to rise at a
+rate of about 1-2 I- per year, which will lead to a further replenishment of
+its water mass and a corresponding reduction of the water reserves on the
+territory of the land.
+
+To be sure. it must be taken into account that if there are significant changes
+in climatic conditions. accordingly in the future fluctuations of water bal-
+ance elements may occur more sharply.
+
+There is much evidence in archeology. in the accumulation of sedimentary strata
+in water bodies, in peat bogs. in dendrology and in glaciology that climatic
+conditions in many cases were characterised by far sharper variations than
+
+have been recordered during the period of instrumental observations.
+
+The investigations made under the direction of H. I. Budyko [5], V. Broecker
+[23]. J. Hercer [25] and some other scientists show that as a result of the
+anthropogenic effect. in the future. about the year 2000, one should expect
+a global warming of approximately l’C. and in the more remote future. an
+
+even greater warming. This can lead to very significant changes in the global
+water exchange system.
+
+13
+
+FOIiOFFKJAl.USI(NVLY
+FORIOFFKJAI.USE(NVLY
+
+An investigation of water balance relationships of the volumes of waters on
+the surface of the earth. waters of the ocean H . waters of the land
+
+"land' with allowance for the relationship of tggeggrresponding areas 'esrth.
+Pocean- Fland and their possible changes Al’ocun, A in . elements of water
+exchange of the ocean (precipitation ‘ocean' evaporation ocean, inflow of
+surface waters Yocean' and its changes with time ASYO, ocean level “0' 1330).
+corresponding elements of water exchange of the land xland, zland' Yland9 as
+
+a function of anomalies of global tenperature‘A t. meridional temperature gra-
+dient A‘I’ and change of all components with time '1‘ using a series of water
+balance equations. such as
+
+wearth ' "ocean + "land' l’lsnd ' Pearth (zocean ' xocean/"ocean 4'
+
+Yocean + zocean ' xocean’
+
+T'T—X—T' H,-_I.__"s'¢_.__
+.- 9‘ Cl X._r°, x
+
+“mi (2.—
+
+l!
+
+(ta-xo-Ys)
+XIII ‘+H.-—m:———‘T—.—- I,
+. (A —Z "Yc,mi+r¢Yg
+
+[0 - ocean; c - land; 3 - earth]
+and also the correlation equations
+
+“ocean ' “An. X1.“ - ﬂown. 21m).
+zocean ' f(15t)o zland . f(£3t. xland' Yland)’
+
+xocean ' “zocean’ “occur A t), Y1.“ " fauna. 118,“)
+
+made it possible to model processes of global water exchange and carry out
+conputations using an electronic computer. This made it possible to determine
+the limits of changes in the elements of global water exchange with corres-
+ponding fluctuations of thermal conditions at the earth's surface. It has
+therefore been established that in the case of a global cooling by l‘C in
+comparison with present-day conditions evaporation from the ocean will be
+reduced by ‘2 and precipitation at its surface will be reduced by 32; the
+ocean level will be reduced by approximately 7 cm. 0n the land in this case
+there should also be a reduction of precipitation by 162, a decrease in evap-
+oration by 122 and a dropoff of river runoff by 182 with a simultaneous in-
+crease in the reserves of surface waters by approximately 167 kn3/year.
+
+Hith an increase in temperature at the earth's surface, which in the opinion
+of many scientists is now more realistic, there will be an increase in the
+intensity of global heat exchange and an increase in all water balance con-
+ponents. For example. a temperature increase by 2.5‘C should cause an in-
+crease in evaporation of the ocean by 151. an increase in precipitation over
+
+16
+FOI‘OFFKJAI.USE(HVLY
+FOI.OITW(]AI.USE1DNLN
+
+it by 121. whereas over the land precipitation. evaporation and runoff will
+increase on the average by 66~471 with a simultaneous decrease in water re-
+serves by approximately £60 ka3lyear. which in turn would lead to an increase
+in the level of the world ocean as a ainiaul by 180 In.
+
+It should be noted that the results of evaluation of possible changes in
+water exchange, to be sure, reflect extre-ely general characteristics which
+can be a background for nore real changes in specific regions. For example.
+although precipitation over the land during a warning will in general in-
+crease, in the intracontinental regions it can be reduced as a result of a
+reduction in the intensity of circulation during warning due to the evening-
+out of temperatures. The results also do not take into account during a warm-
+ing of the gradual reduction in the area of the snow and ice cover. which
+can exert a considerable influence both on evaporation processes and on heat
+exchange. In addition. no allowance was made for the increase in cloud cover
+and the quantity of water vapor in the atmosphere and this can reduce the
+effect of an increase in temperature and evaporation and some other factors
+whose influence for the time being cannot be evaluated with sufficient ac-
+
+curacy.
+
+Uarming can also lead to other significant changes in water exchange. For ex-
+ample. there can be a decay of the glacier cover in the western part of the
+Antarctic and this would cause a considerable replenishment of the world
+ocean with an intensive rise in its level with a rate up to tens of centi-
+
+meters per year.
+BIBLIOGRAPHY
+
+l. Budyko, H. 1.. TEPLOVOY BALANS ZEHNOY POVERXHNOSTI (Heat Balance of the
+Earth's Surface), Leningrad. Gidrometeoizdat, 1956.
+
+2. Budyko, H. l. and Vinnikov, K. Ya.. "Recent Climatic Changes." HETBOR-
+OLOGIYA I CIDROLOGIYA (Meteorology and Hydrology). No 9. 1973.
+
+3. Budyko. H. 1., SOVREHENNYYB IZHEﬂENIYA KLIHATA (Modern Climatic Changes),
+Leningrad. Cidrometeoizdat. 1977.
+
+6. Budyko, H. I. and Vinnikov. K. Ya., "Global Warming,” METEOROLOGIYA I
+GIDROLOGIYA, No 7. 1976.
+
+S. Budyko. H. 1.. Vinnikov, K. Ya., Drozdov. 0. A. and Yefiuova. N. A..
+"Impending Cliaatic Changes." IZV. AN SSSR: SER. GEOGRAF. (News of the
+
+USSR Academy of Sciences: Geographical Series). No 6. 1978.
+
+6. Vinogradov. 0. N.. Konovalova. C. I. and Pisareva. T. V., "New Data on
+Glaciological Characterization of the Modern Glaciers of the Caucasus
+and Their Evolution in the 20th Century," MATERIAL! GLYATSIOLOG. ISSLED.
+
+KHRONIKA. OBSUZHDENIYA (Materials of Glaciological Research. News. Dis-
+cussion). No 27. Moscow. I976.
+
+15
+
+F0810FFKJAI.USEiDNLY
+7.
+
+9.
+
+10.
+
+ll.
+
+12.
+
+13.
+
+1‘.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+FOR OFFICIAL USE ONLY
+
+Droadov. 0. A.. "Correlation Detveen Hoietenins and the Thermal Regine
+During Cliutic Fluctuations." WWIYA I GIDROIDGIYA, No 6. 1977.
+
+Zubenok. 1.. 1.. ISPARENIYE RA ROUTINE“!!! (Evaporation on the Continents).
+Leningrad. Gidroneteoizdat. 197$.
+
+ulge. R. L. "(mange in Hater Resources of Lakes Rithout Runoff."
+WIROVANIYE VODNYKB RBSURSOV (Forution of Hater Resources). In-t Geo-
+grafii A]! $583. 1976.
+
+misc, ll. L. ”Ebdern Changes of Sone Co-ponents of the Global Hater Bx-
+change." VODNYYB RBSURSY (Hater Resources). no 2. 1979.
+
+Klige. R. 1.. IS‘rORlYA PORKIROVARIYA WWW VOD GIDROSPEPX (lis-
+tory of Formation 'of Surface Haters of the Hydroephere." Author's Sue-
+eary of Dissertation for Award of Acadenic Degree of Doctor of Geograph-
+ical Sciences. Moscow. IVP AN SSSR. 1980.
+
+Kovalevskiy. V. 8.. HNOGOLETNIYE ROLEBANIYA 030W PODZEHNYRB VOD 1 POD-
+ZD‘INOGO STOKA (Long-Tera Variations of Ground Water Level and Underground
+Runoff). Moecou. Nauka. 1976.
+
+Hezentsev. V. 8.. RASCHETY VODNOGO BALANSA (Rater Balance Calputations).
+ank. 0.81011. 1976.
+
+Hezentsev. V. S. and Karsntswich. I. V.. WS‘I' ZAPADIIO-SIBIRSKOY
+RAVNINY Obiatening of the Heat Siberian 'Plain). Leningrad. Gidroneteoir-
+
+(Int, 1969.
+
+HIROVOY VODNYY BALANS I VODNYYE RESURSY ZDILI (Horld Hater Balance and
+the Earth's Water Resources). Leningrad. Gidroneteoizdat. 1975.
+
+Petrov. v. IL. Amosmmovz PITA!!!“ LEDNIKOVOGO POKROVA ANTARK‘I‘IDY
+(Atmospheric Feeding of Glacier Cover of Antarctica). Leningrad. Gidro-
+neteoirdat. 1975.
+
+Strokina. L. A. and Khrol. V. P.. ISPARENIYB. FRESNOVODNYY BALANS. HIROVOY
+VODNYY BALANS I VODNYYE RESURSY 2M! (evaporation. Presh-ﬂater Balance
+and Hater Resources of Earth). Leningrad. Gidroneteoudet. 197‘.
+
+Tyurk. I... BALANS POCINBNNOY VLAGI (Balance of Soil Moisture). Leningrad.
+Cidroeeteoizdat. 1958.
+
+Khodakov. V. 6.. VODNO-LEDOVYY BALANS RAYONOV 50W I DREWEGO
+OLBDENENIYA SSSR (Hater-Ice Balance of Regions of Ancient and Modern
+Glaciation in the USSR). Hoscov. Nauka. 1978.
+
+Shnitnikov. A. V.. "Variations of Climate and Total Hoietening in the
+
+lath-20th Centuries and Their Future," IZVES‘I‘IYA V00 (News of the All-
+Union Geographical Society), Vol 107. lb 6. 1975.
+
+16
+POIOFHCIALlBEONLY
+2|.
+
+22.
+
+23.
+
+21c.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+FOR OFFICIAL USE ONLY
+
+Angel. J. K. and Korshover. J.. "Bstilate of the Global Change in Tel-
+perature. Surface to 100 ab. Between 1958 and 1975." In“. HEATHER 1131]..
+Vol 105. 1977.
+
+Bradley. s. and Bnyland. J.. "Volcanic Dust Influence on Glacier Mass
+Balance at High Latitudes. " NATURE. Vol 271. No 5647. 1978.
+
+Broecker. H. S.. "Cliaatic Change: Are We on the Brink of a Pronounced
+Global warning?" SCIENCE. Vol 189. 1975.
+
+Kite. GJJ. and Reid. 1. A.. "Voluetric Change of the Athabasca Glacier
+Over the Last 100 Years." J. “D1101... Vol 32. No 3-1.. 1977.
+
+Kutzbach. J. 8.. FLUCTUATIONS 0P CLWZ‘B. l-IONITORIIJG AND HODELLIM. HMO
+501.1... 1976.
+
+Mercer. J. IL. "Heat Antarctic Ice Sheet and 602 Greenhouse Effect; A
+Threat of Disaster." NATURE. Vol 271. 1978.
+
+Mitchell. J. 11.. "The Effect of Ataos :heric Aerosols on Cliaste with
+Special Reference to Teaperature Near the Earth's Surface." J. APPL.
+HETBOROL.. V01 10. No 6, 1971.
+
+Patzelt. G.. "Statistic der Hassemeasungen an den Osterreichischen
+Gletschern 1960 his 1975." 2. GLs'rscm UNI) GLAZIALGEOL.. 12. No l. 1976.
+
+Schverdtfeger. w., "Annual Temperature and Ice Condition Changes in the
+Antarctic Peninsula Area." MARC. J.. D. 8.. Vol 11. No 3. 1976.
+
+Seckel. H.. "liohenanderungen in Gronlandischen Inlandeis ZVischen 1959
+und 1968." EXP. GLAC. INTER. GREENLAND, Vol 3, No 5. 1977.
+
+WORLD WEATHER RECORDS, No 1-36, Hashinston. D. 0.. 1910-1975.
+
+17
+FOR OFFICIAL USE ONLY
+POI OFFICIAL USE ONLY
+
+HAVE “MS 1!! W LATITUDES
+
+iT‘scow METEOROIDGIYA I GIDROLOGIYA in Russian ho 5, May 82 (manuscript
+received 1 Jul 81) pp 31-61
+
+[Article by N. R. Radzhapov. Tashkent Polytechnic Institute]
+
+[Abstract] One of the siaple nethods for studying complex atmospheric pro-
+cesses is their representation in the form of the sum of elementary waves.
+HDVevel’, in the low latitudes the construction of wave solutions is cosplicat-
+ed by two factors: for the narrow equatorial zone with a width of shout 500
+In on each side of the equator the system of equations in hydrodynamics is es-
+sentially nonlinear and the Coriolis force at the equator becomes equal to
+zero. Quasigeostrophicity therefore cannot be used for mscroscale movements.
+Accordingly, the simplification of the equations of atmospheric dynamics and
+the methods for their analysis by means of breakdown into elementary waves,
+co-only used for the middle latitudes. when applied to the low latitudes
+
+lead to extremely different results, depending on what siwlifications are
+used in a specific model. In the low latitudes the principal types of waves are
+Rosshy and Kelvin waves. In mat studies of low-latitude wave movaents the
+authors have neglected the second component of Coriolis acceleration (sin if )3
+it is small. but at the equator it is the only term which is significant. The
+author here reviews this problem. examining questions related to the finding
+of wave solutions and their interpretation froe a system of equations in hy-
+drodynamics correct for latitudes 5-15' within the framework of a purely zonal
+model. The Dobryshasn system of equations is used as a point of departure. The
+presence of variable coefficients (sin 9’ . cos 4! ) greatly conplicates anal-
+ysis of this system. which is utremsly sensitive to what transformations are
+made with these variable coefficients. Three variants of wave solutions are
+outlined. The examined variants show that the results are essentially dependent
+on the procedure for siaplifying the initial system of equations. Examples are
+presented which show how the dispersion expression and the solution of the
+equations are modified with the neglecting of smell terms. It is shown that
+allowance for vertical velocity limits the number of wave solutions for long
+waves to n - 5. Figures 2; references 5: 3 Russian. 2 Western.
+
+18
+
+MWWONLY
+FOR OFFICIAL USE ONLY
+
+00C 551.575.1+551.501.816
+LIOAR SERSIIG Ol’ ORIGIl AII‘D BVOLUTIOI 0? MIA?!“ MS
+
+Moscow WNWIYA l GIDRO‘IDGITA in Russian No 5, Hay 82 (manuscript
+received ll- Aug 81) PP #241
+
+[Article by A. Te. ‘l‘yabotov, candidate of physical and mathematical sciences.
+and A. P. Tikhonov. Central Aerological Observatory]
+
+[Abstract] A study was nade of the possibility of using a lidsr for determin-
+ing the predictors of formation and dispersal of radiation fogs and ascer—
+taining their difference from other neteorological phenomena. The method ela-
+ployed is based on measurements of the scattering coefficients at two wave-
+lengths. such as 0.53pm and 1.06pm. For small particles (?< 1.1.1:) the val-
+ue of the scattering coefficient 0' at the wavelength 31 is several times
+greater than for ). . During water vapor condensation the size of the par-
+ticles increases a therefore the difference in 5' will decrease. evidence of
+a fog formation process. with the appearance of a dense haze and fog 0";15
+a; . In this case the degree of polarisation begins to decrease due to mul-
+tiple scattering. which depolarises the signal to a considerable degree. The
+method for investigating the dynsnics of formation and scattering of a for
+
+is thus based on measurement of the degree of polarization P and the ratio
+
+of the scattering coefficients 012/011. this giving information mostly on
+the beginning of formation of a fog and the stage in its development. The ex-
+perinental studies were made in the regions of Dolgoprudnyy. Ryl'sk and Kish—
+inev during 1976-1978. The measurements at the mentioned wavelengths were
+made using a two—frequency lidsr at the mentioned wavelengths. A total of 235
+series of measurements were made at different seasons of the year and differ-
+ent times of day. These measurements were accompanied by observations of tee-
+pernture. haidity and meteorological range of visibility. It was found that
+the lidsr nathod is quite effective in the absence of precipitation. Specific
+examples are discussed. The lidsr is demonstrated to be an effective tool for
+the meteorological service for making short-range forecasts of the appearance
+and dispersal of radiation fogs. figures 2, tables 2: references: 6 Russian.
+
+19
+
+FOR OFFICIAL IS! ONLY
+IIIICIWNCJAI.0581MNLY
+
+“DC 551.577.7+551.510.72(99)
+
+APPLICATION 07 ISOTOPIC GLACIOLOGY “21300 FOR STUDYING NUCLEAR SHOT PRODUCTS
+IN ANTARCTICA
+
+Noscow METEOROLOGIYA I GIDROLOGIYA in Russian No S, May 82 (manuscript
+received 10 Aug 81) pp ‘8-55
+
+[Article by Ye. N. Davydov and K. P. Hakhon'ko, candidate of physical and math-
+enatical sciences. Institute of Experimental Meteorology]
+
+[Abstract] Over a period of years the senior author carried out a layer-by-
+layer sampling of firs and ice samples in Antarctica in the neighborhood of
+Hirnyy. Holoderhnaya. Bellinsgausen and Vostok stations. Dating of layers was
+by the stratigraphic method and on the basis of the content of dust particles.
+On this basis it was possible to analyse the conposition of the snow cover in
+different parts of the continent. Table 1 gives thI ioncentrations of radio-
+nuclides (3:7. In“, 2:95 + Nb”, M106, c.137. 0e ‘ . eel“) in the upper ice
+laye' for i969. 1970 and 1971. The observed isotopic composition is attribut-
+utle to a mixture of fission fragments and activation products from nuclear
+shots set off in both the northern a‘d southern hemispheres. The teaporal
+changes in radioactive fallout and t e concentration of long-lived nuclides in
+Antarctica has a pattern similar to that for the northern hemisphere. The low-
+er levels of radioactive contamination and their temporal lag after 1963 are
+attributable to the fact that the pr‘ncipsl source of radioactive products of
+nuclear shots during this period was the northern hemisphere stratosphere. Dur-
+ing stratospheric transport most of the radioactive products were lost from the
+atmosphere in the northern heaisphere so that only a small part reached the
+southern henisphere after 2 year. Hater vapor is transported across the equa-
+tor and reaches the Antarctic continent more rapidly than the aerosol products
+of nuclear explosions, the reason for this being unclear for the tine being.
+
+A aethod is outlined for coaputing atmospheric fallout and atnospheric con-
+ccntration of these products in preceding years when direct measurements were
+not made. Also discussed is the transformation of the properties of an aerosol
+during its transport from the northern heaisphere to the shores of Antarctica.
+The time required for the noveasnt of air masses iron the northern hemisphere
+into the southern hemisphere in the troposphere and stratosphere was ascer-
+tained, as was the time of half-elimination from the stratosphere in the south
+polar region. Pigures 3, tables #3 references 17: 10 Russian. 7 western.
+
+20
+
+IN)! OFFICIAI.lEﬂE(lWlM
+FOR OFFICIAL USE ONLY
+
+000 566.69:631.4(670.31l)
+
+EXPERIMENTAL EVALUATION OF SOME PARAMETERS OP MERCURY MIGRATION IN SOIL
+SURFACE LAYER
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 5. Hay 82 (manuscript
+received 16 Jul 81) pp 56-63
+
+[Article by B. K. Blinov, Institute of Experimental Meteorology]
+
+[Abstract] A field experiment was carried out for ascertaining the character-
+istics of migration of mercury from the soil surface layer. The work was done
+in two water-balance areas each measuring 100 m2. In the spring of 1976 mer-
+cury sulfate was applied on the snow cover of one of these areas, whereas
+
+the other area served as a control. The analysis of samples was made by the
+atomic-absorption method using a HAS-50 spectrophotometer and the mean stan-
+dard error in the determination did not exceed 10!. Mercury profiles in the
+soil of the experimental sector were determined 0.5, 1.5, 2.5 and 3.5 years
+after onset of the experiment. It was determined that the principal role in
+the transport of Hg from the surface layer is played by evaporation. During
+the warm season of the year about 602 of the mercury present in the surface
+layer passes into the air. The rate of evaporation for-Moscow Oblast is char-
+acterized by an evaporation coefficient equal to l.52¢0.42 year'l. The next
+most important process is transport of Hg into the depth of the soil; as a
+result of Hg transport into the underlying layers from the horizon 0-10 cm
+about 161 of the annual surface receipts of ﬁg disappears into the depth of
+the soil. Runoff carries away abzut $2 of the surface receipts; the runoff
+coefficient is l.5°10"10.32'10‘ am'l. No more than 0.52 passes into plants
+and is removed with the harvest; this is described by the biological absorp-
+tion coefficient, which for grain crops is equal to 0.510.2. The data pre-
+sented here can be used in predicting the contamination of soddy-podzolic
+soils for a period up to several years. Figures 1. tables 3; references 25:
+
+2% Russian. 1 Western.
+
+21
+
+IND! OFFICJAI.USE1(HULY
+FOR'OFFNJAI.USE(NNLY
+
+UDC 551.b65.535(267.6)
+
+DYNAMIC-STOCHASTIC COHPUTATIONS 0P SEASONAL CEOSTROPBIC CIRCULATION OF SURFACE
+HATBRS IN EASTERN TROPICAL ZONE 0? INDIAN OCEAN
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 5. Hay 82 (manuscript
+:eceived lb Jul 81) pp 64-70
+
+[Article by V. A. Sokolov. candidate of physical and mathematical sciences,
+and V. B. Kholmenov, State Jceanographic Institute]
+
+[Text] Abstract: The authors describe methods for
+a diagnostic computation of currents and
+three-dimensional smoothing of density
+fields by means of which it was possible
+to determine the circulation of waters.
+The initial data are the density field of
+sea water, bottom relief and dispersion
+of these values. averaged over the area
+of 1' squares. The results of the comput-
+ations are presented in the form of vec-
+tor ...ps of our-er and winter circulation
+of surface waters of the ocean giving eval-
+uations of the accuracy in determining
+these vectors. A comparative analysis of
+the constructed pattern of currents and
+the results of investigations made earlier
+is presented.
+
+Computations of the circulation of waters were made by the method in [7. 8].
+which sakes it possible to determine the three components of the geostrophic
+velocity vector on the basis of the stipulated density field of sea water and
+bottom relief. taking into account information on the error in stipulating
+these initial data. The results of the computations are represented in the
+form of evaluations of the mathematical expectations and dispersions of cur-
+rent velocities. stable relative to the errors in stipulating the initial
+data.
+
+A stability of the results is achieved because the current velocities at each
+investigated horizon are determined from solution of an overdetermined system
+of equations whose realization is accomplished taking into account the disper-
+sions of the density field, bottom relief and the current velocity values at
+the reference horizon. The indicated system consists of the continuity
+
+22
+lNDIiOIIICIAI.lﬂlI(MVLN
+FOR OFFICIAL USE ONLY
+
+equation. integrated vertically from the surface to the bottom
+
+It ‘ 3"
+(4- awn-a?”%.V%=a-+[(Jr~-%?)J%* a»
++%’-:”%,-'dr]
+
+and two equations carrying information on the zero approximation of the sought-
+for current velocities. read from some horizon a - G at which the approximate
+current values MG) and v(G) are considered a priori known:
+
+00' a” (2)
+0—“ = —+ £1341 +;'—,41 .+9(a)-“(0)p
+
+o a
+.+.-_%(52,,.;a._ 3.55..) ”(OH-(0). m
+
+The coordinate system was situated at the undisturbed ocean surface; the 2-,
+y-, z-axes are oriented in the directions to the east, north and downward re-
+spectively. All the remaining notations are those generally employed.
+
+In this case 6 - I! and the velocities u(G) and v(G) were assumed equal to zero
+with an accuracy 1-3 cm/sec.
+
+The solution of system (1)-(3) was determined using the generalized least
+squares method (01.51!) [2]. which in comparison with the least squares method
+(L5H) [1] has the advantage that its realization is unrelated to the assmption
+of a normal law of distribution of errors in stipulation of the right-hand
+sides of the considered system of equations. The solution has the form
+
+V. (A'wAr'A'wF. (4.)
+
+12(9) - (Tr—A V)'w(7~‘—A t7).
+(5)
+
+where V'- (u, v] is the vector of evaluations of the sought-for values of the
+horizontal currents; R(V) is the covariation matrix of the V vector. A is the
+matrix of system of equations (l)-(3); ‘1’ is the vector of the right-hand sides
+of equations (l)-(3); H is a weighting matrix, determined in the form It - "‘1.
+where N is the covariation matrix of the 7 vector. The methods for stipulat-
+ing the covariation matrix N. which is a function of the second statistical
+moments of the density field. bottom relief and current velocities at the ref-
+erence horizon.were described in detail in [8].
+
+Computations of the circulation of waters were made using the mean long-term
+data on the field of densityp of sea water during the period of the sinner
+and winter seasons (northern hemisphere). He used 9079 hydrological stations
+
+23
+FOR OFFICIAL USE ONLY
+FOROFHCIALUSEONLY
+
+at which observations were made fron 1960 through 1977. The density fields
+were stipulated st 24 standard horizons in the interval fron 0 to 4000 a.
+
+At each horizon the sea water density values. averaged over the area of 1’
+squares, were snoothed. The snoothing was carried out in one of four variants:
+
+'u - c, 01501—1. 1-: + Pm. I—l + Pm. u»: 4‘ 91-1. m) + (6)
++ 030.13 (PI-1. : + Pm. p + PI. 1-: + PI. 1+1) + c. '0.” Pm.
+
+.. (7)
+9., , = c.-0.l3 (Pt-I. 1+ PM. I + Pa. 1-! + 9:. m) + W0.“ PM.
+9.1. c = c.'0,25(m-u. I + Pm. I) + 6.0.59.1. (8)
+E. I = “0350:. 1-: + 91 m) + €10,591. I. (9)
+
+where the euhscripts i and 1 indicate the sequence nunher of the point in the
+zonal and neridional directions and cl": are weighting factors dependent on
+the depth of the horizon and on the thic see of the layer of the Iain ther-
+nocline.
+
+The choice of the snoothing variant was deternined in dependence on the posi-
+tion of the point for deternining density (1. 1) relative to the contour of
+the lateral boundaries at this horizon.
+
+In those cases when not one of the enunerated snoothing variants could he
+realized the density value at the point (i. j) regained unchanged.
+
+The letter circumstance was taken into account when deternining the horizontal
+derivatives of the density field, which were deternined in the following way:
+
+a) determined from the area of a 1' square if not one of the four points situ-
+ated at its corners touched the hotton;
+
+h) were asauned equal to zero if at least one of the points touched the botton
+or was situated within its linits.
+
+we note that the snoothing fornulas (l)-(b) with the values
+
+c-l. c2-1,c3-l.cb-l. c5-1.c6-l,c1-l
+correspond to the formulas which are cited in [6].
+when carrying out snoothing of the density fields in the investigated region
+
+of the Indian Ocean we tool: the following peculiarities of the used observa-
+tional data into account:
+
+1) Host of the data were in the linits of the haroclinic layer.
+
+2) Within the linits of the lower boundary of the haroclinic layer the accuracy
+in neasuring anonalies of the hydrological fields is conensurahle with the an-
+plitude of these anonalies.
+
+2‘
+”WWW!”
+FOR OFFICIAL USE ONLY
+
+3) wi'h an increase in latitude there is an increase in the thickness of the
+barocl inic layer.
+
+Taking into account the factors enumerated above, we introduce the dependence
+of the weighting factors in formulas (6)-(9) on the depth of the lower boun-
+dary of the baroclinic layer and on the depth of the horizon at which smooth-
+ing is carried out. In determining these coefficients at the ocean surface
+smoothing was accomplished using the formulas proposed in [4) since they are
+most effective under conditions when the anplitude of changes in the density
+field exceeds the observation errors. Beyond the limits of the baroclinic
+layer the amplitude of the changes in sea water density anomalies is com-
+mensurable with or less than the accuracy of its determination. Accordingly.
+it is desirable that the filtering of these fields be carried out by scans
+
+of moving averaging over the area.
+
+In the interval between the upper and lower boundaries of the thermocline
+the weighting factors were determined from the conditions of linear conver-
+sion from the smoothing formlas to averaging. This makes it possible for
+the coefficients eye; to propose the formulas
+
+€'=QL'D:‘+I' Ca-ﬁi%-l.+l, C,-m2,+l,
+
+7 _
+t.=mz.+l, c.=—.372.+l, c‘=3—bz,+l,
+€:=“3"53|+l:
+
+where D is the depth of the lower boundary of the baroclinic layer and :1
+is determined from the expressions
+
+2 with s{ D.
+81 '
+
+D with s) I).
+
+when carrying out computations the D values changed linearly from 500 m
+at a latitude of l‘ to 1500 m at latitude 20'.
+
+In the process of smoothing of density at the hot icons situated near the bot-
+tom there can be situations when the density at some nodal points may re-
+main unchanged. Taking this circumstance into account, the values of the
+
+parameters .
+II
+
+5% S 3:62.
+
+(here 2 - x. y) are assumed to be approximstely equal to
+
+f:—: 4:. ism.
+
+where It. is the minim depth of the ocean within the limits of the invest-
+igated square.
+
+25
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+When carrying out computations the error in stipulating the smoothed val-
+ues of the density field was evaluated at 10‘5 g/cm3. a-(u(ll)). d(v(ll))
+- 3 cm/sec, whereas the accuracy in stipulating bottom relief. which was
+determined from the atlas (3]. was assumed equal to 10 m.
+
+It should be noted that in this method the computed values of the dispersions
+of currents (diagonal elements of the covariation matrix R(V)) characterize
+the consistency of equation (1) with the a priori information on current
+velocities at the reference horison, represented in equations (2) and (3).
+Information on the errors in stipulating the initial data is used in deter-
+mining the statistical weights of equations (l)-(3). For example, the in-
+crease in the errors in stipulating bottom relief and to a somewhat lesser
+degree the density field of sea water leads to a decrease in the statis-
+tical weight of equation (1), whereas an increase in the cr(u(u)). cr(v(n))
+values reduces the statistical weights of equations (2) and (3). If the
+computed values OKu) and cf(v) constitute not more than 201. this means that
+within the limits of accuracy of the geostrophic model of the circulation of
+waters. with allowance for the error in stipulating the initial data, equa-
+tion (1) and the a priori information. written in the form of equations (2)-
+(3), do not contradict one another.
+
+The following parameter was introduced for characterizing the accuracy of
+the computed values of the current vectors
+
+_ s m' + c M‘
+1 — VW— IWIQn
+
+representing an evaluation of the relative error in determining the modulus
+of the velocity vector. The computations of currents made for 1' squares
+are represented in the figure in the form of maps of summer and winter
+(northern hemisphere) circulations of waters at the surface of the investig-
+ated part of the Indian Ocean.
+
+ 
+
+On these maps the information on the accuracy of the computed fields of water
+circulation was plotted in the following way. The results were divided into
+three groups with respect to the )’coefficient. The first included the vec-
+tors with ‘YE [0. 302]. the second -- with YEIBO, 602]. and the third --
+with Y) 601. The notation of the vectors belonging to the first and second
+groups is given in explanations to the figure. The vectors belonging to the
+third group have not been plotted on the map, as a result of which gaps were
+formed in several places on them.
+
+An analysis of the results indicated that the first group included #31. the
+second group 662 and the third group 232 of the computed values of the cur-
+rent vectors. It follows from this fact that in determining currents at the
+surface in the overwhelming majority of cases the assumption of the absence
+of velocities in the bottom layer fully agrees with the geostrophic model
+of circulation of waters represented in the form of equation (5).
+
+Computations of the )’evaluation and the introduction of three gradations of
+the current vectors relative to this parameter made possible a graphic dis-
+crimination on the maps of those regions with a small. moderate and also
+
+26
+
+FOI‘OFEKJAI.US£(NNLY
+FOR OFFICIAL USE ONLY
+
+law’s R3... .75
+.0 Chi and
+..§‘§§w
+0- ‘0‘:
+I. 55.3.
+' 55=v
+4| 3.5.
+
+sake... ..
+
+'[Ir-\v"l
+
+‘
+~
+\
+N
+o
+I
+I
+a
+a
+l
+\
+
+‘l‘.’-¢.§\ oil [’05 \ |.
+Ill‘tlll‘\\ \\-O§\\a I .\\IOI
+O\\\\"IIU IC\U|OQ¢I¢
+
+(10.!!le
+\‘O..III'\
+s\\\tt\ ~ 01:!
+~\\o soa\$§o010
+Q‘s.‘ stslla.l~
+
+ll \ollll‘
+
+\oo\. \\\1. ‘~\\~
+. a-~§x$~
+\\~
+
+ 
+
+27
+
+POI OFFICIAL [BE ONLY
+INDRiOFFIC1A1.USIZ(ﬂ'LY
+
+considerable level of error in the results. which substantially simplifies
+carrying out the analysis of the constructed pattern of water circulation.
+
+In the overwhelming majority of cases the current vectors belonging to the
+second and third groups were situated in zones of weak horizontal flows, in
+the shelf zone or in the equatorial zone. that is. precisely where disruption
+of the geostrOphic balance was entirely regular. with respect to cases of the
+appearance of vectors of the second and third groups in regions with powerful
+clearly expressed flows, such as the Southern Trades Current (SIC). this
+fact. in all probability, was caused by the poor consistency of the density
+field and bottom relief.
+
+how we will proceed to a geostrophic analysis of the resulting maps of cur-
+rents. According to existing concepts [5], in the northern hemisphere the
+most significant element in the circulation of waters is the monsoonal cur-
+rent. but to this time it has not been possible to discriminate a unified
+
+flow of this current in geostrophic circulation computations [9]. Now this cur-
+rent is expressed quite clearly in the results (see Fig. 1). From winter to
+summer it changes the direction of its movement. reversing itself; it intens-
+ifies considerably (from 10-15 cm/sec in winter to 25-30 cm/sec in summer).
+and bending around Sri Lenka from the southeast. gives rise to the East Hindu-
+stan Current. The latter. as indicated by computations. also changes consid-
+erably from season to season (from 5-15 culsec in winter to 18-25 cm/sec in
+sum-er). which in turn leads to an intensification of the anticyclonic cit-
+culation of waters in the Bay of Bengal. Such a sequence in relationships in
+
+the circulation system and a numerical evaluation of the variability of the
+transport of waters were not given earlier in the literature.
+
+During winter it is possible to trace the surface equatorial countercurrent.
+whose powerful flow penetrates from west to east to the shores of Sumatra
+between 2 and ﬁ‘ﬂ. having velocities fro: 20 to 50 cm/sec. It should be noted
+that in computations made earlier [9] this phenomenon could not he discrimin-
+ated. although its existence has been mentioned in a number of studies [5.
+6]. In the summer in the area of the Andaman See it is easy to trace the
+transport of waters primarily of a northerly direction, with a width of 350-
+650 kn and an extent of more than 1000 km with velocities of about 10 cm/
+sec. which is impaired in winter. The mentioned peculiarity of circulation
+was found for the first time in computations of geostrophic currents in this
+basin.
+
+South of the equator (Fig. 1), between 8 and 10's. a branch of the STC is
+clearly manifested; it extends from is: to "NH. During summer it intensifies
+to 60 cm/sec and adjoins the shores of Java. In winter the axis of the STC is
+traced somewhat to the south and along the shores of Java there is water
+transport in an easterly direction. Such a transformation of the surface cir-
+culation systes is evidently attributable to the change in the wind regime
+
+of this region. The results agree well with the data published by V. G. Kort
+
+[5].
+
+To the north and south of the axis of the 810 it is easy to discriminate
+quasiststionary eddy formations. which confirms modern concepts concerning
+the dynamics of waters in this region [5. 12]. The sign of vorticity of these
+circulations makes it possible to judge the vertical movements of waters in
+
+28
+FOR OFFICIAL USE ONLY
+IKNIC”WWC1AI.USE(ﬂNLY
+
+these regions: to the north of the main flow of the S‘rC there is a predom-
+inance of cyclonic (southern henisphere) eddies (upwelling of waters in
+the south equatorial divergence). and to the south -- anticyclonic eddies
+(subsidence of waters in the convergence region).
+
+In sue-arising these investigations we note the following:
+
+1. In diagnostic coaputations for the first tine it was possible to obtain
+such significant elenents of the circulation of waters as the unified flow
+of the nonsoonal current. smer intensification of the equatorial counter-
+current for the distance fro- 80'! to the shores of Sumatra and seasonal
+aoveaent of the src relative to the shores of Java. which were mentioned
+earlier in the literature. Quantitative evaluations of the spatial-tenporsl
+(seasonal) variability of the enuaerated flows were given.
+
+2. The noted agreenent of the results of amputations r. .d date from the pre-
+ceding investigations indicates the effectiveness of the procedures used in
+the processing of in situ observations and therefore they can be recon-ended
+for broader introduction in the practice of oceanographic research.
+
+3. The interrelationship between su-er intensification of anticyclonic cir-
+culation of waters in the Bay of Bengal and intensification of the aonsoonal
+
+current was clarified .
+
+lo. A flow of northerly direction with a width of 350-650 In and an extent of
+more than 1000 Ian, not previously described in the literature, was found to
+exist in smer in the Andaman Sea.
+
+BI BLIOGRAPHY
+
+l. "-‘::tsel'. Ye. 8.. TBORIYA VBROYATMSTE! (Theory of Probabilities).
+Moscow. Nauka. 1966.
+
+2. Ganil'ton, U. K.. "Least Squares Method and Checking of Linear Hypothes-
+es." STATISTIKA DLYA FIZIKOV (Statistics for Physicists), Moscow. Mir.
+1970.
+
+3. GEOLOGo-GBOFIZICRBSKIY ATLAS INDIYSKOOO 0mm (Geological-Geophysical
+Ocean). Moscow. Izd-vo AN $881!. 60 Geodesii i Kartogrsfii SSSR. 1975.
+
+4. Grachev. Yu. 11.. et al.. "Hesoscsle Geostrophic '2urrents 'in the Tropical
+North Atlantic." ATLANTICHBSKIY GIDROPIZICHBSKIY l‘OLIGON-70 (Atlantic
+Geophysical Polygon-70). Moscow. Nauka. 1976.
+
+S. Kort. V. 6.. "Circulation of Surface Haters." GIDROLOGIYA INDIYSKOGO
+OKEANA (hydrology of the Indian Ocean). Moscow, Nauka, 1977.
+
+6. Kort. V. 6.. "Equatorial Currents in the Indian Ocean During the North-
+east Honsoon." OKEMCOLOGIYA (Oceanology). Vol 17, No 2. 1977.
+
+29
+FOR OFFICIAL USE ONLY
+7.
+
+9.
+
+FOIOFFICIALUSEONLY
+
+Sokolov. V. A., "One Generalization of the Dyna-1c Method." ESPRESS-
+Im‘I‘SIYA, SERIYA "RYNKROZYAYSWM ISPOL'ZOVANIY! RESURSOV KIR-
+ovoco 0mm" (Express Intonation. Series "Use of world Ocean Resources
+for Fishing"). TsNII'l'BIRIh. lbscOV. No 7. 1978.
+
+Sokolov. V. A., "Stochastic Generalieetion of the Dyna-1c Hethod for Goe-
+pntinz Currents." RUDY com (Transactions of the State Oceanographic In-
+stitute). No 156. 1981.
+
+Shcherhinin. A. 0.. “Geostrophic Circulation of Haters in the Indian
+Ocean," OMLOGIYA (Oceanology), Vol 13, lo 5, 1973.
+
+30
+
+morncutusrouu
+UDC 551.l¢65.15
+
+DETERMINING STATISTICAL CHARACTERISTICS OF PASSIVE 111?er FIELD IN SEA HATER
+USING CONSERVATIVE mam
+
+Moscow 142180110106th I GIDROWIYA in Russian No 5, May 82 (manuscript
+received 6 Jun 81) pp 71-76
+
+[Article by 8. V. Semovskiy. State Oceanographic Institute]
+
+[Abstrlctl The author has ascertained the correlation function of the field of
+a dissolved passive impurity in the open part of the sea on the basis of the
+correlation function for the salinity field. In addition, it was possible to
+ascertain the mean field of an inurity in the mouth regions of rivers on the
+basis of the lean salinity field. finally. a method was defined for determin-
+ing the self-purifying capacity of the sea medium by neans of study of the
+field of a conservative marker. In the first part of the paper it is Shown
+
+that with a known correlation function of the salinity field and a known self-
+purifying capacity of the medium it is possible to ascertain the correlation
+function of the field of a passive dissolved impurity; the fornula derived
+
+for this purpose is simple if a stationarity of field fluctuations is assumed.
+otherwise the analysis is more difficult. The discussion of the river south
+zone in the sea focuses on the behavior of a passive dissolved inurity trans-
+ported by river waters. the assuption being nsde that the river is the sole
+source of entry of the impurity into the considered part of the sea. An expres-
+sion is derived for explaining the behavior of the inurity on the assumption
+that there is a col-on nechanisn for the propagation of fresh vater and the
+impurity. If the nean salinity field in the dilution zone has been described
+
+it is possible to describe the seen field of the transported ispurity by knoving
+only the background concentrations and the nonconservativity index. The pro-
+posed methods are relatively sisple because observations of the salinity field
+are not difficult and salinity is a conservative marker of hydrochenical fields.
+having data on the statistical structure of the fields of salinity and contam-
+inating substances it is possible to evaluate the self~purifying capacity of
+the sea medium. References: 5 Russian. '
+FOROFFICIALUSEONLY
+
+UDC 551.§63.6
+INVESTIGATIOII 0? SURFACE PIDI MEAN“ m RESULTS 0? 83A OBSERVATIOIS
+
+Moscow METEOROLOGIYA I 610301.001“ in Russian No 5, May 82 (aanuscript
+received 27 Hay 81) pp 75-79
+
+[Article by V. V. Shigayev, 8. II. Drushinin and V. L. Lebedev. candidate of
+geographical sciences. Moscow State University]
+
+[Text] Abstract: The authors analyse the results of
+temperature sounding of the quite thin water-
+air interface obtained by the Multidiscipline
+Eastern Expedition of the Geography Faculty.
+ibscow State University, in the Sea of Japan
+in July-August 1980. The existence of nolec-
+ular theml conductivity film in the water
+(5" - 0.001-0.003 n) and in the air (5, -
+
+0.0005 I) was noted with a nean ratio:
+83/8, - 1/2 - 1/3. For the first tine for
+
+urine conditions it was possible to obtain
+enpirical dependences of the deviations of
+water radiation taperature. introduced by the
+file (AT), from the reaper-cure of the subsur-
+face water in dependence on the total heat
+flow (03,) and wind velocity at a height of
+10-3 0:. with "10 - 34.5 nlsec «Ar - 2.6-
+10-3 Q s with correlation coefficients 0.93 and
+0.90. The applicability of the correlation co-
+efficient value A - 0.25 between the Russelt
+and hayleigh nubers is denonstrated; this
+ashes it possible to deternine AT during
+call weather and periods of little wind.
+
+Tue basis for the design of the ewloyed thernosonde was the work of Ye. c.
+Andreyev and G. G. Khundzhua [2]. Registry was in the coastal zone of the sea
+from a stall float at a distance of 20-30 a fron the ship; this eeall float
+was connected to the ship's side by a cable which was supported by other
+can floats. The relative temperature was registered at the sane tine by an
+auto-tic recorder at a scale of 1:1 and was photographed fron the screen of
+an oscillogreph. The sensor used was a copper-droplet thernoconple with a wire
+
+32
+FOIOFFICIALUSIONLY
+FOIIOFFWCJAI.IISEINULV
+
+diameter of 30,;n. The sounding rate was about 0.11 n/sec. The error in seas-
+uring tesperature at a stipulated depth was about 0.05'c and was determined
+using the foreula [9]
+
+araeo% (1)
+
+where 9 is the thermal inertia tine of the sensing junction of the thermo-
+couple. detersined experimentally (2.0v10'3 sec). v is the rate of subaergence
+of the teaperature sensor. 31/32 is the neasured tenperature gradient.
+
+The depth of subaergence of the thermosonde in the sea is -0.10 a. There was
+registry of about 600 continuous teeperature profiles in the water and air
+from the float in series with sounding intervals of 1-2 ninutes.
+
+Parallely with operation of the theraosonde, specialists on the ship at inter-
+vals of 15-30 minutes carried out observations of air humidity. wind and water
+temperature at the horizon 0.5 a.
+
+In order to systelatire the tsnperature profiles the observation oeriod was
+broken down into several groups. The principal criterion in discriminating the
+groups was wind conditions. Other characteristics (eo-elo -- the difference in
+saturation elasticity directly over the water and water vapor saturation elas-
+ticity at a height of 10 n; T; - T. -- the temperature difference between
+water at a depth of 0.6 a and air temperature at a height of 10 n) to a greater
+or lesser degree changed as a result of changes in wind speed.
+
+The tesperature profiles were registered at two scales: on the automatic record-
+
+er ar a scale of 1:1 and with 10* enlargement on the photographed oscillograph
+screen. ’ ’ ‘3 ‘r‘
+
+l
+
+I 11." 11"
+
+Fig. 1. Vertical profiles of teeperature obtained under forced convection con-
+ditions by sounding upper water layer at a scale 1:1 on 20 August 1980.
+
+Figure I shows a characteristic example of a small-scale temperature profile
+record. 0n virtually all the profiles near the surface as a rule it is pos-
+sible to discriminate viscous air and water sublayers with a thickness of
+about 0.001-0.003 a. detectable on the photographs froa the oscillograph
+screen from sectors with a linear distribution of teaperature. corresponding
+to a constant theraal conductivity coefficient. The approximate relationship
+of the thicknesses of these layers is ‘6./ 5w - 1/2 - 1/3. The latter agrees
+with the theoretical predictions of Kraus [7].
+
+33
+F0!‘0FF"JAI.USE(NVLY
+non OFFICIAL USE ONLY
+
+In most cases there was registry of a cold film (ST - 1-3'c (about 702 of
+the cases). In many cases the film had a poorly expressed character; in 101
+of the cases there was a wars file with AT up to 3'0.
+
+The thickness of the surface temperature film changed constantly with time
+(from 0 to 0.006 m); there was also a change in the temperature drop in it.
+Thus, a film is a pulsating natural formation.
+
+An attempt was made to find the value of the teaperature correction le in-
+troduced by the film to the teaperature of the sea surface at different wind
+velocity and heat balance values for the surface water layer of about 0.003
+m. Two computation schemes were used. In the first the balance was computed
+using the standard method using the formulas for the heat flow due to evapor-
+ation and condensation QB and contact heat exchange 03 [S]:
+
+Q.- 5. s7 :04 (ox-+0. 0'77 U...) (c.—'e'..7. (2)
+Qu" — 3.87 10"(0.2G + 0.07? Us“ Tm " T. ‘- (3)
+
+Effective radiation Qeff was computed using oceanographic tables with the use
+of the observed cloud cover and humidity values. The purpose of processing of
+the results was an examination of the convergence of the sign of the sum Q;
++ Q“ + Qeff and the "sign" of the film. The result indicated a partial con-
+vergence of the signs. A hypothesis can be formulated along these lines.
+
+The excessively strong simplification of the computation scheme did not make
+it possible to achieve sufficiently precise results. The computations were
+complicated also by the fact that 202 of the measurements were made in a fog
+and more than 302 under calm conditions. The accuracy of formulas (2) and (3)
+under these conditions is considerably reduced. There is no correction for
+
+a fog for the computation formulas. Many researchers have met with such dif-
+ficulties [6].
+
+The second computation scheme involved computing the total heat flow in the
+temperature gradient in the part of the temperature profile which is close to
+linear, directly bounding with the water-air surface. The sector of molecular
+thereal conductivity is sometises identified with a linear temperature dis-
+tribution. but this is correct only under stationery conditions. Aasuaing
+that the boundary of the phases does not have a thickness and there is no
+heat accumulation in it. we can write the expression
+
+x"—’ '°g+qn+qeff'93, (A)
+
+us no
+where|}\is'the thereal conductivity coefficient.
+
+The temperature gradient necessary for the computations is determined from the
+oscillograph photographs. With respect to the flow of solar heat (Q ), for the
+heat balance of the film the only factor of importance is its absorption within
+the limits of the film (0. 001-0. 003 m). This absorption was not taken into ac-
+count in our work (as in many other investigations. such as [9]) and this did
+not make it possible to determine the conditions for foreation of the warm
+
+36
+FOI¢NHﬂCIAl.USE(HNLY
+FOR OFFICIAL USE ONLY
+
+fllm. Data on the absorption of radiation in the layer 0.001 m are given in
+[8]. The values of the Q; parameter, regardless of the method for its deter-
+aination. make it possible to check and refine the formulas relating the
+total temperature drop in the film (including the linear and nonlinear parts
+of the profile) with the wind and heat balance. We note the circumstance
+that when determining Q; from the tuperature gradient use was not made of
+the total temperature drop, but the tangent of the profile slope in its
+"linear" part in contact with the sea surface.
+
+The Saunders formula [12] has come into wide use; it is based on the theory
+of dimensionalities
+
+3T:‘——r.— (5)
+
+where 1/ is the nolecular kinematic viscosity of water, 6 is wind shearing
+stress, ,0" is water density. ;\ is the coefficient of molecular thermal
+conductivity. 1: is a dimensionless coefficient which, according to the
+Saunders theoretical evaluations, is equal to 5-10.
+
+  
+
+r an as as: gamma 9» J/(I°9¢¢)
+Pig. 2. Dependence AT - f(Qz) in forced convection regime with different
+wind speeds at height of 10 m. l) 010 - 2 mlsac; 2) ”10 - 3.04.5 m/sec.
+
+“asse- [10] simplifies formula (5), conbining little-changing factors into the
+dimensional coefficient C and replacing friction velocity (1: IF")1/2 by vel-
+ocity at the stipulated height ”10‘
+
+a r": cow“, (6)
+
+It is known from measurements in wind tunnels and channels that C changes
+little from the depth from which the teaperature deviation introduced by the
+film AT is reckoned (C - 9.6 for 0.25 m and 9.9 for l II when measuring Q
+
+in cal/(cmz-min). "10 in m/sec).
+
+ﬂasse discovered that equation (6) corresponds to observations in the sea
+in the range of wind velocities Lbs-11.35 m/sec (AT was read from the hor-
+izon 0.35 m). A better approximation was attained with C - 9.2.
+
+The processing of our sea observations of 1980 indicated that for a cold film
+
+in the case of forced convection (”1070-5 mine) and in the absence of fog
+the best results are given by the formula
+
+2
+AT-0,23+6.|G.lo.goxlu'o (02 in "In ), (7)
+
+3S
+
+MOFHCIALUSEONLY
+ETHICNNNCJAI.IEHE(HULV
+
+In the case of a fog (about 120 observations) the values of the constants in
+the formula change:
+
+A 1-0.39+A.05- l0-’ 02W» (8)
+
+the correlation coefficients for formulae (7) and (0) are equal to 0.59 and
+0.79.
+
+The temperature correction formula for a cold film. generalized for the en-
+tire mass of data (about 660 observations in 1980) for wind velocities 0.5-6.1
+
+I/sec, has the following form:
+A T-0.24 +4.58- Io-3 Q,/U.,, (9)
+
+In the derivation of formulae (7). (0) and (9) the temperature deviation in
+the film was computed as the temperature difference at the surface and at
+
+the depth where the total temperature drop of the film was attained. which
+excluded the distortions which can be introduced into the computations with
+
+teaperature changes in the diurnal thermocline [13}.
+
+For small wind velocity ranges from the mess of ‘00 profiles we derived for-
+mulas for a cold film with high correlation coefficients (0.93 and 0.90) for
+
+a wind with a velocity 3-6.5 m/aec (Pig: 2)
+
+A 1.2.5- 104 0,. (1°)
+For a wind with a velocity of about 2 Blue
+A 7-0.56« 10-: Qr- (11)
+
+For clarifying the dependence of 41' on Q in the case of free convection
+("10‘ 0.5 m/sec) in the case of a cold filtm we take the relationship between
+
+N“-AR.I'
+
+0:
+
+Nu:= -T;fﬁ—o
+
+7. . V are the coefficients of molecular thermal diffusivity and the kinematic
+viscosity of water. on is the coefficient of volumetric thermal expansion.
+
+8 is film thickness.
+
+where
+R. = gs .\ Tb'lu.
+
+0n the basis of (12) the temperature drop in the film is
+6 T- H" (rec,v.l'lv)""Q:". (13)
+where cp is the specific heat capacity of water at constant pressure.
+
+It follows from formula (12) and the theory of dimensionalitiea that h must
+be equal to 1/3. For determining the A coefficient we carried out a number
+of laboratory experiments (but not one see measurement). According to labor-
+story investigations. the A value is close to 0.22-0.25 [3. lo].
+
+36
+
+FOIOFFICIALUSIONLY
+FOR OFFICIAL USE ONLY
+
+u.- constructed a graph of the dependence of AT on Q: for free convection
+conditions. This demonstrated that formula (13) approximates well the re-
+sults of the sea measurements analyzed vith A - 0.25.
+
+An attempt to construct the dependence of A T and 6' only on wind velocity.
+bypassing data on the heat balance. did not give stable results. It is only
+possible to speak of a tendency in the direction of a decrease in A ‘l‘ and
+.5 with an increase in wind velocity for the cold film and an opposite ten-
+dency for a warm film.
+
+As noted above. for an analysis of the conditions of formation of a warm
+film it is necessary to have data on the absorption of radiation in the
+upper layer of water 0.001 m. Our «tune to relate the appearance of a
+warm film only to the Bowen number (Bo - (la/QB) did not give a stable cor-
+relation.
+
+Thus. the interesting and poorly studied phenomenon of a warm film undoubt-
+edly will require a more complete allowance for the heat balance components.
+
+BIBL IOGRAPHY
+
+l. Ayzatullin. T. A.. Lebedev. V. 1.. and Khaylov. K. 11.. OKEAN. AKTIVNYYB
+POVRRKHNOSTI I ZHIZN' (The Ocean. Active Surfaces and Life). Leningrad.
+Cidroueteoizdat. 1979.
+
+7. Andreyev, Ye. 6.. Curov. V. V. and Khundzhua. G. 6.. "Method and Instru-
+mentation for Registering the Continuous Temperature Profile. Fluctua-
+tions of Current Velocity Components and Temperature in the Thin Surface
+Layer of the Sea." HATERIALY V VSESOYUZNOY KONFBRENTSII P0 TEPLO— I
+MASSOOBHENU (Materials of the 5th All-Union Conference on Heat and Mass
+Exchange). Vol 10. Kiev. 1976.
+
+3. Ginzburg. A. 1.. Zatsepin. A. G. and Fedorov. K. N.. "Laboratory Inves-
+tigation of the fine Structure of the Thermal Boundary Layer in the
+Water at the Hater-Air Interface." HBLKaiASSIiTABuAYA IZHENCHIVOST' POLYA
+TEMPERATURY V OKEANE (Hicroscale Variability of Temperature Field in
+Ocean), Izd-vo AN SSSR. 1977.
+
+1.. Ginsburg. A. I. and Fedorov. K. N., "Laboratory Investigation of Cooling
+of Hater From Surface in Dependence on Heat Exchange Conditions Between
+Water and Air." HEZOMASSRTABNAYA IZHENCHIVOST' POLYA TWERATURY V OWE
+(Hesoscale Variability of Temperature Field in Ocean). Izd-vo AN SSSR.
+1977.
+
+Ivanov. A.. VVEDENIYE V OKEAROGRAFIYU (Introduction to Oceanography). Hos-
+cow. Mir. 1978.
+
+V1
+e
+
+6. Kitaygorodskiy. S. A.. FIZIKA VZAIHODBYSTVIYA ATHOSPERY I OKEANA (Physics
+of Interaction Between the Atmosphere and Ocean). Leningrad. Gidrometeo-
+izdat. 1970.
+
+37
+FOR OFFICIAL USE ONLY
+10.
+
+11.
+
+12.
+
+13.
+
+FOR OFFICIAL USE ONLY
+
+Kraus. Ye. 3.. VZAWDEYSTVIYB ATHOSPERY I OKEANA (Interaction Between
+the Atmosphere and Ocean) , Leningrad, Gidroneteoizdat, 1976.
+
+Panin. G. N., Volkova. 2. V. and Taerevitonov, F. 0., "Some Problem in
+Energy Interaction of Water Bodiea With the Atnoaphere." AC‘l'A HYDROPHYS-
+ICA, Berlin, Band XXV, ll 1-2, 1980.
+
+Pozdynin. V. 0.. "Accuracy in Heaauring Rater Taperature by the Vertical
+Sounding Hethod." METEOROLOGIYA I GIDROLOGIYA (Meteorology and Hydrology).
+No 11, 1962.
+
+“nose. 1... "The Sea Surface Temperature Deviation and Flow at the Sea-Air
+Interface," BOUND. LAYER HE’I'BOROI... Vol 1, No 3, 1971.
+
+Paulson, C. A. and Parker, 1'. H., "Cooling of a Water Surface by Evapora-
+tion. Radiation and Heat “transfer," .1. GBOPHYS. 1138., Vol 77, No 3, 1972.
+
+Saunders, P. N.. "The Tenperature at the Ocean-Air Interface." J. “Hos.
+SCI., Vol 24, 1967.
+
+Sto-el. [1,. Saunders. IL. Si-ona. w. and Cooper, J.. "Observation of
+the Diurnal Theraocline." DEEP-SEA 338.. Vol 16. 1969.
+
+38
+POI OFFICIAL USE ONLY
+UDC 556.535.3+556.166
+COMPUTATIONS 0? MAXIMUM VATER DISCRARGBS IN MULTIFLOOD REGIME
+
+Moscow METEOROLOCIYA I GIORGIOGIYA in Russian No S. May 82 (aanuscript
+received 22 Jul 81) PP 80-90
+
+[Article by 3. Ya. Regan. candidate of technical sciences, Leningrad Division.
+"Cidroproyekt" Institute]
+
+[Abstract] Methods for computing the aaxisun discharges of rain-induced high
+waters in rivers on the basis of a series of the maximum high-water discharges
+
+not included in this series and therefore should be iaproved. Allowance for
+all high waters of practical significance. as shown here. can increase the
+reliability in coaputing the probable values of the high-water discharge which
+is the aaxiaun for a year. The computation procedures outlined in this article
+are based on allowance for all high waters "of practical significance" and the
+application of objective methods for extrapolation of the integral probability
+distribution curves. This makes possible a more reliable determination of the
+computed naxinun water discharges than when using a series of the anxious high
+waters during the year or when using the lean nulber of excesses of stipulated
+water discharges. As defined here, a high water 'bf practical significance” is
+one whose aaxiaun discharge was equal to or exceeded the sasllest of the high-
+
+39
+
+FOR OFFICLRL‘USE(MVLY
+FOIIOFFKJAI.USE‘0NLN
+
+UDC 551.311.21
+
+Moscow HBTEOROLOCIYA I GIDROLOGIYA in Russian No 5. Hey 82 (Innulcript
+received 2 Jun 81) PP 91-97
+
+[Article by V. I. Tevzsdze, candidate of technical sciences, D. G. Gordeziani.
+candidate of physical and mathematical sciences, and I. K. Keshelavs. Georgian
+
+Scientific Research Institute of hydroengineering and Helioration; Institute
+of Applied Mathematics. Tbilisi State University]
+
+[Abstract] The authors propose a numerical method for computing the unsteady
+notion of cohesive (highly concentrated) mudflows. making use of appropriate-
+ly adapted St. Venant equations. As indicated in this paper. the preparation
+of the computer progrss for this purpose requires the setting of clear initial
+and boundary conditions. The unsteady motion of a cohesive mudflow along a
+watercourse can be divided roughly into three main phases: ”beginning of
+motion." "motion along the channel” and "stoppage” when gravitational and other
+forces put an end to the motion. It is shown that each of these phases has its
+peculiarities with respect to the mathematical formulation of the problem,
+preparation of the program and its subsequent realisation. The most difficult
+task. the assignment of initial and boundary conditions, must be done in such
+a way that thereafter in all sectors and within these sectors it will be pos-
+sible to determine the indices of the dynamics of flow, depth and velocity of
+motion. The limitations inpoaed in this problen are very significant and to
+some extent they seem to sake the modeled phenomenon unrealistic. but no other
+solution seems possible. The method proposed here. on the other hand. does seem
+to afford a possibility for predicting LL: principal dynamic and geometrical
+indices of the flow in both ties and space, which is very important for the
+rational placement of protective antimudflow structures in the channel and on
+the floodplain. The method essentially involves solving a difference analogue
+of a system of quasilinear equations in partial derivatives of the hyperbolic
+type. The Courant condition is satisfied during the computations for different
+relationships of space and tine grid intervals. This also involves application
+of a special procedure based on truncation of the flow depth value as the so-
+
+40
+FOI1OFFKJAI.USEINVLY
+FUI‘OFFKJAI.USE(INLY
+
+UDC 631.636:551.521.31(57S)
+ENERGY POTENTIAL OF LOULARD PART OF CENTRAL ASIA AND ITS USE BY PHYTOCOEROSBS
+
+Moscow HETEDROLOGIYA I GIDRDLOGIYA in Russian No 5, May 82 (nanuscript
+received 31 Aug 81) PP 98-102
+
+[Article by I. G. Gringof. candidate of biological sciences. and R. S. Ronn-
+valova. All-Union Scientific Research Institute of Agricultural Meteorology;
+Central Asian Regional Scientific Research Institute]
+
+[Abstract] There is a recognised need for a detailed assessnent of the re-
+ceipts of photosynthetically active radiation (PAR) in the territory of Cen-
+tral Asia. The authors therefore undertook a detailed description of the en-
+ergy resources of the desert territory of the country and analysed the ef-
+fectiveness of use of solar energy by different types of pastures in rhe lov-
+land part of the republics of Central Asia. the area of the Rarskun and Ky:-
+ylkun deserts. The receipts of PAR were cosputed by the connonly enployed In.
+K. Ross nethod. Different formulas are used for clear and cloudy conditions.
+In this region the distribution of total radiation and PAR conforns to the
+laws of latitudinal zonality. The suns of PAR were conputed for each nonth.
+year and for the active growing season of desert-pasture vegetation for all
+points where standard meteorological observations are nade. During the grow-
+ing season the PAR suns vary froa 55 Cal/ca2 in the north to 35 Cal/en2 in
+the south (Fig. l is a ﬂap of the distribution of PAR). This nap showing
+
+PAR receipts during the growing season reflects not only the patterns of dis-
+tribution of solar radiation, but also the distribution of air tenperature.
+However. in years differing in neteorological conditions the PAR suns deviate
+from the scan long-tern values. An inportant index characterising plant pro-
+ductivity with respect to their photosynthetic activity is the solar energy
+utilization factor; Table I gives the suns of PAR fro. the date of spring
+transition of aesn daily air tenperature through o‘c to the date of the laxi-
+nun height of the grass stand; Table 2 gives the solar radiation utilization
+factors for different types of pastures. In years with optinun noistening the
+utilization factor increases to 0.3. whereas in years of drought it decreases
+to 0.06. Plants of these arid and seniorid regions are characterised by ex-
+trenely low solar energy utilization factors. Figures 2, tables 2; references
+19: 17 Russian, 2 western.
+
+61
+
+FOI‘OFFKJAI.USE(MNLY
+I‘llllﬂﬂ(ldl.USEiﬂULY
+
+UDC 551.509.615:551.509.6l6
+
+INVLUENCE 0P HIKING ON POIHIUG OP ICE-NDCLII RITE INTRODUCTION OF SOLID
+CARBON DIOXIDB INTO CLOUD
+
+Moscow HETEOROLOCIYA I GIDROLOGIYA in Russian No 5. Key 82 (usnuscript
+received 6 Bay 81) pp 103-106
+
+[Article by P. H. Hcshenko. candidate of physical and mathematical sciences.
+Leningrad Hydro-eteorological Institute]
+
+[Abstract] The problen of the conditions and sechanisn of generation of ice
+particles near 002 particles still remains unclear. In particular. this is true
+of the evaluation of the degree of water vapor supersaturation arising as a re-
+sult of the cooling effect of solid CO . In this paper it is demonstrated that
+the widely accepted belief that there is an identity of the conditions for the
+generation of ice crystals near the surface of an evaporating particle of sol-
+id co; and the surface of a nonevaporating body of the same tesperature is err-
+oneous. This is true because other researchers have neglected the diffusion of
+€02 gas forning as a result of the evaporation of solid C02, eating the as-
+sumption that in the entire sons of the cooling effect the vapor elasticity is
+equal to the elasticity of vapor in the cloud. In actuality. vapor elasticity
+in the zone of the effect is a function of temperature, whose field is forned
+as a result of the mixing of dry and cold €02 gas and moist relatively were
+air. The discussion reveals clearly that the probability of the fornation of
+ice particles near the surface of solid co; is greater than near water par-
+ticles. Accordingly, the neglecting of the mixing effect can lead to consider—
+able errors in coeputations of the number of ice heterophase nuclei forsing
+near the cooling surface of solid 00; as a reagent in the artificial sodific-
+ation of supercooled clouds and fogs and therefore there will be errors in
+evaluating the total probability of fornation of ice particles in the entire
+zone of artificial sodification. Thhles 1; references 7: 6 Russian. 1 Uestern.
+
+02
+IOI<OIFNJ%I.USB(HVLY
+FORiofFNJAI.USE¢NULY
+
+UDC 551.509.616
+
+ARTIFICIAL CRYSTALLIZATION 0P SUPERCOOLBD AQUEOUS ABROGOLS
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 5, May 82 (manuscript
+received 19 Hay Bl) pp 106-108
+
+[Article by L. G. Kachurin. professor. N. 0. Grigorov and V. P. Psalomshchikov.
+candidates of physical and mathematical sciences. and A. I. Plugin, Leningrad
+Hydrometeorological Institute]
+
+IAbstract] The authors propose a fundamentally new means for intensifying
+crystallization in clouds related to the change in conditions for the intro-
+duction of reagents. It is clear that by increasing supersaturation in some
+local zone of injection of a reagent into a cloud it is possible to achieve
+
+a considerable decrease in the critical size of heterophase (2- and 3-dimen-
+sional) nuclei and therefore bring about an increase in the number of active
+reagent particles. The method involves creation of a local supersaturation
+
+by use of a jet of supersaturated steam. The authors first examine the crys-
+tallizing effect of the supersaturated vapor itself. During 1975-1979 new lab-
+oratory experiments were carried out in a fog chamber under a wide range of
+conditions. The chamber temperature was varied in the range froe -S to -25°C.
+A high-velocity jet of supersaturated vapor was created in a specially devel-
+oped steam generator. The jet had a supersonic velocity. The experiments re-
+vealed that the activity of the vapor as a crystallizing agent increases sharp-
+ly due to a decrease in the cross section of the jet or an increase in the es-
+cape velocity of the jet. The temperature dependence of the crystallizing ac-
+tivity of the water vapor was similar to that observed for well-known re-
+agents such as silver iodide. ﬂowever. the absolute value of the ice~forming
+activity of the vapor is still considerably lower than the activity of the
+presently employed crystallising reagents. Nevertheless, there are definite
+possibilities for increasing the activity of the vapor by an increase in the
+velocity of the jet and a simultaneous increase in the intensity of its inter-
+action with the medium. A combined method can be employed: use of crystalliz-
+ing reagents introduced into the chamber together with a jet of supersaturated
+water vapor. Experiments were carried out with two such reagents. This enhanced
+the crystalliting effect. Figures 3; references 5: i Russian, 1 Western.
+
+03
+FOI:0IIIC1AI.IEHE(HVLY
+”WISCONLY
+
+“DC 551.596.11
+
+l’ AMSPEHIC IIDUSTBIAL
+
+ELECTRIC FIELD POTENTIAL GRADIENT mum CONDITIONS 0
+
+POLLUTION
+
+MBCOV WWWIYA I GIDROWIYA in
+received 27 Apr 81) PP 108-111
+
+[Article by A. A. Krechetov. candidate of geographical sciences. A. Kh. Filip—
+pov. candidate of physical and nathenatical sciences. and V. K. ‘l'atarnilwv.
+
+Irkutsk State University; Baybl Bydroneteorological Observatory)
+
+Russian ho 5, May 82 (manuscript
+
+Aerosols of different origin can exert an warrant influence on
+
+ical properties of the et-osphere. It has been demonstrated that
+ential and conductivity are dependent on
+erosols. Electrically charged aero-
+
+te space charges. The authors
+
+[Abstract]
+the electr
+
+sols are discharged fro. factory
+eade investigations 1979 and March-April 1930. de-
+
+ternining the atnospheric electric field potential gradient in the neighbor-
+ine. The collector nethod vas e-ployed
+
+hronous observations were Lie a'.
+
+three points: baykal'sk, Solun and Murino. at distances of 5, 20 and 200
+ton free the conbine (1979) and at two others-- naykal Bydroeeteorological 0b-
+
+servatory and on the ice of Lake Bayltal (1980). Other supple-entery seasure-
+
+ments were also nsde. It was found that industrial effluent exerts an iapor-
+tsnt effect both on the nesn daily potential gradient values and on its di-
+ed in detail). The general patterns of this
+
+urnal variations (these are discuss
+
+influence have a relatively stable character. negative potential gradients are
+
+regularly observed in the region below the plune. This can be used in indicat-
+f the cellulose-paper
+
+ing plue propagation. The effluent fro- the stacks 0
+plant cause an increase in the positive potential gradient by a factor of 2
+
+in comparison with the clear sky. The spatial correlation of the seen hourly
+
+potential gradient values in the Baykal'sk area is couples. In sons cases the
+at on the electric field can b
+Pigures 2. tables 3; references 5: 6 Russian. 1 Hest-
+FIHICNNNC1AL.USEZ(HULY
+
+UDC 551.508.9z519.262
+
+ANALYSIS 0? LONG THO-DIMENSIONAL SERIES OF LIGHT SIGNAL MEASUREMENTS IN
+ATMOSPHERIC SURFACE LAYER
+
+Moscow METEOROLOGIYA I GIDROIDGIYA in Russian No 5, my 82 (manuscript
+received 16 Jul 81) PP 112-119
+
+[Article by V. P. Pashchenko. doctor of physical and mathematical sciences,
+Scientific Research Institute of Instruaent ﬂaking]
+
+[Abstract] nonodedovo. Vnukovo, Sherenet'yevo and lorispol' airports are sup-
+plied with the 8-105 triangulation apparatus which makes it possible to deter-
+mine the lower cloud boundary. A aearchlight, situated 100 n from a receiver.
+moves in angle of elevation in such a way that a reflected signal is received
+and registered whenever the level of the reflected signal exceeds the receiver
+triggering threshold. As a result. in tine-height coordinates. the tape shows
+a pattern of vertical lines which characterize optical density. When lultiday
+continuous neasureaents are made each 30 see the systea of vertical lines
+foras a two-dimensional distribution which can be watched with a specific
+meteorological situation. The information which can be deduced is the subject
+of this detailed article. Snow, for exaaple, when falling from clouds above
+1000 n. is registered as a specific pattern of vertical continuous or dashed
+lines. Light snow showers are characterised by vertical bands filled with oc-
+casional dashed lines; heavy snow is characterized by vertical bands with a
+dense pattern of solid lines and few dashed lines. Fogs of different types al-
+so have their typical patterns. The reflections from different genera and spec-
+ies of clouds can be interpreted with considerable accuracy and a key has been
+worked out which is quite sophisticated and nay represent a genuine advance
+
+in the registry of this highly variable phenomenon. Figures 5; Tables 5; ref-
+erences: 2 Russian.
+
+65
+
+FINIII"N(1AI.USI:(HVLY
+SEVERE!!!“ BIRTHDAY 0|" IGOR' MWVICE POM
+Hoscow ”0301001“ I GIDKOIDGIYA in Russian No 5, Hay 82 pp 120-121
+
+[Article by personnel at the State hydrological Institute]
+
+[Abstract] Professor [gor‘ Vladinirovich Popov. doctor of geographical sci-
+ences. an outstanding Soviet specialist in the investigation of river chan-
+nels and one of the creators of the hydrological-norphological theory of the
+channel process. narked his 70th birthday on 9 April. Ilia father use a dis-.
+tinguished agricultural neteorologist. the director of the Rain Geophysical
+Observatory and head of the hydrophysics division at the State hydrological
+Institute. with such an illustrious heritage. I. V. Popov studied at Lenin-
+grad State University. fron which he graduated in 1936. and was then sent to
+the State hydrological Institute. where he works even at the present tine.
+During the war he served as both a conbat soldier and in nilitary seteorolog-
+ical assign-ents. he defended his candidate's dissertation in 1968, with his
+thesis being devoted to nethods for carrying out hydrographic work and the
+use of aerial photographic surveying in hydrology. After 1956 he directed his
+attention to investigation of river channel defornationa. During this period
+he worked in close collaboration with h. Ye. londrat'ysv. Together they out-
+lined the fundanentals of the hydrological-norphological theory of channel
+processes. clarified the typical patterns of mrphological forsations and de-
+veloped nethods for conputing and predicting channel and floodplain defores-
+tiona. I. V. Popov played an inportant role in the extensive use of aerial
+photographs in studying refer-nations of river channels. Popov is the author of
+sore than 100 scientific articles, study aids and instructions. The results
+of his own nany years of research were generalised in his doctoral disserta-
+tion, defended in 1966. The asst isportant studies of I. V. Popov are well
+known abroad. his work as a teacher has also been outstanding. Figures 1.
+FINICINWCJAL!A§E(MVLY
+
+[Abstract] The Board of the State Com-ittee on Hydrometeorology and Environmen-
+tal Monitoring on 11 February 1982 exasinsd the problems involved in increas-
+ing the efficiency of uork by scientific research institutes and directing the
+
+ity of such investigations, ensure the speediest possible practical introduc-
+tion of the results into different branches of the national economy and to
+improve the organization of scientific research. Measures have been adopted
+
+to ensure the speediest possible completion of planned research both during
+
+race the panel reviewers included 12 specialists from 8 organizations of other
+sinistries and depart-ants. Since 1981 many steps have been taken to strength-
+
+en central monitoring of the work accomplished by subordinate scientific re-
+
+iently operating subdivisions; for example. the Host Siberian Regional Sci-
+entific Research Institute has been separated fron the Nest Siberian Adminis-
+
+anining methods for evaluating economic efficiency and for coordinating work
+in this field. The Main Geophysical Observatory will oversee work in this
+
+area. A symposium on this subject was held at the observatory during the
+period 15-16 April 1981. During 1981 there was multisided checking of the
+activity of seven scientific research institutes. Such centralised supervis-
+ion and review is achieving increased productivity and quality of work. an-
+phasis must be on achievement of results which will have application in the
+FOR OFFICIAL USE ONLY
+
+commas, mmcs Ann saunas
+Moscow METEOROIDGIYA I cmnmoctu in Russian lo 5, my 82 pp 122-127
+
+[Article by I. A. Yankovskiy. D. V. lotinets. A. G. Prosvirkina and s. G.
+Halakhov]
+
+[Abstract] A Soviet-American symposium on prediction of the behaer of pest-
+icides in the environment was held at Yerevan during the period 21-28 October
+1981. ale/ven Merican and 69 Soviet scientists in attendence heard 17 Soviet
+and 10 American reports. The final resolution defined the principal direction
+in future research to be the developnent and further improth of mathemat-
+ical models of migration and transformation of pesticides in the environment.
+The parameters of these models should be functions of the most significant en-
+vironmental properties. In addition. there is a need for developing empirical
+(such as balance) prognostic models. In the future there will be not only de-
+velopnnt and joint testing of metheuticsl models, but also Joint study of
+the processes of microbiological deconposition of pesticides, evaporation pro-
+cesses. photochemical degradation, etc. in soils, and a umber of other import-
+ant problems. Summaries of the symposium reports have been published in a sep-
+arate brochure. The full texts of the reports will be published in Russian and
+
+Engl ish in 1983 .
+on
+
+An organizational meeting of the Scientific Council on Agrometeorological Prob-
+lens was held at Obninsl: during the period 5-6 October at the All-Union Sci-
+entific Research Institute of Agricultural Meteorology. The director of that
+institute. I. G. Gringof, presented a review report on achievements in agro-
+meteorology during the 10th Five-year Plan and goals for the 11th Five-Year
+Plan. Anong the achievements of the last five years he emphasized the follow-
+ing: progress in developing the agrometeorological aspects of the quantitative
+theory of the formation of the yield of agricultural crops; development and im-
+provenent of statistical methods for agroneteorological predictions of the
+yield of agricultural crops; broader use of new types of data obtained by re-
+aote sethods; much progress in the autonstion of the collection and processing
+of observational data; development of methods for evaluating and predicting
+the influence of agromsteorological conditions on the development of agricul-
+tural pests; work on evaluating sgroclinstic conditions for cultivation work
+and validation of the distribution of agricultural crops in the zone of the
+naykal-Amur Railroad and in Transcaucasia. Among the major problem to be dealt
+with during the next five-year plan and up to 1990 are the following: creation
+
+68
+
+WWWONLY
+FOR OFFICIAL USE ONLY
+
+of agrometeorological monitoring. This should constitute a system of observa-
+tions and monitoring of agrometeorological and microclimatic conditions and
+the state of fields of agricultural crops and natural pastures. The objective
+of sonitoring would not be a passive evaluation of the state of the environ-
+ment and vegetation. but routine processing of the arriving information and
+the modeling of processes with the dissemination of predictions and recon-end-
+ations as a basis for adopting optima and routine economic decisions. Hethods
+for predicting yields of agricultural crops must be improved. There is a need
+for upgrading of agroengineering techniques, agroclimatic regionalization must
+be improved and further improvements in the automation of the system for the
+collection and processing of agrometeorological data are required.
+
+no
+
+An all-union seminar on the monitoring and preservation of atmospheric air was
+held during the period 20-24 October 1981 in Moscow; it was attended by the
+heads of centers for environmental mnitoring and other scientific specialists;
+similar seminars were held during the year in other regions. At these seminars
+considerable attention was devoted to improvements in the network to. monitor-
+ing atmospheric contamination. the organisation of control posts for monitor-
+ing atmospheric contamination and optimizing observations. A wide variety of
+pertinent subject matter was discussed, such as: monitoring the propagation
+
+of the most com-on harmful impurities which must be regularly observed; analy-
+sis of errors in sampling and analysing air samples; prediction of the contamin-
+ation of atmospheric air in cities; setting of norms for the maximum admissible
+concentrations of pollutants; analysis of dust content in industrial effluent:
+analytical methods employed in monitoring the environment; issuance of ref-
+
+ence manuals on a wide range of topics; theoretical and methodological problems;
+introduction of improved monitoring instruments.
+
+69
+
+m OFFICIAL USE ONLY
+“MUSEONLY
+
+NOTES non ABROAD
+Moscow METEOROWIYA I GIDRODOGIYA in Russian No 5. May 82 pp 127-128
+
+[Article by B. I. Silkin]
+
+[Abstract] As reported in NEH SCIENTIST, Vol 92, No 1275. 1981, twenty years
+ago when it was determined that organochloride pesticides (DDT. eldrin, diel-
+drin, and others) cause an increase in mortality and decrease in fertility in
+animals the authorities in Great Britain adopted measures for restricting the
+use of these substances. Unfortunately, there was no provision for enforce-
+Isent. It is now clear that the desired results have not been forthconing. The
+statistics reveal that the mean annual quantity of organochloride pesticides
+used in Great Britain between 1975 and 1979 was 51 greater than between 1971
+and 1976. There evidently has been no appreciable decline. for sxasple, in
+the content of 008 in the environment. Since m is three tines cheaper than
+less stable and less harniul pesticides it is improbable that far-era will
+Voluntarily desist from its use. Accordingly, British environmentalists are
+insisting on the adoption of mandatory measures against the use of organo-
+
+chloridea .
+an
+
+It is reported in SCIENCE mm. Vol 120, No 8, 1981, that during the entire
+sumer of 1981 specialists working near Miles City, Montana, carried out an
+experiment for studying convective precipitation. A total of 125 scientific
+workers representing 29 research institutes participated. Over 10 instrument-
+equipped aircraft were used in the work; ordinary and Doppler radars were em-
+ployed. neking it possible to trace the movement of individual noisture par-
+ticles in a thunderetorn cell where hail is generated. Data from aircraft ob-
+servations were continuously transnitted to ground stations where electronic
+computers inediately made these data available to investigators. A network
+of autonatic solar-powered meteorological stations was in operation over an
+extensive area and disseminated data hourly, sonetines via satellite. The
+processing of the great volt-e of collected data will require several years,
+although such prelininary material is already available.
+
+COPYRIGHT: 'Meteorologiya i gidrologiya", 1982
+
+5303 - END -
+CSO: 186‘Ill
+
+50
+FORMING!!!”

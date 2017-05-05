@@ -1,0 +1,4515 @@
+FOR OFFK'IAI. NSF. ONLY
+
+JPRS L/10224
+30 December 1981
+
+USSR Report
+
+ENGINEERING AND EQUIPMENT
+(EOUO 8/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSENINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR‘0FFN3AI.USE(MNLY
+
+JPRS L/10224
+30 December 1
+
+USSR REPORT
+
+ENGINEERING AND EQUIPMENT
+(POUO 8/81)
+
+CONTENTS
+MARINE AND SHIPBUILDING
+Deaign of Hydrofoil and Hover Craft............................... 1"
+NUCLEAR ENERGY
+Operating and Repairing Nuclear Power Stationa.................... 8
+Optimization Models of Breeder Reactors........................... 11
+Radiation Safety in Nuclear Power Engineering..................... 13
+Practical Problems of Operating Nuclear Reactors.................. 15
+
+Calculating Compression of DT-Hixture by Electrically Imploded
+cylindriul shell.0.0.0.0000...00.00.00.000...OOOOOOOOOOOOOOOOO. 17
+
+NON-NUCLEAR ENERGY
+Development of Turbogenerator Construction in USSR................ 26
+
+Remote Measurement of Bleetrical Energy and Average Power in
+PM sy‘tm....0.0.0...09.....OOOIIOQOOQOOODOOOO'COOOOOOOOOOOO 37
+
+Current State and Problems of Transformer Construction
+DmlmmtOO0.0000COOOOOOOOOIO0-0.0....0...DOOOUOQOOOOOOOOOOOOI ‘7
+
+INDUSTRIAL TBCHNOLOGY
+
+Claﬂﬂifyins Indu.tr1‘l MbOtOIOOIOOOOOIOI0'0...00.000000000000000. 55
+
+- a - [III - USSR - 21F SET POUC
+
+mm nmnu IICII‘ ONLV
+FOR OFFICIAL USE ONLY
+
+NAVIGATIW AND GUIMNCB SYSTD‘IS
+
+Dynamics of Nonlinear Gyroscoplc Systems.......................... 57
+
+Programmed Angular Movesents of Gyrostat When
+Quaternions Are Used To Determine Its Orientation............... 63
+
+Inverse Problem of Gyrotnertial Measurement Systems............... 68
+
+-b-
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+HARMANDWING
+
+UDC [629.126.9.039.001.2+629.12b.9:533.693](O31)
+DESIGN OF HYDROPOIL AND ROVER CRAFT
+
+Leningrad SPMVOCHNIK P0 PROYEKTIROVANIYU SWOV S DINAHIGESKIHI PRIN'ISIPAHI
+PODDERZHANIYA in Russian 1980 (signed to press 15 Jan 80) PP 2-5, 667-471
+
+[Annotatiom foreword and table of contents from book "Manual for the
+Design of Ships with Dynamic Principles of Support” by Boris Aleksandrovich
+
+Kolyzayev, Anatoliy Ivanovich Kosorukov and Vladilen Aleksandrovich Litvinenko.
+Izdatel'stvo "Sudostroyeniye", 4000 copies, 472 pages]
+
+[Text] Fundamental information on the theory and practice of designing hydrofoil
+and air-cushion ships (SPK and SVP) is systematized. Methods are proposed for de-
+termining the principal dimensions of these ships, their propulsive and seakeepim
+qualities. and their economic characteristics. Methods of optimizing a design
+
+solution are indicated and an analysis is given of errors in calculating the basic
+characteristics of SPK and SVP. The principles for prescribing design mrgins are
+
+substantiated. Questions on the reliability and safety of these ships are eluci-
+dated.
+
+The manual is intended for engineers and shipbuilders, specialists of NH [Scien-
+tific Research Institutes], 103 [design bureaus] of shipbuilding enterprises and of
+the fleet. It may be used by graduate students and students of the senior courses
+of higher educational establislnents and schools of shipbuilding.
+
+Forevord. Ships with dynamic principles of support (SDPP); namely, 31’! and SW
+are winning widespread acceptance as ‘convenient and profitable means of fast trans-
+portation.
+
+To further perfect SPK and SW, to improve their seakeeping qualities and increase
+prof itableness. research has been conducted over many years. In recent years works
+have appeared which were devoted to the hydrodynamics of hydrofoils, the aerody-
+namics of air cushions, the theory and practice of designing propulsors, the de-
+
+scription of the power plants (EU) of SD”, general and local strength, structural
+materials, and the analysis of experience in operating SDPP.
+
+Among recent works, there is great interest in the books of I. ‘1'. Yegorov, N. A.
+Zaytsev, c. P. Zlobin, I. I. Isayev, N. V. Hattes, Yu. A. Netsvetayev, A. A.
+
+Rusetskiy, Yu. H. Sadovnikov, V. T. Sokolov, A. N. Kholodilin, A. N. Shmyrev and
+others.
+
+FOR OFFICIAL USE ONLY
+you OI-‘l-Iunl. use. UMJ
+
+In the development of the theory of SW, great contributions were mde by Yu. Yu.
+Benua, A. N. Bagno, K. P. Vashkevich, A. D. Volkov, V. K. D'yachenko, G. P. Zlobin,
+V. K. Zoroastrov, T. A. Zaytsev, V. V. Klichko, B. P. Kuzovenkov, I. A. Lyubomirov,
+V. A. Lukashevskiy, Ye. Z. Novikov, I. V. Ozimov, V. N. Puzyrev, S. D. Prokhorov,
+A. A. Meetskiy, V. N. Treshchevskiy, V. I. Khonzhonkov, V. P. Shadrin, V. V.
+Shatalov, V. A. Tsarev and others.. 0f works, however, embracing comprehensively
+all the knotty problems of designing SPK and SVP, there is a total insufficiency.
+
+The book by the authors of this manual, "Features of the Design of Ships Hith New
+Principles of Support”, which came out in 1976, because of an insufficient printing
+of copies became a bibliographic rarity and could not satisfy the inquiries of
+engineers and shipbuilders, teachers, graduate and undergraduate students special-
+izing in the area of the theory of the design of ships. The text book of A. H.
+Vaganov, "The Design of Fast Ships”, published in 1978, is a useful contribution
+to educational literature, but it does not cover the basic questions in the design
+of SPK and SVP sufficiently completely.
+
+The manual being offered for the attention of readers makes up for the deficiency
+of literature on the general design of SDPP. The amount of material necessary for
+exploratory design studies is systematized in the book,fulfilling in the process
+the formation of the conception of the ship and the substantiation of the design
+proposal. In addition to general methods of design, recounendations are given for
+the formation of the function of social usefulness, for the technical and ecmomic
+basis of an optiml solution, and for the design of the hydrodynamic systems, the
+aerodynamics of the air cushion, propulsors, and for the determination of the ex-
+ternal forces, the stresses acting in the mu, hydrofoils, and the flexible en-
+closures. Recoumendations on the choice of the type of power plant are given and
+specific numerical examples.
+
+In many cases several formlas are presented for the determination of the same
+quantity. This was done on purpose. Basically, it does not work out well to give
+preference to any one forums when the accuracy of several of then is approximtely
+the same. In this case, the designer, in accordance with the problems before him
+and an amount of initial information, can select independently from those presented
+the most convenient formla, or compute the sought after quantity as the average
+from several formalas. The formlas and charts are based on both theoretical de-
+
+velopments and on statistically processed data from many sources. Reference data
+on SPKs and SVPs are presented.
+
+The min attention was given to the choice of the general type, the principal di-
+mensions, and the fundamental characteristics of an 80?? at the beginning of design
+when the fundamental properties of the ship are being defined,such as seakeeping
+
+ability, economy and others which remain essentially unchanged in the later design
+stages.
+
+In the first stages of design, it is not always possible to give preference to
+
+any one type of SDPP. In a number of cases, a design is developed in several vari-
+ants and only comprehensive, objective evaluation permits making a final choice
+
+for the further direction of the work. This is why it is advisable to combine in
+one book, data for the design of SP! and SVP.
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The book has two parts. Part I is devoted to the design of SPK, and part II to
+the design of SVP. Part I was written by A. I. Kosorukov. Part II, (chapters I
+and II)were written by B.A. Kolyzayev. Part II, (chapters V, VI, VII, and section
+6 of chapter III) were written by V. A. Litvinenko. Part II, (chapter III, sections
+5 and 7 of chapter IV and section 20 of chapter VI) were written by S. A. Smirnov
+who also assembled the material on SVP of the skeg type presented in chapter II.
+
+The reconnendations adopted by the Assembly of the International Maritime Consul-
+tative Organization (IHKO) and of the Code, which was coming into effect in 1979.,
+
+on The Safety of Ships with Dynamic Systems of Support and which have an influence
+on the characteristics of a ship, are reflected in the manual.
+
+The principal characteristics of 8m and SVPs of foreign construction are pre-
+sented in tables, charts, text, and drawings taken from foreign periodicals.
+
+The book was written on the basis of the results of investigations carried out by
+
+the authors, and on the correlation of data presented in domestic and foreign
+literature.
+
+The authors convey their thanks to the reviewers, candidates of technical sciences
+V. K. D'yachenko and B. A. Tsarev for valuable cements and recomnendations di-
+rected toward improving the book. The authors also consider it necessary to ex-
+press their gratitude to 1.. V. Ozimov, I. V. Ozimov, Ye. Z. Novikov, T. N. Belyayev,
+Yu. H. Hokhov, A. N. Dagno, Ye. G. Finkel'shteyn, V. K. Zoroastrov, and G. D.
+Baranov. whose materials and reconnendations were used in writing the book.
+
+The authors will gratefully receive cements about the contents of the annual di-
+
+rected to the address of the publisher, Sudostroyeniye, 191065 Leningrad, Ulitsa
+Gogolya 8.
+
+Contents
+Page
+Foreword.O...COD...OOOUOOQOOIOOOOOQOIOIIOIII0.0.0.0000IDOOOOOOOIDOIIIOOOOOOGO 3
+
+Intrwuction oceans.sooooeouse!anoesoooacceeeoeooeclesaIlloaooooocoeoelewsco 6
+
+Part I. The Design of Hydrofoil Ships [sac]
+Nmnc18mre asoO5050......IDOO'OOOIOIOIOIIOUOOOOe.IOOODAUOOOOOIOIOI.IOODIO. 11
+
+Division I. The Bases ot the General Design of SPK ......................... 13
+Chapter I. Problems in the building and trends in the development of SPK.... --
+1. Trends in the develomnt of SP! so.one...Iosooneseoaoooeeoaooeocacao-o '-
+2. Feawres of Sn mll desiy‘ IOIOOOIOOOOOI0.00.05...CIIOOUOICOIOUOOIIOO 18
+3. Features of the design of the hydrofoils .............................. 21
+a. stmcmral mterials I...DDOCOUOOIIOCOIOOIOOCOOOCOOICOIUCOOOOCIIIIOI... 25
+S. The fundamental characteristics of the EU [Power Plant] ............... 28
+
+Chapter II. Theoretical bases for the design of SPK ........................ 33
+6s m mthmolosical bases of design 0Iooooeooooooooooooooqsoscoloooooltl ‘-
+7. Establishing the social usefulness function ........................... 35
+
+FOR OFFICIAL USE ONLY
+FUR OI'I-ILIAL use. ONLY
+
+Chapter II (contimed)
+8. me method of determining the fundamental characteristics of an SP1
+to a first apprumtion I'D...OID.0000!OIUDOOOOICOOODOOOCOIOOIODOD...
+8.1 The propulsion equation ...........................................
+8.2 The capacity equation (functional) ................................
+8.3 The equations of unsinkability, buoyancy, and strength ............
+slamwiut emtim (functioml) 0.0.00000...IOOIOOOIOIOIOOOI5.0...
+9. Predicting the construction and operating costs of SPK ...............
+9-1 m constNCtim cost of m Ship esoosoooooaseoonoaeaeeaoaosassess
+9.2 The net cost of transporting passengers (cargoes) .................
+1.0. Optimization of m characteristics of s“ one...eeoa-oeoeeeooeososoos'
+11. Reca-endations on the scheme for calculating the characteristics of
+SPK to a first approximtion (sample calculation) .....................
+12. Calculating the characteristics of SP1! to a second approximation ......
+12.1 Selecting the characteristics of the hydrofoil system ...........
+120 2 The M“ exact definition of MI]. Height naeoaaacasaoeaoooesassscc
+12. 3 " " " the coapositicn and weight of the
+Font plmt COOIOIIIOOOOOOOOOIOOOOD.0..IOOUOIOOIOOOOIOIOOQOCO0....
+12.4 Determining the composition of the electrical system .............
+12.5 The more exact definition of fuel and lubricating oil supplies ...
+12.6 Provisions for the safety of SPK .................................
+12.7 Remarks on the adjustment of 5?! characteristics in the second
+approximtion O0......00.0.00...OOOOOOOOOOOOOIOOIOOO.IIOOOOOIOCOCQ
+
+DiVision II. In “€318“ of the Pdndmnul Parts of s“ assesses-0000000000
+Chapter 111. Design of the hydrodynamic system.............................
+13. The selection of the arrangement of the hydrofoils and their
+semtric characteristics OQOIOOOOOIOICDIOIIIIIIIIIIOOOIOOOOICOOOOIOI
+1301Hydr°f°il area IOOIOOOIOOOOOIOIQOOOOOll.00.....IOIOIl-OOOIIOOOCCOOI
+13a 2 Load distrimtta‘l mg m hydrofoils aasooosooloooscanealooooal
+13.3 Determining the geometric characteristics of the hydrofoil system.
+14. The hydrodynamic design of the hydrofoil system .....................
+16.1 calwlgtins hydrofoil lift 0..I..0.0.DI0.00.0000...OOOOOOCIOIOOOOI
+14.2 n ” msism“ I.0OOIOOOOOIOOODOOOOCDIIIOOOOOOOU
+15. Estimating the effect of cavitation on a supporting hvdrofoil .......
+16. Calculating the trim and resistance of the ship when moving on the
+Mdrofoils ODOIIIIOOOIOIOIIOI...O0.0...O0..IICOODUOOOOIOOOOCOOOODOOI.
+17. Longitudinal and transverse stability of SPK when moving on the
+hydrofoils OOIOODOIQIOOC0.0000...I.OI.O...DIOOOIOIOIODDDIIOOOOO08....
+18. The design and calculation of propulsors ............................
+19. m seaworthiness of st 0.0.0.0...OOOOOOII.UIIOIIIDOOOIOIDDOODOOOOOO
+20. m muwrina wallttes of SPK OI.0DO.I.DllDDOIOOIOOODOOOOBIOOOUDOI
+Chapter IV. Feawres of m hull desiy'l oesoooaaoeno-soeouan”...too-.00...
+210 nevelmnt of tin lines drawing eoooeeeoaooeoooooaaoooooooooeooeoooo
+22. Development of the general arrangement drawing ......................
+23! m problem of m extemal forces OUOOOIIOOIOOOOOIOOOOI00.000.00.80.
+23.1 m impact of W 11111 “I a “W aaooasIsconce.aeseaaoaaoaooaaooos
+23.2 N U. " ” hydrofoil m mater CIIOOOIOOOI0.000.000.0000
+23.3 Hydrodynamic forces on a hydrofoil in regular waves ..............
+
+FOR OFFICIAL USE ONLY
+
+Page
+
+39
+61
+67
+53
+56
+65
+
+68
+70
+
+72
+84
+
+85
+86
+
+87
+
+89
+
+90
+
+' 91
+95
+104
+105
+108
+111;
+
+120
+
+121
+130
+137
+150
+152
+155
+159
+160
+
+166
+170
+FOR 0FFN3AI.USEIJNLY
+
+Chapter IV. (continued)
+
+26. Features of calculating the general strength of SPK ................
+26.1 The bending moment in displacement condition ....................
+26.2 " " " when moving on the hydrofoils in quiet water .
+24.3 n N N in “ﬁves tooneovoooooooooooo06.64.0000...It...
+
+26.6 The shape of the elastic line and the natural frequency of the
+
+first tone ooneone»...beenon00.000000000000000.eoeeoeeaclo'eeoloo
+
+26.5 The main coordinates of the bending moment and the shear force ..
+26.6 Approximate methods of determining the bending moment in waves ..
+
+25. Features of calculating the strength of the hydrofoil system ...... .
+26. Determining the strength margins ...................................
+
+Part II. The Design of Air-Cushion Ships [SVP]
+
+NOﬂenCISCUte ecoo-coo.a000'00'.to.cool.eeooo'ooeeeeoeoaoaaeIaooceecaeloooe
+
+Division I. The Bases of the General Design of SVP .......................
+Chapter I. Problems in the mildins of 3v? 0....I00.00....IIIIOOOOIOOOOOOC
+
+Chapter II. Theoretical bases for the general design of SVP ................
+1. Methodological bases for the design of 8V? ..........................
+2. Determining the fundamental characteristics of S" to a first
+
+apprwimtim DOOODOOII.ll0..IllI000....00......OOOOOIOOOOOOOIOOOIOO'
+3. Determining the principal characteristics of SVP to a second
+
+approximtion 0....DI.Ill.IOICOOOOOOOOOIOIIIOIOI'OOOIOOOOOOO.00......
+3.1 m "eight emation O...DIOOOOOOOOOOIOIIOIOIDIIOODOODIOOOC0.0.0....
+3.2m stability ewatim OODUO-DIIOIIOIOOOOOOOIIOIOODD-IIOOOOOIIOOIOI
+3.31119 power amnion I.ODIIOOOOOOOOOOOCOOOO.OIOIIIDDDOIOCUOOIIIDOOCIO
+3.6 The equation cf seavorthiness .....................................
+3.5 m ewatim of unsinkabilicy DOIOIOOUICCOIICIUIICOOOCOCIOOOOOOOOO.
+3.6 The capacity equation essences-cocooeloneIOIOOOIOIOIOo00.000.000.00.
+6. Optimization Of the Characteristics Of SVP ooo-ooeoo-oooooo-OOOno-0000
+
+Chapter III.The provision for propulsive and seauorthiness qualities
+in the design of SV? n-aoooococooateocoe-ocean-oananoooooooooo
+S. The transverse and longitudinal stability of SVP ....................
+5.1 Evaluating the stability of SVP in the different modes of operation
+5.2 The approximate design evaluation of the static stability of 8V? ..
+6. Calculation of the resistance of SV’PA [awhibious SVP] ...............
+
+7. n w svrs [svr with skegs (rigid
+
+side ""3118)] oooopoeonaoloaeoalloaacocooeoooeeOreo-000.000.000.000...
+
+Division II. Features of the Design of the Fundamental tarts of 5V? .......
+cmpter IV. ““11 design OCOOOOOOIOl...00......-I00......IIIOIOOIOOOOOOOOOOI
+8. Features of SVP hull stntcture. Structural materials .................
+9. Development of the structural strength system for an SVP hill. The
+calculation of general and 10031 strength oeonoooeoeeoeoooo-ea-ccan...
+
+Chapter V. The design of the flexible enclosures of the air cushion of SVP
+10. The design of the flexible enclosures for SVPA .....................o
+10.1 The classification of flexible enclosures ........................
+10.2 Extemal flexible enclosures 0..OOCIOCCOOCIOCOOIOOCOOOOIIIIOOO‘...
+10.3 Sectionalizlng flexible Guelosures ooceceoceccllaeaaaeolooaealeoeo
+
+10.6 Fundamental operational requirements for the structure of
+flexible enclosures soon-oo-aooooooeoeeooeoorotDiesels...0.00.0000
+
+POI! OFFICIAL USE ONLY
+
+P889
+172
+
+173
+175
+
+177
+180
+181
+182
+185
+
+191
+195
+
+202
+
+203
+
+211
+212
+220
+
+221
+222
+
+226
+
+229
+
+236
+268
+276
+285
+
+289
+298
+
+299
+306
+
+307
+FOR OFFICIAL USE ONLY
+
+Chapter V (continued)
+
+11. Materials for flexible enclosures ...................................
+11.1 The covering material for flexible enclosures ....................
+11.2 The textile foundation of the rubberized fabric of a mterial
+
+foraflexible enclosure U0......00.......0OIOOOIIIOUIOOOOIOOOOOCD
+
+12. The design of the shape of flexible enclosures ......................
+12.1 The design of the shape of single-sheet monolithic elements
+
+for flexible enclosums 0.0.0.005....0.00.0’IDDOIOIIOIOOIDODIIIOI.
+12.2 The design of the shape of two-sheet monolithic elements
+for flexible enclosures ..........................................
+12.3 The design of the shape of balloon type flexible enclosures ......
+13.?rinciples for evaluating the strength of ﬂexible enclosures ........
+13.1 Features of the mterials of flexible enclosures as strength
+mmmr‘ .0000...00".ODOOOOOOOOOOCOOODI.0.00.0.0.00000000300000000
+13.2 Examples of calculating the strength of a single-sheet monolith ..
+13.3 vibration of flexible enCIomm800000000......OOQCOOOOOOOOOCOOOO.
+14. Determination of the flea-rate and pressure characteristics of the
+flexible enclosure of an air wshion ....'............................
+14.1 The lift characteristics of a nozzle-type ﬂexible enclosure on
+an SVP with the ship hovering without list or trim above a hard
+
+surfs“ accuses-cocoaso.o...ooooeooooooeeeoeeccoobecause-000000000
+
+14.2 The lift characteristics of a flexible enclosure on an SVP
+hovering “malt list or trim above water eoeeeeeoaaouocoooeeooooo
+15. The influence of the design of flexible enclosures on the propulsive
+and 8&‘mpin5 qualities of SVP eeooeeeeeoeeoooccosassesses-eeoo-oeoe
+15.1 Amibims svp I...IOIOOIIQOCOOOIOOOCOOOOOOOOOOOOOIDOOOOCOOOOOOOO
+15.2 SVP with sues Oil.IOIOOICIOOOIIOCCOOI.OOOOIIOOIOIOOIOIOCDOOIOIQO
+
+Chapter VI. Fundamental questions on the design of an SVP power plant ...
+16. Feamres of SVP We: plants 0..'OIOIOOIOOOOOIOOOOOCOD'OOOOOOIOIOIOO
+16.1 Gemral infomtion 00......IOOOOOODOOIODOOOO.IOIOOOOIOOOOOIIOOOOO
+16.2 Design arrangements of the power plant ...........................
+16.3 m min engine of S” 000'.I...OOOOOOOOOOOOIOIUOOOOOIOCIOICICCII
+1604 PM: “msmission 0.0....0.I.OOOIOIICCCUICOOO0.00UOOIOOCIOIDIOIOO
+16.5 Calculating the total engine power necessary for SV? operation ...
+17. The design of the Special systems and equi nt serving the power
+
+plant of SVP with Gm [638 mrbine Bmimsr...COOOIICOOIOOOUIOI...
+17.1 The engine air-Supply system eeeoooeoooooooceooemeeoeloooeeeeaool
+17.2 The gas-discharge equipment (GVU) for Gl‘D on SVP ................
+17.3 Noise suppressing equipment for a gas turbine power plant .......
+18. Designing prowlsots for mhibiws s” OOOOOOOOIOOI'moeoaggeocollco
+1801 Air promllers O....00.0.0...00.000000000000000.00000IOOOOOCOOO'O.
+1802 Air'jet propulsors (proﬁllsot'mtilaptots) enoeooeoeooeooeooooooo
+19. Determining the characteristics of SVP lifting systems .............
+19.1 Determining the forced air system characteristics ooesoseooseoose
+19.2 calmlatine air duct resistance 00....0......OOOODOIIOOOOIOOOOOOD
+
+20. Peculiarities of the design of the power plant of an SVP with skegs
+
+FOR OFFICIAL USE ONLY
+
+Page
+309
+310
+
+313
+314
+317
+
+319
+
+321
+322
+
+323
+
+326
+329
+. .336
+
+339 .
+341
+
+346
+347
+
+350
+362
+363
+
+364
+371
+372
+373
+382
+383
+FOR OFFICML USE ONLY
+
+Chapter VII. The selection of the means of maneuvering and control of
+SVP and providing for stability of motion ....................
+21¢ SVP “Haunting mlities 900......0..O0.00.00.00.00.00IOOOOUOUOtOCOC
+21.1 General information on SVP mneuvering qualities .................
+21.2 Means providing for SVP directional control ..
+21.3 muvenbility of Sv? 000......OIO0.00.0.00...OUOOCIIOOOOOOOOOOCI
+
+21.4 The means of directional control and maneuvering adopted on
+several foreign SVP IIIOOOIOOIOIOOOIOIt.OOOOOOQOOOOIOOCIOCOIOOI0..
+
+21.5 Some recomendations on the arrangement of instruments and
+mechanisms for the control of SVP ................................
+
+22. Providing dinetiml control of SW 0.00.90.000.000.0000000000000...
+2201 Evaluating SVP subility m cult“ IOOOUOODOI.OOUIOOIIOOOOUODIODOU.
+22.2 m turning ability of Sn CI...IOOOIOIOIOIUUIOOUDOOOI'DOODDUOO...
+
+23. Providing dynamic stability in the spatial motion of SVP ............
+23.1 The drawing in under the hull of the ﬂexible enclosure ..........
+23.2 The behavior of the rigid hull when being buried in the sea .....
+23.3 me capsizins of SVP I....0.b.0000000000000000l...'OOOODOOODOIOOO.
+
+Appendices to Part 1.
+Appendix I.The principal characteristics of domstic SPK ..............
+Appendix II. The rincipal characteristics of foreign SPK and
+m fuilitary Hydrofoil ships] Oll...OOIIOIOOIIIOIOIIIOODO
+Appendix 111. Height, size, seaworthiness, and maneuvering character-
+istics of Sn 00....OIOOIIOOIIOOOOOOOOOO0.000IOOIOOOIOOOO
+Appendix IV. The principal characteristics of the main engines and
+Prowlsors of Sn .0toOOOOO..00....OOOIOOOQOUIOCOOOOOOD...
+Appendix V. The mechanical properties of structural materials .........
+Appendix VI. The general arrangement of domstic and foreign SPK ......
+
+Appendices to Part II.
+Apmndix Is The principal cmracteristics of SVPA ooooeeoneeoolooeeeoooll
+Appendix II. The principal characteristics of SVPS . . . . .. . . . . .. .... .. . . .
+
+COPYRIGHT: Izdatel‘stvo "Sudostroyeniye", 1980
+
+9136
+C80: 1861/37
+
+FOR OFFICIAL USE ONLY
+
+Page
+
+386
+
+389
+392
+
+394
+
+396
+397
+
+405
+411
+412
+415
+416
+
+420
+422
+438
+442
+
+446
+449
+
+460
+461
+I‘UI UI‘I'ILOAI. UM UI‘LI
+
+NUCLEAR ENERGY
+
+UDC 621.039.56
+OPERATING AND REPAIRING NUCLEAR POHER STATIONS
+
+Moscow OSOBENNOSTI BKSPLUATATSII I REMONTA A58 in Russian 1981 (signed to press 11
+May 81) pp 2-4, 168
+
+(Annotation. table of contents and introduction from the book "Characteristics of
+the Operation and Repair of AES's." by Leonid Mikhaylovich Voronin. Energoizdat,
+3.5U0 copies,168pages]
+
+[Text] Specific conditions and basic regimes for the operation of AES's with reac-
+tors of various types and the technical and economic indicators of AEs's are exam-
+ined. Much attention is paid to radiation safety and to methods for processing and
+burying the radioactive wastes of AES's. as well as to problems of monitoring the
+working order of the equipment and the condition of the metal of pipelines and of
+the basic equipment during operation. The basic requirements for the manipulabili-
+ty of AES's and the prerequisites for providing for reliable and stable ABS opera-
+tion within power-engineering systems are set forth, along with the main problems
+of organizing and carrying out equipaent repairs at AES'P and questions of deacti-
+vating equipment and of mechanizing repair operations. This publication is a se-
+quel to the book. "Osobennosti proyektirovaniya i scoruzheniya ASS" [Characteris-
+tics of the Design and Erection of AES's] (Moscow, Atomizdat, 1980).
+
+For specialists who are working in the areas of the design, construction and opera-
+tion of AES's.- Can be used by students of power-engineering and engineering-
+physics faculties where courses in the design, construction, assembly, tuneup and
+operation of AEs's are being studied.
+
+Table of Contents
+
+Page
+
+Introduction.........o............cuu........o.......co..o.....-.o......... 3
+Chapter 1. The Operation of an AES.......................................... 5
+1.1. Specific prerequisites for the operation of an AES................... 5
+1.2. \n AES's main operating regimes...................................... 7
+
+1.3. Characteristics of ass operation associated with the fuel cycle and
+
+the need to rechlrge the reactors with nuclear fuel ...... .......... 47
+1.4. Basic tasks and methods for providing for reliable and safe operation
+
+of AES's........;................................................... 53
+1.5. The txoatmcnt of radioactive wastes during AES operation.............. 73
+1.6. Radiation safety during AES operation................................ 83
+1.7. The organizational structure for operation of an AES................. 92
+
+FOR OFFﬂﬂAl.lEﬂE(MVLY
+FOR OFFIOAL USE ONLY
+
+Page
+Chapter 2. The Repair of AES Equipment..................................... 94
+2.]. Characteristics of Al-IS equipment repair............................. 94
+
+2.2. The deactivation of equipment atanAES............................. 96
+2.3. The organization and execution of equipment repair at AES's......... 106
+2 4. The supplying of materials and equipment to AEs's for equipment
+
+repair............................................................ 119
+2.5. Problems of the centralization and specialization of repair work at
+
+AES'S............................................................. 122
+
+2.6. The main directions for raising the effectiveness and quality of
+repair at AES's................................................... 125
+
+a
+
+chapter 3. The Operation of an M25 in a Power-Engineering System. 129
+3.1. The requirements for manipulability of an ABS 129
+3.2. The manipulability characteristics of an A55 134
+3.3. M25 operating regimes in power-engineering systems.................. 143
+
+Chapter 4. The Economics of an AES......................................... 146
+4.1. Characteristics of the economics of an ass 146
+4.2. The technical and economic indicators of an AES..................... 149
+4.3. Ways to raise the technical and economic indicators of an AES....... 158
+
+Bibliography................................................................ 162
+Alphabetical subject index.................................................. 164
+
+lntroduct ion
+
+A new branch of powcr-cngineering—nuclcar-—has made an enormous leap in its devel-
+opment in a comparatively short time (a little more .than a quarter of a century).
+The electrical power of the First AES, which was started up on 21 June 1954 in
+Obninsk, Kaluzhskaya Oblast, was about 5,000 kw. At present the installed capacity
+of the world's nuclear electric-power stations is about 150 million kw. This rapid
+development of nuclear power was occasioned primarily by the limited nature of fos-
+sil-fuel reserves and the unevenness of their distribution about the globe. More-
+over, during AES operation. pollution of the air basin with the sulfur compounds
+and various combustion products that are discharged in large quantities by power
+stations that operate on fossil fuels is precluded.
+
+"...Today, throughout the whole world, power plants are discharging into the atmos-
+phere annually 200-250 million tons of ash and about 60 million tons of sulfur
+dioxide. In the long term. prior to the year 2000. these discharges can grow. re-
+spectively, to 1.5 billion and 400 million tons. But nuclear power stations do not
+need oxygen and do not contaminate the atmosphere with ash. sulfur and other com-
+bustion products. These are 'cleaner' stations...."*
+
+During the 10th Five-Year Plan a major step was taken toward the construction of
+AES's. New capacity was introduced at the Kurskaya. Chernobyl'skaya, Lenin—
+grad, Beloyarskaya. Novovoronezhskaya, Armyanskaya, Rovenskaya and Bilibinskaya
+AES's. The erection of‘ large power units is in the completion stage at the Smo-
+lenskaya, Yuzhno-Ukrainskaya and Kol'skaya AES's.
+
+*Aleksandrov, A. P. "Budushcheye energetiki [Power Engineering of the Future],
+KOHMUNIST, N0 1, 1976.
+
+FOR OFFICIAL USE ONLY
+run Urnpuu. val. UI‘LI
+
+At the end of 1980 the total power of the USSR's nuclear power stations had
+reached 12.5 million kw.
+
+The generation of electricity at AES's is constantly increasing. Thus. in 1980
+alone, the country's nuclear power stations produced 73 billion kw-hr of electrici-
+ty. This is more electricity than was generated at AES's during all the years of
+
+the Ninth Five-Year Plan. During the period 1976-1980, more than 230 billion kw-hr
+were generated at M-ZS's.
+
+During the 10th Five-Year Plan the erection of prototype power units with WEB-1000
+and sN-ooo reactors was completed. The startup and mastery in 1980 of the v unit with a
+vvsa-iooo reactor at the Novovoronezhskaya AES enabled conversion to the intense
+construction of a large series of power units with unified WEE-1000 reactors. Ex-
+perience in the erection and start of the III unit with Bil-600 reactor at the
+Beloyarskaya AES is of enormous significance for the further acceleration of the
+construction of nuclear power stations with breeder reactors.
+
+Analyses are now being made of reactor installations with an [breeder] installa-
+tions with sodium coolant, with a single-unit electricity power of 800 .000 and
+1.6 million kw.
+
+During the 11th Five-Year Plan. in accordance with 26th CPSU Congress decisions.
+the pace of introduction of new capacity at AEs's will almost double in comparison
+with the preceding five-year plan. In 1981-1985 new power units will go into
+operation at the Kalininskaya, Zaporozhskaya, Rovenskaya. Khmel'nitskaya. Yuzhno-
+Ukrainskaya, Rostovskaya and Balakovskaya AES's with wan-woo reactors. New power
+units with Rana-woo reactors will be introduced at the Kurskaya, Smolenskaya.
+Chernobyl'skaya and other AES's, and also at the Ignalinskaya ABS with ERIK-1500
+reactors. All this will enable the generation of electricity at AES's to increase
+still more and to be brought up to at least 15 percent of all the country's genera-
+tion of electricity by the end of 1985.
+
+In the next few years most AES's will operate at the base-load regime. -In this
+case, the largest possible amount of secondary fuel--plutonium. which is necessary
+for supporting the fuel cycle for the next stage of development, which will be
+based on nuclear power stations with breeder reactors—will be turned out.
+
+The nuclear power stations that are operating in the USSR demonstrate reliable and
+safe operation. However, the increase in their number and their siting in regions
+of high population density require that society give serious attention to ques-
+tions of ABS safety.
+
+Questions of the reliability and safety of ABS operation require paramOunt atten-
+tion. AHS designs therefore call for a set of protective. localizing and other
+arrangements and systems for averting major accidents, as well as measures that
+preclude the release of radioactive substances outside the A55.
+
+The wide construction of AES's requires reliable and, what is very important, eco-
+nomical solution of the problems of processing and the later burial of radioactive
+
+wastes.
+
+COPYRIGHT: Energoizdat, 1981
+
+11409
+
+cso: 1861/44 10
+
+FOR OFFICIAL USE ONLY
+l-‘OR OFFICIAL USE ONLY
+
+UDC 621.039.526.001.573
+
+OPTIMIZATION MODELS OF BREEDER RBACTORS
+
+Moscow OPTIMIZATSIONNYYE MODELI REAKTOROV NA BYSTRYKH NEYTRONAKH in Russian 1981
+(signed to press 28 Jan 81) pp 2, 232
+
+[Annotation and table of contents from the book "Optimization Models of Breeder Reac-
+tors," by German Borisovieh Usynin, Aleksandr Sergeyevich Karabasov and Vladimir
+Anatol'yevich Chirkov, Atomizdat. 1,100 copies, 232 pages]
+
+[Text] A mathematical model of a breeder power reactor with sodium coolant is de-
+scribed. The sequence of computations for the reactor's characteristics. beginning
+with analysis of the fuel element and ending with derivation of in—kind and eco-
+nomic indicators, which can serve as an efficiency function for solving problems
+of nonlinear programing, is set forth. Computed data that enable engineering
+evaluations to be made during the development of a breeder reactor are cited.
+
+For specialists engaged in the design of power reactors, students of senior cour-
+ses. and post-graduate students who are specializing in the area of nuclear power,
+and also for mathematicians whoare interestediJIapplications of the theory of
+extremal problems.
+
+Table of Contents
+
+Page
+Foreword................................................... ...... ............ 3
+Introduction..... ..... ....................................................... 5
+Chapter 1. The General Mathematical Nodel of a Reactor...... ..... ........... 9
+
+1.1. Fundamental design and technological solutions for modern breeder
+
+reactors with sodium coolant....................................... 9
+. status of the development of mathematical models of breeder reactors. 28
+
+l 2.
+1.3. choice of optimization parameters........... ...... ................... 37
+1 4. Choice of system for the model...................................... 45
+
+0
+
+Chapter 2. Analysis of the Central Fuel Element and of the Assembly with the
+Greatest Heat Stress........................................... 49
+2.1. An approximate calculation of fuel-element efficiency................ 49
+2.2. Analysis of the geometric characteristics of the TVS [hot-water sup-
+ply] and the volumetric composition of the operating unit.......... 63
+2.3. Thermal and hydraulic analysis of the TVS.......... ..... ............. 68
+
+Chapter 3. Simulation of a Reactor's Neutron-Physics characteristics........ 74
+3.1. A method of approximate simulation................................... 74
+
+11
+
+FOR OFFICIAL USE ONLY
+3.2
+3.3
+
+Chapter
+
+4.1
+4.2
+4.3
+
+Chapter
+
+5.1
+
+5.2
+5.3
+
+Chapter
+
+6.1
+6.2
+
+Chapter
+
+7.1
+7.2
+7 3
+
+Bibliography...............................................w.................
+
+o
+
+e
+
+o
+
+a
+
+1'0“ UI‘I‘ILIAL USP. UI‘LI
+
+Regressive models of physics characteristics.......................
+The use of small-group methods......................................
+
+4. The simulation of Devices for Controlling Reactivity............
+Basic painciples for choosing control devices.......................
+Balance of reactivity.............................................
+The simulation of suz [safety and control rods] devices.............
+
+5. The Reactor's Thermal and Electrical Capacity...................
+Characteristics of the field of heat release in the core and breed-
+
+ing blanket.......................................................
+
+Computation of the reactor's thermal capacity.......................
+Computation of the installation's KPD [efficiency]..................
+
+6. Optimization Criteria...........................................
+In-kind criteria....................................................
+Economic criteria...................................................
+
+7. Some Results of the Use of Mathematical Models of a Reactor with
+an Oxide Fuel.................................................
+Formulation of a problem for nonlinear programing and methods for
+solving it..............................,.........................
+The results of the optimization of various criteria.................
+The effect of the indeterminacy of the initial data on the optimiza—
+
+tion results......................................................
+
+COPYRIGHT: Atomizdat. 1981
+
+11b09
+6302
+
+1861/40
+
+12
+
+F01! OFFICIAL USE ONLY
+
+Page
+86
+106
+
+110
+110
+115
+121
+
+125
+125
+
+149
+156
+
+177
+177
+184
+
+190
+
+190
+201
+
+209
+222
+FOR OFFICIAL USE ONLY
+
+UDC 621.039.58+621.039.7
+RADIATION SAFETY IN NUCLEAR PO‘IER ENGINEERING
+
+Moscow RADIATSIONNAYA BEZOPASNOST' V ATOHNOY ENERGE‘I‘IKE in Russian 1981 (signed to
+press 13 Jan 81) pp 2, 117—118
+
+{Annotation and table of contents from the book "Radiation Safety in Nuclear Power
+Engineering." by Lev Aleksandrovich Buldakov, Dnitriy Ivanovieh Gusev, Nikolay Gri-
+gor'yevich Gusev. Viktor Aleksandrovich Knizhnikov. Oleg Anatol'yevich Pavlovskiy
+and Rita Yakovlevna Sayapina of the Editorial Board of the Deputy USSR Ministry of
+Public health, Atonizdat, 5,000 copies. 120 pages]
+
+[Text] The book, which has been prepared by leading specialists under the Editori-
+al Board of the Deputy USSR Minister of Public Health. cites the results of work to
+provide for radiation safety in nuclear power engineering. The main attention has
+been devoted to the state system for protecting the health of workers and preser-
+ving the external environment. to questions of radiation hygiene. to the creation
+of systems of sanitation legislation for operation and handling of sources of ion-
+izing radiation. to providing for the radiation safety of personnel at nuclear-
+industry enterprises. to evaluation of the radiation situation in regions where
+AES's are sited. to thethernaleffluents of AES's, to problems of radiation safety
+of the population where nuclear power is used for the district heating of cities.
+
+and to the problems of the processing and burial of radioactive wastes.
+
+The book is intended for workers who are associated with solving problems of radia—
+tion safety during the industrial use of nuclear energy in the national economy.
+
+Table of Contents Page
+Introduction ......... ............. ..... .................. ..... ............... 3
+Chapter I. The State System for Protecting the Health of the Population and
+
+for Preserving the Environment...... ..... ...................... 7
+chapter 2. Problems of Radiation Hygiene for the Populace................... 10
+
+2.1. Radiation hygiene-~a new branch of science........................... 10
+
+2.2. The radiation situation in the country............................... 12
+2.3. The biological effects of small doses and their significance in set-
+
+ting standards for hygiene.......................... ..... .......... 18
+
+2.4. Pressing problems of radiation hygiene in nuclear power engineering.. 19
+
+13
+
+FOR 0F?1CLAL.USE(NVLY
+I'Uﬂ UI'I'OLIIII. U§B UI‘LI
+
+Chapter 3. The Creation of a System of Sanitary Norms and Rules for the Use Page
+
+of Sources of Ionizing Radiation.. ...... ... ..... .............. 20
+
+3.1. USSR Norms for Radiation Safety, NRB-76............................. 21
+3.2. Basic sanitation rules for work with radioactive substances and
+
+other sources of ionizing radiation............................... 28
+
+3.3. Sanitation Rules for the Design and Operation of AES's. SP-AES-79... 31
+
+Chapter 4. The Provisioning of Radiation Safety for Personnel at Nuclear
+Power-Engineering Enterprises..... ...... ...................... 37
+
+4.1. Ore-mining enterprises............................................... 38
+4.2. The processing of ores and the manufacture of nuclear fuel.......... 40
+4.3. Nuclear reactors of AES's... ..... . ..... ............................. 43
+4.4. work hygiene during the regeneration of fuel elements and the reuse
+
+of nuclear fuel ....... ..................................,......... 48
+
+Chapter 5. Gas and Aerosol Discharges of AES's and the Radiation Situation
+
+in Regions where They are sited............................... 51-
+1. Reactors as sources of the formation of radionuclides............... 51
+.2. Measures for limiting radioactive discharges into the environ-ent... 53
+3. Radioactive gas and aerosol discharges fron AES's................... 55
+4. The radiation situation in a region of ABS siting caused by radioac-
+
+tive gas and aerosol discharges................................... 60
+
+Chapter 6. Radioactive and Thermal Effluents of ABS's and the Preservation
+of Water Bodies fron Pollution................................ 69
+
+Chapter 7. Nuclear District Resting of Cities and Radiation Safety......... 87
+Chapter 8. Radiation Safety During the Processing and Burial of Radioactive
+
+Waste......................................................... 95
+
+Chapter 9. Evaluation of the Possible Consequences of Exposure of the Popu-
+lace to Radiation............................................. 106
+
+Bib1iography................................................................ 115
+COPYRIGHT: Atomizdat. 1981
+
+11409
+C80: 1861/53
+
+14
+
+FOR 0FF1CLAL.USEI)NLY
+PRACTICAL PROBLEMS OF OPERATING NUCLEAR REACTORS
+
+Moscow PRAKTICHESKIYE ZADACHI P0 EKSPLUATATSII YADERNYKH REAKTOROV in Russian 1981
+(signed to press 24 Mar 81) pp 2, 288
+
+[Annotation and table of contents from the book "Practical Problems in the Opera-
+tion of Nuclear Reactors." by Vladimir Ivanovieh Vladimirov, Energoizdat, 3800
+copies, 288 pages, third edition, revised and supplemented]
+
+[Text] Questions of the physics of power reactors from the point of view of their
+operation are examined. The main attention is devoted to the physical meaning of
+the processes that accompany reactor operation and that determine a reactor's ener—
+gy capabilities and manipulability characteristics. Standard procedures are cited.
+and examples of the solution of practical problems are given, along with problems
+for independent solution (with answers) and monitoring questions for checking on
+assimilation of the material. Certain questions on providing for nuclear safety of
+the reactor and for efficiency of the core, and also on standard procedures for
+making neutron-physics measurements and refinements of the reactor's characteris-
+tics during physical startup and during the operating process,are examined. The
+first edition of the book was published in 1972. the second in 1976.
+
+For scientists. engineers and technicians who create and operate nuclear power-
+engineering installations. and also for those who are preparing for this work.
+
+Table of Contents
+
+Page
+Introduction................................................................ 3
+Basic Abbreviations......................................................... 7
+
+Chapter 1. The Nuclear Reactor as a Source of Energy and Ionizing Radiation 8
+1.1. The atom. The atomic nucleus. Atomic energy...................... 8
+1.2. The chain reaction. The multiplication factor. Reactivity........ 15
+1.3. The reactor's power. Energy release in the core................... 22
+
+1.4. The reactor's ionizing radiation................................... 29
+
+Chapter 2. The Physical Processes That Accompany the Reactor's Operation... 43
+2.1. Burn—up and slugging of the fuel................................... 43
+
+2.2. Fuel breeding...................................................... 49
+2.3. Steady-state xenon poisoning of the reactor......................... 52
+
+2 4. Nonsteady—state xenon poisoning.................................... 61
+2.5. Steady-state samarium poisoning of the reactor..................... 93
+2 6. Nonsteady-state samarium poisoning................................. 97
+
+15
+
+FOR OFFICIAL USEiMVLY
+FUR "It“ IAI. IISI'. UNI.‘
+
+2.7. The temperature effect.............................................
+2.8. Reactor life ..... ..................................................
+Chapter 3. Control of the Nuclear Reactor..................................
+3.1. The parameters that determine the reactor's capacity and the speed
+of change in capacity............................................
+3.2. Subcritical and critical states of the reactor.....................
+3.3. Supercritical state of the reactor.................................
+3.4. Devices for reactor regulation.....................................
+3.5. startup of the reactor, heat-up and operation at the power level
+of the capacity..................................................
+3.6. Stopping and shutdown cooling of the reactor.......................
+
+Chapter 4. Nuclear Safety of the Reactor and the Thermal-Engineering Relia-
+
+4.1.
+4.2.
+4.3.
+
+bility of the Core............................................
+Characteristics of the nuclear reactor as an energy source.........
+The provisioning of nuclear safety for the reactor.................
+The provisioning for the thermal-engineering reliability of the
+
+(301%.... cccccccccc oeocoo...0.00.00to.0000.000oooooooecocaooea.ace
+
+Chapter 5. Neutron-Physics Measurements During Reactor Operation...........
+
+5.1.
+
+U‘Uluu‘
+
+..-
+(”$048)
+0 m . e
+
+o
+
+00“."
+-
+
+DON!
+a
+
+o o
+
+The necessity for and the amount of neutron-physics measurements
+(NFI)ooooooaoeec ooooooo ononeoeooeeoooooeoooeoooeoeoeooeaceeooeaee
+
+Determination of the critical charge...............................
+Calibration of the regulating devices..............................
+The plotting of differential and integral characteristics..........
+The determination of temperature and power effects and the coeffi-
+cient of reactivity..............................................
+Determination of steady-state and nonsteady-state xenon poisoning
+of the reactor...................................................
+Refinement of the power-generation curve...........................
+Determination of the distribution of energy release................
+Refinement of the physical characteristics of the regulating
+
+devices..........................................................
+
+Monitoring Questions and Problems for Independent Solution..................
+Answers to the Monitoring Questions and Problems for Independent Solution...
+Appendiccs................ ...... ............................................
+
+8ibliography................................................................
+
+COPYRIGHT: Atomizdat. 1976 Energoizdat. 1981
+
+11409
+
+CSO: 1861/41
+
+16
+
+FOR CHﬂﬁCJA1.USI2(HQLY
+
+Page
+107
+115
+
+128
+
+128
+129
+140
+149
+
+169
+182
+
+194
+194
+197
+
+216
+223
+
+223
+224
+229
+240
+
+245
+
+248
+251
+252
+
+254
+
+256
+261
+271
+287
+FOR OFFICIAL US“, ONLY
+
+UDC S33.92;621.039.6l
+
+CALCULATING COMPRESSION 0F DT-HIXTURE BY ELBCTRICALLY IMPLODED CYLINDRICLs SHELL
+
+Novosibirsk ZHURNAL PRIKLADNOY HERBANIKI I TEKHNICHESKOY PIZIKI in Runninn No 6,
+Nov-Dec 80 (manuscript received 8 Oct 79) pp 3-10
+
+[Article by V. I. Afonin. Yu. D. Bakulin and A. V. Luchinskiy. Chelyabinsk. Tomsk]
+
+[Text] One way to solve the problem of controlled nuclear fusion is to heat a
+target containing a DT mixture as it is compressed by a dense shell accelerated
+
+to velocities of the order of 107 cm/a or more [Ref. 1]. One of the ways to do
+this is by using megagauss magnetic fields [Ref. 2]. An attractive feature of
+this technique is the capability of getting a comparatively high (211) coefficient
+of transfer of initially stored energy to the shell. In this process. kinetic
+energy is picked up both due to magnetic field pressure. and due to dispersal of
+matter from the surface of the shell. Both mechanisms of acceleration operate
+
+in electric implosion of the shell by an intense current pulse. Ref. 3 gives the
+calculation of electric implosion of a thin cylindrical shell when a megajoule
+capacitor bank is discharged across it. The calculation yields compression rates
+of up to 3'107 cm/s; however. because of the comparatively slew rates of increase
+in current provided by capacitor banks, it is necessary to take a very low initial
+relative thickness of the shell of ~10". The heating of the gas filling the shell
+and the conditions of the fusion reactions were not considered in Ref. 3.
+
+Ref. 4 gives the results of numerical calculation of compression and thermonuclear
+ignition of a DT mixture as it is compressed by a cylindrical shell. It is found
+in the calculations that combustion of deuterium-tritium with positive energy yield
+is possible when a constant power of 23 10:" H is released in the shell. Although
+it is pointed out that an electrodynamic method can be used for releasing such
+power. the matter is not pursued further. nor are magnetohydrodynamic effects in
+
+the shell and plasma considered.
+
+Our paper is an attempt at a computational evaluation of feasibility of attaining
+nuclear fusion by electric implosion of a shell. Consideration is taken of processes
+
+in the electric circuit of the facility. magnetohydrodynamic processes in the target.
+and the caurse of fusion reactions. Compression of the shell is taken as ideally
+
+symmetric. Problems of the stability of compression [Ref. 5] are not considered
+in this paper.
+
+An analysis was made in Ref. 6 of electrophysical facilities from the standpoint
+of their capabilities for setting up energy densities of the order of megajoules
+
+17
+
+FillCﬂﬂﬂC1A1.USB(NVLY
+FOR OFFICIAL USE ONLY
+
+per gram in a wire upon electric explosion. It was shown that such a capability
+can be realized if lines connected in parallel with distributed parameters are
+discharged into a load in the shape of a cylindrical shell. Therefore in the fol-
+lowing we will limit ourselves to consideration of electric explosion of copper
+cylindrical shells located in the center of a disk collector to which a system
+
+of lines is connected in parallel.
+
+To describe electric explosion of a cylindrical shell. we have used a system of
+one-dimensional equations of magnetogasdynamics (H60) with thermal conductivity.
+where the latter is accounted for in the diffusion approximation. The coefficient
+of thermal conductivity was taken as proportional to the 5/2 power of temperature.
+1. e. it was assumed that heat is transferred by electrons. It there was gas inside
+the shell. the energy of bremsstrahlung arising upon compression of this gas did
+
+not return to the shell. but was extracted from the load by the appropriate heat
+
+sink function. The energy of alpha particles of thermonuclear origin absorbed
+in the gas was also disregarded.
+
+As in Ref. 7 in calculations of processes in copper. we used an interpolation equa-
+tion of state (Ref. 8] describing the vaporization of copper and the region of
+
+the vapor-liquid mixture. The way that electrical conductivity of copper depends
+on density and thermal energy was also described as in Ref. 7. In the temperature
+region up to a few electron-volts and at densities greater than 0.1 g/cm’. the
+electrical conductivity was selected on the basis of experiments on electric explo-
+sion of wires. In the region of densities lower than 0.01 g/cm3 and temperatures
+of 10-100 eV. the data on electrical conductivity were taken from Ref. 9. where
+they were calculated from the Saha and Boltzmann equations with consideration of
+shielding. In a certain region of states of copper. electric conductivity was
+interpolated between calculated experimental values and data of Ref. 9. and in
+isolated cases was even extrapolated to temperatures greater than those considered
+in Ref. 9. Naturally. the accuracy of interpolation and extrapolation requires
+experimental verification. However. calculations show that such states of copper
+are reached only in the last phases of compression. and errors in the description
+of electrical conductivity even by two orders of magnitude do not cause any appre-
+cialbe change in the compression process. The equation of state of an ideal gas
+with y- 5/3 was used in calculating gases of D2 or UT enclosed in a shell. 0n
+
+the other hand, if the DT mixture was frozen. it was taken into consideration with
+the following equation of state:
+
+‘1 2
+n = p: -I- I). = 7+" (6" — 1) -:- m6!"
+
+8 -" aI + £1, 2, '= -' $.er,
+r
+
+m, if 6<:6p ' e,‘ . 2 a,
+ll: 11,. 1f 51<6<6p r“ ( '(T)rl-TV. 1f ¢r<on
+5/3. 1 E 6> 6,, 233. if ¢2>Q,
+
+where no and co are the initial density and speed of sound. 6 is relative density.
+p is pressure. c is specific energy density. v is specific volume. In accordance
+with the experimental data given in Ref. 10. the constants in this equation of
+state were taken as equal to the following quantities:
+
+18
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+p.-o.2 g/cn’. c.- 1.73 Ina/s. n1-3, 02' 2.
+a. - lo. a, -1co. 13,- 2/3. 0-0.27 kJ/g.
+
+The gas compressed inside the shell was taken as conductive. In this assumption,
+consideration was taken of heating of the gas bath due to the work done by the
+shell. and due to joule heat released during passage of current. The electrical
+conductivity of the gas was determined from formulas of electrical conductivity
+of completely ionized hydrogen plasma from Ref. 11. The possibility of ariaal
+of individual channels of electric breakdown was disregarded in the calculations.
+
+The system of HGD equations for calculating the load was solved on a computer to-
+gether with the system of equations of the electric circuit. Line length and storage
+of energy in the lines were determined after completing calculation of the process
+based on its time. The collector of the facility was treated as a disk line with
+wave impedance depending on radius.
+
+If the time of wave propagation through the collector is much less than the time
+
+of wave propagation through the main lines. then the current in the line-collector-
+losd system (at constant load resistance R1) varies exponentially from a value
+
+of Uo/(Rciﬂz) to Uo/(Rzi-Ro). where U. is the voltage to which the lines are charged.
+R9 is the wave impedance of the coaxial line system, RC is the circuit resistance,
+
+1. e. the sum of R0 and the collector resistance. Therefore a fairly good approxi-
+mation of the equivalent circuit of the facility is that shown in Fig. l, where
+
+Req is taken as
+
+Req‘Ro+(Rc‘Ro)e-lho
+
+where 1 is the time of wave passage through the collector.
+
+ 
+
+ 
+
+nsq Ll ’
+Fig. l
+
+A series of calculations has confirmed the validity of the relations derived in
+Ref. 6. H60 calculations showed that dependence of the rate of acceleration-of
+the inploding copper shell and the energy input on voltage U. is comparatively
+weak. With an increase in 00 from 0.75 to 2 UV. there is a slight reduction in
+the time of collapse of the shell and an increase in energy input. A further in-
+crease in Ho has practically no effect on these quantities. but apparently should
+lead to complication of the construction of the facility. A reduction of R0 in-
+creases the rate of current rise in the load, and hence also increases the rate
+of energy input. The latter is a decisive factor in achieving nuclear fusion.
+Unfortunately there is a limit below which no change in R. can increase the rate
+of energy input. This limit is the load resistance R; that begins to determine
+
+19
+
+FOR OFFICJAI.lEﬂ!(MﬂLY
+FOR OFFICIAL USE ONLY
+
+the rate of energy input to the conductor at 3.01;. Nor does it make any sense
+to reduce Ro below R; from the standpoint of energy expenditures. since the energy
+stored in the lines at fixed 00 and process time o is inversely proportional to
+R0. and the process of energy input is determined by the quantity R1.
+
+R; can be reduced only by either reducing the length of the cylindrical conductor,
+or by increasing its radius. of particular significance for the process is an
+increase in the radius of the shell. Such an increase leads to an increase in
+acceleration (due to an increase in the rate of current rise) as the shell is ac-
+celerated by the magnetic field;
+
+to an increase in the base of acceleration of the shell (as mass remains constant);
+to an abrupt increase in the maximum velocity of dispersal of the shell (due to
+
+the first two factors); to a reduction of heat losses in the gas (due to a reduc-
+tion in the time of compression). The aggregate of these factors produces a sharply
+nonlinear rise of maximum temperature of the compressed gas with increasing radius
+and decreasing relative thickness of the copper shell.
+
+The calculations showed that with other parameters fixed. the maximum temperature
+of the compressed gas is most significantly dependent on its initial density Do-
+
+To get temperatures in the gas of the order of several keV necessary for the be-
+ginning of a thermonuclear reaction. the conductor must be filled with gas at pres-
+sure of the order of atmospheric or less. 1. e. 9.50.0002. An increase in p. by
+two orders of magnitude led to nearly cold compression of the gas. '
+
+The results of calculations show that the length of the lines can be taken such
+that the double time of wave transmission through the lines is somewhat less than
+the time of shell compression. In this case. the second part (in time) of the
+process takes place with somewhat lower voltage across the lines. but this has
+little effect on the final result since most of the energy consumed by the load
+is already in its magnetic field.
+
+These research calculations were not intended to optimize the load on any given
+facility. The main purpose of the calculations was to determine the laws governing
+the process of compression of matter in electric implosion of a cylindrical shell.
+and to demonstrate the feasibility of this method from the standpoint of achieving
+nuclear fusion. Several variants of calculations of various systems are given
+
+below.
+
+Variant l. A copper shell with length of 1 cm and thickness of 0.01 cm and with
+outside radius of r"- 1.25 cm is filled with a gaseous DT mixture with initial
+den.ity 90- 3'10“5 g/cm’. The shell is connected through a collector to a system
+of lines charged to Do- 2 HV with total wave impedance of {lo-0.005 9.
+
+Preliminary calculation showed that maximum compression of the gas occurs at
+t-r0.33 us. On this basis, the length of the lines was taken as equal to 280 cm.
+which corresponds to energy storage of 36 NJ. At time t- 0.17 us. the voltage
+across the lines had fallen to 1.8 NV. The calculation showed that the maximum
+
+velocity of the shell was reached at its inside boundary. being 20 cm/us. Pig. 2
+shows graphs of the time dependence of the inside radius of the shell r, and the
+average gas temperature Tc. Profiles of temperature T and density p in the shell
+
+20
+
+FOR 0F!ﬂ(1Al.lEﬂ§(HVLY
+
+FOR OFFICIAL USE ONLY
+
+and gas system as shown in Fig. 3 refer to the instant near the time of maximum
+
+gas compression. Temperature and density are nearly constant in the gas. Since
+the thermal conductivity in copper falls sharply with increasing density, the high
+density peak near the inside boundary of the copper abruptly reduces the heat trans-
+fer from the gas. This explains the rapid drop in temperature in the narrow layer
+of copper adjacent to the boundary. The quantity r, on Fig. 2 denotes the position
+of the interface between gas and shell.
+
+The energy transferred to the shell and gas was 10 and 0.06 “J respectively. Maxi-
+mum energy in the shell was 20 MJ/g. The neutron yield of the system was 6-10"7
+neutrons. and the energy of the alpha particles absorbed in the gas was three times
+the energy of the gas transferred to it by the shell. However. we cannot expect
+any intense thermonuclear flare here [see Ref. 12] as the naiimun I 9 (It in the
+
+gas was 0.03 g/cm2.
+
+Variant 2. The mass is reduced in the copper shell as compared with variant 1.
+Its outside radius is increased to 2 cm with shell thickness of 0.001 cm. and the
+length of the shell remains 1 cm. Inside the shell to a radius of 0.17 is 171' gas
+with density of 10" g/cm’. surrounded by a frozen layer of DT (0.17<r<0.2) with
+density of 0.2 g/cm’. Between this layer and the shell is a gap filled with gas
+of low density p- 2-10" g/cm’. The voltage across the lines was taken as 2 NV
+and the wave impedance of the lines was Ito-0.0075 9. At time t-0.l35 us the
+voltage had fallen to 1.71 W. *
+
+Fig. b shows time dependences of the outside :-H and inside r. radii of the shell.
+and also of the outside rK and inside r, radii of the frozen at layer. After im-
+pact of the shell along the DT layer, the velocity of their interface was 37 cm/us.
+and the inner surface of the layer was accelerated to 42 cm/us. Within 3 ns after
+impact the gas is compressed to r,- 10.3.10's cm. and its average temperature rises
+to 8.5 Rev. A little previous to this instant the temperature and density in the
+or layer have the profiles shown in Pig. 5. He note that within 0.4 ns the DT
+
+layer is compressed, the profiles in the layer are equalized. and the average values
+of temperature and density are 0.6 keV and 40 g/cm’. 0f the 21 NJ originally stored
+in the lines. 7 and 1 NJ respectively are transferred to the shell and the UT.
+
+The maximum values of the internal energy in the copper close to its inner boundary
+reach 70 HJ/g. The energy of the alpha particles absorbed in the gas was 7 times
+the energy from compression of the gas by the shell, the quantity Io dr was 0.4 g/cm’
+and the neutron yield was of the order of 10", half of this amount falling to
+
+the DT gas. and the other half to the initially frozen DT layer.
+
+Variant 3. 01‘ gas with density ”-0.07 g/cm’ is enclosed in a copper cylindrical
+shell 0.012 cm thick with outside radius r..- 1.2 cm. Length of the shell is 3 cm.
+A system of lines with voltage U.‘ 2 11V and wave impedance Ila-0.03 ﬂ is discharged
+across the shell. The problem was considered to ascertain the consequences of
+compressing a gas of high initial density.
+
+The compression process took place comparatively slowly: rate of dispersal of
+the shell did not exceed 4 cm/us. Maximum compression was only 220. The gas was
+practically unheated. By the instant of maxim. compression the gas was a thin
+column of high-density cold matter. The quantity Io dr rose to 0.92 g/cm’. Shown
+on Fig. 6 are graphs of the time dependence of the outer r" and inner r3 radii
+
+22
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+of the shell and the quantity Io dr. Calculation shows that of the 26 NJ of initial
+energy. 21 NJ is transferred to the she11+ gas system. of this energy. 4.2 HJ
+
+make up the energy of the shell, 3.5 HJ comprise the energy of the gas, and the
+remainder is in the magnetic field of the system. It should be noted that the
+required initial energy store in the lines is appreciably dependent on the maximm
+value of In dr. For example, only 12 FL] of the initial energy store is needed
+
+to get a value of 0.67 for this quantity.
+
+One thing that all calculations have in comon is that when the impedances of the
+load and lines are sufficiently well matched. a large percentage of the energy
+
+stored in the lines is transferred to the load and its magnetic field. In calcu-
+lation of one system with energy store of 2.5 "J. this fraction came to more than
+90!, the load energy proper exceeding 301 of this store. Let us note that for
+
+this system we cannot expect self-heating of the gas due to a thermonuclear reaction;
+however. the neutron yield found in the reaction was rather high: ~10”.
+
+It is interesting to note a characteristic feature of gas compression with electric
+implosion of a shell that is associated with the change in distribution of conduc-
+tivity in the conductor during the process of electric implosion. 1n the initial
+stage. due to the skin effect the maximum current density falls to the region of
+
+the conductor that is adjacent to its outside boundary. The magnetic field prevents
+outward dispersal of the conductor; however. a slight density reduction and the
+contribution of joule heat still reSult in a drop in conductivity of the outer
+
+part of the conductor by about two orders of magnitude. This intensifies the pro-
+cess of penetration of the magnetic field and maximal: current density into the
+conductor. The magnetic field approaches the inner boundary of the copper shell
+with a large gradient. A rapid rise in magnetic and hydrodynamic pressures (due
+
+to high current density and release of joule heat) causes abrupt acceleration and
+load relief of the inside part of the shell. The gas with low density and pressure
+located inside the shell does not hold back this pressure. As the density of the
+inner part of the conductor drops, its conductivity decreases and becomes mini-m
+(with respect to the cross section). The current density curve drops sharply with
+decreasing radius. Contributing to this behavior is the distribution of density
+(and accordingly of conductivity) that is set up in the shell, falling off from
+
+the outer boundary toward the inner boundary. From about this moment. the inner
+layers of the shell continue to travel by inertia, while the outer layers, and gradu~
+ally the entire mass of the shell begin to be accelerated by the magnetic field.
+This process continues until the inner layers begin to decelerate due to resistance
+of the compressed gas. After this, the densities are equalized, and consequentlv
+
+so are the conductivity and density of the gas over the cross section of the conduc-
+tor. The current density gradient remains high only in a narrow neighborhood of
+
+the inside boundary of the conductor. This produces an additional impact on the
+
+gas near the instant of maximum compression. This is illustrated by Fig. 2, where
+we can see that the inside radius of the shell acquires additional inward accelera-
+tion near the instant when it stops.
+
+Let us say a few words about the effect that the current passing through the gas
+has on the process of compressionof the gas by the shell. The behavior of the
+process in all calculations was the sane. Appreciable conductivity in the gas
+was noted at times close to the instant of maximum compression of the gas, when
+its temperature rose to a value of 1 keV. As the gas was further compressed,
+
+23
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+its conductivity increased rapidly. becoming several orders of magnitude greater
+
+than that of copper. Current began to flow through the gas. but despite the dif-
+ference in conductivities of the materials pointed out above, the current density
+
+in the gas was comparable with the densities of current flowing in the copper be-
+cause of the small radii. and hence the large inductive reactance. And since the
+cross sectional area of the gas at these instants was several orders of magnitude
+less than the cross sectional area of the copper. nearly all the current went through
+the copper conductor. The difference of maximum temperature reached in the gas with
+and without consideration of conductivity was no more than a few percent.
+
+The efficiency of these installations may be comparatively high. For example in
+variant 2 a comparatively small fraction of the DT (about 11) needs .3 be reacted
+to get an overall efficiencygreaterthan unity (with respect to the initial energy
+store in the lines).
+
+Assumptions to simplify calculations are: one-dimensional approximation. consider-
+ation of heat conduction in the diffusion approximation. one-temperature plasma.
+and some others that idealize the described results. Therefore the calculations
+only illustrate the maximum capabilities of these systems. More complete consider-
+ation of the physical phenomena that occur in electric implosion of cylindrical
+shells may make considerable coorections both in the results of the calculations
+and in the choice of parameters of the systems. However. the calculated results
+and data published in Ref. 1-5 show the advisability of further research on com-
+pression processes in electric implosion of cylindrical shells.
+
+REFERENCES
+
+l. Linhart. J. 6.. "Very-High-Density Plasmas for Thermonuclear Fusion". NUCLEAR
+FUSION. Vol 10. No 3, 1970.
+
+2. Linhart. J. 6.. "Rocket-Driven Liners for Fusion Triggers and for Very-ﬂigh-
+Density Reactors", NUCLEAR FUSION. Vol 13. No 3. 1973.
+
+3. Turchi. P. J.. Baker. R. L., "Generation of High-Energy Plasmas by Electro-
+magnetic Implosion". APPLIED PHYSICS, Vol 46, No ll, 1973.
+
+a. Varnum. w. 8.. "Electrically Imploded Cylindrical Fusion Targets". NUCLEAR
+FUSION, Vol 15. No 6. 1975.
+
+5. Harris. E. 6., "Rayleigh-Taylor Instabilities of a Collapsing Cylindrical Shell
+in a Magnetic Field". PHYSICS 0F FLUIDS. Vol 5. No 9. 1962.
+
+6. Bakulin, Yu. D.. Luchinskiy. A. V.. "Estimates of Feasibility of Getting High
+Energy Densities in Electric Implosion of Cylindrical Shells". ZHURNAL
+PRIKLADNOY HEKHANIKI I TEKHNICHESKOY FIZIKI. No l. 1980.
+
+7. Bakulin. Yu. D.. Kuropatenko. V. F.. Luchinskiy. A. V.. "Magnetohydrodynamic
+Calculation of Exploding Hires". ZHURNAL TEKHNICHBSKOY FIZIKI. Vol 46. No 9.
+1976.
+
+8. Kuropatenko. V. F.. Nechay, V. 2.. Sapozhnikov, A. T.. Sevast'yanov. V. Ye..
+"Doklad na Vsesoyuznom seminars po modelyam mekhaniki sploshnoy sredy" [Report
+
+26
+
+FINICNHHCJAL USIZ¢NHLY
+9.
+
+[0.
+
+ll.
+
+12.
+
+FOR OFFICIAL "SF. ONLY
+
+to the All-Union Symposium on Models for Mechanics of Continuous Media].
+Novosibirsk, 1973.
+
+Kalitkin, M. N., Kuz'mina. L.V.. Rogov, V. 8.. "Tablicsy termodinanicheskikh
+funktsiy i transportnykh koeffitsiyentov plazmy" [Tables of Thermodynamic Func-
+tions and Plasma Transport Coefficients]. Institute of Problems of Mechanics,
+
+USSR Academy of Sciences, 1972.
+
+Grigor'yev. P. V., Kormer. S. 3.. Mikhaylova, O. L.. Tolochko, A. P.. Urlin,
+V. 0., "Equation of State of Molecular Phase of Hydrogen in Solid and Liquid
+
+States at High Pressure". ZHURNAL EKSPERIMERTAL'NOY I TBORETICHESKOY FIZIKI.
+
+Vol 69. No 2(8), 1975.
+
+Braginskiy, S. 1., “Voprosy teorii plazmy" [Problems of Plasma Theory].
+Cosatomizdat. 1963.
+
+Mason. R. J.. Morse. R. 1.. "Tanped Thermonuclear Burn of DT Microspheres",
+NUCLEAR FUSION. Vol 15. No 5, I975.
+
+COPYRIGHT: lzdatel'stvo "Nauka". "Zhurnal prikladnoy mekhaniki i tekhnicheskoy
+fiziki". 1980
+
+6610
+C80: 8145/0238
+
+25
+
+I133 0F?!CJAI.UGIE(NULV
+FOR‘OFFKJAI.USE(NNLY
+
+NON-NUCLEAR ENERGY
+
+DEVELOPMENT OF TURBOGENERATOR CONSTRUCTION IN USSR
+
+Kiev TEKHNICHESKAYA ELEKTRODINAHIKA in Russian No 6. Nov-Dec 80 (manuscript re-
+ceived ll Aug 80) PP 29-38 ' .
+
+[Article by Ya. B. Danilevich, doctor of technical sciences, deputy director of
+All-Union Scientific Research Institute of Electric Machine Construction, Leningrad]
+
+[Text] In 1920 with proclamation of the GOBLPO Plan [Gosudarstvennaya komiasiya
+po elektrifikatsii Rossii; State Commission on Electrification of Russia], our
+nation was producing 500 million huh of electric energy per year. In 1979 we pro-
+duced 1200 billion kWh, i. e. 2400 times as much.
+
+About 752 of our electric energy is produced in fossil-fuel plants. In the ensuing
+years we have built such large GRES's as those in Zaporozh'ye. Uglegorsk and else-
+where.
+
+Development of nuclear power has advanced considerably in recent years. Powerful
+Ans's have been built: Beloyarsk, Novo-Voronezhsk. Kurak. Leningrad and so on.
+
+Keeping pace with the development of fossil-fuel and nuclear electric plants has
+been the development of Soviet turbogenerator construction. The power of the first
+Soviet turbogeneratcr was 500 k". At the present time the first turbogenerator
+
+set with power of 1200 NH and speed of 3000 rpm has been put on-line at the Kostroma
+GEES. and the Elektrosile Plant has tested the first 1000 MN, 1500 rpm turbogenerator
+for an A28.
+
+The development of turbogenerator construction is directly related to the largest
+electric machine building plants of Leningrad Industrial Power Association:
+Blektrosila, Blektrotyazhmash and Sibelektrotyazhmash. and to the leading scientific
+research centers: the All-Union Scientific Research Institute of Electrical Ha-
+chine Building, the Scientific Research Institute of the Blektrotyazhmash Plant.
+
+the Scientific Research Institute of the Sibelektrotyazhmash Plant. and the Insti-
+tute of Electric Motors. UkSSR Academy of Sciences.
+
+Let us examine the principal stages of development of turbogenerator construction.
+
+Prewar Stage of Development. Preparation for turbogenerator production was started
+in [923 at the Elektrosila Plant. The first turbogenerators with power_of 500-
+3000 k" were made in accordance with blueprints of the Vol'ta Plant that were trans-
+ferred to the Blektrosila Plant during World War 1. Ten turbogeneratora of this
+type were built in 1926 with total power of about [2,000 k".
+
+26
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+From 1924 through 1928 production was mastered on a series of turbogenerators in-
+cluding 14 types of machines with power from 300 to 16,000 RH. In 1929 this series
+was updated with a reduction in number of types to 9. the power range of the machines
+being from 500 to 24,000 kw. Structural components were welded rather than cast
+
+in the new series. and the bearings were improved. The rotors and banding rings
+were ordered from abroad. Class A insulation was used for the rotor windings with
+the exception of machines with power of 26,000 kw. Active steel sheets were paper-
+insulated. The stator winding in the groove section was insulated by a micanite
+sleeve, the end sections of the windings were evolute. turned back at an angle
+
+of 90° and insulated by varnished strips. A tangential-radial (pocket) cooling
+system was used for the stator. while an axial cooling system with subslot channels
+was used for the rotor. Air circulation in the machine was provided by squirrel-
+cage blowers on the rotor, the ventilation system was closed with the use of air
+coolers.
+
+A great advance in the thirties was mastery of four-pole turbogenerators of 50.000
+kw power with introduction of new technological processes at the Blektrosila Plant
+[Ref. 10].
+
+Stator winding insulation was continuous, impregnated. made from micatape. Impreg-
+nation was with asphalt under pressure in special impregnating autoclaves. The
+
+end sections began to take the shape of a tapered basket, appreciably reducing
+
+the additional short-circuit losses; nonmagnetic stator pressure plates were first
+used for the same purpose.
+
+The rotor winding had class B insulation. The insulation in the slotted section
+was made in the form of a micanite sleeve; the end sections were insulated by mica-
+tape and asbestos tape; aluminum saddles were placed over the insulated end sections.
+
+The turbogenerator had a radial multi-jet cooling system with all cooling air
+blown through the gap.
+
+In 1938. the Khar'kov Turbogenerator Plant made the first turbogenerator (four-
+pole) with power of 100,000 k". This unit had a compound (three-piece) rotor with
+mass of 100 metric tons. This turbogenerator is even now in successful operation
+at the Zuyevskaya CRES.
+
+The development of Soviet turbogenerator construction subsequently has taken the
+road of two-pole turbogenerator construction.
+
+In 1937 the Blektrosila Plant developed a new series of T2 turbogenerators with
+power from 750 RH to [00.000 k".
+
+A turbogenerator with power of 100,000 h" was made in 1937 for the Novomoskovsk
+GRES. The mass of the rotor forging was about 50 metric tons. The forging was
+made from an ingot with mass of 150 metric tons. The yield stress of the material
+was 55 kg/mm’. relative longitudinal extension was more than 161. The generator
+was cooled by four free-standing blowers. The rotor had surface cooling.
+
+Turbogenerator Construction in the Parties and Fifties. In 1966 the Elektrosila
+Plant made the first hydrogen-cooled turbogenerator with power of 100.000 kw. The
+generator had the same geometry of active sections as the air-cooled turbogenerator.
+
+27
+
+POI! OFFICIAL USE ONLY
+FOR(MHWCJAL.USE(NNLY
+
+The housing of the machine was made gas-tight and strong. and the machine was
+equipped with hydrogen cooling units. According to test data. generator efficiency
+was raised by 11.
+
+The next stage in development of turbogenerator construction was a 150.000 RH
+hydrogen-cooled turbogenerator made in 1957. This unit now took full advantage
+
+of hydrogen cooling. The turbogenerator was built for a voltage of 18 kV and
+
+power factor of 0.9 with excess hydrogen pressure of 0.7 atm. The rotor diameter
+was 1075 mm. and the yield stress of the material was increased to 60 kg/mmz.
+Nonmagnetic steel with yield stress of 90 kg/mm2 was used for the banding rings
+
+of the rotor. Axial blowers were used. situated to either side of the rotor barrel.
+The rotor was cooled from the outside of the barrel. and in addition the gas was
+
+fed beneath the end sections of the rotor winding. The stator was cooled by a
+multi-jet radial arrangement. For cooling the gas, eight gas coolers were provided.
+installed vertically in sets of four on each side. This 150.000 k" turbogenerator
+was the largest in Europe at that time. and was at the limit of overall dinensiona.
+
+In 1955. turbogenerator construction was transferred from the Khar'kov Turbogenerator
+Plant to the State Union Plant of Diesel-Locomotive Electric Equipment. today's
+Blektrotyazhmash Plant imeni V. I. Lenin. In 1955 the Blektrotyazhmash Plant worked
+out an original design for type TGV-ZS turbogenerator with indirect hydrogen cooling
+at a hydrogen pressure of 0.03 atm. This design used welded stator shields with
+built-in bearings. a disk hydrogen seal with low oil flowrate. vertical placement
+
+of the gas coolers. fan coolers on the shaft, and cantilevered rotor banding rings.
+
+In 1956. on the basis of the TGV-ZS turbogenerator, the first TVS-30 turbogenerator
+was built with power of 30.000 k" with hydrogen cooling at pressure of 0.03-0.5
+atm. Height was lower and heating of the and sections of the rotor winding was
+reduced as compared with the TGV-ZS turbogenerator.
+
+Turbogenerators With Power of 700,000 and 300.000 k". At the same time that
+turbogenerators with indirect hydrogen cooling were being produced at the Blektro-
+sila and Elektrotyazhmash plants in 1956-1957. considerable research was being
+done to develop new cooling systems.
+
+At the Blektrosila Plant, based on research that had been done. a system was de-
+veloped for direct cooling of the rotor winding by hydrogen drawn from the gap
+between rotor and stator.
+
+At the Blektrotyazhmash Plant. the TVO-30 turbogenerator with power of 30.000 kw.
+voltage of 10.5 kV was developed. manufactured and tested. This turbogenerator
+
+used direct hydrogen cooling of the stator and rotor windings at a hydrogen pressure
+of 3 atm. The stator core had an axial ventilation system. A compressor was used
+to develop the necessary hydrogen head. An oil end seal for the shaft was used
+
+for the first time with piston rings between the yoke and the insert of the seal.
+
+In 1957. on the basis of research that had been done. the Blektrosila Plant started
+making 200.000 kw turbogenerators type IVY-200 with voltage of 11 kV using indirect
+hydrogen cooling of the stator winding and direct cooling of the rotor winding
+
+with hydrogen drawn off from the gap. An original multi-jet hydrogen cooling system
+with improved technological properties was used for cooling the rotor winding.
+
+An advantage of the system is the comparatively low nonuniformity of heating of
+
+28
+
+FOR#0FFRJAI.USE(NVLY
+INDR‘OFIWCJAI.IJSEI(HNLY
+
+the winding with respect to the length of the rotor. Besides. this system does
+
+not require high gas pressures. and therefore ordinary axial fans can be used
+
+that ensure overall circulation of the gas in the machine. Lengthwise of the rotor.
+sections with input orifices on the surface of the active part alternate with sec—
+tions of output orifices. providing the multiple jets in the system. The end sec-
+tions of the winding are cooled by gas that flows through internal channels milled
+in the turns of the winding. The winding and core of the stator are cooled by
+hydrogen circulating through radial channels in the core and in the zone of the
+
+end sections of the winding. The stator is cooled by a three-jet radial system.
+The sectioning of the rotor is matched to the stator ventilation arrangement.
+
+After making two TVF-ZOO turbogenerators. it was deemed advisable to use water-
+cooled stator windings for 200,000 kw machines. Therefore the TVP series was sub-
+sequently retained for powers of 60.000 and 100.000 k”.
+
+The construction and technology for manufacturing water-cooled windings were studied
+on an experimental 30.000 kw turbogenerator. Tests of the machine showed high
+efficiency of the system. and therefore it was used for turbogenerators of
+
+150.000 k" or more.
+
+The first turbogenerator of the TVV series with power of 150.000 kw and voltage
+
+of 18 kV with water-cooled stator winding and direct hydrogen cooling of the rotor
+winding was made by the Elektrosila Plant in 1959. Subsequently, TVV-ZCO-Z turbo-
+generators were built with powers of 200.000 k". 15 and 75 kV. and the TVV-300-2
+with power of 300,000 kw. 20 kV. These units were series produced.
+
+Water cooling of the stator windings is accomplished by forcing water through in-
+ternal channels in the conductors of the cores. The hollow conductors in the cores
+alternate with solid conductors. The ends of each rod are soldered to polepieces
+that have lugs for current connections and a chamber for the cooling water. The
+cooling water is fed to the chambers of these polepieces by insulation hoses from
+a ring-shaped header. Cooling of the rotor winding is by direct water feed of
+
+the TV? type.
+
+In connection with the reduction in hydrogen consumption, a single-jet draft system
+was used for cooling the stator core with bilateral drawing of the gas from the
+gap between rotor and stator.
+
+Turbogenerators of the TVV type are made on pedestal bearings. The bearing inserts
+are self-leveling with spherical support surface. Unitized housingsare used in
+[50.000 and 200,000 kw machines with openings for the gas coolers. which are hori-
+zontally placed. A takedown housing is used in the 300.000 kH turbogenerators.
+
+In these units the length of the central part is approximately equal to the length
+of the active part. and the end sections of the housing, which are rectangular
+
+in shape, cover the end parts of the stator winding and accommodate the gas coolers
+and leads. The end parts are secured to the middle section. The 200,000 and
+300.000 kw turbogenerators use an elastic suspension for the stator core. In the
+ribs of the stator on which the stator core is assembled. at the points where they
+are fastened to the walls of the housing, slots are cut through in the tangential
+direction so that the core is joined to the housing through a system of-springé
+like supports.
+
+29
+
+FOR‘OFFKJA1.USEIJNLY
+FYI!‘NWW(1AI.USFCNNLV
+
+The stator core is assembled of sheets of cold-rolled transformer steel with spe-
+cific losses of the order of 1 H/kg.
+
+The stator has a two-layer bar winding. The elementary conductors are transposed
+by 560° along the active '.rt of the bar.
+
+All fastening components of the end sections of the stator winding are made of
+nonmagnetic materials to reduce losses. A shield in the form of a copper ring
+is placed under the pressure plate. The teeth of the end stacks are made with
+slots.
+
+The rotors are made of one-piece forgings. The rotor windings are made in the
+form of half-coils that are connected as they are placed in the rotor slots.
+Duralumin wedges are fastened in the grooved part of the winding. and nonmagnetic
+banding rings are fastened in the end sections.
+
+The banding unit is doubled-seated in the TVV-ZOO-Z and TVV-320-2 turbogenerators
+with seating on the rotor barrel with an elastic centering ring secured to the
+rotor.
+
+The oil seal of the rotor shaft is an end seal with adjustable pressure of the
+seal insert.
+
+In 1959 the Elektrotyazhmash Plant made the first TGV-ZOO turbogenerator with power
+of 200.000 k". and in 1961 produced the TGV-300 turbogenerator with power of
+300.000 k“. These generators were based on the TVO-30 experimental turbogenerator.
+
+The rotor winding is cooled in a bilateral axial arrange-ant of internal cooling
+of the conductors. The cooling gas is forced into the zone of the end sections.
+from which it flows through lateral input apertures into inner channels of the
+conductors through which it goes to the middle of the rotor and is thrown through
+a system of radial channels into the gap of the machine. The stator winding is
+cooled by a stream of gas flowing through metal tubes in bars situated between
+two vertical rows of elementary conductors. To ensure circulation of hydrogen
+
+in the machine. high-pressure squirrel-cage blowers are installed on one side of
+the rotor. and low-pressure fans are placed on the other side.
+
+The stator core in TGV-ZOO turbogenerators is cooled in a radial arrangement, and
+in the TGV-300--in an axial arrangement.
+
+The TGV—ZOO and TGV-300 turbogenerators are made on shield hearings. The bearings
+are installed in end shields with a horizontal split. The shields are secured
+to the stator housing.
+
+The stator core is fastened in the stator housing on elastic hangers in the form
+of plate springs. The core is assembled in a comparatively light housing that
+is connected to the machine housing by steel plates.
+
+A single-seated banding unit is used in the TGV-200 and TGV-300 turbogenerators
+with seating of the banding on the rotor barrel.
+
+30
+
+FOI‘OFFKJAI.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+The Novosibirsk Sibelektrotyazhmash Plant beganproducing turbogenerators 1n the
+fifties. This plant mastered production of the TV? turbogenerators developed by
+the Elektrosila Plant with powers of 60.000 and 100.000 k“. In 1952 the plant
+
+made an experimental turbogenerator type TVHP60 with power of 60.000 k“ of original
+design with oil-filled stator. water—cooled rotor winding. oil-paper insulation
+
+and internal oil-cooling of bars. TVH-300 turbogenerators with power of 300.000 kw
+[Ref. 8] were developed and put into production on the basis of the TVH-GO.
+
+The 200.000 and 300.000 kw turbogenerators were updated and improved during use.
+The most important changes involved using thermosetting insulation of the stator
+winding. At the same time. the systems for fastening the stator winding were im-
+proved, semiconducting wavy side liners were introduced in the grooved section,
+in the end sections. liners were used that were made of molding materials filling
+i1 the gaps between the bars and fastening components. self-seating Dacron cords
+were used.
+
+Equalization of stiffness with respect to axes of symmetry was used in the rotors
+of the 300.000 kw turbogenerator.
+
+The double-seated banding arrangement in turbogenerators of the TVV series was
+replaced by a single-seating arrangement with seating on the rotor barrel. the
+banding ring being fastened by a special sleeve nut. At the same time. a damper
+system in the form of a short-circuited lug was used on the rotor in TVV-320-2
+turbogenerators.
+
+Turbogenerators with Power of 500,000 kH. In 1950. the Blektrosila Plant made
+the first TVV-SOO-Z turbogenerator with power of 500.000 kw (Ref. 1].
+
+The TVV-SOO-Z. like other turbogenerators of this series. had direct water cooling
+of the stator windings, a single-jet draft arrangement for hydrogen cooling and
+direct hydrogen cooling of the rotor winding with gas takeoff from the gap.
+
+Centrifugal blowers were used rather than axial fans. and the radial ventilation
+channels in the stator were 5 mm wide. The end sections of the rotor winding were
+cooled in a two-jet arrangement.
+
+To reduce losses. the rotor winding had trapezoidal rather than rectangular slots.
+and the small coils of the winding were made with a reduced number of turns. To
+improve the thermal stability of the rotor in asymmetric regimes. a shorting ring
+was installed in the form of a two-layer copper lug overlapping the insulation
+covering the end sections of the rotor winding from the outside.
+
+The banding ring of the rotor was seated only on the barrel and was prevented from
+axial displacements by a sleeve nut.
+
+Subsequently during series production of turbogenerators. the system of fastening
+the stator winding in the end section was improved. and a tangential ventilation
+arrangement was introduced for the stator core.
+
+In [965. a TGV-SOO turbogenerator with power of 500.000 kw and speed of 3000 rpm
+was made at the Elektrotyazhmash Plant.
+
+31
+
+FIHICHHHCIAI.U5310NLY
+M OFHCIAI. USE ONLY
+
+In contrast to the lower-power turbogenerators of the Blektrotyazhmash Plant. the
+TGV-SOO had water-cooled rotor and stator windings.
+
+Supply and return of the water to the stator winding was through special feed-
+through insulators. The connecting lines and end leads of the stator winding were
+also water—cooled. A special end seal was used for cooling water supply to the
+rotor. The water was fed through central orifices of the exciter and generator
+shafts to a distribution header. from which water lines brought it to the coils
+
+of the rotor winding which was connected in parallel with respect to water flow.
+The current feeder of the rotor was also water-cooled.
+
+The generator used a single-jet radial core ventilation system with distribution
+from the gap. The pressure plates of the stator core were water—cooled.
+
+Vibration isolation of the stator core was by leaf springs. As opposed to other
+turbogenerators of the TGV type. the springs were placed only in the vertical plane.
+and connected the sealed inner housing of the stator directly to the foundation.
+The end sections of the stator housing were covered by shields with elastic coupling
+
+to the core housing.
+
+The generator bearings were accommodated in shields resting on the foundation.
+
+Subsequently in putting the TGV-SOO turbogenerators into series production, improve-
+ments were made in the system of fastening of the stator winding and core in the
+housing. and in the technique of soldering the rotor coils.
+
+In 1978. based on experience in developing turbogenerators of the TVH series. the
+Sibelektrotyazhmash Plant made the first TVH-SOO turbogenerator with power of
+500.000 k" for increased voltage of 36 and 75 kV. Like the TVH-SOO. this turbo-
+generator has an oil-cooled winding and core in the stator. and a water-cooled
+rotor winding. The stator winding has oil-paper insulation. The end stacks in
+the TVH-SOO generator are beveled. The core is tensioned in the axial direction
+by bolts running through the back. Axial channels of rectangular shape are made
+in the core for cooling purposes. The stator winding bars are made up of solid
+conductors of short height. A cooling channel is formed between the conductor
+columns. The winding is held in the slots of the core by opposed wedges. The
+generator rotor has a hollow damping system formed by copper strips laid in the
+rotor slots and closed by copper lugs. The gap is cooled by the distillate circulat-
+ing through tubes in shallow slots at the crowns of the teeth of the rotor barrel.
+
+Turbogeneratora Hith Power of 800.000 k“. In 1970 the Blektrosila Plant made the
+first turbogenerator with power of 800.000 k" type TVV-800-2 [Ref. 12].
+
+In this turbogenerator there was a considerable improvement in the ventilation
+system. the design of the fastening for the stator winding and core. the damper
+system of the rotor. operation of the brush equipment. and the oil seals of the
+shaft.
+
+A hydrogen gas tangential ventilation arrangement with countermotion of the cooling
+hydrogen in the stator compartments was introduced for cooling the stator core.
+Internal channels were used in the rotor for the multi-jet system instead of the
+side channels in the 500.000 kw turbogenerator. Rotor cooling efficiency was
+
+32
+
+I1JR!OIIWCIA1.IISII(NVLY
+FOR OFFICIAL USE ONLY
+
+considerably improved by installing axial barriers in the gap. and by improving
+cooling of the end sections of the rotor winding coils.
+
+Opposed wedges and liners.of molding materials were used to hold the stator wind-
+ings in the slot. Monolithic fastening of the end sections of the winding was
+effected by using molding materials. epoxy cements. self-seating cords and massive
+fiberglass plastic rings. The design provided for continuous pressing of the end
+sections of the winding by wedges and titanium springs. and also by the capability
+for axial displacements of the winding with changing loads.
+
+Core vibration was additionally reduced by increasing its elastic modulus. and
+by much better fastening of the core in the housing.
+
+To reduce heating of the end stacks. the number of stepped end stacks of the core
+was increased. and cooling was improved.
+
+Now in series production are 800,000 k" turbogenerators with hydrogen-water cooling.
+Seven of these generators are now being successfully used in power systems.
+
+In addition to producing turbogenerators with water-hydrogen cooling. the Elektro-
+sila Plant is doing research on completely water-cooled turbogenerators [Ref. 7.
+11]. This work was started in 1968 when the first experimental turbogenerator
+
+with power of 63.000 RH and speed of 3000 rpm was made. Successful operation of
+
+the experimental generator. and the results of studies on prototypes and models
+
+led to production of the first TZV-BOO turbogenerator in 1978 with power of 800.000
+RH and speed of 3000 rpm. totally water-cooled without hydrogen filling. The gener-
+ator has direct water cooling of the windings of stator. rotor. and damping winding,
+stator core. structural components and brush apparatus. The volume of the machine
+is filled with nitrogen at low excess pressure.
+
+A distinguishing feature of the system is the use of a self-pressurized arrangement
+for water-cooling of the rotor winding. Hater runs freely into a ring header open
+to the shaft. is picked up by the turning rotor. goes to the lower leads of the
+coils. flows through the coils and leaves through the upper leads.
+
+The stator core is cooled by flat silumin coolers containing coiled stainless steel
+tubing. The coolers take the form of active steel segments and are pressed between
+the stacks.
+
+The core is elastically fastened only on the side walls of the stator.
+
+The end sections of the stator winding are held between fiberglass plastic rings.
+Compression of the end sections is by springs and a system of tension members and
+thrust blocks. The end sections are held together by cold-setting epoxy cement.
+The generator uses a complete damper winding placed beneath the slot wedges of
+the rotor. In the vicinity of the end sections. the bars of the damper winding
+are shorted by copper segments. The winding is also cooled by a self-pressurized
+arrangement.
+
+The turbogenerator has been successfully tested on a stand in the Elektrosila Plant
+and has been put into experimental operation at s GRES.
+
+33
+
+Fill(lﬂﬂ(]Al.llSEl(ﬂqLV
+F!”l(ﬂﬂﬂ(1Al.USE(MVLY
+
+Turbogenerator With Power of 1.2 Million kw. In 1976 the Blektrosila Plant produced
+the largest two-pole turbogenerator in the world. Like the s--ies—produced TVV-800-2
+turbogenerator with power of 800,000 kw, the TVV-lZOO-Z (power of 1.2 million R")
+
+has direct hydrogen cooling of the rotor winding in a multi—jet arrangement. the
+stator housing is filled with hydrogen, and the stator winding is made with direct
+water cooling. Cooling in the generator is intensifed in the end sections of the
+core.
+
+To ensure high reliability of the generator with increased use of the active volume,
+a six-phase configuration of the stator winding for the first tine has replaced
+the traditional three-phase arrangement.
+
+In connection with an increase in the excitation winding current (to 7720 A as
+compared with the 3800 A in the 800.000 kH turbogenerator). a brushless excitation
+system has been used. The exciter is made with two armstures and two magnet systems
+as part of a system for noncontact monitoring and measurement.
+
+The turbogenerator has been successfully stand-tested at the plant, and has been
+put into operation.
+
+Turbogenerator With Speed of 1500 rpm. In 1976. the Elektrotyashmash Plant
+finished making the first modern rcv-soo-a four-pole turbogenerator with power
+of 500.000 kw [Ref. 9]. The turbogenerator is designed around the features of
+the rcv-soo turbogenerator with 500,000 kw power and speed of 3000 rpm that is
+made by the same plant, and likewise uses direct water cooling of the windings
+of the stator and rotor and hydrogen filling of the stator housing.
+
+The stator housing of the generator is made in three sections: the core with wind-
+ing is assembled in the middle section, and the gas coolers and oil seals of the
+rotor shaft are accommodated in the end sections. The oil seals are of ring type
+with self-aligning inserts. Fastening of the stator windings is rigid with the_
+use of molding materials. bracing wedges and cleats.
+
+The generator rotor is composite. Banding rings of nonmagnetic steel are made
+with single seating. The end wedges of the rotor are of opposed type. made of
+bronze. fit tightly into the slot. and are driven into the slot with tight fit.
+The wedges overlap the joints in the region of the joints between rotor parts.
+
+The generator uses a brushless exciter consisting of a synchronous inverted generator.
+rotating rectifier and inductor generator.
+
+The turbogenerator combined with the brushless exciter has been stand-tested at
+.the plant and is now in power plant operation.
+
+In 1980 the Elektrosila Plant made and tested the first TVV-lOOO-b turbogenerator
+with power of 1 million kw at a speed of 1500 rpm. The generator has the same
+cooling system and design as the series-produced TVV-800-2 with power of 800,000 k“.
+The rotor winding and stator core are hydrogen-cooled, and the stator winding is
+water-cooled.
+
+The turbogenerator has increased current volume in the stator slot (up to 26 kA).
+and therefore particular emphasis has been placed on the fastening of the winding.
+
+36
+
+FOR‘OFFKJAI.USE(HVLY
+FOR OFFICIAL USE ONLY
+
+The fastening of the winding in the slot was tested on a prototype. The design
+
+of the end stack of the core was improved. The water of core stacks was increased,
+and their cooling was improved. Improvements were also made in the cooling of
+
+the rotor windings. and subslot wedges were introduced in the zone of transition
+from the soltted section to the end section.
+
+The rotor forging was of welded and forged construction.
+
+Outlook for Future Development of Turbogenerator Construction. The next power
+stage will be turbogenerators with power of 1.6-2 million m at 3000 and 1500 rpm.
+Analysis has shown (Ref. 2, 3. 4. 13] that generators of this power can be built
+on the basis of turbogenerators that have already been made and tested in the power
+range of 800.000-l.200,000 kw. It will be necessary to use rotor forgings of
+greater mass. and to do research on further improvement of cooling systens and
+
+the design of individual nachine components.
+
+A still further increase in power would have to be based on using the effect of
+superconductivity [Ref . S]. which is completely realistic. given the rapid progress
+in development of generators of this type.
+
+REFERENCES
+
+l. Borushko. V. S.. Gnedin. L. P.. Banilevich. Ya. 8. et al.. "soo-uv Turbogener-
+stors Produced by the Elektrosila and Blektrotyazhnash Plants", EBKTROTEKHNIKA,
+NO I. 1970: PP 2‘6.
+
+2. Borushko. V. 8.. Glebov. I. A.. Danilevich. Ya. 3., et a1.. "Developmental
+Outlook and Ways to Improve Turbogenerator Design", Vsemirnyy elektrotekh-
+nicheskiy kongress [International Electrotechnical Comission), Moscow, 1977,
+Inc Report No 1.04., Moscow, 1977. 12 pp.
+
+3. Glebov. I. A., Danilevich. Ya. 3., "Nauchnyye probleny turbogeneratorostroyeniya'
+[Scientific Problens of Turbogenerstor Construction]. Leningrad. Nauks. 1976,
+280 pp.
+
+u. Glebov. I. A.. Danilevich. Ya. 3.. "Current State and Problems of Developing
+Turbohydrogenerators and Synchronous Compensators". BLEKTRICHESTVO. No 3. 1976.
+
+pp 1-7.
+
+5. Glebov. I. A.. Danilevich. Ya. 8., Shakhtarin, V. N.. ”Using Superconductivity
+in Electrical Engineering". ELEKTRM‘WIXA, No 11. 1977. pp 17-18.
+
+6. Glebov. I. A.. Danilevich. Ya. 3., Kurilovich. L. V. et al.. "1000-”! 3000-rpn
+Turbogenerator". ELEKTROTKHNIKA. No 3. 1978. PP 3-6.
+
+7. Glebov. I. A.. Danilevich, Ya. 3., Iongansen, V. I. et al.. "BOO-NH 3000-rpm
+Water-Cooled Turbogenerator". ELI'XTRICHESTVO. No 2. 1980, pp 3-8.
+
+8. Gnedin, L. P.. Danilevich. Ya. 3.. Msslennikov. K. N.. "Tm-300 Turbogenerator
+With Hater-Oil Cooling". ELEKTROTEKHNIRA. No l, 1970, pp 6-8.
+
+9. Grinchenko, N. c.. Danilevich. Ya. 3.. Kil'dishev. v. s., Levitskiy. A. K..
+"rev-soo-I. Turbogenerator", usumorrxumxa, No 7. 1977, pp 22-23.
+
+35
+
+FOR OFFICIAL USE ONLY
+FORCHWﬂﬂA1,USE(HﬂLY
+
+20. Kostenko. H. P.. Borushko. V. 8.. Danilevich. Ya. B. et a1.. "Turbogenerarory:
+Nauchno-tekhnicheekiy obzor. Blektrotekhnicheskay prouyahlennost' SSSR" [Turbo-
+generators: Scientific-Engineering Overview. Electrical Engineering Industry
+of the USSR]. Moscow Infornscandartelektro. 1967, 599 pp.
+
+11. Shapiro. A. 3.. Chernyavakiy, V. P., Kari-ogly. I. A.. Danilevich. Ya. 3..
+"Totally Hater-Cooled Experimental Turbogenerator". BLEKTROTEKENIKA, No 2.
+197b. PP 1-4.
+
+12. Chiatikov. A. P., Glebov, I. A.. Danilevich, Ya. 8.. Khutoretskiy. G. M..
+Hanikonyants. L. 6.. Romanov. V. V.. "The 800 and 1200 H" Two-Pole Turbogener-
+ators. Design Features and Test Results". CIGRB Report No 11-03. 1978, 6 pp.
+
+13. Glebov. I. A.. Danilevich. Ya. 3.. "Grenzleistungen von Turbogeneratoren
+und Bntwicklungsperspektiven des Inrbogeneratorenbaua in der UdSSR". ELEKIRIB,
+Vol 33. No 1. 1979. pp 10-13.
+
+COPYRIGHT: IZDATEL'STVO "NAUKOVA DUHKA"."TEKHNICHESKAYA ELEKTRODINAHIKA". 1980
+
+6610
+080: 1861/24
+
+36
+
+FOIIOFFKJAI.USE(MNLY
+l-‘Oll OFHCIAI. USE ONLY
+
+UDC 621.311.083.72
+
+REMOTE MEASURDIENT OF ELECTRICAL ENERGY AND AVERAGE ROVER IN POWER SYSTDiS
+Moscow ELEKTRICHESTVO in Russian No 6, Jun 81 (manuscript received 15 Her 79) PP 2-6
+
+[Article by V.A. Bogdanov. Central Dispatching Administration for the USSR Unified
+Power System Integrated Power Grid]
+
+[Text] The control, planning and analysis of power systems operating modes are
+realized on the basis of information. an important component of which is measurements
+of electrical power and energy. The automated control and operational monitoring are
+based on remore measurements (TI) of the power. where these measurements are trans-
+mitted via multichannel pulse code remote control units (UTM), with reset cycles
+which have a length of T1 < 20 sec. The planning and analysis of operating modes
+
+are predicated on hourly measurements of the power. transmitted via data transmis-
+sion equipment. teletype and telephone as part of the daily dispatcher control
+
+sheet.
+
+At the present time. extremely important parameters for dispatcher control are
+lacking in the remote measurements and the daily control sheet: the electrical
+power generated by the main electric power stations. power overcurrents an inter-
+system and interstate power transmission lines. electrical power consumption in
+the major load centers. etc. The values of the indicated parameters are needed by
+the dispatcher for various time intervals: an hour. a work shift, the peak load
+
+period. etc.
+
+Remote measurements are especially needed for the increments of electrical power
+for the monitoring and control of power overcurrents in the "USSR -- CEHA Member
+Nations" section. where half-hourly metering periods are employed. The derivation
+of the indicated parameters by the interpolation of measurements of the instantan-
+eous power values yields an impermissibly large error.
+
+The organization of remote measurements of power increments and the average power
+by means of electronic power metering counters which have multichannel pulse-code
+remote control units. cumunications channels and ASDU [automated dispatcher control
+system for a power association] computer hardware is treated in this article.
+
+The electronic counters (ES) are produced by the Vil'nyus Plant for Electrical
+Measurement Equipment 07-1041) and the Leningrad Electromechanical Plant (P-651).
+Electronic counters are produced abroad by a whole series of companies. For
+
+37
+
+FOR OFFIGAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+example, the Swiss company of Landis and Gyr ('l'ettex AG Instrulents) produces a
+large assortment of electronic counters which are used in the power systems of cm
+member nations. An extremely important advantage of electronic counters over con-
+ventional electromechanical meters is the high level of precision (0.l--0.5). ?or
+this reason, it is 'ﬂawed that active and reactive power will be metered by means
+of electronic counters in the mediate future at all of the largest electric power
+stations and on intersystem and interstate links.
+
+An electronic counter is an analog-digital device in which one can single out the
+following main components: the measurement unit, 10; the divider circuitry, DS;
+
+the crystal oscillator. CK: the readout display, BI; and the counting mechanism,
+SM.
+
+The currents 11 and voltages 111 from the instrment transformers for each phase are
+fed to the input of the measurement unit. Using the principle of double modulation,
+the measurement units converts 11 and [11 to a numerical pulse code. The number of
+pulses N at the output of the measurement is proportional to the quantity of
+electrical power in the forward (f) and return (r) direction over the measurement
+period To:
+
+f -l. _ r -l
+uf - l3 1 111 11°C“, Nr /3 IiUiTOCOe
+Na: V3— ”WI-€353 "0:: ,3- IO‘U’T°Ce-’|' (1)
+
+where coc is the pulse value equal to the quantity of electrical power associated
+with each pulse at the output of the measurnent units.
+
+If the measurement unit segregates the active component, 11.33,, the electronic
+counter measures the active power. In the case where 113“”, is used in (1),
+
+the reactive power ismetered. Thus, for example. the type P-lolol electronic counter
+provides for simultaneous metering of the sctiwie and reactive forward and return
+power.
+
+The DS divider circuitry consists of electronic circuits which reduce the fre-
+quency of the signals incoming from the measurement unit and the crystal oscillator.
+Pulsed signals can be obtained from the outputs of the divider circuitry. the fre-
+quenty of which is the requisite number of times less than the frequency at the
+input. The forward and return power metering signals, which are fed to the input
+of the counting mechanism, have a frequency which is 81 times less than the fre-
+quency of the NE and N1— signals at the input to the divider circuitry. The co-
+efficient 81 is chosen by working from the capacity of the counting mechanism, the
+precision class of the instrument and the requisite periodicity and duration of
+continuous electrical power metering (without zeroing the counting mechanism).
+
+The readout display is intended for visually monitoring the operation of the elec-
+tronic counter. For this reason, the signals fed to the display input have s
+
+38
+
+FOR OFFIGAL USE ONLY
+FIHICMHHCJAI.IISIICHVLV
+
+frequency which is 80 times less than the frequency of the Nf and Er signals. The
+value of so is chosen so that at the minimum value of I1, no less than one pulse
+every 10 to 15 seconds is fed to the input of the readout display.
+
+The crystal oscillator is the source of the £0 frequency which controls the opera-
+tion of the divider circuitry, as well as the measurement unit modulator and con-
+verter. To compensate for the zero drift in the counter characteristics, a peri-
+odic change is made in the polarity of the modulator output signal by means of the
+crystal oscillator signals and the output pulses of the measurement unit converters
+are switched accordingly. The divider circuitry produces the requisite signals at
+a frequency o1 times less than fo.
+
+Thus. electric power metering signals can be obtained from an electronic counter
+with a pulse value of 811 COe- as well as crystal oscillator signals at a frequency
+of oifo. This makes it possible to use electronic counters for remote transmis-
+sion of power values E(To) and average values of the power over the measurement
+period H(To) by means of existing Iultichannel pulse-code remote control units.
+Moreover, electronic counters can be used for the measurement of 8(To) and W(To)
+directly in a power facility. In this case, the electronic counter is used as a
+meter, from the output of which the numerical code for the parameter being mea-
+sured is fed to the digital or analog readout of the corresponding instrment.
+
+In the latter case, the numerical code of the parameter being measured should be
+preconverted to an analog signal by means of digital to analog converters. For
+the direct measurement and remote measurement of E(T ) and w(To). the existing
+electronic counters must be complemented with specie interfaces.
+
+An interface* incorporates the following: a bidirectional counter RS, which con-
+tains nine bitsgenSB circuit which blocks the arrival of power metering pulses
+
+at the inputs to the bidirectional counter;anSU circuit which sets the bidirec-
+tional taunter to the initial state; a parallel carry circuit SPP, an eight bit
+
+output register VR and a switch P.
+
+The position of the switch determines the value of the power metering pulses and
+the crystal oscillator signal frequency incoming from the divider circuit. For
+any setting of the switch, pulses are fed from it which set all flip-flops of the
+divider circuitry registers to zero, where these flip-flops reduce the frequency
+of the crystal oscillator and feed out the oifo signals. It is expedient to
+transmit E(To) over periods of one hour or less, but necessarily submultiples of
+one hour. For this reason, to synchronize the start of power readout for
+various facilities with astronomical time, any change in the position of the
+switch should be made by servicing personnel after each repair and check of the
+electronic counter and the interface at the start of any time interval based on
+precision time signals.
+
+a
+
+Staff members of the Central Dispatcher Administration for the Integrated Power
+Grid of the USSR Unified Power System participated in the design of the interface:
+V.H. Chizhkov, 8.8. Raksheyev and 0.x. Kurbanganliyev.
+
+39
+
+lill<ﬂﬂﬂ€1kl.lﬂﬂi€ﬂ€LY
+FOR 051'“th USO.” UNI]
+
+The Biﬂf pulses are fed to the adding input, while 818, are fed to the subtract
+input of the bidirectional counter through the SB blocking circuit.
+
+The SB blocking unit, in accordance with the oifo signal incoming from the divider
+circuit, blocks the arrival of the electrical power metering pulses at the inputs
+
+of the bidirectional counter. Right after this, the parallel carry circuit carries
+the contents of the bidirectional counter to the output register. The carry is
+accomplished taking into account the state of the lowest order ninth digit of the
+bidirectional counter, the contents of which are added before this to the contents
+of the eight high order digits of the bidirectional counter. After completing this
+procedure, the SU reset circuit sets the bidirectional counter to the initial state.
+while the SB blocking circuit enables the pulses to get to the bidirectional counter.
+
+If the measurement is aade in a section with bidirectional power flows, the amount
+of electrical power is:
+
+-1 _ -1 .,
+2(1'0) - KIK081 cognac - Ny) - 3(To)—K:Ka3.- C..(".;— N,).
+
+where K}; and Ku are the transformation ratios of the current and voltage instru—
+ment transformers; Nt- - (Nf - NI)“ + ﬂy is the nuber of pulses registered by
+the bidirectional counter at the measurement period; ﬂy is the nuﬁer of pulses
+in the initial state of the bidirectional counter, specified by the SU reset cir-
+
+cuitry.
+
+If the power is tranuitted only in the forward direction, ﬂy a 0. When measuring
+the power transmitted only in the return direction, Ry - .512.
+
+Thus, the measurement period is governed by the frequency incoming from the divider
+circuitry to the inputs of the SB blocking circuitry, the SU reset circuit and the
+parallel carry circuit: To - (o1fo)‘1, and is numerically equal to the time between
+two successive data updates at the output register.
+
+The remote transmission of 20],) using the multichannel pulse-code remote control
+
+units in service at the present time can be accomplished in the form of telemetry
+signals in a "remte measuruent repeating" mode. In both cases. the parameters
+of the output register should be matched to the parneters of the remote control
+unit with respect to the input impedance.
+
+In the case of the cyclical transmission of 8(1'0), the following condition should
+be met to avoid data losses and distortion:
+
+t <_o.sv‘1; -
+
+st ‘l|<0,5 V";
+1“ To.
+t < T ll
+cyc - 0
+lo 0
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+where t” is the switching t'me of the output register elements of the interface;
+v is the telemetry data transmission rate through the communications channel;
+Tcyc is the duration of the renewal cycle with which the transmission of the tele-
+metry data is accomplished.
+
+If E(l‘o) is transmitted sporadically, then the following condittion must be met to
+avoid data losses and distortions:
+
+where Tm is the maximum time from the moment of query appearance (a change in the
+state of the output resiter digits) until the coupletion of the transmision of the
+group of telemetry signals, in which E(‘l‘o) is transmitted.
+
+Power measurement precision can be characterized by the referenced total mean
+square error [1]. When using transducers with a standard analog output signal, the
+mean square reference error for remote power measurements is:
+
+p \—
+351/5747 0+a'.+ at...” “+5 +3..” (2)
+
+The couponents of the overall_ referenced mean square error indicated in (2) are
+due to the following: 61 and Gu of the current and voltage instrument transformers;
+6I from the tranducer which converts the parameter being measured to a standard
+analog signal; 6p,“ and 60 from the level quantization of the sensor signal dur-
+ing transmission and the back-conversion of the digital code to analog. form at the
+receive end (the static error), 5|: frm the canunications channel;6 from the
+time quantization of the sensor signal (the dynamic error): 6.1;, from tge analog
+meter.
+
+When the measurements are fed into a digital computer, there is no need for con-
+verting the received code to analog form or the corresponding meter. In this case,
+one can use 60.” - énp - 0.
+
+The codes employed in modern remote control units provide for a--sufficient1y high
+level of protection of the transmitted data against interference in the channel
+and make it possible to not only detect, but in a number of cases correct distor-
+tions which appear. For this reason, it can he seemed that in those cases where
+the remote measurements, following transmission through the cognnications chan-
+nels, are not rejected by the interference protection system, 61, - 0 [2].
+
+The overall mean square referenced error of a measurement on a unit is:
+
+= Vi',+ ﬁu+f'__,_+ 3—"; 51,:
+6“:}/ (EH-3+3; +31 ..
+
+61
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ghere 3?; corresponds to the analog measurement, while 3% to the digital measurement;
+6c is the mean square referenced error in reading the analog meter readings; 6
+
+none
+is the dynamic error which is due to the discrete nature of the renewal d the
+
+readings of the digital meter.
+
+For analog measurements, 3c fluctuates in a wide range and is independent of the
+form, dimensions or linearity of the instrument scale, as well as the distance and
+
+angle of observation. periodicity and _t_ine of readout. skill level of the personnel,
+etc. When using digital instruments, 6c - 0.
+
+If the measurements on site and the remote measurements are made from couon instru-
+ment transformers and the precisim class of the analog meters used on site and
+
+those for reproducing the remote measurements match, than the neamrenent error is
+equal in all levels of the dispatcher hierarcy if:
+
+311+ 3.a.n+ E"... + E" = a":-
+
+when digital meters are used on the unit and the remote measurements are fed to the
+
+digital computer with a subsequent digital display, equal precision of the measure-
+ments at all levels of the dispatcher hierarcy is assured if:
+
+33+ S's-s + E's = 3-” + z"..-
+
+The dynamic error of a remote power measurement is [2]:
+
+._ 7-07“
+£3=2D‘A:’[l—T:' I Ks“)d‘l]=
+l
+
+=D.A,"(r. +21.) 17', . (3)
+
+where D,‘ and Th are the dispersion and the time constant for the normalized auto-
+correlation function of the parameter being measured; Ax is the measurement range;
+'1', - Tur'l is the time for transmitting one remote memrement via the coununica-
+
+tions channel. when r parameters are transmitted during each update cycle of
+length Tu.
+
+The overal referenced mean square error in a measurement of B(To) transmitted to
+the output register of the interface is:
+
+6-5 = Vail+ 610+ 834+ 5'”
+where Etc. is the mean square referenced error of the measurement unit of the
+electronic counter. which is determined by the precision class of the instrument;
+
+do is the comonent of 6;, which is due to the digital manner of obtaining 8(1‘0).
+
+In the case of a fixed number of output register bits, :0 depends on the length of
+To, the chosen value of the pulses cBe - 831°0e and the time interval tb1, during
+
+62
+
+POI! OFFICIAL USE ONLY
+FOR 0F11C1Al.lEﬂE(NVLV
+
+which the SB blocking unit blocks the feed of the power metering pulses to the
+inputs of the directional counter. If the values of 3(10) within the time inter-
+val between two successive power metering pulses are distributed uniformly, then:
+
+_ . ————r—
+a.=1/{c..|3<l'. .+I°...)U'.T.l"}'+-3-l'u77' r “0
+
+where I”_". and In.” M. are the maximum possible absolute current values for the
+instrument circuit, which correspond to the forward and return electrical power
+transmission directions; U” is the nominal instrument circuit voltage.
+
+To avoid bidirectional counter overflow during the measurement period, the value
+of a power metering pulse should be chosen from the condition:
+
+1/3711. + 1°“) ug'r, < 5:20,.
+
+The number of pulses in the initial state of the bidirectional counter, specified
+by the SU reset circuit:
+
+”7:67.. ”mum-T.
+The average value of the power over the measurement period To is:
+
+w (7.) = K,K., (N: — N,) 0.1:." = My ("r ")0.-
+
+where C3” - cBelﬁl - [CBEFBII is the value of a pulse in the conversion of the
+output register readings to power units.
+
+Since the master crystal oscillator of the counter provides for high stability in
+To. the error in determining H(To) is practically equal to the measurement error
+for the energy increment transmitted to the output register.
+
+When measuring "(10), the actual power graph will be represented at the receive
+end by a step function. the ordinate of each step of which is numerically equal
+
+to the average power over the preceding ongoing measurement period. For this
+reason, the referenced dynamic mean square error of the measurements of the average
+power values is to be understood as:
+
+'6'..= Af’M (x..— x,)'-_— a? M|7,_ ,—x,r =
+—_- :31» IX'.-. _ 2X,-,X,+ x3],
+
+(5)
+where H is the universal mean value; x” and x1 are the measured and precise
+values of the arameter; X - ' is the average value of
+
+p 11':"‘“X-.)—T' Wll)dl
+57-7.
+63
+
+FOR‘OFF“JAI.USE(NNLY
+FOI‘OFFKJAI.USE(MVLY
+
+(‘0’.
+
+'i is the current value
+
+the power in the preceding measurement period; X,=V(l)l
+of the power in the i-th (current) period.
+
+Taking the adopted syubols into account. MOM.)2 - Dx is the dispersion of the
+random quantity Xi.
+
+In steady-state modes, the autocorrelation functions of the power [3] are:
+
+K, (t) = Dg-‘n'.
+
+In accordance with this. the spectral density of the parameters being measured is
+
+[2]:
+3(0) =01“.an +T’uw’)]".
+
+The following nutual relationshipselrist between the dispersion, the autocorrela-
+tion function and the spectral density:
+
+D.=K.m)%2°f5(~)az “’
+i .
+
+K. (e)=2fiS(o)cosu-xdo. (7)
+o .
+
+If it is asslned that the integral portion of the measurement unit of the elec-
+tronic counter has the characteristics of an ideal gilter, then there will be no
+frequencies in the spectra: of the random quantity “,1 which have a period less
+than 1'0. Then, when determining the numerical characteristics for x1- , the
+upper limits of the integrals (6) and (7) will be equal to on“ - 211‘s .
+
+Taking what has been presented above into account, the dispersion of the random
+quantity X14 is:
+2-11,"
+M(X.-.>'=D..=2D.r.s" E (i+1".~')"d-= (s)
+
+= 20,:' ' arctg 2¢T.T:'.
+
+Since it is expedient to measure H(To) over periods of To << '11, while the inte-
+gral portion of the electronic counter is not an idea1_high pass filter, it fol-
+lows from (8) that Dam I Dx, i.e., the dispersions of X14 and x1 are nunerically
+equal to each other.
+
+It can be proved in a similar__uanner from (7) that when To << TR. the autocor-
+relation functions of X1 and X14 coincide. In this case:
+
+—a[7.
+
+M<X...X.-) -~ K. (*)=D.e . (9)
+
+64
+
+FOR OFFIOAL USE ONLY
+FOR OFFICIAL [BE ONLY
+
+Substituting (9) in (5), taking into account the delay during crannission and
+readout of the measurements in the digital computer memory, we obtain:
+
+. , ’e’" ‘r.
+6’ar=QD,A:'[l-To" j e-I‘dx],
+
+I"_
+
+Consequently, the total referenced mean square error of remote measurements of
+the instantaneous values of the power and "(T0) are the same if they are made
+from common instrunent transformers, where the sensors and the electronic counters
+
+are of the same class of precision and the reset cycles and averaging period are
+equal.
+
+The practical realization of measurements of 8(10) and “(10) is primarily expedient
+on the units where the electronic counters are installed for purposes of netering
+and there are remote control units with back-up subchannels. Measurements of
+
+"00) can be treated as the equivalent of remote measurements of instantaneous
+power values. For this reason, it is expedient to transmit the- with periods
+close to the renewal cycle, with which the remote measuruents of the parameters
+needed for autonated control and monitoring are transmitted.
+
+It is expedient to transmit £00) with periods of To - 1'1 hours, where i is
+any integer. If it is necessary to transmit worm and E('l'o) from the same unit,
+two identical interfaces are connected to the ele-ztronic counter. A value of To,
+close to 1' [Tcycln with which the remote measurements of the other parameters are
+transaitted, is set on one unit by means of the switch P. Then, based on precise
+time signals, the position of the switch P is set on the second unit which
+provides the requisite periodicity for the measurement of the energy increments.
+
+When using ranote control units which provide only for the cyclical transmission
+of the remote measuresents and telemetry signals, one subchannel each is set
+
+aside for the transmission of "(10) and B(To). The energy increment is tramitted
+as many times as the specified time interval is greater than the reset cycle of
+
+the remote control unit. In the sporadic case, "(10) and 3(1‘0) are transmitted
+until the arrival of signals via a feedback channel which confirm the correctness
+of the reception. In both cases, losses of B(‘l‘o) are possible because of failures
+of the remote control unit and the camaunicstions channels only in the case of
+failures which last longer than the measurement period.
+
+BIBLIOGRAPHY
+
+l. Lozitskiy B.N., Hel'nichenko 1.1., "Elektroradioizmereniya" ["Electrical Radio
+Measurements"], Moscow. Energiya Publishers. 1976, 226 pp.
+
+(05
+
+FOR OFFICIAL USE ONLY
+IN)! OINNCJAI.IISII(HVLV
+
+2. Halov V.S., Dmitriyev V.F., "Rodolnpul'snyye‘teleizleritel'nyye sisteuy"
+["Pulse Code Telemetry Systems"], Moscow, Energiya Publishers, 1969, 192 pp.
+
+3. Bogdanov V.A.. Sovalov S.A., Chernya G.A., "Teleinfornateiya v avtonatizirovannykh
+
+siscenakh diapetcherskogo upravleniya" ["Renote Tele-etry Data in Automated Dio-
+patcher Control Systena"], ELBKTRICHESTVO [ELECTRICITY], 1976. pp 1-6.
+
+COPYRIGHT: Energoizdat. "E1ektr1cheetvo", 1981
+
+8225
+C30: 81‘5/059
+
+66
+
+FKII¢DIIICIAl.lﬂ5l2(MVLV
+FOR OFFICIAL USE ONLY
+
+CURRENT STATE AND PROBLEMS OF TRANSFORMER CONSTRUCTION DEVELOPMENT
+
+Kiev TEKHNICHBSKAYA ELEKTRODINAHIKA in Russian No 6. Nov-Dec 80 (manuscript re-
+ceived 21 Aug 80) pp 38-55
+
+[Article by I. D. Voyevodin, director of the All-Union Institute of Transformer
+Construction, and 0. I. Sisunenko. deputy director of the All-Union Institute of
+
+Transformer Construction. Zaporozh'ye]
+
+[Text] The resolutions of the Twenty-Fifth Congress of the CPS" emphasize the
+importance of ongoing development of the power industry in the USSR.
+
+One of the sectors of the national economy of the nation that ensures development
+of the electric power industry is transformer construction.
+
+Progress in transformer construction is based on perfecting designs. considerably
+improving the properties of the sagnetic and insulating materials that are used,
+perfecting production technology and developing present-day production capabilities.
+
+Fig. 1 shows the growth in power of three-phase transformers and groups consisting
+of single-phase units.
+
+“In. KVA Hm“.
+
+sf
+
+ 
+ 
+
+67
+
+FOR OFFICIAL USE ONLY
+FOR OWAI. USE ONLY
+
+At present in the Soviet Union transformers with high voltage up to 330 RV inclusive
+are being made only in the three-phase version. for voltage of 500 kV-in single-
+phase and three-phase modifications. and for 750 W and up—only single-phase.
+
+In the Tenth Five-Year Plan. industry has aastered production of a lOOO-HVA trans-
+former for voltage of 330 kV. In 1978 the first autotranaformer with power of
+
+667 HVA (2000 HVA in a three-phase group) and winding voltage combination of
+
+1150/500 RV was made and delivered for experinental operation in a special power-
+grid stand .
+
+the development of high-power transformers is tied up with a rixe in generator
+power. since the most economic solution for electric power plants is the develop-
+ment of generator-transformer units. But since the energy produced by the electric
+power plants has to be transformed to different voltages. there has been a sharp
+rise in the research and development of transformers. Table 1 shows the powers
+
+of transformers for energy-producing units of different voltages.
+
+ 
+
+ 
+
+TABLE 1
+
+pm: of Transformer ower mm at volts e kv
+
+‘91" ml m as a as . ' I. m
+.3” “W In ‘00 «n ' an ..
+5°“ - - no no mo _
+800 — — woo woo Iooo ..--
+woo - — - 12w ' — 3x417
+”“0 - - — — axm ..
+
+huMnmainilatm.___—_—
+
+To pr0\ ide coupling and interflow of energy between systems with different voltages.
+
+a number of autotransformers of different power must be made with different voltage
+combinations.
+
+     
+ 
+ 
+   
+
+w OPeraggr,1ﬁgsa&V
+
+lndust ial
+perat on
+
+years
+
+Fig. 2
+
+68
+
+FOR OFFICIAL USE ONLY
+FORlOFF1C1Al.[EﬂE(HVLY
+
+Fig. 2 shows the increase in nominal voltage of transformers in the postwar period.
+The sixties saw a period of intense development of 330 and 500 kV power grids.
+Electric transmission lines of 750 kV were built in the seventies. Autotransformers
+with power of 333 HVA and voltage combination of 750/330 kV. and with power of
+
+417 HVA and voltage combination of 750/500 kV were developed and produced for these
+lines. Industrial delivery of autotransformers for electric transmission lines
+
+of 1150 kV is planned for the beginning of the Eleventh Five—Year Plan.
+
+In the seventies. industry mastered production of transformers and a reactor for
+power transmission lines on a voltage of 2750 kV. These are in experimental opera-
+tion on a test stand in the city of Tol'yatti. These transformers are essentially
+ready for use in 2750 kVDC power transmission lines. However. to improve trans-
+mission economy. work is now in progress on higher-power transformers (320 NVA
+instead of 175 HVA).
+
+The production of transformer equipment for 500. 750 and 1150 kV has covered the
+prospects for development of the electric power industry. On the other hand. solu-
+tion of the problem of material inputs in transformer construction depends primarily
+on the technical level of transformers in classes of 6-10. 35 and 110 kv. The
+demand for materials in these classes makes up more than 802 of the total require-
+ments of transformer construction. Therefore in recent years considerable attention
+has been devoted to development of 110—kv transformers. Industry has mastered
+production of the first types of three-phase llO-kV transformers with load-switching
+regulator in which wood laminate plastics are used. as well as lead-ins with solid
+insulation. and also reinforced wire. This has reduced the inputs of ferrous metals
+by 352 and cut open-circuit losses by 282. Pull-scale introduction of this series
+will in future keep the parameters of liO-kV transformers at the level attained
+
+by the leading non-Soviet companies.
+
+The Eleventh Five-Year Plan calls for introducing a new series of 35-kv transformers
+with power of 1000-6300 kVA. Material inputs for transformers of this series have
+been reduced by a factor of 1.5. The savings in rolled ferrous metal stock will
+amOunt to 500 metric tons per million kVA of output.
+
+A new series of transformers for voltage of 10 RV at power of 25-630 kVA has now
+been designed and is being put into production with technical characteristics on
+
+a level with analogs of leading non-Soviet companies. A distinguishing feature
+
+of the design of these transformers is the coiled spatial structure of the magnetic
+circuit. 0n the first stage, introduction of the new series is being done on the
+basis of traditional aluminum wires with paper insulation and radiator tanks. Any
+further increase in the technical level of this series presupposes the use of alu—
+minum enameled wires and corrugated tanks.
+
+Development of present-day transformers is based on advancing development of re—
+search on the various aspects of transformer construction.
+
+To develop transformers with prospective voltages. a number of steps are being
+carried out to severely limit lightning and commutation surges. including the devel-
+opment of new arresters.
+
+Based on generalization of studies on permissible field intensities in oil-barrier
+insulation. permissible field strengths have been established in the channels
+adjacent to the windings. and requirements have been worked out for the design.
+
+69
+
+FOR OFFICIAL USE ONLY
+FORi0FFKJAl.USEGDNLY
+
+technological processes and testing of an experimental transformer. The experi-
+mental 0RTs-l35000/500 transformer is intended for replacement of 0TsG-l35000/500
+transformers at the Volzhskaya CBS to verify the method of selecting the internal
+insulation with respect to prolonged action of the working voltage under operating
+conditions.
+
+A considerable reduction in test voltages of the 500 kV winding as compared with
+State Standard GOST 1516.1-76 (by 30-40!) has enabled a reduction by more than
+
+30% in the dimensions of the main insulation between windings and to grounded sec-
+tions. as well as reducing the dimensions of longitudinal insulation (see Table 2).
+
+TABLE 2
+
+ 
+ 
+ 
+  
+   
+
+     
+
+CRTs-
+135000/500 135000/500 135000/500
+1978 (plan) (experimental)
+
+Unit of
+measurement
+
+ 
+
+Characteristic
+
+    
+
+Nominal power DNA 135 135 135
+Neminal voltage kV 525/3 525/3 525/3
+Test voltage of the
+
+high-voltage winding:
+
+total lightning stroke kV 1500 1550 900
+clipped lightning stroke kV 180 1650 1000
+commutation pulse kV - 1300 850
+Short-circuit voltage 2 12.9 13 13.3
+Open-circuit losses kw 448 160 110
+Short-circuit losses k" 425 450 385
+Mass of copper tons 15.7 18.3 17.7
+Mass of transformer steel tons 108.4 91.3 66.7
+
+Mass of transformer 011 tons 86 40 23
+Total mass tons 296 200 145
+Transport mass tons -- 140 127
+without with
+
+oil oil
+
+ 
+
+The encouraging results of work with the 0RTs-l35000/500 transformer opens up the
+possibility of considerably reducing material inputs of transformers for high vol-
+tage classes.
+
+Construction quality is determined to a great extent by the availability of reliable
+design methods. Development of new methods of calculation and improvement of exist-
+ing ones is one of the important areas of research and development over the last
+decade. Techniques have been developed for calculating magnetic and electric
+fields. additional losses in structural components, lightning and commutation surges
+in complex windings, current distribution in multiparallel windings. Development
+
+is nearing completion on an improved method of calculating the electrodynamic
+strength of transformer windings. a new technique has been developed for mechanical
+calculation of complicated components like the tank and pressing beams. Methods
+are being develoPed for optimization calculations in selection of variants. Exten-
+sive computerization of engineering calculations has considerably facilitated the
+
+50
+
+FOI.OFTHCJAI.lEﬂB(MVLY
+FOR OFFICIAL USE ONLY
+
+work of the designer, provided more in-depth computational analysis of items being
+designed. and improved the reliability of design features. The same can be said
+of the wide use of methods of physical and mathematical modeling in feasibility
+studies and also in research and development.
+
+At present, work is near completion on development of a computational subsystem,
+and by the end of the Eleventh Five-Year Plan the graphic subsystem of the system
+for automated design of transformers is to be put into operation.
+
+Improvements are continuously being made in design of the major components of
+transformers. which is conducive to the contstant improvement of the technical charac-
+teristics. reduction of material inputs and increased operational reliability.
+
+The magnetic circuits of power transformers are of grain-oriented rolled trans-
+former steel 0.3—0.35 mm thick with losses of P1_5-0.95-l.02 H/kg. The use of
+fiberglass plastic banding has eliminated the holes in the steel for rods, reducing
+the level of losses and the open-circuit current. Currently work is being done
+
+in cooperation with metallurgists to develop transformer steel with low residual
+stresses, which in the future will eliminate process annealing of steel at trans-
+former plants.
+
+Open-circuit losses can be further reduced by making a mgnetic circuit with complete
+diagonal joining, further improving the quality of transformer steel (reducing
+the specific losses to P15= 0.8-0.82 H/kg).
+
+Tn transformers with power of 25-630 INA the open-circuit characteristics are con-
+siderably improved by introducing a three-dimensional design of magnetic circuits
+made of coiled elements.
+
+At the present time in power transformers the windings for voltages up to 35 W
+are helical with a large number of parallel conductors, the 110-330 kV windings
+are continuous coils. for 500 kv or more the windings are looped. Special steps
+to reduce intercoil gradients with pulse factors in continuous windings have obvi-
+ated the need for shields and additional coil insulation. In looped windings.
+arrangements have been developed that give good distribution of voltages between
+individual sections and segments of the windings with resultant high pulse strength
+of the entire insulation structure. Transposed wires have been extensively intro-
+duced. reducing additional losses in the windings and improving labor productivity
+in making them.
+
+Further research should be aimed at finding a lightning-proof design for transformer
+windings at the power limit. 1. e. windings that have good distribution of pulse
+voltages and can pass a current of 3 M.
+
+The improvement of high-voltage transformer insulation involves further studies
+
+of oil-barrier designs, the use of rigid specially shaped insulating components
+for inhomogeneous field sections. A considerable part is played in this question
+by development of improved equipment and techniques for making such components,
+cleanliness and dust-free conditions in production departments. technology for
+drying insulation. Research aimed at improving the main insulation of transformers
+is an ongoing process involving the entire arsenal of scientific and technical
+capabilities, computer calculations, mathematical modeling on semiconducting paper
+
+51
+
+FOR OFHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+and in an electrolyte bath. testing prototypes of components and complex models
+of insulation in full scale. Hultifaceted studies result in reliable design solu-
+tionshz the area of electric insulation for transformers.
+
+A primary part in development of transformers at the limit of power is played by
+expert designing of components from the standpoint of eddy losses caused by leakage
+fluxes of the windings. Any failures in this aspect will result in considerable
+heating.
+
+At present fairly reliable methods have been developed for calculating and modeling
+these effects. In the development of new designs, extensive use is made of physical
+scale-model ing of the entire transformer and individual structural components.
+enabling detection of points of concentration of additional losses at an early
+stage. so that means can be worked out for avoiding overheating. In designing
+transformers of maximum power, shunting of massive metal components by stacks of
+transformer steel and other design features are used to reduce heating.
+
+In connection with the growth of capacities of energy distribution systems in recent
+years, the problem of dynamic stability of transformers under short-circuit con-
+ditions has been especially acute. For a number of years research has been in
+progress on all major factors that influence dynamic stability: methods of calcu-
+lation have been improved; new design features have been researched and introduced;
+improvements have been made in winding manufacture ensuring retention of geometric
+dimensions after drying; stiffer insulation cardboard with less shrinkage is being
+used.
+
+At the same time, new structural components are being developed and introduced
+
+for pressing the windings of power trnasformers. ensuring the required force even
+with some shrinkage of insulation materials. A promising direction is the use
+
+of hydraulic jacks. enabling adjustment of pressing of the windings during operation
+without raising the bell (upper part of the tank).
+
+Simultaneous research is being done on using reinforced wires.
+
+At present, the Ministry of the Electrical Engineering Industry has no special
+stand for electrodynamic tests of transformers, obviating experiments on this
+problem. The construction of such a stand is a major problem for the transformer
+building subsector in the Eleventh Five-Year Plan.
+
+At the present time considerable work is being done on perfecting internal and
+external cooling of transformers. More precise methods have been developed for
+temperature calculations of windings with natural and forced circulation of oil
+through the windings. Transformers of maximum power use mainly directional circu-
+lation of oil. Cooling devices of the 111's type have been considerably modified
+(forced movement of oil through an air-blasted cooler). New coolers have been
+introduced with low-speed blowers. submerged pumps with shielded stator, and new
+bimetallic cooling tubes with cut ribbing (to turbulize the airflow). Cooling
+devices may-be either suspended or individually installed. Transformers for large
+generating facilities chiefly have a water-oil cooling system.
+
+One of the factors that guarantees accident-free operation of transformers is stable
+up-to—date technology for making components and subassemblies, assembling and drying
+
+52
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+at the manufacturing plant. Considerable advances have been made in this area
+in the last 10-15 years.
+
+With the switch to rolled transformer steel there has been a considerable reduction
+in the labor inputs for making magnetic circuits and an improvement in their quality.
+Outages involving fire in steel have practically disappeared. This is the result
+
+of development and introduction of automatic lines in transformer plants of the
+subsector for longitudinal and transverse cutting of transformer steel, special
+stands for assembling and edging magnetic circuits.
+
+A series of machines. lines and fixtures have been developed and to a considerable
+extent introduced that improve the quality and productivity of labor in manufacture
+
+of insulation components and windings. The windings of large transformers are
+made on vertical winding machines.
+
+Devices have been introduced for axial and radial pressing of windings as they
+
+are wound, as well as devices for pressing during drying of windings. This stabi-
+lizes the dimensions and density of the winding. A number of lines are used for
+cutting sheets of carboard. making piercing racks and spacers. Manufacture of
+insulating components of complex configuration from celluloid and electrical-grade
+cardboard has been mastered.
+
+The reliability of high-voltage insulation for oil—filled transformers is determined
+to a great extent by the quality of drying. Vacuum drying is the conventional
+method for cellulose insulation. This process has been thoroughly worked out in
+transformer plants. The vacuum in the drying ovens goes down to 0.1 mm Hg. The
+conditions for heating up the active part before evacuation have been optimized.
+
+A new method of drying in hydrocarbon vapor has now been adopted in Soviet trans-
+former construction. In this technique. the active part of the transformer is
+heated up by saturated or slightly supersaturated vapor of an organic liquid similar
+to kerosene at a temperature of [ZS-140°C with subsequent vacuum drying at a residual
+pressure of 0.1 mm Hg. The time for drying transformers in hydrocarbon vapor is
+
+cut in half, and the quality of drying is improved.
+
+Tests of power transformers are continually being improved for detection of flaws
+in construction and manufacture.
+
+For purposes of checking the quality of insulation in recent years. tests by commu-
+tation pulse have been introduced. as well as protracted (hours-long) testing by
+voltage on industrial frequency with measurement of the level of partial discharges
+in insulation.
+
+Work is continuing to perfect protection facilities and methods of troubleshooting
+transformers during operation. The main protective insulation of high-voltage
+transformers is the spark-gap arrester. The protective properties of this device
+are principally what determines and limits the electric effects to which the trans-
+former insulation is subjected. Therefore the improvement of arresters is one
+
+of the decisive factors in raising the technical level of the transformers that
+they protect. Another major protector of oil-filled transformers is the gas relay
+that has been successfully used for 60 years.
+
+At the present time. all transformers produced in our nation have gas relays made
+in East Germany. the CEMA nation that specializes in making them.
+
+53
+
+FOR OFFICIAL USE ONLY
+“I! OFFICIAL IISII'. “NIX
+
+Rubber containers in the expander keep the oil from getting wet and oxidizing.
+Pointer-type indicators are used for checking the oil level.
+
+New devices are now being developed for keeping track of the condition of trans-
+formers during operation. These include a short-circuit counter that accounts
+
+for the currents that act on the transformer over a prolonged period, using a special
+sensor to monitor the temperature of the winding under load with fiberglass optics
+
+to transfer the information to an external measuring device.
+
+Among the new facilities for troubleshooting transformers. mention should be made
+of an acoustic converter of partial discharges. This is a portable instrument
+that can monitor intensity and determine the point of origin of partial discharges
+in insulation during factory tests of transformers as well as under operating con-
+ditions.
+
+In recent years. a method of spotting initial damages by gases dissolved in the
+oil has been widely used for troubleshooting transformers. The method is used
+both by factory testers and operational personnel.
+
+Experience in developing a 667 HVA transformer on 1150 kv, and feasibility studies
+on transformer equipment with power up to 2000-2400 HVA have shown that a further
+increase in unit power beyond 1000-1250 HVA will require development of assembly
+plants with cranes having a hoisting capacity of more than 500 metric tons and
+
+the necessary transport facilities. Moreover. the equipment for new superhigh-
+voltage classes will require an increase in the level of technology and production
+culture. as well as setting up the necessary test stands at the manufacturing plant.
+
+To realize the prospects of development of transformer construction. and to satisfy
+the needs of the electric power industry for maximum-power transformer equipment
+
+at superhigh voltages, it has been decided to build a new transformer construction
+shop at Zaporozh'ye Transformer Plant equipped with cranes having a hoisting capacity
+of up to 1000 metric tons.
+
+The new shop is being designed with a view to making transformers with voltages
+up to 1800 kVAc and 21500 kVDC at unit powers of up to 3000 HVA.
+
+The forthcoming Twenty—Sixth Congress of the CPSU will give new jobs to the energy
+workers of the nation. The subsector of transformer construction must make its
+contribution in handling these jobs. Cumulative production experience, the scien-
+tific and engineering background and the availability of highly skilled specialists
+inspire confidence that these problems will find a timely solution.
+
+COPYRIGHT: IZDATEL'STVO "NAUKOVA DUHKA". "TEKHNICHESKAYA ELEKTRODINAHIKA". 1980
+
+6610
+C30: 1861/24
+
+54
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+INDUSTRIAL TECHNOLOGY
+
+UDC 65.011.56
+CLASSIFYING INDUSTRIAL ROBOTS
+
+Moscow 0 TIPIZATSII PRDHYSHLENNYKH ROBOTOV in Russian 1976 (signed to press
+21 Jul 76) PP 2. 88
+
+[Annotation and table of contents from book "Classifying Industrial Robots". by
+Leonid L'vovich Podkaminer. Lyudmila Grigor'yevna Kuznetsova, Nikolay Stspanovich
+Norkin. Pavel Vasil'yevich Markin. Georgiy Naumovich Rappoport. Levsn Kantimirovich
+Baskayev. Yuriy Viktorovich Solin and Vyacheslav Hikhaylovich Krasnikov. Izdatel'stvo
+standartov. 10,000 copies. 88 pages]
+
+[Text] The need for using manipulators with programmed control (industrial robots)
+is currently becoming more and more apparent in many types of plants. However.
+
+the capabilities for using manipulator models now under development for large-
+scale automation is restricted by the fact that they are being designed as indi-
+vidual structures.
+
+In this book. based on aystematization of the range of problems covering the field
+of robotics as a whole, the authors demonstrate the feasibility of classifying
+industrial manipulators. arranging them in unified-design series. and standardizao
+tion. which will aid not only in expanding their range of application. but also
+
+in simplifying design. shortening development time and reducing cost.
+
+This book is intended for scientists. engineers and technicians. Figures 27.
+tables 12. references 19.
+
+Contents page
+
+From the editors 3
+
+Introduction 5
+
+1. Sequence of performance of stages of developing unified-design series
+
+of industrial robots 10
+
+II. Structure of automated production sections serviced by robots 13
+III. Classification of objects of manipulation and objects of processing
+
+by industrial robots 28
+
+IV. Influence that configuration of the automated technological unit has
+
+on design of the servicing industrial robot. Classification of
+
+industrial robot designs in current use 41
+V. Transport robots ' 60
+
+55
+
+FOR OFFICIAL USE ONLY
+FIN!(INWC1AI.US£!0NLN
+
+VI. Actuation robots
+VII. Classifying structural arrangements of systems foc controlling indi-
+
+vidual robots and sections nude up of robots
+VIII. Developing unified-design series of industrial robots
+
+References
+
+COPYRIGHT: Izdstel'stvo standsrtov. 1976
+
+6610
+C80: 1861/38
+
+56
+
+FOR OFFIGAI. USE ONLY
+FIHRCHNHCJAL USIICN‘LY
+
+NAVIGAIIOR AND GUIDANCE SYSTEMS
+
+UDC 629.7.051
+DYNAMICS OF NONLINEAR GYROSCOPIC SYSTEMS
+
+Moscow DINAHIKA NELINEYNYKH GIROSKDPICHESKIKB SISTEH in Russian 1981
+(signed to press 4 Jan 81) pp 2-6, 223-226
+
+[Annotation, foreword and table of contents from book "Dynamics of Nonlinear
+
+Gyroscopic Systems", by Sergey Akimovich Chernikov, Isdatel'stvo "Nashinostroyeniye",
+1195 copies, 226 pages]
+
+[Text] Problems of analyzing and synthesizing nonlinear gyroscopic systems of
+arbitrary order on the basis of frequency methods are explained. The main atten-
+tion is devoted to exposition of the results of investigating self-excited gyro-
+scopic system oscillations caused by dry friction in cardan suspension axles. play
+in mechanical transmission, dead zones, limiting and hysteresis in control cir-
+cuits. etc. The results of investigating the stability of gyroscopic systems
+
+with nonlinear elastic and elastic-dissipative coupling are analyzed. Specific
+
+examples according to the applied theory of nonlinear oscillations of gyroscopic
+systems are given.
+
+The book is intended for engineers involved with gyroscopic systems.
+
+Foreword
+
+A great deal of work has been devoted to the solution of nonlinear problems of the
+dynamics of gyroscopic systems (GS). However, this work in limited either to the
+framework of precision movement, or to insignificant "smooth" nonlinearities.
+Neither such nonlinear phenomena as self-excited oscillation nor problems of the
+stability of significantly nonlinear 68 have been treated sufficiently in the
+literature.
+
+The main direction of the book involves investigation of self-excited oscillation
+
+processes caused by the nonlinear nature of the elastic-dissipative coupling in
+
+the mechanical part of GS and the nonlinear nature of the amplifying and con-
+verting circuit of the control cOupline.
+
+57
+
+FOR‘OFFKJAI.USE(NVLY
+FOR OMCIAL USE ONLY
+
+wide fluctuation of perturbing effects and of CS parameters can cause the
+excitation of self-sustained oscillations with unacceptable amplitude and
+frequency which often result in a nonstandard GS operating condition.
+
+Since there is now no general way to determine the asymptotic stability of
+nonlinear systems as a whole. and since instability is manifested in practice
+
+in the form of self-excited oscillations. finding the conditions for self-
+excited oscillation is one of the basic problems of 68 planning. Furthermore.
+it is necessary to establish both the fact that self-excited oscillations occur
+and be able to change the parameters of the system. as well as its structure if
+need be, in order to eliminate the self-excited oscillations or change their
+parameters in the required direction if a self-excited oscillating condition is
+standard for the cs. It is important to know how a particular real nonlinearity
+affedts the dynamic properties of the system. how to compensate for the harmful
+influence of "parasitic" nonlinearities and how best to use the positive proper-
+ties of nonlinear elements as concomitant as well as specially introduced
+elements.
+
+In this connection, the problem arises of discovering the general mechanisms
+
+by which the influence of various nonlinearities is felt and of developing
+recommendations to improve dynamics which do not involve specific system param-
+eters or the placement of the nonlinear element within the GS structure.
+
+The basis of the problems which are solved is'a'dynamic model of a multichannel
+as with arbitrary placement of the gyroscopss, which makes it possible to allow
+for the nonlinear nature of elastic and elastic-dissipative coupling between
+
+the kinematic branches and elements of kinematic pairs. In contrast to existing
+models of nonlinear coupling between elements of a kinematic pair with play,
+
+the proposed model allows for omnidirectional properties of the nonlinear branch.
+the input and output of which change as a function of the state of the energy
+levels of the parts of the system separated by a gap.
+
+Among nonlinearities, dry friction. which significantly degrades GS accuracy and
+reliability. deserves special attention. A great deal of work. which is reviewed
+in detail by N. V. Butenin [ll]. has been devoted to its influence on the opera-
+tion of gyroscopic devices. However, most of the work devoted to the influence
+of friction on OS stability investigates special problems corresponding to the
+stable region of a nonlinear as. The natural outcome of these investigations was
+confirmation of the damping effect of dry friction on a system within the indicse
+ted region of the 68 phase space. In addition, consideration. e.g.. of the
+inertial properties of an amplifying circuit makes it possible to detect the de-
+stabilizing effect of dry friction, i.e., to discover the self-excited oscilla-
+tion region located within the stability region of a linear system. Furthermore,
+for 68 with dry friction and a doubly astatic driven linear part, there is no
+stable region, since dry friction unavoidably causes self-excited oscillations.
+
+Another important nonlinear factor which exerts a destabilizing influence on cs,
+and usually causes self-excited oscillations, is play in mechanical transmissions.
+The problems associated with investigating the influence of play on the dynamic
+properties of cs have been far from exhausted, particularly in connection with
+
+58
+
+FOR'OFFNJA1.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+the inadequacy of the mathematical model of play. The arsenal of methods for
+suppressing self-excited oscillations is also insufficient. In addition, the
+influence of other concomitant nonlinearities of passive coupling on the dynamic
+characteristics of 68 with play has been little studied.
+
+Yet another series of important problems of CS dynamics involves nonlinearities
+
+of the measurement and amplifier-converter circuit of control coupling with their
+influence on the stability and precision characteristics of CS. as well as the
+effect of cross-influence between concomitant nonlinearities of active (control)
+coupling and passive elastic-dissipative coupling of the mechanical part of a
+
+CS. The combined influence of several nonlinearities on the dynamic character-
+istics of CS has been far from completely studied. Only the first steps have been
+
+made in this direction.
+
+The difficulty of the problem is the limited capabilities of existing methods of
+studying nonlinear systems. Precise methods are valid only for the simplest
+cases in which the order of the equations does not exceed 2 or 3. and are inap-
+plicable in the case of the complex dynamic model of high-order GS.
+
+The simplest, and sufficiently precise, approximate method is the harmonic
+linearization method developed by Ye. P. Popov. which has recently become wide-
+spread because of its exceptional simplicity and effectiveness [55]. However.
+
+a condition for applicability of the harmonic linearization method is filtering
+properties of the reduced linear part. which are often not satisfied for 68.
+Examples of CS with an unfiltered linear part are systems with dry friction, sys-
+tems with tachometric feedback, etc.. in which the order of the numerator of the
+reduced linear part is less only by unity than the order of the denominator.
+
+as well as systems with clearly defined resonance properties and low-frequency
+(pre-resonant) periodic conditions. The formal application of the harmonic
+linearization method in these cases may yield quantitative errors and even
+qualitatively incorrect results [51. 96, 97]. In addition, a special type of
+periodic movement-so-called slippage or stop motion-caused by jumps in the
+derivatives of the argument of the nonlinear function is characteristic for CS
+
+with dry friction. The presence of jumps at the input of the nonlinear element
+makes it unjustified to apply the harmonic linearization method to the investiga-
+
+tion of periodic solutions, if only because the form of the oscillations is
+significantly nonsinusoidal. In connection with this. one of the chapters (the
+third in the present book) is devoted to developing a method for investigating
+nonlinear systems with an unfiltered linear part which can be used to conduct
+qualitative investigations of distinct types of periodic conditions-slipping,
+partially slipping and self-sustained oscillating conditions with stop-which
+
+are not subject to investigation using the first harmonic method, and to investi-
+gate periodic modes in critical cases of low oscillation amplitude to which the
+applicability conditions of the harmonic linesrization method do not extend,
+
+being based on estimating the sensitivity of a periodic solution to higher harmonics
+
+and small parameters.
+
+Finally, the problem of increasing the precision characteristics of CS is
+inseparably associated with the problem of damping their oscillations which,
+as we know, consists of the incompatible requirements of high static and dynamic
+
+U!
+\3
+
+FOR10FFKJAL.USEIM§LY
+FOR OFFICIAL USE ONLY
+
+accuracy on the one hand, and stability on the othsr. furthermore, increasing
+the damping moments with respect to cardan suspension axles and improving the
+stabality of 68 simultaneously degrades its constrained motion characteristics.
+The elastic compliance of construction elements further exacerbates this problem,
+since additional resonant frequencies appear. Furthermore. if these resonant
+
+frequencies are close to one another. it is extremely difficult to provide good
+stabilization throughout the entire frequency range with the help of linear
+correcting devices in the feedback circuit. The problen of synthesizing nonlinear
+
+correcting couplings which improve the dynamic properties of the system arises
+in this connection.
+
+The book also considers control processes in GS in which a self-excited oscil-
+lation condition is normal.
+
+Problems of nonlinear dynamics of 68 are solved in the book on the basis of
+frequency methods, particularly the harmonic linesrieation method, which have
+recommended themselves in engineering practice.
+
+The book is based on the author's work on the dynamics of nonlinear CS [83, 86,
+97].
+
+Table of Contents
+Foreword 3
+
+Chapter 1. Equations of nonlinear gyrosystems and dynamic models of
+
+nonlinear coupling 7
+1.1. Motion equations of 65 with nonlinear coupling 7
+1.2. Nonlinear models of dissipative coupling 13
+1.3. Nonlinear models of elastic and elastic-dissipative coupling 16
+1.4. Models of coupling with play 18
+1.5. Generalized model of nonlinear coupling 23
+
+Chapter 2. Frequency characteristics of reduced linear parts of 68
+
+with nonlinear coupling 27
+2.1. Linear 68 motion equations 27
+2.2. Frequency characteristics of reduced linear parts of G5 with
+"external" nonlinear coupling (unidimensionsl nonlinear GS) 31
+2.3. Frequency characteristics of reduced linear parts of GS with
+internal nonlinear coupling (two-dimensional nonlinear GS) 38
+2.4. Characteristics of reduced linear parts of 68 with active
+nonlinear coupling 48
+
+Chapter 3. Method of investigating nonlinear gyrosystems with
+
+unfiltered linear part 53
+
+3.1. Periodic modes in nonlinear gyrosystema. "Jump" equations 53
+
+3.2. Affine-equivalent conversions of nonlinear systems 57
+
+3.3. Unification of nonlinear structure 65
+
+3.6. Harmonic linearization of dynamic nonlinear sections 69
+
+3.5. Harmonic linearization of relay-controlled dynamic sections 78
+60
+
+ENJR‘951ﬁC1Al.I£SEZ(M“LV
+Chapter 4. Self-excited oscillations of as with nonlinear dissipative
+coupling
+
+Destabilizing effect of friction. Qualitative analysis
+
+Determination of parameters of relay-controlled periodic modes.
+
+Isolation of stability region
+
+4.3. Delayed self-excited oscillations of CS with external nonlinear
+dissipative coupling
+
+4.4. Relayed self-excited oscillations of G8 with internal nonlinear
+dissipative coupling
+
+4.5. Allowance for higher harmonics and jumps of relayed self-
+
+excited oscillations of CS with dry friction
+
+0
+
+s~s~
+O
+NH
+.
+
+0
+
+Chapter 5. Relayed-slipping self-excited oscillations and stability
+of GS with dry friction
+
+5.1. Characteristics of converted equivalent linear parts of GS with
+nonlinear friction
+
+5.2. Determination of parameters of relayed-slipping periodic modes.
+Isolation of stability regions
+
+5.3. Relayed-slipping self-excited oscillations of GS with dry friction
+
+Chapter 6. Self-excited oscillations of GS with play and nonlinear
+elastic-dissipative coupling
+
+6.1. Self—excited oscillations and stability of GS with nonlinear
+elastic coupling
+
+6.2. Self-excited oscillations and stability of GS with nonlinear
+elastic-dissipative coupling
+
+6.3. Determination of parameters of self-excited oscillations of G8
+with nonlinear elastic coupling in case of unfiltered linear part
+
+6.4. Asymmetrical self-excited oscillations and stability of CS with
+nonlinear elastic coupling with external perturbation
+
+Chapter 7. Self-excited oscillations of gyrosystems with concomitant
+nonlinearities of control circuits
+
+7.1. Influence of concomitant nonlinearities of orthogonal control
+circuits
+7.2. Influence of concomitant nonlinearities of local control circuit
+
+Chapter 8. Damping of self-excited oscillations
+
+8.1. Damping of self-excited oscillations of GS with play using forces
+of dry friction
+8.2. Damping effect of concomitant nonlinearities in control circuits
+8.3. Nonlinear active damping
+A. Nonlinear control
+B. Nonlinear correction
+
+61
+
+FOR OFFICIAL USE ONLY
+
+85
+85
+96
+98
+109
+
+114
+
+127
+
+127
+131
+142
+151
+
+152
+162
+169
+
+173
+
+185
+
+185
+193
+
+196
+
+196
+206
+209
+209
+211
+8.6. Correction of atatic characteristics on nonlinear coupling
+8.5. Inertial damping of CS oscillations
+
+References
+COPYRIGHT: Izdatel'atvo "Haahinoatroyeniye", 1981
+
+6900
+C30: 1861/36
+FOR OFFICIAL USE ONLY
+
+UDC 531.383
+
+PROGRAMME!) ANGULAR novmu'rs 0F GY'ROSTAT "HEN QUATERNIONS ARE USED TO DETERMINE
+ITS ORIENTATION
+
+Kiev PRIKLADNAYA HEKHANIKA in Russian Vol 17. No 5. May 81 (manuscript received
+18 Feb 80) PP 113-116
+
+[Article by A. Ye. Zakrzhevskiy, Institute of Mechanics. UkSSR Academy of Sciences.
+Kiev 1 .
+
+[Text] The problem of setting up programmed motions of a controlled object about
+its center of mass is currently of considerable practical interest in connection
+with the intensive development of modern technology. Resolution of this problem
+involves either construction or closure of a system of equations of motion control
+with respect to a given special solution (Ref. 1. 2]. The stability of such solu-
+tions can be ensured by constructing a stabilization system that is optimum in
+some sense [Ref. 4. S. 6].
+
+The use of Euler-Krylov angles for determining the orientation of a solid in space
+precludes the creation of a non-Cardan orientation system based on integrating
+
+the equations of motion. This is due to degeneration of kinematic equations at
+certain values of the angles of orientation. The use of direction cosines leads
+
+to a considerable increase in the order of the system of the equations of motion.
+
+In such a case it is most convenient to use quaternions, and specifically Rodrigues-
+Hamilton parameters [Ref. 1] as the orientation parameters.
+
+Let us consider a method of producing stable programmed notions about the center
+
+of mass of a solid moving in a central force field. We will take the Rodrigues-
+Hamilton parameters as the orientation parameters. In this way when angular veloci-
+ty sensors and computers are available we can create a mathematical "platform"
+
+as a result of integrating nondegenerate kinematic equations. The actuating ele-
+ments of the control system are three one-degree gyroscopes with axes lying along
+the principal axes of inertia of the entire system.
+
+Let us introduce the following coordinate systems as shown in the diagram: inertial
+CX1X2X3. principal central Oxlsz3 fixed to the solid, orbital Oxgpngxgp, and
+the system of axes 0:15:53 in translational motion along the orbit.
+
+He will describe the dynamics of the object by the following equations:
+equationsor' motion in the form of three dynamic Euler's equations
+
+63
+
+FOR OFFKJAL.USE(HVLY
+ma OFFICIAL ll'e‘F‘. "NIX
+
+(5.2., + (c, -. (3,)0‘6, + n, + «‘H,- 40,", =-.m, (1 23); (I)
+
+kinematic equations
+
+210 “ "‘ “’1": " "‘21: — We? 21.1 = “’1"- + “’3“ —'°xAﬁ
+25.. rank +w.x.—<».x.s 2ia=w.1.+w2h-m.z (2)
+equations of motion of one-degree gyroscopes
+
+ﬂ,=—-I,6‘-r,ﬂ,+U, “—1.2.3). (3)
+
+Here the 61 are the principal moments of inertia of the carrier body with braked
+gyroscope rotors, mi are the angular velocities of the carrier body. “1 are the
+absolute values of the vectors of kinetic moments of the gyroscopes in their rota-
+tion about their own axes; A1 are the Rodrigues-aamilton parameters that determine
+orientation of the fixed system of axes relative to basis 0:15:53. ii are the coef-
+ficients of friction in the gyroscope axes, 01 are the controllingtorques,m1 are
+the external moments of the central-force field. (123)
+denotes that the other two equations (1) can be obtained
+by cyclic permutation of subscripts. System of equations
+(l)-(3) has one first integral
+
+13+ 1H 13+ 13ml. (4)
+
+Let us consider the problem of constructing an algorithm
+of formation of controlling torques 01 to ensure stable
+execution of programmed spatial movements by the carrier
+body
+
+ 
+
+M=It.(!): talk/fl (i=1.2.3). (5)
+
+In contrast to Ref. 3. no constraints are imposed on factor vi.
+
+The formulated problem reduces to closure of a system of equations of motion by
+control with respect to a given special solution (Ref. 7]. As a result of its
+solution we find the programmed control 01 (i- l. 2. 3).
+
+Let us combine the unit vectors ii of the hypercomplex space of quaternions with
+basis °§L£2€" The fixed axes are put into one-to-one correspondence with unit
+vectors ek, the orbital axes-with eEP. and axes CXIX2X3-dwith eﬁ. Let us introduce
+normalized proper quaternions of transformation of the bases [Ref. 1]
+
+5,, = z A.:.-',.]\'; 51.: when: E“ ““793. (s)
+
+where the tilde denotes a quaternion conjugate with the initial one. the small
+circle corresponds to the operation of multiplication defined by quaternion algebra.
+
+In the process of construction of quaternions that assign the operation of rotation
+of the bases. it may become necessary to express their components in terms of di-
+rection cosines. If basis 3 relative to basis I is defined by a matrix of direc-
+tion cosines A. then the parameters of quaternion A that defines rotation of basis
+I to coincidence with B have the form [Ref.l]
+
+64
+
+FOI.0FI1(1AI.USISCNVLY
+“III OFFICIAL USP. ONLY
+
+ 
+
+VI +5 A . ——a
+A” _-_§...‘3_.. A”: ._. 3.31:3}.
+_. Erma" -. ..‘!I=__"il.-
+(A: -.t 41. . l). J 4%. v
+
+3
+where SPA’ ‘94:“. the sign preceding the expressions to be taken the same for
+~
+
+all M. ' "
+
+Assuming an undisturbed orbit. and consequently an unperturbed kinetic moment in
+migratory motion, we can write
+
+%I_=,,1=%zxeo.z. (7)
+
+where K is the kinetic moment of the system in its motion relative to center of
+mass 0. m is the moment of external forces relative to the_ center of mass, u is
+the gravitatiﬂal constant, 1' is the radius of the orbit, k is the unit vector
+of direction 00, 0° is the tensor of inertia of the solid with braked gyroscope
+rotors.
+
+The overall kinetic moment in relative motion is written as
+
+— — a —
+K=m-(-P+ EHLQ. (8)
+
+[HI
+
+Let X1-uz (1-0...., 3), wqg, Zk-Zﬁ (It-1, 2, 3) at z-co. The mum kinetic
+moment takes the form
+
+3 .
+ﬂ.- :-= >: (”no 'I' Chq‘a’) ‘t' (9)
+
+h-I
+
+To transform the components of these vector quantities. we introduce quaternions
+comprised of the components of these vectors in bases 1. B. 3°?
+
+3 J 3
+- - . -. "L"! 1 .-
+ml :-_~ \ ml“: ”—0” -" >- melt. 1‘ "'7' 2‘ #150";-
+m In! i-II
+
+Here the TR are unit vectors of the hypercomplex space of quaterniona that formally
+coincide with the unit vectors of basis Oilﬁzﬁa. which for angular displacements
+is inertial.
+
+Using the introduced rotational transformations (6). let us determine the cmponents
+of vector equation (7) in the inertial coordinate system. Since k-egp. then
+
+k' _._. 1-55.15 25.. _ \1 1-117.ng \( As a result, projections a on the fixed basis are de-
+terminea. and quaternion mE is constructed. In virtue of (6), we have m’ a. Mr}; .,\|-
+
+Kn- _\| I\.'." M” where queternion H is determined by components u1(t), and Hg is
+determined by components u! (i- 0. l, 2, 3).
+
+Let us write (7) in the inertial basis and integrate
+l
+h" (I) a: i'\'.{ + SE], (1)4112
+l
+
+65
+
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL USE ONLY
+
+Converting to the fixed axes. with consideration of (8) we get
+
+I?“ =Ki:~'l<'o.u = In (711. If- IGFM.
+Whence
+J
+
+n“ rim-"n 4'5 (k$= ‘ cm). ('0)
+
+Reel
+
+Using the derivative that has bgeglgorually introduced into the quaternion apparatus
+
+[Ref. 1], and considering that HDK u...3, with consideration of kinematic equations
+(2) for progranned motion of a solid in form 11- W. we get
+
+TI" = —,'_, (Mﬁ‘oR’ on + Mok’omoa”) — 7&5} a”.
+As a result we construct the programed controlling moment
+
+Uz'=ﬁ.+l.é.+x.H. (k==1.2.3). . on
+
+The problem of stabilization of the resultant programd motions should be solved
+on the basis of ensuring a given quality of transient processes.
+
+Let us turn to analytical design of an optimum regulator with respect to the cri-
+terion of generalized work [Ref. a]. This method enables us to get a solution in
+closed form for the problem of optimum stabilization for the complete system of
+nonlinear equations of motion of the object. closed by control. in perturbations.
+Such a capability is due to the fact that the second members of the equations of
+motion in perturbations. written in normal Cauchy form, are polynomials with a
+fini' 2 number of terms.
+
+Actually. the equations in perturbations for (1)-(3) take the form
+
+In In 3
+x, _: 20,,” + z amxﬂn ‘l' 250“): (I2)
+
+,, I u-I I--l
+
+where a”, 815'“ bid are known functions of time defined by the programmed law
+of motion.
+
+Solution of the problem of optimum stabilization reduces to solution of the Cauchy
+problem for the Riccati system of matrix equations. the order being 50. The con-
+trols uju uj(x1...., x10) (1- l, 2, 3) that are constructed as a result should be
+summed with programmed controlling moments UJ -U§+uj (j- l, 2, 3). the “i being
+homogeneous functions of perturbations of phase variables. and consequent y vanish-
+ing on special solution (5).
+
+Construction of optimum stabilization by the proposed method guarantees existence
+of a positively defined function that satisfies the conditions of the Lyapunov
+theorem of motion stability.
+
+Thus the use of Rodrigues-Hamilton parameters enables us to create a mathematical
+"platform" for determining the orientation of a solid in space, based on mnerical
+
+66
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+integration of nondegenerate kinematic equations. and yields a solution in closed
+form for the problem of optimum stabiliz~tion of programmed motions.
+
+7.
+
+REFERENCES
+
+Branets, V. N.. Shmyglcvskiy. I. P.. "Primeneniye kvaternionov v zadachakh
+oriyentatsii tverdogo tela" [Using Quaternions in Problems of Orientation of
+a Solid]. Moscow. Nauka. 1973. 320 pp.
+
+Yerugin. N. P.. "Construction of the Entire Set of Systems of Differential
+Equations That Have a Predetermined Integral Curve". PRIKLADNAYA HATEMATIKA
+I HEKHANIKA. Vol 16, No 6, 1952. pp 659-670.
+
+Zakrzhevakiy. A. Ye.. "Programmed Control of Angular Motion of Gyrostat in
+Cenrnal Force Field", PRIKLADNAYA HEKHANIKA, Vol 15. No 5. 1979. PP 85-91.
+
+Kraaovskiy, A. A.. "Sistemy avtomaticheskogo upravleniya poletom i ikh unali-
+ticheskoye modelirovaniye" [Automatic Plight Control Systems and Their Analyti-
+cal Modeling], Moscow, Nauka. 1973, 558 pp.
+
+Krasovskiy, N. N.. "Teoriya upravleniya dvizheniyem" [Theory of Motion Control].
+Moscow. Nauka. 1968. 476 pp.
+
+Letov, A. H.. "Dinanika poleta i upravleniye" [Plight Dynamics and Control].
+Moscow. Nauka. 1969. 360 pp.
+
+Galiullin. A. S.. Mukhametzyanov. I. A.. Hukharlyanov. R. 6.. Furasov. V. D..
+"Postroyeniye sistem programnnogo dvizheniya" [Construction of Programmed Con-
+trol Systems]. Moscow. Nauka, 1971. 352 pp.
+
+COPYRIGHT: Izdatel'stvo "Nsukova dunks". "Prikladnaya mekhsnika". 1981
+
+6610
+
+C50:
+
+8146/089
+
+67
+
+IKMR<MWHC1A1.USEGDNLN
+FOR OFHCIAI. USE ONLY
+
+UDC 531.38
+INVERSE PROBLEM OF GYROINERTIAL MEASUREMENT SYSTEMS
+
+Kiev PRIKLADNAYA HEKHANIKA in Russian Vol 17. No S. May 81 (manuscript received
+31 Jul 79) PP 106-l12
+
+[Article by F. H. Zakharin and H. A. Kharitonov. Kiev Higher Military Aviation
+Engineering Academy]
+
+[Text] The problem of determining angular velocity. linear acceleration and other
+motion parameters of a base from the output signals of gyroinertial indicators
+
+can be treated as the inverse problem of gyroinertial measurement systems. The
+conventional approach to solution of the inverse problem of gyroinertial measurement
+systems [Ref. 6] that assmes utilization of the inverse equations of gyroinertial
+measurement systems requires verification of conditions of stability and applicabil-
+ity in accordance with D. R. Herkin for the solutions of these equations. and also
+exact assignment of the initial values of the parameters to be determined. In
+
+this paper. an approach to solution of the inverse problem of gyroinertial measure-
+ment systems is proposed that is based on optimum estimation theory.
+
+1. Consider a gyroinertial measurement system installed on a moving base and con-
+taining N indicators (gyroscopes, accelerometers). The location of each indicator
+with respect to coordinate system Oxlsz3 fixed to the base is determined by radius
+vector rn and rotational matrix Bn' Ibunll (n- l, 2,.... N). The equations that
+describe motion of an arbitrary system of this kind (Ref. 6] are represented in
+general form
+
+Ez=—-I(q.'x.v.o+§m. (H)
+
+where q=-o¢fqpﬁ q,..(qL,u, q4,qi. . q3.0.. qr. ..qﬁ§Y is the vector of generalized
+coordinates ot sensing elements or the indicators. 51 (i- l, 2..... N) is the number
+of generalized coordinates of the sensing element of the i-th indicator, x- (u;, mg,
+mg, v1, V2, 9;)T is a vector made up of projections of the absolute angular velocity
+of the base (mi) and apparent acceleration ("1) of point 0 on the axes of coordinate
+system 0x1x2x3.y-=(yr,y,n,u, yu')ﬁ Y1 is the vector of parameters of the i-th indi-
+cator such as mass of the sensing element. moments of+inertia, coefficients of
+imbalance, unequal stiffness. damping, components of_rn and B" and so on, €(t)
+
+is the vector of random perturbations. the superscript T is the transpose symbol.
+and the dot indicates differentiation with respect to time.
+
+In some cases. the a priori information on properties of the function x(t) can be
+used to construct the model
+
+68
+
+FOR 0FF1CLA1.USEGNVLY
+FOR OFFICIAL USE ONLY '
+
+In -I..(x.)+£..(!). (1.2)
+
+where x.-(x'de/dor...q(d"x/deU§I“(XJ is a known vector function, 5x; is a random
+vector with known statistic.
+
+Combining equations (1.1) and (1.2), we get a system of the form
+
+x: = II. (X1. 7) + §;,(0. (1.3)
+ﬂ. = (ELEV: x; - (xI.q')’.
+
+where
+
+Usually the output signals of gyroinertial indicators are known functions of the
+generalized coordinates of the sensing element and parameters 1 measured with errors
+
+y -h(xa.1) +£(l). (1.4)
+where t(t) is the vector of random measurement errors.
+
+The problem of estimating the vector of state x;(t) of system (1.3), (1.4) is a
+standard problem of nonlinear filtration [Ref. 8]. If we assume that h-Iqo and
+
+go. do are negligibly small (or their values are measured), while the dimensionality
+of qo is not less than that of the vector xa- (x7. iT)T, then on the basis of (1.1)
+we can get a nonlinear regression model of the form
+
+2 I: (1:. 1') -l- Ed!)- (1-5)
+
+An algorithm for estimating vector x; from observed vector 2 is to be found in
+particular in Ref. 1.
+
+2. Consider a gyroinertial-measurement system made up of two unbalanced electro-
+static gyroscopes. With consideration of Ref. 2. 3. the averaged equations that
+describe the motion of an aspherical unbalanced rotor of an electrostatic gyroscope
+in a suspension with unequal stiffness at small nutation angle 6(t) is represented as
+
+all "‘ “:03: - up” (I 23); k a; PC
+
+ 
+
+3
+3‘“ )3 (I —a3,w.(<o..); (2.!)
+
+Ia-l
+‘
+
+o o f- \_‘, m. (on) map 7.29. (Msin’b to. (Meow —
+I l
+- 2n. («52) mm -- an. (“‘03) com 01-)-
+
+Here .. .., .1 .-
+m' “'1 -I- Am" m, . -. X ham“ W, In ? "limb; (I- I, 2, 3);
+' a-J
+Mal I I
+
+Am. ' [1' { mlfﬁllﬂgn "' ((2.5%): "'|"I("\Ol) "u + (“29"“) ""
+
+N
+l".. (”'00) "1:”:1' "o 2:“5-"3', (l 2 3); “10"») "" - ”LY; (was):
+
+69
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+T. km”) ‘ J R. 9: (I'm-M); ﬁ. ("'01.) ' _ ”a!“ (“‘00- F. (00;) - lm 0‘ (1.0“);
+
+(2.2)
+=’. (’9‘) Q. (”1) IO. (0.) -! "WU": 01(1):) '- 01.11. (DJ/13: (0.);
+D4 -'- d/d/L 1"“ 1 :‘m' (i "‘ l- 2. 3); (”II ‘ ”a“ + “—“.)2
+m” . mpg; m. - K/l,; m” r.- u).(l + x); or“ = u,(| + x +u.);
+
+. J ~ 2
+X. Mm": '1'. = "'2' l5" (1 +k’"EA:m)] +
+
++M,M [EaT,(I—ku_,2/15.)]‘z Iii-@103)"; .
+
+. - L
+a. - 3;- eggg; r. n 8.85.10‘" Kim-Hz; (I: .. I. 2. 3): Mv - 23hr;
+l-l
+
+ 
+
+””‘z'
+mam, 4-1:; Jr= “7‘ W23) S hand:—
+“‘1'
+~ - _. "‘3‘; ~ 2
+01%;“ (of!) S P3,..;(:)d:; a; =--. ‘afnm v=2n—l.2n;
+to": "-' '
+
+(n- I.2.....N);
+
+A- lag" is the orientational matrix of coordinate system 51. £2. 53 fixed to the
+housing of the electrostatic gyroscope with respect to coordinate system (1. (2. :3
+fixed to the vector of kinetic monent K [Ref. 2], 3- ":1 I is the matrix of orien-
+tation of coordinate system {152:3 relative to Oxlxzxg. g1, 01 are projections
+
+of vectors a; and u on axes £15,253. I.- I;(l+x). I; are the polar and equatorial
+moments of inertia of the rotor. 01(01) is the transfer function of the i-th chan-
+nel of the three-channel tracking system of the suspension, equivalent in force
+formation to the initial N-channel system. r1, r; are the nominal radii of
+
+the rotor and casing of the electrostatic gyroscope. Ev is field strength under
+
+the v-th electrode in the absence of rotor displacement, kv is the gain of the
+tracking system of the suspension. :21, are the coefficients of the expansion of
+
+the function that describes the surface of the rotor with respect to Legendre poly-
+nomials P21; 01’. w)’ are angles that determine the shape of the v-th electrode
+
+[Ref. 3], so is the [di]electric constant. a? (i- l, 2. 3) are the direction cosines
+of the axis of sensitivity of the n-th channel of the tracking system of the suspen-
+sion in coordinate system 51625.3.- is the mass of the rotor. (123) denotes that
+
+the two other relations are obtained from the given one by cyclic permutation of
+subscripts. Pl':(u) - dPr(u) /du.
+
+The f irst-approximation equations that define linear displacements of the rotor
+of the electrostatic gyroscope relative to the casing take the form
+
+DIR; =- mm; + a; r‘ - __ A'Q (1),) A (R‘ + Ed. (23)
+
+70
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Hhence
+A
+Rt = --B.E;+O;'mwz: y= Rt+ 5: -‘(Rt+50'
+-—u — vw.» E. «I ""5 (”-0
+Q3
+Here
+
+I:.=A’V(D.)A: 0(0.)=diag(0.}: 0.4mm:
+V(D,) mliag(v,(D;)I: I=diag(l): I:';.= Embl(l+cos0)><
+
+X WSW-I- 1) + (1 -—cos0)cm(¢— '6')]+ Esinbsinwsino; (2.6)
+
+152-:f-c—of—[U+cusO)sin(V+¢)+(l—°OS°)SIR(V"' 9)]-
+
+-- Eslnpcus win 0; 13‘, = E(cospsin Osin p + sinpoosv); $= Kllf';
+v=Kx(I+x)"cosO/F'; mas—v1;
+
+p. ¢ are angles of precession and proper rotation [Ref. 2]. The subscripts of
+
+the expression :1, t1 indicate the coordinate system in which the given vector
+is considered.
+
+Substituting (2.5) in (2.10) after a umber of transformations we get
+
+y. .-.- (lauA (01,.) —- 0,.8. (”an 005”“! + laﬂAl (0n) + ‘IIBI (Ml X
+
+\ sin m..l)- --+-2-— cos_0_ + “an" 10%) '- “:15: ("Mn (05“.! + 1021‘: ('99:) +
+
+—cns0
+
+i- a..B, (owl sin lion.” -—2- —— + ([—- 021/1 (our) _a“B. (”an c050“! +
+'|' [""Al (“‘01) " “1131 (0.2)] 5’" ”a” 5'" 0 '8 9 —' (0,, (BI (‘90) 005M -
+where -- 1'. (woosinow) sinHmE. [01‘1" (1-1.2.3). (2.6)
+
+"‘l (mu) ' - ECO-‘5“ "' 1': (0%)): 310°.) “ ECOSWKWI (1" l. 2. 3;
+
+[3— 1.2.3.4). (2.7)
+Assuming that K: const, 0+0. in place of (2.6) we find
+
+'I. ‘= [nu/1| (0’s) — an”: (“on €050»! + lauA1(°’o) + an": (”on 5i" W +
++ "5.10:1” (i - 1. 2. a). (2.8)
+
+3. Let us assume that there are Z sensors of linear displacements of the rotor
+(Ref. 7] with Output signals represented in the form
+
+3 .
+z, .. 3‘ ﬂy, (i — 1.3. . . .. l). (3”
+ad
+
+Iul
+
+where M} (k- I. 2. 3) are direction cosines of the axis of sensitivity of the
+i-th sensor in coordinate system £1£2€3.
+
+71
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Let us consider the problem of reconstructing the instantaneous values of projec-
+tions of the apparent acceleration wi andabsolute angular velocity mi. and also
+
+the direction coaines d1g of coordinate system Oxlxzxa relative to inertial basis
+111313 associated with t e vectors of kinetic moments of the electrostatic gyroscope
+at the initial instant t- to ("true" direction cosines) from observations 21(t)
+
+(i- l, 2..... Z). In the general case this problem reduces to a problem of non-
+linear filtration for a system described by equations of form (1.2), Poisson equa-
+tions for matrix DI-Idijl. and also equations of form (2.1) and relations (3.1)
+
+for both gyroscopes.
+
+A simpler scheme for solving the investigated inverse problem involves the following
+operations:
+
+1) obtaining preliminary estimates of components of the apparent acceleration V1
+and the direction cosines of the vectors of kinetic moments a91 (rx- 1, 2) (n is
+the number of the electrostatic gyroscope);
+
+2) compensating the drift of the electrostatic gyroscope and constructing a prelimi-
+nary estimate of the matrix of "negative" direction cosines D-Ildijﬂ [Ref. 9];
+
+3) smoothing the preliminary estimates of projections of the apparent acceleration
+and the "true" direction cosines, and estimating the projections of absolute angular
+velocity.
+
+If instantaneous values of the output signals zj(t) (j- l. 2..... Z) are observed
+
+. n
+at times '. -'-' fn—n 'r “(R = 2- 3-41'4‘ " a). then with consideration of the smallness
+
+of At for estimate 91 and 831 (i- l, 2. 3). we can use the following algorithm.
+We represent relations (2.8) in the form
+
+a
+w.) a 2 15m.) (n n I. 2. 3. 4). - (3.2)
+v-I
+where
+y, (In) - y... + ya. com-h. + y,. sinovn: y... ‘= "QM?”
+”3v '1 Ava" -- Bva'lv; va - A'I’" I ”van (V ’u " 2' 3"
+Then
+an.) aw.) W»): N.) -- mu.)- (3.3)
+Here
+
+2 (1,) -.- (z. (1.). z: (1.). . . .. .-. (t.))’; W.) .,.. (y. (A). y. (A). ya (!.))'.
+
+Considering that
+
+11.0") .. .'I.. + .'/-um“' ..+ utsiwn 1-H... J— ("=2»3-‘)"
+
+2».
+(3.4)
+72
+
+FOI‘OFFKJAI.USE(NVLY
+FOR OFHCIAL USE ONLY
+
+we can easily get the relations
+
+37. « ofm'ﬁ. (I .. 1.2.3); (3.5)
+
+u; - 0a - 5;}: as!» U 2 3). (3'6)
+
+Here
+‘
+
+~ A
+y. :-_= E y" (1).}: U, r: H. X “2'. u‘ -= (“is “-1.9 "1),; u: r- -;' (y; (Id—glad);
+
+ll"|
+" I
+
+uj. 3,; (y, (1.) —- u. U.» (i = 1.2. I»: P. - M. + 3,3,;
+0' 5 A18, '- A381 (l 23).
+
+Disregarding terms in (3.6) that contain small factors 01/P1 (i- l. 2, 3), we de-
+termine
+
+(a... "m an)’ u.. (3.1)
+
+Compensation of drifts of the vectors of kinetic moments Aw! is realized by sub-
+tracting from the prelinlnary estimates a91 the corrections Aa91 obtained as a
+result of integrating the error equations
+
+Airs. Jams—Jeauws-Am, (I 23). (3.8)
+
+The problem of smoothing preliminary estimates of the "true" direction cosines
+
+d j that are found from values of a91 after compensation [Ref. 9], and evaluation
+of w1 can be reduced to estimation of the vector of state of the system xI-(d11,....
+O33. m1, m2. W3)T described by Poisson and Euler equations from directly observed
+preliminary estimates of the dij' A simpler smoothing procedure assumes use of
+
+an approximate model of behavior of the sought variables
+
+il - x! i. Cl; £2 u ‘8'!” £3: - 0 -: ;m a Cu. (3-9)
+
+where x1- (d11. dlz..... d3). H1. wz. w;)T. :1 (i- l. 2,.... n) are random gauaaian
+noises. Preliminary estimates of x, enable us to formulate the observations
+
+l’l " ‘14“:- (3.10)
+where E; is the vector of random errors. y;- (y{, y}..... Yi2)T-
+
+An estimate of the components of vector x; for model (3.9). (3.10) can be obtained
+by using the algorithm of a steady-state linear filter with given attenuation.
+For example at n- 4 we have
+
+P; e :74: + Kfo"; (n a 1. 2. 3); 2?: =- K2132}. (3.1 I)
+
+Here
+"I
+
+A A B “'0
+X, _ (34.. 1;. _ , ,, a")! (I me I, 2. 3. 4); Piinyz—tu
+
+K: .. 41:; Kfuoﬂb': mum Kf-(lb‘ «=1._2..... '2):
+
+73
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+xﬁ is the index of attenuation. i is the number of component it.
+
+Still another version of the algorithm of smoothing of vector x, can be obtained
+by using the approximation of x11 (t) on interval AT by some series such as
+
+nun-23x, (lnI.....1'2). (3.12)
+
+Then. carrying out measurements of xi at fixed points of the interval
+
+h
+1,. “mum-.- l.2.....k); 21.-u,
+mill
+
+we get ‘3
+Isl-1+0" (3. ).
+
+where T" is the pseudo-inverse matrix;
+2! "' (23' ‘1;- - ' -- Ely: “If“ (3} (In). 1:01). - ~ -- 4:00)}:
+I A: (60' (A1)“ '
+
+_1 w (lust)I (M1)"
+
+With such a structure of algorithm (3.13). matrix ’1’" can be calculated beforehand
+from known at. At. 1: and m. The smoothed estimates. and the estimates of the time
+derivatives of x11 are found from estimates of cut with the use of expressions
+(3.12). On the other hand. estimates of the components of absolute angular velocity
+«)1 are found from relations stemming from Poisson equations
+
+8(1) .. 25' (043(1). (3.14)
+
+where S) is a skew-syuetric matrix comprised of “’1' 1-1, 2, 3; D- Idijl. 15 are
+estimates of the orientational matrix D and its derivative that are found by algo-
+rithms (3.11). or (3.12), (3.13).
+
+lo. The results of numerical solution of the problem considered in sections 2.
+
+3 for data given in Ref. 2. 5 show that errors of reconstruction of the sought
+motion parameters of the base fro; the output signals of two electrostatic gyro-
+scopes depend on the accuracy of calibration of parameters appearing in expressions
+(2.1) and (2.8). When the scheme outlined above is used for solving this problem
+in the case of conical oscillations of the base with frequency of 1 Hz and ampli-
+tude of 0.1 rad at values of H13 20 m/a’. error compensation step of h-0.001 s
+and relative errors of calibration of the main parameters of the electrostatic
+gyroscope of ~12, the errors of reconstruction of projections of the absolute
+angular velocity of the base do not exceed 5-10‘” Us for the steady-state filter
+algorithm (3.11) at law 100 a". and 10'“ Us for the approximation algorithm
+(3.13) at k- 10, [st-10" s, m-lo. while the errors of estimation of d“ are de-
+termined mainly by random errors of measurement of rotor displacements of the
+electrostatic gyroscope relative to the casings.
+
+75
+
+FOR OFFICIAL USE ONLY
+2.
+
+3.
+
+FOR OFFICIAL USE ONLY
+
+Bard. I... "Nelineynoye otsenivaniye parametrov" [Nonlinear Estimation of Param-
+eters]. Moscow, Statistika. 1979. 349 pp.
+
+Bryushkov, V. 6., Hartynenko. Yu. G. "Drifts of unbalanced Gyroscope in Electro-
+static Suspension of Unequal Stiffness". IZVESTIYA AKADEHII NAUK SSSR: mm
+TVERDOGO TELA, No 6. 1976. pp 33-60.
+
+Hartynenko. Yu. 6.. "Drift: of Electrostatic Gyroscope Caused by Aapherical
+Rotor", IZVESTIYA AKADEHII NAUK SSSR: HEKHAMKA WERDOGO TELA. No l. 1970.
+pp 30-18.
+
+Herkind. D. R., "Giroskopicheskiye sistemy" [Gyroscopic Systems], Moscow. Ranks,
+197A. 344 pp.
+
+Osipov. Yu. M.. Pevzner. Ye. M.. Balyasnikova. Ye. H.. "Analysis of Disturbing
+Moments That Act on a Deformed Rotor in an Electrostatic Suspension", IZVESTIYA
+WSSHIKH UCHEBNYKH ZAVBDENIY: PRIBOROSTROYENIYB. Vol 17, No 12. 1971., pp 79-88.
+
+Plotnikov, P. K., "Ineritel'nyye giroskopicheskiye sisteny" [Gyroscopic Hea-
+surement Systems]. Saratov. Saratov University. 1976, 167 pp.
+
+Povtorayko, V. 1.. "Determining Torque Acting on a Rotating Unbalanced Rotor
+of an Electrostatic Gyroscopic on the Part of the Electrostatic Suspension".
+TRUDY HOSKOVSKOGO ENERGETICHESKOG) INSTITU‘IA. No 361. 1978, pp 42-46.
+
+Seydzh, E., Nels. Dzh.. '“reoriya otsenivaniya i yeye prineneniye v svyazi i
+upravlenii" [Estimation Theory and its Application in Conunications and Con-
+trol], Moscow, Svyaz'. 1976. 495 pp.
+
+Christensen, 1'. w. . "Advanced Development of 386 Strapdown Navigation Systems".
+ELECTRICAL AND ELECTRONICS ENC. TRANS. AEROSPACE AND ELECTRON. SYST.. V01 2.
+No 2. 1966. pp 143-147.
+
+COPYRIGHT: lzdatel'stvo ”Naukova dunks". "Prikladnaya mekhanika". 1981
+
+6610
+
+680:
+
+8144/090 - END -
+
+75
+
+FOR OFFICIAL USE ONLY

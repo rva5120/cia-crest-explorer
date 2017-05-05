@@ -1,0 +1,928 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10234
+4 January 1982
+
+USSR Report
+
+ENERGY
+(FOUO 1/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appi“nriate in context.
+Other unattributed parenthetical notes 5 31in the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OHNERSKIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+ENERGY
+
+(moo 1/82)
+
+CONTENTS
+
+ELECTRIC POND!
+Economics of Electric Power System Pomtion
+
+(I. M. Vol'kenan; at 81.; mean MANIA
+mummcm 81m, 1981) 0.0.0.0....OCOICIOO.
+
+Recent, nature Searches for Tataria 011, Gas Described
+(1e. D. Voytovich; GWHA NBFTI 1' GAZA, No 9, 1981) ....
+
+-a- [III-USSR-37!
+FOR OFFICIAL USE ORE?
+
+ELECTRIC POWER
+
+ECONOMICS OF ELECTRIC POWER SYSTEM FORMATION
+
+Moscow BKONOHIKA FORHIROVANIYA ELBKTRO-BNBRGBTICHBSKIKR SISTBH in
+Russian 1981 (signed to press 20 Nov 81) pp 1-8, 320-321
+
+Linnotation and introduction by l. H. Vol'kensu, A. a. Zeyliger and
+L. D. Khabachev from book "Economics of Forming Electric Power Syn»
+tems". edited by A. A. Troitskiy. lzdatel'stvo "Bnergiya", 3,500
+
+copies. 320 pagesl
+
+LTeng This book outlines 'he technical and economic aspects
+of forming and developing electr‘c power systems. Primary at-
+tention is devoted to the technology, methods and mathematical
+models of the technical-economic justification of solutions
+
+for developing electric power systems during the designing
+stage. The book also reviews questions having to do with the
+economics of forming and developing the USSR's Unified Electric
+Power System.
+
+The book is intended for specialists engaged in planning and
+designing the development of electric power systems; it may
+also be useful for students in institutions of higher learn-
+ing who are specializing in electric power.
+
+INTRODUCTION
+
+The concentration of the production of electric power at powerful re-
+gional electric power stations and the centralization of the supply
+of electricity from the overall high-voltage network of the electric
+power systems (res) are the determining principle for the development
+of the 0858's power industry. This principle was first outlined in
+
+the GOBLRO plan.
+
+The basic factors which determine the efficiency of this trend in the
+development of electric power are:
+
+-the conserving of capital investments in the power industry by in-
+creasing the capacity of power units and electric power stations and
+by making rational use of the capacity of hydroelectric power stations.
+and by decreasing the needed reserve and reducing the combined maxi—
+mum oi the power load as compared with the total maximum loads of in-
+dividual systems, and by lowering the ccst of construction;
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+-the conserving of operating outlays by reducing the relative expend-
+itures of fuel and the number of personnel required for operation dur-
+ing the introduction of large, highly-efficient power units. and also
+by optimizing the use of different kinds of electric power stations
+within the electric power systems;
+
+-the conserving of labor resources in operation and construction;
+
+-increasing the reliability of the electric power supply by coopera-
+tion of the power systems in the event of various unfavorable events
+in the individual systems.
+
+At different stages in the formation of the BBS some of the above fac-
+tors come into play, but all of them, to a varying degree. are con-
+atantly at work during the development of the BBS.
+
+The creation of the BBS and their mutual joining together in accordance
+with this principle is the basic direction in the development of the
+Soviet Union's electric power industry. As a result at the present
+time more than 97 percent of the USSR's electric power production is
+accomplished at large electric power stations. which are joined toge-
+ther into 93 regional electric power systems (BBS). the networks of
+which caver nearly 80 percent of the populated territory of the Soviet
+Union. Most of the RBs's (more than 85 percent oy capacity of the
+electric power stations) function within the II unified BBs's (OBS).
+nine of which are in turn joined together into the ﬂational Unified
+Electric Power System (YeBS). The joint work of the power generating
+and power consuming units within the electric power systems. which is
+characterized by the generality of the process of production and con-
+sumption of power and its synchronism and continuity, is subject to
+known physical laws, which determine several technical limitations in
+the modes of using the electric power stations and electric networks.
+The observation of these limitations during each moment of time is
+necessary to ensure the qualitative and uninterrupted supply of elec-
+tricity to consumers and the reliable operation of the BBS.
+
+This feature of the electric power industry as a technical system
+substantially complicates the management of the development of the
+sector, requiring that the conditions for the development and func-
+tioning of facilities in the BBS both during the planning of the de-
+velopment of individual facilities and the designing of individual
+facilities be taken into consideration. The need to execute this re-
+quirement has led to the apportionment within the structure of the ma-
+nagement of the development of the electric power industry of a very
+important independent link. which has come to be called the designing
+of the development of electric power systems. the task of which is to
+justify the solutions which determine the composition. basic parame-
+ters and sequence of the development of electric power stations and
+electric networks and the means for their operation and management
+based upon the conditions of the optimal development of the electric
+power system on the whole. These solutions serve as the basis for
+both the planning of the sector's development and the designing of
+
+individual facilities.
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In accordance with the CPSU Central Committee and USSR Council of Mini-
+sters decree of 12 July I979, which concerns "improving the planning
+and strengthening the influence of the economic mechanism upon increas-
+ing the efficiency of production and the quality of work", in present
+day conditions the drawing up of a set of measures aimed at ensuring
+the efficient use of capital investments in developing the sectors of
+the national economy and achieving high final national economic re-
+sults becomes especially important. This applies fully to the elec-
+tric power industry. where one of the ways to realise these require-
+ments is to improve the methods and technology of designing the devel-
+opment of electric power systems. while considering the specific fea-
+tures of the power industry.
+
+In the I930's and l940's V. I. Veyts. S. A. Kukel'-Krayevskiy. V. V.
+Bolotov, Ye. A. Ruasakovskiy and other Soviet scientists began the de-
+signing of the development of the 288's. These scientists were the
+first ever to do research on the principles end methods for justifying
+the development and joining together of electric power systems. They
+also laid the groundwork for the future development of the Yeas. At
+this same time the foundations of the modern organisation and technolo-
+gy of designing BBs's were laid and the first drafts of the formation
+of power systems were drawn up.
+
+The further development of methods for designing 388‘s came in the
+I960's, when. on the one hand, the process of creating in the Soviet
+Union large power associations and the formation of the YeBS was un-
+dertaken on an intensive basis. 0n the other hand. there was also an
+opportunity to make use of mathematical models and computers at this
+time. As a result the scientific collectives headed by D. A. Arsamaa-
+tsev, A. A. Beschinskiy. V. A. Venikov. V. H. Gornshteyn, I. H. Har-
+kovich, L. A. Melent'yev. S. S. Rokotyan, L. V. Tsukernik, 0. V.
+Shcherhachev and other scientists have in the past IO to IS years
+drawn up methods. algorithms and programs which make it possible with
+a high degree of accuracy to conduct a technical analysis and economic
+evaluation of variants, and in several instances to also accomplish a
+comprehensive optimisation of the development and functioning of the
+
+388's.
+
+During this same period. L. A. Helent'yev and his school developed the
+basic concepts of the theory of large power systems. which can serve
+as the scientific basis for improving the overall methodology of de-
+signing BES's. They ensure the correct posing of the task of design-
+ing a system on the whole and the sound division of the task into a
+hierarchical series of sub-tasks. the selection of optimal methods
+
+for their solution and the rational organization of the entire process
+
+of designing 388's.
+
+During the designing of the development of large power associations
+and the YeES the results of the listed scientific research were devel-
+oped snd firmly established. As a result it became possible to create
+common methodological bases for the formation and designing of the de-
+velopment of electric power systems as an independent field of power
+science and engineering practice.
+
+3
+ton OFFICIAL use ONLY
+FOR uFFICiAL 055 out:
+
+This book represents an attempt to systematically outline from the
+abovementioned initial positions the technical-economic bases for the
+formation and designing of the development of electric power systems.
+
+The book can be broken down into three basic sections.
+
+Chapters I and 2 deal with the common methodological questions of de-
+signing BBs's: the first chapter cites the characteristic of an 388
+as one of the large power industry systems which are incorporated into
+a general power system (a fuel-energy complex) on a national level;
+the first chapter also provides an analysis of the process of managing
+the development of the electric power industry and its role in this
+process of designing the development of BBs's. The first chapter al-
+so researches the hierarchical structure of the tasks in designing
+835's and examines a common technological diagram for their solution
+in conditions of initial information that is constantly being kept up
+to date. This includes questions dealing with the use during the de-
+signing stage of mathematical models and the creation of an automated
+designing system. The second chapter provides an outline of several
+questions regarding the methodology oftecmicel-economic justifica-
+tions, which are very important for the practice of designing EBS's.
+but which have not been standardised or are inadequately understood
+
+in special literature. Included in such questions are the methods
+
+for considering the dynamics of the development of the system and the
+ambiguity of the intial information and reliability in conjunction
+with the technical-economic justifications.
+
+Chapters 3 through 6 review the basic power and technical-economic
+tasks of designing EBS's - determining the system's need for generat-
+ing capacity. justifying the development of electric power stations
+and the basic networks. analysing the power modes of the 888s' opera-
+tion. Along with the sequential outline of modern methods and tech-
+nology for solving these tasks. including questions having to do with
+the use for this purpose of mathematical models and computers, these
+chapters also list general recommendations on rational trends in the
+development of electric power stations within the 883's, the use of
+which makes it possible to limit the field of searching for optimal
+solutions during the designing of the development of specific OES‘s.
+
+when considering that the technical-economic questions on selecting
+circuits and parameters of electric networks of 35 RV and higher.
+just as the purely technical problems connected with their formation
+and functioning. are adequately covered elsewhere, the basic content
+
+of the chapter devoted to electric networks in this book. apart from the analysis
+of the overall diagram of the management of the development of electric networks,
+consists ofa review of certain specific questions on the justification of the
+development of electric networks, which are connected with the development of the
+system on the whole to a greater extent. This includes questions on
+determining the estimated power modes of loading networks, consider-
+ing the system reliability when selecting their carrying capacity and
+configuration and several others.
+
+h
+FOR OFFICIAL USE ONLY
+FOR 0F?ICIAL USE ONLY
+
+Chapter 7 sheds light on the technical-economic questions that deal
+with the formation of the YeBS. These questions augment. illustrate
+and make more specific the material in the preceding sections.
+
+All of these questions are examined in the book as they apply to the
+level of future designing, on which the basic criterion for making.de-
+cisions is to achieve a minimum of national economic expenditures.
+This does not include a review of the economic-organisational aspects
+of management. the organizational structures end cost accounting in-
+terconnections between the individual enterprises and associations.
+
+The material of the book is based upon a generalization of the many
+years of experience that the authors have had in designing and per-
+forming scientific research in the lnergoset'proyekt electric power
+system network designing7 institute. The book also cites the results
+of research which the authors conducted together with their institute
+co-workers: Ye. A. Volkovs (paragraphs 6.6. 5.2), 0. N. Kuznetsova
+(paragraph 5.3), P. A. Halkin (paragraphs 3.‘. 3.5. 6.2), V. s. Shery-
+gin (paragraphs 6.4, 5.2. 5.4) and V. D. Shlimovich (paragraph 2.3).
+
+In outlining thecommonmethodological questions on designing 338's
+
+and the principles and methods of using a system of mathematical mo-
+dels for this purpose. research results were used, which were execut-
+ed in cooperation with A. s. Hakerova. L. s. Belyayev. V. A. Khanayev
+(from the Siberian Power Institute of the USSR Academy of Sciences)
+and A. I. Lazebnik (from the Power Institute imeni G. H. Krzhishanov-
+skiy).
+
+The authors are indebted to candidate for the degree of doctor of
+Technical sciences A. s. Hekarova fortheircareful review of the manu-
+script and their comments which were taken into consideration during
+the preparation of the manuscript for publication.
+
+The introduction and Chapter I (except for paragraph 1.4) and para-
+graphs 2.3, 2.A. 3.6, 3.5. 5.l. 5.3 and 6.2 were written by A. N.
+Zeyliger, chapter A and paragraphs 3.1. 3.2. and 3.3 by L. D.
+Khabachev, paragraphs 1.“. 2.l. 2.2. 5.2. 5.4. 6.I were written by
+
+A. N. Zeyliger and L. D. Khabachev. and chapter 7 by I. H. Vol'kenau.
+
+All comments and requests regarding the book. which the authors will
+accept with gratitude, should be neat to the following address:
+113116. Hoscow. H-llb, Shlyuzovaya Rabereahnaya. 10. Isdatel'stvo
+"Bnergiya".
+
+5
+FOR OFFICIAL us: our
+FOR OFFICIAL USE ONLY
+
+TABLE OF CONTENTS
+
+Introduction easssossaseemasaossssasoasstassoaeoseeosseooaaaaoo 3
+
+Chapter I: Bases for the organization and technology of de-
+signing the development of electric power systems ............. 9
+
+l.l The general characteristic of electric power systems and
+organization of the management of their development ........... 9
+
+[.2 Hierarchical and organizational structure of designing
+electric power systems ........................................ 23
+
+l.3 Technological diagram of designing the development of
+electric power .y.te.. OOIOQOOOOOIQ0.0IOOOOO$0.00....OOICOOOOCO 3‘
+
+[.4 General principles of constructing a system of mathemati-
+cal models for solving tasks connected with designing electric
+Power system. lI..00I.00......0.00...I.OOIOIIOOOOOOCOOOOOOOOOOO ‘0
+
+Chapter 2: Methods for the technical-economic justification of
+solutions during the optimization of the development of electric
+power .ylte" OIOOIOOOOOOCIOOOO0.00.DOOOOOOOOOIIOGCO00.0.00...G ‘8
+
+2.I Criteria of optimalization of the development of electric
+Power sysceua OOOCOOOCCOUQOQDOCOOOO0.0....O'DI'IO....I.$.OOOO.U “8
+
+2.2 Principles and methods of forming and comparing variants
+in the development of electric power systems .................. 59
+
+2.3 Principles and methods of considering the reliability
+during the technical-economic justification process on the
+development of electric power systems ......................... 80
+
+2.4 Methods of technical-economic justification oi solutions
+when initial data is ambiguous ...............................- 88
+
+Chapter 3: Technical~economic bases for determining the need
+of electric power systems for the introduction of generating
+capacity 00.0.0...00000¢...00....00.000.000.00...OOOOOOOOOOOIO. loo
+
+3.! Determining the future levels of consumption of electric
+and thermal power ............................................. 100
+
+3.2 Determining the electric power consumption modes and the
+maximum loads of electric power systems ....................... IO9
+
+3.3 Capacity balances of electric power systems .............. I20
+
+3.6 Determining the economically sound reserve of capacity in
+a concentrated electric power system .......................... 126
+
+3.5 Determining the reserves in Unified Electric Power Systems 138
+
+6
+ton OFFICIAL use ONLY
+FOR OFFICIAL USE ONLY
+
+Chapter 6: Methods of estimating the work modes of electric
+power stations during the designing of the development of
+electric Power ‘y.teu. aesesessassssassess-easeaeseseeseaeeeeeas
+
+6.! Types of electric power stations and their operating char-
+
+acteri'tic’ ssasseeeeeeeessssseaoeeoseseesseseeeseeessseomwseeee
+
+6.2 Basic postulations of estimating the work modes of electric
+power stations during the designing of electric power systems ..
+
+6.3 Methods and mathematical models of optimising the 24-hour
+work modes of electric Poue' 3t.ti°n. esseseasssseeeeeeeesaeeese
+
+4.6 Optimizing the annual work modes of electric power stations
+and compiling the energy balances of the electric power systems
+
+Chapter 5: Justification of the development of electric power
+station. in electric Power .y.tcl. eseseeeeeeeeeesaeesaasaeseeas
+
+5.! Technological diagram of the justification of the develop-
+ment of electric power stations in electric power systems ......
+
+5.2 Analysis of the comparative efficiency of equipping various
+kinds of electric power station‘ easeeassesaseessseaasessseseees
+
+5.3 Economics of concentrating the capacity of electric power
+stations and their basic equipment ................-............
+
+5.6 Mathematical models for optimizing the structure of generat
+ing capacities of electric power systems .......................
+
+Chapter 6: Justification of the development of the basic elec-
+tric networks of electric power systems.........................
+
+6.! Determining the estimated power modes for selecting the
+carrying capacity of the basic electric networks of electric
+
+Power OYOCCIIO seaseasseeeaseeseeseeaesaaeoeeesasoeeeaaeeeesseooe
+
+6.2 Technology and methods of justifying the development of the
+basic electric networks of electric power systems ..............
+
+Chapter 7: Bases of formation and development of the National
+Unified Electric Power System (Yeas SSSR) ......................
+
+7.] Stages in the formation of the ress SSSR and the basic di-
+factions in it. developn.nt sssessesassassseseessseeessesseesese
+
+7.2 Structure of the generating capacities of the rats SSSR ...
+
+7.3 Arrangement and concentration of the capacity of condensate
+electric power stations within the Yeas SSSR ...................
+
+7
+FOR OFFICIAL USE ONLY
+
+165
+
+I65
+
+I66
+
+I76
+
+I87
+
+I96
+
+I96
+
+206
+
+2|5
+
+229
+
+26I
+
+241
+
+256
+
+270
+
+270
+283
+
+296
+FOR OFFICIAL USE ONLY
+
+7.4 Formation of the basic electric networks of the 1088 SSSR 301
+’ibliosraphy OOOOOOOODOOOIO...U0.00.00.33.00.00IOOCICOIOOCOCOOO 3'5
+
+COPYRIGHT: Izdatel'stvo "Energiya". I981
+
+8927
+cs0: l822/27
+
+8
+FOR OFFICIAL USE ONLY
+FUR 0F?ICIAL USE ONLY
+
+FUELS
+
+UDC 553.982:550.812(470.4l)
+RECENT, FUTURE SEARCHES FOR TATARIA OIL, GAS DESCRIBED
+Moscow GEOLOGIYA NEFTI I GAZA in Russian No 9, 1981 pp 1-7
+
+[Article by Ye. D. Voytovich (Tatneftegazrazvedka [Trust for Gas and 0il.Explora-
+tion in the Tatar ASSRJ): “Results and Trends in Geological Exploration for oil in
+Tataria")
+
+[Text] During the last fiveﬁyear plan Tataria's oil explorers carried out the main
+technical and economic indicators for deep drilling and core drilling. In all.
+445,000 meters of prospecting and exploratory hole and 1.2 million meters of cored
+hole were drilled. that is. 102.3 and 107.2 percent. respectively, of the plan
+task. The construction of 289 prospecting and exploratory holes was completed
+under a plan for 260. During this period 10 oilfields and 51 deposits were dis-
+covered. One hundred highs [109 percent of the plan) in Lower Permian sediments
+
+were prepared for core drilling.
+
+During the 10th Five-Year Plan Tatneftegazrazvedka Trust continued to prospect and
+explore for oil in Devonian and Carboniferous rocks in the main proaising areas of
+the east of Tataria--the westenn slope of the South Tataria. arch and the eastern
+side of the uelekess depression. This is where 63 and 30 percent. respectively30f
+the total neterage was drilled during the five-year plan. In other areas. includ-
+ing the southeastern and northeastern slopesof the South Tataria arch. 20.148 and
+5,585 meters were drilled. in the Udnurtskaya ASSR, there were 10,543 meters of
+exploratory drilling.
+
+1n explorational areas, 8! highs were introduced to deep prospecting drilling, and
+58 of these were prepared by core drilling in the Lower Permian sediments and 23 by
+seismic exploration. using reflecting horizon v (the Lower Carboniferous). Sue-
+cesscs in prospecting at Persian structures reached 90 percent, 78 percent based on
+seismic pioSpeeting. New fields and deposits were discovered, as a rule. with the
+first prospecting hole. This testifies to the reliable preparation of the highs by
+core-drilling and seismic-exploration methods. Despite the high degree of study of
+the land, the general conversion to the napping of areas ﬁiﬂlutilization of a den-
+ser network of core holes and of seismic logs indicates that the number of local
+highs observed increases as their dimensions decrease. So it can be presumed that
+the promising areas of East Tataria possess a definite reserve for the finding of
+new anticlinal traps.
+
+Thanks to the use of more modern standard practices for prospecting. the pace of
+preparation of highs and the effectiveness of deep drilling were raised during the
+
+9
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+10th Five—Year Plan. in comparison with the Ninth Five-Year Plan, the success rate
+for prospecting increased from 70 to 91 percent, and the percentage of productive
+holes rose from 58 to 74, which includes a rise from 54 to 89 percent for pros-
+pecting holes.
+
+Important geological results and substantial increases in oil reserves were ob-
+tained on the western slope of the South Tataria arch and on the eastern side of
+the Melekess depression, thanks to a concentration of operations in - - promising
+areas which are situated in the side zones of the Kama-Kinel' system of troughs.
+Small but sharply expressed high-amplitude reefogenic-type highs were distributed
+widely here in Carboniferous sediments. In practically all of them-as. oil deposits
+were confined in carbonaceous and terrigenous: sodiments-o£c' owereand liddle Carbon-
+iferuus complex 5. A high degree of correspondence of '...e Lower Permian and the
+Carboniferous s..ructural plans favored the finding of oil-bearing traps with core
+drilling. highs that were submerged and sharply flattened upward in the cross-
+section were prospeeted successfully with seismological exploration by the OGT
+[comon depth point] method. During prospecting for anticlinal traps, data about
+
+the propagation of PrcVisean and Vereya erosion breaches were considered. of espe-
+cially great signifiance for oil prospecting is the discovery and tracing of Previ-
+sean breaches, since the development of high-capacity sandy collectors is associat-
+ed with them. Areas of intersection of the breaches and local highs are primary
+targets for siting prospecting drilling. Experience in prospecting and exploration
+at the Arkhangel'sk, Vishnevo-Polyanskoye, Stepnoozerskoye and other fields indi-
+cates that oil accumulation zones can be associated with such areas. Even the
+terrigenous Devonian sediments in the region being examined. especially its eastern
+part, are promising. But here, apparently, minor deposits basically of the litho—
+logie and lithological-structure types have developed. The consistent confinement
+of most of the oil deposits to structurally uplifted elements of ancient Devonian
+
+terraces that are encircled along the strike by graben-shaped troughs is noted.
+
+0n the western slope of the South Tataria arch, 278,000 meters were driven. includ-
+ing prospecting drilling equal to 125,000 meters (45 percent). during the 10th
+Five—Year Plan. The construction of 180 holes was completed, and oil was obtained
+at 130. The success rate for deep drilling reached 72 percent. Under exploration
+were 48 highs, 42 of them in the Lower Permian. and 6 had been prepared by use of
+reflecting horizon V in seismic exploration. Positive results were obtained at
+46 highs. Prospecting and exploratory drilling was performed at the Ul'yanovskoye.
+Yamashi, Urat'minskoyc, Shegurchinskoye and Cheremshan areas, which are located
+within the zone of distribution of good-quality crude.
+
+The Arkhangel 'sk field is the most significant of those fields at which exploratory
+drilling has been conducted. It consists of several like-type oil-bearing local
+highs of common strike which form a single swell-shaped zone in Carboniferous sed-
+iments. The field intersects a deep Previsean erosion breach that has been filled
+up with Tula horizon sandstone of increased thickness. Petroliferousness has been
+established in the Turna. Tula, Alcksin, Bashkir and Vereya sediments. In all, 22-
+deposits were discovered. More than half of the industrial reserves of oil were
+concentrated in Tula horizon sandstone. The oil is of comparatively good quality,
+with a viscosity of 20—50 centistokes.
+
+At the Krasnooktyabr' field, 22 holes were completed by drilling, 6 of which were
+prospecting holes. In the Carboniferous and Permian sediments, the structural plan
+of the field is presented in the form of a swell—shaped zone of northwest strike,
+which includes six isolated highs. In the center of it is the large Poselennoye
+
+10
+FOR OFFICIAL USE ML!
+FOR OFFICIAL USE ONLY
+
+high, with an amplitude of 30-50 meters. The terrigenous Devonian layers have
+basically a gently sloping monoclinal deposition. An area of the Poselennoye high
+has been complicated along the Devonian complex by a small structural terrace. The
+presence of Previsean and Vereya erosional breaches has been established by drill-
+ing data. Industrial deposits of oil have been feund in the Pashiyskeya and Kynov-
+skiy horizons of the Devonian. in carbonate collectors of the Turna and Bashkir
+stages and Aleksin. Vereya and Kashira horizons. and in sandstones of the Bobriki
+and Tula horizons. Abundant oil shows have been recorded in the carbonate rocks of
+the Kashira and Podol 'sk horizons. A highly productive deposit has been observed
+at a PoselennOye high in the Pashiyskaya horizon, which is confined to a sandy
+formation of increased thickness. As a result of short-term testing of it, an oil
+gusher with a flow of 100 tons per day, using a 9-millimeter flow bean. was ob-
+tained. Subsequent exploration showed that this deposit is small and belongs to
+the lithologic type.
+
+The Dachnoye field includes a group of local carboniferOus highs. to which deposits
+in the Turna, Bobriki , Bashkir and Vereya sediments have been confined. oil shows
+have been noted also at domelike-structure areas in the Kashira horizon. A de-
+posit in the Kynovskiy horizon has been found at the Kutemskiy high, which is weak-
+ly reflected in Devonian rocks. Oil has been discovered here that“flows frosts
+sandy formation at the rate of 35 tons per day. with the use of a 7-millimeser
+I'low bean.
+
+The multiple-formation Iskra field consists of three isolated highs. which were
+prepared during the prospecting stage by OCT-method exploration, using reflecting
+horizon v. In all. 11 holes have been drilled in the area and the presence of a
+sculptured high along Carboniferous sediments has been confirmed. In the Pashiy-
+skaya horizon two formations of oil-bearing sandstone that total 7 meters in thick-
+ness have been discovered. When they were tested jointly, a gusher of high-quality
+oil with a flow of more than 100 tons per day on an 8-millineter flow bean was ob—
+tained. The deposit was of the arched, bedded type. In the Bobriki horizon of the
+Carboniferous. a second formation of oil—bearing standstones 10.8 meters thick was
+discovered. As the result of a test, a gushing flow of oil was obtained. Indus-
+trial oil-bearing objects have been found also in the Turns and Vereya-Bashkir sed-
+iments. The occurrence of a basement at a depth of 496 meters was discovered by
+well 663. An analysis of the geological data enables the following conclusions to
+be drawn: the structural position of the well at the basement corresponds to the
+axial zone of the graben-shaped Bagan trough: the basement rocks are characterized
+by strong fracturing. but fluid-l iberating permeable intervals are lacking among
+them; no oil or gas shows have been obtained in visual observations or the gas log.
+
+At the Yamashi area, prospecting and exploration have been perfomed at the Tyuge-
+ycvskoye and Onbiyskoye fields. The multiple-formation Tyugeyevskoye field com-
+bines seven local highs with proved petroliferousness. Productive fomations have
+been found in the Kynovskiy horizon. the Turns stage. the Bobriki and Tula hori-
+zons and the Vcreya-Bashkir sediments. The main object of development is a high-
+ly productive deposit in Bobriki sandstone. The field has been put into industri-
+al operation.
+
+At the 0nbiyskoye field the construction of 23 holes has been completed. The field
+has a complicated structure and includes 9 local Carboniferous highs with proved
+petroliferousness oi‘ the Turna. Tula-Bobriki and Vereya-Bashkir sediments. In the
+northern part of the field, in the hynovskiy and Pashiyskaya horizons lithologic
+
+11
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+type deposits have been found. Minor lithologic-type deposits which are complicat—
+ed in structure and limited in reserves have been dispersed in the extensive Ni-
+zhneurat'minskoyc structural terrace. oil-bearing formations have been found also
+in the Turns and Bashkir stages and the Bobriki, Tula and Vereya horizons of the
+Carboniferous. Industrial reserves of oil are localized witnin Carboniferous
+
+highs. As a result of prospecting and exploration, the Butkamanskoye and Hel‘nin-
+skoye fields and 10 deposits were discovered.
+
+an the whole, the degree of promise of the Urat'minskoye area, especially its nor-
+thern part, have proved to be lower than what had been presumed. The development
+of highs.small in dimensions and extremely flattened. which form low-capacity traps
+with restricted oil reserves, turned out to be negative.
+
+At the Shegurchinskoye area, as a result of the work dons, two fields with highly
+productive deposits in carbonaceous collectors of the Turna stage and the Aleksin
+horizon at the Novotroiskoye high were discovered. The industrial petroliferous-
+ness of the new fields is linked with Carboniferous sediments. of them. the more
+significant Krasnogorskoye field includes six like-type highs, which are grouped
+into one structural "knot." oil-bearing formations have been confined to the Turna
+stage, the Tula and Bobrik horizons and the Verey-Bashkir sediments. The field has
+been prepared completely for development work.
+
+At the Cheremshan area, prospecting and exploration drilling have been performed in
+small amounts. The work was concentrated in the Amal'chinskoye field region. A
+new oil deposit in the Bobriki horizon was discovered when a sheshna Lower Permian
+high was introduced to drilling. To the south of the area, 16 local highs have
+been mapped. The presence of a stock of prepared structures will permit the amount
+of prospecting drilling in this definitely promising region to be sharply increased.
+
+A zone of heavy and viscous crudes (Carboniferous deposits) are confined to the
+eastern side of the Helekess depression. During the 10th Five-Year Plan. 130,000
+meters were drilled through. The construction of 91 wells was completed, oil has
+been obtained from 75 of them, and the success rate of deep drilling reached 83
+percent. Work has been done at the Stepnoozersk0ye and Kutushsko-Kadeyevskoye
+areas.
+
+At the Stepnoozerskoye area. prospecting and exploration drilling has been oriented
+to Carboniferous sediments, but the first prospecting wells, which were located in
+the arches of highs, extended down to the crystalline basement. As drilling has
+proved, the terrigenous sediments of the Devonian are devoid of industrial accumu-
+lations of oil. A wide stratigraphic spectrum of oil shows has been established
+
+in rocks of the tower and Middle Carboniferous, and eight productive horizons have
+been found. The deposits are confined to distinct local highs. A substantial por-
+tion of the oil-bearing targets, which are represented by carbonaceous rocks, are
+characterized by low productivity, which reduces the recovery potential of the
+fields. During the five-year plan, 25 highs at the Stepnoozerskoye area were in-
+troduced to deep drilling, of which 13 had been prepared by using horizon V seis—
+mic exploration. Positive results were obtained at 24 structures. As a re-
+sult, 2 new oilfields (the Kamyshlina and Brodovskoye) and 15 deposits were
+discovered.
+
+Important revisions have been introduced into notions about the petroliferousness
+of Carboniferous deposits. The presence of productive formations in the Kashira
+
+12
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+and Pudol'sk horizons.at arch sections of the structures.has been proved. High
+promise has been established for the Vishnevo-Polyanskoye and Akanskoye structural
+zones. where a favorable combination of local highs and Previsean breaches. which
+are filled with thick sandy formations,wenenoted. Along with prospecting for oil.
+a large amount of exploration drilling has been done at the Vishnevo-Polyanskoye.
+Zyuzeyevskoye. Kamyshla. Akanskoye. Gorsk. stepnoozerskoye. Krivoozerinskoye.
+Pioner and Brodovskoye fields. with a view to preparing them for development. The
+flow rates of wells at the Stepnoozerskoye area are low. and the oil's viscosity is
+high. Because of this. prospecting and exploration in the area has been curtailed.
+
+At the Kutushsko-Kadeyevskoye area. the construction of five wells. which recorded
+a distinct high in Carboniferous sediments. has been completed. oil-bearing forma-
+tions were found in the Turna stage and the Tula and Vereya horizons.
+
+0n the southeastern slope of the South Tataria arch. a limited amount of work has
+been done on the Azevo-Salaushskoye swell and at the Bakeyevskoye structural ter-
+race. In all, 20.148 meters were drilled. the construction of 11 wells was com-
+pleted. and oil was obtained from 6 of them. Two Lower Permian highs——the Arzamas
+and Urazayevskoye--were introduced to deep drilling. At the first the presence of a
+high-amplitude high of the reefogenic type was established for the Carboniferous
+rocks. The main oil deposit of large-scale type was associated with Carboniferous
+sediments of the Bashkir-Serpukhov series. and the petroliferous story is equal to
+50 meters. For the Lower Carboniferous beds. the amplitude of the high reaches 80-
+130 meters. but the trap is devoid of industrial accumulations of crude. In the
+terrigenous Devonian sediments. a positiveOIOBed structure is lacking. The Arzamas
+high has an analogous structure. but the productivity of the deposits in the Middle
+Carboniferous is more limited.
+
+within the northeastern slope of the South Tataria arch (the Menzelinsk-Aktanysh
+area). the Karachevskoye, Severo-Baylyarskoye and Hiyashevskoye highs. which had
+been prepared by seismic exploration. were introduced to deep drilling. In all.
+the construction of one well was drilled to 5,585 meters and completed. At the
+Karachevskoye high. the drilling of deep well 20005 with a designed depth of 4.500
+meters continues. the goal of which includes a study of the Paleozoic and the more
+ancient Eocambrium reef sedimentary formations. 0n 1 August 1981 the face of the
+well reached a depth of 3,794 meters. According to geophysical data a formation
+of oil—saturated sandstone is singled out at the Tula horizon of the Carbonifer-
+ous. Reef sediments were found at a depth of 1.890 meters. The upper part of the
+log was complicated by an GOO-meter series of variegated-color sandstones and
+aleurolitcs. and then followed a clayey-sandy member 600 meters thick. which con-
+verts lower down to quartzitic sandstones. At a depth of 3,463 meters the hole en-
+tered a dike of crystalline rocks, which were represented by Congo diabases.
+
+Simultaneously with the prospecting for oil, exploration was conducted to study
+bitumen-bearing Permian sediments. During the five-year plan. 417 special holes
+were drilled. 30 bitumen deposits were found. 9 deposits were explored in detail.
+and 10 deposits were prepared for the estimation of resources of categories 02
+and D. The new data confirms the high promise of Ufa's bitumen-bearing complex on
+the western slope of the South Tataria arch. The degree of promise of the Kazan'
+bitumen-bearing complex has proved to be much lower than presumed by the apprais-
+als. because of the complex lithological facies structure of the formation's
+components.
+
+13
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+An analysis of geological results for 1976-1980 pen-its the following conclusions
+of basic importance to be drawn:
+
+1. Positive results of oil prospecting were achieved at all exploratory areas as a
+whole. The main discoveries were associated with fields and deposits in Lower Car-
+boniferous sediments, which are of comparatively small size and contain heavy, vis-
+cous crudes. The flows of the crude from the wells have low flow rates.
+
+2. An essential difference between modern methods of prospecting and exploring new
+fields and those applied in the past consists in the necessity to prospect for oil
+deposits that are small in area and in reserves and that require substantial
+amounts of drilling to prepare them for development. Prospecting and exploration
+were conducted more successfully in those areas where deep drilling was performed
+not at solitary highs but at several of them that were associated with Previsean
+breaches, which control the spacing of the higher capacity sandy collectors.
+
+3. Highly productive deposits in nonanticlinal traps were discovered, along with
+the well-known traps of anticlinal type in the Devonian terrigenous complex. Traps
+of combined type were found in the Lower Carboniferous complex in zones of distri-
+bution of the Previsean erosional breaches.
+
+4. Abundant oil shows that were established in a broad stratigraphic band--from
+
+the Kashira to the Hyashkovo horizons of the Middle Carboniferous inclusively-in
+the Stepnoozerskoye, Ul'yanovskoye, and Shegurchinskoye areas-amerit attention.
+
+The recovery potential of the deposits in these sediments and types of traps re-
+
+quire further study.
+
+5. In recent years seismic exploration has increased effectiveness in the prepa-
+ration of highs for Carboniferous sediments. The experience of geophysical opera-
+tions at the Yenoruskoye, Kutushskoye and other fields indicated that, in applying
+the OCT method, problems of exploring in detail oil deposits of complicated struc-
+ture and of preparing them for development also can be solved successfully.
+
+In accordance with the integrated plan for performing geological exploration during
+the 11th Five—Year Plan in the main areas, where more than 80 percent of all deep
+drilling will be concentrated, there remain the western and southeastern slopes of
+the South Tatariu arch and the eastern side of the Melekess depression, which is
+restricted by a zone of distribution of relatively light crudes in Carboniferous
+sediments. The following are recommended for other directions of operations: the
+northern and northeastern slopes of South Tataria and the southeastern slopes of
+North Taturia arches. Prospecting for oil should be performed in Devonian and
+Carboniferous sediments, but the main promise for increasing oil reserves is linked
+with the Lower to Middle Carboniferous complex. Based upon an analysis of geologi-
+cal and geophysical data, prospecting and deep drilling on the southeastern
+slope of a North Tataria arch and in the Menzelinsk-Aktanysh region will require
+a considerable change, by way of an increase. In all, it is planned that during
+the 11th Five-Year Plan Tatncft' Association will drill 600,000 meters of prospec-
+ting and exploration holes, 500,000 meters of it by Tatneftegazrazvedka.
+
+A further increase in prospecting effectiveness is being linked with the integra-
+tion of core drilling and seismic exploration and with improvement of the quality
+of preparation of highs in Devonian sediments by the OCT method. A skillful com-
+bining of these methods will enable their potential for further increasing the
+
+ll:
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+inventory of structures to be taken into account more completely, the tasks of de-
+tailed exploration and preparation of oilfields of complicated structure for devel-
+opment to be solved, the zones of distribution of higher-capacity sandy collector:
+to be forecast, and the arsenal of favorable geological prerequisites that are
+used for increasing deep-drilling effectiveness to be greatly expanded.
+
+At the oil-prospecting stage, a most important measure for providing for an in-
+crease in the pace of preparing new reserves should be a systematic expansion of
+the front of prospecting drilling and an increase in its volume to 70-80 percent.
+The main task of oil prospecting is to find deposits in anticlinal traps in all
+exploration regions of Tataria where there are prepared highs. Substantial amounts
+of prospecting and exploratory drilling must be concentrated on those promising
+areas where a combining of several favorable geological prerequisites is presumed:
+the grouping of local highs and reefogenic-type structures, the presence of Previsean
+breaches and buried protrusions of basements, and so on. Such promising objects
+include the Yuzhno-Ul'yanovskaya, Mel'nikovskaya and Yuzhno-cheremshan groups of
+local highs. In planning operations at objects with known reserves under categor-
+ies C2 and D, the degree of their "activeness" after transfer to industrial cate-
+gories, that is, the possibility of rapid involvement in development, should also
+be considered.
+
+Because of small sizes and limited reserves, it is recommended that lithologic
+traps in terrigenous sediments of the Devonian be explored, incidental to drilling
+at local highs. Combined-type traps, which are characteristic for side areas of
+the Previsean breaches, will be prospected for and mapped jointly with the main
+arch-type deposits in Carboniferous formations. A further concentration of pros-
+pecting and exploration at targets of complicated structure that are distinguished
+by small amplitudes of the highs and a predominance of traps of the nonanticlinal
+and combined types, is related to the development of new standard procedures.
+Decisive significance is attached here to seismic exploration.
+
+At the detailed-exploration stage, the task of the accelerated preparation of a
+large number of minor oilfields (25 fields are planned for the 11th Five-Year Plan)
+for development should be solved by means of development and producer wells and the
+enlistment of a small amount of exploratory drilling.
+
+In order to clarify fundamental questions of the deep structure, which will deter—
+mine thc prospects for further progress in prospecting work, a large set of studies
+is to be performed.
+
+In the area of study of the Eocambrium reef formations at the Ienzelinsk-Aktanysh
+area, the drilling of well No 20005 is to be completed, the hastily prepared geo-
+physical description of the cross-section and the stratigraphic tie-in of the re-
+flecting horizons is to be refined; and area seismic exploration by the NOV [re-
+flected—wave method] and DOT method are to be restored with a view to obtaining a
+reliable geophysical foundation for putting down a second deep well, No 20002, in
+the zone of maximum thickness of Prepaleozoic rocks. At the edges of the lensing-
+out of ancient sediments it is recommended that the designed well No 183, which
+is confined to the Suranchan seismic high, he deepened to the basement. The indi-
+cated wells will be situated on the line of a profile that is oriented transversely
+to the strike of the monoclinal slope; this will provide maximum information on the
+area being studied. The data obtained should create the necessary base for fur-
+ther detailing work.
+
+15
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In order to study the crystalline basement. it is planned to place solitary pros-
+pecting wells on local highs and ledges and on places of presumed cleavage of
+rocks. The purpose of drilling these holes is to clarify the possibility of the
+accumulation and migration of UV's [hydrocarbons] into crystalline rocks from the
+sedimentary complex. Drilling into the basement is combined with prospecting for
+
+oil in Paleozoic sediments. The depth of uncovering of the Precambrium basement is
+500-700 meters.
+
+Fulfillment of the tasks posed for the 11th Five-Year Plan should provide for a
+further rise in the effectiveness and quality of geological exploration of
+Tataria.
+
+COPYRIGHT: Izdatel'stvo “Nedra”. "Geologiya nefti i gaza" 1981
+
+11409
+cso: 1822/46 END
+
+16
+F0 OFFICIAL USE ONLY

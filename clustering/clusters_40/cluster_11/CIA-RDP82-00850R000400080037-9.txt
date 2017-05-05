@@ -1,0 +1,702 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10183
+14 December 1981
+
+East Europe Report
+
+SCIENTIFIC AFFAIRS
+[FOUO 11/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts.. Materials from'foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAUS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10183
+14 December 1981
+
+EAST EUROPE REPORT
+SCIENTIFIC AFFAIRS
+
+(FOUO 11/81)
+
+CONTENTS
+
+CZEGlOSLO VAKIA
+
+Factors in Increased Automated Hamgemnt System Reliability
+(Frantisek Merck; INVESTICNA VYSTAVBA, Jun 81)........ ........ .. 1
+
+- a - [III - BE - 65 P000]
+FOR OFFICIAL L'Sli ONLY
+
+CZECHOSLOVAKIA
+
+FACTORS IN INCREASED AUTOMATED MANAGEMENT SYSTEM RELIABILITY
+Prague INVESTICNA VYSTAVBA in Czech No 6. Jun 81 pp 196-281
+
+[Article by Eng Prantisek Harek: 'Treconditions for Reliability of Automated
+Management System Hardware"!
+
+[Text] At the end of 1980, the Federal Statistical Office published data in the
+specialized press on the status and utilization of data-processing equipment in
+Czechoslovakia in 1979 which merit consideration, for as of 1 January 1980 the
+purchase value of basic data-processing equipment in the republic reached Kcs 18.77
+billion, in addition to a value of Kcs 2.1 billion in buildings and construction work.
+
+Nonetheless, no fundamental changes had been achieved in time utilization of installed
+data-processing equipment; for digital computers, for example, the figure was 91.1
+percent in two-shift, 5-day operation, and of this, only 74 percent was productive
+work. In addition to a number of important factors, particularly involving automated
+management system (ASR) software, it is of particular importance in data-processing-
+equipment utilization to improve the operating reliability of ASR hardware, for
+maintenance accounted for 8.6 percent and down time for 5.6 nercent of the total
+
+use time of digital computers in 1979.
+
+It is understandable that a critical role in the improvement of technical standards
+and operating reliability of ASR hardware must be played by the producer, by both
+provision of modern, reliable components, and assurance of the technical and software
+relaibility of computer and controllsystems, including design of their Operating
+systems, memory protection, data protection during collection and transmission, and
+the like. The new technology for producing logical circuits itself considerably
+increases the reliability of data-processing equipment, especially since it has
+eliminated the numerous electrical connections required in the past. Another
+important influence is the quality of applications software (restarts with check~
+points, emergency control of the program or process during a computer breakdown, data
+protection in data bases and the like), as well as regular servicing of the hardware
+and the organization of comprehensive maintenance, not to mention 2 sufficient
+
+supply of spare parts and assemblies.
+
+Nonetheless, creating the preconditions for maximum operating reliability of ASR
+software must become an inseparable part of the preparation and design documentation
+for construction projects. This especially involves the area of process control
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+(where classical methods of control and regulation are increasingly being replaced
+by microprocessors), but also applies to aviation, nuclear engineering and medicine,
+where the automated management system is a factor which is increasingly affecting
+the technical and economic parameters of construction projects and equipment.
+
+The critical measures which should be carried out following evaluation of their
+economic effect, especially in the case of capital construction, can be classified
+in the following categories:
+
+--hardware configuration;
+--power supp 1y;
+
+--climate control;
+--facilities for maintenance.
+
+Hardware Configuration
+
+One important factor in this area is optimisation of the number of components and
+the level of capabilities of the equipment. As regards the computers themselves,
+essentially antithetical tendencies are emerging in the design of enterprise auto-
+mated management systems (ASRP) and design of the lower levels, i.e., automated
+control systems for production procedures (ASRVP) and for manufacturing processes
+(ASRTP). while at the ASRP level extremely powerful computer facilities are
+installed, in accordance with the size of the enterprise, with immense external
+disk storage capacity for the creation of enterprise-wide data bases, in terms of
+reliability it is much more advantageous at the ASRT? level to divide the con-
+trolled process into smaller sections which are controlled by stand-alone mini-
+computers or microcomputers.
+
+In designing ASR's, it is also beneficial to devote attention to the selection and
+integration of suitable sensors and measuring devices so as to achieve a maximum
+quantity of important information with a minimum number of installed sensors and
+interfaces, which are the most common source of breakdowns in operation. The same
+applies in planning and the number and location of terminals. To assure operating
+reliability of terminals and associated systems, where both the human factor (in
+this case generally the regular personnel of the workplace where the terminal is
+installed) and the economic consideration of expenditures on the purchase and
+operation of terminals and their control units and consunication lines play important
+roles, it is necessary to keep the number of terminals from being uneconomically
+large, but also to install them only in certain control centers to which data flows
+from other associated work stations.
+
+An important factor which may help improve the reliability of AS! hardware is that
+of limiting the selection, along \ith a certain degree of standardization of
+computers and their peripheral equipment and terminals; in practice, this is taken
+care of for the immediate future by the use of the Unified System of Electronic
+Computers (JSEP) and the Unified Ssstem of Hinicomputers (SHEP). Of course, there
+is an economically based optimum here as well. The selection of suitable computer
+or hardware items for data collection and transmission requires that they be suited
+to the tasks which they are required to perform within the ASR at the level and
+location in question.
+
+FOR OFFICIAL USE ONLY
+0f the greatest importance in terms of operating reliability is the design of backup
+provisions or replaceability of subsystems. central processors, transmission paths,
+peripherals, terminals and sensors, for either dealing with or preventing breakdowns.
+It is entirely logical that economic considerations percent the provision of 100 per-
+cent reserve capacity (because there is almost no case where it would be economical,
+for example, to back up an ASRTP with classical-type regulation. including instru-
+mentation and personnel). nonetheless it should be possible while eliminating a
+
+external sotrage.
+
+Perhaps the ultimate in operating reliability, which, howwver, because of purchase
+and operating costs, is justifiable only in extraordinary cases involving direct
+real-time control of certain important processes, is the use of a fully duplexed
+system of two interconnected computers. In such a system, both computers work
+simultaneously on the same task and compare their results or checksums, so that they
+can quickly discover errors. The classical duplex system consists of two central
+processing units, each connected with a direct-access external store and an operator's
+console. The other peripherials, particularly punchcard or punched-tape input and
+output devices, printers, terminals and the like, are generally common to both
+computers. One of the computers functions actively, the other passively. In data
+collection, the input data are fed to both computers. which process them. The
+
+computer. the two computers exchange functions, and the active computer stops and
+begins to diagnose its malfunction. If there is a malfunction in the passive
+
+In the NHKG [Klement Gottwald New Metallurgical Works], two Hewlett-Packard 1000/31
+computers (Fig. l) are currently in operation in the ASRTP system of the central
+oxygen converted shop, controlling two oxygen units with capacities of 35,000 Nm3
+of oxygen per hour each. For better operating reliability, a parallel redundant
+system (Fig. 2) is used, in which each computer, while it directly controls only
+its own oxygen unit, also accumulates permanent data on the other unit. If a
+malfunction in one of the computers is detected by the computer malfunction logical
+unit, the outputs to both oxygen units are connected to the other computer. which
+takes on the essential control functions for the entire oxygen converter shop.
+
+FOR OFFICIAL USE ONLY
+Fig. 1. Computer for contr_91 _of NHKG's centre; oxygen converter £1192.
+
+ 
+
+0|". 2. Schema mm M puma
+pm ASRTP math! 8pm“!
+
+1.
+FOR OFFICIAL USE ONLY
+Pig. 2. Backup provisions for computers in ASRTP of central oxygen converter shop.
+
+Key: a. Communications system
+b. Oxygen unit (No 1, No 2)
+c. Results
+d. Input data
+e. Control computer (No 1. No 2)
+f. Switched channel
+g. Computer malfunction detection unit
+
+To provide for communication between the two computers. which are located side by
+side in a single room underneath the shop's control room, an E? 91700 A communica-
+tions unit is used, allowing interchange of data at 1 million bits per second, with
+data exchange between the two computers proeeeding via working memory by means of
+
+a pair of programs. This redundant system of two computers unquestionably has
+allowed further improvement of the operating reliability of the entire system, which
+is in constant use in continuous three-shift operation. In practice this has
+eliminated all planned switching-out of the individual computers for scheduled
+repairs. Currently the operating reliability figure for the entire system is 0.984
+with the only important remaining factor being availability of spare parts.
+
+NRRG has also instituted interconnection between two central computers located
+together in one room by using common peripherals for input and output (Fig. 3). This
+has also created optimal conditions for simultaneous performance of two separate
+types of work: direct teleprocessing of data. including an interactive system for
+running documentation and the planning of production, sales and transport is done
+
+in the faster, more powerful computer. an IBM 370/168, while batch processing of
+
+data is done on a 370/145 computer, which is also used for interactive programming.
+
+ 
+
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000400080037-9
+
+VOR OFFICIAL USE ONLY
+
+Fig. 3. IBM 291/. unit, allowing slow peripherals to be connected to bc
+
+Another possibility for assuring reliability of a real-tine system, vhi
+makes possible continual system development, is the installation of a t
+
+conputer. which can be used for debugging and testing of new program a
+_ progras changes, and in case of a breakdown, as a substitute for the ct
+that is out of service. NHKG used this arrangement in designing a syst
+controlling and nonitoring the production in a nediun-light section ro]
+where a system of three control cosputers is backed up by a fourth (Pi:
+further develop-ent of the ASR for four rolling trains and production c
+
+selection after 1992; this year two rolling trains producing a limited
+being put into operation.
+
+ 
+
+Fig. ’1. Hardware for ASR of Indium-light section mill in MG.
+
+Key: a. 1 “byte central computer
+b. 96 Kbyte backup computer
+c. 96 Kbyte coordinating cosputer
+d. Unit for interface with surroundings
+e. Rolling train control computer
+f. Runout section control computer
+3. Process regulators
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000400000037-9
+Electric Power Supply
+
+In capital construction, two requirements are imposed on the power supply for
+computer and control systems:
+
+--continual, uninterrupted supply of electric current, with the exclusion of even
+brief interruptions on the order of milliseconds;
+
+-nininal vcltsge and frequency fluctuations of the power supply: generally the
+voltage tolerance reuuired is 1? to 10 percent of the average value, while for
+nicroproceusora the figure is only 3 percent; the frequence tolerance is :l percent,
+i.e.. 50 H: 39.5 Hz.
+
+Particularly in the control of continuous manufacturing processes, but also in
+medicine and aviation, use of equipment for uninterrupted supply of electric power
+is of steadily increasing importance. For powering couputers and miniconputere, two
+main technologies are used:
+
+-a rotary converter with a diesel unit, which goes into operation when there is
+
+a power grid outage and drives the generator which produces power for the ASR hard-
+ware. This design is of course common with a number of other types of equipment;
+lakes heavy demands as regards structural modifications, and its operation involves
+considerable noise and sizeable energy losses, in addition to which it cannot be
+started up innediately when there is a power failure;
+
+-a static converter, in which electrical energy is accumulated in storage batteries
+(Pig. 5). In this case, Ac current from the power system is first rectified by a
+thyristor rectifier, which provides direct current both for charging the electric
+batteries and for powering the alternator. which again converts the DC current to
+AC of the required voltage. The function of the battery is to power the computer
+or control system during a power failure long enough for all the necessary coqute-
+tions to be completed and the results to be read out or stored in memory. and
+possibly for the reserve power source to be started (generally after 10 minutes to
+an hour).
+
+FOR OFFICIAL USE ONLY
+Fig. 5.
+Key: 8.
+b.
+C.
+d.
+
+FOR OFFICIAL USE ONLY
+
+ 
+
+A static converter and ways of providing redundancy.
+
+Mnnual switch f. Coquter
+
+Power grid 3. Backup from grid via electronic
+Rectifier switch
+
+Alternator h. Bettery
+
+Backup from grid, via unusl switch 1. Electronic switch
+
+5. Redundant system
+1:. Commotion of redundant system and backup fro. grid
+8
+
+FOR OFFICIAL USE ONLY
+The static converters are made up of electronic power components, thyristors and
+diodes, which in addition to good reliability also have very good efficiency, and
+require less structural modification than rotary converters. They have the
+additional advantage of eliminating current peaking, maintaining vol'age and fre—
+quency stability, and providing complete phase symmetry. They require less space
+and auxiliary equipment, and are .ess demanding as regards foundations, since they
+involve no vibration. In addition, they are notseless.
+
+To assure a continuous power supply, but also to deal with failure or repair of the
+converter, it is desirable to provide backups for these continuOus sources. This is
+done either by backing then up directly from the AC grid, with manual or electronic
+switching, or by using a redundant system of several parallel units for continuous
+power supply, or by a combination of a redundant system with backup supply from the
+power grid. (Fig. 5).
+
+The use of converters for continuous power supply may be of especial practical
+importance when they are produced domestically. EVU [Power Research Institute]
+Nova Dubnica has developed a single-phase source for continuous power supply to the
+TESLA RPP 16 computer. The national enterpris. Elektropristroj [Electrical Equip—
+Ient] Hodrany has begun production of the TZNP type static converter with a power
+of 25 kVA and has also developed 2.5, 6 and 12 kVA single-phase converters.
+
+NHKG has installed static converters for uninterrupted power supply in the control
+systems of the central oxygen converter shop and medium-light section will. A
+domestically produced converter from Elektropristroj Modrany with a capacity of 25 kVA
+is used to power the ASRTP of the converter shop. Tn the case of the ASR {or the
+medium-light section mill, where the continuous power supply must power four control
+computers and a number of terminals connected with the central computers, it was
+
+necessary to select a static converter with a higher power, and accordingly a 65 kVA
+converter from the Swedish Asea Co was installed (Fig. 6).
+FOR OFFICIAL USE ONLY
+
+The installation of static converters must have evident economic Justification. In
+cases where these are not absolutely essential. it is helpful to provide a cosputer
+
+or control system with at least a backup power source in case the main power source
+fails.
+
+Continuous power supply is much more important in the case of nicrocowuter systems.
+Generally this does not require power equipment, because it is necessary only to
+provide 5 and 12 volt DC current, to prevent even brief power supply interruptions
+
+and to assure a smaller voltage fluctuation. Protection of data in lemory is
+important.
+
+Here, too, two main types of equipment are considered, both using reserve batteries:
+
+--a static converter (Pig. 7) assures continuous 06 current for the entire systea on
+in essentially the same nanner as for [larger] computer systems. This design is,
+
+however, more costly than a battery power supply and moreover involves superfluous
+conversion of some DC current to AC;
+
+--a stabilized DC power supply from reserve batteries: the main cowonent here
+(Fig. 8) is again a rectifier, which converts AC current from the power grid into
+variable-voltage Dc. The other couponent is a charger, which supplies constant-
+voltage DC for three purposes. namely slow constant charging of the batteries to
+full voltage, fast charging of the batteries when they have been discharged and
+powering of DC converters. Among other things, the control logic is used to isolate
+the charger from the battery in case of a power failure, in addition to which a
+switching relay is used to disconnect the battery from the circuit if its voltage
+drops to the minimum permissible bv value. A lZ-volt battery is used as the system
+power supply source when the power supply from the grid is out. The DC converters
+also provide the required 12 and 5 volt current, generally with tolerances of 13
+percent of these values.
+
+“:0 variants of this approach are possible: the first is a system which assures
+uninterrupted DC power only for the processor, the memory and other comments with
+LSI circuits, while the peripheral equip-ant is supplied frost the standard AC grid
+(Fig. 9); the other alternative is a systen which provides a constant power supply
+to the memory even when the standard power supply is off (Fig. 10), for example
+when the processor is not in operation.
+
+10
+
+FOR OFFICIAL USE ONLY
+Fig.
+
+Key:
+
+7.
+
+ 
+
+Fir.
+
+Provision of uninr~r;upted power for a microcomputer, using a static converter.
+
+Power grid
+Rectifier
+Charger
+Control logic
+Alternator
+Battery
+Processor
+
+7.
+
+FOR ()FFIUAL VS? 0N!)
+
+ 
+
+h. Memory
+
+1. Power supply
+
+1. Floppy disk memory
+k. Console
+
+1. Distributor
+
+m. Other peripherals
+n. Microcomputer
+
+11
+
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007102109: ClA-RDP82-00850R000400080037-9
+
+FOR OFFICIAL t'Sl’I ONLY
+
+ 
+
+Fig 8. Stabilized Dc source with reserve battery.
+
+Key: 3. Power grid e. Control logic
+b. Nonstebilized voltage f. Conversion
+c. Charger g. Rectifier
+d. 41.10] stabilized voltage h. Battery
+
+ 
+
+0M.O.NMmiedreipMpA-ewm
+
+Fig. 9. Uninterrupted power supply for 1.81 circuits
+
+Key: a. Power grid c. Nonetebilized voltege
+b. Rectifier d. Charger
+12
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000400080037-9
+(NunI..Zdaolpeetrvslimapﬂkmlhlavmipamuhi
+
+fig. 10. Constant power source for main memory
+
+Key: a. Power grid 1. Memory
+b. Rectifier 1. Power supply
+c. Nonstabilized voltage k. Battery
+d. Charger 1. Floppy disk memory
+e. Stabilized voltage m. AC distributor
+f. Control logic n. Console
+g. DC converters o. Other peripherals
+h. processor p. Microcomputer
+
+Hhile the provision of an interrupted power supply applies only to important,
+generally continuous, real-time ASR applications, it is also desirable to meet the
+requirement for a power supply with minimum voltage and frequency fluctuations for
+
+computers for mass data-processing. table top and office computers. terminals, and
+also possibly equipment for data collection and transmission.
+
+In the case of computers with large power consumption, it is sometimes necessary to
+install a rotary stabilizer. A domestic supplier is the 322 [Bratislava Electrical
+Engineering Factories] national enterprise in Bratislava. But it is always
+advantageous to assure a power supply to the computer independent of that for climate
+control and other large power consumers, or to supply the computer or control system
+
+13
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+with its own transformer, which somewhat decreases the effects of power-grid fluc-
+tuations. Finally, the importance of adhering to the requirements regarding the
+grounding of data-processing equipment, and particularly of maintaining the same
+ground resistance in a computer and its terminals. should not be underestimated.
+
+Climate Control
+
+The following climate-control requirements apply in the design and construction of
+computer and control centers:
+
+-meticulous adherence to prescribed operating conditions, particularly regarding
+temperature, humidity and freedom from dust, in addition regarding minimum sulfur
+dioxide content in the case of a chemically aggressive atmosphere. Associated with
+these requirements are provision for monitoring and recording the conditions in
+question (air temperature and humidity), monitoring of the operation of climate-
+control equipment, and possibly provision of warning signals when the prescribed
+conditions are not met or the climate-control equipment breaks down;
+
+--minimum energy consumption, and a separate power supply, independent of computer
+power supply;
+
+-~small size and easy accessibility for servicing and maintenance;
+
+--low noise level, which is particularly important in the case of compact climate-
+control units located directly in the computer room. in which case it is desirable
+that the noise from these units not exceed that of the installed data-processing
+equipment;
+
+--maximum operating reliability and service life.
+
+Two somewhat contradictory tendencies have currently taken shape as the demands for
+climate control for data-processing equipment have developed. One is the introduc-
+tion of modern processes for the production of electronic components (minicomputers
+and microcomputers, but also the CPU's of the latest-generation digital computers),
+which is associated with decreased climate-control requirements owing both to a
+decrease in the heat given off by new types of processors and to the prescribed
+temperature and humidity requirements. Currently, the air temperature requirements
+for the human operators are more demanding than those for failure-free computer
+operation; experience confirms that human workers have maximum productivity at
+temperatures between 20° and 25° C and humiditias between 40 and 55 percent. In
+addition, the number of devices which must be noncentrally located in ordinary
+manufacturing or office conditions and which are intolerant only of water condensa-
+tion is steadily increasing.
+
+In contrast, however, as the track density and the recording density on an individual
+track, or the capacity of external magnetic storage in general. increases, so do the
+demands for cleanliness of these storage units' working environment. The greatest
+demands for freedom from dust are imposed on the operation of magnetic disk stores;
+extraneous particles entering the space between the magnetic surface of the disk
+itself and the read-write head (which are between 0.8 and 6 microns apart) can
+damage both the disk and the head mechanism. Taste of a 7.25 Hbyte disk memory unit
+
+14
+FOR OFFICIAL USE ONLY
+operated in nonfiltered city air indicated that the disk pack and the heads were
+ruined in a maximum of 30 days.
+
+The producers of disk storage units are trying to prevent dust particles from
+getting between the disk and head. In the case of fixed disks, the unit is sealed,
+while in the case of replaceable disk packs and cartridges the air which enters the
+storage unit is filtered and an overpressure is created in the pack area so that any
+
+dust will not be sucked into the disk pack during rotation, but instead will be
+blown away fro- it.
+
+As a result of energy requirements and investment costs, primarily compact, air-
+cooled climate control units are now used with data-processing equipment. Host of
+these are units produced under license from Hiross-Denco by Vzduchotechnika [Air
+Engineering] national enterprise in Rove Hesto nad Vahom. For smaller data-processing
+devices, thoI SP!) 800 unit from LVZ [7Liberec Air Engineering Plant] Liberec, or the
+“'1 and KTZ units imported in limited nuabers from the GDR, may be used. To
+
+illustrate the climate-control requirements of JSEP and SHE? computers. Table 1
+gives the prescribed working conditions for computers.
+
+(I) TMLPmM-Mnchluum
+
+ 
+
+ 
+
+(2) mail“) WW
+vaun- : “I'aclaclac'su'wr
+- ::::;:°.::.:a mg“
+m -caiaain!ain
+(6) rc 4|: 1 a s z
+|
+
+ 
+
+ 
+
+Table 1. Survey of requirements for cosputer working environments.
+
+key: (1) Table I Overview of Requirements of working Environments for Computers
+(2) Item
+
+(3) Unit of measure
+(4) Type of Couponents
+(5) Air tewerature
+
+15
+
+FOR OFFICIAL USE ONLY
+FOR 0f11C1Al.USEtoNIN
+
+(6) Permitted tolerance
+
+(7) Relative humidity
+
+(8) Permitted tolerance
+
+(9) Dustinass
+(10) Maximum dimensions of dust particles
+(11) Permitted content of SO2
+
+Maintenance Facilities
+
+Maintenance has a major effect on the operating reliability of A53 hardware. Nonethe-
+less, even within the context of capital construction it is possible to create the
+necessary conditions for maintenance activity. whose performance does of course
+require an optimal concentration of manpower and faci equipment. in either a
+specialized NOTO [National Organization for Technical Services (Computers)] service
+
+or specialized automation equipment service as a part of a large industrial enter-
+prise.
+
+Primary attention should be devoted to the following:
+-~construction of the necessary areas for maintenance work in the immediate vicinity
+
+of the computer room, including optimal areas for storage of spare parts and
+technical documentation;
+
+--provision of suitable measuring and testing instruments for maintenance work,
+particularly oscilloscopes, multimeters and the like;
+
+—-provision of maintenance workers or operators with portable equipment for cleaning
+and testing of magnetic tapes;
+
+--provision of suitable portable equipment for cleaning and visual and mechanical
+testing of disk cartridges or packs;
+
+--provision of spare display or teletype terminals and matrix printers, as well as
+
+other peripheral equipment in cases where exchange and repair of assemblies is
+practiced (Fig. ll);
+
+--provision of suitable transport facilities for rapid transport of workers for
+repair work or exchange of noncentrally located data-processing equipment.
+
+16
+
+FOR OFFICIAL USE ONLY
+Fig. 11. Repair of a VT 340 display in the EC 1010 computer workshop of the NHKG
+central oxygen converted shop.
+
+Nor would it be logical to undervalue the important function of data-processing
+personnel, particularly in automatic testing of computer and control systems during
+Operation, and in regular provision and systematic updating of the relevant technical
+documentation (including management of the updating work).
+
+in creating the conditions for maximum operating reliability of ASR hardware as part
+of capital construction, primary attention must be given to the economic point of
+view. In particular, the provision of certain high-investment features, such as
+Sontinuous power supply, a duplexed system of two computers, a reserve computer,
+uplication of peripheral equipment or an increase in the number of external storage
+units, must always have economic justification.
+
+The importance of all of these measures naturally will increase if data-processing
+equipment is to be used in continuous three-shift operation, when it is impossible
+
+to eliminate malfunctions in special night, Saturday or Sunday shifts, and particularly
+in the case of real-time operation, in the control of important manufacturing pro-
+dessee, in medicine, aviation or nuclear engineering.
+
+The equipment producer and domestic supplier (NOTO organization) will always have an
+entraordinary position in creating the conditions for maximum operating reliability
+at data-processing equipment, both in building up siseable stores of spare parts
+
+and equipment for maintaining and repairing defective logical circuits.
+
+éOPYRIGHT: SNTL, Nakladatelstvi Technicke Literatury, Prague, 1981
+
+31.80 m
+cso: 21.02/78 17
+
+FOR OFFICIAL USE ONLY

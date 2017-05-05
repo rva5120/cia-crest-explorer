@@ -1,0 +1,350 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10137
+24 November 1981
+
+East Europe Report
+
+SCIENTIFIC AFFAIRS
+
+(FOUO 10/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+EAST EUROPE REPORT
+SCIENTIFIC AFFAIRS
+
+(POUO 10/81)
+
+Coursurs
+
+CZECHOSLOVAKIA
+
+Photodiode Laser Radiation Detector Described . ~
+(Prentisek Lindner, ec 01.; CBSKOSLOVBRSKY CASOPIS
+
+PRO FIZIKU, Jun 81) ...................................
+FOR OFFICIAL USE ONLY
+
+CZECHOSLOVAKIA
+
+PHOTODIODE LASER RADIATION DETECTOR DESCRIBED
+Prague CBSKOSLOVENSKY CASOPIS PRO FIZIKU in Slovak No 3, Jun 81 pp 272-276
+
+[Article by Frantisek Lindner, 3A2 National Enterprise, Bratislava; and Anton
+Strba and Pavel Vojtek, Department of Experimental Physics, PFUK, Bratislava:
+"Detection of Laser Radiation With a Semiconductor Photodiode"]
+
+[Text] Laser Radiation Defection by the Help of Semiconductor
+Photodiode
+
+This article analyzes the possibilities for use of the 1PP7S
+silicon semiconductor diode for detection of helium-neon (He-Ne)
+and ruby laser radiation. The spectral sensitivity of the
+diode and its range of linear response to radiation flux and
+pulse energy are determined.
+
+1. Introduction
+
+Alongside thermal detectors such as calorimetric and modern pyroelectric detec-
+tors, photoelectric radiation detectors continue to be a main topic of interest.
+These devices include semiconductor photodetectors, an important feature of
+which is their integrating capability, and particularly semiconductor diodes.
+
+The magnitude Id of the current which an illuminated photodiode passes into an
+external circuit can be determined from the well-known Shockley equation [1]
+
+U
+(1) la = ’r ' Io (cxpfﬁ' )
+
+where If is the photoelectric current, I0 is the saturation current of the
+diode in the forward direction at temperature T, q is the magnitude of the
+elementary charge, U is the voltage across the diode, A is a coefficient char-
+acterizing the p-n junction, and k is the Boltzmann constant. The photoelec-
+tric current If is a linear function of the radiation flux 0 which produces it:
+
+(2) I, - S‘o
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+where 81 is the spectral sensitivity of the diode. Its magnitude for a given
+wavelength SA depends on the material anddesign of the diode.
+
+2. A Detector for Continuous Laser Radiation
+
+In practice. two ways of connecting the diode to the external circuit are most
+frequently encountered, the gate connection (Fig. la) and the resistive connec-
+
+tion (Fig. lb). In both circuits, the resistance R represents the load resis-
+tance and the internal resistance of the diode connected in parallel.
+
+In the gate circuit. the voltage U in Equation 1 is equal to the voltage UR
+acnossresistance R. The increase in the current Id resulting from illuaina-
+tion of the diode changes the voltage across resistance R, which in turn
+affects the magnitude of the current Id. In this case the diode current Id and
+the voltage UR will not be linear functions of the radiation flux 9 according
+to Equation 1. Linearity is maintained only for a small voltage UR- such that
+qU <<AkT. Under these conditions the second term of Equation 1 can be ignored
+an the current Id will be equivalent to the photoelectric current If.
+
+Figure 1. Connection of the Photodiode to the External Circuit: a) gate:
+b) resistance
+
+'e
+
+In the resistive connection (Fig. lb) the voltage U is equal to the difference
+between the power supply voltage "b and the voltage UR' A suitable selection
+of this bias voltage Oh and the resistance R will satisfy the condition
+
+qU
+, -—— <1
+(3) cm Mr
+
+and according to Equation 1. the diode current Id will be a linear function of
+the radiation flux 6 with the form
+
+(a) I. - Sub + 1,,
+
+Accordingly the current I can be considered a neasure of the radiation flux 0.
+
+Because of the small nagn tude of the current, it is sore convenient to measure
+the voltage UR across resistance R:
+
+2
+FOR 0FFN]A1.US£1DNLY
+F0R1OFFNJAI.USE(N‘LY
+
+(5) u‘ :- Slko + LR
+
+The photoelectric voltage Uf - S; R. can be separates fro: the dark satura-
+tion voltage ”on - 10R by intermittent illulination or one-tile illulination
+of the diode. The photoelectric voltage Uf will be the pulse conponent of the
+voltage "R and can easily be neasured through a buffer capacitor using an
+oscilloscope or some other measuring device. The sensitivity 80 of such a
+detector, which depends on "f, is
+
+(5) 5; - S‘R
+
+The magnitude of this quantity can be varied linearly by changing the resis-
+tance R. The spectral dependence of the sensitivity 80 is governed by the
+nature of S; as a function of the wavelength. Because of their spectral sensi-
+tivity, connonly used silicon diodes are suitable for use in this nanner to
+detect the radiation flux of He-Ne lasers.
+
+The naxinun current which can be recorded by a detector with linear response
+depends on the maxim-I value of the voltage U at which condition (3) can still
+be net. The condition for the naxinun photoelectric voltage Uf - ”R - Y R fol-
+lows from Equation 5. It is assuled that there is no saturation of the p to-
+electric effect in the vicinity of the p-n junction. The threshold flux for
+registration of radiation depends on the noise characteristics of the diode.
+
+The properties of such a radiation flux detector using a lPPTS diode can be
+seen from the experinentsl curves for photoelectric voltage Uf as a function
+of the radiation flux fron an He-Ne laser which are presented in Pig. 2. In
+this case. continuous He-Ne laser radiation interrupted by a Iechanical nodu—
+lator was scattered by a frosted screen located directly in front of the
+
+diode. The curves for Uf(.) given in Fig. 2 also shows the change in sensi-
+tivity SO as a function of R. These curves can be used to determine the spec-
+tral sensitivity of the lPP7S diode and frosted screen to Be-Ne laser light
+
+(I . 632.8 nn), i.e.. S; - 25 21 nA/w. Thus, by a suitable choice of R. it
+
+is possible to measure radiation flux in a range of fron 10'3 to 102 “H by this
+method, which exceeds the measuring range of the TKGH-203 Czechoslovak-produced
+detector now available.
+FOR OFFICIAL USE ONLY
+
+3. A Laser Pulse Energy Detector
+
+The detector's ability to register single radiation pulses and the spectral
+sensitivity range of the lPP7S photodiode (360 to 1,100 nanoleters) [2] lake
+it possible to use the detector for detection of ruby laser pulses as well
+(A - 696.3 on). But because of the large radiation flux, an attenuator must
+be placed before the photodiode. This prevents saturation or suppression of
+the photoeffect in the diode and assures linear response to the incident
+radiation.
+
+One suitable type of attenuator is a cavity attenuator, which is shown scheaa-
+tically in Fig. 3. It consists of a hollow cylinder with circular openings in
+the ends. The openings are covered by frosted screens H. One opening is used
+for the radiation input and the other for the output. The radiation isprevented
+from passing directly through the attenuator by lovable dial: D which is the
+sue size as the input opening. The transnissivity T of the attenuator can be
+changed by changing the interior coating or by varying the distance 1. between
+the disk and the input opening (Table l).
+
+--—-
+
+———-.
+-—--.
+
+ 
+
+Figure 3. Arrangenent of Cavity Attenuator
+
+Table l. Transnissivity of Cavity Attenuator With Different Inner Surface
+
+Coatings
+Cylinder surface Ends Disk l.(-) '1'
+white white -- -- 3.6 - 10'2
+white white white 40 8.8 - 10'3
+Black white white 50 4.2 - 10'“
+
+In detecting ruby laser pulses with a typical width of 10"8 sec, the intrinsic
+capacitance of the diode and of the leads in Fig. 1 cannot be ignored. These
+can be represented in the for. of a capacitor with capacitance C connected in
+parallel with resistance R. The time constant RC of the resulting integrating
+circuit makes it practically impossible to monitor changes in the radiation
+flux 0 (t) during the pulse. The tine dependence of the photoelectric vol-tags
+D (t) will be different fron that of the incident light pulse 9(t). Fig. It
+
+s ows the response Uf(t) of the detector to a single radiation pulse for differ-
+ence values of the ratio RC/r. The pulse has the form
+
+1.
+FOR OFFICIAL USE ONLY
+FOR OFHCIAI. USE ONLY
+
+ 
+
+- f
+
+(7) Om - 0,. cos' (:- ' — t)
+
+where on is the naxim flux in the pulse and r is the pulse width at the
+‘4” level. The pulse duration is 21’- The aagnitude Uf(21’) of the photo-
+electric voltage across resistance R after the end of the light pulse can be
+expressed in the fore
+
+(a) UAZK) - ﬁ‘ ——|,— [I - txp(—Zr/RC)]
+
+2(32)“
+
+where U" - 5) sun. For small values of r/llc, i.e. when Rc >> 1. Equation 8
+can be siqlified as
+
+The expression 0"! in the m-erator of Equation 9 gives the pulse energy 3.
+when the integration condition RC >> 1 is maintained or, as can be seen from
+Fig. 4, when RC > 101', the photoelectric voltage Uf (2r) is a measure of the
+
+pulse energy. The integration condition can be met by connecting a capacitor
+of sufficiently large capacitance in parallel with the load resistance. The
+
+sensitivity 83 of the resulting detector can be expressed, according to Equa-
+tion 9. in the form
+
+(10) 5I = :9.l
+C
+
+When an attenuator with transmissivity T is used. the sensitivity SD! of the
+detector with the attenuator is increased by a factor of T over that of the
+detector without the attenuator SE
+
+(11) SM. " TS:
+
+The laser pulse energy 3 neasursd by a detector with sensitivity SDI! can
+accordingly be determined from the measures voltage Uf(2'r)
+
+an _%§=C
+
+E _ .-— UR!)
+so: TS. |
+
+Since we know how to determine the pulse length r approxinately, the detector
+
+any also he used for an approximate estinate of the maximum radiation flux in
+
+the pulse O"- 8/1.
+
+5
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure 5. Deformation of Radiation Pulse by Energy Detector Hith Different
+Time Constants RC
+
+The spectral sensitivity 8; of the 1PP7S diode for ruby laser light vith
+X - 696.3 nm can be determined from the value for the 33-h! laser using the
+following equation:
+
+(13) SgnuJ ' l-335013..
+
+For typical values, i.e., 'r ~10'3, c a: 10-9? and SA - 1.33 x 25 aA/v, the
+sensitivity of the energy detector is SD! - 3.3 V/IJ. and for r “3 ' 10'8 sec,
+SD. at0.l V/kw. The linear response range of the energy detector is limited
+by the same factors as in the case of the radiation flux detector. The radia-
+tion flux in short laser pulses can now be recorded without deformation by a
+photodiode specially designed for the purpose [3]. These diodes differ fro-
+the types studied here in both their design and their operating principle.
+
+lo . Conclusion
+
+He have shown by theoretical analysis and experinental measurements that the
+1PP75 semiconductor photodiode can be used satisfactorily in a resistive circuit
+to detect either continuous or pulsed laser radiation. The simplicity of the
+circuit and the small bias voltage sake it possible to use the detector in
+various measurement systems with either He-Ne or ruby lasers as the radiation
+source. The oscilloscope recording the photoelectric voltage say in this case
+replace suitable measuring devices of another kind.
+
+6
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+BIBLIOGRAPHY
+
+1. Pavlov. A. V. Optiko-elektronnyye pribory [Optoelectronic Devices].
+ENZRGIYA, Moscow, 1975 [in Russian].
+
+2. Ben, J., et 31. Czechoslovenske polovodicove soucestky [Czechoslovak
+Semiconductor Components], SNTL, Prague, 1973.
+
+3. Misek J.. and Kratina, L. Optolektronikc [Optoelectronicc], SNTL,
+Prague. 1979.
+
+COPYRIGHT: Academia, Nakladatelstvi Ceskoslovenake Akadelie Ved. Prague,
+1981 .
+
+81.80
+cso: 21.02/71. can
+
+7
+
+FOR OFFICIAL USE ONLY

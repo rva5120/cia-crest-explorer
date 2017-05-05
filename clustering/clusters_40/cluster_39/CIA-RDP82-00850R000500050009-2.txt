@@ -1,0 +1,1950 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10433
+2 April 1982
+
+USSR Report
+
+ENERGY
+
+(FOUO 6/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information prinrily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[l are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. hhere no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses. were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. times within items are as
+given by source.
+
+‘ihe contents of this publication in no way represent the poli-
+cies, views or attitudes of the [1.8. Government.
+
+COPYRIGIT LAWS AND REGULATIONS GOVERNING WEEKSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINA‘IION
+OF THIS PUBLICATION BB RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+ENERGY
+
+(rouo 6/821
+Cou'rau'rs
+
+ELEUHﬁC HﬁER
+
+Atomic Electric Power Stations
+(Am mmm ”MI, 1981) ODOOOOOOOOOOOOOOO. 1
+
+Tasks of Power workers in 1982 Detailed
+(WWW STMTSII, Jan 82) coo-ooo-occoccccocoocooco 22
+
+REES
+
+Trends, (”ﬂock in Automated Coal Extraction
+(ammuAmmA, 19m) O...OOOOOOOOOOOOOIOOOOOO... 2?
+
+- a - [III - USSR - 37 P000]
+FOR OTFICIAL US! ONLY
+
+ELECTRIC POWER
+
+ATOMIC ELECTRIC POWER STATIONS
+
+MOSCOW ATOHNYYB ELBKTRICHESKIYB STANTSII in Russian 1981 (signed to
+press 23 Jun 81) pp 1-3, 231-210
+
+geollection of articles edited by L.M. Voronin, assisted by A. A.
+Abagyan, 3.3. Baturov, A.P. Volkov, V.H. Gordina, 1.1a. Yemel'yanov,
+v.s. Konviz, A.K. Kruglov, P.Ya. Ovchinnikov, V.Ya. Sidorov, A. B.
+Sukhov, and G. N. Uahakov; Annotation, foreword table of contents.
+and abstracts: "Atomic Electric Power Stations:
+
+4Tex£7 Participating in the preparation of the articles
+
+in this collection were the workers from the branch labora-
+tory for the prepsration_and analysis of informational ma-
+
+terials of the VlIIABS LAll-Union Scientific-Research In- '
+stitute of Atomic Electric Power Station37. The workers
+
+were supervised by V. M. Gordina
+Annotation
+
+In this, the fourth edition of a collection of articles, attention
+
+has been given to a group of problems having to do with the protection
+of the environment from thermal and radioactive pollutants of atomic
+electric power stations (A28). The book provides a description of me-
+thods for hardening radioactive wastes and a methodology for evaluat-
+ing the tolerable ejections into the atmosphere. Several articles in
+the book have to do-with the use of computers for automating the moni-
+toring and control at ABS's, for training operators, and for preparing
+operational estimates. As in previous editions, attention is given
+
+to generalizing and analysing the experience of building and operating
+Aes's.
+
+The boon is intended for engineering and technical workers at an ABS,
+installation, adjustment and designing organizations.
+
+Foreword
+
+The development of the atomic power industry. in the Soviet Union is
+taking on increasing importance. In the near future nuclear energy
+sources are to be used not only at the traditional condensation atom-
+ic electric power stations, but also at atomic thermal electric power
+
+1
+FOR OFFICIAL USE ONLY
+plants (ATETs) and atomic electric power and heating supply stations
+(AST).
+
+An important task in the near future is the expansion of the construc-
+tion of AES'e with fast neutron reactors, which make it possible to
+more fully use the naturally occurring nuclear fuel. In connection
+with this the number of specialists who are being brought in to work
+
+in the atomic power industry. for which the condition of the construc-
+tion and operating of ABS's and also the problems of the further devel-
+opment of the atomic power industry are of practical interest, is in-
+creasing.
+
+The first editions (No I - 3) of the annual collection of articles
+"Atomic Electric Power Stations". which were devoted to pressing prob-
+lems of designing, constructing and operating ABs's, received recogni-
+tion from a broad range of specialists who are engaged in an extensive
+number of fields within the atomic electric power industry. This edi-
+tion of the collection of articles has basically retained its topics
+of concern. which covers a range of problems having to do with the
+prospects of expending the use of atomic power for the needs of the
+power industry. the further improvement of the designs of the ABs's
+and the technical level of their operation. The fourth edition of the
+collection of articles devotee a great deal of attention to improving
+the systems that control the technological processes and the compre-
+hensive automation of ABS's, and also to the enalyais of radiation
+safety of existing ABS's and their influence upon the environment.
+
+The editors of the collection of articles hope that these materials
+will be useful for the operators. the.specialists of the design and
+adjustment organizations, and the scientific workers and engineers.
+who are working in the atOmic power industry.
+
+The editors will be grateful for critical comments and suggestions on
+the composition and formulation of the collection of articles. All
+such comments should be sent to this address: 113116, Moscow. H-Ilb,
+Shlyuzovaye Nab., 10, Energoizdet.
+
+Table of Contents
+Foreword 0.....0...OOIOIO'OIOCOOO0.0IOOOOIOOOIOCOUCOOIOOIOOOOOOO 3
+
+Section One: Prospects for the Development of the Atomic Power
+Industry
+
+The development of the atomic electric power engineering in the
+USSR, 1““. Voronin eonsnose-easeseeseeeeeoeeeaaaeeesaseeeeaesee ‘
+
+The status of nuclear power engineering in the world, V.K.
+Gordina, Yu.V. Yegorov, Ye.l. Myaghov .......................... 6
+
+Atomic electric power and heating supply stations, V.L. Kate.
+Yu.A. Kuznetsov, 6.1. Pleskov. V.P. Tatrrnikov ................. IO
+
+2
+FOR OFFICIAL USE ONLY
+ATETs with boiling water reactors_ip housings made of pre-streesed
+reinforced concrete. H.A. Al'tshuller, V.l. Vinogradov, 6.3.
+Gorodetskiy, A.P. Kirillov, A.Ye. Svichsr, Yu.I. rohsrev .......... I7
+
+Estimated-experimental research on the emergency cooling of the
+RBHK-ISOO reactor at a maximum designed emergency, Yu.u. Charkashov,
+V.P. Vasil'evskiy, v.u. Labazov, A.Ya. Loninov, Yu.s. Holochnikov,
+0.Yu. Novosel'skiy, L.N. Podlasov, v.3. Pavlov, v.1. Pushkarev ... 23
+
+Using the joint work of ABS and 610 £35. turbine unit7 equipment
+to meet the alternating portion of a power system's Toad
+schedule, V.H. Boldyrev, G.Ye. Kelin, L.F. Peoktistova .......... 33
+
+Possibilities of the direct conversion of heat into electric power,
+A'AO Abasyan. VIM. Dnitri’ev. Gs“. U.h.kov ......OOQOOCOOOIOIIOOOI 36
+
+Layout and construction solutions for the construction portion and
+ways to reduce the length of time required for the construction of
+AES's with large—capacity RBHK power units, L.K. Domanskiy, L.N.
+Desfontcynes, EeAe Skob seaseoaesseesseoeeeeseseeseessessssssasses ‘6
+
+Section Two: Problems in the Operating of the ABS
+
+Status and prospects for the development of methods for the radia-
+tion-technological monitoring at an ABS, L.P. Kham'yanov ........ SI
+
+Spatial-power distributions of radiations outside the biological
+shielding of ABS's with ver-aao and RBHK-IOOO reactors, A. I.
+Glushchenko and Yu.V. Orlov ..................................... 56
+
+Monitoring the steam content in the steam and water connections
+
+of a reactor according to the indications of the K60 system
+detectors, A.H. Gryacnov, P.V. Kelinin, V.V. Karneukhov, Ye.A.
+
+Panov, Yu.N. Pilimontsev, L.P. Kham'yanov, A.l. Yashnikov ....... 60
+
+The water-chemical regime of the auxiliary systems of the
+Kcl'skaya AES, v.1. Pashevich, Ye.I. Ignatenko, I.I. Abarovskiy,
+2.5. Kopylova, T.K. Kruglova .................................... 62
+
+Experience in deactivating equipment of ABS's with ver-aao re-
+actors, Yu.V. Balaban-Irmenin .................................. 68
+
+Methods of estimating the acceleration characteristics of moist-
+steam turbines, Ye.A. Golovach .................................. 73
+
+Increasing the reliability and efficiency of operating Aﬁs's by
+training highly-skilled personnel, V.V. Korolev, G.A. Sereda .... 80
+
+fhv use of structral-hierarchical models for diagnosing malfunc-
+tions of a technological object,‘N.G. Barykova, Yu.V. Yegorov ... 83
+
+3
+FOR OFFICIAL use ONLY
+Concerning the comprehensive system for the operational monitoring
+of the metal in the equipment of an ABS. ”.0. Abramovich, A.P.
+Getman, IeP, LQVCOHOV. LeIe Trlkhtenbetg eeeeeseeeeeeesseeeeeeeese 86
+
+Basic ways of improving the radiochemicel systems of power units
+with boiling water channel reactors. 1.x. Barbashinov, H.L.
+Barskiy, A.I. Ivanov ............................................. 98
+
+Research on the efficiency of systems for the emergency cooling
+of reactors with a water cooling agent. L.P. Kabanov, S.A. Belysyev,
+P.L. Hakarovskiy, S.P. Nikonov, V. Reyneh ........................ 103
+
+Section Three: Protecting the Environment
+
+Monitoring the gasaeroaol ejections at the lovovoroneshskaya ABS
+and research of the influence of its operation on the envirnoment.
+“IA. Bar‘nov. V|KI sedov 0.000.0.0.0.00.0.00...DOOIUOOIOCOOIO;OIQ 'll
+
+Radioactive ejections of ABS’s with VVBR-kbo and RBHK—IOOO reactors.
+
+V.F. KOIIOV easeseeeeoeeeeeeweeeeeeeeseeee.eeeeeeeeeeeeeeeeaeeaes'16
+
+Problems of radiation safety of the population and protecting the
+environment in connection with the operation of an ABS. D.I. Gusev.
+N.G. Gusev, A.D. Turkin, v.0. Turovskiy ......................... ll8
+
+Evaluation of the anthropogenic pollution of the environment by
+natural and artificial nuclides, A.K. Kruglov. 8.3. Laskorin.
+V.I. Karpov, v.1. Orekhov. V.H. Shesterikov, A.A. Iekre ......... 12!
+
+Statistical processing of the ejections of R30 of an A38 in order
+to technically justify the maximum permissible ejections, N.G.
+cusev. GOG. D°r°.henk° 0...OOIOOOIOOOODOOOOOCOOOOOOOODIDIDOOOOOOO '26
+
+Atomic power and the environment, B.N. Leskorin. v.1. Zemlyanukhin,
+v.1. Karpov, M.Ye. Kemerova. N.S. Babeyev, V.N. Shesterikov. V. F.
+
+Deni“ eeoeeoeeeeweoee-eeeeeeeeeeeeeeeeeeeeeeeeesseoaeaeeeseeeelss '3'
+
+Models for estimating the.individuel and population doses brought
+about by gasaerosol ejections of an ABS, “.6. Gusev, B.A. Belyayev I37
+
+A possible approach to the problem of the quantitative comparison
+and selection of sites for ABS's, A.A. Abagyan, A.I. Glushchenko,
+S.I. Kochnev, 0.6. Petrov, L.P. Kham'yanov ...................... lbs
+
+Regarding the standardization of methods for monitoring the re-
+lease of natural and artificial radionuclides into the environ-
+ment. Lalo Gedeonov aoeoeleooeoaeeaeeeoeoeeesesoeooooeeeeeeeeeeee l‘?
+
+Regarding the selection of a method for estimating the dispersal
+
+of radioactive admixtures released into the atmosphere by an ABS.
+A.I. Glushchenko, D.L. Laykhtmsn. G.A. Natenson, 0.6. Patrov,
+
+LOB. Kh.m‘y.n°v .0000.00.0000IOOCOOOIDOOOIOOOII.IIUOOOOOOIOOIIII. '56
+
+h
+son OFFICIAL use ONLY
+FOR OFFICIAL US! ONLY
+
+Radioactive pollutants of a water medium. L.I. Gedeonov, V.A.
+Blinov, L.H. Ivanova. 1.“. Tsarikovskaya ...................... 139
+
+Section Four: Automation of Technological Processes
+
+Experience in designing an aunomated control system for an AES.
+V.K. Sedov. B.P. Busygin, 0.V. Yeliseyeva, V.A. Hikhaylov .;.... |66
+
+Automated control system for technological processes of the
+
+first section of the Kol'skaya ABS. A.P. Volkov. A.s. Dolgov.
+
+S.V. Zinov'ev, Ye.IL lgnatenko, Yu.P. Katasonov, Yu.V. Kolomtsev,
+YeOFO “Cl'nikOV. VOR. Retnik’ BOA. Trotilov OOOOOOOOIOOOOOOIOOOI '70
+
+Development of comprehensive automated systems with UVM at Soviet
+AES!s with channel reactors. Yu.D. Proferansov ................. I73
+
+Experience in operating automated control systems for technological
+processes at the Kol'skaya ABS, A.P. Volkov. Ye.I. Ignatenko. Yu.V.
+Kolomtsev. Ye.F. Hel'nikov, B.A. trofimov ...................... 182
+
+Experience in the use of computers for determining the physical-
+technical characteristics of power units at the Bilihinskaya
+
+ATETs, V.K. Abslakin. 19.V. Deshkovskiy, ".1. Logosha, G.Ye.
+sold‘tov. FIT. Tukhvetov OOIOOOOOOOOOOOOOIQOOCOCOCOOOOOIOIOOOOO. '8‘
+
+Estimate and analysis of the technical-economic indicators in an
+automated control system for technological processes of a power
+
+unit with a VVBR-bbo reactor, N.N. Borisova. L.P. Zhidkova, N.F.
+Komarov, V.K. Litvinov. V.N. Ruzankov, v.1. Sen'kin, A.A. Spirina 189
+
+Regarding the problem of the topologic optimising of nets tor the
+processing and transmission of data when developing the ASH-ATOM,
+VoP. c.1‘ber8 eeeasessaoaeseesoso.see-aseeeeeaseaessseaeesasoss '95
+
+The automated exchange of information between computers of atomic
+electric power stations and scientific centers, 1.1a. Yemel'yanov,
+A.D. Zhirnov, V.V. Postnikov, Ye.A. Stsrostin ................. 200
+
+Organizing the development of mathematical support for a future
+control system of an AES, V.N. Okhotin, G.P. Komarov, V.V. Zonov.
+vaA. Zhil'tsov eeeaoaeeaoeesest.soons00...assessewoooosoowoooss 202
+
+Tasks for the comprehensive automation of processes at an ABS,
+
+AoVs “.UnOV eaeeeaoeaeeeoeseassesseseasessasseasesaseseaaeseeas 207
+
+The automated regulation of the capacity of large power reactors.
+V.N. Sarylov, P.P. Voskresenskiy, P.T. Potapenko. v.c. Dunaye . 2II
+
+.Equipment systems problems in creating an experimental, measuring
+set of equipment for the Leningrad Atomic Electric Power Station.
+?.A. Gavrilov, M.N. Mikhaylov .. ..... ...........-.............. 2l7
+
+5
+son orncm. use ONLY
+EUR 0|"!me we. Ul‘lsl
+
+The economic effectiveness and possible ways to improve the
+control systems of power units with VVER reactors, A.V. Naumov.
+bot. Busysiﬂ, VOA. Hikhaylov. 0's. corelov‘ OOIIOOOOOOOOOOOO'O. 220
+
+Radiation error of the primary temperature gauges. used in the
+control systems of an ABS, 8.0.81esarevskiy. l. K. Korotenko. V. S.
+Lyubarskiy. V. P. Pavlenko, V.A. Snigerev, 8.8. Stel'makh, A. V.
+
+Tkachenko eeeeseeeeeeeeooeaeeeoeeeeeeeeeeoeeeleeeeeeleeeeeeelow 222
+
+Evaluation of the lower range of the required computer capacity
+of a power station computer center for an ABS with RPM! reactors,
+VOPO Gal'berg 00......00000..CCOIOOOOIOOOIIIIOOOOOODIUOIOOOIDOI 225
+
+Appendix: Commonly-used abbreviations in the text ............ 230
+
+Abstracts
+
+UDC 62l.3|l.25
+DEVELOPMENT OF ATOMIC POWER INDUSTRY IN THE USSR
+
+LKbatract of article by L.H. Voronin: "Atomic Electric Power Stations",
+I981, vyp £7
+
+LText7 This article summarizes the results of fulfilling the decisions
+of the 25th Party Congress and the assignments of the IOth Five-Year
+Plan for the construction of AES's in the USSR. It also outlines the
+basic directions for the development of the atomic power industry in
+the llth Five-Year Plan.
+
+DDC 62|.3||.25:62|.039
+STATUS OF THE NUCLEAR POWER INDUSTRY IN THE WORLD
+
+/sztract of article by V.H. Gordina, Yu.V. Ye orov, Ye.N. Hyagkov;
+"Atomic Electric Bower Stations", I981, vyp A;
+
+/Tcxt7 This article reviews the structure of the nuclear power indus-
+try in the world (excluding the CBMA nations) as of 1 January I980. It
+also presents data on foreign AES' s as concerns the growth of capacity.
+the output of electric power. and the coefficient of capacity use.
+
+It also provides information about the standard nuclear steam produc-
+ing units, which were developed by the leading foreign reactor manu-
+facturing firms.
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.3ll.25:62l.039
+ATOMIC ELECTRIC POWER AND HEATING SUPPLY STATIONS
+
+IKbstract of article by V.L. Kets, Iu.A. Rusnetsov, G.I. P'esmov. and
+
+V.P. IatarnikoV: "Atomic Electric Power Stations", I98I, 1" £7
+
+ife‘i7 This article reviews the basic technical solutions for an
+atomic power and heating supply station.
+
+UDC 62l.039.576:69l.328.2
+
+ATEIs Latomic power and heating supply station7 RITE BOILING HATER
+REACTORS IN BOUSINGS MADE OF PRE-STRESSED REINFORCED CONCRETE
+
+Libstract of article by M.A. Al'tshuller. V.N. Vinogradov, 6.8.
+Gorodetskiy, A.P. Kirillov, A.Ye. Svichar. and Yu.I. Toksrev:
+"Atomic Electric Power Stations", l98l, vyp £7
+
+LText/ In recent years a great deal of work has been done to substan-
+tiate the feasibility of creating water-cooled reactors in reinforced
+concrete housings. In this regard it has been demonstrated that all
+of the advantages of reinforced concrete housings are most fully mani-
+fest when they are used with water-cooled boiling water reactors. In
+this article it is shown that on the basis of the special features and
+advantages. which are inherent in reinforced concrete housings. they
+have managed to provide a degree of safety that makes it possible to
+locate an AIETs with a VK-SOO reactor within 2 to 3 kilometers from
+the borders of the future infrastructure of large cities.
+
+UDC 63l.039.5|
+
+ESTIMATED-EXPERIMENTAL RESEARCN OF THE EMERGENCY COOLING OF AN RBMK-
+I500 REACTOR AT MAXIMUM PLANNED EMERGENCY
+
+Lsztract of an article by Yu.M. Cherkashov. Ye.P. Vasilevskiy. V.N.
+Labazov, A.Ya. Loninov. Yu.s. Molochnikov. 0.Yu. Novosel'skiy, L.N.
+Podlazov, v.3. Pavlov. and v.1. Pushkarev: "Atomic Electric Power
+Stations", I98]. vyp 17
+
+LTex£7 This article examines the thermohydraulic and neutron-physi-
+cal processes and analyzes the special features of thb behavior of
+parameters at the maximum and planned emergency (MFA), which is the
+basis of research on the temperature regime of fuel elements (tvel).
+The temperature regime of the tvels has been determined for various
+modifications in the change of the neutron capacity at the MPA and far
+various laws for the heat exchange coefficients in the process of
+dthydrating the channel.~ An impdrtant moment in this regard is the
+selection of values for the heat exchange coefficients in the process
+of dehydrating the channel of an RBMK-ISOO reactor.
+
+7
+FOR OFFICIAL USE ONLY
+I'UI Uffl‘ll‘h WI- Ul‘hl
+
+UDC 62I.|:62|.3||.2
+
+THE USE OF THE COMBINE OPERATION OF THE EQUIPMENT OF AN AES AND A
+GAS TURBINE UNIT (GTU) T0 COVER THE ALTERNATING PORTION OF THE LOAD
+
+SCHEDULE OF A POWER SYSTEM
+
+Lsztract of an article by V.H. Boldyrev, G.Ye. Kelin, and L.P.
+Feoktistova: "Atomic Electric Power Stations". I981, vyp £7
+
+LTex£7 This article demonstrates the economic efficiency of using
+the combined operation of a GTO with the power units of AESs, which
+are achieved by using the heat of the exhaust gases of the GTU for
+superheating the saturated steam following the steam generators of
+the nuclear steam-producing unit with an encased reactor. During the
+separate operation of the 610 and the ABS the heat of the exhaust
+gases is lost. The combined operation of a IOOO MW ABS power unit
+and several GTU's are cited as the specific equipment to be studied.
+
+UDC 62l.362.2
+POSSIBILITIES FOR THE DIRECT CONVERSION OF HEAT INTO ELECTRIC POWER
+
+Libstract of an article by A.A. Abagyan. V.“ Dmitriyev, and G.N.
+Ushakov: "Atomic Electric Power Stations", I98]. vyp 37
+
+LTex£7 This article examines the possibilities for the direct conver-
+sion of heat into electric power in comparison with the traditional
+machine method of conversion. It provides the basic characteristics
+
+of thermoelectric and thermoemission convertors that have been achieved
+at present. It provides a description of the design layouts and the
+parameters of the existing thermoelectric and thermal emission genera-
+tors with atomic sources of heat and the areas in which they are used.
+The article discusses the primary scientific-technical and engineer-
+ing problems in creating such generators.
+
+UDC 62|.3l|:62l.039
+
+THE CONFIGURATION AND DESIGN SOLUTIONS FOR THE CONSTRUCTION PORTION
+AND WAYS TO REDUCE THE TIME REQUIRED FOR THE CONSTRUCTION OF AN AES
+WITH REMK POWER UNITS WITH A LARGE CAPACITY
+
+LAbstract of an article by L.K. Domanahiy, L.N. Desfonteynes, E.A.
+Skob: "Atomic Electric Power Stations", I98]. vyp £7
+
+[Text7 This article discusses the configuration and design solutions
+For The construction portion and offers suggestions for reducing the
+amount of time required for the construction of an ABS with large ca-
+pacity RBHK power units.
+
+8
+FOR(NWNJALI£HEONLY
+FORCMWKJALIEHEONLY
+
+UDC 62l.039.58
+
+STATUS AND PROSPECTS FOR THE DEVELOPMENT 0? METHODS FOR MONITORING
+RADIATION AND EQUIPMENT AT AN AES
+
+Libstract of an article by L.P. Kham'yenov: "Atomic Electric Power
+Stations", I981, vyp £7
+
+LTex£7 This article examines the present-day tendencies in the devel—
+opment of methods for monitoring the radiation of ABS reactors, their
+sensitivity and the amount of information that the methods can provide.
+There is a brief outline of the basic principles of the physical model
+for the formation of activity of fissionable products in the cooling
+agent of a VVBR-type reactor, on the basis of which a methodology has
+been developed to evaluate the condition of a reactor's core. As an
+example attention is given to evaluating the condition of a reactor
+core for one of the operating periods of the Armenia ABS.
+
+UDC 62l.039.58
+
+SPACE AND POHER DISTRIBUTION OF RADIATIONS BEYOND THE BIOLOGICAL
+SNIELDING OF AN AES HAVING VVER-ééo AND RBMK-IOOO REACTORS
+
+Lzbstract of an article by A.I. Gluehchenko and Yu.V. Orlov: "Atoaic
+Electric Power Stations", l98l, vyp £7
+
+LTex£7 This article outlines the basic results of full-scale research
+on the radiation situation and the effectiveness of the biological
+shielding of Soviet ABS's; which have been constructed with the use
+
+of a broad selection of dosimetric and spectrometric equipment. The
+results of the research are analyzed by comparing them with design
+data.
+
+UDC 62l.939.566:62|.l.0|8.8
+
+MONITORING THE STEAM CONTENT AND STEAM-AND-NATER CONNECTIONS OF A
+REACTOR ACCORDING TO READINGS OF THE EGO SYSTEM DETECTORS
+
+Lsztrsct of an article by A.H. Gryaahoy. P.V. Kalinin. V.V. Karnaukhov,
+Ye.A. Panov. Yu.N. Filimontsev, L.P. Kham'yanov, A.I. Yashnikov:
+”Atomic Electric Power Stations". I98], vyp £7
+
+LithY This article demonstrates the possibility of using K60 system
+detectoos for monitoring the thermophysical parameters of the cooling
+agent in the T! of an RBHK reactor. It provides a theoretical dgfini-
+tion of the functional relationship of a K00 system signal for ‘ N
+upon the capacity of the channel, the expenditure of cooling agent
+through the channel, the length of the steam-and-water connections
+from the core to the KGO gauge. and also the temperaturexand pressure
+in the discharge collector. A single-value relatiogship of the volu-
+metric activity of the cooling agent according to 1 N upon the steam
+content at release from the TK is expressed and experimentally con-
+firmed. The article also describes the possibility of construction
+working nomograms, which bring together the thermophysical par meters
+of the cooling agent in the TR with a K60 signal according to 6N.
+
+INHIOFFﬂiiLIEﬂBONLY
+eun- momma—mum- ~~~ ~.-~e
+
+UDC 621.]87.lZ:62|.3|l.25
+HATER-CHEMICAL REGIME OF THE AUXILIARY SYSTEMS AT THE KOL'SKAYA AES
+
+[Abstract of an article by v. I. Pashevich, Ye.I. Ignatenko, I. I.
+Abarovskiy. Z. I. Kopylova, and T. K. Kruglova: "Atomic Electric Power
+Stations" I98], vyp 67
+
+/Text7 This article examines problems having to do with maintaining
+the water-chemical regimes of the auxiliary systems. the periodicity
+of chemical monitoring and the corrosion stability of the materials
+that are used. In addition, the article provides a detailed analysis
+of the shut-down regime when reloading nuclear fuel and the reasons
+that affect the speed of corrosion of the reactor's housing, which
+does not have a stainless surfacing.
+
+UDC 62l.3ll.25.62|.039-786.9.002
+
+EXPERIENCE IN DEACTIVATING THE EQUIPMENT 0? AN AES HAVING VVER-kéO
+REACTORS
+
+[Abstract of an article by Yu.V. Balaban-Irmenin: "Atomic Electric
+Power Stations" I981, vyp 47
+
+/Text7 This article provides a brief description of various methods
+for deactivating at an ABS and their applicability. It also describes
+ways to deactivate the removable equipment and steam generators. and
+also the designs and technology which are used at an A38 for decreasing
+the surfaces of the equipment.
+
+UDC 62l.l8l.7:62!.3|l.25
+
+METHODS FOR ESTIMATING THE ACCELERATION CHARACTERISTICS OF THE
+MOIST-STEAM TURBINES
+
+[Abstract of an article by Ye. A. Golovach: "Atomic Electric Power
+Stations" l98l, vyp 67
+
+[Text7 This article develops a non-linear method for estimating
+
+Ehe Ecceleration characteristics of moist-steam turbines with consid-
+eration given to the change in the efficiency, temperature drop and
+losses in the turbine. and alao the loss of vacuum in the condensor.
+The non-linear method is compared with an approximate linear method
+for estimating the acceleration characteristics.
+
+10
+FORINTKIALlﬂﬂEONLY
+FORtOFFﬂJAI.USE(NNLY
+
+UDC 62l.3l|.25:621.039.56
+
+RAISING THE RELIABILITY AND EFFICIENCY OF OPERATING AN AES BY THE
+TRAINING OF NIGNLY-SEILLED PERSONNEL
+
+ 
+
+Libstract of 23"a£ci2i2"67%. Koroley‘and G.A. Sereda:
+Power Stations", I981, vyp 17
+
+”Atomic Electric
+
+LTex£7 The nuclear power industry at the present stage in the devel-
+opment is characterized by the use of industrial large-capacity reac-
+tors, the high technical-economic indicators of which can be provided
+only when there is a high degree of reliability of the equipment and
+
+a high skill-level of the service personnel. To train operations
+personnel who are highly-skilled for work at present-day ABS's s spe-
+cialized institution of higher learning is being created - the Insti-
+tute of Atomic Power Engineering. This article deals with some of the
+problems that have arisen in this area.
+
+UDC 621.039.56:68I.162.3
+
+THE USE OF STRUCTURAL-HIERARCNICAL MODELS FOR DIAGNOSING MALFUNCTIONS
+OF A TECHNOLOGICAL FACILITY
+
+LAbstract of an article N.G. Barykova and Yu.V. Yegorov: "Atomic
+Electric Power Stations", l98l. vyp g7
+
+£Tex£7 This article describes the use of the method of structural-
+hierarchical model for organizing the nachine search for nalfunctions
+in the basic equipment of electric power stations. In constructing
+the model use is made of statistical, a priori and current informa-
+tion regarding the condition of the facility. The fundamental signif-
+icance of such models is that they can be used to discover ways to
+identify malfunctions to ensure the timely operational maintenance of
+
+equipment.
+
+006 62|.039.S3:539.6:620.l
+
+CONCERNING A COMPREHENSIVE SYSTEM FOR THE OPERATIONAL MONITORING OF
+THE METAL IN TNE EQUIPMENT 0F ATOMIC ELECTRIC POWER STATIONS
+
+izbstract of an article by M.D. Abramovich, A.P. Getman, I.P. Levtonov,
+and L.l. Trekhtenberg: "Atomic Electric Power Stations". I981, vyp
+
+g7
+
+LTex£7 This article discusses a layout of a comprehensive system for
+the operational monitoring of the metal in the equipment of an ABS.
+The layout contains the basic groups of parameters. which are subject
+to monitoring, which determine the condition of the metal and the
+factors of operational effect upon the metal. The layout also re-
+flects the scientific articles that have to do with the compilation
+of the control programs, the gathering of information on the results
+of the monitoring, the processing of data on the condition of the me-
+tal and reaching a decision regarding the tolerance of the defects in
+operation. The layout work-up was performed using the systems approach
+and a concept of the "metal-ABS" system. which characterizes the more
+general working conditions and the damage to the metal in the equip-
+
+men: in the operating process.
+
+11
+FOI(nWﬂJALl£ﬂEONLY
+UDC 62l.O39.526
+
+THE BASIC HAYS OF IMPROVING THE RADIOCHEHICAL SYSTEHS OF POWER UNITS
+WITH CHANNEL REACTORS OF THE BOILING-HATER TYPE
+
+[Abstract of an article by I.H. Barbashinov. H. L. Barskiy, and L. I.
+lvanov: "Atomic Electric Power Stations"l981, vyp 67
+
+/Text7 This article examines the radiochemical systems of an AES
+which has boiling-water channel reactors. It also takes a look at
+the feasibility and advantages of using perlite steels in all parts
+of the circuit and the requirements placed upon the system of the
+cooling agent technology and the systems for processing the liquid
+and gaseous radioactive wastes. the deactification system. The arti-
+cle provides recommendations for further improving the systems.
+
+UDC 62|.3ll.25:62|.039
+
+RESEARCH ON THE EFFICIENCY OF TEE EMERGENCY COOLING SYSTEMS OF
+REACTORS HITH A HATER COOLING AGENT
+
+lxbstract of an article by L. P. Kabanov, S.A. Belyayev, P.L.
+Hakarovskiy, s. P. Nikonov. and V. Reynsh: "Atomic Electric Power
+Stations" 1981, vyp 67
+
+LTex£7 This article cites data on the comprehensive research on the
+efficiency of emergency cooling systems of reactors (SAOR). including
+the VVER and RBMK reactors, based upon the indicators of the structu-
+ral and functional reliability. The structuralrelibility of the
+SAOR was studied using the method of the tree of failures. The indi-
+cators of the functional reliability were determined on the basis
+
+of the analysis of the temperature regimes of the fuel elements of
+the VVBR and RBHK reactors in the process of an emergency cooling and
+the use of methods for estimating the thermotschnical reliability.
+
+It was demonstrated that in the existing system designs for the emer-
+gency cooling of VVBR-660 and RBHK-IOOO reactors. a high SAOR efficien-
+cy is provided.
+
+UDC 62l.039.7
+
+MONITORING THE GAS-AEROSOL EJECTIONS AT THE NOVOVORONEZESKATA AES AND
+RESEARCH ON THE INFLUENCE OF ITS OPERATION UPON THE ENVIRONMENT
+
+/Abstract of an article by H.A. Baranov, and V. K. Sedov: "Atomic
+Electric Power Stations" I981, vyp 67
+
+/Text7 This article describes the methods for monitoring the gas-
+aerosol ejections that are now being used on the VVBR-660 power units
+of the Novovoroneahskaya ABS. The article also provides information
+on the outputs of inert radioactive gases (IRG) and aerosols that are
+eliminated into the environment along with the ventilated air. The
+article also provides the isotope composition of the radionuclides
+
+that are eliminated. The article cites the volume of dosimetric mo-
+nitoring of the area near an ABS and some of the results of monitoring.
+
+12
+
+ton onrcm' us: on!
+FOR OFFICUU.USB ONLY
+
+UDC 621.039.58
+
+RADIOACTIVE EJECTIONS OF AN AES WITH VVER-be AND RINK-1000 REACTORS
+
+LKbstract of an article by V.R Koalov: "Atomic Electric Power Stations",
+l98l. vyp gl
+
+LTex£7 A comparison of the R36 ejections of series ABs's demonstrates
+that for both the absolute value (carie per 25-hour period) and the
+relative (curie/HH-year) the actual ejection of a RBHK-IOOO reactor
+exceeds by approximately one order the ejection of two VVBR-AAO power
+units. It is entirely possible to stabilize the R36 ejections from
+one RBMK-IOOO reactor at a level not exceeding 36 curie/(HH-year), i.e.
+nearly IOO curie per 24-hour period. This corresponds to the require-
+ments of the health rules for the designing and operating of an A38.
+The 13‘1 ejections of RBHK-IOOO reactors are of a rather low value,
+since in contrast to the VVBR reactors there is a reduced output of
+iodide from the nonhermetic fuel assemblies (tvel) into the cooling
+agent.
+
+UDC 621.039.?
+
+PROBLEMS OF RADIATION SAFETY FOR THE POPULATION AND THE PROTECTION
+OF THE ENVIRONMENT IN CONNECTION WITH THE OPERATION OF AN ABS
+
+[Abstract of an article by 0.1. Gusev. N.G. Gusev, A.D. Turhin and
+v.0. Turovskiy: "Atomic Electric Power Stations". l98l, vyp g?
+[Text7 This article provides an evaluation of the infhnnce of the
+
+gas and aerosol ejections and liquid discharges of AEs's upon the for-
+mation of a radiation situation in the environment. It provides an
+evaluation and prognosis of the amounts of radiatioa for the popula-
+tion. The article also examines the hygiene and ecological problems
+of safety in the elimination of radioactive wastes from an ABS and
+
+the disposal of warm water into the cooling tanks.
+
+UDC 62l.039.76+502.7+632.l5+628.394
+
+EVALUATING THE FNTHROPOGENY POLLUTION OF THE EVIRONHENT WITH ARTIFI-
+CIAL AND NATURAL NUCLIDES
+
+LKbstract of an article by A.K. Kruglov. B.N. Laskorin, v.1. Karpov,
+
+V.T. Orekhov. V.N. Shesterikov, A.A. lskra: "Atomic Electric Power
+Stations", I981, vyp £7
+
+[Text7 This article provides a forecast of the possible anthropogany
+FollUtion levels of the biosphere with artificial and natural radio-
+nuclides. The article also provides an evaluation of the proposed
+scales of the influence of ionized radiation upon the population.
+
+13
+FOR OFFICIAL USE ONLY
+m «a. o...-..._ ....,.. -.....
+
+UDC 621.039.7
+
+STATISTICAL PROCESSING 0? R36 EJECTIONS OF AN AES IN ORDER TO TECHNI-
+CALLY ESTABLISH MAXIMUM EJECTIONS
+
+LAbstract of an article by N.G. Gusev and 6.6. Doroshenko: "Atomic
+Electric Power Stations", l98l. vyp 37
+
+ifexgj This article suggests an approach to establishing working
+maximums for RBG ejections. based upon the statistical analysis of
+the actual ejections of an A38 in conditions of an established regime
+of normal operation. It is demonstrated that the distribution of the
+normal RBG ejections is subject to a normal logarithmic law, which
+can be described by two parameters - the average geometric value and
+a standard deviation. This makes it possible to come up with techni-
+cally sound working maximums of normal ejections, without restricting
+the field of normal operation.
+
+UDC 62].039.76+502.7
+
+THE ATOMIC POWER INDUSTRY AND THE ENVIRONMENT
+
+Lsztract of an article by B.N. Laakorin, V.I. Zemlyanukhin, V.I.
+Karpov. H.Ye. Kemerova. N.s. Babayev, V.N. Shesterikov, and V.F.
+Demin: "Atomic Electric Power Stations", l98l, vyp £7
+
+LTexg? This article provides an evaluation of the influence of the
+rapidly developing nuclear power industry upon the environment. It
+describes the measures aimed at ensuring radiation safety of the nu-
+clear power cycle. A conparison is made of the effects of the nuclear
+and thermal power engineering upon the biosphere.
+
+UDC 62l.039.58
+
+MODELS FOR ESTIMATING THE INDIVIDUAL AND POPULATED DOSES CAUSED BY
+THE GAS AND AEROSOL EJECTIONS OF AN AES
+
+LAbstract of an article by “.6. Gusev and V.A. Belyayev: "Atomic
+Electric Power Stations". I981, vyp £7
+
+LTexg? This article outlines the models for estimating the individual
+and populated doses from the constant and one-time radioactive ejec~
+tions of an ABS for all possible methods of effect. An original por-
+tion of the research is the model for estimating doses in the food
+
+and biological chains. which to a certent extent decreases the tra-
+ditional difficulties connected with the migration of radionuclides
+through the links of the various ecological systems.
+
+1h
+FOR(HWmﬂALIHﬂEONLY
+UDC 621.039.58
+
+A POSSIBLE APPROACH TO THE PROBLEM OP THE QUANTITATIVE COMPARISON AND
+SELECTION OF SITES FOR AN AES
+
+ 
+
+LKbstract of an article by A.A. Abagyan;_A.I: Clubhchenko, 8.1.
+Konchev. 0.6. Petrov, and L.P. Kham'yanov: "Atomic Electric Power
+Stations". I981 vyp g7
+
+LTexEY This article offers a method for the quantitative evaluation
+and comparison of sites for ABS's, based upon the use of the so-called
+"isopleth of probability" around an AES, which makes it possible to
+estimate the "coefficient of quality" of a given site. This method
+
+is based upon the results of processing of many years worth of stan-
+dard weather observations and takes into consideration the distribu-
+tion of the population near an A88. The algorithm that has been de-
+veloped has been realized in a computer program called "Heteo".
+
+UDC 62|.039.58
+
+REGARDING THE PROBLEM OF STANDARDIZING METHODS FOR MONITORING THE
+RELEASE OF ARTIFICIAL AND NATURAL RADIONUCLIDES INTO THE ENVIRONHENT
+
+LKbstract of an article L.I. Gedeonov: "Atomic Electric Power Stations“,
+l98l, vyp £7
+
+LTeng The radioactive substances (RAV).created by atomic electric
+power stations, which enter the environment form fields of increased
+radiation as compared with the natural situation. The protection of
+the environment from intolerable pollution requires that norms be
+established for the release of RAV into the environment for each
+source. These norms must cover the concentration and amount of the
+radioactive substances that-are formed. This article discusses the
+need to standardize the methods for monitoring radioactive nuclides
+in the environment and the methods and conditions of the nonitoring.
+
+DDC 621.039.58
+
+SELECTION OF A METHOD FOR ESTIMATING THE DISPERSAL OE RADIOACTIVE
+ADHIXTURES RELEASED INTO THE ATMOSPBERE BY AN AES
+
+Libstract of an article by A.I. Gluahchenko, D.L. Laykhtman, G.A.
+Natanzon. 0.6. Petrov, and L.P. Kham'yanov: "Atomic Electric Power
+Stations", I981. vyp g7
+
+LTex£7 This article analyzes the pluses and minuses of the presently
+'used methodologies for estimating the dispersal of admixtures in the
+atmosphere and provides recommendations for the selection of the best
+methodology. As the analysis demonstrates, any methodology which is
+to evaluate the radiation situation around an ABS must take into con-
+sideration the specific features of the local weather conditions near
+the site of the ABS.
+
+. 15
+FOR(”TKJALLSEIMNDV
+UDC 62l.039.7
+RADIATION POLLUTION OF WATER
+
+LAbstract of an article by L.I. Gedeonov, V.A. Blinov, L.u. lvanova.
+and 1.“. Tsarikovskaya! "Atomic Electric Power Stations", I98! vyp £7
+
+LText? This article provides a brief description of the sources of
+radioactive pollution. It provides data on the content of radionuclides
+in the waters of the Dunsy River up to the year I976. It is shown
+
+that from I97! through I976 the main source of artificial radioactive
+substances into the Dunay River was the global fallout of products
+
+from nuclear explosions. The article cites the results of observa-
+tions of the change in the content of long-lived radionuclides in the
+waters of the Baltic Sea. The article reports on the disgsvery of
+
+a seasonal factor in the changes in the concentration of Sr in the
+
+northern part of the Atlantic Ocean and provides an explanation for
+the causes of the phenomenon.
+
+UDC 621.3!l.25:62|.039:621.3.06
+
+EXPERIENCE IN THE DESIGNING OF AUTOMATED CONTROL SYSTEMS FOR ATOMIC
+ELECTRIC POHBR STATIONS
+
+LAbstract of an article by V.K. Sedov. B.F. Busygin, 0.V. Yeliseyeva.
+V.A. Hikhaylov: "Atomic Electric Power Stations", l98l. vyp 27
+
+LText? This article discusses the specific directions being taken
+in the development of automated control systems of atomic electric
+power stations having VVER reactors.
+
+UDC 62|.039.566
+
+AUTOMATED CONTROL SYSTEM TP FOR THE FIRST SECTION OF THE KOL'SKAYA
+AES
+
+Lsztract of an article by A.P. Volkov, A.S. Dolgov. S.V. zinov'yev,
+Ye.l. Ignatenko. Yu.P. Katasonov, Yu.V. Kolomtsev. Ye.?. Hel'nikov.
+
+V.R. $esnik, B.A. Trofimov: "Atomic Electric Power Stations", I98!
+
+W? 3
+
+[Text7 This article outlines the problems associated with the T?
+automated control system (ASU T?) for the vvsn-aao power unit. It
+provides a list of the functions performed by the ASU TP and presents
+the improvement measures that have been carried out and that are
+
+planned for execution.
+
+16
+TOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 62l.3ll.25:62|.039:68|-3:68|.5
+
+DEVELOPMENT OP COMPREHENSIVE AUTOMATED SYSTEMS NITH A CONTROL
+COMPUTER AT SOVIET ATOMIC ELECTRIC POWER STATIONS NITH CHANNEL
+REACTORS
+
+[Abstract of an article by Yu.D. Proferansov: "Atomic Electric Power
+Stations" . l98l. wyp 67
+
+lText7 This article examines the stages in the development of compre-
+hensive automated systems with control computers with channel reactors.
+It describes the special features of the composition of functions and
+the structure of the systems. which have been adopted at different
+stages. 0n the basis of the experience that has been accumulated the
+structure of a promising system is offered.
+
+UDC 62I.039.566
+
+EXPERIENCE IN THE OPERATION OF AUTOMATED CONTROL SYSTEMS FOR THE
+TECHNOLOGICAL PROCESSES AT THE KOL'SKAYA AES
+
+/Abstract of an article by A. P. Volkov, Ye. I. Ignatanko, Yu. V.
+Kolomtsev, Ye. P. Mel' nikov. and B. A. Trofimovx "Atomic Electric Power
+Stations". I98! vyp 47
+
+/Text/ This article outlines the experience of operating automated
+control systems for the power units of the Kol'skaya ABS. at which
+equipment for measuring the neutron flow "Iney" , the ARR-6 capacity
+regulator, and the APT automatic turbine starter are in use. The
+article examines the basic shortcomings of the ASU TP and ways to do
+away with them.
+
+UDC 62].O39.562:68I.l42.3
+
+EXPERIENCE IN THE USE OF AEM FOR DETERMINING THE PHYSICAL-TECHNICAL
+CHARACTERISTICS OF THE POWER UNITS OF THE EILIEINSKATA ATETI
+
+/Abstract of an article by V. K. Abslakin, Ye.V. Dashkovskiy, N. I.
+Logoshs. G. Ye. Soldatov. and P. T. Tukhvetov: "Atomic Electric Power
+Stations" I98! vyp 67
+
+LTerEY This article reviews the programs for using a computer to
+estimate the physical characteristics of the reactors now in use at
+the Bilibinskaya ATETs. It provides a detailed outline of the method-
+ology for monitoring the field of the release of energy in reactors
+using a computer. The article also studies the efficiency of using
+computers to estimate the tharmotachnical reliability of the core.
+There is a brief description of the layout of a specialised informa-
+tion and measuring system (118) and the program for computer proces-
+sing of the results of experiments using the 11$.
+
+17
+FOR OPPICIAL USE ONLY
+7 UDC 62|.3I|.25:621.039.62-5 (00].2k+001.8)
+
+ESTIMATING AND ANALYZING THE TECHNICAL-ECONOMIC INDICATORS IN AN AS" TP
+OF A POHER UNIT WITH A VVER-ébo REACTOR
+
+/Abstract of an article by N. N. Borisova, L. P. Zhidkova, N. P. Komarov,
+V. K. Litvinov, V. N. Ruzankov. v.1. Sen' kin. and A. A. Spirina: "Atomic
+Electric Power Stations" I981 vyp b7
+
+[Text7 This article outlines the procedure for estimating the actual
+and standard technical-economic indicators of a power unit with a
+VVBR-bbo reactor. It provides an enlarged structural diagram of the
+esimate. It describes the methods for gathering, processing and moni-
+toring the reliability of the initial information. An analysis
+
+of the thermal economy of the equipment is performed by comparing
+
+the actual and standard indicators. The information is provided to
+personnel in the form of a blank form.
+
+UDC 621.039.564.3
+
+REGARDING THE PROBLEM OF THE TOPOLOGICAL OPTIMIZATION OF THE NETS FOR
+PROCESSING AND TRANSMITTING DATA "HEN DEVELOPING THE ASU-ATOM
+
+[Abstract of an artic.e by V. P. Gal' berg: "Atomic Electric Power
+Stations" I98! vyp 67
+
+/Tex£7 This article examines some optimization problems that arise
+
+in developing the A33 of an industrial association (ASU-ATOM). in par-
+ticular the evaluation of the economically optimal structure for plac-
+ing the computer centers and the means for transmitting data.
+
+UDC 62|.039.562:68|.lb2.3
+
+AUTOMATED EXCHANGE OF INFORMATION BETWEEN THE COMPUTERS 0F ATOMIC
+ELECTRIC POWER STATIONSwAND SCIENTIFIC CENTERS
+
+[Abstract of an article by 1. Ya. Yemel' yanov. A.D. Zhirnov. V. V.
+Postnikov. Ye. A. Starostin: "Atomic Electric Power Stations"
+198! vyp g7
+
+LTex£7 This article describes possible layouts for the control of
+ABS'a using two computer complexes - an internal and an external,
+which are joined together using the "Akkord" system. The article
+demonstrates the need to organize an automated system for the enchange
+of data for these complexes.
+
+18
+FOR‘OFFNJALIHHEONLY
+roe omcuu. USE ONLY
+one 621.311.25:621.0394-1681.3.06/
+ORGANIZING ms nmmrm'r or 30mins ms A must ass comm. srsm
+
+[Abstract of an article by V. N. Okhotin, c.P. Knmarov. v.v. Zonov, and V. A.
+Zhil'tsov: "Atomic Electric Power Stations." 1981, vyp 6]
+
+/Tex£7 In connection with the proposed use of direct digital control
+(PTsU) by the executive organs (the electric motor and the cut-off and
+regulating fittings. etc.) in future systems for controlling an ABS
+with the use of modern layout solutions, a distribution structure of
+the control digital computers (TsVM). the newest mathematical methods
+for controlling. the highly-reliable devices, the telecoded exchange
+and transmittal of data, the reflection and technical documenting and
+other technical means for the automation and combining with a facility.
+this article discusses the technology for developing software (H0)
+according to the methodology for the creation of large technical sys-
+tems (8T8). The development of a set of programs is examined as the
+routine process of designing. In determining the criteria for effici-
+ency the following obtain: the basic component of designing is the
+subprogram as a manufactured article; the degree of complexity is the
+total number of commands; the outlays are in the estimate per command;
+the labor productivity of the programme a (algorithm compilers) is in
+the number of commands per day per man. This article examines the out-
+lays by type of work in relation to the number of collectives engaged
+in a single project, questions having to do with organising the collec-
+tive and the coordination of its work. The article also-provides a
+possible net schedule for the development of a set of control programs
+of the future ABS control system.
+
+UDC 62|.3|l.39e62|.3l|.l65-52
+PROBLEMS IN THE COMPREHENSIVE AUTOMATION OF PROCESSES AT AN AES
+
+Libstract of an article by A.V. Naumovi "Atomic Electric Power
+Stations“. l98l vyp 1/
+
+LTex57 This article deals with the importance of performing theoreti-
+cal research in the field of ABS automation and outlines the practical
+tasks which must first be solved.
+
+UDC 621.039.566
+AUTOMATED REGULATION OF THE CAPACITY OF LARGE POWER REACTORS
+
+Libstract of an article by V.N. Sarylov, F.F. Voskresenksiy. P.T.
+Potapenko. and v.c. Dunayev: "Atomic Electric Power Stations", l98|
+
+vyp 1/
+
+/Tcxt7 This article examines the problems of estimating the use of
+FnodTum direct charge detectors as neutron gauge for the system that
+automatically regulates the integral capacity of an RBHK reactor of
+the Chernobyl'akaya A38. The flow of the ionized chambers of the
+'standard regulating system is adjusted according to the readings of
+the internal reactor monitor taking into consideration the spatial
+redistribution of the neutron flow. The article provdes the results
+of estimates of the transfer processes of regulation at different
+perturbations. The article also deals with the situations in which
+the neutron flow gauge are out ofgorder.
+1.
+FOR(ﬁTﬂJALlSE(»nJ
+UDC 62I.039.562
+
+SYSTEM-RELATED PROBLEMS IN CREATING AN EXPERIMENTAL MEASURING COMPLEX
+FOR THE LENINGRAD AES
+
+lestract of an article by P. A. Gsvrilov and N. N. Nikhaylov: "Atomic
+Electric Power Stations" I981. vyp 67
+
+LText7 This article provides a list of the functions, requirements
+and the justification for the selection of a structure. It examines
+in detail the problems of organising the communications channels with
+sources of the signals and other systems. The article also deals with
+the special features of an experimental measurement complex.
+
+UDC 62].3ll.25:62l.039.56
+
+ECONOMIC EFFICIENCY AND POSSIBLE HAYS TO IMPROVE THE CONTROL SYSTEMS
+OF POWER UNITS NITN VVER REACTORS
+
+LAbstract of an article by A.V. Naumov, B. P. Busygin. V. A. Mikhallov,
+and 0. s. Gorelova: “Atomic Electric Power Stations", I98! vyp 4/
+
+LText7 This article provides a brief analysis of existing automated
+control systems for the technological processes of VVBR-aéo power
+units at the Novovoronezhaakaya ABS; it also provides information
+on the planned specific directions for their further improvement.
+The article also provides evaluations of the economic efficiency.
+
+UDC 621.039.566.3
+
+RADIATION ERROR OF THE PRIMARY TEMPERATURE GAUGES USED IN AES CONTROL
+SYSTEMS
+
+LAbstract of an article by 8.0. Slesarevskiy, N. N. Korotenko, V. S.
+Lyubsrskiy, V.P. Pavlenko. V.A. Snigerev, s.s. Stel’ makh and A. V.
+Tkachenko: "Atomic Electric Power Stations", l98l. vyp b7
+
+Lfex£7 This article provides a classification of the errors of the
+thermoelectrical convertors which operate in the zone of ionized ra-
+diation. Differentiation is made in the factors by the-extent of
+their influence upon the error in temperature measurement. An evalu-
+ation is made of the influence of the heat exchange on the radiation
+error of the thermoelectric convertors. The article also provides a
+discussion of the results of experiments that have been made. The
+radiation error of the primary gauges is classified as systematic.
+
+20
+
+FOR OFFICIAL USE ONLY
+UDC 62|.039.566.3
+
+AN EVALUATION OF TEE LOHBR LIHIT OF THE NEEDED COMPUTER CAPACITY OF
+A POWER STATION COMPUTER CBNTBR FOR AN ABS HIT! RBKK RBACTORS
+
+Libstract of an article by V.P. Gal'berg: "Atomic Electric Power
+Stations", I9BI, vyp 3/ '
+
+LTex£7 A limited amount of direct control over the distribution of
+
+the release of energy for the core and the limited computer possibili-
+ties of a unit system for the centralized control leads to the neces-
+sity of performing timely and precise neutron-physical estimates (NPR).
+To determine the necessary capacity of a station computer center a
+statistical approach is recommended, which is based upon the theory
+
+of mass servicing systems (6K0). It is demonstrated that the neces-
+sary computer capacity for carrying out NPR for one RBI! power
+
+unit is approximately .02 to .05 million operations per second.
+
+COPYRIGHT: Energoizdat, 1981
+
+”8927
+C80: l822/58
+
+21
+
+FOR OFFICIAL USE ONLY
+I” Vl'l'm M Vi‘ln.
+
+ELECTRIC POWER
+
+TASKS OF POWER WRKERS IN 1982 DETAILED
+Moscow ELEKTRICHBSKIYE STANTSII in Russian No 1. Jan 82 pp 2-3
+[Article: "Tasks of Power workers in 1982"]
+
+[Text] The development of the power industry in 1982 will be carried out on the
+basis of a new power-generation program established by the "Basic Directions for
+
+the Economic and Social Developnent of the USSR in 1981-1985 and the Period to 1990"
+and in conjunction with the plan for the developnent of the 0883's econony in
+1981-1985 adopted by the sixth session of the tenth convocation of the 0851s Supreme
+Soviet. The labors of power-industry workers in 1982 must be directed toward the
+accelerated development of nuclear and hydroelectric power plants and the supply of
+electric and thermal power to the econoay at a rate determined by the specified
+scale of industrial production and energy conservation in all sectors of the economy.
+
+The Soviet economy has continued forward in its development. In the first year of
+the llth Five-Year Plan, national revenues increased by 3.6 percent in corpsrison
+with 1980. while the value of industrial production rose by 4.1 percent.
+
+Within the structure of electric-power production, a further increase has taken
+place in the relative share of power production due to nuclear power plants. with a
+certain reduction in that portion due to therml electric-power stations. This is
+in accordance with the resolution adopted by the 26th CPSU Congress for the develop-
+ment of the power industry.
+
+The amount of power generated by all electric power stations rose by 36 billion kWh
+over the last year, or 2.8 percent. including an 18.2 percent increase at “5'3
+
+and 1 percent at TES's. Out of the 1,330 billion kﬂh produced by all electric-
+
+pWer stations in 1981. ns's and Tus'e produced 1,063 billion kWh (79.9 percent).
+cas's produced 181 billion mm (13.6 percent) and “5's 86 billion kWh (6.5 percent).*
+The production of electric power at “8's and 638's in 1981 was equivalent to the
+reduction of conventional (fossil) fuel consulption by approximately 85 million
+
+tons. More than 92 percent of all electric power was generated by electric-power
+stations in the USSR Ministry of Power and Electrification.
+
+* Henceforth we will present preliminary estimates with respect to the execution of
+tasks for 1981.
+
+22
+”WWW!”
+FOROFFICIALISEONLY
+
+The production of theml power by centralized sources amounted to 2.315 million Gcal.
+It rose by 55 million Goal in comparison with 1980, with a further increase in that
+portion of theml power supplied by centralized sources. The output of thermal
+power from TETs‘s likewise increased. It amounted to 1.170 million Gcal. including
+almost 900 million Gcal from USSR hinenergo TB‘l's's.
+
+More than 10 million k“ of new capacities were co-issioned at the country's electric
+power stations in 1981. approximately ’0 million kl! of which were comissioned at
+638's and ”38's. New capacities were introduced at the Leningrad ABS, which reached
+its design output-10 million kit—and is now the largest ABS in the USSR. New turbo-
+generators were commissioned at the Sayano-Shushenskaya CBS and at the Cheboksarskaya,
+Nizhne-Kamskaya, Kurpsaysltaya and other hydroelectric stations.
+
+The following were introduced at thermal electric-power stations: two 500-“ power
+units at the Ekibastuz GRBs-l and the first 3004!" power units at the Azerbaijan
+GRES, the Zuyevskaya (IRES-2 and at other 6328's and TETs's.
+
+The installed capacity of electric-power stations at the end of 1981 exceeded 277
+million k". of which more than 232 million It" (810 percent of total installed capa-
+city at electric-power stations) was incorporated into the USSR's thified Power
+System. The production of electric power by these stations amomted to about 1.175
+-billion mm (88.3 percent of the country's total output).
+
+The extent of new transmission lines of 35-“! capacity and greater was increased
+by almost 25,000 km and reached 793,000 km.
+
+Great new tasks in the development of our country's economy have been set for 1982-
+the second year of the llth Five-Year Plan. National revenues will increase by
+
+2.6 percent in comparison with 1981. The volume of industrial production will
+
+grow by 6.7 percent.
+
+In accordance with the approved State plan for the economic and social development of
+the USSR for 1982 and the recently adopted resolutions of the CPSU Central Co-ittee
+and the USSR Council of Ministers on the economical expenditure of resources, the
+production of electric and thermal power for 1982 has been set at 1.365 billion th
+(based on the envisioned conservation of 68 billion kWh and 124 million Ccal in the
+economy), and the output of thermal power from centralized sources will be
+
+2,365 Goal. Of this, the electric—power stations of the USSR Minenergo will gener-
+ate 1.259 billion kWh (92.2 percent) and 925 million Goal (39.1 percent).
+
+The increase in the production of electric power in 1982 with respect to the volume
+of production in 1981 will amount to 35 billion kWh, or 2.6 percent. This will
+
+be insured through the generation of power at AES's and 638‘s. The absolute pro-
+duction of electric power by thermal electric-power stations is being kept at the
+1981 level and is envisioned on the order of 1,063 billion huh. The production
+
+at nuclear power stations will be 107 billion kﬂ‘h (8 percent) and 195 billion ItHh
+(14.6 percent) at hydroelectric plants.
+
+'The increase in the output of thermal power will amount to 66 miliion gCal. or 3
+percent. The utilization of secondary and low-grade discharge heat will increase
+in I982 to 11.0 million Gcal (about 120 million Goal were utilized in 1981).
+
+23
+“WWW?
+In 1982, as previously, the demand for electric power in agriculture and in municipal
+economies will increase at a most rapid pace.
+
+Out of 126 billion kUh to be used in agriculture, provisions have been made to expend
+96 billion kWh on production needs. This will make it possible to increase to
+
+4,250 kuh the electric power available to workers in agriculture. There will also
+
+be an increase in the expenditure of electric energy for the municipal needs of
+
+the village, which will amomt to more than 300 kWh per village inhabitant (a rise
+
+of 6 percent). Provisions have been made to expand 970 km per urban resident in
+1982. This figure includes an increase in interapartmsnt conauwtion to 365 kWh
+
+(an increase of 3 percent).
+
+The extent of electrification of the workers' labor in industry will increase by
+2 percent in comparison with 1981.
+
+In the country's eastern regions (to the east of the Urals), provisions have been
+made to generate 390 billion kWh in 1982, as opposed to 375 billion in 1981. This
+increase of lo percent will increase the eastern regions' share of production to
+
+28.6 percent. The fastest rates of‘ increase in the production of electric power
+
+in 1982 will come about due to the assimilation of capabilities introduced in 1981
+and the introduction of others in 1982--in the Uzbek SSR (by 3.5 percent), in the
+Kazakh $811 (by 12.6 percent), in the Azerbaijan 8311 (by 10 percent) and in the Kirghiz
+SSR (by 3.6 percent).
+
+An increase in capital investment (with expected iwlementatim in 1981) of 8 percent
+and a 15 percent increase in the volume of construction and installation work is
+provided for in the plan for capital construction in the electric-power industry
+
+for 1982, drawn up on the basis of the primary directions for the development of
+
+the industry resulting from the resolutions of the 26th CPSU Congress.
+
+The amount of capacity to be comiasioned is determined on the basis of:
+the assurance of the planned volume of energy;
+
+the degree of construction readiness of power-production facilities by the end of
+1981;
+
+the creation of the necessary degree of readiness by the end of 1981, in particular,
+for the introduction of not less than 5 million 1:11 at ABS's in 1983;
+
+an increase in power-system reserve capacity in 1982 to 8.5-9.0 percent, and the
+commissioning of 34,000 km of transmission lines rated at 35 kV and greater. This
+will include more than 10,000 km from capital investment in the agricultural sector.
+In this case, primary attention will be devoted to the counissioning of high-capacity
+lines that insure the delivery of power from electric-power stations and increase
+
+the reliability of power-system operation.
+
+Based on the execution of the above-mentioned tasks, the conniseioning of capacities
+throughout the country on the whole will amomt to 8.5 million kﬂ, including 8.1
+million k" throughout the USSR Minenergo.
+
+FOIOFFICIALUSEONLY
+Provisions have been rude to introduce the following: 1 nillion-kH pover units,at
+
+a umber of Azs's; the last two 200,000-kw units at the Kurpsayskaya 633; the first
+unit at the shankhorsksya CBS; seven 78,000-kH units at the Cheboksarskaya and .
+Nizhne-Kanskaya 688's; and others.
+
+The installed capacity of all the country's electric—power stations is approximately
+285 million kw, including 56 million kw at 638's, 17 to 18 million kw at “8'3,
+
+195 million k“ at Ma's and 10 million Kw at diesel and other types of electric-
+power stations.
+
+activity are a coubined indicator of electric-power production efficiency. In 1982,
+these indicators were determined throughout the USSR Minenergo based upon accepted
+volmes and the structure of electric-power generation, the output of thermal power,
+the structure of the fuel supply to electric-power stations, the established unit
+expenditures of conventional fuel per kWh at the station's busbars (324 g) and per
+Ccal of heat released from 131's collectors (172.! kg) and the introduction of fixed
+industrial capital. Expenditures per ruble of co-ercial production in 1982 will
+be 79.81 kopecks, an increase of 0.77 percent in comparison with 1980. This will
+
+The capital available per industrial production worker alomte to note than 160,000
+
+systems. Particular attention must be devoted to the timely introduction of. capa-
+cities at electric-power stations and networks and to the sharp increase in the
+
+sector and thermal electric-power stations, particularly in regions of concentrated
+construction in Siberia. Yakutiya and Kazakhstan. is of the greatest significance.
+This requires the creation of a stable constructlm-and-installation work force
+and the further increase in the construction industry's level of mechanization,
+
+the nos: rapid introduction of high-speed flow-type construction and the guaranteed
+
+complexes.
+our” none-n... use... ere-e...
+
+At this Iodern stage of our econOIy's developnent. when the maxi-um conservation
+
+of material resources in the national economy is being examined with good reason
+
+as a most important State undertaking and the task of conserving all types of energy
+resources advances to the forefront, the duty of all power workers is not only to
+utilize carefully fuel and electric and thermal power at enterprises in the power
+systens but also to increase control over the conservation of energy resources on
+the part of consul -rs in order to insure the conservation of electric and thermal
+power to the degree stipulated in the plan for 1982.
+
+COPYRIGHT: hergoizdat, "Blektricheskiye stantsii", 1982
+
+9512
+CSO: 1822/85
+
+26
+summon“
+TREIle, OUTIDOK IN ANIMATED COAL EXMCTIOR
+
+Kiev BEZLYUDNAYA um UGLYA in Russian 1980 (signed to press 30 Oct 80)
+1-2, 178-188
+
+(Annotation, table of contents and abstracts free book "Automated Coal Extraction:
+Collection of Scientific works," Ukrainian 883 Academy of Sciences. Institute of
+Geotechnical hechsnics, Isdstel'stvo ”Naukova dunks". 600 copies, 188 pages]
+
+[Text] This collection presents the results of theoretical and expednentsl studies
+to create technical aeans of auto-ated coal extraction fros thin steep beds. Con-
+siderable attention is focused on one of the ass trends in mining aschine construc-
+tion, creation of aechenized tiabering based on rubberized-core pneuatic shells.
+Production plans and design solutions are suggested which are siaed at improving
+
+the reliability of the aechsnized coaplexes. The basic trends are presented for
+
+the development of technology of stopingoperations and the creation of neans of con-
+prehensive aechanization in working steep beds of the Donbsss in 1980-1990.
+
+It is designed for scientific and engineering-technical workers engaged in probleas
+of coaprehensive aechanisstion with autossted coal extraction.
+
+CONTENTS Page
+Comprehensive Hechanisation of Coal Extraction
+
+Poturayev , V. H. Basic Scientific and Technical Probleas of Vorking
+
+Thin Steep Beds of the Donbass 3
+Chervalenko, A. 6.; Guzchenlto, V. 1.; and Koval', A. V. Mechanized
+Complex for Working off Thin Steep Beds Based on Pneulatic Ti-bering 12
+
+Koval', A. V.; Guzchenko, V. T.; Gsvril'chsnko, I. L; and Hslyarenko.
+Ye. D. Study of Stability of )30venent of Mechanized Pnematic Tin-
+
+bering with Change in Gypsonetr; of Bed 20
+Gavril'chenko, 1.. L; and Agapov, bi. D. Study of the Process of Shifting
+
+in Pnematic-Cylinder Timbering' 27
+Koval', A. V. Stability of Hoveaent of Mechanized Tiabering 3S
+
+Chervcnenko, A. 6.; Tsaregonodtsev, Ye. A.; Gurin, 1.. A.; Kharchenko,
+N . N .; and Malyarenko, Ye. D. Test-Stand Test of Mechanized Pneumatic
+
+Tinbering 50
+Voloshin, A. 1. Determination of Length of the Vibration Section of
+Transport Pipeline of Che-her Laying Machine 45
+27
+
+FOR OFFICIAL USE ONLY
+I‘D. WI'ILIAI. Wt \II‘LI
+
+Belobrov, V. 1.; and Smirnova, 0. 1. Technique of Theoretical Study of
+Dynamic Processes of Selection of Efficient Parameters of Pneumatic
+System of Pneumatic Cylinder Timbering
+
+Belobrov, V. 1. Calculation of the Forces of Cutting. Traction and Rate
+of Advance of Pace when Pinishing off Coal Beds by Cable Saws
+
+Litvinov, Yu. 6.; Gudz'. V. P.; and Shevchik, M. P. Testing of Special
+Pneumatic Timbering
+
+Mikolenko, N. A.; and Bakhutin, G. S. Study of Reliability of Soft Shells
+of Pneumatic Timbering
+Stepanovich, 6. Ya.; Il'in, A. 1.; Mikolenko, M. A.; and Oreshkov, V. V.
+
+Outlook for Use of Long-Dimensional Shells of Tubular Shape in Auto-
+mated Extraction
+
+Sveshnikov. I. A.; Virovets, L. 8.; 2abolotnyy. S. D.; and Bespalov, S. P.
+
+Studies of Energy-Intensity of Breaking up Large Coal with Cutters of
+Different Geometry of the Front Surface
+
+Technology of Working
+
+Dokukin, A. V. Current State and Basic Technical Directions for Develop-
+ment of Technology of Stoping Operation and Creation of Means of Com-
+prehensive Mechanization in Working Steep Beds of the Central Region
+of the Donbass for 1980-1990
+
+Potursyev. V. M.; Glushko, V. T.; Yalanskiy, A. A.; Kurnosov, A. T.
+Heading Pinishing Off of Steep Beds of'theDonbass
+
+Lipkovich, S. M.; Bratishko, A. 8.; Kucher, A. T.; and Tsyapa, N. A.
+New Directions of Technology of working Steep Beds of the Donbsas
+
+Sapitskiy. K. P.; Dorokhov, D. V.; and Bondarenko, Yu. V. New Techno-
+logical Solutions for Automated Extraction of Thin and Average Thick-
+ness Steep Beds
+
+Myaken'kiy, V. I. Effect of Extracting Thin Beds and Filling Worked
+Space with Parameters of Degaaification of Converged Beds
+
+Stepanovich. 6. Ya. Control of Mining Pressure by Pneumatic Timbering
+on Thin Steep Beds
+
+Gretsinger, B. Ye.; and Borovskiy, A. V. Study of Aerodynamic Para-
+meters of Stoping Paces with Mechanized Pneumatic Timbering
+
+Kolokolov, 0. V.; and Kuz'menko. A. M. Selection of Technological Plan
+of Filling with Use of Mechanized Timbering
+
+Zorin, A. N.; Kashtanov, A. 1.; Svetlichnyy, V. M.; and Tuchin, V. A.
+Study of the Effect of Stoping Operations with Combine Extraction on
+Intensely-Deformed State of Near-Pace Section of Coal Bed
+
+Shapoval, N. A. Certain Practical Solutions of Controlling the Para-
+meters of Manifestation of Mining Pressure
+
+Strizhiboroda. S. K. Preparation of Steep Beds on Ventilation levels
+of Mines of the Central legion of the Donbaas
+
+Orlov. A. V. Question of Timberwork and Control of Mining Pressure in
+Automated Coal Extraction
+
+Ivanov. V. S. Possibility of Controlling Condition of Near-Pace Part
+of Coal Bed in Automated Coal Extraction
+
+28
+FKMI(HNHC1A1.USEGDNLN
+
+51
+
+88
+
+90
+
+95
+
+99
+107
+119
+
+124
+132
+136
+165
+169
+
+158
+162
+
+167
+170
+
+174
+FOR OFFICIAL USE ONLY
+
+UDC 622.063.66:622.03-118:622.238
+
+Basic Scientific and Technical Problems of working Thin Steep Beds of the Donbass.
+Poturayev. V. M., pp 3-12.
+
+This work substantiates the need for working thin steep beds and presents the dyna-
+mics for extracting coal from these beds according to the Ukrainian SSR Ministry of
+the Coal Industry in the period free 1971 to 1977, and the level of mechanization
+of the scoping operations. It outlines the basic scientific and technical tasks
+associated with creating highly productive mechanized complexes which guarantee the
+possibility of extracting coal without the constant presence of people in the face.
+
+Three tables, two bibliographic entries.
+
+000 622.063.46:622.276
+
+Mechanized Complex for Working off Thin Steep Beds Based on Pneumatic Timbering,
+Chervonelko, A. 6.; Guzchenko, V. T.; and Koval'. A. V., pp 12-19.
+
+Substantiation for the basic plan of a complex of machines for finishing off thin
+steep beds is presented. The basic results are presented from test-stand and theor-
+etical studies of a kinematic plan of pneumatic timbering.
+
+Two illustrations.
+UDC 622.063.h6:622.28$
+
+Study of Stability of Movement of Mechanized Pneumatic Timbering With Change in
+Gypsometry of Bed, Koval', A. V.; Guzchenko. V. T.; Gavril'chenko, 1. K.; and
+Halyarenko, Ye. 0., pp 19-27.
+
+Results are presented from studies on stability of movement of mechanized pneumatic
+timbering with regard for the elastic properties of the support and base construc-
+tion components with a change in gypsometry of the bed. Recommendations are made
+for selection of the longitudinal rigidity and a number of timbering sections in
+
+which bed gypsometry does not have an influence on the stability of timbering move-
+ment .
+
+Three illustrations, one table.
+
+UDC 622.281
+
+Study of the Process of Shifting in Pneumatic-Cylinder Tinbering. Cavril'-
+chenko, l. K.; and Agapov, M. 0., pp 27-35.
+
+A calculated plan is selected and substantiated for sections of pneumatic-cylinder
+tinbering. Analytical relationships are obtained and studied for determining the
+stresses of advance of the pneumatic timbering section. A numerical calculation
+is presented for the stresses of section advance.
+
+Six illustrations, one table, two bibliographic entries.
+
+29
+FORIOFFKJAI.USEGDNLY
+I'UI Ul'l'lLlAL UM UNIJ
+
+UDC 622.063.46:622.28$
+Stability of Hove-eat of Mechanized Timbering. Koval', A. V., pp 35-39.
+
+Questions are examined of the stability of novement of mechanized timber-ing with
+regard for the elastic properties of the basic construction coqonents. In the
+example of mechanized pneumatic timbering developed in the Ukrainian 88R Academy of
+Sciences, Institute of Geotechnical Hechanics. It is shown that elastic deforma-
+
+tions in a beam caused by stresses of advance can result in a loss of movement sta-
+bility.
+
+M bibliographic entries .
+
+UDC 622.063.46:622.285
+
+Test-Stand Test of Mechanized Pneuatic Timbering. Chenonenko, A. 6.; Tsaregoro-
+dtsev, Ye. A.; Gurin, I. A.; Kharchenko, N. IL; and Halyarenko, Ye. 1)., pp 100-45.
+
+Experimental data are obtained on the performance capacity of a kinematic plan of
+timbering. The stresses of advance are defined and a dependence is established for
+the stress of advance of sections on their quantity. The time of filling and emp-
+tying of the pneuatic cylinders of the timbering sections is defined.
+
+Four illustrations .
+
+UDC 621.867.86
+
+Determination of Length of the Vibration Section of Transport Pipeline of Chamber
+Laying Hachine, Voloshin, A. 1., pp 65-51.
+
+A calculated plan is suggested for the movement of the filling material when load-
+ing from a chamber into the transport pipeline. Calculations are presented for the
+relationships of determining the parameters of movement of the filling material in
+the function of its physical-mechanical properties and parameters of the filling
+machine. Graphic relationships are presented for the study of movement of the flux
+of filling material in the chamber vibration filling machine.
+
+Four illustrations. four bibliographic entries.
+
+UDC 622 .016 .62 :622 .285
+
+Technique of Theoretical Study of Dynamic Processes of Selection of Efficient Para-
+meters of Pneumatic Systea and Pneustic Cylinder Tiwering, Belobrov, V. 1.; and
+Smirnova, 0. 1., pp 51-58.
+
+A technique is derived for theoretical study of dynamic processes and selection of
+efficient parameters of a pnematic system of pneumatic cylinder timbering. A sys-
+tem is compiled of differential equations for determining the time of filling and
+output of compressed air from the pnamtic system with regard for the change in
+the values of the cylinders. their rigidity. the regimes of air efflux. This sys-
+
+tem makes it possible to determine the efficient lengths and diameters of the pipe-
+lines in a pnetnaatic system.
+
+30
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+'l'hree illustrations, two bibliographic entries.
+
+UDC 622 .232 .672
+
+Calculation of the Forces of Cutting, Traction and Rate of Advance of Pace when
+Finishing off Coal Beds by Cable Saws, Belobrov, V. 1., pp 59-80.
+
+A technique is suggested for coeputing the forces applied to the links of the cut—
+ting tool, the total force developed by the friction tool, end the thickness of the
+coal chip to be cut by each link and by the entire cutting tool in one cycle and
+any duration of time. Numerical results are presented for calculations of the indi-
+cated parameters with different plans and lengths of the working stroke of the cut-
+ting tool, as s function of the force of preliminary tension of the cutting tool by
+a long-stroke cable saw.
+
+Six illustrations, seven tables.
+
+UDC 622.063.66:622.28
+
+Testing of Special Pneumatic Tinbering, Litvinov, Yu. 6.; Guds', V. P.; and Shevchik,
+N. P., pp 80-83.
+
+Results are presented of industrial tests of experimental samples of multiple-
+chatter pneumatic checks Pn-Z and Pit-3.
+
+Results of the conducted experiments on the pnetnatic chocke of the PM type confirm
+the effectiveness of the new type of mining timbering ends of soft shells and made
+it possible to establish the advantages as compared to the series-manufactured pneu-
+matic cylinder set checks of the type PK.
+
+UDC 622.063.66:622.28
+
+Study of Reliability of Soft Shells of Pneumatic Timbering, Nikolenko, N. A.; and
+hkhutin’ Gs Se. Pp 8A-90e
+
+Soft shells are used as the load-bearing elements in pneumatic chocks and experi-
+mental samples of mechanized pneumatic tinbering.
+
+In testing the manufactured shells, as well as the shells which were used in dif-
+ferent mining-geological conditions of mines of the Ukrainian Donbass for 1-4 years,
+the number of breakdowns was set, and their causes were defined. A number of tech-
+nological and design solutions are suggested which are aimed at improving the reli-
+able operation of the soft shells.
+
+‘No illustrations.
+UDC 622.063.66:622.285
+
+Outlook for Use of Long-Dimensional Shells of Tubular Shape in Automated Extraction,
+Stepanovich, 6. Ya.; Il'in, A. 1.; Nikolenko, N. A.; and Oreshkov, V. V., pp 90-95.
+
+31
+FOR OFFICIAL USE ONLY
+I'W UI'I'IUAL USE ONLY
+
+Analytical studies are conducted of different designs of long-dimension shells of
+tubular shape. An optimal design is selected for the shell for sachanised pneu-
+natic tinbering. Results are presented of test-stand, and mining tests of large-
+tiﬁer shells.
+
+'l‘wo illustrations, four bibliographic entries.
+UDC 622.232.7S:622.236
+
+Studies of Energy-Intensity of Breaking up Large Coal with Cutters of Different
+Geometry of the Front Surface, Sveshnikov, I. A.; Virovets, L. 8.; delotnyy, S.
+D.; and Bespalov. S. 1?.. pp 95-98.
+
+Results are presented from studying the energy-intensity of breaking down strong
+coals by cutters with different geonetry of the front surface with cutting velocity
+to 1 m/s which is characteristic for chip extraction. Recs-endations are node for
+developing new chip tools for breaking down strong coals.
+
+One illustration, one table, three bibliographic entries.
+
+UDC 622.063.66:622.03-118:622.232 .8
+
+Current State and Basic Technical Directions for Devalopmnt of Technology of
+Stoping Operation and Creation of Ileana of Comprehensive Hechanization in Working
+Steep Beds of the Central Region of the Donbass for 1980-1990, Dokukin. A. V., pp
+99-106.
+
+A brief analysis is ads of the condition of the nechanized extraction of steep
+beds in the central region of the Donbasa according to extent and drop in the beds.
+
+The basic technical directions are presented for the development of technology of
+stoping operations and creation of means of conprehensive mechanization in the
+working of steep beds of the Donbass in 1980-1990. The basic works are exaained
+from the Institute of Mining ineni A. A. Skochinsltiy which were done for aechani-
+zation of steep beds.
+
+UDC 622.831
+
+Beading Finishing Off of Steep Beds of the Donbass, Potursyev, v. 11.; Glushko, V.
+1.; Yalanskiy, A. A.; and Kurnosov, A. 1.. pp 107-119.
+
+An examination is ends of the features of manifestation of mining pressure when fin-
+ishing off steep explosive coal beds by bands for descent. Results are presented
+from studying the interaction of lateral rocks with the timbering of the heading
+units. means of controlling the mining pressure and improving the heading extraction.
+
+Five illustrations. three bibliographic entries.
+
+UDC 622.063.66:622.03-118
+
+New Directions of Technology of Working Steep Beds of the Donbsss, Lipkovich, s. 14.;
+Bratishko. A. 8.; Kucher. A. 1.; and 'rsyspa, II. A., pp 119-123.
+
+32
+FOR OFFICIAL USE ONLY
+It is suggested that thin and average thickness steep beds be finished off with the
+
+use of a diagonal system of working which makes it possible to improve the planning
+of nining operations and the technical-economic indicators in working steep beds.
+
+Three illustrations. four bibliographic entries.
+uoc 622.063.66:622.03-118
+
+New Technological Solutions for Automated Extractionof Thin and Average Thickness
+Steep Beds, Sapitskiy, K. P.; Dorokhov. D. V.; and nondarenko, Tu. v.. pp 124-131.
+
+New technological plans of automated coal extraction are presented in the first
+case by suspended impulse hydraulic monitors, and second with the use of the energy
+of sudden discharges of coal and gas. These plans are in the draft of the mine of
+the future for working thin steep beds.
+
+Three illustrations, one table.
+unc 622.063.46:622.831.325.3
+
+Effect of Extracting Thin Beds and Billing Worked Space with Parameters of Degasi-
+fication of Converged Beds, Hyaken'kiy, V. 1.. pp 132-136.
+
+An analysis is made of the effect of extracting thin beds and filling the worked
+space on degasification of the interfering mass of mining rocks and the converged
+coal beds. and the change in gas balance of the extracting sections.
+
+A decrease is noted in the radii of degssification and increase in the gradients of
+gas pressure with an increase in the effective output of the excavated bed.
+
+One table, eight bibliographic entries.
+unc 622.063.66:622.83:622-03-118
+
+Control of Mining Pressure by Pneumatic Timbering on Thin Steep Beds, Stepanovich,
+6. Ya.. pP 136-145.
+
+Studies are made of the working characteristics of pneumatic timbering in a compar-
+ison with other types of means of timbering and controlling mining pressure. It is
+substantiated that the pneumatic soft force element belongs in design to the exten-
+sion-type timberings, and in working characteristics to timberings of constant and
+increasing resistance. It is proven that pneumatic timbering is a means of control-
+ling mining pressure. A physical model is presented of the nature of interaction
+
+of special pneumatic timbering with the lsteralrocks and the near-face part of the
+emission-dangerous coal bed.
+
+Two illustrations, four bibliographic entries.
+
+000 622.063.66:622.285
+
+Study of Aerodynamic Paraaeters of Stoping races with Mechanized Pneumatic Timbering,
+Gretsinger, B. Ye.; and Borovskiy, A. V., pp lbs-1&9.
+
+33
+FtIICHﬂﬂCJAI.USEGDNlN
+CU. V'I‘luﬂl- M Ul‘h'
+
+An analysis is made of the results of studying aerodynamic resistance and the coeffic-
+ient of aerodynamic resistance of stoping faces with pneumatic timbering for steep
+C(Jl beds. Recommendations are presented for improving the parameters of these tim-
+berins with regard for the aero-gas-dynamic factors.
+
+Three illustrations. tvo bibliographic entries.
+
+UDC 622.063.66:622.272.613/417:622.285
+
+Selection of Technological Plan of Filling with Use of Mechanized filtering, Rolo-
+kolov. 0. V.; and Kuz'menko. A. 11., pp 149-158.
+
+Factors are examined which influence the operation of mechanized tiﬂering when the
+lateral rocks collapse and a method is substantiated for controlling mining pressure
+with the use of pnel-atic-cylinder mechanized timbering.
+
+One illustration, one table. three bibliographic entries.
+
+UDC 622.831.325.622.063.66:622.232
+
+Study of the Effect of Stoping Operations with Combine Extraction on lntensely-
+Deformed State of Near-Pace Section of Coal Bed, Zorin, A. N.; Kashtanov, A. 1.;
+Svetlichnyy, V. N.; and Tuchin, V. A., pp 158-162.
+
+Results are presented of s'perimental data for measuring the mount of deformation
+of coal mass during combine extraction. A study is made of the dynamics of change
+
+in the state of the coal bed in the near-face section when the stoping face approa-
+ches it.
+
+Three illustrations .
+
+UDC 622.831.24
+
+Certain Practical Solutions of Controlling the Parneters of Manifestation of Min-
+ing Pressure, Shapoval, R. A., pp 162-167.
+
+The possibility is established of practical control of the parameters of develop-
+ment of mining pressure: the amount of displacement of the lateral rocks, strati-
+fication, load on the timbering , spacing of collapse of the roofing, amount of
+distance from the longwall face to the line of the cut, as well as the strain on
+the near-face section of the bed by using technology for controlling mining pres-
+sure in a regime of limiting roofing spans.
+
+Two illustrations.
+
+UDC 622.063.46-118:622.012.2
+
+Preparation of Steep Beds on Ventilation Levels of Mines of the Central Region of
+the Donbass, Strizhiboroda, S. 1., pp 167-170.
+
+31:
+FOR OFFICIAL USE ONLY
+1N)! (HHHCJAI.(ENE(M‘LY
+
+This article indicates the basic advantages of preparing extraction sections with
+the making of minus ventilation drifts on 45 sections of ll mines of the central
+region of the nonbass. An expedient trend in reconstructing mining is simultaneous
+preparation of series of beds on a minus ventilation level.
+
+One illustration, one table.
+
+UDC 622.063.66:622.83:622.285
+
+Question of Timberwork and Control of Mining Pressure in Automated Coal Extraction,
+Orlov. A. V., op 170-174.
+
+Complication of mining-geological conditions because of the transition of work to
+deep levels is noted. The need for developing and creating effective means of tim-
+bering and controlling mining pressure is indicated. A basic technological plan is
+suggested for extracting coal by coal save with timbering of the stoping face and
+control of mining pressure by liquid.
+
+One illustration, seven bibliographic entries.
+UDC 622.063.66:622.83
+
+Possibility of Controlling Condition of Near—Pace Part of Coal Bed in Automated Coal
+Extraction. Ivanov, V. 8., pp 176-177.
+
+This work examines questions of controlling the condition of the near-face section
+of the coal bed by changing the parameters of the technological processes associ-
+ated with intensity of extraction work.
+
+COPYRIGHT: Izdatel'stvo "Naukova dunks", 1980
+
+9035
+cso: 1822/104 END
+
+35
+roe omcm. use on“

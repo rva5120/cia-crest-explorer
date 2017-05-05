@@ -1,0 +1,1083 @@
+For Release 2000/08/08 : W789R002200570001-5
+
+ 
+
+a;
+
+Final Report—Task 6.0.3 C
+Covering the Period 1 October 1988 to 30 September 1989
+
+A PROTOTYPE ANALYSIS SYSTEM FOR
+REMOTE VIEWING TASKS (U)
+
+By: Wanda L. W. Luke
+Thane J. Frivold
+Edwin 0. May
+Vlrglnla V. Track
+
+Prepared for:
+
+Contracting Officer's Technical Representative
+
+SG1J
+
+Hmtemeﬁﬁm
+
+SRI Project 1291
+
+NOT RELE
+FOREIGN
+
+WARNING NOTICE
+RESTRICTED DISSEMINATION TO THOSE WITH VERIFI
+
+SECRET
+333 Ravenswood Ave. 0 Menlo Park. CA 94025
+
+2.33,; ed For ReIeL-fég'36BﬁfdQIGBIVeIA9§I§33§3067593W22383598001-5
+
+'
+
+”®
+
+ 
+    
+
+‘33
+For Release 2000/08/08 : W789R002200570001-5
+
+ 
+
+a;
+
+Final Report—Task 6.0.3 C
+Covering the Perlod 1 October 1988 to 30 September 1989
+
+A PROTOTYPE ANALYSIS SYSTEM FOR
+REMOTE VIEWING TASKS (U)
+
+By: Wanda L. w. Luke
+Thane J. Frivoid
+Edwin C. May
+Virginie V. Treek
+
+Prepared for:
+
+Contracting Officer's Technical Representative
+
+SG1J
+
+SRI Project 1291
+
+WARNING NOTICE
+RESTRICTED DISSEMINATION TO THOSE WITH VERIFI
+
+Approved by: Copy
+
+H Umitemeﬁﬁm
+
+MURRAY J. BARON. Director This document conele
+Geoaclence and Engineering Center
+
+CLASSIFIED BY: HO. USAMRDC (SGRD—ZA)
+DECLASSIFY ON: OADR
+
+NOT RELE
+FOREIGN
+
+SECRET
+
+333 Ravenswood Ave. 0 Menlo Park. CA 94025
+
+’ d For Relean‘s.‘e5 238096§90§ IWit-5335535393959ﬁﬂﬁﬁzwﬁfeeoo1-5
+Approved For Release 2000/08/08 : cuSﬁWﬁonsaoozzoosmom-s
+
+ABSTRACT (U)
+
+(S/NF) We have developed a prototype analysis system for remote viewings conducted
+against targets of intelligence interest. The system uses individual viewers’ performance histories
+
+in conjunction with current data to prioritize a set of possible intelligence interpretations of the
+site.
+
+11
+
+Approved For Release 2000/08/08 : CI§Egm0789R0022005700016
+Approved For Release 2000/08/03!)HGWWﬁRoozzoosmoo1.5
+
+(U) TABLE OF CONTENTS
+
+ABSTRACT
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+LIST OF TABLES ........................................................
+
+LIST OF FIGURES .......................... - .............................
+t tmaovucnomw.........£ .................................
+
+11 METHOD OF APPROACH (U) ..................................
+
+A. (U) Fuzzy Set Formalism ...................................
+
+B. (U) Prototype Analysis System ...............................
+
+C. (U) Partial Application of Analysis System to Existing Target Pool .
+
+D. (U) General Conclusions ...................................
+REFERENCES ...........................................................
+APPENDIX A ............................................................
+APPENDIX B ............................................................
+
+111
+
+Approved For Release 2000/08/09Ngkéglgf-ﬁPBSROOZZOOSNOM-5
+GEORGE
+Approved For Release 2000/08/08 : cIA-Ropss-00789R002200570001.5
+
+(U) LIST OF TABLES
+
+1. (U) Numerical Listing of Targets .................................
+2. (U) Technology Cluster .........................................
+3. (U) Principal Elements Contained ln the Technology Template .........
+
+(U) LIST OF TABLES
+
+l. (S/NF) CluSter Diagram for Simulated Operational Targets ............
+
+1v
+
+«neona-
+Approved For Release 2000/08/08 : ClA-RDP96-00789R002200570001-5
+Approved For Release 2000108108 : C|m70789R002200570001-5
+
+I INTRODUCTION (U)
+
+(U) Since 1973. when the investigations of the human information-accessing capability
+called remote viewing (RV) first began at SR1 lntemational." evaluating the quality of the
+information obtained has been a continuing challenge. In order to develop valid evaluation
+procedures. two basic questions must be addressed:
+
+(1) What constitutes the target?
+
+(2) What constitutes the response?
+
+(S/NF) if the RV task is research-oriented. the targets are known. and therefore can be
+precisely defined. In intelligence-oriented tasks. however. the targets are generally unknown
+and their descriptions are problematical. In both task domains. RV responses tend to consist of
+sketches and written phrases. A method to encode unambiguously this type of “natural
+language" is one of the unsolved problems in computer science. and there has been little progress
+to date. Thus. a complete definition of an RV response is also problematical.
+
+(S/NF) An intelligence-oriented RV task poses further problems. High-quality RV does
+not always provide useful intelligence. For example. the RV may provide additional support for
+information that has been veriﬁed from other sources. but provide no new information. in some
+cases. however. an overall low-quality RV may provide key elements that positively inﬂuence an
+analyst’s interpretation.
+
+(S/NF) Another characteristic of current laboratory analysis techniques is that they do
+not provide an a priori assessment of the RV quality. While this is not a problem in the
+laboratory. intelligence applications require such evaluation. An RV analyst cannot provide
+intelligence usefulness ratings from the RV alone; rather. the analyst must provide a priori
+probabilities that individual RV-response elements (or concepts) are present at the target site. It
+remains the responsibility of an intelligence analyst to determine whether such data are ultimately
+useful.
+
+(S/NF) Analysis of laboratory RV has been a major part of the ongoing Cognitive
+Sciences Program!” For FY 1989. we focused on the development of a prototype analysis
+system that would provide the needed a priori assessments for intelligence tasking?
+
+‘ (U) References are at the end of this report.
+1’ (U) This report constitutes the deliverable for Statement of Work item 6.0.3.
+
+Approved For Release 2000108108 : cmToonsaoozzoos'Ioom-s
+Approved For Release 2000108108 : ClﬁaE-qo789R002200570001-5
+
+11 METHOD OF APPROACH (U)
+
+(S/NF) The analysis of remote viewing (RV) data in an operational environment differs
+considerably from laboratory analysis. Most often. analysts have incomplete or no information
+about the target site and are required to provide a priori assessments of data gathered from RV
+sessions. In this section we outline a prototype analysis system for operational RV that uses
+concepts from fuzzy set theory. historical archival data. and “templates" of typical operational
+
+targets. in addition. we apply this prototype system to an existing target pool as an illusuation of
+the power of the technique.
+
+A. (U) Fuzzy Set Formalism
+
+(S/NF) A more complete description of the full fuzzy set formalism can be found in our
+literature.‘-7 For the purpose of this report. we have summarized that formalism in general terms
+that are not specific to either laboratory experiments or intelligence tasking.
+
+l. (U) Construction of Target and Response Fuzzy Sets
+
+(U) A formal deﬁnition of a target and its associated RV response (i.e., the data
+obtained from an RV session) is necessary to any analysis system. To use the fuzzy set method, a
+universal set of elements is construCted on which target and response descriptions are based.
+These elements should contain descriptive aspects of the target material and incorporate items
+that typify responses from the intended viewers. This universal set should also be extendible
+(i.e., allow for additional items that may arise in the responses).
+
+(U) in general. the task of an RV analyst is to assign a membership value (it)
+between 0 and 1 to each element in the universal set. The numerical value for each element in a
+response is assigned by the degree to which the analyst is convinced that the given element is
+present in that response. Membership values for target elements are assigned on the basis of the
+degree to which the elements contribute to the target description.
+
+(S/NF) In the laboratory. the targets are known. so that deﬁning a universal set of
+elements is comparatively straightforward.‘~" in intelligence tasks. however. defining a single
+universal set of elements that is appropriate for all operations is difﬁcult. Because the usual
+intelligence task is so highly mission-dependent. defining a single universal set of elements that is
+customized to that mission becomes easier.
+
+Approved For Release 2000108I08 : CW‘E0789R0022005700015
+Approved For Release 2000108I08 : W89R002200570001-5
+
+(S/NF) The intelligence analyst. as opposed to an RV analyst. should consu-uct such
+a list for each mission. While there may be considerable similarities between element lists for
+different missions. undoubtedly the lists will require specialization. In Section lI-C below. we
+show the construction of one element list and how it can be applied to a set of 65 simulated
+operational targets.
+
+2. (U) Analysis of Complete Responses
+
+(S/NF) Once an appropriate universal set of elements has been created. and fuzzy
+sets that deﬁne the target and the response have been specified. the comparison between them is
+straightforward. We have defined accuracy as the percent of the target material that is described
+correctly by a response. Likewise. we have deﬁned reliability (of the viewer) as the percent of
+the response that is correct.‘ Although in the laboratory it is required to provide a posterior
+probability estimates of the target-response match. in an operational setting. this may be less
+important. All that is usually necessary is to describe the accuracy and reliability for complete
+responses. and for individual target elements of interest. These quantities for the jth sessions are
+
+2 WAR; 0 7'1):
+
+rl‘kl' II I (1)
+Z Wle'k
+and lIl
+' n
+2 WAR; 0 T1):
+a,=*'—',,——. (2)
+2‘, Wm...
+kIl
+
+where the sum over It is called the sigma count in fuzzy set terminology. and is defined as the sum
+of the membership values (p) for the elements of the response. the target. or their intersection.
+and n is the number of possible elements as defined by the element list. A fuzzy intersection is
+defined as the minimum of the intersecting fuzzy set membership values. In this version of the
+deﬁnitions. we have allowed for the possibility of weighting the membership values. Wt. to
+provide mission-deﬁned relevances.
+
+(U) For the above calculation to be meaningful. the membership values for the targets
+must be similar in kind to those for the responses. For most mission-dependent specifications.
+this is generally not the case. The target membership values represent the degree to which a
+particular element is characteristic of the target. and the response membership values represent
+the degree to which the analyst is convinced that the given element is represented in the
+response.
+
+Approved For Release 2000108I08 : M89R002200570001-5
+Approved For Release 20001081011,mégmgaoozzoosrooo1.5
+
+(U) Until RV abilities can encompass the recognition of elements as well as their degree of
+target characterization. we are required to modify the target fuzzy set. An analyst must decide
+upon a threshold above which an element is considered to be completely characteristic of the
+target site. In fuzzy set theory. this is called an or-cut: a technique to apply a threshold to the it
+values such that if the original value exceeds it. reassign the value to 1. otherwise set it to 0. In
+this way. the analyst's subjectivity can be encoded in the response fuzzy set. and Equations 1 and
+2 remain valid.
+
+3. (U) Analysis of an Individual Element
+
+(U) Equations 1 and 2 can be simplified to provide an accuracy and reliability on an
+individual element basis instead for a complete response. For example. let N be the number of
+sessions against different targets that exist in a current archive for a specified viewer. Let e be an
+element in question (e.g.. airport). Then the empirical probability that element e is in the target.
+given that the viewer said it was. is given by
+
+_N_c
+
+R(6)=N.
+
+(3)
+
+where Nc is the number of times that the individual was correct. and Nr is the number of times
+that element e was mentioned in the reSponse. R(¢) is also the reliability of the viewer for that
+specified element.
+
+(U) To compute what chance guessing would be. we must know the occurrence rate
+of element e in the N sessions. Let No be the actual number of times element e was contained in
+the N targets. Then the chance-guessing empirical probability is given by
+
+N
+Ro(c) - 7°.
+
+Ro(¢) can also be considered as the guessing reliability (i.e.. the reliability that would
+be observed if the viewer guessed e during every session). The more R(e) > Ro(e). the more
+reliable the individual is for the specified element.
+
+(U) The empirical probability that the viewer said element e. given that it was in the
+target. is given by
+
+Ne
+14(6) . No .
+
+A(¢) is also the accuracy of the viewer for that specified element.
+
+(U) As a numerical example. suppose a single viewer participated in N = 25 sessions.
+Let c = “airport." Further suppose that N0 = 5 of the targets actually contained an airport.
+
+Approved For Release 2000108104!QRMWROOZZOOSNOO1-5
+Approved For Release 2000108108 : Clggem0789R002200570001-5
+
+(U)
+
+Then. Ro(airporr) a 0.20 is the chance probability (i.e.. guessing airport during every session
+would only by 20 percent reliable). Assume that the viewer mentioned airport Nr = 6 times and
+was correct M: = 4 times. Then this viewer's reliability for airports is computed as R(airpori) =
+0.67 > Ro(airport) - 0.20. The viewer's accuracy for airports is computed as A(airport) = Nc/No
+. 0.80. Thus in this example. we can conclude-that this viewer is reasonably accomplished at
+remote viewing an airport.
+
+B. (U) Prototype Analysis System
+
+(S/NF) We assume that an intelligence analyst has constructed a mission-dependent
+universal set of elements. We further assume that there are a number of competing
+interpretations of the target site in question.
+
+1. (U) Target Templates
+
+(S/NF) The first step in our prototype analysis system is to define templates (i.e..
+general descriptions of classes of target types) of all competing target interpretations from the
+universal set of elements. For example. a class of target types could be a generic biological
+warfare (8W) facility. Exactly what the templates should represent is entirely dependent upon
+what kind of information is sought. Both the underlying universal set of elements and the
+templates must be constructed to be rich enough to allow for the encoding of all the information
+of intelligence interest. That is. if neither the set of elements nor the templates can meaningfully
+represent information about. say BW development sites. then it will be unreasonable to consider
+asking. “Does development of BW agents take place at the site?" Furthermore, a certain
+amount of atomization is necessary because such division into small units provides the potential
+for interactions within the universal set of elements. If the profile of a BW facility consists of a
+single element. the template would be useless unless the response directly stated that particular
+element: rather. the proﬁle should be constructed from groups of elemental features (e.g..
+biological. offensive. weapon. decontamination).
+
+(S/NF) There are two different ways to generate target templates. The most
+straightforward technique is also likely to be the most unreliable. because it relies on the analyst's
+judgment of a single target type. With this method. the analyst. who is familiar with the
+intelligence problem at hand. simply generates membership values for elements from the
+universal set of elements based upon his or her general knowledge. Given the time and
+resources. the best way to generate template membership values is to encode known targets that
+are closely related (e.g. a number of known BW sites). Bach template p. is the average value
+across targets. and thus is more reliable. If it is known that some targets are more
+
+Approved For Release 2000108108 : camwo789R002200570001-5
+Approved For Release 2000I08I08 : ClQ-BW789R002200570001-5
+
+(S/NF)
+
+”characteristic" of the target type than others. then a weighted average should be computed. in
+symbols.
+
+pf-“L—. (4)
+2a»
+in]
+
+where the sums are over the available targets that constitute the template. on are the target
+weights. and the nu are the assigned membership values for target It.
+
+2. (U) Archival Database
+
+(S/NF) A critical feature of an analysis system for intelligence RV data is that along
+with the current RV data to be evaluated. the individual viewer's past performance on an
+element-by-element basis must also be included. For example. if a viewer has been relatively
+unsuccessful at recognizing BW facilities. then a BW reference in the current data should not
+contribute much in the overall analysis.
+
+(S/N‘F) As ground truth becomes available for each session. a performance database
+should be updated for each viewer to reflect the new information This database should be a
+fuzzy set whose membership values for each element are the reliabilities computed from
+Equation 3.
+
+3. (U) Optimized Probability List
+
+(S/NF) The goal of any intelligence RV analysis system is to provide an a priori
+prioritized and weighted list of target possibilities that results from a single remote viewing that is
+sensitive to the performance history of the viewer. Assuming that a template exists for each of
+
+the possible intelligence interpretations. an analyst should adhere to the following protocol:
+
+(1) Analyze the RV data by assigning a membership value (it) for each element in the
+universal set of elements. Each it represents the degree to which the analyst is
+convinced that the particular element is included in the response. For example.
+suppose that the viewer said. “I perceive a BW facility." Then u(BW facility) 2 1.
+Alternatively. suppose the viewer said. “i perceive glassware and smell organic
+chemicals." in this case. MBWfaciIiry) might be assigned 0.6.
+
+(2) Construct a crisp set. Re. as an tit-cut of the original response set. By adopting a
+threshold of 0.5. for example. then the resulting crisp set contains only those
+elements that the analyst deems most likely as being present in the response.
+
+(3) Construct an effective response set. Re. as Re - Re u Ra. where R. is the reliability set
+drawn from the archival database. For example. suppose the original
+
+Approved For Release 2000108I08 : CI§§ﬁ$O789R0022005700015
+l
+Approved For Release 2000I08I08 : C6W0789R002200570001-5
+
+(S/NF)
+
+(4)
+
+(5)
+
+assignment from the raw RV data was MBW facility) I 0.6. Then after the o-cut
+with a threshold set at 0.5. u(BWfacility) I 1.0. Suppose. however. that the viewer
+has been performing well on BW facilities and the archival database shows that
+R.(BW facility) = 0.8. Thus. Re(BW facility) = 0.8.
+
+Using this effective response set. compute an accuracy and reliability in accordance
+with Equations 1 and 2. Then compute a figure-of-merit. M1. for the jth competing
+interpretations as
+
+MJ-ajxr, .
+
+Of course. the accuracy and reliability use the effective response set from step 3
+above.
+
+Order the Ms from largest to smallest value. Since the figures-of-merit range in value
+from 0 to 1. they can be interpreted as relative probability values for each of the
+aitemative target possibilities.
+
+By following such a protocol. an analyst can produce a list of target alternatives that is sensitive to
+
+the current remote viewing yet takes into consideration to the individual viewer's archival record.
+
+C. (U) Partial Application of Analysis System to Existing Target Pool
+
+(U) We have used an existing target pool (developed under a separate program) as a test
+
+bed for the analysis system described above.
+
+(U) Criteria for Inclusion in the Target Pool
+
+(S/NF) Targets in this pool have the following characteristics:
+
+0 Each target is within an hour and a half automobile drive of SR] international.
+0 Each target simulates an operational site of intelligence interest.
+
+0 Each target fits generally within one of ﬁve functional categories: Production.
+Recreation. Scientific. Storage. and Transportation.
+
+0 Each target meets a consensus agreement of experienced RV monitors and
+analysts about inclusion in the pool.
+
+(U) The pool consists of 65 targets. Initially. they were divided into 13 groups of five
+
+targets each. where each group contained one target from each of five functional categories. By
+
+carefully organizing the targets in this way. the maximum possible functional difference of the
+
+targets within each group was ensured. Table 1 shows a numerical listing of these targets.
+
+Approved For Release 2000108108 : CﬁmTOOTSSR002200570001-5
+Approved For Release 2000/08/08 : CW789R002200570001-5
+
+Table l
+
+(U) Numerical Listing of Targets
+
+. Transformer Station . Space Capsule 45. Pump Station
+
+. Ballpark . Coastal Battery 46. ice Plant
+
+. Satellite Dish . Bay Area Rapid Transit 47. Caves/Cliffs
+
+. Weapons Storage . Salt Reﬁnery 48. Bevatron
+
+. Naval Fleet . Candlestick Park 49. Barn
+
+. Gravel Quarry . Solar Observatory 50. Golden Gate Bridge
+. Swimming Pool . Food Terminal 51. Modern Windmills
+
+. Observatory . Pedestrian Overpass 52. Baylands Nature Preserve
+. Prison . Electrical Plant 53. Gas Plant
+
+. Shipping and Receiving . White Plaza 54. Auto Wreckers
+
+. Greenhouse . Space Shuttle 55. Fishing Fleet
+
+. Picnic Area . Coastal Battery 56. Radio Towers
+
+. Satellite Dishes . Train Terminal 57. Vineyard
+
+. Paint Warehouse . Sawmill 58. Pharmaceutical Laboratory
+. Naval Air Station . Pond 59. Toxic Waste Storage
+. Sugar Refinery . Wind Tunnel 60. Airport
+
+. Playground . Grain Terminal 61. Car Wash
+
+. Aquarium . Submarine 62. Old Windmill
+
+. Drum Yard . Cogeneration Plant 63. Nuclear Accelerator
+. Aircraft . Park 64. Reservoir
+
+. Sewage Treatment Plant . Linear Accelerator 65. Train Station
+
+. Hoover Tower . Dump
+
+OWQGM&WNH
+
+ 
+
+UNCLASSIFIED
+
+2. (U) Fuzzy Set Element List
+
+(S/NF) in FY 1989. we developed a prototype analysis system for analyzing targets
+and responses in operational remote viewings. A list of elements. based on target function (i.e..
+the mission specification). is arranged in levels from relatively abstract (information poor) to the
+relatively complex (information rich). Having levels of elements is advantageous in that each can
+be weighted separately in the analysis.
+
+(U) This universal set of elements (included as Appendix A) represents primary
+elements in the existing target pool of 6S targets. The set was derived exclusively from this
+known target pool. in an actual RV session. however, a viewer does not have access to the
+element list. and thus is not constrained to respond within its confines. An accurate RV analysis
+must include any additional data that may be provided in the response; therefore. additional
+space has been provided on the analysis sheets (see Appendix A) to include elements that are
+part of the response but not initially included as part of the universal set.
+
+Approved For Release 2000I08I08 : CWSROOZZOOSTOOM-S
+(S/NF) The target-dependent elements emphasize the site’s function. and use terms
+that are potentially universal across targets. We identiﬁed six element levels ranging from
+relatively information rich to relatively information poor: affiliation. function. attributes.
+modifiers. objects. and general/abstract. Because operational RV presupposes a certain level of
+ability on the part of the viewer. there are relatively few general/abstract elements included in our
+prototype analysis system. A description of some of the elements shown in Appendix A and a
+guide to their use are presented in Appendix B.
+
+3. (U) Target Similarities
+
+(U) in order to generate a demonstration target-type template using Equation 4. we
+first organized the 65 targets into clusters of similar types.
+
+(U) We begin by deﬁning the similarity between targetj and target It (SM) to be a
+normalized fuzzy set intersection between the two target sets;
+
+N 2
+2mm 0 ml)
+k IT.'——N——.
+2 WIT/J) X z WjTgJ)
+.II II
+
+31. (5)
+
+By inspection. we see that Sm is also the figure-of-merit between target 1 and target It.
+
+(U) For N targets there are N(N—I)/2 unique values (2080 for N=65) of $1.1. The
+value j and It that correspond to the largest value of Sn represent the two targets that are most
+functionally similar. Suppose another target m is chosen and Sam and Saul are computed. if
+both of these values are larger than Sump (for all p not equal to 1 or It) then target m is assessed to
+be most similar to the pair ].k. The process of grouping targets based on these similarities is
+called cluster analysis.
+
+(U) Figure 1 shows the six clusters found from the cluster analysis of the 65 targets.‘
+The numbers shown refer to the targets listed in Table l. and the clusters are in close agreement
+with the original five categories used to select the targets. The point. however. is that a numerical
+algorithm is capable of dividing a set of targets into functional categories.
+
+‘ (U) in order to make the graphic output more meaningful. we used I — SM in the analysis.
+
+Approved For Release 2000108I08 : C -00789R002200570001-5
+Approved For Release 2000/08/08 :MOnsRoozzoosroom-s
+
+-------- ll
+
+Cluster 1 1;
+Recreation 2;
+
+ii
+
+................ 18
+""""""" 33
+
+:3
+if
+
+Cluster 2
+Transportation
+
+Cluster 3
+Weapons
+
+Cluster 4
+Technology
+
+Cluster 5
+Storage
+
+Cluster 6
+Production/Distribution
+
+ 
+
+UNCLASSIFIED
+Figure l. (S/NF) Cluster Diagram for Simulated Operational Targets
+
+(U) We used the technology cluster (i.e.. number 4 in Figure l) to apply Equation 4
+to construct a technology target template. Table 2 shows the targets in this cluster. where the
+horizontal lines indicate the subclustering within the technology group shown in Figure l.
+
+10
+
+Approved For Release 2000/08/08 WonsRoozzoosroom-s
+Approved For Release 2000/08/08 wwwMR002200570001-5
+
+Table 2
+(U) Technology Cluster
+
+-“
+_
+
+Transformer Station
+Modern Windmills
+Electrical Plant
+Cogeneration Plant
+
+Satellite Dish
+
+13. Satellite Dishes
+Observatory
+
+28. Solar Observatory
+
+Pharmaceutical Laboratory
+
+Nuclear Accelerator
+Linear Accelerator
+Bevatron
+
+     
+ 
+
+ 
+
+    
+             
+    
+
+ 
+   
+ 
+    
+
+UNCLASSIFIED
+
+(U) Table 3 shows those elements that met or exceeded average membership values
+of 0.4 using Equation 4.
+
+Table 3
+(U) Principal Elements Contained in the Technology Template
+
+_-“
+Affiliation — Commercial/Private
+mu Research/Experimentation
+
+Modiﬁer - Electricity/Radio
+
+High Technology Electronics
+Restricted Access
+Wires/Cables
+
+    
+     
+     
+
+  
+ 
+
+ 
+
+ 
+ 
+    
+     
+
+  
+
+Abstract Activity—Passive
+Ambiance—Indoor
+Ambiance—Manmade
+Ambiance—Outdoor
+
+Size—Medium
+
+    
+    
+ 
+   
+
+UNCLASSIFIED
+
+11
+
+Approved For Release 2000/08/05’WE05‘R9R002200570001-5
+Approved For Release 2000108108 : ClW789R002200570001-5
+
+(U) As a self-consistency check. we included the technology template in the total
+target pool and recalculated the clusters. As expected. the technology template was included
+within the subgroup of targets 3 and 13. and well within the technology cluster as a whole.
+
+D. (U) General Conclusions
+
+(S/NF) The goal of this effort was to develop an analysis system that would prove
+effective in providing a priori assessments of intelligence remote viewing tasks. if the proper
+mission-dependent universal set of elements can be identified. then. using a viewer-dependent
+reliability archive. data from a single remote viewing can be used to prioritize a set of alternative
+
+target templates so as to chose the most likely one for the mission.
+
+12
+
+Approved For Release 2000I08I08 : CﬁEQBEGTO0789R002200570001-5
+Approved For Release 2000108108 : W0789R002200570001-5
+
+REFERENCES (U)
+
+1. Puthoff. I-I.E.. and Targ. R.. “A Perceptual Channel for Information Transfer Over
+
+Kilometer Distances: Historical Perspective and Recent Research.” Proceedings of the
+1585, Vol. 64. No. 3. March 1976. UNCLASSIFIED.
+
+2. Targ. R.. Putholf. HE. and May. EC. 1977 Proceedings of the International
+Conference of Cybernetics and Society, pp. 519-529. 1977, UNCLASSIFIED.
+
+3. May. E.C.. “A Remote Viewing Evaluation Protocol (U)." Final Report (revised). SRI
+Project 4028. SRI International. Menlo Park. California. July 1983. SECRET.
+
+4. May. E.C.. Humphrey. B.S.. and Mathews. C.. “A Figure of Merit Analysis for
+Free-Response Material." Proceedings of the 28th Annual Convention of the
+
+Parapsychological Association, pp. 343-354. Tufts University. Medford. Massachusetts.
+August 1985. UNCLASSIFIED.
+
+S. Humphrey. 8.5.. May, E.C.. Trask. V.V.. and Thomson. M. 1.. “Remote Viewing
+Evaluation Techniques (U)." Final Report. SRI Project 1291. SRI International. Menlo
+Park. California. December 1986. SECRET.
+
+6. Humphrey. 8.8.. May. E.C.. Utts. J.M.. Frivold. T.J.. Luke. W.L.. and Trask. V.V..
+“Fuzzy Set Applications in Remote Viewing Analysis." Final Report—Objective A. Task 3.
+
+SRI Project 1291. SRI International. Menlo Park. California. December 1987.
+UNCLASSIFIED.
+
+7. May. E.C.. Humphrey. B.S.. Frivold. T J.. and Utts. J M.. “Applications of Fuzzy Sets to
+Remote Viewing Analysis (U)." Final Report—Objective F. Task 1. SRI Project 1291.
+SRI International. Menlo Park. California. December 1988. SECRET.
+
+13
+
+Approved For Release 2000108108 : Massaoozzoosmom-s
+Approved For Release 200010810418Glabssdﬁlﬁﬁmoozzoosmoo1.5
+
+Appendix A
+
+UNIVERSAL SET OF ELEMENTS FOR ANALYSIS OF FUNCTION (U)
+
+(This Appendix is completely UNCLASSIFIED)
+
+14
+
+UN L 8 IF
+Approved For Release 2000/08/08 : Cﬁx-éDP§6-3§£9R002200570001-5
+SEO“. ZO_._.<:._<>w ZOFn—wommn. WES—mm
+‘8
+
+E
+
+[I
+33§§333§§§
+UUUDUDDUUD
+
+5
+
+[I
+
+s
+22:82 w
+R
+
+530.... zO_._.<:._<>m_ ZOFamOm—wn. HOS—mm
+. ”838mlm8mﬁo .
+
+SEQ“. ZOF<D._<>m_ ZOEmommn. m._.Osm_m
+SEO”. ZOF<D._<>w zOEanmwn. mFOS—mm
+angaaﬁanna
+§
+
+g!
+
+DDDUDDDDDU
+
+§
+§
+§
+3
+E
+a
+
+SEQ“. ZOF<D._<>m zOmeomma m._.O_2mm
+2
+<
+3
+§
+2
+E
+E
+E
+Approved For Release zooms/(gmpmusmozzoosmom.5
+
+Appendix B
+
+ANALYSTS' GUIDE TO THE UNIVERSAL SET OF ELEMENTS FOR
+FUNCTION (U)
+
+(This Appendix is completely UNCLASSIFIED)
+
+15
+
+Approved For Release 2000/08I0&%BH&§§LFJ599R002200570001-5
+Approved For Release zooomaloumlﬁlﬁisaoo2200570001.5
+
+AN ANALYST’S GUIDE TO THE UNIVERSAL SET OF ELEMENTS (U)
+
+A. (U) Introduction
+
+(U) This appendix is intended to assist an analyst in using the universal set of elements
+shown in Appendix A. We developed six levels of elements ranging from relatively abstract
+(information poor) to the relatively complex (information rich).
+
+3. (U) Element Levels and Their Use
+
+(U) The task of the analyst is to assign a membership value between 0 and 1 to each
+individual element. For targets. a numerical value will be assigned on the basis of the presence
+or absence of each element in terms of functional importance. For responses. the numerical
+
+value will be assigned on the basis of the degree to which the analyst is convinced that the
+element is contained in the response.
+
+(U) All subsequent commentary is referenced by the element numbers in Appendix A.
+Although each level may contain a number of elements. only those individual elements that may
+need explanation are listed below.
+
+1. (U) Element Level—Affiliation
+
+(U) “Afﬁliation” represents an advanced level of remote viewing functioning.
+Although we infrequently observe this advanced functioning. the data are valuable. and.
+therefore. are included. Elements in this level can be assigned membership values by asking the
+question. “Who owns the target?" There are only three “affiliation" elements:
+
+(1) Commercial/Private.
+
+(2) Government: Federal. state. or local governmental ownership (e.g.. municipal
+utilities). but excluding military.
+
+(3) Military: military ownership as separate from the above governmental ownership
+(eg. a Navy submarine).
+
+8-]
+
+UNCLASSIFIED
+Approved For Release 2000/08/08 : CIA-RDP96-00789R002200570001-5
+Approved For Release zooomalddNEWHElﬁﬁaanoozzoosrooo1.5
+
+2.
+
+(U) Element Level—Function
+
+(U) “Function" also represents an advanced level of remote viewing functioning. and
+
+it may represent the most important information with regard to overall function. Elements are
+
+assigned membership values by asking the question. “What ls(are) the primary function(s) of the
+target?” There are 14 “function" elements. and a few require further explanation:
+
+(6)
+
+(8)
+(11)
+(13)
+
+(16)
+
+3.
+
+Distribution: the primary function is to receive and to transmit something (e.g.. an
+electrical transformer station).
+
+Extraction: as in the extraction of minerals from the ground.
+Reception: the primary function is only to receive (e.g.. a satellite tracking station).
+
+Reﬁning: the primary function is to refine a raw material into an intermediate or
+finished product (e.g.. a saw mill).
+
+‘hansmission: the primary function is only to transmit (e.g.. a radio tower).
+
+(U) Element Level—Attributes
+
+(U) “Attributes” can be thought of as clarification for the “function” level.
+
+Elements are assigned membership values by asking a question similar to. “if the function of the
+target is production. then what is being produced?" There are 20 “attribute" elements. and the
+following require further explanation:
+
+(18)
+(20)
+(21)
+(23)
+
+(24)
+(29)
+(32)
+(33)
+
+Animals: animals only.
+Biology: the study of living things in general.
+Chemistry: also includes chemicals.
+
+Ecology: symbiotic systems in nature. as in ecological zones (e.g.. the Bay Lands
+Nature Preserve).
+
+Energy: energy in a broad sense that also includes radio waves.
+Nature/Natural: general natural objects (e.g.. plants and animals).
+Plants: plants only.
+
+Space exploration: general, includes all experimentation done in space.
+
+Elements 18 and 32 are given a membership value if the target/response is speciﬁcally oriented to
+one item. Otherwise element 29 should be assigned a value.
+
+4.
+
+(U) Element Level—Modifiers
+
+(U) “Modiﬁers” can be thought of as a clarification of the “attributes" level.
+
+Elements are assigned membership values by asking a question similar to. “If the function of the
+target is production. and vehicles are being produced. then what kind of vehicles are they?”
+There are 36 “modiﬁers" elements. and only element 66 requires further explanation:
+
+8-2
+
+UNCLASSIFIED
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R002200570001-5
+Approved For Release zooomaloymmsaoozzoosmoo1.5
+
+(66)
+
+Symbiotic: symbiotic relationships not subsumed under natural or ecology (e.g.. a
+cogeneration plant).
+
+5. (U) Element Level-Objects
+
+(U) “Objects" contains speciﬁc elements not necessarily related to function.
+Elements are assigned membership values on the basis of the presence or absence of each object
+
+in terms of functional importance. There are 47 “objects" elements. and the following require
+further explanation:
+
+(77)
+(79)
+(88)
+(95)
+
+(116)
+(117)
+(118)
+
+(119)
+
+Catwalk: elevated walkway.
+Coastline: used only as coastline of an ocean.
+High-Technology Electronics: silicon-based technology.
+
+Port/Harbor: port should be marked as in port of departure (e.g.. airport. train
+station. seaport).
+
+Water-Bounded: only completely bounded bodies of water (e.g.. pool or pond).
+Water-Canal: manmade.
+
+Water-Large Expanse: the San Francisco Bay should be marked as a large
+expanse.
+
+Water-River: also includes stream.
+
+6. (U) Element Level-General/Abstract Items
+
+(U) This level contains the most abstract elements. There are 31 elements. and the
+following require further explanation:
+
+(121)
+
+(122)
+
+(123)
+(128)
+(140)
+(141)
+(142)
+(143)
+(144)
+(145)
+(146)
+
+(148)
+(149)
+(150)
+(151)
+
+Activity-Active: predominant visually active (e.g.. an accelerator is very active
+electromagnetically. but would be considered passive. because there is little visual
+activity); potential activity is considered as passive.
+
+Activity-Passive: predominant visually passive (e.g.. a ballpark is passive most of
+the time).
+
+Activity—Flowing (Water. Air. etc.): can be natural (e.g. creek) or manmade.
+Ambience-Dangerous: perceived and/or physically dangerous.
+
+Colorful: to be used only if especially characteristic.
+
+Modern: to be used only if especially characteristic.
+
+Odd/Surprising: to be used only if especially characteristic.
+
+Old: to be used only if especially characteristic.
+
+Personnel-Few: 1 to 10 employees mostly full-time.
+
+Personnel-Many: 10 to 1000 employees mostly full-time.
+
+Personnel-None: no full-time employees. but occasional human attention is
+allowed.
+
+Size-Large (University Campus): represents a “campus” size area.
+Size-Medium (Building): size of typical single buildings.
+Size-Small (Human): typically. the size of a human (i.e.. 6 feet)
+Dull: to be used only if especially characteristic of the color.
+
+8-3
+
+UNCLASSIFIED
+
+Approved For Release 2000/08/08 : CIA-RDP96-00789R002200570001n5
+SG1J
+Approved For Release 2000/08/08 : ClA-RDP96-00789R002200570001-5
+
+Next 1 Page(s) In Document Exempt
+
+ 
+
+Approved For Release 2000/08/08 : ClA-RDP96-00789R002200570001-5

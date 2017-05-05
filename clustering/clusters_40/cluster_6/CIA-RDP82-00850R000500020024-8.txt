@@ -1,0 +1,1348 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10255
+13 January 1982
+
+Woridwide Report
+
+TELECOMMUNICATIONS POLICY,
+RESEARCH AND DEVELOPMENT
+
+[FOUO 1/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OHNERSRIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+JPRS LI]
+
+1 3 Janue
+
+WORLDWIDE REPORT
+TELEcomumcnIous POLICY, RESEARCH AND DEVELOPMENT
+(rouo 1/82)
+
+Cou'rems
+
+USSR
+
+Progress in Electrical Communications Throughout Ukrainian SSR
+(c. 2. Sinchenko; ELEKTROSVYAZ', Aug 81) .................
+
+Noise Immunity of Radio Relay Antennas and Sane Ways of
+Improving It
+(A. A. Timofeyevn, V. G. Yampol'akiy; ELEKTROSVYAZ',
+
+Aug 8'.) as.scale.canoe-Coal...Illooaaoaoaaaaaoa-oaoooleaoo
+
+Office Automation Equipment at Specialized 'Sistemotekhnika-SO'
+International Exposition
+(N. A. Hatyukhina, A. L. Raykhtsaum; PRIBORY I
+SISTEHY "PRAVLEHIYA, Sep 81) .............................
+
+Summary of Eighth Plenary Session of Central Board of the
+Scientific-Technical Society for Radio Engineering and
+Electrical Communications Imeni A. s. Popov
+
+(M. Ya. Shebaldina; ELEKTROSVYAZ', Aug 81) ...............
+
+Briefs
+Data Communications Conference
+Power Supplies for Communications
+FOR "Fl-"1 ‘IAI. llSl-Z ONLY
+
+USSR
+
+PROGRESS IN ELECTRICAL COMMUNICATIONS THROUGHOUT UKRAINIAN SSR
+Moscow ELEKTROSVYAZ' in Russian No 8,Aug 81 pp 1-5
+
+[Article by 6.2. Sinchenko, Ukrainian SSR Minister of Communications: "Creative
+Contribution of Ukrainian Connunicators")
+
+in his Report to the 26th CPSU Congress, CC CPSU Secretary General and President of
+tne Presidium of the Supreme Soviet of the USSR Comrade L.l. Brezhnev summarized
+the development of our economy and the increase in workers' welfare for the 10th
+Five-Year Plan and the past 10 years. It was noted that the economy of the USSR
+developed as a unified national economic complex in which the economic potential
+of each republic increased significantly.
+
+Thanks to intensive creative labor, the communicators of the Soviet Union, includ-
+ing those in the Ukraine. also contributed to achieving overall high national
+economic results. Let us look at some typical numbers and examples which illus-
+trates the results of the labor of communicators in the Ukraine during the 19703.
+
+Communications managment in the Republic was raised to a new level over the past
+IO years. For example. the volume of production increased by a factor of 1.9,
+tariff revenues by more than a factor of 2, profit by more than a factor of 1.6
+and available capital by a factor of over 2.3. Labor productivity increased by a
+factor of 1.6. Over one billion rubles have been invested in the development of
+
+the branch for the Republic budget alone.
+
+Long distance telephone and telegraph communications developed most rapidly.
+During the past 10 years. the length of long-distance cable lines increased by a
+factor of 2.8. This made it possible to provide long distance communications via
+cable. and via radio relay on a number of links, for all rayon centers and cities
+of oblast subordination in the Republic.
+
+The branching network of cable and radio relay links which has been created in the
+"blasts nr the Ukraine has made it possible to increase the length of long distance
+telephone channels by a factor of 2.76 and to create large groups of channels be-
+tween «luv. the capital of the Republic, and the oblast centers, between oblast
+ccntcrs and rayon centers. and to begin widespread introduction of automated long
+
+distance connections.
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+while automatic long distance telephone exchanges were in operation in only four
+oblast centers in the Ukraine by the early 19703, and these were low-capacity in-
+stallations; during the intervening period, high-capacity type ANTS-1H, ANTS-3
+and ARM—20 auannLlc long distance telephone exchanges have been constructed and
+put into operation in 2i oblast centers, as well as the cities of Yalta, Krivoy
+Rog and Sevastopol'. Small AVTS automatic exchanges are now used widely for
+intro-oblast long distance telephone communications. These have been installed
+in nearly all rayon centers (500 of them) and cities of oblast subordination.
+
+The increase in long distance telephone capacity has combined harmoniously with
+the development of creative activity of engineers and technicians in this sub-
+branch. which has made it possible to accelerate the development of automated
+long distance connections, to make a number of improvements and to expand the
+limits of automation which ordinary ANTS-1H and AVTS exchanges do not have.
+
+One valuable rationallzer's suggestion is the "tariff zone finder" developed by
+Ziitomir and Rovenskiye [possibly Rovno -- Tr.] engineer-rationalizers: this
+device make: it possible to organize fully automatic telephone communications
+within a zone (oblast) (figure 1), and is used extensively in the oblasta of the
+Republic. These tariff romputers are in use at AVTS exchanges in more than 400
+rayon centers and cities of oblast subordination. Subscribers in these rayon
+cenrers and cities which are connected to the AVTS within their own oblast can
+call one another automatically without operator intervention at either end of the
+channel. Figure 2 shows a schematic diagram of the organization of intra-zone
+automatic long distance telephone communications.
+
+ 
+
+m"—-"'
+
+Figure l
+
+Communicators at lvano-Frankovsk and Zaporozh'ye made a valuable rationalizers'
+suggestion. its introduction allows a group of supervisors of oblast party,
+council and management organs at oblast centers with ANTS-1M or ANTS-3 stations
+with no AON [expansion unknown] equipment at the city telephone exchange to call
+subscribers at rayon centers and cities connected to these exchanges without
+dialing their own number (so-called "simplified dialing"). Figure 3 shows a
+
+schematic diagram or the organization of simplified dialing of rayon center sub-
+srrlhers from an oblast center.
+
+Besides introducing technical innovations to the existing connection automation
+
+technology, each city and rayon communications center publishes advertisements
+inoxrating the city codes and explaining how to make calls using automatic long
+
+2
+FOR OFFICIAL USE ONLY
+FOR ()I-‘Fif 1M. USE ONLY
+
+    
+
+hi)Phﬁwuoﬁ urnmw :(h)ﬁuuwumu gamut
+01’ (c) : ‘
+' (k)- -(n)(
+im mum” mm ,"gum
+: (1) __.11_p_1_rII-4""”"’”N
+(f) i ””fhti) “'
+
+Figure 2
+
+Additional devices to the standard circuits in figures 2 and 3 are shown by the
+dark boxes.
+
+Key:
+
+(n) Rayon centcr (8) counter (l) Incl-2 [expansion unknown]
+(b) Oblast center (h) GI [expansion unknown] I (m) city telephone exchange
+
+(c) tariff zone finder (i) IKA [expansion unknown] (n) AIU [expansion unknown]
+
+(d) puiser (i) VKA [expansion unknown] (0) IKTN [expansion unknown]
+
+(e) Pl [expansion unknown] (k) semiautomatic trunk (p) to other rayon centers
+
+if) subscriber latching system (q) IIIHGI-b [expansion unknown]
+
+distance calling. These advertisements are colorful. and are distributed free to
+subscribers. Oblaat, city and rayon newspapers regularly contain advertising-type
+announcements two or thf8< times each year concerning changes at long distance
+telephone exchanges or the appearance of new capabilities for utilizing automatic
+long distance communications.
+
+of course. the question arises of what has resulted from all of these efforts aimed
+at accelerating long distance exchange automation. expanding the zone of long
+distance communications automation and simplifying its operation. Let us look at
+some specific numbers.
+
+In i980. 3.7 times as many long distance telephone conversations were ordered
+
+than in I970. 0f the total outgoing paid traffic input to long distance exchanges
+in the Ukraine during 1980, 692 of the conversations were held over automated
+channels. while the nationwide average index is 60-62%. If this entire increase
+in the number of conversations were to be processed manually at exchanges in the
+Rupahiic. it would be necessary to increase the telephone operator staff by at
+lvnsl [000.
+
+The nviwurk of long distance coin-operated telephones has developed extensively
+with.n lhv Republic. This has been accompanied by continuing improvement in coin-
+upcratcd telephone circuits and their connection to the long distance telephone
+nviwnrk, which is described in detail in "Elektrosvyaz'". No. 10, 1979, as well
+
+as an improvement in the technology of servicing and monitoring the technical
+
+3
+FOR OFFICIAL USE ONLY
+tenement use ONLY
+
+   
+
+   
+
+{___(_g?___‘l ['76— 7717437: _____ “l
+
+l ”Mg, JMm-z -
+
+l@ A] |]nnop. I lei—9
+
+‘ (a) | I Imu-
+
+L ______ J |
+
+L ____________ J
+———— (s)---------
+
+g‘ ”6
+
+I (h)
+
+1 my 1m '
+
+‘ A
+
+g % rat-mom)
+Figure 3 l 01
+
+L. ________ (i) _____
+l’ey:
+(a) subscriber (f) IKTN [expansion unknown]
+(b) city telephone exchange (g) LI [expansion unknown]
+(c) group equipment (h) GI [expansion unknown]
+(d) automatic long distance exchange (1) counter
+(e) [MCI-2 [expansion unknown] (j) 10 [expansion unknown]
+
+(k) automatic long distance telephone
+exchange RSL [expansion unknown,
+possibly connecting lines relay -oTr.]
+
+condition of coin-operated telephones. Their operating reliability has been im-
+proved, their accessibility to the long distance telephone network is high, and
+the efficiency of utilization of long distance telephone channels has been in-
+creased accordingly.
+
+The coin-operated telephone network is highly popular in the Republic, especially
+in resort areas. For example. in the Yalta ares conversations from long distance
+coin—operated telephones made up 7l2 of the total outgoing long distance traffic.
+To use the order system of handlfng this number of calls, the Yalta long distance
+telephone exchange would have to more than double the number of long distance
+telephone channels and add at least 100 operators.
+
+In [he future. until the communications network of the Republic has enough standard
+nutomntlc long distance telephone exchanges with zone organization of long distance
+communications, the creative initiative of engineers and operating technicians
+
+will be aimed at improving the automation of long distance connections.
+
+Fu“ther developed within the Republic was telegraph communications. which during
+the 19703. especially during the 10th nge-yeag plan, was completely restructured
+
+FOI'OFFKJA1.USE(HVLY
+I-‘Oli (WI-"K'IM. IISF. ONLY
+
+Inr lhv main purpose nl erealing a Republic high-speed data transmission network
+as a component branch of the nationwide data transmission network. This problem
+was solved using AT-PS-PD. PTSK and ATA-HK crossbar telegraph exchanges, mostly
+domestic but partially imported, and by the extensive introduction of type TT-68
+channel formation equipment for long distance communications and TVU-12 and
+DATA-6 for city networks.
+
+The capacity of the channel switching exchanges within the nationwide data transmis-
+sion network of the Republic comprises tens of thousands of numbers. Common-user
+data transmission locations have been created in each oblast center, and TAP-2
+telegraph equipment has been installed at organizations and enterprises within
+cities which allow data to be transmitted over the data transmission network at
+
+200 baud. The nationwide data transmission network is growing rapidly.
+
+1he network of channels and stations for photofacsimile reception of central news-
+paper columns from Moscow has been further developed within the Republic. Work
+is underway to prepare production areas and communications channels to organize
+
+paints in Kiev for transmitting and receiving Republic newspaper columns to and
+from nhlast centers in the Ukraine.
+
+Many valuable rationalizers' suggestions were made by city and rural telephone
+communications specialists which made it possible to overfulfill the annual assign-
+ments for city telephone and urban telephone exchange development with the 10th Five
+Year Plan extremely limited funds for automatic telephone exchange equipment and
+cable production.
+
+Because of insufficient city automatic telephone exchange equipment, it was neces-
+sary to use ATSK-lOO/ZOOO exchanges in many large rayon centers and oblast-sub-
+ordinate cities with population between 30 and 60 thousand. In order to increase
+the number capacity of these exchanges to 4000. it is necessary to pair two
+AfSF-iOO/ZOOO exchanges, even though this increases the consumption of TSV [expan-
+sion unknown] cable. However. there is now no other way, and we must accept this
+solution.
+
+A capacity of 4000 numbers is not enough for cities with populations between 40 and
+00 thousand. and there are quite a few such cities, some of which are rayon centers.
+in the Ukraine. What can we do when not enough city-type ATSK eqipment can be
+obtained? A partial solution to this problem was found by rationalizer specialists
+in the Zaporozhskuya oblast, who adapted SUS-54 equipment for installation at
+ATSK-ihO/ZOOO eXchanues. expanding their capacity to 5000 numbers. Specialists at
+the Ynlta city telephone exchange developed a scheme of interfacing three ATSK-
+IUD/2(MN) stations. increasing the capacity of one automatic exchange using this
+equipment to 6000 numbers.
+
+Sprrialisls at city telephone network laboratories are now working on the problem
+nl utilizing [\th [expansion unknown] at paired ATSK-lOO/ZOOO exchanges. using
+SUS—Sa equipment simultaneously in order for these automatic exchanges to respond
+fully in the requirements of the Unified Automatic Communications System.
+
+The rrrnlivv Initiative of rationallzers in the Kievskaya. Zaporozhskaya. Chernovit-
+skaya. cherniguvskaya, Khmel'nitskaya and other oblnsts in developing diode
+
+.a
+
+D
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+separators instead of blockers for pairing rural subscriber telephones. The advan-
+tage of the development is that diode separators are installed in the line plug
+
+of the telephone set. while blockers are installed on poles and operate unstably
+when the weather changes.
+
+The Laboratory of the Kiev city telephone exchange, with the participations of
+specialists from city telephone exchanges in the Kiev, Vinnitskaya and Chernigovskaya
+oblasts. has developed a device which makes it possible to increase the capacity of
+a 50-number block in the rural ASTK-SO/ZOO by 20 numbers, simultaneously doubling
+
+the number of paired rural subscriber telephone sets. A model of this device is
+being tested at a rural telephone exchange in the Kiev oblast. The results are
+satisfactory, but it is still a rather complicated matter to use this version.
+Specialists are now working to simplify the proposed circuit.
+
+City and rural telephone exchange rationalizers are faced with the task of rework-
+ing the circuit of the DAVU-lo device, which makes it possible to connect 10 sub-
+Srrlbers using two pairs without degrading communications quality in order to util-
+ize the devices on rural exchange subscriber lines. When this is done, all of the
+subscribers retain the quality of having a private line. Economic efficiency will
+be increased sharply when this device is introduced, and the rates of development
+of the rural telephone subscriber network will increase.
+
+'A great deal of work was done during the 10th Five-Year Plan to further develop the
+material-technical base for radio broadcast and television. The five-year assign-
+ment of these subbranches was overfulfilled. thanks to a great extent to the
+creative scientific-teehnjcal initiative of specialists at RURT /Regional Radio-
+Television Administratiog/ enterprises in the Ukraine. -
+
+Here are some examples: there are more than 130 type TRSA-lOO, TRSA-lZ/IZ and
+TRSA-Sé television relays in operation within the Ukraine which were developed to
+transmit only black and white television. Replacement of the pool of existing
+
+TV relays with more modern equipment will require major material expenditures.
+Therefore. modernizing them in order to allow them to be used in the future to
+transmit color television programs is an extremely urgent task.
+
+Specialists of the RURT of the Ukrainian SSR Ministry of Communications have
+vrculvd a nmduiatlon rolor transistorized device (HCTD) installed in a removable
+chassis which is part of the TRSA equipment. when these relays operate using the
+MCTD, a color image can be transmitted with quality indicators corresponding to
+the standard for color television.
+
+RPTDA derimeter-band TV relays have recently gone into production in the Soviet
+Union. There are already significant numbers of these transmitters in the
+
+Ukraine. However, these can only operate by receiving-programs directly from the
+air, and are usually installed at intermediate or junction stations of existing
+radio relay links. in order for these relays to receive a program from radio relay
+link equipment, RURT rationalizer-engineers have developed a scheme for modulating
+the radio signal instead of using an intermediate-frequency relay. This develop-
+ment has been introduced at 18 relays, and produced very good results. It is
+
+6
+FOR OFFICIAL USE ONLY
+FOR (WI-1(1Al. USE ONLY
+
+continuing to be put into operation.
+
+In addition, during 1976-1980, RURT laboratories invested a great deal of effort in
+modernizing obsolescent television transmitters. An example is the changeover of
+type "iakor'" transmitters to a grounded-grid circuit at 10 television relay stations.
+"Len“ and “Uragan” transmitters have been modified in like fashion at eight large
+Republic television relay stations.
+
+RURT specialists have created a transistorized video-correction device for obsoles-
+cent "lgla" and Yakor'" TV transmitters. It has made it possible to obtain quality
+indicators corresponding to current technical specifications. The device not only
+has provided reliable and stable operation of obsolescent transmitters, but has
+made them suitable for transmitting color programs. These video-correction devices
+have been installed on 12 TV transmitters in the Republic.
+
+A substantial amount of work has been done during the 10th five-year plan at the
+Republic radio-television transmission center. Video-correction devices have been
+created and fabricated for trunk lines up to 8 km in length: their introduction
+
+has resulted in the elimination of two equipment rooms, an unattended repeater
+
+point. and ASL [expansion unknown] equipment with a total cost of 200,000 rubles.
+
+A device has been developed and fabricated with local efforts which allows the
+
+duty shift chief to control (and monitor) four TV transmitters and three ultra-
+short wave PM transmitters simultaneously from the same KUK [expansion unknown] room.
+
+In order to improve the transmission quality of stereophonic broadcast programs,
+the ARS-3 rack has been introduced: this device has a wideband exciter and was
+created and fabricated by specialists of the RURT laboratory.
+
+As a result of the equipment modernization which has been done, four TV programs
+and three PM broadcast programs can be controlled at the Republic television relay
+station by the duty officer of a shift comprised of a total of seven people.
+
+The Ukraine RURT. in cooperation with the Scientific Research Institute of Radio,
+created a system of equipment during 1979-1980 for a new Republic long distance
+television equipment room which is of extreme significance in the widely branching
+Republic lung-distance television network, which consists of several thousand
+kilomelerx oi radio-relay links which transmit center. republic and local TV
+programs in 47 high-power and 230 low-power TV stations.
+
+one or the projects of the Republic RURT television laboratory which was completed
+in I980 makes it possible to solve the problem of complete automation cf control
+and monitoring of type TRSA relays. An experimental model of this device is based
+nu nuiumniir logic circuits implemented on a modern component base without the
+
+"He of electromechanical relays. etc. One such relay is already in operation in
+
+L'vuvsknyn Ohlast. and experience in operating it is producing positive results.
+ibis deVeIupmcnt. when introduced widely throuout the network of low-power relays,
+will make it possible to reduce sharply the number of technical personnel servicing
+
+the network.
+
+7
+FOR OFFICIAL USE ONLY
+FORiOFFNJAl.USE13NLY
+
+During the ioﬂurive-Year Plan, installation of wired radio units at all populated
+points was nearly completed in the Ukraine. A great deal of attention was devoted
+to the current development of the network of radio points and the introduction of
+three-program broadcast. There are now more than 35 wired-radio outlets per l00
+residents, including 24 three-program outlets.
+
+The main efforts of radio relay network specialists were directed toward improving
+the profitability of subbranch management and improving the quality of network oper-
+ation, which Iainly is the result of introducing devices for remote automatic
+control of rural radio junctions from the central rayon center radio junction and
+from ultrashort wave radio stations. The technology which permits remote control
+of rural radio junctions from the rayon center is now new, and is produced by the
+CUP? Industry of the USSR Ministry of Communications. However, these funds are
+limited; if only they were to be used, it would take at least 10 years to complete
+the aulumntlon. Speeinlist-rationaiizers from Republic radio relay networks have
+also rendered assistance here. The wired-radio installers in the Kiev oblast have
+developed their own device, organized its fabrication in the oblast ccnmuunications
+laboratory and completed automation of controlling rural radio centers in all 26
+rayon» of the oblnst by the end of the five-year plan. The experience of the
+
+Kiev radio installers is being introduced in all oblasts of the Republic, and in
+198i there will be remote control of radio centers in villages, city-type settle-
+ments and cities of rayon subordination in all rayons of the Republic.
+
+The rationalizers of the radio relay networks in the Ukraine have the task of creat-
+ing a remote control system for all radio centers in the oblast, both rural and
+rayon, directly from the main radio junction at the oblast center. The purpose of
+this development is to both activate and shut down radio centers. transmit urgent
+messages via the oblast radio network at any time of the day from the center, and
+measure the basic electrical parameters of trunk and distribution feeders.
+
+1he Kiev radio installers have made a significant contribution to the development
+
+of three—program wire broadcast. Because of available funds for three-program
+broadcast transmitters. the specialists have used TU-IOO amplifiers as the basis
+
+Ior developing and manufacturing transmitters in the oblsat laboratory for the
+second and third broadcast programs. These transmitters have already been installed
+at IS rayon centers. As a result. the Kiev oblast has become the first in the
+Republic to introduce three-program broadcasting at all rayon centers: in 1981
+
+this type of broadcasting should be introduced in the rural radio relay networks of
+seven rayons in the oblast.
+
+1hese are examples or the modest contribution made by specialists of Ukrainian coup
+muoieaiions enterprisrs to the scientific-technical progress of the branch. The
+creative initiative of Republic communicators will be aimed atfurther technical
+improvement of electrical lommunications, radio broadcast and television facilities
+in Ihe Ukraine, and improving the economic efficiency of production and quality of
+communications survives provided for the population and the national economy.
+
+COPYRIGHT: izdatei'sivo "Radio i svyaz'", "Blektrosvyaz'". 1981
+
+6900
+csu: 5500/I0i0
+
+IN)! OIIICIAI.IEHE(H‘LY
+FOR (WHOM. “SI-Z ONLY
+
+USSR
+
+UDC 621.396.677
+
+NOISE IMMUNITY 0P RADIO RELAY ANTENNAS AND SOME HAYS 0F IMPROVING IT
+
+Moscow ELEKTROSVYAZ' in Russian No 8. Aug 81 (manuscript received 20 Hay 1980)
+pp 1.5-1.8
+
+[Article by A.A. Timofeyeva and v.0. Yanpol'skiy]
+
+chxtl intrgggggign. As the network of radio relay links develops. the requirements
+
+for both the economic indicators and electrical parameters of radio relay link (RRL)
+antennas increase.
+
+The basic economic indicators are the following: antenna cost. which is determined
+by their size. weight, required accuracy of fabrication, technology and design
+
+complexity; and operating expenses. which are determined by their reliability,
+simplicity and convenience of operation.
+
+The basic electrical parameters which characterize the performance of line-of-sight
+RRL antennas are the following: utilization factor of antenna aperture surface
+(UFA). antenna-feeder matching and noise immunity. The UFA is often not a decisive
+factor in choosing the antenna type. since the required gain can be obtained by
+increasing the size of the antenna aperture, which causes an insignificant increase
+in cost. Matching requirements depend upon specific conditions. and can vary over
+wide limits. Further. the matching of most antennas used on RRL usually satisfies
+the requirements imposed (SHR < 1.04 é 1.1).
+
+The noise immunity of antennas not only characterizes the performance of a given
+link, hut also influences the performance of other radio systems; therefore, as the
+
+network of radio relay and satellite coununications links expands. this parameter
+l-IKL‘P; on int-reusing importance.
+
+The noise immunity of antennas can be improved in various ways -- either by using
+some method to eliminate noise signals. or reducing the fringe radiation of the
+antenna. The first way is useful for improving the noise situation on existing
+links using existing antennas. while the second. which is more radical and long
+range. is suitable for newly constructed and rehabilitated radio relay links, and
+requires the creation of a new generation of antennas having improved noise immunity.
+
+Until recently. increased requirements for limiting the fringe radiation level of
+RRL anicnnns referred primarily lo the horizontal plane, which was dictated by the
+rapid expansion of the terrestrial RRL network. However. as the satellite communica-
+
+9
+FOR OFFICIAL USE ONLY
+FOR (ll-1'10“]. USE ONLY
+
+tions network expands, the requirements for antenna lateral radiation at angles to
+the horizon of other than zero are increasing.
+
+Estimatingitmumnity. One of the methods for estimating noise immunity is to
+compare the directivity patterns of Riil. antennas with the 60111 reference patterns
+
+[1]
+
+cm - 52-10 log? -25 log¢ as with @t < t < 02
+
+6(4)) = 0 - for average quality antennas
+
+} With ¢ 3 ¢z
+(:(tp) - -20 dB - for high quality antennas
+
+where C(dl) is the antenna gain in an arbitrary direction with respect to an isotro-
+pit: radiator; D is the antenna aperture diameteaé )l - wavelength; (b - the angle,
+in degrees, measured from the main lobe; 45. - m is the angle corresponding to
+
+first side lobe; in is the angle beyond which it can be assumed that G(¢) - coast.
+
+Figure 1 shows the CCIR reference patterns for average (curves 1 and la) and high
+(1 anti lb) quality antennas, and the directivity patterns, referred to the isotro-
+pic radiator level, of various types of antennas having approximately equal gain:
+2,3,1: — guaranteed directivity patterns of single-reflector axial symmetric anten-
+nas with respective gain of 39.2 dB ( Comelit Company), 39.5 dB (NBC Company),
+
+38.8 dB (Andrew Company); 5 - guaranteed directivity pattern in horizontal plane of
+horn parabolic antenna (iiPA) with conical horn, gain of 38.7 dB (Comelit Company);
+6 - envelope of directivi ty pattern in horizontal plane with horizontal polariza—
+tion of domestic RPA—ZP-Z antenna with pyramidal horn, gain of 39.5 dB; 7 - approx-
+imule envelope of directivity pattern of type ADE axial symetric two-reflector
+antenna with displaced vocal axis, with gain of 39 dB.
+
+It l'oilown from comparing the directivity patterns cited in figure 1 as well as the
+patterns of various types of antennas produced by leading foreign companies that:
+
+i. In the front half—space. the fringe radiation level of most axial symetric
+Nit!)',i(‘-l'crli‘l‘i‘nr antennas (figure 2a) does not correspond completely to the CCIR
+patterns even for average quality antennas. The only exceptions are the ultrahigh
+performance antennas produced by the Andrew Company. which use special screens
+with an absorbing material. The axial synnetric two-reflector antennas with dis-
+plaeed vocal axis used on RRl. in this country (figure 2b) have activity patterns
+which slightly more than satisfy (except for the sector of the first sidelobes)
+the 0(le pattern requirements for medium-performance antennas, but do not satisfy
+the (ICIR patterns for high performance antennas. Non-axial symetric antennas -
+lmth "PA and antennas with remote radiator (figure 2c, d) - have a fringe radiation
+it'Vt‘l in the horizontal plane which is far below the required CCIR directivity
+pattern for high performance antennas.
+
+2. In the bark half-spare. the CC"! directivity patterns for medium performance
+antennas are satisfied by practically all axial symetric as well as non-axial
+
+10
+POI OFFICIAL USE ONLY
+I-‘UR ()l-‘I-‘K'IAI. USE ONLY
+
+  
+    
+
+a :———i—- —:
+
+ 
+
+7.--“, .
+
+Figure 1
+
+symmetric antennas. with most of these having a fringe radiation level corresponding
+to the CClR directivjty pattern for high-performance antennas. This is explained
+
+by the fact that there have long been increased requirements for the directivity
+pattern of RRL antennas in the back half-space in connection with the so—called
+two-frequency plan used on RRL. Therefore, various shields have been developed
+
+and are in use (disc-type, shields with dephasing edge, cylindrical shields with-
+out absorbing material) [h]. which significantly reduce the fringe radiation level
+
+in the hack half-space.
+F) ' " Rays of increasing noise immunity. This
+comparison shows that axial symmetric
+antennas are significantly less noise
+
+immune in the front half-space than HBA
+
+and antennas with reawte radiator which,
+
+at least in the horizontal plane, have
+directivity patterns agreeing with or
+exceeding the CCIR patterns for high per-
+formance antennas. The basic shortcomings
+of practically all non-axial symmetric
+antennas are their large dimensions,
+
+weight and cost. For example, HPA having
+the same aperture area as axial synnetric
+antennas have greater depth and significant-
+ly larger (by approximately a factor of 2)
+vertical plane dimensions, and the weight
+
+of these antennas ordinarily exceed that
+
+of axial symmetric antennas by a factor
+
+      
+
+Figure 2
+
+11
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+of between 2 and A. Antennas with remote radiator are more compact, but their
+weight is still greater than that of axial symmetric antennas.
+
+Consequently, it is necessary to develop non-axial symmetric antennas which, with
+simple construction and size, weight and cost comparable to axial symmetric an-
+tennas, would have a fringe radiation level comparable to that of the best non-
+axiai symmetric antennas in both the front and back half-space. Such antennas
+can be developed using a remote-radiator scheme. This scheme is more flexible
+than "PA. since the radiator together with the antenna do not represent a unified
+monolothic construction. it is significantly easier to use a special radiator
+
+to create field amplitude distribution in the antenna aperture which is optimal
+in terms of noise immunity. Because of this, and because of the absence of
+aperture shadowing. the fringe radiation level in the front half-space is reduced
+significantly (as compared with axial symmetric antennas).
+
+Resuarrh in this direction has shown that when high performance radiators, e.g..
+those in [5,6], and a protective shield with a particular configuration is used,
+
+a single-reflector antenna using a remote radiator which is simple in design can
+have high noise immunity with size and weight comparable with axial symmetric
+antennas [7]. The fringe radiation level of such antennas (figure 3,6; solid
+
+line indicates directlvity patterns in plane of vector E; dotted line in plane of
+vector H) with gain of about 38 dB in the horizontal plane (figure 3) is below
+
+that of the required CCIR directivity patterns for both medium performance antennas
+(curve 1 and la) as well as high performance antennas (curve 1 and lb).
+
+ 
+
+Figure 3
+
+12
+FORIOFFIJAI.USI(MNLY
+lﬂllilﬂﬂCJAl.USE(NNLY
+
+mmﬁ‘
+
+Illi'illl‘i'ilMi‘l
+
+ 
+
+Figure 4
+
+in the vertical plane, the fringe radiation level is below the required CCIR
+directivity pattern for medium performance antennas and, except for some
+small sectors. corresponds to the CCIR patterns for high performance anten-
+nas (figure 4). In addition. this antenna has a high UPA (3 0.7) and good
+natural matching (SHR < 1.04). One important shortcoming of the antenna
+
+is the crass-polarization maximum level, which is higher than that of axial
+symmetric antennas hut comparable with “FA. According to available data in
+the literature [8,9]. this can he reduced significantly by using the special
+"marched" radiator.
+
+The noise immunity data presented here do not represent the limit. Research
+has shown that reducing the UFA to 0.5, i.e., to the value of the UPA of
+most existing antennas. will make it possible to reduce the fringe radiation
+lvvvl by S-iO dB. while installing absorbing material on the radiator alone
+will lead to an additional reduction in the aide lobe level determined by
+horn re-radiation. It is also possible to place a coating of absorbent
+material on the protective shield. which will increase the antenna noise
+immunity further, especially in the sector of the distant side lobes.
+
+Conclusion. Since the fringe radiation level of most axial symmetric reflector
+
+antennas which are most widely used on RRL do not correspond to the CCIR dir-
+
+ectivlty patterns even for medium performance antennas, one promising direction
+should be considered the creation of a new generation of antennas with improved
+
+noise immunity.
+
+Thv new generation antennas can be implemented in a scheme with a remote radia-
+
+tor. which wiii make it possible to combine high economic and electrical
+indicators for various types of antennas.
+
+13
+FOR‘O'IICIAI.IIH£(N‘LY
+FOR OFFICIAL USE ONLY
+
+B [BLIOGRAPIIY
+l. CCIR XIV Plenary Assembly, Kyoto, 1978, Geneva, 1978, vol. Ix.
+
+2. Timofeyevn, A.A.. Timnfeyev, V.V., "Basic Parameters of Production Non-
+
+nxial Symmetric Reflector Antennas for Direct Line-of-Sight Radio Relay Communica-
+tions Links." In "Sb. Eksprcss-informatsiya. Zarubezhnaya tekhnika svyazi.
+Radiosvynz', radloveshchnniye, televideniye." [Express Information Collection.
+Foreign Communications Technology. Radio Communications, Radio Broadcast,
+Television]. Vol. 3. Moscow. 1978.
+
+3. Timofuyeva, A.A.. Timofcycv, V.V., "Basic Parameters of Production Axial
+Symmetric Reflector Antennas for Direct Llne—of—Sight Radio Relay Communications
+Links." ”with, N0 l2. Mus-mm. I977.
+
+4. Ayzcnhcrg, 6.2. Yampul'skly. V.6., Tereshin, 0.N. "Antenny UKV." [Ultrsshort
+Have Antennas].. Mosvnw. lzdalel'stvo "Svyaz"\ 1977.
+
+5. TIMufcyova. A.A. "Determination of Geometric Dimensions of Horn Radiators
+with Near—Optimal Dirontivity Pattern." ELEKTROSVYAZ', No 5, 1977.
+
+0. Yorukhimovich, Yu.A., Timorcycva, A.A. "Combination Horn Radiators for
+Ruflcvtor-Typc Antennas." TRUDY NllR, 1979, No l.
+
+7. Timnfeycva. A.A. "Antenna Hith Remote Radiator." ELEKTROSVYAZ', No 6, 1980.
+
+8. nudge, A.H.. Adatla. N.A., New Class of Primary-Feed Antennas for Use With
+Offset Parabolic-Reflector Antennas. Electronics Letters, 1975, Vol. 11, No 24.
+
+9. Rudge, A.H., Adatia, N.A., Primary Feeds for Boreeight-Jitter Compensation
+uf offset-Reflector Radar Antennas. Rude--l7 Int. Conf. London, 1977.
+
+COPYRIGHT: izdatel’atvn "Radio i nvyaz'", "Elektrosvysz'", 1981
+
+(3900
+650: 5500/10l0
+
+INNRCHNHCIAI.USB(NVLY
+FOR OFFICIAL USE ONLY
+
+USSR
+
+UDC 658.28.002.56.061.6
+
+OFFICE AUTOMATION EQUIPMENT AT SPECIALIZED 'SISTEHDTEKBNIKA-SO' INTERNATIONAL
+EXPOSITION
+
+Moscow PRIBORY I SISTEHY UPRAVLENIYA in Russian No 9, Sep 81 pp 65-66
+
+[Article by Candidate in Philosophical Sciences N.A. Katyukhina and Candidate in
+Natural Sciences Al” Raykhtsaum]
+
+[Text] “Sistemotekhnika-80", a specialized international exposition of facilities
+for nechanizing and automating engineering-technical and management work, was
+
+held in Leningrad in late I980. The exposition was organized by the well-known
+Dusseldorf Novea Exposition Company (PEG) in conjunction with the All-Union
+"Ekspotsentr" Association of the USSR chamber of Commerce and Industry. More
+
+than 50 companies specializing in office automation production and support from
+
+l3 countries - Austria. Belgium, Great Britain, Denmark, Italy, Liechtenstein,
+Norway, USA, Finland, France, PRC, Switzerland and Japan - demonstrated their
+products in the two pavilions of the exposition complex on Vasil'yevskoye Island.
+
+The well-known companies present included Rex-Rotary (Denmark), Rank Xerox
+(Great Britain), the Nashua Company (USA), Kalle Niederlasaung der Hoechst AG
+and Triumph-Adler (PRC), H. Koreska (Austria) and many others.
+
+Telephone systems and dictaphones, microfilm equipment and systems, accounting
+machines, archive and computing equipment, etc., - over 500 exhibits - were
+presented at the exposition.
+
+The present article examines the office automation facilities exhibited in the
+sections on "Text processing facilities", "dictaphone techaclogy" and "document-
+retrieval, storage and transportation facilities".
+
+Text documentation and text processing facilities occupied one of the leading
+places. However, while a wide range of these devices was exhibited by a limited
+number of companies. there were no exhibits from such companies as Olivetti
+(itnly). IBM (USA), Vydec (USA). Brother (Japan) and others. In addition, the
+FRc Olympia and Triumph-Adler companies presented a full set of the latest
+models of typewriters and word processing systems. The Olympia Company
+demonstrated the SKM and 56-3 mechanical typewriters, which are already
+
+familiar and popular with users. For machines in their class, they have the
+
+entire range of functional capabilities needed, aesthetic indicators as well
+as medium weight (up to 16 kc).
+
+15
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The UIYIpln models HS-IOO, HS-lOl and 38-105 are members of the new class of
+electronic typewriters. These three models are modifications of the basic
+Olympia electronic typewriter. The 25-100 has a 96-character page printer and
+an 8-character buffer. The features of the 85-100 typewriter include automatic
+paper feed, error correction and selectable pitch. The 38-101 differs from
+
+the basic model in that it has a 32-position decimal tab and enough memory to
+store the last line typed. The ES-lOS has a 1,000—character memory.
+
+The Olympia exhibit also contained familiar basic automatic typewriters which
+are similar in functional capabilities and appearance to electronic typewriters
+or typewriters with memory (according to the company's own classification). The
+model 6010, which opened this series, has a memory which uses a magnetic sleeve
+with 50 4,000-character tracks. One track provides random-access memory, which
+permits text editing from a special keyboard. Automatic underline, centering,
+tabulation. numbering and right-justification are possible.
+
+The memory in the model 6020 uses mini-discs with 70,000-character capacity.
+The availability of this much memory makes editing possible. The model 6020 has
+a 20-character line display, and provides the same functions as the basic model.
+
+The 6110 text processing system allows long-term storage of recorded information
+and provides a large random-access memory (8,000 characters). The model 6110
+uses magnetic-card memory.
+
+Triumph-Adler presented a wide range of typewriters. The portable models
+exhibited included the "Tessy", "Tessy de Luxe", "abntessa de Luxe", "Junior 10/12",
+and the "Tippa". All of these are mechanical, light in weight (up to 5 kc),
+
+and provide the necessary functional keys and a 5- or 6-column tsbulator. The
+"Junior 10/12" model has an additional automatic space bar. The "Hatura 300/500"
+is a mechanical office typewriter with various carriage widths available, and a
+9-digit decimal tabulator. The weight with the smallest carriage is 16.8 kilograms.
+
+The "Gabrielle 5000” model is an example of an electromechanical portable typewriter.
+
+The following models of electromechanical office machines were presented:
+"Electric ﬁx" with half-space key for correcting errors and five functional repeat
+keys. The "Gabrielle 5000" and "Electric HR" typewriters each weigh 11 k6. The
+model CE I000 CD uses a spherical typing head and prints at 20 characters per
+second. This model has a quick-change ribbon cassette, fast automatic paper feed
+device and automatic correcting key.
+
+The Triumph-Adler Company demonstrated an electronic typewriter with a daisy wheel.
+A i32-character memory nukes it possible to correct, transpose or move a word or
+character. The electronics control such functions as line pitch. line spacing,
+field setting, sub- and superscripting, half-spacing. etc. From among their
+
+text processing systems, the Triumph-Adler company demonstrated two elementary
+automatic typing systems: the SE 2000 and "TA-20 Compact". Distinctive features
+of the SE 2000 include visual and audible signaling accompanying the printing
+
+and correction processes. The random-access memory capacity is #000 characters.
+
+16
+FOR OFHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Peripheral memory uses mini-discs with capacity of 64,000 characters (approxi-
+mately 32 pages using A6 format). The typing ball permits printing speeds of up
+to 20 characters per second. The functional capabilities of the device correspond
+completely to that class of machine. The "TA-20 Compact" typing machine is recom-
+mended for composition purposes. However, the availability of an 8,000—character
+magnetic sleeve memory and special arithmetic device which can execute four
+arithmetic operations puts this system in one of the leading positions in its
+class.
+
+The Juki (bmpany (Japan) exhibited a new electromechanical typewriter - the 3300 -
+which uses a spherical typing element, two-key rollover protection device, impact
+adjustment device, and quick-change ribbon cassette. The machine weighs 8 k6.
+
+The Siemens Company (PRC) presented the new "Siemens 580" word processing system
+which is intended for preparation, processing and output of prepared text as
+
+well as computational operations. The availability of remote data transmission
+
+devices and the computational device expands the functional capabilities of the
+
+system.
+
+Analyzing these exhibits at the exposition, the following basic trends in the
+development of the market for text composition and processing facilities can be
+discerned: typewriters are developing in the direction of miniaturization and
+major utilization of electronic components; the increased numbers of electronic
+typewriters is erasing the line between traditional office typewriters and ele-
+mentary word processors: text processing systems are developing in the direction
+of expanded functional capabilities by equipping processors with auxiliary devices
+(remote data transmission devices, additional memory modules, displays, high-
+speed printers, arithmetic devices).
+
+Dictaphone technology was represented by equipment from the Stenocord Electronic
+Cab“ Company (FRO).
+
+The company presented a wide selection of familiar individual and common-user
+dictaphonea (dictation systems). Individual dictaphones include models 78, 79,
+9|. 178. 179 and others. Their characteristic features include the use of multi-
+functional switches, automatic record level regulation, end-of-tape indicator,
+built-in speakers and LED signal.
+
+Some of the technical Specifications of this equipmentaregiven below.
+
+ 
+
+ 
+
+Indicator Model ______
+91 178 179 370
+Igmcnslons, ;_._____ _' 163x60x29 barium-1.6.5 300x105x260
+weight, kc 0.315 1.2 2.9
+Record speed, cm/scc 1. lo -
+l7
+
+INJR¢0F11C1AL USEiNNLY
+FOR OFFICIAL USE ONLY
+
+The sound recording medium used is either a sleeve (12- or 24- minute capacity, or
+5-10 typewritten pages), mini-cassettes (up to 30 minutes capacity, or 12 pages
+
+of typewriten text) and compact cassettes l2x30 or 2x60 minutes recording capacity
+(6-60 or 6120 cassettes, respectively)l.
+
+The company demonstrated the world's smallest dictaphone, the model 291,which
+has a microphone and electronic display. A mini-cassette provides One-hour re-
+cording, and the nine-volt battery has enough capacity for 25 hours of recording.
+The dimensions of this machine is 102x52x21 mm, with weight of 190 g.
+
+The "Stenocord 653" system for central dictation was presented: this system has
+electronic listening interkmk. which makes it possible for several talkers, one
+at a time, to almost fully utilize the recording sleeves. This system is already
+in use in the Soviet Union.
+
+Document retrieval. storage and transportation facilities were exhibited by Finnish
+companies.
+
+The desktop card files produced by the Economic Kaluste-OY Company are used to store
+cards with A5 and A6 formats. The card file has longitudinal, transverse and
+
+angled dividers, which makes it possible to form files of cards within the boxes
+
+in different directions. The boxes has removable walls fastened in special
+
+grooves for this purpose. The maximum capacity of these files is up to 1600 A5-
+format cards.
+
+The same company presented a number of document sto. age shelves. The MK 1 and
+
+MK 2 shelves are designed for storing documents, including those bound in folders.
+The height, depth and width of MK 1 and MK 2 shelves are 66x45x110 and 115x45x110
+cm, respectively, with the shelves spaced 7. 2 cm apart.
+
+The tops of the shelves are made of metal or oak. There is an insert for suspended
+files with removable divisions for blanks which moves on ball bearings.
+
+The model RIKA 2, RIKA 3, and RIKA 6 cabinets are recommended for suspended file
+storage. Their respective dimensions (height by depth by width) are 76x77xb3.3,
+104.5x77x43.3 and 133.5x77x43.3 cm; there are two, three or four drawers.
+
+The same company has modular shelves for archive storage. For example, using
+removable rails the model PKH-S can be used to obtain seven different arrangements
+of type LK—a, LK-S and LK-o drawers. Each of these drawers can store suspended
+files. cards, punch cards or separate documents by means of dividers by means of
+removable internal boxes. The cabinet has an interknk system which prevents open-
+lng more than one drawer at once.
+
+Another series of cabinets for archive storage uses the same principles: the PK—Z.
+PK-3, PK-h and PKH-Z. Thanks to modular construction (7.2 cm drawer module), a
+number of different cabinet versions can be made up. The technical specifications
+of these models are given below.
+
+18
+FOR OFFICIAL USE ONLV
+FOR. OFFICIAL USE ONLY
+
+indicator
+
+ 
+
+Height, cm
+Depth, cm
+Width, cm
+
+Number of modules
+
+ 
+
+The Kago Company (Finland) produces general-purpose office cabinets for storing
+archive documents, folders (including suspended), cards, technical data media,
+etc. These cabinets are made of cold-rolled sheet steel, and will preserve
+materials in the case of fire, destruction of premises. etc. The cabinets can
+stand free. or can be installed on supports, on top of one another, or lined up,
+thus forming specialized working areas. Depending upon the size and number of
+shelves. the weight of these cabinets varies between 120 and 295 RC.
+
+Shelves for document storage were presented by the Finnish Economic Kaluste OY
+
+and Blectrolux Kshete Companies. The Economic Kaluste OY Company presented
+stationary metal shelves for storing files, registries, folders, etc. The
+
+frame of the shelves is made of aluminum sections, with support battens or panels
+in the back; bottom cabinets with hinged doors are available. The size of the
+model M“ and MMA shelves (width by height by depth) is, respectively, 86xl96(160)x
+34; 80.6x160(140)x36.8 cm. The file size is 80130 cm, with shelf spacing of
+
+7.2 cm. . -
+
+The Electrolux Kahete Company presented the "Concentra 80" movable shelves with
+special attachments for storing various types of date (for example. magnetic
+
+tapes. punch cards, etc.), rear panels, central interlocking device and lockable
+doors. These shelves are equipped with both manual and electrical drive. The
+height of the shelves is 204 cm, with depth of up to 45 cm. The use of such equip-
+mcnt makes it possible to save up to half of the working space set aside for
+document storage when stationary shelves are used.
+
+The "Telellft" document transportation system was presented by the Translift Gesell-
+schaft F. Hebe-und Foenderanlagen HBH Company (FRO). This system uses several box-
+transporters to move documents, and has previously been demonstrated in the Soviet
+Union.
+
+COPYRIGHT: lzdatel'stvo "Hnshinostroyeniye" "deory i sistemy upravleniya", 1981
+
+6900
+650: 5500/1012
+
+19
+FOR OFFICIAL USE ONLY
+mu (ll-F“ IAI. USE ONLY
+
+USSR
+
+SUMMARY OF EIGNTH PLENARY SESSION OF CENTRAL BOARD OF THE SCIENTIFIC-TECHNICAL
+SOCIETY FOR RADIO ENGINEERING AND ELECTRICAL COMMUNICATIONS IHENI A.S. POPOV
+
+Moscow ELE'CTROSVYAZ' in Russian No 8, Aug 81 pp 54, 6d
+
+{thicle by M.Ya. Shohaldina7
+
+[Text] The eighth Plenum Session of the Central Board of the Scientific-
+Technical Society for Radio Engineering and Electrical Communications imeni A.S.'
+Popov held during April 1981 in Moscow was devoted to strengthening the role of
+that organization in Improving production in light of the resolutions of the
+
+26th JPSU Congress. The main address was delivered by v.1. Siforov, chairman of
+tae Central Board of the NTORES and corresponding member of the USSR Academy of
+Sciences. He emphasized that the main task of the NTORES today is to cooperate
+with enterprises and organizations in the early implementation of the achievements
+of science and technology within the national economy. One of the forms of this
+cooperation is the All-Union Public Inspection of the plan for introducing the
+achievements of science and technology into the national economy which is con-
+ducted jointly with the branch ministries and the central committees of the
+professional unions. The scope and effectiveness of all-union inspections is
+increasing yearly. in 1980, about 3200 primary organizations participated in
+
+the inspection, 23% more than in the previous year. The annual savings expected
+from implementing the suggestions which were made amount to more than 700 million
+rubles. v.1. Siforov noted that in the 11th Five'Year Plan, each board must
+
+take an active part in the All-Union Inspection.
+
+In order to speed the transmission of economics along the path of intensive dev-
+elopment, the development and implementation of integrated programs for scientific-
+technicai progress and goal-directed programs to solve the most urgent scientific-
+Ivchnlcal problems must he supported. The Presidium of the Central Board made
+plans to create a coordinating council to render assistance in fulfilling the
+integrated programs which is to develop a plan for measures to be carried out.
+l.c., a five-year program for conducting conferences and meetings and organizing
+inspections and competitions for successful fulfillment of the phases of the
+
+program.
+
+In response to the call of the 26th CPSU Congress to increase technical equipping
+of labor. to take all steps to introduce integrated mechanization and automation
+of production processes and to continue to reduce the number of workers involved
+
+20
+FOR Old-N11“. "SI-Z ONLY
+“DR OFFICIAL USE ONLY
+
+in manual labor in all branches, a new section has been created within the
+
+Central Board on "Automation and Hechanization of Production". In early 1981,
+
+the Presidium of the Central Board considered problems of mechanization and automa-
+tion of loading-unloading and transportation-warehouse operations within the branche
+These problems are at the center of attention of most primary organizations and
+local boards. For example, in 4.5 years of the 10th Five-Year Plan. enterprises
+
+in Zaporozhskaya Oblast have put seven integrated mechanized lines into production,
+and more than 600 pieces of high-output equipment, including both automatic
+
+and semiautomatic. Thanks to the participation of the primary organizations of
+
+the Scientific-Technical Society, most of the equipment was introduced ahead of
+schedule. This made it possible to free 858 workers, to mechanize labor of 1757
+individuals, and to obtain savings of 1,662,000 rubles.
+
+The public verification of the completion of organizational-technical measures to
+mechanize difficult and laborious production processes and organizations in Kiev
+indicated that eight integrated mechanized sectors, 19 mechanized assembly and
+conveyor lines, 77 pieces of machinery for loading-unloading and transportation-
+wnrehnusing operations were implemented, and 89 pieces of equipment modernized,
+at six industrial enterprises alone. As a result, 1068 workers were freed of
+manual labor. The savings amounted to 3,200,000 rubles.
+
+This work has been especially well-organized in the Tul'sk, Ivano-Frankovsk,
+Gomel', Sverdlovsk, Kuybyshev and Chelyabinsk oblast boards. Participants of the
+All-Union Conference on ”Developing Means of Hechanization and Automation of
+Postal Communications" held by the Central Board of the NTORES in October 1980
+became acquainted with past experience: this conference was devoted to questions
+of the participation of the scientific-technical community in implementing the
+Decrees of the Central Committee of the CPSU and USSR Council of Ministers of
+
+la July 1978 "On Measures for Further Improvement of Postal Communications in
+Support of the Population and the National Economy."
+
+For the 1980 All-Union Competition, the Central Board received 120 scientific-
+technical and planning-development projects for mechanizing and automating labor-
+intensive processes. The expected savings amount to 196 million rubles.
+
+An important task is to ensure an overall increase in the volume of production
+through increased labor productivity without increasing the number of workers.
+
+The NTORES Central Board is aiming local boards and primary organizations toward
+saving metal. power, fuel and metals. This is the first order of attention in
+organizing competitions of personal and integrated creative plans. Fulfilling
+creative plans in 1980 saved 7,000 tons of ferrous and 950 tons of nonferrous
+metals. The implementation of technological processes which are new in principle
+and new treatments, especially the use of fiber-optic communication links, will
+make it possible to save tons of valuable copper in the future.
+
+1pc "Basic niroaticuuzlor Economic and Social Development of the USSR for 1981-
+l985 and up to l990" poses the task of improving the quality of all types of
+production. Scientists and engineers who are members of the NTORES imeni A.S.
+Pnpnv continue to develop and improve the integrated communications quality
+
+21
+FOR OFFICIAL USE ONLY
+FOR {WI-1‘ 'IAI. Insl-Z ONLY
+
+control system based on developing and implementing automated methods of using them
+to increase the efficiency and quality of production, as well as widespread intro-
+duction of modern microelectronics.
+
+The Central Board has proposed to hold a conference on "Hetrological Problems of
+Microelectronics" in the spring of 1981, with plans to consider problems of the
+quality of modern microequipment and netrological support for production; there
+are future plans to hold an all-union conference devoted to questions of the
+quality of radio equipment which is in production.
+
+In conclusion, v.1. Siforov turned to questions of increasing the qualifications
+of scientists, engineers and technicians and of disseminating the achievements of
+science, technology and leading experience. The NTORES Central Board and local
+boards organize courses, seminars, schools of advanced experience, lectures and
+reports annually. The Central Board considers the people's universities to be an
+effective form for increasing qualifications and disseminating knowledge.
+
+In order to disseminate the achievements of science, technology and experience,
+v.1. Sirnrov noted that local boards must make wider use of the branch journals
+RADIOTEKHNIKA, BLBKTROSVYAZ', and VESTNIK SVYAZI, as well as popular newspapers,
+radio and television.
+
+The eighth Plenum Session of the Central Board of the NTORBS imeni A.S. Popov
+assured the Central Committee of the CPSU the All-Union Central Council of
+Professional Unions and the All-Union Council of Scientific-Technical Societies
+that the scientists, engineers and production leaders belonging to the Society
+
+of Radio Engineering, Electronics and Communications will lend their efforts,
+knowledge and experience for the successful fulfillment of the historical resolu-
+tions of the 26th CPSU Congress.
+
+COPYRIGHT: Izdatel'stvo "Radio 1 svyaz'", "Elektrosvyaz‘", 1981
+
+6900
+680: 5500/1010
+
+22
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR
+
+BRIEFS
+
+DATA COMMUNICATIONS CONFERENCE-#1 meeting was held of the Scientific-Technical Coun—
+c_il of the USSR Ministry of Communications in February 1981 where the MIR
+/5cientific Research ins titute of Radio/ report on 'Prospects for development of
+radio relay systems for transmitting digital information' was discussed. The report
+examined the singularities of constructing digitial radio relay line circuits, basic
+digital signal transmission methods. methods for organizing analog radio relay links
+for transmitting digital signals, methods for organizing radio relay link control
+systems, problems of the electromagnetic capatibility of digital relay links with
+themselves and with analog radio relay links. The main directions in the creation
+of equipment for digital radio relay systems were defined. along with those questions
+of utilizing various digital radio relay system equipment in networks of the Unified
+Automated Communications System which need further development. The scientific-
+technical council adopted the basic points of the report and noted the importance
+and urgency at creating equipment for digital radio relay systems. An article on
+the construction principles, singularities and prospects for development of digital
+radio relay links will be published in an upcoming issue of the journal
+ELEKTROSWAZ'. which will be devoted to problems of the development of radio relay
+cormunicat ions. /'l‘ext/ [Moscow BLBKTROSWAZ' in Russian No 8, Aug 81 p 29/ 6900
+
+POWER SUPPLIES FOR COWNICATIONs-modern comnications equipment must provide
+continuous transmission of widely varying information. Along with other necessary
+conditions, this is achieved through the availability of a guaranteed failsafe
+
+I‘M‘I SUPNY system. The Central Design Bureau of the USSR Ministry of Colmnunications
+has submitted a report on "New developments of the Central Design Bureau for power
+supply devices" for consideration by the Scientific-Technical Council (reported by
+M.v. urodskiy). The composition and amount of equipment used on new and rehabili-
+tated Ministry of Communications enterprises has changed sharply in recent years.
+New types or equipment impose new requirements on power supplies. The increased
+amount of new equipment causes an increase in power consumption. which cannot be
+satisfied in the near future simply by increasing power. It is. therefore, necessary
+to implemnt solutions which are new in principle. The power supply devices which
+are beinq developed at the Central Design Bureau can be divided conditionally into
+two cu'nups: power supply devices intended for use in existing or newly introduced
+power supply systems and devices which can provide the basis for developing or
+introducing power supply systems which have not been used at connunications enter-
+
+WHO-- PFOViOUBIY. The first g_roup includes thyristor rectifiers. which should
+replace the widely used VUK /expansien unknown/ rectifiers. 'l'hyristor rectifiers
+.un designed to he used in block- ~buft'er systems as buffer and charge-buffer
+
+23
+
+l-‘OROFI'ICIALUSEONLY
+FOR OFFICIAL USE ONLY
+
+rectifiers. A significant amount of the copper and steel used in making windings
+is saved in manufacturing the new generation of thyristor type rectifiers. This
+group also includes various AKAB storage battery switching devices, a new modifica-
+tion of_the Wis-3. radio relay link equipment power supplies. URN [expansion
+unknown/ voltage testing devices and 011‘ [expansion unknown/ current indicators.
+The second group of devices includes booster converters, converters for obtaining
+additional voltage values or voltages with reversed polarity and devices for
+guaranteed failsafe supply of stabilized AC voltages. The Scientific-Technical
+Council, discussing the report of the Central Design Bureau. adopted the basic
+directions of the development of power supply devices and reconmended the following:
+that the Central Scientific-Research Institute of Commnications consider the
+possibility of creating a power supply system using booster converters and voltage
+Converters considering the data available at the Central Design Bureau: that the
+Central Design Bureau accelerate and finish by 1982 the development of converters
+and devices [or Eailsafe AC power supply, paying special attention to reducing
+start-up time and reducing the internal resistance of converters; that the possi-
+bility of reducing the internal resistance of thyristor rectifiers be looked into
+and that requirements be defined for the power of the IDES standby automatic diesel
+power plant; that suggestions he prepared for the implementation of possible changes
+
+and updates in the technical task for thyristor rectifiersi and that the problem
+
+of unifying the power supply equipment and systems used in wire and radio cot-noni-
+cations equipment be worked out. it was recoumended that the question of creating
+a purposeful integrated five-year program for the development and creation of new
+power supply equipment for communications be_exagineg and. if necessary, that a
+design hoard be created for this program. [i'exs/ [Moscow BLBKTROSVYAZ' in Russian
+No 8. Aug 81 p 59/ 6900
+
+COPRIGHT: izdatel'stvo "Radio 1 svyaz", Elektrosvyaz" 1981
+
+cso: 5500/1010 END
+
+2h
+
+FOR OFFICIAL USE ONLY

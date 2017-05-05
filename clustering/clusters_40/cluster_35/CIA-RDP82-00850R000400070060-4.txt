@@ -1,0 +1,1146 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10145
+30 November 1981
+
+West Europe Report
+
+SCIENCE AND TECHNOLOGY
+
+(FOUO 15/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books. but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[J are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Hhere no processing indicator is given, the infor-
+nation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+TRANSPORTATION
+
+Mercedes-Benz 'Auto 2000' Project: Status Report
+(ATZ AUNNOBILTBCHNISCHB ZEITSCHRIPT, Sep 81) .....
+
+Phase Tvo of Volkswagen 'Auto 2000' Project Couplete
+(ATZ Auronoaznncnmscnr zalrscnm. 8ep 81)
+
+Briefs
+ATR 42 Conditional Order.
+French Gear for CM 235
+Funding for HDP 100
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+MERCEDES—BENZ 'AU‘I‘O 2000' PROJECT: STATUS mom
+
+Stuttgart an AUTOMOBIL‘I'ECHNISCEE 2311868117! in German Sep 81 pp 395-396,
+399-601
+
+[Text] Within the framework of the "Research Car" project which is being spon-
+sored by the Ministry of Research and Technology (0111‘) Daimler Benz Inc. is
+developing a touring car with various kinds of drive. In this report the most
+important*construction groups are described in terms of the present status of
+the work.
+
+Abstract
+
+Daimler-Benz A6 are developing two research vehicles which will to a certain
+extent be sponsored by the German Federal Department of Research and Technology.
+One of the cars will be driven by a two-shaft gas turbine (Fig. l), the other
+one will be driven by a turbocharged Diesel engine (Fig. 3).
+
+Development activities concerning the body aim at low aerodynamic drag, low
+weight, and high safety standards, especially during front collisions which
+frequently occur in an offset manner (Fig. 5), side collisions, and during
+accidents with pedestrians.
+
+Great attention is paid to the development of electronics. Besides the well-
+known anti-lock braking system. a drive control device will be installed for the
+first time. A radar controlled distance-oonitoring system is shown. The driver
+can choose fuel saving driving progrns. The output of variom calculators,
+i.e., a monitoring computer. a trip computer, a route computer are shown on an
+LCD-monitor (Fig. 9).
+
+When this report was written the Diesel research car (Fig. 10) was just being
+assembled. Though no driving tests could yet be performed Daimler-Ben: are
+sure to fulfill the stringent requirements for fuel consumption, exhaust and
+noise emissions, and the safety required by the specification list.
+
+ 
+
+*The author expresses his thanks to his many colleagues who supported his in
+writing this report.
+
+1
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+1. Introduction
+
+The BMFT is supporting the construction of German research cars with the goal
+of improving, through the application of new technologies, vehicle character-
+istics which are in the public interest. such as energy consumption, environ-
+mental compatibility, safety and economic value.1
+
+In contrast to earlier projects. which had a one-sided emphasis on the realiza—
+tion of the greatest possible passenger safety or a high degree of economy, in
+this instance compromises must be made between the various contradictory demands.
+
+Daimler-Benz Inc. is involved in this project with the development of an automo—
+bile in the upper space and weight class, Fig. 1. The spectrum of use with em—
+phasis on extended trips for business, vacation or pleasure with high degrees
+
+of occupancy, requires good comfort for long trips in respect to space, air
+conditioning, driving and noise. This journal carried a report on the design
+
+of the vehicle in 1980.2 There have been no changes in it since then. except
+for a few details which are to be given special consideration in this report.
+
+ 
+
+Figure 1. View of the Research Car From Daimler—Benz
+
+2. Drive Units
+
+Since the beginning of the project the plan called for utilizing a gas turbine.
+which is being developed at Daimler—Benz, to drive the research car. As an
+alternative to that, two V-8 engines, a gasoline and a diesel engine, were to
+drive the other research cars. As a result of funding cuts by the BHFT, support
+{or dcvalopmental studies on the gasoline engine were given up. The second re-
+search car will be driven by a diesel engine which was altered in respect to the
+
+original planning.
+2.1 Gas Turbine
+
+in order to achieve comparable fuel consumption with gasoline and diesel engines
+the process temperatures of the gas turbine must be as high as possible. with
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the new developments which are supported by the German ceramics program of the
+GMFT. temperatures of 1.600 K appear attainable. They alone make development
+of a vehicle gas turbine feasible.
+
+The Hercedes-Benz research gas turbine was designed along the lines of the two-
+
+sheft type of construction. In Fig. 2, the gas producer with the impeller com-
+pressor and the compressor turbine can be seen at the left (in the direction of
+
+travel. in the front). The gas producer rotor drives the auxiliary equipment.
+which is necessary for the car and the turbine. via the gears underneath.
+
+ 
+
+Figure 2. Schematic Longitudinal Cross-Section of the Mercedes-Benz Two-Shaft
+Gaaturbine
+
+The combustion chamber which in this schematic drawing is tilted into the plane
+of the picture is inclined to the left side of the vehicle by 57°. Its con-
+struction permits premixing and prevaporiration of the fuel which are essential
+
+for low emission of pollutants. Pig. 3.
+
+Primary air
+
+     
+
+\
+
+Dilutin: air
+
+ 
+
+h; 3 Sena-mam cmt-srﬂ-on oi combumon chambet
+
+7-14 lnmllauon assembly of 1M supercharged v.6 Done! engmc "I
+IN Mutton-Bent "search car
+
+3
+IN)! OFIICJAI.[EHE(MVLY
+NR OFFICIAL USE ONLY
+
+To the right in Fig. 2, the load turbine rotor with its turbine wheel and the
+gears are arranged in a common housing part which reduces the maximum rotational
+speed to 6.500 l/min, the customary value for cars. Connected to this is an
+automatic variable speed transmission. In front of the load turbine there is
+an adjustable guide baffle which can be used to slow the car down.
+
+The turbine wheels are made of hot-pressed silicon nitride; the stationary parts
+which are loaded with hot gas were produced in part from ceramics, in part from
+high heat resistant special metal alloys.
+
+The turbine inlet spiral made of silicon carbide is shown in the middle of
+Fig. 2 and is currently being examined on a test stand for components.
+
+The heat exchanger disc of aluminum silicate rotates around a vertical axle. It
+is driven by the gas producer.
+
+The turbine housing which consists of alloyed spheroidal graphite cast iron was
+thermally insulated inside with a ceramic fibrous material.
+
+Proof of the efficiency of ceramic integral turbine wheels represented the most
+important task in an experimental program which has been in progress for several
+years. Ceramic turbine wheels were tested for 100 hours in stationary and non-
+stationary test runs with maximum temperatures of 1.523 K and speeds up to 60,000
+l/min.
+
+The gas producer part was put into operation at the end of last year. The first
+run of a full power unit took place in May 1981. An effective power of 94 k"
+with a combustion chamber outlet temperature of 1.523 K is expected to result.
+Additional data are contained in [2].
+
+2.2 Diesel Engine
+A diesel engine is scheduled as an alternative drive for the research car.
+
+Its design was substantially modified in respect to the initial plans.2 The
+4.4-1 V-8 suction engine was replaced by a supercharged 3.3-1 V-6 engine, also
+having a rated output of 110 k", primarily with a view taward a further lowering
+of fuel consumption, more favorable conditions of installation and lower weight.
+
+The light metal engine block with a 90'V-angle has dry gray cast iron bushings.
+The cylinder heads are also made of light metal. Ceramic port liners are sup-
+posed to reduce the heat of the cooling water and contribute to better utiliza-
+tion of the exhaust gas energy. The valves are controlled by an overhead cam
+shaft per row of cylinders and cup tappets with automatic valve clearance com-
+pensation. The precombustion chamber process is utilized because of its low
+noise level and the smoke behavior. which is satisfactory in all states of ope- ,
+ration, with good fuel consumption. An effort is being made to favorably influ-
+ence particle emission by changing details in the precombustion chamber.
+
+The series injection pump is located between the cylinder heads. It is jointly
+driven with the cam shafts by a double roller chain.
+
+4
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The arrangement of the two exhaust gas-turbo-superchargerswith a 60’ incline
+is new. Fig. 4. They are driven by a multiple switch system in such a way
+that under 2,600 l/min only one rotor operates, above that, both. From this
+arrangement we can anticipate both better torque characteristics with low
+rotational speeds and a better time response.
+
+All auxiliary systems are driven by a polyvinyl belt with an automatic belt
+tenser. The crankshaft belt disc has a two-gear planetary gearing system which
+in the case of low engine speeds makes possible sufficiently high speeds for
+the auxiliary units.
+
+Engine and gears are enclosed to meet the specified noise requirements.
+
+2.3 Driving Programs
+
+In actual driving operation fuel can be saved if the driver voluntarily does
+not use part of the engine output. As an aid in driving three driving programs
+are to be offered for the driver to choose from for this purpose:
+
+Economy--by adjusting the injection pump and gears, output and maximum speed are
+limited.
+
+City--low shift speeds in the automatic transmission keep fuel consumption and
+emissions low.
+
+Fast--makes it possible to utilize full engine power.
+
+The automatic transmission is electronic-hydraulically controlled in such a
+way that in all the driving programs the most consumption-favorable gear is
+chosen as needed.
+
+3 . Body
+
+In addition to high level riding quality for four to five people with sufficient
+luggage, the goal of the development work on the body is low drag, lowering the
+weight, testing new air conditioning equipment and increased safety for passen-
+gers and for people outside the car who are involved in an accident.
+
+3.1 Aerodynamics and Weight
+
+The area of drag surface c . A, which is decisive for air resistance, is to be
+lowered to 0.6 m2 which megns-—compared with the S-class limousines which today
+are already favorsble--a 20-percent improvement. Since in spite of a slight
+lowering of the roof because of the requisite interior space and the essential
+protection against side collisions the front area could be reduced only insig-
+nificantly to 2.09 II2 this requirement means a drag coefficient under 0.3.
+
+Changes in respect to today's vehicles were done primarily in the rear. The
+flow affects the entire length of the "XaII"-like roof. It was possible to
+achieve substantial cp value improvements by enclosing the underfloor, elevating
+
+5
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the spare wheel well along the back edge, and by spoilers in front of the rear
+wheels. Additional decreases in drag resulted from optimizing the front and
+
+grille, by carefully directed cool air ducts and by flush side windows.
+
+Fig. 5 shows the clay model which was built for the wind tunnel experiments;
+it has an original underfloor and an original undercarriage. The very favor-
+
+able measurement results are to be checked with car bodies as soon as these
+are available.
+
+ 
+
+Fm, 5 “‘nd rhamzri model of the Mommies Beer :esearc'n ca:
+
+ 
+
+P1,: 1 (“venom-nu! base we! crash upon stage berm-r
+
+The two-Sheet doors were made of sheet aluminum. Their windows are plastered
+over with the light metal frames except for small communication windows in the
+front doors.
+
+For the front mud guard, bumpers and the soft nose glass-reinforced polyure-
+thane was used, in part with an energy-absorbing foamed plastic support.
+
+By these measures, in spite of the extra weight required elsewhere for safety
+measures, the weight of the body could be lowered by 5 percent as compared with
+the S-class which was used as the basis.
+
+3.2 Heat and Air Conditioning
+
+With the Daimler-Benz research car for the first time an effort is being made
+to utilize the technique of heat pipes, which is familiar from the cooling of
+electronic components, for “cmfort control in the interior. 0n the one hand
+the light and compact heat.1g heat exchanger can transfer engine heat from the
+cooling water to the heating air and, on the other hand, release air heat to
+the coolant of the air conditioning system. Thus, there is no need for a
+separate air conditioning heat exchanger.
+
+Since heat pipes can also be designed as sheetlike heaters, it is obvious to
+use them to heat the interior body surfaces. Such units are also being tested
+in the doors of the researtn car.
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+3.3 Safety
+
+Heasures to inpove passive safety refer primarily to protecting the passengers
+in the event of front and side collisions and to protecting pedestrians.
+
+3.3.1 Front Collisions
+
+Statistics from Dainler-Bens and Peugeot-Renault show that front collisions
+involving AIS 3+—injured passengers (badly or fatally injured) take place 50
+percent of the tine staggered to the left hand side. In contrast to the cen-
+ter collision which occurs in only 29 percent of the cases, the driver is thus
+especially in danger since only the left—hand area of the front, rather than
+the entire front section. is available to absorb the energy of the collision.
+Horcover, the driver is liaited in his deceleration space by the steering
+column and pedals. Also the frequency at which seats are occupied (driver's
+seat: front seat passengerzback seat - 6:2:1) calls for additional protection
+for the driver. In the research car, therefore, the following safety conponents
+are being realised:
+
+—-reinforced front and passenger seat structure ontheleft
+--engine hood which is buffered and stressed on the left
+
+--inproved coupling of the right front structure via fender holders and engine
+hood
+
+--disengaging, by means of aranide corrugated tubing. the steering gear-steering
+wheel connection in the event of a collision.
+
+In Fig. 6 a vehicle is depicted after collision with a staggered barrier.
+The following provisions are being aade for all passengers:
+
+—-inproved active restraining sytan with three seatbelt anchor points on the
+seat, Fig. 7
+
+--passive support of the belt system by an airbag in the steering wheel and
+belt tighteners on all seats
+
+--exchangeable child's seat in the back with a deflecting table, Pig. 8
+
+--integrated head rests on the front seats. head rests in the back seat which
+can be put into position if the seat is occupied.
+
+3.3.2 Side Collisions
+
+In this case there is no significant difference in the frequency of accidents
+between the left and right side of the car. Thus, on the right and left the
+
+following safety measures are being tested:
+
+--clawing of the doors with the longitudinal Ianbers and the bases of the b—
+colunns in case of a collision
+
+7
+FINI¢HNHCJAI.I£§E‘0IHJV
+FOR OFFICIAL USE ONLY
+
+ 
+
+Figure 7. Front seats with integrated Figure 8. Rear seat with exchange-
+head rests and three—point able children’s safety seat and
+belt system automatic head rests
+
+—-increased cross—bracing for the passenger seat
+——large surface hip impact zones
+
+--side windows of impact resistant acrylic glass.
+3.3.3 Pedestrian Protection
+
+The worst injuries to pedestrians come from contact with the vehicle front.
+Thus, among other things, the following injury-ameliorating measures are to be
+tested on the research car:
+
+——soit bumper having the area of contact with the lower leg placed low
+
+--low course of the front contour with soft nose and impact—yielding diffusion
+windows
+
+-—e1astic mud guards and A-column coverings.
+Fig. 9 gives an idea of the rounded front contour.
+
+4. Chassis
+
+The chassis basically corresponds to that of the S-class cars with hydropneu-
+matic springing available on special order. Changes are to save weight. Thus,
+for example, wheel rims of light metal are used. In place of the usual spare
+wheel a light emergency wheel is available.
+
+Parts of the hydropneumatic springing are made of light metal, the front torsion
+bar has a pipe section. The cardan shaft is produced as one piece from carbon-
+
+fiher-reinforced plasric.
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Fig 9 anl are; n! lhc research car
+
+5. Electronics
+
+To a greater degree than to date the use of electronic components to increase
+safety and to process infonmnionfor the driver is to be tested.
+
+5.1 Control of Forward Traction
+
+In addition to the familiar brack slipping control (ABS) 8 control for forward
+traction in this car will control the frictional connection between tire and
+
+road.
+5.2 Distance Warning Device
+
+A radar distance warning device. which has been under development for several
+years.3'“ is to be demonstrated in the research car.
+
+5.3 Multiplexing Cabling
+
+The large number of electrical consumers in the car and the necessary expensive
+and heavy cable trunk demand modern solutions for the electrical equipment.
+
+The research car, therefore, is to be equipped with electronically controlled
+multiplex cabling whose advantages lie in low weight. simple diagnosis capa—
+bility and in the flexibility of the vehicle equipment.
+
+5.4 Driver Information System
+
+A new driver information system in the car is to represent the latest develop—
+ments in the area of electronic information production and reproductionin the
+
+car.
+
+9
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+5.4.1 Control Units
+
+The control units consist of liquid crystal monitors. Information in the form
+of text, numbers or symbols can be displayed. The to date familiar instruments
+are no longer present as "hardware," but are stored as "software" in the compu—
+ter. They appear on the mnitor when the driver wishes, or when the condition
+of a unit is critical. In order not to distract the driver constantly, the
+volume of information is normally restricted to the essentials: driving speed,
+fuel level, time and mileage, Fig. 10. Individual desires for information can
+he met. The instrument computer generates those instruments which can support
+
+the driver in specific situations: speed revolution counter, oil pressure gauge
+or coolant temperature gauge.
+
+ 
+
+h: In Control um! orlhe research cs:
+
+5.4.2 Monitoring Computer
+
+The monitoring computer stores data about machinery condition and the condition
+of components which are important for safety. It reports these values to the
+driver as soon as they exceed a critical threshold. Indications from the moni-
+toring computers can only be canceled by eliminating the cause of the problem.
+
+5 . lo . 3 Maintenance Computer
+
+From the monitoring computer data the need for service is calculated from driv-
+ing distance, fuel consumption, brake lining wear and filter condition.
+
+Variable maintenance intervals are thus possible.
+5.4.4 Trip Computer
+By measuring fuel use and the route the trip computer ascertain; fuel consump-
+
+tion and makes the influence of the driver clear. Other values such as average
+consumption values and range can be derived.
+
+10
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+5.4 . 5 Route Computer
+
+The route computer is an electronic atlas whose data at present cover the PRC
+autobahn system. After input of starting point and destination it develops the
+shortest routing and indicates the successive junctions with directional hints.
+
+The planning of roundabout routes is possible. In today's stage of improvement,
+the route computer is autonomous to the vehicle.
+
+By coupling with existing traffic radio or tracking facilities the automatic
+
+indication of detours is also possible. Experiments with the Institute for
+Radio Technology in Munich are underway.
+
+5.4 .6 Comunication System
+
+A driver comunication system is being developed with which calls using the
+public telephone system can be made, emergency cells can also be made and traf-
+fic information can be received. Along main roads this system works with send-
+ing and receiving devices, which are built in and are permanent, and with
+
+antenna. The goal of this development is to clearly reduce the instrument cost
+for the car owner.
+
+The real probl- in using many computers rests in their maintenance and in the
+organization of the data flow which a central information computer controls.
+
+Dialing and adjusting the computers and the radio. the air conditioning system
+and the conunicstion system is done with a few keys on the middle console and
+
+a keyboard on the steering wheel which controls the devices in a menu technology
+familiar from EDP.
+
+6 . Cooperation
+
+As in the development of any new car countless people are also involved in a
+research car without whose cooperation the developmental goal in this short
+time could not have been achieved. Thanks is expressed here to these people
+without mentioning individual mu.
+
+7. .Status of the work
+
+At the time of writing this report the first of the two planned research cars
+
+is being outfitted. New ideas and technologies are to be tested with them
+which if they prove themselves could help out in the future in overcoming the
+increasing demands on the car. Thus far no measures could be effected on the
+car. Yet it is anticipated that the specifications required in the bid concom-
+ing consumption, emission and safety will be able to be met.
+
+11
+FOR OFFICIAL USE ONLY
+FOR OFTWC1A1.USE(MNLY
+
+FOOTNOTES
+1. J. Bandel, "The Research Car." A12, Vol 82, No 2, 1980, pp 59-62.
+
+2. B. Strackerjen. "Beeic Conditions for Autonobile Construction in the
+
+Future and Their Effect on the Hercedee-Benz Research Car," ATZ, Vol 82,
+No 2, 1980, pp 69-76.
+
+3. S. Reiniger, “Driving Teete in Street Traffic Ueing Radar-Controlled Die-
+tance Herning Devices. Lines of Develop-eat in Vehicle Technology and
+Road Traffic 1980," Cologne, pp 206-213.
+
+4. c. Neininger, "Measurements With PH/CH Radar in the Context of the Tent
+Program for Self-Sufficient Dietance Warning Systems. Lines of Develop-
+ment in Vehicle Technology and Road Traffic 1980," Cologne, pp 214-222.
+
+Author's addreee:
+
+Dr Bernd Strackerjan, Engineer
+Brikaetrase 32, 7000 Stuttgort 60
+
+COPYRIGHT: 1981. Franchkh'eche Verlagehandlung, ﬂ. Keller 6 Co., Stuttgart
+
+12124
+CSO: 3102/25
+
+12
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+PHASE TWO 0? VOLKSWAGEN 'AUTO 2000' PROJECT COMPLETE
+Stuttgart ATZ Autonouuscumscns zsrrscsnm in German Sep 81 pp 407-410
+[Text] Abstract
+
+Vw-Vehicle 2000 is an abbreviation of theproject officially entitled: "Demon-
+stration of Automotive Research Results of Integrated Concepts of Experimental
+Passenger Cars," which is sponsored 50 percent by the German Federal Ministry
+of Research and Technology. This project was started as an exemplary project
+for the German automobile and the supplying industry. Six contractors devel-
+oped the specifications for the cars in phase 1. Phase 2, currently in pro-
+gress is being carried out by four-contractors with the aim of building the
+prototypes to these specifications. The program ends in 1982 with phase 3,
+the prototype testing.
+
+This article describes Vw's contributions to this project emphasizing a vehicle
+in the size middle class of the Volkswagen Golf.
+
+Introduction
+
+Prom Volkswagen's point of view the goal was to offer as balanced a compromise
+as possible between the various anticipated future requirements. 0n the one
+hand, these requirements stem from the future international market situation,
+on the other hand, from the pressures to protect limited resources and the en-
+vironment, to increase safety and social and political demands.
+
+In order to clarify these complex relationships and to develop criteria for
+evaluating technical solutions to the questions of the 1990's, the general con-
+text of the automobile of the 1990's has been described in a broadly based
+scenario. Parallel with that numerous technical design studies were carried
+out, for example. reducing vehicle weight, decreasing air resistance, improv-
+ing the drive. the use of electronics, the use of alternative naterials, and
+
+the like, and were evaluated with the help of the scenario and an extensive
+analysis of economic value. In the process strict attention was paid to the
+fact that it must be possible to realize the technical solutions in mass produc-
+tion in the time frame to be considered.
+
+The design of the research car developed at Volkswagen stands out because of
+its great flexibility which is very important from our point of view since the
+
+13
+FORIOFTWCJA1.US£1NVLY
+FOR(MHWCJAL.USE(NNLY
+
+ 
+
+Table 1. Technical Data of the VW Auto 2000
+
+Dimensions (mm)
+
+Exterior Interior
+
+Length 6,105 Finished space 1,825
+Width 1,670 Elbow width front/hack 1,455/1,626
+Maximum height (empty) 1,353 Headroom front/back 956/923
+Wheel base 2,450 Trunk space (VDA Quader)(1) 320
+Wheel track front/back 1,410/1,358 Seating ares (m2) 2.66
+Road clearance (empty) 150 Clear door opening width 1,167
+Turn radius (m) 10.5 Clear door opening height 902
+Drag coefficient 0.26 Height empty (kg) 780
+Cross-sectional area (m2) 1.86 Load (kg) 400
+Operating range (km) - 1.400(diese1) Rim size (inches) 13
+based on £08 cycle - 800 (gasoline) Tire size 155/70
+
+ 
+
+Drive
+
+Nominal rating (hp/kw)
+Displacement (1)
+
+Rated speed (1/min)
+Torque (Nm) .
+Speed at ”max (1/min)
+Supercharging
+Ignition
+
+Number of cylinders
+Compression
+Mixture formation
+
+Engine construction
+
+Transmission
+
+Light construction
+in vehicle enclosure
+
+Diesel Engine Gasoline Engine
+
+65/33 75/55
+1.2 1.05
+4,000 5,800
+98 106
+2,500 4,000
+0.6 0.5
+
+-- Identifying fiel
+
+controlled HTZ
+
+[high output transistor
+
+ignition system]
+3 R a R
+20 8.3
+
+Injection Injection
+
+Light constructior
+in vehicle enclosur
+
+Gear shift 6+! Automatic
+
+16
+
+P0! OFFICIAL USE ONLY
+FOR OFFICIAL USP. ONLY
+
+development of the energy situation issssociated with too many uncertainties.
+The suggested design provides for the car of :Le 1990's to have the basic con—
+ditions for less consumption because of less drag and less vehicle weight, yet,
+on the other hand. through appropriate motorization to permit reaction to an
+intensified energy situation by means of extremely economical motorization and
+a very efficient version.
+
+Design Description
+
+This research car from Volkswagen is designed as a two-door fastback car. As
+
+a four-seater it will permit over 600 kg additional load. The luggage compart-
+ment in the rear can accommodate a large number of transport tasks by means of
+various combinations with the back seats. The overall design provides for two
+differently outfitted variants, the normal version widia diesel engine as an
+extremely economical vehicle with today's road performance and a luxury version
+with a gasoline engine. The average useful life will exceed 10 years and will
+be equal to a road life of at least 140,000 km. Table 1 gives a short descrip-
+tion of the car using technical data.
+
+What special features distinguish this car? For the first time a new strategy
+was tested in shaping the body. Thus, the primary consideration was the require
+ment of a minimal drag coefficient. 0n the basis of the first form studies in
+the wind tunnel, which recorded extreme proportions for the car body, our design
+center, with consideration ofthe typical VW conception, developed a form which
+we consider to be a successful synthesis of aerodynamics, technology and form
+aesthetics. This was accomplished by constant interaction on the part of aero-
+dynamic engineers, stylists and designers, Figures 1 through A.
+
+ 
+
+Fig. l. Distinct side view of the VW-Auto 2000 Fig. 2. Front view of
+with extremely low c -value(0.26), with both, the VH-Vehicle 2000
+33kw (62 HP), l.2-li re-Diesel engine and SSRH with twin headlamps
+
+(75 HP), 1.05-litrc gasoline engine with front-
+wheel drive
+
+15
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Fig. 3 and 4. Other views of the VW-Auto 2000, with Kamm—rear end made of
+plastic material and clear styling all—around
+
+The demands of aerodynamics resulted in a number of new design principles,
+
+for example, windows which close with the exterior covering, smooth under-
+floor, the shape of the wheel discs. Even the cooling air duct for the entire
+area was chosen in such a way that flow-through losses could be minimized. The
+air enters in the front of the car in the lower baggage area and exits in the
+front part of the engine hood. This in turn required completely new ducting
+for interior ventilation. Fresh air enters in the area of the front mud guards
+and exits in the rear roof columns.
+
+Body Development and Design
+
+Today's mass-produced bodies consist of a large number of shaped sheet metal
+parts which are welded together. In each case, an essential component of this
+shell is the support system or the structural design which serves to receive
+
+and transmit the forces which affect the car. This structural design takes on
+special importance in respect to vehicle safety, that is, in respect to deforma—
+tion in the event the car collides with an obstacle. The production and process-
+ing of these many parts requires a costly manufacturing operation.
+
+In order to reduce this cost, to optimize the use of the material, to improve
+corrision protection even more and to further humanize working conditions dur—
+ing production, a radically altered body design was developed. In this, the
+
+16
+FOR OFFICIAL USE ONLY
+FOR40FFKJAL.USEIONLN
+
+unfinished body is manufactured of sheet steel parts, which are by and large
+not interconnected, and the mounted parts are produced to an increasing degree
+of plastic. The shell consists of only three construction groups which can be
+fully automatically produced: floor group, side parts and the cross-connections
+with the roof in the roof area.
+
+The following mounted parts are also made of plastic: forward part of the
+front, rear section, rear door. back part of the mud guard in front with the
+wheel house and integrated wheel bead and the lower side part in the back which
+likewise is supplied with wheel house shell and integrated wheel bead. These
+parts are put together in the final asselbly phase.
+
+This body design can be characterized as a hybrid method of construction because
+essential components are manufactured from other materials and bolted together.
+0! course. this method of construction has become possible only in connection
+with a very refined support system design which permits identical kinds of
+rigidity of the body with torsion and bending.
+
+Car Interior
+
+The functional area, the dashboard with the instrument panel, the ﬂmmediately
+visible digital controls, even the inner assembly which is not visible, embody
+a new design. In this assembly all the components which normally have to be
+mounted individually in the front interior space are integrated.
+
+As the base for this assembly, the backbone so to speak, there is a flexurally
+rigid support which during final assembly is mounted with the complete dash-
+board between the hinge columns.
+
+The numerous individual elements which are integrated in this assembly are the
+following: knee cushion with tray, adjustable steering column with support,
+accelerator, electronically controlled heating and ventilation system, glove
+compartment and glasses case, ash tray with cigar lighter, movable interior
+lights, car door electric contact switch, stereo system with cassette deck
+and full electronic controls, the front stereo high-output speaker and, so to
+speak, as the electronic heart, the central digital controls in the attach-
+ment on the steering column which moves along with the height adjustment.
+Thus, these controls are not obscured by the steering wheel rim.
+
+As a subsystem, this attachment to the steering column contains the central
+electric units, the fuses, an audio response unit and the central controls al-
+ready mentioned. This is done in liquid crystal technology and divided into rou
+roughly three equal fields: the fields to the right and left serve to indicate
+operation and trip information while the middle display is used for ALI, the
+driver's guidance and information system. The indicators for car speed and
+engine speed in the left and right hand sections are very distinct in digital
+numbers. Above these large numbers there is, as the case may be, a row of dis-
+plays for warning indicators. for example. for legally prescribed controls
+(turn indicators, bright lights). Other control functions are indicated only
+via a general warning display, however, at the same time they are specially
+described by the synthetic audio response unit.
+
+17
+FOI.0F1WC1AI.USE|DNLX
+FOR OFFICIAL USE ONLY
+
+As a numerical display, the lower side displays serve multifunctional tasks
+and can show variouskinds of information upon request from the driver via
+keys, for example, fuel level. route, average speed, time. date, and so on.
+In the design of this central control unit special attention was paid to keep
+from transporting the driver into the world of an airplane cockpit and feel-
+
+ing overtaxed. This becomes clearer if the three-way division of information
+is considered:
+
+--Necessary information which is constantly indicated as for example, speed.
+
+--Warning functions which call attention optically and/or acoustically only if
+something happens.
+
+--0n-demand information which is displayed at the driver's request.
+
+New directions were taken with the front seats, too. The external shape dif-
+fers from the familiar series-produced seats. Except for a few individual
+parts these seats are made completely of plastic and are to be manufactured on
+a mass-production scale as injection-molded parts. The upholstered cushions
+rest in a shell into which they are clipped. Thus, they can easily be cleaned
+or exchanged. After detailed computer computations it was possible with this
+plastic seat, to present the mass-produced VW design of the safety belt ele-
+ment integrated into the seat in such a way that all the safety experts' de-
+mands for strength are met.
+
+Like the front seats the back seats also have integrated head supports. The
+trunk can be altered for numerous transport tasks by lowering the seat back or
+parts of the back and the seat proper.
+
+The side parts have been designed by the stylists in a way that is visually
+pleasing and functional. They make a very substantial contribution to the
+overall luxury impression of the interior.
+
+Chassis Design
+
+The chassis of the front drive Auto 2000 was designed following the high stan-
+dards which apply to VH-Audi products. Several individual units are worth spe-
+ciai mention. The rear axle was made of glass—fiber-reinforced plastic. This
+extreme use of plastic demonstrates the limits of this alternative material in
+reference to costs and weight savings. In addition to a number of improvements
+in details, the installed automatic antilock device (ABV) is particularly im-
+portant. This was to be an attempt to maintain the steerability of a car while
+braking using a three-channel system. The results achieved suggest the possi-
+bility of a solution, at the cost of a high grade car radio.
+
+With the car wheels of plastic, tires especially low in friction were used.
+Overall, optimizing of materials was achieved in body work and chassis by using
+
+CAD/FEM (computer aided design/finite element method). In addition to optimal
+design, production costs and recycling were solved as special tasks.
+
+18
+FOR 0FF"JAI.US£|DNLY
+FOR OFFICIAL USE ONLY
+
+Drive Designs
+Diesel Engine
+
+The particularly economical design solution is represented by a water-cooled
+three-cylinder direct injection diesel engine. This research design has ah
+electronically controlled injection pump and an exhaust gas supercharger. The
+crankcase. which is made of molded aluminum alloy, has cylinders with a likasil
+coating. This light construction helps reduce weight.
+
+The amount injected and the beginning of injection are controlled by an elec-
+tronic system in the injection pump by interrogating the stored identifying
+field. For this microprocessor technology is put to use. In contrast to the
+traditional practices the turbosupercharger in this engine serves to produce a
+good torque at low speeds.
+
+This three-cylinder engine is designed in such a way that now special measures
+to balance the mass became necessary, as for example. a differential shaft. The
+characteristic vibrational behavior is accommodated in a motor mount that is
+coordinated with it.
+
+Gas Engine
+
+The somewhat larger-scale motorisation, which was mentioned at the outset, is
+presented as the so-called lumury version with a water—cooled four—cylinder
+light metal gasoline engine in series construction with 55 kw.
+
+In order to achieve the driving performance required in the specifications of
+phase 1, as a suction engine a displacement of ca. 1.6 liters would be required.
+This design concept, nevertheless, was realized as a supercharged 1.05-1 engine.
+Compared with the suction engine with larger displacement there are comparable
+kinds of elasticity, acceleration and speed reserves, yet this engine in normal
+city operation achieves lower fuel consumption as a result of the smaller
+displacement.
+
+For supercharging. exhaust gas superchargers or compressors driven by the
+crankshaft must, of course. he considered. On account of the more favorable
+toruqe curve when using a compressor, which produces better elasticity at low
+engine speeds. a Roots compressor driven by the crankshaft was used. A belt
+drive takes care of exact adaptation of the compressor to the air requirements
+of the engine; its speed ratio is automatically changed as a function of the
+engine speed; thus, the compressor runs faster at lower engine speeds and in
+this way takes care of a constant boost pressure. When running with a partial
+load the compressor can be separated fruathedrive via an electromagnetic
+coupling. Then the engine runs on suction engine operation in a consumption-
+optimal way. Only if need be, for example. when accelerating. is the compres-
+sor switched in. With the compressor switched in the boost pressure is adjusted
+depending on the position of the accelerator.
+
+Because of the relatively high specific loading, compressor engines tend to
+knock. In order to guarantee optimal engine operation, provisions must be
+made in respect to the ignition period in order to avoid knocking combustion.
+
+19
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+With the "adaptive" knock-limit control which was developed by V“ research the
+ignition angle identifying field which is stored in the control computer--a
+high output-transistor-ignition system controlled by the identifying field is
+used--is individually adjusted lnaccordance with the knock-limit of the engine.
+This adaptation is effective over a long term and reacts only to significant
+changes in the operating condition of the engine (new start, oil temperature,
+and the like).
+
+when idling the engine speed is kept constant with digital idle stabilization.
+This measure is necessary since to minimize consumption and pollution the
+engine operates at idle with a low speed (750 l/min).
+
+To set the mixture, gasoline injection is used; each cylinder is supplied with
+fuel through a separate injection nozzle. The proportioning is accomplished
+
+by an electronic control device which specifies the necessary injection amount
+for every operating point according to the engine speed and air flow. The prepa
+ration of the air-fuel mixture is guaranteed by means of electromagnetic injec-
+tion valves.
+
+Gear Technology
+
+With the diesel engine the gears are an integrated component of an engine-gear
+control system which in our company is taken to be an automatic momentum utilise
+tion unit. In this system the engine flywheel is separated from the crankshaft
+by an automatically activated additional coupling. This separation always takes
+place if the engine does not have to exert any forward motion, that is, thrust
+phases while moving and when the car is standing still (for example at a red
+light). At the same time the starting coupling also opens by itself so that
+
+the flywheel continues to run freely with a high speed while the engine stops
+immediately if the fuel supply is shut off. As soon as the driver steps on
+
+the gas again, the engine is immediately cranked by the starting clutch. Only
+carefully coordinated electronic controls provide satisfactory interaction of
+this function cycle.
+
+For the gasoline engine a special three-gear automatic transmission will be
+used.
+
+Consumption
+
+With a definite decrease in the c value to 0.26, a consumption-favorable die-
+sel motorization by means of a augercharged three-cylinder engine, a refined
+engine-gear control system in the form of an automatic momentum utilisation
+unit. and in combination with weight-reducing components and tires which are
+low in running resistance. it was possible to achieve low consumptions accord-
+ing to DIN 70030.
+
+ECE City: 4.2 1/100 km
+90 km/h constant: 3.3 1/100 km
+120 kn/h constant: 4.9 1/100 km
+
+20
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Even gasoline motorizing with automatic transmission will surely achieve its
+specifications with a consumption of 7.5 1/100 km (50 percent city, 1.5 percent
+at 90 and 120 km/h). However, it presunably camot be installed and tested in
+the W research car until the end of 1981.
+
+Design Example: Safety
+
+From what has been described so far it can be seen that with a masher of tech-
+nical developments special designs were followed by W research in this project,
+as for example, with the aerodynamic design, the drive train, engine control
+system or the suggested assembly design. This eat-oration can be expanded by
+the energy design. the environmental, material and customer designs, which,
+however, cannot all be adequately described in this publication. This will be
+done in later articles.
+
+Nonetheless, because of the special importance something will be briefly stated
+about the concept of safety. It is obvious that the present level of technology
+in automobile development. designed to meet U.S. requirements, was taken into
+consideration. In this, an essential component of the structure is a general
+concept which, vis-a-vis our series designs, was further modified and in re-
+spect to front, rear and side collisions, represents a high safety standard.
+Especially for pedestrian safety several measures were implemented in the area
+of the front of the car for the purpose of softening accidents, as for example.
+a lowered bumper. In addition to these measures, which serve so-called passive
+safety, mention must be made here of a system which serves to improve active
+safety: the "automatic antilock device" (ABV) as was previously described in
+the section on chassis design.
+
+Summary
+
+with a number of partial designs, a car in the middle class was presented which,
+as an integral overall concept in the view of W research, represents future
+trends in car development. with the priorities of low energy consuption, high
+safety standards, low outside noise, technically and economically justifiable
+exhaust gas emission, just to mention a few, it was shown which technologies
+will find increased use in the future in car building.
+
+In addition to the committed involvement of our own staff members, the coope-
+ration of numerous companies which are involved in this project should also be
+mentioned. All participants are hereby thanked for their help.
+
+Author's address:
+Dr Ulrich Seiffert, Engineer
+Jahnskamp 22, 3300 Braunschweig
+
+COPYRIGHT: 1981, Franckh'sche Verlagshandlung, 9. Keller & Co., Stuttgart
+
+12124
+cso: 3102/26
+
+21
+FOR OFl-‘IClAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+Association], Wright Airlines. a regional Anerican company based at the Burke Lake-
+front Airport of Cleveland (Ohio), announced it had placed a conditional order and
+
+beginning of 1986 at a purchase price of 85 lillion (1980 value) each. Hr Gilbert
+Singernan, president of the company. stated that these planes will replace the
+Convair 600's that "right Airlines uses on its network linking Cleveland with the
+large cities in the region. The ATR 62 conpeted for this order against the SAAB-
+Fairchild 360, the CAC 100. the Dash 7 and Dash 8, and the P 28. Hr Singer-an
+added that the confirmation of the order would be communicated to the builders as
+
+this plane--an interest backed by letters of intent and cash binders. It appears
+that commitments under these conditions have already been made by sons 10 airlines,
+including "right, for 40-50 planes. The decision by AEROSPAIIALE and AERItALIA
+
+to definitely launch the ATR 62 program is expected to be made known by them by the
+end of next nonth. [Text] [Paris AIR 6 COSMOS in French 19 Sep 81 p 9]
+[COPYRIGHT: A. 6 C. 1980) 9399
+
+FRENCH GEAR FOR C" 235--The CASA [Aeronautical Construction. lnc.-Spsin] and Nurtanio
+companies which have formed a joint coepany to develop and produce the future CN 235
+connuter biturbojet, have selected. through their joint subsidiary AIRTEC [expansion
+unknown]. a landing gear designed by Messier-Hispano-Bugatti. The French firm is
+developing for this progran a specific landing gear characterized by: simplicity of
+design: mono-wheel forward landing gear. and nain landing gear with tanden wheels.
+each equipped with lever suspensions suited for energency-strip landings; easy
+maintenance; suitability for use under extra-e hot or cold clinatic conditions; and
+extended operational life. It is recalled that the first CN 235 deliveries are
+scheduled for 198‘. Kore than 70 orders have been received to date. [Text] [Paris
+
+22
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+FUNDING I-‘OR MD? 100nm Nether lands government has announced that it is prepared
+to furnish 1.7 billion florins toward the funding of the Fokker and McDonnell
+Douglas MD? 100 project. This sum more than doubles the amount of aid initially
+planned (800 million florins). Mr Gijs van Aardenne. the outgoing minister of
+economic affairs of the Netherlands, submitted a statement in this regard. prior
+to his leaving office, to the Parliamentary Permanent Cormittee on Economic
+Affairs. in which he indicated that this governmental aid consists of credits in
+the amount of 800 million flor ins and reimmreable loans in the amount of 900 mil-
+lion florins backed by state guarantees. The funds will be made available to
+Fokker beginning the end of this year. As of now, however. 53 million florins
+have been furnished to Fokker for related design studies. Mr van Aardenne re-
+vealed that a division of effort had been made between Pokker and McDonnell
+Douglas, the Dutch builder having been designated prime contractor for the design
+and the supply of components for the ND? 100. while McDonnell Douglas is prime
+contractor for the marketing operation. For the moment, the plan calls for a
+single source of primary components but two assembly plants--one in the United
+States and one in Europe. The two builders expect to receive a reply by the end
+of this ear to the offer of cooperation they have extended to Japanese builders.
+[Text] EParis AIR a cosmos in French 19 Sep 91 p a] [COPYRIGHT2 A. a c. 1930]
+9199
+
+cso: 3102/13 8ND
+
+23
+FOR OFFICIAL USE ONLY

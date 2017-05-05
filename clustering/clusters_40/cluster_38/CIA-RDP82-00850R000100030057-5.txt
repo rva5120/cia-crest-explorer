@@ -1,0 +1,2875 @@
+APPROVED FOR RELEASE: 2007/02/00: ClA-RDP82-00880R000100030057—5
+FOR OFFICIAL USE ONLY
+
+JPRS L/8354
+
+27 March 1979
+
+USSR AND EASTERN EUROPE SCIENTIFIC ABSTRACTS
+ENGINEERING AND EQUIPMENT
+(FOUO 1/79)
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted. with the original phrasing and
+other characteristics retained.
+
+Headlines. editorial reports. and material enclosed in brackets
+l] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item. or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given. the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by s ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplzed asappropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGHT [ANS AND REGULATIONS GWERNINC OHNERSIIIP 0F
+MATERLALS REPRODUCED “EREIX REQUIRE THAT DISSEMINATIOS
+OF THIS PUBLICATION 8E RESTRICTED FOR OFFICIAL USE ONLY.
+""2": 0A?‘ ”0.
+3.2%? M spas L/9354
+
+ussn AND mean EUROPE scummc ABSTRACTS - mxmnzm
+AND murmur (rouo 1/79)
+
+- all“ agaaluma 0a aad
+
+Joint Publicationa Rauarch Service
+
+1000 North Globe Road
+Arlington. Virginia 22201
+
+la. Spatula, (Ma-hath. Nan. a“ Man»
+
+ 
+
+The report contains “attach and new item on aeronautical, urina, mechanical,
+automotive, civil and industrial engineering, ralatad raaaarch and davalopuont,
+and ansineariog utoriala and aquipoant.
+FOR OFFICIAL USE ONLY
+
+JPRS L/8354
+27 March 1979
+
+USSR AND EASTERN EUROPE SCIENTIFIC ABSTRACTS
+
+ENGINEERING AND EQUIPMENT
+(F000 1/79)
+
+This serial publication contains abstracts of articles and news ite-s fro-
+USSR and Eastern Europe scientific and technical journals on the specific
+subjects reflected in the table of contents.
+
+Photoreproductions of foreign-language sources lay be obtained from the
+Fhotoduplicetion Service, Librar) of Congress. Hishinston, D. c. 20560.
+Requests should provide adequate identification both so to the source and
+the individual artic1e(s) desired.
+
+Cameras PAGE
+
+ENGINEnRING
+
+Fluid Hechanics..................................................... 1
+High-Energy Devices, Optics and Photography......................... 18
+Industrial Technology............................................... 21
+Hechsnics of Solids................................................. 22
+Hetrology........................................................... 27
+Navigation and Guidance Systems..................................... 29
+Non-Nuclear Energy.................................................. 42
+Nuclear Energy...................................................... 67
+Turbine and insine Design........................................... 49
+EQUIPMENT
+Industrial.......................................................... 56
+"ensuring. Testing.................................................. 55
+Non-Nuclear Energy.................................................. 65
+
+Turbine and Engine Design........................................... 66
+FOR OFFICIAL USE ONLY
+
+ENGINEERING
+Fluid Mechanics
+
+USSR UDC 536.242
+
+TRANSIENT NEAT TRANSFER PRON A CUTOUT IN A PLANE-PARALIEL PLATE TO A HATER
+STREAH
+
+Moscow VYSOKOTENPERATURNYYE OKNLAZNDAXENYYE GAXOVYYE TURBINY DVIGATELEY
+LETATBL'NYKH APPARATOV [Cooled High-Temperature Gas Turbines for Aircraft
+Engines] in Russian. No 2, 1977 pp 27-36
+
+[tron REFBRAIIVNYY ZHURNAL 36. AVIATSIONNYYE I RAKBTNYYE DIVIGATBLI. No 9,
+Sep 78 Abstract No 9.3b.66)
+
+PANTELEYEV, A.A. and TRUSNIN. V.A.
+
+[Text] Results of an experimental study are presented pertaining to
+transient heat transfer during flow of a water stream through a cutout in
+a plate. The test data have been processed on the basis of a nuaericel
+solution to the reverse heat-conduction problem (correctly formulated)
+
+and by implementation of an implicit finite-difference algorithm on a digital
+computer. For better eccuracy of this data processing. the input data
+were smoothed by means of a spline approximation of the teepereture
+readings with smooth functions. Experiments have demonstrated that numeri-
+cal processing of test data can produce successful results in a study
+
+of transient heat transfer at the turbine blades of gas turbine engines.
+Figures 6; references lb.
+
+USSR UDC 621.b38-226.1
+
+EFFECT OF A CIRCUNPERENTIALLY NONUNIPOKH GAS TEMPERATURE ON THE LOSSES
+IN TURBINE ARRAYS
+
+Moscow BYSOKOTEHPERATUNNYYE OKHLAZNDAYEHYYB GAZOVYYE TURBINY DVIGATELEY
+LETATEL'NYKH APPARATOV [Cooled High-Temperature Gas Turbines for Aircraft
+Engines] in Russian, No 2. 1977 pp 73-79
+
+[Prom REPERATIVNYY ZNURNAL 36. AVIATSIONNYYE I RAKETNYYE DVIGATELI, No 9.
+Sep 78 Abstract No 9.36.63]
+
+GRIGOR, E.P. and STEN'KIN, YE.D.
+
+[Text] Analytical relations are derived for the additional losses due to
+inefficient streamlining of turbine blades. as a consequence of a circum-
+ferentially nonuniform temperature field. These relations for the additional
+
+losses are useful for more precisely designing a turbine and profiling the
+blade arrays. Figures 3; references 6.
+
+FOR OFFICIlL USE ONLY
+FOR OWICIAL USE ONLY
+
+USSR UDC 621 .4383536 . 2’.
+
+STUDY OF TUB “BAT TRANSFER IN POORLY UNTILATBD ROTATING AWULAR CAVITIBS
+01’ GAS TURBINE RUNNERS
+
+Moscow WSWERATURNYYB WNW! (mom 113331)" DVIGA‘I'BLB‘!
+LBTATBL'NYKR APPARATOV [Cooled High-Temperature Gas Turbines for Aircraft
+Engines] in Ruseien, No 2. 1977 pp 55-58
+
+[Pros RBFBRATIVNYY ZHURNAL 36. AVIATSIONNYYB I W3 DVIGAI'BLI, No 9.
+Sep 78 Abstract No 9.3b.bl]
+
+BODUNOV. H.N. end SALOV, NJ.
+
+[Text] Experimental data are presented perteining to the neon heat transfer
+coefficient at the outside cylindricel surfece of a rotating annular cavity
+
+with circulation of the heat carrier. Hater was used as the heat carrier
+
+in this study. The heat transfer coefficient was deter-ined by the calori-
+
+eetric sethod. The results have been subsequently generelieed in accordance
+with scaling theory. Figures 2; references 6.
+
+‘L
+
+USSR UDC 621.1038-253
+
+STUDY OF THE "EAT TRANSFER FROM A (AS TO 1'!!! F011. SURFACE 01’ A TURBINE BLADE
+HIT}! INSPIRATION COOLING
+
+ﬂoecov WSOKOMBEATURNYYB (”GLAZEDAYMYB GAZOVYY! TURDINY DVIGATBLEY
+LBTATEL'NYRH APPARATOV [Cooled High-Telperature Gee Turbines for Aircraft
+Engines] in Russian, No 2. 1977 pp 66-69
+
+[Fran REFBRAI‘IVNYY ZHURNAL 36. AVIAI’SIWNYYB I ma DVIOATBLI. No 9.
+Sep 78 Abstract No 9.36.b0]
+
+DEZIDER'YEV, 8.6.. ZAHALYUTDINOV. HM. and KARIMVA. A.6.
+
+[Text] A procedure is outlined for experinentally deternining the correction
+factors by which reedinge of the lean-sees flow rate of e collant lust be
+nultiplicd to yield the local flow retes. As'en exanple, such a correction
+factor as e function of the pressure on the inlet side of a per-cable well
+
+in given for one point on the blade profile. Figures 3: references 3.
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR UDC 533.27:621.438
+COOLING OP GAS-AIR STREAMS BY INJECTION OF A LIQUID
+
+Moscow VYSOXOTBHPERATURNYYB OKHLAZIDAYEHYYB GAZOVYYB TURBINY DVIGATBLEY
+LBTATEL'NTKE APPARATOV [Cooled nigh-Temperature Gas Turbines for Aircraft
+Engines] in Russian. No 2, 1977 pp 67-73
+
+[Fran REFEIATIVNYY ZNURNAL 34. AVIATSIONNYYE I RAKETYNYYB DVIGATBLI. No 9.
+Sep 78 Abstract No 9.36.39]
+
+LINANSKIY. A.S.. SAL'NIKDV, 6.". and SNARAPOV, L.YB.
+
+[Text] A sethod has been developed for analyzing the various factors uhich
+affect the process of liquid evaporation in a gas strean. This nethod is
+based on the one-dimensional theory of two-phase flow. An steeple is shown
+to illustrate the calculation of the process parameters in the exit channel
+of a gas turbine plant with injection of a liquid for cooling purposes.
+Figures 3; references 7.
+
+USSR "DC 532.525:551.32(-19A)
+FLOR SEPARATION IN OVBRBXPANDED SUPERSONIC NOZZLBS NITH AN EXTERNAL "IND
+Moscow VOPROSY TIORII I RASCHBTA RABOCNIIN PROTSBSSOV TBPLOVYKH DVIGAIBLBY
+
+[Problesa in Theory and Design of working Processes for Best Engines] in
+Russian. No l. 1977 pp 120-125
+
+[Pron RBFBRATIVNYY ZNURNAL 34. AVIATSIONNYYE I RAKETNYYB DVIGAIBLI. No 9,
+Sep 78 Abstract No 9.36.129]
+
+PANCNENKO. V.I.. TOLSTUKNIN. G.N.. VINOGRADOV, 3.8. and ANDRONOV, YU.N.
+
+[Text] It hes been experi-entally desonstrated that the angle through which
+an oblique density jump deflects a supersonic stress can be nede 25' or still
+larger. The length of the separation zone does not exceed two thicknesses
+of the boundary layer. Such a deflection can occur uhen the outer boundary
+of the supersonic eainstrean is forned and governed by another external
+strean such as a wind. Figures 5; references 2.
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR UDC 532.525;551.32(-196)
+FLOR SEPARATION IN OVBRBXPANDBD SUPERSONIC DIOZZLBS WITH AN EXTERNAL "IND
+
+Moscow VOPROSY TBORII I WA RABOCUIKH PROTSBSSOV rmmrml DVIGATBLBY
+
+[Problems in Theory and Design of working Processes for ﬂeet Engines] in
+Russien, No 1, 1977 pp 120-125
+
+[Tron REPBIATIVNYY ZHURNAL 3b. AVIAISIOUNYYS I RAKBTNYYB DVIGATBLI, No 9.
+Sep 78 Abstract No 9.36.129]
+
+PANCHENKO. V.I.. TOLSTUKHIN. G.N.. WV, 3.8. and ANDIONOV. YUJI.
+
+[Text] It has been experieentelly desonstrsted that the angle through which
+an oblique density jump deflects a supersonic strea- can be nude 25’ or
+still lsrger. The length of the sepsrstion zone does not exceed two thick-
+nesses of the boundary layer. Such a deflection can occur when the outer
+boundary of the supersonic neinstresn is formed end governed by another
+external stress such as e wind. Figures 5; references 2.
+
+USSR UDC 532.517:681.121.862
+
+INFLUENCE THAT THE VELOCITY PROFILE OF THE OUCOHING PLOW HAS ON THE CD-
+EFPICIBNT 0P DISCRARGE OP CONSTRICTING DBVICES
+
+*TRUDY HBTROLOGICHESKIKH IRSTITUTOV SSSR. VSBSOYUZNYY NAUCHNO-ISSLZDOVATEL'-
+SKIY INSTITUT PIZIKOTEKHNICHBSKUOI I RADIOTExBNICEBSKIKH IZHBRENIY [Pro-
+ceedings of Hetrologicel Institutes of the USSR. All-Union Scientific
+Resesrch Institure of Physicotechnical end deiotechnicel Heesureuents]
+
+in Russian lo 132/242, 1978 pp 76-78
+
+[From RBPBRATIVNYY ZHURNAL, HBTIOLOGIYA I IZHIRITBL'UAYA TEKHNIKA, No 9.
+1978, Abstract No 9.32.756]
+
+GARSUIN. P. A., SHIRNOV. 3. Y3. and TUPICHENKOV. A.A.
+
+[Text] A universel equation is suggested. releting the velocity profile
+of the oncoeing flow to the coefficient of discherge of constricting de-
+vices. Graphs ere presented of the function ab- f(K,) for diaphragns and
+normal nozzles with enguler pressure extraction. An experimental check
+of this equation shove it is quite suiteble for practical calculations.
+Figure 1, Thble 1. References 7.
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR UDC 532.593
+SOME RESULTS 0? ANALYSIS OF SENT-PERIOD INTERNAL WAVES
+
+masxm; GIDROPIZICIIBSKIY! ISSLEDOVANIYA [Marine Hydrophyaical Research]
+in Russian No 6, 1977 pp 250-261
+
+[Prom RBFBRATIVNYY ZHURNAL. HEKHANIRA No 7. 1978 Abstract No 7339 (r‘eune'n
+BUKA‘I‘OV. A. YB.. rmnonov. A.N., SKIRNOV, c.v. and CNBRKBSOV, LJI.
+
+[Text] Based on the ssterisls of observations in different regions of the
+world's oceans, a theoretical analysis is made of a possible eechanisl of
+generation of short-period internal waves. References 17.
+
+USSR UDC 532.593
+
+CONCERNING SOME PARTICULARS OF TN! SPECTRA 01’ SHORT-PERIOD INTERNAL HAVBS
+AND TUB VERTICAL FINE STRUCTURE OF THE OCEAN
+
+mnsxma GIDROPIZICRBSKIYE ISSLBDOVANIYA [Marine Geophysical Research] in
+Russian No 6. 1977 pp 117-131
+
+[Prom REFERATIVNYY ZNURNAL. NERHANIRA No 7. 1978 Abstract No 78/00 (re'eule‘H
+PANI'BLEYEV, N. A.
+
+[Text] 0n the basis of experinental date, an investigation is ads of the
+spectra of short-period internal waves and vertical fine structure. These
+spectra were taken by autonomous uaeuring equipeent and a falling probe.
+The leasurenent results enable evaluation of the quantitative relation
+between the space and time scales of notions associated with internal waves
+and small-scale turbulence. Sone peculiarities in the spectra of internal
+waves in the region of the local Brent-Uiajsial frequency are explained by
+existing theoretical nodels. References 20.
+
+5
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL US! ONLY
+
+USSR UDC 532. 516
+
+INFLUENCE THAT RADIAL ELM-IN HAS 0!! THE DRAG OF A SPHERE IN A m AT W
+REYNOLDS NUMBERS
+
+Dnepropetrovsk PRIKLADNYYE VOPROSY TBPLOHASSOOWA [Applied Problems of
+heat and Mass Exchange] in Russian 1977 pp 51-54
+
+[Prom RBHRATIVNYY ZHURNAL, mum No 7. 1978 Abstract No 7362 by the
+authors]
+
+LYCHAGIN. N. N. and KHARH‘ONOV. A. A.
+
+[Text] An examination is made of the problem of incompressible viscous
+fluid flov around a permeable sphere at low Reynoles numbers. The velocity
+distribution of the injected fluid is given in such a way that the maximum
+value of injection velocity is reached on the upstream side of the sphere.
+It is assumed that the maxi-.5. blow-in velocity is of the same order as the
+velocity of the oncoming flow, and that the physical properties of the
+injected fluid and the oncoming flov are the same. The problem was solved
+by the method of splicing asymptotic solutions. The distribution of veloci-
+ties and pressure is-found in the vicinity of the sphere in the second
+approximation. It is shown that nonuniformity of radial blow-in increases
+the drag of the sphere. Iigures S.
+
+USSR UDC 532.516
+VISCOUS FLUID FLO" AROUND AN ELLIPTICAL CYLINDER
+
+Hoscov ZRURNAL WCﬂISLIm'NOY HATEHATIKI I HATEHATICHBSKOY PIZIKI in
+Russian Vol 18, No 2. 1978 pp “5-657
+
+[Prom RZFBRATIVNYY ZHURRAL, mum No 7, 1978 Abstract No 7363 by the
+author]
+
+HELLER, N. A.
+
+[Text] The problem of viscous fluid flow around an elliptical cylinder
+
+at an angle of attack is numerically solved. In elliptical coordinates the
+computational region is broken up into subregions, and in each of these the
+boundsry value problem is solved by a matrix sveep method. Before solution
+of the problem. conputstional schemes are numerically studied to select the
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+grid spacing. Bate-plea are given of calculation for an ellipae with rela-
+tive thickneaa of 0.1 st an angle of attack of 30‘ and Reynolds mﬂaers
+
+of 20 and b0.
+
+USSR one 532 . $16
+
+MORNING GYIOSCOPIC SPIN 01' m BALLS Ill A HIGH-SPEED 3mm UNDER
+WRONG FRICTION MIHOIIS
+
+Kuybyehev HARRIALY DOICIADOV mar VSSSOYUZNOY WWII PO romanc-
+GIDRODDMHICEBSKOY T8031! m I ma “ICES“!!! nmmru V
+PROHYSWOS‘II [Materials of Reports to the Second All-Union Conference on
+Contact-Hydrodynamic Lubrication Theory and its Practical Application in
+Industry] in Russian No 1. 1977 pp 76-85
+
+[Pm RBFBIWHVNYY mm. mm No 7. 1978 Abstract No 73110 by the
+authors]
+
+KURUSHIN. V. I. and PB‘I'ROV. V. ll.
+
+[Text] The paper presents s systen of nonlinear equations for deternining
+the kinematic parsneters of notion of balls under hydrodynanic conditions
+of friction in the contacts. A nulerical solution is used to eatablish the
+working conditiona under which intense slippage of balls takes place in
+the radial plane due to the action of gyroscopit torque.
+
+7
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+088! “DC 532.517.10
+TURBULB‘CB CHAMCTBRISTICS 0P OOAXIAL JETS
+
+MUCHNYYB RUDY. nosxovsxn INSTITUT STA“ I SHAVOV [Scientific Transac-
+tions. Moscow lnstiture of Steel and Alloys] in Russian No 107. 1978 pp 26-31
+
+[Pron “MUM mm, mm lo 7. 1978 Abstract No 731:0 by the
+author] .
+
+HBSHALIN. V. 5.
+
+[Text] An investigation is node of the turbulence characteristics of co-
+axial jets with different initial discharge conditions. It is shown how a
+change in the ratio of velocities of the central and surrounding atreans
+and also the thickness of the annular strean influence the distribution of
+turbulence characteristics along the axis and in the cross sections of a
+coaxial jet. '
+
+USSR UDC 532.517.10
+TURBULENCB CHARACTERISTICS OF A :21 AT AN ANGLB 0P ATIACK TO A PLAT HALL
+
+mum mum. msrovsmr INSTITUT sun I SPLAVOV [Scientific Trans-
+actions. Hoacow Institure of Steel and Alloys] in Russian No 107 pp 36-39
+
+[Fran 33178“er MAL. mm in 7. 1978 Abstract ho 7Blbl by the
+author]
+
+MBSHALIII. V. S.
+
+[Text] The paper gives the results of an experinentel study of the
+turbulence characteristics of a jet at different angles of attack against a
+flat surfece. It is shown that with an increase in the angle of attack there
+is an increase in the turbulence level along the axis of the jet. while the
+naxinun level of turbulence along the axis shifts toward the nozzle tip.
+
+In transverse cross sections of a jet in the horizontal plane, the level of
+turbulence with respect to width of the jet approxinately triples. and in
+
+the vertical plane it doubles as compared with the value along the axis.
+
+8
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL 083 ONLY
+
+USSR 00C $33.6.0ll
+
+PARTICULARS O? T!!! SNAP! AND DEPARTURE O! A COWS!“ SHOCK mm
+VIBRATION 0? AN AIRPOIL
+
+ucmmrn ZAPISKI TBSINTRAL'NOW ABRO-OIDRODINAHICNW INSTITUTA
+[Scientific Annale of the Central Aerohydrodynenice lnetiture] in Rueeien
+m a. No 5. 1977 pp 105-109
+
+(Pm RBHRATIVNYY ZNURNAL, MIRA No 7, 1978 Abetl’ecc No 73210 by
+N. H. Kuzneteov]
+
+VINOGRADOV. R. I.. HAR'YANOV. V. N. end YAKUBOV. I. R.
+
+(text) The paper given the reeulte of a eyetenetic experinental etudy of
+flow around diaeond-ehaped and none other airfoile that undergo toreional
+vibrationa in e eupereonlc airflow. The following were varied: Mach
+
+nunber Iron 1.3 to 2 in etepe of 0.1: dinenaionleee vibration frequency
+
+iron 0.1 to 1.2 in atepe of 0.05-0.13 angle of the die-9nd 10. 20. 30
+
+end 40'; angular eeplitude of toreionel vibratione 2. 6, l0 and 15': end
+position of the exie of toreionel vibratione. Still photographe end
+nueroue notion picturee thou the evolution of coepreeeion ehoche propagating
+in different directione. Patterne of developnent end orientation of ehocka
+are diecueeed. Reierencee 5.
+
+USSR "DC S33.6.0II.8
+
+(I! THE AMTOTIC ‘I'NZORV 0P NYPBRSONIC PINS um! WILIBRIUH IONIZATION
+IN THE VICINITV 0? A CRITICAL POINT
+
+WE ZAPISKI TSENTRAL'NOOO AIRO-GIDROOINANICNISKOCO INSTI'I'UTA [Scientific
+
+Annale of the Central Aerohydrodynanice lnatiturel in lueeinn Vol 9. No l.
+1978 pp 65-56
+
+[Pron 32?!”th ZNURNAL. MARINA No 7. 1978 Abetrect No 7332l
+(rleuné)!
+
+AGAFONOV. V. P.. KUZNBTSOV, H. H. and POLYMSXIY. 0. 711.
+[Text] Band on the eeynptotic theory of nonequilibriu- one (love with
+
+high local Reynaldo nuﬁere en enalyaia ie nede of the problu of deter-min;
+the concentration of see coeponeute (including electrons) in the field
+
+9
+FOR OFFICIAL USE ONLY
+POI ONICIAI. USB ONLY
+
+of flow around blunt hodiee at hypoteonic velocitiee. A new paraneter
+ie introduced - the ratio of the characterietic gae-dynaeic tine to the tine
+
+of relaxation. uhoee value characteritee the ther-odynaaic etate of the gee
+and the concentration of coaponente on the outer face oi the bomdary layer
+in the vicinity of a critical point. It ie ehovn that when A.)
+
+Prandtl'e boundary layer theory ie valid with equilibriun veluee of con-
+centratione on the outer face. The caeee “on 1 and "61 correepond to
+
+the nonequilihriu etate of ilov along the entire length of the critical
+etrean line tron the conpreeeion ehoch to the body. Ielerencee l6.
+
+USSR UDC 536.24
+
+CONCERNING m MUTUAL IIWLUDICI O? mm. DESTRW‘I'ION O! m 803““
+AND VISCOUS INTERACTION um Immune mow AROUND A 8W CON!
+
+KOSMICUBSKIYB ISSLEDOVMIYA IIA UKRAINE. "SPUILIKMISKIY WSW
+5803le [Space leeearch in the Ukranie. Republic Interdepartmtal
+Collection] in Ruaeian No 11. 1977 pp 23-26
+
+[Tron manna-rim mu. mum No 7, 1978 Ahetract No 73571 by the
+authorel
+
+LIWSKIY, A. V. and Innsamo. V. I.
+
+[Text] The paper givee the reeulte of nunerical calculation for hypereonic
+gee flow under conditione of viecoua interaction around eharp circular conee
+with thetnally deetrvnctihle Teflon euriace. The euthore ehov the charac-
+terietic pecularitiee of the nutual influence of thereoche-icel deetruction
+of the eurface of the body and viecoue interaction. leferencee 15.
+
+FOR OFFIC*3. USE ONLY
+POE OPPICIAL USE ONLY
+
+08” "DC 532. 5:621. 22
+
+DETERMINATION OP wows OP CENEIIATED VIDEATIONAL ENElGT IN DEVELOPED
+CAVITATIONAL SELP-OSCILLATIONS
+
+KOSNICEESKIYE ISSLEDOVANIYA NA UKRAINE. “SMLINANSKIY maximum
+830le [Space Reaearch in the Ukraine. Republic 7nterdopattaantal Collec-
+tion] in Ionian No ll. 1977 pp 50-56
+
+[Pro- glam-um mm. mm No 7. 1978 Abatract Ito 731222 by the
+author
+
+PILIPUEO. V. V.
+
+[Text] It ia axperiaantally eetabliahed that a centrifugal acrev pup
+generates (luau of vibrational energy in the feeding and proaauriaed
+lines. It ia ahovn that the energy flow in the praaaure line ia cauaad by
+variation of the pulp head. Thin abova the poaaibility of alt-excitation
+of cavitational oacillationa in the eyataa even in the abeaoca of oacilla-
+
+tiona of preaaura and llmata at the pun inlet. Thia kind of cavitational
+oacillatione ie experimentally detected.
+
+USSR DDC $32.5:621.22
+
+THEORETICAL DETEENINATION OP 1112 PM OP THE LIKITINC CYCLE OP CAVI-
+TATIONAL SELP-OSCILLATIONS IN THE SYSTD! MADE UP OP A CDITRIP'UCAL SCREW PM
+AND PIPELINES NITN CONSIDERATION OP UNSTEADY PW AROUND I'll BLADES OP AN
+
+AXIAL SCREN POW UNDER CONDITst OP PARTIAL CAVITATION (NITNWT
+DACKPLOUS)
+
+KOSNICNBSKIYE ISSLEDOVANIYA NA UKRAINE. RESPUDLIKANSEIY mm
+830an [Space Reccarch in the Ukraine. Republic Intatdepaetuental
+Collection] in Ruaaian No ll. 1977 pp Isl-b7
+
+[Prom RBPEIATIVNYY ZNURNAL, MINA No 7. I978 Abattact No 731227 by the
+authoro]
+
+PILIPENKO. V. V. and WVWT'KO. N. I.
+
+[Text] A acthod ia propoacd for theotatical detenination of the para-eteta
+of the uniting cycle of cavitational aelf-oacillatiouo. The authora ea-
+tabliah the influence that resin para-ate" of the ayatu (pracauee at
+
+11
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the pulp inlet and flowrste through the pulp) have on the frequency. espli-
+tude and waweahepe of cavitationel self-oscillations. Satisfactory agreeasnt
+is observed between theoretical and experisantal results. References 8.
+
+08811 ”Dc ”3.69.011
+ON 1112 L0"!!! LIMIT Il’ INDUCTIVB-UAV! DRAG 7011 met 1111108
+
+Novosibirsk ISSLEDOVANIYA P0 ABRODMIKB HEPLOSKIIH KRYL'YBV [unearth on
+the Aerodynasica of honplanar Rings] in Masien. 1977 pp 31-102
+
+[Pros “HEATH“? 21mm. WI!“ No 7. 1978 Abstract No 731269 by
+V. I. NINA“)
+
+KOROBBY'NIXOV. N. 1’.
+
+[Text] An ensination ia aade of supersonic flow around aweptback wings
+with close to a delta plsnforn or a shape like a awellowteil with cut off
+edges: it is earned that the leading edge is aubaonic and that the trailing
+edge is supersonic. within the framework of a linear theory. the author
+deter-nines the liaiting ainisu- valueo of that part of the drag of such
+wings that depend on lift. Such eatilatea say play an isportent part as a
+criterion of effectiveneas of optiairetion of the ehepe of the niddle aor-
+face of the wing. enabling a reduction in eddy and wave drag (or e given
+lift of the wing due to the possibility of realization of suction forcea.
+Sosa exeaples are given that characterize both the role of the auction
+forces and the presence of additional reaourcea for a further reduction of
+drag through deformation of the middle surface.
+
+12
+FOR OFFICIAL USE ONLY
+FOR OPPICIAL US! ONLY
+
+088R ' "DC 533. 69. 011
+
+0191111an WDWC CHARACTERISTICS 0! ma: mics WITH 097W
+SIX-Pm MENTION Ol’ m “IDOL! SNACK
+
+Homibirsk ISSLBDOVMIYA PO momma mmm nn'm [Rosssrcb
+on tho Mrodyns-ics oi Nonplsnsr Him] in Russisn. 1977 pp 6 13
+
+[Iron mum mum. mum No 7. 1978 Abstrsct No 731270 by
+V. I. Putysts]
+
+lMLIPP-‘ISKAYA. C. 1'. sad KOROIIYNI‘OV. N. P.
+
+[Tut] 'ro olucidsts tbs nscbsnisn thst snsblss s rsduction in tho litt-
+dspcbdsnt drsg of s wins st supersonic vslocitiss through dsfonstion of tbo
+siddls suriscs oi tbs vins. tbs sutbors uss s linssr tbsory in s dotsilsd
+snslysis oi tbs distributed ssrodynsnic cbsrsctsriotics of dslts sod nssr-
+dslts wins with tbo cqustion of tbs um. suriscs sivsn in tbs ton of s
+povsr-lsv polynosisl tbst dspcnds on six psrsnstcrs with vsluss dstsninsd
+iron solution of tho problon for sn srbit’rsry minim drss. It in sstsblisbsd
+tbst s rsduction in drsg occurs chisny duo to tbs wins class to tho 1ssdin¢
+
+sdgs ubsrs suction forcss srs rsslirsd tbst srs in fsct tho ssin sourcss of
+drs3.
+
+13
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR UDC 533.652/ . 661.013
+
+DBTBRﬂIIIINO m COEFFICIENTS 0! WHO “2‘ + £ DY m mo 0! MI
+OSCILLATIOIS USING HlGl-SPBBD MIMI PICTUIB
+
+MTICIIBSKIY smut mum “WV. NSKOVSKIY AVIA‘I’SIOIIMY mum
+
+[Topicel Collection of Scientific Pepere. Moecow Avietion Inetitute] in
+lueeien No ‘17. 1977 pp 29-35
+
+[Prom RBFBM‘I'IWYY mm. mm No 7. 1978 Abetnct No 731286 by
+c. s. Aronin]
+
+MIONIN, V. U. end KOLHMOV. YU. A.
+
+[Text] The peper deecribee en experinentel fecility for deteninins
+
+the ovenll coefficient of the longitudinel nonent of cloning of e nodel
+in a wind tunnel. In the inetelletion the nodel ie feetened on the
+nonent exie by two ptecieion bell burinse in which e brece ie provided
+to reduce friction by tekin; the weight of the nuclei. Pree oecilletione
+of the nodel in the etreen in the tunnel ere photogrephed by e high-epeed
+notion picture cenere equipped with e tine indicetor. The fornule thet ie
+given for deteninins the duping coefficient fron dete of interpretetion
+of the notion picture filn doee not teke eccount of the influence of
+friction in the bell beeringe. which in teken ee negligible.
+
+16
+FOR OFFICIAL USE ONLY
+FOR OWICIAL USE ONLY
+
+USSR UDC 333.652/.661.013
+NONLINEAR OSCILLA‘I'IONS 01' AN ASYIIIII'RIC matron”
+
+KOSHICIIBSKIY ISSLSDOVANIIA NA MAINE. "SMLINANSXIY WWW
+SBORNIK [Spece Ieeeerch in the Ukreine. Republic Interdepertnentel
+Collection] in Rueeien No 11. 1977 pp 3-7
+
+[Free "IBMTIVNYY ZNURNAL. WANNA No 7. 1978 Abetrect No 731291 by the
+euthore]
+
+501102. A. 9. end puma. v; u.
+
+[Text] An eminetion ie node of the prohlee of oecilletione of e rotetin;
+eey-netric flightcreit with coneideretion of the nonlineer dependence 0!
+eerodynenic cherecterietice on englee o! etteck end elidina. ee vell ee the
+veriehility o! the perenetere of notion of the center of me. liret-
+epproxieetion differential equetione ere derived for deteninin; the enplitude
+end pheee of the epece engle of etteck of en eoy-etric flightcreit.
+
+An inveetigetion ie node of the influence thet nonlineerity o! the «re-
+dynenic chereeterietice of e iliahtcreft hee on the uplitude of the
+epece eagle of etteck in the perenetric reeonence cone. leferencee 5.
+
+USSR UDC 621.6].6:S33.6
+
+0N “MING I'll! OPTINUN ANGL! OP BXIT 01' m 6A8 13034 A ILADI'LBSS
+N022“ ASSMLY OF AN AXIAL TURBINE
+
+GIDRODINAHIKA LOPATOCNNYICII HASHIN I OBSNCIMYA WI“ [Hydrodynellce of
+Vene Hechinee end Generel Hechenice] in Rueeien 1977 pp 78-83
+
+[Pron 3:1!“th ZIIURNAL, WI“ No 7. I978 Abetrect No 731383 by the
+euthore
+
+GOLUI‘I‘SOV, V. H. end SAPOZHNIKOV. N. I.
+
+[Text] Beeed on cxperincntel etudiee of the perenetere of bledeleee nozzle
+eeeeehliee of exiel turbinee. e reletion ie found for the chenae in the
+velocity loee fector et different enslee of flow exit. A method ie given
+
+for chooein; the engle of exit free the condition of echicvin; uni-u-
+turbine efficiency.
+
+15
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR UDC S33. 6 .0l3 .AZ
+
+AN APPIOXINAI‘B METHOD OF STUDYING m PROBLEM OF “LINEAR OSCILLA‘I'IONS O?
+A LIQUID IN A CAVITY NI‘l'N AN ANNULAR UNDIS‘IUIBBD m WAC!
+
+Kiev DINANIKA I USNYCNIVOS‘I' UPRAVLYAYINIKH 8181'!“ [Dynanice and Stability
+of Controllable Syeteae] in Rueeian. 1977 pp lWllG
+
+[l'ron misurmm zaunm. MIRA No 7, 1978 Abatract No W362 (iron the
+article)
+
+PIL'KIVICU. A. N.
+
+[Text] An examination in nade of the problea of nonlinear oocillatione of
+an ideal inconpreaaible liquid in a cavity with annular undisturbed free
+auriace. The algorithn used (or eolving the problen (eee l. A. Lukovakiy.
+"Nelineynyye kolebaniya ahidkoeti v eoeudakh eloahnoy seonetricheakoy for-y"
+[Nonlinear Oecillationo of Liquid in Veeeela of Coupler Geo-attic Shape],
+Kiev. "Naukova dunka," 1975) reduces the initial nonlinear nroblen to a
+aeriea of linear boundary value probleae that are eolved by a variational
+aethod. The reeulto are numerically analyzed for none epecific caeea.
+
+USSR UDC 533.6.013.‘2
+
+INVESTIGATION OF NONLINEAR OSCILLAI‘IONS OF A LIQUID IN DOVING CAVI‘IIIS OF
+REVOLUTION N111! UNDROKKN RADIAL PARII‘I‘IWS
+
+Kiev DINANIKA l USIOYCNIVOST' UPRANLYAYEHYKN SIS!!! [Dyna-ice and Stability
+of Controllable Syetene] in Ruaeian. 1977 pp 117-130
+
+[tron REPZRATIVNYY ZHURNAL, NIKHANIKA No 7. 1978 Abatract No 7V363 (fro.
+the article)]
+
+STAROSILA. N. I.
+
+treat) An inventisation ia aade of anall oecillatione of an ideal incon-
+preaeible liquid aloehin; in a cavity of revolution with unbroken radial
+partitiona. It is nuanced that the cavity undergoea predeterained trane-
+lational aovenenta. A eeriee of boundary value problems in derived for the
+connonenta of the velocity potential aa well ea nonlinear equationa of
+notion of the liquid and expreaeiona for the coefficients of theee equatione.
+
+16
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL 083 ONLY
+
+USSR WC 5335.013.“
+
+VARIATION“. romrtons 01' m PROBLEM 0! SHALL OSCILLATIWS 0! A LIQUID
+IN A 938831. MIR CONDITIONS 01.083 1'0 WIWBMBB
+
+Kiov um I USMCIIIVOST' 0".“an sum [Woo and
+Stability of Controllablo Syotooa] in Maaian. 1977 pp 74-83
+
+[Pro- ununvm mm. mm No 7. 1978 Ahatract No N366 (fro.
+tho articlo)!
+
+WAR. H. YA.
+
+[Toast] A variational fomlation io sivon for tho problo- of “all
+(natural) oocillationo of an idoal incmroaoihlo liquid in a vooool with
+conaidoration of torcoo of gravitation and auriaco tonoion. Tho conotructod
+
+nunorical algorithm gonoraliro tho proviouoly knovn algorithm 301‘ oolvins
+tho tomlatod prohloa. Botioatoo aro found for tho oigonvaluoo of tho
+problon.
+
+17
+FOR OFFICIAL USE ONLY
+FOR OWICIAL USE ONLY
+
+High-Energy Devices. Optics end Photogrephy
+
+U883 UDC S33. 9
+
+ON THE FEASIBILITY OP DEVELOPING BIGl-IITIEHSITY SOURCES O! ULTRAVIOLET
+RADIATION BASED ON CUMULATIVE PLASMA-DYNAMIC DISCIAEGES
+
+PIS'HA V ZUURNAL TEIOINICRESKOT PIZIKI in Eussiln Vol 3. No 20. 1977 pp 1331-
+1336
+
+[Eton EEI’EIATIVNYY 2111mm. MANIA lo 7, 1978 Abstract llo 73023 by
+0. P. Shetslov]
+
+KAHRUKOV. A. 3., KASIIIIROV. G. U.. KOZLOV, l. P” OILOV, V. I. end
+PROTASOV. YU. 8.
+
+[Text] An experisentel study is done on the possibility of developing
+high-intensity pleens-dynesic sources of enission thet ere besed on ispsct
+intersction end cunnlstion of opposed hypersonic dense plesss {love toned
+by nsgnetopleess conpteeeors. A technique is described for creating the
+plesss nous. end the psreneters of the conpreesors ere given es well so
+the neture oi fomtiou of the cmlstive zone boon-led by shock veves on
+two sides. The brightness tespsreture of the plsess in the cmletion sons
+use 25 000-35 000 K st e an of teqersture rise of ebout 1010 deals. An
+investigstion is ends of the epectrsl nekeup oi the rsdietion. the intesrel
+light yield end the dependence of these chstsctsristice on the dischsrse
+tine. It is shove thet the efficiency of etimlsted enieeion in the
+visible end ultrsviolet tegions of the spectm with collision of plssne
+
+jets increeses coneidersbly se competed with the rsdietion when the plssne
+is decelereted st s well.
+
+USSR UDC 533.9
+
+RADIATION AESOIPTIGI IN A PLASMA FORMED CIDSE '10 THE SURFACE OF A SOLID
+TARGET N! “I“ MINT GAS PRESSURE!)
+
+PIZIKA PLAZHY in Russien Vol lo, No 2. 1978 pp 332-337
+
+[Pros ununvm ZKURNAL, mum No 7, 1978 Abstrsct No 73608 by the
+enthors]
+
+RYKALIDI, N. 8., UCLOV, A. A. and GALIYEV, A. L.
+
+[Text] An investigstion is ends of the kinetic chetscteristics of s lsser
+plssne thet is toned by the sction of pulse redietion ()3 - 1.06 us) on the
+
+18
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL 083 ONLY
+
+surface of a stainless steel target in an etnosphere of nitrogen. heliu
+end argon in the pressure range of 10-80 at-ospherea. Curves are plotted
+that chsracterire trsnsnission of laser elission by the plans as a function
+of pressure. tins and the specific power of the enission. An estisate is
+sade of the average tesperature of the plans cloud and the velocity of the
+products of veporieation under conditions of back pressure. References 12.
+
+USSR 006 533.9
+“DYNAMIC AND mucous PROCESSES IN CIRCULATIRG M8 LASERS
+
+Minsk mam m- I MSSOOBHINA 77 [Problem of Best end Hess
+Exchange 77] in Russian. 1977 pp 85-87
+
+[Fran REPEAT!“ 21mm, mum No 7. 1978 Abetrncc No m29 by
+0. P. Shaulov]
+
+MUSE“. V. I. and SOIDUKKIN, R. 1.
+
+[Text] A brief survey is presented on probless associated with ispulse
+heating of gas in the zone of stimlated enission. and with the influence
+that the nature of flow has on the (oration and stability of the discharge
+in s continuous-flow co: gas-discharge laser. In particular the authors
+take note of the influence that the shock waves formed in the pulse dis-
+charge zone and loving through the gas have on the rate of renewal of the
+gee in the discharge gsp; consideration is given to distortion of honogeneity
+of the laser nedius in the discharge zone and the conconitant problem of
+the dynamics of pusping and stilulated enission; it ie enphasised that it
+is “ports” to study the phenomena in the vicinity of the electrodes in
+the laser and nethoda of acting on these phenonene to inprove laser
+charscteristics. References 10.
+
+19
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ussn ' uoc 533.9
+
+NUMERICAL ANALYSIS 01’ 118 CHAMCTBRISI'ICS 0! A GASDYNAHIC LASER um: 5mm
+mm BXCI'I'A‘I'ION AND mm; 18 A WORK: now
+
+Minsk PROBLEM! mm- I HASSOOWA 77 [Prohlens of ﬂeet and Hess Exchange
+77] in Russian 1977 pp 89-90
+
+[Prom uranium NORMAL. mum No 7. 1978 Ahetrsct No 73430 by
+0. P. Shetalov]
+
+ACHASOV. 0. V.. SOLOMIN. I. I. Ind pom, N. A.
+
+[Text] A nunsricel analysis is done on the cheracteristics of s gasdynenic
+002 laser on mining. The nodel used aseuned instenteneous sizing of hot
+nitrogen escaping tron e nozzle end en injected cold nieture of co; 4» Be.
+The distributions found for the gain of e week siml in the flow indicate
+strong dependence of the optinun Inkeup o! the injected gas on tenerature;
+this result finds confirmation in eerlier experinents by the euthors.
+Calculated values of energy output of the lsser as e function of the nitro-
+gen stagnation tenperature shov en sppreciable increase of energy output
+(up to 200 3/3) with en increase in nitrogen tenpersture to 3000 K.
+References 5.
+
+20
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Industriel Technology
+08811 true 531 . 8
+
+KIIGHA'IIC CHARACTERISTICS AND CRITERIA IN SYNTHESIS OF HANIPULA‘IOR AND 3030‘!
+MECHANISIB
+
+' 330mm: memo-mmnzcatmn mm P0 T8031! WHEN I warn.
+mmnnsrvo wssnzoo I 833118300 srnsm'nooo OBMZOVANIYA sssn [Collection
+of Articlee on Scientific Methods in the Theory of Hechenieee and ﬂechinee.
+Ministry of Higher end lnternediete Special Bducetion of the USSR] in Rueeian
+No 6, 1978 pp 20-29
+
+[Fran mum MAL, mm lo 7, 1978 Abatrect No “193 by the
+euthor]
+
+VOROS'YSV. YB. 1.
+
+[Text] The pepsr gives e syetenetic exposition of the problem of
+velocitiee end acceleretions of nenipuletore. end also presents e goo-stric
+interpretetion of these pereneters. Criterie ere introduced for trenefer
+of velocities at points in the working zone of the nenipuletor so well as
+criteria of kineeetic accuracy. It is shown that these critterie can he
+ueed ee e criterion functionel in synthesizing lenipuletore.
+
+USSR “DC 531. S
+
+SQUA'IIORS 0? 11!! DWICS OP msm AND ORIENTATION“. WINS OF
+INDUSTRIAL ROBOTS
+
+$30!!le mumo-rmroorcatsxm sum Po 1309.11 MIDI”! l MASIllN.
+mesnnsrvo WSSREGO I SW00 SPB‘I‘SIAL'NOGO OBWOVAIIIYA 888?. [Collection
+of Articles on Scientific Methods in the Theory of Hechanien end Hechinee.
+
+Ministry of [ligher end Inter-ediete Speciel Education of the USSR] in Russian
+No 6, 1978 pp 30-3‘
+
+[l’tOI “MATH!!!“ ZBURNAL, mm No 7, 1978 Abetrect No 7A268 by the
+author]
+
+VOROB'YSV, Y8. I.
+
+[Text] Bxpended equations ere given for the dynamics of ectuetins
+nechenises of robots in the case of combinations of two, three end four
+
+novenents, end else with coneideretion of the bending eleeticity of en
+u.n.ﬂ
+
+21
+FOR OFFICIAL USE ONLY
+TOR OFFICIAL USE ONLY
+
+Mechsnics of Solids
+USSR UDC $39.3
+
+CALCULATION OF CORRUGATED MULTIPLE-LAYER CIRCULAR CYLIUDRICAL SHELLS
+
+cmmnnmun [DPATOCENYKB MASDIN I OBSBCEAYA mum [Bydrodynslics of
+Vene Heehinee end Generel Hechenice] in Ruseien. 1977 pp 160-166
+
+[Fro- RBPBRATIVNYY ZUURNAL. mum No 7. 1978 Abstrsct No "125 by the
+euthors]
+
+BOCHAROV, N. 1., KONATKIN, V. P. and “HOV, V. 1’.
+
+[Text] Strength cs1cu1etione ere given for corrugsted lultiple-lsyer
+cylindricel shells besed on experiment“ deter-instion of their stiffness
+chsrecterietics for bending. twisting end stretching.
+
+USSR UDC 539 . 3
+
+BXI’ERIDMTAL STUDY OF THE STRESSBD AND STRAIN!) STATE 01’ SHORT CYLIJIDRICAL
+SHELLS UNDER THE ACTION OF A RADIAL LOAD
+
+ISSLBDOVANIYA PROSTRANSTVENNYHI KOUSTRUKTSIY [Studies of Three-Dinneionsl
+Structures] in Russian No 1. 1977 pp 111-118
+
+[Pro- RZFMTIVNYY ZBURNAL, mm No 7. 1978 Abstrect No 7V157 by the
+author]
+
+LBDEDEV, L. N .
+
+[Text] An investigetion is usde of the stressed end strained state of thin
+short cylindricel shells reinforced st the ends by circulsr prieustic
+bulkheeds for the sction of e rsdiel loed distributed over s sns11 eres.
+
+Sons experiusntel results ere given for she11s reinforced by buikheeds of
+different stiffnessss. References 7.
+
+22
+FOR OFFICIAL USE ONLY
+FOR OFPICIAL USE ONLY
+
+088% UN 539. 3
+
+0|! 1118 TRIO“ OP BINDING AND OSCILLA‘I'IOIIS 0? 8148110 MTIMYBRID M180-
+TROPIC PLAT”
+
+ram 1’30le W81”! 1 PLASTICIMOSTI [Applied Problem of
+Strength and Ductility] in maaian Vol 7. 1977 pp 29-3‘
+
+[Pro- umwnvm mm. mm No 7. 1978 Abatract No N169 by the
+anthora]
+
+ANDREYBV, A. N. and MEWSKIY. YU. V.
+
+[Text] The paper deacribea a veraion of the theory of nultilayer platea
+
+that ia based on a lune-tic hypotheaia eatiafying llooha lav in all leyera
+
+for tranaverae aheara. boundary conditiona for tangential atraaaaa on the
+tacaa and conditions of continuity of diaplacenante and trannverae tangential
+etreaoea on all contact aurfacea. he an illnetration o! nae of the reaultant
+equationa an axanination ia aade of the problen of nxiay-etric bending of
+
+a circular anndwich plate of ey-etric atrncture. An eatilata ie nada of
+
+the influence that ahear has an "integral" characteriatica-Mndin‘. radial
+and peripheral torque-and on the local characteriatice of the atreaaed
+etate. It ia ahovn that the influence of ahearin; in inaignificant (or
+
+the toner. but conaidarabla for the latter. eapecially in sonea o! edge
+perturbationa.
+
+NONLINW PROILM IN m DYNAMICS 01' THIN-HALLS!) MDIMSIM
+STRUCTURBS [RIDER PULSB armors
+
+Tallin MIME VOW DEPORHM'SII [Nonlinear Strain Haven] in Milli
+Vol 2, 1977 pp 17-20
+
+[Pro- mum ZIIUINAL, MIRA No 7. 3.978 Metract No "223 by
+A. V. Khro-uahkinl
+
+BASKZNOV. V. 6.. SOLUYM‘OV, I. I. and suxmmo. A. 1’.
+
+[Text] A brief deacription in given of the nae of a variational difference
+nethod for aolving problem in dynanie loading of thin-walled atructural
+elenenta conaiatins of joined pletea and ahella. The prohlen ia conaidered
+within the franevork of the quadra'. ic approximation of nonlinear elaaticity
+theory with coneideration of plaatic detox-nation of netarial. The ayaten
+of equationa of notion of the atructnre in defined by a variational
+
+23
+FOR OFFICIAL USE ONLY
+FOR ONICIAL 08! ONLY
+
+d'Aleehert-ugrange equation and ie a eyetea of otdinary nonlinear diﬂerential
+equatione oi eecond order with teepett to tine for dieplaceeente oi euh
+
+point of interaction of the grid for partition of the etmture. Thie
+
+eyaten ie integtated by an explicit ache-e of the net-point eethod. A
+nueerital axe-pie ie given of eolntion of the ptohlee of dyneeic behavior
+
+of a clawed heeiapherical ahell under the action of initial w mity.
+
+088]! one 539.3:53‘J
+
+INFLUMCB ‘I'HA'I' INIR‘I'IA m 31'1"!!!” O? A moon IIIO HAVE 0“ m
+FREQUENCIES OP AXISM‘I‘RIC OSCILLA‘IIOIIS OF A HATE
+
+mm snumm SISTER 1 3mm 3mm [Hechenice of Ind ”none
+and Continuous ﬂedie] in lueaian No 10. 1977 pp 59-63
+
+[Pro- RﬁPBIIA‘l'lW mum. MANIA ho 7. 1978 Ahetract No "2“. by the
+authora
+
+DOOUNOV. A. K. and DODUNOV. N. A.
+
+[Text] An eunination ie nade of natural axiey-etric oecilletione of a
+circular plate on an eleetic haee. Coneideration ie taken of the inertia
+and etiﬂneee of an elaetic ring reialorting the iteely eupported at free
+edge of the plate. Reference 7.
+
+26
+FOR OFFICIAL USE ONLY
+POI OHICIM. I188 ONLY
+
+088! ”DC 62‘.07!53‘.1
+
+“130”le OP VIIMTIOI‘S OP Tim-OMSIOML PHIL!!!“ WITH MEAL“
+W30 CONSTRAINTS 110 1113 CASE 0? nmnc “CITATION
+
+Kuybyehev VOPIOSY "OYIKTIﬂOVANIYA I COVOKI AVIA‘I'SIOW cum-0mm
+bummer [Problem of Deeipn and nigh-eat oi Gee Turbine Aircraft
+Inninea) in lueeian 1971 pp 80-106
+
+[Iron mew-1m mm. mm ho 7. 1978 Abetract ho W272 by the
+authore]
+
+KONDMSBOV, N. S. and LASIIKDVA, L. A.
+
+[Text] A nunerical nethod ie preeented for calculating forced oacillatione
+of a pipeline with kinenatic excitation by her-onic and randon vibration.
+The algorithn ie baeed on the netrix nethod of dynanic etiﬂneeeee. M
+veraione of the algorithm are developed: (or a pipe1ine of arbitrary
+configuration and for a pipeline vith an axle node up of etraipht eectione
+and erce of circlee. 80th vereione provide for coneideration of eleetically
+danped conetrainte. the preeence of lqed naeeee and conpliant connectione.
+An exanination ie aleo node of cowlex eyetene colprieinp eeveral inter-
+connected pipelinea or a aingle pipeline with interconnected pointe. The
+paper .ivae the reaulte of calculation by the propoeed nethod {or a three-
+dineneionel pipeline coneietin; oi etreight-line eepente. leierencee 7.
+
+USSR UDC 539.3:538J.
+
+THEORETICAL AND 83?!!!an XMSTIGM'ION O? m STABILITY OP ”MIMI.
+88811.5 won mam PRESSURE
+
+Kazan' IZVBS‘I'IYA Moe: AVIATSIONNAYA mm in Rueeian No 6, 1977
+pp 98-102
+
+"to. "EMTIVNYY ZHURML. WM No 7. 1978 Abetract No 7V302 by V. I.
+Kruglyakova]
+
+PMSOV. Y". A.
+
+[Text] A eolution ie found for the axieymatric problen of lore of etability
+of a conplete torue under the action of external prceeure with conaideration
+of the condition of inextenaebility of an erc of the neridional eection.
+The paper aleo given the reeulte of experinental etudiee on eight nodela.
+
+25
+FOR OFFICIAL USE ONLY
+’0! OFFICIAL USE ONLY
+
+USSR uoc 539.3853‘J
+
+CHANG! ll] TI]! STABILITY 0? A mmrclu. cm was: "1130811110 rmmr
+W suwcrro TO MSW! OSCILMTIG‘S
+
+W!“ W 9181'!!! I 3m sun mechanics of Iod Systa.
+and Continuous Media] in lussian lo l0, 1977 pp 71-76
+
+[Pros “mum 2W. mm No 7. 1978 Abstract No 7V3” by the
+author]
+
+"W. V. H.
+
+l‘l'ext] An sxasination is eads oi axisy-etric oscillations of a ssooth
+cylindrical shell freely supported at the ends under the action of hydro-
+
+static pressure. Oscillations are excited by periodic pressure applied on
+the lateral surface.
+
+it is shown that variable chain forces that arise with oscillations due to
+closure of the nhsll change the stability as coapared with the static
+problen. Oscillations are unstable at a hydrostatic pressure that
+
+exceeds the critical value (or sosc relations between the para-stars of the
+
+load and systee. and is less than the critical value for other relations
+between para-stars.
+
+USSR "06 539 .21‘;539.37£
+
+ADAPTAIILITY 0P SWIG“. sum "ND!!! 6'33: 2717.625 9: {WI- PRISM
+AND “WHO”! mum:
+
+”SPUBLIWSKIY uzunoousrmm SlOINIK (”public Intardapartlantal
+Collection] in Russian No 18. 1978 pp 29 36
+
+[Pro- Ijmmmm 2mm, mmxu No 7. l9” Abstract No 1V‘65 by the
+author
+
+WAVSKIY. 0. P .
+
+[Text] Upper and lower estimates are found for the conditions of onset of
+a progressive change in shape oi spherical axisy-stric shells of constant
+thickness clasped and hinged around the edge in the case of repeated
+
+actions of internal pressure and tenperature varying linearly with
+respect to the thickness of the shell. References 5.
+
+26
+FOR OFFICIAL USE ONLY
+POI OFFICIAL US! ONLY
+
+Mstrology
+
+083]! 000 531.708.089.6
+
+A MINA‘IION METRO!) OP CALIBRATION OP HARM“ I]! I'll! AREA 0? area AND
+801’me VACUUM
+
+mm mnemoxcarsrtm INSTITUTOV 8888. 988801022!“ MUCINO-ISSLEDOVATBU-
+8K1? WIT!“ motoctcmm swam [Proceedings of listrologicel
+Institutes of the 083R. All-union Scientific isseerch Institute of the
+Hetrologicel Service] in Russien No 223/283. 1970 pp ‘9-59
+
+[Iro- RIIIRATIMY ZWAL. IB‘IIOLOCIYA I IMRIM'NAYA MIRA No 9.
+l978. Abstrect No 9.32.67”
+
+KUZ'HIN, V. V.
+
+[Text] A codined nethod is presented [or celibretion of “out. netsrs.
+
+representing e conbinetion of two nethods: the neth of stetic espeneion
+(expension nethod) or the nethod of celculetion of the initiel preseuro in
+tens of tine (chrononetric nethod). with the Isthod of reduction of this
+
+pressure to the region of high end superhigh vecuu. Pigurss 3. um. 1.
+References 13.
+
+088]! BBC 535.338.33‘1621.375.826
+
+DEVELOPMENT OF MODS OP LASER-WM mm 01’ MINES 9111! mm
+SPECTRAL ANALYSIS
+
+Minsk MY MIND? numos‘rm oworezm I MIAMI]! namn methods
+of Lsser Diewsis of Single end .‘tultiple-Phese Currents] in Aussien 1978.
+pp 3-73
+
+(Pro. uranium ZIIURNAL. HB‘I'ROLOGIYA I Imm‘IAYA mm No 9.
+1978. Abstrsct No 9.32.532]
+
+PAPYRIR. A. N. end SOLOUININ. I. I.
+
+[Text] The physicel principles end specifics of precticel reelieetion of
+leser-Doppler velocity esters (LDVH's) with direct spectrel enelysis ere
+presented. The devices etc besed on the use of netth of high resolution
+interference spectroscopy. A reviev is presented of the current stetus of
+resesrch in this sree. end scversl types of multiple-been interferoosters
+ere described which erc of interest for prscticel LDVH circuits. The
+
+27
+FOR OFFICIAL USE ONLY
+POI OHIO!“ USE ONLY
+
+principlaa or daaim of acannins and tracking um circuita ara analyaad.
+aa van aa tha apacifica of thair application in aarodynaaic and au-
+dynaaic axpariaanta. A and)“ of aatara with high oparatin; apaada. baud
+on optoalactronic ayataaa. ara amutad. Pisuraa 3S. llafarancaa 68.
+
+28
+FOR OFFICIAL USE ONLY
+FOR OHIOIAL “8! ONLY
+
+Navigation and Guidance 8yeteee
+USSR one 531
+
+“NATIONAL-ROTATION“ MIDI! O? A“ ABM‘I‘RIC SOLID IN A PLANETARY
+“103le
+
+Kiev CINAHIKA I WWBNIYA- mzummu [Dyna-ice and Notion Control] in
+Ruaaian. 1978 pp 3343
+
+[Pro- lulmuum 2mm. mum No 7. 1978 Abetratt ho 7A“ by the
+authore
+
+WROZ. A. P. and RNA. V. N.
+
+[Text] An exaeinetion ia node of vibrational-rotational notion of a eolid
+in a planetary atnoephere. Averaged eyeteea of equatione are derived that
+describe the notion of an aeyuetric aolid in the reaonant and nonreeonant
+caeea at anall anglee of attack. It in ehovn that reeulte found by in-
+tegrating unaveraged and averaged ayatena of equetione coincide. and it ie
+pointed out that there ia an appreciable gain in eachine tine when averaged
+equetiona are integrated ea conpared with unavereged. Referencee 8.
+
+USSR "DC 531
+
+ON INVESTIGATIRG m DDTION 0? AN ASM‘I'RIC SOLID AT ARIII'RARY ANGLES Ol’
+NOTATION BY USING AN AMONG METHOD
+
+Kiev DINAHIKA I UPDAVLBNIYB nvrzamxm [Dyna-ice and Motion Control] in
+Rueeian. 1978 pp £348
+
+[Pro- RBPBRATIVNYY ZRURNAL, MIRA “o 7. 1978 Abetract No 7A‘S by
+the authore]
+
+GOL'DSHTEYN, W. H. and PMA. V. N.
+
+[Text] without linitation on the angle of nutation. the anlitude of
+oacillatione with reepett to angle oi nutation or angular velocities, a
+ayeten of differential equatione of notion ie derived for an any-attic body
+that ie close to exioyuoetric. enabling elinination of rapidly oacillating
+variablea by neane of aoyeptotio nethoda of eoparation of motions. An
+algorithn in developed for elininating feet variables that in baeed on
+
+V. I4. Voloaov'a nethod of averaging. Referencea 6.
+
+29
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR “DC 531
+
+INFLUBIICB THAI m FRICTION TORQUE O? A GEARBOX IN AN AC'NA'IIRG m HA8 Oﬂ
+FORCBD OSCILLATIORS 0! A UNIAXIAL MOSTAMLIZIR
+
+MMZOVSHYISIOBNIK. LINIWIY WIMSKIY INSTI‘I‘UT [Incor-
+
+inotitntionol Collection. Leningrad Electrical Insinoorin; lnotituto] in
+Ruooian no 117. 1977 pp 92-97
+
+[Pro- mum ZIIURNAL. mm [lo 7. 1978 Abotract No 7AS7 by tho
+author!
+
+romxv. V. A.
+
+[Text] An omination to undo of forcod notion of o nnioxial gyrootobilitor
+under the action of a harlonic and o conotant torque with conoidototion of
+friction looooo in the gearbox of tho otabiliting notor. It io than that
+
+friction in tho aoarbox chanson the ototic and dynooic choroctoriotico of
+the oyotoo.
+
+USSR 006 531
+
+on 1'38 DYNAMICS O! A CONTROLLABL! CYIOS‘IAIILIZER um! ELASTIC COUPLING OF
+11!! SUSPENSION BLDBNTS
+
+W8“? soomx. mmounsxn WIMSHY 1105111111 [Inter-
+inotitutionol Collection. Leningrad Bloctticol Bngineetins Inotituto] in
+union No 117. 1977 pp 97-103
+
+[Pron WTIWYY ZRURNAL. mum No 7. I978 Abltuct No 7A58 by tho
+author]
+
+CIIBRROV. V. Ill.
+
+[Text] An onnination io node of o uniaxial controllable urootabilieor
+dooign vith conoidorotion of tho olaoticity of olononto of tho ouoponoion.
+Differential equotiono of notion ato prooonted fro- which an approxinoto
+tranofor function of on open oyotoa io found. An analyoio io nodo of tho
+influence that elastic conottointo have on tho froqnoncy of notational
+oocillationo of the gytoatohilitor. Stabilization accuracy io otudiod
+vith reopoct to the otatic chatoctotiotico and tho tranofor functiona.
+
+30
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR 006 531
+
+COMBINING m STABILITY OF A GYROSOOPB ON A 10va BASE IN m GRAVITATIGIAL
+FIELD OF NO STATIONARY cm
+
+MTICBBSKI! SBORRIK MUM TRUDOV. NSKOVSKII AVIATSIONNTY INSTITUT
+[Topical Collection of Scientific Papers. Hoacou Aviation Institute] in
+Russian No 626. 1977 pp 19-23
+
+[Pros RBPBRATIVNTT ZRURNAL. HBKEANIKA No 7. 1978 Abstrect Io 7A$9 (fro-
+tha articls)]
+
+MIN, A. I.
+
+[Text] Using ths Routh and Kelvin theorsas. necessary and sufficient condi-
+tions are sstsblished for the stability at stssdy-stste notions of a gyro-
+
+scope on a saving bsse in the force field of two stationary sravitating
+centers.
+
+0888 "DC 531
+INTION STABILITY OF A CONTROLLABLB GYRDSCOPE IN BANKING
+
+TBHATICIIESKIY SBORNIK NAUCHNYKR TRUWV. POSKOVSKIY AVIATSION'NYY INSTITUT
+[Topical Collection of Scientific Pspsrs. Moscow Avietion Institute] in
+[motion No 626. 1977 pp 26-27
+
+[Prom RBFBRATIVNYY ZEURNAL. HEKHANIKA No 7, 1978 Abstrsct No 7A60 (fro-
+ths srticls)l
+
+LISINA. I . L.
+
+[Text] The Lyspunov method is used to study the stability of motion of a
+controllable gyroscope in banking in the prsscnce of spring limiters. The
+
+sngulsr velocity of bsnking ie sssuaod to be a predeterlined function of
+ties.
+
+31
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR “DO 531
+
+CONCERNING OISPLAOING Hams IN WC suspensions UNDER m ACTION OF
+PBR‘IURBING FORCES
+
+HBZUVUZOVSKIY SDORNIK. LBNINGRADSKII WWICUBSKIY INSII'I'U'I' [Inter-
+institutionel Collection. Leningred Electricel Engineering Institute] in
+Russien No 117. 1977 pp 122-126
+
+[Iron MIATIWW 21mm. mum lo 7. 1978 Abetrect Rn 7A62 by the
+euthor]
+
+PBDOROV. V. P.
+
+[‘l'ext] An exsninetion is nede of the displecing eonent thet sets on the
+gyro elenent of e two-degree flouting gyroscope on the side of the Iegnetic
+suspension in the use of devietion iron the ides1 gen-eerie shspe of the
+beering rotors end ection of disturbing forces. It is shown thet the dis-
+p1ecing nonent in this ceee conteine coeponente thet depend on 1ineer die-
+piecenente of the rotors, end consequently differ in instebiiity. Hethods
+
+ere reco-ended for clinineting the individuel conponents of the diepiecing
+nonent.
+
+USSR UDC 531.363531.31;531.391.5
+
+ENSURING STABILITY OF A GYROSTABILIZBR UNDER WW WIRING CONDITIOIS
+BY USING A STEAM-STAT! CORRECTING LOOP
+
+IEZWUZOVSKIY SBORNIK. “RIMS!“ marmxcuzsxn “STRUT [Inter-
+institutionel Collection. Leningred Blectricel Engineering Institute] in
+Russian ho 117. 1977 pp 103-107
+
+[Eton “WTIWYY ZUUBNAL. MIRA No 7, 1978 Abstract llo 7A69 by the
+euthor]
+
+POPOVICHBV. H. V.
+
+(Textl An eminetion is ends of the unetesdy node of operetion of e
+gyrostebilieer with e verieb1e kinetic gyroscope nonent. It is shown the:
+
+it is possible to ensure stebility of the systen over e broed renge of
+verietion in the kinetic nonent of the gyroscope by using e steedy-stete
+integrodifferentieting correcting loop of second order. Reconendetions
+
+ere nede on choosing the perenetere of the correcting loop thet ere confined
+by the results of digitel nodeling end experinentel reseerch. References 5.
+
+32
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR 0170 62-50
+
+AN ALCORITIM FOR 801.va mums IN OPTIMIZING m KINEMATIC CHARACTERISTICS
+OF MULTIPLE-RING GYROSCOPB SYSTM
+
+WVSKIY SBORNIK. WINCRADSKIY WIN“ INSTIM [Inter-
+inetitutional Collection. Leningrad Electrical Engineering Inatiture] in
+Rueaian no 117. 1977 pp 108-53
+
+[l’ron REPBRATIVNYY ZRURHAL. mm In 7. 1978 Abstract No 7A“ by the
+author]
+
+BYKOVA, C. M.
+
+[Text] An anulyeia it made of the particulara of digital coeputer eolution
+of problem of optiniaing the kinenatice of gyroeyetena with additional
+degreea of ireedon. A nunericel algorithn ie propoaed that appreciably
+inprovee convergence of the iteration algorithn by reducing the nonlinear
+boundary value problen to a Cauchy problem.
+
+USSR UDC S31.$5:521.2
+A COMBINED METHOD OF SOLVINC m GUIDANCE PROBLEH IN SPACBPLIGIT WICS
+
+KOSMICRBSKIYB ISSLBDOVANIYA NA UKRAINE. RESPUBLIXANSKIY mammary
+SBORNIK [Space Research in the Ukraine. Republic Interdepartmtal Collec-
+tion] in Russian No ll. 1977 pp 27-30
+
+[Pron RZPBRATIVNYY ZHURNAL, WIKA No 7. 1978 Abstract No 7A96 by the
+euthore]
+
+COVORUKRA. ll. 1. end FBOAN, B. I.
+
+[Text] An examination is made of a codined nethod of aolving the problen of
+guidance in apaceflight lechenice. The eeaence of the nethod coneiete in
+using the theory of keplerian notions to deter-inc the initial approximate
+values of the paranetera of orientation of the velocity vector of a space
+vehicle and derivativee of scattering with eubeequent solution of the boundary
+value problea by a nunerical nethod. Thin given the pooaibility for reducing
+the tine for solution of the problen by a factor of more than two as conpared
+with eolution by a purely nunerical nethod.
+
+33
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR unc 531 .55 x 52- .2
+
+on 80!!! PARTICULARS OF INVESTIGATIW 0? A MAGNETIC srsm FOR CONTINUOUS
+003830?!“ 01’ A KINETIC mu
+
+KOSHICHESKIYB ISSLBDOVANIYA NA WIDE. “81’0“.“qu Wm
+8301!th [Specs Reeesrch in the Ukraine. Republic lntsrdepartnsnts).
+Collection] in Russian Bo ll. 1977 pp 78-85
+
+[Prom mum ZHURNAL. mum bio 7, 1978 Abstrect No 7A9? by the
+authors]
+
+SRICBANIN, V. 8., WSKIY. V. 1.. mm, A. D. and ALPAIOV. A. 1’.
+
+[Text] An spprorinste nethod is presented for studying e nagnetic oysten
+for continuous correction of the kinetic nonent of a flywheel orientation
+control systsn. The nethod is based on differentiating the local. regional
+end global properties of the processes that take plece in the lunatic systu
+for continuous correction. In studying the local properties. s relation is
+established between the duration of correction and the parameters of the
+eystes; channel coupling coefficients are introduced that enable a quanti-
+tative evalustion of the influence of cross connections. In studying the
+regionsl properties. s nethod is proposed for deter-ining the conditions of
+existence of stable periodicity of the corrections in an isolated channel.
+Cases are pointed out in which global properties can be judged iron the
+result of studying local end regional properties.
+
+The proposed reseerch techniques enable physically graphic opti-isation of
+the para-sters of. the systen.
+
+36
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+0883 "DC $31.55:521.2
+ON m QUESTION OF SYN'I'HBSIZING AN 09mm SPACECRAP‘I “ION CONTROL LAN
+
+bbncov :MTBIWIICHESKO’IB OBBSPECKBNIYB ”Slam "SPERM [Space
+Rosearch Softvare] in Russian 1978 pp 1406-148
+
+[Pron mum! 2m. mm No 7. 1978 Abstract No 7A98 by the
+author]
+
+KUZ'KINYKH, V. A.
+
+[Text] An exanination is made of the problem of synthesizing optimm
+control with limitatione on power and orientation of reactive acceleration
+of a spacecraft. The differential equation for the criterion functional is
+transformed to parabolic quasilinear form and an estimate is given for the
+naximum value of the modulus of the criterion functional. References 6.
+
+USSR . 1100 ”1.5535213
+
+OHIHIZIIIG m SOLUTION OF SOME PROBLEMS IN SPACBFLIGB'I CONTROL BY ran
+HI‘I'BOD O? DBSOBN‘I um RESPECT 1'0 A rm
+
+Moscow NATHA‘IICIIBSKOYB OBBSPBCHNIYB KOSHICNBSKIKH BKSPERHGNTOV [Space
+Research Software] in Russian, 1978 pp 122-151
+
+[Prom umnvm 2mm. mum No 7. 1978 Abstract No 7‘10? by the
+authors)
+
+LIDOV, H. L. and TBSLENKO. N. H.
+
+[Text] It is pointed out that there is an analogy between the problem of
+choosing the optimum measurement program when there is a limitation on the
+frequency of measurements. and the problem of linear correction when there
+is a limitation on the amount of thrust. The problem of choosing the
+measurement program is generalized to the case of several parameters to be
+evaluated in the presence of a priori information.
+
+It is proved that the solution of these problem with a controlling function
+implied by the principle of dynamic programing is absolutely optimum. An
+algorithm is described for solving these problems by the method of descent
+
+35
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+with respect to a parsnster. starting from the value of the parameter of the
+problen for which the solution can be found by an analog of the sieplex
+nethod.
+
+Results of calculations on choosing an optinua asasureaent prograe (with a
+priori infatuation) are found for a satellite of Mars.
+
+USSR UDC $31.55:521.1
+CONCERNING OSCILIATIONS OF A SATELLITE IN AN ELLIPTICAL ORBIT
+
+Liev PROBLEM? ASINPTO‘I'ICNBSKOY MRII NBLINEYNYKB KOLBMNIY [Probleus of
+the Aaynptotic Theory of Nonlinear Oscillations] in Russian 1977 pp 46-53
+
+[Pros RBFBRA'I‘IVNYY ZHURNAL. mum No 7, 1978 Abstract No “106 by the
+author]
+
+BRYUNO, A. D.
+
+[Text] A nonlinear differential equation that describes planar notion of
+
+a satellite relative to a center of inertia that soves in an elliptical orbit
+is considered for two cases corresponding to oscillations of the satellite
+either in an orbital or an absolute coordinate systel. In these cases.
+calculations of higher approximations of the asynptotic Isthod are used to
+refine results on the stability of know periodic solutions. and new classes
+of stable periodic solutions are iound ea vell. References 13.
+
+36
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL 088 ONLY
+
+USSR uoc 531.551521J
+STEAM-STATE NAM]. ROTATIONS OF AN ARTIFICIAL SATILH‘I’B IN A MAGNETIC PIILD
+
+KOSHICHBSKIYB ISSLBDOVANIYA NA UKRAINE. mmnmnsm WW
+8110le [Space llooearch in the Ukraine. Republic Intardopartaental
+Collection] in Rueoien No ll. 1977 pp 17-22
+
+[Prom RBPBMTIVNYY mm. MIRA No 7. 1978 Abotrect ho 7AlO7 by tho
+outhoro]
+
+YANSRIN. A. H. and ZABLIIDA. 8. N.
+
+[Text] A eyeton of oquetiono ie derived that deecriheo the evolution of
+rotational notion of an artificial eatollita in e aagnatic field under the
+effect of tho diooipativa moat fron eddy currento with coneideretion of
+the angular rotational velocity of following of the vector or goonognotic
+field intonoity in on oheoluto coordinate oyoteu along the orbit of tho
+artificial eatallito. Booed on axe-plea of polar equatorial and otoedy-
+oteto orbite. an invootigetion io node of tho aoynptotic etoady-etoto
+natural rotationo of the oetollito. It to ohovn that thoae etoady-ototo
+rotetiono aao equal to tho angular rotational velocitioo of following of
+the vector . . and ao a rule are in a reeonent relation with the frequency
+of orbital revolution of the oatollite. Condition are conoiderod that
+
+load to raveroel of oetellito rotation by the goonegnetic field. leforencoe
+12.
+
+37
+FOR OFFICIAL USE ONLY
+[OR OHICKAL "8! ONLY
+
+088R 006 531 .558521. 1
+
+THO-IMPULSE TRANSFER PROM mum POINTS OF AN ELLIPTICAL ORBIT TO A
+COPLANAR CIRCULAR ORBIT
+
+KOSHICIIBSRIYB ISSLBDOVANIYA NA MAI“. RBSPUBLIRAHSRIY W
+SBORNIK [Space Research in the Ukraine. Republic Interdepertnental
+Collection] in Russian No 11. 1977 pp 7-10
+
+[fro- litrmumr mm, mm lo 7. 1978 Abstract Mo was by the
+author
+
+RONAROV. V. 0.
+
+[Text] An examination is esde of a tvo-iqulse transfer of a space
+vehicle between a fixed point on an elliptical orbit and a coplanar circular
+
+orbit. it is assuned that the inpulees are inparted in the direction of the
+velocity vector. An investigation is ends of the way thet the characteristic
+velocity depends on the true anosely in the elliptical orbit.
+
+USSR "DC 531 . 55: 521.1
+
+ON CONTROLLﬂlO m m0“ 0? A RAIR OP semmzs INTENDED FOR PROUD“: m
+HAM‘IOSMRB
+
+Hoecw MMTICRBSKOY! 0329mm!!! tosmcnnsrmx mmnurov [Space
+Research Software) in Russian 1978 pp 1.52-le
+
+[Pros untnmm mm. mm No 7. 1978 Abstract 30 71.109 by the
+author]
+
+"smut. N. A.
+
+(Text! An eueinstion is node of problems of optim control of the notion
+of e peir oi eatellitee in eone neighborhood of a mind trajectory.
+Pontrysain'e Iexieun principle is used to solve the problem A nethod in
+
+proposed for choosing the initial approxilation of the eolution based on
+the peculiarities of a given problee.
+
+38
+FOR OFFICIAL USE ONLY
+FOR OFI’ICIAI. USE ONLY
+
+USSR U06 33‘
+
+DYNAMIC STABILITY OF A OYROSCOPB UITH DISPLACRD CENT!!! OP MASS UNDER CONDI-
+TIONS 0P RANDOM VIBRATION OF THE M88
+
+HBZHVUZOVSKIY SBORNIR. LBNINORADKIY ELECTRO‘IWICUBSKIY INSTITU'I‘ [Intel'-
+
+institutionel Collection. Leningrsd Electricel Engineering Institute] in
+Russisn No 117. 1977 pp 69-72
+
+[Pro- RBPBRA'I‘IVNYY ZRURNAL. MIRA No 7. 1978 Abstract No 7AI3‘ by the
+euthors]
+
+CURIN. L. 3.. KOPYTOV. V. I. end CIIAPKOVICH. A. A.
+
+[Text] The euthors consider notion of e gyroscope in e Csrden suspension
+with displecessnt of the center of uses when the been is subjected to linesr
+vibretion thet in s uide-bend tendon process. The resulteut condition
+shows thet (or predetermined gyroscope peressters. the possibility of onset
+of perenetric reeonsnce is influenced by the retio between desping slong
+the cues of the gyroscope end the spectrel density of vibretion of the bese
+on e frequency thet is double the frequency of nutetionsl oscilletions of
+the gyroscope. Reference 5.
+
+USSR UDC 536
+FREQUENCY BEHAVIOR OF GYROSCOPIC SYSTEMS
+
+HATBHATICHESKIYE HBTODY I PIZIRo-HEKHANICBESKIYB POLYA. RESPUBLIKANSKIY
+HBZHVBDOHSTVENNYY SBORNIK [Hethensticel methods end Physicosechenicel Fields.
+Republic Interdepsrtnentel Collection] in Ruesien No 7. 1978 pp 20-21
+
+[Prove REFEM‘I'IVNYY ZHURNAL, HEWIKA No 7. 1978 Abstract No 7A1“. by the
+euthor]
+
+BALIUSKIY. A. I .
+
+(Text) The clsssicel result of frequency behavior of lineer coneervetive
+nechenicel systens is extended to gyroscupic systems by reducing the
+initiel eigenvelue problen thet is nonlineer with respect to e spectrel
+pereneter to en equivalent lineer end sylnetric probles.
+
+39
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR "DC 53‘
+
+INVESTIGATION 0? THE INFLUENCE TNAT NONIDINTITY OF CHANNELS MAS ON THE
+DYNAMICS OF A DIRECT CYROSTASILIZIR
+
+HEZHVUZOVSKIY SIORNIK. LSNINGRADKIY BLBRIIOTEKHNICHBSKIY INSTITUT (Inter-
+institutionel Collection. Leninsred Blectricsl Engineering Institute]
+in Russien No 117, 1977 pp 166-132
+
+[Prom RBPBRATIVNYY ZNURNAL. MIKHANIKA No 7. 1978 Abstrect No 7A161 by the
+euthors]
+
+VLASOV. W. V. end SAVIN, N. S.
+
+[Abstrsct] An investigetion is made of the influence thst uonidentity of
+
+tho stitfnesses o! the torsion members with respect to the ones or pre-
+cession of gyroscopes hes on the (requency chsrscteristics of s tuo-exlo
+direct syrostebiliser. It is theoreticslly end exporimentslly shown thst
+when such nonidontity is present. "splitting" occurs between the nutstionel
+frequencies end the frequencies on which msxinum suppression of forced
+oscilletions of the pIstform is observed. expressions ere found for tho
+direct end cross coefficients of trensfer of the syrostebilirer es s function
+of its mejor pore-store.
+
+USSR UDC 533.652/.661.013
+
+SYNTHESIS 0? AN OPTIMUM SYSTEM POR STABILIZING TN! TRAJBCTONY 0? A PLICNT-
+CRAFT WITH THO CONTROL ELEMENTS
+
+Moscow SINTBZ OPTIMAL'NOY SISTEMY STAIILIZATSII TIAYEKTORII LBTATBL'NOOO
+APPARATA S DVUMYA UPRAVLYAYUSNCNIMI ORCANAMI in Rosella. Moscow Avlltion
+Institute. 1977, 5 pp (deposited in TleITBlpriborostr.. 16 Jon 78 No 866)
+
+[From REPERATIVNYY ZNURNAL. MENNANIKA No 7. 1978 Abstrsct No 781292 08?
+by the suthor]
+
+SOROKIN, A. P.
+
+[Text] The psper desls with problems of constructing e system for
+stsbilising the motion of s flightcrett controlled by the principle of
+trscking the psrsmeters of s nominel trejectory. Flightcreft motion is
+described by s system of unstesdy equetions. An optimum slgorithm is
+synthesized for coupled control by two control elements. A Riccsti mstrix
+
+60
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+equation is integrated in the reverse direction of change of the independent
+variable to find the variable coefficients of feedback. A nethod is
+
+developed for finding the elements of weighting natrices of the quality
+criterion with consideration of given indices of quality of control
+processes, acting perturbations and limitations on controlling variables.
+The control algorithm derived as a result of synthesis can be realised by
+an airborne digital computer.
+
+USSR UDC 629.761.78.0152533.6
+SITUATIONAL CONTROL OF A DYNAMIC OBJECT
+
+TEHATICRBSKIY SBORNIK NAUCHNYKH TRUDOV. HDSKOVSKIY AVIATSIONNYY TNSTITUT
+[Topical Collection of Scientific Papers. Moscow Aviation Institute] in
+Russian No 619. 1977 pp 66-70
+
+[From REPERATIVNYY ZRURNAL. HBKBANIKA No 7. 1978 Abstract No 731313 by
+c. S. Aronin]
+
+OSIPOV. V. 6.. OSIPOVA. V. A. and ROULOV. V. V.
+
+[Text] An examination is made of an algorithm for flightcraft notion
+control realized by an airborne digital computer by changing the angle of
+attack for tracking longitudinal range and changing the angle of banking
+for tracking lateral range. It is assumed that thrust is equal to zero.
+flight takes place in the stsosphere of a spherical non-rotating planet.
+and control cos-ands are sent at discrete nonents of time. For situations
+in which it is impossible to cospensate for mismatch with respect to
+lateral range without introducing perturbations in the longitudinal
+
+range channel it is proposed that one of three fixed controlling actions
+with respect to banking be selected (zero, positive. negative) such that a
+ninimun specially constructed utility function is realized that accounts
+for deviations from the noninal trajectory with respect to longitudinal
+and lateral ranges and other parameters. The weighting coefficients for
+individual parameters are selected on the basis of expert estinates.
+References S.
+
+51
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Non-Nucleer Energy
+
+USSR UDO 621. 311. 153
+
+OENERALIZATION OF TUE RESULTS OF STUDIES OF 300 m GENERATORS “BEN THE LOAD
+IS DROPPED COMPLETELY OR TO TIIE LEVEL OF INTERNAL NEEDS
+
+HANEVRBNNOSI’ HOSHCHNYKH TEPLOBNBRGBTIGBBSKIKH BLOKOV. TRUDY VSBSOIUZNOGO
+TBPLOTBXHNICHBSKOGO NAUCBNO-ISSLBDOVATKL'sxoco INSTITUTE IHIRI P. B.
+DZBRZRINSKOGD [Hensuverehility of Powerful Thernsl Power Units. Proceedings
+of the All-Union Scientific Reseerch Institute of Best Engineering iseni
+
+P. B. Deershinskiyl in Russisn No 16. 1978 pp 132-153
+
+[Fran REFERATIVNW ZUURNAL. TURDOSTROTENIYE No 9, 1978 Abstrect No 9.69.88]
+IZRAILEV. W. I... LIVSNITS. H. A.. FLOTKIN, YE. R. end SOZAYEV. A. 8.
+
+[Text] The peper generelires the results of theoreticel end experinentel
+reseerch done by the All-Union Scientific Reseerch Institute of ﬂeet
+Engineering ieeni P. E. Dsershinskiy. 036388. the Centrel Boiler end Turbine
+Institute end other orssnizetions. It hes been esteblished thst no-loed
+
+or internel-needs conditions cen be nsintsined on 300 MR generetors efter
+the loed is dropped. Retention of the reted pressure of live stees when the
+loed is dropped is fully ednissihle with respect to reliebility conditions.
+end therefore the requirensnt of en oblisstory pressure drop to 15.7 HPs
+(160 kgf/cuz) cen be done ewey with. References 15.
+
+USSR UDC 533.9
+THE HYDRODYNAHIC EFFECT FOR A PLASMA IN A MAGNETIC FIELD
+
+VBSTNIK LENINGRADSKOGO GOSUDARSIVENNOGO UNIVBKSITETA in Russien No l, 1978
+pp 103-106
+
+[FIOI REFERATIVN‘YY ZNURNAL, MIRA No 7. 1978 Abstract No 7333‘ by the
+euthor]
+
+KAPITANOV. V. S.
+
+[Text] The nethod of continuum intesretion is epplied to e systee of Per-i
+perticles with Coulomb interection (e plesns) in e constent nsgnetic field.
+Interection is sccounted for by introducing en edditionel lose field. An
+expression is found for the “hydrodyneeic ection" functionel by integretion
+with respect to "fest" Bose fields. A nodified perturbetion theory is con-
+structed thet is free of divergences st low eonente. Bydrodyneeic sction
+is used to celculets de-ping of long-weve plesee oscilletions with trens-
+logerithnic eccurecy for en electron-ion plssns.
+
+FOR OFFICI‘ USE ONLY
+FOR OPPICIAL USE ONLY
+
+USSR UDC 533.9
+RADIATION OF A LAYER OF NONBQUILIBRIUN PLASMA
+
+FIZIKA PLAZHY in Russian Vol 4. No 2, l978 pp 620-h32
+
+[Pron RBPBRATIVNYY ZHURNAL, HBKHANIKA No 7. 1978 Abstract No 73396 by the
+authors]
+
+ZAGORODNIY, A. G. and YAKIHBNKO. I. P.
+
+[Text] Energy relations are established for spontaneous radiation of a
+layer of plasns that is in s steady. but thereodynenicslly nonequilibriul
+state. An investigation is neds of the possibility of instability of quasi-
+ststic surface excitations end an associated snonalous rise in the effective
+tenperatures of the quasistetionery field of spontaneous enission. A
+nueerical analysis is nede of the frequency and angular distributions of
+intensity of spontaneous emission of a layer of nonisothernsl electron-
+
+ion plssne. It is deeonstreted that there are interference resonances
+associated with collective excitations in the body of the plea-s.
+References 20.
+
+USSR UDC 533.9
+
+INFLUENCE THAT THE POSITION OF THE BOUNDARY OP THE PLASMA OF THE REGION OF
+NBUTRALIZATION OF AN ION BEAN HAS OR ITS DBPLBCTION
+
+PIZIKA PLAZHY in Russian Vol 6. No 2. 1978 pp 371-377
+
+[Pro- RBPBRATIVNYY ZNURNAL. HZKNANIKA No 7, 1978 Abstract No 73400 by the
+authors] - -
+
+LIKHTBR, V. A. and SNUL'GIN, V. I.
+
+[Text] The paper gives the results of a study of the deflection of an
+
+ion been by transverse displacenent of an accelerating electrode for
+different degrees of deceleration end positions of the plsne of neutraliza-
+tion. It is shown that when the plane of neutralization in very far free
+the accelerating electrode and the degree of deceleration is low the
+observed deflection of the ion been agrees well with the results of calcu-
+lation. At short distances to the plane of neutralization and for high
+degrees of deceleration appreciable been deflection takes place beyond the
+accelerating electrode and in thin cese the experinentel dste agree with
+the results of modeling. Hssinun deflection of the ion been reached 35’.
+
+63
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR UDC 533.9
+WSBT AND DBVBLOPHBNT 01' IONIZATION TURBULERCB
+
+TRUDY MSKOVSKOGO MORTICRBSKOGO INSTITUTA [Scientific Transactions of
+Moscow Power Engineering Institute] in Ruseisn No 336. 1977 pp 26-32
+
+[Prom RBPBRATIVNYY ZHURNAL. HBKBANIKA No 7. 1978 Abstrsct No 7Bb90 by
+I . K. Rutkevich]
+
+SINKBVICH. o. A. end cnuxLOVA. v. r.
+
+[Text] A systel of ordinsry differentiel equetions is derived for the
+esplitudes of interecting perturbetions es en ioniestion instsbility
+
+develops. An exeninstion is node of e nonequilibrius plssse in e flst chsnnel
+with nonconductive wells. x-const. The electric current flows perpendicu-
+lsrly to the magnetic field directed elong the c-exis. The pereneter of
+eupercriticslity is tsken es snell. end the Lyspunov-Shnidt nethod is used
+
+to study veve interection in the trsnscriticsl region. It is proposed thst
+the resultent systen of equations be used to find the spectrum of ionizstion
+turbulence. Figures 7.
+
+ussn unc 533.95
+SPECTRA or CYCLOTBON uAvrs In A PLASMA CONTAINING rue trans or IONS
+PIZIKA PLAZHY in Ruseisn Vol 4. No 2. 1978 pp 396-398
+
+[Prom RBFBRATIVNYY ZHURNAL. HBKHANIKA No 7, 1978 Abetrect No 73506 by
+the suthore]
+
+KALADZB. T. D. and TSAHALASRVILI, L. V.
+
+[Text] The peper gives the results of e nu-ericsl solution of the dis-
+persion equetion for ion cyclotron vsvee propsgsting perpendiculsrly to s
+negnetic field in s plesne contsining ions of two kinds (deuteriun+tritiuu)
+for different vslues of the rstio of plssne pressure to legnetic field
+pressure. References 17.
+
+66
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR U'DC 533 . 9S
+
+SPECTRAL UBNSITIBS 0F SPATIAL CORRELATION OF CHARGE IN A PLANE LAYER OF
+THO-TEMPERATURE ELECTRON-ION PLASMA
+
+PIZIKA PLAIN! in Russian Vol 6, No 2, 1978 pp 399-510
+
+[Pron REPERATIVNYY ZHURNAL. HEXHANIKA No 7, 1978 Abstract No 73507 by the
+authors]
+
+POPOV. V. S. and YAKIH‘ENKO, I. 1’.
+
+[Text] An exasination is made of electromagnetic fluctuations in an
+electron-ion plasma bounded by two parallel planes on which the condition
+of mirror reflection of charged particles is satisfied. The boundary value
+problea is solved for a fluctuation field in such a systea. and correlation
+functions are then constructed for fluctuation deviations of the density of
+electron and ion charges from the statistically average values. An in-
+vestigation is asde of the special cases of an electron and a nonisothernal
+electron-ion plasma. Principal emphasis is placed on regions of transparen-
+cy of the plasaa in which fluctuations take on a wave character and the
+influence of the boundaries becoaes appreciable throughout the volume of the
+plasla. References 25.
+
+USSR UDC $33.95
+
+ON THE ANCULAR ANISOTROP'Y OF ELECTROMAGNETIC ENERGY FLUX IN THE VICINITY OF
+A PLASMA RESONANCE
+
+Moscow VOLNOVYYE PROTSESSY V PRIZEHNOH PLAIN! [Have Processes in a Ground
+Plasma] in Russian 1977 pp 135-140
+
+[Prom REFERATIVNYY ZHURNAL. HBKHARIKA No 7, 1978 Abstract No 73532 by the
+author]
+
+WISEYEV. B. 5.
+
+[Text] An examination is made of the angular anisotropy of energy flux
+propagating in a weakly nonhonogeneous nediun in the vicinity of a plasma
+resonance. It is shown that far froa resonance where absorption is low,
+waveguiding along the resonant surface is possible. On the other hand
+
+in a snail neighborhood where damping along the density gradient is high.
+
+65
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the author considers radiation of a source (such as a plasaa instability)
+vhoss field is the surface waves in this region. An investigation is made
+
+of the nutual orientation of the vectors of phase velocity and energy flux
+for these waves, and it is shown that under certain conditions an inverse
+electroaagnetic wave nay exist close to plasma resonance. References 6.
+
+USSR UDC 536.26
+SPACE RADIATION FROM A CONICAL CAVITY um UNS‘IEADY WWW FIELD
+
+KOSHICBBSKIYB ISSLBDOVANIYA NA mm. RESPUBLIKANSKIY mm
+SBORNIK [Space Research in the Ukraine. Republic Interdepartaental
+Collection] in Russian No 11. 1977 pp 31-36
+
+[Proa RBPZRATIVNYY ZRURNAL. HBIRANIRA No 7, 1978 Abstract No 73566 by
+the authors]
+
+DOROSHKBVICH. V. K. and msaumo. W. I.
+
+[Text] An exaainetion is aade of the process of heat transfer by radiation
+fron the surface of a cavity formed by a shell with unsteady temperature
+field. Relations are found for deter-ining the heat transfer free the
+cavity and the unsteady temperature fields along the shell. The systen of
+equations is solved by a nuasrical nethod. The results of the calculation
+are coapered vith experiasntal data.
+
+66
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Nuclear Energy
+
+USSR 000 533.9
+
+INFLUENCE THAT TllB MAGNETIC CONPIGURATION OF A POLOIDAL DIVBRTRR llAS ON A
+PLASMA DISCRARGE IN A T-12 TEA-RING tom
+
+FIZIKA PLAZHY in Russian Vol 5, No 2. 1978 pp 261-268
+
+[From RBPBRATIVNYY ZRURNAL. HEIRANIKA No 7, 1978 Abstract No 78461 by the
+authors]
+
+BORTNIKOV. A. V., BREWOV, N. N., GASS. V., GBRASIIDV, 8. N. ZIIUKOVSKII,
+V. 6., KUZNBTSOV. N. V.. PBRGAm‘l'. V. 1., {BATCHIRSOPL D. and mmcamo.
+L. 1!.
+
+[Text] The paper gives the results of an experiment on the 1-12 tea-ring
+tokamak with two poloidal diverters. The purpose of the research was to
+determine the influence that the magnetic configuration of the poloidsl
+diverter has on the physical parameters of the plasma discharge. eagneto-
+hydrodynamic stability and stability with respect to the vertical. It is
+shown that the configuration of the poloidsl diverter has a beneficial
+effect on plasma para-store. and has practically no influence on the mag-
+netohydrodynamic processes inside the plasea discharge (on the development
+of perturbations with s - 2 and interruption of current.
+
+USSR UDC 533.9
+
+STRUCTURE OF PERTURBATIONS 01’ THE MAGNETIC FIELD IN DEVELOPMENT OF UNSTABLE
+COLLAPSE IN THE Tom-6 FACILITY
+
+PIZIKA PLAZHY in Russian Vol 6. No 2. 1978 pp 275-296
+
+[Froe REPERATIVNYY ZHURNAL. HEKHANIKA No 7. 1978 Abstract No 73462 by the
+author]
+
+HBRBZHKIN, V. 6.
+
+[Text] An investigation is made of the structure and dynamics of poloidal
+field perturbations in development of collapse instability on the toknmak-6
+facility. An analysis is made of the behavior of the symmetric and dipole
+components of the field and the particulars of the structure of helical
+perturbations in minor and major collapses. It is shown that a decisive
+role is played by helical perturbations with m - 2 in the initial phase of
+
+67
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+development of these collapses. It is observed that the structure of
+helical perturbationc is invariable in minor collapses. and that the re-
+
+structuring of these perturbations is discrete in nature in Iajor collapses.
+A relation is found between the sys-etric and helical coaponenta of perturba-
+tions of the poloidal field on the leading edge of the rise in perturbations.
+Data are given on increments. scales and structure of helical perturbations.
+the relations between the synaetric and helical coeponente of field per-
+
+turbations. and the aagnitude of energy losses of planes in typical collapses.
+References 8.
+
+68
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Turbine end Engine Design
+USSR uoc 629.7.036.03
+
+ELECTRONIC SIHMTION OP STARTUP OF A TURBOJET AIRCRAFT ENGINE WITH
+BLASTICITY 0? m COMPONENTS TAKE! INTO ACCOUNT
+
+Moscow VOPROSY TBORII I RASCNBTA RABOCNIHI PROTBSSOV TBPLOVYRN WIGATKLBY
+
+[Problems in Theory end Design of Working Processes for Best Engines] in
+Ruesinn. No l. 1977 pp 153-156
+
+[Pro- RBPRRATIVNYY ZNURNAL M. AVIATSIONNYYB I RAKBTNYYB DVIGAmI, No 9.
+Sep 78 Abstrsct No 9.36.66]
+
+HANZIY. V. 8. end PANCNISNIN. V. I.
+
+[Text] A systes of cosputer equetione is set up which correspond to earlier
+derived differentisl equetions describing the stertup of s turbojet engine
+end which tske into eccount the elssticity of the trsnenission cosponents.
+A schenetic block disgres of this electronic nodel is constructed with
+elements of en iii-16 nonlinear snelog coquter. Figures 2; references 3.
+
+USSR [Inc 621.638.0015
+TEST RESULTS PBRTAINING TO A SINGLE-STAG! AIR TURBINE DURING BRAKING
+
+Hoscov WSWERAMNYYE OIOILAZRDAYMYB GAIDVYYE TURBINT 'DVIGATBBY
+LBTATBL'NYKB APPARATOV [Cooled High-Tempereture Gee Turbines for Air-croft
+Engines] in Russian, No 2. 1977 pp 89-96
+
+[Prom RBFBRATIVNYY ZHURNAI. 36. AVIATSIONNYYE I RAKETNYYB DVIGATBLI. No 9.
+Sep 78 Abstrect No 9.36.66]
+
+VAVILOV. G. A.. KAZAKOV, V. 3.. NAKSUTOVA. H. K. end TKACHENRO, N. S.
+
+[Text] Test results are presented perteining to s single-stege sir turbine
+during braking. The working process in the flow chsnnel vss exenined during
+broking et verioue rstes of eir flow through the turbine. Reco-endetions
+ere node on how to determine the braking torque developed by s turbine during
+reverse rotation of the runner. Figures 5; references 3.
+
+109
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR UDC 621.638-181.6+629.7.036-181.6
+AVERAGING A WHO”! PLOW IN GAS TURBINE All) 190221.38
+
+lbscov WSOKMMERATUWYB WYMY! GAZOV"! mm DVIGA'IBLBY
+mAm'um APPABA'NV [Cooled lligh-‘i‘emerature Gas Turbines for Aircraft
+Engines] in Russian. No 2. 1977 pp 5&67
+
+NATALEVICII. A. S .
+
+[Pron RBWTIWYY autism. 3’0. AVIATSIONNYYB 1 mm: WIGATBLI, No 9.
+Sep 78 Abstract No 9.36.65]
+
+[Text] A method is considered of averaging e nonuniforn flow under a
+constant static pressure and at a constant stagnation teuperature, as through
+the exit sections of turbine and nozzle arrays. Unlike in the well known
+nethod according to L. I. Sedov. where the average flow is regarded as
+equivalent to s given nonuniforn flow on the basis of three parenetera only.
+here the condition 'rhconet is easunsd and two average fleas are constructed
+which together ensure equivalence to a given nonuniforl flow also with respect
+to two additional para-stars. References 8.
+
+USSR ' UDC 621.638:536.26
+
+INVESTIGATIOII 0? m TOLERANCE LIMITS ON THE DIMENSIORS OF INTERNAL PASSAGBS
+038168!!!) FOR 331' COOLING OF A 10081. SIMATING m INLET EDGE OF A DEW
+VAN!
+
+Moscow RUDY V1030? mumo—mmmcnzsxov WWII mwm ucmmm I
+SPBTSIALIS'I‘OV [Proceedings of the Second Scientific and Technical Conference
+of Young Scientists and Specialists] in Russian, Moscow Aviation Technologi-
+cal Institute. 1978 pp 265-256 (unuscript deposited in the State Scientific
+Research Institute of Scientific and Technical Infornation 12 Jun 78, No 6-78)
+
+[Pro- RBPBRATIVIIYY ZUURNAL 36. AVIA‘I‘SIONN‘IYE I mm DVIGA‘I'ELI, No 9,
+Sep 78 Abstract No 9.36.67 DIP]
+
+GALKIU. H. IL. 30m, A. N" WIN. A. A. and SHBVCEHKO, I. V.
+
+[Text] The study was eade by an adapted nethod of local calorinetry, vith
+the cooled nodel inside a liquid-natal thernostat. It has been found that,
+at certein conbinations of usll-to-deflector clearance and dianeter of de-
+flector holes. the tolerances on the passage dinensions can be widened without
+
+50
+FOR OFFICIAL USE ONLY
+FOR OFPICIAL USE ONLY
+
+a loss in cooling effectiveness. Deviation tolerances have been tabulated
+for various codainatione of noeinal dieenaions so that the letter can be
+
+optimized not only with respect to nexinue cooling effectiveness but also
+free the standpoint of nanufacturability of the cooling eyeten structure.
+
+USSR 000 629 . 7 .036. 3—411
+
+DMLOPWNT OF A METHOD 0? ESTABLISHING THE TOLBRANCBS ON THE DWSIONS OI’
+INTERNAL PASSAGBS 32mm TURBINE BLADES
+
+Moscow TRUDY VTOROY NAUWTWICRBSKOY KONFBRSNTSII IDLODYIOI ucanmnl I
+
+SPECIALISTOV [Proceedings of the Second Scientific and Technical Conference
+of Young Scientists and Specialists] in Russian. Moscow Aviation Technologi-
+cal lnetitute, 1978 pp 238-2“ (nanuecript deposited in the State Scientific
+
+Research Institute of Scientific and Technical lnforeation 12 Jun 78. No
+6-78)
+
+[Fro- RBFBRATIVNYY ZWAL 36. AVIATSIONNYYE I RAKBTNYYB DVIGATBLI. no 9.
+Sep 78 Abstract No 9.310.458 DIP]
+
+OALKIN. N. 31.. com. A. N. and WIN. A. A.
+
+[Text] The gist of the proposed nethod in 0- follows. The effect of a
+design dimension d1 characterizing a blade cooling system on the local
+coefficients “A of heat tranafer to air is detereined. in tone of an
+influence function, at a given operating drop of air pressure 1 along a blade
+by local calorinetry inside a liquid-natal therlostet Then the range of
+pereissible deviations As: of the heat transfer coefficients due to
+verietione in the design d nenaion d1 is detenined fro- the deviation of
+wall tenpereture A?" . The tolerance linita on the particular design
+dimension d; are now defined to correspond to the given range of of;
+variations on the basis of the influence function “A - f(di‘n). A
+graphical version of this nethod ia also proposed and theoretical relationa
+are derived for processing the results of original neasurenente.
+
+51
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+U838 UDC 629. 7.03:621.638
+
+CALCULATION OF THE MEMTURB PIBLD OP SOLID BLADES IN A TURBINE UNDER
+STEADY CONDITIONS WITH PARTIAL COOLING AT THEIR ROOTS
+
+Moscow WSWBRATURNYYI OHILAZBDAYMB GAZOWYB TURBINY DVIGATKLBY
+LBTATBL‘NYKH APPARATOV [Cooled nigh-Tsspsreture Ges Turbines for Aircrsft
+Engines] in Russisn. No 2. 1978 pp 12-18
+
+[Fran ”THATIVIHY ZBURIIAL 310. AVIATSIOWYB I RAW“! DVIGATBLI, No 9.
+Sep 78 Abstrect No 9.36.38]
+
+LOKAY, V. 1.. TKACIIINKO. N. 8. end ”DWI”. $11.81!.
+
+[Text] A systen is described for psrtiel cooling of ectivs turbine
+bledes st their roots. Methods of celculeting the tenpereture field of
+s solid turbine blsde with such cooling ere shown end results of these
+cslculetions ere presented. Figures 5: references 2.
+
+USSR UDC “1.438636.“
+
+GENERALIZATION 0? TEST DATA ON BHT TRANSFER IN HORKINO BIDDERS OP RADIAL-
+AXIAL TURBIUES
+
+Moscov WSWEMTURNYYB OKHLAZHDAYMYB GAZOVYYB TURBINY DVIGATILEY
+LBTATBL'NYKR APPARATOV [Cooled ligh-Tenpersture Gee Turbines fir Aircreft
+Engines] in Russien. No 2. 1977 pp 36-63
+
+[Pro- RBPBRATIVIIYY ZHURNAL 36. AVIATSIOODI'YYB I m DVIGATBLI. No 9.
+Sep 78 Abstrect No 9.35.37]
+
+BODUNOV. H. 7].. CHUGUNOV. YU. N. end PANUTDINOV, R. D.
+
+[Text] Body forces ere ere-ined which ect on s gee stress in the roteting
+intervene pssssges of redisl-sxiel turbine runners. 8y enslysis of the
+equstions of steedy-stete lotion end in eccordsnce vith scsling theory.
+edditionsl dinensionless numbers ere obtsined representing the effect of
+
+centrifugsl. lift end Coriolis body forces on the hest trensfer. Figures
+1; references 16.
+
+52
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+0881! unc 621.938
+OHIMUH PARAMETERS OF 1118 11mm IN A RADIAL-AXIAL TURBINE STAG!
+
+RUDY “1&0qu mmusnomvuoco merm mm W 8. o.
+HAKAROVA [Proceedings of Nikolsyev Shipbuilding Institute ineni Acedenicien
+8. 0. heurov] in Russien ND 132, 1978 pp 52-57
+
+[Pro- RBFBIAI‘IVNYY ZHURNAL. TURBOSTROIBIIIYB No 9. 1978 Abstract Ito 9.99.21]
+LBVBlBBRG, V. D. and BORISINKO. V. D.
+
+[Text] The srtiele gives the results of solution of the prohlen of optinising
+the geonetric psrsneters thst deter-nine the shepe of the new section of the
+runner in e redisl-sxisl centripetsl turbine. end enslyse the flow of s
+
+three-dinensionsl stress in s stsge oi optim- geonetry. Figures 5.
+references 6.
+
+USSR U'DC 621 $384621 . 165 2 536.2
+
+ON THE PROBLEM OP CHOOSING 1118 PABAHBI'BRS OF A MARINE STEAK-GAS TURBINE
+POWER PLANT "III! MMDIATB GAS HEATH“:
+
+TRUDY untounvsxooo mmumolm'uoco INSTITU'I‘A mm Amman s. O.
+HAKAROVA [Proceedings of Nikolsyev Shipbuilding Institute iseni Aesdenieien
+s. O. Hsksrov] in Rusnisn No 132. 1978 pp 15-19
+
+[Front RBPBMTIVNYY leURNAL. TURBOSIROYENIYB. No 9. 1978 AbstrsCC No 9.69.15]
+VASBCRILENKO. N. V. and CENBOH. V. A.
+
+[Text] The psper gives the results of e thereodynsnic snslyeis of n nerine
+etesn—gss power plsnt with intersediste gas heating. The suthors justify
+the feasibility of locating the codaustion chsnber for interlediste gss
+heating between the gss generator end the turbine screw of the gee-turbine
+engine. Recouendstions ere ads on choosing the nsin psrsseters of
+
+the cycle of the instslletion. Figures 6. tsble 1.
+
+53
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL US! on?
+
+EQUIPMENT
+Industriel
+
+USSR 000 531. 787
+
+All “STALLATION mm A HIGH-SPEED VALVE I'Ol't REPRODUCTION 01' PRISSURB PULSBS
+IN A FLUID
+
+TRUDY HBTnDLOGICﬂBSKIﬂK INSTITUTOV 883R. VSBSOYUZNYY NAUCENO-ISSLIOOMATIL'SKI?
+INSTITUT HITROLOGICRBSROY SLUZBDY [Proceedings of Hetrolosicsl Institutes
+
+of the USSR. All-Union Scientific Resesrch lnstitute of the Hetrologicsl
+Service] in Russisn 1978 No 223/283 pp 70-79
+
+[Fran ”mum ZIlURNAL. MOWIYA I IMITE'NAYA MIRA No 9,
+1973. Abetrect No 9.32.681]
+
+DUNAYBVA. V. A. and WIKOV. I. V.
+
+[Text] A description end results of experinsntsl testing ere presented
+
+for en instelletion contsining s high-speed vslve. which csn reproduce
+pressure steps in e fluid oi iron 155 to 6.107 Fe with s rise ties to the
+peek pressure of 0.3 no end s durstion of settling of the trensient pressure
+of 7-10 Is. An estieste is presented of the error in reproduction of
+pressure. Figures 2.
+
+5‘
+NR OFFICIAL USE ONLY
+YO! OFFICIAL USE ONLY
+
+“assuring. Testing
+
+088R "DC 621. 383
+
+MEASURING DEVICBS FOR ms STUDY 01’ I'll! CONVERSION FACTOR OP PBO‘IOMCTRIC
+WORM CW” AND 1113 LIMIT! OF 1112 WIN CHARACTERISIIC
+It! THB DWIC OPERATING MOB
+
+mum's NAYA rommtu [Pulse Photo-ecu] in Ruseisn 1978. No 5. pp 99-102
+
+[Fro- “MINI“ ZHURNAL WWIYA I IMRH'EL'UAYA No 9. 1978.
+Abstrsct No 9.32.1‘73]
+
+CWYARSKIYY. A. A. and YAKOVLBV, V. A.
+
+[Text] Heeeuring instelletions hsve been developed for ostrologic study
+of photoelectric ssssuring trensducers in the pulse node of operetion in
+the spectrel renge of 0.5-1.6 p. Figures 2. References 3.
+
+USSR 681. 787 .6:621 . 375.826
+MULTIPLE-33A)! SCANNING PABl‘l-PBRO‘I WWW um! VARIABLE BASE
+
+mm mowemussmm INSTITUTOV sssn. vsssomnm “Ammo-ISSBDOVATBL'SKIY
+INSTITUT DETROLOGII [Proceedings of lietrologicsl Institutes of the USSR.
+
+All-Union Scientific Reseerch Institute of necrology] in Russian No 220/280,
+1977 pp 26-32
+
+[From “EMTIVNY‘I ZWRNAL, WWIYA I IMIﬂL'NAYA mm No 9,
+1978. Abstract No 9.32.1397]
+
+BOIRIK. V. 1., KOLIN'KO. N. 3., HZlIEL'SKIY, A. A. end SADOVSKAYA. B. N.
+
+[Text] A report is presented on the development end study of two seeming
+Psbry-Periot interferometers with vsrieble bsse. used to ensure lsser
+
+usve lengths. In one design. one of the eirrors is saved uith respect to
+
+the other on e guide. The stilun possible lovenent is 100 I. In the
+other design. qusrtz dividers ere inetelled between the mirrors. snowing the
+distsnce to be vsried from 1 to 300 II. Yigures 6, References 6.
+
+55
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+USSR soc 621.383.52
+"10le or EVALUATING m OPERATIOI 0! PM!!! "mu: meniscus
+IMPUL'S RAYA mm [Pulse Photo-stry] in lussien 1978. lo 5. pp 173-175
+
+[Pm “IWTIWYY mm. HB‘I'ROLOOIYA I Imm'wm mm In 9.
+1978. Abstract No 9.32.13‘5]
+
+BUZANOVA. 1.. L. OLIBBIHAN A. 1A.. GMOIEVA. ll. IL. EDLODYK, A. H. and
+YAKOVLKV, I. H.
+
+[Text] The basic pare-sters and characteristics of several types of
+silicon pulsed netrix photosensors with high sensitivity in the shortwave
+area of the spectrum et 0.6-0.6 m are studied. The photosensors ellov a
+reverse bias of up to 100 V end have lov vslues of RC pareneteu. Figures
+2. References 6.
+
+USSR UDC 681.7.069.3
+A monumxc PULSE RADIATION RECEIVER BASED 0!! A CMRCIAL PIIZOCMIC
+IMPUL'S MAYA POMWA [Pulse Photonetry] in Russian 1978, No 5. pp 110-113
+
+[Pro- 337!“er 21mm. WWIIA I IMITIL'NAYA 1mm lo 9. 1978,
+Abstract No 9.32.1363]
+
+GUZHVA. V. G. and KUZ’HICIBV. V. H.
+
+[Text] Information is presented on the design and characteristics of s
+pyroelectric radiation receiver. suitable for detection of pulses of redia-
+tion in the opticel. infrared end suhnillileter vats length hands. The
+transmitted bend width of the netching stage is $0 16,, the sensitivity of
+the receiver is S VJﬂ'l with an electric tine constant of 5 ns. ﬁgures 2,
+References 2.
+
+56
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+088R UDO 681.7.069.3
+A MOBLBC'IRIC PULSE RADIATION RECEIVER BASED ON A MCIAL PIIZOCBRAKIC
+IMPUL'S NAYA WHA [Pulse Photo-eta] in Ruselen 1978. no 5, pp 110-113
+
+[Pro- REMAIN“?! ZHURNAL, MOLOOIYA I tumm'mn MIRA R0 9,
+1978, Abstrect No 9.32.1363]
+
+Guam. V. G. and KUZ'HICHBV, V. H.
+
+[Text] Information is presented on the design end chsrecteristics o! s
+pyroelectric rsdietion receiver. suiteble for detection of pulses oi redis-
+tion in the opticel. inirsred end subuillineter ueve length bends. The
+trensnitted bend uidth oi the nstching stsgs is 50 HI;, the sensitivity of
+
+the receiver is 5 V.HH'1 with on electric tins constant of 5 ns. ’igures
+2. References 2.
+
+USSR UDC 681.7.069.225
+
+A awn-ms: WLYTIC SOURCE OP ULTRAVIOLET RADIATION IN 1113 MICROSM
+RANGE
+
+IMPUL'S NAYA POTOHBTRIYA [Pulse Photometry] in Ruesien 1978, No 5. pp 169-172
+
+[Fron RBFBRA‘I'IVNYY, WWIIA I IMI‘I‘EL'NAYA mm No 9. 1978.
+Abstract No 9.32.1330)
+
+BBLOGOLOVTSW, G. I. and LYANNOY, N. N.
+
+[Text] A light source for flesh photolysis. besed on e s-pinch. is
+described. Its besic pereneters ere: length of light pulse 2.5 as;
+
+energy redieted in e pulse in the 230—600 on ueve length bend - 250 J; the
+lenp is filled uith srgon st 130 N/nzg the opereting voltege is 30 hV. the
+redisted energy is neesured with en Innuv cslorineter. Figures 2.
+References 6.
+
+57
+FOR OFFICIAL USE ONLY
+POI OHICIAI. USE ONLY
+
+USSR 621.383.537.533.8
+HILLISBNUD AND HICMBOOUD DURATION Mil COIDARISON
+
+IKPUL'S NAYA WIRIYA [Pulse Photo-Btu] in Russian 1978. No 5, pp 161-1“
+
+[Pron mum 211m. WWIYA I mum'uu mm lo 9, 1978,
+Abstract Bo 9.32.1328]
+
+NOVIKOVA. G. H” IGIAT'YIV. V. G. and “AMA. V. 1’.
+
+[Text] The 0881-1 and 6881-2 stable light flash generators have been de-
+veloped to be used with flash photonsters. The retiation sources in the
+generators are IPK-lso and ”0-75 flash leaps. The light flashes produced
+
+are 4.5 as. 200 and 20 us in length, trapezoidal in shape. Table 1.
+Figures 2, References 5.
+
+USSR UDC 681.7“.‘.089.6
+
+INSTALLATION FOR DRAWN. TESTING OP Mil moms AND ITS PIIO‘I'O-
+SBNSIRO DEVICE
+
+IMPUL'S NAYA POTOHITRIYA [Pulse Photonstry] in Russian 1978. No 5. pp 67-72
+
+[Fron mum MAL. WWIYA I IMITE'IAYA mm lo 9,
+1978. Abstract No 9.32.1315]
+
+IGNAT'YBV, V. 6.. OONCHUKOVA, II. I., WA, 0. 11., TROPIIDVA. G. V.
+and IL'CIIBNKO, O. V.
+
+[Text] The installation includes lisht-vncasurin; incandescent leaps.
+flash coeparison sources. a photoeensing device and recording inetruaents.
+Adjust-cut of the photosensins device. constructed on the basis of the
+19-51 spectrograph. is perforned by leans of a spectral nask. which in-
+cludes a fiber-optics collector. The installation can be used to check
+
+photoncters with prinry error of over 10!. Table 1, Figures 2, Reterences
+2.
+
+58
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL U33 ONLY
+
+USSR UDC 681.2:531. 756
+
+DMLOPHBNT AND INTROWC‘I‘ION OF THE Pit-1026 and PR-1025 CAM-ABSORPTION
+DENSITOMBTERS
+
+Kiev RADIOIZOTOPN MYA mm In [Radioisotope Equip-ant] in Russian.
+1977. pp 88-90
+
+[Fro- RBPERATIVNYY ZRURNAL, WIDGHA I IZHERITEL'NAYA mm No 9, 1978,
+Abstract No 9.32.1181]
+
+SHIN. YU. P.. BMOVSKIY, V. I. and KO‘I'IK. U. 1..
+
+[text] The rs-1oz. instrument is produced in two versions, the actual and
+explosion-safe nodels. Both eodsls are designed to test the density of
+solutions and slurries with densities of up to 3.0 ale-3 in pipes fro.
+
+100 to 300 In in diaeeter. The PR-1025 is designed both for testing of the
+density of solutions and slurries. end for coebined operation with other
+instrunents (conductoeetsrs, flow-rate Ieters. concentration esters and
+analysers) to test the content of solid phase in slurries, to check the
+coeposition of binary, trinary end sore coupler products used in non-
+
+ferrous and ferrous metallurgy processing, in the cheeicel industry and other
+branches of industry.
+
+USSR UDC 539 89
+
+APPARATUS FOR STUDY OF MATERIALS IN A BROAD RANGE OF GAS PRESSURBS UP '10
+30 KBAR AT TWERATURBS UP TO 2000.0
+
+‘rellin Plz. ICHBSKIYB ISSLBD OVANIYA PRI WSOK nu! DAVLDJIYAKB [Physical
+Research at High Pressures] in Russian Part 1. 1977. pp 22-33
+
+[Prom RBPBRATIVNYY ZIlURNAL. METROLOGIYA I IZHBEITEL'NAYA momma No 9,
+1978, Abstract "o 9.32.1153]
+
+BONDARENKO, H. D.
+
+[Text] A universal apparatus has been developed for the study of phase
+transitions by thermal analysis and the method of conductivity, for the
+synthesis of new eeteriels. as well as the study of nelting. the electrical.
+physical-eechsnicel and other properties of eaterials over a broad range of
+gas pressures of up to 30 khar et tesperatures tron roon tsuperature to
+
+59
+FOR OFFICIAL USE ONLY
+POI OFFICIAL USE ONLY
+
+2000’6. The sppsrstus consists of e two-stsge ass-pressure source, s test
+the-her. s pressure nultiplier with s delivery cheder sud s control psnel.
+
+The first stsge of the pressure source is s disphrsp-type seperetor which
+coepresses the ass to 2 kbsr. In the second stsse. s eultiple-psss eultiplier.
+the ass is further compressed to 14 kbsr. In the third stsge. the use is
+coepressed further by s nultiplier to the finsl essisned pressure. st the
+assigned test tespersture. the test chsdaer is equipped with s set of
+
+cells for vsrious types of investigstions. Figures 9. References 15.
+
+USSR "DC 551.508J
+NEUTRON TESTING 0? m MISIURB mm 0? mums-cm PIPES
+
+IZOI’OPY V 5581!. NAM [IO-I'm ICHSSKIY I PROIZV ODSI'VBNNYY 5 mm
+
+[Isotopes in the USSR. Scientific-Technicsl end Production Collection]
+in Russisn 1978. 51, pp 27-31
+
+[Pron WINK“ ZEURNAL. MOWIYA I IMM'DIAYA mm No 9.
+1978. Abstract “0 9.32.1143]
+
+KAISHAR. YU. A.. means. SH. A., PMKIY. G. 811. end CBISLOV, 1|. ll.
+
+[Text] The use of ordinsry noisture-content neters to test the misture
+content of eshestos-ceeont pipe is difficult for seversl ressons. Booed
+on studies perforned. s lsborstory nodel noisture meter is developed in
+the rsnge of moisture contents of 10-302. with en error of 1 1! end s
+lessureeent ties of 15-20 s. Pisures ‘. References 3.
+
+60
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ussn ' unc 543.626
+
+THE USE OF A TARGET CONVERTER TO SEPARATE 'l'NE ANALYTIC LINE mos THE
+SECONDARY SPECTRUM DURING X-RAY RADIOHETRIC FLUORESCENT ANALYSIS
+
+APPARATURA I FBTODY TENICENOVSKOGO ANALIZA [Equip-ant and Methods of
+X-Ray Analysis] in Russian
+
+[Iron REFERATIVNYY ZNURNAL MOWIYA I IZHERI'IE'NAYA TEKHNIKA No 9.
+1978, Abstract No 9.32.1097]
+
+BETIN. YU. P.. VERKNOVSKIY, E. 1.. ZNADIN, YE. G. and KRAHPIT, I. A.
+
+[Text] The influence that the surface density of a converter target and the
+primary radiation energy have on the signal/noise ratio is studied for the
+process of X-rsy radioaetric fluorescent analysis with radio isotope ex-
+citation. Results are presented from an experinental check of the theoreti-
+cal assumptions used in separation of the lines of Ni K48 (against
+
+the bac round of Fe M8) and Pb 143 (against the background of Zn MB)
+using 10 Cd as a source and a type 81-611 proportional counter. It is shown
+that the effectiveness of recording of. secondary radiation varies with
+elenents with different values of 2 when excited by 109Cd for iron and sine
+converter targets. Figures 5. References 9.
+
+USSR 535 .853. 22
+
+THE HIGH-RESOLUTION INFRARED MEASURWT svsm OF THE INSTITUTE OF
+SPECTROSCOPY, USSR ACADEHY OF SCIENCES
+
+Moscow HATERIALY SOVETSKo-FRANTSUZSKOGO SIHPOSIUHA P0 OPTIKOSPBKI'RAL'NYH
+PRIBORAM I PRISON DLYA OBWOTKI 1203mm, mSKVA. sum. 1976
+[Materials of Soviet-French Symposiun on Optical-Spectral Instnnents and
+
+Instruments for Image Processing, Moscow, Septewer, 1976 in Russian 1977.
+pp 8-11]
+
+[Pro- REFERATIVNYY leRNAL. HEIROLOCIYA I IZKERIm'NAYA mm in
+Russian, No 9. 1978, Abstract No 9.32.1076]
+
+BOCDANSKIS, N. I.. BUKREYEV. V. S. and ZNIZNIN, 6. N.
+
+[Text] The Institute of Spectroscopy. Academy of Sciences, USSR is in the
+process of creating a spectral measurement systes for the IR band, wave
+
+61
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+lengths 0.7-100 ms. with s resolution of 0.01 cn'l. Thin neeeurenent system
+is intended for the study of the fine structure of the vibretionel end
+rotetionel bends of absorption of Iolecules of the see phsee end electron
+spectre of extrinsic cryetelo et low taperetures. leierence l.
+
+USSR UDC 621 . 398
+
+was UV'l‘S-30)HUL1‘ICIIANm DEVICE M COLLECTION, PROCESSING AND RECORDING OP
+STANDARDIZBD ANALOG SIGNALS
+
+TRUDY SOYUZNOGO NAUCHNO-ISSLBDOVATBL'SROGO INSTITUTA PRIBOROSTROYENIYA
+[Proceedinge of the Union Scientific Reseerch Institute of Instrment
+Melting] in Rueeien 1978. No 36. pp 103-108
+
+[Fran RBFBRAI‘IVNYY ZHURNAL, HB‘I'RO‘LOGIYA I IMI‘I’BUNAYA 1mm R0 9,
+1978. Abetrect No 9.32.85]
+
+VOROB'YBV. D. H.. GUDKOV. V. 1., DUHA, V. R., LBVIN, G. L. end FILA‘IOV, V. P.
+
+[Text] The Inns-30 device cen receive 256 enelog eignele in the 1 5 V
+range, neeeure then. convert end record thenin disitsl Eon. The progre-
+under which the device functions is recorded in e reed-only nuory end
+cen be chenged. depending on the test to be perfoned. The uvrs-ao cen be
+used no e pert of lultichennel neeeurenent system (VIK. K00. me. etc.).
+
+62
+FOR OFFICIAL USE ONLY
+M OFFICIAL USE ONLY
+
+USSR UDC $63 . Slob
+
+A CHROM'IOORAP}! FOR ANALYSIS 0! MR PA'I'I'Y ACIDS COU‘IAINBD IN SILAGB AND
+HAY FEED
+
+NAUCUYYE PRIBORY in Russian 1978. No 15. pp 3-10
+
+[Fron REFEBAI‘IVNYY ZUURNAL. METROLOCIYA I IMRI'IBL'NAYA TWIKA No 9.
+1978. Absent“ No 9.32.1058]
+
+DWIKOV, V. V.. SAPUNOV. YU. A.. POZUARSKIY. V. IL. KURTSHAN, H. A..
+ROHANOV. V. I. and lARANOV. P. IA.
+
+[Text] A laboratory chronatograph is developed, intended for nutonted
+analysis of lower fatty acids in silage and hay feeds: this is one of the
+first chroaatographic inatruents which is specially designed for
+agriculture. For the first time in Soviet gas chronatographs. a device
+is included for autoutic injection of liquid speciaena. Figures 5.
+Tables 2. References 6.
+
+USSR UDC 53l.789.1:681.26
+A NON-CONTACT TORQUE TRANSDUCERS wrm MUD!“ OUTPUT
+
+Moscow 80W! PROBLM RAZVI‘I‘IYA ISP’Y‘IATBL'NYKB HASHIN. VBSODOZI-
+ROVOCIINOY I SImIZHERIm'IIOY mama [Current Problem of the Develop-eat
+
+of Testing. weighing and Force-Measuring Equip-ant] in Russian .1978 pp 1‘5-
+149
+
+[From "WTIWYY ZﬂU'IINAI. WROWIYA I IMIm’NAYA mm No 9. 1978,
+Abstract No 9.32.516]
+
+YERUSLANOVA, 0. H.. PARPENOV, H. PL. PLISKIN, W. S. and RY'IOV, YB. N.
+
+[Text] A study is node of possible versions of noncontact transnission of
+signals during neasurenent of torque. and a design is suggested by the
+authors for transforner-type current tape which. in contrast to known
+nodels. allows the achieve-ent of good electrical characteristics with s
+conparatively simple configuration of the transducer with air gaps between
+the saving and nonmving parts of the U-ehaped nagnetic circuit on the
+order of 1.5-2 I. significantly sisplifying the manufacture of the
+component parts end assenbly of the entire transducer. Figures 3.
+References 3.
+
+63
+FOR OFFICIAL USE ONLY
+NI OFFICIAL USE OIILY
+
+usss imc 531.781.087.92
+
+BASIC HEELS OP STEAM-CAGE VOICE SENSORS FOR ms CONSTRUCTION OF STRUC-
+TURALLY STANDARDIZBD PAWIC SERIES
+
+Moscow 80W PROBLM mvmu Ismm'm WIN, VESODOZIROVOCIINOY
+I SIMIMITBL'NOY WI. [Current Probleis of the Developnent of
+
+Testing. ﬁnishing and Porce-lisssuring Bquipeent] in Russian 1978. pp
+96-102
+
+[Fran “NATIVE“ ZBURNAL WROLOCIYA I IZHBRITE'NAYA mm, No 9.
+1978. Abstract No 9.32.01)
+
+GOOZIKOVSKIY, V. A” LIFANOV, I. 1.. CANTO. V. R. and SERVARIKOV, YB. V.
+
+[Text] strain-gage force sensors have been developed and are being put in
+series production. The characteristics of these sensors satisfy the
+require-eats placed on basic Iodsls intended for construction of structural-
+
+ly standardized series for nominal loads of ZOO-200,000 kg! in conbinsd
+system. Figures 2. Table 1; References lo.
+
+64
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Non-Nuclear Energy
+
+USSR UDC 629.7.035J
+FEASIBILITY OF USING AN AI-ZO TURBOFROP ENGINE AS A IIEA‘I' GENERATOR
+Moscow VOFROSY TBORII I RASORB‘IA RABOCHIICII PROTSBSSOV 1’3me DVIGAI‘BLBY
+
+[Problene in Theory and Design of working Processes for heat Engines] in
+Russian. No l. 1977 pp 133-136
+
+[Pros RBFBRATIVNYY ZRURNAL 35. AVIA'ISIONNYYE I RAKB‘RIYYB DVIGA'IBLI. No 9,
+Sep 78 Abstract No 9.36.69]
+
+TALAN‘NV, A. V.. DYATLOV. I. 1].. KRAV'ISOV. YA. I.. BULAVKIN, A. A.. SUUKIN.
+V. A., HINGAZOV. B. O. and ICUANKIN. G. 8.
+
+[Text] Under consideration are problem in using an “-20 turboprop
+
+engine. after its flight capability has been exhausted, as a heat
+generating plant. Adjustments in the autonatic control system are shown re-
+quired for operating such an engine without the propeller as e heat
+generator. Probleas of increasing the heat output of such a plant by in-
+stalling an afterburner chamber are also discussed. Bxperinental data are
+
+presented pertaining to cutoff end completion characteristics of a model
+efterburner chaaber. Figures 2; references 1.
+
+USSR UDC 621.438:622.691.$:621.51(088.825}
+A UNIT FOR TRANSFER PUMPING NATURAL GAS
+
+USSR Author's Certificete No 565120. filed ll Nov 73, published 10 Aug 77
+[From REPERATIWYY ZhURNAL. TURBOSTROYENIYB No 9. 1978 Abstract No 9.69.135 P]
+
+KUZNBTSOV, YB. F.. SUOARZV, A. V. and SWOVICH, I. YE.
+
+[Text] A unit is proposed for pumping natural gas that contains a gas
+blower with gas takeoff line. a gas-turbine blower drive with combustion
+chamber, and a lubricating system with heat exchanger for cooling the oil.
+As a distinguishing feature of the patent. efficiency is improved and
+provisions are made for self-contained operation on natural gas. A
+Ranque-effect swirler is connected in the gas takeoff line with the cold
+pipe connected to the heat exchanger and the hot pipe connected to the
+combustion chamber. Figure l.
+
+65
+FOR OFFICIAL USE ONLY
+POI! OFFICIAL USE ONLY
+
+Turbine and Engine Design
+USSR 'UDC 621.165-531(088.825)
+A HYDRAULIC STEAM-TURBINE REGULATION srsm
+USSR Author's Certificate No 568729, filed 26 Jul 7‘, published 15 Dec 77
+[Pron umrmm DIURNAL. TURBOSTROYEUIYE No 9, 1978 Abstract No 9.49.92 1’]
+
+LYSKO. v. V.. LEM. V. 1.. BEL'PBRHAN. H. D. and VOLYNSKIY. h. u.. All-
+Union Scientific Research Institute of llaat Engineering
+
+[Text] A hydraulic eyeten for eteas turbine regulation is proposed that
+contains an rpe sensor coupled through an amplifier and n regulator to a
+slide valve that is connected to the vorking cavity of a one—uey servo-otor.
+The systes also contains a control sechenise. As a distinguishing future
+of the patent. the reliability of the system is isproved by connecting a two-
+diephregn valve to the uorking cavity of the eervonotor. The controlled
+cavity of this valve is connected to one end cavity of the slide valve, while
+the cavity between the diephreges is connected through the control nechenise
+to the other end cavity of the slide valve. ﬁgure 1.
+
+USSR UDC 621.165-531.8(088.825)
+
+A PRESSURE REGULATOR
+
+USSR Author's Certificate No 581315. filed 28 Jun 76. published 15 Dec 77
+[Froe REFERATIVNYY ZHU'RNAL. TURBOSTROYENIYB No 9, 1978 Abstract No 9.69.108 P]
+
+LYSKO, V. v., LBZHAN. V. I. end BEL'PBRNAN. H. 0.. All-Union Scientific
+Research Institute of Heat Engineering. Khar'kov Affiliate of the Central
+Design Office of Glevenergorenont. Hinietry of Pouer of the USSR
+
+[Text] A pressure regulator is proposed for steel-turbine regulating
+systees. The regulator contains an impulse-fluid feed pipe with output
+epertures end a flexible plete located on the end face. One end of the plate
+is fastened to the housing. end the other end is secured to e diephrep
+
+with its cavity connected to the cavity of the aediue to be reguleted.
+
+As a distinguishing feature of the patent. operating characteristics are
+improved by reducing the influence thet changes in the pressure of the
+impulse fluid have on the position of the plate. The feed pipe has a
+
+dead end, and the output apertures are located on the side walls of
+
+66
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the pipe syI-etricelly with its sxis. while the plate has projections that
+cover these apertures. to prevent the plate from brushing against the feed
+pipe end to improve reliability. the inside surfaces of the projections
+are equipped with recesses located opposite the output apertures of the
+feed pipe and having different surface areas. Figures 3.
+
+USSR unc 621.165-531.9(088.823)
+A STEAM-TURBINE POHBR REGULATOR
+
+USSR Author's Certificate No 579680. filed 4 Feb 75. published 25 Nov 77
+[From RBFBMTIVNYY ZHURNAL. TURBOSTROYDIIYE No 9. 1978 Abstract No 9.69.107 P]
+BASIlNIN. 0. I. and BUYBVICB, V. V.
+
+[Text] A steam-turbine power regulator is proposed that conteins a power
+setter connected to the inputs of e limiter module end a power module that
+is connected to an output edder; an rpm module with output connected to-
+gether with the output of an integrator to the inputs of an auxiliary edder
+with its output connected to the integretor input; a minimun signal selector
+end e mixing module with mixing signal source. To improve the accuracy and
+reliebility of the regulator. the selector inputs are connected to the out-
+puts of the mixing module end output edder. the output of the selector is
+connected to an auxiliary integrator input, and the integrator output is
+connected to the inputs of the power module end the output adder. while
+the output of the limiter module is connected to the input of the mixing
+module. Figure 1.
+
+C80: 1861 - END -
+
+67
+FOR OFFICIAL USE ONLY

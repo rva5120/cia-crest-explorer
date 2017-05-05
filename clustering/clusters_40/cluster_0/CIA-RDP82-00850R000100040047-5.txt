@@ -1,0 +1,758 @@
+APPROVED FOR RELEASE: 2007/02/00: ClA-RDP82-00800R000100060047-6
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000100040047-5
+
+FOR OI'FIL'IAL USE ONLY
+
+JPRS L/8411
+
+20 April 1979
+
+IRANSLATIONS ON TELECOMMUNICATIONS POLICY.
+RESEARCH AND DEVELOP/{NT
+(FOUO 6/79)
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000100040M7-5
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines. editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies. views or attitudes of the U.S. Government.
+
+COPYRIGHT LAMS AND REGULATIONS GOVERNING OHNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOROFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+Jpas L/841
+20 April n
+
+TRANSLATIONS ON TELECOMMUNICATIONS POLICY;
+RESEARCH AND DEVELOPMENT
+(rouo 6/79)
+
+CONTENTS
+
+ASIA
+JAPAN
+
+Reiaration of Ban on Message Switching Copyright Announced
+(NIW KWO SHINBUN. 12 Dec 7a)ooeooentoo-oeooooooeeo
+
+Trial Manufacture of New Magnetic Disc Medium Noted
+(“I“EI amnlcs. 13 NOV 78,000.00000000030.00......
+
+SUB-SAHARAN AFRICA
+INTER-AFRICAN AFFAIRS
+
+Briefs
+PANAFTEL Network
+
+IVORY COAST
+
+New Group TV Receiver Developed. Demonstrated
+(HARCHBS TROPICAUX ET MBDITBRRANBERS. 16 Mar 79).......
+
+TUNISIA
+
+Briefs
+SAT Contract
+New DP Center
+
+WESTERN EUROPE
+
+FRANCE
+
+Telecou-l Satellite To Begin Operating in 1983
+(Pierre Lansereux; AIR 6 COSMOS, 10 Mar 79)............
+FOR OFFICIAL USE ONLY
+
+JAPAN
+
+RELAXATION OF BAN 0N HESSAGB SWITCHING COPYRIGHT ANNOUNCED
+
+Tokyo NIKKAN KOGYO SHINBUN in Japanese 12 Dec 78 p 1
+
+[Text] According to a release of ii November the
+Hiniatry of Posts and Telecommunications (HPT)
+decided on a policy to greatly relax the ban on
+message switching which had previously hindered
+the joint construction of on-line networks.
+
+1his means that in the Data Communication
+Promotion Law bill which HPT plans to present
+
+to the next regular session of the Diet.
+
+message switching will be classified into two
+categories:
+
+(i) that which is associated with data pro-
+cessing. and (2) that which is conducted as
+a business. The message switching which is
+associated with data processing will be per-
+mitted. when this is realized, the construc-
+tion of large scale networks--for instance.
+on-linc tie-up of city banks-~will be
+facilitated and communication circuit costs
+will be reduced; furthermore, duplicate in-
+vestment in electronic computer facilities
+can be avoided. and the spread of on-line
+systems in Japan. which was hitherto handi-
+capped under the Public Eiectrocommunication
+Law. will be given an additional boost.
+
+With rapid progress in the construction of on-line systems accompanying
+
+the more intensive use of computers, it becomes imperative for these on-line
+systems to have access to communication circuits. There are two types of
+circuits in use--the public communication circuits and the special com-
+munication circuits. Currently. those used principally by city banks and
+individual businesses for company on-line networks are special communica-
+tion cicuits. in the case of special communication circuits primarily for
+
+1
+FOR 0P?ICIAL USE ONLY
+7" FOR OFFICIAL USE ONLY
+
+company use where electronic computers are used and data without any change
+in content are transmitted. so-called message switching also becomes possible.
+
+However. as in the cases of horizontal on-line tie-up of city banks or the
+tie-up between different types of financial institutions, in concepts which
+are now being considered. where more than two parties (firms) of different
+contractual constituency make joint use of a special communication circuit,
+absolutely no switching is allowed. On the other hand. although certain
+parties. who can make joint use of special communication circuits. do have
+recourse to individual case approval by the MP’l‘. operation is still severely
+restricted by Article 55-11 of the Public Electrcolmaunication Law and Article
+10-13 of the Administration Regulations of the same law.
+
+The reason message switching is forbidden to this type of joint use and to
+businesses dealing in computational work, such as computer centers. which
+make third-party use of special comnication circuits. is that such message
+switching conducts no data processing and is thzreforc considered cosnunica-
+tion business. According to Articles 1. 2. and 5-2 of'Ehe Public Electro-
+conunication Law, all domestic and international electrocormmmications are
+defined by law to be the exclusive businesses of the Dendenkosha (Nippon
+Telegraph and Telephone Corporation) and 111‘, respectively.
+
+The mm: Comunicat lon Council (president--‘l‘adao Saito. professor of Tokyo
+University) pointed out last fall that the banning of message switching in
+data conunication, on the grounds that it is the exclusive domain of the
+public electrocalmunication industry. was a mistake resulting from considera-
+tion of the function of only a part of the data co-unication medium. It
+was also pointed out that electronic corputer users. who desire free use
+
+of commuication circuits. have also strongly protested that the Public
+Blectrocomsnmication Law is one of the worst laws in existence.
+
+Under such circumstances. the HPT. in response to technical developments in
+comnlcation circuit utilization, have. following the addition of a chapter
+(Chapter 3-4) on data communication to the basic law on data conunication.
+namely the Public Electrocomlnmication Law (enacted in 1953), concerned
+mainly with the telephone and telegraph businesses. drafted a currently
+significant Data Comnication Promotion Law bill which determines the need
+to expand the realm of joint utilization and to relax the restrictions on
+message switching.
+
+listen with this measure. however. although necessary switching accompanying
+data processing will be permitted—for example. the transmittal of data
+input from cash dispenser terminals of financial institutions via joint
+use circuits to the electronic computer at a depositor’s bank--there will
+still be strict restrictions as usual on message switching in the case of
+added-value co-unication businesses, where message switching almost
+amounts to n subleaaing operation.
+
+2
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In the background or this relaxation on message switching by HPT, it is
+believed there was some impetus from the increasing use of advanced data
+communication technology equipment such as used on coming facsimile net-
+works whlch do not fit into the concept of data processing as consider
+In the Public Biectrnconnunicntion Law.
+
+UDPYRIGHT: Nikkan Kugyo Shinbunshn 1978
+
+5576
+CSO: 5500
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+JM
+
+TRIM. MANUFACTURE OF NEW MEMO DISC HEDIIM NOTED
+Tokyo NIKKEI ELECTRONICS in Japanese 13 Nov 78 p 05
+
+lArticle: "Trial Manufacture By Sputtering of Magnetic Disc Medina With
+25.000 391 Recording Density"]
+
+l'l'cxt] Dendenkosha's Iharaki Electrocomunications.Lahoratory and the
+Fujitsu Research Laboratory have jointly test produced a high recording
+density magnetic disc medium with a recording density (050) of 25.000
+lil’l (llnttori et 81. SHINGAKU GIHO (Con.Sc.Tech.Rpt). (WM-78406).
+
+This magnetic disc uedium is a uniform thin film of gems-ferric oxide
+
+l‘ armed on an alunite-treated aluminum alloy disc by means of reaction
+sputtering. Sauples were made by two possible manufacturing processes:
+One an indirect oxidation method consisting. of first forming alpha-Fe203
+by sputtering in a strongly oxidizing atmosphere. then reduction by
+hydrogen to R305, and final oxidation in air to gam-l-‘e203; the other,
+a direct oxidation method where the hydrogen reduction stage is not
+required. The magnetic film famed by the sputtering is chemically
+stable and strongly abrasion resistant such that, similar to the painted
+film disc, it can be used without a protective surface coating. and it is
+known for its superior magnetic characteristics. The test disc medium
+nude in this case had a medium thickness of 0.16 to 0.25 micrometers
+(compared to l to 1.5 micrometers for type 3336-11 painted medium). a
+residual magnetic flux density of 2500 gauss (coapared to 650 genes), a
+coerc lvc force of 600 to 800 oersted (compared to 330 oersted). and a
+square-shape ratio of 0.80 (0.75). Recording density is 900 to 1100
+“(PM and reproduced power is 0.85 W p-p with a core width of 25 micro-
+meters. 24 coil turns. and relative speed of 30 meters per second.
+
+(:ol’YRlcm: Nikkei-McCrau-aill. Inc 1978
+
+5576
+(280: 5500
+
+6
+FOR OFP‘ICIAI. USE ONLY
+FOR OFFICIAL USE ONLY
+
+INTER-AFRICAN AFFAIRS
+
+BR! BPS
+
+PANAFTBL NBTHORKanperta recently completed a study of the problems plaguing
+installation of the Pan-African Telecomnications System (PANAH'BL) link-
+ing the 16 member countries of CEDEAO (West African States Economic Conunity).
+11w Nigerinn news agency NAN reports that thus far four comtrisa--Nigeria.
+l.lbcrio. Gambia. and Upper Volta—have completed work on the part of their
+systems that provides the link-up with their neighbors. According to NAN.
+the lost serious problems confronting the other can“) countries are a short-
+age of funds and a lack of qualified technical personnel. The experts sub-
+sitted their report to CBDBAO headquarters in Lagos on 7 March. It will be
+examined at the next csotao aunit conference in Dakar in May. [Text] [Paris
+HARCHBS TROPICAUX ET EDITERRANBENS in French 16 liar 79 p 686] 8061
+
+(:80: 5500
+
+5
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+IVORY COAST
+
+NEH GROUP TV RECEIVER DBVELOFBD. DWSTMTED
+Paris HARCIIBS TROPICAUX ET HEDITBRRANBBNS in French 16 Mar 79 p 691
+[Article: "New Audiovisual Receiver for Group Television Reception"]
+
+[Text] The African Television Company (CATEL) of Abidjan and the Yves
+Houssin Agency of Paris have jointly deaonstrated their audiovile receiver
+[or collective or group television-reception to the French Ministry of
+Cooperation and the Television Broadcasting Company of France.
+
+Development of this new product was financed in part by a loan from the
+
+Md and Cooperation Fund. 1his project's objective was to reduce power
+consumption to a minimum while utilizing a high-reliability technology.
+Actually this development project is part of the research conducted to lower
+the costs of group television reception. particularly when used for educa-
+tional purposes. -
+
+This was a working Jemonstration of the equipment. A series of tenure-
+aents made during its operation showed that the receiver consumed less than
+20 watts of power regardless of any variations in operating voltage. The
+receiver includes a 61-centieeter screen and has low-frequency power in excess
+of 3 watts. Its power can be supplied from different alternating current or
+direct current sources. It is obvious. however. that solar energy would
+
+be highly suitable for this equipment destined for Third Horld use.
+
+It should be noted that this receiver can hardly be classed as an itea for
+"general public" use. As a matter of fact. in many respects it falls into
+the "professional" use category. The African Television Coepmy's broad
+experience in maintenance aatters contributed greatly to making this receiver
+nn extreaely practical and efficient itel of equipment in all respects.
+
+By next year. Ivory Coast and Niger will have complcted their group television
+reception infrastructure. In this connection. it should be recalled that
+these two countries have long recognized it was essential to attach equal
+importance to trensaission networks and receiving networks. As a result.
+
+6
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+(:A‘l‘BI. has already installed and currently naintains more than 15.000 group
+reception units in; ivory Coast. In Niger. to complete an initial educa-
+tional network of 122 classrooms, approximately 300 reception units have been
+ordered from CATEL and the Yves Houssin Agency who will use more than 10
+kilowatts of photovoltaic cells to operate the television sets.
+
+Incidentally. Amadou Thiam. the Ivorian minister of information, was in
+Paris in February. There he reviewed certain projects connected with the
+Ivory Coast's large-scale audiovisual equipment program.
+
+' COPYRIGHT: Rene Horeux ct Cie. Paris, 1979
+
+80“
+cso: 5500
+
+7
+FOR OFFICIAL us: ONLY
+FOR OFFICIAL USE ONLY
+
+TUNISIA
+
+BRIEFS
+
+SAT CON‘I‘RACT--The Tunisian PTT [Postal. Telephone, and Telegraph Service]
+recently awarded the [French] Telecoqunications Corporation (SAT) a
+”million franc contract covering installation of composite-cable equip-
+ment in the northern and southern suburbs of Tmis. low-capacity radio relay
+comunicationa links. as well as low-frequency automatic carrier-current
+communications link: throughout the country. [Text] [Paris means TROPICAUX ,
+ET PEDITBRRANBENS in French 9 Mar 79 p 622] 8061
+
+NEW DP CENTER--Sonetine in the latter half of March, Tunisian Priae Minister
+llcdi Nouirs will inaugurate the National Automatic Data Processing Center's
+subordinate lnterofficc Data Processing Center (CIATI). This new computer
+center has very extensive capabilities that will be available to nost govern-
+nent offices and national firms. The CIATI will not only offer them the
+services of its new computer and its skilled personnel, it will also enable
+then to faniliarize the-selves with a conputer center's operating and manage-
+nent techniques and thus prepare the-selves, under ideal conditions. to
+eventually asaule full control of their own systens. [Text] [Paris MARCHES
+TROPICAUX ET HEDITBRRANEENS in French 16 Mar 79 p 682] 8061
+
+080: 5500
+
+8
+
+FOR OFFICIAL USE ONLY
+FUN OFFICIAL USE UNLY
+
+FRANCE
+
+TELECGBI SATELLITE T0 BEGIN OPERATING IN [9'53
+Paris AIR (v cosmos in French 10 .“ar 79 pp 33-35
+
+(Article by Pierre Laneereuxl
+
+[Text] The decision of the French government to begin operating the first
+national satellite telecomunications system, Telecom-i, on 1 July 1983, which
+was made at a restricted can": meeting at the Elysee on 20 February [979 (cf
+
+AIR 5 COSNOS No 756) should in principle have been confirmed by the full
+Cabinet on 7 March.
+
+This was to happen at the very time when the Telecom-l system was one of
+
+the main centers of attraction at the international colloquium organised in
+Toulouse by CNS [National Center for Spec: Studies], DOT [General Telecon-
+municatlons Directoratei, and TD!" [French Telecommications Company], on the
+subject of ”Space Teleconunications and Direct Television Broadcasting by
+
+Satellite." The other, equally important topical subject was precisely the
+French plan for a direct television satellite, TDF-l, which will be the subject
+
+of a eovernment decision next month, at the time or a consultation with Ger-
+many (ct MR 6 COSMOS No 736).
+
+A Profitable System
+b‘hy a French teiecosnunicstions satellitei
+
+The French data transmission network, which was already very dense, experienced
+
+considerable growth (snore than 30 percent per year) tron 1972 to i976, and
+
+. this growth is still continuing,although at a somewhat slower rate (27 per-
+cent in 1977). This is mainly an analog network; the proportion of digitisation
+
+is still only 10 percent, but the growth in digital connections is extremely
+
+hill: (50 percent). Electronic cosmunicstion is rapidly being introducd in
+
+the French telephone network, the Transpac network has been in operation since
+
+the end of l978, and the first connections in the new Transmic numerical
+
+data transmission network will be put into operation this year. Under these
+circumstances, one night question the advantage of a new system of data dis-
+
+tribution by satellite -. especially if one assumes that the satellites could
+represent only a marginal transmission capacity in comparison with that of
+
+the existing ground-based systems in our country.
+
+9
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Q
+
+.It wae even eald In the peat that a country lllxe l’rance (thle had been eald
+on the ecnle of turope) wee geographically too llnlted ln extent to make
+such It eyeten really proﬁtable, Herve h‘ora, head or the New Producte and
+Servlcee eectlon or the nor. correctly recalled at the Toulouee colloqulue.
+
+In fact, llerve Nora eald, the DOT etudlea and the report drawn up by Wee
+Cannac. preeldent of the Ilavae Bureau, at the requeet of the French govern-
+uent, ahowed that the Telecoeol eyetee la proﬁtable and eeeentlal for the
+devolopeent ln France or new toleco-Iunlcatlone eervlcee Ialtlne extenelve
+on of “telmtlce” .. an appllcetlon thet Sllon Nora and Alaln lllnc have de-
+“nod ee the ”eeeoclatlon of teleco-mlcatlone aatellltee wlth ground-baud
+data-trane-leelon netwotke " In thelr rear-t on ”Deta‘TraneIleelon ln
+Soclety," whlch waa euultted to the government leet year. For hle part,
+Gerard Thery, dlrector general for teleco-unlcatlone, aleo recognleee that
+"the uae of data tranenleelon ln aoclety le connected wlth the great devel-
+opment of telecomnlcatlone. nt whlch aatellltee are one of the eaaentlal
+conponente, alone wlth other trenaeleelon nethoda lllle ﬁber optlca and the
+new temporal electronlc co-utatlon eyeteau.”
+
+New ”Toleeetlca" Servlcee
+
+The French eowernanntn declelon to carry out the Telecou-l progree wee
+made, Gerard Thery explaine, ”became ol the leportance that the DOT attachee
+to telmtlce. whether It la a queetlon o: 'doeeetlc' toleaetlce .. tele-
+coplore for the general publlc, keyboard terelnele uelne wolce frequenclee,
+and Vldeotex (an electronlc dlvectory) .. or 'proteeelonal' teleeetlca, at
+the eervlce or French buelneeeee .. tlret the large ooepanlee, end then the
+small end ledlue-elte buelneeeea (PHI) eleo.”
+
+The DOT hae, In fact, undertaken the develop-ant of a large range or new aer-
+vlcee aatlng extenelve nee or teleeatlcet the foorlet Data Traneeleelon Servlcc
+(511) which will give acceee to warloue eeat reeervetlon eyeteee, whlch are
+now lncoepatlble, (no. a elnele atandard ter-lnel: the smtuco: eervlce
+
+for the autooatlon. proceeelne, and treneeleelon of all the docueente con-
+cernzne the ehlpeent or eerchendlee ln natlonal or lnternetlonal co-erce:
+
+the tuna. vldeotex eervlce for buelneee or the eenerel publlc; the Tnt‘l’Dl
+syetee for the lnterconnectlon or text-proceaalne nachlnee: end vldeotrane-
+
+nleelon, ln preparatlon for the operation of the future French vldeotranalle-
+elon network.
+
+All theee eervlcee can already be offered ln a relatlvely eatletactory Ian.
+nor, by Ileana of the exletlne around-baud networte, eepeclally the Trenepac
+network. Out the 061' bellevee that "dewelopuente new under way enable ne to
+predlct thet thle wlll no longer be the caee a tee yeare tro- now, eepeclally
+becauee or the need (or hleh-epeed traneeleelon to lncreaee the tonne of
+data trenaeltted (requlred by raet telecopylne. oonterence calla, wldeocon-
+terencee, etc.) and to reduce the delay In traneeleelon (reculred by lnter-
+connected cooperate, data banke, bureaucratlc altelre, etc.). ae eell ae to
+
+lncreaee the l'lexlblllty and aecurlty or the traneeleelon and to extend ac.
+ceee to the new eervlcee.”
+
+10
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Thua Telecomi will be the firat French ayarea of “telenatlca” aatellitea.
+it will make it poaaible, Gerard ‘l’hery aid, ”to roapond to the legitimate
+dananda of the general public and of buaineaaoa by offering conaiderabla ndo
+vantaaea uith reapect to flexibility of uaa and profitebility.“
+
+The Telecon-l Hiaaiona
+
+Tho Telecon-i ayate- viil have two principal taaiu, tho DOT announced: one la
+concerned with intor-buaineaa connectione in France (thia ie the new one). and
+the other la the (claaaical) taait of telephone and toleviaion tranaaiaaion
+between the French aainland and the non [Ovaraaaa Depart-onto] and MI (Ovar-
+aaaa Tarritoriea] .. with, in addition, the capability of trananltting the
+telephone traffic of the African countrlea.
+
+The tool: of interobualnaaa connectiona in Iainland Franco and Coraica will
+make it poaaible to provide broad-band, high-apead digital connectiona (var-
+yin; from a feu kilobita per oacond to aeveral negabita per aecond) at fre-
+quenciea of ill-ll. Oil: between the varioua buaineaa altoa .. for exanple,
+hemen hoedquartera and the branchea or the factorlaa. At the hegimlng,
+theae will be ”cioaod" clrcuita (between oali-detaruinad uaera). But. Gerard
+‘rhary aid, the 06‘! la aleo conaiderina accaaa to other networha of the am
+
+kind later, or accaaa to a general telecomunicatlona network on the national
+or even European level.
+
+:iiahoaoned digital connectiona will facilitate the develop-ant of new applicoo
+tiona requiring a brood bandwidth! videoconferencaa, feat teiocopyinc, trana~
+fer of filea between canputera in a vary ahort tine, etc.
+
+The eatabliahnent of nrmdobaaed atationa near the near viii, aoreover. make
+it poeaible to limit ground-booed connections and junctiona aa such ea poa-
+aibla, and thua to offer an eapecially reliable traneniaaion ayaten. in addi-
+tion. multiple acceaa (by tile diatribution .- Neill) of a large number of
+tround-baaed atationa to the cane TelecoIa-l aatelllta repeater will make it
+poaaible to lncroaae the ayeten'a flexibility for ita uaerai inediate,
+elauitaneoua accoaa to all correapondanta, nearly inetantaneoua nodification
+of the capacity of the connectiona, eatabliahaent of ta-porary comctiona
+by neane of mobile atationa (for exanple, for muaual denenatrationa. tan-
+porary relief of one coeputina center by another, etc.).
+
+Telecon-l viii alao be the ideal inatrwant for a data diatribution aervica
+.. a ainale aourco broadcaatina infer-nation to aovaral rocoivera allultane-
+
+oualy -- for axe-ole, for tolaprinting of mapapara, digital Minion
+of photoarapho in color, etc.
+
+Finally, "the Telecon-l aatellita viii free buainaaaea fro. the geographical
+reatrictiona inpoaed by aroundobaaed networka,” the 061' announcoa, ”became
+the company vill be able to act up one of ita unite coupletaly at will .. in-
+cluding aitee that are difficult to reach or oven inpoaaible to aervico by
+conventional wane (offoahore platform, etc.) .. aince a rate independent of
+the diatanco can be applied, aa it already ia for the Tranapac natverit.”
+
+1]
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+"In senerel. the rete structure will be studied in deteil," Gerard Thery
+said, ”end the nor thinks it will be sble to otter the Telecos-l services
+
+et nerltsdly lower prices then those tor two stsnderd speclellsed connections,
+end with e such better quelity of service,tor ell the previously eentloned ros-
+
+sons. Thus the users will pey e pro rets eeount for the tecilities they ec-
+tuslly use.”
+
+Tolecoe-l's clsssicel teleco-unicetions test et 6-6 Otis will sells it pos-
+
+sible to cerry telephone end television treﬂic between the eelnlend end tho
+
+DOM end TN. The connections will cover the I'rench deperteents end territories
+in the Atlentic Ocesn end the lndlen Ocesnl Guiene, Hertlnlqus, Guedeloupe,
+
+St Pierre end Hiquelon, Reunion, end Msyotte. ‘l‘hus tor these ccmectlons,
+Telecoe-l will psrtielly replece the service now provided by the sstellltes
+
+of the worldwide lntelset network, the 001' snnouncsd. but Telecoe-l will not
+provide cover-ego for the deperteents end territories of the Pecitlc Oceen
+region, like rehltl, which will continue to be served by the Intelset setellites.
+
+Moreover, Telecon-l will note it possible to "terry the dcuestic telephone
+tretfic in “rice, within the sones covered by the sstellite,“ the not emouncod.
+This suppleesntery test or ‘l'elecou-l should slso tske over pert of the trertic
+cerried up to now by the lntelset setellites. lispeoielly in certein com-
+tries, lite leire, where hence hes furnished ell the specs teleco-uMcetions
+coulpoent, soestlees with 'rench funds.
+
+Extension o! 'l‘eleccQ-l ta Mrope
+
+The director generel tor teleco-unicetions ssid thet he ”considered it indis-
+penseble for the DC! to be sble to spend the french system to the site of
+Europe, end (or TelecoI-l to be the sterting point for e new systen of Euro-
+nen setellites sble to otter businesses loceted in Europe services sieiler
+to those thet will be provided by the (co-peeing) hericm systees, lite the
+$33 systee or the Setellite business Systee co-peny .. tor-ed by lﬂi .. end
+the X-Tm systs- o! the Xerox Oorporstion.”
+
+On this subject, Gererd Thery steted thet "everything possible will be done
+to detine the stsnderds of service end the trens-lssion egreelents for the
+TelecoI-l systee in close colleboretlon with the Europeen postel end tele-
+cos-unicstions egencies. in order to obtein this result.”
+
+The developeent or these setellite teleestics systees thus requires "the
+esteblisheent or s strong policy o! :tendsrdiseticn. coordinsted on: the in-
+ternetionel level, end not only on the nstionel level.“ lierve Nore steted.
+"The stendsrdisetion o! eoulp-ent, networks, end services, end the egreeeents
+(or eccess to theue networts end services, is ectuslly essentlel tor the
+proper use of the tecilities thet hsve been set up,” thinks lierve Nore. Thet
+is why it is deeended pore end lore strongly every dey by users ell over the
+world .. who ere, Ioreover. pertsctly ewsre thet stenderdisetlon ls essentiel
+to seine the- independent of the Ienufecturers. In the sbssnce o! stenderds,
+the eenutscturers cen {sin e de recto eonopoly, beceuse then they control ell
+
+the tutors in the develop-ent or equipeent end epplicetlons. It is in this
+
+12
+FOR OFPICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+sense that Simon Nora and Alain i'inc were able to speak of the satellite
+cha!lcnac in their report, and it is in this sense that TelecoI-i represents
+an nsscntiel tool for our national independence, Nerve Nora concludes.
+
+A Secciiite in the Service of business
+
+what can the Telecoe-i systen contribute to business? The question vaa raised
+at tho Toulouse colloquium, and several businessmen gave their opinions.
+
+According to Mr Kiefer of the ELF-Aquitaine group, Telecomi can be. useful
+in creating self-adapting data networks linking nany correspondents (data
+transmission), as veil as in transmitting the group's intornai correspon-
+dence (bureaucratic affairs) or working documents like geographical maps in
+color (high-resolution tast tolecopyins). Satellite connections vill also in-
+troduct- nov factors in the discussions and the decision-akin; procedures
+vithin the company (videoconference), or even become an instrument of the
+command nctvorks (videophones). The satellite will also maize it possible to
+reach isolated corrospondcnts. on off-shore platform or distant prospecting
+sites, not only to lake professional comications but also to improve the
+iivine conditions of the personnel in carrying private nessaaea.
+
+For Mr Meunicr of the Renault coeoany, the satellite should nails it possible
+to devolon interconnections between conputars (teleuatics), reduce travel
+(toicconfcrencea) end the number of docu-ents exchanged anons offices (tele-
+conyine). ss veil as to carry the coepany‘s nail (electronic postal service).
+The Renault company is also interested in the prospect of a turopean exten-
+
+sion of thc Tclecoe-l system, especially in beiciul and Spain, as veil as by
+access to other telematic netvorks.
+
+The French i’reaa Agency, one of the five crest world press agencies, which
+has already been using satellite comections since l97l (60 comections),is
+also counting on Telecon-i to improve the reliability, transmission speed and
+coverage of this network. as well as for access to nev services (Videoteu,
+Transpac, ctc.).said its representative, Hr Duresne.
+
+in the name of the Scope-an Radio Broadcastinr Union (OER), hr iiaas. vho is
+chaimn or the sroup responsible for satellites -- especially SB .. con-
+sidered that TelecoIa-i could also be used to create video libraries for the
+public, to broadcast inforuation progress in hotels, schools. and universic
+ties, or to broadcast wide-screen prograaa in theaters.
+
+in ccneral. the potential business users expressed a desire to see the Telecon-
+i systen extended beyond the boundaries of aainland France, by bagging
+compatible with the other space system -- but 1'0? has mained very evasive
+concernins the prospects for co-patibility betveen the French 1elecoe-i sys-
+tem and the Marican $38 ayaten, vhich will basin operating first, in Will
+
+The businessnen also caphasiced the necessity of guaranteeins the security
+and privacy of the transniasion . Hr Loabard or m stated on this point that
+basic studios vere under my to design satisfactory coding methods. For its
+
+13
+FOR OFFICIAL USE ONLY
+FOR OVPICIAL USE ONLY
+
+Put. the hennea ccm thinha it ia ready to offer a coded eound eel-vice,
+and it ia now mdertahins atudiee to encode inage broedoaating ea well. One
+o! the tactora to be detined in thie field ie the enount of protected tine
+that will be deuanded by the uaere in order to prevent the decoding of e
+trananieaion.
+
+Finally. it eppeared that cloee cooperation between the DOT and the ueere waa
+neeeaaery to reaolve, to the beat of their oo-on intereata, the my quea-
+tiona that buaineaaea nuet now face in prepering to use Telecon-l: theae quea-
+tiona are concerned with ratea. billing (or aervicea, the equip-ant to be
+lnetalled by the uaer, the lilita or the aervice provided by the DGT, the
+intortacea with exieting equip-ant, etc.
+
+No l-Ton Satellitea Launched by Ariane
+
+Tho Telecou-l ayaten will be produced in collaboration between the 061‘ and CNB,
+which have already prepared joint prelininary atudiee o! the project. The eie-
+eion will be defined by the DOT, which will alao direct the progran, in
+cooperation with CNB . The overaeeing of the epace part of the ayaten will
+
+be entrueted to the French aeroepaoe induatry.
+
+The ayeten will conaiat of three eatellitea. including two eatellitea in or-
+bi: .. one in operation and one in ”active“ reaerve .. and another aatellite
+in reaerve on the ground. The overall coat of the ayetee .. around 1.3
+billion trance at 1970 pricea .. will be tinenoed by the French Po'atal and
+ruomicationa Adninietration. The Teleconol ayaten ia acheduied to go
+into operation on 1 July ma. The lirat eetellite will be launched during
+the fourth quarter or 1982, ad the aecond during the (irat quarter of 1993,
+according to the datea announced by the 061'.
+
+The deeign of the TelecoI-i aatellite. eaid the 061', ”deliberately excludee
+any large new teat with reapect to the pletton or the payload: it will be a
+aatellite ot the £6 oleaa.” That would put the NAT” [Mechanieqhviatiom
+end Traction1 Co-pany in a good poaition to nanutacture the Telecou-l eatel-
+litea. becauee of ita experience with the European l6 eatellitea and their
+mans derivativea. Aeroepatiale haa alao mounced ita Intention of telling
+port in the conpetition to conetruct the TeleooI-l eatellitea. but with an
+original deaign tor a “heavy,“ auper-redundant eatellite (cl. All in (:6!!!
+No 73*). but the repreeentativee ot the DGT and can heve not yet apeciriad
+mthet there will be a cell (or propoeala tron induatry for the nanutacture
+or the Telecoml eatellitea. Por ita part, the Mon-GP [General Vireleaa]
+group ia well placed to Ianuraoturo the payloade oi the eatellitea (electronic
+
+teleco-unicationa equip-out), and Telepace will no doubt be aehad to provide
+rho principal around-baud atetione.
+
+Th. delinition or the exact epeciiicationa or the Telecon-l aateliite will
+begin next April. For the tile being, the DOT la planning on eatellitea
+weighing l.020 kg on launch and 550 kg in geoatetionary orbit at an altitude
+of 36,000 In; any will be launched eeparately with the Ariana rochet. ac-
+coming to the procedure (or double iaunchea. The orbital poeition or the
+
+16
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+eetellitee (deter-lined by the covet-ere et lad Clix) will ho to” ﬂeet, ebove
+the Gulf oi Cuinee, for the eetellite in operetion, end 1° lien for the
+reeorve eetelllte in orbit.
+
+The Telecoeol eetellitee will be etebilieed ebout ell three ewee, with en
+eccwrecy of 0.i° for welnteini their poeltion end pointing their bee-e.
+[They heve en expected litetiee or 7 yeere, end will be equipped with e
+eoler generetor hevin; e power or 900 wette (coneuaption 600 ii) end e peeeive
+them! control eyetee.
+
+Nelve Repeetere
+
+l'he peyloed (or eech eetelllte will include 12 repeetere: eix 8.3-wett repeetere
+et In“ (ill: for connectione between the eeinlend end the 001 end 1‘0! end con-
+neotione with “rice, end eix 20-wett repeetere et 12-“ Oil: (or inter-
+bueineee connectione end video broedteetlng.
+
+The eix repentere et 6-6 Gilt will be divided non; telephony (three repeetere)
+end TV(one repeeter)with the W end row. end telephony in “rice (two repee-
+ten): the tomectione will be nede with e lein etetion in Ieinlend Frence,
+equipped with e leue entenne 30 eetere in die-eter (lnteleet etenderd A .-
+c/‘l' of 60.7 dl/K), end etetlone with entennee l2 netere in dieeeter (lnteleet
+etenderd b -- G/‘l' of 31.7 db/K) in the 0G! end 1G1.
+
+The other eix repeetere et l2-lh Gilt .. weing the reeerved bend et 12.542.”
+Oil: for deecendlng connectione .. will be divided none the lnter-bueineee
+digitel dete treneeleeione (five repeetere et 23 ii bite/e. in the eneloswe
+or disitei node). The inter-booineee connectione will be eede with eeell,
+eieplified etetione, hevin; entennee 3 eetere in dieeeter (0/1“ of 23.2 db/li),
+lnetelled directly et the ueere' eltee.
+
+By l9”, it ie eetieeted thet the trettic between Frence end the bill end Tm
+will be 1,800 circuite. end the dete treneeieeion will be 123 ll bite/e.
+
+COPYRlclil't Air in Coenoe, Perle, I919
+
+sazo
+so. 5300 m
+
+15
+FOR OFFICIAL USE ONLY

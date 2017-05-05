@@ -1,0 +1,2172 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10075
+26 October 1981
+
+USSR Report
+
+MATERIALS SCIENCE AND METALLURGY
+
+(FOUO 5/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSRIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHF ATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRB um:
+26 Octobex
+
+USSR REPORT
+
+MATERIALS SCIENCE AND METALLURGY
+(P000 5/81)
+
+CouTsms
+
+COATINGS
+
+High-Temperature Protection of Materials .........................
+C(HPOSITE MATERIALS
+
+Polymers and Polymer-Based Composite Materials in Industry .......
+
+New Book on Composite Materials ..................................
+MECHANICAL PROPERTIES
+
+Stress-Strain Testing of Materials at High Temperatures ..........
+NONFHZROUS MB‘I‘AIJAIRGY
+
+Present, Future of USSR Titaniun-Magnesium Industry ..............
+POWDER ETAIJAIROI.
+
+Titanium Powder Metallurgy .......................................
+MISCELLANEOUS
+
+Kinetics of High-Teuperature Failure of Materials
+
+- a - [III - USSR - 216 Si?
+FOR OFFICIAL USE ONLY
+
+COATINGS
+
+axon-rznpsnaruns PROTECTION OF MATERIALS
+
+Leningrad WSWWTURNAYA ZASHCHITA HAWV in Russian 1981 (signed to
+press 8 Apr 81) pp 2. 299-303
+
+[Annotation and table of contents from book "nigh-Temperature Protection of
+Materials". edited by Academician H. H. Shul'ts, Doctor of Technical Sciences A. I.
+Borisenko. Candidates of Technical Sciences Ye. A. Antonovs and A. Ye. Sitnikove,
+Doctors of Technical Sciences 8. S. Solntsev and N. P. Kharitonov, USSR Academy
+
+of Sciences Institute of Silicate Chemistry imsni I. V. Grebsnshchikov, Izdatel'stvo
+"Nauka", 1900 copies, 306 pages]
+
+[Text] This volume is based on scholarly papers presented at the Ninth All-Union
+Conference on heat-Resistant Coatings. These papers contain the results of the
+latest research conducted in the area of obtaining protective coatings for
+structural materials. They present the physicochemical principles of obtaining
+
+and investigating the properties of temperature-stable protective and other
+
+special coatings in metallic and nonmatallic structural materials. Various types of
+coatings are examined: diffusion. plasma. detonation, dross-firing, low-temperature
+hardening, etc. Considerable attention is devoted to a description of methods of
+bonding and testing coatings in variOua corrosive media.
+
+This volume is intended for scientists. engineers and technicians working in the
+area of development of highly efficient means of protecting structural materials in
+various operating conditions.
+
+Table of Contents Page
+
+General
+
+Borisenko, A. I., and Vyashchenkq K. A. Diffusion Processes at the Metal-
+COating Interface 3
+
+Antonova, Ye. A.; Kayalovs, S. 8.; Pevzner, D. 2.; Sszonova, H. V.; and
+Sitnikova. A. Ya. 0n the Genesis of Phases in Heterogeneous Inorganic
+
+Coatings Obtained by Suspension-Firing Technology 8
+lvanov. Ye. G. Thermodynamic Principles of Calorising 20
+l
+
+FtNlCﬂﬂﬁCJAI.USEiﬂﬁlY
+90R OFTNCJAL USIZCNVLY
+
+Prokoshkin, D. A.; Barzov. A. A.; Loskutov. V. 8.; and Karaaov, A. A. Study
+of Cracking of Oxide Films on MoSiz by the Acoustic Emission Method 25
+
+Svatovskaya, L. 3.: Sychev. M. M. and Yukhnova, 0. c. The Concept of Bond
+Monsaturation and Sane Problems of Obtaining Materials 31
+
+Gorbatenko, V. Ye.; Rat'kova. V. P.; and Berestova, Ye. 6. Application of
+
+Methods of Planning Experiments in Synthesis of Beat-Resistant Enamel
+Coating 34
+
+Svatovskaya, L. B. Boridothernal Synthesis of Materials 60
+
+Berezina. N. M.; Belikov, A. M.; and Vorontsov, Ye. 3. Change in Activation
+Energy in the Process of Growth of a ZrOz Pill 62
+
+Corbatenko, V. Ye.; Donchenko, D. M.; Guziy, V. A.; Kushnarev. A. 8.;
+Thachev. A. 6.; and Thachevs, 0. M. Methods and Instruments for Investiga-
+
+tion and Monitoring of the Properties of Enamels, Coatings, and the
+Quality of Enameled Products 46
+
+Tsygulev, O. V.; Sosnovskiy. L. A.; and Astakhova, 2h. A. Investigation of
+High-Temperature Creep and Creep Limit of a Niobium Alloy with Combined
+Coatings in an Oxidising Medium 50
+
+Antonova, Ye. A., and Semenov, S. A. Effect of Ultrasonic Oscillations on
+Flow of Ni-Cr-Si-B-C Melts on the Surface of Steel 53
+
+Kizhner, M. M.; Mizonov, V. M.; Kurhovkov. Ye. 6.; Tolstopyatov, R. V. and
+Shkolyar, P. S. Microinhomogeneous Residual Stresses as a Ca: e of
+Failure of Class-Enamel Coatings 56
+
+Lysenok, L. M.; Kuznetsov. A. 1.; Vasil'yev. L. 1.; Bskhtiyarov, A. Sh. and
+Lukashevich, M. A. Structural-Cheaical Role of Iron in Reaction Processes
+
+of Sealing of Titanium With Iron-Containing Non-Alkaline Aluminus-Boron-
+Silicate Glasses . 61
+
+Cuseva, I. V.; Mashchenko, 1'. 8.; Borisenko, A. 1. Chemical Precipitation
+of Coatings With the Inclusion of Pilamentary Pillars 66
+
+Corin, L. P. Criterion for Quantitative Evaluation of the Effectiveness of
+Heat-Resistant Coatings 68
+
+Diffusion Coatings
+
+Martsenyuk. I. 8.; Kaplina, G. 8.: Braun, S. M.; and Borisovs, A. L. Ad-
+hesive Interaction of Specimens of Borated Steel with Preliminary Iron
+
+Plating 71
+Tsirlin, M. S., and Kasatkin. A. V. On Obtaining Coatings with the Partici-
+pation of Liquid Phase 75
+2
+
+FOR OFHCIAI. USE ONLY
+FOR OFFICIAL USE ONLY
+
+Tsirlin, M. 5., and Krasovskiy, A. I. Protecting Niobium and Molybdenu-
+Pron High-Temperature Oxidation
+
+Sosnovskiy, L. A.; Kaplina, 6. 8.; Astakhova, 2h. A.; and Korol', Ye. A.
+Combined Silicide Coatings on Niobiu-
+
+Abrainov, N. V. Investigation of the Effectiveness of Certain Beat-Resisting
+Diffusion Coatings on Nickel Alloys
+
+Goryachev, P. T.; Genel', V. A.; Makerova. I. A.; and Corbunov, N. S. Dif-
+fusion siliconizing of Steel with Silicon Oxide
+
+Mudrova, A. 6.; Corbunov, N. 8.; Hedko, Ye. K.; Dayeva, L. 8.; Moroz, V. V.;
+and Aleksandrovs, V. V. Effect of Diffusion Nickel Saturation on the
+Structure and Properties of Carbon Steels
+
+Hudrova, A. 6.; Gorbunov, N. S.; Horoz, V. V.; Medko. Ye. K.; Bayeva, L. 5.;
+
+and Yashin, V. A. Diffusion Titanium Coating and Its Application in
+Shipbuilding and Ship Repairs
+
+Sprayed-On Coatings
+
+Hovchan, B. A., and Malashenko. I. s. Enploynent of Electron-Bean Vaporiza-
+tion for Obtaining Heat-Resistant Coatings
+
+Klinenko, V. 5.; Skadin, V. 6.; and Roriaova, A. L. methods and Results of
+Diagnosing the Process of Detonation Spraying of Coatings
+
+Bartenev, S. 5.; Ped'ko, Yu. P.; and Redel'ko, V. Ye. Dependence of the
+Filtration Factor of Detonation Coatings of Aluminum Oxides on the Con-
+position of the Detonating Gas Mixture
+
+Borisova, A. L.; Klinenko, V. 5.; Shiyanovskaye, I. Ye.; Kudrevich, R. A.;
+Skadin, V. 6.; Astakhov, Ye. A.; 2verev, A. 1.; and Gol'dfayn, V. N.
+Phase Transformations During Detonation Spraying and Their Effect on the
+"ear Resistance of Aluminum Oxide Coatings
+
+Borisova, A. 1...; Borisova, Yu. 8.; Braun, S. H.; and Hartaenyuk, I. S. In-
+vestigation of the Adhesive Interaction of Plasma Coatings of Eutectic
+Alloys on High-Temperature Corrosion-Resistant Steels
+
+Karpinos. D. H.; Zil'berberg, V. 6.; Vyal'tsev, A. H.; and Kukhtareva,
+T. V. Plasna Coatings of Refractory Oxides and Their Conpositiona
+
+Karpinos, D. H.; Zil'berberg. V: 6.; Chekhovakiy, A. A.; and Paderno, ". N.
+Investigation of Conditions of Producing and Properties of Places Nickel-
+Chrone Coatings on Objects of Spherical Shape
+
+Kitayev. P. 1.; Lekarev. Yu. 6.; and Litvinenko, V. N. Thermal State of
+Particles During Plasne Spraying of Metal-Solid Lubricant Coatings
+
+FOR omcfu. USE ONLY
+
+79
+
+83
+
+86
+
+90
+
+93
+
+96
+
+99
+
+103
+
+109
+
+112
+
+115
+
+120
+
+126
+
+128
+FOR‘OFFKJAL USElNVLY
+
+Kitsyev, P. 1.; Tsidulko, A. 6.; Russnov, V. N.; and Litvinenko, V. N.
+Plasma Coating of Ti-Ni Composition for Protecting Titanium Alloys
+Against Near 132
+
+Kulik, A. Ya.; Zakharov, N. 1.; and Hezernitskiy, A. Yu. Plasma Oxide
+Coatings on Diesel Engine Parts 134
+
+Alekseyev, V. V.; Coryachkovskiy, Yu. 6.; Katasov, A. .A; and Loslutov,
+V. 5. Plans Spraytg of a Heat-Resistant Coating onto Graphite 137
+
+Polyakov. S. P.; Kravetskiy, G. A.; Pozdeyev, G. A.; Konokotin, V. V.;
+Komarov. B. V.; and Corbatenko, E. V. Plasma-Flame Spraying of Protective
+Coatings onto Graphitizeu Electrodes 140
+
+Concharov, E. V.; Bakman, L. L.; Degtyarenko, V. N.; Dashkevich. 1. P.;
+Synorov, V. P.; Shelina, T. A.; and Tsennykh, K. H. Applying Protective
+Coatings ina Stream of Induction Plasma onto the Surfaces of Metal 144
+
+Beketov, A. R.; Svistnnov, V. V.; Obabkov, N. V.; and Shurygin, V. s. Some
+Features of Obtaining Temperature-Stable Coatings by the Technique of
+Spraying on Materials with a Stream of Lowaemperatura Plasma 168
+
+Ksrpinos, D. N.; Zil'berberg. V. 6.; Vyal'tsev, A. N.; Kalyuzhnyy, A. D.;
+and Shul'ga. O. V. Utilization of Plasma Coatings in Tape Advance
+Assemblies of Video Tape Recorders 152
+
+Kopylov. V. .I.; Shatinskiy. V. P.; Strongin, B. 6.; and Varvus, 1. A.
+Heat Resistance and Relaxation Properziss of Solids with Plasma Coatings 155
+
+Obabkov, N. V.; Sorokin, V. 6.; Guznov, D. N.; Deketov, A. R.; Svistunov,
+V. V.; and Shurygin, V. S. Temperature-Stable Near-Resistant Coatings
+Containing Chromium Borides 159
+
+Solov'yev, B. N.; Degtev, G. F.; Casik, L. N.; Vashkevich, P. P.;
+Zhuravel', V. 1.; and Dudenko, A. N. Comparative Investigations of the
+Properties of Heat-Resistant Coatings Obtained by Electric-Arc Netslliza-
+tion and Plasma Spraying 16b
+
+Dekhtyar'. L. 1.; boskutov, V. 8.; Gorshkov, B. N.; Lazarenlto, C. P.;
+Kudryavtsev, Yu. P. Ignat'kov. D. A.; Murav'yev. A. 1.; and Khanin.
+A. Ya. Methods of Determination and Principal Properties of Plasma-
+Sprayed Coatings of Nichrome 167
+
+Sokolova, T. V.; Kozlova, 1. 8.; Derko, Kh.; Kalyada, T. L.; and Sokolov,
+A. A. Investigation of the Parameters of Porous Structure and Phase Com—
+position of Plasma Coatings Based on High-Temperature Oxides 172
+
+Dross-Piring Coatings
+
+Svirskiy. L. D.; Bondarenko. T. 8.; Bragina. L. l..; Cordiyenko, Ya. 1.;
+Zhukovin, V. 1.; Kazakevich, V. N.; Latysheva. H. N.; and Prikhod'ko,
+L. 1. Some Results of Investigations in the Area of neat-Resistant Coattup 178
+
+h
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Petrenko, H. 1.; Ryabov, S. 1.; Prolmpalo, H. 6.; Nikoleyeva, L. V.;
+Borisenko, A. 1.; and Khashkovskiy, S. V. Industrial Protection of
+Niobium Hot Closed-Die Forging Blanks
+
+Sazonova, N. V.; Gorbatova, 6. IL; and Kurapova, N. 1. Study of the Condi-
+tions of Formation and Heat Resistance of Silicon Carbide and Boron-Base
+Coatings on an Graphite
+
+Boriaenko, A. 1.; Pugach, ‘1'. IL; and Ivanov, A. A. High-Temperature
+Protective Coating for Tantalum Alloys
+
+Khaahkovskiy S. V.; Borisenko, A. 1.; Nikolayeva, L. V.; Yefimova, L. N.;
+and Lazukin, V. B. Interaction in the Metal-Coating System During
+Facing
+
+Antonova. Ye. A., and Sinay, L. 1!. Interaction of Elements in a Hixture
+of Ni-Cr-Si-B Powders During Heating
+
+Borisenko, V. A., and Sitnikova, A. Ya. Interaction of Components in a
+Glassceramic Coating Layer
+
+Sednale, G. P.; Sednalis, U. Ya.; and Tsindin'sh, R. A. ﬁigh-‘Imerature
+Protective Coating Based on Alninosilicate-Phosphste Systems
+
+Sazonova, H. V., and Smirnova, G. '1'. aroz-ugo-smz Coating for Porous
+Magnesia Ceramic
+
+Ban'kovskaya, 1. 8., and Sezonova, H. V. Decrease in Gas Permeability
+of Porous Ceramic Hith Magnesium Oxide-Based Coatings
+
+Kayalova, S. 8., and Baykova, G. V. Influence of the Composition of
+Silicate Liquid Phase on the Properties of Coatings Obtained by the Ad-
+sorption Deposition Method
+
+Dnitriyev, V. 8.; Nikolayeva, L. V.; Borisenko, A. 1.; Lapenkova, V. Ya.;
+Kvasnevskiy, I. P. Investigation of a Glassceramic Insulation Group
+for High-Temperature Electrical Binding Hires
+
+Kolganova, V. A.; Nikolayeva, L. V.; Borisenko, A. I., and Lapenkova,
+V. Ya. Investigation of high Heating-Resistance Hires with Ceramicglass
+Insulation
+
+Nikolayeva, L. V.; Belova, 1. V.; Vyashchenluo, K. A.; and began, M. 6.
+Interaction of Lanthanum Oxide with Solution-1V1» Glasses
+
+Corbatenko, v. 12.; mchev. A. 6.; Svetlichnyy, v. A.,- Kushnarev, A. s.;
+and ‘l'kacheva, 0. N. Study of Gassing in an Enamel Melt During Firing
+
+Pevzner, B. 2.; Dzhavuktsyen, S. 6.; Piller, H. D.; Dyagilev, A. IL; and
+Zagaynyy, V. K. Pyroceranic Seals
+
+5
+ran omcm. us: ONLY
+
+181
+
+1810
+
+188
+
+191
+
+196
+
+201
+
+205
+
+208
+
+212
+
+2110
+
+218
+
+221
+
+225
+
+228
+
+231
+FOR OFFICIAL USE ONLY
+
+Kuznctsov, A. I.. and Suykovskaya, N. 6. Classes for Sealing Electrical Con-
+nectors
+
+Ushakov, D. L, and Kuznetsova, A. I. Enamels for Protective-Decorative
+Coatings on Aluminu- Alloys
+
+Venzel', L. 1.; ludrayvtseva, G. A.; and Rudenko, L. V. 0:: the Relation-
+ship Betveen Stressed State of Enamel Coatings and Temperature Stability
+
+Popov, N. ll. Fracture of Steel at the Interface with a Gaseous Mediu- and a
+Thin Layer of Silicate Nelt
+
+Lowaeaperature Hardening Coatings
+
+Kharitonov, N. P. Investigation of the Structure and Properties of Organo-
+silicate Coatings
+
+Bova, Ye. A.; Kharitonov, N. P.; and Pstyayev, Ye. A. Effectiveness of h-
+ploynent of Organosilicate Coatings
+
+Starodubtaeva, ll. 8.; Nakhapetyan, II. A.; Glebova, I. 3.; Spiridonov, V. 1.;
+Ostrovskiy, V. V.; and Kharitonov, N. P. Physicochenical Methods of
+Investigation of Organosilicate Coatings
+
+Ostrovskiy, V. V., and Kharitonov, N. P. Theoretical and Experimental Data
+on Increasing the Heat Resistance of Orgsnosilicate Coatings
+
+Krivtsov. V. A.; Kharitonov, N. P.; Khudobin, Yu. 1.; Stepanov, K. BL;
+Andreyeva, N. A.; and Chipanko, V. 2. Ripley-ant of Organosilicate
+Materials in Thermophysical Monitoring Sensors
+
+Krotikov, V. A.; Filina. I... V.; and Kharitonov, N. P. Investigation of
+Phase Transfornations of the Polymer-Silicate Base of Organosilicate
+Coatings, Taking Place at Temperatures up to lbOO'C
+
+Leongard, A. D.; Potapov, A. P.; Stepanov. K. IL; Kharitonov, I. P.; and
+Khudobin. Yu. I. Heat-Resistant Orgsnosilicate Coatings in Thar-no-
+electric Heater Elenents
+
+Dnitriyev, V. 8.; Stepanov, K. N.; Khsritonov, N. P.; Kvssnevskiy. I. P.
+Heat-Resistant Electricsl Insulation Coatings and Adhesives for
+Protection and Joining of Pernsndur-Type Alloys
+
+Stepanov. K. IL; Khartoum“. P.; Besuyeva, Ye. V.; Degen, H. 8.; and
+Polyakova, V. 6. Influence of Oxides on the Microatructure and
+Strength Characteristics of Organosilicate Coatings
+
+Paahchenko, A. A.; Sviderskiy, V. A.; and Tkach, V. V. nest-Resistant
+Coatings with Elevated Bioresistance
+
+Borisenko, A. 1.; Kuznetsova, 1.. A.; Perveyev, A. 17.; and Troshltin, S. V.
+Some Data on the Light-Resistance of Diffusely Reflecting Coatings
+
+6
+FOR OFFICIAL USE ONLY
+
+236
+
+239
+
+2103
+
+266
+
+252
+
+255
+
+262
+
+267
+
+272
+
+2710
+
+277
+
+280
+
+286
+
+288
+
+289
+FOR OFFICIAL USE ONLY
+
+Sychev, H. IL; Krylov, 0. 8.; Hedvedeva, 1. N. and Bogoyovlmhya, G. A.
+Heat-Resistant Adhesives Based on Inorunlc Bonding Agents
+
+Sychev, M. IL; Komrova, G. 1.; Svatovskaya, L. B. and Yukhnova, 0. G.
+Binders Based on Inorganic Polymer Solutions
+
+COPYRIGHT: Izdatel'svto "Nauka", 1981
+
+30210
+(ISO : 1862/ 1
+
+7
+FOR OFFICIAL USE ONLY
+FOR 0FFKJAI.USE‘0NLY
+
+COMPOSITE MATERIALS
+
+UDC: 678.675
+POLYMERS AND POLYMER-BASED CONPOSITB MATERIALS IN INDUSTRY
+
+(signed to press 2 Feb 81) PP 2-6, 179-180
+
+[Annotation, foreword and table of contents from book “Polymers and Composite
+Materials Based on Then in Technology", by Dmitriy Moyseyevich Karpinos and
+Valentina lvanovna Oleynik, UkSSR Academy of Sciences Institute of Problems of
+Materials Science. Izdetel'stvo "Naukova dunks", 1500 copies, 180 pages]
+
+[Text] This monograph synthesizes advances in the development and investigation of
+polymeric materials in the last 15-20 years in the USSR and abroad.
+
+Alongside growth in production and expansion of areas of application of traditional
+polymeric materials (polyethylene. polypropylene, polystyrene, phenolformaldehyde,
+epoxy, polyester and other resins), an industry of new polymeric materials is begin-
+ning to develop in all countries (polyimides, polyphenylene sulfide. polyester
+sulphones, polyphenylene oxide, ABS-plastics, polyurethanes,etc); in addition to
+glass fiber as a reinforcing element for polymer-base composite materials. the
+manufacture of which is steadily increasing, new reinforcing fibers are appearing in
+the industry of various countries - carbon. silicon carbide, boron, organic (poly-
+amide hydrazide, polyoxyquinoline, polyphenylene, etc).
+
+The authors examine polymers and reinforcing components manufactured and used in in-
+dustry, their properties. types of products manufactured, output value, cost, area
+of application, modern methods of reinforcement and modern concepts on the mechanism
+of failure of polymer-base composite materials under various load conditions.
+
+This volume is intended for a broad group of specialists working in the area of
+materials science.
+
+Table of Content. Page
+Foreword 3
+Introduction 5
+
+Chapter 1. Present State and Development Trends in the Manufacture of
+
+Polymers and Polymer-base Composite Materials in the USSR and
+Abroad 7
+
+8
+F0l.0i1ﬂ(]Al.USE|JNLY
+FOR OFFICIAL USE ONLY
+
+Principal Features of Development of the Polymeric Materials Industry in
+the USSR
+
+Polymeric Materials Abroad
+The Reinforced Plastics Industry Abroad
+Mew Polymeric Materials
+
+Chapter 2. Thermostable Polymers and Composite Materials Based on Them
+
+Polyimides
+
+Chemical Structure and Methods of Obtaining Polyimides
+Commercial Polyimide Resins
+
+Cornercial Molding Polyimides
+
+Chapter 3. Thermoplastlcs in Industry
+
+Folyurethanes
+
+Acrylonitrile Butadiene Styrene (ABS) Plastice
+Polyphenylene Sulfide
+
+Aromatic Polysulphones
+
+Chapter Io. Reinforcing mm for Polymer-Base Composite Materials
+
+Carbon Filaments
+
+Organic Filaments
+
+Boron Filaments and Silicon Carbide Filaments
+Aluminum Oxide Filaments
+
+Chapter 5. Methods of Reinforcement and Mechanism of Failure of Polymer-
+Based Composite Materials
+
+Reinforcing Hith Filamentary Fillers
+
+Types of Filamentary Reinforcement
+
+Types of Filaments
+
+Matrices in Composite Reinforced Materials
+
+Mixed Reinforcement (Hybrid Compositions)
+
+Mechanism of Failure of Filamentary Polymer-Base Composite Materials
+in Various Conditions of Application of Load
+
+Compressive Failure
+
+Tensile Failure of Filementary Composite Materials
+
+Shear Failure of Filamentary Composite Materials
+
+Buckling Failure of Filamentary Composite Materials
+
+Influence of Interlaminar Stresses on Failure of Laminated Materials
+
+Filled Polymers
+
+Influence of Environmental Conditions on Polymer-Based Composite
+Materials
+
+Chapter 6. Modern Methods of Processing Polymeric Materials Into Finished
+Products
+
+Processing in a Viscous-Flow State
+Processing in a highly Elastic State
+
+FOR OFFIC‘BL USE ONLY
+
+35¢“
+
+28
+
+29
+30
+33
+106
+
+53
+
+61
+66
+67
+75
+
+81
+
+82
+91
+95
+96
+
+97
+
+97
+100
+102
+103
+106
+
+107
+108
+111
+113
+115
+116
+117
+
+1210
+
+132
+
+135
+168
+FOR OFFICIAL USE ONLY
+
+Methods of Manufacturing Products of Reinforced Plastics 156
+Processing Oriented Reinforced Plastics and Randomly Reinforced
+Holding Materials Into Finished Products 158
+Pracessing Polymeric Materials by Sintering l6l
+Applying Powder Polymeric Coatings 162
+Employment of Polymeric Materials in Bearings 165
+Thermoplastics [11) 165
+Setting Polymers, Thermosatting Resins and Other Materials 166
+Bibliography 172
+FORM!!!)
+
+polymeric materials. A number of polymers have been synthesized, the heat resistance
+and thermal stability of which up to 100°C exceeds the corresponding values of
+traditional polymers. This qualitative leap forward has been achieved due to ad-
+vances in planned synthesis. The materials obtained on the basis of these
+
+polymers can operate at a temperature of 260-300'c for several thousand hours with-
+out deterioration of properties; they include the polyimides, for example. A number
+of thermoplastic polymers have been synthesized, characterized by the ability to
+operate for an extended period of time at a temperature of ZOO-260°C, by radiation
+resistance, dimensional stability, creep resistance, chemical stability, and other
+properties essential in industry which make it possible to replace metals with
+
+silicon carbide filaments, filaments of aluminum oxide, organic fibers (polypara-
+phenylene, polyoxaline, polyamide hydraside, etc), which expand possibilities of
+developing composite materials with a large range of properties. New kinds of
+reinforcement are being aployed, such as hybrid reinforcement combining different
+types of reinforcement, which leads to the development of composite materials with
+a felicitous combination of properties. Success has been achieved in investigation
+of the mechanism of failure of composite polymeric materials, which also makes it
+possible to develop materials with improved properties.
+
+phthalate, polycarbonatea, polyarylates. and phenylone, manufactured by Soviet in-
+dustry, but many other new polymeric materials are also utilised in the world
+FOR OFFICIAL USE ONLY
+
+The purpose of this volume is to present a synthesis of world experience in the
+development of new polymers and polymer-base composite materials in the last 15-20
+years. This volume examines materials which have found practical application,
+
+are manufactured by industry, or are on the way toward conercial manufacture.
+
+An analysis presented in Chapter 1 on the state of and development trends in the
+polymeric materials industry, conducted on the example of industrially developed
+(USSR, United States, the Scandinavian countries, Austria) and some developing
+countries indicates that this industry is a rapidly growing, promising branch of
+production. In addition to the manufacture of traditional polymeric materials
+(polyethylene, polypropylene, polystyrene, polyester, epoxy, phenoloformaldehyde
+resins, etc), new polymeric materials have been developed and produced by industry
+in the last 10-15 years (polyimides, polybensimidazoles, pyrrones, polyphonylenes,
+ABS-plastics, polyrurethanes, polycarbonates, aromatic polyamides, polysulphones,
+polyphenylene sulfide, etc). New types of reinforcing elements for composite
+polymeric materials have been developed and are being manufactured.
+
+Chapter 2 describes new thermostable plastics (polyimides). The chapter describes
+the history of development, level of industrial production, growth prospects, and
+types of products being manufactured and developed in the USSR and abroad (the
+following resins: Skybond, pyraline, Qx-13, P13“, PlOSA, NR-lSO, polyimide 2080,
+89—6, SP-lZ, SP-95, kainol, PM-67, PM-69, and others). Methods of processing,
+hardening operations and the properties of end products are described, with examples
+of application in the aircraft industry. machine building and other branches of in-
+dustry.
+
+Chapter 3 examines new thermoplastics and composite materials based on them, dis-
+cusses principal products, properties, methods of processing, and areas of ap-
+plication. Polyurethanes, ABS-plastics, polyphenylene sulfides and polysulphones
+are described in detail.
+
+chapter 4 contains research results on new reinforcing filaments for polymer-base
+composite materials. The discussion includes the principal methods of obtaining
+filaments and the types of filaments employed for reinforcing polymers. Carbon
+filaments are described: history of development, production methods, types of
+products manufactured abroad (tornell, modmor, grsfil, etc), production volume, cost,
+development prospects, properties, areas of application, as well as new organic
+filasents manufactured by foreign industry (nomex, kevlar, X-SOO). Their chemical
+structure is given, as well as production process, properties, production volume,
+cost, and examples of application. Various components of fixed-wing and rotary-
+wing aircraft in the manufacture of which carbon-containing plastics are employed
+are analyzed.
+
+Chapter 5 describes modern methods of reinforcing polymer-base composite materials,
+and modern concepts on the mechanism of failure of reinforced and filled polymeric
+materials under various loading conditions, as well as in conditions of environ-
+mental influence.
+
+chapter 6 describes the principal modern methods of processing polymeric materials
+into finished products, the specific features of processing new polymeric materials,
+and development trends in manufacturing methods.
+
+COPYRIGHT: Izdatelbtvo "Naukova dunks", 1981
+
+3024
+C80: 1802/176
+
+11
+FOR 0F11C1AL USE‘ONLY
+FOR OFFICIAL USE ONLY
+
+NEW BOOK ON COMPOSITE MATERIALS
+
+[Annotation. foreword by Academician N. . Zhavoronkov and table of contents from the
+book "Composite Materials". chief editor, USSR Academy of Sciences corresponding mem-
+ber A. I. Manokhin, Izdatel'stvo "Ranks". 2.350 copies. 294 pages]
+
+[Text] Annotation. This collection presents results of theoretical and experimental
+work on basic directions in the problem of composite materials. It is drawn from ma-
+terials of the 4th All-Union Composite Materials Conference and examines the physico-
+chemical properties of coated and uncoated reinforcing materials, the thermodynamics
+and kinetics of the interaction between reinforcing and matrix. the structure. pro-
+perties and technological features of manufacturing and testing both structural and
+special-property composite materials with filament, laminate and dispersion reinforc~
+ing based on metal. ceramic. carbon and polymer matrices. methods of joining compo-
+site materials. and some areas of application. Research results are presented on the
+mechanics of composite materials. strength under short-term and long-term load. types
+of failure and corrosion behavior of composite materials, and problems in planning
+and designing items with complex shapes. The work is intended for a broad range of
+scientists and engineers. designers. metallurgists. technologists and materials spe-
+cialists working on the development. production and application of structural mater-
+ials in new equipment.
+
+Foreword. The development of new composite materials with filament, laminate and
+thin~dispersion reinforcing. better physicomechanical and special physicochemical
+properties. will lead to a qualitative leap in scientific and technical progress, not
+only in aviation. space and ship-building technology, but also in machine building.
+power engineering. electronics. electrical engineering, radio engineering. transport.
+construction and other branches of the national economy.
+
+Over the past five years. we have achieved some success in developing the theory and
+technology of obtaining composite materials and reinforcing media. the theory of non-
+homogeneous media and optimum reinforcing. the physics and mechanics of strain hard-
+ening and strength in composite materials with a broad spectrum of structures, pro-
+perties and areas of application.
+
+Whereas super-strength. rigid. lightweight. filament-reinforced composite materials
+
+were called the materials of the future in the early 1970's, they are already the ma-
+terials of today.
+
+12
+FOR OFFICIAL USE ONLY
+
+A number of questions of the physicochemical theory of the contact interaction of
+matrix and reinforcing materials, principles of choosing plasticizing, barrier and
+
+technological coatings for reinforcing materials and technological methods of apply-
+ing them. and efficient new processes for obtaining composite materials have been
+
+worked out. Much research has been done on the mechanisms of strain hardening, de-
+famation and failure of filament composite materials under various load conditions.
+
+A number of filament composite materials with polymer. metal, carbon and ceramic ma-
+trices reinforced with boron. carbon and metal filaments. laminate and dispersion-
+hardened materials have been developed. Threadlike crystals combined with continu-
+ous filaments have found application in composite materials with polymer matrices.
+Industrial production of boron and various carbon and organic filaments, threads and
+strips, tungsten, molybdenum and other filaments has been set up. as have the produc-
+tion of several threadlike crystals, the experimental production of silicon carbide
+filaments and high-strength metal filaments and the pilot-industrial production of
+plasma-sprayed intermediate composite materials and others.
+
+Industrial technology has been developed for producing sheets and certain other types
+of intermediate dispersion-hardened composite materials. filament (aluminum-boron fi-
+lament) and polymer composite materials, as has pilot-industrial technology for ob-
+taining thin defamation-alloy foils by rolling in a auperplastic state. Intensive
+work is being done on obtaining and studying the properties of composite materials
+with directional eutectic structures. Research, development and production of a
+number of new composite materials with special physicochemical properties, as well
+
+as of refractory and heat-resistant ceramics and other materials. have been developed
+substantially.
+
+Glass-, boron- and carbon-plastics. materials of the carbon-carbon type. dispersion-
+hardened metal~ceramic materials and others are already being used widely.
+
+In recent years, we have set up the production of intermediate composite materials
+on a metal base, of the aluminum alloy - boron or borsik filament type, in the form
+of plasma monofilaments which are then used to manufacture pipe and cylindrical hous~
+ings by hot pressing and sheets by pack rolling. Using such production as a base.
+
+we are currently doing the technological-design development needed to expand the pro-
+duction of intermediate products and filaments for reinforcing them.
+
+ordinating fundamental and applied research on composite materials here. The mater-
+ials published in this collection. from the lath All-Union Conference organised by
+the USSR Academy of Sciences' Scientific Council on Structural Haterials for New
+Equipment. Scientific Council on Synthetic Materials, Metallurgy Institute imeni A.
+A. BaykoV and the All-Union Order of Lenin Scientific Research Institute of Avia-
+
+tion Materials. sum up work on the problem as of 1978 and outline ways of further de-
+veloping it.
+
+Table of Contents
+
+Foreword
+Chapter I. General Problems
+Fridlyander. I. N.
+
+Properties of Composite Materials and Effectiveness of Their Application
+Shorshorov. H. Kh.
+
+Physicochemical Interaction of Components in Composite Haterials
+
+13
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Portnoy. K. 1.
+
+Present Trends in the Development of Composite Materials
+Gunyayev. C. M.
+
+Designing High-Modulus Polymer Composites with Predetermined Properties
+Mashinskaya, G. P., and Perov. B. V.
+
+Composite Materials On An Organic Fibers Base
+KarpinoSe, D. M.. and Tuchinskiy. L. 1.
+
+High-Temperature Composite Materials
+Kostikov. V. 1.. and Kolesnikov. S. A.
+
+Carbon-Carbon Composite Materials
+Makeyev. V. 9., and Yershov, N. P.
+
+Principles of Designing Composite Material Products
+
+Ihapter 2. Reinforcing Filaments
+
+Shorshorov, M. Rh.. Savvateyeva. S. M.. Chernyshova, T. A.. Kobeleva, L. 1., Flat-
+yushkin. A. A.. lvsnova, L. M.. and Sultanova. I. N.
+
+Technological Coatings 0n Carbon Filaments
+Varenkov. A. N.. Kostikov. V. 1.. Mozzhukhin, Ye. 1.. and Shimsnyuk, V. T.
+
+Forming Silicon Carbide 0r Titanium Coatings on the Surface of Carbon-Graphite
+
+Filaments
+Kilin, V. 8.. Dergunova. V. S.. Shorahorov, M. Kh.. Antipov, V. 1.. Krivtsun. V. M..
+and Kotelkin. A. 8.
+
+Various Barrier Coatings 0n Carbon Filaments
+Tsirlin, A. M.. Zhagach. A. F.. Sbchetiline, Ye. A.. Balagurove. A. M.. Poaokhina.
+E. 6., and Obolenskiy. A. V.
+
+Morphologic Features of Boron Threads
+Tsirlin. A. M.. Alekhin, V. P.. Kolesnichsnko. S. V.. and Yusupov, R. 8.
+
+Effect of Boron Filament Defects 0n Initial-State Strength and In Composite Ma-
+
+terial ADI-V
+Shorshorov. M. Kh.. Savvateyeva, S. M.. Chernyshova. T. A.. and Alekhim, V. P.
+
+Developing Filament Coatings for Composite Material Reinforcing
+Mostovoy, C. Ye.. Kobets, L. P.. Frolov, V. M.. Timoshina. L. M.. and Martynova.
+Ye. L.
+
+Effect of Test Temperature on Stability of Carbon Filament Mechanical Properties
+Shorshorov, M. Kh., Katinova. L. V.. Manuylov. V. F., Kudinov, V. V., Sokolov, V.
+8.. Tsirlin. A. M.. and Tseplyayeva. T. N.
+
+Nature and Dynamics of Change in Boron and Borsik Filament Strength During Plasma
+
+Spraying. Heating and Plastic Deforming
+Semenov. B. 1.. Kruglov. S. M.. and Tishchenkove. Ye. F.
+
+Strength and Failure when Stretching Hire Reinforced Hith Steel and Boron Fila-
+
+ments
+
+:hapter 3. Composite Materials With Metal Matrices
+
+Kostikov. V. 1.. Antipov. V. 1.. Krivtsun. V. M.. Koshelev, Yu. 1.. Filimonov, Ye.
+F., Savvateyeva, S. M.. and Tatiyevskaya. Ye. M.
+wetting Carbon Filaments With Metal Matrix Melts
+Varenkov. A. M.. Kostikov. V. 1.. Mozzbukhin. Ye. 1., and Shimanyuk. V. T.
+Obtaining a Composite Aluminum-Carbon Filament Material From Plasma Intermediate
+Products By Hot Pressing
+Stroganova. V. F.. Corodetskays. L. A.. and Tokar', Ye. M.
+Composite Material of the Magnesium-Boron System
+FOR OFFICIAL USE ONLY
+
+Chubarov. V. M.. Salibekov, S. Yen Gribkov, A. N., Batrakov, V. P., Grachev, 1.. V..
+Konissarova, V. 8.. Denisov. B. 5.. Bolgova. G. I.. Yegorova. N. V.. and Sadovnikov,
+S. N.
+
+Operational Characteristics of Boreluninum Composite Material VKA-l
+Sakharov. V. V.. Salibekov, S. Ye., Romanovich, I. V.. Sledkov, V. N., Nikolayeva.
+'l'. 3.. and Mukaseyev, A. A.
+
+Interactioc of Boron Filament With Aluminum and Its Alloys In Diffusion Welding
+Aref'yev. B. A.. Gur'yev, A. V.. Corina, N. V.. Gribkov, A. N., Yepikhina. N. M..
+and Nosko, I. N.
+
+Structure and Properties of Mot—Rolled Boraluminum Sheet
+Shorshorov. M. 101.. Kolesnichenko. V. A., Anan'yev, A. I.. Kamyshkov, A. 8.. Cor-
+elov. M. 6.. Godin. V. M.. 'l'rutnev, V. V.. Terent'yev. I. M.. and Dolgalev. B. Ye.
+
+Mechanical Properties of Longitudinally Reinforced Composite Aluninun-Boron Pi-
+
+lament Pipe
+Beletskiy, V. M.. Krivov, G. A.. Yetsenko. M. 1., Kudinov. V. V.. Galkin. Yu. A.,
+Katinova. L. V.. and Tseplyayeva. 1'. N.
+
+Evaluating the Mechanical Properties of Unidirectional Filament Material On a
+
+Metal Matrix
+Trutnev. V. V.. Terent'yev, I. M.. Potapov, V. I.. Maksimova. L. 1., Vasil'yeva,
+T. K., Shebanov. V. V.. Godin, V. M.. and Antipov, V. I.
+
+Pressing Aluminum-Boron Composite Materials In Contact Fusion
+Kudinov. V. V.. Aref'yev. B. A.. Galkin. Yu. A.. and Kalita. V. I.
+
+Mechanical Properties of the AD-l Matrix Obtained By Plasna Spraying
+Kolpashnikov. A. I., Pavlov, Ye. A.. Kiselev, V. A.. Shiryayev' Ye. V.. and Ko-
+cheshkov, I. V.
+
+Process for Obtaining Curved Boraluminm Shapes
+Tikhonov. A. 8., Manuylov, V. F.. Aret'yev. B. A., and Calakhov, A. V.
+
+Principles for Calculating Defamation Parameters for Filament Composite Materials
+Gribkov, A. N., Solov'yev, V. P.. Snirnov, V. I.. and Chichkov. Yu. N.
+
+Certain Deformation Features of Filament Composite Materials With Metal Matrices
+Karpinos, D. M., Kadyrov, V. 101.. and Moroz, V. P.
+
+Strength of Composites On An Aluminum Base At (helical Load
+Manuylov. V. F.. Tolstaya. M. A.. Mukhina. M. 6.. and Gryunval'd. M. P.
+
+Corrosion Behavior of Boraluminum Obtained By Rolling
+Meshcheryakov. V. N., Popov. I. A.. and Zhanonova. V. I.
+
+Interaction of Components in Filament Composite Materiel On An N150 Base Rein-
+
+forced With “hungsten Wires
+Meshcheryakov, V. N., Bakerinova. V. 1.. Makhmdov, K. D.. Aleksandrov. A. A.. and
+Faustov. N. I.
+
+Obtaining Vacuum-Rolled Titanium-Molybdenum Wire Composite Material
+Karpinos, D. M.. Kosolapova. ‘1'. Ya.. Listovnichaya. S. P.. Balakhnina. V. N.,
+Dzeganovskiy. V. P.. and Mateera, V. Ye.
+
+Interaction of Zircon Carbide With Chromium At High Temperatures
+Antipov. V. I.. Rybal'chenko. M. M.. Sedykh. V. S.. Kriventsov, A. N., and Solov‘-
+yev, I. A.
+
+Structure and Properties of Filament Composite Material With a Nickel-Based Alloy
+
+Matrix Reinforced With Tungsten Wire
+Beletskiy, V. M.. Krivov. c. A.. Mel'nikov. R. V.. Tsapenko, D. N., Romashko. I. M.,
+Katinova. L. V.. Kudinov, V. V.. and Ustinov. L. M.
+
+Strength of Aluminum-Boron Composite Material Compounds Obtained By Precision
+
+Contact Welding
+
+15
+roe orncm. use ONLY
+FOR OFFICIAL USE ONLY
+
+Pridlyander. I. 8.. Beletskiy. V. M.. Krivov, G. A., Romashko, I. M., Stroganova.
+V. F., Yudina. S. In, and Konovelovs. M. A.
+Use of Unidirectional Metal Composite Material As Overlapping
+Savitskiy. Ye. M.. and Baron, V. V.
+Composite Superconductors
+Ivanova, V. 8.. Kop'yev. I. M.. Volkov. V. 8.. and Busalov, Yu. Ye.
+Mechanical and Functional Properties of Friction-Besistant Composite Material
+for Slip Bearings
+Semanenko. V. Ye.. and Somov. A. 1.
+Composite Microstructure Formation During Electron-Beam Recrystallization of Re-
+fractory Systems Based On Niobium and Nickel
+Kalashnikov. Ye.V ., Sidorova. T. A.. Guts. Z. A., Andreyev. A. A.. Korkin: I. V.,
+and Smirnov, V. V.
+Growth and Structure of Eutectic Metal - Transfer Metal Carbide Composite Mater-
+ials _
+Pirogov. Ye. M.. Artyukhina. L. L., Konoplenko. V. P,, Svetlov; 1. L., and Khus-
+netdinov. F. M.
+Calculating Stresses and Constructing Cyclical Deformation Diagrams for Best-
+Fatigue Load In Composite Materials
+Skorokhod. V. V.. Panichkine. V. V.. and Konchekovskaya. L. D.
+Shrinkage In Caking Dispersion-Hardened Molybdenum Alloy Powders
+Babich, B. N.. Kuatov. Yu. A.. and Portnoy. K. I.
+New VDU3 Dispersion-Hardened Alloy On Nickel-Chromium Base
+
+Chapter é. Composite Materials With Polymer Matrices
+
+Kobets. L. P.
+Effect of Surface Treatment of High-Modulus Filaments 0n Compatibility With Poly-
+mer Binders
+Trostyanskaya, Ye. 3.. Bahayevskiy. P. 6.. and Bukharov, S. V.
+Improving Polymer Matrix Rigidity and Its Effect 0n the Mechanical Properties of
+Composite Materials
+Polyakov, V. L.
+Residual Stresses and Certain Questions on Composite Material Strength
+Gunyayav. G. M.. and Khoroshilova, I. P.
+Effect of Epoxide Matrix Composition On Properties and Technological Effective-
+ness of Carbon Plastics
+Sorina. T. 6.. Surgucheva. A. 1.. Buyanov. G. 1., Pinogenov. C. N.. and Yartsev,
+V. A.
+Behavior of Carbon Plastics Given Complex Load-Environment Effect
+Cunyayev. C. M.. Rumyantsev. A. P.. Ped'kova, N. N.. Mitrofanova. Ye. A., Chekina,
+2. F., Stepanychev, Ye. 1.. and Makhmutov I. M.
+Optimizing Composition and Structure of Reinforcing Bi- and Tricomponent Compo-
+site Materials
+Geller. A. B.. and Parepelkin. K. Ye.
+Temperature Deformations of Carbon, Organic Reinforcing Filaments and Composite
+Materials Based on Then
+Yershov, N. P.
+Designing Components Using Composite Materials with Polymer and Metal Matrices
+Kalinnikov, V. A.
+
+Using a Linear Statistical Model to Optimize Production of Composite Filament
+Material Components.
+
+16
+me om '
+FOR OFFICIAL USE ONLY
+
+Trostyanakaya. Ye. 3.. Shiahkin. V. A.. Novikov. V. A.. and Concharenko. V. A,
+Using Polymer Rivets and Welding to Join Polymer Composite Materials
+
+Chapter 5. Composite Materials Hith Carbon and Ceramic Matrices
+
+Sobolev. 1. V.. Kevan. T. M.. Kiselev. B. A.. Mosal'skiy, V. V.. Pisarenko, G. S..
+and Skvortsova. N. V.
+
+Change In Properties of Class- and Carbon-Filled Polymers During Pyrolysis
+Karpinos. D. M.. Crosheva. V. M.. Morosova. V. M.. Listovnichaya. S. P., Morosov' ,
+Yu. 1.. Dzeganovskiy, V. P.. Yakovlav. K. 1.. Kalinichenko, V. 1.. Klimenko. V. 8., '
+and Mikhashchuk. Ye. P.
+
+Composite Materials Based on Ceramic Reinforced With Refractory Ceramic and Me-
+
+tal Filaments
+Karpinos. D. M.. Rutkovskiy. A. Ys.. Morozov. Yu. 1.. Ivaahin. A. A.. Yakovlev.
+K. 1.. and Luzhanskiy. G. A.
+
+Silicon Carbide Filament - Quartz Glass Composite Material
+Krasulin. Yu. I... Timofeyev. V. M.. Ivanov, A. 3.. Darinov, S. M.. Domoratskiy.
+
+V. A.. and Asonov. A. N.
+
+Shell-Structure Type Highly Refractory Ceramic
+
+Chapter 6. Strength and Methods of Testing Composite Materials
+
+Ustinov. L. M.. Vinogradov. L. V.. and Zhamnova. V. 1.
+Effect of Brittle Interlayers on Strength of Filament Composite Materials Vith
+a Plastic Matrix
+Ovchinskiy. A. 8.. Sakharova. Ye. M.. Kop'yev. 1. M.. Bilsagayev, N. K.. and Sa-
+vel'yeva, S. A.
+Analysis of Dynamic Effects When Redistributing Stresses and Digital Computer
+Simulation of Failure in Metal Composite Materials Vith Curved Filaments
+Penkin. A. 6.. and Cusev. O. V.
+Developing an Acoustic mission Installation for Testing Composite Materials
+Gusev, 0. V.. Penkin. A. 6.. and Shorshorov. M. Rh.
+Effect of Intermetallide Interlayers on Acoustic Emission Parameters when
+Stretching Aluminum-Steel Composites
+Mikhaylov. V. V.. Zaytsev. G. P.. Sarina. T. 6.. Zyryanov‘ -1. A.. and Ivanova. 1.. A.
+Mechanics of Failure When Stretching High-Strength Reinforcing Plastic Elements
+Vith Surface and Open Cracks
+Zhigun. 1. 6.. Dushin, M. 1.. Panfilov, D. V.. Ivonin. Yu. M.. and Tanevskiy. V. V.
+Effect of Concentrators on Strength of Composite Materials
+Skudra. A. M.. Perov. B. V.. Mashinskaya. G. P.. Dulava. F. Ya.. and Deyev. 1. S.
+Microstructural Features of Organoplastic Failure and Their Effect on Strength
+
+COPYRIGHT: Izdatel'stvo "Nauka". 1981
+
+11052
+CSO: [842/150
+
+17
+non orncm. ass ONLY
+FOR OFFICIAL USE ONLY
+
+MECHANICAL PROPERTIES
+
+UDC: 620.1.05:620.17l.3
+
+STRESS-STRAIN TESTING OF MATERIALS AI HIGH TBHPBRATURIS
+
+Kiev HEKHANICHESKIYE ISPYTAHIYA HATERIALOV PHI VYSOKIKH THHPBHATUHAKH in Russian
+1980 (signed to press 16 Dec 80) pp 2-4, 206~208
+
+[Annotation, foreword and table of contents from book "Mechanical Testing of
+
+Materials at High Temperatures", by Mikhail Hironovich Aleksyuk. Vilentin Alekseyevich
+Boriaenko and Valeriy Petrovich Krashchenko, UkSSR Academy of Sciences Institute of
+Problems of Strength. Izdatel'stvo "Naukove dumka", 1750 copies, 208 pages]
+
+[Text] This monograph examines methods and equipment for testing materials employed
+in new equipment under conditions simulating actual operating conditions. The
+authors describe new methodological solutions and corresponding unique equipment and
+devices for investigating refractory and composite materials across a broad tempera-
+ture range (from 20 to 3000°C) and range of rates of deformation.
+
+The authors examine problems of experimental investigation of hardness, character-
+istics of elasticity. short-term and long-time tensile, compressive, and bending
+strength. The authors describe systems of providing force and temperature loading
+conditions and present examples of their calculations. Particular attention is
+focused on ensuring accuracy of measurement of temperatures. loads and deformations
+in determining the stress-strain characteristics of materials in conditions of a
+vacuum, inert and oxidizing media.
+
+This volume is intended for scientists, engineers and technicians working in the
+area of investigation of the mechanical properties of materials of various classes.
+
+Table of Contents Page
+Foreword 3
+
+Chapter 1. General Principles and Features of Test Equipment for Studying
+
+Strength of Haterials at High Temperatures 5
+
+l. Methodological Features of Stress-Strain Tests at Accelerated Rates
+of Deformation and High Temperatures 5
+2. Method of Thermal Calculation of Heaters ll
+3. High-Output Heater Voltage Regulation 19
+
+18
+FOR|DFFNJAI.USE(MHLY
+FOR OFFICIAL USE ONLY
+
+Chapter 2. Investigation of Hardness of Materials up to Temperatures of
+
+1.
+
+2.
+
+3300'!
+
+Fundamentals of Method of Measuring Hardness of Materials at high
+Temperatures
+
+Method of Studying the Hardness of Materials at Temperatures up to
+3300°K
+
+Mechanical Fundamentals of Hardness Tests
+
+Equipment for Studying Hardness of Materials Across a Broad
+
+Range of Temperatures
+
+Problems of Damageahility and Selection of Indenter for High-
+Temperature Tests of Micro- and Macrohardness
+
+Indenters for Measuring Hardness of Materials at High Temperatures
+Accuracy of Determination of Hardness of Materials at High Tempera-
+tures
+
+Chapter 3. Investigation of the Microhardness of Materials up to a Tem-
+
+l.
+2.
+
+perature of 2300°K
+
+Equipment for Investigating the Microhardness of Materials
+Method of Investigating the Microhardness of Refractory Compounds
+
+Chapter 4. Investigation of Strength Characteristics and Kinetics of
+
+l.
+2.
+
+3.
+
+Deformation of Materials at High Temperatures
+
+Equipment for Studying Tensile Strength of Microspecimens at Tem-
+peratures up to 3300°K
+
+Equipment for Investigating Creep and Long-Time Strength of
+Refractory Materials
+
+Equipment for Investigating High-Temperature Cyclic Strength of
+Structural Materials
+
+Chapter 5. Investigation of Strength of Materials in Conditions of High
+
+3.
+
+6.
+
+Temperatures Under Tension-Cospression, with Simultaneous
+Determination of Microhsrdness
+
+Equipment for Investigating the Strength of Materials Across a
+Broad Range of Temperatures
+
+Equipment for Investigating the Strength of Materials Under
+Tension-Compression Hith Simultaneous Determination of Microhard-
+ness
+
+Method of Investigating High-Temperature Microhardness of Materials
+on a Mikrat-h Machine
+
+Method of High-Temperature Tensile Testing of Materials
+
+Chapter 6. Investigation of Strength and Plasticity of Materials Under
+
+1.
+
+Tension Across a Broad Range of Temperatures and Rates of
+Deformation
+
+IP-IO Machine for Investigating Strength and Deformahility of
+Materials at Rates of 10‘ ~10. seconds in a temperature range of
+l70-2300‘K
+
+19
+FOR OFFICIAL USE ONLY
+
+22
+
+23
+
+29
+36
+
+62
+
+51
+SS
+
+58
+63
+63
+70
+
+76
+
+77
+
+87
+
+90
+
+95
+
+96
+
+98
+
+107
+112
+
+122
+
+122
+FOR OFFICIAL USE ONLY
+
+2. Equipment for Testing Materials at liigh Rates of Deformation, High
+
+and Low Temperatures 136
+3. Equipment for Investigating the Hardness of Materials at Various
+Loading Rates Across a Broad Range of Temperatures 139
+4. Equipment forStress-Strain Testing of Fibers 144
+Chapter 7. Investigation of the Stress-Strain Characteristics of Com-
+posite Materials Across a Broad Range of Temperatures 168
+1. Method of Determining Stresses in an Adhesive Compound 158
+2. Investigation of the Strength of an Adhesive Bond in a Complex
+Stressed State 152
+3. Equipment for Determining the Strength of Adhesive Compounds 155
+b. Equipment for Testing the Strength of an Adhesive Bond Between
+Constituents of Compositions 159
+5. Equipment for Investigating the Stress-Strain Properties of Hon-
+Metallic Materials at Temperatures of l70-570‘K 166
+6. Equipment for Investigating the Stress-Strain Properties of Non-
+Metallic Materials at Temperatures from 80 to 870°K 171
+7. Thermal Calculation of Convective Heating of Specimens 179
+8. Equipment for Stress-Strain Tearing of Heat-Protective Materials
+with Unidirectional Heating 188
+Bibliography 192
+POREHORD
+
+Development of the modern machine building industry and especially power, aero-
+nautical and rocket engineering is connected with the development of new heat-
+resistant structural and protective materials capable of operating under condi-
+tions of high temperatures and mechanical loading close to maximum. In connection
+with this,scientific research aimed at determining the patterns of behavior of
+structural materials employed for components operating at high temperatures has
+become considerably more important. Performance of such research is dis-
+tinguished by a high degree of complexity and requires elaboration of new
+
+methodological devices in conducting experiments and building appropriate test-
+ing equipment.
+
+The conditions of stress-strain tests have become extended in recent years.
+Problems of stability or variability of the physical structure of a material in
+the process of deformation are acquiring primary significance.
+
+The complexity and diversity of the physicomechanical processes taking place in
+
+a deformable solid lead to ambiguous and results. which are manifested in the form
+of unexpected failure or unwarrantedly high mechanical resistance. A correct ex-
+planation of the behavior of a material under load and, what is more important,
+prediction of this behavior are possible only after determining the physical es-
+sence of the processes which take place. In connection with this. such widely
+known operating factors as degree of complexity of stressed state, rate of
+
+20
+FOanﬂﬂCJAL.USE(MVLY
+FOR OFFICIAL USE ONLY
+
+deformation, broad range of temperatures, degree of physicochemical activeness of
+the environment, etc, should be examined from the standpoint of their influence on
+the structural foundation of the material and through it on the observable
+mechanical properties.
+
+Modern materials science is offering technology a large number of materials of the
+most diversified function. Many of these materials are employed for the manufacture
+of critical machine parts, some are utilized as reinforcing elements in the form of
+wires, filaments, foils, coatings, and laminations, which in turn can be components
+of complex macro- and microheterogeneous materials, forming the heterogeneous
+structure of the majority of alloys or matrices and hardeners in composite materials.
+
+Investigation of materials in normal conditions is performed with traditional
+methods on standard equipment. Development of new methods, however, has also
+required new design solutions.
+
+Methods of investigation of hardness, microhardness, and tensile testing of small
+specimens are promising and sometimes the only possible methods for determination
+and study of the mechanical properties of materials in small volumes. These tests
+can be conditionally assigned to the category of micromechanical methods of in-
+vestigation of the properties of materials [121, 128, .166, 205]. Development of
+methods of studying the strength of refractory metals at temperatures which are
+double to triple the temperature reached in testing equipment (up to 1300°K) was a
+highly complex problem, the solution of which required overcoming major engineering
+and methodological difficulties. A group of new special high-temperature high-ac-
+curacy testing machines was developed, equipment which eliminmes the influence of
+harmful extraneous phenomena on the specimens being tested: evaporation and
+oxidation of materials, friction in the guides and seals of the micromachines, heat-
+ing of force measuring devices, vibration of equipment components and the building,
+as well as many other factors.
+
+In connection with the necessity of perfoming structural tests simultaneously with
+force loading, high-temperature testing mechines are equipped with metallographic
+observation devices. The majority of newly designed and built testing machines and
+their assemblies are original inventions.
+
+Designs of testing equipment and devices have been developed for investigating the
+strength characteristics of structural materials, as wall as certain types of
+
+f ilamentsry compositions, loaded across a broad range of temperatures and rates of
+deformation.
+
+This monograph presents a survey of stress-strain testing methods and descriptions
+of corresponding equipment, with analysis of their design and methodological features.
+
+COPYRIGHT: Izdatel'stvo "Naukova dunks", 1980
+
+3021.
+C50: 1842/177
+
+21
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+NONFERROUS METALLURGY
+
+unc: 669.295.721.008
+PRESENT, FUTURE OF USSR TITANIUM-MAGNESIUM INDUSTRY
+Moscow TSVBTNYYB METALLY in Russian No 7. Jul 81 pp 55-60
+[Article by A. N. Pctrun'ko: "Along the Path of Technological Advance")
+
+[Text] Synthesis of the scientific and production experience of establishment,
+development and improvement of the titaniun-nagnesium industry in the USSR, the
+successes of which are universally acknowledged, is extremely inportsnt for in-
+novative utilization during achievement of the pl a n targets specified for 1981-
+1985.
+
+Considerable ground has been covered. The lessons of the past have been useful and
+instructive, and this offers a foundation for recalling several stages in the work
+of the All-Union Titanium Scientific Research and Design Institute.
+
+ 
+
+In August 1956 a GSPI [State Special Design Institute] branch was established in
+Zaporozh'ye. based at the Dnieper Titaniumeﬂagnesiun Plant. The task of this
+branch was to provide engineering design documentation for the pioneer of the
+Soviet titanium industry -- the Dnieper Titanium-Magnesium Plant.
+
+Over a period of two years the institute's designers and engineers built ex-
+perinentsl models of equipment for the plant's second unit, developed experimental
+
+models of apparatus and equipment, and designed basic and auxiliary production
+facilities.
+
+22
+FOR OFFICIAL USE ONLY
+FOR OFIIC1AL.US£1ONLY
+
+In 1958 the branch was transformed into the Ukrgiprotsvetmet Ukrainian Design In-
+stitute of Nonferrous Metallurgy. Performing basic work in the area of development
+of titanium production in the city of Zaporozh'ye. the institute was also involved
+in performing general design activities for other nonferrous metallurgical facili—
+ties in the Ukraine. A scientific research component was established as an element
+of the institute.
+
+The team of designers and researchers was established by the beginning of 1960, and
+the institute's facilities were improved.
+
+The institute's first director was I. S. Zagorskiy, while in the subsequent period
+considerable work in the area of institute organization and development was per-
+formed by director V. P. Denisov, USSR State Prize recipient. and his deputy for
+scientific affairs, B. Ye. Lukashenko.
+
+In the laboratories research was conducted in the area of improving production of
+aluminum, titanium, and silicone compounds; new methods of analysis and physico-
+chemical investigations were developed.
+
+Research was supervised by candidates of technical sciences L. N. Antipin, S. P.
+Vazhenin, I. P. Sorokin, I. A. Grikit, V. V. Rodyakin, S. l. Denisov, and N. A.
+Akimova.
+
+Lacking its own experimental facilities, the institute initially conducted research
+directly on industrial equipment, in laboratories and shops of titanium-magnesium,
+aluminum, and electrode plants. Enterprise specialists took active part in this
+work. The subject matter focus was basically in conformity with current production
+needs, and practical adoption of research results was accelerated. The main thing
+was the fact that the work force developed a striving toward close cooperation
+between scientists and production people, which was and continues to be of great im-
+portance in their work.
+
+The work effectiveness of the institute during this period was also promoted by
+considerable attention toward the institute's needs and activities, and constant
+assistance by the directors of DTHZ [Dnieper Titanium-Magnesium Plant], DAM
+[Dnieper Aluminum Plant] and 082 [Dnieper Electrode Plant] - P. I. Hiroshnikov,
+I. K. Strel'chenko and S. H. Goncharenko.
+
+As the institute grew and the qualifications of the staff improved, scientific re-
+search and design activities in the area of titanium production expanded. In the
+period 1960-1965 a number of large-scale design projects were carried out for the
+Zaporozh'ye Titanium-Magnesium Combine. There occurred extensive development of
+scientific research work in the area of development of enclosed-type ore roasting
+furnaces and a process of melting titanium slags in these furnaces, high-output
+chlorinators, efficient condensation systems, high cyclic output reduction and
+separation equipment for obtaining sponge titanium, as well as a number of research
+projects aimed at improving the quality of sponge titanium.
+
+The USSR titanium-magnesium industry was built in a short period of time. Growing
+metals requirements dictated a rapid pace of development. This evoked the necessi-
+ty of extensive enlistment of talented manpower. An enormous volume of work
+
+23
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+pertaining to designing enterprises and equipment for scientific research as well as
+bringing equipment and processes on-stream was performed during the construction of
+titanium-magnesium plants: by VAMI [All—Union Institute of Aluminum and Magnesium]
+in construction of the Bereznikovskiy plant; by Giredmet in construction of the
+Ust'-Kamenogorsk plant, and by the Titanium Institute in construction of the
+Zaporozh'ye plant. A mutual exchange of information and know-how and the es—
+tablished productive cooperation among the staffs of these institutes promoted
+movement on—stream of the original design capacity of these enterprises largely in
+the Eighth Five-Year Plan.
+
+In 1965 the Titanium Institute was designated the lead branch institute for the
+
+titanium-magnesim industry and was renamed the All—Union Titanium Scientific Re-
+search and Design Institute.
+
+in subsequent years all scientific research topics pertaining to titanium were
+transferred over to the institute from VAMI, as were the functions of lead insti-
+tute in the production of magnesium. Radical structural changes have taken place
+in conformity with the institute's specialization, and its facilities have im-
+proved. A significant contribution toward the organization of scientific research
+and design projects as well as determination of the main areas of institute ac-
+tivity during this period wasmadeby its director. P. V. Inashvili, its subsequent
+director, R. K. Ognev, deputy directors for scientific affairs V. I. Borodin and
+N. V. Galitskiy, and chief engineer M. T. Krivoshey.
+
+In 1976 the Bermnikovskiy branch, which is also celebrating its 25th anniversary
+this year, was made a coaponent of the Titanium Institute.
+
+Today the Titanium Institute is a lead branch institute, with its own experimental
+production facilities, performing scientific research, experimental design, de-
+sign engineering and technical-economic work, which are defining the future develop-
+ment prospects of the titanium-magnesium subbranch.
+
+High-Output Unit for Producing
+Sponge Titanium
+
+ 
+
+FOR OFFICIAL USE ONLY
+li)R‘0FTﬂCIAl.lﬂﬂE(MVLY
+
+The institute contains an EDP center, equipped with third-generation Yes-1020 com-
+puters and Nairi units, with the aid of which results are processed, engineering
+design calculations are performed, and automated scientific and technical informa-
+tion systems are being created. Greatly utilized in design activities are the
+
+simulation-model method, copyless production of drawings, standard so? cions and
+applications.
+
+Organizational development of the Titanium Institute was accompanied by continuous
+improvement in its scientific and practical activities as well as improvement in
+personnel qualifications.
+
+The productive activities of institute personnel have increased. In the last five
+years 287 certificates of invention have been granted, and 69 inventions have been
+incorporated into production, with overall savings of 6.7 million rubles. The
+institute's project results are being registered under foreign patents.
+
+Institute staff personnel have published 57 books and pamphlets, and more than
+1,300 articles in scientific journals. A total of 18 volumes of collected scien-
+tific papers and specific-topic volumes have been published, dealing with problems
+
+of improving existing and development of new industrial processes in the produc-
+tion of titanium and magnesium.
+
+A total of three doctoral and 65 candidate dissertations have been defended based
+on projects carried out at the Titanium Institute.
+
+The institute staff is continuing to expand and deepen a tradition which was
+established in the initial period - productive cooperation with enterprises and
+institutes in a partnership arrangement pertaining to seeking and adopting major,
+important improvements in the equipment and technology of titanium-magnesium
+production facilities. This has helped transform the titanium-magnesium subbranch
+into a large-scale modern industry employing high-output and high-efficiency
+
+process equipment which makes it possible to achieve guaranteed high product
+quality a
+
+A substantial increase in titanium and magnesium production in the last decade,
+1971-1980, has been obtained exclusively by means of renovation of enterprises and
+modernization of equipment, for the most part without building new facilities, with
+utilization of the results of scientific and technical projects conducted by the
+
+staff of the Titanium Institute in cooperation with enterprises and other in-
+stitutes of this branch.
+
+In the area of titanium slag processing, projects pertaining to designing and build-
+ing high-output enclosed ore roasting furnaces and process development were headed
+by S. I. Denisov. V. c. Raspopin, V. G. Bryndin, G. H. Shekhovtsev, H. Sh. Reyngach,
+and V. V. Asaf'yev participated actively on the working team.
+
+The renovation of ore roasting furnaces conducted in 1980, with their capacity be-
+ing increased, is completed. Renovation boosted furnace output at BTHK
+[Bereznikovskiy Titanium-Magnesium Combine], for example, by 51 percent, while
+reducing specific consumption of electricity by 16.4 percent; recovery in this
+
+2
+FOR OFHKJEi.USE(HVLY
+FOR OFFICIAL USE ONLY
+
+process was increased by 3.3 percent, and the relative number of workers was
+reduced by 35.
+
+A large aggregate of scientific-technical and design projects was performed on the
+process of chloridizing roasting of titanium slags and titanium tetrachloride
+treatment. As a result of adoption of project results, the design output capacity
+of shaft and salt chlorinators has increased by 36 and 56 percent respectively.
+During the 10th Five-Year Plan alone shop output capacity increased by 7.8 percent
+as a result of renovation of chlorinatora at BTHK, without increasing the number of
+personnel. N. V. Galitskiy, A. B. Bezukladnikov, and D. P. Baybakov made a substan-
+tial contribution toward solving these problems.
+
+Under the direction of N. V. Galitskiy, V. I. Stershenkov, and V. I. Drozhzhev, the
+institute worked on improvement and development of new methods of deep treatment of
+titanium tetrachloride and study of the composition of the impurities of complex
+substances contained in it and methods of removing them. Adoption of research
+results made it possible at all enterprises sharply to improve quality of the
+product of this process and to boost equipment output. In 1970-1975 enterprises
+adopted copperless cleaning of titanium tetrachloride with lower chlorides of
+titanium, with employment of a new, more available andcheaper reagent. which
+generated more than 1 million rubles in savings. In 1979-1980 there occurred exten-
+sive investigation of rectification conditions in large-diameter towers. Adoption
+into industry of the new towers made it possible to increase output by 50 percent
+in this process and to boost to 95 percent output of the top grades of titanium
+tetrachloride.
+
+Improvement and modernization of basic industrial equipment in the process of ob-
+taining sponge titanium were accomplished, beginning in 1966, under the direction
+of A. Ye. Andreyev. V. H. Hal'shin, and V. H. Skrypnyuk. In a short period of
+time, through the unified efforts of scientific personnel, design engineers and
+production people, working with specialists from the Giredmet Institute and other
+organizations, high-output, high-efficiency units were developed, and total renova-
+tion of this process was accomplished at all enterprises.
+
+Alongside improvement of equipment. a great deal of work is being done to improve
+the quality of sponge titanium. At the present time the quality of sponge titanium
+produced by Soviet enterprises is at the level of the finest foreign product,
+
+while the highest-grade sponge, 10-90. has no equal abroad.
+
+A special place in the institute's activities is occupied by the search for areas
+of efficient application of titanium and titanium alloys in civilian branches of
+industry. Resolution of this problem was assigned to the institute in 1969.
+
+Under the direction of S. F. Vazhenin and V. V. Volynskiy, research was conducted
+on the employment of titanium at more than 200 enterprises of various branches,
+and an extensive campaign was organized to publicize the properties and advantages
+of this remarkable metal. As a result, by 1976 consumption of titanium in non-
+ferrous metallurgy, chemical and petroleum machine building and the chemical in-
+dustry had increased more than fivefold. Annual savings from accelerated adoption
+of titanium amounted to approximately 3 million rubles.
+
+26
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+v. v. Volynskiy, c. A. Kolobov, and ‘Iu. v. DobrunOV were awarded the Ukrainian ssn
+State Prize for their work in the area of application of titanium in the chemical
+industry.
+
+One of the most important and promising problemareaa in which the incitute has
+been working since 1965 is the development of titanium powder metallurgy technology.
+By 1970 the theoretical principles of obtaining powders by the electrolysis method
+had been elaborated, under the direction of L. N. Antipin, and experimental-com-
+mercial scale electrolytic cells had been designed and built. Subsequently these
+projects in the area of titanium powder metallurgy were headed by Yu. G. Olesov,
+
+V. V. Nerubashchenko, N. N. Koygushskiy, V. A. Drozdenko, and R. K. Ognev. Through
+the efforts of the research teams under their direction, working in cooperation
+with the Ukrainian SSR Academy of Sciences Institute of Problems of Materials Sci-
+ence and the Zaporozh'ye Machine Building Institute, by 1977 a process and equip-
+ment had been developed for producing powders and products of powders, generating
+savings ranging from 3 to 15 thousand rubles per ton of product. Employment of
+titanium filtering elements in the chemical industry and in nonferrous metallurgy
+is particularly effective. Savings amount to 100,000 rubles per ton of filters.
+
+Highly effective, radical improvements have been accomplished in the area of mag-
+nesium production. working jointly with VAHI, development of equipment has been
+completed, as has the total renovation of magnesium electrolysis shops at all
+enterprises of the subbranch, with installation of new, high-output electrolytic
+cells without cathode box. This has made it possible to increase their output by
+up to 20 percent, to boost output volume without increasing work force, to reduce
+specific consumption of electricity by 1400-2000 kilowatt hours, to increase
+chlorine yield by 50 k !t, to achieve significantly healthier working conditions,
+to eliminate laborious cathode replacement operations, and to mechanize sludge
+recovery. Research is continuing, under the direction of V. N. Devyatkin, Yu. H.
+Ryabukhin and G. N. Svalov, on.further improving the magnesium electrolysis
+process, on reducing magnesium and chlorine losses, and on developing methods of
+protecting structural components against oxidation and the aggressive action of
+the melt.
+
+In recent years the institute staff has done a great deal of work on improving
+existing and developing new techniques of treating stack gases, effluents, on
+neutralization and utilization of production process chloride waste, which has made
+
+it possible substantially to reduce discharge of harmful material in the environ-
+ment.
+
+Stable production of merchantable hypochlorite pulps has been achieved by im~
+proving the process of treating chlorine-containing magnesium production gases.
+Research has been conducted on utilization of chloride waste in deep well drilling;
+
+tion of cements and concrete.
+
+The work accomplished by the Titanium Institute since its establishment has at-
+tained a very large scale. At the present time the average annual volume of
+scientific research work runs in the vicinity of 4 million rubles, while the total
+volume of design and development work runs at approximately 2.0 million rubles.
+Each year the institute presents design-estimate documentation representing a sum
+
+2
+FOR OFFIGA‘. USE ONLY
+FYMICHWHCJAI.USE(NNLY
+
+in excess of 20 million rubles. Savings achieved from adoption of completed re-
+search in the last 10 years has almost doubled. amounting to 9.190.000 rubles in
+
+1980. Correspondingly. return on each ruble spent is now 3.95 rubles. in com-
+parison with 2.49 rubles in 1970.
+
+The institute's scientific and technical activities in the last 10 years have been
+directed toward boosting the technical level of the titanium-magnesium subbranch
+and improving the technical-economic indices of enterprises. A11 production
+volume growth. both in titanium and magnesium. was obtained in the 10th Five-Year
+Plan solely as a result of reequipping enterprises. Basic technical-economic per-
+formance indices have improved substantially during that same period.
+
+Output of sponge titanium bearing the state Seal of Quality increased to 86 per—
+cent in 1980. while the figure for magnesium and magnesium alloys rose to 84 per-
+cent. Percentage of complete utilization of raw materials improved: it has reached
+84 percent in titanium production. and 88 percent in magnesium production.
+
+Further development of this subbranch and improvement in its technical-economic
+indices in the llth Five-Year Plan will be achieved both by elaboration and adop—
+tion of new technical solutions and improvement of existing industrial processes,
+awdps aresult of reducing the msterials-intensiveness of production. achieving
+savings in metal and energy resources. and mechanization of manual labor on the
+
+basis of comprehensive specific programs worked out by the enterprises and the in-
+stitute.
+
+Subbranch technical development plans for the llth Five-Year Plan call for further
+modernization of basic industrial equipment in all processes. adoption of new in-
+dustrial processes. continuous-flow mechanized lines. and creation of the pre-
+requisites for total mechanization and automation of production.
+
+A slag granulation process will be adopted in titanium slag melt processing. along-
+side further increase in the output of basic process equipment. which will make it
+
+possible to eliminate a number of laborious operations and boost titanium recovery
+
+by 1.5-2.0 percent.
+
+An increase in the output of chlorinators and adoption at all enterprises of the
+process of deeper treatment of titanium tetrachloride in high-output screen rectify-
+ing towers will be accomplished in the chloridizing roasting process and treatment
+of titanium tetrachloride.
+
+In the reduction and vacuum separation process. efforts are to be concentrated on
+bringing on-stream high-output units. deepening reducer treatment. and optimization
+of conditions with the employment of automated control systems.
+
+In the 11th Five-Year Plan particular attention is to be focused on commercial-
+scale adoption of continuous-flow magnesium production. Adoption of this technology
+will make it possible substantially (by 20-30 percent) to boost labor productivity
+of basic production personnel and to create the prerequisites for total production
+mechanization and automation.
+
+Plans call for a substantial change in solving problems of production waste recovery
+in all basic processes.
+
+28
+FOR OFHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Institute efforts will also be focused on creating the scientific-technical founda-
+tions of new processes and equipment, including a continuOus titanium production
+method, the plasmochenical and electrolytic techniques of titanium production,plus
+a number of others.
+
+Further acceleration of technological advances in titanium-magnesium production
+will be promoted by a more thorough study of advanced know-how in achieving high
+indices, and mutual exchange of experience among enterprises and institutes in the
+area of adoption of advanced equip-cut and processes.
+
+The necessity ofdirectingthese efforts is a most important task of the Titanium
+Institute in the 11th Five-Year Plan.
+
+The tasks facing the work forces of the Titanium Institute and titanium-magnesium
+enterprises are large and complex, and the principal task is that of maximum
+satisfaction of the needs of the economy in high-quality metals - titanium and
+magnesium. The high level of personnel skills and qualifications, substantial
+experience and know-how in organizing joint projects amassed by the institute and
+enterprises of this subbrsnch, and close cooperation between institute scientists
+and production specialists in solving concrete problems constitute a guarantee
+of accomplishment of these tasks.
+
+COPYRIGHT: IZDATEL'STVO "METAILURGIYA". "'rsvamvr METALLY". 1981
+
+3024
+C50: 1842/159
+
+IN)! 0F11Ci2l,USE(NﬂLY
+FOR OFFICIAL USE ONLY
+
+Pom METALLURGY
+
+UDC: 669.295:621.762
+TITANIUM POWDER METALLURGY
+
+Moscow POROSHKOVAYA METALLURGIYA TITANA in Russian (signed to press 6 Apr 81)
+pp Z—é, 267
+
+(Annotation. foreword and table of contents from book "Powder Metallurgy of Titanium",
+by Valentin Semenovich Ustinov, Yuriy Georgiyevich Olesov, Viktor Antonovich
+Drozdenko, and Lev Nikolayevich Antipin, Izdatel'stvo "Metallurgiya", 2000 copies.
+268 pages]
+
+[Text] The first edition of this book came out in 1973. In the second edition the
+authors examine the present state and development prospects of titanium powder
+metallurgy. They discuss the technology of the basic processes of obtaining titanium
+powders; attention is devoted to the properties of powders and sintered products
+made from titanium powders in relation to the method of production, additional
+treatment, alloying and precipitation hardening. The authors discuss industrial
+safety in the manufacture and application of titanium powders and sintered products
+made of such powders. The authors show the technical-economic effectiveness of
+powder metallurgy methods in the manufacture of sintered products of powders in
+place of cast titanim, as well as from employment of such products (porous and
+structural) in the nation's economy.
+
+This volume is intended for engineers and technicians working in the field of
+titanium powder metallurgy, and can also be useful to graduate students and higher
+educational institution upper-division undergraduates of the corresponding fields
+of specialization. Fifty-two illustrations, 75 tables, 269 bibliographic items.
+
+Contents Page
+
+Foreword 3
+
+Chapter 1. Metallothermic Reduction of Titanium Compounds 5
+Chapter 2. Obtaining Titanium Powders by Ileana of Thermochemical and
+
+Nechanochemical Processing of Metallic Titanium 23
+
+1. Interaction of Titanium With hydrogen 23
+
+2. Process of Hydrogenation of Metallic Titania: b2
+
+3. New Trends in Thermochemical Elbrittlsnent of Titanium 1.9
+
+lo. Grinding and Additional Processing of Embrittlemsnt Products 51
+
+30
+
+FOR OFFICIAL USE ONLY
+INDR 0FF1C1Al.USII(MULY
+
+5. Breakdown of Titanium Hydride (Dehydrogenation) $8
+6. Atomization and Granulation of Molten Titanium 70
+Chapter 3. Electrolytic Preparation of Titanium Powders 77
+1. Raw Material and Electrolytes for Electrolytic Production of Titanium 78
+2. Designs of Electrolytic Cells and Auxiliary Equipment 91
+3. Electrode Processes in Obtaining Powder Titanium on a Cathode 103
+6. Influence of Electrolysis Process Conditions and Composition of
+Electrolyte on Quality of Cathode Metal and Process lndices 115
+Chapter 4. Properties of Titanium Powders. Methods of Monitoring and
+Control 127
+1. chemical Composition 127
+2. Processing Properties 131
+3. Controlling Properties of Titanium Powders 137
+Chapter 5. Producing Products of Titanium Powders 163
+1. Preparing Preforms for Sintering 143
+2. Sintering Powders and Compression Molding 161
+3. Intensification of the Processes of Forming and Sintering 173
+a. Titanium-Ease Composite Materials 182
+chapter 6. Processing of Titanium Powders 185
+
+1. Employment of Titanium Powders as Component of Charges and Compounds 185
+
+2. Obtaining Porous Products of Titanium Powders 195
+3. Obtaining Compact Products 200
+Chapter 7. Fire and Explosion Hazard of Powdered Titanium 209
+1. Combustibility of Titanium-Ease Powders 209
+2. Measures to Prevent Igniting and Explosions of Titanium Powders 219
+
+Chapter 8. Technical-Economic Effectiveness of Titanium Powder Metallurgy 223
+Bibliography 236
+
+POREHORD
+
+The first investigations in the area of titanium powder metallurgy were conducted at
+the end of the 1930's. but research in this field did not reach a sufficient degree
+of intensity until commercial production of metellothermic titanium was developed.
+
+Powder metallurgy methods are employed to produce items with properties comparable
+with the properties of melted metal, as well as new materials which are difficult
+
+to produce from molten metal (gas absorber filtering elements. metal-polymer coatings,
+antifriction products, etc).
+
+31 '
+roe OFFICIAL use ONLY
+FOR OFFICIAL USE ONLY
+
+Development of the manufacture of high-quality (electrolytic) titanium powders
+
+made it possible to employ commercial-scale processes for producing a number of
+sintered items -- structural components of the engine and instrument engineering in-
+dustries, filters, dispersing agents, etc (1). Since publication of the first
+edition of this book, the technical-economic characteristics of titanium powder
+metallurgy have been defined, requirements on powders have been detailed, and the
+principal parameters of the processes of molding, sintering and additional process-
+ing of sintered products have been elaborated. It was determined that sintered
+titanium products can be produced with utilization of equipment employed in ferrous
+powder metallurgy and that of other metals (mixers, grinding and compression molding
+equipment, aintering furnaces).
+
+An optimal combination of physical-mechanical, physicochemical and process proper-
+ties of titanium and titanium-base alloys is attracting the attention of representa-
+tives of practically all areas of new technology - from aerospace to medicine.
+
+The problems which are arising thereby (shortage of titanium, high cost of products,
+etc) can be resolved with utilization of powder metallurgy methods.
+
+The development of new processes of obtaining titanium (plasma metallurgy, continuous
+metallothermic process, electrolysis) will lead to producing part or all titanium
+in powder form, and if so, powder metallurgy will not only supplement the existing
+method of mass production of titanium products but will replace it to one degree or
+another.
+
+The authors have analyzed Soviet and foreign experience in the development and adop-
+tion of industrial processes and equipment for obtaining titanium powders and
+products from such powders. Since the first edition of this book was published
+(1973), a considerable number of scientific research results have been published in
+periodicals, especially dealing with new trends in titanium powder metallurgy. A
+number of theses presented in the first edition on the basis of analysis of data in
+the literature and laboratory investigations, have undergone experimental-industrial
+testing and verification at that time. Fundamentally new areas of application of
+titanium powders have been determined, such as obtaining refractory titanium com-
+pounds by the method of self-propagating high-temperature synthesis (SVS-process).
+Products and materials obtained from titanium powders have been tested in industrial
+conditions. All this has dictated the necessity of thorough revision of this book
+during preparation for publishing a new edition.
+
+The authors hope that the materials contained in this volume will prove useful both
+for engineers and technicians working in the area of producing and processing
+powders and for the users of products of titanium and titanium alloys.
+
+COPYRIGHT: Izdatel'stvo "Hetallurgiya", 1981
+
+3024
+C50: 1842/151
+
+32
+FOIIOFFHJAL.USE(MULY
+FOR OFFICIAL USE ONLY
+
+MISCELLANEDUS
+
+UDC: 629.7.036.S.-536.3.001.2(082)
+
+KINETICS 0P HIGH~TEHPERATURE FAILURE OF MATERIALS
+
+Kiev KINETIKA WSOKOTWEMWOGO MIRUSBDIIYA MATERIALOV in Russian 1981 (signed
+to press 30 Dec 80) pp 24, 151-152
+
+[Annotation, foreword and table of contents from book "Kinetics of High-Temperature
+Failure of Materials". by Vasiliy Semsnovich Dvernyakov. UkSSR Acsdsuy of Sciences,
+lzdatel'stvo "Naukova dunks”, 1100 copies. 152 pages]
+
+[Text] In this monograph the author describes nethoda of studying the process of
+high-temperature failure of, for the most part. heat-protective materials, under
+conditions of radiant, convective. and combined heating. The author presents a
+conjugate problem variant for the case of combined heating and conditions on the
+saving boundary of physicochemical transformation within a material in the process
+of failure (Stefan condition). The author briefly describes external and internal
+regions of interaction of materials in various environments and extensively
+presents an experimental base created on the principle of utilization of radiant
+energy of the sun (special solar units) and other sources. The author presents
+results of investigations of the process of interaction and shows the fundamental
+possibility of estimating experimentally the kinetics of high-temperature failure
+of materials.
+
+This volume is intended for scientists, engineers and tscluicians conducting
+research in the area of materials science and design of flying vehicles and engines;
+it may also be useful for specialists in related fields of technology, graduate
+students and undergraduates at higher technical schools.
+
+Table of Contents Page
+Foreword 3
+Basic Symbols 5
+
+Chapter 1. The Process of Heat Exchange and a Survey of Experimental
+Equipment (External Region of Interaction) 7
+
+Some Specific Features of High-Temperature Failure of TZH [Beat-
+Protective Materials] 7
+Heat Exchange with a Non-Destructing and Ablating Surface 11
+Figuring the Radiant Couponent of Heat Flow 13
+33
+
+POI! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Experimental Methods and Equipment for Investigating the Kinetics of
+Failure of TZM 24
+Special Solar Units (860) 29
+
+Chapter 2. Moving Boundaries of Physicochemical Transformations and
+Principal Factors of Interactions (Internal Region of Inter-
+
+action) 64
+
+Heat and Mass Transfer Through Regenerated Zones of a Destructing
+
+Material 66
+Properties of Materials at High Temperatures 73
+Classification of Materials 79
+Properties of Individual Constituents of TZM and Their Influence on
+
+Overall Effectiveness 81
+Influence of External Factors on the Process of Interaction 86
+Some Features of the Process of Failure of Materials in Conditions of
+
+Radiant heating 88
+
+Chapter 3. Substantistion and Derivation of a Conclusion Combining Ex-
+ternal Conditions and Properties of a Material During Mass
+
+Removal 98
+Statmnt of Conjugate Problem for Conditions of Combined Heating 98
+Model of high-Temperature be {lure of TZM in Conditions of Combined
+
+Heating 106
+Chapter 10. Determination of Input Data. Evaluation of Criteria, and
+
+Results of Solving Equation (111.27) 116
+
+Interrelationship of External Parameters and Properties of Materials,
+Determination of the Range of Their Variation 1110
+
+Determination of Values of Criteria of Equation (111.27), Equation
+Solution and Analysis of Certain Relations 117
+
+Analysis of Extreme Cases of Flying Vehicle Conditions of Flight 125
+
+Chapter 5. Various Conditions of Interactions of Materials Hith the
+Environment and Experimental Methods of Estimating Kinetics
+
+of Failure 129
+Analysis of Various Interactions 129
+Analysis of Experimental Results 132
+Experimental Method of Studying the Kinetics of nigh-Temperature
+Failure of Materials 134
+Bibliography 160
+FOREVER!)
+
+The contemporary stage of study of the problem of spacecraft entry into dense layers
+of atmosphere involves thorough study of the problems of physics, hydrodynamics, and
+
+3h
+ron omcut use ONLY
+FOR OFFICIAL USE ONLY
+
+chemistry of the phenomena which accompany the process of interaction of a heat-
+shield naterial (T214) with the surrounding medium. Comparisons of theoretical cal-
+culations and experimental data have made it possible to achieve significant
+progress in understanding the structure of the flow field as well as physico-
+chenical transformations which occur. There has been a substantial improvement in
+the accuracy of calculations connected with analysis of spacecraft reentry into the
+atmosphere, such as calculations of convective and radiant heat flows, mass
+removal and heating of the heat-protective coating. radar cross section of the
+trail, etc. In spite of the fact that one can with a fair degree of certainty ex-
+
+which there is a substantial quantity of experimental data. elaboration of nethods
+of determining the dynamic interrelationship of the properties of media and nstsrials
+with the rate of failure and heating remains an extremely important stage in
+selecting an optimal heat shield.
+
+It has now becone necessary to seek ways and methods of synthesizing information on
+effective, thernophysical, optical and other properties of materials in the process
+of their disintegration in media with various composition and thermodynamic
+parameters. The available large quantity of factual material requires appropriate
+classification and convenient forms of conpect presentation of experimental and
+calculated data.
+
+This book is a result of work performed by the author together with various experts:
+industrial engineers who design heat shield materials , the design engineers who
+utilize these materials, and testing personnel, who accomplish feedback from ex-
+perinent results to the formula and process of manufacture of the materials.
+
+The author's task was greatly facilitated by the following published monographs:
+Yu. V. Polezhayev and P. Yu. Yurevich, "'l‘eplovaya zsshchita" [Heat Shielding]
+(Moscow, Energiya, 1976); B. H. Pankratov, Yu. V. Poleshayev, and A. K. Rud'ko,
+"Vzainodeystviye materialov a gasovymi potokami" [Interaction of Materials with
+Gas Flows] (Moscow, Hashinostroyeniye, 1976). Thanks to these studies, it was
+
+no longer necessary to make a detailed examination of the problems of heat and mass
+transfer in high enthalpy flows and solids, the nechanism of absorption of heat and
+the physicochemical processes which take place within heat-protective naterials.
+
+This nonograph is divided into five chapters, unified by the canon idea of compact
+presentation of the process of high-taperature failure of heat-shield naterials
+
+35
+roe OFFICIAL us: ONLY
+FOR OFFICIAL USE ONLY
+
+taking into account the influence of the radiant component of overall heat flow.
+
+A brief survey of experimental aethods of investigation and equipment is presented;
+an examination is made of the influence of external factors on the effectiveness
+of materials; experimental equipment which utilizes the radiant energy of the sun
+(special solar units) is presented.
+
+Chapter 2 examines the moving baundaries of physicochsmical transformations within
+TZM (internal region of interaction), presents the properties of typical TZH by
+
+zones. presents a classification of well—known naterials and examines the properties
+of individual components of TZH and their influence on heat-shielding effectiveness.
+
+Chapters 3, 4, and S are devoted to substantiation, derivation and analysis of the
+solution of an equation which reflect the kinetics of high-temperature failure as a
+particular case of conjugate problems for conditions of convective and radiant
+heating. They also contain analytic expressions of the most typical interactions
+of materials in the conditions of various experimental equipment, with comparison
+of certain experimental data and solution results. These investigations are a
+part of the problem of designing engines, heat-stressed equipment and flying
+vehicles as a whole.
+
+The author would like to express his profound thanks to UkSSR Academy of Sciences
+Academician I. N. Frantsevich for his daily attention and discussion of the manu-
+script. and to V. V. Pasichnyy. V. s. Tsyganenho. and c. P. Gornostayev for
+assistance in preparing individual sections. The author expresses thanks to his
+colleagues, young specialists and graduate students for their participation and
+critical comments. The author would like to express particular thanks to 0. A.
+Teplyakova for her assistance in readying the manuscript for publication.
+
+COPYRIGHT: lzdatel'svto "Naukova dumka", 1981
+
+3024
+680: 1842/175 END
+
+36
+FOR OFFICIAL USE ONLY

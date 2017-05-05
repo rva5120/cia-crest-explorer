@@ -1,0 +1,2312 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10564
+4 June 1982
+
+USSR Report
+
+METEOROLOGY AND HYDROLOGY
+
+No. 3. March 1982
+
+FOREIGN BROADCAST INFORMATION SERVICE.
+
+FOR OFFICIAL USE ONLY
+nor:
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarised or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+
+METEOROLOGY AND HYDROLOGY
+No. 3, March 1982
+
+Translation of the Russian-language monthly journal METEOROIDGIYA I
+GIDROLOGIYA published in Moscow by Gidrometeoizdat.
+
+, CONTENTS
+*Variability of Temperature and Circulation Regimes in Northern ﬂs-isphere
+
+Atmosphere....................................................................
+
+*Influence of Temperature Stratification on Adiabatic Fluctuations in Polytropic
+
+Atmosphere....................................................................
+
+Major Temperature and Precipitation anomalies Over European USSR. Western
+Siberia end hukh‘canl.0.OOIOOOO'COOOIOOICCIOIOCU.00....OCOOOCOOOOIOICOCOO...O
+
+*Interaction Between Subclou? and Cloud Layers in Tropical Cyclones and
+Intertropical Convergence Zone................................................
+
+*Investigation of Cloud Cover Dynamics in Tropical Zone_Using Two-Dimensional
+Spectral Analysis.............................................................
+
+*Hodels of One-Dimensional and Joint Distributions of Non-Negative Rsndon Values.
+
+*Dissipation of Kinetic Energy in Cyclone Over 0cean..................1..........
+
+*Prediction of Hater Salinity in Gulf of R13. Bottom Horizon.....................
+
+Status and Prospects of Numerical Hydrodynamic Investigations of Fluctuations of
+‘ Levels in Arctic 5988........o........oo.o.u.-......................o....a....
+
+*Description of River Runoff st Several Points by Multivariate Canonical
+Expansion Method..............................................................
+
+ste of Surface Generators of Ice-Forming Aerosols in work for Artificially
+Augmenting Precipitation in Hountsinous Regions...............................
+
+*
+Denotes items which have been abstracted.
+
+15
+
+16
+17
+18
+
+19
+
+20
+
+30
+
+31
+FORIOFFKJAL.USEIDNLY
+
+Evaluation of State of Agricultural Crops Prom Satellite Data 32
+
+*Bvaluation of Spectral Resolution of Optical Apparatus for Measuring Minor
+Gas Components in Atmosphere................................................. 62
+
+*Possibility of Determining Atmospheric Telperature Profile by Acoustic
+
+sounding-o..............oo.......oo.c....o....o......o....o............o....o ‘3
+
+*Insdvertent Influence of Major Cities and Industrial Centers on Precipitation.. 66
+*Revlew of Monograph 'Gidrologicheskiye protsesay i ikh rol' v fornirovanii
+kachestva vody' ('Hydrological Processes and Their Role in Forming water
+Quality'). by V. A. Znamenskiy. Leotngrsd. Gidroneteoizdat, 1981. 248 Pages.. 65
+*Conferences, Meetings, Seninars................................................ 66
+*Notes Pros Abroad.............................................................. 67
+
+*Obituary of Yekaterina Nikitichns Blimva (1906-1981).......................... as
+
+*Obituary of Sergey Ivaaovich Sivkov (l901-1981)................................ 49
+
+* Denotes items which have been abstracted.
+
+FOIlOFFﬂJAl.UBB(IﬁLY
+UDC 551.526.3+551.Sl3(215-l7)
+
+VARIABILITY 0F TEMPERATURE AND CIRCULATION REGIHBS IN NORTEERN HEMISPHBRB
+ATMOSPHERE
+
+Moscow HBTEOROLOGIYA I GIDROLOGIYA in Russian No 3, Mar 82 (manuscript received
+1.7 Jun 81) pp 8-20
+
+[Article by G. V. Gruza, professor, L. K. Kleshchenko, candidate of geographical
+sciences. and T. P. Timofeyeva, All-Union Scientific Research Institute of Hydro-
+meteorological Information-world Data Center]
+
+[Abstract] A joint analysis of the long-term changes in a number of key character-
+istics of state of the atmosphere was wade. The spatial and tenporal.changes in
+global and local parameters of the temperature and circulation regimes of the
+northern hemisphere were studied using data for the period 1959-1979 on the basis
+of the mean monthly fields of temperature and pressure at sea level and the geo-
+potential field at the 500 gPa surface as interpolated at the points of inter-
+section of a geographic grid with a 10’ interval along the parallels and a 5' in-
+terval along the meridians. The investigation was limited to the latitude zone
+30-80'N. In applying the empirical-statistical method it was not only the initial
+fields which were analyzed, but also the fields of their anomalies, the fields
+of zonal and meridional components of the horizontal gradient and the modulus of
+the vector gradient. This analysis indicated that there is a complete noncorres-
+pondence between regional and global climatic changes, revealing an exceedingly
+complex pattern of climatic changes resulting from interaction of factors of
+global and local scales acting in unison over extensive regions of the earth only
+under exceptional conditions. This in-depth study clearly suggests that the long-
+term changes in the temperature and circulation regimes are characterised by a
+great diversity. have a complex and unstable character. During the 30—year period
+studied there are no linear trends in these changes. However, in the 1970's it
+
+is possible to see a transition from cooling to warming in mean hemisphere tem-
+perature and some increase in anomalousness of processes at the earth's surface
+manifested in an increase in the gradients of temperature and surface pressure
+anomalies. Figures 4, tables 3; references 22: lb Russian, 8 Western.
+
+FIIICIHWCIAI.USEIITLY
+FOR OFFICIAL USE ONLY
+
+UDC 551 . 509 . 313+551 . 524
+
+INFLUENCE OF TMERATURB STRATIFICATION ON ADIABATIC FLUCTUATIONS IN POLYTROPIC
+ATMOSPHERE
+
+Moscow HBTEOROLOGIYA I GIDROLOGIYA in Russian No 3. Mar 82 (nanuscript received
+.12 Jun 81) PP 21-29
+
+{Article by 0. K. Gorbunova and V. H. Kadyshnikov, candidate of physical and nathe-
+natical sciences, USSR Bydroneteorological Scientific Research Center]
+
+[Abstract] This is essentially a continuation of earlier work by one of the auth-
+ors (V. H. Kadyshnikov, "Small Oscillations of a Polytropic Atmosphere and Filter-
+ing Role of the Hydrostatic Approximation." WROLOGIYA I GIDROIDGIYA, No 11,
+1979). Now. using the solution obtained in that article. a study is made of the
+dependence of the spectrum of oscillations in its different parts on r , which is
+the principal characteristic of a polytropic atmosphere (1’ is the temperature
+gradient of the main state). The dispersion expression determines two families
+
+of frequencies: 8+ gives acoustic waves and 3. gives gravitational waves. The
+dispersion expression contains two key variable parameters.“ and ,3 , and their
+behavior is examined in detail. In three cases, l)B)l, ﬁ>b. ﬂ», 0! 9‘ 0. 2)
+
+a 4 l. 3) 0C ) 1. at) b, at>£. using asynptotic formulas for confluent hypergeo~
+netric functions, a solution of the dispersion expression can be obtained in ex-
+plicit fora. Case 1. corresponding to long waves, gives a solution for both acous-
+tic and gravitational cases; case 2. also corresponding to long saves. has a so-
+lution only for gravitational waves; case 3, corresponding to short waves, has a
+solution for both types of waves. With this taken into account, it was then pos-
+sible to study the frequency spectrum of the equations of hydrothermodynamics lin-
+earized relative to a state of rest with a polytroplc temperature distribution.
+After investigating the dependence of frequencies and group velocities on the ver-
+tical tenperature gradient of this state and on the vertical variability of dis-
+turbances it was possible to demonstrate that with an increase in stability and
+
+a decrease in variability there is a decrease of acoustic frequencies and an in-
+crease in gravitational frequencies. It also becones clear how the velocity of
+
+propagation of both types of atmospheric disturbances changes. Figures 2: refer-
+ences: 6 Russian. '
+
+summon“
+UDC 551 . 509. 316+551 .524 : 551 . 577 (67) (571.1) (575)
+
+MAJOR TEMPERATURE AND PRECIPITATION WIBS OVER EUROPEAN USSR, WESTERN
+SIBERIA AND KAZAKHSTAN
+
+Moscow HETBOROLOGIYA I GIDROLOGIYA in Russian “0 3, Mar 82 (manuscript received
+18 Jun 81) PP 30-38
+
+[Article by O. V. Batyreva, candidate of physical and mathematical sciences,
+and L. Ye. Lukiyanova, candidate of geographical sciences, USSR Hydrometeoro-
+logical Scientific Research Center]
+
+[Text] Abstract: The article gives a classification
+of growing seasons on the basis of the ratio
+between large positive and negative anomalies.
+The value 1.26 was adopted as the criterion
+for a major anomaly. It was possible to define
+four classes of growing seasons and an attempt
+is made to predict these classes by means of
+linear discriminant analysis. Evaluations of
+the probable success of the classification
+surpass the evaluations of a random classifica-
+tion. The mean probable success (guaranteed
+probability) is 0.70 (for a random classifica-
+tion 0.56), whereas the probability of a pre-
+cise prediction of the class is 0.68 (for a
+random classification -- 0.25). The hypothesis
+of nondependence of the actual 2and pragmatic
+classes is refuted using the 1,2 test with a 5!
+significance level.
+
+The problem of long-range forecasting of major temperature and precipitation
+anomalies is one of the most important and difficult problems in nodern meteor-
+ology. It has been dealt with in a great number of studies [1. 2, 13] in which
+the authors develop primarily synoptic methods for the long-range forecasting
+of large anomalies. As criteria for discriminating major anomalies use is made
+either of the excess of the 0' value over a large part of the territory or the
+excess of some absolute value of the anomaly (for example, for temperature,
+etc.). In other studies for defining the types of anomalies use is made of the
+anomalousness coefficient K proposed by N. A. Bagrov; It" and K. are considered
+separately for positive and negative anomalies. The anomalousness coefficient
+includes all the values of the anomalies in the considered territory, both
+
+FOR OFFICIAL USE ONLY
+FOR<ﬂHHKJAL.USIZONLY
+
+large and small. However. in studying large anomalies it is possible that anom-
+alies less than some critical value will not be taken into account at all. In
+a study by Aristova [3] the anomalousness criterion used was the fraction of
+the considered area for which the anomaly exceeds a stipulated level. Unfor-
+tunately, only whole values multiples of 6(0', 20'. 30’. -o'. -20'. -3a’ etc.)
+are considered as such levels and intermediate levels are not considered in
+
+the corresponding intervals.
+
+In this article as a criterion for defining a major anomaly we used the value
+l.2<7. In the normal distribution of a meteorological element the probability
+that this value will be exceeded is 0.12 for an anomaly of each sign (a total
+of 0.26). that is. approximately about 1/4 of all the cases. Then for a char-
+acteristic of anomalousness of the territory it is possible to take the index
+v. that is. the relative number of stations for which the anomaly exceeds the
+level 1.20’. In this way it is also possible to characterise the anomalousness
+of a stipulated period of time (number of months for which the anomaly A;>
+1.2(x). Like K+ and K. it is necessary to compute v+ and v_ separately for pos-
+itive and negative anomalies. The v value in part corresponds to the mean num-
+ber of "surges" beyond a stipulated level. However. in the theory of surges
+
+n "surge" is an event in which the random value for the first time intersects
+a stipulated level and therefore the frequency and duration of the surge dif-
+fer. The application of the theory of surges in meteorology is discussed. for
+example. in [8. 9) and elsewhere. The proposed v value includes all cases of
+exceeding of the level 1.217. regardless of the preceding and adjacent values
+of the meteorological element. that is, both the frequency of the surge and
+its duration are taken into account.
+
+In the analysis of the anomalousness of precipitation and temperature anomal-
+ies we used mean monthly data from 1901 through 1978 -— for temperature for 20
+stations located in the territory of the main agricultural regions of the 088R '
+(European USSR. Western Siberia. Kazakhstan), for precipitation [10] -- the av-
+eraged values for 20 economic regions. The computed temperature and precipita-
+tion anomalies were normalized for thetr value and maps of major anomalies ex-
+ceeding 1.20' were constructed. The maps were analyzed from month to month in
+their natural sequence. which made it possible to prepare a catalogue of the
+most significant anomalies.
+
+It should be noted that in most studies [13] an analysis was made of large anom-
+alies for individual months with a discreteness interval of the data of one
+year.
+
+An analysis of monthly maps of anomalies in their natural sequence made it pos-
+sible to detect the characteristics of individual anomalies. common for both
+precipitation and temperature. As a rule, on each map somewhere there is an
+anomaly with }I.Za. Among the 936 maps of anomalies (78 years it 12 months)
+there were only 116 on which not at a single station did the temperature anom-
+nly not exceed 1.20'and only 51 such maps of precipitation anomalies where
+there was not an anomaly with > 1.2a and this was true of all economic regions.
+However, anomalies with >’1.2cf rarely persist at one and the same point or in
+one and the same region for more than two months. The greatest duration was
+five months for precipitation and six for temperature. As a rule. the centers
+
+1.
+
+lilt(ﬂﬂﬂ(1Al.lEﬂi(ﬂVLY
+3f the anomalies appearing initially at one point or in one region during the
+subsequent months move into adjacent regions, frequently increasing in area
+
+and withdrawing considerable distances from the initial center. The total dura-
+tion of the large anomalies of the same sign, with movement taken into account,
+can attain 7-8 months and even a whole year. Usually the larger the anomaly is
+In area. the greater is the area occupied by centers of the same sign and the
+greater is the duration of this anomaly.
+
+It is asserted in [1, 2] that a large value of the anomalousness index corres-
+ponds to a predominance of an anomaly of one sign and large K+ and K. values
+are rarely noted simultaneously. We feel that this is not entirely so. There
+were 50 such precipitation anomaly maps on which there were not less than
+three centers of different signs simultaneously. A typical example is the sum-
+mer of 1972 when there were very large precipitation anomalies of different
+signs simultaneously in different parts of the considered territory: a strong
+drought in the northern and central regions of the European USSR and excess
+nuistening in the western regions. During the warm months there is an inverse
+relationship between the temperature and precipitation anomalies. whereas in
+the cold months there is a direct relationship. The number of major positive
+precipitation anomalies in all months of the year is greater than the number
+of negative anomalies, which corresponds to data on the asymmetry of precipit-
+ation [a]. In summer positive temperature anomalies are encountered more fre—
+quently than negative anomalies, and in winter. vice versa. which also corres—
+ponds to the asymmetry values [5]. The mean frequency of recurrence of major
+temperature anomalies is 20-221; for precipitation it is 18—20%. An increase
+in the total number of major anomalies has been clearly noted during the last
+decade (since 1970).
+
+The maximum frequency of recurrence of major temperature anomalies, 251, was
+observed from 1931 through 1900 and from 1971 through 1979. The maximum free
+quency of recurrence of major precipitation anomalies is 23% and falls in the
+1960's and 1970‘s. This conclusion agrees well with the results in [6, 7, 16.
+15]. where the authors noted an appreciable increase in anomalousness in the
+1970's both for the territory of the USSR and for the entire northern hemi—
+sphere. The spatial differences in the frequency of recurrence of major anom-
+ulies are not very great (from 18 to 262); the anomalousness of the northern
+regions is somewhat greater than in the southern regions. There is a very small
+number of major negative precipitation anomalies for the 19th region - Trans-
+caucasia (112). The frequency of recurrence of values J>1.2¢f on the average
+
+is somewhat less than for an independent normal sample (261). which is attrib-
+utable to coherence in time and deviations from normality. The frequency of re-
+currence of major anomalies of different duration corresponds well to the
+evaluations of the probability of a surge beyond the level 1.2cr for a two-
+dlmonslonal normal sequence, which, according to [8. 9], can be evaluated as
+0.08-0.09. The differences in the character of the anomalousness between indi—
+vidual months of the-year are also small (from 18 to 231) and correspond well
+to the asymmetry and excess values. Since an analysis of individual anomalies
+Is difficult due to the great differences in their duration and geographic po-
+sition, first we analyzed the generalized characteristics of major anomalies as
+n whole for the entire territory and for a long period of time (year and grow-
+ing season).
+
+FOH.0FFHJAl.lﬂﬂE(NVLY
+FOR OFFICIAL 05h ONLY
+
+A
+
+a a e a a a a u £ *
+
+.4
+~..
+
+    
+
+"L-hh—ﬂ—L-nh—J—H—ﬂ—l—u .
+”summary; ”550A!!!”
+
+Pig. 1. Ten-year moving averages v+. Pig. 2. Classification of growing sea-
+v_, v2 of precipitation. sons on basis of character of anomalous-
+ness of precipitation.
+
+In order to define the climatic characteristics the values v+, v. and also
+their sums v; for temperature and precipitation were su-ed both for the en-
+tire year and for the growing season (from April through September) and we
+constructed graphs of the temporal variation of these indices and also their
+five- and ten-year moving averages. Year-to-yaar variations are 15-20: of the
+annual sums v+, v- and v» . There is a general increase in the total anomal-
+ousness of precipitation in the 1930's up to 1936, after which there is a
+decrease to a minimum in 1942. A general increase in the anomalousness of
+temperature and precipitation in the 1970's with sharp variations for indi-
+vidual years was characteristic. The moving averages graphs make it possible
+to define quasiperiodic variations with periods of 15-20 years. As a rule,
+
+the v+. v- curves vary in antiphase, although there are periods of a simultan-
+eous increase in anomalousness of both signs. For example, all the moving five—
+and ten-year periods. including the 1970's, give an appreciable increase in
+the annual and semiannual sums v+. v. and v: simultaneously (the total anom—
+alousness of precipitation during recent years exceeds by approximately 202
+the values encountered earlier). For temperature this characteristic is ex-
+pressed to a lesser degree. Examples of the graphs are shown in Pig. 1.
+
+Since major temperature and precipitation anomalies are most important for
+agriculture when they occur in the growing season. the breakdown of all the
+years into classes on the basis of the character of the anomalousness was
+carried out using the sums v+. v_ and v, for the entire growing season. A
+classification of all the growing seasons from 1901 through 1978 was carried
+out on the basis of the ratio of the total number of major positive and nega-
+tive anomalies. The values of the sums v+ and v- for the growing season for
+all years from 1901 through 1978 were regarded as the coordinates of a point
+on a plane in a Cartesian coordinate system and were plotted on the graph.
+
+FOI‘OFFKJA1.USE(HWLY
+The number of the year in the 20th century to which the corresponding values
+related was plotted near each point.
+
+The distribution of points for precipitation is shown in Pig. 2. The separa-
+tion of growing seasons on the basis of temperature was carried out in a sim-
+ilar way, with the single difference that the Ev+ and 2v_ axes changed
+places. Although no clear separation into groups could be detected in the
+figures, nevertheless it was possible to define some clusters of points in
+definite regions of the plane and draw the boundaries.
+
+For example, it is possible to define four groups of points corresponding to
+four classes of growing seasons differing with respect to the ratio of the
+number of major anomalies of different signs. First, it was possible to define
+years for which the number of major anomalies of the same sign appreciably
+exceeds the corresponding number of anomalies of the other sign (on the aver-
+age by more than the standard deviation '3" of the corresponding value). Thus.
+we define two extreme classes -— first and fourth. The arid years for which
+£v_ > Zv+ entered into the first class for precipitation. whereas for temper—
+ature - the anomalously hot years when 2v+ > 2 v_. In the fourth class the
+moist periods with Ev+>$v_ enter for precipitation (and accordingly, for
+temperature, the cold years when 2 v->2v+). The "middle" classes (second and
+third) are characterized by approximately equal values of the sums v+ and v-,
+whose difference, as a rule,does not exceed the standard deviation of the
+corresponding value. The second class includes years with small 2 v4. and 2 v-
+values (less than the mean values), whereas the third class includes years
+with large values (greater than the means). In the first stage the separation
+into classes was carried out separately for temperature and precipitation.
+
+The lists of the corresponding classes are given in Table l.
+
+The cited lists show that the defined classes for precipitation and temperature
+partially correspond to one another, that is, about half the growing seasons
+fall in one and the same classes. The best correspondence is attained for the
+first class (dry and hot) and a worse correspondence for the fourth class.
+
+In actuality, as is well known, hot and dry years are characterized by a pre-
+dominance of anticyclonic weather, whereas major positive anomalies of pre-
+cipitation in smer are associated with an intensification of cyclonic activ-
+ity and the transport of moist air masses from the Atlantic; major negative
+temperature anomalies are associated with the intrusion of cold arctic air
+from the north.
+
+If the moistening conditions during the growing season are considered, it is
+necessary to take into account temperature and moisture anomalies simultaneous-
+ly. For example, D. A. Ped' [12] proposed an aridity index which represents the
+difference between the normalized temperature anomaly and precipitation. All
+the droughts known in history were accompanied by major anomalies of both pre-
+cipitation and temperature (droughts of 1921, 1936, 1972, 1975, etc.). Thus,
+
+In order to characterize the moistening conditions during the course of the
+growing season it is possible to consider the values w- - v, (precipitation)
+
++ v+ (temperature), w+ (precipitation) + v_ (temperature). These values in
+
+turn can be divided into classes on the basis of the same principles as
+
+7
+
+FOR OFFICIAL USE ONLY
+ma OFT-1"“. US}: ONLY
+
+temperature and precipitation separately. The cited list of classes to a
+high degree corresponds to the classes of teaperature and_precipitation.
+
+Table 1
+
+List of Classes of Anonalousness of Temperature, Precipitation and the
+Generalized Index v (the Table Columns Give the Years of the 20th Century. For
+Example, 01 Should be Read 1901, 65 -- 1905. etc.)
+
+ 
+
+ 
+
+Precipitation Temperature Generalized wind index
+
+0| 02 0| l5 0| 03 06 02 0| 0") 03 . 02
+M (1" 06 '2! 2" 05 09 04 06 07 I3 04
+07 08 I2 '26 2| N) If) 07 (‘8 10 23 09
+0‘.) l I Ii! '28 2| 22 I7 08 20 I8 29 II
+lo I!) H 3| 3| '15 23 II 2| 2‘) 31 l2
+l7 2.1 I6 3'! 3'2 27 29 I2 24 25 34 I4
+18 '24 ‘27 5H 36 I!) 3| 1;! :5 27 4G 15
+
+20 23' .H 45 37 ' '| 39 I4 37 J) 49 16
+2| II) .18 53 38 35 4‘.) l6 3 32 50 I7
+'2‘.) 35 41; 5| 40 43 50 I8 39 3-" 52 I!)
+35 «I -I7 56 dli -|| 5‘) I9 40 43 68 26
+
+:0 41 49 .53 4s m .54 25 as 49 73 2s
+
+39 42 N 60 5| GI 62 23 5| 3' 77 ' :0
+5| 43 f" 61 53 64 I35 4 l 55 54 '4 I
+:35 44 57 69 55 68 73 i2 57 50 42
+63 48 7'2 70 57 70 76 45 66 GI 45
+58 59 73 77 ('0 7| 77 ‘7 67 62 47
+7| 6|) 74 66 74 50 7| 04 56
+75 6'2 76 67 58 72 85 58
+6| 78 72 60 75 80
+' 65 75 (if) 74 60
+66 78 70 70
+
+67
+
+ 
+
+ 
+
+Table 2
+
+Mean Eik and Maximum djk(nax) Distances Between Classes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+_ - ____Initial_mntL ‘
+_ x I x: l xu l l I n l m
+Precipitation
+.1“ l 0.71 0,02 0.84 0,35 1,04 1.03
+4......“ ms 1,13 L24 1.60 1.13 1,35
+Tenperature
+an. I 1.2:; om 1.28 on: 0.81 0.33
+"4"?“ - 1.59 1,32 1.56 0.82 m9 mo
+8
+
+FOR(NHWCJAI.USE|MNLY
+Anomalousnes:
+
+I II
+FOR OFFICIAL USE ONLY
+
+It should be noted that the defined classes make it possible to describe only
+the general character of anomalousness during the entire growing season and
+for the region as a whole (region of the European USSR. southern part of
+Western Siberia, Kazakhstan). The classification does not take into account
+the location of the centers of positive and negative anomalies within the re-
+gion and their change during the course of the growing season. Allowance for
+all these differences would lead to a far greater number of classes, which
+would make difficult their prediction. Nevertheless, the classification cor-
+responds fairly well to the separation of years obtained by other methods.
+All the best known droughts fell in the first class. The only exception is
+the summer of 1972, which with respect to precipitation fell in the third
+class, not the first. since there were no major negative anomalies over the
+entire territory: a drought occurred primarily in the northern and central
+regions of the European USSR, whereas in the western regions at the same time
+there was a considerable positive precipitation anomaly. However, with respect
+to temperature and the w index 1972 fell in the first class.
+
+It is of interest to give a prediction of the defined classes on the basis of
+an analysis of the preceding conditions in the atmosphere. The longest series
+are for the temperature field. It was selected as a set of criteria for making
+the classification. Since the years entering into each class were known in ad-
+vance, we carried out the procedure of "learning with a teacher," that is.
+breakdown of criterion space into regions beat corresponding to stipulated
+classes. The teaching sample represented the temperature field expanded in
+natural orthogonal components: The first eight normalized coefficients of the
+expansion were taken as criteria in the discriminant analysis. Linear dia-
+criminant analysis was used on the assumption of a normality of the distribu-
+tion of criteria and the equality of the covariation matrices of the classes.
+Although these assumptions, strictly speaking, are not satisfied, nevertheless,
+as was demonstrated in [10], the advantage of use of quadratic discriminant an-
+alysis is not maintained with a changeover to independent material. In this
+case, since the breakdown was made into four classes, the samples for evaluat-
+ing the covariation matrices of the four classes were too small. Accordingly,
+we used one covaristion matrix for all classes. A linear parametric algorithm
+was used; the vectors of the mean criteria in space were found for each class
+and the corresponding linear discriminant functions were constructed.
+
+As indicated in [11], the linear discriminant functions for normal objects with
+equal covariation matrices correspond to the classificator for the minimum dis-
+_tance from the class "standard" (the standards are the mean fields for each
+class). Since the expansion coefficients are statistically independent criter-
+ia, the distances d k are determined as the sum of the squares of the normal-
+ized expansion coef icients.
+
+Table 2 gives the mean and maximum distances djk between the class standards.
+This value (the Hahalanobis distance) serves as an indirect evaluation of clas~
+sification quality. Table 2 shows that the minimum distances were obtained for
+the prediction for January. The classes of temperature anomalousness are less
+different in the space of the selected criteria than the precipitation criteria.
+1hc distance between the first and fourth classes on the average exceeds the
+distance between the other classes (by approximately 0.4).
+
+10
+
+FIHIIHHHCJAI.USB(NVLY
+It Is of interest to check the significance of the determined distances be-
+tween classes. For this we will assume that the entire criterion space belongs
+to one and the same multidimensional normal set with a zero vector of the means
+and a unit covariation matrix. These conditions are well satisfied for the nor-
+mal coefficients of expansion in natural components. We will find the critical
+distances between the means of the classes which would be obtained if the class-
+es were formed randomly. The Mahalanobis distance between the j-th and k—th
+
+classes is I 3
+I Z" 3 .\
+d]. 1: (Pl " :13, s ”I (P; — ”k) = ‘§(1T - f ’ (1)
+
+where 14-3, £1 are the vectors of the mean classes, 8 is the covariation ma-
+
+trix. Agi, Ah are the mean values for the j-th. k-th classes of coefficients
+of the xpansion, djk has the distribution
+
+where x2 is the 2&2 distribution with 8 degrees of freedom. The parameters in
+the parentheses have the dispersion
+
+244,—)
+
+n I
+where n is the number of the class. Assuming the number of years in the class
+to be 20. we find that the dispersion of each term 2/20'1 is approximately
+equal to 0.1. Since the dispersion Djﬁ - 2k - 2.8. then the dispersion djk
+-0.1-2~8 . 0.16, and- the standard deviation o’(djk) - 0.1:. The mean value djk
+is approximately equal to
+
+ 
+
+2o’(—§-)7;zz0.1‘8=0.8. (2)
+
+Table 2 shows that the maximum distance between the classes in many cases ex-
+ceeds 102 and even 51 of the critical distribution value xg (06), equal to
+
+1.33 and 1.55 respectively.
+
+We evaluated the quality of the classification for all the teaching sample
+from 1901 through 1978. The evaluation was made in the following way: with
+precise falling into a class the evaluation of the forecast was equal to 1;
+
+when falling into the adjacent class -- 1/2. and in the opposite case -- 0. A
+purely random forecast of the equiprobable classes with such an evaluation
+matrix has a probable success (guaranteed probability) of 0.56. whereas the
+probability of precise falling into a class is 0.25 (each matrix “box" corres-
+ponds to a probability of entry equal to 1:16). The classes which we defined
+are nonequally probable and therefore the probable success of a random fore-
+cast is dependent both on the natural frequency of recurrence of classes and
+on the frequency of forecast of each class. We computed evaluations of random
+forecasts with the actual probabilities taken into account; they do not ex-
+ceed 0.58-0.59, but the probability of precise entry into a class for a random
+
+forecast does not exceed 0.27-0.28.
+
+11
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+, Table 3 gives evaluations of the probable success of the discriminant analysis
+and also the frequency of precise falling into a class. Table 3 shows that the
+
+evaluations everywhere exceed the probable success of the random classification.
+The mean probable success p is equal to 0.70. The probable success of the class-
+
+es for temperature for January is somewhat lower. Falling into a class in
+most cases exceeds by almost twice the corresponding number for a random class-
+
+ification and is about half of all the cases. The mean probability of a precise
+falling into a class is 0.78. With an increase in the advance time of the fore-
+caSt the quality of the classification does not change significantly.
+
+The next step was a classification on the basis of the minimum distance from
+the standard for the sum of the squares of.the difference in the normalized
+expansion coefficients for two. three or more months. Although the expansion
+coefficients for the successive months have some coherence. it is not great
+and it can be neglected. The expansion coefficients for the different months
+can serve as new criteria for the classification. The combining of two, three
+or more months as prognostic criteria will make it possible to improve the
+evaluations of the classification up to 832.
+
+Table 6
+
+Conjugation of Criteria
+
+Fact ' Forecast
+
+I II III' IV
+I 6 S 5 3
+II 6 12 2 4
+III 6 2 10 2
+IV 3 2 6 8
+
+The hypothesis of a nondependence of the actual and prognostic classes was
+checked using the x? test. The matrix of conjugation of the criteria for the
+forecast for October is represented in Table 5. The computed values of the cri-
+terion were highly significant (26.96). whereas the 5% critical value was
+
+X g (0.05) - 16.56. In this case the matrix of conjugation of criteria was con-
+structed for predicting the classes of anomalousneas of precipitation for Octo-
+ber, having the evaluations p - 0.69 and p11 - 0.46. As indicated by the conjug-
+ation matrix, the frequency of recurrence of prognostic classes approximately
+corresponds to the actual frequency of recurrence. The best probable success
+
+is for the "middle" classes (second and third) and the minimum success is for
+the first class. The falling of a forecast into a class opposite the actual
+class (first and fourth) is rather rare (6 cases in 78). The conjugation ma-
+trices for the other months have a similar character. The hypothesis of inde—
+pendence of the actual and prognostic classes in most cases is refuted. The
+probable success of a random classification was also checked using statistical
+modeling. The actual classes. defined on the basis of the character of anom-
+ulousness (Table l). were compared with the classes formed randomly (from a
+table of random numbers) and selected sinply in chronological order. The evalu-
+ations of the probable success of random classifications were in the range:
+
+12
+FKIICIHHCIA1.USE(NVLY
+p = 0.55-0.59. p 1 - 0.21-0.2‘, which is close to the theoretical evaluations
+and is appreciab y inferior to the quality of the classification for the tem-
+perature field.
+
+Thus, the temperature field of the northern hemisphere can serve as a predictor
+for determining the general character of anomalousness over the course of the
+growing season.
+
+BIBLIOGRAPHY
+
+1. Apasova, Ye. 6., "Anomalousness of Mean Monthly Air Temperature Over the
+European USSR, in Western Siberia and Northern Kazakhstan During the Cold
+Half-Year." TRUDY GIDROMETTSENTRA SSSR (Transactions of the USSR Hydro—
+meteorological Center), No 93, 1972.
+
+2. Apasova, Ye. 6., "Determination of the Degree of Anonalousness of Mean
+Monthly Air Temperature Over the Territory of the USSR." TRUDY VNIIGMI-MTsD
+(All-Union Scientific Research Institute of Mydrometeorological Information-
+Horld Data Center), No 13, 1976.
+
+3. Aristova, L. N.. "Secular Variation of Degree of Anonalousness of Tempera-
+ture Regime Conditions in the Northern hemisphere and Evaluation of Its
+Stationary Character," TRUDY VNIIGMl-MTsD, No 68, 1980.
+
+4. Botyreva. 0. V. and Lukiyanoya, L. Ye.. "Statistical Distribution of Point
+and Area-Averaged Monthly Precipitation Sums." TRUDY GIDROMBTTSBNTRA $888,
+No 226. 1980.
+
+S. Batyreva. 0. V. and Lyakhova, T. L., "Characteristics of the Statistical
+Distribution of Mean Monthly Temperature by Points," TRUDY GIDROMBTTSBNTRA
+SSSR, No 211. 1978.
+
+6. Gruza. G. V. and Ran'kova, 8. Ya., "Some Characteristics of the Temperature
+Regine in the Northern Hemisphere and Features of Current Climatic Changes,"
+TRUDY VNIIGHI-HTsD, No 68, 1980.
+
+7. Cruza. 6. V., Kleshchenko, L. K. and Ran'kova, E. Ya., "Changes in Air Tem—
+perature and Precipitation Over the Territory of the USSR During the Period
+of Instrumental Observations," METEOROLOGIYA I GIDROLOGIYA, No l, 1977.
+
+B. Kagan, R. L. and Pedorchenko, Ye. 1., "Computation of the Statistical Char-
+acteristics of Surges of Random Functions." TRUDY GGO (Transactions of the
+Main Geophysical Observatory), No 268, 1970.
+
+9. Kagan. R. L. and Fedorchenko, Ye. 1., "Computation of the Probability of a
+Surge of a Normal Series." TRUDY 660. No 348, 1974.
+
+lo. Lukiyanova, L. Ye., "Use of Discriminant Analysis in Predicting Seasonal
+Precipitation." TRUDY GIDROHETTSBNTRA SSSR, No 211. 1978.
+
+ll. Nil'son, N.. OBUCHAYUSHCHIYBSYA MASHINY (Teaching Machines). Moscow, Mir.
+I967.
+
+13
+
+FOITOFFKJA1.USE(NNLY
+12.
+
+13.
+
+110.
+
+IS.
+
+FOR OFFICIAL USE ONLY
+
+Ped'. D. A., "Index of Drought and Excess Hoistening," TRUDY GIDRMET-
+TSERTRA SSSR, "0'156. 1975.
+
+"Synoptic Conditions for the Forming of Major Anomalies of Mean Monthly
+Te-perature in the Southern European USSR and Western Siberia and in
+Northern Kazakhstan." TRUDY GIDRGE‘ITSENTRA SSSR, No 72.1972.
+
+Van Loon, ll. and Hilliam. J.. "The Connection Between Trends of Mean Ten-
+perature and Circulation at the Surface. Part I. "inter." HON. HEATHER
+new, Vol 104. No a. 1976.
+
+Yamanoto, R. Hoshiai, M. and Ivashina, T.. "Change of Surface Air Temper-
+ature Averaged Globally During the Years 1957-1972." ARCH. HE‘I'BOROL. GEO-
+PIIYS.. BIOEDIA‘I‘OL., 25, No 2, 1977.
+
+110
+
+I70! OFFICIAL USE ONLY
+UDC 551.515.22+551.576+551.513.5
+
+INTERACTION BETWEEN SUBCIDUD AND CLOUD LAYERS IN TROPICAL CYCLONES AND INTRTROPICAL
+CONVERGENCE ZONE
+
+Moscow METEOROWIYA I GIDROLOGIYA in Russian No 3, liar 82 (manuscript received
+18 Jun 81) pp 39-105
+
+(Article by Ye. A. Agrenich and A. P. Khain, candidate of physical and mathematical
+sciences, USSR Hydrometeorological Scientific Research Center]
+
+[Abstract] The method developed by J. Ogura and ll. R. Cho (J. ATMOS. 801., Vol 31.
+1971.) was used in a somewhat modified form in order to determine the height of the
+mixing layer. its structure and vertical mass flow in cumulus clouds _at the level
+of their base. Under disturbed weather conditions the authors examine the layer
+under the clouds. whose thermdynanic structure is similar to the structure of
+the mixed layer under undisturbed conditions. In the formulated problem it is as-
+suﬂed that in the subcloud layer the dry static energy a. and the mixing ratio qI
+do not change with height. It is assumed further that the transitional layer has
+an infinitely small thickness (the level of the cloud base coincides with the
+upper boundary of the nixed layer). Ogura and Cho concluded that computations
+with k - 0.1 and 0.2 (k is .an important proportionality factor used in a key for-
+mula derived by D. K. Lilly in QUART. J. ROY. METEOROL. 806.. Vol 910, No 2, 1968)
+but with d - 0.5 (Otis a variable parameter) (which assmaes the presence of "warm
+roots" of clouds in the subcloud layer) the results are entirely realistic for weak
+tropical disturbances. The method was used in computing the mass flow in clouds
+and other characteristics for GATE phases 1 and III. The same method was applied
+in studying tropical cyclones Inez, Hilda and Daisy. It was found that the para-
+meter k - 0.2 is not suitable for regions of a tropicalcyclone close to the cen-
+ter. For tropical cyclones the results obtained with k - 0.7 are satisfactory.
+There is clear evidence that there are "warm roots" in clouds. Figures 1. tables
+3: references 8: 3 Russian, 5 Western.
+
+15 ,
+rosomcutustom
+FOR'OFFKJAI.USE(HULY
+
+UDC 551.576.1+551.509.316(-062.5)
+
+[Art:c1e by A. V. Kislov, candidate of geographical sciences. Moscow State Univer-
+sity
+
+processes and in the tropical zone is virtually the sole source of global neteor-
+ological infatuation. By appropriately selecting the discreteness and resolution
+of space photographs it is possible to investigate neteorological phenonena at
+.different scales. The investigated region virtually encircled the globe and was
+.bounded on the north by S‘N and on the south by 20's. The basis for the study
+was satellite cloud cover photographs, with visual interpretation of cloud cover-
+age in each 5‘ square for each day from 1 November 1977 through 8 March 1978. The
+
+1y uniforn underlying surface. The investigated region was divided into five lat-
+itude zones. In each such zone (containing H - 64 5' squares) the structure of
+the cloud cover was studied for a period (N . 128 days) and a matrix of initial
+data X(N, H)was stipulated. These data were subjected to two-dinsnsional spectral
+analysis (separately for each latitude zone) after carrying out filtering of the
+low-frequency conponents. As a result of this analysis it was found that in the
+equatorial and tropical_zones there are synoptic disturbances of the easterly
+waves type with a period of 3 days and a length in a zonal direction of about
+
+dimensional spectral analysis for investigating stationary randon fields. Figures
+1; references: 6 Russian, 5 Western.
+UDC 551 . 509. 3164-551 . 5210
+
+MODELS OF ONE-DIMENSIONAL AND JOINT DISTRIBUTIONS 0P NON-NEGATIVE WW VALUES
+
+Moscow HETEOROLOGIYA I GIDROLDGIYA in Russian No 3, Mar 82 (manuscript received
+2!. Jun 81) pp 50-56
+
+[Article by A. S. Harchenko, professor, and A. 6.~Semochkin, Computation Center.
+Siberian Department, USSR Academy of Sciences]
+
+[Abstract] A great number of different distributions dependent on one, two or a
+greater number of parameters are used in approximating the probability distrib-
+utions of non-negative hydrometeorological elements with values in the range
+(0,00 ). As an alternative, the authors here propose models of one-dimensional
+and joint distributions. The principle for constructing these was outlined by
+
+A. .. Harchenko, et al. in HBTEDROLOGIYA I GIDROLOGIYA, No 9, 1980. These are
+mixtures of distributions stipulated on the positive seniaxis. The best variants
+are mixtures of two two-parameter distributions, that is, distributions dependent
+on five parameters. Here the authors examine two gamma distributions with differ-
+
+ent densities 1‘ ; | _.;
+
+:‘I '. u 1’ ' I ,
+r an v—,————----.. r;.(z -._.._-..,
+I ,|| I. (5-) ) ‘;:' (7:) (1)
+
+and it is demonstrated that a family of distributions of the type
+
+I' (Z)=" m (ZH'VI’: (Z).
+0<0<1, gen—u,
+
+where p1(z) and pz(s) correspond to (1), contains distributions with any prestip-
+ulnted mean value, dispersion and virtually any asymmetry. The described method
+for selecting the five parameters of the nixed distribution in principle is the
+same as in the article cited above but it takes into account new effects attribut-
+able to the fact that the p1(z) and p2(z) distributions are stipulated in the in-
+tervnl (0,00). models of time series with marginal distributions of this type
+
+are examined. As an illustration of application of the method the article gives
+approximating expressions for the correlation functions of the wind velocity mod—
+ulus at several stations in January. The method was also successfully used in
+approximating the distributions of river discharges and the quantity of precipita-
+tion. Figures 3; references: 7 Russian.
+
+(2)
+
+l7
+FOI'OFFKJAI.USI(IELY
+FOR OFFICIAL USE ONLY
+
+unc 55l.515.1+551.466.:
+mssmmon or xrmxc mam m crews: oven 0cm
+
+Moscou.METEOROLOGIYA I GIDROLOGIYA in Russian No 3, Mar 82 (nenuscript received
+15 Jun 81) pp 57-64
+
+[Article by K. A. Rogachev, Pacific Ocean Oceanological Institute]
+
+of the near-water layer, dependent on the stage of development of wind vaves. This
+“system of equations in essence is a nonstationary Iodel of the boundary layer of
+a weather systen over the ocean. By stipulating the initial dynamic velocity v.
+and phase velocity of waves c. it is possible to determine evolution of principal
+boundary layer characteristics. The described systen is very sensitive to 7*0
+changes. Rich a dependence of the dissipation of kinetic energy on the regine of
+
+a change in dissipation related to the generation of wind waves. Due to the non-
+stationary character of the problem. because of the v.0 variability there is a
+
+sipntion of kinetic energy it can be seen that the wind-wave correlation is impor-
+
+tant in any change in wind kinetic energy. Figures 2; references 16: 5 Russian.
+9 western.
+UDC 551.66.062.5(261.244)
+PREDICTION OF HATER SALINITY IN GULF OF RIGA'BOTTOH HORIZON
+
+Moscow HBTEOROLOGIYA I GIDROLOGIYA in Russian No 3, Her 82 (manuscript received
+1 Jun 81) pp 65-73
+
+[Article by Ye. N. Zakharchenko, Latvian Republic Administration of Hydrometeorology
+and Environmental Monitoring]
+
+in the bottom waters of the Gulf of Riga and developed a method for predicting sal-
+inity in the bottom horizon. Salinity is governed by the volunes of river water
+entering the gulf and water exchange with the Baltic Sea. Conditions vary with sea-
+son. For example. during spring-summer there is a horizontal inhomogeneity. From
+the head of the gulf the salinity increases toward the central, deepest part and
+
+in the western sector, closest to Irbenskiy Strait, which communicates with the
+Baltic. The bottom horizon was regionalized on the basis of bottom hydrological
+characteristics, including salinity, into four parts: I) closest to Irbenskiy
+Strait. II) shallovest sector; III) deepest sector; IV) most distant from Irbenskiy
+Strait. The amplitudes of the month-to-month and year-to-year salinity variations
+are approximately identical and can attain 1.0-1.50/00; these variations for the
+most part are attributable to variations in the intensity of water exchange with
+the-Baltic. A series of equations (summarized in Table l) was derived for predict-
+ing bottom-layer salinity for May and August. The article gives an example of such
+a forecast, 1979 and 1980 being used as test years. It was found that there is a.
+definite correlation between wind over the sea, level in the Gulf of Riga and the
+latitudinal component of the current vector in the lower layer of Irbenskiy Strait.
+The restructuring of currents in the lower layer of the strait lags by 26 hours
+relative to wind restructuring over the sea. The clarification of the mechanism
+
+of water exchange through the strait made it possible to predict water salinity
+
+tn the bottom layer in the gulf 1-1.6 months in advance. The derived formulas can
+he used in planning fishing operations and in evaluating biological resources.
+Figures 3, tables 2; references: 17 Russian.
+
+19
+'roaommustoutv
+FIN!(HHU(1AI.USE(MVLY
+
+UDC 551.461.2(268.4/.5)
+
+STATUS AND PROSPECTS OF NUMERICAL HYDRODYNANIC INVESTIGATIONS 0P FLUCTUATIONS
+OP LEVELS IN ARCTIC SEAS
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian 30 3, Mar 82 (manuscript received
+25 May 81) PP 76-80 ,
+
+. [Article by N. V. Hustafin and A. Yu. Proshutinskiy, candidates of geographical
+sciences, Arctic and Antarctic Scientific Research Institute)
+
+[Text] Abstract: This is a concise review of numer-
+ical hydrodynamic investigations of the for-
+motion of fluctuations of level in arctic
+seas. The authors deal with the tasks in
+improving models and combining numerical
+experiments with in situ observations. It
+is emphasized that the development of oper-
+ational level forecasting methods must be
+based on the joint implementation of numer-
+ical hydrodynamic and physicostatistical
+investigations with practical experience
+taken into account. It is proposed that an
+integrated system be created for numerical
+hydrometeorological forecasts under the con-
+dition that arctic administrations of the
+State Committee on Hydrometeorology and Envir-
+onmental Honitoring be supplied with modern
+electronic computers.
+
+Introduction. A study of level fluctuations -- an integral indicator of the hy-
+drological regime and an important element of oceanic dynamics -- is a compon-
+ent part of oceanological research. The practical aspects of study of level
+variability are extremely timely. such as for improving the service for level
+forecasts in the Arctic. Together with the ice and weather services it is the
+
+basis for the hydrometeorological support of navigation along the Northern Sea
+Route.
+
+At the present time the study of level fluctuations on the basis of in situ
+data ls combined with hydrodynamic modeling and numerical experiments. It is
+noteworthy that the latter became not simply a feasible, but also a necessary
+element of oceanological investigations. Such an approach not only broadens
+the possibilities of a scientific analysis, but also reduces the costs in
+
+20
+
+IOI:OFFKJAI.USE(HVLY
+carrying it out. Applicable to the problem of studying level fluctuations in
+the Kara, Laptev, East Siberian and Chukchi Seas by means of numerical hydrody-
+namic modeling, it is for the most part the following problems which are solv-
+ed:
+
+Investigation of the role of different factors forming level fluctuations under
+specific physiographic conditions in the arctic region as a whole and in each
+of the seas separately.
+
+Development of methods for computing the level and its extremal characteristics
+for supporting hydrotechnical, industrial and communal planning and construc-
+tion and also the planning of new types of transport ships and icebreakers.
+
+Study of the regime of level fluctuations. The possibility of computing the
+characteristics of the phenomenon in regions inadequately or completely unsup-
+plied with in situ data is acquiring particular importance.
+
+A rough evaluation of the future regime and study of changes in the dynamics of
+level fluctuations of seas where the local geographic characteristics change
+as a result of implementation of major national economic measures (construc-
+tion of dams, protective dikes, withdrawal of river runoff. etc.).
+
+Developing methods for predicting level fluctuations for supporting navigation.
+
+Review of investigations. The need for numerical hydrodynamic investigations of
+level fluctuations of arctic seas was indicated as early as 1966 in [4]. Some
+of the problems formulated there have now been solved. He will examine the sta-
+tus and results of numerical hydrodynamic investigations of level fluctuations
+in arctic seas, carried out at the Arctic and Antarctic Scientific Research
+Institute during recent years.
+
+The extensive continental shelf (76-992 of the ocean area) and the relative
+shallowness of arctic seas favor the formation of considerable wind-induced
+level fluctuations. The tidal component of fluctuations was relatively small
+(numerical computations of tidal movements in arctic seas were earlier made by
+A. V. Kopteva (1959), B. A. Kagan (1968), K. D. Tiron (1975)). A still lesser
+contribution, as indicated in [2], is made by the steric component of level
+fluctuations. Accordingly, the first stage in the investigations included the
+aperiodic level fluctuations and dealt with the following problems:
+
+Study of the applicability of existing hydrodynamic models for computing wind-
+indured level fluctuations in arctic seas.
+
+Numerical realization of models and their calibration using in situ data for
+the investigated region. -
+
+Quantitative evaluation of the role of the wind, atmospheric pressure, bottom
+relief and shore configuration. the earth's rotation and river runoff in the
+
+formation of aperiodic level fluctuations in arctic seas on the basis of devel-
+nped numerical methods for analysis of the phenomenon.
+
+21
+
+FOI!0FFKJAL.USE(HNLY
+.vnua vac anon
+locum ouuosaaoauo no uvﬂauu mcuusano aw can} ovosuoa vac nuance uo auouso
+Ion mo acuuu=->m .Auuncav mawuouoa no auuunwuouuauuso unowuouuouo adds new
+Icununo you unowunsunn adunocau Hook ow Hmong mo nooauuuonaou Hence no nuanom
+.ncouunauow ousauona mo huouuanuuu can usoEUDoa uo «us»
+
+no ouoaumouuoau H0>¢H uo «auto can acouaaaua mo oocaucaauv mo acuuwuwihouon
+.anouwou Hoooa nu nouaachu “ova:
+
+mo coauowauoooua vouwouov can unoﬁuuauuouu Ho>oa uo oowuawuououuuzo 03“»
+
+non usu mo coaunusoaou nu unooo woouu censoaoao consonants“: ouncuovuaaou
+
+uo ucoanoao>uv cu ouo>uu bonus mo wwonsu mo acuusnauucoo uo coauowuuoo>un
+.ousuoouuw Hauuoou aﬂoau ~o>uH «cashew cu szuuo: coauoa mo «cow»
+
+nose» Hones cu aucuuvuum ousuuounv ouaoooun uuuosnuoauo no ouou uo aouuuaud>w
+.noawou ca unoaoaunn
+
+nauavounucuz uo uncanoao>uv ca coauouon ¢.:uuuo mo «Hon mo nouuuniahouon
+63¢ uuuouo cu 38.03am 30:25:?!»
+
+no wcaauou :H coauonouumuoo ouoso can umuaau acuqu mo uHou no nouuanuu>n
+.nvowuon hauouo ow madman Ho>oa mo ououoouun unashOu an noon caosu
+
+Ion unannoxo “can: mo oHou mo nouuucuauouun .Havoa «:0 ed and» Had an haoooo
+Izouaaﬂua unequasuoaau H0>Uu mo uaoauouonaou mo zuuaunanuou no coauomuuno>uu
+.ocouwou Hooou mo Haves uduouocaﬂuv
+
+uoauzu so“: nun uuzo mo Hovoa Hucowucoaqvloau mo unwuaooo .uowuouooou Haw»
+Iona ucououuuv saw: uncanny van» mo unuaaaoo mo Nuanwnuaaoa mo :ouuunashmuon
+.010» no uaounoo canvaa co noouuavnoo annuaaon no aowuaoadou wad couuoouom
+.nulv auwo ca «0 manna on» no coocovuonov mo coauuunudlo .oaovOE HdQOHQGOEdv
+noounu van uoau a“ :oauowuu IOuuon waauoaaou you oonovcomov mo acuuadaauOuon
+.uuuw sown :«
+
+moan: coaununwauo .uvaouu ounooouo ouuosomoauu uo.co«uauoauouu« you ovosuoa
+no coauooaom .aoa sumo :« uuuouu van: wouuaaaoo new avozual no ucoamoao>on
+.auuv ouuu a“ mo owns: an» :o cocoovaaaov «0 now»
+
+nouauaoo .oouuoguu vows dquucomnou wuwuoaaoo you mocovcooov no couuuaaauuuoa
+.mcowuouou Houauhnucu Bony auuv saws :oouuon
+
+lace up auaoaou no couuaoao>m .osovoa Honouanoauvloousu and nonu cu madman
+Homes 5:: uaunomgo ad nouaoaosa vooovaanvawa mo unwauou mo aoaunnauoopan
+
+cusaﬁg: «.
+:couuomum ouamusm u
+
+A..00ﬂulﬂuﬂum=v
+=usuunauoum:
+A:QU“E§-.V
+
+A:mug:-.V
+.uxoum-p
+A:u:o«vuuo:v
+.ov~u°..
+A=naao«noo:v
+:uuaoauo¥=
+Accuoﬂ Hog-cw
+:uo>.Hu¢=
+
+A=owcanonm:v
+passage:
+
+Auuwp—H Haas-.V
+=o>wnosuohunom=
+.«=>uu«=ouw oaaxvagn=
+A:=o«uu«um ﬂauuon=v
+:udv a «manage:
+
+A=vsz-V =H0U0>3
+«:Huua
+unsuo>oa a: umwooua:
+
+£33.. ..;o..=2_o..o
+.1389. .. .33...
+FOR OFFICIAL USE ONLY
+
+investigation of the regime characteristics of wind-induced level fluctuations
+in regions not supplied with observational data.
+
+Two- and three-dimensional models of storm surges were used in solving these
+problems [11, 12]. The realization of models for arctic seas was described in
+[6-8]. Table 1 gives a list of the principal numerical experiments carried out
+as a result of investigation of the features of level fluctuations observed
+
+in arctic seas. In the first approximation a study was made of the most signif-
+icant level fluctuations during the navigation season when the influence of the
+ice cover can be neglected. In order to satisfy the requirement of adequacy
+
+of the results of computations and data from in situ observations the modeling
+of wind-induced level fluctuations was accomplished simultaneously for the en-
+tire shelf zone of arctic seas. The criteria of agreement between computed and
+observed level values were the statistical evaluations used in numerical hy-
+drodynamic weather forecasts: mean computation error, mean absolute error in
+computations, mean square error, computation quality parameter and correlation
+coefficient between the computed and actual level variation. A comparison of
+the results of modeling with observational data was carried out at 35 points
+located on the coast and on islands of the studied seas.
+
+ihble 2 gives the mean statistical quality characteristics obtained in the mod-
+eling of 10 synoptic situations causing the most significant level fluctuations.
+The presented evaluations are evidence of the accuracy which at the present
+
+time meets the requirements imposed on computations or’prediction of wind-in-
+duced phenomena [9].
+
+The developed methods for computing level fluctuations in arctic seas can be
+used for prognostic purposes when there is a reliable prediction of the surface
+field of atmospheric pressure or wind. Experience shows that for computing a
+situation with a duration of 36 hours it is necessary to expend 40 minutes
+
+with a "Minsk-32" electronic computer. The collection and processing of initial
+data require 40 minutes and the preparation of the collected information in a
+form convenient for analysis requires 20 minutes. It is desirable that the
+making of forecasts by hydrodynamic methods be carried out in combination with
+numerical forecasts of meteorological and other hydrological elements. This
+will make it possible to reduce the random errors in the transmission of data
+and reduce time consumption on preparatory work.
+
+1hc advance time and accuracy in predicting wind-induced level fluctuations with
+use of the considered methods is dependent for the most part on the correspond-
+ing characteristics of prediction of the fields of atmospheric pressure and
+wind. In actuality, using as a point of departure an analysis of the equations
+or motion employed in computing wind-induced processes, it can be concluded
+
+that the level errors must be dependent not only on the errors in meteorolog-
+ical parameters, but also on the absolute velocity. direction and duration of
+the wind effect. An analysis made it possible to explain why in the computations
+of wind-induced phenomena for real situations the best results are obtained
+
+when modeling the most significant level fluctuations. First, considerable lev-
+el fluctuations are caused by pressure formations with large horizontal'gradi-
+cuts of atmospheric pressure, and in this case the errors in computing wind
+velocity and direction are usually minimum. Second. the wind in the case of
+
+23
+
+FIIICH"HCIULIJ§IE(HULY
+great level fluctuations operates along the effective direction of wind-in-
+duced fluctuations and an error in wind direction in this case of even 30°
+causes an error in level of not more than 20 cm. Third, the duration of opera-
+tion of strong winds usually does not exceed 6-12 hours, which also does not
+lend to significant level distortions.
+
+In the modeling of insignificant level fluctuations caused by low—gradient pres-
+sure fields the relative errors in the computed levels sharply increase, for the
+most part due to an increase in the errors in determining the direction of the
+prevailing wind as a result of the nonrepresentativeness of blurred pressure
+fields resulting from the thin network of meteorological stations in the Arctic.
+
+Thus. an evaluation of the accuracy of numerical hydrodynamic methods for com-
+puting wind-induced level fluctuations with the existing accuracy in determin-
+ed and computed meteorological fields must be carried out using data on the
+mvximum level fluctuations. Accordingly, the statistical evaluations of the
+quality of modeling were ranked using the magnitude of level fluctuations. It
+is desirable to formulate the requirements on the accuracy of meteorological
+forecasts in different regions, upon attaining which a numerical hydrodynamic
+prediction of wind-induced level fluctuations is applicable.
+
+Within the framework of the developed methods an attempt was made to obtain re-
+gime characreristics of wind-induced phenomena of practical importance. One
+
+of these is the extreme level fluctuations which are possible once a year or
+once in 5. 10, 20 and 50 years. Maps with such characteristics were prepareJ for
+all the studied arctic seas and were included in a scientific-practical manual
+prepared for publication. A comparison of the computed extremal level values
+determined by hydrodynamic modeling and the results of computations of the ex-
+tremal levels at shore stations, carried out using observational data and using
+the method described in [1], gave satisfactory results. For a number of points
+along the shore the data computed using the model were too low by 20-60 cm.
+
+This must be expected because in the developed method the computation of extrem-
+nl levels did not take into account the movement of pressure systems. Within the
+framework of the created method it is evidently necessary to develop procedures
+for taking the movement of pressure formations into account in order to make
+allowance for possible resonance phenomena and also to take into account the
+interaction of wind—induced phenomena with tidal level fluctuations.
+
+A definite step has been made in this direction. In particular. with the partic-
+[nation of Ye. N. Uranov there was a classification of atmospheric processes
+evidently causing considerable level fluctuations in the Kara Sea. This was
+
+done on the basis of a joint analysis of three interrelated synoptic fields
+(surface atmospheric pressure. air temperature at the earth's surface, field of
+altitudes of the SOO-mb surface). Such an approach made possible an indirect al-
+lowance for cyclogenesis processes. variability of the trajectories of pressure
+formations and the influence of thermal factors on the formation of surface-
+level wind fields. As a result of the computations it was possible to define
+
+six types of level fluctuations; the modeling of standard processes was carried
+out. the sea area was regionalized on the basis of level reaction to the exter-
+nal atmospheric effect. Parallely, using a two-dimensional model, a series of
+computations were made of tidal movements in the Kara Sea. Thus, within the
+
+24
+
+FOR!0F11C1AI.USEGN§LY
+framework of a two-dimensional formulation of the problem the prerequisites
+were established for modeling the interaction of tidal level fluctuations
+and wind-induced phenomena. Similar studies are now being made for other arc-
+
+tic seas.
+
+. .~.-.... .
+
+ 
+
+Fig. 1. Sketch lap of relief of free surface (cm) of Arctic Basin caused by
+thermohaline circulation (conputations using A. S. Sarkisyan model).
+
+An attempt has been made at determining the water surface slopes of arctic seas
+and the Arctic Basin employing the A. S. Serkisyan model [10]. The figure rep-
+resents the topography of the free surface of the Arctic Basin caused only by
+thermohaline factors. The results as a whole correspond to current concepts
+concerning the circulation of waters in the considered region [5]. However, for
+determining the variability of level fluctuations caused by the redistribution
+of density it is desirable to solve the nonstationary problem.
+
+Prospects for improvement in research. Further work on hydrodynamic investiga-
+tions of level fluctuations in arctic seas provide for an improvement in the
+models and a combination of numerical and in situ experiments, including level
+observations in the open sea. Plans call for investigating. and in the models
+taking into account the interaction of wind-induced and tidal level fluctua-
+tions in the presence and in the absence of an ice cover with different char-
+acteristics of the latter.
+
+The modeling of level fluctuations of arctic seas, communicating on the north
+with the ocean, must take into account the influence of so-called "external
+
+25
+
+IOIIOIIICIAI.I!II(NULY
+Iluations of Quality of Modeling of Wind-Induced Level Oscillal
+
+_ — I
+
+A IAI 0’ e R
+For-points with level oscillations iron 0 to 50 ca
+
+0.0 7.3 9.6 0.52 0.65 m
+0.0 7.1 0.2 0.50 0.67 Th1
+
+For points with level oscillations tron 51 to 75 cm
+
+0.0 10.0 13.0 0.68 0.78 '
+0.0 10.1 13.2 0.50 0.78
+
+For points with level oscillations from 76 to 100 ca
+
+0.0 12.1 15.0 0.32 0.85
+-1.0 12.6 16.1 0.45 0.80
+
+For points with level oscillations nore than 100 on
+
+0.0 14.0 18.9 0.20 ‘ 0.93
+4.0 16.2 21.5 0.40 0.87
+
+p are the mean observed and cogputed level oscillation values;
+
+the mean computation error; IAI is the mean absolute conputat:
+tion error; 5 is a paraneter of computation quality; R is the c:
+computed and actual level variations.
+surges" -- long waves generated by anemopressure conditions over the Arctic
+lusin. Propagating over the areas of the seas, they exert a substantial effect
+on the formation of wind-induced and tidal level fluctuations, especially in
+the shallow-water regions. There is definite experience in their investigation
+for the most part for the North Sea [13]. Particularly important is allowance
+for a wave surge in computations and predictions of wind-induced level f1uctu~
+utlons in those regions of arctic seas where there are extensive zones with
+shallow depths and with shoals along the coasts. In regions with a sharp strat-
+lrlcatlon of waters. including at shallow depths, it is necessary that baro-
+rlinic effects be taken into account.
+
+In order to achieve a high accuracy in hydrodynamic computation methods it is
+necessary to combine numerical and in situ experiments. However, a solution of
+this problem meets with considerable difficulties associated with the great
+cost of the latter. the inadequacy of transport and technical facilities.
+Nevertheless, there must be an optimum minimum of observations, carefully
+planned in accordance with specific models. They must include the registry of
+levels. currents, atmospheric pressure and wind in regions not covered by ob-
+servations. including the open sea, and also aerial reconnaissance of ice. Such
+observations are also important over the area of the Arctic Basin. In order to
+rulihrnte local models with a high resolution (for example, for supporting
+drilling work on the shelf) there must be multisided observations in relative-
+
+ly small polygons.
+
+Development of methods for predicting level and possibilities of their adoption
+in operational work. The problem of increasing accuracy and lengthening the ad-
+vance time of level predictions both at the traditional times of arctic naviga-
+tion and during winter has become extremely timely. With the improvement of
+exiSting and creation of new methods for predicting wind-induced level fluctua-
+tions it is necessary to be guided by what we regard as a highly important
+principle: close integration of numerical hydrodynamic and physicostatistical
+investigations. In this process it is necessary to take into account the many
+years of practical experience of forecasters.
+
+The methodology, that is, the fundamental scientific basis of prognostic
+schemes. must evidently be unified. But the specific methods for predicting
+levels for individual seas and even different regions may differ as a result of
+allowance for specific physiographic features, as well as regional and local
+characteristics of the regime of level fluctuations. Precisely in this direc-
+tion specialists are bringing about a further improvement in methods for pre-
+dicting levels in arctic seas. The role of allowance for the regularities of
+tho hydrometeorological regime in the development of corresponding forecasting
+methods within the framework of a definite conceptual model was indicated in
+
+I‘ll.
+
+I: In desirable to create a unified. integrated system (with a data bank), in-
+vludlng numerical hydrodynamic and physicostatistical models,for the purpose
+
+or computing and predicting level fluctuations. currents, waves, continuous,
+rumpressed and rarefied ice in any regions of the Arctic. An automated ocean-
+uluglval complex must be linked to a corresponding meteorological complex which
+mlnld ensure the preparation of numerical forecasts of the distribution of
+
+27
+
+INJI‘OIINCIAI.IEIB("ULY
+FOR OFFICIAL USE. ONLY
+
+atmospheric pressure and wind for arctic seas and the adjacent area of the ocean
+with an advance tine of 5-10 days. The creation of such a system will accelerate
+the introduction of objective analysis and prediction of the entire complex of
+hydroncteorological conditions which are regarded as an organic part of the uni-
+fied process.
+
+3.
+
+5.
+
+l0.
+
+BIBLIOGRAPHY
+
+Dvorkin, Ye. N., "Method for Conputing Levels With a Rare Frequency of Re-
+currence," TRUDY AANII (Transactions of the Arctic and Antarctic Scientific
+Research Institute). Vol 306, 1972.
+
+Dvorkin, Ye. N., Zakharov, Yu. V. and Hustafin, N. V., "Reasons for the Sea-
+sonal and Long-Tern Variability of Level in the Laptev and East Siberian
+Seas." TRUDY AANII, Vol 369. 1978.
+
+Krutskikh. B. A., OSNOVNYYB ZAKONOHBRNOSTI IZHENCHIVOSTI REZHIHA ARKTICHESKIKH
+HOREY V YESTBSTVENNYKH GIDROLOGICHESKIKH PERIODAKH (Principal Patterns of Var-
+iability of the Regine of Arctic Seas in Natural Hydrological Periods). Len-
+ingrad, Gidrometeoizdat, 1978.
+
+Hustafln, N. V.. "Problems in Investigating Level Fluctuations of Arctic Seas,"
+PROBLBHY ARKTIKI I ANTARKTIKI (Problems of the Arctic and Antarctica), No 26,
+1966.
+
+Nikiforov, Ye. G. and Shpaykher, A. 0., ZAKONOHBRNOSTI FORMIROVANIYA RRUPNO-
+MASSHTABNYKH ROLEBANIY GIDROLOGICHBSKOGO REZHIHA SEVERNOGO LEDOVITOGO OKEANA
+(Patterns in Formation of Large-Scale Fluctuations of the Hydrological Regine
+of the Arctic Ocean), Leningrad. Gidroneteoizdat. 1980.
+
+Proshutinskiy, A. Yu., ”Computation of Hind-Driven Level Fluctuations in the
+Shelf Zone of Arctic Seas," HBTEOROLOGIYA I GIDROLOGIYA (Meteorology and ﬂy-
+drology), No 8. 1978.
+
+Proshutinskiy, A. Yu., "Some Results of Numerical Modeling of Hind-Driven
+Sea Level Fluctuations in the Leptev Sea." TRUDY AANII, Vol 361, 1979.
+
+Proshutinskiy, A. Yu., "Analysis of Results of Modeling of Hind-Driven Level
+
+Fluctuations in the Shelf Zone of Arctic Seas," TRUDY b-y KONFBRENTSII HOLOD-
+YKH UCHENYKH LGHI (Transactions of the Fourth Conference of Young Scientists
+
+of the Leningrad Hydrometeorological Institute), Leningrad, 1979. (Manuscript
+deposited at the All-Union Institute of Scientific and Technical Information,
+10 December 1979. No 4195-79).
+
+RUKOVODSTVO P0 KRATKOSROCHNYH.PROGNOZAM POGODY (Manual on Short-Range Heather
+Forecasting), Part 1. Leningrad, Gidroneteoizdat, 1964.
+
+Swrklsyan, A. 8., CHISLENNYY ANALIZ l PROCNOZ HORSKIKH TBCHENIY (Numerical
+Analysis and Prediction of Sea Currents), Leningrad. Gidrometeoizdat, 1977.
+
+28
+
+FIIIIIHHCJAl.lEiB(IULY
+11. Heaps. N. 8., "0n the Numerical Solution of the Three-Dimensional Hydrody-
+namical Equations for Tides and Storm Surges," Hm. 80C. ROY. SCI.. Ser 6,
+Vol 2, 1972.
+
+12. Henry. R. P. and Beeps, N. 8.. "Storm Surges in the Southern Beaufort See,"
+J. FISH. R88. BOARD GAIL, V01, 33, N0 10, 1976.
+
+13. ' Timernan, 8.. "0n the Importance of Atnoepheric Pressure Gradients for the
+
+Generation of External Surges in the North Sea." DEU‘l‘SCllB HYDROGRAPHISCHE
+ZEITSGIRIPT, 3d 28, No 2. 1975.
+
+29
+
+FOI‘OFHKJAI.USEIHNLY
+FOR OFFICIAL USE ONLY
+
+UDC 556.16:556.072
+
+DESCRIPTION 0? RIVER RUNOFF AT SEVERAL POINTS BY MULTIVARIATE CAMNICAL EXPANSION
+METRO!)
+
+Moscow mmkmocna I GIDROLOGIYA in Russian No 3. Mar 82 (manuscript received
+25 May 81) pp 81-87
+
+[Article by I. V. Busalayev and S. K. Davletgaliyev, candidates of technical sci-
+ences. Kazakh Scientific Research Institute of Electric Power and Kazakh State
+University]
+
+[Abstract] The canonical expansion method is» proposed as a promising nethod for
+systenic nodeling of river runoff. A nodel based on this nethod sakes it possible
+to reproduce the entire correlation nstrix (correlation functions of all orders
+are retained in the nodeling) and it requires a lesser nunber of paraneters than
+the corresponding autoregression Iodel. An advantage of the method is that any
+month can be taken as the initial month. Such a nodel does not require the un-
+wieldy three-step procedure of identification, conputation and checking of cor-
+respondence, as required in two-tern nodels. With relatively snall values of the
+variation coefficient it is possible to reproduce a one-dinensional distribution
+function and ‘Y-distributed randon nusbers can be used directly in the nodeling.
+The linear operator of the canonical expansion can also be used effectively in
+predicting river discharge on the basis of extrapolation of a random process. It
+is shown that the nethod can also be employed in the nodeling of correlated hy-
+drological series simltaneously at several neasurenent points on the basis of
+multidimensional canonical expansion theory. The model was investigated in the
+example of nonthly water inflows into the Bukhtarlinskoye and Shul'binskoye Res-
+ervoirs. It was found that the cross-correlation and autocorrelation natrices
+
+of the neon monthly water discharges of the observed and nodeled hydrological
+series are in satisfactory agreement. Tables 2; references 10: 9 Russian, 1 Heat--
+ern.
+
+30
+
+MWMONLY
+UDC 551.509.6114
+
+Moscow METEOROLWIYA I 610801.061“ in Russian No 3. ﬂat 82 (manuscript received
+
+[Article by A. G. Laktionov, candidate of physical and mathematical aciencea, Inst-
+itute of Applied Geophysical
+
+tering of an adnixture in a cloudleae atmosphere is satisfactorily described by
+six types of weather (A, B. c, D, B. G) differing with respect to both the degree
+of atmospheric stability and turbulent fluctuations of wind direction in the hori-
+zontal plane. Formulae were derived and graphs conatructed for obtaining the ap-
+FOR OFFICIAL USE ONLY
+
+UDC 528.77+633(677.72)
+EVALUATION OF STATE OF AGRICULTURAL CROPS PROM SATELLITE DATA
+
+Hoscov HBTEOROLOGIYA I GIDROLOGIYA in Russian No 3, Her 82 (manuscript received
+26 Aug 81) PP 95-101
+
+[Article by G. I. Borisoglebskiy, candidate of geographical sciences, and V. V.
+Kozoderov, candidate of physical and mathematical sciences, State Scientific
+Research Center for Study of-Natural Resources]
+
+[Text] Abstract: The possibility of an evaluation
+of the dynamics of development of agricul-
+tural crops on the basis of their images
+on space photographs is examined. The ar-
+ticle gives some results of determination
+of the structure of agricultural fields
+and the state of winter crops over the
+territory of xhersonskaya Oblast on the
+basis of satellite images of average
+resolution._
+
+The spatial inhomogeneity of the spectral brightness of agricultural fields
+during the growing season is governed for the most part by nonuniformity in
+the developnent and state of agricultural crops. This nonuniformity determines
+the field of reflected radiation registered from space vehicles.
+
+The method for evaluating the state of agricultural crops on the basis of space
+images involves an allowance for differences in the reflected field of radia-
+tion from agricultural fields.
+
+The state of agricultural crops is characterized by many parameters. including
+the quantity of vegetation mass (degree of coverage of the soil surface by a
+grass stand). Since the soil and vegetation cover have different spectral
+brightness coefficients, with a change in the quantity of the vegetation mass
+the brightness coefficient of the soil-vegetation system also changes. Accord-
+ingly, using the value of the brightness coefficient of the soil-vegetation
+system it is possible to judge the state of the vegetation cover [1, 4].
+
+In this article. in the example of Khersonskaya Oblast, we will examine some -
+relationships between the state of agricultural crops and their brightness
+characteristics. some results of processing of space photographs are given
+
+32
+
+IOI‘OIFKJAI.USE(NULY
+and these results are conpared with data from expeditionary investigations of
+the state of sown crops.
+
+ 
+
+’ a
+e ‘
+d
+1? ‘ i
+I I
+a, u u m, ?“ ”(sump u usumsum
+Fig. 1. Spectral brightness coef- Pig. 2. Dynamics of percentage con-
+ficients for snow (1), vegetation (S) tent of bare fallow (1), green vege-
+
+covers and chernozen soils (2-6) in dif- tation (2) and yellow vegetation (3)
+
+ferent states. 2) sticky soil; 3) soft for Khersonskaya Oblast in 1980 (ac-
+
+plastic soil; 6) hard plastic soil. cording to data for Nizh. Serogoza
+station).
+
+First we will examine the principal seasonal features of change in the reflec-
+tive properties of the soil-vegetation systen.
+
+As indicated by observations. noistening of the surface soil layers changes
+most significantly in the early spring and late autumn. After disappearance
+of the snow cover the soil surface layer undergoes transition fron a sticky
+(overmoistened) to a soft plastic state and then into a dry state. Depending
+on the geographic region and weather conditions the duration of dessication
+of the soil surface layer is usually 2-6 weeks. During this period there are
+substantial changes in the reflective properties of the soil surface layer, as
+is easily noted from the curves of spectral brightness coefficients (Fig. l)
+of chernoten soil [2, 3] typical for Khersonskaya Oblast. During sunner the
+soil surface layer is primarily in a dry and soft plastic state and its re-
+flective properties do not change significantly (Fig. 1), although they can
+vary briefly, depending on the falling of precipitation.
+
+During spring and autunn a considerable percentage of the lands in Khersonskaya
+Oblast (about 702) is in a plowed state and therefore the changes in the re-
+flective properties of the earth's surface during this period are dependent for
+the most part on the degree of noistening of the soil surface layer (transition
+from curve 2 to curves 3-4 in Pig. 1). Pron the time of dessication of the soil
+surface layer (to a soft plastic state) and renewal of the vegetation growing
+season, which by the calendar almost coincide with one another. the changes in
+the reflective properties of the underlying surface occur for the most part due
+to an increase in soil coverage by a grass stand (curves 6 and 5 in Pig. 1).
+
+Table l, in accordance with the curves in Fig. 1. gives the values of the bright-
+ness coefficients of snow, soil and vegetation covers, corresponding to the sea-
+sonal dynamics of their state. It follows fron the data in Table 1 that the snow
+and vegetation covers differ substantially iron the soil cover with respect to
+the values of the brightness coefficients. The variations of the brightness
+properties of chernozen soils are less great, depending on the state of the
+
+33
+FIIICNﬂWCIAl.USIICHVLY
+FOR OFFICIAL USE ONLY
+
+surface layer (from sticky to hard plastic). These features of the reflective
+.properties are manifested in a corresponding way on space images as well, but
+for a quantitative interpretation of data from space measurements it is neces-
+sary to know the spectral response functions of the satellite apparatus. Never-
+theless. in,a first approximation the data in Table 1 make it possible to carry
+out a classification of the elements of space images on the basis of the photo-
+tune of individual photographs.
+
+Table 1
+
+Integral Values of Brightness Coefficients for Four Channels (43) of
+Satellite Apparatus
+
+‘ A}
+
+No of curve .
+
+in F180 1 005-006 006-007 0a7-008 0.8-1.0
+1 0.57 0.56 0.55 0.52
+2 0.028 0.037 0.0‘6 0.058
+3 0.054 0.078 0.11 0.13
+4 0.090 0.11 0.14 0.17
+5 0.066 0.057 0.19 0.32
+
+Now we will examine changes in the percentage ratio of areas in thereonskaya
+Oblast occupied by plowed soil, green and brown (mature) vegetation cover. The
+'corresponding results, computed on the basis of the structure of sown areas
+
+and the phases in development of the principal agricultural crops, are given
+
+in Pig. 2. These data will be used henceforth in computing from the images on
+space photographs the areas with different states of agricultural crops. Figure
+2 shows that during May it is possible to define at least two classes of objects
+differing substantially with respect to reflective properties: dark, correspond-
+ing to plowed soil. and light. corresponding to vegetation. The differences in
+phototone observed on space photographs are caused by the nonunifornity of the
+soil and vegetation covers: the difference in the projective coverage of soils
+by vegetation, different phenophases of agricultural crops, etc.
+
+He will also examine the principal phonological characteristics of development
+of agricultural crops in the territory of Khersonskaya Oblest for the purpose
+of taking these characteristics into account in the analysis of space photo-
+
+graphs.
+
+Hinter crops and perennial grasses end their cycle of development earlier than
+other agricultural crops. During the period of earing of winter wheat the sta-
+growth process is still transpiring in early spring crops, whereas late spring
+crops are in the phase of appearance of sprouts - onset of stem growth. As a
+result of differences in the development phases these groups of crops during
+the period of formation of the grass stand differ appreciably in the quantity
+of vegetation mass. For example, on 28 Hay 1980, according to observational
+data for the meteorological stations of Khersonskaya Oblast, the height of win-
+ter wheat in the eating phase was 70-80 cm and the height of early spring grain
+
+35
+
+FOR‘OFFKJA1.U§EIMVLY
+crops in the phase of stem growth was 25-50 cm; the height of late spring crops
+(in the sprouting phase) was about 15 cm. During this period the color of the
+grass stand for all crops was green. As a result of the different height of the
+grass stand. that is, the different quantity of vegetation mass and the differ-
+ent degree of coverage of the soil with vegetation,the agricultural fields oc-
+cupied by these crops differ in brightness, which makes it possible to dis-
+tinguish them on space images on the basis of optical density.
+
+The differences between crops, according to mean long-tern data. at the times
+
+of onset of the development phases during their growing season, are given in
+Table 2.
+
+Table 2
+
+Difference (in Days) in Onset of Phases of Development of the Principal
+Agricultural Crops
+
+Pairs of crops Development phases
+sprouts stem extension earing milky gold
+ripeness ripeness
+Winter wheat - spring 19 6 5 6
+barley
+Spring barley - corn 27 -- 40 -- 60
+Sunflower - corn lS - -- -- 13
+
+It can be seen from the presented materials that winter wheat differs substan-
+tially from late spring crops with respect to the times of onset of one and the
+same development phases.
+
+The differences between wheat and spring barley in the initial period of devel-
+opment are greater than during the maturing period. For example. the differences
+in the times of onset of the phase of stem extension (onset of stem growth) for
+these was 19 days, but for the phase of gold ripeness it was only 6 days. The
+differences in the height of the grass stand as these crops mature also de-
+crease. Accordingly. on space images there are considerable difficulties in dif-
+ferentiating them during the maturity period.
+
+Late-maturing crops (sunflower. corn) with respect to the state of the grass
+stand differ to a considerably greater degree from the group of early spring
+crops in the second half of the growing season. Sunflower and corn differ sub-
+stantially from one another primarily with respect to the color of the grass
+stand and only during the maturing period.
+
+Thus. using a phenological calendar it is possible to predetermine the periods
+
+most convenient for the recognition and evaluation of the state of agricultural
+crops on the basis of data from remote measurements.
+
+a
+
+35
+
+FOR1DFFKJAI.U§B(HVLY
+FOI‘DFFKJAI.USE(MVLY
+
+ 
+
+4:
+
+Fig. 3. Temporal variation of spectral brightness coefficients of soil-vegeta-
+tion system. a) for winter crops, b) for spring crops.
+
+Figure 3, in accordance with the data in Figures 1 and 2. gives the tenporal
+dynamics of the spectral brightness coefficients of winter and spring crops.
+
+The results of the computations in Pig. 3 correspond to the description of
+
+the state of grain crops given in Table 3. In the computations we took into ac-
+count the percentage contribution of vegetation and soils to the overall bright-
+ness of the soil-vegetation system. The corresponding weighting function was
+
+the projective coverage, equal to the ratio of the area occupied by vegeta-
+
+tion to the total area occupied by the vegetation and soil.
+
+A comparison of the curves in Pig. 3 makes it possible to conclude that the
+differences between the brightnesses of these objects in the visible spectral
+region (3- 0.5-0.7}; m) are small. The differences are appreciable only with
+transition from the vegetation to the soil cover. In particular, a poor state
+(low projective coverage) is virtually indistinguishible from a good state
+(almost continuous vegetation cover) in the visible region on the basis of
+
+brightness criteria. In the near IR region (2)»0.7frm) these differences are
+more significant.
+
+' I
+~, /
+%_..,...~::m.
+
+IM '1! U I?! r
+
+ 
+
+Fig. 4. Histogram of optical densities of space image for Khersonskaya Oblsst
+(28 Hay 1980). 1) winter: 2) early spring; 3) late spring; 4) soil; 5) water
+bodies.
+
+36
+
+FOI!OIIIJAI.USE(IULY
+The described preliminary stages in establishing relationships between the state
+of agricultural fields and their brightnesses make it possible to proceed to a
+solution of the problem of evaluating the state of agricultural fields using
+data from space images.
+
+A distinguishing characteristic of satellite images with an average resolution
+(about 250 m) is the small linear dimensions of agricultural fields, which
+makes difficult the tie-in of individual fields to data from field measurements.
+Accordingly, in the processing of satellite images with an average resolution
+
+it evidently is necessary to take into account not individual agricultural
+fields but a group of fields within the limits of individual districts, regions,
+etc.
+
+The algorithm for the processing of a satellite image involved the following.
+The entire data bank of optical densities of space images was quantized into
+
+classes corresponding to different agricultural crops (feature recognition).*
+The next stage in the processing is the discrimination of optical density class-
+es corresponding to a different state of the grass stand of a particular crop.
+
+A determination of the boundaries (threshold levels) between optical density:
+classes was carried out using characteristic breaks in the histogram (Fig. 4).
+The histogram represents the ratio of the number of elements with a particular
+optical density to the total number of optical density elements of the sector
+of the image being processed (in our case - the territory of Khersonskaya 0b-
+last).
+
+The presence of well-expressed peaks (modes) or so-called breaks (change in his-
+togram slope) indicates the presence of natural formations with different re-
+flective properties. Intuitively it can be postulated that over the considered
+territory the natural features represented on this histogran (Fig. 6) include
+a water surface, plowed soil and fields with different projective coverage of
+the soil. 0n the date of the survey, 28 Hay 1980 (Fig. 5a), the following
+groups of agricultural crops differed considerably with respect to the height
+of the grass stand: winter, early spring and late spring. A knowledge of these
+facts and the differences in the spectral variation of agricultural crops con-
+sidered above made it possible, using the breaks on the histogram in Pig. 6.
+to define 5 classes of objects differing significantly in brightness: winter,
+early and late spring crops, plowed soils and water bodies.
+
+The threshold levels obtained on the.basis of the histograms in Fig. 4 were
+used in quantizing the optical density of the analyzed image into individual
+classes (Fig. 5b), that is, the entire image, in accordance with the histogram.
+was represented in the form of 5 optical density classes.
+
+A comparison of the actual data on the structure of sown areas in the Kherson-
+g51y_pglyggng_gbtained by an expedition of the Geography Faculty at Moscow
+
+*
+We will assume that there is a mutually unambiguous correspondence between
+
+the optical density of the processed photograph and the registered brightness.
+In the absence of such a correspondence it is necessary to make a brightness
+correction of the images. We will not examine this problem here.
+
+37
+
+INJI‘OIIICIAI.IEIE(HULY
+:rain Crops Correspondi
+
+projec- developnen
+tive cover-
+age
+
+0.1 Moist a
+seed 3:
+State University and the results of quantization of image optical densities in-
+to classes indicates that there is a correspondence between then (Table 4).
+
+Table 4
+
+Structure of Agricultural Fields for Fragment of Khersonskaya Oblast on
+28 Hay 1980
+
+Land use areas Area, 2
+results of quantization of according to data of
+
+optical densities Moscow State Univer-
+sity expedition
+
+Hater bodies 8 8 -
+Plowed soil 12 15
+
+Late spring crops 16 20
+
+Early spring crOPa 2° 11
+
+Winter crops ‘4 ‘6
+
+Table 5
+Evaluation (units) Area 1
+9
+
+results of quantization of according to data of
+optical densities _ Moscow State Univer-
+
+sity expedition
+
+Above average (a) 22 24
+Average (3) 62 51
+Below average (2) 36 25
+
+The detersination of areas with different fields from space images is dependent
+to a considerable degree on the correctness of discrimination of the threshold
+levels of optical densities from the histograms. These should be selected on
+the basis of a priori information, standard measurements, etc. As already stat-
+ed above, for this purpose we used histograms of the distribution of optical
+density and a priori information on the phenophases of development of agricul-
+tural crops.
+
+The sectors with groups of agricultural crops similar with respect to reflect-
+ivity, defined on the images, are also nonuniform with respect to optical den-
+sity. In this case the optical density of the image is dependent on variations
+in state of the crop: the greater the degree to which the vegetation cover
+conceals the soil, the less is the optical density on the positive images. This
+fact can be used in discriminating areas having a different state of agricul-
+tural crops on the images. A further interpretation involves a determination of
+the quantitative relationships between the image optical density and the state
+
+39
+
+IOI'OIIICltl.lIIL(IUlY
+FOR OFFICIAL USE ONLY
+
+of a particular crop (the quantity of vegetation mass or some other parameter).
+
+ 
+
+Fig. 5. Fragment of space image with average resolution on 28 Hay 1980 (a) and
+results of image processing. a) structure of agricultural fields (1 -- water
+bodies, 2) plowed soil, 3) spring crops, 6) winter crops); b) state of winter
+crops (1 -- above average. 2) average, 3) above average, 4) other land use
+
+areas.
+
+40
+
+momtuwsromv
+Figure 5c gives an analysis of the state of winter wheat for the selected frag-
+ment of Khersonskaye Oblast. The image optical density of the selected sector.
+fed out to a color display, was uniformly divided into three parts correspond-
+ing to the mean state of winter wheat and states above and below the means,
+which approximately corresponds to a projective coverage of less than 601.
+
+802 and more than 802. The selected iasge density gradations corresponded to
+those threshold levels which were mentioned above. Then by program all the
+analysed fragment was represented in gradations of optical density in accord-
+ance with the threshold levels. Thus, on the basis of a specialized complex
+
+for the digital processing of images it was possible to compute areas with a
+different state of winter wheat. The results of an analysis of the space image
+are given in Table 5 together with the actual data obtained by an expedition
+
+of the Geography Faculty of Moscow State University on the state of winter
+wheat during this period. Table 5 shows that there is a definite correspondence
+between the results of an image and actual data, which indicates the possibil-
+ity of using the described semiautomatic processing scheme for evaluating the
+state of agricultural crops over great areas.
+
+To be sure, there is definite arbitrariness in the choice of threshold levels
+of optical density when using the described method for evaluating state. These
+levels. and also the interrelationships between density gradations and the
+quantitative indices of state must be found on the basis of siaulated models
+
+of interaction between radiation and the soil-vegetation system with the use V
+of a priori information. There are considerable difficulties in making a bright-
+ness correction of space images. However, the preliminary results of analysis
+of natural phenomena cited above and the results of processing of satellite
+images make it possible to conclude that there are real possibilities for eval-
+uating the state of agricultural fields using space survey data with apparatus
+having an average resolution.
+
+BIKLIOGRAPEY
+
+l. Belyayeva, I. P., Rachkulik, V. I. and Sitnikova, M. V.. "Correlation Be-
+tween the Brightness Coefficient of the Soil-Vegetation System and the
+Quantity of Vegetation Mass," METEOROLOGIYA I GIDROLOGIYA (Meteorology
+and Hydrology). No 8. 1965.
+
+2. ISSLEDOVANIYE PRIRODNOY SEED? S PILOTIRUYEHYKH ORBITAL'NYKH STANTSIY (In-
+vestigation of the Environment From Manned Orbital Stations), edited by
+K. Ya. Kondrat'yev, Leningrad, Gidrometeoizdat, 1973.
+
+3. Kondrat'yev. K. Ya. and Fedchenko, P. P., "Possibilities of Using Reflec-
+tion Spectra of Soils for Studying Their Properties," ISSLEDOVANIYB ZEMLI
+IZ KOSMOSA (Investigation of the Earth From Space), No l, 1980.
+
+6. Rachkulik. V. I. and Sitnikova, M. V.. "Some Problems in Determining the
+Biomass of Desert Pastures and Fields of Agricultural Crops ," METEOROLOG-
+IYA I GIDROLOGIYA, No 6, 1976.
+
+61
+
+FOI‘OFFKJAI.USE(NMLY
+FOR OFFICIAL USE ONLY
+
+UDC 551 . 508 . 953
+
+EVALUATION OF SPECTRAL RESOLUTION OF OPTICAL APPARATUS FOR MEASURING MINOR GAS
+COMPONENTS IN ATMOSPHERE
+
+Moscow METEOROLOGIYA I GIDROIDGIYA in Russian No 3, Mar 82 (manuscript received
+1 Jun 81) pp 102-106
+
+[Article by A. V. Polyakov and Yu. H. Timofeyev, candidate of physical and mathe-
+matical sciences. Leningrad State University)
+
+[Abstract] Great difficulties are encountered in studying the spatial-tenporal
+variations in the content of minor gas components in the atnosphere. This dic-
+rates the creation of special optical instruments with a high or ultrahigh spec-
+tral resolution. In order to ascertain the required resolution of the needed in-
+strunents, as well as for evaluating already existing instrments, the authors
+exanine a sinplified model of transfer of solar radiation on oblique trajector-
+ies (neasurenents from satellite. aircraft or balloon) and have constructed nomo-
+grans (and expressions supplementing them) which make it possible to solve this
+problen in a broad spectral region (l-lOOpun) for a large amber of minor gas
+components. The rules for using the nomograms are given. The procedures for de-
+ternining Av“ and Ava t are defined (Avdet is the spectral resolution neces-
+sary for detecting a specgral line with a known half-width and intensity for a
+stipulated altitude corresponding to a minor gas component with a known concen-
+tration; AVopt is the optinun spectral resolution in line measurements at a
+stipulated altitude). By way of illustration, a table gives the Ndet and AVopt
+values for different altitudes applicable to the conditions of a satellite exper-
+iment. Figures 2, tables 1; references 9: 7 Russian, 2 western.
+
+42
+
+MWWMY
+UDC 551.501.796+551.501.724
+POSSIBILITY OF DETERMINING ATMOSPHERIC TEMPERATURE PROFILE BY ACOUSTIC SOUNDING
+
+Moscow HBTEOROlOGIYA I GIDROLOGIYA in Russian No 3, Mar 82 (manuscript received
+1 Jun 81) Pp 106-110
+
+[Article by A. Ya. Bogushevich and N. P. Krasnenko, candidate of technical sci-
+ences. Institute of Atmospheric Optics, Siberian Department, USSR Academy of Sci-
+
+encesl
+
+[Abstract] At present it is possible to determine the temperature profile only by
+the combined radioacoustic method, based on the scattering of electromagnetic
+waves on periodic inhomogeneities of air pressure created by an acoustic packet.
+A new method for measuring the temperature profile is proposed here. Data on the
+temperature profile can be obtained by using a bistatic sounding geometry and by
+measuring the time of propagation of an acoustic pulse along its trajectory. In
+this method, assuming a stationarity and horizontal homogeneity of meteorological
+fields at the measurement scales (0.3-6 sec and 30-300 m), the entire boundary
+layer is broken down into n layers (altitudes 81-89) and a piecewise-linear ap-
+proximation of the temperature profile is used. It is shown that by successively
+measuring the sounding altitude Bliit is possible to determine the temperature
+profile. The most significant-factors exerting an influence on the accuracy in
+measuring temperature are: wind, acoustic noise, sound refraction, variation of
+the Q coefficient, finite character of the dimensions of the scattering volume
+and turbulent fluctuations of meteorological fields. The principal systematic and
+random errors associated with these influencing factors are individually analysed.
+The influence of the wind, for example, can be taken into account by employing
+compensating geometries; wind refraction corrections can be made by the same pro-
+cedure. A correction must be introduced for real humidity at the ground level. In
+general, it is easy to compensate for the systematic errors. Fluctuation errors
+are more important and the most important of the fluctuations is noise, resulting
+in fluctuations of signal arrival time. A formula is derived to take this into ac-
+count. The article examines a model with an atmosphere with standard profiles of
+meteorological parameters and a Kolmogorov turbulence spectrum. There are opti-
+mum frequencies for acoustic sounding and optimum spacings between the antennas
+of the bistatic sounder with which the random error in determining temperature
+
+is minimum. In a particular example it is shown that in a suburban area the mean
+temperature profile could be measured by the bistatic acoustic sounder to alti-
+tudes 300-500 m with a good accuracy. Figures 2; references 7: 4 Russian, 3 West-
+
+ern .
+
+63
+
+momdnmomx
+FOR OFFICIAL USE ONLY
+
+000 551.577.53
+
+Immrsu'r INFLUENCE OF MAJOR CITIES AND INDUSTRIAL CENTERS 0N PRECIPITATION
+
+Hoscow HETBOROIDGIYA I GIDROIDGIYA in Russian No 3. Mar 82 (manuscript received
+15 Jul 81) PP 111-119
+
+[Article by I. V. Litvinov. candidate of physical and nathemtical sciences, Insti-
+tute of Experimental Meteorology]
+
+[Abstract] Precipitation zones are known to develop lore frequently over a city
+than in the suburbs. There is also an increase in the number of thunderstorms
+over cities and an increased frequency of recurrence of days with precipitation.
+as well as the frequency of extrenal precipitation and the duration of precipit-
+ation. However. this pattern is notualways observed: Leningrad. Moscow and De-
+troit, for exasple, do not entirely adhere to this generalisation. The review of
+the literature presented in this article sakes it clear that cities and industrial
+areas do exert an influence on precipitation suns both directly over built-up re-
+gions and nearby. It is the heat release of the cities and the structure of the
+built-up area which exert the greatest influence. It is not entirely clear how
+ice-forning nuclei of anthropogenic origin exert an influence on precipitation,
+but they do not alter precipitation suns by more than a few percent. However. ur-
+banization does not exert an influence on the quantity of precipitation falling
+over extensive territories because city areas account for but a tiny percentage
+of the total area of a country, even in Europe. Over large cities and industrial
+areas this precipitation increase lay be 302, but the overall effect for the land
+is no more than a few tenths of a percent. During the last 100 years in Europe
+there has been only an insignificant increase in precipitation in the northwest
+and a decrease in the southeast. Nevertheless. there is an anthropogenic effect
+on precipitation and this must be taken into account in climatic studies and in
+investigating the results of artificial modification in the neighborhood of
+
+large cities and industrial centers. Figures 2; references 89: 38 Russian, 51
+Hestern.
+
+5b
+
+EOR‘UIIICIAI.USIIINLY
+REVIEH OP MONOGRAM! 'GIDROLOGICHBSKIYB P3078883? I IKE ROL' V PORNIROVANII KACHESTVA
+VODY' ('HYDROLOGICAL PROCESSES AND THEIR ROLE IN FORMING HATER QUALITY ). BY
+V. A. ZNAHENSKIY, LENINGRAD, GIDRMETBOIZDA'I‘, 1981, 248 PAGES
+
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 3. Kat 82 pp 120-122
+
+[Review by A. V. Karaushev, professor]
+
+torying and monitoring vater quality. Mathematical models have been proposed which
+can be used in solving ecological problems and in developing schemes for the multi-
+sided use and conservation of water resources. The book has an introduction. five
+chapters and summary. The introduction enunerates the principal problems examined
+by the author. Each chapter gives an evaluation of the present status of the con-
+sidered matters. The first chapter is a detailed examination of water exchange
+processes in water bodies. The second chapter examines the hydrodynamic structure
+of flows in water bodies. The third chapter is devoted to the influence of water
+exchange and dynamic structures on the transport and distribution of dissolved
+substances. The fourth chapter gives. the author's ovn nethods for the hydraulic
+sodeling of the processes of transport of water masses and dissolved substances,
+including the results of numerous experimental investigations. The fifth chapter
+gives proposals on use of such methods in solving problem in the rational use
+and conservation of waters, monitoring water quality and establishing norms for
+the admissible discharge of waste waters into water bodies. in the developnent
+
+of mathematical models of water quality and in planning the multisided use of
+water resources. The book will be highly useful in solving nany problens in the
+national economy.
+NR OFFIOAL USE ONLY
+
+CONFERENCES, MEETINGS, SEMINARS
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian Mo 3, Mar 82 pp 123-125
+
+[Article by P. Yu. Pushistov. A. A. Zhelnin and V. P. Gridasov]
+
+[Abstract] An international symposium "Current Problems in weather Forecasting"
+was held in Vienna during the period 23-26 June 1981. It was organized by the
+Austrian and American Meteorological Societies. Representatives of 14 countries
+discussed theoretical and statistical aspects of short-range weather forecasting.
+intermediate- and long-range weather forecasting. This brief summary of the sym-
+posium gives the content of reports by American, British, Austrian, Heat German
+and other specialists, with a few lines or short paragraph being devoted to each
+
+report.
+seats
+
+A national conference on "Problems and ways to Develop Methods for Observing Mois-
+ture Supplies for Crops" was held at Cherkassy during the period 8-12 September
+1981. It was sponsored by the State Comittee on Hydrometeorology and Environmen-
+tal Monitoring and the Scientific and Technical Society of Agriculture. The con-
+ference revealed that during the last decade great advances have been made in
+determining soil moisture content and in ascertaining the parameters of moisture
+supply for agricultural crops, including the use of remote methods for measuring
+moisture. such as $8? radiometry and aerial gamma surveys. Portable multiparameter
+hygrometers are being readied for production (these are based on measurement of
+
+the electric parameters of the soil); some stations now have neutron hygrometers;
+more attention is being given to computation methods; the drying of soil samples
+
+in a thermostat is being replaced by high-frequency drying. There are still no
+adequate methods or instruments for replacing the thermostat-weight method for
+determining soil moisture content: neutron hygrometers. aerial gasmmxsurveys, SH?
+radiometry and computational methods all have their shortcomings. Different organ-
+izations are striving to upgrade these methods or combine them for achieving better
+results. The reports and communications presented at this conference are to be pub-
+lished in the Transactions of the All-Union Scientific Research Institute of Agri-
+cultural Meteorology in 1982. The next such conference will be held in 1986.
+
+66
+
+IKHI¢IHNC1AI.III£(I€LY
+NOTES FROM ABROAD
+
+Moscow HETEOROLOGIYA I GIDROLOGIYA in Russian No 3, Mar 82 pp 125-127
+
+[Article by B. I. Silkin]
+
+[Abstract] In the journal NEH SCIENTIST, Vol 91, No 1267, 1981, it is reported that
+Doctor Stanley Shannon and his colleagues at the Illinois Hydrological Administra-
+tion have completed a cycle of studies of the interrelationship between aircraft
+flights and weather conditions on the approaches to O'Hare Field. Since the 1960's
+these flights have caused a 102 increase in cloud cover over an extensive area
+along these routes. This has resulted in a definite cooling in Illinois and an in-
+crease in precipitation. 0n the other hand, at nighttime the temperatures remain
+higher and the winters have become warmer.
+
+***
+
+NEW SCIENTIST, Vol 91, No 1274, 1981, reports that by making use of satellite data
+R. Orville and B. Vonnegut have compiled a map of the global distribution of light-
+ning discharges. This phenomenon is virtually absent in the high latitudes and
+quite rare in the middle latitudes, being most common in the equatorial regions of
+the land. It still remains a mystery why lightning is so rare over the oceans.
+
+tit
+
+In another issue of NEW SCIENTIST (Vol 91, No 1267,1981) it is reported that a
+specialist at the Atlantic Richfield Company, R. Currie, has proposed a method for
+superlong-renge forecasting of meteorological conditions on the basis of cycles
+
+of the lunar tidal effect, making use of maximum entropy spectrum analysis. It ap-
+pears that there is a correlation between the 18. 5-year cycle of the maximum of
+the lunar-tidal effect and arid years in the Western United States (although in
+individual cases the drought coincides with the 22-year double cycle of the maxi-
+
+mum in spot-forming solar activity).
+ace
+
+NEW SCIENTIST. Vol 91, No 1267, 1981, reports that world Data Center A on Solar-
+Tcrrestrial Physics at Boulder was threatened with complete shutdown as an econ-
+omy measure, much to the dismay of the world scientific community. Now it has been
+decided that part of the work will be contracted out, which will result in higher
+user cost.
+
+- b7
+
+FOI1OFIIJAI.UCB¢MVLY
+FOR OFFICIAL USE ONLY
+
+OBITUARY 0P rmmm NIKITIC’HNA BLINOVA (1906-1981)
+Moscow METEOROLOGIYA I GIDROLOGIYA in Russian No 3, Mar 82 pp 127-128
+
+[Article by staff of the Board of the USSR State Cosmittee on Hydrometeorology and
+Environmental Monitoring and personnel of the USSR Hydrometeorological Scientific
+'Research Center]
+
+[Abstract] Yekaterina Nikitichna Blinova, corresponding member, USSR Academy of Sci-
+ences, died on 15 Decewer 1981. She was head of the Division of Planetary Atmo-
+spheric Dynamics and Hydrodynamic Long-Range Heather Forecasting at the USSR Hy-
+drometeorological Scientific Research Center. First working (1934) at the Main Geo-
+physical Observatory, she later (1963) moved to the Central Institute of Forecasts.
+Her entire career was devoted to the field of long-range weather forecasting. As
+early at 1943 she published the major monograph GIDRODINAHICHBSKAYA TEORIYA VOLN
+DAVLBNIYA. TWBRATURHYIGI VOL“ I TSBNTROV DBYS'NIYA A‘mOSPERY (Hydrodynamic Theory
+of Pressure Haves, Temperature Waves and Atmospheric Centers of Action), which out-
+lined the first theory of numerical, long-range weather forecasting. In her doctor-
+al dissertation of l9b6 she described how theoretically it was possible to repro-
+duce the really observed distribution of meteorological elements. She inspired oth-
+ers to follow her in advancing the development of the hydrodymmic theory of cli- -
+mate and long-range forecasting. The basis for these investigations was the spec-
+tral approach, applied widely thereafter in many linear models of climate, general
+circulation of the atmosphere and long-range forecasting. She supervised the first
+operational preparation of several variants of long-range forecasts. Ye. N. Blinova
+then proceeded from linear to nonlinear schemes and application of primitive equa-
+tions of dynamic meteorology. During recent years she developed a method for long-
+range forecasting on the basis of discrimination of the "main oscillations" and pub-
+lished an algorithm for solving prognostic spectral equations. A model was proposed
+in which the changes in meteorological elements with time are computed simultaneous-
+ly with the climatic background. All this represents but a fraction of her contrib-
+utions to this field. She was active in the CARP program, being a member of the
+Soviet con-ittee on this program and chairman of the subgroup on numerical experi-
+mentation. Figures: 1. '
+
+108
+
+MWWMY
+OBITUARY 0P SERGEY IVANOVICH SIVKOV (1901-1981)
+Moscow HBTWROLOGIYA I GIDROLOGIYA in Malian No 3, Mar 82 p 128
+
+[Article by a group of comrades]
+
+[Abstract] Sergey Ivanovich Sivkov. docto‘. of geographical sciences, an outstand-
+ing Soviet specialist in the field of actinonetry, died at age 80 on 28 Hay 1981.
+He began his work at Kursk Observatory, advanced through the ranks and served as
+its head during the years 1928-1930. Thereafter he was director of the Tien Shan
+High-Mountain Observatory and Eros 1935 through 1950 was head of the Karadag Af-
+filiate of the Actinonetry Institute. On two occasions he vintered at polar sta-
+tions in the Arctic. Subsequently he laid aside administrative assigmnents and ded-
+icated himself exclusively to scientific research. His publications, 54 in all,
+dealt with such setters as methods for couputing actinoaetric fluxes and inves-
+tigating instrunent performance. Huch of his work is still of practical importance
+in the operation of Soviet and foreign actinomstric services. During his work at
+the Main Geophysical Observatory he wrote (1968) a monograph entitled HETODY RAS-
+CHBTA WISTIK SOLNECHNOY RADIATSII (Methods for Computing claracteristics
+of Solar Radiation) and thereby earned the academic degree of doctor of sciences.
+His final area of research and publication was the investigation of cloud cover
+and radiation. . -
+
+COPYRIGHT: "Heteorologiya i gidrologiya", 1982
+
+S303 - END -
+C80: 1864/9
+
+49
+“WINE“?

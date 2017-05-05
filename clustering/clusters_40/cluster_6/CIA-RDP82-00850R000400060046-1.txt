@@ -1,0 +1,5578 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10069
+23 October 1981
+
+USSR Report
+
+ELECTRONICS AND ELECTRICAL ENGINEERING
+
+(FOUO 11/81)
+
+FBIS FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.8. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OHNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10069
+23 October 19
+
+USSR REPORT
+ELECTRONICS AND ELECTRICAL Euexueeague
+(FOUO 11/81)
+
+CONTENTS
+COMMUNICATIONS, COMMUNICATION EQUIPMENT, RECEIVERS AND TRANSMITTERS,
+
+NETHORKS, RADIO PHYSICS, DATA TRANSMISSION AND PROCESSING,
+INFORMATION THEORY
+
+Detection and Measurement of Narrow Band Radio Signal
+
+Frequency Against Interference Background in
+
+Acoustical Opto-Electronic Spectrum Analyzer.................... 1
+Precise Measuring of Radio Signal Carrier Frequency at Output
+
+of Acoustical-Optical Frequency Gate in Presence of
+
+External Additive Interference.................................. 12
+
+Complex Signal Reception Against a Background of White Noise
+and Spectrally Concentrated Interference Using Parallel
+
+mmelaioOIOOOIIOIOO'OIOODIDIOICOOOOOOOOO'OUIOOIO0.00".0...... 21
+Signal Processing by Means of Magnetoatrictive Transducers........ 29
+
+PUBLICATIONS, INCLUDING COLLECTIONS OP ABSTRACTS
+
+Collection of Papers on Semiconductor Devices and
+MicroelectronicsihltO000.000.0000..0.000000000000000.00000'ODOO. 32
+
+Fundamentals of Designing Microelectronic Bquipment............... 40
+
+Handbook on Calculating Noise-Suppression of Digital Data
+Transmission Systems............................................ 63
+
+Microprocessors................................................... 46
+Multichannel Communications Systems............................... b8
+
+One-Way Computer Storage...”....................uu”noun...” 53
+
+- a - [III - USSR - 213 SET F
+
+ran an" -‘ — V'FI- A‘l' I:
+INDR<OFIWC1AI.lEﬂE(NVLV
+
+Optical Conunicstion Cables......................................
+Planning Automatic Intercity Telephone kchanges. . . . . . . . . . . . . . . . . .
+Radio and Television Transmitting Station Bquipnent......-........
+Solid Magnetic Voltage Converters for Radio Rover Supply. . . . . . . . . .
+Television Data Display Devices...................................
+Theory of Solid State Electronics and Integrated Circuita. . . .. . . . .
+
+Theory and Techniques of Radar Data Processing Against the
+Background Of Interference...........o.u..............o.........
+
+Hideband Analog Col-unication Systens Hith Couple: Signals........
+
+Cryoelectronic Receiving Modules Using Hybrid Infrared Band
+Charge Coupled DCV1CCSosooosooooosoooscooosssousoosaossssososooo
+
+‘5‘
+
+FOR OFFIOAL USE ONLY
+
+55
+58
+62
+65
+67
+69
+
+72
+81
+
+83
+FOR OFFICIAL USE ONLY
+
+COMMUNICATIONS. COMMUNICATION BQUIWT, RECEIVERS
+AND TRANSHI'I'I'ERS. NBTWRKS, RADIO PHYSICS, DATA
+TRANSMISSION AND PROCESSING. INFORMATION THEORY
+
+UDC 621.391.193
+
+DETECTION AND MEASUREMENT OF NARROW BAND RADIO SIGNAL FREQUENCY. AGAINST
+INTERFERENCE BACKGROUND IN ACOL'STICAL OPN-ELEC‘I‘RGYIC SPECTRUH ANALYZER
+
+Kiev IZVESTIYA VYSSRIKH UCHEBNYKJ! ZAVEDBNIY: RADIOELEKTRONIILA in Russian Vol 24,
+No 4, Apr 81 (manuscript received 12 May 80, after revision 1& Oct 80) pp 26-33
+
+[Article by A.S. Gurevich and 6.8. Nakhmanson]
+
+[Text] The analysis of a narrow band radio signal and a
+narrow normal random process by means of an acoustical opto-
+electronic spectrum analyzer is treated. Expressions are
+derived for the detection characteristics and the statistical
+characteristics of estimates of the signal frequency for the
+case of reception against a background of external noise and
+internal interference from the opto-electronic system of the
+spectrum analyzer.
+
+Increasing attention is being devoted to acoustical opto-electronic devices
+
+[1—4] and others at the present time in the design of optical system for inform-
+ation processing. Such devices are acoustical opts-electronic spectrum analyzers
+(ACES). which take the form of a combination of an acoustical Optical processor
+(i0?) and an opto-electronic (OBS), which perform the simultaneous analysis of
+
+the received signals in a wide range of frequency in real time. In this case, the
+quality of the analysis of the received signals (the detection characteristics,
+the precision of the measurement of the signal spectrum parameters) depends sub-
+stantially on the impact of external and internal noise. One of the methods of
+improving signal analysis quality is the choice of the appropriate circuit con-
+figuration for the onto-electronic system.
+
+The reception of a narrow band radio signal and a narrow band random process
+against a background of internal and external noise by an acoustical opto-
+electronic spectrum analyser is treated in this paper, where the circuit of the
+analyzer is shown in Figure l. The detection characteristics and the ultimate
+measurement precision for the center frequency of the spectrum of the received
+signals are analyzed.
+
+FOR OFFICIAL USE ONLY
+the range of frequ
+
+based on the “weighted" mm
+
+(1)
+where 5(1) a Re {coil (Oexp 1' («1,1 ' 93)} is a narrow band radio signal with the
+onplex envelope (Kt) - (“021"“), while
+ith a zero mean value and a c
+
+= I'/2Re {19m “"3.
+' Then the distribution of the light field intensity in
+we output focal plane (5 n of the integrating lens with a focal distance of
+, can be represented in the followingz form [4] no a function of the spatial fre-
+xencies 2 . 2::§ and .3 _ “’1
+“a T sm 95 ~‘TIT V W:
+[(u. v.!)
+
+: 10(“vv~0+lﬂ(un ”'00
+
+2
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+where
+
+ 
+
+ 
+
+a. 5, 0(1 — 7?)!“ ﬂ 1.“: (3)
+
+I
+
+is the signal component of the intensity which carries the useful information on
+the parameters of the received signal;
+
+lu(u V. !)=- (#)sinc'l—‘(
+
+ 
+
+f~ 1—7) "-7) [+-
+
++2Re[e.,...-w.,fw(__) 1H ) MM 3),-4--=H-dx]]
+
+6 ' o (lo)
+(4)
+
+is the interference component of the intensity, the statistical characteristics
+of which, the mean value and the correlation function. have the form:
+
+(In (u. v. 0) - ( EN,” )zsinc‘ liH— If; B (-x—‘L-Lﬂ)el;u-—)(" 3’, dad-1:.
+
+ 
+
+A I
+i (5)
+B, (u,. uz. v‘. v, (,. t9 =- (Eg’aﬂ-ysinc’ 32E- sinc’xgi X
+"D
+r‘ " . x._.-— X ‘ . x -'x
+“Y H W' '—'=-—v—'}B(""*‘—'r‘)x
+X e415"; I‘I‘ll-‘I‘-: "I 4:l"I-‘"d.\-:d.\-:dx,dx. + 2 Re le'iW.-~nll‘-I.)x
+E . I _ {u .r". x D I '3 -
+x‘aﬂ(!,—-%)CIH r JXYaoU('a—V)e3 +)dxX
+5’ o
+0,, - 'u -22): —I(u. —£'
+8(! —.'.— X‘—-X2 el(I V ‘ . .gdxldXI l'
+X 505 I - V ) (6)
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+It is presupposed in expressions (3)-(6) and the subsequent discussion that the
+duration of s(t) considerably exceeds the time it takes the signal to pass through
+the aperature of the ultrasonic light modulator, and the analysis is made for the
+case of complete filling of the light modulator.
+
+When receiving a narrow band normal random process with a zero mean value and a
+spectral density of 5(u-wo), which is concentrate' in the vicinity of «no, the
+apressions for the statistical characteristics of the intensity distribution in
+the plane (5, n) which can be derived on analogy with [3, 4] have the form:
+
+. 7 D
+(1.01- VJ» (E—Lf Brine“;- %—° [sinﬁ— 2 (ad-9%)!-
+. D
+“meg—2* -%-)]' (7)
+Eo‘PHD H
+
+_ ‘
+sine: 3421 {:—° «(arr +
+
+) sinc3.__ ."__'2
+
+B(u,. u:. v,. v:. 1,, '2) a. (T
++ (airman: + (am + 4mm: cos 2». (t. — ta» +
+
+esﬁxfo—v“me—«—*mx
+
+ 
+
+ 
+
+)<e(u.I[ ——-)(x I-‘I:)- “(a -:i’n_)u'-l',]dx.dx.dx,dx‘+
+a. a +u —u) D . m _. __
+x+%;:{[drd-:H. + D";- ‘n" ‘1 'Tl-E-clete" n .m.12’x /
+I, “VT i u_“n“_(.__‘_‘n._‘
+eil ) lib“ (lg—13"“ xv A) [(1 T)! .x | ‘ldx'dx:} . (8)
+me where .
+d?=sinc%(u;:—%-). og=%55(w—m,)dm.
+
+The mean value of the interference component <I,,(u,v.t)>, as follows from expres-
+sion (5). is a steady-state quantity and can be compensated in subsequent opto-
+electronic processing at the output of the opto-electronic transducer [4]. For
+this reason, it can be assumed in the follouing that it is equal to zero without
+losing any generality.
+
+The conversion of optical signals to electrical ones, as was indicated above, is
+accomplished in the (E. n) plane by means of the photodetectors of the
+
+FOR OFFICIAL USE ONLY
+FOI:OFTWC1AI.USE|DNLY
+
+opto—electronic transducer having dimensions of d x dn each, the centers of
+which are spaced along the 0; axis at resolution ntervals of AE - lfL/D. Then
+the electrical signal at the output of the photodetector of the r-th group having
+center coordinates of £1 - in: can be represented in the following manner:
+
+‘ h+%} ("a
+01"(I)=K... S d: S dnl(u.v.t)-i;nu(t), (9)
+‘5';- 4n”
+
+where Knp is the slope of the characteristic of the photodetector; nud(t) is the
+internal noise of the photodetector and the amplifier following it, refigured for
+the input of the latter, which have a zero mean value and a correlation function
+
+of <nm(!.)n,.,(z,)>.sNg,/25(g,_(,)5,,i ; 613 is Kronecker's delta; 6(t1 - :2)
+is a delta function. In the case of Bragg diffraction, the following i eguality
+r
+
+is usually justified: dab/lfL << 1. In this case, the expression for G can be
+represented thusly:
+a!” (t) =. XI wt". 0. t) + My). 3; .. Kn“, . (10)
+Then the signal to the input of the threshold gate can be written as:
+l
+9:"(1) - Sci" (1 ._ mum. (11)
+
+where h(t) - Afe‘Aft is the pulse characteristic of one channel; t3 - H - DIV
+is the moment of the start of registration, corresponding to the filling of the
+aperture of the ultrasonic light modulator with the signal being analyzed. The
+expressions which describe the output effects of the detection unit and the fre-
+quency estimation unit of the resolver Ar of the r-th group. have the form:
+
+ 
+
+2.0) =f§"(t)VEg’V...V§g)(0, (12)
+A = Am, r '0")! II)! = 1, r) 1))
+I, 1"“ 2" H' g 0 {0. p: ( <"' (13)
+
+where an, is the apriori value of the r-th frequency interval, while V designates
+the operation of logic addition. The output signals of the detection and interval
+number estimation units, in which the signal is received, and of the resolver A,
+are written in the following manner:
+
+5 = z, (r) V241) V . . . V2. (1). (14)
+
+FOI.0I1ﬂ(]Al.lﬂiE(HNLY
+FOR OFFICIAL USE ONLY
+
+r- 2,2, (I). (15)
+
+I-l
+
+where I ~
+
+I 1.E§.‘"(l)>l.
+
+2,0) u- ‘f‘
+IQEWm=m
+
+| (-l
+
+i.e., the decision is made that a signal has appeared in the r-th interval when
+Zr(t) > Zthresh and that there is no signal when zr(t) < zthresh' we shall con-
+sider the detection characteristics and the statistical hharacteristics of the
+
+estimates of the frequency and the frequency range when a signal is received in
+the j-th frequency interval.
+
+If the hypothesis H3 (1 - l. ..., k) consists in the fact that the signal being
+analyzed belongs to the j-th frequency interval, the expressions for the false
+alarm probability and the probability of missing a signal (given the condition
+that the hypothesis H3 is correct) can be written-as:
+
+1 .
+
+a
+
+' ' ' S Wn‘+n‘+,..+.. 6/5 - 0) d5, (16)
+
+'1
+Pf.a. - P.1yal—S...S...".
+
+1, _, o
+p, =. 5:5 “7., (p/s al- 0) dp. (17)
+
+where Y is the level of the threshold at the output of the working channels of
+the j-t group: W +n+ +,., (”3-0). is the combined probability density of
+l . s
+
+the output effects of the working channels of the opto-electronic system at the
+input to the threshold gates when no signal is present; Unj(p/s I 0) is the
+combined probability density of the output effects of the working channels of the
+j-th group of the opto-electronic system at the input to the threshold gate when
+
+a signal is present, where the signal being received belongs to the j-th frequency
+
+interval. and the probability of an erroneous decision when the hypothesis 81 is
+correct is:
+
+I 7r .. .I 7 .. .
+P"(H,)=-= E l—S... $17.,(p/s = 0)dp+ JI..I.§W.,(p/s¢0)up._ (13)
+
+error rat -
+
+The expressions for the biases and dispersions of the estimates of the signal fre-
+
+quency and the frequency interval to the which the signal belongs is written as
+follows:
+
+FOI‘OFFHJAI.USE(NVLY
+FIIICHWNCJAI.IEHE(HVLY
+
+(i) - 17.— ;‘1142, 0:". (I9)
+‘-.
+1-! fl
+<7) - gram» - 2:0 (2:)
+a: - 5; 53w. —D.D,1. (22)-
+
+!-| [-1
+
+n ’1 - o
+0:": S WM”)dp‘.m, D, - 1 — f . . . S 17,, (p) dp (23)
+'9! ‘ -.
+
+are the probabilities that the threshold is exceeded at the output of the i-th
+channel of the r-th group and at the output of the threshold gate of the r-th
+group respectively. while:
+
+137‘.” _ j"; SWW)' pt'))dp"’dp|" (24)
+
+is the probability that the threshold is exceeded simultaneously at the output
+of the i-th and j-th channels of the r-th group.
+
+Dr-jl'l‘FS H1§W.,+.,(p)dp—§;§W.,(p)dp—
+
+‘ I 1;! W... (p) dp (25)
+
+is the probability the thep hfesholde of the r-th and j-th group resolvers are
+exce dfd tog hfr; "(Pir) ) is the combined probability density of the values
+of pi: and .55: 9c the output ofjthe i-th nd j-th channels of the r-th group;
+
+r)
+
+wnr+“j(3)- pit , ..., pn 0r ..., png)) is the combined probability
+
+density of the values of the output signals in the channels of the r-th and j-th
+groups. Considering the fact that a narrow band signal is applied to the input of
+the acoustical opto—electronic spectrum analyzer, while the photodetectors are
+spaced along the 0 axis at distances equal to the resolution elements A:, the
+expressions for the statistical detection characteristics, the estimates of the
+center frequency of thc signal and the number of the frequency interval to the
+which the received signal belongs, (16)-(22) can be written as:
+
+H0!‘0FFICJAI.|ISEI(NHLY
+FOR OFFICIAL USE ONLY
+
+P,- :- “0"(01), ).=1,....n,,
+
+n
+(-1
+
+9,, .= 0*" (chunk). i— l. .. .,n,,.
+
+P” (11,.) = i [1 — 0" (a;)] + 0"‘°" (up) a) (02).
+an.
+
+—"—7’-°l =-'ﬂ=‘—"2’}+—'—’Il —m(a;to)1+o(a:-)—a><a:;)— 1.
+.0 U
+
+a2 n (n +l)(2n +1)
+
+’ - ‘0 ’0 'n __ . I. [—0 ‘0‘
+73- ”#2:; 001ml our: )1+ 0(a.,)[ «.91
+ﬂ = l V‘ rll —a:"' (0')] — 0"‘7' (a’v)¢(a‘.').
+
+I. (0 [‘1 l a I.
+2 ' '
+7+ = 6"." (0:90 (am: — o"-" (of-)0 ((2591 + {T S‘ m)" (0;) x
+o 0 1-2-7.
+
+x [I — 0’" (am.
+
+where 20 is the frequency interval in which the signal is received; 10 is the
+number of the responding channel within the interval 10; 0(1) is the probability
+
+integral of [6];
+
+when ‘1? "MI"
+u-'-=...=ag;“"IIEHi¢io.a;=...-a;'=0£"P"'#lo:°§"=£aT—'
+
+a?) - [9:13]" for all i and j of the r-th group;
+
+1’
+r: = (p?) aw," m) - mr’mr’ - VS 83%. LJMT— w (T 4061:“:-
+
+8!? u.. a) = >6 [(1 wt". 0. t.) I M". 0.12)) - <1 (u:". 0.1.» x
+X (I (up. 0. 19)] + 5’2— 6“. ~12) 6.1.
+
+7
+ms" = m" m) = x 3' (1.04". 0. on (T - 0 4'-
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+31? and sir) are the correlation functions 05‘. the signals at the input of the
+i-th and j-gh channels of the r-th group.- a r is the mean value of the signal
+at the output of the i-th channel of the r-th group.
+
+ 
+
+Figure 2.
+
+Key: 1. Detection probability.
+
+To illustrate the results, we shall consider the reception of a square—wave
+narrow band radio signal, s(t) . aocos(uot + 9) with a width of 13 >> ’1‘“ - NV
+and a narrow band normal random process, the spectral density of which is con-
+centrated in the vicinity of the frequency so, against a background of white
+noise with a spectral density of No and the internal noise of the opto-electronic
+system with a spectral density of am. It is seemed in this case that the opto-
+electronic systen contains 100 working channels, broken down into 10 grasps, in
+which case, if it is considered that the spectral noise density along the entire
+frequency is constant, the threshold level at the output of the working channel
+yr is chosen the same. The calculations of the detection characteristics and
+the statistical characteristics of the estimates of the signal frequency and the
+number of the frequency interval to which the received signal belongs were made
+for the following values of the parameters: a false alarm probability P3... -
+- 0.1 and 0.001; a coefficient of ENHD 8 N. - 10. 30 and 100 -
+n‘-[u(-—,x——,L ) 77/1/5561}
+
+at
+
+the ratios of the referenced internal and external noise powers; Quay.“ - Q's
+
+2 C
+_ ”:2: _ ’45” L31] X (N uAf)" . s to 200 - the signal/internal noise ratio.
+1 .
+
+The curves for the detection probability Ydet are shown in Figures 2a, b and c
+as functions of the signal/noise ratio Qnoise for various values of the ratio of
+the external and internal noise power and the false alarm probability P£,a_. the
+solid curves correspond to the reception of a determinate signal, while the
+dashed curves apply to the random process. It can be seen from the nature of the
+curves that the detection probability increases with an increase in the signal]
+[noise ratio QM“; and with a decrease in k (a reduction in the external
+interference power at the input). In the case of an unchanged signal/noise
+ratio Qnoise' an increase in It leads to a reduction in the output signal/noise
+ratio, and correspondingly to a decrease in the detection probability. With a
+reduction in the false alarm probability, the level of the threshold rises, and
+
+non OFFICIAL USE ONLY
+F1)R‘0FFICJAL.UGIZ(NNLY
+
+for this reason. to retain a specified detection probability. it is necessary to
+increase the signal power.
+
+The curves for the relative bias in the estimate of the frequency <f - f0 >fo
+
+and the dispersion ozlfﬁ are shown in Figures 3a, b and c as a function of Q0
+for values of k and Pf.a.. It follows from the nature of the curves in
+
+Figures 2c and 3a that the value of the frequency estimate bias depends substant-
+ially on the false alarm probability and the ratio of the external and internal
+noise powers. In this case. when k > 10, the value of the bias falls off with an
+increase in the signal/noise ratio. As follows from the nature of the curves in
+Figures 3b and 3c. the value of the frequency estimate dispersion has a sharply
+pronounced maximum, which shifts with an increase in k to the region of greater
+signal/noise ratios. This can be explained in the following manner: with an
+increase in the signal power (when the useful signal power is considerably less
+than the external noise power), the noise component of the intensity at the input
+to the opto-electronic syst n, which is due to the interaction of the signal and
+the external noise. increas-s more rapidly than does the useful component of the
+intensity and the value of the frequency estimate dispersion increases. In step
+with the useful signal canpoents starting to exceed the interference components,
+the level of the dispersion reaches a maximum and thereafter begins to fall off.
+
+«1/
+.220 ”/0
+a‘
+
+   
+
+In this case, the greater the external noise power (k increases). the greater
+the signal/noise ratio at which the maximum of the dispersion is achieved. When
+the false alarm probability is reduced (i.e., the threshold level increased), the
+power of the interference spikes decreases, and for this reason, the level of the
+maximum value of the estimate dispersion is reduced. As calculations demonstrate,
+the nature of the curves of the statistical characteristics of the estimates of
+the number of the frequency interval to which the received signal belongs, is
+similar to the behavior of the statistical characteristics of the estimate of the
+frequency of the signals being analyzed, and therefore, these functions are not
+given here.
+
+10
+
+FOR*0FHKJA1.USE(NVLY
+6.
+
+FOI.OF11(JA1.USEINNLY
+
+BIBLIOGRAPHY
+
+Parks, "Akustoopticheskiy priyennik-spektroanalizator detsimetrovogo diapazona"
+("An Acoustical-Optical Receiver-Spectrum Analyzer for the Decimeter Band"],
+ZARUBEZHNAXA RADIOELEKTRONIKA [FOREIGN RADIOELECTRONICS]. 1970, No 12, p 14.
+
+Kulakov S.V., "Akustoopticheskiy ustroystva spektral'nogo i korrelyataionnogo
+analiza signalov" ("Acoustical—Optical Devices for Spectral and Correlation
+Signal Analysia"], Moacow, Nauka Publishers, 1978.
+
+Drakin Ye.V., Auslender A.L.. "K raschetu rabochikh kharakteriatik opticheakogo
+spektroanslizatora s fazovoy modulyatsiyey kogerentnogo svetovogo poto "
+
+["On the Calculation of the Operating Characteristics of an Optical Spectrum
+Analyzer with Phase Modulation of the coherent Light Plux"], VOPROSY RADIO-
+ELEKTRONIKI [QUESTIONS IN RADIOELECTRONICS]. Seriya Obshchetekhnicheskaya
+["Ceneral Engineering Series"], 1974. No 8, p 56.
+
+Nakhmaneon 6.5.. "Tochnost' izmereniye chastoty i ugla prikhoda signalov.
+prinimayemykh antennoy reshetkoy na fone pomekh pri akustoopticheskoy
+obrabotke" ["The Precision in the Measurement of the Frequency and Incident
+Angle of Signals Received by an Antenna Array against a Background of Inter-
+ference in the case of Acoustical-Optical Processing"], IZV. VDZOV. RADIOELEK-
+TRONIKA [PROCEEDINGS OF THE HIGHER EDUCATIONAL INSTITUTES. RADIOELECTRONICS].
+1980, 3;, No 1, pp 3-10.
+
+Fomin A.F.. "Ponekhoustoychivost' sistem peredachi nepreryvnykh aoobahcheniy"
+["The Interference Immunity of Discrete Message Transmission Syetems"],
+Moscow, Sovetakoye Radio Publishers, 1915 [sic].
+
+Tikhonov V.I., "Statisticheskaya radiotekhnika"["Statistical Radio Engineer-
+ing"], Moacov, Sovetskoye Radio Publishers, 1966.
+
+COPYRIGHT: "Izvestiya vuzov SSSR - Radioelektronika", 1981.
+
+8225
+C50: 1860/327
+
+11
+
+FOR OFIICLALIJSE1NVLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.391.193
+
+PRECISE MEASURING 0F RADIO SIGNAL CARRIER FREQUENCY AT OUTPUT 0F ACOUSTICAL-
+OPTICAL FREQUENCY GATE IN PRESENCE OF EXTERNAL ADDITIVE INTERFERENCE
+
+Kiev IZVESTIYA VYSSHIKH UCHEBNYKH ZAVEDENIY: RADIOELEKTRONIKA in Russian Vol 26,
+No 6, Apr 81 (manuscript received 21 Dec 79) pp 46-52
+
+[Paper by 8.6. Katkov]
+
+[Text] It is shown that when a mixture of a signal and noise
+pass through an acoustical-optical frequency gate, a multipli-
+cative component appears in the output signal. Expressions to
+estimate the precision in measuring the carrier frequency of
+radio signals are derived and analyzed.
+
+We shall consider the impact of external additive interference on the precision
+of the measurement of the carrier frequency of radio signals passing through a
+gating deivce designed around an acoustical-optical (A0) parametric four-pole
+network, the generalized schematic of which is depicted in Figure 1. We shall
+assume in this case that the receiving and analyzing equipment is optical for
+the measurement of the radio signal carrier frequency against a background of
+whitenoise.
+
+We shall assume that the input signal s (t) - Re{61(t)}, which is fed to the
+first ultrasonic light modulator (UZMSl , takes the form of an additive mixture
+of the signal s(t)Re{§(t)} and interference n(t) - Re{n(t)}. while a reference
+signal s2(t) - Re(s2(t)} is fed to the input of UZHSZ [ultrasonic light modula-
+tor 2].
+
+Let ultrasonic light modulators l and 2 operate in a Raman-Nata diffraction
+
+mode. It is easy to show [1] that in this case. the monochromatic light wave
+having a plane front, a frequency of ac; and an amplitude of 20. which is normally
+incident to ultrasonic light modulator l, and passes through lenses L1 and L2, as
+well as the spatial frequency filter 0 and ultrasonic light modulator 2, will
+produce a light distribution in the focal plane of integrating lens L3 which can
+be described by the expression:
+
+12
+
+FOItofFKJAI.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+(1) 1 2 (2 3
+:IS. ': z, [w A, U341: ,4,
+H, I {5,19 7
+
+Figure 1.
+
+Key: 1. cats 1 [ultrasonic
+light modulator l];
+2. Ultrasonic light
+modulator 2;
+3. Photodetcctor.
+
+Figure 2.
+
+9 (I. MI: Eel/:1 Re {exP (i0: .0 S ['(29A1;1(V)"‘ Tl" 3:) +
+
+(1)
+
+V1! + Q2, \I
+T
+
++ r (2.) A:£.( I] exp (— M.) 42.}.
+
+where 02 - ~(23/AF3) 21.; X is the wavelength of the light; P1. P2 and F3 are the
+focal lengths of the lenses L1. L2 and L3; 1’ - F2/F1; Q - V1/V2, V1 and V2 are the
+propagation velocities of the ultrasound in ultrasonic light modulators l and 2;
+A and A2 are coefficients which determine the level of modulation of the light
+flux in ultrasonic light modulators l and 2;
+
+I
+r (2,) - r3032) r, (2,) - r‘ (‘3—1’.) r; (2,);
+
+,(2) g. 1- ‘Z'<°'5L, , L is the aperture of the ultrasonic light modulators:
+0. lzl>0.5L .
+
+r; and r2 are the aperture functions of ultrasonic light modulators l and 2.
+
+To simplify the mathematical derivations, we shall assume that the light distribu-
+tion along the at. coordinate is registered by means of one photodetector with a
+square-law response. In this case, the expression for the output current of the
+photodetector can be written in the form:
+
+.-, (I) gamma)! H j r (=3) 9. (V1! — 3,; ;- exp (— w.) dz" dz. +
+
+6-0
+
+-:— 8. (5.1%? ﬂ 3 ,(z,)g,(L;_95=.)exP(_ iwxzs)d:.|:dz.+ (2)
+
+13
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
++ 231(EJ-F1)’A.Agjl j r (293, ( Hgﬁyxp (- n.2,) dz. | x
+
+x] S 42,) s'.( V1! — %) exp (~ I'm.) dz, «12..
+
+ 
+
+where 31 is a dimensional proportionality factor; 6 is the size of the input
+aperture of the photodetector.
+
+In the absence of interference, the first and second terms in (2) describe slowly
+timewise changing electrical signals, which can be filtered out electrically
+(in the load of the photodetector). The third term in (2) (we shall designate it
+
+as 13(t)), which describes the useful component of the output current, can be
+represented in the form:
+
+2 (3)
+r, (z) z 34;, Re ‘ r (2,) r (— z,)s',(v,t — %)§:(1’1‘.3_Q‘_')az, 1} .
+
+Vhél’e B: 3" BI (EJ'FIy: 141.43.
+
+In order to restore the input signal at the output of the photodetector, it is
+necessary to take a 6-function as the reference signal:
+
+%(1“%"—")?°(ﬁ‘;—‘2—")-
+
+Then, considering that r(z3) - r(-z3) - 1. and by selecting the parameters of
+the four-pole network in the appropriate manner. we obtain:
+
+13(1) 2 BM, Re {s', (1)]. (4)
+
+1.2., the current spectrum of the signal s(t) is produced at each point in time
+along the coordinate 24 and the input signal is restored from the output of the
+
+photodector. In practice, one can take a sufficiently short pulse with a wide
+spectrum instead of the 6-function.
+
+we now consider the expression for the photodetector output current in the
+presence of additive interference:
+
+14
+
+FIH!(”Hﬂ(JAl.USE(MVLY
+FOR OFFICIAL USE ONLY
+
+g. (0. ~ B, (5.15;: ,y \ I S r(z,)[s (v,:——)+ h(v,: — %)] x
+
+Xexp (_ [0,“) d2, r dz‘ + 81(501F‘A1)‘ \' I \.- ;(z‘)s-’(T V11. T Qt,
+
+)x
+
+5m.) spat—ilk
+
+X eKP (- iama) dis
+
+ 
+
+’dz. + 28. (EMMA. Y
+
+ 
+
+'Lh(V1‘—%)IQXP(—iwsza)dza“ §r(z.)s(ﬂTT°‘i)exp(—iu.z.wa|dz..
+
+                             
+
+ 
+
+ 
+
+(5)
+The first term in (5) can be represented in the form:
+maze. (5.1mm H 5 rmérw— ")exp(—io.z.)dz 'dz.+
+a _. ‘ T '
++8,(E.AF,A,)’5I ‘ 42,»; ’dz.+ -
++281(£.Ar..4o { [ (2,)s(vr——)exp(—1«.z.)dz.
+x] {r(z.)ri(V.t—%)exp(—iw.z.) dstzal- (6,
+
+Just as in (2). the first and second terms in (6) describe slowly changing
+functions of time. The third term in (6) can be reduced to the following form
+
+by means of simple transformations:
+
+in (0 3 2B, (Eon-311.): AF, Rel J r (2,) r (- 2,); (VJ — it)" ( V.! :2- Qza)dz,}. (7)
+
+ 
+
+As can be seen frcm (7). a multiplicative interference component will be present
+in the output signal. The second term in (5) describes a slowly changing
+
+15
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+function of time. The third term in (S) (we shall designate it as i3(t)) describes
+the sum of the input signal s(t) and the interference n(t).
+
+Thus, when an additive mixture of a signal and interference is fed to the input
+of the parametric four-pole network. the restored electrical signal will contain
+additive and multiplicative interference components.
+
+To realize frequency gating of the radio signals. the light field should be
+registered by means of photodetectors positioned along the 24 coordinate (Figure l)
+and operating in optical heterodyning mode. we shall assume that the photo-
+detectors are placed flush against each other and the dimensions of the input
+apertures of the photodetectors are the same, while the size of the aperture along
+the 24 c-ordinate is many times greater than the current signal spectrum. In this
+case. it can be assumed that at each point in time, the light fluz falls only on
+one photodetector.
+
+The subsequent processing of the electrical signals from the outputs of the string
+of photodetectors is accomplished by means of a multichannel processor, the
+functional schematic of which is shown in Figure 2. The device consists of the
+photodetectors 1, high frequency-amplifiers 2. detectors 3, threshold gates 4,
+resolver 5 and switcher 6. The decision that a signal is present is made in the
+case where the signal from the amplifier exceeds the threshold. The functions of
+the resolver include making a decision concerning the presence of a signal at the
+output of the corresponding channel of the threshold gate. The signals are fed
+from the outputs of the high frequency amplifiers to the receiving and analyzing
+
+equipment.
+
+We shall assume that the internal noise of the photodetactors and amplifiers is
+a great deal less than the additive and multiplicative interference components,
+something which makes it possible to disregard this noise.
+
+Let the input signals and the normal steady-state interference with a zero mean
+value be described by expressions of the form:
+
+. (9)
+5(1) " Us“ (f) Re (“P [I (“’4 + 9U", (10)
+n (o - Re {N (0 exp u (w + v.01).
+“w: LM<T.
+where to is the signal amplitude; 0.|l|:>T' ; T is the equivalent
+
+size of the ultrasonic light modulator aperture; “c and u. are the frequencies
+of the signal and the interference; ﬁ(t) is the complex amplitude of the inter-
+ference.
+
+Taking the spectral width of the interference to be much greater than the
+spectral width of the signal, we represent 113(t) in the form:
+
+in (I) z .MIUJI (0 Re {up [I (ORV)! + W] fl (I. ‘9.- + 03)). (n)
+
+16
+
+FIHICNHWCJAI.USE(HYLY
+FOR‘OFF“JAL.USE(N‘LY
+
+I
+(-
+
+ 
+
+vhere Eu. «o, + and = 3 429%“ 3°")exp(—iw=z.)dz,z on = '3’:
+Expression (11) can be revritten in the fern:
+.3, (o a: v.11 (1) Re {exp [,- (mv; + m] M (1. m. + on». (12)
+
+where in accordance with [2], we shall call M(t.u,+0.¢)-Re {M (t.m,+mu)) the
+interference modulation function. "
+
+The correlation function of the interference modulation function H(t, u; + (on)
+has the form:
+
+. 2 . V“ 0.5!. 0.5:. _ V.r— Q (2’_z;)
+B.(r)20.5M.Relexp(;w,.T) g S B —?—— x
+‘ Jun-«.31.
+
+exp [- i (2: - 2;) (m, + «3,. + 3%)] <12,sz + exp[ [(0. Kg- + 2p. )] x
+
+0.81. 0.
+
+X 4551. ~68: b[ Wily] up [_ “I, + 190‘" + 0’" + 295)]‘1‘3‘4' (13)
+
+where u" f cog/‘71; 3(1’) I Re{i(r)} is the interference correlation function;
+D(r) - Re{D(t)} is the mathematical mean value of the expression Re[N(t) (t-r)}.
+
+If the distribution function for the phase distortion is close to uniform in a
+range of [0, 21:] (this is usually the case). then the function D(r) is close to
+0 [2] and the second term in (13) can be disregarded. Then:
+
+0.5L 0.5L
+
+B.(1)z0.5MfRe{exp(jwn%‘-)j gB[V—'E:£QM]X
+
+.u. 4.51.
+
+X exp [— [(2, — 19(0), + «on + %)] dzadti} - ' (11.)
+
+Utilizing (110) and assuming that the radio signal is received against a background
+
+of white noise. we shall find the expression for the energy spectrum of the inter-
+ference modulation function:
+
+~ ._. Q sin 0.5Lm=(Q+1) '
+G-‘"’"-2'"'”°77|—[Wﬁ)—J‘| ' (15’
+where Mr) - N06(t).
+
+In finding cunt). the fact that for white noise 1.’1(t. u; + wzc/P) - 131(t, mg)
+was used.
+
+In accordance with [2], with a low level of additive and multiplicative inter-
+ference. governed by the condition: 11 >> 1, Biz/oz, >> 1, where u I ZE/No is the
+signal/interference ratio; E is the signal energy, the precision in the measure-
+ment. of a radio signal carrier frequency in the presence of additive and multi-
+plicetive interference is determined by the upreesion:
+
+2~_l_‘ J‘—(3..0.
+0.. “+1 0} (16)
+
+“ T34:
+
+Emimrdv 311$“)th
+
+where T:- =' —;—‘—“ - . - is the mean square width of the signal.
+
+3‘ BMW! jvéml’dl
+
+ 
+
+If the origin for the readout is chosen so that S tfsUH’dl-O.
+
+The“ T3.= K ”hora/f .50)qu (17)
+
+For a signal of the form (9):
+l
+T;- =' TQ'Tt' (18)
+
+Substituting (15) and (18) in (16), we obtain:
+
+,2 (19)
+
+2
+0.:
+
+Til
+
+(3'- + Wig).
+
+"he" - 1",. =- vi ; w = 0.5M*QL.
+
+i
+
+As can be seen from (19). the second term in the parentheses has the meaning of
+the signal/interference ratio for the multiplicative interference component. If
+T/WNo‘I‘ya < u, then the multiplicative interference has the governing influence on
+FOR OFFICIAL USE ONLY
+
+the precision of the measurement of a radio signal carrier frequency as compared
+to the additive component.
+
+The values of oi were computed using expression (19) as a function of Tya for
+various values of u. The signal width was taken as equal to T - 10-3 sec, while
+the parameter "No - S and 50. As can be seen from the graphs shown in Figure 3,
+the level of the multiplicative interference increases with a rise Tya. This is
+explained by the fact that with an increase in Tya, the extent of the mutual
+overlapping of the ultrasonic equivalents of the signal and interference in the
+ultrasonic light modulator aperture increases, something which leads to an increase
+in the power of the multiplicative interference component.
+
+The precision of the measurement of the carrier frequency of a radio signal is
+shown in Figure 4 as a function of the signal width. The equivalent size of the
+ultrasonic light modulator aperture in this case was taken as equal to Tya -
+
+- 10-4 sec while u - 10 and 102. Also shown in the same figure with the dashed
+lines are the curves for.o2.as a function of T in the absence of multiplicative
+interference. As follows from 4, with a decrease in the signal width, starting
+approximately at T 8 10-3 see, the curves for 0% as a function of T practically
+merge for various values of u, something which attests to the increase in the
+influence of multiplicative interference on 0% as compared to additive inter-
+ference. It likewise follows from the graph that with an increase in the signal/
+[interference ratio, the extent of the difference in the carrier frequency
+measurement precision from the potential accuracy obtained in the absence of multi-
+plicative interference increases. This is explained by the predominance of the
+influence (for large values of u) of multiplicative interference on o: as compared
+to additive interference.
+
+   
+
+BIBLIOGRAPHY
+
+l. Kulakov S.V., "Akustoopticheskiye ustroystva spektral’nogo 1 korrelyatsionnogo
+analiza radiosignalov" ["Acoustical-Optical Devices for Radio Signal Spectral
+and Correlation Analysis"]. Moscow, Nauka Publishers, 1978.
+
+19
+
+FOI‘OFFMJAI.USE(NNLY
+M OFFICIAL USE ONLY
+
+2. Kremer I.'{a., Vladimirov v.1. . Karpukhin V.I.,"Hodu11ruyushch1ye pomekhi
+1 priyem radiosignalov" ["Modulating Interference and the Reception of
+Radio Signals"] , Moscow, Sovetskoye Radio Publishers, 1972.
+
+COPYRIGHT: "Izveat1ya vuzov SSSR - Radioelektronika", 1981.
+
+8225
+cso: 1860/327
+
+20 '
+
+FOR OFFICIAL USE ONLY
+FIHICMHWCJAI.USE‘DNLN
+
+UDC 621.391
+
+COMPLEX SIGNAL RECEPTION AGAINST A BACKGROUND OF "BITE NOISE AND SPECTRALLY
+CONCENTRATED INTERFERENCE USING PARALLEL CHANNELS
+
+Kiev IZVESTIYA VYSSHIKB UCHEBNYKB ZAVEDENIY: RADIOELEKTRONIKA in Russian V01 25,
+No a. Apr 81 (manuscript received 2 Jan 80, after revision 9 Jul 80) pp 63-69
+
+[Paper by A.Ye. Ulanov]
+
+[Text] The problem of the analysis and synthesis of a
+multichannel receiver for complex signals in the presence
+
+of normal fluctuating noise and spectrally concentrated
+interference is analyzed. It is shown that if the con-
+centrated interference is nongaussian, the introduction of
+optimal nonlinear processing in the channels impacted by the
+interference leads to an increase in the reception noise
+immunity as a whole.
+
+Protecting a complex signal receiver against a strong spectrally concentrated
+interference (SP) remains one of the important problems in the design of broad-
+band cqnnunications systems.
+
+An effective method of combatting spectrally concentrated interference is
+reception via parallel frequency channels. the basis for which is the principle
+of "whitening" the interference spectrum, proposed for the first time in [l].
+
+The maximum signal/interference ratio which can he achieved at the output of an
+optimal linear combining system, as is well known [2], is equal to the sum of the
+signal/interference ratios in the individual frequency channels.
+
+Actual spectrally concentrated interference has distributions of the instantaneous
+values which, as a rule. differ from a normal distribution. Included among them
+are signals from broadcasting and radio navigation stations, as well as various
+kinds of passive and active jamming.
+
+It is also well known [3] that if the interference is nongaussian. the signal]
+linterference ratio in the channel can be increased by means of inertialess non-
+linear conversion of the input mixture.
+
+21
+
+FOR 0F1ﬁC1Al.lEiE(HVLY
+' FOR‘OFTWCJAI.USE¢DNLY
+
+Because of what has been presented above, the study of the question of boosting
+the noise immunity of the reception of complex signals via parallel channels by
+virtue of optimizing the nonlinear processing in each of them is an urgent issue.
+
+The process at the input to the complex signal receiver consists of the sum:
+
+‘ (1)
+N) = S(0+t(r)+ 2mm.
+
+l-l
+
+S(t) is a determinate. square integrable function, which determines the structure
+of the signal being transmitted; £(t) is additive gaussian white noise; n1(t) is
+a function which defines the i-th spectrally concentrated interference and Z is
+the number of the concentrated interference.
+
+Reception is accomplished using L >> 1 frequency channels with mutually adjacent
+and equal bandwidths, while each channel takes the form of the following series
+circuit: filter-nonlinear element-filter. It is assumed that the input and
+output bandpass filters have the same square-wave amplitude—frequency response.
+
+The input process (1) is broken down by means of the input bandpass filters into
+individual independent frequency samples. As a result, the process at the input
+to the inertialless nonlinear element (BN2) of each c: the channels consists of
+the sum of the frequency sample of the signal and the narrow band interference,
+which in the absence of spectrally concentrated interference in the channel is a
+frequency sample of just the gaussian white noise, and when it is present, takes
+the form of a certain nongaussian random process: an additive mixture of white
+noise and spectrally concentrated interference. Thus, the process at the input
+to an individual partial channel can be represented by the sum:
+
+*3 (0 =' a.(1)003[0..l- 'Puu (I)! + R: (0 C05 [”9“ " ‘7” (1)) (2)
+
+ak(t) and s,k(t) are the envelope and phase of the frequency sample of the signal;
+Rk;t) and opk(t) arg_the envelope and phase of the resulting interference of the
+kuth channel (k - 1,L); “3k is the carrier frequency of the signal, which coin-
+cides with the center frequency of the input filter for the k—th channel, while
+”pk is the carrier frequency of the resulting interference, which in the general
+case does not match ugh.
+
+we shall further hypothesize that the envelope of the interference in each
+channel has a Nakagami distribution [6]:
+
+WU?) =- r—fﬁ(%)mRm" “pg—7’; R’} . R>0. (3)
+
+The Nakagani distribution is convenient in that when m - 1, it changes to a
+Rayleigh distribution (gaussian interference), and when m > 1. is a good
+
+22
+
+'NHICHHWCJAL.USE(HVLY
+FOR OFFICIAL USE ONLY
+
+approximation of a Rice distribution, i.e.. the distribution of the envelope of
+the sum of the gaussian narrow band process and the quasihamonic oscillation with
+a constant amplitude and arbitrary phase. which is called the nonguassian inter-
+forence component in the following. Distribution (1) makes it possible to analyze
+all of the characteristic statistical situations which arise in the individual
+frequency channels. from the case of interference with a probability density
+
+having maximum entropy (gaussian noise), to the case of interference with minimal
+entrow (harmonic interference where m - Is).
+
+Using the criterion of the signal/interference ratio, we shall treat the analysis
+and Sngthesis of one network section given the assumption that the desired non-
+
+linear characteristic cf the inertialless nonlinear element is approximated by
+the binomial:
+
+' [(X) - cl (X + Cg"). (1')
+where :1 and c3 are certain coefficients.
+
+The charactertstic (1-) is convenient in that on one hand, it is easily realized
+and is "minimally nonlinear" in the sense of generating the amber of combina-
+tion harmonics. and on the other hand, in accordance with [3,5]. is a good approx-
+inmt ion of the optimal nonlinear functions obtained when solving the general
+proﬁle-n of structural synthesis for nongaussian interference, which is neat fre-
+quen:ly encountered in radio engineering practice.
+
+By substituting (2) in (lo), we will find the process which is concentrated in
+the first spectral band:
+
+MX) = «{II + %c.<a'+ 2R6] aces («u—«m %c.R*aeosx
+
+-L
+
+X [(30), - 0),)! — 2% + ‘13.] + %c:a’R cos [(2u,-a),,)t — 2p, + in] +
+
+3 (s)
++[1+ T«surez—2cm]Ream—<9») . .
+
+Her» and subsequently. the K subscripts are omitted.
+
+In c::‘nunIC.1'.'lons systems with angular modulation, that portion of the output
+frequency tux). which repeatcs the phase structure of the signal at the input,
+must ‘2.» equated to the useful signal at the output of the inertialless nonlinear
+
+elem-at. The first ten in (5) satisfies this condition:
+3 .
+5c“: :j..s_"(:) —= c' l + Tc,(a’+2R’)Jacos(o,t—o,). (6)
+23
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The renainint terns of the sum (5) make a contribution to the output interference.
+We shall find the amount of "system gain", defined as the ratio of the average
+
+signal and interference powers at the output, normalized for the analogous value
+at the input [6]:
+
+A ' ('37. gag/(5th; (7)
+
+Since the output signal amplitude is a random quantity, the output signal power
+must be determined as the square of the average over the entire set:
+
+0 - Q... = g-cfa=((a*+2kz)%c,+1>a (8)
+
+3 out
+
+The corner braces 0 indicate averaging using distribution (3).
+
+We shall define the output interference power as the difference:
+
+(9)
+0.33% =' ("1(‘0 — 2mm?)-
+
+By carrying out the averaging and substituting (8) and (9) in (7), we obtain:
+
+. 3 ,
+|I+;c,(a‘+2ml
+A-
+
+1+ %c.(m:9+ 2a9+%—c§(m.m+ 5a*m.9+ 5d). (10)
+
+m,-l+7nl—; m,—l+%+-:7: cam).
+
+The probl- of synthesizing the inertialless nonlinear element characteristic
+
+reduces to the deter-.Iination of oz, which maximizes (10). By studying (10) for
+the maximum. we find:
+
+# _ (Qt ‘— qe) 1: VW‘ "’ 0:), " (414‘ - 984)) (Q) — qt)
+(4:4. — 4.0..) '
+q. = ; ("1:9 + M): q. - T96— (ms? + Saw? + 5c):
+
+a. - %(a*+ 29): q. = % («28+ 29r-
+
+210
+
+*FICIALUSEONLY
+‘ FOR OFFICIAL USE ONLY
+
+The small signal case, where the signal/interference ratio at the input is
+a - aZ/n << 1, is of the greatest practical interest, and then:
+
+'4 A. . (ll)
+
+ 
+
+1" (5a- W ' (12)
+
+By substituting (12) in (10), we have:
+
+A - “-2”!
+"" 1-2Mnl.+5)+7~3(m+5m.a)'
+
+When m - 1 (gaussian interference). lo - 0, “max - l, i.e., the nonlinear charac-
+teristic degenerate: into a linear one. When n >> 1; lo - l + 0.5m; Ana: -
+
+- m/(l + no) >> 1, i.e., a considerable gain is observed because of the suppres-
+sion of the nongaussian interference component.
+
+In case the signal is masked by the nongaussian interference component and with
+a large signal/noise ratio at the input (nu >> 1), Auix . l/o. This actually
+means that the cross-modulation product of the signs and interference, observed
+at a frequency of (2 - uh), the power of which is equal to the signal power,
+makes the major contr ution to the output interference.
+
+when the signal is much less than the gausaian component of the interference
+
+(ms << 1), the gain is “max - m. Consequently, along with the suppression of the
+nongaussian interference component, a decrease in the signal/noise ratio by a
+factor of two is also observed.
+
+Formula (10) characterizes the gain with the assumption that the output filter
+passes all of the output process components without distortion.
+
+However, if the carrier frequency of the spectrally concentrated interference,
+-, does not coincide with the center frequency of the filter, on (frequency
+m snatched interference), the "generalized system gain" of [6] will be even
+greater by virtue of the suppression of the spectral components of the
+"combination" noise which falls outside the "transmittance passband" of the
+output filter.
+
+In the general case, the c2 inertialless nonlinear element parameters depends
+not only on the power parameter of the interference 9, but on its distribution
+
+parameter m. However, this has an impact on the conversion result only for
+small values of m.
+
+25
+
+FOR OFFICIAI.USEIMVLY
+SKIICIHHCJAI.IISE:(MVLV
+
+   
+
+Figure 1.
+Figure 2.
+
+Key: 1. F11 [input bandpass
+filter 1];
+
+2' Egggeitnirtialess nonlinear The analysis and synthesis of the
+' , nonlinear elements performed here
+2' :§1[£:::::§ :22:::?? filter 11’ having the characteristic (4) demon-
+5' FlL [input bandpass.filter L strated that with the action of non-
+(L is the number of channels)]- gaussisn spectrally concentrated
+6 AK-l [channel analyzer 1] ’ interference, the signal/interference
+
+ratio in a channel in the case of
+optimal nonlinear processing increases
+by a factor of A. because of the
+suppression of the nongaussian component of the concentrated interference, which
+exceeds the level of the signal and fluctuating noise. Since this result can be
+no further improved by means of any kind of conversion, subsequent processing
+reduces to the optimal linear combining of the outputs of all of the channels
+with weights of (2]: Clk - Sp out/Q k. where 5k out is the signal component. ka
+is the interference power at the on put of the k-th channel. In accordance with
+(ll), it follows from (6) that c11 < 0 in the channels'impacted by the concentrated
+interference, since in these channels. s1 out < 0, and conversely. c11 -
+
+n ailQi in > O in those channels where there is no interference.
+
+A block diagram of the adaptive multichannel nonlinear filter is depicted in
+Figure 1. It contains L channels, in each of which there are input P1 and
+output F2 bandpass filters, controlled by the inertialless nonlinear element and
+a variable gain amplifier. The analyser of the channel (AK-l) identifies the
+channels impacted by the spectrally concentrated interference. In the channels
+where is no interference, the nonlinear circuit of the inertialless element is
+disconnected (linear mode). In the remaining channels. the parameters of the
+inertialless nonlinear element are adjusted in accordance with the adopted
+algorithm (the nonlinear mode). The channel analyzer (AX-2) performs the analysis
+of the voltage readouta at the outputs of the bandpass filters and establishes
+the weights with which the voltages are entered into the common sun.
+
+He shall give the calculation of the reception noise ﬂmnunity using parallel
+channels, taking into account the subsequent processing of the complex signal
+
+in a matched filter (8?) in two extreme cases: a) The concentrated interference
+is an independent sine wave which is not amplitude modulated; b) All of the
+interference takes the form of gauasian oscillations with rapidly changing
+amplitudes, and have identical dispersions while their total power is constant.
+
+26
+
+FVHICHWHCIAI.USE(MVLY
+FOR OFFICIAL USE ONLY
+
+It is assumed that the signal and the signal and the noise have uniform spectral
+densities in the passhand occupied by the complex signal.
+
+We shall introduce the coefficient Au, which characterizes the degree of supo
+pression of the "combination" noise as a function of the degree of tuning mismatch
+between the carrier frequency of the concentrated interference and the center
+frequency of the filter: Auk - [kph - «Okl. In the absence of interference and
+in the case of its maximum frequency difference, 1k - 0, since Auk I Ink - uk+1l.
+Then the maximum signal/interference ratio at the output of the optimum combining
+system is equal to:
+
+ 
+
+L
+C - -\‘ 2A- C ‘
+“'12.; 35: ;—.. ("it ‘1”
+
+It is not difficult to show that in case (a), the ratio Q2“: at the output of the
+matched filter. in accordance with (13), is equal to:
+
+I l l
+2;; =(*-r+r2-’:+z.)”za'
+
+q§n is the signal/noise ratio at the receiver input; 3 is the complex signal
+base [7].
+
+As is well known [7]. the maximum signal/interference ratio is achieved in the
+case of ideal coherent compensation for the interference and is equal to:
+
+o _ 2
+Qaax 23411“.
+
+The curves for the ratio qguc/ 2 are plotted in Figure 2 as a function of the
+number of impacted channels Z/L or three values of Au - 0, 0.5 and l (u I 1:15
+are the solid lines. The maximum disadvantage of adaptive nonlinear filtering
+
+as compared to ideal compensation amounts to 3 dB in all when Z/L - l and A” - 1.
+When Au - 0, an adaptive nonlinear filter is not inferior to an ideal interference
+
+compensator.
+
+Curves borrowed from [8) are shown in Figure 2 with the dashed lines for compar-
+ison with other well known reception methods. Straight line 1 corresponds to
+reception directly with the matched filter. Function 2 characterizes the noise
+immunity of a quasi-optimal amplitude equalizer with rejection of the spectrally
+concentrated interference, while curve 3 is for an adaptive linear filter. It
+can be seen from the graph that the gain in the reception noise immunity for the
+case of optimal nonlinear processing in the channels has a more substantial
+effect at greater values of l/L. i.e.. in the case of greater saturation of the
+radio channel with concentrated interference, something which is quite important.
+
+27
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+In case (b) and with optimal processing, the signal/interference ratio at the
+matched filter output coincides with the signal/interference ratio at the output
+of the linear adaptive filter, since c9a - 0, k - l L (curve 3).
+
+It should be noted in conclusion that in a real interference situation, which is
+characterized by the presence of concentrated interference with different statis-
+tical properties, one can substantially boost the reception noise humunity using
+parallel channels by virtue of optimizing the nonlinear processing in each of
+
+the channels. One of the design solutions can be the algorithm for adaptive
+nonlinear filtering found in this paper. which makes it possible in a number of
+
+cases to obtain a result close to ideal compensation for spectrally concentrated
+interference.
+
+BIBLIOGRAPHY
+
+1. Kotel'nikov V.A.. "Teoriya potentsial'noy pomekhoustoychivosti“ ("Potential
+Noise Immunity Theory"], Moscow, Gosenergoizdat Publishers, 1956.
+
+2. Andronov 1.8., Fink L.M., "Peredacha diskretnykh soobshcheniy po parallel'nym
+kanalam" ["The Transmission of Digital Messages via Parallel channels"). Moscow,
+Sovetskoye Radio Publishers. 1971.
+
+3. Antonov 0.3.. "Optimal'noye obnaruzheniye signalov v negaussovykh pomekhakh.
+Obnaruzheniye polnost'yu izvestnogo signala" ("The Optimal Detection of Signals
+in Nongaussian Interference. The Detection of a Completely Known Signal"].
+RADIOTEKHNIKA I ELEKIRONIKA [RADIO ENGINEERING AND ELECTRONICS]. 1967, 12.
+
+No A, p 579.
+
+6. Tikhonov V.I.. "Statisticheskaya radiotekhnika" ("Statistical Radio Engineering"],
+Moscow, Sovatskoye Radio Publishers. Moscow. 1966.
+
+S. Antonov 0.Ye. Ponkratov V.S., "Podoptimal'noye obnaruzheniye slabykh signalov
+na fone amplitudno-chastotno-modulirovannykh pomekh" ["Suhopcinal Detection of
+Weak Signals Against a Background of Amplitude and Frequency Modulated Inter-
+ference"], RADIOTEKHNIKA I ELEKTRONIKA, 1975, 20. No 1, p 182.
+
+6. Zyuko A.G., "Pomekhoustoychivost' i affektivnost' sistem svyazi" ["Noise
+
+Immunity and Efficiency of Communications Systema"], Moscow, Svyaz' Publishers.
+1972.
+
+7. Tuzov 5.1., "Statisticheskaya teoriya priyema slozhnykh signalov" ["The
+Statistical Theory of Complex Signal Reception"]. Moscow, Sovetskoye Radio
+Publishers, 1977.
+
+8. Barakin L.Ye. "Pomekhoustoychivost' sistem svyazi s shumopodobnymi signalami"
+(“The Noise ﬁnnunity of Communications Systems with Pseudonoise Signals"],
+ELEKTROSVYAZ' [ELECTRICAL COMMUNICATIONS]. 1979, No 1. p 42.
+FIHICNNWCIALIJSE(NVLY
+
+' UDC 621.376.55
+SIGNAL PROCESSING BY MEANS OF HAGNETOSTRICTIVB TRANSDUCERS
+
+Kiev IZVESTIYA VYSSHIKB UCHEBNYKB ZAVEDENIY: RADIOELEKTRONIKA in Russian V01 26,
+No 4. Apr 81 (manuscript received 3 Jan 80) pp 98-99
+
+[Paper by V.P. Garmash]
+
+[Text] Functional electronics devices are widely used in modern radioelectronics
+[1]. Such devices include magnetostrive transducers. for which any parameter
+which governs the conversion efficiency is nade variable along the direction of
+nave propagation [2].
+
+The mechanism for generating the pulse characteristic of a pair of magnetostric-
+tive transducers is shown in Figure l.
+
+A waveguide made of a material which posseses the magnetoetrictive effect and is
+magnetically biased by virtue of an internal or external magnetization, is
+depicted in Figure la.
+
+The input and output transducers are made in the form of single turns 1 and 2.
+Hhen a current pulse (delta-pulse) is fed to transducer 1, a mechanical stress
+wave o0 appears by virtue of the nagnetostriction effect. which in passing by
+transducer 2 excites a voltage pulse e in the latter. If the conversion effect
+is the same at all points in the waveguide, then assuming the position of the
+transducers to be variable, we obtain: e' . e(t - x/v - y/v - L/v), where v is
+the wave velocity.
+
+If the transducer is made in the form of a coil with a variable pitch, then the
+e.m.f. enclosed between planes spaded dy distance apart on a portion of a turn
+will be: de - Hye'(t - x/v - y/v)dy. where H, is the tangent of the slope angle
+of the turn (or what is the same thing. the winding density). The sign of ﬂy is
+determined by the direction of rotation of the coil. The e.m.f. from one turn
+of the input transducer is equal to:
+
+In
+
+t. - S IF; (I — xlo — y/e) 454.
+is
+
+29
+
+F0R10FFKJAI.USE(NVLY
+FOI*OFIICJAL.USE(MVLY
+
+In an analogous manner, when using a complex winding at the input transducer,
+the expression for the total e.m.f., is:
+
+'I in
+e — { “my, (I — x/v— 11/0)de (1)
+‘I 'I
+
+The functions "x and "Y are by definition real quantities. By equating expression
+
+(1) to the requisite pulse characteristic E(t),w obtain the equation for the
+determination of "x and ﬂy.
+
+Thus. the functions UK and Hy realize the linear conversion of the signals e(t).
+Assuming that "y is specified, we obtain the simpler function:
+
+I, 2
+r u S W‘(' (I — slows. ( )
+
+The pulserresponse has been recorded for transducers made in the form of single
+turns and placed on a waveguide made of 015 an [decimal point not given in
+
+original] wire. Siasing of the transducers was used to make the form of s(t)
+independent of x and y.
+
+The calculated and experimental pulse characteristics of a pair of magneto-
+strictive transducers with a specified distribution of terms ("y and "3) are
+shown in Figure 2. The good agreement makes it possible to conclude that there
+is high precision in the correspondence of the physical and mathematical models
+of magnetostrictive transducers with "long" coils.
+
+ 
+
+no w'
+TEE-TE? ‘ ' v .
+a .
+(a) _ , t
+a L” $4 '
+(b) J ”” em-
+experiment
+Figure 1. Figure 2.
+BIBLIOGRAPHY
+
+1. Soldatenkov V.A.. Svistunov Yu.A.. "Punktsional'noye ustroystvo - progressivnoye
+napravleniye mikroelektroniki" [“The Functional Device - A Progressive Trend in
+Microelectronics"). Moscow. Sovetskoye Radio Publishers, 1970, 11 pp.
+
+30
+
+FOR‘OFFKJAI.USE{MVLY
+FOR(MWHC1A1.USE(NVLY
+
+2. Gsrmash V.P., "Korrektsiya impul'sa nasnitosttiktsionnoy linii zaderzhki,
+primenysyemoy v sistemakh obrabotki informatsii" ["Pulse Equalization for
+A Magnetostrictive Delay Line Used in Data Processing Systems"]. Paper
+deposited in the TsNIITtls, No. 21-83-89, 1972.
+
+3. Zskhar'yashchev L.M., "Konstruirovsniye liniy zaderzhki“ ["The Design of
+Delay Lines"], Moscow. Energiys Publishers, 1972, 192 pp.
+
+COPYRIGHT: "Izvestiya vuzov SSSR - Radioelektronika", 1981.
+
+8225
+C50: 1860/32?
+
+31
+
+FOR OFIWCIAI,UGIZ(H§LY
+FOR OFFICIAL USE ONLY
+
+PUBLICATIONS , INCLUDING
+COLLECTIOﬂS 0F ABSTRACTS
+
+UDC 621.382
+
+COLLECTION OF PAPERS ON SEMICONDUCTOR DEVICES AND HICROELECTRONICS
+
+Kiev POLUPROVODNIKOVAYA TEKHNIKA I HIKROELEKTRONIKA: RBSPUBLIKANSKIY
+MEZHVEDOHSTVENNYY SBORNIK in Russian No 33, 1981 pp 103-107
+
+[Annotation and abstracts of papers in the collection "Semiconductor Engineering
+and Microwave Electronics: Republic Level Interdepartmental Collected Papers".
+Editor-in-Chief S.V. Svechnikov. Ukrainian SSR Academy of Sciences. Institute of
+Semiconductors, Izdatel'stvo ”Naukova dunka"]
+
+[Text] Papers on the components of radio electronics equipment as well as opto-
+electronics and microelectronics devices based on semiconductors and dielectrics
+are printed in the selection. The designs of new semiconductor devices, nonlinear
+systems and multilayer structures are described. Data are given on the properties
+of the various semiconductor materials and film systems. The steady-state charac-
+teristics of semiconductor devices are analyzed; the influence of various actions
+on the characteristics of the seaiconductor devices is discussed.
+
+The book is for scientific staff neabers, graduate students and engineers working
+in the field of semiconductor technology and microelectronics, as well as students
+in the advanced courses of physics and radio physics departments.
+
+UDC 621.382.2+0.0001.5+S39.293.536.5
+
+PROPERTIES or A SEMICONDUCTOR MATERIAL uses IN nos mmrsn CIRCUIT anemones
+(SILICON)
+
+[Abstract of paper by Litovchenko. V.G.]
+
+[Text] The characteristics of silicon material used in integrated circuit elec-
+tronics are analyzed taking two factors into account: structural defects (predom-
+inantly point defects) and oxygen impurities. The specific features of the
+behavior of the properties of silicon plates are noted for the case of thermal
+action. high temperature oxidation, the influence of the dielectric layer (oxide,
+nitride) at the surface and a comparison of various types of defects is made with
+the qualitative indicators for various types of devices. Figures 10;
+
+references 60.
+
+32
+
+FOR 0F1ﬂ€1Al.USE2(HiLY
+FOR‘OFFNJAI.USE(MNLY
+
+UDC 621.382
+FIELD EFFECT MEMORY TRANSISTORS WITH ELECTRICAL UNIPOLAR DATA REHRITE
+
+[Abstract of paper by Dobrovol'skiy, V.N., Nevyadomskiy, V.I., Ninidze, 8.x. and
+Yarovoy. 8.1.]
+
+[Text] Field effect insulated gate memory transistors are surveyed. in which the
+data write and erase are accomplished by electrical unipolar voltage pulses. The
+various structures of such devices are described. the physical processes occurring
+in them are treated and the parameters are indicated. when designing memories,
+the use of these transistors can substantially simplify the solution of circuit
+design problems as compared to the case where transistors are used with different
+polarities for writing and erasing. Figures 8; references 68.
+
+UDC 621.315
+
+A STUDY OF THE METALLIZATION 0F MOS STRUCTURES BY MEANS OF SECONDARY ION MASS
+SPECTROMETRY
+
+[Abstract of paper by Didenko, P.I., Msrchenko, R.I. and Romanova, G.F.]
+
+[Text] The results of a study of the physical and chemical state of the Al-SiOz-Si
+system using secondary ion mass spectrometry are generalized. It is shown that
+
+the nature of the energy distribution of secondary ions for the major components of
+the mass spectrum depends substantially on the planar inhomogeneity of the separa-
+tion boundary between the metal and the dielectric. The degree of change in the
+structure of the dielectric film depends on the method of applying the metal
+electrode. something which is reflected in a change in the degree of hydration and
+the electrical strength of the SiOz layer. A structural model of the Al-Sioz-Si
+system is discussed. Figures 5; references 9.
+
+DEC 621.383.6
+
+PARAMETERS OF AN EQUIVALENT CIRCUIT 0P SANDHICN STRUCTURES BASED ON LIGHT
+SENSITIVE FILMS OF CADHIUM SULFOSELENIDES
+
+[Abstract of paper by Kaganovich, E.B., Maksimenko, Yu.N. and Svechnikov, S.V.]
+
+[Text] The resistance and reactances of an equivalent series circuit for two
+types of light sensitive sandwich structures are studied as a function of fre—
+quency. bias voltage and illumination. The first type of structure is fabricated
+using CdSe films deposited in a vacuum; the second is based on CdS powders with
+binders precipitated in a centrifuge.
+
+It is shown that the real component of the impedance decreases with a rise in the
+frequency (200 to 2 - 105 Hz) from the value of the direct current resistance to
+a value close to the contact resistance. The existence of regions of working
+
+33
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+parameters is established (frequency. bias voltage, illumination), in which the
+equivalent resistance in light exceeds its dark value. A sharp rise in the equiva-
+lent capacitance is observed as compared to the geometric values in step with
+increasing illumination and bias voltage at low frequencies. The conclusion is
+drawn that the equivalent circuits are different for the two types of structures.
+Figures 4; references 4.
+
+BBC 621.315.592
+MEMORY EFVECTS IN MOS STRUCTURES DUE TO THE ACTION OF RADIATION
+
+[Abstract of paper by Kiblik, V.Ya., Lisovskiy, I.P., Litvinov. R.0. and
+Litovchenko, V.G.]
+
+[Text] The characteristics (sign. density, localization) of a charge incorporated
+in a dielectric means of radiation. as well as the parameters (density, energy
+distribution) of the surface states of a Si-Sioz separation boundary created in
+HOS structures by gamma and ultraviolet (UV) radiation are studied by means of the
+volt-faraday and the volt-ampere functions of the photoemission and contact
+potential difference. The analysis of the results obtained and their comparison
+for the cases of various kinds of radiation and irradiation conditions makes it
+possible to draw definite conclusions concerning the specific features of the
+formation and charge of electrical memory centers. Figures 7; references 13.
+
+UDC 622.383.52
+
+POSITIONALLY SENSITIVE PHOTOCELLS BASED ON CHALCOGBNIDB TYPE CADHIUH (ZINC)
+COPPER-CHALCOGENIDE HETBROSTRUCTURES
+
+[Abstract of paper by Komashchenko, V.N. and Nedostup, V.N.]
+
+[Text] The properties of positionally sensitive biphotocells (PChF) with a trans-
+verse photoelectric effect are described, where these are fabricated based on
+thin film polycrystalline chalcogenide type heterostructures of cadmium (zinc)
+copper-chalcogenide. It is shown that the positionally sensitive photocells which
+were studied are characterized by a large dynamic range of the travel character-
+istic and high values of the slope of its linear portion. high resolving and
+detecting powers, as well as an operational speed, low temperature and timewise
+drift which are independent of the illumination of the light probe. Their fabri-
+cation technology ia rather simple and economical. It allows for the fabrication
+of positionally sensitive photocells with a preset region and shape for the
+spectral sensitivity, as well as photosensitive elements of various shapes and
+sizes. Figures 2; tables 1; references 12.
+
+34
+
+FOR 05‘1C1Al.USEiMNLY
+FOIIOFTWCIAL USIZCNULY
+
+unc 621.382}!
+on oprmzmc was nmrm mom m scam-m snowman DIODES
+
+[Abstract of paper by Al'perovich. Ye.A., Bochsrnikov, H.Ya., Vol'fson, E.Ye..
+Panichevskays, V.I., Rozhdestvenskiy, G.F. and Strikha, V.I.]
+
+[text] The optimum height of the Schottky potential barrier is calculated by
+working from a minimum of the power dissipated in Schottky barrier power diodes.
+The influence of the parameters of the saiconductor, the inf-r.‘mediate layer and
+the metal-semiconductor (PP) separation boundary on the optimum barrier height is
+analyzed. It is shown that by appropriately changing the parameters of the
+
+model for the metal-semiconductor contact. the parameters of the rectifier diodes
+can be adjusted. Figures 4; references 2.
+
+UDC 621.382.2.029.64.001
+
+THE INFLUENCE OF BORON ION DOSAGE ON THE ELECTROPRYSICAL CHARACTERISTICS OF
+IN-CNANNEL SAPPHIRE MOS TRANSISTORS
+
+[Abstract of paper by Lokshin, H.H., Lyashenko, A.P. and Pelepets. P.I.]
+
+[Text] The threshold voltage, drain-substrate breakdown voltage and drain-source
+leakage currents of n-channel Hos transistors on sapphire are stuided as a func-
+tion of the dose of boron ions implanted in the channel region. The experimental
+results are compared with the calculations. Figures 3; references 10.
+
+"DC 621.383.2
+
+A STUDY OF THE ELECTROPHYSICAL PROPERTIES OF AN 31-8102 SYSTEM OBTAINED BY THE
+OXIDATION OF SILICON IN HATER VAPORS
+
+[Abstract of paper by Denisyuk. V.A., Panin, A.I., Popov. V.H. and
+Sukhostavets, V.H.]
+
+[Text] The volumetric generation lifetime 18°. the effective generation lifetime
+18¢, the rate of surface generation of minority carriers 58' the density of struc-
+tural defects with poor dielectric strength (NDP) in the oxide as well as defects
+with an anomalously high generation rate (AVSG) of minority carriers in Si-SiOz
+systems are studied where these systems are obtained by oxidizing silicon in
+water vapors in a temperature range of P - 800 - 1.000 'C. In samples obtained
+with T a 900 °C, and stabilized PSS's [not further defined], the least generation
+activity level was established (r80 = 1.2 ~ 10'5 sec; 88 = 10 cm ' sec“ ). the
+minimum density of defects with a poor dielectric strength was found as well as a
+lack of the formation of centers with an anomalously high rate of minority carrier
+generation. Figures 3; references 17.
+
+35
+
+FOR.0F11(JAL USIICNNLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.315.592
+
+SPECIFIC FEATURES OF THE RECOMBINATION PROPERTIES OF LARGE DIAMETER SILICON
+BARS, USED IN HICROELECTRONICS
+
+[Abstract of paper by Litovchenko, N.H,, Il’chishin. V.A. and Aleksandrov. V.T.]
+
+[Text] A comparative study is made of the recombinationsl properties of large
+and small diameter silicon bars obtained by Czochralskiy's technique which contain
+oxygen in a concentration of about 1018 cm-3.
+
+it is shown that recombination in large diameters bars is controlled by oxygen
+complexes which lead to a substantial difference in the lifetimes of electrons and
+holes. The concentration of recombination centers in such rods is substantially
+nonuniform over their diameter. Figures 1; references 5.
+
+UDC 021.315.592
+
+THE INFLUENCE OF SURFACE TREATMENT ON THE SPECTRAL DISTRIBUTION OF THE PHOTO-
+SENSITIVITY 0P Cd0,2Hdo.8Te CRYSTALS
+
+[Abstract of paper by Vlasenko, A.I., Matsas, Ye.P., Lyubchenko, A.B.,
+Sal'kov. Ye.A. and Shachenko. A.V.]
+
+[Text] The spectral characteristics of the photoconductivity of Cdo.zﬁgo.gTe
+crystals are studied where various surface treatments are used for the purpose
+
+of ascertaining the possibility of controlling their photosensitivity in a region
+of from 2 to 14 micrometers. The treatments utilized have a substantial impact
+
+on the signal amplitude and the form of the photoconductivity spectrum, where a
+correlation 13 observed between a decrease in the signal at the maximum photosensi-
+
+tivity and an increase in the photoeonductivity in the short wave region. It is
+shown that the minimum surface recombination rate of S - 350 cm/see is observed
+in crystals with electrically polished surfaces; all other treatments lead to
+
+a value of S and order of magnitude or more greater than this level. It is
+presupposed that the bulk lifetime in the surface layers of the crystals being
+studied is not constant and depends on the surface treatments to qualitatively
+explain the effects observed. Figures 1; tables 2; references 14.
+
+UDC 621.384.3
+
+THE CONVERSION OF INFRARED TO VISIBLE RADIATION BY ELECTROLUHINESCENT p-n
+STRUCTURES BASED ON CALLIUN PHOSPHIDE
+
+[Abstract of paper by Lyubchenko. A.V., Puzin. 1.3. and Sal'kov, Ye.A.]
+
+[Text] The possibility of converting the IR radiation of low power 602 lasers
+(in - 10.6 um) to visible radiation (Am - 0.7 pm) by means of industrial p-n
+structure light diodes based on gallium phosphide is reported. The conﬁersion
+
+effect is based on the temperature dependence of the electroluminescence intensity
+of the light diode structures and consists ina sharp increase in the radiation
+
+36
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+intensity of the latter with the action of IR radiation. The effect is observed
+at room temperatures. Figures 4; references 16.
+
+UDC 621.382.2
+
+THE INFLUENCE OF GAMMA RADIATIW ON THE VOLT-WERE CHARACTERISTICS OF SCHOTTKY
+DIODES BASED ON GALLIUH PHOSPHIDE EPITAXIAL STRUCTURES
+
+[Abstract of paper by Konakova, R.V. and Faynberg, V.I.]
+
+[Text] The results of the influence of (1060 gamma radiation on the volt-ampere
+characteristics of Au-nntCaP Shottky barrier diodes, fabricated using nn+ gallium
+phosphide structures obtained by the method of liquid phase epitaxy, are given.
+
+The diode structures were breadboarded avalanche transit time diodes based on
+gallium phosphide. Figures 1; references 5.
+
+UDC 621.396.963.3+621.326.001.2h
+ON A DYNAMIC MODEL OF MINIATURE INCANDESCENT LAMPS FOR ONO-ELECTRONIC DEVICES
+[Abstract of paper by Boguslsvakiy, R.Ye. and Severinovskiy, 21.8.]
+
+[Text] Expressions are derived with precision sufficient for engineering calcula-
+tions which describe the transient characteristics of miniature and subainiature
+incandescent lamps used at light sources in opto-electronic devices. A system of
+dynamic parameters is proposed for the leap: as well as a procedure for their deter-
+mination by very simple experimental means. The pulsed node excitation mode of
+
+the lamps is analyzed and basic expressions are derived for calculating it. The
+necessary conditions for realizing the dynamic malory storage node in scanned
+matrix structures based on incandescent lsaps are determined. Figures 5;
+references ’4.
+
+WC 537.311
+A TRANSPARENT CdO ELECTRODE FOR ELECTROLUNIHESCENT FILMS
+
+[Abstract of paper by Vlasenko. N.A., Visheva, 'l‘.P., Gergel', LN. and Komsrov,
+\'.V. I
+
+[Text] The influence of temperature and the duration of annealing for (:sz films
+obtained by thermal vapor deposition in a news: on their resistance is shown. As
+.1 result of heat treatment. Cdo films can be obtained with a resistance of 50 to
+100 nhms/crnss-scction and a transparency of about 85%. Such films were tested as
+transparent electrodes for ZnSéHn electroluminescent films. A uniform contact
+
+luminescence of up to 200 cd/m was obtained. The electrode sustains a current of
+up to 10 mA/nnz. Figures 3; references 8.
+
+37
+
+FOR OFFICIAL USE ONLY
+FORIOFHKJALlHHIONLY
+
+UDC 621.383:539.l.7é
+
+A STUDY OF DEEP LEVELS IN p-TYPE SILICON USED FOR THE FABRICATION OF NUCLEAR
+RADIATION DETECTORS
+
+[Abstract of paper by beevoda, G.P., Dubrovenko, M.Ya., Litovchenko, P.G. and
+xwum,nn]
+
+[Text] Jozn: studies of the structural and electrophysical properties of disloca-
+tion free silicon used for nuclear radiation detectors are presented. The para-
+meters of the deep centers are determined in various regions with differing concen-
+trations of small and large clusters. The different influence of A clusters and
+
+8 clusters on the properties of the detectors'is established. Figures 2;
+references 3.
+
+UDC 62l.383.539.1.7b
+
+THE INFLUENCE OF A NONUNIFORN CLUSTER DISTRIBUTION ON THE PARAMETERS OF SURFACE
+BARRIER DETECTORS
+
+[Abstract of paper by Barsbash, L.I., Berdnichenko. S.V.. Litovchenko, P.G.,
+Neymsrk, K.N., Osadchsya, N.V., Skorokhod, H.Ya. and Fal'kevich. 8.5.]
+
+[Text] The electrophysical parameters of nuclear radiation surface barrier detec-
+tors are studied as a function of the structural perfection of the raw high resis-
+tance silicon. The study of the structural defects of the dislocation-free sili-
+con was made using x-ray diffraction topography in conjunction with decoration of
+the defects as well as by means of selective etching. The influence of A and B
+clusters on the level of the working bias of the detector and its energy resolu-
+tion is demonstrated. Figures 3; references 3.
+
+UDC 621.383:539.l.7b
+
+A MULTICOMPONENT TELESCOPE BASED ON p-Si FOR SPECTROMETRY AND IDENTIFICATION OF
+CHARGED PARTICLES OF INTERMEDIATE ENERGIES
+
+[Abstract of paper by Balakin. V. D., Barabash, L. I... Berdnichenho. S. V., Kibkalo,
+T. I. and Kirnas. I. G. ]
+
+[Text] Experimental data on charged particle spectrometry using a semiconductor
+telescOpe are given. Completely depleted silicon detectors using especially
+pure and compensated silicon were used as the collection detectors in the
+telesc0pe. The results obtained for the energy resolution show the advantages of
+this type of telescope. which are due to the increased radiation and timewise
+stability of the collection detectors made of p—silicon with thin insensitive
+
+input and output layers. Figures 4; references 5.
+
+38
+
+FOR OFFICIAL USE ONLY
+FOR OFTW(1A[.USE(MVLY
+
+UDC 621.383:539.1.7lo
+
+A STUDY OF CHARGE LOSSES IN THE NEAR-SURFACE REGION OF THE SENSITIVE LAYER 0F
+Ge(L1)-DETECTORS
+
+[Abstract of paper by Balskin, V.D., Petrosysn, E.Ye. and Pashchuk, N.N.]
+[Text] Results of a study of the near-surface region of Ge(Li) coaxial detectors
+by means of a collimated beam of alpha particles are given. The correlation be-
+
+tween the charge losses and the nature of the distribution of the electrical
+
+field intensity in the sensitive region of the detector is demonstrated.
+Figures 2; references 5.
+
+COPYRIGH‘: Izdatel'stvo ”Naukova dunks", 1981.
+
+8225
+C80: 1860/370
+
+39
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+000 621.396.6.069.76.001
+FUNDAMENTALS OF DESIGNING HICROELECTRONIC EQUIPMENT
+
+Moscow OSNOVY KONSTRUIROVANIYA HIKROELEKTRONNOY APPARATURY in 3083181! 1981
+(signed to press 4 Dec 80) PP 2. 302-303
+
+[Annotation and table of contents from book "Fundamentals of Designing
+Microelectronic Equipment", by Aleksandr Petrovich Renashev and
+
+Leonid Aleksandrovich Koledov, Izdstel'stvo "Radio 1 svyas'", 15.000 copies,
+3010 pages]
+
+[Text] Annotation
+
+General problems. singularities and the methodology of designing microelectronic
+equipment are explained. The construction of modern microelectronic components.-
+caseless hybrid integrated circuit (IC) elements and discrete electronic com-
+ponents—are given. Design methods are-considered for insuring temperature con-
+ditions of sections and units. protecting them from moisture and mechanical over-
+loads, and methods and features of internal and external microelectronic equipment
+configuration.
+
+The book is intended for a side group of engineers and designers involved in
+developing microelectronic equipment. It may also be helpful for students at
+institutes of higher learning.
+
+Table of Contents
+
+Foreword 3
+Chapter 1. General Problems of Microelectronic Equip-ant Design 6
+1.1. Design Features of Electronic Equipment 6
+1.2. Factors to be Considered in Designing MBA [Microelectronic
+Equipment] 17
+1.3. General Methodology for Equipment Design 19
+1.4. Peatures of MBA Design Methods and Quality Criteria 25
+1.5. Evaluating Design Efficiency of MBA 30
+1.6. State Standardisation System. Unified Design
+Documentation Syst- 35
+(.0
+
+FOR OFFICIAL USE ONLY
+Chapter 2.
+
+NNNNN
+O
+
+UﬁwNI-l
+0
+
+Chapter 3.
+3.1.
+
+3.2.
+
+3.3.
+3.6.
+
+3.50
+3.6.
+
+3.7.
+3.80
+
+3.9.
+3.10.
+
+3.11.
+3.12.
+3.13.
+3.16.
+
+Chapter 6.
+6.1.
+6.2.
+6.3.
+6.6.
+
+Chapter 5.
+5.1.
+5.2.
+5.3.
+
+Chapter 6.
+6.1.
+
+FOR‘OFFIC1A1.USE10NLM
+
+hardware Base for Microelectronic Equip-ent
+
+Integrated Microcircuits
+
+IC Requirements and Operating Conditions
+
+Design Configuration and Peatures of Installing Housed IC
+Discrete MBA Electronic Components
+
+Caseless Electronic Components and Their Use in Hybrid
+IC, Microassenblies and Microsections
+
+Electrical Interconnection of MBA
+
+Function and Singularities of Electrical Connection of
+Microelectronic Equipment
+
+Factors Influencing Electromagnetic Compatibility of
+MBA Elements and Sections
+
+Electrical Length of Electrical Connection Line
+Signal Distortion During Propagation in Electrically
+Long Line
+Parasitic Coupling of Electrical Connecting Lines
+Connection Between Design and Electrical Parameters
+
+of Electrical Connecting Lines
+
+Toleratces of Electrically Short Connecting Lines in
+Digital Devices
+Tolerances of Electrically long Connecting Lines in
+Digital Devices in Presence of Cross-Talk
+Acceptable Parasitic Capacitance for Amplifier
+Problems To Be Solved in Designing Electrical Connection,
+and Solution Methods
+
+Printed-Circuit Design
+Hired-Circuit Design
+
+Some Design Methods for Insuring MBA Noise Protection
+Electrical Connection Features of Unified Coaputer System
+
+Insuring MBA Temperature Conditions
+
+Influence of Temperature Conditions on MBA Reliability
+Methods of Insuring Normal MEA Temperature Conditions
+Heat-Sink Methods
+
+Selecting a Cooling Method in the Initial Design Stage
+
+MEA Moisture Protection
+
+Influence of Moisture on MBA Reliability
+Methods of Protecting MEA From Moisture
+Selecting MBA Moisture Protection Method
+
+Protecting MBA Prom Mechanical Effects
+
+Influence of Mechanical Effects on MBA Reliability
+Resistance of Construction to Mechanical Overloads
+Basic Parameters of Shock-Absorbing System
+
+Design and Parameters of Shock Absorbers
+
+Planning Shock-Absorbing System
+
+61
+
+FOI¢0FFKJA1.USE(NMLY
+
+63
+63
+50
+S3
+65
+
+83
+105
+105
+
+108
+110
+
+112
+117
+
+120
+127
+
+132
+135
+
+137
+137
+165
+175
+183
+
+186
+186
+191
+197
+206
+
+209
+209
+211
+226
+
+227
+227
+231
+233
+236
+262
+chapter 7. MBA Configuration
+7.1. Content, Role, Methods and Criteria for Configuration
+7.2. Evolution of Configured Electronic Equipment Circuits
+7.3. Configuration Singularities of Third- and Fourth-
+Generation Electronic Equip-ant
+
+Conclusion
+
+Appendix 1. Unified Design Documentation Systes Standards for
+31/12/79
+
+Appendix 2. Some State Standards Used in Designing Microelectronic
+Equipment for 31/12/79
+
+Appendix 3. Some Reference Materials Used in Designing HEA
+Bibliography
+COPYRIGHT: Izdatel'stvo "Radio 1 svyas'", 1981
+
+6900
+C80: 1860/34?
+FOR OFFICIAL USE ONLY
+
+UDC 621.396.621.391.278
+HANDBOOK 0N CALCULATING NOISE-SUPPRESSION 0? DIGITAL DATA TRANSMISSIOK SYSTEMS
+
+Moscow RASCHET POMEKHOUSTOYCHIVOSTI SISTEH PERBDACHI DISKBETNYKB SOOBSICBENIY
+in Russian 1981 (signed to press 10 Peb 81) pp 2, 230-231
+
+[Annotation and table of contents from book "Calculation of Noise-Immunity of
+Digital Information Transmission Systems: A Handbook", by Valeriy Ivanovich Korshik,
+Lev Hatveyevich Pink and Kirill Nikolayevich Shchelkunov. Izdatel'stvo "Radio 1
+svyaz'". 17,000 copies. 232 pages]
+
+[Text] The structure of optimum and suboptimal decision circuits for various
+channels with constant and variable parameters is described in the handbook in
+
+a eystematized. condensed form. The basic precise and approximate formulas are
+cited for calculating the probability of errors contained in monographs and
+articles of Soviet and foreign authors published to date. Tables of certain
+special functions which are widely used in calculations of noise-immunity and pro-
+grams for computing them on the :Elektronika-BB-Zl" calculator are given. The
+handbook is for specialists engaged in development and utilization of means of
+communication.
+
+Table of Contents
+
+Preface 3
+Introduction 4
+Chapter 1. Channels with determinate parameters and additive noise 11
+1.1. Classification and mathematical models of additive noise 11
+1.2. Channel with additive white noise 16
+1.3. Channel with additive Gaussian noise 28
+1.4. Channel with additive non-Gaussian noise 39
+1.5. Channel with frequency-dependent constant parameters
+(reception under conditions of intersymbol noise) 52
+Chapter 2. Channels with random parameters (phase, frequency,
+amplitude) and additive noise 63
+2.1. Mathematical description and physical nature of channels
+with random parameters 63
+43
+
+WOR*0F11C1A1.USE(MVLY
+2.7.
+
+Chapter 3.
+3'1.
+302'
+3.3.
+3.6.
+3.5.
+
+Chapter 4.
+4.1.
+6.2.
+‘03.
+“.4.
+4'5.
+6.6.
+
+Chapter 5.
+5.1.
+5.2.
+5.3.
+50‘.
+
+Appendix 1.
+
+Appendix 2.
+
+Appendix 3.
+
+INDR‘OFFICJAI.UGEZ(H“LY
+
+Channel with indeterminate phase and Gaussian additive
+noise with uniform spectrum
+
+Channel with indeterninate phase and additive correlated
+Gaussian noise
+
+Channel with indeterminate phase and non-Gaussian noise
+Channel with indeterninate phase. frequency-dependent
+parameters and white noise
+
+Channel with indeterminate phase, randon mean frequency
+and additive white noise
+
+Channel with indeterminate phase and amplitude
+
+Channels with random structure (elenent reception)
+Gaussian linear stochastic channel
+Channel with discrete nultipath nature
+Channel with frequency-selective fading
+Channel with time-selective fading
+Separated reception in channels with random parameters
+
+channel with randor structure (reception in toto)
+Aspects of approach and relationship to above material
+Channel with tendon phase
+
+Channel with instability and Doppler frequency shift
+Channel with discrete nultipath nature
+
+Channel with selective fading (isolated reception)
+Channel with selective fading (separate reception)
+
+Quantum channels
+
+Description of optical signals
+
+Reception of signals with ideal photodetection
+Noise-suppression of signal reception with quantum noise
+Noise-suppression of optical signal reception based on
+total of quantum and other noises
+
+Major statistical inequalities used to evaluate
+probability of error
+
+Some functions used in calculation of noise-
+suppression
+
+Prograns for computing eone functions on "Blektronika
+33-21" calculator
+
+Basic notations
+
+List of abbreviations
+
+Notations used in circuit diagrams
+
+References
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000400060046-1
+
+FOR OFﬂCIAL USE ONLY
+
+Alphabetical index
+COPYRIGHT: Izdatel'stvo "Radio 1 avyaz'", 1981.
+
+8617
+- 080: 1860/ 30/:
+
+105
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-ROP82-00850R000400060048-1
+FOI1DFFKJAI.USE(NVLV
+
+UDC 681.325-l8l.48:621.3.069.77
+MICROPROCESSORS
+Moscow HIKROPROTSESSORY in Russian 1981 (signed to press 26 Her 81) pp 2, 70
+[Annotation and table of contents from book "Microprocessors", by
+Mikhail Alekseyevich Bedrekovskiy, Nikolay Serafilovich Kruchinkin and
+Vladimir Andreyevich Podolyan, Izdatel'stvo "Radio 1 svynz'". 60,000 copies,
+71 pages]
+[Text] The possibilities for using nicroprocessors, their design structure and
+the features of their application in specific devices as well are denonstrated
+on the basis of a systematic exposition of materials reflecting the main properties
+and the experience of using donestic and foreign nicroprocessors.
+
+For a broad circle of readers.
+
+Preface 3
+Introduction A
+
+Chapter 1. General organization principles of nicroprocessors and
+
+nicroprocessor systems 8
+
+1. Main ale-eats of a nicroprocessor's structure 8
+2. Memory organization. Structure and working principles of
+
+a microprocessor system 12
+
+3. Main circuit quality [Rus. nsgistral'nost'] 17
+
+6. Interruption 18
+
+5. Direct nesory access 19
+
+6. Hicroprogran control 20
+
+7. Progran facilities 23
+
+66
+
+FOR 0F!1CLAI.USE¢DNLY
+Chap
+
+ter
+8 .
+9.
+
+10.
+ll.
+12.
+
+13.
+16.
+15.
+16.
+
+FOIlOFFﬂJAl.USE(HNLY
+
+2. Characteristics of microprocessors uhich determine the
+variety of spheres and peculiarities of their application
+
+Production and circuitry'iethods for the manufacture of
+
+large integrated circuits
+
+Characteristics of microprocessors as large integrated
+
+circuits
+
+High-speed response
+
+Power consumption, dimensions and weight
+
+Compatibility with transistor-transistor logic. number of
+
+power supply levels
+
+Capacity
+
+Addressable memory capacity
+
+Reliability and operational stability
+
+Microprocessor classification. Main features of foreign
+
+microprocessor sets
+
+Chapter 3. Domestic microprocessor sets
+
+17.
+18.
+19.
+
+Series K580
+Series K587
+Series K589
+
+Chapter 6. General questions of microprocessor application
+
+20.
+
+21.
+
+Microprocessor application methods. Microprocessor system
+classification
+
+General recommendations in the selection and application
+of microprocessors
+
+Chapter 5. Examples of the concrete realisation of microprocessor
+
+22.
+23.
+
+26.
+
+25.
+
+26.
+
+systems
+Spheres of application for microprocessor systems
+Microprocessors in the control and inspection of
+production processes.
+Microprocessor systems for expanding the functions and
+improving the basic characteristics of communications
+equipment
+Microprocessor systems for increasing accuracy and
+automation of measurements
+Microprocessor systems in domestic devices and electronic
+games
+
+List of literature
+
+COPYRIGRT: Izdatel'stvo "Radio 1 svyaz'", 1981.
+
+9196
+
+C50:
+
+1860/366
+
+67
+
+EXHICNHHCJAI.USE(H‘LY
+
+29
+29
+32
+33
+36
+36
+36
+36
+36
+36
+39
+63
+65
+67
+68
+68
+
+51
+
+56
+
+55
+
+63
+
+65
+68
+FOR OFI‘IOAI. USE ONLY
+
+UDC 621.395.4
+HUL‘I'ICHANNEL COMMUNICATIONS SYSTEMS
+
+Moscow SISTBHY HNOGOKANAL'NOY SWAZI in Russian 1980
+(signed to press 12 Mar 80) pp 2, ‘37-‘39
+
+[Annotation and table of contents from book ”Multichannel Communications Systems",
+by Aleksandr Hoiseyevich Zingerenko. Natal'ya Nikolayevna Bayeva and
+Mikhail Serafisovich Tveretskiy, Izdatel'stvo "Svyar'", 23,000 copies. 6&0 pages]
+
+[Text] Principles for designing transmission systems are set out and fundamental
+questions associated with build-up of a diverse type of interference in linear
+channels and with the design and use of transmission systems with frequency and
+time division of channels.
+
+The textbook is intended for the students of communications VUZs who are special-
+izing in multichannel electrical communications. and it say also be useful for
+students in departments of autosatic electrical communications, radio communica-
+tions and broadcasting.
+
+CONTENTS
+Preface 3
+
+Introduction lo
+
+Chapter 1. Construction of transmission systems with frequency
+
+multiplexing 7
+Chapter 2. Interference in linear routes and channels 21
+2.1. Interference sources and evaluation 21
+2.2. Fluctuation interference 23
+2.3. Nonlinearity interference 27
+2.4. Nonlinesrity coefficients and attenuation 29
+2.5. Combination oscillations 31
+
+2.6. Attenuation of amplifier nonlinearity given frequency»
+dependent negative feedback 33
+
+68
+
+FOR 0F1WC1AI.IEHE(NVLY
+Chapter 4.
+4.1.
+
+4.2.
+‘93.
+‘s‘s
+Chapter 5.
+5.1.
+
+5.2.
+
+FOR(MﬂﬂCLALlEEZONlY
+
+The group signal and its statistical characteristics
+Noises due to nonlinearity products
+
+Interference from linear transitions
+
+Atmospheric interference
+
+Compander applications
+
+Pulse interference
+
+Correction of linear distortions in channels and group
+routes
+
+The concept of linear distortions
+
+Correction of linear distortions in transmission system
+
+channels
+
+Incorporation of correctors into channels
+
+Correctors
+
+Time characteristic corrections
+
+Automatic level control
+Classification, basic definitions and characteristics of
+ALC systems
+Solitary ALC devices
+Operation of ALC systems
+Multifrequency ALC systems
+
+The linear route of transmission systems with PDC
+
+[frequency division of channels]
+
+Structure of a linear channel. Standardization of
+interference
+
+Amplifier deployment. Natural interference and static
+build-up
+Average length of repeater sections
+
+Interference build-up from linear transitions
+Interference build-up from nonlinearity products
+Average power of insertion interference from a linear
+channel
+
+Optimization of preemphasis frequency characteristics
+Optimization of linear level preemphasis
+Optimum transmission level
+
+Requirements for attenuation of amplifier nonlinearity
+Requirements for attenuations of nonlinearity with respect
+to protection from audible crosstalk
+
+Influence of correction error on channel noise
+
+imunity
+
+Effectiveness of precorrection
+
+Deployment of ALC in the linear channel
+
+Influence of length of a control section on the average
+length of repeater sections
+
+Influence of temperature changes in coaxial cable
+attenuation on amplifier load
+
+Influence of temperature changes in cable attenuation on
+channel interference resistance
+
+Preregulation and its effectiveness
+
+49
+
+FOR OFFICIAL USE ONLY
+
+34
+40
+48
+SO
+50
+52
+
+54
+54
+
+S9
+62
+70
+84
+
+86
+
+86
+91
+106
+114
+
+118
+118
+
+122
+125
+126
+127
+
+132
+133
+134
+135
+136
+
+138
+141
+143
+146
+147
+149
+
+149
+151
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000400060046-1
+FOR OFFICIAL USE ONLY
+
+5.19. Side flows and their influence on television signal
+transmission
+
+Chapter 6. Frequency converters
+6.1. Requirements imposed on converters
+6.2. Passive frequency converters
+6.3. Active frequency converters
+
+Chapter 7. Oscillator equipment
+7.1. General requirements
+7.2. Master oscillator frequency stabilization
+7.3. Harmonics generators
+7.4. Frequency dividers
+
+Chapter 8. Transmission system equipment amplifiers
+
+chapter 9. Electrical filters
+9.1. General definitions
+9.2. Channel filters
+9.3. Directional filters
+9.6. Linear filters
+9.5. Parallel operation of filters
+
+Chapter 10. Standard channel-forming equipment
+
+Chapter 11. Transmission systems with FDC Ifrequency division
+of channels]
+11.1. Systems for transmission along coaxial cables
+11.2. Systems for transmission along symmetrical cables
+11.3. Systems for transmission along overhead communications
+lines
+ll.h. Systems for transmission along radio relay and
+
+satelite communications lines
+11.5. Features of transmission systems for local communication
+lines
+
+Chapter 12. Through connections and channel discrimination
+12.1. Through connections
+12.2. Channel discrimination
+
+Chapter 13. Television and audio program broadcast transmission
+equipment
+13.1. General information
+13.2. Characteristics of the television signal transmission
+channel
+_ 13.3. Configuration of the television broadcasting channel
+' 13.4. Requirements for audio broadcast transmission channels
+' 13.5. Means of organizing audio broadcast channels
+13.6. Audio broadcast signal transmission equipment
+
+. 50
+
+FOR 0FFKJAI.USE(NNLY
+
+APPROVED FOR RELEASE: 2007/02/00: ClA-RDP02-00050R000400060046-1
+Chapter 11.. Method for determining audio frequency (AU/Channel
+quality for transmission systems with rnc
+14.1. General questions
+14.2. Designing A? channels for cable communications lines
+14.3. Designing AF channels organized ar0und overhead
+comunicat ions lines vith non-ferrous metal conductors
+
+Chapter 15. Designing digital transmission systems
+15.1. Features of digital transmission systems
+15.2. Amplitude-pulse modulation of the first and second type
+15.3. Selection of the group signal discretization frequency
+15.6. Pulse-code modulation
+15.5. Quantization and clipping noises in transmission
+systems with PCP!
+15.6. Noises during irregular quantization
+15.7. Natural interference during group signal quantization
+15.8. Delta modulation
+15.9. Delta modulation with companding
+15.10. Differential pulse-code modulation
+
+Chapter 16. Configuration of multichannel equipment with PC!
+and 'I'DC [time-division of channels]
+16.1. Schematic of the terminal station
+16.2. Amplitude-pulse modulators
+16.3. Spectrum limitation and transient interference in a
+group channel with amplitude-pulse modulators
+16.1.. Coders with a linear quantization scale
+16.5. Decoders with a linear quantization scale
+16.6. Codes with irregular quantization scale
+16.7. Synchronizers. The cycle of the group digital signal
+16.8. Generator equipment
+
+Chapter 17. Digital transmission systems. Consolidation and
+separation of digital currents
+
+17.1. Standardization of multichannel digital transmission
+systems
+
+17.2. Means of consolidating digital flows
+
+17.3. Schematic of equipment for consolidating asynchronous
+digita1 flows
+
+17.1.. Basic assemblies of asynchronous ganging units
+
+17.5. Features of equipment for consolidation of synchronous
+digital currents
+
+17.6. Introduction of discrete signals into the group digital
+channel
+
+17.7. A system with PCP! for television signal transmission
+
+Chapter 18. The digital linear channel
+18.1. Structure of the digital linear channel
+18.2. Digital signal codes in transmission lines
+18.3. Digital signal regenerators
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000400060046-1
+
+18.4.
+18.5.
+
+18.6.
+18.7.
+
+18.8.
+18.9.
+18.10.
+
+18.11.
+
+18.12.
+
+Chapter 19.
+
+19.1.
+19.2.
+19.3.
+
+Chapter 20.
+
+20.1.
+20.2.
+20.3.
+
+Chapter 21.
+
+21.1.
+
+21.2.
+21.3.
+21.4.
+21.5.
+
+21.6.
+21.7.
+
+FOR OFFICIAL USE ONLY
+
+Requirements for probability of error in the linear
+channel
+
+Digital signal phase fluctuations and their effect
+on transmission quality
+
+Interference build-up in the digital linear channel
+Digital signal distortions and interference at the
+regeneration sector
+
+Pulse form correction
+
+Requirements for a regenerator cadence synthesizer
+Calculation of the probability of error during
+regeneration of a digital signal
+
+Fundamental mathematical relationships determining
+the length of regeneration sectors
+
+The concept of the hybrid digital linear channel
+
+Equipment vith PCH and TDC
+Pulse code modulation 12H (IKE-12M)
+The IKH-3O
+The IKH-lZO
+
+Maintenance work on transmission systems
+The line equipment shop
+Reliability of transmission systems
+Automation of maintenance on main communication lines
+
+Systems for transmission over optical communication
+lines. Statistical transmission systems
+Configuration of systems for transmission over optical
+comunicat ion lines
+Components of optical transmission systems
+Brief information on optical transmission systems
+Configuration of statistical transmission systems
+Noises and distortions in statistical transmission
+system channels
+Parameters of statistical transmission systems
+Existing statistical transmission systems
+
+List of literature
+
+Subject index
+
+COPYRIGHT:
+
+9194
+
+Izdatel'stvo "Svyaz'". Mbskva, 1980
+
+CSO: 1860/340
+
+52
+
+FOR¢0FFKJAL.USE(NVLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000400060046-1
+FOR OFFICIAL USE ONLY
+
+UDC 681.3.07
+ONE-HAY COMPUTER STORAGE
+
+Moscow ODNOSTORONNIYE ZAPOHINAYUSHCHIYB USTROYSTVA in Russian 1981
+(signed to press 20 Feb 81) pp 2. 190-191
+
+[Annotation and table of contents from book "One-ﬂay Storage", by
+Yuriy Aleksandrovich Awakh and Vladimir Konstantinovich Patin, Izdatel'stvo
+"Energiya", 7000 copies, 192 pages]
+
+[Text] New one-way storage with electrical and mechanical information exchange
+are examined. The operating principles and distinctive features of storage
+elements employing diverse physical phenomena are described. their basic charac-
+teristics are given and the nest advantageous areas of application are pointed
+out. Methods for computing certain units and the interference level in the
+number-transfer block are given.
+
+For engineering and technical workers engaged in the design of discrete computers
+and control devices.
+
+CONTENTS
+Preface 3
+
+Chapter 1. Features and basic characteristics of one-way
+
+storage (OHS) units 6
+
+1. Types of storage 6
+2. Structure of oneduay storage, area of application and
+
+basic characteristics 11
+
+3. Potential OHS 16
+
+h. Current OHS , 22
+Chapter 2. The number-transfer block of a OHS with sechanical
+
+information exchange 26
+
+5. Design features 26
+
+6. Separation of signal from interference 31
+
+7. Means of recording and exchanging inforlation 33
+
+8. Linear communications elements 37
+
+53
+
+FOR OFFICIAL USE ONLY
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000400060046-1
+
+FOR OFFICIAL USE ONLY
+
+9. Non-linear communications elements
+10. Combined communications elements
+11. Optical storage elements
+12. Blocking storage elements
+Chapter 3. Features of a capacitance OHS with mechanical
+information exchange
+13. Influence of information capacity on storage
+characteristics
+14. Elimination of the parasite effect of unselected request
+buses
+15. A storage matrix
+_ Chapter 4. Semiconductor storage elements of OHS
+l6. Metal-oxide semiconductor (HOP) transistors vith
+floating cut-off
+‘ 17. Hetal-nitride-oxide-semiconductor (HNOP) transistors
+18. Storage elements based on an amorphous semiconductor
+Chapter 5. Integral semiconductor One-way storage (OHS)
+l9. ONS's using HOP transistors with floating cut-off
+20. OHS's using HMO? transistors
+21. OHS based on amorphous semiconductors
+Chapter 6. Holographic OHS
+22. General questions ,
+23. The holographic principle of information storage
+24. Masks and controlled transparencies
+25. Heans for information recording and read-out
+26. Amplitude and phase holograms. Materials for hologram
+recording
+27. Redundant recording of holograms
+28. The structure and principal characteristics of page
+holographic storage
+29. Holographic storage with electrical information exchange
+30. Holographic storage with tri-coordinate access
+31. Matrix of photodetectors
+32. Deflectors for holographic storage
+Conclusion
+Afteruord
+List of literature
+
+COPYRIGHT: Izdatel'stvo "Energiya". 1981
+
+919‘
+
+C50: 1860/361
+
+56
+
+FOR OFHCIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: CIA-RDP82-00850R000400080046-1
+Fill(ﬂﬂﬂ(1Al.US£GDNLY
+
+UDC 621.391.63
+OPTICAL COHHUNICATION CABLES
+
+Moscow OPTICRBSKIYE KABELI SVYAZI: TEORIYA I RASCHET in Russian 1981
+(signed to press 23 Jan 81) pp 2, 153
+
+[Annotation and table of contents of book "Optical Communications Cables: Theory
+and Design", by Nikolay Aleksandrovich Semenov, Izdatel'stvo "Radio 1 svyaz'",
+5000 copies, 153 pages]
+
+[Text] Optical cable (0K) is considered a constituent of an optical data trans-
+mission system which determines its fundamental properties. Physical principles
+of transmission of wideband signals along OKs containing lightguides (8V) of
+various types operating under multiple mode and single mode conditions are dis-
+cussed; in some cases the concept of partial waves and beam interpretation in
+
+SV is utilized. Concepts are introduced about variable and emerging waves. A
+brief examination is given to typical structural circuits of communications sys-
+tems using optical cable and technology for producing optical fibers.
+
+A systematic theory of regular lightguides is evolved; modifications are derived
+for dispersion equations, theoretical formulas for phase and group velocities,
+group delay time. attenuation coefficient, power flux distribution. The cor-
+responding program for a computer is described and results of calculation are
+cited. The question of optimization of the profile of the refractive index of
+
+a gradient lightguide is considered. The effect of lightguide irregularities in
+optical cables is discussed: flexurea, microscopic bends, lightguide intercon-
+nections, interfaces with sources and receivers. Transitional attenuations be-
+tween lightguides in optical cables are determined. Analysis of the passage of
+signals thrOugh optical cable based on chromatic and modal dispersions made it
+possible to determine bandpass under various operating conditions. Basic principles
+of optical cable design are formulated and examples of calculations of deformations
+in optical cable components are given.
+
+For scientific workers specializing in development of optical cable technology,
+communication systems and control systems.
+
+55
+
+INDR OFIWCJAI.LEHE(HVLY
+POR‘OFFNJAL.USE(NVLY
+
+Table of Contents
+
+Introduction
+Chapter 1. Principles of construction, properties and basic
+components of optical cables
+1.1. Designation and composition of optical cables
+1.2. Optical cable communications
+1.3. Basic types of lightguides and nodal conditions
+1.6. Primary parameters of lightguides. Beam trajectory
+1.5. Parameters of optical media
+1.6. Optical materials and fibers
+Chapter 2. Waves in regular lightguides
+2.1. Have equation. Comnicationa between field components
+2.2. Variable and emerging waves
+2.3. Dispersion equation of dual layer lightguide
+2.6. Modes of dual layer lightguide
+Chapter 3. Parameters of waves in lightguides
+3.1. Phase and groups parameters of waves
+3.2. Have power
+3.3. Attenuation coefficient
+3.6. Frequency characteristics of lightguide communications
+parameters
+Chapter 6. Gradient lightguidea
+6.1. Arbitrary profile of refractive index
+6.2. Graduated profile of refractive index
+Chapter 5. Optical cable with irregular lightguides
+5.1. Types of irregularities
+5.2. Method of coupled power
+5.3. Losses in microscopic bends in gradient lightguides
+5.6. Losses in microscopic beads of lightguides with graduated
+profile
+5.5. Losses in bends
+Chapter 6. Connections of optical cables and lightguides
+6.1. Connections of lightguides and optical cable, with
+sources and receivers
+6.2. Insertion losses into optical cable
+6.3. Losses in connections
+
+56
+Chapter 7.
+
+Chapter 8.
+
+8.1.
+8.2.
+
+Chapter 9.
+
+9.1.
+9.2.
+9.3.
+90‘.
+
+Conclusion
+
+Appendix 1.
+
+Appendix 2.
+
+Signal transmission through optical cable
+
+Causes of signal distortion. Analytical methods
+Signal distortion in lightguides
+
+Chromatic dispersion
+
+Single mode conditions
+
+Multimode conditions
+
+Connections between lightguides in optical cable
+
+Coated lightguides
+Transitional attenuation betveen lightguides in optical
+cable
+
+Design of optical cables
+
+Exterior effects
+
+Basic principles and examples of optical cable design
+Calculation of deformations in concentric optical cable
+Deformations in strip core of optical cable
+
+Some cylindrical functions
+
+Program for calculating parameters of lightguide
+communications systems
+
+List of abbreviations
+
+References
+COPYRIGHT:
+
+8617
+
+Izdstel'stvo "Radio 1 avyaz'", 1981.
+
+CSO: 1860/305
+F0R10FFKJAL.USE(HNLY
+
+UDC 621.395.37
+PLANNING AUTOMATIC INTERCITY TELEPHONE EXCHANGES
+
+Moscow PROYEKTIROVANIYE AVTOHATICHESKIKH MEZHDUGORODNYKH TELEPONNYKH STANTSIY
+in Russian 1980 (signed to press 5 Mar 80) pp 2-3. 207-208
+
+[Annotation, foreword (excerpts) and table of contents from book "Planning
+Automatic Intercity Telephone Exchanges", by Fanya Bentsionovns Bakaleyshchik,
+Izdatel'stvo "Svysz'", 10,000 copies, 208 pages]
+
+[Text] Annotation
+
+This book presents the basics of planning automatic intercity telephone exchanges
+using type ANTS-3, ANTS-4, ARM-20, ANTS K2 equipment and automatic switching
+unit.
+
+The book is intended for engineering and technical workers involved in planning
+and operating automatic intercity telephone exchanges.
+
+Foreword
+
+The creation of a nationwide automatically switched telephone network involves
+the construction of automatic intercity telephone exchanges (Alf!) and automatic
+switching units (ASU). In the process of being developed. modern technical
+automatic switching facilities are reaching higher quality levels; telephone
+exchanges with new capabilities and new switching and control principles are
+
+being created.
+
+The present book is the first attempt at a systematic exposition of the basics
+
+of planning AITB and A50 of various types considering their interaction in a
+
+network. As new equipsent is developed and assimilated, it will become possible
+
+to introduce appropriate modifications and improvements to planning methodology.
+Table of Contents
+
+Foreword 3
+
+Introduction 4
+
+58
+
+FOR OFFICIAL USE ONLY
+Chapter 1.
+1.1.
+1.2.
+1.3.
+10"
+1.5.
+1.6.
+
+HHD—‘l—I
+. . .
+HOQN
+O 0
+
+Chapter
+
+§UNH
+o o .
+
+NNNN
+
+Chapter 3.
+
+3.1.
+3.2.
+
+3.3.
+
+Chapter A.
+
+o
+§UNH
+o
+
+§§8~§
+.
+
+Chapter 5.
+5.1.
+5.2.
+5.3.
+
+o
+e
+
+MUMU‘
+m
+
+NOM§
+.
+
+FOR OFFICIAL USE ONLY
+
+National Automated Telephone Connmnication System
+General Remarks
+
+Nationwide Automatically Switched Telephone Network
+Construction of Automated Intercity Telephone network
+Construction of Intro-Zone Telephone Network
+Construction of City and Rural Telephone Networks
+Conunicating With Departnental Telephone Exchanges and
+Mobile Platforms
+
+Long-Distance Numbering
+
+Communicating With International Exchanges
+Types of Exchange and Center Equipment
+Methods of Transnitting Line Signals and Control Signals
+
+Order of Planning. Composition and Content of Planning
+Materials
+
+Exploratory work
+
+Technical and Economic Justification
+
+Composition and Content of the Plan
+
+Equipment Lists and Cost Estimates
+
+Fundamentals of Designing AITE and A80 Channels and
+Equipment
+General Remarks
+Methodology of Calculating Nunber of Channels for
+Long-Distance Telephone Network
+Initial Positions for Calculating Number of 28L
+[probably zone trunk line] and SLM [probably longchaul
+trunk line] in Intra-Zone Netuork
+Prospective and Installed AITE and A50 Capacity
+Service Quality Indicators
+General Principles of Calculating Amount of AITE and
+A80 Equipment
+
+Brief Information on Planning AMTS-l, ANTS—2 and
+AMTS-3 Exchanges
+General Remarks
+AMTS-l Exchange
+AMTS-Z Exchange
+AMTS-3 Exchange
+
+Planning ANTS-h and AMTS-é—Type ASU
+
+General Remarks
+
+Operational Capabilities of Exchange
+
+Functional Diagram of ANTS-b and A80
+
+Establishing Connections
+
+Characterization of Basic Types of Exchange Equipment
+Calculating Amount of ANTS-b Equipment
+
+Function and Operating Capabilities of A50
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00860R000400060046-1
+
+5.8.
+
+5.9.
+5.10.
+
+5011.
+
+Chapter 6.
+6.1.
+
+Chapter 7.
+
+7.9.
+7.10.
+7.11.
+7.12.
+7.13.
+Chapter 8.
+8.1.
+8.2.
+8.3.
+8.5.
+Chapter 9.
+Appendix 1
+
+Appendix 2
+
+FOR OFFICIAL USE ONLY
+
+Functional Diagram of A80 and Operation of Devices
+During Establishment of Connections
+
+Calculation of A80 Equipment
+
+Design Peatures of ANTS-6 and A50 Equipment. Placement
+Principles
+
+ANTS-4 and A80 Power Supply
+
+Planning Type ARM-20 AITE
+General Remarks
+Operating Capabilities of Exchange
+Functional Diagram
+Making Connections
+Tandem Operation of Tho Exchanges
+Brief Characterization of Exchange Equipment
+Calculating Amount of Exchange Equipment
+Design Features of Equipment and Equipment Placement
+Exchange Power Supply
+
+Planning Quasi-Electronic AITE (Quartz)
+
+General Remarks
+Operating Capabilities of Exchange
+Functional Diagram and Equipment Makeup of Exchange
+Making Connections
+
+Brief Characterization of Switching System
+Common-Channel Signaling System
+
+Calculating Cost of Long-Distance Conversations
+Accounting System for Telephone Loading and Service
+Quality Control
+Automatic Service Telephone Exchange
+Monitoring and Test Equipment
+
+Initial Positions for Calculating Quasi-Electronic
+AITE Equipment
+Construction of Quasi-Electronic AITE Equipment and
+Its Placement
+Quasi-Electronic AITE Power Supply
+
+Requirements for AITE and A80 Buildings and Spaces
+General Remarks
+
+Initial Data for Planning AITE and A80 Buildings
+Climatic Parameters in Technical Spaces
+Number of Service Personnel
+
+Cable Connections at AITE and A80
+
+60
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02109: ClA-RDP82-00850R000400060048-1
+APPROVED FOR RELEASE: 2007/02109: ClA-RDP82-00850R000400060046-1
+
+FOR OFFICIAL USE ONLY
+
+Appendix 3
+Bibliography
+
+COPYRIGHT: Izdatel'stvo "Svyaz'", 1980
+
+6900
+080: 1860/ 366
+
+61
+
+FOR OFFICIAL USE ONLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000‘00060046-1
+FOE.OITNCJAl.lEHE(NVLY
+
+UDC 621.397.611:621.397.65
+RADIO AND TELEVISION TRANSMITTING STATION EQUIPMENT
+
+Moscow OBORUDOVANIYE RADIOTELEVIZIONNYKH PEREDAYUSHCHIKB STANTSIY
+in Russian 1981 (signed to press 15 Oct 80) pp 2, 238-239
+
+[Annotation and table of contents from book "Radio and Television Transmitting
+Station Equipment", by Viktor Konstantinovich Ivanov, Izdstel'stvo "Radio i
+svyaz'", 15,000 copies, 260 pages]
+
+[Text] Annotation
+
+Questions of transmitting network construction are examined, general principles
+of constructing various types of stations are given, the most important pieces
+
+of equipment are examined in detail, and some types of television relays and low-
+power transmitters are described. Separate chapters are devoted to measurement
+and monitoring equipment and measurement methods.
+
+The book is intended for technical communication training school students in the
+course on specialty No. 0706; it may be helpful for a wide group of technical
+workers who operate the equipment in question.
+
+Table of Contents
+
+Notation used in text 3
+Abbreviations used in text 4
+Introduction ‘ 7
+Chapter 1. Television Broadcast Transmitting Network 9
+1.1. Frequency Bands Allocated for TV Broadcast 9
+
+1.2. Principles of Organisation of Television Transmission
+Network 15
+1.3. Component Elements of Transmitting Network 18
+1.6. Compatibility of TV Broadcast Transmitting Pscilities 29
+1.5. Characteristics of Bsitted Signal 32
+
+62
+
+FOR 0F1ﬂ€JAl.USIZ€NNLY
+Chapter 2.
+
+2 l.
+2.2.
+2.3.
+
+Chapter 3.
+3.1.
+3.2.
+3.3.
+3.6.
+
+Chapter 4.
+
+‘01.
+
+Chapter 5.
+5.1.
+5.2.
+5.3.
+5.6.
+5.5.
+
+Chapter 6.
+
+6.1.
+6.2.
+6.3.
+
+Chapter 7.
+7.1.
+7.2.
+7.3.
+7.b.
+
+Chapter 8.
+8'1.
+8.2.
+8.3.
+8.5.
+
+Chapter 9.
+9.1.
+9.2.
+
+Principles of Construction of TV Broadcast Radio
+Station
+Generations of Radio Stations
+General Construction Principles of lungs Transnitters
+General Construction Principles of Sound Accolpaninent
+Translitters and Ultrashort Have PM Broadcast
+Transnittera
+
+Lou—Power Section of VIP Insge Transsitters
+Bxcitera
+Narrouhand high Frequency Section
+Modulated Stage
+Video Amplification Section
+
+Hidehand High Frequency Section of VB! Isage
+Translitter
+Distributed-Parameter Lines as loads for Power
+Amplifiers
+Tuned-Circuit Systess in TV Transmitters
+Power Addition Syste-
+
+Equipnent of Con-on Section of TV Radio Station
+Antenna Feeder Devices
+
+Antenna Equivalent
+
+Isolation Filters
+
+Operating Two Stations on a Col-on Antenna
+Auxiliary Radio Station Equip-eat
+
+Sound Acco-pani-ent and Ultrashort Have PM Broadcast
+
+Transnitter unipnent
+General Considerations
+
+Frequency-Modulation Rxciters
+Radio-Prequency Section of Transnitters
+
+New Stations for TV Broadcast in VHF and UK! Bands
+General Considerations
+
+"Zone-II" Television Station
+
+Type ATRS-S/l kﬂt Television Station
+
+Construction Features of UHF Radio Stations
+
+Lou-Power Television Relays
+General Considerations
+Type RPTN-70-12/12 Relay/Converter
+Type RPTDA Relay/Converter
+RTsTA-70-R/12 Bquipnent
+
+Test and Measurement Equipment and TV Stations
+Types of Measuresents and Instrumentation
+Equipment for Periodic Measurements in Image Channel
+APPROVED FOR RELEASE: 2007/02I09: CIA-RDP82-00850R000400060040-1
+
+9.3.
+9.5.
+
+Chapter 10.
+10.1.
+
+10.2.
+10.3.
+10.0.
+10.5.
+10.6.
+10.7.
+
+Appendix 1.
+
+- Appendix 2.
+
+Appendix 3.
+
+FOR‘OFF1C1AI.USEGDNLV
+
+Equipment for Periodic Measurements in Audio
+Accompaniment Channel
+
+Equipment for Image Channel Measurement and
+Monitoring During Transmission
+
+Measurement of Distortions in Television Station Image
+Transmission Sections
+
+Measurement of Amplitude-Frequency Response and
+Matching in Section
+
+Measurenent of Image Demodulator Characteristics
+Measurement of Linear Distortions
+
+Correction of Linear Distortions
+
+Measurement of Nonlinear Distortions
+
+Correction of Nonlinear (Differential) Distortions
+Quadrature Distortions
+
+Terms and Definitions Used in Text
+
+Electrical and Construction Parameters of Oscillator
+Tubes Used in Transmitters
+
+Decibel Conversion of Voltage (Current) and Power
+Ratios
+
+Bibliography
+
+COPYRICMT:
+
+6900
+
+Izdstcl'stvo "Radio 1 svyaz'", 1981
+
+— CSO: 1860/365
+
+6k
+
+FIHI()FFICJAI.IEHE(NVLY
+
+APPROVED FOR RELEASE: 2007/02/09: ClA-RDP82-00850R000400060046-1
+FOR OFFICIAL USE ONLY
+
+UDC 621.316.58(088.8)
+
+SOLID MAGNETIC VOLTAGE CONVERTERS FOR RADIO POWER SUPPLY
+
+Moscow MAGNITNO-TRANZISTORNYYE PRBOBRAZOVATELI NAPRYAZEENIYA ULYA PITANIYA m
+in Russian 1981 (signed to press 2 Oct 80) pp 2. 97
+
+[Annotation and table of contents from book 'Magnetic Transistor Converters of
+Voltage for Powering Radioelectronic Equipment", by Boris Aleksandrovich Glebov,
+Izdntel'stvo "Radio 1 svyaz'". 8000 copies, 97 pages]
+
+[Text] Variable voltage converters (inverters) are examined, a typical feature
+
+of which is the use of a single magnetic reactor with any nunber of galvanically
+separated output channels. Circuits are classiiied by the principle of adjustment
+and control of energy on the load. The operation of some modifications of variable
+inverter circuits is analyzed. Methods are given for calculating the basic
+characteristics of these circuits and defining component parameters. For techni-
+cal engineering workers engaged in development and operation of secondary radio
+
+power supply sources.
+Table of Contents
+Foreword 3
+
+Chapter 1. Principles of construction of energy converters for radio
+
+power supply 5
+1.1. Basic functions executed by radio power supplies 6
+1.2. Structural circuits of energy converters 6
+1.3. Basic principles of construction of variable inverters
+with current input and their classification 7
+Chapter 2. Variable inverters with discrete power consumption and
+continuous transmission to load 9
+2.1. Inverter with (Le. coil in power circuit and additional
+switch control with gate conductivity 9
+2.2. Inverter with additional windings in coil and transformer 27
+2.3. Inverter with coil-transformer in power circuit 32
+2.1.. Inverter control devices providing stabilized output
+voltage 36
+65
+
+FOR OFFICIAL USE ONLY
+Chapter 3.
+3.1.
+3.2.
+3.3.
+3.4.
+
+Chapter 6.
+4.1.
+4.2.
+6.3.
+4.6.
+4.5.
+4.6.
+‘07.
+4.8.
+
+References
+
+COPYRIGHT:
+8617
+
+ltﬂltuﬂﬂCJAl.USE(MVLY
+
+Variable inverters with continuous power consumption
+from power source and transmission to load
+General principles of construction
+Inverter with nultiple section primary winding of
+power transformer
+Inverter with additional control transformer
+
+Inverter with energy transmission to load across two
+transformers
+
+Variable inverters with magnetic s.c. reactor in
+primary winding
+General Information
+Simplest inverter circuit
+Methods of controlling output power in inverters
+Variants of power section of inverters
+Variants of commutation circuits of power switches in
+inverters _
+Variants of control circuits determining current amplitude
+in primary side of inverter
+Properties of inverters with inductively-linited rate of
+current change
+Calculation of energy losses in inverter components
+
+Izdstel'stvo "Radio 1 svysz'", 1981
+
+C50: 1860/30?
+
+66
+
+FORIOFFNJAI,USE(N‘LY
+
+37
+37
+
+38
+69
+
+55
+60
+60
+61
+63
+67
+7h
+82
+
+86
+88
+
+95
+FOR OFFICIAL USE ONLY
+
+DDC 621.397.6
+
+TELEVISION DATA DISPLAY DEVICES
+
+Moscow TELEVIZIONNYYE USTROYS‘NA MOBRAZHENIYA Immsn in Russian 1981 (signed
+to press A Dec 80) pp 2, 198-199
+
+[Annotation and table of contents from book "television Data Display Devices" by
+Il'ya NaumOVich Guglin, Izdatel'stvo "Radio 1 svyaz'", 7000 copies, 200 pages}
+
+[Text] The author examines physical principles of the formation of TV signals of
+data display by digital methods, classification of ‘N data display devices, struc-
+tural principles of modern alphanumeric displays, special structural characteristics
+of data display devices used in A811 [automatic control systems] and subscribers' in-
+formation complexes, including the "Teletext" system. Much attention is given to the
+problems of designing microprocessors and specialized data display devices.
+
+This book is intended for engineers and technicians specializing in the area of data
+display systems in television, computers, telesignalisation, and other areas.
+
+Contents Page
+
+Foreword 3
+Chapter 1. Principles of the Formation of Data Display TV Signals 6
+1.1. General Propositions a
+1.2. Methods of Synthesizing Data Display Signals 10
+1.3. Method of Mathematical Logic 12
+1.0. Method of Trueness Diagrams 16
+Chapter 2. Alphanumeric Data Display Devices 20
+2.1. General Propositions 20
+2.2. Structural Principles of Alphanumeric Displays 26
+2.3. Multifunctional Alphanumeric Data Display Devices 29
+2.4. Memory Unit 32
+2.5. Keyboard of 001 [data display devices] 37
+2.6. Discrete Automatic TV Data Display Devices 60
+2.7. TV Synchrogenerator for Data Display Systems 64
+Chapter 3. Formation of Symbols 55
+3.1. General Propositions 55
+3.2. Matrix Representation in Forming Symbols 59
+
+67
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+3.3. Structure of Symbol Generators Using Matrix BIS
+[large-scale integrated circuits]
+
+3.6. Some Possibilities of Increasing the Effectiveness of Forming
+Matrix PZU [permanent storage devices]
+
+3.5. Formation of Symbols with the Aid of Discrete Elements
+
+hapter lo. Structural Characteristics and Uses of Alphanumberic
+
+Data Display Devices
+
+4.1. Data Input-Output Units for Conputers
+
+6.2. Uses of TV 001 in Telegraphy
+
+4.3. Formation of Vectorsand Graphical Information
+
+4.6. Formation of Diagrams, Hnemonic Diagrams, and Background
+Images
+
+4.5. Uses of TV Displays in Polygraphy
+
+4.6. Uses of TV UOI in Information Systems
+
+:hapter 5. Formation of Graphical Infomtion
+
+5.1. General Propositions
+5.2. Formation of Graphical Information with the Aid of Computing
+Devices
+
+5.3. Formation of Inclined Displacement Figures and Lines of
+Unlimited Lengths
+
+. Formation of Vectors
+
+. Formation of Circular Displacement Figures
+
+. Formation of Ares and Vectors
+
+:hapter 6. Graphic and Universal Data Display Devices
+
+6.1. General Propositions
+
+6.2. Graphic [DI
+
+3. Universal wI
+
+lo. Computing Devices of Graphic 1m
+5. Logical Former
+
+:hapter 7. Measuring and Specialised 1m in Connonications Engineering
+
+7.1. Television UOI in Communications Engineering
+
+7.2. Principles of Television Oscillogrsphy
+
+7.3. Digital Device for Displaying Service (Oscillographic)
+Information -
+
+7.6. Multichannel Display
+
+7.5. Specialized UOI for Comnication Complexes
+
+7.6. Mass Information Reference Service "Teletext"
+7.7. Devices Developed Abroad
+
+7.8. "Teletext" vith a Variable Composition of Symbols
+
+:hapter 8. Programmed Devices in Data Display Techniques
+
+8.1. Microprocessors in UOI
+
+8.2. Combining of a Display with a Hicrocomputer
+8.3. Structural Principles of Intellectual Displays
+8.4. Programmed Logic Matrices
+
+\bbreviations
+
+Bibliography
+COPYRIGHT: Izdstel'stvo "Radio 1 svyaz'", 1981
+
+10,2
+[250:
+
+33
+moo/31.2 68
+
+FOR OFFICIAL USE ONLY
+HROHKMLWEOMN
+
+UDC 621.382+621.396.6
+THEORY OF SOLID STATE ELECTRONICS AND INTEGRATED CIRCUITS
+
+Hoscov FIZICHBSKIYE OSNOVY KONSTRUIROVANIYA, TBKHNOLOGII REA I HIKEOBLEKTRONIKI
+in Russian 1981 (signed to press 5 Mar 81) pp 2, 247-268
+
+[Annotation and table of contents from book "Physical Principles of Design and
+Technology of Radio Electronics Equipment and Hicroelectronics". by
+
+Aleksandr Andreyevich Shternov. Izdatel'stvo "Radio 1 svyaz'", 25,000 copies.
+248 pages]
+
+[Text] The foundations of processes determining the operating principles of radio
+end microelectronic equipment are set forth. The structure of solids, their
+electrophysical properties are examined in details contact. surface. acoustic and
+optical phenonena are discussed: phase conversions and thin fill effects are in-
+vestigated.
+
+The handbook for a course in "physical foundations of design and technology of
+
+radio electronics and microelectronics" is for students majoring in design and
+
+production of radio equipment. It will be useful to students in related majors
+and to a broad range of specialists in the radio industry.
+
+Table of Contents
+
+Foreword 3
+Chapter 1. Internal structure of solids 5
+1.1. Bonding forces in solids 5
+1.2. Crystalline solids 10
+1.3. Lattice defects and mechanical properties of materials 15
+Chapter 2. Foundations of zonal theory and statistical physics 19
+2.1. Foundations of zonal theory 19
+2.2. Impurity levels 25
+2.3. Element of statistical physics 27
+2.4. Concentration of charge carriers 30
+2.5. Nonequilibrium carriers 36
+69
+
+IN)!‘0I1WC1AI.I£SEI(HVLY
+Chapter 3.
+3.1.
+3.2.
+3.3.
+3.4.
+
+Chapter 5.
+5.1.
+5.2.
+5.3.
+
+Chapter 6.
+6.1.
+6.2.
+6.3.
+606.
+6.5.
+
+Chapter 7.
+7.1.
+7.2.
+
+Thermal properties of solids
+Thermal oscillations of the lattice
+Thermal capacity of solids
+Mechanism of heat transfer
+Thar-a1 expansion
+
+Electrical properties of solids
+Mobility of charge carriers
+
+Electrical conductivity of solids
+Thermoelectrical effects
+Electrical conductivity in intense fields
+Electrical conductivity of double-V semiconductors
+Superconductivity
+
+Dielectric properties of solids
+
+Electrical conductivity of dielectrics
+
+Dielectric losses
+
+Effects in contacts
+Semiconductor—semiconductor contact
+Metal-semiconductor contact
+Bimetal contact
+
+Physical processes in near-surface layers
+Surface states
+Near-surface space charge
+Field effect
+Surface reconbinationa
+Effect of surface state on mechanical properties of
+materials
+
+Optical effects in solids
+Reflection of emission on surface
+Absorption of emission by solid
+Optical generation of free charge carriers
+Photoconductivity
+Optical emission of solids
+Operating principles of lasers
+Foundations of holography
+Elements of fiber optics
+
+Magnetic properties of solids
+Ferromagnetic properties of matter
+Antiferromagnetisn and ferrimagnetisa
+Magnetic materials based on rare-earth elements
+Magnetic cylindrical domains
+Magneto-optical effect
+Hall effect
+Superconductors in a magnetic field
+IN)! O‘TﬂCJAL USILCHULY
+
+Chapter 9. Acoustic effects on solids
+9.1. Ultrasonic converters
+9.2. Acoustic vaves in an elastic medium
+9.3. Acoustoelectronic effects
+9.4. Use of ultrasonics in technological processes
+
+Chapter 10. Diffusion
+10.1. Mechanics of diffusion
+10.2. Lava of diffusion
+10.3. Distribution of diffused matter in a solid
+10.4. Diffusion in compounds and polymers
+10.5. Formation of oxide films
+
+Chapter 11. Physical foundations of phase conversions
+11.1. Crystallization
+11.2. Phase conversions in solid state
+11.3. Phase equilibrium
+11.4. Amorphous phase
+11.5. Molecular phases
+
+Chapter 12. ‘Physical effects in thin films
+12.1. Formation and growth of films
+12.2. Epitaxial films
+12.3. Films of organic compounds
+12.4. Physical properties of thin fihas
+12.5. Electrical conductivity of films
+12.6. Superconductivity of thin films
+12.7. Thin magnetic films
+
+Chapter 13. Physical foundations of hermetization
+13.1. Netting of a solid surface
+
+13.2. vetting during processes of soldering and metallisation
+13.3. Adhesion of films
+13.4. Hermetizing properties of films
+
+Chapter 14. Effects of intense penetrating emissions on matter
+
+14.1. Pormation of radiation defects
+14.2. Effect of radiation defects on properties of materials
+
+14.3. Helionics
+14.4. Effect of optical emission on solids
+Appendix
+References
+Alphabetical index
+COPYRIGHT: Izdatel’stvo "Radio 1 svyaz'", 1981
+
+8617
+cs0: 1860/303
+FOR OFFICIAL USE ONLY
+
+000 62l.396.96.001(07)
+
+THEORY AND memories 01' RADAR DATA mocsssmc AGAINST ‘1'!!! BACKGROUND (1’ INTERFER-
+ENE
+
+Moscow TEORIYA I TEKHNIKA OBRABUI'KI RADIOLOKATSIONM INFORMATSII NA PONE pm in
+Russian 1981 (signed to press 20 Apr 81) pp 2-3, 410-416
+
+[Annotation, foreword and table of contents from book "Theory and Techniques of Ra-
+dar Data Processing Against the Background of Interference", by Yskov Davidovich 51.1,-
+
+man andVVladimir Nikolayevich Manshos, "Radio 1 svyaz'", 10,000 copies, #16 pages]
+
+[Text] The authors generalized the problems of the optimization of multichannel
+and single-channel detection, measurement and resolution of radar signals.
+
+Main attention is given to the principles of synthesis and problems of technical re-
+alization of various analog and digital detectors and meters of signal parameters
+against the background of correlated nonsteady-state interferences, problems of the
+adaptation to the conditions of a priori ambiguity, etc. A large number of illus-
+trative examples are given.
+
+The book is intended for specialists engaged in the theory, design and operation of
+radioelectronic facilities and systems.
+
+Foreword
+
+The rapid development of radioelectronics, and the theory and techniques of proces-
+sing radar information in particular, makes it difficult to generalize various pub-
+lications in this area. However, there is an urgent need in generalizing publica-
+tions covering the present state of the theory and the prospects for the realization
+of its conclusions.
+
+Therefore, the generalization of the "established" and new problems of processing
+radar information against the background of interferences from a single sufficient-
+1y general, methodological position is an urgent but difficult problem. For example,
+the improvement of the element base broadened the possibilities of multichannel re-
+ception. Signals and interference are described by sets of time functions, or by
+functions of time and coordinates. Space-time processing of signals against the
+background of interference ensuring its effective suppression (not only in radar)
+becomes the subject of optimization. Generalization of new problems of such proces-
+sing is a substantial part of the goal stated above.
+
+72
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+This book is an attempt to solve this problem to some degree. It is based on courses
+of lectures on the radar theory: for engineers improving their skills; for graduate
+students and candidates preparing for postgraduate examinations. Special attention
+is given to problems which are not always clearly and fully explained in published
+sources: theory of primary space-time processing of radar information against the
+background of correlated interferences with provision not only for the accumulation
+of useful signals but also for compensating interfering signals; theory of measur-
+ing of signal parameters changing and not changing in time against the background of
+interference in the process of primary and secondary processing; adaptation theory;
+adaptive antennas and moving target selection systems; new methods of coherent pro-
+cessing of simple and complex space-time signals -- digital, optical, and spin me-
+thods.
+
+Much attention is given to the compactness, uniformity and simplicity of presenta-
+tion of relatively complex theoretical material. The book reflects many years of
+teaching experience and personal investigations of the authors in this area. Many
+examples are given. The book will be useful not only to engineers and graduate stu-
+dents, but also to undergraduate students of vuses. Materials which until now could
+be used by a narrow circle of researchers have now become accessible to many others.
+
+The authors express their gratitude to V. Ye. Dulevich, D. I. Lekhovitskiy and M. B.
+Sverdlik for their useful comments.
+
+Contents Page
+Foreword 3
+1. General Information About Radar Data and Its Processing
+
+I. Fundamental Propositions of the Theory of Multichannel Detection of
+Radar Signals
+
+2. Statement of the Problems of the Optimisation of Signal Detection
+and Methods of Their Solution
+2.1. Statement of the Problems of the Optimisation of Signal
+
+Detection 7
+2.2. Main Indexes of the Effectiveness of Two-Alternative and
+
+Three-Alternative Detection 9
+2.3. Optimum Criteria of Detection 10
+2.5. Optimization of Solutions in Two-Alternative Detection 11
+2.5. Optimization of Solutions in Three-Alternative Detection lb
+
+3. Optimal Detection of a Sampled Sienal with Known Parameters Against
+the Background of Gaussian Correlated Interference
+
+3.1. Statement of the Problem. Signal and Interference Models 17
+3.2. Algorithms of Optimal Detection of a Sampled Signal with
+
+Known Parameters 21
+3.3. The Parameter and Quality Indexes of Two-Alternative
+
+Detection of Discrete Signal Sampling 2d
+
+3.0. Accumulation, Compensation and Interelement Normalization
+by the Level of Interference as Component Parts of Optimal
+Height Processing (Example of Two-Element Sampling) 25
+
+73
+
+INJR OFIWCJAI.lﬂHE(MVLY
+4.
+
+7s
+
+FOR OFFICIAL USE ONLY
+
+Optimal Multichannel Detection of a Continuous Signal with Known
+
+Parameters Against the Background of Gaussian Correlated Interference
+
+4.1. Transition from Sampled to Continuous Realization
+
+4.2. Integral-Matrix Equation of Weight Vector
+
+4.3. Basic Results of the Theory of Multichannel Detection of
+Continuous Signals and Examples of Its Use
+
+4.4. Brief Information on the Theory of Linear Filters of
+Continuous Oscillations with Constant Parameters
+
+4.5. Coordinated Filtration as a Detection Operation Against the
+Background of Stationary white Noise
+
+4.6. Optimal Filtration as a Detection Operation Against the Back-
+ground of Stationary Nonwhite Noise
+
+Special Characteristics of Multichannel Detection of High-Frequency
+
+Signals
+
+5.1. Complex Recording of Narrow-Band High-Frequency Oscillations
+
+5.2. Approximate Calculation of Integrals of Products of Narrow-
+Band High-Frequency Oscillations
+
+5.3. Calculation of Cross-Correlation Functions of Random Narrow-
+Band High-Frequency Oscillations M [a(t)b(s)] in Linear
+Systems with Constant Parameters
+
+5.4. Complex Recording of Oscillations Received, Oscillations of
+the Useful Signal, and Oscillations of Interference. Complex
+Correlation Matrix of Interference
+
+5.5. Complex Recording of Main Relations of the Theory of the
+Detection of Continuous Signals with Known Parameters
+
+5.6. White Noise Model in Narrow-Rand Description of High-Frequency
+Oscillations
+
+5.7. Examples of Synthesis of Multichannel Detectors with the
+Use of Complex Recording of High-Frequency Oscillations
+
+5.8. Complex Recording of Filtration Equations of High-Frequency
+Oscillations
+
+Special Characteristics of Multichannel Detection of Coherent Signals
+
+with Random Noninformative Parameters
+
+6.1. Method of Calculating Noninformative Signal Parameters and Its
+Application to Detection Against the Background of Gaussian
+Interference
+
+6.2. Likelihood Relation and Algorithm of Optimal Detection of
+Signals with a Random Initial Phase
+
+6.3. Likelihood Relation and Algorithm of Optimal Detection of
+Signals with a Random Amplitude and Random Initial Phases
+
+6.4. Block Diagrams of Signals Detectors with a Random Initial
+Phase and with a Random Amplitude and a Random Initial Phase
+
+6.5. Quality Indexes of Two-Alternative Optimal Detection of
+Coherent Signals with Random Parameters
+
+Optimal Detection of Simplest Incoherent Signals in Gaussian
+
+Interference During Multichannel Reception
+
+7.1. General Information about Incoherent Signals
+
+7.2. Algorithms of Optimal Detection of Incoherent Signals for
+the Simplest Incoherence Models
+
+74
+
+FOR OFFICIAL USE ONLY
+IXMR(MHHCIA1.USEGMMLY
+
+Methods of Calculating the Effectiveness of Postdotoction
+Accumulation of Incoherent Signals
+
+Examples of Calculating Statistical Characteristics of Output
+Voltages and Effectiveness Indexes of Postdetection Accumulators
+Quality Indexes of the Detection of Incoherent Signals for a
+Fixed Volume of Sampling
+
+Quality Indexes of Successive Detection of Incoherent Signals
+Quasi-optimal Procedures of Binary and Multilevel Digital
+Incoherent Accumulation
+
+8. Special Characteristics of Synthesis of Detectors of Random Gaussian
+Signals Against the Background of Gaussian Interference
+
+8.1.
+
+8.2.
+8.3.
+
+8.6.
+8.5.
+
+8.6.
+
+General Problem of the Detection of a Discrete Gaussian Random
+Process Against the Background of Discrete Gaussian Interference
+Auxiliary Mathematical Propositions
+
+Expressions of the Logarithm of the Likelihood Relation for
+Sampled and Continuous Oscillations
+
+Examples of Synthes ‘ of Optimal Detectors of Coherent Gaussian
+signals
+
+Examples of Synthesis of Optimal Detectors of Incoherent
+Gussian Signals
+
+Examples of Synthesis of Optimal Detectors of Partially
+Coherent Gaussian Signals
+
+II. Radar Signals and Modern Methods c’ Their Processing
+
+9. Error and Resolution Functions of Space-Time Coherent Signals. Signals
+Without Intrapulse Modulation and Methods of Their Processing
+
+9.1.
+9.2.
+9.3.
+9.6.
+
+9.5.
+9.6.
+
+General Relations for Error Functions of Coherent Signals
+Space (Angle) Error Functions
+
+Time-Frequency Error Functions
+
+Functions of Error and Ambiguous Bodies of Single Radio Pulses
+Without Intrapulse Modulation
+
+Methods of Processing Single Radio Pulses Without Intrapulse
+Modulation
+
+Error Functions and the Method of Processing Coherent Trains
+of Radio Pulses
+
+Principles of Correlation and Filter Processing and Peculiari-
+ties of Its Use in the Case of Quasi-Continuous Signals
+Special Characteristics of Coordinated and Optimal Resolution
+Weight Processing of Coherent Trains of Radio Pulses
+
+10. Frequency Modulated Signals and Methods of Their Processing
+10.1 Error Functionscf Linear Frequency-Modulated Radio Pulses
+
+10.2.
+
+10.3.
+
+Compression of IChM [linear frequency-modulated] Radio Pulses
+in Matched Filters
+Correlation and Filter Processing with Generalised Meterodyning
+
+ll. Phase-Manimulated Signals and Methods of Their Processing
+
+11.1.
+11.2.
+
+Signals Based on Barker Codes and Multiphase Codes
+Signals Based on Linear Recurrent Digital Sequences
+
+75
+
+FOR OFFICIAL USE ONLY
+11.3.
+11.6.
+11.5.
+
+12. New
+12.1.
+12.2.
+12.3.
+12.4.
+12.5.
+12.6.
+12.7.
+
+12.8.
+
+12.9.
+
+12.10.
+12.11.
+12.12.
+
+FOR‘OFFNJAL.USE(NNLY
+
+Continuous 0,7? Signals Manipulated by M-Sequences
+
+Continuous 0, q? Signals Manipulated by M-Sequences
+Pulsed 0, {F Signals Manipulated by M-Sequences
+
+Methods of Digital and Analog Coherent Processing
+Distinctive Characteristics of Discrete Coherent Processing
+Discrete (Digital) Processing in the Time Region
+Digital Filtration in the Frequency Region
+Fast Fourier Transformation
+Realization and Use of Fast Fourier Transformation
+Walsh Transformation as a Possible Method of Digital Processing
+Numerical Transformations as a Possible Method of Digital
+Processing
+New Analog Methods of Processing. Two-Pulse Processing
+Method with the Use of Spin Echo
+Three-Pulse Processing Method with the Use of Spin Echo
+
+Possibilities of Using Spin Haves
+
+Optical Methods of Processing
+
+Matched Optical Coherent Processing in Side-Looking Radars
+with a Synthetic Aperture
+
+III. Principal Propositions of the Theory of Multichannel Radar Measurements
+
+13. Setup and Solution Methods of Optimal Measurements of the Parameters of
+Radar Signals. Basic Features of Regular Measurements
+
+13.1.
+13.2.
+13.3.
+
+13.6.
+
+13.8.
+
+Statement of Problems of Optimal Measurements
+
+Postexperimental Probability Density in the Bayes Theory of
+Evaluation
+
+Optimization of Evaluations by the Criterion of Minimum Average
+Risk. Evaluations of the Maximum of Postexperimental Probability
+Density and Maximum Likelihood
+
+Postexperimentsl Probability Density and Correlation Matrix of
+Errors of Regular Measurements of the Vector Parameter in the
+Absence of a priori Data
+
+Multidimensional Ellipsoid of Errors of Regular Measurements in
+the Absence of a priori Data
+
+Simplest Examples of Point and Interval Regular Bayes Evaluation
+Postexperimental Probability Density and Correlation Matrix of
+Errors of Regular Measurements of the Vector Parameter in the
+Presence of a priori Data
+
+Discriminator Methods of Optimal Measurements
+
+14. Special Characteristics of Optimal Measurement of Time-Constant Param-
+eters of Coherent Signals Against the Background of white Noise
+
+16.1.
+14.2.
+
+16.3.
+
+Varieties of Measured Parameters and Initial Relations
+
+Likelihood Equations and Reciprocal Correlation Matrices of
+
+Errors in Regular Measurements of Nonenergy Parameters of
+
+Coherent Signals in the Case of Their Random Initial Phase
+
+and Absence of a priori Data
+
+Equations of Generalised Discrimminstors of Nonenergy Param-
+
+eters of Coherent signals in the Case of Their Random Initial Phase
+
+76
+
+INDR OFTHCJAI.USI:CNNLY
+
+152
+164
+165
+
+146
+159
+152
+156
+159
+160
+16k
+166
+171
+173
+175
+
+180
+
+183
+185
+
+186
+
+190
+
+192
+
+193
+
+195
+
+197
+
+200
+
+201
+
+203
+14.4.
+14.5.
+14.6.
+
+14.7.
+14.8.
+14.9.
+14.10.
+14.11.
+
+14.12.
+14.13.
+
+FOR OFFICIAL USE ONLY
+
+Examples of Optimal Nontracking Meters of Delay Time and
+Frequency of Oscillations
+Potential Accuracy of Separate Measurement of Delay Time
+and Frequency of Oscillations
+Potential Accuracy of Simultaneous Measurement of Delay Time
+and Frequency of Oscillations
+Time Discriminators
+Frequency and Time-Frequency Diacriminators
+Potential Accuracy of Measurement of Angular Coordinates
+Examples of Two-Channel Phase Angular Meters
+Examples of Multichannel Angular Phase Meter on the Basis of
+a Receiving Antenna Array
+Example of an Angular Amplitude Meter
+Special Characteristics of Measuring Energy Parameters of
+Coherent Signals
+
+15. Special Characteristics of Optimal Measurements of Time-Constant
+Parameters of Incoherent Signals Against the Background of White Noise
+
+15.1.
+15.2.
+15.3.
+
+15.4.
+15.5.
+15.6.
+15.7.
+15.8.
+
+15.9.
+
+General Characteristics of Measuring Time-Constant Nonenergy
+Parameters of Incoherent Signals
+
+Special Characteristics of Using Models of Rapidly Fluctuating
+Incoherent Signals in the Theory of Measurements
+
+Method of Calculating Potential Accuracy of Regular Measurements
+of Scalar Nonenergy Parameters of Incoherent Signals Against the
+Background of white Noise
+
+Calculation of Potential Accuracy in Measuring the Delay Time
+and Frequency of Rapidly Fluctuating Signals
+
+Special Characteristics of Time and Frequency Measurement
+
+with the Use of Incoherent Signals
+
+Example of a Meter of the Angle of Arrival of Spatially
+Incoherent Oscillations
+
+Example of a Meter of the Angle of Arrival of Oscillations
+
+with Time Incoherence
+
+Example of a Meter of Differences of Time Delays of a Noise
+Signal
+
+Example of a Meter of the Angular Rate of Movement of the
+
+Source of a Rapidly Fluctuating Signal
+
+16. Optimal Measurement of Parameters Discretely Changing with Time.
+Special Characteristics of Indirect Measurement
+
+16.1.
+16.2.
+16.3.
+16.4.
+16.5.
+16.6.
+
+16.7.
+
+Models of the changes of the Parameters of Signals with Time
+Gauss-Markov Model of Discrete Parameter Changes
+
+Possibilities of Registering the Interrelation of Random
+Elements of a Current Maneuver in Time
+
+Examples of Simulating Parameter Changes
+
+Altering the Model of Discrete Parameter Changes in Application
+to thc Case of Indirect Measurement. The Concept: of Filtration,
+Prediction and Smoothing of Evaluations
+
+Linearized Equations and Block Diagrams of the Filtration of
+Discrete Estimates in the Case of Direct Measurement
+
+Linearized Equations and Block Diagrams of the Filtration of
+Discrete Estimates in the Case of Indirect Measurement
+
+77‘
+
+FOR‘OFFKJAI.USE(MMLY
+16.8.
+16.9.
+
+16.10.
+
+FOR 0FTWC1A1.USEloNLY
+
+Examples 0! Synthesis and Analysis of Meters of Parameters
+Discretely Changing with Time
+
+Combined Optimal Smoothing of Estimates of a Discretely
+Changing Parameter
+
+General Case oi Optimal Measurement of a Discretely Changing
+Markov Parameter
+
+17. Optical Measurement of Parameters Continuously Changing with Time
+
+17.1.
+17.2.
+
+17,h,
+
+Nodel of Continuous Changes of a Parameter
+Characteristics of the Model of Continuous Changes of a
+Parameter
+
+Equations and Slock Diagrams of the Filtration During
+Continuous Estimation
+
+Examples of Synthesis and Analysis of Meters of Parameters
+Continuously Changing with Time
+
+Comiined Optical Smoothing and Interpolation of Estimates
+0| 4 Continuously Changing Parameter
+
+inderUJCleS of Models and Divergence of Estimates of Measured
+Parsrwrors
+
+1V. Pvaction~Measurrﬁcnt, Adaptation, and Related Problems
+
+1?. Detection-Measurement and Its Anomalies
+
+18.1.
+18.3.
+
+18.3.
+
+18.&.
+18.5.
+
+General Considerations Regarding Detection-Measurement
+Detection-Neasurement in the Process of Secondary Processing
+of Informuion
+
+Detect.on'Measurement When Combining Information from Several
+Spaced Sources. Principle of Identification
+
+Anomalies of Measurement and Detection-Measurement
+
+Anomalies of the Estimation of Dispersion and Mathematical
+Expectation by Samples from a Normal Set when the Number of
+Their Elements is Small
+
+:0. virianrs or the Calculation of Noninformstive Parameters of Signals
+and Interference. Adaptation. Nonparametric Detection
+
+l”.1.
+l”.3.
+
+l”.l.
+l”.ﬁ.
+lﬂ.ﬁ.
+l“.h.
+I”.l.
+lW.n,
+14.".
+
+‘3' a ‘-
+)l\
+
+Variants of the Calculation of Noninformative Parameters Under
+Known a priori Conditions
+
+Introduction of Noniniormative Parameters into Calculations
+under the Conditions of a priori Ambiguity
+
+Examples of Calculations of Noninformative Parameters
+Adaptation
+
+Svuthesis of Automatic Noise Gain Control
+
+ﬁimplcst Methods of Calculating Non-Gaussian Interference
+'ign-Tvpe Nonparametric Detectors
+
+Rank-Type Nonparametric Detectors
+
+tharo or Nonlinear Transformations in Using Rank Algorithms
+
+41 Characteristics of the Detection and Neasurement of Signal
+
+PJerﬂivtS Against the Background of Interfarences with a Known and
+Fuknavu “patial Correlation
+
+Hvdris of Signals and Interference. Statement of the Problem
+
+78
+
+FOR OFFICIAL USE ONLY
+20.8.
+20.9.
+20.10.
+20.11.
+20.12.
+20.13.
+20.14.
+20.15.
+20.16
+
+20.17.
+
+FOR OFFICIAL USE ONLY
+
+Inversion of Large-Dimension Correlation Matrix of a Special
+Type
+
+Inversion of Large-Dimension Correlation Matrix rf an Arbitrary
+Type
+
+Variants of Coherent Space-Time Processing Against the Back-
+ground of Correlated Interferences with Known Correlation
+Matrices
+
+Weight Vectors and Directivity Characteristics
+
+Energy Utilization and Gain Coefficients
+
+Special Characteristics of Space-Time Processing in Hide-Band
+Systems
+
+Principles of Estimating Complex Correlation Matrices of
+Space-Correlated Interference '
+
+Discrete Estimation of a Correlation Matrix of Interference
+Changing with Time
+
+Continuous Estimation of a Correlation Matrix of Interference
+Changing with Time
+
+Estimation of a changing Inverse Correlation Matrix of
+Interference
+
+Estimation of the "eight Vector. The Use of Correlation
+Feedback in Processing Devices
+
+Analog Processing Devices with Correlation Feedback
+Transient Processes During Adaptation
+
+Adaptation in the Case of a High Intensity of the Useful
+Signal
+
+Special Characteristics of Optimal Measurement of Signal
+Parameters Against the Background of Correlated Interference
+Examples of Optimal Measurement Against the Background of
+Correlated Interference
+
+21. Special Characteristics of the Detection and Measurement of Signal
+Parameters Against the Background of Interference with a Known and
+an Unknown Time Correlation
+
+21.1.
+
+21.2.
+21.3.
+
+21.6.
+
+21.8.
+
+21.9.
+
+Models of Interference with 3 Known Correlation. Statement of
+the Problem
+
+Variants of Models of Passive Interference with Known Parameters
+Special Characteristics of a Model of Steady-State Nonwhite
+Noise in the Synthesis of High-Speed Selection
+
+Possibilities of Using a Model of Steady-State Nonvhite Noise
+
+in the Synthesis of Spatial Selection
+
+Special Characteristics of Selection in the Case of Continuous
+Unmodulatcd and Quasi-Continuous Radiation
+
+High-Speed Selection in Pulse-Modulated Radars with Single-Valued
+Range Measurement in Each Impulsing Period
+
+Examples of Synthesis of Simplest Compensation Devices in Appli-
+cation to Various Models of Passive Interference in the Case of
+Single-Valued Range Measurement
+
+Speed Characteristics of Compensation Devices for Selecting
+Moving Targets
+
+Coefficients of Energy Utilization, Gain, and Visibility Under
+Interference of Coherent Signal Against the Background of Inter-
+ference with Time Correlation
+
+79
+
+FOR OFFICIAL USE ONLY
+FOR‘0FF"JA[.USE(NHLY
+
+21.10. Simplest Hethab ofthe Adaptation of SDTs [moving-target
+selector] to Individual Unknown Characteristics of Interference
+21.11. Possibilities of Constructing Adaptive SDTs with Estimation
+of Direct and Reciprocal Correlation Matrices or the Optimal
+Weight Vector
+
+Supplements
+
+List of Symbols Used
+
+Bibliography
+
+Subject Index
+
+COPYRIGHT: Izdatel'stvo "Radio 1 svvaz'", 1981
+
+10,233
+cso: 1860/343
+
+80
+
+FOR t. .51“. USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 621.3983
+WIDEBAND ANALOG COMMUNICATION SYSTEMS WITH COMPLEX SIGNALS
+
+Moscow SHIROKOPOLOSNYYE ANALOGOVYYE SISTEMY SVYAZI 80 SLOZH-
+NYMI SIGNALAMI in Russian 1981 (signed to press 19 Dec 80) pp 2. 153
+
+{Annotation and table of contents of book "Wideband analog systems of com-
+
+munication with complex signals", by Petr Fedorovich Polyakov, lzdatel'stvo
+"Radio i svyaz'". 2.250 copies, 153 pages]
+
+[Text] Questions of utilization of complex signals in analog system of tran-
+mission of continuous messages along radio channels with continuous and
+randomly alternating parameters. additive functional and concentrated noise
+are set forth. Methods are considered for formulat' complex analog sig-
+nals; algorithms are determined for optimum (adaptive and quasi-optima
+reception for single and multiple beam channels of radio communications and
+their corresponding receivers. Their noise-immunity is analyzed. Recom-
+mendations are made for selecting the basis of a complex signal as a func-
+tion of the noise affecting it.
+
+For scientific workers engaged in research and development on communica-
+tions systems.
+
+Table of Contents
+
+938°
+
+introduction 3
+Conventional notations 5
+Main abbreviations 7
+Chapter 1. Complex analog signals. Features, properties.
+
+methods of forming 8
+1.1. introductory remarks 8
+1.2. Features and properties of complex analog signals 8
+1.3. Formation and properties of complex carrier 20
+1.4. Formation of complex analog signals by modulation of
+
+a complex carrier in amplitude and frequency 27
+1.5. indirect methods of modulation of a complex carrier 31
+
+Chapter 2. Nonlinear synthesis of receivers of complex analog
+
+81
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+signals in channels having constant parameters 33
+2.1. Introductory remarks 33
+2.2. Synthesis of receivers of complex analog signals with random
+
+parameters in fluctuatingnotse 36
+2.3. Synthesis of receivers of complex analog signals under conditions of
+a priori indefiniteness 43
+2.4. Synthesis of optimum receivers of complex analog signals with
+
+concentrated noise and fluctuation noise 60
+2.5. Brief summary of chapter 68
+
+Chapter 3. Quasi-optimum reception of complex analog signals
+in channels having constant parameters. fluctuating and
+
+concentrated interference 69
+3.1. Introductory remarks 69
+3.2. Quasi-optimum reception of complex analog signals with
+
+frequency compression 71
+3.3. Realization of double Fourier transformation and analysis
+of transformation errors 83
+
+3.4. Principles of using double Fourier tramfomation to
+realize algorithms of optimum and quasioptimum
+
+reception 92
+3.5. Effectiveness of practical use of Fourier filters in
+data transmission systems 100
+3.6. Reception of complex analog signals using linear
+matched (quasi-matched) filters 108
+3.7. Autocorrrelation reception of compex analog signals 115
+3.8. Brief summary of chapter 119
+Chapter 4. Optimum andquaaiv-optlmnlt'eception of complex
+analog signals in channels having variable parameters 120
+4.1. Introductory remarks 120
+4.2. Some features and models of channels having variable
+parameters 121
+4.3. Synthesis of receivers of complex analog signals in channels
+having common fading and additive fluctuating noise 129
+4.4. Reception of complex analog signals in channels with selective
+fading and fluctuation noise 139
+4.5. Brief summary of chapter 147
+Conclusion 147
+References 148
+
+COPYRIGHT: Izdatel'stvo “Radio i svyaz‘", 1981
+
+8617
+C50: 1860/ 306
+
+82
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+CRYOELECTRONIC RECEIVING MODULES USING HYBRID INFRARED BAND CHARGE COUPLED DEVICES
+
+Moscow POLUPROVODNIKI. SVERKHPROVODNIKI I PARABLEXTRIKI V KRIOELEKTRONIKE in
+Russian 1979 pp 350-364
+
+[Section 6.8 and relevant bibliography from the book by V.N. Alfeyev: "Semicon-
+
+ductors, Superconductors and Paraelectrics in Cryoelectronics". Isdatel'stvo
+"Sovetskoye radio")
+
+[Text] 6.8. Cryoelectronic Receiving Modules Using Hybrid IR CCD’a.
+
+As was shown in 56.6, cryoelectronic modules have been used to an ever greater
+extent in recent years for remote sensing in the IR band in various fields of
+science and engineering. This has been greatly stimulated by the development of
+thermal inagers in medicine for the determination of the heat picture of the human
+body for the purpose of early diagnosis of numerous illnesses at small distances
+from the object to the receiver, as well as the development of scanners for the
+study of the earth's natural resources in meteorological, geological and other
+research at great distances from the radiation source [17]. All of this work would
+be impossible without the synthesis of new narrow band semiconductor materials,
+the width of the forbidden band in which corresponds to the low energy of the quan-
+ta in the various regions of the IR hand, without the creation of new methods of
+fabricating diode structures which have a high detection capability, without the
+development of low noise. small signal amplification techniques and without the
+successes of cryogenic engineering and methods of seaming within a specific field
+of view. Despite the design of various types of charge coupled devices during
+1970 ~ 1976 [33, 36, 51c], mechanical scanning receivers with a single cryoelec-
+tronic IR receiver and an autonomous cryogenic installation for continuously main-
+taining the requisite cooling level have become the most widespread in IR receiv-
+ing systems operating at long ranges. If moving images are received, the scanning
+is accomplished in one plane using the well-known configuration adopted for ther-
+mal imagers (Figure 6.13).
+
+The received signal of one "point" of an image in the IR band passes through the
+scanning mirror (1) (or rotating prism) to the input of the optical IR mirror
+system (2) and is focused on the sensitive area of the IR receiving element (3),
+which is coupled to the low noise preamplifier (4) located in cryostat (5). Unit
+(6) is coupled to a photographic recorder which has a light source, the beam of
+
+which travels over photographic film synchronously with the motion of mirror (1),
+recording the intensity of each point of the IR image in a horizontal line.
+
+83
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+‘(A’lnliluuilll,
+
+  
+  
+
+ 
+
+  
+
+To the photographic recorder
+Ipsmmnunﬂ'ﬂv
+
+Figure 6.13. Electromechanical cryoelectronic scanning receiver
+for the infrared band.
+
+Key: A. Input IR signal.
+
+Multiple element IR receivers which operate in various portions of the IR spectrum
+are used to improve the resolution of such systems and provide for pattern recogni-
+tion. The type 8-192 multichannel cryoelectronic scanning receiver, installed in
+the "Skylab" (0.8.), with 12 channels in the visible, near and middle In regions
+(to 2.5 um) and with a 13th channel for 10.8 - 12.5 um [12] has extremely good
+parameters. This device is made using a single Cdxﬂgl-xTe semiconductor material
+and is cooled to a temperature of 90 °K.
+
+The fundamental drawback to all mechanical IR scanning receivers is the peripheral
+distortion of the diameter of the circle of confusion which falls on the receiving
+element, with a deviation from the main optical axis of just a slight viewing angle,
+as well as the impossibility of controlling the scan in a wide range, the necessity
+of having special electronic circuitry for the utilization of multiple element re-
+ceivers and mechanical devices with an electric motor. The use of electronic scan-
+ning with CCD's makes it possible to eliminate the deficiencies enumerated above
+and enjoy the new functional capabilities in them. For this reason, the develop-
+ment and study of CCD's and IR band receivers using CCD's have become a promising
+field in recent years in which numerous researchers are at work [33-36). One of
+the major problems confronting designers consists in retaining the same ultimate
+sensitivity in an electronically scanned system as in a single receiver with a sta-
+tionary reflector and making use of the advantages which deep cooling yields so as
+to improve the noise and amplification properties of CCD's.
+
+The scanning task is facilitated in thermal imaging receivers in that the images
+received only by one line of IR receiving elements, the number of which for a
+specified resolution (size of the sensitive receiving area) determines the aspect
+angle when viewing the terrain. For this reason, it is expedient to construct the
+receiver in two ways: the element by element connection of each of the receivers
+of the infrared strip, which is fabricated from a narrow band material, to the
+input cells of a silicon CCD shift register, which performs the function of
+series-parallel conversion and information compaction; or by setting up a matrix
+of IR linear strips, each of which is connected element by element to a CCD regis-
+
+FOI! OFFICML USE ONLY
+FOR OFFICIAL USE ONLY
+
+When both of these methods are used. it is necessary to insert a differential
+amplifier at the output of the CCD register. where an additional CCD register is
+simultaneously connected to the amplifier to suppress the clock noise. A schematic
+cryostat contained hybrid infrared CCD with a three cycle supply (01. 02. 03) is
+shown in Figure 6.14.
+
+(Knuymn[_lk irradiation.
+
+' i L.-.- i is .‘ :"i.'.'
+
+Jam Iain?!“ ‘
+o g . .
+'(33 'Im'
+
+. Triggering J
+" - . . .uuu
+
+lye-:05: mm(c) -- ’"ﬂ . .
+ﬂ, _ .
+
+ 
+
+Figure 6.14. Schematic of a hybrid cryoelectronic IR
+charge-coupled device.
+
+Key: A. Infrared Schottky barrier receivers;
+B. CCD input elements;
+C. Dual shift register;
+D. Differential output;
+E. Pulse input;
+F. From the clock pulse generator.
+
+An entire series of complex problems which derive from the following main require-
+ments must be solved in the design of hybrid CCD's which operate in various por-
+tions of the infrared band: the values of the spectral volt-watt sensitivity of
+infrared CCD's should approximately correspond to these values for individual IR
+receiving elements; the internal noise level and the value of the detection capa-
+hility D* of an IR hand hybrid CCD should be of the same order of magnitude as in
+individual IR elements, and in this case, the clock noise must be suppressed to a
+level at which it does not degrade the signal/noise ratio at the output of the
+linear channel with the CCD's; the speed and passband of the device should on the
+whole assure its operation in image receivers; the size of the sensitive receiving
+area of the IR elements and the step in the chip of the linear strip of IR re-
+ceivers shOuld govern the size of the step in the CCD shift register; the amount
+of heat due to heat influx via the connecting conductors, which exit the cryostat
+housing of the hybrid IR CCD. and the amount of heat liberated by the elements of
+the device should not exceed (0'2"°-3)Qt~ where Q; is the total heat influxes in
+the cryostat, and the uniformity of the parameters should be high. To resolve
+these problems. it is first of all necessary to develop techniques for the design
+of the input and output circuits in hybrid CCD's. We shall consider a few input
+circuits which are necessary for matching the output of a cooled IR receiving
+
+85
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+element to the input to the first cell of a register using silicon MOS charge
+coupled devices. Hybrid CCD's with direct charge injection. The sinplest input
+device is on: consisting of a p-n junction and controlling insulated gates, which
+provide for either for the creation of a potential "911 for the storage of the
+injec.cd charge or the formation of a conducting inversion channel for the over-
+flow of the injected charge into the first potential well of the CCD register.
+This r 1130 preserved when two or three gates are used.
+
+One can write lg - 11 + Iccp for the
+current of the ‘IR receiving element
+when exposed to IR irradiation and
+the coefficient of injectioa from
+the IR element into the potential
+well of the CCD is equal to:
+
+ 
+
+0
+u. 1.0;qu - -
+f! "“2 l n,=l..;J’.=H.RJIIR.(Cos+CJ-Hl+£13.91.
+Figure 6.15. The coefficient of charge
+injection in infrared band
+
+hybrid CCD'a as a function
+
+of frequency. The calculated curve for the
+
+injection coefficient n; is shown
+in Figure 6.15 as a function of
+frequency for various values of
+
+gm lmicronhos] and the capacitance of the input p-n junction CA! if the IR element
+(PbSnTc) has Rn (V - 0), A = 0.7 ohms - cm2 and CA (50 av) I 45 de. As can be
+seen from the figure, at low frequencies the conductance of the input junction
+exerts the main influence on the value of n;. and at relatively high frequencies
+(more than 100 to 150 KHz). the capacitance of the input junction begins to have
+an impact.
+
+The coefficient at depends on a number of factors: on the ratio of the voltages
+at the gates and the p-n junction, on the degree of overlap of the p-n junction
+by the input gate and the ratio of their capacitances as well as on the mutual
+positioning of the input gate electrodes and the first electrode of the CCD. In
+turn, depending on the operational mode of the CCD, the circuit configuration of
+the input gate or that for the formation of the MOS capacitor, or for the forma-
+tion of the conducting channel connecting the p-n junction to the first potential
+well in the cell. the virtual drain of the MOS transistor, can have an influence
+on the coefficient ng. When a suppleaental floating low capacitance diffusion
+region is used in the input device to reduce the level of input noise. the injec-
+tion coefficient at can be slightly reduced.
+
+Stickle et a1. [35] analyzed the signal/noise ratio for infrared band hybrid
+CCD's with direct charge injection, which utilize a summing with delay operation.
+For a hybrid IR system with a matrix of nine photodiodes based on (HngTe) at
+
+(A = 12 um) under standard conditions (Tb - 300 °K, a field of view angle of 90'),
+a signal/noise ratio on the order of 500 was obtained for a photon flux of
+
+3 . 1017, the dynamic range was 300 and the increase in the useful signal because
+of the noise was equivalent to a temperature range of 0.1 “K.
+
+86
+
+FOR OFFICIAL USE ONLY
+If only the low frequency range is considered and the influence of modulation is
+neglected, then the equivalent circuit of a hybrid CCD for the case of direct
+injection vill contain the parallel connected conductance and capacitance of the
+photodiode and the overall conductance and capacitance of the CCD input. The
+light sensitivity of the photodiode in the idealized case is determined from the
+expression:
+
+I.—l.’(exp qVIkT—l) +1.. (6 .61)
+where I8 is the inverse diode saturation current, I. is the photogeneration
+current, where I. - anbA and 05 is the photon flux.
+
+As is well known, the quantity 1; depends on the resistance of the photodiode
+no as follows for the case of zero bias:
+
+Ia - kT/qko (6.42)
+
+The signal current distribution for a bias voltage across the diode VV- 0, will
+correspond to the expression:
+
+Icu) ' lm=I./(_|+‘;'R;'). . (6.43)
+
+since the overall current is
+
+. 1,=I.(|IR.+(.). W“)
+
+The slope of the CCD input in the saall signal case is expressed by the ratio for
+the conductance gm:
+
+hf‘é‘uc... 5}) {[H' ﬁw‘). m_' '}'. . (6.45)
+
+where Z/L is the ratio of the geometric dimensions of the input gate, u is the
+minority carrier nobility, Coxc is the capacitance of the oxide per unit area.
+
+87
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The signal injection efficiency is expressed by the ratio ICCD/IO and it is
+therefore desirable that this quantity be as close as possible to unity. This
+means that the entire current generated by the photon flux in the photodiode
+goes to the CCD register. It follows from expression (6.43) that the product
+ng0 should be large for large values of the injection efficiency, although the
+dependence of g. on ICCDv as can be seen from (6.53), complicates the picture.
+
+We shall analyze the so-called subthreshold mode. which is defined by the
+
+relationship:
+' 2 C If '
+,’mc<<""'£“'2 _ (T) - (6.1.6)
+
+For a typical input circuit of a silicon CCD, having
+Z/L - 4. u = 700 cm2 - V'1 - sec‘l, CA - 3 ' 10"8 P/cm2 and T - 300 °K,
+The ultimate current is approximately 30 nA.
+
+If the function
+
+'+ 7%,???
+
+is represented as a function of the small parameter ’I;; and is expanded in a
+Taylor's series. by limiting ourselves to the zero and first term of f(x) -
+
+- l + (l/2)x + ..., then in the chosen node, the expression for g. in formula
+(6.45) reduces to:
+
+gm - qICCD/k'i‘ (6.1.7)
+-g.=quJIzT.
+
+Then expression (6.44) will assume the form ICCD - I. + kT/qRo. It follows from
+this that the condition I. >> I; provides for lﬁO percent signal charge injection.
+For photovoltaic receiving IR elements, this likewise means a condition of limita-
+tion on the sensitivity by the external background (BLIP). The background limita-
+tion condition. as was demonstrated earlier, is extremely important. since this
+means 100 percent signal charge injection, high linearity of the light response
+between ICCD and 9b as well as good uniformity of the channel, which does not
+depend on the value of R0. The total noise voltage of the photodiode is:
+
+, e'.=(%+2ql.) g. (6.48)
+
+where the first term of the expression in parentheses represents,the diode
+Johnson noise,while the second term represents the induced photon shot noise
+
+FOR OFFICIAL USE ONLY
+FOR OFFKJA1.U521DNLY
+
+current. The CCD noise voltage, on the other hand. is expressed as
+follows:
+
+2 e'm~BﬁTI(3IJ+¢'m- (6.49)
+
+where the first term is the Johnson noise of the strongly inverted channel region
+and the second is 1/f type noise.
+
+The value of the specific detection capability 0* for a hybrid IR band CCD can
+be defined as:
+
+03w - D'm=D'.IVP. (e .50)
+
+where the noise factor F is defined as the ratio of the total noise power to
+the photodiode noise power. when substituting. F is expressed as:
+
+we) hr au..c.zl.)'l’+e, ' (6.51)
+F"+—‘R‘_ﬁf_.( I)???“ 4.) '
+
+In the experiments of Sato Iwasa and Vita with a single chdTe photodiode in a
+range of wavelengths close to S um. as well as those of Stickle, Alfeyev,
+
+Bovina, Krev, Legezo. Stafeyev, Shamansyev. Nelson, et a1. with nultielenent
+HngTe photodiodes in strips in a range of wavelengths of 8 to 12 us, the possi-
+bility of introducing electrical charges from photovoltaic receiving elements
+based on narrow band solid ternary solutions, into a silicon CCD shift register
+was demonstrated for the first time, where these elements were connected in the
+circuit of a for infrared band hybrid CCD [36, 37]. With the optinun selection
+of the technology for a wavelength of A a 5|s:[36], such a photovoltaic cell has
+a high impedance, since its equivalent circuit (at A - 5 un) consists of a resist-
+ance of g 106 ohms and a capacitance on the order of a few picofarads, connected
+in parallel. and dissipates a low power: < 1 microwatt.
+
+A direct injection experiment at a wavelength of S um was performed with a single
+photodiode based on p-n junction, fabricated on a p-type substrate by means of
+directly connecting the p-region of the photodiode to the p-region of a CCD with
+a surface channel. and the n-region of the photodiode to the n-region of the
+diffusion source of the CCD. The parameters of this photodiode are given in
+Table 6.2.
+
+A two—phase supply for the carry electrodes was used in the CCD registers us
+well as an input read gate made of A1. which was connected to phase 01 of the
+clock supply at a frequency of 500 KHz. A bias voltage of approxinately -1 V was
+
+89
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+fed to the electrodes made of polysilicon in order to provide for an input current
+of 0.2 uA for the purpose of compensating the photoelectric current of the photo-
+voltaic receiving cell generated by the background and thereby providing for the
+operation of this element at zero bias.
+
+TABLE 6.2
+
+The Parameters of a Photovoltaic Cell Based on HngTe for the
+Central Infrared Band
+
+____ParameterI Measurement Units
+D* for an aspect angle of 180° and a background
+
+temperature of 300 °K. cm . Hal/2]" 1.6 . 1011
+D* for an aspect angle of 180° and a background
+
+temperature of 77 °x, cm . uzllz/w _ 2.5 - 1012
+The area An, cm2 1.82 ' 10"
+Resistance R0 at 77 °K, HOhm 20
+
+a‘Maximun sensitivity wavelength, um 5.4
+
+Longwave sensitivity limit. um 6.76
+Zero bias diode current. uA 0.2
+Quantum efficiency n 0.74
+The product ROAA at T - 77 °K, ohms - cm2 3.640
+
+ 
+
+Black body radiation at T - 500 °K was modulated by a mechanical modulator
+
+ata frequency of 723 Hz. The modulated signal was processed by selective and
+broadband amplifiers, and was measured by means of spectrum analyzer in a pass-
+band of 10 Hz. The spectral noise density at the CCD output amounted to 6 uv/Hzll2
+at 723 3:. In the experiment of [36], the HngTe photovoltaic cell operated at a
+typical signal/noise ratio value of 600. In the case of the direct connection of
+the photodiode to the CCD input, the signal/noise ratio at the CCD output proved
+to be 600+100. These values correspond to the value of the detection capability
+0* for a single photodiode. corresponding to 1.6 - 1011 cm . Hal/2 - "'1. The
+signal and noise are generated only by the chdTe photodiode and the output of
+the hybrid circuit with the CCD, something which is clearly demonstrated by the
+oscilloscope traces in [36]. The noise factor of the given hybrid circuit,
+computed from formula (6.39), amounted to F - 1.0 for the following d ta, which
+were obtained experimettally: R0 - 20 Hohm, Io - 0.2 uA, T - 77 °K, eglf - 18/f
+[uv2/Jﬁ?] and the CCD parameters given above.
+
+Thus, for the case of direct charge injection in the CCD, the value of the
+detection capability of the string of infrared band photodiodes, connected element
+by element to the input of a multiple input shift register using a SI-CCD in a
+
+90
+
+FOR OFFICIAL USE ONLY
+IN)! OFIHCJAI.USEZ(MVLY
+
+hybrid circuit configuration, can be no worse than the value of D* of a single
+photodiode. In this case, each photodiode cell based on HngTe can dissipate a
+power on the order of IZRO - 0.8 u". something which is an insignificant amount
+as compared to the power dissipated by photoresistive type receiving IR elements.
+
+A circuit is given in paper [37] for an experimental unit to study the reception
+of the emission of a 002 laser by a far IR band hybrid CCD using light receiving
+cells made of Hgoogcdo.2Te. In this unit, the laser radiation passes through a
+mechanical modulator to a photodiode string made of HngTe cells, each of which is
+connected either directly or through a multichannel amplifier to the p-n junctions
+of the input cells of the multiple input silicon CCD shift registers with three
+phase supply and molybdenum transport electrodes. The hybrid CCD is placed in a
+cryostat with liquid nitrogen, having an input window made of clear coated Ge. The
+CCD electrodes and the output stage designed around MOS transistors are driven
+
+from a clock pulse generator at a working frequency of 250 KHz, located outside
+the cryostat.
+
+interference and through a matching device to a dual trace oscilloscope. The sig—
+nal from the CCD is fed to the input for one trace while the signal from an addi-
+tional photodiode is fed to the other, where this diode registers the modulated
+radiation directly from the 602 laser. An attenuator which attenuates the laser
+power down to the requisite values in placed between the laser and the mechanical
+modulator operating at a frequency of 60 Hz.
+
+The silicon CCD is made in the form of lé-input HOS type structure with a step of
+100 um having a common control gate for all the inputs and diffusion p-n junctions
+which are not overlapped by the control gate, for the injection of charge carriers
+from the photodiodes into the potential wells under every third transport electrode.
+When a photoresistive linear strip for the IR band is used, special matching cir-
+cuitry is employed. The charge transfer loss factor in a CCD shift register cooled
+down to T = 77°K was reduced by a factor of 10 as compared to the value at T -
+
+= 300 °K. The signals from the receiving elements can also be fed to the gates.
+
+The dimensions of the IR radiation sensitive areas are 100 r 100 um. The p-n junc-
+tions were produced by mercury diffusion and the ohmic contacts were made using
+indium. The doping depth of the p-n junction was 15 to 20 um and the photoresistor
+thickness was 20 to 30 um. The volt-watt sensitivity was higher than 103 VI“. The
+photoreceiving elements are arranged on a substrate of leuco-sapphire. Measure-
+ments of the characteristics which were made ahead of the input of the CCD and
+following the CCD demonstrated the total identity of the modulated signals and the
+small signal losses when the signal received from the C02 laser passes through the
+hybrid IR band CCD.
+
+No nonlinearity was detected in the output signal when the laser signal power was
+varied by more than 40 dB. The output signal level with an increase in the temp-
+erature of the silicon CCD register up to T - 300 °K and the IR element temperature
+
+kept at T = 77 °K was reduced by a factor of two to three. Similar results were
+also obtained when PbSnTe elements were used.
+
+91
+
+FOR OFFICIAL USE ONLY
+lull ()l FICIAI. USE ONLY
+
+in draunatrates the complete capability of designing
+w ”tfdfc and PhSnTe which cover various regions of the
+'.1 infrared. The creation of matrix far IR band CCD's
+’K with heterodiodes becomes possible when an epitaxial
+;(|\n r! a tvrnary compound is obtained directly on the surface
+~..-:|i-'-‘I\du.‘l(\r substrate chip.
+
+'.; .« «and between the linear strip of photodetectora and the CCD
+:v: :n It thd hybrid direct injection CCD's. Various components can
+~: r: ihx buffer stage - from an MOS transistor up to one or more in-
+-. .. -p1:fiurs on the same chip. This is a variant, the merits of which
+.-i~l :w inc simplicity and ease of integration. He shall consider two types
+- Iqull;l injcviinn devices, in one of which photoconductive thin films are used
+.‘il. yvruvlvctric receiving films are used in the other [33].
+
+:, 21nd 009' 3 based on phot oconductive films. Any photoconductive film
+which can be successfully deposited on silicon dioxide without creating fast
+states (or traps) at the separation boundary between the silicon and the silicon
+dioxide can be used in devices of this kind. The role of the photoconductive
+Film consists in acting directly on the inversion channel of the input HOS transis-
+tor which is connected to the CCD element. The degree of inversion in turn deter-
+nines the rate of charge transport in the CCD. The number of input HOS transistors
+which can be fabricated on a single chip with a CCD shift register corresponds to
+the number of photoconductive film receiving elements. The advantage of this de-
+vice consists in the fact that the photoconductive film can be precipitated in
+various ways following the formation of the MOS charge coupled device on the oxide
+or on the $1 to create hetero-CCD's.
+
+The operation of this device is described by the following sequence of operations
+for the case of a photoresistor at the gate:
+
+--A voltage is fed to the film bias electrode. It should be sufficiently high to
+produce the inversion of semiconductor conductivity at the oxide--semiconductor
+separation boundary underneath the photosensitive elements;
+
+--Voltage is supplied to the control electrode so as to provide the requisite
+level of resistance which is inserted in series with the photoconducting gate;
+
+--The bias voltage at the photoconducting gate is set somewhat higher than the
+threshold voltage level for this gate. This leads to maximum charge transport in
+the absence of an optical input signal and prevents the blurring of the image;
+
+--Thc incident IR band photons cause a reduction in the resistance of the photo-
+conductive films. As a result, the voltage drop across each photoconductive film
+proves to be inversely proportional to the local density of incident photons;
+
+--The charge transported in the CCD now becomes a function of the intensity of
+the IR illumination of the photoconductive film. The nature of the transient
+phenomena in the device in the nonsteady-stat! illumination mode is governed by
+how rapidly the capacitance of the photoconductive gate is discharged through
+the bias resistor.
+
+92
+
+FOR OFFICIAL USE ONLY
+FOR‘OFFKHAL USE(NHLY
+
+A device of this type, in being a hybrid indirect injection device, makes it
+possible to design a straightforward and technologically simple linear or matrix
+IR image reception system using CCD's. Another structural configuration is also
+possible for the hybrid CCD's, in which the photoresistive 18 receiving elements
+are made in the form of linear strips of photoresistors on a monocrystrl of a
+narrow band material, for exanple, HngTe or PbSnTe, which is secured to a common
+passive substrate with a multiple input CCD shift register. In such a device de-
+sign, which is used primarily in lines" video receivers, the signal input elements
+for the CCD can have an internal gain or be made just as in the case where photo-
+conductive films are used, only a group layout is necessary for the contact metal
+films from the monocrystal of the IR photoresistors to the CCD chip, without form-
+ing individual contact areas which take up considerable space, and possibly, the
+connecting of the photoresistors to the input CCD diodes.
+
+Hybrid indirect injection CCD's based on film pyroelectric receivers‘. Pyroelec-
+tric materials are used because of the fact that IR radiation can be registered
+due to the strong temperature dependence off the polarization (a review of pyro-
+electric receivers is given in Patli's paper). However, in the steady-state, the
+polarization proves to be masked by the surface charges, and for this reason the
+incident radiation must modulated. As a result, the recording is realized using
+alternating current, while the background signal level is subtracted. Pyro-
+electric receivers are fabricated from inexpensive materials and operate at room
+temperature. However, the sensitivity of the existing pyroelectric IR receivers
+is considerably lower than for quantum receivers, and for this reason, cooling is
+also promising here.
+
+The detection of thermally induced electrical charges in a pyroelectric becomes
+possible if the dielectric of the capacitor is a pyroelectric material close to
+the Curie-Weiss point, for example, triglycine-sulfate (T68) at room temperature.
+A signal can be fed from a pyroelectric receiver to a CCD in two ways: connected
+a capacitor to the input MOS transistor on the same chip; create a pyroelectric
+film between the MOS transistor channel and the metal of the gate (i.e., insert
+it in series with the gate). These methods are essentially the same; the second
+one is more technologically complex, but makes it possible to obtain a more com—
+pact structure. The operational principle of the device consists in the follow-
+ing. The voltage produced by the pyroelectric receiver modulates the depth of
+the potential well in the MOS structure; the rate of thermally generated charge
+carrier transport to the nearest potential well of the CCD shift register of the
+least cross-section, but the deepest, is thereby modulated. The voltage V0 is
+constant and chosen so that the depth of the potential well amounts to a few RT.
+The charge generation processes (primarily from surface states) keep the well
+practically filled with charge carriers. Charge drainage takes place through the
+potential barrier to the CCD channel. The voltages for the device so that the
+following conditions are met for a variable image signal, modulated by a special
+chopper: the amplitude is not limited by the dark current; the dark current
+reaches a level such that the signal modulation level amounts to practically 1001.
+
+* The concept of creating hybrid CCD's based on pyroelectrics belongs to
+8.1. Sedunov.
+
+ 
+
+93
+
+F0!*0FFK]AI.USE¢DNLY
+FOR OFFICIAL USE ONLY
+
+An analysis of the noise properties of the device of [33] shows that as a first
+approximation, thermal noise introduced by the receiver and the input circuit
+plays the dominant role. In the typical case of an IR band CCD with receiving
+elements made of triglycine sulfate with an area of 10‘5 cm2 on $102 with a thick-
+ness of 600 K at 20 frames per second, the minimum temperature difference which
+can be resolved by the device can amount to about 0.3‘K in a transnittance window
+of 8 to 12 micrometers. It should be noted that for the realization of the
+theoreticaly working characteristics in typical devices, it is necessary to provide for
+for a high degree of thermal insulation of the receiver so that it is not heated
+up by the substrate and there is no crosstalk interference between individual
+receiving elements arranged in a row.
+
+SELECTED BIBLIOGRAPHY
+
+12. "Infrakrasnyye methody\rkosmicheskikh issledovaniyakh" ["lnfrared Techniques
+in Space Research"), Translation from the English, Edited by V. Hanno and J.
+Ring, Moscow, Mir Publishers, 1977.
+
+17. Alfeyev V.l., "Sverkhvysokochuvstvitel'naya selektivnaya radiopriyemnaya
+sistema" ["An Ultrasensitive Selective Radio Receiving System"], 0.8. Patent
+No. 3.381.225, issued 30 April 1968.
+
+33. PROCEEDINGS OF THE IEEE: Topical Issue Devoted to Remote Infrared Sensing,
+1975, Vol 63, No l.
+
+34. Nosov Yu.R., Shilin V.A., "Poluprovodnikovyye pribory s zaryadovoy svyaz'yu"
+["Semiconductor Charge Coupled Devices"], Moscow, Sovetskoye Radio Publishers,
+1976.
+
+3S. Stickle A., Nelson R., French 3., Gudmunsen R., Shachter D., "Primeniye PZS
+dlya registratsii 1K signalov i formirovaniya izobrazheniya" ["The Use of
+CCD's for Signal Recording and Image Generation"), TIIER [PROC. IEEE], 1975,
+Vol 63, No 1.
+
+36. Sato Iwasa, "Hybrid CCD Infrared A - Su" OPTICAL ENGINEERING, 1977, Vol 16,
+pp 233-237.
+
+37. Alfeyev V.N., Bovina L.A., Karev A.A., Legezo S.L., Sedunov 3.1., Stafeyev,
+V.I.. "Gibridnyy PZS na x a 8--14 mkm s priyemnymi HngTe elementani"
+["Hybrid CCD's for a Wavelength of 8 to 16 Hicrometers with HngTe Receiving
+
+E1enents"], ELEKTRONNAYA TEKHNIKA, Seriya 10, Mikroelektronnyye Ustroystva
+[Microelectronic Devices], 1979, No. 3.
+
+COPYRIGHT: Izdatel'stvo "Sovetskoye radio", 1979
+
+8225
+C30: 8144/1828 - END -
+
+95
+
+FOR OFFICIAL USE ONLY

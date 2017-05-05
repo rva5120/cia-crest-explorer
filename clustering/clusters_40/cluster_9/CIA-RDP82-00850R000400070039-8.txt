@@ -1,0 +1,1546 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10124
+
+18 November 1981
+
+West Europe Report
+
+SCIENCE AND TECHNOLOGY
+
+(FOUO 14/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports. and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item. or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+FOR OFFICIAL USE ONLY
+
+JPRS L/10124
+
+18 November 1981
+
+WEST EUROPE REPORT
+SCIENCE AND TECHNOLOGY
+(9000 14/31)
+
+CONTENTS
+
+ELECTRONICS
+
+Briefs
+Bubble Memories 1
+
+ENERGY
+
+Status of Coal-Ccnversion Projects at Ruhrkohle AG
+(Jose: Lanshoff, et 31.; ERDOEL & mm-mGAB-mnocm, Sep 81) 2
+
+TRANSPORI‘ATION
+
+A 320 Development Schedule, Technical Data
+(macoMos, 19 sep 81) O...OOOOOOOOODIOIOODOOOC.I'OOOOOIOIOIIOIOI. 16
+
+First Flight Tests of British Aerospace 1&6 Successful
+(macosm’ 19 sep 81) COO...00.0.0000....‘OOOOOCOOCCOOCOOOI... 22
+
+Renault's Douai Plant Highly Automated
+(Michel Jacques; L'EXPRESS, 2 Oct 81) ............................ 215
+
+New Generation Avionics for Airbw Aircraft Tested
+(Gerard 001.11“; AIR & com, 19 89p 81) ooeo-ooooooooooooooeootoo 28
+
+Briefs
+British Participation in A 320 31
+
+- a - [III - WE - 151 SET FOU(
+FOR OFFICIAL USE ONLY
+
+LBCTROIIICS
+
+BRIEFS
+
+BUBBLE MEMORIES—-Bubhle memories have had a decidedly turbulent history.
+
+Following Rockwell and Texas [Instruments] it is now National Semiconductor‘s
+turn to announce its withdrawal from the field. attesting to a market which
+is too small because of prices which are still high in comparison with compe-
+titive technologies, principally magnetic disks and semiconductor memories.
+Also working against bubble memories is the slow develOpment of interface and
+peripheral circuits. Rational Semiconductor's decision directly concerns
+
+SAGE! [Company for General Applications of Electricity and Mechanics] which had
+executed cooperation agreements allowing it to offer a very wide range of pro-
+applications upon the market. The
+
+ducts and peripheral circuits for “civil"
+SAGEH has no intention of abandoning its bubble memory technology, for aero-
+
+space and military applications, developed
+
+and Data Processing Techno
+
+moreover it is installing large production facilities at Eragny. Nevertheless
+the National Semiconductor decision will have an effect because in all probabil-
+ity it is going to compel SAGEH to redefine its commercia
+civil applications are concerned. [Text] [Paris AIR 6 COSMOS in Prench
+12 Sep 81 p 31] tcorrmcm‘: mac. 1980] 11706
+
+(250 : 3102/ 12
+
+FOR OFFICIAL USE ONLY
+FORGDFHK1A1.USE(NVLY
+
+ENERGY
+
+STATUS or COAL-CONVERSION PROJECTS AT suuaxoau: AG
+Hamburg senor-:1. & KOHLE—ERDGAS-PETROCHEHIE in German Sep 81 pp 379-386
+
+[Article by Josef Langhoff, Rainer Duerrfeld, and Eckard Holowski: "New Technologies
+for Hard Coal Refining"!
+
+[Text] [English-language summary] The successful operation of
+pilot and demonstration plants, followed by preliminary project
+estimates for industrial scale plants form the basis of com-
+mercialization of new technologies for coal processing. From
+a technical point of view large scale plants can be justified
+even today. Depending upon the size of the plant and the time
+requirements for official approval, it takes four to ten years
+to put such a plant into operation. Considering the economics,
+however, operation of such plants using domestic coal--apart
+from exceptional cases--is not feasible. The financing of
+these projects is, therefore, possible only with the support of
+public resources. Assuming that the present relaxed situation
+of oil and gas supply is only temporary, and supply bottle-
+necks and price problems have to be reckoned with in course
+
+of time, financial support of such projects appear justified
+
+from an overall economic viewpoint.
+\
+
+Considerable efforts were made in the PRC likewise during the recent decade to speed
+up the development of new coal refining technologies. The development programs
+carried out jointly by industry and the government in the final analysis are aimed
+at a long-term, reliable supply of diversified and regionally balanced and raw
+material resources. The important thing is to make more use of coal reserves
+available domestically than has been the case so far in order to bring the use of
+mineral oil and natural gas into a suitable ratio with respect to the supplies
+available in longer-range terms and to counteract an incalculable price rise for
+those supplies.
+
+In the past, the PRC spent an estimated DH 4 billion for carrying out such "coal
+refining" development programs. The amount might be taken as an indication of the
+significance which the government and industry assign to the expansion of coal re—
+finement.
+
+2
+IN)! OilﬂCIAl.lﬁ5E2(HVLY
+FOR OFFICIAL USE ONLY
+
+Ruhrkohle AG [Incorporated] currently extracts about 63 million t of hard coal and
+has stockpiles of 20 billion t. This fact alone clearly points up the interest, if
+not the obligation, which the enterprises have in expanding the "conventional”
+sectors of coal refining through coal liquefaction, coal gasification, and fluidized-
+bed furnaces.
+
+To do this job, Ruhrkohle AG early in 1975 founded an affiliate which today is
+called Ruhrkohle Oel und Gas Gmbﬂ [Incorporated].
+
+This company engages in the following activities:
+
+Investigations of technical and economic utilization possibilities of new coal
+refining methods;
+
+Technical process development through planning, construction, and operation of large-
+scale experimental and demonstration plants, considering the requirements of en-
+vironmental protection;
+
+Utilization of experimental results and the know-how acquired through planning,
+construction. and operation of production units;
+
+And sale of products turned out in a form suitable for the market.
+
+These tasks are being carried out by Bﬂlrkohle Oel und Gas Gmbﬂ in very close
+cooperation with partners and institutes, for example, Bergbau-Forschung GmbH and
+engineering firms. In order. in keeping with the goals, to achieve the production
+of products for the gradual replacement of petroleum and natural gas in the fastest
+and most economical fashion possible, the various development lines extensively
+relied on known basic principles of technologies used in the past for the gasifica-
+tion and liquefaction of hard coal.
+
+The following is a report on the projects worked on and the development level
+achieved by Ruhrkohle Oel und Gas.
+
+Coal Casification
+The selection of methods was essentially determined by two basic viewpoints:
+Availability and quality of charge coal,
+
+Production of market-oriented products. that is to say, mostly synthesis gas and
+heating gas.
+
+Dust gasification methods are particularly suitable for generating synthesis gas;
+these methods are being implemented at high temperatures. Texaco, in the United
+States, has developed such a method on an experimental scale (15 t/d). To develop
+the method further, Ruhrkohle AG and Ruhrchelie AG have since early 1978 been
+operating a demonstration plant with a coal processing volume of 150 t/d or a
+synthesis gas output of 240,000 mzld. The following are the advantages of this
+method which must he stressed:
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The method is independent of the coal quality (carbonization degree, water-ash
+content, grain size, caking properties);
+
+The use of coal as suspension facilitates grinding, conveyance, and dosing without
+
+any problems into the reactor; there is no need for coal drying which uses up
+much energy;
+
+Casification at high temperature (about l,500° C) leads to higher output rates;
+
+a crude gas is generated which is free of byproducts (for example, tars, phenols).
+Gas purification and waste water treatment are correspondingly simple. The fused
+mass of the mineral substance generates a slag which is ready for dumping.
+
+Gasification is accomplished, depending upon the purpose, at pressures of up to
+100 bar so that high specific outputs can be achieved in combination with favor-
+able investment and compression costs.
+
+The process as such has been described in literature on the subject several times
+
+(i, 2, 3, a) so that in the following we will go into the results of the development
+project.
+
+In the course of process-engineering and equipment development, it was possible to
+work out essential improvements for the various process stages. By influencing
+
+the grinding fineness of the charge coal and by using additives , the solid-substance
+content in the suspension was raised to 70 percent. This is decisive progress in
+view of the reduction of the specific 0 requirement, reduction in the C02 content
+in the crude gas. and the increase in the efficiency. Changes in the design and
+the material of the burner improved the output and the operational safety of the
+gasification reactor. Comprehensive development work was required for the fire-
+proof lining of the reactor in order to achieve adequate service life. The testing
+of the novel waste heat system leads to the extensive recovery of the detectable
+heat of the crude gas.
+
+Development progress during experimental operation is illustrated by the plant's
+increasing availability. The operation today is characterized by a quiet and steady
+pace. The system can be started, controlled, and adjusted in the load range down
+
+to 20 percent without any problems. It is thus comparable to a conventional heavy-
+oil gasification system as for as operational performance is concerned. Early in
+1980, synthesis gas from coal was successfully fed into the oxo [oxide] plant of
+Ruhrchemie AG. In the meantime it has also been possible to supply the mechaniza-
+tion plant of Thyssengas A6 with coal gas.
+
+Since the opening of the "Holten xperimental Plant" about 62,000 t of coal were
+converted into about 75 million m of coal gns during 8,000 operating hours. Eight
+different domestic and foreign coal types, with different ash and volatile substance
+content, including coal sludge with an ash content of about 38 percent, were used.
+All coal types were easily gasified with good yields. Below, we have some typical
+process data:
+
+b
+FOR 0F1ﬁC1Al.USE(MVLY
+FOR OFFICIAL USE ONLY
+
+Processing rate approximately 7 t/hr coal (wf)
+carbon conversion 992 (without C-recycle)
+Reactor temperature 1,350 to 1,550' 0
+
+Reactor pressure 40 bar
+
+Slurry concentration 702
+
+Coal-gas efficiency 752
+
+Gas volume 13,000 m3/hr
+
+(‘ 1301 of designo.
+
+The process water is free of organic compounds. In addition to sulfides, ammonia,
+and chloride, it contains small quantities of cyanide. The waste water can be
+processed without any problems using conventional methods.
+
+Plans call for continued operation of the "Bolten Experimental Plant," in order
+primarily to test the gasification of residues from coal hydration.
+
+Parallel to the technical develop-ant work, the economy of the process was also
+examined. At the end of 1980, a preliminary project was completed for the "Ruhr
+Synthesis Gas Plant" by direction of the federal minister of economy with the
+general specifications of a fixed location and a capacity of SO t/hr of coal charge,
+corresponding to 80.000 m3/hr of synthesis gas. Here are the essential results
+
+of the preliminary project:
+
+The plant can be built from the engineering viewpoint;
+Coal availability and gas utilization exist;
+
+The synthesis gas generation costs on the basis of Ruhr region coal can compete
+with the production costs on 8 [heavy] heating oil if both plants are newly built;
+
+If the licensing phase runs according to plan. the system can be completed in
+1985.
+
+The "Ruhr Synthesis Gas Plant" project is to be included in the coal refining pro-
+gram of the federal government. Lurgi pressurized gasification is the only large-
+scale industrial pressurized gasification method which has been tested in many ways
+and which has for several decades been used worldwide. Restrictions connected
+with the use of fine-grained and caking coal. pyrolytic constituents in the gas.
+such as higher hydrocarbons and phenols, as well as the relatively low specific
+gasification output were the reasons for the further development of the method
+which is being pursued jointly with Ruhrgas AG and Steag AG Iﬂard Coal Electric
+Power Company] within the context of the"Ruhr 100" project (5, 6. 7).
+
+The essential innovations compared to the conventional Lurgi pressurized gasifica-
+tion method are as follows:
+
+Rise in operating pressure in gas generator to 100 bar to increase the specific
+
+throughput and to increase the methane yield coupled with simultaneous reduction in
+the yield of higher hydrocarbons.
+
+5
+FOR OFFKJAI.USE(NNLY
+FOR OFFICIAL USE ONLY
+
+Installation of an additional gas outlet between the low-temperature carbonization
+zone and the gasification zone to evacuate "clear gas" which is almost free of low-
+temperature carbonization products; this results in reduced gas velocity in the
+upper part of the gasifier as a result of which the coal dust release is reduced.
+The usable coal grain spectrum can thus be broadened to include finer grains.
+
+The tar oils and phenols remaining in the crude gas or low-temperature carboniza-
+tion gas can if desired be hydrated in a thermal or catalytic crude gas cracking
+process. In case of thermal cracking and high temperature. all hydrocarbons, in-
+cluding methane, are reformed; we get synthesis gas. In case of cracking at low
+temperatures, only the condensable hydrocarbons are cracked and the methane re-
+
+mains preserved.
+
+These innovations are currently being tested in engineering terms through the opera-
+tioncafthe "Dorsten Large-Scale Experimental Plant“ which daily can process 75-170
+
+t of coal. depending upon the pressure.
+
+~---— -— —————___..————-—-—._. ......
+
+..-.—. .———
+
+1 "mom rd Syﬂhﬂo
+
+“Minnow-
+
+5"
+
+['6
+IrO\M\o“Q6
+help“ 7
+
+(ho—moh- 8
+xln"o
+
+ 
+
+ 
+
+9 honoring
+NEWS-'3‘
+
+K
+
+m
+2 '3‘" t-mmm6
+mm 7
+
+5:37;?"- 8
+
+   
+ 
+
+Iau'vulo'
+
+IQ
+
+ 
+
+Figure 5. Coal liquefaction processes. Key: 1--Gasification and synthesis:
+2--Coal; 3--c°a1 preparation; 4--Gasification; 5--Product processing: 6--Fuel;
+7--Heating oil; 8--Chemical raw materials; 9--Hydration; lO-Catalyzer; ll--Steam.
+
+In the case of "Ruhr 100." the coal is raised to operating pressure by means of
+
+two alternately operated locks and via the coal distributor gets into the gas
+generator. Here it is first of all heated up by the gas formed in a countercurrent
+and it is then dried; after that it is carbonized at low temperature and gasified
+with Ozlsteam. The remaining coke is burned in the lower part of the gas generator
+
+to meet the heat requirements.
+
+To break the coke cake open. after it has developed in the low-temperature carbon-
+ization zone. we use a stirrer attached to the coal distributor with three vanes
+
+at varying levels. The rotary grill in the lower part of the gas generator
+
+6
+FOR OFFICIAL USE ONLY
+FIH!()FFIC1AI.I£5EZCN§LY
+
+distributes the gasification agent uniformly over the shaft cross-section. carries
+the coal filling, and transports the ash into the release lock.
+
+The gas leaves the gas generator via the low-temperature carbonization gas or
+clear-gas outlet. Through direct injection of water, it is cooled and saturated
+and simultaneously relieved of any dust and tar mist. In subsequently connected
+waste heat boilers. the gas is almost completely cooled off along with the genera-
+tion of low-pressure steam. Clear gas and low-temperature carbonization gas are
+then processed together and are piped into the network of Ruhr Gas AG.
+
+The "Dorsten Plant" became operational in September 1979 and. during about 2,000
+operating hours, it gasified about 5.200 t of coal and about 7.5 million m3 of
+converted gas were generated.
+
+Here are the essential results from 13 different runs:
+
+Increase in specific gas generator output by 30-60 percent, depending upon the type
+of coal, compared to the gas generators operated earlier in Dorsten. In case of
+short-term operation with clear gas evacuation, it was possible almost to double
+the gas generator output.
+
+increase in methane yield from 9 to 16 percent by volume in crude gas as result of
+higher operating pressure.
+
+Improvement in cold-gas efficiency by 7 percent along with definitely decreased
+02 requirement.
+
+The fine-coal share of the charge coal temporarily came to as much as 402 < 6 mm.
+
+Experimental operation is for the time being continuing only with low-temperature
+carbonization gas evacuation because a new concept is to be worked out for clear
+gas evacuation. During the next experiments, the operating pressure will be raised
+to 90 bar in order further to increase the output; furthermore, the yield of liquid
+hydrocarbons is to be determined as a function of the operating pressure and
+agglomerated fine coal (briquettes) are to be put through.
+
+For the purpose of the commercial utilization of "Ruhr 100" development. Ruhrkohle
+0e1 und Gas together with Ruhrgas AG by direction of the minister for small business
+and transportation of the State of North Rhine-Westphalia prepared a preliminary
+project outline which combines the construction of a gasification plant with a
+coal-fired power plant. IAR ("Ruhr Industrial Plant") is designed for a coal pro-
+cessing rate of 3 million t/yr with a 3-stage construction program. Depending upon
+market requirements, the plant can turn out about 1.6 billion In3 natural gas exchange
+gas (SNC) or approximately 2.3 million t methanol or both products together in a
+joint production program.
+
+According to plan. the first expansion step can go into operation with one-third of
+the final capacity in 1988. provided the licensing procedure can be taken care of
+briskly. A location in the Ruhr region offer favorsb]! prerequisites for the con-
+struction of the plant. The investment requirement for the first phase is about
+
+DM 1 billion. The project was proposed by Ruhrkohle AG/Ruhrgas AG for inclusion in
+the federal government's coal refinement program.
+
+7
+FOR‘OFTICLAL.USEGMVLY
+FOR OFFICIAL USE ONLY
+
+A significant task. oriented toward the future, has been assigned to Ruhrkohle
+Oel und Gas in the utilization of nuclear process heat for coal refining.
+
+in the case of the PNP ("Prototype Plant for Nuclear Process Heat") project, the
+share of coal (about 40 percent) is to be replaced through energy supply from a
+nuclear reactor which. in autothermal gasification processes, is used for the
+generation of reaction heat.
+
+Ruhrkohle AG and Rheinische Braunkohlenwerke AG in 1978 established a planning
+company for the planning. construction, and operation of a SOO-Hch ETR proto-
+type plant. The development work for the hard coal gaaification segment was done
+by Bergbau-Forschung GmbH. The overall project is being promoted considerably by
+the BHT [Federal Ministry for Research and Technology] and the HHHV/NRH [Ministry
+for Small Business and Transportation 1 [North Rhine-Hestphalia].
+
+Coal Liquefaction
+
+The two basic methods for the liquefaction of coal are illustrated in Figure 5.
+in the case of the synthesis method according to Fischer—Tropsch, synthesis gas
+(H2, CO) is generated through gasification of coal with 02!steam and from that
+
+synthesis gas it is possible to build up liquid hydrocarbons through catalytic
+
+steps.
+
+in the case of direct hydration according to Bergis-Pier, hydrogen is deposited
+against the "high-molecular coar'in the presence of catalyst. We get smaller,
+hydrogen-richer'molecule bonds [molecular compounds]. As a function of the quanti-
+ty of deposited hydrocarbon, influenced by the reaction conditions (p. T),we get
+coal-oil with differing boiling point.
+
+Another possible method in direct hydration is the treatment of coal under pressure
+with a hydrogen-yielding solvent according to Pott-Broche. The coal is depolymeriz-
+ed here and nascent hydrogen from the solvent is deposited against the coal.
+
+These coal liquefaction methods were developed in Germany and were used on a large-
+scale industrial basis during the thirties and forties. The Fischer-Propsch method,
+compared to direct hydration--related to the output of fuel and heating oil--
+
+uses more energy and is mostly more expensive. Ruhrkohle AG decided in favor of
+
+the further development of the method of direct hydration and during the second half
+of the seventies participated in four different development undertakings which world-
+wide are considered the most important.
+
+If we compare the main process plants in these projects to each other then we clearly
+see the extensive agreement in the process involved in the following technologies
+
+to be developed: "German technology" (UT), "H-Coal" (Hal), "Exxon Donor Solvent"
+(EDS). and "Solvent Refined Coal" (886-11).
+
+In the case of German technology (Bottrop Project), the charge coal is mashed, after
+
+addition of a catalyzer (iron oxide) with oil generated during the process and is
+hydrated after the supply of hydrogen at 300 bar and 475' C. During the subsequent
+
+8
+FOR OFTWCJAL USEGDNLY
+FOR OFFICIAL USE ONLY
+
+separation 01‘ the products, we essentially get liquid gas. as well as light and
+medium oil. The liquid products can be further processed through refining and re-
+forming so that we may get gasoline and heating oil. The hydration hydrogen needed
+is generated due to the gasification of the vacuum residue.
+
+According to the H-Coal method (BRI-Catlettaburg Project), the coal is mashed to-
+gether with cycle oil and, after the addition of hydrogen, it is hydrated at 185
+bar and 450’ C in the presence of a higher—grade catalyst (cobalt oxide, molybdenum
+oxide). As products, we get--depending upon the method used--distillates (Syncrude)
+or a mixture of distillable and nondistillable components (fuel oil). The liquid
+products can be processed into gasoline and heating oil through refining, re-
+forming, and hydrocracking. The hydration hydrogen needed is again generated
+through gasification of the hydration residue.
+
+The Exxon Donor Solvent method (EDS--Baytown Project) works without the addition of
+catalyst in the slurry [semisolid] phase. The coal is mashed with hydrogen-releasing
+solvent and is hydrated with addition of molecular hydrogen at 140 bar and 625-480’ C.
+The reaction products are then separated. The solvent, obtained through distilla-
+tion is hydrated for renewed use catalytically in the solid-bed reactor. The
+solid-containing residue can be processed into liquid products, gas, and coke
+through coking (flexicoking) or it can be converted into hydrogen needed for
+hydration through gasification. The liquid products obtained can here again be
+processed into gasoline and heating oil through refining, reforming and hydrocrack-
+ing.
+
+In the case of the Solvent Refined Coal Method (SRC-II—-Horgantown Project). the
+sulfur-rich charge coal is mashed with returned mash which has reacted, that is to
+say. without addition of outside catalyst, and with oil generated in the process,
+and it is hydrated with hydrogen at 130-150 bar and 650-665' C. During the separa-
+tion of the products, we essentially get SRc-II coal-oil, crude naphtha, and light
+hydrocarbons. For the generation of gasoline or heating oil, we need refining,
+hydrocracking, and reforming of these liquid products. The necessary hydration
+hydrogen is generated through gasification of the vacuum residue. In the following
+we will describe the development of the individual products and the current state
+of the art.
+
+0n the basis of results from earlier 16 [trust] coal hydration plants, which BASF
+[Baden Aniline and Soda Factory] was kind enough to make available, it was possible,
+in cooperation with the "veteran hydration experts" (Dr. Ambros, Dr Kroenig,
+
+Dr Raichle. Dr Jaekh), to develop the concept of the ”German technology" (8). The
+latter differs from earlier 16 methods in some essential features, such as, for
+example, reduction in the processing pressure from 700 down to 300 bar, coal-oil
+separation through distillation and gasification of hydration residue, including
+the asphaltenes for Hz production. At simultaneously improved heat recovery,we
+can expect an increase in the specific coal processing volume by about 50 percent
+and a rise in the thermal efficiency by 25 percent (9).
+
+The experimental backup support for this concept was first handled by Bergbau-
+Forschung GmbH through the construction and operation of a continually working
+pilot plant. The results from experimental operation were fed into the preliminary
+project for the construction of a large-scale experimental plant carried out
+
+9
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+parallel by Ruhrkhole Oel und Gas in 1976-1977. After completion of the preliminary
+project, the decision was made at the end of 1977 to build and operate the Bottrop
+Coal-Oil Plant (10). The Bottrop location offered advantages because it was pos-
+sible to establish a low-cost supply and waste removal setup with the adjoining
+Prosper Coking Plant. Construction began in 1979; the plant was completed in terms
+of machinery two years later. The various plant divisions have been placed in
+operation in succession since February 1981. The hydration of the first coal
+shipment is expected for the third quarter of 1981.
+
+The project is connected with an experimental program for the further processing
+
+of coal-oil. 0n the basis of different composition of mineral-oil and coal-base
+oils, it is necessary to develop special processing methods. The low sulfur content,
+the relatively high nitrogen content, and the oxygen content, which is practically
+entirely missing in mineral oil, are characteristic of coal-oil. The high density
+and the low hydrogen content are also specific for coal-oil.
+
+0n the grounds of Veba Oel AG in Scholven, a trial plant was built for this
+development work; the suitability of coal-oil as preliminary product for fuel and
+heating oil production as well as chemical raw materials is being examined in that
+trial plant. The coal-oil is first of all broken down through distillation into
+easily-boiling, medium-boiling, and slow-boiling fractions and the individual
+fractions are then processed further separately. Light-weight and medium-weight
+oil are Subjected to cold hydration with subsequent refining. The refined medium—
+weight oil can be used as admixing component for EL heating oil [extra light?].
+Additional possibilities are the hydration of medium oil under higher pressure into
+diesel fuel or hydrocracking of medium oil into gasoline. Heavy oil is refined and
+is cracked into gasoline and medium distillates through hydrocracking.
+
+The entire project is being carried out by Ruhrkohle AG and Veba Oel AG. The total
+expenditure for the undertaking, which is being considerably promoted by the min-
+ister of economy, small business, and transportation of the state of North Rhine-
+h'estphalia, comes to about DH (.00 million.
+
+The li-Coal Pilot Plant at Catlettsburg, in the United States, is designed for a
+coal processing rate of 200 or 600 t/d, depending upon the process used.
+
+The 0.3. Department of Energy, the Commonwealth of Kentucky, Ashland Synthetic
+Fuels Inc, and Mobil Oil, Conoco, and Standard Oil, as well as the Electric Power
+Institute. and Ruhrkohle AG are involved in the project together with Veba Oel AG.
+
+The ll-Coal method is based on the development of the ebullated-bed reactor for the
+refining of heavy, highly sulfur-containing crude oils and residue oils. It was
+used [or the first time in 1964 for the catalytic hydration of coal. After many
+long years of development work on a laboratory and trial-plant scale, engineering
+work was started on the Catlettsburg pilot plant in 1975. The plant was placed
+in operation at the end of May 1980. The project costs amount to about $300
+million. The German share is being contributed by the minister of economy, small
+business and transportation of the state of North Rhine-Westphalia in the context
+of the Bottrop Coal-Oil Plant project.
+
+Two operating methods are to be tested in the plant: the generation of distillates
+("Syncrude") at a coal processing rate of 200 t/d and a coal-oil yield of about
+
+10
+FOR OFFICIAL USE ONLY
+FOR OFFICMI. USE ONLY
+
+80 t/d and the generation of a mixture of distillable and nondistillable coal-oil
+(fuel 011) with a coal processing rate of 600 t/d and a coal-oil yield of 220 t/d.
+
+After initial difficulties, the plant in 1980 achieved about 600 operating hours at
+50 percent maximum operating rate, using the Syncrude Method. After comprehensive
+repair and refitting work, the plant was operated successfully in 1981. During the
+first half of 1981, about 7,000 t of coal were processed during 45 days of opera~
+tion. The preliminary experimental results confirm expectations regarding process
+development. Experimental planning for 1981-1982 calls for another two test runs
+using the Syncrude Method. An eastern American coal (Illinois No 6) and western
+American coal type (Wyodak) are to be tested. Test runs using the fuel-oil method
+are being suspended for the timebeing because the sales plans for the H-Coal method
+are within the Syncrude range.
+
+Since the beginning of 1979, Ruhrkohle AG has been participating in the"200-dd
+Baytown Coal-Oil" project. Hith Exxon as project manager, the 0.5. Department of
+Energy, of Electric Power Research Institute, the Japan Coal Liquefaction Develop-
+ment Comp, Philips Coal Gom., Arco Coal Comp., Ruhrkohle AG, and A61?
+[National Italian Oil Companylare partners in this project.
+
+The engineering work was begun in 1974 and construction work for the Baytown plant
+was started in 1978. The plant was opened in the middle of 1980.
+
+The cost of the project comes to about $370 million; the RAG [Ruhrkohle AG] share
+is essentially promoted through the federal minister of research and technology.
+
+In 1980-1981. the plant was able to process about 40,000 t of coal during about
+4,000 operating hours; the availability came to about 72 percent. The longest
+experimental run lasted about 5 weeks with an average processing output of about
+
+60 percent of nominal output. In June 1981, the plant was converted in order to
+test a variation in the operating method, that is, the return of residues. The
+experiments run with so far with Illinois Coal No 6 were completed in May 1981.
+
+The continuing experimental program until 1982 calls for the use of Hyodak and Big-
+Brown Coal.
+
+Ruhrkohle AG has since 1974 been involved in planning the 6,000 t/d SRC demonstra-
+tion plant in Morgantown as a partner of Gulf Oil Company. In 1979, an agreement
+was concluded between the U.S. Department of Energy and the federal minister of
+research and technology concerning 25 percent German participation in the project.
+A government treaty between the United States and Japan on 25-percent Japanese
+participation followed in 1980.
+
+Because of the tight financial situation in the United States and in the PRC,
+
+the project's financing was again reviewed by the government in both countries in
+1981. Because the project costs, which had been estimated at about $1.4 billion,
+cannot be taken care of due to budget cuts at this time. the three participating
+governments in June 1981 agreed to terminate the project.
+
+Participation in the various hydration projects provide Ruhrkohle Oel und Gas with
+a valuable increase in this field. Cooperation in development undertakings at
+the same time also permits a well-justified comparison of the individual methods
+
+from engineering and economic aspects.
+
+11
+FORIOFTWC1A1.USEibNLV
+FOR OFFICIAL USE ONLY
+
+German technology remains the main point in process development. The operating
+results of the Bottrop coal—oil plant are to constitute the basis for the next step
+to the sale of this technology. A preliminary project for an industrial plan was
+prepared by direction of the minister of economy, small business, and transporta-
+tion of NEH in 1979-1980. This preliminary project investigates the technical
+feasibility, site and environmental protection problems, charge coal availability,
+
+product sales possibilities, practical implementation, timetable, and economic
+aspects.
+
+The size of the plant was designed for a coal processing volume of about 6 million
+t/yr in hydration. The expansion scale compared to the 200-t/d plant in Bottrop
+is in the technically feasible and meaningful range because the plant has been
+
+designed in the form of four phases to be erected, one after the other, in terms
+of time.
+
+In the final phase, such a plant can produce about 1 million t/yr of naphtha, about
+2 million t/yr of medium oil, and about 0.6 million t/yr of LPG. Naphtha can be
+used as reformer feed for the fuel sector or as chemical raw material for the
+production of BTx-aromatics. Medium oil can be considered as substitute for
+petroleum-base heating oil.
+
+Another step toward large-scale industrial use of the German technology is being
+taken together with a German consortium which, in the context of a feasibility
+study, is examining the technical and economic possibilities for the construction
+of a fuel plant in Australia with an output capacity of about 3 million t/yr.
+
+The plant concept, depending upon the location, provides for a combination of
+coal hydration and Pischer-Tropsch synthesis. Carburetor fuel and diesel fuel are
+to be turned out as products. The planning work will he completed in October 1981.
+
+Fluidized-Bed Furnaces
+
+For the heat market, direct coal combustion in heating plants and thermal power
+plants, as well as industrial process heat generation, are increasingly gaining
+significance.
+
+The stepped-up expansion of district heat supply with generating plants near to the
+consumer and correspondingly favorable distribution costs calls for heat generators
+with low emission because of the fact that residential areas are mostly heavily
+contaminated with high immisions even before that.
+
+“S? (fluidized-bed furnace) is suitable for heat generation in the above-mentioned
+sectors on account of its particularly high degree of environmentally safe opera-
+tion and the fact that it is so "undemandinf' compared to the fuel quality used.
+
+Under the "environmentally safe power plant technology for coal power plants"
+programs, promoted by the federal minister of research and technology, Ruhrkohle AG
+took over the job of developing and testing atmospheric “SF in two demonstration
+plants.
+
+12
+FOR OFFNJAI.USEIDNLY
+FOR OFFICIAL USEioNLN'
+
+Since 1977, the following NSF projects are being carried out: 35-Mch NSF plant
+
+at "Flingern" and 6-Mch plantat"Koenig Ludwig." In terms of capacity and engineer-
+ing design, both plants were intended for certain application ranges: the 6-mth
+planthastypical small boiler for process heat generation in the industrial sector
+and for decentralized heat supply in the con-unity sector, the 35-!ﬂth has steam
+generator unit for larger heating plants and thermal power plants.
+
+The operation of two demonstration plants facilitates the simultaneous testing of
+various technical concepts, for example, for fuel charging (mechanical, pneumatic)
+and the boiler principle (natural cycle, forced cycle).
+
+Both plants were commissioned during the third quarter of 1979. Here are the
+consumption and production figures as of the end of April 1981.
+
+Flingarn Koenig Ludwig
+Steam generation 105.000 t 29,500 t
+Coal consumption 14,500 t 3,800 t
+Operating hours “.300 t 0.600 t
+
+After Successful completion of experimental operation, the Plingern plant was closed
+down of 30 April 1981.
+
+Concerning harmful substance emission, the experimental operation of both plants
+yielded absolutely positive results and thus proved that "SP is environmentally
+safe to a high degree:
+
+In the course of extensive series of experiments for desulfuration, the $02 content
+in the flue gas was determined as a function of the type of coal, the operating
+conditions, especially the temperature, and the ratio between lime added and the
+sulfur content of the charge coal; at an optimum temperature of about 830° C,
+favorable deaulfuration degrees of 75-85 degrees were achieved at Ca/S ratio of
+2.0-2.6.
+
+The N0x emission was determined for various operating parameters as a function of
+the N content of the charge core; Nox contents of <1,000 mg/m3 in the flue gas were
+achieved.
+
+The boundary value of 100 or 150 mg dust/m3 pure gas, which is required for li-
+censing. was definitely underbid.
+
+The furnace efficiency, which is important for the economy of the NSF method, was
+increased to more than 95 percent after improvements in the equipment.
+
+The operating performance of NSF plants regarding starting and stopping as well as
+load regulation is absolutely comparable to the conventional steam generator in
+
+this performance category.
+
+Experimental operation of the "Koenig Ludwig" Plant is being continued. The
+emphasis in development will be on component testing and optimization; gradual
+automation, especially for the supply and waste removal systems; and testing the
+use of fine-grained fuels.
+
+13
+FOR OFFKJAI.USEGDNLY
+2.
+
+3.
+
+7.
+
+8.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+FOR OFFICIAL USE ONLY
+
+BIBLIOGRAPHY
+
+B. Cornils, J. Hibbel, P. Ruprecht, J. Langhoff and R. Duerrfeld: Coal Processing
+Technology, Vol V1, 1980, pp 209 ff.
+
+8. Cornils, P. Ruprecht, J. Langhoff, and R. Duerrfeld: CHBHIE TECHNIK 9, 115
+(1980).
+
+B. Cornils, J. Hibbel. P. Ruprecht, J. Langhoff, and R. Duerrfeld, Brennst.-
+Haerne-Kraft (Fuel, Heat, Power], 32, 10, pp 668 ff (1980).
+
+B. Cornils, P. Ruprecht, J. Langhoff and R. Duerrfeld, Stahl und Eisen [Steel
+and Iron], 100, 7, pp 388 ff (1980).
+
+G. Roebke, “The Dorsten Coal Casification Project, Lurgi--Ruht100--Past Opera-
+ting Experiences--Lecture at the 1980 Main Conference of the German and Heat
+Industry in Frankfurt/M. on 20 Hay 1981.
+
+C. Lohmann, J. Langhoff, "Ruhr 100"--Development Work on the Pressurized Lurgi
+Gassifier in Dorsten Presentation at Workshop on Synthetic Fuels Status and
+Future Direction in San Francisco from 13 to 17 October 1980.
+
+P. Peyrere, G. Roebke, CHEHIB-TECHNIK, 9, No 8 (1980).
+
+J. Langhoff, E. Holouskiy, "Verfahren zur Hydrierung von Steinkohlen in Pors-
+chung Aktuell, Kohleverfluessigung" [Method for Hydration of Hard Coal in
+Research, Current Coal Liquefaction], published by the Federal Minister of
+Research and Technology, Umschau Publishers, Frankfurt/Main, 1978.
+
+J. Langhoff, E. wolowaki, C. Escher, and H. Hoaang, Status of German technology
+on coal hydrogenation development by Ruhrkohle AG and Veba Oel AG. Conference
+of the Canadian Society for Chemical Engineering in Sarnia, Ontario (1979).
+
+C. Holowski, "Haus-der-Technik-Vortragaveroeffentichungen" [House of Technology
+Publications], No 405, p «7 f., Vulkan Publishing House, Dr. H. Classen, 1978.
+
+R. Specks, J. Langhoff, E. Holouski, G. Escher, The Coal Hydrogenation Plant at
+Bottrop; Conference on Synthetic Fuels: Status and Directions, San Francisco,
+1980.
+
+c. Escher, J. Langhoff, H. Hosang, E. Wolouski, K. Graeser, and A. Jankowski,
+Ruhrkohle/Veba Oel Technology for Hydrogenation of Hard Coal. Conference of
+the Canadian Society for Chemical Engineering in Edmonton, Alberta, 1980.
+
+H. Krischke and J. Langhoff, The Proceedings of the Sinth International
+Conference on Fluidized Bed Combustion, April 9-11, 1980, Atlanta, Georgia,
+U.S.A.
+
+H. Krischke, "Coal Combustion in Fluidized Bed," lecture delivered at the
+status seminar on "Environmentally Safe Power Plant Technology," 6-10 October
+1980, Juelich.
+
+1h
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+15. J. Langhoff et 31., "The Flingern ﬂuidized-Bed Plant--Structure and Initial
+Operating Experiences." lecture delivered at the V63 Conference on "1980 Coal
+Furnaces" on 21 Nov-her 1980.
+
+Dedicated to Professor Dr. rer. mt. Werner Peters on his 60th birthday.
+
+Authors: Dr J. Langhoff. Dr R. Duerrfeld, Dr E. Holowski, Ruhrkohle Oel und Gas
+anH, Gleivitzer Plat: 3, 0-4250 Bottrop.
+
+COPYRIGHT: Industrieverlag von Hernhnueeen KG, Hamburg 1981
+
+5058
+680:3102/61
+
+15
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+A 320 DEVELOPMENT SCBEDOLE. TECHNICAL DATA
+Paris AIR 5 COSMOS in French 19 Sep 81 pp 31-33
+[Article by J. H.: '1986: The Future A 320 (135-172 Seats)"]
+
+[Text] In June, at the time of the Bourget Exhibition. we were able to publish
+a summary of the first information relased relative to Airbus Industrie's future
+A 320 (formerly SA-l/SA-Z) (see AIR 3? COSMOS No 864, pp 31-35).
+
+The A 320 is now closer than ever to being unveiled. We thereftce present here to
+our readers the future plane in the form of a more detailed set of technical data:
+updated insofar as concerns its calculated performance characteristics. excerpted
+
+from a more recent document dating from the month of August.
+
+The decision to produce the A 320 was announced at Bourget by the management of
+the European consortium, armed with Air France's choice of the plane in the form
+of a provisional decision: an order for 50 planes. 25 of which on option. with a
+binding down payment (10 million francS)—symbolic, certainly, but a non-negligible
+factor leading to the mentioned announcement. A timetable has now been set up as
+follows:
+
+--March 1984: Assembly of the wing unit and fuselage of the first plane:
+--Decenber 1984: First flight:
+
+--January 1986: Certification of the first version: entry into service:
+--March 1986: Certification of the second version.
+
+In setting up this timetable. Airbus Industrie is undoubtedly taking a risk; but
+the risk would have been greater if the European consortium had not taken the
+mentioned provisional decision, taking advantage of the situation in which Boeing
+finds itself wherein, after having launched its 3 737-300 program and announced
+the start of studies on a 8 727-200 RB, it has very obviously been compelled to
+delay until 1988 the roll-out of its future 3 7-7 so as not to interfere with the
+marketing of the two above-mentioned planes. If this timetable is maintained.
+Airbus Industrie should be the first to bring out a 150-seater of modern design.
+
+16
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The proposed timetable, based as it is on a 55- to 56-month developmental spread,
+appears reasonable. The obstacles to be overcome include the necessary agreement
+on the distribution of responsibilities (see AIR 3? COSMOS No 870 p 8), the foraal
+commitments by the governments, and the availability of the engines: Although
+three types of engines are, technically speaking, in the running, all capable of
+providing the high levels of performance delanded (CPM 56-2000, RJ-500~35, and
+
+PW 2025), the fact is that the developmental timetable for these three engines
+does not really coincide with the one for the plane, unless the latter are ini-
+tially equipped with provisional engines. Indeed, this problem could all the more
+easily be resolved if the A 320 could go into service with an engine derived
+directly from the present CPU 56... .
+
+The first feature that is being specially promoted by Airbus Industrie is the
+diameter of the fuselage: It has been carefully chosen to satisfy the demand on
+the part of passengers for greater coufort as well as that on the part of the air-
+lines for greater conmercial viability, that is, the ability to transport, in the
+baggage holds, containers like those of the present LD 3, hence ”compatibility'
+(without involving any real trade-off) with the baggage holds of the larger
+planes.
+
+By comparison with the standard Boeing fuselage, that is, that of the 8 707/727/
+737/757, that of the A 320 thus provides greater interior room (6 inches, or 15
+cm), which will mean:
+
+--wider seats, more ceiling headroom;
+
+-- larger luggage compartments inside the cabin (above theseats): 62 dn3 per seat
+versus 51 for the Boeing Iuselage and 39 for the DC 9;
+
+-- wider but also higher baggage holds (1.22 m versus 1.11 and 0.99 n).
+
+In 'business' class. that is, with five seats per row instead of six, the seat
+widths will be identical to those found in first class on the B767 and the DC 9.
+
+From the technical standpoint, it features the planned use of:
+
+--active cantrol over elevator and stabilizer surfaces;
+
+--simple but effective high-lift devices;
+
+--improved lightweight alloys and composite materials on a large scale (fin, ele-
+vator, flaps, spoilers, ailerons, cowlings, fairings, landing-gear hatches, floor
+panels):
+
+--color cathode-ray tubes, etc.
+
+of course, the cockpit is designed for a crew of two.
+
+17
+FOR OFFNJA1.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+All of these features will be backed by the experience already acquired. in most
+cases on the A 300. the A 300-600 and the A 310. The user will therefore not be
+exposed to unwelcome surprises. Aerodynamic studies on numerous wind-tunnel
+models are already at an advanced stage at the plants of all the partners. The
+total wind-tunnel test time now exceeds 3.500 hours.
+
+Noteworthy also is the operational life of the structure: 60.000 1-hour flights.
+
+The calculated performance characteristics charted hereunder and on the following
+pages may be summarized as follows: Fuel consumption 40 percent less than that of
+the 3 727-200 and operating cost 20-25 percent less. Its gains with respect to
+the 8737-200 are. respectively. 30-35 percent and 18-20 percent. The interest
+being shown in the European plane by airlines such as. in the United States.
+Eastern and Delta is therefore understandable.
+
+Comparative Characteristics of the Two Versions
+
+Parameters A 320-100 A 320-200
+W
+King span (m) 34.57 34.57
+Overall length (m) 36.04 39.24
+Overall height (m) 11.85 11.85
+______._____.._______.___________.___.._._._______._.____.________________..______._.
+Number of seats at row-spacing of 32 inches 154 172
+Number of seats at mixed spacing 135 156
+(12 + 123) (12 + 144)
+
+Capacity of forward holds (m3) 13.6 18.3
+Capacity of rear holds (m3) 25.1 29.9
+Total capacity (m3) 38.7 48.2
+W
+Fuel capacity (kg) 18.800 10.800
+W
+Operational weight. empty (kg) 38.478 40.835
+Maximum weight at take-off (kg) 66.000 71.900
+Maximum landing weight (kg) 60.700 65.700
+Maximum weight less fuel (kg) 54.900 60.400
+W
+Maximum payload (kg) 16.422 19.565
+Passenger load (at 32-inch row-spacing) (kg) 13.971 15.604
+Cargo load (kg) 2.451 3.961
+M
+
+18
+
+FOI(0FFK]A1.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+Latest edition of payload-range curves, updated
+with respect to those released in June.
+
+ 
+
+f A 320 efficiencies with those
+of the 3 137-200 and the 8 757—200.
+
+Cowper ison 0
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ 
+
+ 
+
+1'": 4 s"‘o" 7‘ e 0
+
+Comparative engine perfornance characteristics.
+
+  
+
+Comparative fuel/seat and fuel/trip
+consumption characteristics.
+
+20
+FOR OFFICIAL USE ONLY
+WW1... mmmmmmmmmgmmgmmmmmm ammﬂ/ .1....1 43/
+memmmmmmmgmmgmmmag 3mm Cw...” \
+
+. gammmmmmmgggmmammgmmm 5mm .11.... a
+.1. mmmammmmmmﬁmmagngamg mg [1.11
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+FIRST FLIGHT TESTS OF BRITISH AEROSPACE 1‘6 SUCCESSFUL
+
+Paris AIR 5 COSMOS in French 19 Sep 81 p 15
+[Article by J.M.: "Hatfield: First Flights of the ﬁne 146"]
+
+[Text] The first flight tests of the BAe 106-100, which began on 3 September
+at Hatfield (see AIR & COSMOS No 872 p 15), taking into account the purpose of
+this quadruple jet (capability of using short airfields), focused upon flight
+characteristics, take-off and landing included, with deflected wing flaps
+(Fowler, with double slots).
+
+This entire first flight, of 95 minutes duration, was effected with the trail-
+ing edge flaps deflected 26'; the take-off is known to have required only 17
+seconds and was made at about 108 knots but the airplane weighed less than 29
+tons. the planned maximum weight being 33.8 tons. The landing gear was re-
+tracted, then reextended; the greater part of the flight having been made with
+the landing gear extended. the measured fuel consumption was hardly significant.
+all the more so as the flaps were also extended and because of this the speed
+remained lower than 200 knots (370 km per hour). In 95 minutes of flight, ceil-
+ing at about 10,000 feet, the four AVCO Lycoming ALF 5028-3 turbojets (static
+thrust: 3 tons) thus consumed nearly a tone of fuel and the plane put down with
+weight of about 25 tons, the flaps all the time deflected 26°. It is interest-
+ing to observe that during this first flight the airbrakes located at the rear
+of the fuselage were used, during the approach as well as in landing. The use
+of these airbrakes, flaps and spoilers, combined, should in fact permit best
+possible control of the angle of approach and then of braking on the ground
+without recourse to thrust reveraers.
+
+Still on the subject of take-off and landing, let us recall that the Ede 146
+landing gear was deve10ped from an original scheme of the Hessier-Hispano-
+Bugatti firm. accepted at that time by Hawker-Siddeley Aviation, and then
+passed on to the Dowty-Rotol firm. However, Hessier-ﬂispano-Bugatti is mass
+producing the main structural element, which is the landing gear cylinder, at
+its Bedow plant, the remainder being manufactured in Great Britain.
+
+This landing gear with telescoping twin-wheel bogie is a fuselage gear which,
+with lateral retraction and shortening, makes it possible to adapt to the re-
+quirements of the wheel gauge (6.72 meters) and limited space once the gear is
+retracted. In the matter of French industry participation in the BAe 166 pro-
+gram let us also point out the presence, aboard this first flight of the ﬁne 146,
+
+22
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+the new TRT ARV-530A (ARINC Standard 552A) digital radioaltimeter. Other French
+suppliers: Forgeai, Le Magnesium Industriel, and Raychem France.
+
+Also during this first flight the crew was able to proceed with operational
+tests of the systems: electronic, hydraulic, pressurization, air conditioning,
+and APU [auxiliary power unit], and to make a preliminary testing of the sta-
+bility and pilotability about the three axes, going so far as even evaluating
+the damping of "Dutchman's roll" with and without attenuators, and maneuver-
+ability with the exterior starboard motor idling.
+
+The days which followed enabled British Aerospace to perform, with the BAe 166
+No l:
+
+a second flight of 35 minutes duration with the flaps deflected 30°; and
+a third flight with the flaps deflected 18° (planned maximum: 33°).
+
+The airplane should supposedly fly 15 hours before flutter tests (in flight)
+with use of an hydraulic exciter begin. The exploration of the flight regime,
+the stability and maneuverability tests, and the flutter tests should take abOut
+6 weeks; atthe end of that time an anti-stall parachute, necessary for limiting
+the risks during tests of low speed flight, stalling, and sensitivity to buffet-
+ing, will be installed.
+
+The BAe 166 No 2 should fly in November, the No 3 airplane in January; a fourth
+airplane will fly later, about April or May. These four airplanes will have
+flown a total of 1,200 hours before certification, hoped for in August 1982, is
+obtained.
+
+COPYRIGHT: A. 6 C. 1980
+
+11,706
+650: 3102/12
+
+23
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+RENAULT'S WUAI PLANT HIGHLY AHMED
+Paris L'ExPRBSS in French 2 Oct 81 pp 106-106
+[Article by Michel Jacques: I'Rt.'>bots Are Not Armless'f]
+
+[Text] To put a halt to the Japanese invasiOn, Renault has chosen new allies:
+Robots. In its front line: Its Douai plant.
+
+This is the other major event marking the return from the vacation period. Less
+spectacular, no doubt. than the launching of the rev [high speed trains]. its
+impact is nevertheless considerable. with the Regie Renault's new production unit
+now being put into service at Douai, in the North, which will be its R9 production
+tool, France will have one of the world's most highly automated plants --a plant
+that will still be employing 7,000 persons but where 125 robots will be doing, all
+unto themselves, a very large part of the welding and Iaterials handling involved
+in the manufacture of a vehicle.
+
+It is about time! The Japanese car invasion is not waiting. The reason their
+cars are coming into the Western markets at low prices is to a great extent owing
+to the fact that their production is robotized. Hence it is on that terrain that
+battle must be done. Clearly, robots are following the historic trend. having
+made their entry into shops over the last few years, they are competing there with
+human beings, without inhibitions and for a cause. Being at one and the same time
+awkward yet precise, comical yet disturbing, they paint. weld. cut. and handle
+parts and materials, often exceeding fiction, without, however, resesbling it.
+Nothing stops them. They already had arms and a memory: Now they are starting to
+see and to ”think." Some are even capable of reproducing themselves... We are
+at the dawn of a new industrial revolution. A turn that the French automobile
+industry cannot afford to miss, and that it is preparing in good time to
+negotiate.
+
+“Dauai is not the child of a spontaneous conception: it is the product of a series
+of continued efforts," points out Claude Grappotte, a member of the Renault man-
+agenent. The fact is that the Regie has introduced robotics very widely into
+
+its Plins (Yvelines) and Hans (Sarthe) plants, even though it embarked on this
+route sole 10 years later than did the American manufacturers. According to
+
+2%
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+its engineers, there is no 'gap' with respect to the United States and to Japan.
+“The Japanese,” they say, “count anything as robots.“ By their definition, Renault
+and Peugeot s.a. have between them 16,000 robots, or, as many as the Japanese
+industry.“
+
+Exactly what is a robot?
+
+The automation of industrial operations does not date back to only yesterday.
+Transfer machines have been used in the Renault plants since innediately follow-
+ing the Second World War. These were marvels of equipment at that time and are
+still useful today. But they are machines that do the same things time after
+time, like beasts of burden, one might say. The robot is not limited by the same
+constraints: It is flexible, easily programable, and can perform different opera-
+tions on demand. “The life of a transfer machine,‘ says one engineer. "is, broad-
+ly speaking, like that of a given model of automobile, in that, when the model is
+changed one scraps the old one. With a robot, on the contrary. one need only
+change the program.
+
+The Great Leap Forward
+
+For actually, it is first of all a manipulator: An arm at the end of which is
+mounted, as required, a welder, a miller, or a materials handling tool, somewhat
+as a do-it-yourselfer might adapt his sander or his circular saw to his drill
+press. But industrial robots have a flexibility that is little short of astonish-
+ing.
+
+On the Douai welding line, the robots can process RS's and R9's on the same line:
+one after another, in any order: A simple magnetic card enables them to adapt to
+the situation case by case. The same is true at Plins. There, a conical bird--
+half ostrich, half brontosaurupecks away obstinately at an R10 carcass: It is
+the painting robot. The flexibility of these “vertebrates” enables them to paint
+even the inside of the body. Above all, it itself changes colors as required and
+adapts its motions to each type of vehicle.
+
+These are not the only smart robots. Others, at Biderman (textiles), sew buttons
+on and cut textiles by means of lasers. And even more impressive is a robot
+equipped with a television camera--the equivalent to it of having an eye--that
+can distinguish... 1,000 billion different shapes!
+
+Record achievements, just the same, in that, there are many generations of robots
+of varying degrees of evolution. The most cannon equipment of this genre are
+numeric-controlled. machine tools. An echelon above these are the programable
+manipulators, capable of 'learning.‘ And at the summit are the robots equipped
+with a sensor, a true sensing organ, which no longer repeats the sass notions
+endlessly, but 'invents' variants in accordance with the environment.
+
+"None of this would have been possible,” emphasizes Pierre Pardo, father of the
+Regie Renault's robots, “without microelectronics, which has increased to an in-
+credible degree our calculating powers.‘ The great leap forward was, beginning
+in 1970, the advent of the microprocessor. Just 10 years ago, the robots in a
+
+25
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+plant were all tied into the same computer weighing tons and worth a fortune.
+Microprocessors enabled the miniaturization of equipment and the bringing down
+drastically of costs. Suddenly, the computer began to be mounted directly into
+the body of the machine: Each robot was given its own brain.
+
+Was this a unique miracle of technology or was it real progress? whatever the
+answer, production has benefited from it in terms of quality. Through the use of
+welding robots, a better positioning of the vehicle's components is possible,
+reducing noises and aging of the vehicle. In terms of money, it is not that
+simply put. "Initially," says Max Richard, head of the Plins plant, I'the instal-
+lation of robots was, as is true in all cases of experimentation, a heavy additi-
+tional cost. But its true venue is Inouai.‘I
+
+Robots are certain, sooner or later. to pay for themselves. This has been shown
+to be the case, for example, by CPAO [Computer-Assisted Design and Manufacture],
+another aspect of robotics. It used to take an average of 2 months at $88 [ex-
+pansion unknown] to bring out a new model of pressure cooker. with CPAO, the
+engineers "pop" the data into the computer, and, 1 hour later, out comes the
+design. For added measure, it is in the form of the program needed by the
+numeric-controlled machine that will fabricate the stamping press for the cooker.
+Result: The first cooker can come off the production line the next day. In the
+Dassault design department at Saint-Cloud also, the drawing board has been re-
+placed by the computer. Suddenly, everything advances more rapidly: Whereas
+before, it took I months to complete the plans for a wind-tunnel maquette of a
+plane, today, 4 days are enough.
+
+The Douai Monsters
+
+But what is there in this for the workers? RobOtics does not always have profits
+as its motivation: sometimes its aim is to improve working conditions. The good-
+fellow robot who does the ”dirty work' of painting in the shop undoubtedly merits
+a tip of the hat. In the welding operation as well, automation eliminates annoy-
+ing and tiresome work. Nevertheless, all the fallout from robotics is not a shower
+of roses: The most disturbing aspect in terms of the long haul has to do with
+jobs. By 1990, Renault estimates that, for the same level of production, roboti-
+zation will have eliminated 12 jobs in manufacturing out of 100. With compensa-
+tions, of course.
+
+Robotics as a whole involves a reduction in the number of skilled factory workers.
+But it requires a greater number of highly skilled service personnel, inasmuch as
+it generates the need for operational control and maintenance. This often means
+promotiOns for the personnel in the enterprise itself. At Douai, the 3S welding
+robot operators are all at the BTS [Diploma of Advanced Technician] level: They
+were all recruited, following appropriate training, from among the plant's own
+personnel. At Hans, where a fully automated lSO—meter-long production line has
+been installed, seven men are enough to "drive" the monster. Highly qualified,
+they were actually chosen from among the plant's factory-worker personnel: A
+training period to bring them up to the required level turned the trick.
+
+26
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+The union leaders are nonetheless concerned: "People are being put through demand-
+ing training courses and, when all is said and done, they are given but a mere
+supply or monitoring job,” say officials of the CPDT [French Democratic Confedera-
+tion of Labor]. Another concern is: Since robots are very expensive, they are
+given virtually no rest. Suddenly. the need will arise for job crews. hence night
+work: The opposite of progress.
+
+A point on the positive side is: The manufacture of robots creates jobs. This is
+especially true in the case of Renault. which builds its own automation devices,
+through the intermediary of its subsidiary Alma-Cribier. The latter is moreover a
+leader of the the French robotics industry. which includes manufacturers such as
+Peugeot s.a., SORHEL [Company for the Study of Electrical and Mechanical Clockworks],
+AFHA [expansion unknown], Scinky, etc.
+
+Douai is yet but a stage, and the robot revolution is but starting. The most
+difficult part lies ahead: Moving into the assembly stage, a technique that is
+likely to take several years to master. Robots will of course never do every-
+thing. But already, some of them are shrewd enough to go searching in a stack of
+parts for exactly what they need. Or to assemble all by themselves an entire
+automobile transmission... .
+
+COPYRIGHT: 1981 s.a. Groupe Express
+
+9399
+C80: 3102/11
+
+27
+FOR 0F1WC1A1.USE10NLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+NEW GENERATION AVIONICS FOR AIRBUS AIRCRAFT TESTED
+Paris AIR & COSMOS in French 19 Sep 81 pp 34-35
+
+[Article by Gerard Collin: "Flights of the A.300 No 3 with BPIS (Electronic
+Flight Instrument Systems) and Garuda PPCC (Forward Facing Crew Cockpit) To
+Take Place Soon"]
+
+[Text] The flight test Airbus A.300 No 3 of Airbus Industrie on last 15 August
+completed the first phase of in-flight evaluations of 8 months duration which
+made it possible to test--among other things--the new generation of digital
+avionics (confirming to ARINC 700) with the immediate objective--the most
+urgent--of category 2 landing certification for the aircraft before delivery to
+the Indonesian airline, Garuda, and then to VASP of Brazil. The first A.300 for
+Garuda should in fact make its first flight about the middle of October and be
+delivered to that airline in January 1982, thus in 4 months.
+
+To accomplish this the A.300 No 3 was equipped with the digital automatic flight
+control system-~CADV--developed by the SPENA [French Air-Navigation Equipment
+Company] in collaboration with Smiths Industries and Bodenseewerk. The tests
+performed with the Airbus No 3 made it possible to explore, under varied condi-
+tions (instrument landing system, wind, turbulence. weight, center of gravity)
+the various CADV modes, to carry out automatic approaches, landings included
+(more than 70) and 38 manual approaches. Pilots from Airbus Industrie and from
+French official departments participated in these flights. The Airbus No 3 has
+gone back into the shop to receive the first pilot's cathode displays developed,
+in this instance, by Thomson-CS? [Thomson-General Radio Company] and its German
+partners. VDO-Luft. So equipped. on one side with only cathode displays (there-
+fore, half the instrument panel) the Airbus No 3 should be certified for flight
+next November.
+
+The airplane will also have the new Garrett GTCP-33l-250 APU [auxiliary power
+unit] which provides a weight saving of 130 kg over the APU of the present Air-
+bus aircraft. This new APU also makes a 23-percent saving in power consumption
+possible. Several modifications are on a par with this new APU: wiring, struc-
+ture allowing greater accessibility and easier maintenance, and removal of the
+electronic fuel regulation unit to a pressurized area.
+
+It is to be noted that this program--a rather extended one-is being fully car-
+ried out and is on schedule. which confirms that the new generation of avionics
+and equipment intended for the A.3lo will in fact have been evaluated in flight
+
+28
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+even before the first flight of the A.310. As for the FFCC design-it is going
+to fly very soon with the first Garuda airplane, here, too, providing very
+favorable conditions for the A.310; there will be hardly anything but the wings
+of the A.310 to receive its airborne baptism next spring....
+
+Substantial Flight Test Facilities on Board
+
+For the Flight tests the Airbus A.300 and A.310 are fitted with an installation
+for acquisition, processing, and storage of measurement data designed by AERO-
+SPATIALE [National Aerospace Manufacturing Company]. general contractor for
+definition of this installation (the flight tests themselves being conducted
+
+by Airbus Industrie). The principal partner of ABROSPATIALE in this matter and
+supplier of this measurement system is SPIN, with AHPEX as far as the recorders
+are concerned.
+
+A conventional measurement system comprises several levels: sensors, condition-
+ing (or adaptation), acquisition with PAH (pulse amplitude modulation) multi-
+plexing. digital coding, and utilization (processing, storage in the recorder,
+or transmission to the ground by telemetry).
+
+As a matter of fact it may be desirable to reverse, somewhat, the sequence of
+the steps in order to multiplex the data delivered by the sensors before they
+are conditioned. Actually, conditioning placed upstream from the multiplexing
+implies that a conditioner be associated with each sensor; but on a development
+Airbus serveral thousand sensors can be expected! Hence the idea of multiplex-
+ing before conditioning by combining into families sensors of the same kind
+(all synchros, for example) by groups of 8, 16, or 32.
+
+Therein is an evolution underway for the Airbus development airplanes. Another
+evolution is tied to the flip-flop over digital connections of the new genera—
+tion avionics (ARINC 700, ARINC 429). Thus, aboard the A.310 the installation
+"acquires" the major portion of the digital parameters circulating over more
+than 30 ARINC 429 buses, from which the flight test installation samples only a
+part of the messages ("labels"). To this we must add that the engines will
+
+have available their own box for multiplexing and conditioning their parameters
+(box designated E-HUX or P-HUX), which reduces somewhat the task of the flight-
+test installation while contributing to swelling still more the volume of numer-
+ical data to be processed.
+
+The total volume of data acquired by the recorder--hence at the end of the sys-
+tem—-is considerably increased in the A.3lO compared with the original Airbus.
+The orders of Magnitude are 9,000 words (of 8 bits) per second for the Airbus
+compared with 30,000 (of 12 bits) for the A.3lO, or a factor of increase on the
+order of 5.
+
+Samba, Super—Samba, Sardane
+
+These names were chosen by AEROSPATIALB and the SPIN to designate the three
+measurement systems used for the Airbus flight tests. All these systems.
+physically, are in the form of 19-inch rack units, conforming to aeronautical
+environment standards. and originally designed for the Concorde program. As
+a rule they are placed inside the cabin.
+
+29
+FOR OFHCIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+Samba is the system used at the origin of the Airbus program for the A.300 32/
+34. Moreover it was a Samba system which flew aboard the Airbus No 3 of Air-
+bus Industrie for evaluation of the digital CADV.
+
+It is a SFIH Super-Samba system with Ampex recorders which will fly aboard the
+first two development A.310 aircraft, processing several thousand parameters.
+
+As for the 3, lo, 5 development aircraft, they will receive Sardane test instal-
+lations, which are lighter (only several hundred parameters, the bulk of the
+evolutions having already been effected upon the l and 2 airplanes) and more
+autonomous: this increased autonomy (based upon a Rohlm computer) will facili-
+tate the test program farther along (hot and cold airfields, altitude tests,
+special runways...). In addition Sardane has recourse to the concept of con-
+ditioning after multiplexing as defined above, which lightens the installation.
+
+This brief description of the on-board measurement installations ignores many
+other aspects; for example, an ideally simple and effective means of validating
+the system before each flight and identifying every defective part or sensor
+must be incorporated into the system; this is a difficult problem (several
+thousand sensors!) which was the subject of numerous development projects on
+the part of AEROSPATIALE since the early days of the Concorde. The installa-
+tion also includes peripherals (loading and modification of programs. analog
+facilities for reading and display of parameters in real time, printers, etc)
+and. of course, data processing facilities on the grounds for "replaying" and
+analyzing the flights.
+
+Ampex Recorders
+
+As far as recorders are concerned, it is the American firm, Ampex, chosen by
+ABROSPATIALE, which has ordered or already acquired model Mink-1700 and model
+“BR-3000 recorders. The speed of acquisition is not, in general, the most re-
+strictive factor: typically one megabit per second maximum; Ampex has already
+exceeded the level of 100 megabands and is aiming at 200 megabands in 1984 and
+2,000 in 1988. On the other hand, the specifications for recording life (6
+hours) and error rate of 10'7 per word (or 10'8 per bit) require equipment of
+very high quality.
+
+The ERR-3000 includes ll. channels recorded at constant density with tape feed
+rate controlled by the effective input modulation speed. The code is the
+"Ni ller square" utilizing an Ampex patent.
+
+COPYRIGHT: A. 6 C. 1980
+
+11,706
+CSO: 3102/16
+
+30
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+TRANSPORTATION
+
+BRITISR PARTICIPATION IN A 320--Aerospace problems occupied a prouinent place,
+especially in talks between Ministers of State Pierre Chevenenent and Charles
+Piternan and their British counterparts, during the sumit meeting in bondon at
+the end of last week. The matter of the new Bil-passenger, short-nediun-range
+transport plane. the A 320, was discussed. and Mr Piterman stated that the British
+have now decided to take a substantial part in the actualization of this project.
+The ministers are also going to request the industrialists to proceed with the
+studies and to undertake the talks necessary to work out tentative plans for pos-
+sible cooperation including the field of engines capable of powering the A 320.
+This being the case, joint operations already exist involving the industrialists,
+such as, for example, the agreements between SNECHA [National Corporation for
+Aircraft Engine Design and Construction] and General Electric on engines of the
+cm 56 family, and the intended talks must not disturb this cooperation. Hr
+
+are expected to have submitted their proposals to the governments. These propos-
+als lust specifically address the economic viability and the competitiveness of
+
+C50: 3102/15
+
+31
+F0! OFFIGAI. US! ONLY

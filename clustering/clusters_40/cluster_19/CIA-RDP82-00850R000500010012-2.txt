@@ -1,0 +1,3827 @@
+FOII OFFICIAL USE ONLY
+
+JPRS L/10214
+23 December 1981
+
+USSR Report
+
+EARTH SCIENCES
+
+(FOUO 9/81)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. Where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the U.S. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING OWNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEMINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+EARTH SCIENCES
+
+(POUO 9/81)
+
+CONTENTS
+
+OCEANOGRAPHY
+
+Experiment for Determining Velocities in Sedimentary Layer of Sea
+of Japan Using Seisnoacoustic Radiobuoys .......................
+
+Interpretation of Data on Oceanic Have Movements Registered by
+HOVi-ns sensors .00.00.00...OJO0.0.0.0...00OOOOOOOOOOOOOOOOOOIOO.
+
+Influence of Sound Scattering on Depth Dependence of Low-Frequency
+Oceanic Noise ..................................................
+
+EPH Marine Electric Field Meter ..................................
+Electrokinetic Interference in Electrometric Work in Sea Areas....
+Articles on Dynamics of Fluid With Free Boundaries ...............
+Collection of Articles on Ocean Dynamics .........................
+
+Collection of Articles on Atmosphere-Ocean Interaction in
+Atlantic ocean o.coo-0.00.0.00....OOOOIOOOOOOOOOOOOOO0.000......
+
+Tasks of Department of Oceanology, Atmospheric Physics and
+Geography, USSR Academy of Sciences. in Conformity to
+Resolutions of 26th CPSU Congress ..............................
+
+Collection of Papers on Marine Meteorology .......................
+
+TERRESTRIAL GBOPHYSICS
+Collection of Articles on Applied Geophysics .....................
+
+Collection of Articles on Dynamic Theory of Seismic Have
+
+Prop.‘.t1°n onees.eeo00one.no.soecon-eon.ooeoeeeeoooooeeeaeeesoe
+
+- a - [III - USSR - 218 8&T
+
+FOR O‘TWCJAU-IEEECHULY
+FOR OFFICIAL USE ONLY
+
+PHYSICS 01’ ANSWERS
+
+Collection of Papers on Atmospheric Jpcice ........................
+
+Monograph on Geophysical Parameters of Ionoephere ................
+
+ARCTIC AND ANTARCTIC RESEARCH
+
+Collection of Articles on Geophysical Research in Antarctica ......
+
+FOR OFFICIAL USE ONLY
+FOI‘OIIWCIAI.LEEZCNVLV
+
+UDC 550.834
+
+EXPERIMENT FOR DETERMINING VELOCITIES IN SEDIHENTARY LAYER 0F SEA OF JAPAN
+USING SEISHDACOUSTIC RADIOBUOYS
+
+Moscow OKEANOLOGIYA in Russian Vol 21. No 5, Sep-Oct 81 (manuscript received 12 May
+80. after revision 8 Sep 80) pp 915-919
+
+[Article by B. Ya. Karp, s. I. Hedvedev and V. P. Karman, Pacific Ocean Oceanolog-
+ical Institute, Far Eastern Scientific Center, USSR Academy of Sciences, Vladi-
+vostok]
+
+[Text] Abstract: This article gives the results of experi-
+mental-methodological work by the reflected waves
+method carried out along five profiles in the Sea
+of Japan. The work was done using a highly correl-
+ated observation system and employing an instru-
+ment complex based on "Sprut" seismoacoustic radio-
+buoys. The objective of the work was a clarifica-
+tion of the possibilities of the developed appar-
+atus in investigations in the deep sea and a de-
+termination of the velocities of seismic waves in
+the upper part of the earth's crust of the shelf,
+continental slope and deepdwater basin of the Sea
+of Japan. The good capabilities of "Sprut" radio-
+buoys were established.
+
+Extensive use of seismoacoustic radiobuoys (SARB) has come about during the last
+decade in oceanographic expeditionary work for clarifying the velocity structure
+of the earth's crust in the seas and oceans [4, 5 and others]. The principal ad-
+vantage of seismic work with SARB is the possibility of using a single vessel for
+carrying out investigations with highly correlated observation systems over a rel-
+atively short period of time.
+
+In the summer of 1979, during a geophysical expedition of the Pacific Ocean Ocean-
+ological Institute, Far Eastern Scientific Center USSR Academy of Sciences (T01
+DVNTs AN SSSR) on the scientific research ship "Borey," specialists carried out ex-
+perimental-methodological work by the seismic method of reflected waves using high-
+ly correlated observation systems and employing Soviet-produced SARB of the ”Sprut"
+type [3]. The objective of the experimental-sethodological work was the testing of
+the complex of apparatus developed at the Pacific Ocean Oceanological Institute,
+Far Eastern Scientific Center, USSR Academy of Sciences, the basis of which was
+standard-produced instruments, from the point of view of its suitability for carry-
+ing out investigations using the mentioned observation systems and determining
+
+FOITOFFIJAI.UBB(NWLY
+FOR10FFKJAI.USE(MVLY
+
+velocities in the sedimentary layer of the Sea of Japan for the purpose of interb
+preting continuous seismic profiling records.
+
+The principles for constructing the apparatus complex for carrying out seismic work
+in the deep sea using highly correlated observation systems, using SARB and nonex-
+plosive sources, are well known and are set forth in a nunber of studies [1, 6, and
+others]. These principles were used in creating a similar complex at the Pacific
+Ocean Oceanological Institute, Far Eastern Scientific Center. USSR Academy of Sci-
+ences. Figure 1 is a block diagram of the apparatus. The complex consists of three
+blocks: reception and relaying block, registry block and radiation block. SAID of
+the "Sprut" complex were used in the reception and relaying of seismic signals. In
+the radiobuoys there was a change in the suspension of the hydrophone. which made
+it possible to use them with sea depths greater than 120 m.
+
+The reception of radio signals from a buoy and their conversion is accomplished
+using the radio receiver and demodulator (RD). The signal from the demodulator
+output is divided into three channels by means of the band filters BPl-BPB. The
+filters have transmission bands 5-35, 50-150 and 150-300 32, a flat frequency char-
+acteristic in the transmission band and a cutoff steepness 12 db/octave. The fre-
+quency separation of the signal makes it possible, using several automatic record-
+ers simultaneously, to register the oscillations propagating only in the water
+layer (a so-called "direct" wave), reflections from deep discontinuities, and ob-
+tain a good resolution for the boundaries situated immediately below the sea floor
+11].
+
+ 
+
+Fig. 1. ”lack diagram of instrument complex. Explanations in text.
+
+KEY:
+1. RB -- rudinbuuy 7. DOR - discrete operation recorder
+2. RD -- receiver-demodulator 8. FA - facsimile apparatus
+3. ur -- band filter 9. "0-62 -- magnetograph
+a. A -- amplifier 10. CSU -- control-synchronization unit
+5. H - hydrophone 11. 888 - electrospark source
+6. H -- mixer 12. PS - pneumatic source
+
+2
+NOR OFFICIAI.IEIB(HULY
+I!!!(Iﬂﬂ(1hl.lE§E(HVLY
+
+The signal is fed from the output of the band filters through the-amplifiers Al-A3
+and mixers to standard paper tape recorders: DOR (discrete operation recorder) and
+FAK-P (facsimile apparatus). With simultaneous operation of both recorders a signal
+from the lowarequency filter 3P1 is fed to one of them and simultaneously, with a
+
+lesser amplification, the total signal from the BFZ and 8P3 filters, whereas the
+second receives divided signals from the 8P2 and 3P3 filters.
+
+In order to ensure the possibilities of further analog and digital processing of
+seismic information the signal from the output of the receiving unit is registered
+in one of the channels of the N062 magnetograph. The other channels are used in
+the registry of the oscillation radiated by the source and arriving at the magneto-
+
+graph from the output of the towed hydrophone (B), as well as the moment of radia-
+tion and the synchronizing pulses with a frequency of 1200 Hz.
+
+The control of radiation and signal registry is accomplished by a control and syn-
+chronization unit (050). The synchronization of operation of this unit is accom-
+plished using the FAK-P tuning fork oscillator. In addition. provision is made
+
+for the possibility of operation from an external source of synchronization with
+
+a frequency of 1200 Hz and a voltage of 1.5 V. Using the CSU the operator can sel-
+set the necessary duration of functioning of the recorders (2, 4 or 8 sec) and
+
+radiation interval (from 2 to 20 see with a discreteness of 2 sec). The csu makes
+possible simultaneous radiation by pneumatic and electrospark sources (PS. ESS).
+
+Experimental method. The described instrument complex was used for seismic invest-
+igations on five profiles in the Sea of Japan (Fig. 2). Since the geophysical ob-
+jective of the experimentsl-aethodological work was a determination of the veloc-
+ities of seismic waves in the upper part of the earth's crust for the purpose of
+interpreting data from continuous seismic profiling, the radiobuoys were situated
+on continuous seismic profiling profiles intersecting the shelf, continental slope
+and the abyssal basin of the Sea of Japan.
+
+ 
+
+Fig. 2. Map of arrangement of profiles in Sea of Japan.
+
+3
+FOI'OFFHJAI.USEIINLY
+FOIGMHHCJAI.USB(MVLY
+
+In the working of profiles with sea depths exceeding 120 m, a SARB was placed at
+the center of the profile, then the ship moved to one of the ends of the profile
+and moved along it at a speed of 4 knots, towing a pneumatic sound source. The
+observation system was intended for obtaining individual travel-time curves of
+reflected waves. The total length of the profile was dependent on the depth (H)
+
+of the acoustic basement, discriminated on the continuous seismic profiling
+records, from the sea surface; it was (5-6)H. with such a relationship between
+the length of the profile and the depth of the discontinuity it is possible with
+a high accuracy to determine the mean velocity to the discontinuity and its slope.
+
+The radiobuoy hydrophone was suspended at a depth of 36 m, which approximately cor-
+responds to one-quarter of the length of a wave with a frequency 10 Hz. For separ-
+ation from the surface waves the hydrophone was connected to the buoy by a neutral
+buoyancy cable with a length of 15 m and an underwater "brake." This suspension
+method made it possible to carry out work with waves at sea up to 5 scale units.
+
+A pneumatic source (PS) designed at the All—Union Scientific Research Institute
+of Geophysics with a volume of 2 dm3, towed at a depth of 9 a, was used for the
+generation of elastic oscillations. In the experiments the radiation period was
+8 sec, that is, with a ship speed of 4 knots the "shots" were set off each 16 m.
+
+The high density of the radiation points made it possible to carry out reliable
+correlation of regular seismic waves with a low aignsl-to-noise ratio.
+
+The profiles on the shallow-water shelf (sea depths less than 120 m) were worked
+using two SARB placed at their opposite ends. In this case the hydrophone was
+situated on the bottom and the separation from surface waves was ensured by means
+of an anchor attached to the hydrophone cable at a distance of 20 m from the hy-
+drophone. The radiation period was reduced to 4 sec, that is, the radiation points
+were situated at a distance of 8 m from one another. Otherwise the work method re-
+mained the same as in the first case.
+
+A method was developed for processing the travel—time curves of reflected waves
+
+registered by means of radiobuoys. The method makes it possible with a greater
+accuracy and with a lesser expenditure of computer time than the known algorithm
+
+published by Le Pichon, et a1. [6] to determine the velocity and structural para-
+meters of the medium within the framework of this same model with plane slanting
+discontinuities. Another study has been devoted to a detailed vatidation and ex-
+amination of this method. Here we briefly deal with the algorithm for the process-
+
+Ing of travel-time curves of reflected waves based on this method.
+
+The algorithm makes use of the perturbation and optimization methods. As the "perb
+turbation" of the constant refractive index of the medium “0 - vo'l use is made
+of the small increment n1 as a function of the coordinates x, z, where x is the
+
+horizontal coordinate directed along the line of observation; 2 is the vertical
+coordinate directed into the depth of the medium; v0 is "unperturbed" constant
+
+velocity, that is, the refractive index of the medium is represented in the form
+
+n - no + n1(x,z). (1)
+
+I.
+F0810FFKJA1.USE(HHLY
+FOI‘OFFIJAI.USE(HVLV
+
+A travel-time equation for a reflected wave for a refractive index in the form
+
+(I) was derived. On the basis of this equation it was possible to for: a so-called
+”purpose function" whose minimua is separated by the choice of four parameters by
+means of the Fibonacci method [2].
+
+As a result, it is possible to compute the depth of the reflecting boundary, its
+slope and time of propagation along the ray normal to the boundary (to). After
+determining these parameters for the upper and lower boundary for any individual
+
+layer it is possible to compute the mean velocity in the layer using a formula
+derived from siaple geometrical reasonings.
+
+Results of investigations. Among the five profiles worked on the voyage two were
+situated within the limits of the Primor'ye shelf, two on the continental slope
+and one in the abyssal basin of the Sea of Japan (Fig. 2). The seismic records to
+be interpreted were interpreted on all the profiles. Below, as an example, we give
+the results of processing of data along three profiles, each of which character-
+
+izes one of the studied morphostructures (shelf, continental slope and abyssal
+basin).
+
+Profile I is on the Primor'ye shelf on the traverse of Rynda Gulf. Inforlation on
+the velocity of seismic waves in the upper part of the earth's crust are complete-
+
+ly absent here. According to continuous seismic profiling data which were obtained
+on this expedition, the rocks typical of the acoustic basement approach the real
+surface of the bottom in this region. The profile was worked by means of two sn-
+chored SARB situated at distances of 5.26 km from one another. The total length
+
+of the profile is 11.3 km. The following were registered: the wave refracted at
+the water-bottom surface (Prefr), the "direct" water wave (Pdir) and uninterpret-
+able reflected waves from discontinuities below the bottom (Pig. 3). Along the
+bottom the profile is virtually flat and slightly inclined (sea depth under radio-
+buoy 1 - 105 m, under radiobuoy 2 -- 75 m). The counter travel-time curves Pref:
+where processed by the constant difference method. A boundary velocity 6.6 km.
+sec'1 was obtained.
+
+Profile 3 is situated along the continental slope of Primor'ye at sea depths 1.875
+km. In working the profile the objective was to obtain a travel-time curve of re-
+flected waves from the principal discontinuities discriminated on the continuous
+seismic profiling records and a determination of the velocity of seismic waves in
+the layer covering the acoustic basement. According to continuous seismic profil-
+ing data, here beneath the sea floor there is a stratified layer with a time
+"thickness" of 0.76 sec, underlain by an acoustically transparent layer with a
+"thickness" of 0.42 sec, and the bottom of this layer is the acoustic basement.
+
+The investigations were made using a single SARB situated at the center of the
+profile. Travel times of waves reflected from the floor and the discontinuities
+below the bottom and the travel time of the "direct" wave were registered. The
+travel times of the reflected waves were registered along the entire length of
+the profile; the travel-time curve of the “direct" wave was registered only to
+a time 1.625 sec. 0n the record it is easy to discriminate the travel-time curves
+
+of the bottom reflection and the wave reflected frOm the acoustic basement. In
+addition, it was possible to discriminate the travel-time curve of a wave
+
+FOIiﬂllﬂClAl.lEI£(lUlY
+F0!‘0I11CLAI.US€<0NLN
+
+reflected from the top of the acoustically transparent layer and the travel-time
+curve of the reflection from one of the discontinuities in the stratified thick-
+ness of sediments.
+
+The travel-time curves of the reflected waves were processed using the algorithm
+cited above. The distances between the source and receiver were determined from
+the arrival times of the "direct" wave, whose travel—time curve was extrapolated
+to the maximum distances of registry of reflected waves. The mean speed of sound
+in the water was computed using data on temperature and salinity - 1.51 kmosec‘l.
+The total length of the profile is 15.3 km (9.65 km - left branch of the travel-
+time curve, 5.85 -- right branch of the travel-time curve). As a result of the
+processing it was possible to obtain the following section of the upper part of
+the crust. Immediately beneath the sea floor there is a layer with a thickness
+
+of 0.53 km with a stratum velocity 1.72 km-sec'l; it is underlain by a layer with
+a thickness of 0.18 km with a velocity of 2.6 km-sec‘l. At the base of the section
+there is a layer with a thickness of 1.17 km and the stratum velocity is 6.0 km'
+sec'l. The bottom of this layer (acoustic basement) slopes at an angle of 8.70
+
+to the horizontal.
+
+ 
+
+Fig. 3. Travel-tine curves of seismic waves and section of upper part of earth's
+crust on shelf (profile 1, see Fig. 2). Pdir - direct wave, Prefr -- the wave re-
+fracted at the water-bottom discontinuity.
+
+m :
+A) Pdir
+
+B) prcfr
+c) Vmean - 1.5 kn/scc
+
+D) Vboun - 4.4 km/sec
+
+Profile 4 was worked in the abyssal basin of the Sea of Japan at sea depths 3.36
+
+km. The observation system here was also intended for obtaining travel-time curves
+
+of reflected waves using one SARB. Along the entire profile it was possible to dis-
+criminate the travel—time curve of a bottom reflection and the travel—time curve of
+
+waves reflected from the acoustic basement and from the first boundary beneath the
+
+bottom. The distances, as on profile 3, were determined from the extrapolated ar-
+rival times of the "direct" wave. The total length of the profile is 20.5 km (8.7
+km - left branch of travel—time curve, 11.8 km - right branch). The results of
+
+6
+FOI<DFFHJAI.UFEGNVLY
+FOR OFFICIAL USE ONLY
+
+processing on the basis of our algorithm are as follows: iunedistely below the bot-
+
+tom
+
+there is a layer with a thickness of 0.11 km and a mean velocity of 1.58 In-
+
+sec'l; the mean velocity in the layer between the bottom of this layer and the
+acoustic basement is 2.12 kn'sec‘l and the thickness of the layer is 1.26 km.
+
+1.
+
+3.
+
+6.
+
+. BIBLIOGRAPHY
+
+Heinard, G. I... Sutton. G. l|., llassong, D. M. and Kronke, 1.. 14., "Study of the
+Velocity Section of Sea Sediments by the Hethud of Reflected Haves with Slant
+
+Incidence," AKUSTIKA HORSKIKH OSADKOV (Acoustics of Sea Sediments), Moscow,
+Mir, pp 89-119, 1977.
+
+Moiseyev, N. N., Ivanilov, Yu. P. and Stolyarovs, Ye. 11., 143101)! OPTIMIZATSII
+(Optimization Methods), Moscow, Nauka, 1978.
+
+l’ushkin, V. K., Kiktev, Yu. V., 'l‘opotkova, ‘1'. A. and Pugachev, V. 1., "Seismic
+Rudlobuoy for Work by the Refracted Haves Method on the Shelf ," APPARATURA I
+
+SREDSTVA AV‘I‘OHATIZATSII DLYA SBYSHOAKUSTICHESKIKH ISSLEDOVANIY V 0MB (Appar-
+atus and Methods for the Automation of Seismoacoustic Investigations in the
+
+Ocean), Yuzhno-Sakhnlinsk, pp 147-152, 1977.
+
+Houtz, R. 3., "Preliminary Data on the Speed of Sound in World Ocean Sediments
+Obtained Using Acoustic Buoys," AKUSTIKA MRSKIKH OSADKOV, Moscow, Mir, pp 681-
+498, 1977.
+
+Houtz, R., Ewing, J. and Le Pichon, x., "Velocity of Deep-Sea Sediments Prom
+Soundbuoy Data," J. GEOPHYS. 835., Vol 73, pp 2615-26101, 1968.
+
+Le Pichon, X., Ewing. J. and “outs, R., "Deep—Sea Sediment Velocity Determina-
+
+tion Made While Reflection Profiling," J. GEOPHYS. 1128., Vol 73, pp 2597-2616,
+1968.
+
+COPYRIGHT: Izdatel'stvo ”Nauka", "Okeanologiya", 1981
+
+5303
+
+C80:
+
+1865/28
+
+MOWMIJSIONLY
+FOR 0F1WCIAI.U5810NLN
+
+UDC 550.834
+
+INTERPRETATION OF DATA ON OCEANIC HAVE MOVEMENTS REGISTERED BY MOVING SENSORS
+
+Hoscow OKEANOLDGIYA in Russian Vol 21, No 5, Sep-Oct 81 (manuscript received 30 Jun
+80, after revision 20 Jan 81) pp 911-914
+
+[Article by S. V. Popov and K. D. Sabinin, Acoustics Institute imeni Akad. N. R.
+Andreyev, Moscow]
+
+[Text] Abstract: A study was made of some aspects of
+interpretation of evaluations of spatial-tem-
+poral spectra registered by moving sensors. A
+method is presented for comparing the measured
+spectra with the wave dispersion expression
+with movement taken into account. The method is
+illustrated by examples of measurements of in-
+ternal waves with the drifting antenna of dis-
+tributed temperature sensors and synoptic eddies
+in the POLIHODB polygon.
+
+When measuring internal waves in the ocean it is customary to use sensors moving
+relative to the medium with the same velocity.
+
+If the measurements are made from immobile or only slightly mobile bases, such as
+anchored buoys, bottom instruments, etc., it is assumed that the information ob-
+tained over the course of a more or less prolonged time will make it possible to
+evaluate the frequency spectrum of the waves. The spectra obtained in this way
+
+(moored spectra) will be denoted Sn(f). The spectra computed using data from towed
+measuring systems (towed spectra) will be denoted St(k).
+
+The choice of frequency f as an argument in the first case and wave number k in the
+second case, as is usually done, is based on the assumption that in the first case
+it is time sections of the wave field which are involved. whereas in the second
+case it is spatial sections which are involved.
+
+However, strictly speaking. in both cases it is some spatial-temporal field sections
+whid: are involved. In actuality, on the one hand, the velocities of the currents
+existing in the ocean are not much less than the phase velocities of the internal
+
+waves (especially the higher modes) and therefore it is essential to reckon with
+the effects associated with the transport of the wave field relative to the anchor-
+ed sensors. On the other hand, the velocities of towing are not so much greater
+than the velocities of waves (especially the lower mode) that the sections can be
+considered purely spatial.
+
+FOI‘OFFNJAI.USE(NNLY
+FOR OFHCIAL USE ONLY
+
+Accordingly, the need arises for developing methods for interpreting the results
+obtained when usiq; moving sensors. It is by no means always necessary t: know the
+
+“true" spectra, undistorted by movement, especially since obtaining such spectra
+from measurements is an ambiguous and quite complex procedure [1].
+
+He will examine the situation arising during the movement of srnsors, first from
+
+the theoretical point of view, and than in the example of leasurenents of internal
+waves and synoptic eddies.
+
+The value of the "towed" spectrum is equal to the value of the "moored" spectrum in
+
+the plane f - fa + W (where k is the wave vector, V is the velocity of towing; fa
+is the Doppler frequency): °t(fd» k) - c.(fd + W, It). Here Gt(fd, k) is the ."towed"
+three-dimensional spectrum, Gm(f, k) is the "moored" three-dimensional spectrum.
+
+The one-dimensional spectra are equal to:
+
+S! (k) - i 61 0‘, k) d"
+
+and
+
+3:04) = Tod’s. ”(1‘
+
+In the case of great velocities of towing, when v/c h>1, where cm, is the phase
+
+velocity of the waves, k - fd/v and the relationship between said) and Sc(k)_be-
+comes equal to
+
+‘\
+
+$c(!a)=sc (k) (1)
+
+However, with towing velocities comarable with the phase velocities of the waves,
+
+expression (1) is no longer satisfied and identification of the St(fd) and Sc(k)
+spectra is inadmissible.
+
+a I
+cycles] hour I. dud/u cycles/km
+
+  
+ 
+ 
+
+I
+
+Esau/n
+
+Pig. 1. Section of dispersion surface of first node of internal waves by planes
+(2) with Ed - -8 cycles/hour, v - 3.5 Ina-hour'l. a) projection onto the plane f,
+L; b) projection onto the plane 1 , 1:. A1 and A -- projections of the spectral
+corridors with a towing velocity comparable to the phase velocity of waves; 3) pro-
+jection of spectral corridor with v/cphyl.
+
+FOR OFFIGAI. USEONLY
+FOR OFFICIAL USE ONLY
+
+Since in actual practice the spectrum is evaluated on the basis of limited records
+in some :uquency band fthf, determined by the width of the time spectral window
+
+ZAf - LT, where 1‘ is the length of the record in time, the spectrum G.(f, K) must
+be integrated by frequencies between the planes:
+
+lu=ld+ KViAi, (2)
+
+that is l I‘owi
+
+0: (la. '0 = ,7, 0,, 0,104,.
+
+If. V-"
+
+In this case each observed frequency fd is assigned the entire spectral density
+situated in the volume of phase space which is bounded by the plane (2) and is
+some "plate" which can be called the "spectral section." This section is illustrat-
+ed in Fig. 1,a together with the dispersion curve for internal waves of the lower
+
+mode. Here and in the text which follows as a simplification we will examine only
+fd<00
+
+.w-I/u c e [In
+
+  
+
+Fig. 2-. Evaluation of spatial spectrum of internal waves and spectral corridor for
+first mode (dashed curve). Mean drift velocity u - -0.7lo km'hour‘l; v - --0.71 km'
+hour'l; dopplcr frequency fd - -5.2 cycles/hour.
+
+[f we now impose n limitation on the time frequency in the fern of a dispersion ex»
+pression, then, solving the system of equations
+
+In =7" +_KV_:i:AI.
+{; = qua/Mm». ‘3’
+
+(where f - (ﬁg/12 + m2) is the dispersion surface of the i-th mode, Rand m are
+components of the K vector), we obtain regions of phase space within which there
+
+should be concentration of the spectral density of waves of one mode or another.
+
+He will call these regions "spectral corridors."
+
+Figure l,b shows the projection of such a spectral corridor for the lower mode of
+
+internal waves onto the plane of horizontal wave numbers obtained by numerical so-
+lution of system (3). In this case V is directed along 01. We note that for spec-
+tral evaluations from the half-space f>0 the signs on L and I: must be reversed in
+
+10
+FOR OFFICIAL USE ONLY
+order that the position of the point on the ‘1. m plane indicate where the corres-
+ponding spectral component is directed. This same figure shows the corridor in the
+case of a towing velocity greatly exceeding wave velocity. It can be seen that it
+differs greatly fro- the spectral corridor for the case of lesser velocities. These
+differences are evidently also reflected in the form of the one-dimensional spec-
+trum, which graphically shows the illegitimacy of identifying the one-dimensional
+
+spectrum of doppler frequencies St(fd) with the one-dimensional spectrum of wave
+numbers st(k) if the velocity of movement of the sensors is not much greater than
+the phase velocities of waves (compare (1)).
+
+ 
+
+Fig. 3. Evaluation of the spatial spectrum of kinetic energy of synoptic eddies and
+spectral corridors for barotropic (dashed curves) and firit baroclinic modes (dot-
+dash curves). Mean velocity of transport u - -2.l cn°sec' v - -0.8 cm‘sec'l; ob-
+served period 64 days; one graduation corresponds to 1°10'5 cycle/km.
+
+It can be expected that in the case of linear internal waves the peaks of the eval-
+uations of the spatial spectra should "gravitate" toward the spectral corridors of
+some mode. In Fig. 2 the evaluation of the spatial spectrum of internal waveswns ob-
+tained using the drifting antenna of distributed temperature sensors and the spec-
+tral corridor for the first mode. The method for measurements and analysis is sim-
+ilar to that described in [4]. These measurements were made on the scientific re-
+search vessel "Sergey Vavilov" in the POLIHODE polygon [3].
+
+small phase velocities of the Rossby waves. Assuming that the observed current
+fluctuations are caused by linear Rossby waves, it is possible to construct spec-
+tral corridors using the method considered above.
+
+For Rossby waves system (3) is written in the form
+
+it. = I. + Knew.
+i- " '
+
+n+m+Ai
+
+11
+FOR 0"!(1AI.IEI!(HVLY
+FOR(NHNCIA1.USE(MVLY
+
+where 8- afo/a y, f0 - ZQcosQ is the Coriolis parameter; 9 is local latitude;
+52 is the frequency of the earth's rotation; A - fez/gh; h is equivalent de th; 3
+is the acceleration of free falling; the vector V has the components {u, v . By
+excluding f, we obtain vm3 + (fa-4f + ubmz + v( [2 + A) +1 (uj, + fthf) +
+
+l (ﬁ‘+ Au) + A(fd 113f) - 0. Solving the derived equation with the necessary values
+
+fd, we obtain the projections of the spectral corridors onto the plane of wave num-
+bers.
+
+Figure 3 shows an evaluation of the spatial spectrum of kinetic energy of synoptic
+currents at 700 m together with the spectral corridors for the barotropic and first
+baroclinic modes. In the figure peak A lies within the spectral corridor for the
+barotropic mode and two lesser peaks B and C within the corridor for the first baro-
+clinic mode. It can be seen that the spatial-temporal parameters of the synoptic
+
+currents agree well with the parameters of linear Rosaby waves carried by the mean
+current (for further details see [3]).
+
+The described method for comparisons of experimental data with the conclusions of
+the linear theory of waves is simple and does not require carrying out a complex
+procedure for restoration of the true spectrum undistorted by the movement of sen-
+sors relative to the medium.
+
+BIBLIOGRAPHY
+
+1. Kate, A. V. and Spevak, l. 8., "Restoration of the Spectra of Sea Haves Using
+Measurements With Moving Sensors," IZV. AN SSSR: PIZIKA ATHOSPEKY I OKEANA
+(News of the USSR Academy of Sciences: Physics of the Atmosphere and Ocean),
+V01 16, No 3, pp 29é-304, 1980.
+
+2. Konyayev, K. V. and Sabinin. K. D., "Spatial-Temporal Spectrum of Synoptic
+Eddies in the Ocean," DOKLADY AN SSSR (Reports of the USSR Academy of Sciences),
+Vol 253, No 4, pp 971-973, 1980.
+
+3. Kort, V. 0., "International Large-Scale Oceanological Experiment POLIMODE,"
+OKEANOL. ISSLED. (Oceanological Research), No 30, pp 5-9, 1979.
+
+4. Snbinin, K. D. and Serikov, A. N., "Spatial-Temporal Parameters of Short Period
+lntcrnal Waves in the Indian Ocean," GIDROPIZICHBSKIYB I OPTICBESKIYE ISSLBDO-
+VANIYA V lNDlYSKOH OKKANE (Hydrophysical and Optical Investigations in the In-
+dian Ocean), Moscow, Nauka, pp 13-27, 1975.
+
+COPYRIGHT: lzdatel'stvo "Nuuka", "Okeanologiya", 1981
+
+3303
+C50: 1865/28
+
+12
+EDI OIIWC1A1.lEI!(lVLY
+FOI‘OFINCIAI.tEIE(N‘LY
+
+UDC 551.463.228
+
+[Article by B. I. Klyachin and B. P. Kur'yanov, Institute of Oceanology imeni P. P.
+Shirshov, USSR Academy of Sciences, Moscow]
+
+ditions exert the greatest influence. In particular, for typical conditions of the
+
+open ocean the theory predicts the following characteristic depth dependence: noise
+minimum - on the axis of the acoustic channel, maximum - at a depth somewhat be-
+
+low the critical depth, decrease - vith direct approach to the bottom [4, 6]. How-
+ever, there are experimental data which contradict such a dependence; for example,
+
+according to [1, 2] the noise On the channel axis is greater than the noise at the
+
+critical depth. A number of authors have postulated that the increase in the noise
+
+level on the channel axis can be caused by sound scattering in the ocean depths
+
+[3, S], but no theoretical basis for computing this effect has been presented.
+
+eous medium [6]. In addition to the assumptions in [6], specifically the assumption
+of homogeneity and isotropicity of the sources at the surface, their dipole charac-
+ter, stratification of the medium and depth constancy, we will also make the fol-
+lowing assumptions concerning sound scattering.
+INJR‘OFFICJAI.IISE§(MVLY
+
+Under the conditions mentioned above the solutions of the radiation transfer equa-
+tions with allowance for the effects of multiple scattering and refraction can be
+obtained in closed form.
+
+We will write a system of equations for the ray intensities 11 and I2 incident in
+the direction 3 from above and below on the sound-scattering layer situated at
+the depth as. The effect of the scattering layer is reduced to two effects: atten-
+uation of the wave as a result of scattering as exp(-,B), where A93) - lulu/cos
+
+93, and the total effect of scattering of waves arriving from all directions. in
+the direction as.
+
+If we dengte the mean ray intensity of sound incident on the layer in all direc-
+tions by I(zs),
+
+’12,):%I[I,(O,,2,)+IQ(0,,I,)]d-Q.H I I ' I (1)
+
+and take into account assumption 1 concerning the isotropicity of scattering, the
+ray intensity of the scattered component will be equal to 51 and the equations for
+
+11 and 12 are written as follows:
+
+1 _ .
+I.(o,z.-)(:—') mm 1a.»: I.(a,.z,)exp(-a). (2)
+
+:.(a.. 1,) = mm.» + m. mew-n). (3)
+
+. . -._————.......
+
+Here 3(61) - Jo c086 is the ray intensity of the dipole surface sources, V is
+the coefficient of ref ection from the bottom and the subscripts l, 2, s on the
+velocities, angles of incidence and depths correspond to the horizons: surface,
+bottom and scattering layer. Equations (2)-(3) were derived for those directions
+63 along which the ray intersects the surface and bottom. If the ray does not
+reach the bottom, in equation (3) it must be assumed that Val, whereas if it also
+does not reach the surface, in equation (2) it must be assumed that J50. By solv-
+ing the system of equations (l)-(3) for the ray intensities in the scattering hor-
+izon, we obtain
+
+[1(09 1,) ‘-' “(l/(1),] " 370.)“ + yexp("»l’(‘ _ V“P(-25))- (‘)
+ma. 2,) = Vl(n/t.)'lcxp(-n)9 57000 + Vexp(-m)1m - Van-25». (5,
+11:.) = (1.1mm: —(c./c.)' 1’" m —(I —(c./c.)’)"’1. (6)
+
+For an arbitrary horizon z the ray intensities 11 2‘ 9,2) are easily found from the
+expression c2(z)1(9,z) - const, which is correct'along any ray [6]. Using this ex-
+pression and taking into account assmption 2 concerning the smallness of scatter-
+ing, it is possible to find the mean ray intensity 1(2), proportional to the volu-
+metric energy density of sound, for any depth a:
+
+ 
+
+ 
+
+_ l c. ’ I+V -c,_)’7 1+3ynn9do+
+[(2) 3(5) A. ' _ V Idnada *(CO) (1,) fl, l—V (7)
+"3(3), 1 i sinOdO +(-c-'—)’f(z.) I sandO. '
+
+2 ((2) n, 0 d!) n,
+
+14
+POI OFFICIAL USE ONLY
+FUI‘OFFHJAI.USE(HNLY
+
+The integration region for the 521 angles corresponds to botton rays, 52 cor-
+responds to rays incident on the surface and not incident on the bottom 32
+corresponds to all rays not incident on the botton. It follows from for-ula (7)
+that the dependence on s enters only by means of the dependence c(z). that is, the
+law of conjugate depths [4] is also satisfied in the presence of scattering.
+
+In expression (7) the first and second terns correspond to the contribution of the
+botton rays. The first coincides with the sinilsr ter- in for-ula (S) in [6]. The
+third tern characterizes water waves, but in contrast to [6], instead of the at-
+tenuation value in the lengt of the ray cycle“ 5 the denominator contains at-
+tenustion due to scattering . The second and fourth terns in (7) correspond to
+the contribution of secondary sources of sound caused by scattering which disap-
+pear in the absence of scattering. Using assuwtion 3 (snallnese of scattering ﬂ
+in comparison with losses during reflection 1 - V), we will neglect the first and
+second terns in fornula (7) and after transiornation of the angular variables we
+
+b 1n . .n., .. _ .. .
+o to . J. 7‘ “1,; dsdnll -(€J€|) ﬁll 0'd0| +
+
+T(x)'l'(1)”"(‘)' 3;; ,; I—(c(z)l€n do 0:
+,I
+.m.) '1” ”can". - if ‘8’
+
+.; 7| —(r(r)l¢:,)i said, .
+
+, , .
+Here 9; and a are the angles of energence of the rays free the surface and from
+the scattering ayer for those rays touching the botton. Porsula (8) is suitable
+for depths 2 less than the critical depth zo(c(ao) - q); for greater depths” a the
+upper integration limits it is necessary to use 6.1. - arcsin(c1/c(s)) and a: -
+
+arcsin(c,/c(a)) .
+
+The integral describing the I'(s) value and representing the contribution of the
+prinary sources of sound at the surface is not expressed in known functions and
+can be conputed only numerically. The second tern 1"(3) represents the contribution
+’of the secondary sources situated in the sound-scattering layer; for it we obtain
+
+m2) . n: ) (if {J1 Jew/252% -' (c—(2)Ic.)"- c(:)<c.s (9)
+' C(8) Jl — (c(x)lc, P . 0(3) > C:-
+
+As an illustration of the derived depth dependences in Fig. l we show the results
+of computations using fornulas (8)-(9) for the hydrological conditions of the Hor-
+ris experiment [2] on the assuaption that the sound-scattering layer is on the axis
+Iof the acoustic channel (Fig. 1a) and at s_depth of 150 n (Fig. lb). As the zero '
+level of noise intensity we use the value Hz.) at the depth of the scattering lay-
+er. The dashed lines at the right side of the figure represent the depth dependences
+l'(z). It is interesting to note that the shape of these curves has virtually no de-
+pendence on the depth of the scattering layer, and in addition, coincides with ade-
+quate accuracy with the for- of the distribution of lean intensity with depth in
+
+the absence of scattering [6]. Such an agree-ant is attributable to the fact that
+for the deep ocean the bean of water rays within which there is a noise acct-uls-
+tion is quite narrow and the distribution of intensity with depth has little depen-
+dence on the direction of the sources and is alsost entirely deternined by the geo-
+netry of the rays. The solid curves at the left side of the figure show the depth
+
+15
+uncommonly
+FOItOIIIC1A1.USII(l‘LY
+
+dependencee for the term I"(z) in accordance with formulas (9).
+
+ 
+
+Fig. 1. Depth dependence of oceanic noise: a) sound-scattering layer at the depth
+of the channel axis. 2’ - 1000 m; b) sound-scattering layer at a depth of 150 I.
+
+The maximum I"(z) value is attained at the depth of the scattering layer; if the
+layer is not situated on the channel axis, there are two maxina - at the horizon
+
+of the 28 layer and at the depth z'o for which C(z'o) - c(z.) and which it-is nat-
+ural to call the second kinetic depth. As indicated by the curves of the total dis-
+
+tribution of noise with depth 1(2) - I'(z) + I"(z), allowance for the tern I"(z)
+increases the noise level near the axis of the acoustic channel.
+
+The results of these computations indicate that allowance for scattering has the
+following effect: the total noise level is not determined by sound absorption in
+
+the length of the cycle but by the intensity of the sound-scattering layer sh. In
+addition, this somewhat smooths the nininum near the axis of the acoustic channel
+
+but the general character of the depth dependence persists.
+
+we note in conclusion that the influence of sound scattering on the depth dspsndence
+for oceanic noise can be more significant for the high frequencies and also in cases
+when bottom reflections play a more substantial role.
+
+16
+FOI‘OFFIJAI.USE(MULY
+FOI:OFIﬂ(3nl.lEII(HVLV
+
+BIBLIOGRAPHY
+
+1. Klbleuhite, A. 8., Shooter, J. A. and Watkins, S. L., J. ACOUST. 50C. AH.,
+V01 60, p 1060. 1976.
+
+2. Morris, 0. 3., 1310., V01 61., p 581, 1978.
+
+3. Anderson, V. C., 1810., Vol 66, p 1666, 1979.
+
+b. Heston, D. 8., 1810., V01 67, p 530, 1980.
+
+S. Cavanagh, R. C. and Renner, W. H., 131D., V01 68, p 1667, 1980.
+
+6. Kur'yanov, B. F. and Klyachin, 8. 1., DAN (Reports of the USSR Acadely of Sci-
+ences), Vol 259, No 6, 1981.
+
+COPYRIGHT: Izdatel'stvo "Nauka", "Doklady Akadelii nauk SSSR", 1981
+
+5303
+C80: 1865/40
+
+17
+FOI¢IHHC1AI.UBE(NNLY
+INNI(HHNCJAI.USE(HVLY
+
+UDC 550.510.S35;550.338;523.76;550.37
+EPH MARINE ELECTRIC FIELD METER
+
+Moscow ISSLEDOVANIYA KOSHICHBSKOY PLAZHY in Russian 1980 (signed to press 18 Jul 80)
+pp 143-151
+
+[Article by V. V. Novysh]
+
+[Text] During recent years specialists in the Section on Marine Electromagnetic Re-
+search have been developing a marine electric field meter (the EPH) for measuring
+electric fields in the sea.
+
+It is based on a determination of the strength of the electric field existing in
+the sea by means of measurement of the potential difference in the sea between the
+
+ends of a measurement base by use of salt bridges and nonpolarizing electrodes
+ll. 2].
+
+The scheme for measuring one of the electric field components is represented in
+
+Fig. 1. A5 is a tubular salt bridge, filled wiﬂmsea water, connecting the elec-
+trodes 33 with the external sea media at the points A and 6 . The segment A-S is
+the measurement base of the electric probe. The tubes and housing with the electrodes
+are made of an electrically insulating material. The chamber with the electrodes is
+separated by a moving electrically insulating switch K by means of which the tubular
+parts of the salt bridge A and 5 can be joined together or separated.
+
+ 
+
+Fig. l.
+
+The main housing of the developed electric field meter is fabricated of plastic
+material. Attached to the housing are three pairs of orthogonal polyethylene tubes
+by means of which the external sea medium is joined to the measuring electrodes
+placed in special cells of this housing. Thus, this instrument can measure the
+three components of the electric field. The electrode cells of each pair of elec-
+trodes are brought us close as possible to one another, which creates a uniformity
+
+18
+FOIiOFIICLAI.lNI§0NLY
+FOR OFFICIAL [SE ONLY
+
+of the physical conditions for the functioning of these electrodes. favoring a
+greater stability of the characteristic emf of each pair of electrodes. The gen-
+eral appearance of the instrument at the time of its lowering over the ship's side
+
+is shown in Pig. 2. The equivalent scheme of measurements of one field component
+is shown in Fig. 3.
+
+ 
+
+Fig. 3.
+
+ 
+
+Fig. 2.
+
+The following notations have been used in this diagram: V is the potential differ-
+ence measured in the sea, U are the readings of the measurement instrument, e1 and
+C2 are the characteristic emfs of the electrodes;3.is the internal resistance of
+the electrodes, 2 0 is the resistance of the external measurement circuit, R/ 2
+
+is the resistance of the water circuit of each of the two tubes of the measurement
+base; Z is the resistance of the electrically insulating switch; (Z1 -- with a
+closed electrically insulating switch and 22-- with an open switch; 3“ is the in-
+put resistance of the measuring (recording) instrument.
+
+We note that in the cited scheme no attention was given to current leakage through
+the instrument housing and the tube walls of the measurement base, this because
+they were made from materials with a very high bulk resistivity and their geomet-
+rical dimensions ensure a high total resistance to leakage currents.
+
+If one measurement of U] is made with closing of the electrically insulating switch
+and a second measurement is made with the switch open, as follows from this equiv-
+alent circuit and allowing some sinplifications not giving rise to large errors
+
+19
+
+F0! OWIOAL USE ONLY
+ﬁOIlO‘IIClAI.lEIE(NVLY
+
+in measurements with the developed design of the electric field meter [3, 4], it is
+pusslblc to exclude the characteristic enf of the electrodes and determine the elec-
+tric field strength V0 using the following formula [6]
+
+V0 _ U1 - 02 (zi +R)(zi) + R)
+Tm <1)
+
+where i,is the length of the measurement base and
+
+ 
+
+In the first variant of the instrument both electrode chambers were joined together
+
+sulntinn of the closed switch. The squeezing was accouplished using a knifelike
+plate controlled by the armature of an electromagnet. Using this switch design
+
+the instrument was successfully employed in the Black Sea in making measurements
+of the electric field of the ship from aboard this ship [3]. Vertical measurements
+of the ship's field were made over the side from the horizon 5 m, where its hori-
+zontal component was about 600-900 PLV/m, to the horizon 30 m, where this compon-
+ent was 20-30ptV/m. The vertical component had values bO-SOtiV/m and l-2f4V/m. The
+measurement response threshold was about lfiV/m.
+
+it during work at sea. In addition, during the entire time of work with an open
+valve it was necessary to keep a current flowing through the electromagnet, and
+this could create interference. Accordingly, in its next design we used a different
+type of electrically insulating valve as shown in Pig. 4. It consists of a rod 1
+with a conical rubber tip 2 closing and opening a cylindrical channel connecting
+the chambers with the electrodes 3 and the salt bridge tubes 4. In a closed posi-
+tion the rubber valve is clamped by a spring on the rod, this closing the upper ap-
+erture of the cylindrical channel. The cylindrical aperture was opened by means
+
+of the armature of the electromagnet 5, acting upon the rod and compressing the
+
+Using this variant of the electric field meter (KPH-2‘ measurements were made of
+the three components of the electric field from aboard an iron ship in the western
+part of the Caspian Sea. Here, as before, the ship's field was registered, the
+strength of whose horizontal vector near the ship at the sea surface attained
+about 1000!l.V/n with gradual attenuation to a value 1o—2o;lv/u at the horizon 60-
+FIIICENHCJAI.USE<DNLY
+
+  
+
+a
+
+    
+     
+  
+  
+
+     
+   
+
+5 /
+| 2
+
+I
+
+5’
+vi”? a
+1!?
+A" ./
+--'ll/
+.19;
+| z
+
+/’
+
+g 5
+
+Z
+
+V
+.6
+I?
+,/ 1
+
+   
+
+\\\\\§\\
+§
+
+  
+
+-~~-..—-
+
+.
+
+        
+
+Fig. 6.
+
+however, sea tests revealed that this electrically insulating valve had substantial
+design shortcomings: the upper compression device was not always triggered properly
+and the need for insulating the lower rod in the valve by means of an oil-filled
+elastic rubber sleeve led to technical difficulties in assembling the valve and
+worsened the reliability of its operation. Accordingly, a new variant of an elec-
+trically insulating valve was developed in which there were several design improve-
+ments in the assembly of the electrode chambers and a strengthening of the elec-
+trodes (BPH—3); a schematic section of this is shown in Pig. 5. In this design the
+compressing of the rubber valve 1 is accomplished by a flat spring 2 and in this
+process the connecting cylindrical aperture 3 is shut off. This aperture 3 is
+opened by means of a rubber valve 6, rigidly coupled to the rod, and the armature
+of the electromagnet 5 with excitation of its winding. The winding and the magnetic
+drive were in an oil-filled sealed housing 6 which at its top has a compensatory
+rubber diaphragm 7 for equalizing the inside and outside pressures. The rod 6 was
+made of plastic and the spring 2 and the armature 5 were covered with insulating
+lacquer. With compressing of the spring by a force of 0.5 kg there was a value
+
+21
+FIIIIIHHCIAl.lEﬂICH‘LY
+IND! OFFICIAL US£Z(MVLY
+
+of the Insulation resistance to closing of the valve of about 1 uegohn, after pres-
+ence of the entire complex in sea water for 24 hours.
+
+ 
+
+Fig. 5.
+
+With this instrument in the following year in the eastern part of the Caspian Sea
+measurements were nude of the electric field of a ship and the natural electric
+field in the sea in the coastal sector at Avaza near Krasnovodsk. In this region
+it was possible to register rather high values of the natural electric field at
+
+15-20 m and at 50-75 m from the shore at the time of a storm attaining about 100
+ILV/m and decreasing gradually to near-zero values after cessation of the storm.
+
+22
+FORi0F11CJAl.USIZ(HVLY
+FOR OFFICIAL [SE ONLY
+
+The implementation of field tests of this design of electric field leter (the RPM-
+3) confirmed the coaplete reliability and fault-free character of its operation.
+However, the need for feeding a rather high voltage across the coil for exciting
+the electromagnet (about 50 V) during the time of registry of the electrode zero
+(electrode with open valve) created the danger of influence of leakage currents on
+the results of registry of the values of this zero. In addition, according to
+available data, the use of a rubber valve for great depths was unpronising because
+with an increase in pressure it loses its elasticity and at a depth of more than
+lo km becomes rigid and brittle [S].
+
+In this connection, a new, more perfect design of the electric field meter 18 now
+being developed.
+
+Yu. A. Coryachev participated in the development of all the designs. Some of the
+sea tests of the electric field meter and processing of their results were carried
+out by M. M. Iiogorodskiy.
+
+BIBLIOGRAPHY
+
+I. Mnngelsdnrf, P. 5., "The World's Longest Salt Bridge," MARINE SCIENCES INSTRU-
+MENTATION, V01 1, 173-185, 1962.
+
+2. Filloux, J. 11., "Electric Field Recording on the Sea Floor With Span Instru-
+ments," JOURN. CEDMAGN. GEOELEC., V01 26. No 2, 269-279, 19710.
+
+3. Novysh, V. V., "RPM-1 Sea Three-Component Electric Field Meter," GEOFIZICHBSKAYA
+APPARATURA (Geophysical Instrumentation), 67, 17-23, 1979.
+
+4. Novysh, V. V., "0n the Theory of Errors in Measurements With the 2PM Sea Elec-
+tric Field Meter," ISSLEDOVANIYE GEOHAGNITNGO POLYA NA AKVATORIYAKH WREY I
+
+OKFANOV (Investigation of the Geomagnetic Field in Areas of Seas and Oceans).
+Moscow, 12MIRAN. 191-199, 1978.
+
+5. Hear, 0.. NA CLUBINU MREY V BATISKAPB (To the Depths of the Seas in a Bathy-
+scnphe), Sudprtmmlz, 87, 1961.
+
+COPYRIGHT: lnstitui zcmnogo magnetism, ionosfery i rasprostraneniya radiovoln
+AN SSSR, 1980.
+
+5303
+(:50: 1865/7
+
+23
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+ELECTROKINETIC INTERFERENCE IN ELECTROMETRIC WORK IN SEA AREAS
+
+Hoscow [SSLEDOVANIYA KOSMICHESKOY PLAZMY in Russian 1980 (signed to press 18 Jul 80)
+pp 152-157
+
+[Article by H. M. Bogorodskiy]
+
+[Text] Electrometric work in sea areas is carried out for solving a whole series of
+scientific and practical problems. Among the types of interference acting on elec-
+tric measurement sensors with a frequency close to the frequency of the measured
+useful signal is the movement of water relative to the elements of the measurement
+complex and is important. This is manifested most clearly with the movement of an
+electrolyte near the surface of the conductor of an electrode [1], which causes a
+change in the concentration of ions near the surface of the conductor and a change
+in the electrode potential value. In order to safeguard the conductor from the in-
+fluence of the medium, including from flow around it, the sea electric measurement
+electrodes are enclosed in a housing of some type [2], but a convection current,
+filtration currents and other electrokinetic phenomena [3] arise during the move-
+ment of the fluid along the surface of virtually any material and interference as-
+sociated with the movement of water relative to such electrodes occurs in both
+fresh water [4] and in marine [5] areas, especially when making measurements near
+the sea surface [6] or when using measurement complexes with short bases [7]. It
+sh0u1d be noted that in the special literature proper attention has not been de-
+voted to electrokinctic interference when carrying out electrometric work in sea
+areas. Sevoral examples of tribopolarization of a towed electrode are given by
+Alcksandrov and Zaytsev [4], who employed electrodes with a housing of porous cer-
+amic. With a change in the ship's speed from 0 to 9 knots the difference in the
+electrode potentials of two electrodes of the same type changed by approximately 6
+mV. The authors note that the "potential level is directly proportional to the
+velocity of movement," which leads to the evaluation
+
+'10 tribxu'l‘ mV'M'1~sec)- (Voolrsec'l) (1)
+
+where 9",“, . Voo are the potential of electrode tribopolarization and the velo-
+city of. the oncoming flow of water.
+
+24
+FOR Ol-TICIAI. USE ONLY
+FOIAOFFKJAI.USE(NVLY
+
+2. An examination of the mechanism of formation of tribopolsrization potentials
+was made using two models: a solid housing of the electrode in the form of an
+elongated ellipsoid of revolution, streamlined along the axis (Fig. l), with the
+electrode cavity conumnicating with the housing surface by a single channel and in
+the computations is not taken into account, and in a model of a porous thin~walled
+housing of the same configuration (Fig. 2), with the electrode cavity communicating
+with the external medium over the entire surface of the housing through the pores
+of the housing and filled with an electrolyte of the same concentration as the
+surrounding median. The overall dimensions -- ¢2 cm, [ - 12 cm and the velocity
+of the oncoming flow -- V .9 = S m~sec'1 were selected as being characteristic for
+towed IELAN-IZHIRAN electrodes. The value of the electrokinetic potential-- 1; -
+-0.1V and the conductivity of the medium -— J? - 7.5-10’3 ohm'lm'1 were selected
+for comparability with [4]. The kinematic characteristic of the water 2, and its
+dielectric constant 8 were adopted corresponding to 20°C.
+
+Computations of the field of shearing izuand normal p stresses acting on the surface
+of the housing from the direction of the oncoming flow were made using the empirical
+method for computing the turbulent boundary layer with a stipulated distribution of
+pressure in the external flow, taking into account flow around the body of revolu-
+tion, including computations of the point of detachment of the boundary layer [8].
+It is easy to see that for the model with the solid housing the correlation between
+the convective Surface current 1'1: and the local value of shearing stresses 'l.’ has the
+
+form
+3a ' 0-55707I'T1'9 (2)
+
+where 20 is the momentary radius of the ellipsoid.
+
+The spreading currents of the convective surface current create a trihopolarisation
+potential ﬂotrib whose variation along the body of the electrode is represented in
+Fig. l. The asymmetry in the distribution of shearing stresses and accordingly the
+tribOpolarization potential is related to an increase in the thickness of the boun-
+dary layer with the advance of the flow along the body of the electrode and with
+detachment of the boundary layer in the intake part. Fixing the intake position of
+the elcctromctric tube at the surface of the housing [9] and bearing in mind that
+the shearing stress, and with it, also the tribopolarization potential, are propor-
+tional, taking into account the influence of the Reynolds number and the velocity
+of flow in the power 13/7, we have an estimate of tribopolarizstion for the model
+with the solid housing in the form
+
+sotribg K1° §.Z-1.v,13/7; K1: 2'10'6K20/7sel'3/7ohn‘1 (3)
+
+where K] is a proportionality factor dependent on the choice of positioning of the
+electrometric tube and the electrode configuration.
+
+For the model with the porous housing we examined the tribopolarization currents
+arisinx in the housing as a result of the hydrodynamic difference in pressures in-
+side and outside the housing. Using for the density of the leakage currents 3n
+
+[3| the expression: _
+J“ - -o.79u £(91T7d)‘1.5 ~(P, - P) (1.)
+
+where H,0( are the porosity and thickness of the housing shell, P3 , P is
+
+25
+FOIIOFIICIAI.IEIECI‘L¥
+INTI OFFICIAI.IISEICN'LY
+
+pressure outside and inside the housing, we note that the dipole density of the
+currents jn-o( is not dependent on the thickness of the housing shell, which makes
+it possible to find the potential created by the leakage currents as the potential
+of a double layer of a known thickness using the electrostatic analogues method.
+In the computations we used the value will, which corresponds to a considerable
+porosity; the P value was adopted on the assumption of a homogeneity of the hous-
+
+ing: _ 1
+P'§.JP5dS (5)
+S
+where 5, ds is the surface area of the housing and its increment. Assuming that
+a central positioning of the conductor in the housing is typical and bearing in
+mind that the external pressure is proportional to the square of flow velocity,
+we have an estimate for the porous housing:
+
+V'crib ’-' Kz' 15-3” 441%.; K,z7.5-10'5M'3aec2ohm-1 (5)
+
+Additional effects may arise with changes in the rate of towing due to a change
+in P (barosensitivity) [10] and the leakage potentials accompanying then [3].
+
+3. The electrokinetir characteristic for material of the housing enters explicitly
+Into the estimates (3), (6) and implicitly into the estimate (1). All other con-
+ditions being equal, the tribopolaritation error is the smaller the lesser the ab-
+solute value of this characteristic. Despite a broad search in the patent and
+special literature {3, 11]. information on any investigation of t}, the potential
+of the materials entering into the construction of the electrodes in solutions of
+the sea water type,could not be found. In carrying out the investigations we sel-
+ected the current potential method, regarding it as more precise [3, p 83].
+
+The apparatus for determining g (potential) by the leakage potential method, whose
+diagram is shown as Fig. 3, consists of the vessels 1 and 2, containing the electro-
+lyte 3 and movably joined to the measuring cell 4. containing a powder of the in-
+vestigated substance 5 and the gaskets 6. Due to the difference in the heights h1
+and hz of the vessels, an electrolyte is pressed through the substance to be inves-
+tigated 5, creating between the vessels 2 and 1 an electrokinetic potential differ-
+ence ( 7’2 -?1); the electrodes 7, protected by the casings 8 and the potentiometric
+device 9,nake it possible to register this difference. The connecting lines 10
+
+and the electrolytic switches 11 are set in a screen 12 and placed on a hinged par-
+allelogram 13, which makes it possible to change the relative height of the vessels
+(hz'hl) within the range 12 m, and with reversing change the pressure drop to 6 m
+
+"20.
+The value g" the potential, is determined using the formula [3, p 81]:
+
+a. dim-e 44502 -9’1)°[(h2-h'5 1/514 (7)
+
+where.19, g are the density of the electrolyte ard the acceleration of gravity. In
+the measurements use was made of solutions of sea water of a stipulated salinity
+and the temperature in the cell was monitored. The other characteristics of sea
+
+water entering into (7) were tabulated [11 + 13], which makes it possible in pro-
+cessing the experiment to use (7) in the form
+
+26
+FOR OiflCJAl.l!ﬂE(HVLY
+FOIIDFFHJAI.USEINNLY
+
+& 4W2 - 9’1) (7')
+' " T (hi-T1)
+
+where K = K(S°/oo, t°) is a function of salinity s°loo and temperature t°. The K
+values for solutions of the sea water type were tabulated and are cited in Table 1,
+where they have the dimensionality m1. It was found that this coefficient has a
+very weak dependence on temperature.
+
+Table l
+Computed Values of Coefficient K (s°/oo, t°) for Solutions of the Sea Utter Type
+
+06 S°/oo 0.5 1.33 6 12 36
+0 11.6 31.0 92.6 260 721
+5 11.6 31.1 92.6 260 725
+10 11.7 31.3 93.1 262 736
+15 11.8 31.5 94.1 266 738
+20 11.9 31.7 95.1 269 766
+25 12.0 32.2 96.5 272 756
+30 12.1 32.3 96.9 273 758
+
+ing into account the characteristic electrokinetic characteristics of the measure-
+ment system, influence of the gaskets and measurement cells if the material of the
+latter did not coincide with the investigated material, for which the necessary aux-
+iliary measurements were made. Table 2 gives a summary of the 1; (potential) values
+for a number of materials. '
+
+b. A summary of tribopolarization estimates is given in Pig. 6, where the Sptrib
+values have been normalized to the value (élx). For ceramic electrodes Aleksandrov
+used the values 6 - -37 mV [3, p 160]. As a comparison, Pig. 4 shows the tribopol-
+arizntion effects for three electrode pairs which we observed in the Caspian Sea
+
+(5 - 12°Ioo, t° - 10') in a specially formulated experiment using electrodes of
+
+the IELAN-lZHIRAN type [5] in shallow waters; the velocities of water flow around
+the electrodes were estimated on the basis of the depth of the site and the wave
+parameters [M]; the ﬁ value 4- ~9nV was adopted in accordance with Table 2 as
+
+the mean between the values for AsCl (packing) and plexiglas (electrode housing).
+
+tions under which they were obtained (noted by an asterisk) are close to our esti-
+mate (3) for a porous housing, which indicates a successful use of the potentialit-
+ies of this electrode. The [ELAN-IZHIRAN electrodes, close to an electrode with a
+porous housing. due to the presence of numerous openings in the housing [2, 15],
+have a tribopolnrizntion considerably greater than the computed value. In these
+cases the source of interference in the electrodes is evidently other mechanisms,
+
+such as instability of the composition of the electrode chamber, entry of fresh
+portions of oxygen and other dissolved gases under the influence of hydrodynamic
+
+pressure, especially under conditions of transverse flow arOund the housing, cus-
+FOR‘DFFKJAI.USE(NVLY
+
+Interference by 1 1/2-2 orders of magnitude. In addition, interference can be re-
+duced by an optimum choice of housing material (or material for the salt switch).
+
+Table 2
+
+Electrokinetic Potentials C (mV) of Some Materials in Solutions of Sea Water Type
+
+50/00 0.58 1.34 6.08 12.2 36.2
+cambric (fabric) —ll.l -8.5 -6.7 -6.9 -3.6
+vinyl plastic (shavings) -39.7 -31.5 -22.2 -15.0 -9.9
+caprylon (shavings) -24.7 -19.2 -15.9 -13.7 -9.5
+foamglass (shavings) -21.0 -16.6 -12.8 -10.9 -6.6
+polyamide-lZ -26.8 -l9.0 -l3.2 -ll.0 -7.5
+polyvinyl chloride (hard) —8.8 -9.9 -10.7 -7.9 -7.6
+polynethyl acrylate (shavings) -l6.8 -10.6 -7.8 -7.0 -6.0
+polystyrene (shavings) -l7.2 -9.3 -7.3 -6.1 -5.1
+polyethylene v density -16.9 -12.5 -9.9 -8.7 -6.2
+polyethylene n density -2é.7 -l9.0 -l3.8 -ll.0 -6.8
+silver chloride chemically pure -30.6 -29.6 -l9.6 -ll.2 -ll.0
+rock glass (from electrode) -l9.6 -l7.3 -16.7 -ll.6 -6.6
+fluoroplnstic-3 -18.6 ~15.3 -11.2 -9.4 -6.2
+fluoroplnstic-é (shavings) -30.4 -23.0 -lé.3 -10.7 -6.3
+mean temperature 19.70 18.60 l7.2° 15.3° 16.8°
+BIBLIOGRAPHY
+l. Kistyakovskiy, V. A., BLEKTROKHIHICHESKIYB REAKTSII I ELEKIRODNYYE POTENTSIALY
+
+2.
+
+5.
+
+6.
+
+NEKOTORYKH METALLOV (Electrochemical Reactions and Electrode Potentials of
+Some Metals), St. Peterburg, p 36, 1910.
+
+Mltrofanov, V. N. and Sevast'yannv, B. 5., VOLNOVYYE PROTSBSSY V KRAYEVYKH
+0 LASTYAKH OKEANA (Gave rLUL¢38e3 in Boundary Regions of the Ocean), Iu.-<akh-
+alinsk, pp 122-131, 1979.
+
+Grigorov, 0. N., ELEKTROKINETICHESKIYB YAVLENIYA (Electrokinetic Phenomena),
+LOU. 1973.
+
+Aleksandrov. V. V. and Zaytsev, L. V., IZMENCHIVOST' GIDROPIZICHESKIKH FOLEY
+V OZERAKH (Variability of Hydrophyaical Fields in Lakes), Leningrad, pp 215-
+218. 1978.
+
+&>gorodskiy, M. H.. FUNDAMENTAL'NYYE PROBLEHY HDRSKIKH ELEKTROHAGNITNYKH IS-
+
+SLEDUVANIY (Fundamental Problems of Sea Electromagnetic Investigations), Mos-
+cow, pp 70-77, 1979.
+
+Bondnrenko, A. L., Bychkov, V. 8., Grinfel'dt, S. 6., Lapshin, V. 8., Monakhov,
+L. F. and Skryubin. S. A., HORSKOYE MAGNITOTELLURICHESKOYE ZONDIROVANIYE (Sea
+Mngnetotelluric Sounding). Moscow, pp 63-70, 1978.
+
+Vun'yan, L. L., Svetov, B. 8., Sochel'nikov, V. V. and Fonarev, G. A., MDRSK—
+0Y8 MAGNITOTCLLURICHESKOYB ZONDIROVANIYE, Moscow, p 11, 1978.
+
+28
+ROI,OFINC1Al.lﬂiB(IVLY
+8. Loytsyanskiy, L. 6.. WNIKA ZHIDKOSTI I GAZA (Mechanics of Fluid and Gen),
+Moscow, 1973.
+
+9. Volkov, V. 6., TRUDY INSTITUTA OKFAKJIDGIYA All 8858 (Transactions of the Inau-
+cute of Oceanology USSR Academy of Sciences), Vol 19, pp 88-106, 1956.
+
+10. Bogorodskiy, H. H., FUNDAMENTAL'NYYE PROBLEM! masmm ammonium Is-
+SLEDOVANIY (Fundamental Problem; in Marine Electromagnetic Investigations),
+Moscow, pp 78-91, 1979.
+
+11. Khlppcl', A. R.. DIELBKTRIKI I IKH PRIHENERIYE (blelectrics and Their Use),
+Moscow, 1959.
+
+12. Bogomdskly, V. V. and Rudakov, V. 18., PM?! RADIOFIZICHBSKIKH KETODOV V
+OKBANOGRAFICHBSKIKH I LEDOV‘IKH ISSLENVANIYAKH (Use of Radiophysical Methods
+in Oceanographic and Ice Research), Leningrad, pp 21-30, 1965.
+
+13. Zubov, N. N., OKEAmWGICHBSKIYE TABLITSY (Oceanographic Tables), Leningrad,
+1957.
+
+16. Shuleykin. V. V., FIZIKA noun (Marine Physics), Moscow, 1953.
+
+15. Solov'ycv, 1.. 0., TRUD‘! INSTITUTA OKEAIDLOGII Ml 88811, Vol 39, pp 85-90, 1960.
+
+16. Abramov, Yu. H., Abranova, L. H., Himoyan. S. 11., Hitrofanov, V. N. and
+Shcherbakova, A. 5., WRSKIYE ELMROMAQHTNYYB ISSLBDOVANIYA (Sea Electrons-
+netic Investigation), Moscow, pp 22-60, 1976.
+
+17. Novyah, V. V., GEOPIZICHBSKAYA APPARATURA (Geophysical Apparatus), No 67, pp
+17-23, 1979.
+
+COPYRIGHT: Institut zemogo magnum, ionoefery 1 raeproatraneniya radiovoln
+AN sssa, 1980.
+
+5303
+C80: 1865/7
+
+29
+summon“
+FOI|OFFKJAI.USE(NNLY
+
+ARTICLES 0N DYNAHICS 0F FLUID HIT“ FREE BOUNDARIES
+
+Novosibirsk DINAHIKA ZHIDKOSTI SO SVOBODNYHI GRANITSAHI in Russian No 46, 1980
+(signed to press 4 Jul 80) pp 172-175
+
+[Abstracts from collection of articles "Dynamics of a Fluid With Free Boundaries".
+edited by L. D. Estrina, Institut gidrodinamiki so AN SSSR, 500 copies, 177 pages]
+
+[Text] Abstracts
+
+UDC 517.965
+
+MIXED PROBLEM FOR THREE-DIMENSIONAL SYSTEM OF ACOUSTIC EQUATIONS WITH SHOCK HAVE
+BOUNDARY CONDITIONS
+
+[Abstract of article by Blokhin, A. ".1
+
+[Text] The article gives the derivation of a dissipative energy integral in the
+mixed problem for a three-dimensional system of acoustic equations with shock wave
+boundary conditions.
+
+UDC 532.69
+THERHOCAPILLARY EQUILIBRIUM INSTABILITY OF A FLUID LAYER BOUNDED BY FREE SURFACES
+[Abstract of article by Badratinova. L. 6.]
+[Text] A linear formulation is used in examining the problem of the occurrence of
+
+thermocapillary convection in a weightless fluid layer bounded by free nondeform-
+able surfaces.
+
+UDC 556.3.001.57
+
+ONE CLASS OF HYDROHECHANICAL PROBLEMS FOR REGIONS WITH MOVING BOUNDARIES
+[Abstract of article by Verigin. N. N.]
+
+[Text] The article defines the conditions under which there are self-similar solu-
+tions of one-dimensional filtering problems in the case of moving boundaries. Also
+examined is the problem of the need for and adequate number of independent condi-
+tions at a moving boundary. The author gives a review of solutions of such
+
+90! OFIICIAl.lﬂiB(H‘LY
+FOI‘OFFKJAI.USE¢NNLY
+
+problems for moving boundaries of three different types. Some timely problems
+with a moving boundary for which the solutions are not self-similar are indi-
+
+cated.
+unc 533.07:533.527
+
+ONE MODEL OF GAS DYNAMICS IN THE AXIAL ZONE 0? EDDY APPARATUS
+[Abstract of article by Zelenyak, T. N., Kislykh, V. I. and Provorova, 0. 6.]
+
+[Text] An adequately complete mathematical description of heat and mass exchange
+in an eddy chamber meets with fundamental difficulties. The authors demonstrate
+the possibility of a quantitative description of the axial zone on the basis of
+
+an axisymmetric eddy model.
+006 517.9
+
+DETERMINING EQUATIONS OF CONSERVATION LANS FOR EVOLUTIONARY EQUATIONS
+
+[Abstract of article by Kaptsov, 0. V.]
+
+[Text] In this article a method is proposed for systems of evolutionary equations
+which makes it possible to find conservation laws by solution of determining equa-
+tions. A study is made of the correlation between the determinants of the equation
+for the conservation laws and for the admissible Lie-Backlund operators.
+
+VARIATION METHOD FOR INVESTIGATING STATIONARY PLANE SUBCRITICAL GAS FLOWS
+
+[Abstract of article by Kucher, N. A.]
+
+lText] The article represents an investigation of a variational inequality related
+to a nonlinear degenerate elliptical operator of the second kind arising in the
+
+theory of plane stationary gas flows. The theorem of existence and uniqueness is
+demonstrated, and an approximation of solution of the inequality of a series of
+
+solutions of some unlimited elliptical problems is obtained.
+
+UDC 517.966
+
+SOLUBILITY 0? THE BOUNDARY-VALUE PROBLEM FOR A STATIONARY UT EQUATION
+
+[Abstract of article by Lur'kin, N. A.]
+
+[Text] A study was made of the boundary-value problem for a nonlinear equation in
+
+partial derivatives of the third order describing small perturbations in a viscous
+stationary transonic gas flow. The theorem of existence and uniqueness of a "small"
+
+solution of the formulated problem is demonstrated by the "compressive mapping"
+method.
+
+31
+FOI‘OFFHJAI.USEIINLY
+FOR OFFICIAL USE ONLY
+
+UDC 517.53
+
+SOME CLASSES 0P LIMITED REGULAR FUNCTIONS REPRESENTING A RING IN A MAIN WITH
+A QUASICONPORHAL BOUNDARY
+
+[Abstract of article by Mityuk, I. P. and Tul'chiy, V. V.]
+
+[Text] 0n the basis of the concept of a k-quasiconformal curve, the authors intro-
+
+duce some new classes of functions, regular in a ring, representing this ring in a
+domain whose outer boundary is s k-quasiconformal curve. Using the symmetrization
+method in these classes it was possible to obtain some coverage theorems and precise
+
+upward and downward evaluations of the absolute value of the function.
+
+UDC 518: 517. 91/96
+
+VALIDATING THE FITTING METHOD 0N GRAPES FOR svs'rms 0P DIFFERENCE EQUATIONS WITH
+CONSTANT COEFFICIENTS
+
+[Abstract of article by Ovcharova, A. 8.]
+
+[Text] A variant of the "parallel fitting" method is proposed for solving systems
+0f linear algebraic equations with constant coefficients determined in a complex
+(graph). Evaluations of the fitting coefficients are obtained and the correctness
+of the method is demonstrated for systems of implicit difference equations whose
+matrix has a three-diagonal structure.
+
+UDC 517.966
+A PRIORI EVALUATIONS OF SOLUTIONS OF DEGENERATE QUASILINEAR PARABOLIC EQUATIONS
+[Abstract of article by Papin. A. A.)
+
+[Text] The author obtained a priori evaluations of limited solutions of degenerate
+parabolic equations in the form
+
+'“t + div(n(t,x,u)Vu) + f(t,x,u,ux) ' 0, xéan, t6 [0,T].
+
+For example, in the case of a very simple equation with a(t,x,u) - u, n - 2, an
+evaluation is given of the H5lder constant of the function u(x,t).
+
+UDC 532.546;519.632
+
+NUMERICAL SOLUTION 0F PROBLEM OF HORIZONTAL SYSTEMATIC DRAINAGE FROM ZONE 0F
+INCOMPLETE SATURATION
+
+[Abstract of article by Sabinin, V. I.)
+[Text] The stationary filtration problem is examined. It constitutes a mixed boun-
+
+dary-value problem in a rectangle, close to the Neumann problem, for a quasilinear
+equation of an elliptical type. The article describes a numerical solution method
+
+32
+FOII|>FIIC1AI.II§I§(NULY
+roe OFFICIAL USE ONLY
+
+and a method for applying it to the nonststionary problen. For finding the dif-
+ference solution the author proposes a modification of one of the variants of an
+
+iteration lethod _for inconplete factorization. Eats-plea are given which provide
+sons idea concerning the effectiveness of the solution method.
+
+UDC 517.947
+
+SOLUBILITY OF 80% CLASSES 0P PROBLDIS HIT“ AN 0mm BOUNDARY FDR NUATIOKS OF
+THE PARABOLIC TYPE
+
+[Abstract of article by Yakubov, 8.]
+
+[Text] A study was made of the following problems with an unknown boundary
+a(t,x)uxx + b(t,x)ux + c(t,x)u - u: - Y(t,x).
+u,‘(t.0) - um. u(t.h(t)) - A01). ux(t. h(t)) - 0.
+
+where A is some operator. The uniqueness theoreu is delonstrated. When A is an
+
+integral operator it is possible to establish the existence theorem and the
+asymptotic behavior of the unknown boundary at - h(t), with t-o +oo . If boundary
+
+conditions of the first kind are stipulated along the known boundary this will
+give the local and nonlocal theorems of existence for the considered problem.
+
+UDC 517.9
+IIUYGENS PRINCIPLE OF THE ORDER (p.11)
+
+[Abstract of article by Zaytsev, V. A.]
+
+[Text] The problem of the presence of the Huygens principle was studied for equa-
+tions breaking down into linear factors.
+
+([00 519.66
+BACKLUND TRANSFORMS FOR SYSTEMS OP EQUATIONS IN PARTIAL DERIVATIVES
+
+[Abstract of article by Krcndelev, S. P. and Talyshev, A. A.]
+
+[Text] A class of systems of equations in partial derivatives allowing Backlund
+transforms is foruulated.
+
+COPYRIGHT: Institut gidrodinaniki 80 AN SSSR, 1980
+
+5303
+680: 1865/ 2106
+
+33
+
+roamwouu'
+FINI<MHHKJAI.[EHE(MNLY
+
+UDC 551.461.2+526+551.66S.15+532.59
+COLLECTION 0? ARTICLES 0N OCEAN DYNAMICS
+
+Moscow TRUDY GOSUDARSTVENNOGO OKEANOGRAFICHBSKOGO INSTITUTA: VOPROSY DINAMIKI MDRXA
+in Russian 1981 (signed to press 6 Apr 81) pp 120-124
+
+[Abstracts from collection of articles "Transactions of the State Oceanographic Inst-
+
+itute: Problems in Dynamics of'the Sen", edited by B. Kh. Glukhovskiy. doctor of
+technical sciences, Hoskovskoye otdeleniye Gidrometeoisdata, 530 copies, 12‘ pages]
+
+[Text] ABSTRACTS
+
+UDC 551.666.31
+DETERMINING THO-DIMENSIONAL SPECTRUM 0P MOVING ?IELD 0F WAVES
+[Abstract of article by Trubkin, I. P.]
+
+[Text] A method is proposed for determining the two-dimensional (frequency-directed)
+spectrum of wind waves on the basis of data from measurements of the rises and
+
+slopes of the wave-covered sea surface. It is shown that it is possible to find an
+evaluation of the two-dimensional spectrum of the moving field of waves by subject-
+ing the initial records to narrow-band filtering and determining the angular dis-
+tribution function of the mean square absolute value of the slope and the spatial
+filtering function introduced into consideration. The article gives experimental data
+characterizing the relatively high resolution of the described method using a space
+variable. Figures 2, references 5.
+
+UDC 551.466.31
+
+CROSS-SPECTRA 0F SLOPES AND RISES 0P HAVE-COVERED SBA SURFACE
+
+[Abstract of article by Trubkin, I. P.]
+
+[Text] 0n the basis of experimental data obtained by the author it was possible to
+evaluate a linear theoretical model of wind waves for describing the cross-spectral
+characteristics of slopes and rises of the wave-covered sea surface. The results of
+the evaluation indicated the possibility for this case of a use of linear theory in
+the first approximation. An approximating expression is proposed for the two dimen-
+sional spectrum of the moving field of waves. by means of which expressions are de-
+rived for the considered characteristics in relation to the parameters of the
+
+34
+
+FOIIOFFIJAI.USE(NNLV
+l-‘OI OWICIAL USE ONLY
+
+angular distribution of energy and the frequency spectrum of waves. The evaluation
+of the function introduced into consideration, obtained on the basis of experimental
+data, characterizes the movement of the wave field in space and is expressed through
+
+the spectra of slopes and rises of the wave-covered sea surface. Figures 1, refer-
+ences 4.
+
+UDC 551.666.31:551.665.7
+SPATIAL STRUCTURE OF WIND WAVES AND ITS CORRELATION WITH WIND-HAVES ENERGY EXCHANGE
+[Abstract of article by Hakova, V. I. and Trubkin, I. P.]
+
+[Text] Using evaluations of the two-dimensional spectra of waves it was possible to
+determine the energy distribution of waves by frequencies and directions. There was
+found to be movement of a part of the wave energy in the general direction of wave
+propagation. It was also possible to ascertain the features of energy exchange be-
+tween the wind and waves on the forward slope of the wave spectrum and its rela-
+
+tionship to evaluations of the moving field of waves. The values of the kinetic and
+
+potential energy of wind waves obtained on the basis of spectral data were close to
+one another. Tables 3, figures 2, references 15.
+
+UDC 551.466.78
+VARIABILITY 0P TIDAL HARMONIC CONSTANTS AS A RESULT OF NONLINEAR EFFECTS
+[Abstract of article by Sgibneva. L. A.]
+
+[Text] A study was made of the possible reasons for the observed variability of the
+harmonic constants of tides on the basis of their numerical computations for Penzhin-
+skaya Bay in the Sea of Okhotsk within the framework of a nonlinear model of tidal
+movement in the shallow-water bay. It is shown that the nonlinear effects caused by
+the shallow water, the nonlinear form of bottom friction and convective accelera-
+tions cause the appearance of secondary waves and change the characteristics of the
+main tidal components. In addition, these effects are a cause of the seasonal var-
+
+iability of the harmonic constants. Cotidal charts are given, as well as the re-
+sults of numerical computations for Penzhinskaya Bay in the Sea of Okhotsk. Tables
+2, figures 4, references 4.
+
+UDC 551.665
+
+COHPUTATIONS 0F REGIME-STATISTICAL CHARACTERISTICS OF LEVEL VARIATIONS IN THE SEA
+SHELF ZONE
+
+[Abstract of article by German, V. Kh., Rybak, B. Kh. and Pilippov, Yu. 6.]
+[Text] A method is proposed for computing the distribution functions of extremal
+
+levels (frequency of recurrence once in T years) and the distribution functions
+(guaranteed probabilities) of all levels on the basis of data obtained by the hy-
+
+drodynamic method. The Khips model was used in computing the levels. Computations
+for the northwestern part of the Black Sea were made as an example. The Langbein
+
+35
+FOIiol1ﬂC1ALlﬂﬂiflilY
+FORTOFTWCIAI.USE(MVLY
+
+expression was used for conversion from the distribution function (guaranteed prob-
+ability) of all levels to the distribution functions for extremal levels. Figures
+2, references 13.
+
+UDC 551.b61.2
+
+COMPUTATIONS 0F DURATION OF SEA LEVEL POSITION DURING ITS RISE AND FALL
+[Abstract of article by Zotin, M. 1.]
+
+[Text] 0n the basis of an analysis of a great volume of data it was possible to
+establish the peculiarities of distribution of level variations in three guaranteed
+
+probability ranges. A method is proposed for evaluating the duration of level posi-
+
+tion for the upper and lower parts of the guaranteed probability curves. Tables 2,
+figures 2, references 5.
+
+UDC 551.465
+
+COMPUTATIONS 0F REGIME CHARACTERISTICS OF SEA CURRENTS 0N BASIS OF RESULTS OF USE
+OF NUMERICAL HYDRODYNAMIC METHODS
+
+[Abstract of article by Belov, V. P., Filippov, Yu. G. and Shkudova, G. Ya.]
+
+[Text] The article describes a method for determining the regime characteristics
+
+of currents on the basis of statistical processing of the results of hydrodynamic
+computations. A detailed examination is made of the problems involved in ensuring
+computations of the initial hydrometeorological information. The fundamental for-
+mulas for ascertaining two-dimensional density re cited, as well as the diatrib-
+ution functions for currents. The organization of the program on an electronic coar
+puter is discussed. The results of statistical computations for the Sea of Azov
+are given as an example. Tables 3, references 8.
+
+006 551.466.3
+
+STRUCTURE OF EMPIRICAL DISTRIBUTION FUNCTIONS FOR WIND VELOCITY AND OTHER
+HYDROMETEOROLOGICAL ELEMENTS
+
+[Abstract of article by theplinskiy, G. V.)
+
+[Text] A study of the distribution functions for hydrometeorological elements is
+
+of great practical importance. Using them it is possible to determine the quantiles
+of the elements, allowance for which is necessary in the planning and implementa-
+
+tion of different economic measures and studies. Also examined are typical distor-
+tions of the functions caused by imperfections in the series of observations and
+
+leading to erroneous evaluations of the quantiles. Procedures are proposed for con-
+structing and extrapolating the functions. These procedures are intended for elim-
+ination of the mentioned distortions and make it possible to determine the values
+of the quantiles closer to their mean long-term values. Under the condition that
+
+36
+IIIICNHHCIA1.USEINNLY
+m OFFICIAL USE ONLY
+
+the long-tern distribution of the element is known, by means of simple logical
+constructions it was possible to compute the probability of appearance of the
+long~term maximum of the element as a phenomenon in any stipulated time interval.
+Examples of such computations are given. Figures 1, references 7.
+
+UDC 551.465
+INVESTIGATING CURRENTS IN THE SHELF ZONE 0? A DEEP SEA
+[Abstract of article by Shkudova, 6. Ya. and Yeremeyeva, G. v.1
+
+[Text] The authors analyze the vertical structure of waters in the shelf zone of
+of the sea. A study was made of the influence of stratification on the circula-
+
+tion of waters during the period of winter convection for the purpose of taking
+it into account in a hydrodynamic computation Iodel. Figures 3, references 25.
+
+UDC 551.465. 55
+
+STOCNAS‘HC GENERALIZATION OF THE DYNAMIC METHOD FOR COMPUTING CURRENTS
+[Abstract of article by Sukolov, V. A.]
+
+[Text] The proposed generalization within the framevaork of a geostrophie model
+
+of ocean currents nukes it possible to compute evaluations of the mathematical ex-
+pectations and dispersions of current velocities on the basis of the first two
+statistical moments of the density field of sea waves, stipulated from observa-
+tions, bottom relief and the approximate values of currents at the reading hori-
+zon. The computations of velocities at a fixed depth are made from a solution of
+an overdetermined system of linear algebraic equations containing information on
+horizontal currents at the reading depth and the equation for the conservation of
+total flows. The use of a priori information on the errors in stipulating the in-
+itial data and the equations of conservation of total flows makes it possible on
+the basis of the generalized least squares method to stabilize the sought-for re-
+sults relative to the errors in stipulating the input parameters. Computations at
+each investigated horizon are represented in the form of evaluations of the math-
+
+ematical expectation and the standard deviations of current velocities. Tables 3.
+references 5.
+
+UDC 551.68.018
+
+SOME RESULTS OF SPECTRAL ANALYSIS OF CURRENT FLUCTUATIONS IN THE ATLANTIC OCEAN
+[Abstract of article by Lyashenlw, A. 17.]
+
+[Text] The article gives the results of a spectral analysis of current fluctua-
+tions in the frequency range of internal gravitational waves on the basis of meas-
+urements made in two regions of the Atlantic Ocean. The modal composition of the
+tidal semidiurnal fluctuations is investigated. Figures 2, references 9.
+
+37
+FOR OFFICIAL USE ONLY
+ms Ol-‘t‘lOAl. USE ONLY
+
+UDC 551.465.635
+
+SHORT-TERM VARIABILIT’Y 0F GULF STREAM DYNAMIC CHARACTERISTICS
+[Abstract of article by Baranov, Ye. I. and Hel'nichuk, N. 3.]
+
+[Text] A study was made of the short-term variability of the positions of the
+front, axis, southern boundary and width of the Gulf Stream, as well as the front
+
+of slope waters along the line New York-Bermuda on the basis of the results of
+bathythermogrephic measurements made on a frequent schedule during the period
+
+1 June 1973 through 10 October 1974. Tables 3, figures 1, references 4.
+
+[106 651.465.752:551.510.522
+
+METHOD FOR QUANTITATIVE EVALUATION OF HACROSCALE DYNAMIC INTERACTION 33mm THE
+PLANETARY BOUNDARY LAYER OF THE ATmSPHERE AND THE OCEAN SURFACE
+
+[Abstract of article by Tarnopol'skiy, A. G. and Shnaydman, V. A.]
+
+[Text] The authors discuss different methods for stipulating the boundary condi-
+tions in problems of sea dynasics. It is proposed that the parameters of dynamic
+interaction between the air flow and the underlying surface be computed using the
+improved model of the atmospheric planetary boundary layer proposed by the authors.
+
+Also examined is a method for determining wind stress at the sea surface and the
+
+friction coefficient on the basis of data from standard hydroneteorological observ—
+ationa. The article gives the results of computations of the principal parameters of
+interaction between the ocean and the atmosphere with different conbinations of the
+
+thermal and dynamic state of the moving air flow. Tables 2, figures 2, references
+11¢.
+
+COPYRIGHT: Gosudarstvennyy okeanograficheskiy institut, 1981
+
+5303
+C50: [865/41
+
+FOR OFFICIAL USE ONLY
+FOITOFFICIAl.llﬂB(NVLY
+
+UDC 551.542.l+551.552(261)+551.665.15(261)+551.576
+
+COLLECTION 01" ARTICLES 0N ATMOSPHERE-OCEAN INTERACTION IN ATLANTIC OCEAN
+
+Moscow AMSFERNAYA TSIRKULYATSIYA I YEYE VZAIMODEYSTVIYE S OKEANOM V TROPICHESRIKN
+I VNETROPICHESKIKH SHIROTAKN ATLANTIKI in Russian 1981 (signed to press 13 Apr 81)
+pp 286-287
+
+[Abstracts from collection of articles "Atmospheric Circulation and Its Interaction
+With the Ocean in the Tropical and Extratropical Latitudes of the Atlantic", respon-
+sible editor V. S. Sasoylenko, professor, Izdatel'stvo "Nauka", 1000 copies, 288
+pages}
+
+[Text] ABSTRACTS
+
+UDC 551.579
+
+EVALUATION OF ACCURACY AND REPRESENTATIVENESS 0F METEOROLOGICAL DATA FROM THE
+TROPICAL EXPERIMENT
+
+[Abstract of article by Romsnova, N. A. and Ssnoylenho. V. 8.]
+
+[Text] The authors give a comparison of evaluations of the errors in measuring
+atmospheric pressure, wind direction and velocity under marine conditions obtained
+by different authors on the basis of observational data from ships. A study use
+made of problems relating to the choice of a representative place on a ship for
+observations of the wind, the influence of the operating regime of the ship (on
+course, at drift) and its rolling on the readings of wind-gaging instruments. Pig-
+ures 3, tables 1, references 15.
+
+use not stated
+
+EMPIRICAL INVESTIGATION OF THE RELATIONSHIP OF FORCES DETERMINING THE "IND FIELD
+IN THE TROPICAL ZONE 0? THE OCEAN
+
+[Abstract of article by Ronanova, N. A. and Romanov, Yu. A.]
+
+[Text] 0n the basis of scheduled meteorological and aerological observations of
+
+stlospheric pressure and wind at island and shore stations located in the tropical
+latitudes (25°s-25'N) the authors determined the values of individual terms of the
+
+39
+FOI1OFIKJA1.U5840NLV
+ma OFFICIAL USE ONLY
+
+equations of notion as a function of latitude. At the earth's surface and aloft
+1n the zone from the equator to 15° latitude the force of the pressure gradient
+
+is decisive and exceeds by an order of magnitude the value for the horizontal ad-
+vection of the wind. The possible reasons for the results obtained are analyzed.
+An evaluation of the terns in the equations of notion on the basis of observation-
+al data from the TROPEKS-72 expedition indicated that in the equatorial Atlantic
+
+the role of advective acceleration is substantial; its individual terms are only
+3 or 4 times less than the pressure gradient values. Figures 3, tables 8, refer-
+ences 29.
+
+UDC 551.511.A65
+
+THERMAL ENERGY OF ATMOSPHERIC PROCESSES IN THE TROPICAL LATITUDES OP THE OCEANS.
+NEAT BALANCE IN THE OCEAN AND ATMOSPHERE
+
+[Abstract of article by Lunyakova, L. G. and Sanoylenko, V. 3.]
+
+[Text] 0n the basis of materials from a thorough aerological sounding of the atmo-
+sphere froa Soviet ships participating in the tropical experinents of 1972 and
+1974 it was possible to determine all types of heat flows penetrating the atmo-
+
+sphere at different levels in different spatial averaging scales as well as
+to establish the dependence of the heat flows on atmospheric circulation. All the
+
+heat balance components in the atmosphere and ocean are determined for different
+types of atmospheric circulation. Figures 25. tables 9, references 79.
+
+UDC 551.521.31
+
+CLOUDS AS A REGULATOR OF THE RADIATION AND NEAT BALANCE IN THE TROPICAL LATITUDES
+OF THE OCEANS
+
+[Abstract of article by Voytova, K. V.]
+
+[Text] On the basis of continuous registry of the influx of solar radiation at the
+
+ocean surface, radiation from the surface and hourly visual determinations of
+cloud forms and the extent of their coverage of the heavens, made on shipboard
+on vessels participating in the tropical experiments of 1972 and 1974.1t was pos-
+
+sible to establish the degree to which clouds in the tropical zone of the ocean
+regulate its radiation and heat balance. Figures 19, tables 5, references 17.
+
+000 551.571
+TURBULENT AND ADVECTIVE TRANSPORT 0P HATER VAPOR IN TROPICAL LATITUDES OP OCEANS
+
+[Abstract of article by Yevseyeva, L. S., Sanoylenko, V. S. and Snopkov, V. 6.]
+
+[Text] 0n the basis of materials from frequent aerological sounding of the atmo-
+
+sphere, carried out from vessels participating in the tropical experiments of 1972
+and 1976, a study was made of the vertical distribution of water vapor in the atno-,
+
+sphere, its full vapor content is determined and the reasons for its variability
+
+40
+FOR OFFICIAL USE ONLY
+IKNKOFFRJAI.USE(NNLV
+
+in different polyrons in the tropical zone of the ocean are clarified. For this
+purpose computations are made of the advection and divergence of water vapor in
+the free atmosphere. Computations are given for the turbulent flow of water vapor
+from the ocean surface, condensation and the falling of moisture in the fora of
+precipitation. which sakes it possible to determine the moisture balance within
+the limits of each polygon. Figures 13, tables 10, references 14.
+
+UDC 551.555.;
+CONVECTION, CONVECTIVE CLOUDS AND PRECIPITATION OVER THE OCEAN IN TROPICS
+
+[Abstract of article by Zavel'skaya, N. A. and Lebedeva, N. V.]
+
+[Text] 0n the basis of hourly observations of clouds by Soviet ships participating
+
+in the tropical experiment of 1974, on the basis of aerological sounding of the
+atmosphere from these ships and records of pluviographs aboard them it was possible
+
+to determine the degree of propagation and development of the process of atmo-
+spheric convection in the Trades zone and the ICZ, the thermodynamic factors gen-
+
+erating it and the degree to which it is subject to diurnal variation. Figures
+6, tables 10, references 15.
+
+UDC 551.521
+
+OAY-TO-OAY VARIABILITY 0F SOLAR RADIATION PLOXES IN TEDPICS, NACROSCALE CLOUD COVER
+VARIATIONS AND ATMOSPHERIC TRANSPARENCY
+
+[Abstract of article by Kislov, A. V.]
+
+[Text] A study was made of the day—to-day variations in the radiation regime in the
+tropical latitudes of the Atlantic Ocean with a period of 2-3 weeks and variations
+
+with a period of 4-5 days caused by changes in the cloud cover at different scales
+
+and the transport of aerosol mist from the arid regions of Africa. Figures 7, ref-
+
+erences 20.
+
+UDC 551.571
+SEASONAL CHANGES IN VAPOR CONTENT OVER THE ENTIRE ATLANTIC OCEAN
+
+[Abstract of article by Snopkov, V. 6.]
+
+[Text] Information on the total content of water vapor in the atmosphere over the
+
+Atlantic Ocean is generalized. Computations of the transport of water vapor across
+the equator are presented. Maps of atmospheric vapor content over the ocean were
+
+constructed for February, May, August and November. IR observations were also used
+for constructing these maps. Figures 5, tables 5, references 35.
+
+41
+FOI‘OFFNJAI.U§£(NVLY
+F0! OFTICIAI.USE(NHLY
+
+UDC 551.555
+NATURE OF EQUATORIAL UBSTERLY WINDS IN INDIAN OCEAN
+
+[Abstract of article by Krivelevich, L. H. and Romanov, Yu. A.)
+
+[Text] within the framework of a zonal model of equatorial circulation of the atmo-
+sphere the authors made computations of the components of wind velocity in the low-
+er troposphere near the equator on the basis of stipulated meridional profiles of
+surface atmospheric pressure. The analysis reveals that with whatever meridional
+profile of surface pressure actually observed in the Indian Ocean it is impossible
+to obtain a westerly flow at the equator of such an intensity as is observed in
+nature. The conclusion is drawn that a zonal pressure gradient should not play a
+significant role in the fornation of equatorial westerly winds in the Indian Ocean.
+Figures 3, references 13. '
+
+UDC 551.555
+ATMOSPHERIC CIRCULATION IN ICZ AT 23.5°H DURING TROPEKS-76 PERIOD
+
+[Abstract of article by Romanov, Yu. A. and Ronanova, N. A.]
+
+[Text] The article gives an analysis of day-to-day changes in surface atmospheric
+pressure, divergence and velocity components of the surface wind along a run 23.5°
+
+from 6°S to 12°N during three phases of the TROPEKS-76 expedition. Figures 1, tables
+1, references 17.
+
+unc 551.562.1:551.552(261)
+
+VARIABILITY OF THE EQUATORIAL “IND FIELD AND ATMOSPHERIC PRESSURE FIELD AND THEIR
+INTERRELATIONSHIP ACCORDING TO TROPEKS-74 DATA
+
+[Abstract of article by Romanov, Yu. A.]
+
+[Text] 0n the basis of observational data from Soviet ships during the TROPERS-7é
+
+expedition a study was made of the spatial and temporal variability of wind velo-
+
+city components, atmospheric pressure and atmospheric pressure gradients. An anal-
+ysis was made of the correlation between wind velocity and the pressure gradients
+
+at different distances from the equator. Figures 8, tables 10, references 22.
+
+COPYRIGHT: Izdatel'stvo "Nauka", 1981
+
+5303
+C50: 1865/46
+
+42
+FOI.OFIICIAI.IEHB(MNLY
+FOIiofFIJAl.US£¢INLY
+
+UDC 551.46
+
+TASKS 0? DEPARTMENT OF OCEANOLOGY, ATMOSPHERIC PHYSICS AND GEOGRAPHY,
+USSR ACADEMY OF SCIENCES, IN CONFORMITY TO RESOLUTIONS 0? 26th CPSU CONGRESS
+
+Moscow VESTNIK AKADEMII NAUK SSSR in Russian No 10, Oct 81 pp 66-53
+[Article by L. H. Brekhovskikh, scademician]
+
+[Text] The 26th CPSU Congress summarized the achievements of our country, outlined
+the program for its development during the next five-year plan and for the more
+distant future. The attainments have been impressive, but the tasks are serious,
+requiring the unleashing of all forces. A highly important role will continue to
+be played by science, and especially by the scientific directions dealt with by
+the Department of Oceanology, Atmospheric Physics and Geography.
+
+In this connection it is fitting to review our achievements during the last five-
+year plan, during 1980. and also to analyze the tasks for the next five-year plan.
+
+In the "Principal Directions for the Economic and Social Development of the USSR
+During 1981-1985 and During the Period to 1990" in the section "Development of Sci-
+ence and Acceleration of Technical Progress" it is mentioned, in particular. that it
+is necessary to concentrate efforts on study of the structure, composition and evo-
+lution of the earth, biosphere, climate and the world ocean, including the shelf,
+for the purpose of rational use of their resources, improvement of methods for
+weather forecasting and other natural phenomena, an increase in the effectiveness
+
+of measures in the field of preservation of the environment; development of ecol-
+
+ogy.
+Soviet scientists are carrying on work in all these directions on a broad front.
+
+Investigations of the ocean. The ocean is the largest natural planetary fornnt1on.
+Attention to the ocean is dictated by its ever-increasing importance in the life of
+mankind. In actuality, almost four-fifths of all world transportation of cargo is
+by sea. The output of petroleum and gas from the bottom of the shelf zones of the
+world ocean and the seas adjacent to it at the present time is about one-quarter
+
+of the total output. In the very near future an expansion of the output of many min-
+eral resources from the floor of the world ocean, especially ferromanganese nod-
+
+ules,wll| occur. The time is evidently not far off when the extraction of uranium
+from sea water will become justifiable.
+
+43
+IOIIOFFIJAI.USIIINLY
+FORiOFFlﬂAl.USE(HNLY
+
+One-sixth of the food protein consumed by mankind comes from the ocean. Unfortun-
+ately, this fraction is increasing slowly. The reason is the incorrect. not sci-
+entifically validated catching of traditional species of fish in many regions of
+the ocean, which has led to overfishing. As a result, the existing volume of
+
+the catch - about 70 million tons annually, is not far from the maximum. In mar-
+ine biology the direction associated with the cultivation of fish and other marine
+
+organisms in the coastal zones of the oceans and seas suitable for this purpose
+(aquaculture) is becoming promising.
+
+The ocean also exerts an enormous influence on the life of man because it determines
+weather and climate on the earth. Heteorologists know that weather forecasting for
+(for example) more than 10 days in advance requires allowance for processes trans-
+piring in the ocean. This applies to a still greater degree to the formulation of
+the theory of climate of our planet.
+
+During the elapsed five-year plan investigations of the ocean developed successful-
+ly. They were brought together in a multisided interdepartnental program consisting
+of 16 projects (nine of these were international). Each project provided for the
+solution of a definite problem; the work was done under the direction of and with
+coordination by a key organization. Participating in the projects were 17 minis-
+tries and departments and 80 scientific organizations in the country. The key or-
+
+ganization for implementing the entire program was the USSR Academy of Sciences.
+
+Much attention was devoted to investigations of synoptic variability and frontal
+zones in the ocean. Extensive investigations were made under the POLIHODB project
+(Institute of Oceanology imeni P. P. Shirshov, USSR Academy of Sciences, Marine
+Hydrophysical Institute, Ukrainian Academy of Sciences, Acoustics Institute). It
+became clear that in the upper kilometer of the ocean synoptic variability for
+
+the most part is governed by the presence of macroscale quasigeostrophic turbu-
+lence. Smaller eddies than before were discovered. In the deeper layers of the
+ocean the nature of the variability was governed for the most part by processes of
+the Rossby waves type. The investigations were made in cooperation with scientists
+of the United States and other countries. The results are still being processed.
+
+Interesting work was carried cut by the Arctic and Antarctic Scientific Research
+Institute for study of the Circumpolar Antarctic Current. It was possible to clar-
+ify its structure, meandering and also eddy formation in this zone. It was found
+that contrary to the earlier and less reliable results the Circumpolar Antarctic
+Current does not have any well-expressed deep countercurrent.
+
+The Scientists of the Soviet Union actively participated in the First Global Experi-
+mcnt CARP (Program for Investigating Global Atmospheric Processes). In the course
+
+of this experiment the state of the ocean and atmosphere and their interaction was
+investigated on a broad scale.
+
+Interesting results were obtained as a result of study of structure of the ocean
+floor. Soviet scientists participated in the international project for deep-water
+drilling aboard the "Glomar Challenger." During the last 10-15 years these investi-
+gations gave results of outstanding importance and made it possible to discover
+much new information concerning the geological history of our planet. In partic-
+ular, work has continued on refinement of the hypothesis of the tectonics of
+
+44
+
+FORiOFFﬂﬂAl.USE(HNlY
+FOI10FFIJAI.USE(HULY
+
+lithospheric plates. However, it should be noted that deep-water drilling is not
+the only method for studying the history of the earth's crust under the ocean. Re-
+sults of comparable importance can be obtained by the ordinary collection of
+samples on underwater ranges and in underwater rift zones. This research method
+has become especially effective when the scientists acquired underwater vehicles
+making it possible to descend to the ocean floor and work at great depths like
+geologists work on the land, that is, visually examine samples, take samples,
+measure heat flows on the oceanfloor, etc. An example of such effective work is
+the Red Sea Expedition of the Institute of Oceanology, USSR Academy of Sciences, em-
+ploying the "Paysis" underwater vehicle.* Incidentally, these and other investiga—
+tions indicated that hydrothermal processes play a decisive role in the formation
+of metal-bearing ores on the ocean floor.
+
+Significant results were obtained relating to the presence of petroleum and gas on
+the ocean floor. This problem could be tied in to the tectonics of lithospheric
+plates. In particular, it was demonstrated at the Institute of Oceanology that for
+an understanding of the presence of petroleta and gas in the arctic regions of our
+northern shelf the tectonics of plates in this region in the Cenozoic is of consid-
+erable importance, and specifically the tectonics of the zone of underthrusting of
+plates in this epoch. The regions of presence of both petroleum and gas deposits are
+evidently related precisely to these zones. Important geological investigations of
+the floor of the Sea of Okhotsk, Kurile-Kamchatka trench and Sea of Japan have
+
+been carried out by the Pacific Ocean Oceanological Institute, Far Eastern Scien-
+tific Center, USSR Academy of Sciences.
+
+With respect to the use of the biological resources of the ocean, here interest
+
+has increased in the open ocean. This is understandable. 0n the one hand. most
+countries have declared the ZOO-mile zones adjacent to their shores to be zones of
+their national interest and the carrying out of fishing in these zones requires
+special permission and signed agreements. 0n the other hand, in the open ocean fair
+results can be obtained by fishing at great depths or in zones of upwelling asso-
+ciated with synoptic eddies. In addition, great attention is being given to less
+traditional objects of the catch - Antarctic krill. The institutes of the Ministry
+of the Fishing Industry are concerned with all these problems. Our biologists have
+devoted great attention to experimental investigations and the formulation of math-
+ematical models of life cycles and food chains of biological communities in the
+ocean.
+
+There are a number of advances in marine chemistry. The most important of these, pos-
+sibly, are methods for the sorption of different metals from sea water proposed by
+scientists of the Institute of Oceanology. These methods, as asserted by their auth-
+ors, make it possible, for example, to obtain rubidium from sea water less expens-
+ively than by other available methods.
+
+Investigations of the ocean from space have been broadened. It appears that very
+much interesting information can be obtained from manned space stations by means
+of simple visual obServation and photographing of the ocean. Frontal zones, mean-
+
+ders, eddiesI and sometimes also internal waves are visible in the ocean from
+
+* See V. I. Voytov and A. S. Honin, "Investigations of the Red Sea Rift," VESTNIK
+AN SSSR (Herald of the USSR Academy of Sciences), No 10, pp 125-135, 1980.
+
+45
+
+FOR OIIWCJAI.USEioNlM
+FOR OFFICIAL USE ONLY
+
+space. The study of the ocean by means of artificial earth satellites is becoming
+more extensive. Pour oceanological satellites have now been launched in our
+
+country, two of them under the "Intercosmos" program. Artificial earth satellites
+are used in obtaining data on the temperature of the ocean Surface, waves, surface
+wind, in determining the color of the sea, and in this connection, the biological
+productivity of waters, ice conditions, integral moisture content of the atmosphere,
+liquid-water content of clouds and many other parameters. The importance of sub-
+satellite polygon investigations has increased, especially for the uppermost meter
+layer. The scientists of the Institute of Oceanology have obtained many new re-
+Sults relating to the dynamics of this layer.
+
+Work has ended on publication of the multivolume monograph OKEANOLOGIYA (Oceanol-
+ogy). With respect to the breadth of coverage of the material and the drawing upon
+the talents of the best specialists in the creation of the monograph this event is
+of outstanding importance in world science. The first volumes of GEOGRAPIYA OKEANA
+(Geography of the Ocean), begun on the initiative of the late Akademician K. K.
+Markov, have now been published.
+
+During the new five-year plan Soviet scientists will work on a new complex program
+for investigating the ocean and the use of its resources. This program will bring
+together 38 projects. and again the Academy of Sciences will be the key organiza-
+tion. Among the new projects is the "Razrezy" ("Profiles") program, this directed
+to the implementation of monitoring over those zones of the ocean which exert the
+most effective influence on weather and climate. It is based on modern concepts
+concerning macroscale circulation of the atmosphere and ocean and their relation-
+ship to one another, with the use of mathematical models and representations fol-
+lowing from the theory of conjugate equations developed by Academician G. I. Mar-
+chuk. Soviet scientists are making efforts to involve the world scientific commun-
+
+ity in this sort of investigations and this will make possible a considerable in-
+crease in their effectiveness. The ocean is great and experience shows that the
+
+most useful results are obtained with the joining together of the efforts of sci-
+entists of different c0untries.
+
+Thv "Dyum-nd" project is also new in the multisided program. It is directed to im-
+plementation of investigations preparatory for a major experiment in which the
+ocean would play the role of an optical and acoustic detector of muons and high-
+energy neutrinos. A third new project is "Ocean Acoustics." Although the maximum
+information concerning the state of the ocean evidently can be obtained only by the
+use of space vehicles, the State of the ocean layer can be determined remotely only
+by the use of accustic instruments, since only acoustic waves can propagate sig-
+nificant distances under the water. At the present time plans are being considered
+[or the carrying out of preparatory work for creating systems for acoustic tomo-
+graphy of the ocean. As is well known. a system for x-ray computer tomography of
+the human body is extremely effective. Something of this sort can also be done with
+
+the ocean using relatively low-frequency acoustics. Over ocean areas of millions of
+square kilometers it is possible to obtain remote information on synoptic variabil-
+
+ity of ocean waters, that is, concerning the movement of fronts and eddies in these
+zones, to determine the structure of the ocean along profiles, both horizontally
+and vertically, etc.
+
+Finally, investigations of the ocean from space will be considerably developed un-
+der the new multisided program. There will be an increase in the role of investi-
+gations which on the basis of the state of the surface layer, monitored from space
+
+46
+F0!‘0FFKJAI.USE(INLY
+F!III)FI1(1AI.lEIE(HHLY
+
+vehicles, will provide information on the structure of the deep layers. In partic-
+ular, in the field of marine geology there will be a broadening of study of ferro-
+manganese nodules.
+
+Professional oceanologists have an excellent scientific research fleet, but its
+
+instrumental outfitting leaves much to be desired. In order to fill this gap it
+will be necessary to proceed as follows.
+
+Meteorology and atmospheric physics. Here it is possible to mention the following
+intensively developing fundamental directions. One of these is improvement in the
+reliability of forecasts of different types and for different times in advance
+(forecasts of weather, ice conditions, productivity, etc.). Another is study of
+climate, the theory of climate and the prediction of changes in climate. The pre-
+diction of climatic changes is highly important. This can be demonstrated in an
+example. We are evaluating the feasibility and necessity for shifting part of the
+runoff of rivers from the north to south both in the European USSR and in Siberia.
+The shifting of part of the runoff of Siberian rivers to Central Asia is a grand-
+iose undertaking which can evidently be fully implemented no sooner than in 20
+years and the principal expenditures on its implementation will pay for themselves
+during the subsequent decades. It is clear that a reliable prediction of the fees-
+ibility of accomplishing the shifting of this runoff can be made only by knowing
+what the climate will be like after 20-40 years.
+
+There are two other directions -- investigation of elementary physical processes
+in the atmosphere. integration of the results of these investigations in mathemat-
+ical models of circulation of the atmosphere and its interaction with the ocean;
+work on the artificial modification of hydrometeorological processes.
+
+Studies for improvement of forecasts were coordinated by the interdepartmental Sci-
+
+entific Council, USSR Academy of Sciences, on the problem "Heather Forecasting,"
+the chairman of which was Academician G. I. Harchuk. There are a number of signif-
+
+icant attainments. I will mention only some of them.
+
+At the USSR Hydrometeorological Center specialists have developed methods for the
+long-range forecasting of the fields of meteorological elements (wind, geopotential)
+based on solution of the conjugate equations of hydromechanics within the framework
+of a harotropic model with a source. The Hydrometeorological Center, together with
+other institutes of the State Committee on Hydrometeorology, has improved synoptic
+methods for predicting the mean monthly temperature anomaly for the European USSR
+and Western Siberia.
+
+At the Main Geophysical Observatory specialists have developed a physicostatistical
+method for the long-range forecasting of multisided meteorological parameters de-
+termining the yield of agricultural crops for 15 consolidated economic regions of
+the Soviet Union. Specialists there have also developed a hydrodynamic-statistical
+model for predicting pressure, temperature, cloud cover and precipitation over the
+territory of the northern hemisphere for interaediate times. At the Arctic and
+Antarctic Scientific Research Institute specialists have developed a method for pre-
+dicting atmospheric circulation and weather for three-ten days for the polar re-
+gions.
+
+47
+FOI!0FFKJAI.U§B(HVLY
+F0!‘0FIIC1AI.IEHE(NVLV
+
+The attack of our scientists on the climate problem is expanding. An all-union pro-
+gram has been developed for the investigation of climate. its possible changes and
+the influence of these changes on the national economy. The program has been ap-
+proved by the State Committee on Science and Technology, the Presidium USSR Acad-
+emy of Sciences and the USSR Gosplan. The key organization is the State Committee
+on hydrometeorology and Environmental Monitoring. It is also possible to mention
+some results of investigations made last year.
+
+Semiempirical methods for evaluating the response of climate to change in 002 con-
+tent in the atmosphere have been proposed and tested (Institute of Atmospheric
+Physics, USSR Academy of Sciences, State Hydrological Institute). In order to de-
+termine the present trend in global climate, specialists at the Geography Institute,
+USSR Academy of Sciences, have reconstructed the spatial distribution of paleo-
+meteorological parameters for different epochs for which the state of the climatic
+system was comparable with its present-day state.
+
+At the scientific institutes of the USSR Academy of Sciences and the State Committee
+on Hydrometeorology and Environmental Monitoring (Computation Center, Siberian De-
+partment, USSR Academy of Sciences. Main Geophysical Observatory, Institute of
+Oceanology. USSR Academy of Sciences) specialists have created and tested modern
+hydrodynamic models of climate. Using these models it was possible to obtain a ser-
+ies of results of practical importance.
+
+investigations of atmospheric energetics have continued for the purpose of clarify-
+ing the role of different atmospheric components in the formation of climate: aero-
+sol absorption (Institute of Atmospheric Physics. USSR Academy of Sciences, Main
+Geophysical Observatory), nitrogen oxides, carbon halogens (Main Geophysical 0b-
+servatory, Institute of Applied Geophysics). General theoretical investigations of
+the formation of climate have developed. For example, specialists at the Institute
+of Atmospheric Physics have proposed theoretical evaluations of the year-to-year
+fluctuations of global surface temperature. Important studies carried out for
+determining the structure of the monitoring of climate were initiated in the Labor-
+atory for Monitoring the Environment and Climate of the State Committee on Hydro-
+meteorology and Environmental Monitoring and the USSR Academy of Sciences.
+
+These and other investigations have made it possible to obtain preliminary evalu-
+ations of possible changes in climate caused by human activity. In general the
+evaluation coincides with similar evaluations made in the United States. These in-
+dicate the presence of a definite probability of an increase in mean global temper-
+ature at the earth's surface. At the same time, neither in the USSR nor in the
+United States has it yet been possible to obtain substantiated quantitative conclu-
+sions concerning the anthropogenic changes in climate possible in the future. In
+deer to obtain a reliable evaluation of the influence of anthropogenic factors on
+climate it is necessary to broaden still further investigations made with modern
+models (including joint models of the atmosphere-ocean-cryosphere).
+
+There must be a considerable strengthening of investigations of the effect of pos-
+
+sible changes in global climate on economic_activity at the scale of our country,
+on the world economy and on the natural resources of our planet.
+
+FOI10FFKJAI.USB(NULY
+POI 0‘11C1AI.USEIMNLY
+
+With respect to study of individual physical processes in the atmosphere and the
+integration of the results in mathematical models, I usuld like to note the fol-
+lowing studies. At the Institute of Atmospheric Physics a study has been made of
+the mechanism of generation of eddies in very simple systems. A nodal with few
+parameters was formulated describing the results of experiments modeling cyclo—
+genesis processes. A study was made of the phenomenon of parametric resonance in
+the atmosphere in relation to the problem of quasi-two year cyclicity.
+
+At the USSR Hydrometeorologicnl Center work has been completed on numerical exper-
+imenta for modeling of general circulation of the atmosphere in the northern hemi-
+sphere for different seasons on the basis of a finite-difference hydrodynamic mod-
+el. A model of circulation of the atmosphere and ocean was developed at the center
+with their interaction taken into accbunt. Studies of this type are also being de-
+veloped at the Computation Center, Siberian Department, USSR Academy of Sciences,
+and at the institute of Oceanology, USSR Academy of Sciences.
+
+Interesting investigations of internal gravitational waves in the atmosphere with
+the use of radiometeor data have been made at the Institute of Physics and Mathe—
+
+antics, Kirghiz SSR Academy of Sciences.
+
+The use of space vehicles for obtaining routine data on the atmosphere and the
+earth's underlying surface is expanding (State Scientific Research Center for the
+Study of Natural Resources). At the Central Asian Regional Hydrometeorological In-
+stitute of the State Committee on Hydrometeorology and Environmental Monitoring
+recommendations have been developed on the multisided use of satellite and surface
+data for routine determination of the productivity of agricultural crops.
+
+Geography, natural resources and their rational use; preservation of the environ-
+ment. Investigations in these fields are of primary importance. For the first time
+a special section "Preservation of the Environment" has appeared in the "Principal
+Directions." The Institutes of the USSR Academy of Sciences and the Academies of
+Sciences of the union republics, State Committee on Hydrometeorology and Environ-
+mental Honitoring and colleges of the country are making investigations on a broad
+front.
+
+The Geography Institute, USSR Academy of Sciences, in collaboration with the geo-
+graphy institutes of the Academies of Sciences of Bulgaria, Hungary, Poland,
+Czechoslovakia and Yugoslavia have prepared methodological recommendations on the
+economic and noneconomic evaluation of the consequences of man's effect on nature
+for use in the countries of the Soviet Economic Bloc.
+
+As a result of studies carried out by the institutes of the State Committee on Hy-
+drometeorology and Environmental Monitoring during 1978-1980 it was possible to
+
+determine the principal characteristics of a national system for observing and
+monitoring the state of the environment. A standard program for physical. chem-
+ical and biological observations is being developed and introduced at the back-
+ground stations entering into this system.
+
+At the Laboratory for Monitoring the Environment and Climate of the State Committee
+on Hydrometeorology and Environmental Monitoring and the USSR Academy of Sciences
+specialists have created the fundamental structure of ecological monitoring making
+
+69
+FOI‘OIINCIAI.USEGHNLY
+as to geochemical monitoring of the influence of anthropogenic activity on the
+natural cycles of some structural chemical elements. Specialists at the Institute
+of Applied Geophysics have proposed and improved methods for monitoring the con~
+
+hydrOcarbons in sea water, soils and other media. Scientific principles have been
+developed for expert environmental protection for plans for major national econ-
+omic structures.
+
+Siberian Department, USSR Academy of Sciences, a prediction has been made of the
+changes in water quality along the route of the Baykal-Amur Railroad for the per-
+iod up to the year 2000. At the Pacific Ocean Institute of Geograph , Far Eastern
+Scientific Center, USSR Academy of Sciences, specialists have formulated a balance
+ecological-economic model of an industrial complex. A method has been developed
+for a cost estimate of the tranaportation-geographical position of complexes of
+
+ioration measures for contending with this process.
+
+The study of the environment by means of space vehicles is expanding. At the Geo-
+graphy Institute, USSR Academy of Sciences, on the basis of materials from space
+surveys, specialists have created a method for landscape-typological regionaliza-
+tion of the Mongolian People's Republic. There also, using materials obtained from
+space vehicles, a geomorphological map of the USSR on 16 sheets was created. At
+
+Geocryology occupies a highly important place in the geographical sciences. both
+with respect to fundamental and practical importance. It is known that permafrost
+exists over almost half the territory of our country. It is also known that al-
+lowance for the characteristics of the cryolithozone in the economic exploitation
+uf territories is a highly important matter. The ignoring of the characteristics
+of permafrost can lead to extremely sorrowful consequences. At the Permafrost In-
+stitute, Siberian Department, USSR Academy of Sciences, specialists have prepared
+
+A geocryological map of the zone of the Baykal-Amur Railroad compiled there has
+also been published and a Manual on Protection of Landscapes "hen Laying Gas
+Pipelines in the Far North" (RUKOVODSTVO P0 ZASHCHITE LANDSHAFTOV PRI PROKLADKE
+CAZOPROVODOV NA RRAYNEH SEVERE) has been prepared. At Moscow State University
+specialists have developed a aethod for permefrost-engineering-geological inter-
+pretation of aerospace photographs in engineering field work for pipeline
+
+50
+NO! OFFICIAI.USE¢N¥LY
+POI OFFICIAL USE ONLY
+
+construction in the cryolithozone. Specialists there have also carried out invest-
+
+igations of the spatial patterns of the lithospheric permafrost zone in Western
+Siberia.
+
+Hater problems in their importance are becoming of equal rank with energy problems.
+The problem of supplying water to industrial enterprises, for agriculture and
+household needs in adequate quantities and of sufficiently high quality (stated
+simply, pure), in many parts of the earth and in our country is becoming very
+acute.
+
+A great number of institutes (several dozen) of different departments are engaged
+in an examination of different variants of shifting of part of the runoff of north-
+ern rivers to the south both in the European USSR and in Siberia. An evaluation
+has been made of the influence of this measure on natural climatic conditions in
+the region affected by the shifting, on the hydrology of rivers, in their mouth
+zones and along the entire course, on the biological (fish reserves), economic and
+social conditions.
+
+The Institute of Hater Problems, USSR Academy of Sciences, was the key organization
+for all this work. It carri..d out a great amount of work, all under rather complex
+conditions. The shifting of runoff is very expensive. A demonstration of the fees-
+ibility of such shifting of runoff and an analysis of possible negative conse-
+quences is a very coaplex matter. This is dependent on the possible variants adopt-
+ed for change in cliaate in the coming decade, on the different scenarios adopted
+
+for the development of the national economy in the coming decade and on many other
+factors. It is also necessary to take into account the possibility of alternative
+
+means for supplying the national economy with water, in particular, improvement
+in the technology of water use.
+
+In the light of all these considerations we feel that what is written in the "Prin-
+
+cipal Directions" is extremely far-sighted and reasonable: proceed to the inle-
+mentation of preparatory work on shifting of part of the runoff of northern rivers
+
+into the basin of the Volga River, and also continue scientific and planning work
+on the shifting of part of the waters of Siberian rivers into Central Asia and
+Kazakhstan. At the same time, provision is made for the implementation of necessary
+meaSures for the rational expenditure of water in agriculture, on improvement in
+the meliorated state of irrigated and drained lands, for increasing responsibility
+
+for their loss from the crop rotation cycle, for eliminating salinization and en-
+hanced acidity of soils.
+
+A number of significant studies have been carried Out on other, not so fundamental,
+but nevertheless very important aspects of the water problem. At the Limnological
+Institute, Siberian Department, USSR Academy of Sciences water balances have been
+determined for the Bratskoye and Ust'-Ilimskoye Reservoirs from the time of their
+formation, indicating a reduction in the inflow of water from Baykal during recent
+years. The "Principal Directions" called for the continuation of work on the pres-
+ervation and rational use of unique natural complexes, especially Baykal. He know
+that the threat to Daykal has by no means been removed, but on the contrary, is
+increasing. And the role of the Limnological Institute in the preservation of this
+unique coaplex from destructive anthropogenic effects is very great. At the Lake
+Science Institute, USSR Academy cf Sciences, specialists have obtained the
+
+51
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+characteristics of the ten largest lakes in the USSR and their anticipated natural
+resource changes up to the year 2000.
+
+Everything stated above indicates that at the institutes of the USSR Academy of
+Sciences and the Academies of Sciences of the union republics, at the USSR State
+
+Committee on Hydrometeorology and Environmental Monitoring, at colleges and in
+other departments there has been extensive development of scientific research work
+
+directed to the solution of problems outlined in the "Principal Directions."
+
+In the "Principal Directions" there is mention of the need for broadening the auto-
+mation of planning-design and scientific research work with the use of electronic
+computers; timely determination and modification of the direction of research and
+aevelopment; the organizational structure of scientific institutes in accordance
+with the requirements of the scientific and technical revolution. This is a very
+
+important indication. An inadmissible practice is when new directions at our in-
+stitutes can be formed and expanded only with an increase in personnel and out-
+
+dated themes for years continue to be developed by tradition and custom. The in-
+stitutes of the Department of Oceanology, Atmospheric Physics and Geography lust
+
+very responsibly discuss the "Principal Directions" and note the necessary meas-
+ures which each must take in its sphere of activity.
+COPYRIGHT: izdatel'stvo "Naukn", "Vestnik Akademii nauk SSSR", 1981
+
+5303
+C30: 1865/49
+
+52
+
+FOR OFFICIAL USE ONLY
+FOI‘OFFMJAI.USE(HVLY
+
+UDC 551.55+526
+
+COLLECTION OF PAPERS 0M MARINE METEOROLOCY
+
+Moscow TRUDY ZAPADNO-SIBIRSKOCO REGIONAL'NOGO NADCHNO-ISSLEDOVATEL'SKOCO INSTITUTA:
+MORSKAYA METEOROLOCIYA. VETROVOY I TEMPERATURNYY RBZHIM SEEL'POVYKH ZON MOREY SOVET-
+
+SKOCO SOYUZA in Russian No 50, 1981 (signed to press 10 Mar 81) pp 127-132
+
+[Abstracts of articles from collection "Transactions of the Nest Siberian Regional
+Scientific Research Institute: Marine Meteorology. Wind and Temperature Regine of
+Shelf Zones of Soviet Union Seas", edited by S. D. Koshinskiy, doctor of geograph-
+ical sciences, Moskovskoye otdeleniye Gidroneteoizdata. 430 copies, 132 pages]
+
+ABSTRACTS
+
+UDC SSI.501:551.582
+
+STATISTICAL ANALYSIS OF BARENTS SEA "IND REGIME OBTAINED BY DIFFERENT METHODS
+
+[Abstract of article by Zykova, G. 6.]
+
+[Text] A comparative analysis of the statistical characteristics of wind directions
+and velocities obtained on the basis of observations by ships in the opsn sea, at
+shore and island stations using a vane (with the Beaufort scale) and also by comput-
+ations for the surface atmospheric pressure field is presented. An evaluation of the
+
+errors is made when using series of observations of different duration. Tables 3,
+figures 2, references 11.
+
+BBC 551.553:551.582
+
+INDIRECT METHODS FOR COMPUTING LOU-PROBABILITY "IND VELOCITIES OVER SEA
+
+[Abstract of articIc by Zykova. C. 6.]
+
+[Text] 0n the basis of data from shipboard observations in the southern part of the
+Barents Sea it was possible to deter-ine the regional dependences between the stat-
+istical characteristics of the distribution of wind velocities, by means of which.
+
+using known methods. indirect computations are node of maximum wind velocities of
+different guaranteed probability over the sea. An evaluation of the errors in indir-
+
+ect computations of wind velocities is given. Tables 3, figures 2, references 6.
+
+53
+roe omcut use own
+FOR OFFICIAL USE ONLY
+
+UDC 551.55
+
+USE OF NORHAL DISTRIBUTION OF RANDOM VECTOR LAW IN CHARACTERIZING WIND REGIME ON
+SHELF USING WIND GRADIENT DATA
+
+[Abstract of article by Bot'yanov, V. Ye.)
+
+[Text] The article gives the results of evaluation of applicability of a normal cir-
+cular law for computing the standard deviations of wind velocities and their fre-
+quency 01 recurrence by directions on the basis of data on the regime of wind velo-
+cities and directions computed from the surface pressure fields. It is shown that
+there is an adequate consistency of the theoretical and empirical characteristics.
+An exception is the theoretical frequency of recurrence of directions, whose values,
+even with allowance for the ellipticity of the dispersion, can substantially differ
+
+from the actual values; the influence of the shore is evidently reflected to a strong
+degree. Tables 2, figures 3, references 8.
+
+UDC 551.553.8
+COMPUTATION OF MIND VELOCITIES WITH LOH GUARANTEED PROBABILITY
+
+[Abstract of article by Koshinskiy, S. D.]
+
+[Text] The article examines the problem of optimizing the computation of wind velo-
+cities which ocCur infrequently (possible once in a stipulated number of years) by
+
+indirect methods. For these purposes use is made of the mean annual wind velocity
+and the mean annual number of days with a storm wind, that is, with a velocity V;
+
+15 m/sec. An analysis is given of the reasons for the large errors allowed earlier
+in preparation for the publication of the SPRAVOCHNIK PO KLIHATU SSSR, CHAST' III.
+VETER (Handbook on USSR Climate, Part III. Hind). Approximate computations of V8
+and an evaluation of the reliability of such computations were made using observa-
+tional data for stations located on the shore and on islands of the Far Eastern
+
+seas of the Soviet Union. Such methodological studies are assuming particular value
+in connection with the work carried out by the Service on the "Shel'f" theme.
+Tables 2, figures 3. references 13.
+
+UDC 551.553.8
+
+COMPUTING WIN" VELOCITIES OF INFREQUENT FREQUENCY OF RECURRBNCE OVER OPEN PART OF
+SEA
+
+[Abstract of article by Koshinskiy, S. D.]
+
+[Text] A method is proposed for computing the extrema of wind velocities with a low
+guaranteed probability (possible once in a stipulated number of years) over the
+open part of the sen where there is virtually always a complete absence of any ob-
+servations. For this purpose it is recommended that use he made of the results of
+earlier computations of gradient wind velocities at the earth on the basis of the
+pressure field in accordance with the recommendations of the State Oceanographic
+
+FOI¢OFFNJA1.USE(NNLY
+FORiOFFKJAl.USE(NVLY
+
+institute prepared by S. V. theplinskiy in 1973. The proposed computation method
+was tested in the example of the Kara Sea. The results were entirely acceptable
+and objective. In this connection the author assumes that such computations can
+also be made over other areas of the internal and marginal seas of the Soviet
+Union. Tables 4, figures 2, references 10.
+
+UDC 551.51
+
+INDIRECT COMPUTATION OF CONTINUOUS DURATION OF STRONG WINDS OF DIFFERENT GUARANTEED
+PROBABILITY OVER KARA SEA WATERS
+
+[Abstract of article by Rudova, L. 8.]
+
+[Text] The maximum continuous duration of the effect of wind velocities of differ-
+ent probability cannot be computed directly over the waters of seas due to the ab-
+sence of information. An indirect procedure is proposed for computing this charac-
+teristic by the correlation analysis method. The resulting correlation dependence
+between the computed maximum continuous duration of the effect of great wind velo-
+
+cities and their guaranteed probability makes it possible to compute the extrema of
+the continuous duration on the shore and islands, as well as over the sea surface.
+Tables 7, figures 2, references 9.
+
+UDC 551.583
+STATISTICAL MODELS OF LOCAL CLIMATOLOGICAL FORECAST OF BREEZES
+
+[Abstract of article by Burman, E. A. and Stupina, P. Ya.]
+
+[Text] A study was made of the possibility of modeling conditions favorable for the
+development of breezes by means of statistical modeling of series of the amplitude
+of diurnal variation of air temperature with subsequent computation of the char-
+acteristics of "surges" for definite levels. The article gives a comparison of the
+characteristics of a time regime of breeze circulations obtained from modeled ser-
+ies and by means of direct samples. Tables 5, references 10.
+
+UDC 551.509.322
+
+PREDICTION OF WIND VELOCITY IN THE VOLGA DELTA
+
+[Abstract of article by Voznesenskaya. L. H.]
+
+[Text] Hind forecasting occupies a special place in the hydrometeorological support
+of the merchant marine and fishing industry. The basis for the proposed method is
+known dependences of wind velocity on different components. The article gives curves
+of the dependence of maximum wind velocity in the region of the Volga delta on mean
+velocity in the layer ground - 900 m, on the sign and intensity of temperature ad-
+vection in the layer ground - 850 mbar. Practical recommendations are given which
+can be used in preparing a short-range forecast of the wind and storm warnings for
+
+the Volga delta and the northwestern part of the Caspian Sea. Tables 1, figures
+2, references 7.
+
+55
+F0. OIIICJAI.IEIE(HNLY
+FEHICHHHCJAI.USE(NNLY
+
+UDC 551.51
+
+FLOODINC CONDITIONS IN THE NORTHWESTERN CASPIAN 10-13 NOVEMBER 1952
+[Abstract of article by Koshinskiy, S. D. and Ryzhkova (Kravets), L. H.]
+
+[Text] The authors give an analysis of the meteorological conditions for the setting-
+in of a severe southeasterly storm on 10-13 November 1952 in the Caspian Sea, this
+resulting in flooding in the northwestern part of the Caspian. On 12 November the
+
+sea water spread over a series of sectors of the land into the depths of the contin-
+ent for a distance of about 20-35 km. The article includes a map of the zone of lim-
+
+iting flooding. These materials are of great value in light of the work impending in
+the llth Five-Year Plan for study of the hydrometeorologicsl regime of the Caspian.
+Sea. Tables 5, figures 5.
+
+UDC 551.55
+CLINATIC PARAMETERS 0P WIND ENERGY ON THE SEASHORE
+
+[Abstract of article by Borisenko, H. H. and Sokolova. S. N.]
+
+[Text] A study was made of the climatic parameters of the wind used for evaluating
+its energy resources: velocity norms and annual amplitudes - in the example of the
+
+shore and sectors of the Black Sea adjacent to it. It is shown that on the coast
+the mean long-term velocities are 10-60% greater than on the adjacent sectors of
+the land. 0n the other hand, the amplitude of the annual variation of wind velocity
+on the shore is substantially less than in the depths of the land. The results ob-
+
+tained in this study can be used in evaluating the wind energy resources of sea
+areas. Tables 2, figures 1, references 8.
+
+UDC 551.582
+ERRORS IN ”IND VBLOCITIES READ FROM SURFACE SYNOPTIC CHARTS
+
+[Abstract of article by Kravchenko, I. K.]
+
+[Text] The author has evnlwnted the errors in wind velocities read from annular syn-
+optic maps. A comparison was made of more than 2,000 wind velocity values computed
+from maps with TH-l dnta for meteorological stations on the shores of the Gulf of
+Finland and the Gulf of Riga. It is shown that there are rather substantial differ-
+ences between the wind velocity values. In the case of low wind velocities it is
+easy to trace a tendency to an exaggeration of the velocities read from synoptic
+
+charts in comparison with the TH-l. and with high velocities. on the other hand,
+an understatement. The principal reason for the differences is the peculiarities
+
+of coding when plotting wind velocity on the map. Tables 1, figures 1.
+
+S6
+FOR‘0FFK]A1.USE¢NNLY
+FOIIDFFMJAI.USE(NUUY
+
+UDC 551.524.36(26S.5)
+MINIMUM AIR TEMPERATURES OVER SOVIET ARCTIC SEAS
+
+[Abstract of article by Petrov, L. 8.]
+
+[Text] Maps of the distribution of minimum temperatures over Soviet arctic seas are
+represented. The patterns of the regime of minimum temperatures for different time
+averaging scales are considered. A graphic form of representation of the generaliz-
+ing information on minimum temperatures is proposed on the basis of data for indi-
+vidual stations. Such schemes make it possible to give approximate evaluations of
+
+the regime of minimum temperatures at any point in the Arctic. Tables 2, figures 1.
+references 6.
+
+UDC 551.524
+
+RECOMMENDATIONS 0N COMPUTING THE CONTINUOUS DURATION OF PERIODS HIT“ AIR
+TEMPERATURE BELOW STIPULATED LIMITS USING "LON-LEVEL" AUTOMATION METHODS
+
+[Abstract of article by Luchitshaya, l. 0.]
+
+[Text] Due to the reoutfitting and replacement of electronic computers at the Nest
+Siberian Regional Computation Center, the introduction of programs for the computer
+processing of meteorological information on electronic computers in the years im-
+mediately ahead cannot be accomplished. Accordingly, a simplified method is propos-
+ed for determining the continuous duration of periods with an air temperature below
+(above) the stipulated limits with respect to the minimum, maximum and mean daily
+air temperatures. This method will make it possible to carry out computations using
+
+"low-level" automation methods and manually. It is adequately reliable and less
+time-consuming in comparison with the method based on use of the earlier proposed '
+
+empirical formula. Tables 3, figures 1, references 6.
+
+UDC 551.575.62
+
+SOME REGIME CHARACTERISTICS OF CONDITIONS FOR ICING 0F ABOVE-HATER FEATURES IN
+SHELF ZONE 0? ARCTIC SEAS
+
+[Abstract of article by Kolosovu, N. V. and Panov, V. V.]
+[Text] Maps of the empirical probability of sea breeze icing for October in the ex-
+ample of the Kara Sea are given. Data are given on the duration of cases of icing,
+
+thickness and mass of deposited ice from atmospheric icing according to observa-
+tions on a glaze wall at polar stations. Tables 4, figures 2, references 6.
+
+57
+FOI‘OFEIJAI.UEI¢NWLY
+FOI4OFFICIALIEIE(NNLY
+
+UDC 551.551.8
+FEATURES OF STRUCTURE OF ATMOSPHERIC NEAR-HATER LAYER IN NORTHERN SEAS
+[Abstract of article by Garbuzov, A. V.]
+
+[Text] 0n the basis of long-term data from shipboard observations the author exam-
+ines stratification conditions in the atmospheric near-Hater layer in northern
+sens. It is shown that it is necessary to take into account stratification condi-
+tions in the atmospheric near-water layer when computing exchange characteristics
+for different averaging periods. It is shownthat allowance forluludity stratifi-
+cation when computing exchange characteristics in northern seas is necessary only
+for small averaging periods. It was established that the relative variability of
+
+the parameters of the near-water layer of the atmosphere in the northern seas is
+close to the values obtained for the North Atlantic region. The author gives eval-
+
+uations of the errors in computing climatic values of heat flows when using in-
+formation on the mean values of meteorological elements governed by the variabil-
+ity of these elements. Tables 2, figures 4. references 11.
+
+UDC 551.577.2.(268.5)
+FREQUENCY OF RECURRENCE AND INTENSITY 0F PRECIPITATION IN SOVIET ARCTIC SEAS
+[Abstract of article by Bryazgin, N. ".1
+
+[Text] For the first time for arctic seas, on the basis of data from island and
+coastal stations and shipboard observations for 1936-1965, it was possible to con-
+struct maps of the frequency of recurrence of precipitation. For the poorly observ-
+ed areas of the seas. when constructing the mentioned maps, in addition to ship-
+board observations use was made of the empirical correlations of the probability of
+precipitation with meteorological elements. The computed values of precipitation
+intensity are cited. The annual variation and patterns of distribution of their fre-
+
+quency of recurrence are given. An evaluation of the accuracy of the constructed
+maps is given. Tables 5, figures 1, references 9.
+
+COPYRIGHT: Zapadno-sibirskiy regional‘nyy nauchno-iasledovatel‘skiy inatitut
+Goskomgidrometa, 1981
+
+5103
+C50: 1865/53
+
+58
+INDI10IFICJAJ.USI:(NNLY
+mamauusnoutv
+
+mmm. GEOPHYSICS
+
+unc 550.33
+COLLECTION 01" ARTICLES 0" APPLI- GEOPHYSICS
+
+Moscow PRIKIADNAYA GmPIZlKA in Russian No 100. 1981 (signed to press 16 Apr 81)
+pp 191-192
+
+[Abstracts of articles from collection "Applied Geophysics", responsible editor
+Ye. V. Karus, lzdatel'atvo "Nedra", 1690 copies, 192 pages]
+
+[Text] Abstracts
+
+unc 550.8%.5
+DIFFERENTIAL PARAMETERS OF SURFACE TRAVEL-TIME CURVES 01’ mm HAVES
+
+[Abstract of article by Levin, A. 11.]
+
+[Text] It is shown that the differential parameters of the travel-tine curve of re-
+flected waves are. interrelated to surface wave fronts and fictitious surfaces. 3:-
+pressions are derived for the curvatures of the surface travel-tine curve, fic-
+titious surface and surface of the front of a reflected wave. Figures 1, references
+5.
+
+1ch 550.836.05
+FETURBS 0P PROCESS!!!) OF EXCHANGE HAVE $3118le 3‘! THE D-MNSPOBNS METHOD
+[Abstract of article by Kondrat'yev, 0. K. and Orlov, V. P.)
+[Text] The article examines an algoritln for D-trnnsfornation of records of the :-
+conponents in the transmitted exchange waves nethod into the image of a deep sec-
+tion. It is shown that in the "reconstruction" of inhomogeneous nedie it is desir-
+
+able that an algoritl'n for the autonatic regulation of the all-nation base be in-
+troduced into the D—transforl procedure. Figures 6, references 5.
+
+59
+momentum“
+FOI:0§1HCJAI.[EIE(NVLY
+
+UDC 550.834.53
+
+INVESTIGATION OF HAVEGUIDE SURFACE WISE IN SEISMIC PROSPECTING BY THE COﬂDN DEEP
+POINT METHOD
+
+[Abstract of article by Gil'bershteyn, P. 6.. Pochtovik, V. S. and Kopilevich,
+Ye. A.]
+
+[Text] A study was made of the spectral and energy characteristics of PL interfer-
+ence waves in the case of different filtration parameters as a function of source-
+
+receiver distance and shot depth. 0n the basis of a study of the properties of P1
+interference it was possible to develop a method for its subtraction. Figures 4,
+tables 2, references 9.
+
+UDC 550.836
+ANALYSIS OF CONCEPTS ON EXTENT OF EFFECTIVE REFLECTION REGION
+
+[Abstract of article by lavalishin, B. R.]
+
+[Text] This is a discussion of the contradiction arising in estimation of the ex-
+tent of the effective reflection region in frequency and time representations. The
+author demonstrates the arbitrariness of defining the concept of "effective reflec-
+tion region" on the basis of allowance for the role of edge diffraction. The fre-
+cuency dependence of diffraction creates the impression that the extent of the ef-
+fective reflection region is also dependent on frequency. In actuality, this ex-
+Lent is not determined by frequency, but by the duration of the wave process. Fig-
+ures 4, references 8.
+
+UDC 550.834.S
+
+AUTOMATED SYSTEM FOR PROCESSING SPATIAL OBSERVATIONS BY THE CORDN DEEP POINT
+METHOD
+
+[Abstract of article by Staykov, P. P., Minkovskiy, Kh. 8., et s1.]
+
+[Text] The article cxaaines an automated system for the processing of spatial ob-
+servations in the common deep point method. The results of processing of field ob-
+servatlons make it possible to conclude that in the case of spatial observations
+there is an increase in the reliability of discrimination of reflected waves due to
+the collection of wave energy in space. The principal advantage of spatial process-
+
+ing is the possibility of obtaining data on the behavior of the reflecting boundary
+in space. Figures 5, references 6.
+
+UDC 550.834.04
+EVALUATING GROUND EFFECT TENN FOR SOURCE OF SEISMIC VIBRATIONS AT SURFACE
+
+[Abstract of article by Heyorov, V. V.]
+
+[Text] 0n the basis of a diagram relating deformation of the ground and stresses,
+
+it was possible to calculate the time t for introduction of the shock mechanism
+of a surface source into the ground. It is shown that t is determined by the
+
+60
+DO! OFIICIAI.IENZ(NVLY
+FOI‘OFFIJAL.U§E(NNLY
+
+momentum of the shock mechanism and reaction of the ground. Figures 1, tables 1,
+references 4.
+
+UDC 550.83.05:519
+
+USE OF GEOLOGICAL-cmPHYSICAL DATA FOR DELINEATING PETMLEIH DEPOSITS IN THE
+SALYHSKOYE DEPOSIT USING THE POISK PROGRAM
+
+[Abstract of article by Khomenyuk, Yu. V., Haksisov, A. B. and Guseva, V. 8.]
+
+[Text] The authors describe experience with the use of surface geological-geophys-
+ical data in delineating petroleum deposits in the argillites of the Bazhenovskaya
+suite of the Salynskoye deposit (Western Siberia) using the P018! program for the
+
+identification of images. The preliminary evaluation of the reliability of the
+forecasts is not less than 702. Figures 3, tables 1. references 5.
+
+UDC 550.837.81
+POSSIBILITY OF USE OF CONCEPTS OF QUANTUM PHYSICS IN INDUCED POLARIZATION THEORY
+
+[Abstract of article by Balsssnyan. 8. Yu. and Kobyl'skiy, V. A.]
+
+[Text] A study was made of the possibility of using the concepts of quantum physics
+in the theory of induced polarization. It is shown that in this case it is quite
+
+easy to explain such phenolena observed in actual practice in the induced polar-
+ization method as negative polsrizability and polarizability exceeding 1002. Fig-
+ures 3, references 12.
+
+unc 550.831.01
+DEPENDENCE OF DIFFERENTIATION 0P HASSES ON THE EARTH'S GRAVITATIONAL FIELD
+[Abstract of article by Veselov, K. Ye.]
+
+[Text] It is demonstrated that any lengthening of the terrestrial day. secular
+shortening of the terrestrial year, periodic and irregular changes in the length
+of day and sale geological phenomena can explain generation and change of mass. It
+
+is proposed that this effect be taken into account in computing the flight trajec-
+tories of space vehicles. Tables 1, references 14.
+
+UDC 550.831.017
+
+ITERATION-ANALYTICAL METHOD FOR SOLVING INVERSB PROBLEM OF GRAVIHAGNETIC
+EXPLORATION FOR VERTICAL, CYLINDRICAL AND STRATAL BODIES BY NONLINEAR OPTIMIZATION
+
+[Abstract of article by Lyubinov. A. A.. Abramov. A. N., D'yachkov, N. P. and
+Ivanov. S. N.]
+
+[Text] This paper gives an iteration-analytical solution of the inverse problem in
+gravimetric and magnetic prospecting in a class of vertical, cylindrical and strat-
+al bodies on the basis of the totality of the most informative points which is
+
+61
+EDITOFEKJAI.USE(NNLY
+FOR!OF1WC1Al.lEIE(NNLY
+
+obtained using an electronic computer by the trial-and-error method by minimizing
+a nonlinear functional. Tables 4. references a.
+
+DDC 550.831.017
+
+COMPUTATION OF REDUCED POTENTIAL FIELDS HITH A PHYSICAL SURFACE ON A HORIZONTAL
+PLANE IN THE NEIGHBORHOOD OF THE KURSK MAGNETIC ANOHALY
+
+[Abstract of article by Lyubimov, c. A. and Lyubimov, A. A.]
+
+[Text] A method is described for the reduction of magnetic and gravity observations
+with an arbitrary surface to a plane, which makes it possible to increase the ac-
+
+curacy 11 reduction and reduce the expenditures of computer time in computations of
+any class. Figures 3 tables 2, references 4.
+
+UDC 550.831.05:519
+RIMLIZM‘ION OP FULL GRADIENT METHOD UITIDUT SPECTRAL EXPANSION 0F INITIAL DATA
+
+[Abstract of article by Berezkin. V. N. and Otroshko, Ye. N.]
+
+[Text] The authors propose a computation scheme for the full gradient method withOut
+spectral expansion of the initial data by means of transforming a Fourier series
+
+into a contraction integral. A program for a BESM—G electronic computer is prepared
+on its basis. Figures 3, references a.
+
+"DC 550.831.016
+SEPARATION OF GRAVITY ANOHALIES PROM BODIES SITUATED ABOVE ONE ANOTHER
+
+[Abstract of article by Antonov. Yu. V.]
+
+[Text] A method is proposed for the separation of complex gravity anomalies for the
+case of two anomalous bodies situated one below the other. Numerical schemes are
+
+developed for determining local anomalies from the distribution of a complex anomaly
+on the observation profile. Figures 3, tables 3, references 6.
+
+UDC 550.831.017
+
+A’PROXIHATE METHOD FOR SULVING THE PLANE INVERSE PROBLEM IN STRUCTURAL GRAVIHETRY
+
+[Abstract of article by Pedorova, N. V.]
+
+[Text] An approximate method is examined for solution of the two—dimensional in-
+
+verse problem in potential theory for the purpose of determining discontinuities
+which is based on use of an approximation of the observed fields of a new class of
+
+potentials. An algorithm for constructing a family of equivalent discontinuities
+
+is described and is tested in model and practical examples. Figures 6, references
+7.
+
+62
+FOI‘OFFIJAI.USEGINLY
+I‘MICIHHIJAI.USE(I'LV
+
+UDC 550.831
+REDUCTION OF THE OBSERVED GRAVITY FIELD
+[Abstract of article by Hikhaylov. I. ".1
+
+[Text] In a theoretical example the author examines the problems involved in re-
+duction of the observed gravity field. The possibilities of reduction with the
+
+use of the apparent rock density values, determined fron the results of gravita-
+tional logging, are pointed out. Figures 2, references 5.
+
+"DC 550.831
+
+ERRORS IN TRIGONOHETRIC APPROXIMATIONS AND USE OF SHORTENED POURIER SERIES "HEN
+USING FILON METHOD
+
+[Abstract of article by Yeliseyeva, I. 8.]
+
+[Text] It has been established that the degree of nonequal accuracy in computing
+the coefficients of a Fourier series by the Filon nethod is dependent on the number
+
+of reading points at which the initial function is stipulated. It is proposed that
+the optimum length of a series be determined in the case of shortened approxima-
+tions on the basis of finding of the limiting expansion errors. figures 2, refer-
+ences 3.
+
+COPYRIGHT: Izdatel'stvo "Redra", 1981
+
+5303
+030: 1865/13
+
+63
+BOI‘OFIICJAI.USE¢MNLY
+FOI‘OFFMJAI.USE(NNLY
+
+COLLECTION 017 ARTICLES 0N DYNAMIC THEORY OF SEISHIC WAVE PROPAGATION
+
+Leningrad VOPROSY DINAHICNBSKOY TEORII RASPROSTRANENIYA SEYSHICHESKIKH VOLN
+in Russian No 21. 1981 (signed to press 5 Aug 81) pp 195-196
+
+[Abstracts from collection of articles "Problems in the Dynamic Theory of Seismic
+Have Propagation", edited by G. I. Petrashen', Leningradskoye otdeleniya, Isdatel'stvo
+"Nauka", 1150 copies, 196 pages]
+
+[Text I ABSTRACTS
+
+UDC 550.364
+RAY METHOD AND POLARIZATION OF SEISMIC BODY WAVES
+[Abstract of article by Petrashen', G. 1.]
+
+[Text] The author introduces the concept of a natural base ek(t ) of a ray system
+
+of coordinates constructed at points (smooth segments) of a ray defining constant
+directions of polarization of longitudinal and transverse waves during their propa-
+gation in isotropic inhomogeneous media. 0n the basis of such a concept the article
+sets forth the formalism of the ray method in the mentioned media and this formalism
+is compared with the formalism of the ray method in cases of anisotropy of the
+medium. As a result it is clarified that with a tendency of the parameters of aniso-
+tropy to zero the directions of the polarization of quasilongitudinal and quasi-
+:ransverse waves at each point, on the (limiting) ray tend to the specific direction
+
+of some natural base. A simple algorithm is given for constructing the base ek(-r)
+simultaneously with construction of the ray. References 6.
+
+UDC 550.3b6
+
+SOME PROBLEMS IN STUDYING SEISMIC HAVE FIELDS ON THE BASIS OF rmz-cmm
+OBSERVATIONS
+
+[Abstract of article by Knshtan, B. H., Kovtun, A. L. and Petrashen', G. 1.]
+[Text] General information is given on the propagation of body waves in inhomogen-
+
+eous seismic media close to real media and on its basis there is clarification of
+
+the problem of approach to a description of the polarization of seismic oscilla-
+tions arising when waves of different types are superposed. The results are applied
+
+66
+
+F0l10FFKJAl.USE(NNLY
+to the problem of discriminating useful waves (and determination of their parameters)
+on the basis of computer processing of material from three-component registry of
+wave fields under seismic prospecting conditions. Figures 7, references 19.
+
+UDC 550. 344
+
+INVESTIGATION OF DISPERSION EQUATION ROOTS IN CASE OF PACKET 0F TRANSVERSELY
+ISO’I‘ROPIC ELASTIC LAYERS
+
+[Abstract of article by Molotkov, L. A. and Baymagambetov, 0.]
+
+[Text] Analytical methods are used in investigating the roots of a dispersion equa-
+tion for a packet of transversally isotropic elastic layers with free outer boun-
+daries. In the investigation use is made of matrix representations of dispersion
+equations. 0n the basis of asymptotic expressions for the left-hand sides of the
+equations it was possible to derive approximate formulas for the roots for small and
+large wave numbers. These results make it fully possible to trace the movement of
+
+the roots with an increase in wave nunbers and to clarify the nature of the change
+in phase velocities of normal waves as a function of frequency. References 8.
+
+UDC 550.344
+HEAD WAVE RADIATED BY A THIN ELASTIC LAYER
+
+[Abstract of article by Holotkov, L. A. and Smirnova, ﬂ. 8.]
+
+[Text] The low-frequency head wave from an e1 astic layer in a fluid is related to
+the longitudinal-lamellar wave in a . elastic layer. If the elastic layer is in rigid
+
+contact with the surrounding elastic medium, a longitudinal-lamelIar vave cannot
+propagate in such a system. However, as indicated by an analysis of the correspond-
+
+ing dispersion equation, at some low frequencies a highly attenuating head wave
+is also possible. Figures 3. references 6.
+
+UDC 536.213Jo. 550.934.013
+THEORETICAL-EXPERIMENTAL INVESTIGATION OF WAVES GLANCING ALONG A CONCAVB BOUNDARY
+
+[Abstract of article by Kraukl is, P. V., Koptev, V. I.. Krauklis, 1.. A. and Yakubov,
+V. A.]
+
+[Text] The article gives a comparison of asymptotic and precise solutions of the
+problem of waves glancing along the concave boundary of an elastic medium. Theoret-
+icnl seismograms are compared with experimental data in the case of a wave on the
+circular boundary of a plane model. There is a good agreement between the observed
+and theoretical travel-tine curves and amplitude curves. Figures 6. references 5.
+
+65
+
+POI! OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+UDC 550.836
+
+DEPENDENCE OF INITIAL PARTS OF SEISHOGRAHS 0? REMOTE EARTHQUAKBS 0N PARAMETERS
+0F THREE-LAYER MODEL OF EARTH'S CRUST
+
+[Abstract of article by Gal'perina. R. H., Ledovskaya, Ye. M. and Volin, A. P.]
+
+[Text] The article presents an extremely effective method for computing the initial
+parts of full theoretical seismograms of remote earthquakes under the "Krat-3" and
+
+"Krat-S" programs. The authors discuss new possibilities afforded by the programs in
+the interpretation of seismic observations. 0n the basis of the results of computa-
+tion of the theoretical seismograms under the "Krat—3" program it is possible to an-
+alyze the dependence of the structure of the initial parts of the seismograms on the
+
+parameters of the three-layer aodel of the earth's crust. Figures 7, tables 2, ref-
+erences 7.
+
+BBC 550.834
+
+SPATIAL MODEL OF ANOHALOUS UPPER HANTLE ZONE IN ALTAY AND SAYAN REGION AS A RRSULT
+0F SEISMIC PROBING
+
+[Abstract of article by Matveyeva, N. N., Rogozhina, V. A. and Antonova, L. IL]
+
+[Text] 0n the basis of data on earthquakes registered along the profile Pamirs-Lens
+River it was possible to study a zone of reduced velocity in the upper mantle. With
+deviations At in the travel time of seismic waves from the standard Jeffreys-Bullen
+travel-time curve it was possible to ascertain the spatial position of the zone and
+the velocities within it. In this procedure only At) 2.0 see are taken into ac-
+count. A theoretical probing of the zone is carried out. The travel times of waves
+in a three-dimensional medium are computed for different sources. It was found that
+the zone extends for approximately 2,000 km and plunges in a NIB-SH direction. The
+minimum depths are 150-200 and the maximum depths are 750-800 km; the propagation
+velocity of longitudinal waves on the average decreased by 0.5-0.8 [cm/sec. Figures
+7, tables 2, references 18.
+
+000 550.8365
+
+FEATURES OF THE HAVE FIELD FOR TRANSFORHBD FAULT ZONE IN CASE OF m—nmsxom
+MODEL OF MEDIUM
+
+[Abstract of article by Tsymbal. T. H., Neprochnov, Yu. P. and Antonova, L. N.]
+
+[Text] A study was made of the kinematic and dynamic features of the wave field in
+a three-dimensional model of a transformed fault having a curvilinear bottom (fault
+canyon). It is shown that the curvilinear bottom, focusing the energy of the re-
+fracted and reflected waves, exerts a substantial influence on the wave pattern. For
+the purpose of refining the nature of some observed waves the authors compared
+theoretical computations with experimental data. Figures 8, tables 1, references 3.
+
+66
+
+FOR OFFICIAL IBE ONLY
+POI OFFICIAL USE ONLY
+
+UDC 550.834
+
+EVALUATION OF EFFECTIVENESS OF MN DEEP POINI' OBSERVATION SYSTDIS AND CHOICE OF
+OPTIMUM FIELD WRK METHOD 0N BASIS OF EFFECTIVE SEISHIC IDDEL METHOD
+
+[Abstract of article by Kurbanov, R. K. and Hametov, K. 11.]
+
+[Text] An interpretation system is proposed which makes it possible to evaluate the
+effectiveness of accumulation.systems in the common deep point method, to ascertain
+the optimum spacing of shot points and the optimum length of the travel-time curve.
+In the example of the Middle Syr-Dar'ya Depression of Southern Kazakhstan a study v
+is made of all stages in investigations by the proposed method and the optimum
+field work method by the common deep point method is defined. Figures 6, tables 1,
+references 8.
+
+UDC 550.834.05
+
+EXPERIENCE IN USING THE DYNAMIC CHARACTERISTICS OF REFLEC'I‘H) WAVES IN SELECTING
+CHARGE SIZE
+
+[Abstract of article by Pershina, R. A., Kosarev, V. K., Loginov, V. T. and Hakokin,
+V. 1.]
+
+[Text] It is demonstrated experimentally that using the dependence of the effective
+absorption coefficient on the frequency characteristics of seismic waves it is pos-
+
+sible to exert an influence on the structure of the observed field. In particular,
+within the limits of the Moscow syneclise in this way it is possible to achieve a
+
+relative attenuation of the most intensive group of multiple reflected waves with
+three reflection events, one of which occurs in the near-surface part of the sec-
+
+tion. The attenuation of the mentioned group of waves causes a change in the dynamic
+characteristics of the registered field of reflected waves. Figures 3, references 3.
+
+UDC 550.834
+SEISNOGRAH TRANSFORMATION HIT" USE OF CHANGE IN TIME SCALE 0F PATHS
+[Abstract of article by Latyshev, K. P. and 02erov, D. K.)
+[Text] A procedure is proposed for seismogram transformation which involves the lin-
+ear extension and compression of the paths along the time axis. It is shown that
+
+this procedure considerably reduces the sharply changing part of the wave form and
+this can be used in separating oscillations. Figures 8, references 1.
+
+UDC 550.834
+CONVERGENCE OF AN ITERATION ALGORITHM FOR SEPARATING INTERFERING SEISMIC WAVES
+
+[Abstract of article by Troyan, V. N.]
+
+[Text] The convergence of the iteration procedure for finding evaluations of para-
+eeters of interfering seismic waves is demonstrated for the special (but of
+
+67
+INDI‘OIIICIAI.IISIIIHVLY
+FOR OFFICIAL USE ONLY
+
+practical interest) case of separation of two waves. The author examines two vari-
+ants of stipulation of signal shape: the shape is known with an accuracy to the am-
+plitude factor: the shape is unknown but the effective duration of the signal is
+
+stipulated. Formulas are derived for the residual tern. These can be used for prac-
+
+tical evaluations of the accuracy of the n-th approximation and mint. probability
+evaluations. References 2.
+
+COPYRIGHT: Izdatel'stvo "Nauka", 1981
+
+5303
+C80: 1 865/38
+
+68
+
+MOFFICIALUSEONLY
+FEIIGDFFICIAI.IISEZ(MVLY
+
+PHYSICS 01' AMSP‘IKRE
+
+UDC 551.593+551.510.536
+COLLECTION OF PAPERS 0N ATMOSPHERIC OPTICS
+
+Moscow TRUDY [NSTITUTA EKSPERIHENTAL'NOY HETEDRDLOGII: OPTIKA ATHDSFERY in Russian
+No 10, 1981 (signed to press 28 Jan 81) pp 103-105
+
+[Abstracts of articles from collection "Transactions of the Institute of Experimen-
+tal Meteorology: Atmuspheric Optics", edited by V. N. Lebednite, doctor of physic-
+al and mathematical sciences, Moskovskoye otdeleniye Gidroneteoisdata, 430 copies.
+105 pages]
+
+[Text] ABSTRACTS
+
+UDC 535.345.67
+APPARATUS FOR PABRICATIPG HEDGE INTERFERENCE FILTERS
+
+[Abstract of article by Vasil'yev, A. S. and Davletshina, R. A.]
+
+[Text] Apparatus is described which makes it possible to employ the UVR-7lP-3 stan-
+dard—produced vacuun apparatus for the fabrication of wedge interference filters of
+an annular shape. The article gives the spectral characteristics of s netsllodielee-
+tric wedge filter in the spectral region 380-680 nn, fabricated using such apparatus.
+Tables 1, figures 2, references A.
+
+UDC 53S.216.6
+POSSIBLE ERRORS IN RADIOHETRIC APPARATUS
+
+[Abstract of article by Allenov, H. 1., Hanonova, I. G. and Tret'yakov, N. 0.]
+
+[Text] The article gives the results of computations of the errors in rsdionetric
+apparatus for different spectral intervals of radiant energy detectors Pbs, PbTe,
+InSb, different interference filters with A.- 0.06, 0.54, 1.56, 2.06’sn and with
+a background level outside the transmission band 10’3 and 10" relative to trans-
+
+mission at the maxi-um for different tenperatures T of the radiation source (from
+273 to 6000'K). Tables 3, figures 1, references 2.
+
+69
+FOI‘OFFKJAI.USECNMUY
+INJITOFTWC1A1.l!ﬂE(HVLY
+
+UDC 535.853.225
+SPECTROMETER FOR LON-ENERGY ELECTRONS
+
+[Abstract of article by Kal'sin, A. V., Klimentov, A. H. and Hikheyev, Yu. P.]
+
+[Text] The authors describe an electron spectrometer intended for investigations
+aboard geophysical rockets for determining the intensities of electron fluxes,
+their angular and energy distributions in the energy range 5-70 eV. The instrument
+field of view is 10 x 20°, energy resolution is 51. the geometry factor is 4'10'3
+cmzsr, the spectral scanning period is 1 sec. The spectrometer electronics system
+was developed on a modern component base. Figures 5, references 8.
+
+BBC 550.380
+
+DETERMINING ANGLES 0F ORIENTATION 0F RAPIDLY ROTATING GEOPHYSICAL ROCKETS BY MEANS
+0? SOLAR AND MAGNETIC SENSORS
+
+[Abstract of article by Kal'sin, A. V. and Hikheyev. Yu. P.]
+
+[Text] A method is given for determining the orientation of a rapidly moving geo-
+physical rocket relative to the vector of strength of the geomagnetic field and
+the direction to the sun, developed for a case when there is regular nutation of
+
+the longitudinal axis of the rocket. A method was developed for in-flight calibra-
+tion of magnetic field sensors. Figures 1, references 6.
+
+UDC 535.241.626
+ENERGY CALIBRATION OF A SPECTROMETER FOR OBSERVING TWILIGHT SKY EMISSION
+[Abstract of article by Gusev, S. V. and Tereb, N. V.]
+[Text] A method and apparatus are described for carrying out energy calibration of
+
+a spectrometer complex. The apparatus is an outfit in which the standard radiation
+source used is an 818-200 U light-measuring lamp. HB-lé milk glass is used for fill-
+
+ing the field of view. The computation error in energy calibration is 10-16:. Tables
+3, references 5.
+
+unc 551.593.65
+STUDY OF BRICHTNESS FLUCTUATIONS 0F STRATOCUHDLUS CLOUDS
+
+[Abstract of article by Allenov, H. 1., Bulgakov, V. 6., Ivanova. N. I. and Tret'ye-
+kov, N. 0.]
+
+[Text] The authors analyze the results of investigation of the stochastic structure
+of brightness fluctuations of stratocumulus clouds simultaneously in the spectral
+
+intervals 1.50-1.80, zoo-2.32, 1.60—286 and 2.60-286pbm. Also given are the moments
+
+70
+FOR OIIWCIAI.USEIDNLY
+FOR1OFFKJAI.USE(NNEY
+
+and differential distribution functions, autocorrelation functions and spectral
+densities for all four channels. Tables 2, figures 2, references 6.
+
+HBO 551.576.12
+STATISTICAL STRUCTURE OF EFFECTIVE TRICKNBSSES 0P FIELD OF CUHMLUS CLOUDS
+
+[Abstract of article by Allenov, H. I. and Bulgakov, V. 6.]
+
+[Text] A study was made of the statistical structure of effective thicknesses of the
+field of cumulus clouds. The field is simulated on a Yes-1050 electronic computer by
+
+the Monte Carlo method. The authors give the moments and differential distribution
+functions of effective thicknesses for different zenith angles and absolute scale
+units. Tables 1, figures 2, references 9.
+
+UDC 551.510.535.001.57
+FORMATION OF STABLE LAYERS 0F METAL IONS IN THE UPPER ATMOSPHERE
+[Abstract of article by Tereb, N. V.]
+
+[Text] The author carried out numerical modeling of the process of transport of
+uetal ions at altitudes 85-119 km under the influence of tidal components and the
+prevailing wind. It is shown that the tidal components cannot be responsible for
+
+the formation of stable layers of ions of metals at altitudes 90-95 km. Tables 1,
+references I
+
+UDC 551.510.536
+MEASUREMENTS 0? Ca II EMISSION IN KIRGIZIYA
+
+[Abstract of article by Tereb, N. V.]
+
+[Text] Measurements of the emission of ionized calcium, carried out in 1977-1979 in
+Kirgiziya, indicate that as a rule the intensity of the emission does not exceed
+the threshold of response of t e apparatus. but sometimes a:tains extremely high
+values corresponding to 1.5.10 ions/cs2 of the total content of calcium ions; the
+days when the emissions were observed (only 11 cases of the appearance of the Ca II
+emission were registered in 2&3 neasurements) do not coincide with the periods of
+the most powerful meteor streams; the probability of the appearance of a powerful
+emission in evening is greater than in the morning. Figures 3, references 9.
+
+UDC 551.521.17
+
+INFLUENCE OF A SERIES OF FACTORS ON THE LEVEL OF SOLAR UV RADIATION SCATTERED BY THE
+OZONOSPNERE
+
+[Abstract or article by Barysheva, V. I. and Troyanov, N. H.]
+
+[Text] This is a discussion of the problems involved in numerical nodeling of the
+process of transfer of solar UV radiation in the atmosphere. The article gives quan-
+titative estimates of the influence of different factors on the level of scattered
+
+71
+FOR OFFICJAI.IEHB(NNLY
+FOIIOFFKJAI.USE(NNLY
+
+radiation. Allowance for single scattering alone leads to an underevaluation of
+
+the intensity of scattered radiation to~401. Comparable to the influence of mul-
+tiple scattering processes on the level of scattered radiation is the influence
+
+of the temperature dependence of the ozone absorption coefficient, which attains
+122 under some conditions of atmospheric illumination and wavelengths. Measures
+
+are proposed for optimizing the selected model of the atmosphere from the point of
+view of the reliability of reconstructing the characteristics of the ozonosphere on
+the basis of scattered radiation from artificial earth satellites. Tables 3, fig-
+ures 1, references 19.
+
+UDC 551.510.5
+EXPERIMENTAL INVESTIGATIONS 0P ATMOSPHERIC CARBON DIOXIDE (REVIEW)
+
+[Abstract of article by Kamenogradskiy. N. Ye. and Shashkov, A. A.]
+
+[Text] This is a review of the principal results of experimental investigations of
+the atmospheric carbon dioxide concentration. The author describes modern measure-
+ment apparatus (nondispersion IR optical-acoustical gas analyzer) and the measure-
+ment method. Also discussed are the prospects for further development of experimen-
+tal methods for studying atmospheric c02 associated with the use of the spectro-
+scopic method for the mean C02 concentration in a column of the atmosphere weighted
+by altitude. Figures 10, references 75.
+
+000 551.593.5
+
+MOLECULAR ABSORPTION or mom-mu IN THE wmnow or mum moospmrc mmsmnm
+3.5-4.1.) m (REVIEW)
+
+[Abstract of article by Aref'yev, V. N. and Visheratin. K. N.]
+
+[Text] This is a review of the principal publications of recent years on the molec-
+ular uhsurptlnn of IR radiation in the window of relative atmospheric transparency
+3.5-ﬁ.lrxm. Tables A. figures 3, references 66.
+
+COPYRIGNT: Institut eksperimental'noy meteorologii (IBM), 1981
+
+5303
+C50: 1865/52
+
+72
+FOI‘OFIICJAI.IEIE(NVLV
+F0!‘0FFKJAI.USB(HVLY
+
+UDC 550.388
+MONOGRAPH ON GEOPHYSICAL PARAMETERS 0P IONOSPHERB
+
+Alma-Ara GEOPIZICHESKIYE PARAMETRY IONOSPERY in Russian 1979 (signed to press
+10 Jul 79) pp 2, 116
+
+[Annotation and table of contents from monograph "Geophysical Parameters of the
+lonospherc". by Marlyn Pctrovna Rudina and Nina Fedorovna Solonitayna, lsdatel'stvo
+"Nnukn" Kazakhskoy SSR. 1000 cOpies, 117 pages]
+
+[Text] In this monograph the authors examine the state of the ionosphere on the
+basis of data from the world network of stations over a long period of observa-
+tions. It is shown that at latitudes 35—45' the state of the upper atmosphere,
+determined by a series of geophysical parameters. has features not fitting into
+known theories. A hypothesis is advanced that at these latitudes. with a special
+state of the interplanetary aagnetic field, an effect is exerted by corpuscular
+streams and that long—period fluctuations of the solar system are transmitted
+
+to the earth's atmosphere through the interplanetary magnetic field. Thus. the
+discovered features make necessary a new approach to formulation of a theory of
+the formation and behavior of the upper atmosphere and diagnosis. Computations,
+graphs and tables are cited which are necessary in preparing short- and long-
+range forecasts of radio wave propagation. The book is of interest for special-
+ists concerned with the problems of solar-terrestrial physics and geophysicists,
+graduate students and students at the corresponding colleges. Figures 33. tables
+16, references 137.
+
+Contents
+lntrmluctlnn.......................-...onou.n..u............o................. 3
+
+Part 1. Quiet State of Ionosphere
+
+Chapter 1. Spatial-Temporal Changes in lonospheric Parameters................... 6
+Morphology of Anomalies of Geophysical Parameters in Ionosphsric P—Region...... 7
+
+Chapter 2. Investigation of Main Features of the Ionospheric F-Region (Ionization
+and Recombination Processes and Temperature Regime)............................ 15
+"idday ionization of F2 region....n.........u...”..noo............coouu.o 15
+Correlation dependences of ionospheric and solar parameters.........r.......... 26
+Evaluation of lon'zﬂt lon-roromblnation conditions-soosseoeeassesses-ossesossees 29
+Temperature regime of ionospheric F region..................................... 48
+
+73
+HOI<OUIICIAI.!IIEIIUL¥
+IN)R‘0FF1C]AI.IEIE(HNLY
+
+Chapter 3. Motion of neutral and charged components of thermosphere............ 52
+Motion of neutral atmosphere. Determination of velocity of horizontal wind at
+
+altitudes 180-400 km ooooooo o-oooolc0.0.0.000000000000COCO-Oooloooooooooooooo 52
+Motion of charged component. Vertical drift of ionization..................... 65
+
+Part 11. Disturbed State of Ionosphere
+
+Chapter 4. Ionospheric F-Region During Disturbed Periods....................... 70
+Diurnal and seasonal distribution of disturbances............................. 73
+27-day and cyclic frequency of recurrence of disturbances..................... 77
+Temporal and spatial correlation £‘F2........................................ 79
+Correlation of disturbed state of F-region with solar flares........-......... 83
+
+Effects in Ionosphere after disturbances caused by solar flares.............. 100
+Intluence of movements and corpuscular streams on distribution of electron
+
+concentration.............................................................. 103
+
+Bibliography................................................................... 109
+
+COPYRIGHT: lzdutel'xtvo "Nuuka" Kaznkhskoy SSR, 1979
+
+5303
+CSO: 1865/55
+
+74
+
+liliCHﬂﬂCJAl.lﬂﬂB(ﬂILY
+roe omcm. use ONLY
+
+ARTIC AND ANTARCTIC RESEARCH
+
+UDC 550.83(99)
+COLLECTION 0? ARTICLES 0N GEOPHYSICAL RESEARCH IN ANTARCTICA
+
+Leningrad CBOFIZICHESKIYB ISSLEDOVANIYA V ANTARKIIDB in Russian 1980 (signed to
+press 31 Dec 80) pp 2-3
+
+[Annotation and table of contents from collection of articles "Geophysical Research
+in Antarctica". edited by H. G. Terekhanova, Nanchno-issledovatel'ekiy institut geo-
+logii Arktiki (NIICA), 295 copies, 75+ pages]
+
+[Text] Annotation. This collection of articles gives the principal results of
+Soviet geological-geophysical research in Antarctica carried out during 1970-1980.
+The articles examine the deep structure of the two largest rift zones -- the Pilch-
+ner Ice Shelf in Hestern Antarctica and Lambert Glacier in Eastern Antarctica. The
+leading role of riftogenic processes in the formation of extensive periconrinentsl
+sedimentation basins is demonstrated. The high effectiveness of the airborne mag-
+netoneter method under Antarctic conditions is denonetrated for detecting struc-
+tures in the basement and determining its paleotectonic nature. Brief communica-
+tions discuss methodological problems involved in carrying out seismic soundings by
+
+the reflected waves method and the use of radiogeodetic systems for the tie-in of
+aerogeophysical surveys.
+Contents
+
+Gaponenko, G. I. and Grikurov, G. V. ”Principal Scientifie-Methodological Re-
+sults of Soviet Geophysical Investigations in Antarctica in 1970-1980” 5
+
+Masolov, V. N. "Structure of the Magnetically Active Basenent of the Southeast-
+ern Part of the Weddell Sea Basin" 14
+
+Grikulov, G. V., Kadmina, I. N., Ksnenev, Ye. N., Kurinin, R. 6., Haeolov, V. N.
+and Shulyatin, 0. G. "Tectonic Structure of the Weddell Sea Basin" 29
+
+Kadmina, I. N. "Structure of the Magnetically Active Layer of the Earth's
+Crust in the Neighborhood of Lambert Glacier" 44
+
+Volnukhin, V. S. and Kurinin. R. 0. "Physical Properties of Rocks in the
+Neighborhood of Lanbert Glacier" 52
+
+Brief Communications
+
+Kogan, A. L. "Methodological Problens in Seismic Sounding by the Reflected Haves
+Method Under Antarctic Conditions" 59
+
+75
+
+FOR‘OFFHJA1.USE(HNLY
+NR OFFICIAL USE ONLY
+
+Pozdeycv, V. 3. "Velocity Parameters of the Ice Layer According to Data From
+Seismic Inveatigations :37 the Reflected Haves Method" 62
+
+Bochkovakiy, L. H. and Khnelevakiy, V. A. "Doppler Navigation Systens and Pos-
+sibilities of Their Use for Horizontal Tie-In of Regional Geophysical Investi-
+gations" 68
+
+Bochkovskiy, L. H. "Use of the 'Poiak' Radiogeodetic System for Coordinating
+Geophysical Surveys in Antarctica" 75
+
+COPYRIGHT: Nauchno-iaaledovatel'skiy institut geologii Arktild. (NIIGA), 1980
+
+5303
+cso: 1865/42
+
+76
+
+FOR OFFICIAL USE ONLY

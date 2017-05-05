@@ -1,0 +1,3614 @@
+FOR OFFICIAL USE ONLY
+
+JPRS L/10454
+
+13 April 1982
+
+USSR Report
+
+PHYSICS AND MATHEMATICS
+(FOUO 3/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OFFICIAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers, periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and material enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. where no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the u.s. Government.
+
+COPYRIGHT LAHS AND REGULATIONS GOVERNING OWNERSHIP 0?_
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+PHYSICS AND MATHEMATICS
+
+(P000 3/82)
+CONTENTS
+
+HIGH PRESSURE PHYSICS
+Present State of nigh-Pressure Physics .......................
+LASERS AND MASERS
+
+Promising Designs and Punping Methods for Powerful C02
+Process Lasers (Survey) ....................................
+
+Change in Relaxation Rate of Upper Laser Level With Prolonged
+Operation of Cu Electron-Beam-Controlled 002 Process Laser..
+
+OPTICS AND SPECTROSCOPY
+Holographic Neasurenents .....................................
+
+Feasibility of Controlling Gain of Bnthalpy-Stinulated
+Light Scattering ......u....................................
+
+Conversion of Optical Radiation Spatial Spectru- in Parametric
+
+Processes ..................................................
+HIGH PRESSURE P818108
+
+000 53.092
+
+PRESENT STATE OF RICE-PRESSURE PHYSICS
+Moscow VESTNIK AKADEMII NAUK $583 in Russian No 9, Sep 81 pp 52-63
+(Article by S. H. Stishov, doctor of physical-mathematical sciences]
+
+[Text] Having arisen at the and of the 18th Century and the beginning of the 19th
+Century, high-pressure physics as a fully defined field of scientific research was
+finally formulated in the first third of our century. An outstanding role in this
+was played by P. V. Bridgman. Evidently, it was he who first introduced the term
+"High-pressure physics“ publishing a book with this title in l931,* in which he
+stated the results of his experimental research.
+
+But neither P. Bridgman nor anyone else defined what would later be understood by
+high-pressure physics. Clearly, that of R. Feynman must be considered one of the
+best; it says, in essence: high-pressure physics is everything that physicists do
+with the help of equipment for creating high pressures. Actually, pressure up to
+many millions of atmospheres does not change the properties of substances. One can-
+not point to a single effect or phenomenon observed at around 1 million atmosphcres
+that could not be observed in some form at atmospheric pressure (this means, first
+of all, phase transitions, electronic transitions. metallization, etc.). Thus, in
+experimentally achieved ranges of pressures, there is an absence of effects that
+are unique for compressed matter. In this connection, the situation in high-pressure
+physics in some sense is opposite to the situation in lowbtemperature physics,
+where the unique effects of quantum degeneration, auperfluidity, superconductivity,
+and so forth are observed. However, it would be incorrect not to note that in the
+presence of very high pressures exceeding hundreds and thousands of atmospheres,
+
+we will find unusual riches of physical phenomena, including full ionization of
+matter. nuclear disintegration and nuclear reaction,neutronizatknof matter, super-
+conductivity, and superfluidity in proton and neutron systems** (unfortunately, all
+this is unachievable directly by experimental study and conclusions can be only on
+the basis of astrophysical data). Thus, experimental high-pressure physics is
+nothing other than the "plain" continuation of the physics of atmospheric pressure
+in a new dimension, where the possibilities for experimentation are substantially
+increased and where the volume of information is vastly growing.
+
+* For Russian translation. see P. V. Bridgman. "Fisika vysokikh davleniy” [High-
+Pressure Physical, ONTI, 1935.
+
+** See D. A. Kirshnits. "Uspekhi fix. nauk" [Advances in Physical Sciences], 1971,
+vol. 105, p. 489.
+
+1
+FKHICNHWC1A1.1EHE(NULY
+l-‘OR OFFICIAL USE ONLY
+
+a few words must be said about pressure as a physical parameter. First, let us
+stress that the numerical significance of pressure, however large, says nothing
+about its effect on matter. The degree of such effect, obviously, must be con-
+sidered the ratio of the work of compression which is determined by the integral
+dev to the size of the thermodynamic potential of the system P-O. Thus, the effect
+of pressure on matter is closely related to the response of the system to the applied
+effect, in the given instance, to compressibility. Because of this, a pressure of
+
+a million atmospheres turns out to have much less effect on less compressible matter
+(such as iron, for example) than several thousand atmospheres on extremely compress-
+ible matter such as helium. Hence comes the rule: in research on any phenomena,
+select objects that possess the highest degree of compressibility, other conditions
+being equal. This provides the possibility for investigating a phenomenon over a
+broad range of densities under relatively low pressures, and this is significant for
+conducting precision measurements.
+
+The need for achieving very high pressures usually arises in the solution of
+specific scientific or applied problems. However, it is obvious that it is these
+specific problems that stimulate development of the technology and methods for high-
+pressures. A vivid example is the many year history of attempts to synthesize
+diamonds, which was brilliantly accomplished in 1955. As the result, diamonds and
+borazon (cubic nitride of boron) were synthesized, and high-pressure equipment was
+created that permits achieving pressures of about 100,000 atm in combination with
+temperature of up to 2000°C and higher. In turn, the new technology quickly found
+application in physics, chemistry, and technology. Especially striking results
+
+were achieved in geophysics in research on olivine-spinel transformation and poly-
+morphism of silica. These results lie at the base of modern understanding of the
+structure and composition of layers of the earth. It must be noted that the aspira-
+tion to solve the puzzle of the earth's core is obviously one of the powerful incen-
+tives that will determine the development of high-pressure technology in the near
+future (the pressure at the earth's center is around A million atm).
+
+CREATION OF HIGH PRESSURES
+
+As follows from the equation of state m(P,V,T)'0, to create increased pressure,
+it is necessary in a corresponding manner to change the volume or temperature of the
+substance. Both means are used in practice.
+
+Thermal means for creating pressure are fully effective for gasses. Multistage
+designs for gas thermal compressors are well known for creating pressures up to
+10,000 atm. Autoclave technology is also widely used in science and industry.
+However, the direct compression of a substance is the most convenient means for
+creating pressure. In this case, it is necessary to have a strong vessel, which
+has at least one movable wall. The simplest and most popular design for such a type
+is the cylinder-piston type (fig. Is).
+
+As can be seen in the figure, in realizing this method, a strong,
+often many-layered, full cylinder is supplied with a piston and a
+plug. The cylinder is filled with liquid or previously compressed
+gas, and the piston and plug are correspondingly compressed.
+Usually, the plug serves as the place for locating electrical lead-
+ins, which permit introducing detectors of various sizes into the
+
+2
+INTR<DF11CIAI.lHﬂB(NVLY
+Figure 1. Sketches of High-Pressure Devices
+
+s. Cylinder-piston type chamber
+b. The Bridgman anvil (a thin layer of substance is compressed
+between two conic pistons)
+
+c. The "Belt" type device.
+
+d. The multiplunger tetrahedral device (four pistons located
+in the space along the diagonal of the tetrahedron ‘
+simultaneously compress the specimen)
+
+e. Hultiplunger cubic device
+
+f. Device with sliding anvils (limitations in the degree of
+
+compression are absent)
+
+g. Spherical nultiplunger device; it differs from d and e in
+that the loading of the plungers is produced by loading the
+whole device in a high hydrostatic pressure chamber
+
+h. A two—stage spherical multiplunger device.
+
+cylinder, first of all for temperature and pressure. To create
+pressure, the piston pushes down into the vessel with the aid of
+
+a screw or hydraulic press, but the limit in the pressure achieved
+in such a systee is not at all determined by the power of the press,
+but the load-carrying capacity of the piston and cylinder. The
+strength of modern steel and hard alloys, in principle, permits
+using the cylinder-piston type system to achieve a pressure of
+60,000 atn (the strength under pressure of the best instrument
+
+steel is about 350 kgf/mmi, and hard alloys of the tungsten-
+carbide type cenented with cobalt, about 600 kgf/le. nougvgy,
+
+much before this. many problems arise with the sealing of
+
+3
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+compressed liquid or gas and, therefore, the field of hydro-
+static pressure, that is, pressure that can be obtained by
+compressed gas or liquid, is limited to 30,000 or 40,000 atm.
+
+In recent years, industry in a number of countries began to produce strong and
+flexible tubing of alloys with low heat conductivity having outside diameter of
+
+1 to 3 mm and able to contain pressure of up to 20,000 to 25,000 ata. It became
+possible to separate spatially the pressure being created for the piston system and
+the vessel in which the research is being performed. This permits the creation of
+various specialized interchangeable chambers (optical, nonmagnetic, and others)
+
+and to locate them in a thermostat or cryostat, between magnetic poles, in an opti-
+cal device, or a combination of these.
+
+Using the piston system, it is possible to simplify the experiment and, in place of
+liquid or gas, to place inside the high-pressure chamber a plastic-solid body as
+the means of transferring pressure. Thus, the sealing problem is made simple, but
+complications arise in measurement and control of parameters, and nonhydrostatic
+components of stress appear. The pressure limits in such devices are 60,000 to
+65,000 stm.
+
+It turned out, however, that to achieve quasihydrostatic pressure (that is,
+
+achieved by compressing solids), other devices were more effective. Among them must
+be noted the Bridgman anvil, the "Belt" device, and multiplunger devices. The
+devices shown in Figure_l b through h, with parts made of hard alloy, reach
+pressures of up to 200,000 atm, depending on design details. Recently, F. Bundy,
+of the General Electric laboratory, developed the "Belt" type of design, with a
+
+tip of synthetic polycrystalline diamond, capable of generating pressures of up to
+500,000 atm.
+
+All these devices can be adapted for conducting various physical, mineralogical,
+technological, and other experiments, including x-ray research on crystalline
+structure of matter.
+
+In recent years, the diamond-anvil method has received widespread use (fig. 2).
+
+It began to develop intensively after the means was proposed for measuring pressure
+by the R-line shift of ruby luminescence (the wave length of ruby R-line lumines-
+cence is virtually linearly dependent on pressure).
+
+The essence of the method is as follows. Two diamonds of
+
+jewel quality, polished in a special way (see fig. 2), are brought
+together by means of an uncomplicated lever-screw or hydraulic
+device. The specimen is placed directly between the working
+surfaces of the diamonds and, in this manner, a significant
+pressure gradient arises (see colored insert).* Improved tech~
+nology provides for placing the specimen together with a small
+piece of ruby in a washer made of strong and sufficiently plastic
+material, as shown in the insert (photograph 4). A hole in the
+
+washer is filled with a mixture of methyl and ethyl alcohol, which
+provides hydrostatic pressure up to 100,000 atm. At the present
+
+ 
+
+* Photographs were made by V. N. Kachinskiy, associate of the high-pressure
+sector of the Institute of Crystallography imeni A. V. Shubnikov of the USSR
+Academy of Sciences.
+
+h
+FOR OFFICIAL USE ONLY
+time, methods have been developed that per-it using solidified
+inert gasses, including helium, as a means for transmitting
+pressure.
+
+Characteristic dimensions of the device are as follows: diameter
+of the working surfaces, 0.3 to 1 mm; dimension of supporting
+surfaces. about 3 to 5 sun the weight of each diamond, about 0.3
+to 0.1 carat; the original thickness of the washer, 0.1 to 0.3 mm;
+and the diameter of the hole in the washer, 0.15 to 0.3 II. The
+whole device will fit into the palm of a hand.
+
+ 
+
+Figure 2. Diamond Anvila
+
+1. Diamonds; 2. Metal washer; 3. Specimen;
+
+a and b are two types of diamond working surfaces:
+
+a -- simple anvils, and b - with additional conic
+grinding of the working surface at a small angle, which
+reduces the stress gradient and permits the achievement
+of greater pressure.
+
+with diamond anvils, it is possible to obtain extremely high pressures of up to
+1.7 million atm.* The device is easy to use for conducting various optical, x-ray,
+Hossbauer, and other experiments. A virtue of this device of no little importance
+is the possibility of visual observation. **
+
+In recent years, Academician L. P. Vereshchagin and his associates at the Institute
+of High—Pressure Physics of the USSR Academy of Sciences and, subsequently. A._Ruoff
+of Cornell.University (United States) proposed using, to achieve very high pressures.
+
+* See H. K. Mao and P. H. Bell. "Science,“ 1978, vol. 200, p. lle.
+** See 8. Blok and D. P'yermarini [8. Block and D. Piermarini]. "Uspekhi fit. nauk"
+[Advances in Physical Sciencess]. 1979, vol. 127, p 765.
+
+5
+FOR OFFICIAL use ONLY
+FOR GFFICML USE ONLY
+
+the indentor-plane type of device. It is clear that this device can develop very
+high contact pressures. However, this device can be used only to measure
+
+electrical resistance, and the value of this type of devxce for physical research
+is not very clear.
+
+C
+an instrument is the weighted piston manometer, in which an unknown pressure of a
+liquid is balanced with a weight, aided by the piston system. As a result, all
+that has to be known is the weight of the weight and the diameter of the piston.
+
+greater than 0.2 to 0.5. Thus, absolute accuracy of measuring pressure in this
+range cannot be less than 30 to 100 kgf/cmz, and, consequently, the accuracy of
+pressure measurement by any secondary devxces cannot be less than the magnitudes
+
+compounds are selected. The selection of reference substances is conducted with
+consideration for many factors, one of which is the ease of observation of phase
+transitions, for example, with the aid of measurement of electrical resistance.
+1he pressures of phase transitions, Which serve as reference points can he
+
+does not exceed 60,000 to 70,000 atm. The determination of reference pressures
+lying outside this range have been based on extrapolations, rough assumptions, and
+
+empirical equation suitable for calculating pressure with the aid of the results of
+measuring the density of Nacl under high pressures. And, although the precision of
+the proposed equation of state, evidently, was no higher than several percent
+(especially under high pressures exceeding 100,000 atm), the use throughout the
+world of NaCl as a standard nevertheless allows at least the production of
+
+at the present time, the pressures of reference lines are being redctermined on
+the basis of the NaCl scale. 0. Piermarini, with coauthors from the 0.8. National
+Bureau of Standards has calibrated the movement of the R-line of ruby under
+treasure through 300,000 atm on the NaCl scale. Subsequently, P. Bell and H. Mac
+
+6
+FOR OFFICIAL USE ONLY
+conducted calibration of a ruby sensor to 1 million arm, which was based on the
+
+equation of state of a number of metals that was determined with the aid of shock
+waves. These same authors lengthened the ruby scale to 1.1 million atm, having
+directly measured the contact area and distribution of pressure with various loads.
+The precision of the scale under such pressures is about 20 percent.
+
+FUNDAMENTAL RESULTS OF RESEARCH UNDER HIGH PRESSURES
+
+To explain the present situation in high-pressure physics and to evaluate its
+trends and prospects, it is necessary to analyze its results in some fashion. In
+the limited space of the present article, it clearly is not possible to try to
+describe the facts sufficiently and the more interesting projects, the more so
+because most of the achievements of high-pressure physics are fused together with
+the results of various subdivisions of physics, geophysics, crystal chemistry, and
+so forth. Instead of this, the author has undertaken the responsibility of trying
+to isolate and describe just those results that have had a deep influence on
+science and technology as a whole. There are undoubtedly such results and, in the
+opinion of the author, in first priority these must be the totality of phenomena
+discovered and described in the research of phase diagrams of matter, electronic
+phase transitions, the synthesis of diamonds and borazon, and geophysical research
+(phase diagram of silica). Let us look at these results in more detail.
+
+Critical Point, Melting Curve
+
+In 1869, T. Andrews, doing research on CO; condensation, discovered that beyond the
+temperature of 31° C, the condensation of gaseous CO; to a liquid takes place
+uninterruptedly. The coordinates of the critical point for carbon dioxide
+
+Andrews determined to be 31° C and 76 eta. In his experiments, he used extremely
+modest experimental technology, and the pressures achieved did not exceed seVeral
+hundred atmospheres. Let us stress that Andrews' discovery was the result of
+systematic research on equations of state and the condensation of gasses. The
+culmination of this research was the liquefaction of helium in 1908. within three
+years after Andrews' discovery, J. D. Ven-der-Hsals formulated the theory that
+successfully described for the first time the critical phenomena in simple
+liquids.
+
+The research of Andrews and Van-der-Haals provided a foundation for a number of
+areas in the physics of the condensed state of matter, the most important of which
+was the physics of phase transition and the physics of dense gasses and liquids.
+
+The development of Van-der-Waals' ideas, the significance of which is stressed in
+every modern survey of phase transition, led to the creation of the integral
+equation method in the theory of liquids (the Born-Green-Bogolyubov-Kirkwood
+equation) and the later method of molecular dynamics, realized with the aid of
+large computers.
+
+We must also note the recently developing research on critical phenomena in metals,
+where a nontrivial situation arises, since in this case, phase transition of
+liquid to steam is accompanied by the transition of metal to dielectric. This
+problem was first formulated by L. D. Landau and Ya. B. Zel'dovich. One of the
+first experimental projects in this field was done by I. K. Kikoin and A. P.
+
+7
+FOR OFFICIAL USE ONLY
+I'UK OI'I'ICIAI. 03f. UNLY
+
+Senchenkov in 1967. Their research was closely related to the general problem of
+the metal-dielectric transition, which is also developing intensively at the pre-
+sent time.
+
+The discovery of the critical point on the boiling curve became, in its time, a
+stimulating factor for the beginning of research on the melting curve. It was
+thought that it must end at a critical paint, like the boiling curve. Much effort
+was spent in searching for the critical point on the melting curve by P. Simon,
+who did research on the melting curve of helium under high temperatures corres-
+ponding to a pressure of about 10,000 atm. But even under these pressures, the
+critical point was not discovered (it is interesting to note that not long ago
+
+(M. Pesson) of Paris University traced the melting curve to the temperature of
+
+25° C and pressures of around 115,000, with the aid of the technology of diamond
+anvils.
+
+A large number of such experiments were conducted by P. Bridgman, who was extremely
+skeptical about the possibility of the existence of the critical point on the
+melting curve. However, from the theoretical point of view, the situation was
+unclear until L. D. Landau in 1937 showed the impossibility of the existence of a
+critical point on the melting curve.
+
+A wide discussion arose at one time on the question of the form of the melting
+curVe. P. Bridgman insisted that with the growth in pressure, the increase in the
+temperature of a melting substance is unlimited. G. Tamman asserted that the
+temperature of the melting of any substance must pass through a maximum. As we
+now know, there is no general solution to this problem. The answer depends on the
+form of interparticle interaction and the role of quantum effects in a given
+system of particles. Let us stress that the capability for melting-crystallization
+is a fundamental property of multiparticle systems, independent of their specific
+nature. Therefore, one must think that the phenomena of melting-crystallization
+play an important role in the evolution of white dwarfs, pulsars, and other
+astronomical objects.
+
+Electronic Phase Transitions
+
+Insofar as reduction of interatomic distances lead to expansion of bands of
+electronic states and to the reduction of energy distances between them, it can be
+expected, from very general considerations, that increase in pressure will stimu-
+late the occurrence of phase transitions due to transitions of electrons from band
+to band (including transitions of the metal-dielectric type). This also takes
+place in reality. Transitions of such a type can be seen as a precursor of
+phenomena that under further increase in pressure finally lead to the disappearance
+of the shell structure of the atom generally.
+
+A remarkable example of a transformation of such a type is the phase transition in
+cerium found first by P. Bridgman, with pressure of about 7,000 atm and at room
+temperature; in connection with this, the density of cerium increases by 15 percent.
+Since, under atmospheric pressure, cerium already possesses a close-packed
+structure, L. Pauling and V. Zacharias proposed that in cerium there is a transi-
+tiou of an electron from band 4 f to S d.
+
+A. Lawson and T. Tang with x-ray structural analysis demonstrated that phase
+transition in cerium is isostructural, that is, it does not change the symmetry or
+
+8
+FOR OFFICIAL USE ONLY
+the type of packing. In 1958, Ya. G. PonyatOVskiy revealed that with increased
+temperature, the heat of the phase transition in cerium approaches zero along the
+line of the phase transition and proposed that the phase transition curve in
+cerium wOuld end at a critical point. Subsequently, Ye. G. Ponyatovskiy's results
+were fully confirmed.
+
+Let us stress that the critical point in cerium is completely analogous to the
+critical point of the liquid—vapor type (the symmetry of cerium does not change
+with phase transition). It would be interesting to know the significance of
+critical indices at this point (one should think that, in this instance, it would
+be possible to observe the applicability of an average field theory).
+
+A critical point is expected also on the curve of isostructural phase transition
+
+in Sms, which is simultaneously a sutalbdielectrie transition.Letus note that
+phase transitions of the metal-dielectric type in chalcogenides of rare-earth
+elements at the present time are a subject of numerous research projects, including
+applied ones.
+
+An extremely interesting phase transition that is evidently tied with electron
+transition from a 6s- to a Sd—state takes place in cesium under pressure of about
+h0,000 atm. This transition was also discovered by P. Bridgman, but J. Bardeen
+suggested itSelectronic nature. Calculations by R. Sternheimer confirmed these
+proposals. Decisive results were achieved by T. Hall and his coworkers which,
+using x-ray analysis, showed that phase transition in cesium is isostructural.
+Unfortunately, because of technical difficulties, this transition has been studied
+in less detail than the transition in Ce and SmS. It must be pointed out that in
+the case of electronic transitions, the real situation evidently cannot be
+described by simple diagrams of transitions between two electronic states. At
+least, recent experiments in Compton scattering do not support the diagram proposed
+by L. Pauling and V. Zacharias for the transition in Ce.
+
+If, as a result of change in the energy state of electrons, there is a disappearance
+of the energy gap dividing the band of valence electrons and the conduction band
+
+the substance acquires metallic properties. Such transitions are called Isetalliza-
+tion or metal-dielectric transitions. Evidently, metal-dielectric transitions were
+observed for the first time by P. Bridgman, doing research on electrical resis-
+tance in tellurium and black phosphorus. Later, in the 1960's, a series of
+
+projects on metal-dielectric transition has been conducted by H. Drickamer and
+associates.
+
+At the present time, a large number of elements and compounds are known that have
+transitions into metallic states under pressure; these are tellurium, selepium,
+
+. . . . . i v
+siifgi’ iodine, germanium, silicon, and a number of compounds of types A B and
+A B and others. Some of these substances are being found to have superconducting
+properties in the metallic state.
+
+Hetallization can take place as a clearly expressed phase transition of the first
+kind with sharp change in crystal structure and electrical properties as. for
+
+example, in Ge, Si, and other substances with coordination structure. In other
+
+cases, especially in substances of the molecular type, such as S and Se, change in
+electrical properties takes place gradually within the range of several tens or
+even hundreds of kilobsrs.
+
+FOR OFFIC?AL USE ONLY
+FOR OFFICIAL USE ONLY
+
+It must be noted that a sharp and reversible metal-dielectric transition in
+amorphous germanium, silicon, and indium antimonide was recently observed under
+high pressures by S. Hinomura and associates at Tokyo University.
+
+Synthesis of Diamonds and Cubic Nitride of Boron
+
+In 1955, the research laboratory of the General Electric firm announced success in
+the synthesis of diamonds, and in 1959 a Detroit factory of the firm began series
+product manufacture.
+
+Having gone into the “diamond" research group, T. Hall invented the "Belt" high-
+pressure device, which helped bring about the first diamond synthesis, and also a
+series of multiplunger devices. Soon, R. Hentorf synthesized borazon. Subsequently
+it turned out that Swedish researchers had produced artificial diamonds before the
+Americans, but had kept their results secret. In the USSR, the first synthetic
+diamonds were produced at the Institute of High~Presaure Physics of the USSR
+Academy of Sciences under the direction of Academician L. P. Vereshchagin. Let
+
+us stress that success was achieved as the result of using new conceptions in the
+design of devices and application of catalysts (metals of the transition group).
+
+At the present time, the diamond industry has been developed in many countries
+around the world and, evidently, provides industry with material suitable for
+manufacturing grinding wheels, diamond paste, and so forth. however, the need for
+large diamonds for manufacturing cutting tools, draw plates, drilling tools, and
+
+so forth, continues to grow. It is satisfied by natural diamonds and also by
+baked synthetic material (General Electric compact) and synthetic material of the
+carbonado type manufactured in the USSR.
+
+At the beginning of the 1970's, a research group at General Electric again met
+with success in growing monocrystals of jewel quality diamonds S to 6 mm in size.
+However, the process of growing jewel-grade diamonds is still too expensive for
+industrial production. Nevertheless, it must be expected that it will be improved
+and that in the end, industry and science will be furnished this material in
+sufficient quantities. Much still must be done in this area. particularly in
+understanding fully the mechanism of catalytic action in diamond synthesis and the
+natural mechanism of diamond formation. It is possible that a way will be found
+to lower the parameters of diamond synthesis. It is no less important to manufac-
+ture larger components from polycrystal diamond. This undoubtedly will have a
+revolutionary effect on the technology of high pressures. The first attempts in
+this area are very hopeful.
+
+Geophysical Research
+
+The study of the internal structure of the earth and other planets is extremely
+fascinating and has practical importance, but is still an unsolved problem. The
+first conceptions, which pictured the earth as a kind of gigantic metallurgical
+furnace with its composition divided into slag, matte, and metal, rather soon
+
+ceased to satisfy researchers. The accumulation of data on the thermodynamic and
+mechanical properties of the internal layers of the earth led to the conclusion that
+the presence of significant quantities of heavy metals and their sulfides in the
+earth's mantle (that is, to a depth of about 2900 km) is not possible. An analysis
+
+10
+FOR OFFICIAL USE ONLY
+conducted by the American geophysicist P. Burch in 1952 showed that the material
+composing the lower mantle must possess a very high ratio of the bulk modulus
+
+to density -— k/p Z 60 \km/s)3; this is typical for oxides of the Hg0 and A120,
+type, but is not possible for silicates that compose the surface layers of the earth.
+F. Burch suggested a hypothesis about the possibility of the existence in the depths
+of the earth of new polymorphic modifications of silicates, which would contain
+silicon in sixfold coordination relative to oxygen (instead of the usual fourfold).
+This hypothesis later suffered criticism, the more so because the first attempts
+
+at experimental verification did not lead to positive results. However, in 1961,
+the present author and S. V. Popova achieved a new dense modification of silica
+under pressure of about 100,000 atm and temperature of 1500' C. The crystalline
+structure of this modification is equivalent to the crystalline structure of rutile
+(1102) and contains silicon in sixfold coordination relative to oxygen. The density
+of the new modification of silica turned out to be 4.35 glcm’, or 64 percent more
+than the density of quartz.
+
+Thus, :he hypothesis of the possibility for significant compression of silicates
+under the action of pressure was proved. Later this permitted constructing a
+
+model of the lower earth mantle, which successfully explained the data of observa-
+tions without drawing upon concepts about changes in the chemical composition of
+the mantle with depth. It is interesting that subsequently rutile-like silica was
+discovered in nature. This modification was found for the first time in an Arizona
+meteorite crater by associates of the U. 8. National Geological Service.headed by
+E. Chao. * At the present time, the finding of this unusual mineral, and also
+another dense modification of silica, (coesite), produced by (L. Goes) in 1953, is
+evidence of the impact origin of a number of geological structures.
+
+The significanceof high-pressure physics is not exhausted by the striking results,
+some of which have been described above. Actually, when the investigation of a
+phenomenon requires variation in the density of a substance under constant tempera-
+ture or, in reverse, variation in temperature with constant density, the methods
+
+of high-pressure physics are used. Therefore, the influence of the methodological
+achievements of high-pressure physics on the development of knowledge perhaps
+exceeds the influence of its "own" results.
+
+?HE PRESENT STAGE IN THE DEVELOPMENT OF HIGH-PRESSURE PHYSICS
+
+The present situation in high-pressure physics to a significant degree is determined
+by the peculiar history of its development. The point is that research in this area
+of physics was not too popular in the first half of the present century because of
+the great methodological difficulties. However, in the 1950' a, the situatio n
+changed abruptly. In announcing the synthesis of diamonds, researchers at General
+Electric gave a powerful impetus to the development of the technology of high
+pressures and inspired many scientists to search for new phases with properties
+perhaps even more notable than diamonds and borazon. Thus, a new industrial period
+in high-pressure physics was initiated.
+
+'ooking back, one can say that the hopes for creating new materials with astonishing
+10pclt5.cs, generally speaking, have not materialized. And, although the scientific
+:csults of research under high pressures have been significant (especially geo-
+
+physical problems must be singled out), nothing comparable with diamond synthesis
+
+* The new material was named "stishovite" in honor of 8. M. Stishov, the author
+of the present article. -— Ed.
+
+11
+FOR OF11CJA1.USEGDNLY
+FOR OFFICIAL USE ONLY
+
+has been done. A wave of a kind of disillusionment ensued. But, by the end of the
+1960's and beginning of the 1970's, a new enthusiasm began. One of the reasons was
+the development of the diamond anvils described above, which allowed the production
+of a very high pressure. Another reason for the noticeable revival of experimental
+and theoretical activity in the field of high-pressure physics was related to the
+hope of producing metallic hydrogen. However, in the opinion of the author, the
+present period of upsurge still seems to be an echo of the "diamond" boom in the
+sense that at its base, possibly, lies a lack of good ideas among a surplus of
+professionals.
+
+The idea of transforming molecular hydrogen into a metallic state under high pres-
+sure was suggested many years ago in connection with the discussion of the internal
+structure of the planets Jupiter and Saturn. In 1935, B. Wigner and (3- Huntington)
+conducted the first calculations and evaluated the pressure for the transition of
+hydrogen to a metallic state. A more precise and complete calculation was conducted
+by A. A. Abrikosov in l95h. Later, V. P. Trubitayn was engaged in this problem.
+However, the hydrogen problem did not attract special attention until, in 1968,
+
+N. W. Ashcroft produced results that indicated possible metastability of hydrogen
+under atmospheric pressure and the potentially high temperature (~100 K) of super-
+conductive transition to metallic hydrogen.
+
+Soon after this, «e. G. Brovman) and Yu. M. Kagan showed that the hypothetical
+metastable metallic hydrogen can have an extremely unusual filamentary structure,
+representing a kind of hybrid liquid and crystal.
+
+All this caused unprecedented enthusiasm among a wide scientific conmmnity. Some
+experimental groups announced their plans to produce metallic hydrogen.* Let us
+stress that, according to various evaluations, the pressure for transition of
+hydrogen to a metallic state is a magnitude of about 2 million atm. If one takes
+into consideration that, from the beginning of the "hydrogen" boom, no one in the
+world has achieved a static pressure even approaching this limit,** one must only be
+
+surprised at the boldness of the authors of various projects.. RElative to this,
+one can recall the words of Nobel laureate A. A. Szcnt-Gyorgyi. Going fishing with
+a large hook, he said: "I know I won't catch anything anyway, but it's more
+
+pleasant not to catch a big fish than a little one."
+
+In any case, work began. At first, it seemed that success might be achieved by
+using large multiplunger systems or multistage devices. The group of A. Ruoff of
+Cornell University built for this purpose a spherical six-plunger device (see
+
+fig. 1 h) with a diameter of over a half mater. A group at the Institute of High-
+Pressure Physics of the USSR Academy of Sciences intended to use for obtaining
+metallic hydrogen, a gigantic press with 50,000 tons of force; however, it did not
+report any details about a chamber in which a pressure of millions of atmospheres
+could be produced.
+
+It must be stated that physicists who plan experiments with hydrogen at one time
+underestimated miniature and modest devices such as the diamond anvil. Meanwhile,
+
+* For more detail, see S. H. Stishov. "Uspekhi fiz. nauk“ [Advances in Physical
+Sciences], 1979, vol. 127, p. 721.
+
+** He ignore without comment any statements about achieving superhigh pressures
+that are not accompanied by proofs at even a common-sense level.
+
+12
+FOR OFFICIAL USE ONLY
+geophysicists and'geochemists, engaged in a literal sense with earthly cares,
+
+:aw in diamond anvils a means for modeling 2-? conditions corresponding to those of
+the lower earth mantle. Geophysical research applying diamond anvils began to
+develop rapidly. One of the most important results achieved in this field of
+research must obviously be considered the establishment of the fact that magnesia
+pyroxene (Mgsi03) under pressures of around 250,000 atm acquires the structure of
+the pyroxite type, extremely effective from the point of View of packing. The fact
+that, in crystalline structures of this type, large cations (in this case,
+magnesium) are included in very dense packing formed by anions. Record results were
+achieved in the geophysical laboratories of the Carnegie Institute (United States),
+where P. Bell and H. Mao were successful, with the help of diffractions of x-ray
+beams, in studying equations of state of geophysically interesting materials, “go
+and Fe, up to 1 million atm. These same authors, as noted above, reported on the
+achievement of pressures of about 1.7 million atm in diamond anvils. Having such.
+technology available, it was difficult to ignore the temptation to do research on
+hydrogen. In 1979, P. Bell, H. Mao, and 8. K. Sharma compressed hydrogen up to
+~6ﬂh000atm and investigated its Raman spectra. The results of
+
+this work show that the frequency of intramolecular oscillation in hydrogen begins
+to decrease under pressures exceeding 300,000 to 350,000 atm. This is undoubtedly
+evidence of approaching the instability of the molecular phase of hydrogen. With-
+out examining the results of dynamic experiments, the integration of which cannot
+be conducted directly, it must be asserted that research on the
+
+Raman spectra of hydrogen under pressures of up to 650,000 stm is practically
+the whole of the "dry bones" of ten years of controversy and discussion of plans
+and, to a far lesser degree, real experimental projects.
+
+The information that occurs in the literature that, under static compression of
+hydrogen equal to that of other substances, a sharp drop in electrical resistance
+is observed, apparently must be accepted with caution. Actually, A. Ruoff's
+results in measuring electrical resistance of xenon, which seem to be a clear
+indication of its metallization under pressure of about'300,000 atm, have turned
+out to be incorrect, despite the special measures undertaken by the author to
+avert the short-circuiting of the electrodes.
+
+It must be expected that research on hydrogen under high pressure in the present
+decade will be continued, in view of the undoubted physical interest in the problem.
+Clearly, it must have a more systematic character and develop on the whole plane
+
+of research in compressed gasses under superhigh pressures. Already, now, in the
+Carnegie Institute geophysical laboratory, at Los Alamos Laboratory, the University
+of Paris, and Paderborn University (PR6), optical and structural research is being
+conducted on nitrogen, oxygen, xenon, and helium with diamond anvils. Undoubted
+interest is presented also by the study of the possibility for producing metallic
+ammonia,* the field of stability of which nearly coincides with the field of
+stability of metallic hydrogen.
+
+Despite lack of success in achieving the direct goal of producing metallic
+hydrogen, the "hydrogen" problem as a whole has had a strong influence on the
+psychology of experimentors. It has become clear that, first of all, the advance
+toward higher pressures is not possible without using natural or synthetic
+diamonds and, secondly, gigantic presses and devices must, at least temporarily,
+yield to miniature devices of the diamond anvil type.
+
+“—- . . a o .
+* See 6. H. Stishov. "Uspekhi fir. nauk" [Advances in Physical Sciences], 1978
+vol. 125, p. 731.
+
+13
+FOR OFFICIAL use ONLY
+150,000 to 200,000 to 1 million atm and more. It is notable that the development
+
+of the diamond anvil technology has coincided with the development of new,
+
+effective methods in optics and spectroscopy, x-ray radiography, and so forth, which
+combines well with the application of diamond anvils. At the present time, a
+
+x-ray diffractions from the specimen placed in diamond anvils. The application
+
+of these means permits substantial decrease in exposure, compared with photographic
+methods, and improvement in the quality of the primary information. For example, the
+use of the linear coordinate detector in combination with diamond anvils allowed
+
+8. Hinomura and his associates to explain for the first time the details of behavior
+of iodine under a metal-dielectric phase transition. It turned out that the gradual
+metallization of iodine while preserving the molecular-type crystalline st:scture
+
+is accomplished under pressures of about 200,000 atm with uneven transition to
+
+fully dissociated crystalline structure in which it is no longer possible to
+
+isolate individual 12 molecules. The possibility is not excluded that this is
+
+It is apparent that in the next few years, research in high-pressure physics will be
+tied to diamond anvils. It must be expected that increase by almost one order of
+magnitude of the limits of achieved pressures will bring results. Unfortunately,
+this effective technology, for a number of reasons, has not been developed in the
+
+diamonds from Yakutsk deposits for achieving pressures on the order of a million
+atmospheres and the beginning of real experimental work. Appropriate projects have
+also been started in other USSR scientific institutions. One must not think,
+however, that diamond anvils will be successful in solving all the problems of
+high-pressure physics. The limited size of the specimen and insufficient precision
+for certain types of pressure measurement sometimes force the preference for the
+experimental technology of hydrostatic and quasi-hydrostatic pressures.
+
+physics has entered a new, practically untouched range of pressures, and it is
+necessary to decide how to introduce its achievements most effectively into general
+experimental physics, geophysics, and other branches of knowledge.
+
+COPYRIGHT: Izdatel'stvo "Nauka", "Vestnik Akademii nauk SSSR", 1981
+
+>645
+380: 8144/0466
+
+1b
+FOR OFFICIAL USE ONLY
+LASERS AND HASBRS
+
+UDC 621.378.326
+
+PROHISING DESIGNS AND PUMPING METHODS FOR POHBRPUL CO: PROCESS LASERS (SURVEY)
+
+Hoscow KVANTOVAYA ELEKTRONIKA in Russian Vol 8. No 12(114), Dec 81 (manuscript
+received 24 Dec 80. after revision 23 Apr 81) pp 2517-2539
+
+[Article by G. A.'Abil'siitov, Ye. P. Velikhov. V. S. Golubev and P. V. Lebedev,
+Scientific Research Institute of Process Lasers. USSR Academy of Sciences,
+Troitsk. Moscow Oblast]
+
+[Text] An analysis is made of the prospects for developing
+powerful CO; gas-discharge process lasers with respect to
+methods of cooling the working medium. possible gasdynamic and
+optical arrangements and pumping methods. An examination is
+made of physical and technical pnoblems of using gas discharge
+in laser devices. The authors discuss the limiting and opera-
+tional characteristics of variOus kinds of process lasers and
+the most advisable fields of application.
+
+Contents
+
+Introduction .
+1. Designs of 002 gas-discharge lasers
+1.1. CO; lasers with diffusion cooling of working mixture
+1.2. Past-flow €02 gas-discharge lasers
+2. Methods of pumping gas-discharge lasers
+2.1. Self-maintained dc discharge
+2.2. Semi—self-maintained discharge with electron-beam ionization
+2.3. Semi-selfdmaintained discharge with ionization by periodic pulses
+2.4. Ac discharge
+Conclusion
+
+Introduction
+
+Research over the past decade on interaction of powerful laser radiation with
+matter has opened up new prospects for using lasers to process materials, and
+also demonstrated some fundamental advantages of laser technology over conven-
+tional forms of handling materials. Laser cutting and welding. heat-treatment.
+plating and alloying are not only productive and economically effective. but also
+can frequently be used to get items with characteristics unattainable by other
+technological methods.
+
+1
+won omazt use ONLY
+FOR OFFICIAL USE ONLY
+
+of particular interest for laser technology are powerful lasers (more than l k"),
+and first of all gas-discharge C02 lasers. This is because of their simplicity,
+high efficiency, and also the capability for getting high power and brightness
+of radiation in relatively compact laser facilities.
+
+The working principle of the molecular €02 laser was formulated by Patel [Ref. 1]
+in 1964; the first laser that he produced with glowbdischarge pumping [Ref. 2]
+had a power of l m". However, within only a year the power of the CO; laser had
+reached 10 H at efficiency of 102, and in 1967 it was 500 H with cw operation
+[Ref. 3].
+
+A further appreciable increase in the power of co, lasers became possible with
+the advent of convective cooling of the working mixture [Ref. 4]. The CO: laser
+developed in 1969 with transverse pumping of the lasing mixture had a power of
+~1 kw [Ref. 5]. Use of a semi—se1f~maintained discharge kept alive by electron
+beam raised the power of fast-flow lasers to 15 kw as early as 1972 [Ref. 6].
+
+At the present time there are a large number of different stationary systems
+with power of 1-15 k". There have been reports on developingandusing stationary
+lasers of open type with power from 20 to 100 k” in technological experiments
+
+(Ref. 7]. Nevertheless, most of the described laser systems are of the experimen-
+tal laboratory type and are intended chiefly for clarifying and checking principles
+of construction of powerful lasers rather than for use in industry.
+
+In addition to the necessary power, the industrial process laser must have a number
+of specific features. It must be distinguished by high stability of emission
+power, and meet the requirements for technological machine-building equipment:
+
+high reliability and economy, simplicity of design and ease of control, small
+overall dimensions and long service life, as well as guaranteeing high safety
+
+of servicing. Hany nations of the world are now engaged in the development of
+powerful CO; laser devices for machining materials.
+
+At the present time, several surveys have already been published that deal with
+
+the principles of CO: laser operation [Ref. 14, 15], problems of stability of
+
+gas discharge in molecular gases [Ref. 16-19], and also with the prospects for
+development of powerful gas lasers [Ref. 20, 21, 33]. However, as a rule they
+
+have not examined specific methods of excitation of the medium. or such questions
+of importance for practical application as simplicity of implementing these methods.
+efficiency of the laser as a whole, advantages and disadvantages of different gas-
+dynamic and electro-optical arrangements.
+
+In this survey, in addition to the generally accepted classification of gas-
+discharge COz lasers according to cooling methods. we give their classification
+
+by gasdynamic and electro-optical arrangements, working conditions of cavities.
+
+and methods of gas-discharge pumping, as well as examining the most advisable
+
+fields of application and the limiting characteristics of different laser systems.
+Particular attention is given to description and analysis of different gas-discharge
+arrangements used for excitation of the active medium of C02 lasers. Not only
+
+the physica‘, t-t also the technical aspects of implementing these arrangements
+are discusSHd.
+
+16
+INJR‘OFF1C1A1.UBEZ(NNLY
+1. Designs of do; gas-discharge lasers
+
+In the C0; laser. stimulated emission takes place on the transition between vi-
+brational energy levels 00°l and 10°0 of the CO; molecule [Ref. 1. 2]. The quantum
+efficiency of this transition, corresponding to emission of quanta with wavelength
+of 10.6 pm, is fairly high: nKBBOJo.
+
+Due to heat release upon lasing of the mixture (5-101 of the energy released in
+the discharge goes to heating). and collisional relaxation of the upper laser
+level, the processes of pumping of the laser mixture and stimulated emission are
+unavoidably accompanied by heating of the gas. the temperature Tr of the lasing
+mixture in the steady state being practically proportional to the power of the
+energy release in the discharge.
+
+In the absence of lasing. the population of the upper laser level is proportional
+to the intensity of energy release in the discharge. and consequently (disregarding
+dependence of the cross section of collisional relaxation or on gas temperature).
+to the gas temperature as well. This relationship can only be weakened by account-
+ing for the dependence of or on Tr.
+
+The population of the lover lasing level is determined by collisional processes.
+and at radiation intensities that are not too great it corresponds to Boltzmann
+law, 1. e. it increases exponentially with increasing Tr. In this connection.
+upon attainment of a certain critical temperature TK '-500-600°C [Ref. 22]. in-
+verse population of the laser mixture dissapears. The maximum inversion is at-
+tained at a mixture temperature of Topt"2°°'3°°°c'
+
+Thus, one of the principal conditions of CO; laser operation is inadmissibility
+of overheating the laser mixture beyond To t- i. e. availability of efficient
+cooling. At the present time. classificatgon of electric-
+
+discharge lasers has been proposed in accordance with -1--——— n
+methods of cooling the laser mixture and stabilizing the I ‘E‘ﬁﬁ‘
+discharge [Ref. 20, 21]. The sense of this classification n-a
+
+is illustrated by Fig. 1. . y—. n
+. T:— ~
+
+In lasers of the first type (discharge tube coaxial with
+
+the optical system). the laser mixture is cooled and the n ...... E.
+discharge is stabilized by diffusion processes. The heat N " 0'
+released is carried off to the cooled wall of the laser
+
+tube via molecular diffusion. and aabipolar plasma dif- Pig. 1. Types of co,
+
+fusion prevents discharge contraction. The presence of lasers: v-gas flow
+gas flow in lasers of this type is not in principle neces- velocity; Q—-heat flux;
+sary, and its role is reduced to preventing poisoning q--charged particle
+
+of the active medium as a result of various plasma- flow. P--quantum flux;
+chemical reactions [Ref. 23]. l--opaque mirror; 2--
+
+output mirror
+
+In lasers of the second type, differing from the first only in rapid circulation
+of gas through the discharge tube, discharge stabilization is handled as before
+by ambipolar diffusion; however, the temperature of the laser mixture is main-
+
+tained on the admissible level by the rapid rate of gas circulation (convective
+
+cooling).
+
+FOR‘OFFﬂgal.lEﬂE(NVLY
+run UI'PILIAL U5]: Ul‘lal
+
+Finally, in lasers of the third type the gas is circulated in the direction per-
+pendicular to the optical axis. In this case. it is the rapid gas flow that
+prevents both overheating of the mixture and discharge transition to arcing.
+
+It should be noted that such a classification does not always reflect the princi-
+ple of discharge stabilizationcnrparticulars of the electro-optical arrangement
+of the laser. The characteristic diffusional dimension is not always determined
+by the radius of the glass tube or the size of the discharge zone. At high gas
+velocities. charge diffusion due to flow turbulence may exceed ambipolar dif-
+fusion and play an appreciable part in discharge stabilization. The discharge
+may be stabilized not only by diffusion, but also by electronic means (combined
+action of electric fields [Ref. 26], rotation of the electric field vector in
+space (Ref. 25]. etc.). Flow in the direction perpendicular to the optical axis
+does not preclude diffusional discharge stabilization [Ref. 26]. Moreover, de-
+pending on the degree of flow turbulence, the same electric diagram of a laser
+may be classified as both type II and type III [Ref. 26]. Therefore. hereafter
+we will divide all lasers with respect to type of mixture cooling (diffusional.
+convective).
+
+One of the most important characteristics of the laser is its efficiency. The
+total efficiency n of the laser defined as the ratio of the laser emission power
+to the total expended electric power can be represented as-
+
+fl‘nnlnu'lomnvﬂcot - " (3)
+
+where "x is the vibrational efficiency of the pumping method. 1. e. the fraction
+of power released in the positive discharge column that is expended on excitation
+of vibrational levels 00°l of C02 and v- 1 of nitrogen; "our is the optical effi-
+ciency equal to the fraction of vibrational excitation coupled out of the reso-
+nator cavity to molecules that make a transition to the ground state as a result
+of stimulated emission processes; is the efficiency of the discharge circuit,
+which is equal to the ratio of elezgric power released in the positive column
+
+to the power of discharge Supply scurces; nco is the efficiency of the cooling
+system with consideration of the efficiency of supply sources, as well as power
+expenditures on producing gas flow and maintaining working pressure. Host publi—
+cations«nlgas-discharge lasers represent experimental laboratory research and
+
+do not contain information on the optimum values of "co‘ Therefore the efficiency
+of laser systems is frequently characterized by the so-called electro-optical
+efficiency:
+
+"so’nn'lu'lomv (2)
+
+defined as the ratio of laser emission power to the electric power released in
+the positive discharge column.
+
+1.1. cozlnsers with diffusion cooling of working mixture
+Shown in Fig. 2 is a typical diagram of a co; laser with diffusional cooling of
+the working mixture (diffusion laser) that is the simplest among other laser sys-
+
+tems. Usually the diffusion laser consists of a water-cooled discharge tube 1
+within which a self-maintained discharge is kept alive by electrode system 2.
+
+18
+ml: omcm. use ONLY
+'l'he mirrors of the opticd cavity are placed at the
+ends of the discharge Lube: opaque mirror 3, and
+semi-transparent (or beam-hole) mirror 6. Stability
+of the laser output characteristics over a prolonged
+time is maintained by weak circulation of the laser
+mixture. or by placing a regenerating element inside
+the sealed-off laser [Ref. 23]. As a rule. diffusion
+lasers use mixtures of coz:nz:ne- 1:1:3 or 1:1:6 (or
+close to them) at overall pressure p I 10-20 In ﬁg.
+
+ 
+
+Fig. 2. Construction of
+laser with diffusional
+
+cooling of working mixture Limiting discharge characteristics of the diffusion
+
+laser are due to the efficiency of cooling the work-
+ing mixture (Topt ~ 250°), and also the discharge stability. Maximum values of
+the volumetric energy input due to rate of cooling of the mixture <jE>om can _
+be evaluated from the stationary equation of heat balance in the discharge
+
+(15%" sﬁflL-TWA'. H - h (3)
+
+where j and E are the current density and electric field strength in the dis-
+charge, n- cva is the heat conduction of the gas mixture (cv. p and D are the
+specific heat, density and coefficient of diffusion), Tm- is the temperature of
+the cooled wall, A-R/ZJ; is the characteristic dimension that determines heat
+transfer in a cylindrical tube of radius R.
+
+As a rule, pinching of the discharge in the tube is ionization-thermal in nature
+[Ref . I7. 27]. The increment of development of this instability can be repre-
+sented as
+
+yasAqEMp. (4)
+
+where A is a coefficient (~10) that is determined mainly by the slope of the curve
+for the ionization rate constant as a function of parameter E/N (N is the concen-
+tration of neutral atoms). p is gas pressure.
+
+The. limiting values of <jE>yc determined by discharge stability are estimated
+by setting the increment equa to the characteristic frequency of the process
+that stabilizes development of this instability. In the diffusion laser such
+a process is the ambipolar diffusion of charged particles to the walls of the
+tube. -'.l'herefore'
+
+(iE>ycv€PD./AA' sDJJA As. (5)
+
+where Da is the coefficient of ambipolar diffusion. and bag is its value at normal
+pressure po.
+
+iiquations (3) and (S) inply that
+615)." ”1&de A.
+OE)”: to o opt
+
+where Te is electron temperature. and D1, is the coefficient of ion diffusion
+at p- po. Setting Te~ 2 ev, 1?,"th and ”opt-Tc?) -250 K. we can readily see
+
+1
+FOR OFFICIZL USE ONLY
+FOR OFFICIAL USE ONLY
+
+P305»)!!! V'lule(Topx—To,)/}l5lnkﬁ,nL, ' ' ' (6)
+
+where V is the volume of the laser tube, I. is its length. As can be seen from (6).
+the quantity PI}. for diffusion lasers does not depend on radius of the discharge
+tube. Substituting the values of heat conduction for He in (6) along with values
+of n3,,~0.1-0.2 that are usual for diffusion lasers, we can estimate the maximum
+
+The limiting length of the diffusion laser (unless we are considering the wave-
+guide mode) is determined by the diffraction values, and must satisfy the condition
+
+L.p€R/2v..WR‘/2l- m
+
+where 7mm” 1.2A/R is the diffraction divergence of the laser with wavelength A.
+Setting R~ 1—3 cm, we get an~S-SO m. Thus the limiting power of the diffusion
+laser at R/L~ 50 "/m is PSO.3-3 kw.
+
+Practically attainable values of P/L~ 1-2 kw have already been achieved in indus-
+trial models of diffusion lasers. For example the most powerful Soviet diffusion
+laser models "Katun'" and "Kardamon" [Ref . 10] consisting of gas-discharge tubes
+each with R- 3 cm and length of 6 In connected in series by a unified optical sys-
+tem provide stable steady-state lasing on the level of ~0.8-l k" with specific
+output of ~40 “In. The laser made by Photon Sources, inc. reaches a pover of
+
+I k" with overall length of six discharge tubes of ~13 m; thus P/L' 7O Wm [Ref.
+
+SSW-.6 W~ 10 “HIGH 7,. I (8)
+
+where Farm! is the minimum focal length of the lens that permits focusing radia-
+tion without spherical aberrations; the coefficient B- 10. Thus by using the
+given diffusion lasers we can realistically get output power of -1 kW and power
+density in the focusing spot of ~10 m/cm’; this limit’has already been reached.
+
+joined by two common flat mirrors 2 and 3, one of
+which (2) is opaque, while the other (3) is semi-
+transparent. The set of gas-discharge tubes is cooled
+by circulating coolant 1., and poisoning of the laser
+mixture is prevented by slow circulation.
+
+ 
+
+Pig. 3. Diagram of multi-
+channel diffusion laser
+
+20
+FOR OFFICIAL USE ONLY
+Attainment of simultaneous lasing in a large number of parallel laser tubes placed
+between two flat mirrors that are common to these tubes is much facilitated by
+the waveguide mode of laser operation, 1. e. with satisfaction of the condition
+
+R'IalKl. ' ('9)
+
+Thanks to the parallel placement of the gas-discharge tubes. the multichannel
+laser system power can be increased to values determined by the possible dimen-
+sions of the mirrors and by heat removal from the inside tubes of the laser as-'
+sembly.
+
+The limiting power of such a laser consisting of a set of cylindrical tubes of
+length L with inside diameter d and wall thickness 6 located a distance A apart
+can be evaluated from the formula '
+
+:2 5"(p/Lim; Lb3/(d + 26 + A)’. ‘ (10)
+
+where Do is the outside diameter of the laser tube bundle. We can easily see
+that for realistic overall dimensions of such a device (e. g. L-l m. D. =10 cm,
+d-0.S cm and 6- (8-0.1 cm). its power under optmum conditions may reach 5-10 k".
+which opens up prospects for creation of high-power miniature laser devices.
+
+The nature of dependence of integrated power of the multichannel laser system on
+tube diameter at fixed dimensions of the bundle Do and L, assuming 6- A, is shown
+' in Pig. 4. The same figure shows experimental values
+of gain Ko of the active medium measured at differ-
+
+P‘ S’ “1' units ' ’4“ ent discharge tube diameters (Ref. 31]. The observed
+reduction of K. at small d may occur if the charac-
+
+G ' 1' teristic time of diffusion and loss of vibrationally
+
+4‘ excited particles on the walls becomes comparable
+
+with the time of their collisional relaxation.
+4' 2 This process may lead to some reduction in P at
+I smell d/A. The values of optimum d depend on the
+
+I
+4’ composision of the mixture and its pressure, and
+04' 0 at p-SO mm Hg are ~0.2-0.S cm [Ref. 31].
+Pig. lo. Dependence of ra- If no special steps are taken, each laser tube in
+
+diation power P (1), power the multichannel laser system lases independently
+density 3 in the focal spot of the others. In this case, the divergence of
+
+(2) and weak signal gain Kn emission of the entire laser system cannot be better
+of active medium of multi- than that of one laser tube, and the power density
+channel laser system on dis- of radiation in the focal spot of the multichannel
+charge tube diameter: laser system is
+
+<j2- - _100 mA/cmz; mixture -
+
+C02:N2:lie- 1:1:6; p- 20 (O). (P/L) L as “T.
+
+30 (o) and no (A) m Hg S‘TgL—W (’0
+
+which at L-l m and (P/L) ~l01.w/m corresponds to 5:1 leun’. The nature of
+dependence of s on d is segwn in Fig. 4 (curve 2). The power density of radiation
+of the multichannel laser system does not depend on size of the bundle: P~D3,
+but the area of the spot in the focal plane of the lens is ~03 as well (because
+of the fact that Fm~Do) and therefore P cannot be greater than the power density
+
+21
+FOR OFFICIAL USE ONLY
+I‘UK UP I'ILIAL U“ 01“. l
+
+attainable when a diffusion laser of the same length is used, although the inte-
+grated power of the multichannel laser system will increase in proportion to D2.
+
+Radiation density in the focal spot of the multichannel laser system can be in-
+creased if all tubes in the bundle can be made to lose coherently. In this case.
+at least part of the radiation will have divergence corresponding to the diameter
+of the entire bundle Do>=d rather than to the diameter d of a laser tube.
+
+The possibility of making a multichannel laser system was first demonstrated in
+1978 [Ref. 32] as exemplified by an arrangement of 39 parallel laser tubes 1 cm
+in diameter and about A m long placed between flat mirrors: copper (opaque) and
+KCl single crystal (semitransparent). A special electrode system was used to
+produce a dc discharge in each of the tubes with specific volumetric energy input
+of ~2 w/cmz. The output power of the laser was 3 k" with specific value of
+
+~20 H from 1 m of each tube.
+
+One of the serious technical problems of making a multichannel laser system with
+Inmwing by dc discharge as commonly accepted for diffusion lasers is the intro-
+duction of a large number of electrode elementain tubes of small diameter, and
+aneuring high dielectric strength between a large number of current leads under
+conditions of tight packing of all tubes. This problem is almost completely elimi-
+nated by using electrodeless laser tubes in the multichannel laser system with
+pumping of the active medium by capacitive ac discharge [Ref. 31]. Studies of
+the active properties of a medium stimulated by ac discharge with frequency of
+
+f- 10-70 kHz in tubes were done in Ref. 31. In this paper, besides the depen-
+dences of Ko on p, d, mixture composition and discharge current I. which showed
+practically no difference from analogous dependences with dc pumping, the authors
+studied such peculiarities associated with the pumping method as the relation
+between percentage modulation of output emission GP]? and laser working mode.
+
+and gave qualitative interpretations of typical curves GPIP-sf(l. p. f) shown
+
+in Fig. 5. These characteristics show that the percentage modulation of output
+emission under optimum working conditions is no more than 51. Such a value of
+GPIP is not dangerous for most technological applications of the laser.
+
+5%! >. 'L
+
+Fig. 5. Dependence of percentage
+modulation of radiation from the
+multichannel laser system with
+
+at discharge pumping as a function
+of discharge current (a), pressure
+(pﬂx P» mm “B (b) and pumping current frequency (c)
+
+ 
+
+f, kﬂr
+
+22
+FOR OFFICIAL USE ONLY
+The very first experiments demonstrated the feasibility of using ac discharge
+
+in multichannel lasers. For example in the HKTL-l laser [Ref. 86] pumped by ac
+discharge with frequency of 10 kHz an output power of l k" was obtained from a
+bundle of 6! glass tubes with diameter of 5 mm and length of l m, using a ger-
+manium Output window. The outside diameter of the bundle itself was about 75 mm.
+The emission divergence of such a laser assembly did not exceed the diffraction di-
+vergence of radiation of one laser tube.
+
+The limiting characteristics and structural parameters of the most interesting-
+laser systems with diffusional cooling of the working mixture are summarized in
+Table I. As we can see from this table. even at a very low specific power output
+P/(NTplTp), multichannel lasers enable an appreciable increase in the power taken
+from a unit of structural length of the laser (~ZT ). There is a concomitant
+sharp reduction in the number of mirrors used and in the transverse dimensions
+
+of the structure.
+
+TABLE 1
+
+Characteristics of process lasers with diffusion
+cooling of mixture
+
+  
+
+Name (company)
+
+ 
+   
+ 
+
+moo (Ferranti) 8
+rdamon , 33 150 13
+olcn sources not. 75 450 29
+
+I lan 19 750 32
+11-]. IS mo 8‘
+
+ 
+
+ 
+
+Notes: P-—1aser power; Z,p--1ength of discharge tube; NTp--
+number of discharge tubes; [ﬂy-number of mirrors in optical
+cavity; SHDCD--se1f—ma'ntained dc discharge; ACD-—ac discharge
+
+1.2. Fast-flow C02 gas-discharge lasers
+
+Significant progress in increasing the power of electric-discharge lasers became
+possible as a resulttafutilizing convective cooling, 1. e. rapid circulation of
+the working mixture through the discharge zone [Ref. 63]. Such lasers are called
+fast—flow electric—discharge lasers or lasers with convective cooling. The ratio
+of the rate of convective heat transfer to the rate of diffusional cooling is
+equal to the ratio of the diffusion time TD to the time of gas travel through
+
+the discharge zone 1c:
+
+tnl'tgusA'M/D. . ('2)
+
+where Ar is the mean free path of molecules; A is a characteristic dimension that
+determines the rate of heat diffusion (in a diffusion laser A«-R/2.4); l is the
+length of the discharge zone along the flow; H is the Mach number for the gas flow.
+
+Rapid gas flow along the optical axis of the laser (see Fig. 1) gives appreciable
+advantages over the diffusion laser. However. the considerable length l of the
+
+2
+FOR‘OFFNJRI.USE¢MNLY
+I'UK UI'I'ILIAI. vat. Ul‘hl
+
+active zone'that is necessary for efficient operation of the cavity precludes
+making the quantity ‘c sufficiently small, and makes it difficult to produce a
+high gas flowrnte. Therefore, even though the specific power output of such sys-
+tems has been increased from 50-100 to 500-1500 "In, the limiting power of the
+laser has been raised only to 2—6 It“ [Ref. 8, 29]. .
+
+Much more promising is circulation of the gas in the direction perpendicular to
+the optical axis of the laser (diagram III of Fig. 1). In this case the length
+
+of the optical axis is not associated with the length of the pumping zone in the
+direction of the flow, and therefore, substituting values of M~0.l-l. A~ Z--- 10 cm.
+A,» 10"“ cm that are typical of convective lasers in (12) (at p~0.l atm), we
+readily see that the rate of heat transfer in convective lasers may be 4-5 orders
+of magnitude greater than those in diffusion lasers. For this reason, the main
+factor that influences the limitation on specific power <jE> invested in the dis-
+charge of the convective laser becomes discharge stability.
+
+The power of convective lasers with transverse circu-
+lation, illustrated by the general diagram of Fig. 6.
+is determined by the total flowrate of gas mixture
+through the laser. the admissible heating temperature
+of the mixture Tr‘ To : ~ 150°C. and by the electro-
+optical efficiency n,‘o of the pumping method: '
+
+Puzwcpﬂl-mw. (13)
+
+Fig. 6. Diagram of CO; where w - (Tops-Tom is limiting mass energy input;
+fast-flow gas-discharge To is the gas temperature at the input to the pumping
+laser; vertical shading zone; C and p are the specific heat and specific den-
+
+ 
+
+denotes the pumping sity of the mixture; v is the rate of circulation;
+zone, horizontal shading H and Lo are the altitude of the pumping zone and its
+shows the cavity length along the optical axis. Subsituting values
+
+of parameters that are typical of convective lasers
+with different pumping methods: wg=200-300 J/g (depending on the composition
+of the mixture), p~ (l-lO)-10"s g/cm’, H~10 cm. v~102 m/a and n o-O.l-0.2.
+we readily see that values of (NM) n~l-100 kW/m are possible under conditions
+of convective lasers. In the case of diffusion lasers, the limiting values of
+(P/Lu)M-were determined only by the admissible heating of the working mixture.
+For convective lasers, the quantity P/Lo depends on structural and operational
+parameters and to a great extent is determined by the type of gas discharge used
+for stimulating the median. The limiting values of power density in the focal
+spot of the convective laser in this case are
+
+5 s—TJ—(P'L-zgd 5' suo—noooﬂ. [m]. m/cm’. (140
+
+where B<l is a geometric coefficient that depends on the type and transparency
+of the optical cavity used (usually o_1sp<1).
+
+A considerable disadvantage of the convective laser is the necessity for circu-
+lating a large quantity of working mixture. In the diffusion laser. the rate
+of circulation was determined by the rate of ch-ical poisoning of the mixture,
+
+21:
+ton omcm. use ONLY
+and could even be zero vith regenerators present. 0n the other hand. in the con-
+vective laser it is necessary to circulate 20-50 g]: of mixture through the cavity
+
+DeVelopment of stationary high-power convective process lasers with duping of
+depleted mixture (open-cycle convection lasers) is inadvisable from the economic
+standpoint, and difficult to realize at high power levels from the technical
+standpoint. Therefore as a rule circulation of the working mixture in high-power
+
+convection laser). A typical diagram of such a laser is shown in Fig. 7. It
+consists of n gas-discharge chamber 1, optical cavity 2. heat exchangers 3. lb:-
+ture circulation unit ’0 and gas lines 5 that connect them. Stability of properties
+of the active medium under conditions of the
+closed-cycle convection laser is maintained
+oolant by continuous renewal of a small portion of
+‘- the mixture (0.1-4! of the flowrate in the loop)
+or by regenerators located in the loop [Ref. 13].
+
+  
+
+The dimensions of the discharge zone 2 in the
+working return direction of gas flow depend on the gasdynamic
+'mixture‘ parameters of the working medium and the limit-
+ing volumetric energy inputs <jE> of the pulping
+Pig. 7. Typical diagram of a method: H .
+closed—cycle convection laser (”WW/(IE)- ‘ ' ' ‘ (15)
+
+ 
+
+If the vibrational energy stored on levels (00°l) of CO: and N2 has time to relax
+in collisions during the time of gas transit through the discharge (ZZv/vr, where
+
+particularly in electric-discharge arrangements with admixing of the C02 before
+the optical cavity. A diagram of such a laser is
+
+shown in Fig. 8. Absence of 602 in the discharge I”!
+zone sharply reduces v1- and enables operation at e1e~
+
+vated pressures (up to ~100 mm Hg) under conditions ""
+
+of long discharge chambers. Because of this, 002
+
+discharge lasers of high power can be made. However, m,
+
+as a rule because of the limited reserve of working
+
+mixture and difficulties with organizing circulation, Fig. 8. Diagram of open-
+such systems operate under quasi-steady state con— cycle electric discharge
+ditions. laser with admixing of
+CO; preceding the cavity:
+l--punping zone (gas-
+Extensive use of self-maintained and semi-self- - discharge chamber); 2"-
+maintained discharges in cool gas for pumping power- C02 delivery 83'3““);
+
+in! CO, lasers is due to high efficiency of stimulating 3n-optical cavity zone
+
+2. Methods of pumping gas-discharge lasers
+I‘UK OFFICIAL Ubl'. ONLY
+
+average energy of electrons corresponding to values of the "normalized" electric
+field am: (l.5—2)-10‘” V~cm2 (Ref. 35, 36] (N is gas molecule concentration)
+
+and not supporting self-maintained ionization of the gas, 1. e. under semi-self-
+maintained dischar e conditions. Under self-maintained discharge conditions
+
+(at 5/": (3-5)-l0' 5 V'cmz), the value of nK is somewhat reduced. but still remains
+fairly high (n530.75-0.85) (Ref. 35. 36]. which makes the self-maintained dis-
+charge an attractive pumping method as well. '
+
+find the simplest and most efficient methods of pumping have been intensively
+done for the last decade. Let us consider the most well developed and efficient
+methods.
+
+2.1. Self-maintained dc discharge
+
+Currently, the most extensively used method of pumping convective lasers and the
+simplest from the standpoint of technical realization is the self-maintained dc
+
+discharge. Depending on the direction of the electric £1
+to gas flow, lasers with longitudinal and transverse disc
+Typical diagrams of gas-discharge chambers with.self-maint
+shown in Pig. 9.
+
+The mechanism of closure of direct current flowing in'
+the gas stream is satisfactorily described by the
+classical theory of a glow discharge with cold
+
+cathode (Ref. 37]. Under ordinary conditions of
+
+C0, laser operation the current density in the glow~
+discharge volume is 1-2 orders of magnitude lower
+(depending on the pressure and composition of the
+mixture) than the normal current density on the cath-
+
+      
+   
+
+   
+
+ 
+
+\A.3:" ‘ " ..
+ode. Therefore cathodes 3 of the gas-discharge chamber III/I‘%%
+are made in the form of small emitting sections of 6 " '
+elongated or circular shape uniformly distributed
+over dielectric cathode plate 2. The overall area Fig. 9. Diagrams of
+of these sections is less than the area of the dis- laser gas—discharge cham—
+charge dimension transverse to the current. In the here with longitudinal
+case of a transverse discharge. the cathodes may (a) and transverse (b)
+protrude into the gas flow in the form of pins [Ref. self-maintained dc dis-
+38], or may be on one level with the cathode plate charge: l—-anode; 2-
+[Ref. 39]. In the case of a longitudinal discharge. cathode plate; 3--cathode;
+the cathodes are made in the form of pins or needles b—-pumping zone; S--csvity
+uniformly located in the cross section of the gas flow zone
+
+Ref. 40].
+
+to 502 of the voltage of the supply source is lost in the case of a transverse
+discharge.[Ref. 12, 36], and ~10! with longitudinal current flow (Ref. 60].
+
+26
+FOR OFFICIAL USE ONLY
+In most research. anode l is continuous and equipotential [Ref. 11, 12. b0]. In
+some gas-discharge chamber designs, transverse self-maintained dc discharge is
+made homogeneous by sectionalizing the anode with an equipotential cathode (Ref. 5]
+or by sectionalizing both electrodes [Ref. 42].
+
+Let us take up the principal characteristics that determine the outlook for using
+this type of discharge for pumping convective lasers. Usually self-maintained
+
+dc discharges with transverse or longitudinal flow of discharge current have weakly
+rising or nearly horizontal current-voltage curves. The quantity BIN is (4-6) x
+10"16 V-cm’. With transverse current flow. the electric field strength decreases
+along the gas stream. and may change by a factor of 1.5-2 within the gas-discharge
+chamber [Ref. 31.. («3, 66]. This situation is also one of the reasons for section-
+alizing the cathodes and providing them with individual ballast resistors.
+
+Experimental research on energy balance in the positive column of s self-maintained
+dc discharge has been done only for nitrogen and air [Ref. (do-1.6]. According
+
+to this research. the value of "x in a mixture of air with CO; falls from 0.85
+
+to 0.6 as the gas pressure increases from 40 to 80 In ﬁg [Ref. 46]. At p- 60-60
+nn Hg, 5-102 of the energy released in the positive column is expended on excita-
+tion of rotational levels of N; and 02, and at p- 70—100 mm Hg--lO-ZSZ (Ref. 41.,
+45]. The remaining energy is apparently expended on excitation of electronic
+metastable states and plasma-chemical reactions, the relative contribution of
+these as yet little investigated loss channels increasing with an increase in
+
+the pressure of the mixture. Theoretical calculations of the energy balance in
+a self-maintained dc discharge for a laser mixture at RIN=(6-S)-10'1‘ V-ctlz give
+nx=0.9 and {IT-0.1 [Ref. 36].
+
+Let us compare the values of punping efficiency for longitudinal and transverse
+discharges from the electrical engineering standpoint, taking values of EIN-
+440"15 Vocm’. p~ 30 mm Hg, H~ S cm and 1-50 cm that are typical of gas-discharge
+chambers with self-maintained dc discharge. Assuming overall losses in the elec-
+trode region of 400 V and percentage of source voltage lost on the ballast re-
+sistors of 40-502 for transverse discharges. and ~10: for longitudinal discharges,
+we readily get the efficiencies of the discharge circuit: np|~0.9 [Ref. 40. 4!]
+for longitudinal current flow. and up ~0.lo-0.6 [Ref. 5. ll, 12] for transverse.
+It is the low values of hp that expla s the. considerable difference between n30
+and n observed in Ref. 12. 34 for convective lasers with punping by transverse
+self-maintained dc discharge. Despite high values of “30'0'15 [Ref. 1], 12],
+
+the overall efficiency of such devices usually does not exceed n-0.05-0.07 [Ref.
+5. l2]. '
+
+As has been demonstrated above, the overall dimensions of the gas-discharge chamber
+depend on the limiting values of voluletric specific energy inputs <jE> that are
+restricted in the case of convective lasers by formation of pinches [Ref. 17.
+
+18. a7, («8]. The reason for plasma pinching can be feund in various instabili-
+ties of overheating nature [Ref. 16-18] that are intensified in self-maintained
+discharges due to positive feedback between energy release in the gas and ioni-
+zation processes.
+
+The limiting values of <jE> at low pressures can be estimated by setting the time
+of development of the overheating instabilities of the self-maintained discharge
+
+2
+FOR OFII‘ICIIL USE ONLY
+I'UK UI'I'ILIAI. use. UNLI
+
+TABLE 2
+
+Characteristics of gas—discharge chambers [CDC]
+with transverse circulation
+
+    
+
+Trgnsv. 4 100 15 so l8 2:“:5 I.4 1400.5- OCCL.
+
+SHDLU '5]
+
+Ditto 4 90 20 80 50 1220:” 5.5 320 0.6 Ditto II
+a 6 In 35 90 25 l:l1:0+2 2.5 240 3 [l2
+
+parts air
+
+Lﬁgt. 5.5 76 :00 240 31 2:5:30 1.9 3660.9 » [52;
+on it. 6.3 240 5'5 130 : : . . .
+
+Q band so |6l2 2040009 . m;
+r nsv.
+
+Kcﬁ
+
+Transv. I0 I00 20 90 so 1:23:16}. 4.5 I10 0.85 n I3
+
+5525:. .3 .5 . .. .5. +°.: r; .. m. ‘ '
+
+. . : : 0t 65
+109133 OCCL I I
+
+k3?§1t' 5.5 76 67 220 30 l:1:l2 2.2 280 0.85 CCC’L [60.72]
+Trans. Io 15 23 60 4 I: : , Pilot
+5 so 30 6 450 0 83 OCCL _ [67.7”
+
+'01?
+ransv. Io I5 20 I00 50 wow 7 300 0.9 Pilot [85.86]
+ACD OCCL l
+
+Note: H, Lo and Z are the height, width and length of the dis-
+charge gap; <jE> and rig—averaged specific volunetric and mass
+energy inputs; SHDCD--se1f-maintained dc discharge; ACD—ac
+discharge; NDBB—-non-se1f-maintained discharge kept alive by
+electron beam; NDIP--non-selE-_msintained discharge kept alive
+by periodic ionization pulses; CCCL—closed-cycle convective
+laser; OCCL--open-cyc1e convective laser
+
+(ionizational-superhcating. ionizational-excitation. see (4)) equal to the time
+of transit of the mixture through the discharge zone:
+
+(15),,zPo/Al. (I6)
+
+Estimates made by using relation (16) differ sharply from experimental data at
+
+pt 30 mm Hg. Special studies [Ref. 49. 50] have shown that under these conditions
+the pinch may develop in the anode region rather than in the body of the plasma.
+and then propagate toward the cathode like a streamer at a velocity of ~10"-IOs
+calls. In this case <jB> does not increase linearly with P, but remains constant
+
+or falls [Ref. 43].
+
+Currently there is no theory that gives one-to-one relationships between <le>np
+and gasdynamic parameters of the flow or geometric characteristics of the gas-
+discharge chamber. Therefore the <jE>up necessary for calculating convective
+lasers must be taken from experiment.
+
+28
+FOR OFFICIAL USE ONLY
+1n the case of"‘a""t'ransverse discharge,- it has been shown by experiments Inst. 5.
+ll, 12. 34, 43] that <jB>np changes in the following way: 1) increases with pres-
+sure up to p- 20-40 mm Hg, and then saturates or begins to decrease; 2) increases _
+with gas velocity 'up to v~50-100 m/s. and then saturates or begins to fall; 3)
+decreases with increasing height H of the discharge gap; lo) beginning at a cer-
+tain length. decreases with increasing 1 (there is no additivity of the contri-
+bution in the direction of flow); 5) increases with addition of lie to the mixture;
+6) decreases with increasing CO; content and 820 in the working mixture. Specific
+mass energy inputs V3 in a gas-discharge chamber with self-maintained dc discharge
+decrease with increasing pressure, and increase with increasing 1 [Rsf.12. 310.63].
+
+Typical characteristics of gas-discharge chambers with self-maintained dc discharge
+are summarized in Table 2.
+
+Host gas-discharge chambers with transverse discharge use mixtures that contain
+heliua; at partial pressure of nitrogen not exceeding 30 In ﬁg. and total pres-
+sure p of the mixture of the order of 50 In Hg or less. flowrate' of 30-100 m/s.
+a= 3-6 cm and 1- 20-40 cm. we can get <jE> ~2-5 w/cn’ at w8~ 250-300 J/g in
+helimn mixtures. and 150-250 J/g in helium- ree mixtures. Because of the high
+cost of helium. the use of helium-free mixtures is of particular interest for
+lasers with partial renewal of the working mixture.
+
+Substituting typical values of <JE’n in (15), we get Z>v/v, for a gas-discharge
+chamber with self-maintained dc disc rge. and therefore high n30 can be achieved
+only by using a combined cavity scheme. Since the diameter of mirrors used in
+the laser D~li< l. resonators of convective lasers with pulping by self-maintained
+dc discharge are nearly always multipass [Ref. 5. ll. 12].
+
+At the present time the characteristics of longitudinal self-maintained dc dis-
+charges have not been adequately studied. For le-er nixtures we have only isolated
+values of <jE>np obtained for fixed conditions [Ref. 24. 60, 51]. As a rule,
+these experiments were done at high flowrates (of the order of 100 mla or more),
+1 -bO-50 cm, and in the absence of special steps to achieve stabilization were
+distinguished by comparatively low values of <jE>S 1 “lens. Higher values
+
+(5 U/cn’) were attained in studying self-maintained dc discharge in an air flow
+at pressure of 60-60 mm Hg [Ref. 26]. Just as in the case of transverse self-
+maintained dc discharge. <jE> and w in the longitudinal selfémaintained dc dis-
+charge decrease with increasing 1 [ f. 26, 51] and pressure of the working mix-
+ture lief. 51]. Nonmonotonie dependence of <jB> on air flowrate in such a dis-
+charge is noted in Ref. 51.
+
+In laser devices that use longitudinal self-maintained dc discharge for pumping,
+the quantity <jB> can be increased by additional gasdynamic or electrical action
+on the discharge. '
+
+Stabilizing the discharge by gas flow involves more than mere limitation of the
+time that the gas stays in the discharge zone. Since the plasma electrons are
+bound by electrostatic forces to ions. and the latter—due to collisiona--are
+bound to neutral gas molecules. discharge stability may be influenced by control-
+lable changes in the gasdynamic flow parameters (in particular by turbulence in-
+tensity). The gasdynamic action of gas flow on a discharge was studied in Ref. 26,
+
+FOR OFFIC€ZL USE ONLY
+TV“ VI'I'ISOIIL WC- Vl‘hl
+
+52-60. The authors of Ref. 53-56 made an attempt to find a relation between ob-
+served electric characteristics of the discharge and the Reynolds number of the
+flow. In Ref. 53, an abrupt change in the discharge burning conditions was ob-
+served at ReZRecr. In Ref. 56 an effect of discharge decontraction was observed
+upon transition to turbulent conditions. The independent change in degree of
+flow turbulence by turbulizing grids [Ref. 57. 58] enabled separation of effects
+of stabilization by convection and turbulence. In Ref. 26, 57, the significance
+of homogeneity of the flow velocity profile was noted in addition. A qualitative
+effect of the influence of turbulence scale on discharge stability was observed
+in Ref. 59. A quantitative investigation of the influence of controllable degree
+of flow turbulence at lﬂniting values of <jE> in a longitudinal self-maintained
+dc discharge has been carried out in air at p-40-60 mm Hg [Ref. 26]. It was shown
+(Fig. 10) that controllable flow turbulence set up by a special grid with coef-
+
+U, k“ P. kH
+
+   
+       
+
+“QR“
+
+ 
+
+0 J0 v. m/s
+
+Fig. 10. Limiting power in- Fig. 11. Emission power (1).
+
+vested in longitudinal self-
+maintained dc discharge as
+
+a function of flow velocity
+
+and degree of turbulence of
+
+the medium: p- 50 mm Hg; 1-
+
+10 cm; H-6 cm; D,/v-0.25-10'2;
+c-0.05 (I). o.-os.lo‘2-o.12 (0),
+2-10'2-o.18 (0), 3-10'2-o.22
+(a), 4.5-10‘2-0.26 (A). 7.10"-
+
+-0.3 (0) [Ref. 26]
+
+power invested in the dc dis-
+charge (2) and total discharge
+power (3) as functions of the
+auxiliary rf discharge power
+(a) for C02:N2:3e- 1:6:12, p-
+30 mm Hg, v- 130 m/s. and dia-
+gram of the experiment (b):
+l--cathode; 2--anode ; 3-ac
+voltage supply; 4-dielectric
+plate; 5-discharge zone
+
+ficient of turbulent diffusion DT depending on its scale may either increase or
+reduce <jE>; in optimum nodes when the effect of turbulent stabilization was com-
+parable with or greater than the effect of stabilization by convective entrainment.
+the quantity <jE> could rise by a factor of 2-4. High efficiency of gasdynamic
+action of the flow on discharge in a laser mixture was also demonstrated in Ref.
+52. 60.
+
+Superposition of an auxiliary rf field on the discharge that is transverse with
+respect to the main field may also lead to decontraction of the plasma and an
+increase in <jE>np in longitudinal self-maintained dc discharges [Ref. 24. SI. 62].
+In laser devices this effect was first demonstrated in the gas-discharge chamber
+shown in the diagram of Fig. 11 [Ref. 26. 51]. Switching on an alternating field
+with frequency of 13.5 MHz tripled the power invested in the discharge. and the
+combined gasdynamic and electrical action on the discharge raised <jB>np to about
+
+2 H/cm’. According to theoretical studies [Ref. 62. 63] superposition of rf fields
+on a self-maintained dc discharge can increase <jE>np by a factor of 1.1-1.5.
+
+30
+FOR OFFICIAL USE ONLY
+TABLE 3
+
+Characteristics of closed-cycle convection laser
+with transverse circulation
+
+ 
+    
+    
+
+  
+
+Name (company) Pumping method
+
+  
+
+Bx
+
+ 
+
+rimental .
+acility Transv. SHDCD l l
+
+are 913 (Sllvanla) . a
+8:; - ’ :
+TF1: : to
+
+l 1 .
+Expe ‘“ rﬂental fa Longit.’ suncn :95
+
+C1115¥ (CO;
+
+ampli ier) .
+Ditto Long 1:. $ch & 27
+HPL l0(Avco- -vatt) h5§§3§vﬁbﬁ 15
+C01 31— laser Transv. NDEB I0 I
+Tgﬂdon Longit. NDIP -_ 5
+
+Note: P-Laser power; Lo-dimension of gas-discharge chamber
+in direction of optical axis; Q—-volumetric flowrate of mixture
+in loop. m’ls; G--mass flowrate of mixture in loop. g/s
+
+characteristics of the most interesting laser devices that use transverse and
+longitudinal self-maintained dc discharges for pumping are summarized in Table 3.
+Besides output power and the quantity n sonp that is close to the total efficiency
+of the laser (usually n~ (0. 8-0. 9)n9°np ). this table contains data on a most im—
+portant dimension Lo that to a great extent determines the overall dimensions
+of the entire device; this is the length of the gas-discharge chamber across the
+flow. The table also summarizes data on the volumetric and mass flowrates of
+the mixture in a closed loop. The working conditions for gas-discharge chambers
+used in many devices are given in Table 2. It sh0uld be noted that practically
+all modern laser facilities operate on working mixtures with a high helium content.
+An exception is the TL-IO [Ref. 12] that uses a mixture of CO; with nitrogen and
+air. All lasers with self-maintained dc discharge operate at comparatively low
+pressures (the partial pressure of nitrogen does not exceed 20—25 mm Hg) and at
+volumetric energy inputs of 2-5 w/cm , and can yield electro—optical efficiency
+or 15- 251. The overall efficiency of a convective laser with transverse pumping
+by self-maintained dc discharge is less than -O. l, which is due to the low value
+of up. In the case of longitudinal discharge,n n3° may reach -O. 2. The power
+taken from a unit of length of the laser along the optical axis is 1-8 kH/m for
+transverse pumping, and 10-25 kH/m for longitudinal pumping. This considerable
+difference can be attributed to the high flowrates in longitudinal systems. The
+values of output power normalized to the volumetric flovrate of the device are
+1-2 kH/m’ls in either case. In lasers intended for use in industry where closed
+loops with a high rate of circulation are inadvisable from the economic standpoint
+
+because of rising hydraulic losses [Ref. 13]. realistic values of P/L. are of
+the order of 10 kw/m or less.
+
+1
+IIHlCNﬂﬂC3AI.IHﬂE(NVLY
+FOR OFFICIAL USE ONLY
+
+In estimating prospects for raising power in laser devices with self-maintained
+
+dc discharge, we can expect that for reasonable and realistically attainable values
+of L.‘-2 m-and v~ 100 mls the power of a convective laser in the case of trans-
+verse pumping will be limited on a level of 10 kW due to difficulties associated
+with organizing the discharge at Hz 5 cm. Longitudinal discharge is less sensi-
+tive to the quantity H, and thereforeit is to be hoped that the output power of
+the laser will increase in proportion to H. However. in experimental devices
+
+with longitudinal self-maintained dc discharge, B<6 cm.
+
+2.2. Semi-self-maintained discharge with electron-beam ionization
+
+The semi-self—maintained discharge can optimize the parameter BIN in the gas-
+discharge chamber of convective lasers for pumping of the working medium, and
+therefore this discharge has a maximum value of nx of the order of 0.9 or more
+(Ref. 35, 36]. Another advantage of the non-self-meintained discharge is higher
+stability than the self-maintained dc discharge associated with a sharp reduction
+in the increments of instabilities of the ionization-superheating type at values
+of BIN 1.5—2-times lower than for self-maintained dc discharges. At the present
+time the best developed equipment is for the non-self—maintained discharge kept
+alive by electron beam [NDEB]. and the prospects for further increase in power
+
+in process lasers are tied up with this type of discharge.
+
+A typical diagram of a gas-discharge chamber for
+pumping the working medium of a laser with “DEB
+
+is shown in Fig. 12. The working medium is ionized
+by a beam of fast electrons introduced into dis-
+charge gap 5 from an electron accelerator through
+thin metal foil 4. The average energy of the plasma
+electrons is determined by the magnitude of the
+constant electric field maintained between grid—
+cathode 2 and anode l of the discharge gap. The
+homogeneous beam of accelerator electrons with energy
+of 100-250 keV and current density of the order
+
+of 10 uA/cm2 or more provides a homogeneous non~
+selfqmaintained discharge, and consequently gives
+high uniformity of optical properties of the active
+medium.
+
+ 
+
+Fig. [2. Diagram of gas-
+discharge chamber of laser
+with pumping by “DEB: 1—-
+gas-discharge chamber anode;
+2-GDC cathode; 3-electron
+gun cathode; 4-foil; 5-—
+pumping zone; 6-optical
+cavity zone The physical processes in the NDEB and its parameters
+have been quite intensely studied over the last
+decade lRef. l3, l9, 6h-66l. Therefore we will take up only the major aspects
+of this research that are of practical interest to laser technology.
+
+Questions of NDEB stability are studied in detail in the survey of Ref. 19. In
+particular, it is shown in this paper that maximum energy inputs to the NDEB may
+be limited by development of volumetric superheating instabilities. as well as
+instabilities due to phenoment near the electrodes [Ref. 66].
+
+lypical current-voltage curves of the NDEB are rising. and therefore the electrodes
+and ballast resistors need not be sectionalized to ignite and maintain the dis-
+charge. The potential drop near the electrodes in the NDBB is 400-500 V [Ref. 13,
+65]. In contrast to the selfqmsintained dc discharge, the quantity <jE> in the
+
+32
+FOR OFFICIAL USE ONLY
+NDEB increases linearly with increasing flourste [Ref. 13] and mixture pressure
+[Ref. 13, 65], i. e. the current density 3np of transition to arcing is indepen-
+dent of pressure up to ~300 mm Hg [Ref. 19. 65]. The limiting values of <jB>
+
+in the N‘DBB in nitrogen at p- 150 mm Hg reach ~200 H/cms-at 1 ~ 300 mA/cla2 [Rah
+65]. Even in facilities of industrial scale, values of j~'25 mA/cm2 are reached
+at <jE>~5 wcm’ [Ref. 13].
+
+The non-self-maintained discharge also has advantages over the selfqnsintsined
+
+dc discharge inlthe.energy balance in the discharge. As indicated above. at opti-
+mum E/N. 90-952 8f the energy invested in the positive column of the semi-self-
+maintained discharge is expended on exciting vibrational levels of nitrogen
+("1"0'9'°°95) (Ref. 36, 45]. Expenditures on direct heating of the mixture at
+2/": (1.5-2)-10'” V-cm2 in this case do not exceed n..-o.os [Ref. 1.5. 67]. Since
+the energy released in the electrode layers of the “DEB at typical values of
+
+H-IO cm does not exceed ~102. while expenditures on creating the electron beam
+are 5-101 [Ref. 13, 19. 65] of the ﬁne, the efficiency np of the discharge cirCuit
+of the NDEB should be 0.8-0.85.. The possibility of attaining high values of
+
+<jE> of the order of 100 Wen:a or more at elevated pressures (p 2150 In ﬁg) opens
+up real prospects for reducing the overall dimensions of laser devices. raising
+their power, and simplifying electro-optical arrangements.
+
+' The parameters of gasédischarge chambers and laser devices with NDBB are summa-
+rized in tables 2 and 3. Values of <jE> and P near the maximum for lasers with
+selfdmaintained dc discharge have already been achieved in devices of this type.
+
+In speaking of the operational peculiarities of lasers with “DEB. it must be noted
+that the presence of a high-voltage (up to 250 kv) and high-current (10"-10'2 A)
+electron accelerator not only complicates construction and operation of the fa-
+cility. but requires effective biological shielding for service personnel.
+
+2.3. Semi-self-maintained discharge with ionization by periodic pulses
+
+The above mentioned technical and operational complexities of realizing NDBB can
+be obviated in great measure by using a non-self-maintained discharge kept alive
+by periodic ionization pulses [NDIP] for pumping CO: lasers. This is often called
+a combined discharge in the literature. Use of this type of ssmi-self-maintained
+discharge for pumping a laser medium was first suggested in 1972 [Ref. 68, 69].
+The working principle of such a discharge is illustrated in Pig. 13a. Conduc-
+tivity of the gas in the NDIP is maintained by ionization that takes place in the
+volume under the action of high-voltage (Ii/N«v(l--2)-10"‘s V~cmz) periodic pulses
+of short duration (1"50.l us) at recurrence rate of fu~ 1-100 kHz. In the period
+between two successive ionization pulses. a non-self-maintained current flows
+
+in the decaying plasma. kept alive by a constant voltage Up applied across the
+discharge gap, corresponding to the value of parameter BIN that is optimum for
+excitation of the active medium. The ionization pulse recurrence rate must exceed
+the characteristic frequency of plasma decay. i. e. it must satisfy the condition
+
+f..>>M.. (l7)
+
+uhzre Bo is the effective recombination coefficient at optimum BIN-~(243)-10'16
+V-cmz. 80- 10" [Ref. 70]. Therefore condition (17) at nel~101° cm.3 takes the
+form fu>l kHz. '
+
+FOR OFIHC%RI.USE1)NLY
+I'UK UI'I‘ILIAL US: ‘11th
+
+ 
+
+Fig. 13. Time dependences of pulsed power supply voltage U",
+discharge current I. and electron concentration% (a), and
+diagrams of gas-discharge chambers (b, c) with pumping by NDIP:
+l--anode; 2-cathode; 3-discharge zone; 4-optical cavity zone;
+5--grid; 6-dielectric wall; 7--cathode plate
+
+The outlook for using such a discharge in laser technology has been studied on
+
+the two types of gas-discharge chambers shown in Pig. 13b, c. In the first of
+these, constant and pulsed electric fields are set up by the same electrode system
+and directed perpendicular to the gas flow and to the direction of the optical
+axis (transverse version) [Ref. 71]. The electrode system consists of continuous
+anode l and a set of copper pin cathodes 2 set flushwithcathode plate 7, each
+
+pin being connected to a source of constant voltage through ballast resistor R5.
+The inductance in the dc circuit protects the source of constant voltage from
+high-voltage ionizing pulses.
+
+In the second type of gas-discharge chamber for NDIP [Ref. 72] the constant elec-
+tric field is directed contrary to the gas flow, and as in the gas-discharge cham-
+ber for longitudinal self-maintained dc discharge (Ref. 60], it is maintained
+between pin cathodes 2 protruding into the flow and tubular anodes 1 (longitudinal
+version). The pulsed ionizing discharge is capacitive and is realized through
+dielectric walls 6 of the gss~discharge chamber by means of metal grids S placed
+
+on the outside of the walls. The pulsed electric field is directed perpendicular
+to the gas stream.
+
+The proposed versions of gas-discharge chambers can set up a homogeneous dis-
+charge with optimum BIN in large volumes (1-20 liters). Just as in the case of
+the NDEB, the current-voltage curve of the NDIP is rising (Ref. 60, 72], enabling
+a reduction in values of ballast resistors as compared with the self-maintained
+dc discharge. The optimum frequencies of ionizing pulses are different for the
+two types of gas-discharge chambers, being 2-4 and 70 kHz for the variants of
+Fig. 13b, c respectively [Ref. 67. 72]. Studies have shown that NDIP is more
+stable than self—maintained dc discharge, and for laser mixtures gives maximum
+
+3h
+ma omcm. use ONLY
+<_1£> = 5-10 wax.3 and w3~ 250-450 J/g in the transverse version of the gas-discharge
+chamber [Ref. 67], and also <32» 1.6 u/cn’ and w ~210 J/g in the longitudinal
+version (Ref. 60]. This enables an increase in tﬁe interelectrode gap to H-10 cm
+and a reduction in the length of the discharge zone with some increase in pressure
+of the working.mixture (Ref. 67]. Studies of the energy balance in the transverse
+version of NDIP (Ref. 67] have shown that the values of vibrational efficiency
+
+may exceed 0.9 in pure nitrogen. and reach rig-0320.05 at BIN-1.25-10'“ V-cmz
+and wg- 250 J/g in the laser mixture (Ref. 67]. The fraction of energy that goes
+to direct heating of gas decreases with increasing BIN, and is (5-6)-10'2 at
+
+E/N- 1.6-10'" V-cm2 (Ref. 45, 67]. In accordance with Ref. 71, about 5: of the
+total expended energy is spent on pulsed ionization of the medium. abOut 22 is
+dissipated in the ballast resistors. and 101 is lost in the layers near the elec-
+trodes. The value of np-0.80-0.85 in the NM? exceeds the corresponding values
+
+In comparing N01? with other pumping methods. it must be noted that use of this
+technique obviates certain technical complexities that arise when NDEB is used.
+
+discharge. but still they are considerably inferior to the limiting parameters
+of lasers with pumping by NDEB. One of the major technical complexities in making
+a laser with pumping by NDIP is development of a nanosecond pulse generator.
+
+2.4. Ac discharge
+
+to non-self-maintained discharges. the ac discharge does not require several sup-
+ply sources for realization, and it is fairly simple to realize.
+
+The physical mechanism of such a discharge is reminiscent of the mechanism of
+
+the NDIP (Pig. 14a). Just as in the NDIP. ionization in the ac discharge takes
+place only as the absolute value of the electric field is passing through the
+maximum. rather than during the entire discharge period; for the rest of the time
+the discharge is non-selE-maintained. and current is flowing in the decaying
+plasma. The frequency f of the ac discharge on the one hand must be greater than
+the effective frequency of plasma deca . and on the other hand must not be too
+high. so that the discharge in the plasma is not pinched by displacement currents.
+i. e. it must satisfy the condition
+
+(Ma) «Ma.
+
+where o is plasma conductivity. Substituting values of Bone‘~10’ and oa-lO7 n“
+that are typical of laser discharges, we can readily see that the quantity f must
+lie in a range of 10 kHz-l MHz. The ac discharge in a laser medium has been most
+completely studied in the frequency range of 10-100 kHz [Ref. 74, 85, 86]. Pump-
+ing of the active medium of a laser by rf discharge ﬁith f-l3.6 HR: was considered
+in Ref. 73.
+
+FIH!(”HHK3§I.USE(MVLY
+I'Ull UI'I'ILIAL use. VNLI
+
+ 
+
+u - 0mm
+" Ec-r-v—LF—dzs
+
+rm 3
+YILZz/A'Illv’l/I/g'I/Jllll
+«r 7/ 7
+
+    
+  
+  
+
+  
+
+ 
+
+77/A 7/; 7/1 7/1 7/]. 7/1. ’ll. ’///1.
+
+-‘.’- @I@0n
+
+Fig. It. Time dependences of supply source voltage Up, laser
+
+mixture ionization rate 21. ne and I (a), diagrams (b, c) and
+
+equivalent supply circuit (d) of gas-discharge chamber with
+ac discharge
+
+ 
+
+Designs and power supply circuit of the ac gas—discharge chambers used in the
+experiment are shown in Pig. llob. c. Transverse ac discharge with respect to
+
+gas flow was set up between two dielectric plates 1 with metal coatings 2 applied
+on the outside (electrodeless discharge) [Ref. 74], or in a chamber made up of
+dielectric electrode plates 3 with metal electrode pina_b set in (electrode dis-
+charge) [Ref. 86]. In this case, the circuit of each electrode contained a ballast
+capacitor 5 with capacitance of (;. 50-100 pF. Discharge supply was from a source
+of alternating voltage through a step-up transformer. The equivalent circuit
+
+of the ac discharge supply is shown in Fig. lhd.
+
+The mechanism of ac discharge flow and the particulars of observed current and
+voltage oscillograms were discussed in Ref. 75, 77. The improved stability of
+the plasma in the ac discharge as compared with self-maintained dc discharge is
+due to a number of reasons. In the first place the phase of the self-maintained
+discharge that is least stable with respect to ionization-thermal instability
+
+in the ac discharge makes up only a small fraction (-0.1) of its period T. Sec-
+ondly, the ac discharge has higher values of El“ during this phase of the discharge.
+and weaker dependence of the ionization coefficient on BIN. And finally, "infi—
+nite" sectionalizing of the electrode element of the discharge occurs in imple-
+mentation of an ac discharge. and an increase in the degree of sectionalization
+is accompanied by improvement of discharge stability [Ref. 5i]. The more stable
+character of the ac discharge enables attainment of the necessary values of 33
+at H increased by a factor of 1.502. and lengths of the pumping zone reduced by
+a factor of 1.5—2 as compared with the transverse version of self—maintained dc
+discharge (see Table 2). In this case, the values of 33 may reach 5-7 H/cm’.
+
+FOR>OF1ﬂCi21.USEGMVLY
+In contrast to non-self-maintsined discharges. in the ac discharge the normalized
+electric field BIN varies in time, and may amount to -~8-10‘16 V-cm2 at the maximum.
+Estimates of "r obtained by integrating its calculated values [Ref. 35, 36] with
+respect to the period of change in the field in the discharge yield nKI-0.7S-0.8.
+which is closeﬂto‘the "x for a self-maintained dc discharge. Experimental values
+of the vibrational efficiency of the ac discharge on a frequency of 10 kHz at
+p'~30-$0 mm Hg coincide with calculations. Coincidence of the efficiency of ex-
+citation of the working mixture in a self-maintained dc discharge and an ac dis-
+charge with frequency of 13.6 MHz was also pointed out in Ref. 51. If we dis-
+regard dielectrib'loases in the ballast capacitors. we find that the discharge
+efficiency at H~ [0 cm and p~50 mm Hg is n =0.9-0.95, and nxnp~0.7-O.75 (as
+compared with n -0.4—0.6 for transverse self-maintained dc discharge and 0.75-0.8
+for transverse EDIP). Experimental studies of the change in optical characteris-
+
+dc discharge. Typical parameters of gas-discharge chambers of lasers with ac
+discharge are shown in Table 2. A comparison of the values given in the tables
+shows that the ac discharge is close to the NDIP with respect to limiting charac-
+teristlcs.
+
+One of the peculiarities of excitation of gas-discharge lasers by ac discharge
+is unavoidable modulation of emission with frequency 2f. In the case of convec-
+tive lasers, the depth of modulation. just as for diffusion lasers. does not ex-
+ceed 5-102 [Ref. 3], 85} at f= 10 kHz, and drops with increasing f.
+
+In discussing the technical aspects of developing laser equipment, we must note
+
+the relative simplicity of laser pumping by ac discharge. Like semi-self-msin-
+tained discharges, it can produce a homogeneous medium in large volumes with
+higher interelectrode gap (~10 cm) and comparatively short pumping zone (~20 cm).
+Such a laser can be supplied by a simple and reliable source consisting of a motor-
+generator and step-up transformer. Another important condition for feasibility
+
+of using an ac discharge in laser equipment is the availability of industrial
+motor-generator sets with frequency of 8-10 kHz and power up to 150 kw.
+
+The ac discharge is a promising pumping method not only for convective lasers,
+but for diffusion lasers as well [Ref. 31]. This technique eliminates energy
+losses in ballast resistors, reduces the voltage of the laser supply source. and
+also enables electrodeless discharge, which may be of interest for sealed diffu-
+sion lasers.
+
+increasing the limiting characteristics of ac discharges by rotating the electric
+field vector [Ref. 79. 81]. The first reports have also appeared on experimental
+confirmations of improvement of discharge stability in rotating electric fields
+
+Conclusion
+
+The present.state of gas discharge physics and engineering now enables us to make
+efficient laser devices with steady-state emission power up to 10 k", and opens up
+
+FOR 0FFK31I.USE(NVLY
+FOR OFFICIAL USE ONLY
+
+prospects for further considerable increase of power and improvement of oper-
+ational. characteristics of gas-discharge process lasers.
+
+Selection of the laser design and pumping method ahOuld be determined of course
+not only by the power of the laser, but also by its purpose, working conditions.
+and economic effectiveness of utilization.
+
+Analysis of non-Soviet models of process lasers has shown that the cost of the
+laser itself as normalized to the output power is weakly dependent on the laser
+design and the pumping method used, and decreases from 90-110 to 20-40 dollars
+per watt as power increases from 1-2 to 10 kw [Ref. 8].
+
+More important from the economic standpoint is the cost of laser operation. The
+efficiencies of different laser systems are similar. usually amounting to 5-101.
+The cost of using C02 lasers is determined to a great extent by their capability
+for using inexpensive working mixtures, especially helium-free mixtures, since
+the overwhelming majority of present-day process lasers with convective cooling
+are operated under conditions of partial renewal of the laser mixture (-11 of
+the f lowrate in the loop). and diffusion lasers operate under open-cycle condi-
+tions. Elimination of helium from the mixture composition leads to a sharp drop
+(by nearly an order of magnitude) in the output characteristics of the diffusion
+laser due to impairment of heat transfer to the walls. In convective lasers.
+the absence of helium does not have such an appreciable effect. especially in
+lasers with pumping by self-maintained dc and ac discharges. Development of ef-
+ficient systems for regenerating the working medium will in principle enable a
+considerable reduction in the expenditure of helium and will reduce labor servicing
+expenditures; however. this involves the necessity of adhering to more rigorous
+requirements for gas-tightness of laser systems. and improved vacuum hygiene.
+Therefore the final choice of a laser design and pumping method requires careful
+analysis of their technical. operational and economic aspects.
+
+REFERENCES
+l. Patel. C. K. N.. PHYS. REP. LETI'S. V01 13, 1964, p 617.
+
+2. Patel. C. K. N., Faust, W. I... McFarline, R. A.. BULL. AMER. PHYS. SOC., Vol 9.
+1964. P 600.
+
+3. Klauss. P. J., AVIATION WEEK AND SPACE TECHNOLOGY. Vol 103. No 9. 1975,
+pp 50. 103.
+
+4. Cl.eo.P. K., IEEE J. Vol QE-3. 1967. p 683.
+
+5. Tiffany. W. 3.. Targ. R.. Poster. J. D.. APPL. PHYS. LETTS. Vol 15. 1969. p 91.
+6. “0.33, 3.. Pease. 3.. Staal, J., Zar. J., APPL. OPTICS, Vol 13. 1974, p 1959.
+
+7. LASER FOCUS. Vol 13. No 3. 1977. p [4.
+
+8. Spalding. I. J., OPTICS AND LASER TECHNOLOGY. No l, 1978. p 29.
+
+9. Nags]. Akio. MITSUBISHI ELECTR. ADV.. Vol 8, No l, 1979. p 110.
+
+FOR OFFKIBAL USE ONLY
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+16.
+17.
+18.
+
+19.
+
+20.
+21.
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+Stcl'makh-. .15. F.. ed.. "Lazary v tekhnologii" [Lasers in Technology], Moscow.
+Energiya, 1975.
+
+Kosyrev. P. K... Kosyreva, N. P.. Lunev. Ye. I.. AV'I‘OHATICHESKAYA SVARKA.
+No 9, 1976, p 72.
+
+Abil'siicov, G. A.. Antonova, 1.. 1.. Arumov. A. V.. Golubev. V. 8..
+Drobyazko. s. V.. Yegurov. Yu. A.. Katsuro. N. 1.. Kazhidub. A. V..
+
+Lebedev. F. V.. Senatorov. Yu. 11., Sidorenko. Ye. 14., Sunerin. V. V..
+Turundayevskiy, V. 3.. Prolov. V. 11.. KVANTOVAYA ELEKTRONIKA. Vol 6. 1979.
+
+p 201..
+
+Basov. N. G.. Kobayev, N. K.. Danilychev, V. A.. Mikhaylov. 11. 1)., Orlov.
+
+V. K.. Save-l'yev. V. V.. Son. V. G.. Cheburkin. N. V.. KVAN'NVAYA “TRONIKA.
+V01 6. 1979. p 772.
+
+Sobolev. N. N.. Sokovﬂtov. V. V.. USPEKHI PIZICHESKIKE NAUK. V01 91. 1967.
+p 1.25.
+
+Wchinskiy. V. P., USPHCHI FIZICHBSKM NAUK. V01 91. 1967. p 389.
+Haas. R. A.. PHYS. RBV., Vol 8A. 1973. p 1017.
+
+Yeletskiy. A. V.. Rakhmov. A. T.. KHIHIYA PLAZMY. No 4, 1977, p 123.
+Napartovich. A. P.. Starostin. A. N.. KHIHIYA PLAZMY. No 6. 1979. p 153.
+
+Velikhov. Ye. P.. Pis'mennyy. V. 1).. Rakhinov, A. '1‘.. USPEKHI PIZICHESKIKH
+NAUK. Vol 122. 1977. p 1019.
+
+Hertzberg. A.. J. ENERGY. V01 1. No 6. 1977. p 331.
+J. P. Reilly. AS‘l‘RmAUTIC-AERWADTICS. No 3. 1975. p 52.
+Levinson, G. R. et a]... ZHURNAL PRIKLADNOY SPEKTROSKOPII. Vol 10. 1969. p 425.
+
+Ochkin. V. 11.. TRUDY FIZICNBSKOGO INSTITUTA INENI P. N. LEBEDBVA AKADEMII
+NAUK SSSR. V01 78. 19710. p 3.
+
+Brown. C. 0.. Davis. J. V.. APPL. PHYS. LB‘l'I‘S., V01 21, 1972. p 680.
+Rayzer. Yu. P.. FIZIKA PLAZHY. V01 5 1979. p 408.
+
+Bondarenko. A. V.. Colubev. V. 8., Dan'shchikov. Ye. V.. Lebedev. F. V..
+Ryazanov. A. V.. PIZIKA PLAZMY. Vol 5. 1979. p 687.
+
+Ecker. G.. Kroll, 11.. zvller. PHYS. FLUIDS, V01 7. 19610. p 2001.
+Abil'siitov. G. A.. Anamonov. A. V.. Velikhav. Ye. P., Yegorov. Yu. A..
+
+Kazhidub. A. V.. Lebedev. F. V.. Sidorenko. Ye. 11.. Sumerin. V. V.. Frolov,
+V. 11., KVANTOVAYA ELEKTRONIKA. V01 7. 1980. p 21067.
+
+3
+FOR Ol'I-‘ICIZL USE ONLY
+29.
+30.
+
+31.
+
+32.
+
+33.
+
+310.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+40.
+
+41.
+
+“2.
+
+43.
+
+aa.
+
+45.
+
+46.
+
+EUR UFHLIAL UDI'. ONLY
+
+Locke, 8.. OPTICAL ENGINEERING. Vol 17. 1978. p 192.
+French Patent No 70. 37698, 19 Oct 70.
+
+Ancyukhov, V. V.. Clova. A. 17.. Kachurin. 0. R.. Lebedev. F. V.. KVANTOVAYA
+ELEKTRONIKA, Vol‘ 7. 1980. p 425.
+
+Kozlov. G. 1.. Kuznetsov, V. A.. Haeyukov. V. A.. PIS'HA V ZHURNAL
+TEKHNICHESKOY FIZIKI. V01 10. 1978. p 129.
+
+Letokhov. V. 5.. Ustinov. N. D.. 'Moahchnyye lazery i ikh primeneniye" [Pover-
+ful Lasers and Their Use]. Moscow. Sovetskoye radio. 1980.
+
+Artamonov. A. V.. Yegorov, Yu. A.. Kazhidub. A. V.. Katsuro, N. 1.. Lebedev,
+
+F. V.. Sidorenko. Ye. 11.. Sumerin. V. V.. Frolov. V. M. KVANTOVAYA MWIKA.
+Vol 5. 1978. p 920.
+
+Nighan. H. L.. PHYS. REV.. 01 A2, 1970. p 1989.
+
+Karlov, N. V.. Konev. Yu. 5.. Kochetov, I. V.. Pevgov. V. 0.. Preprint, Lebedev
+Physics Institute. 110 91. Moscow. 1976.
+
+Granovskiy, V. D., "Blektricheekiy tok v gaze" [Electric Current in Gas].
+Moscow. Nauka, 1971.
+
+Lancashire, R. 8.. Alger. D. 1... Maniacs. B. J.. Scalby. J. G., Dunnig. J. V..
+Stubbs, R. 14.. OPTICAL ENGINEERING. Vol 16. 1977. p 505.
+
+Hyl'nikov, G. 0.. Napartovich. A. P.. FIZIKA PLAZMY. V01 1. 1975. p 892.
+Bckbreth, A. C.. Davis. J. 11.. APPL. PHYS. LETTS. V01 19. 1971. p 101.
+
+Rayzer, Yu. P., "Osnovy sovremennoy fiziki gazorazryadnykh protsessov"
+[Principles of Modern Physics of Gas-Discharge Processes], Moscow. Nauka, 1980.
+
+Fahlen. ’1‘. 5.. Kirk. R. P.. U. 5. Patent No 4077018. 28 Feb 78.
+
+Arcamonov. A. A.. Blokhin, V. 1., Vedenov, A. A.. Vitshas. A. F.. Gavrilyuk.
+V. 1).. Yegorov. A. A.. Namv. V. 6.. Pashkin. s. V.. Peretyat'ko. P. 1..
+KVANTOVAYA ELBKTRONIKA. V01 4. 1977. p 581.
+
+Vedenov, A. A.. Vicshas, A. P.. Certs. V. Ye.. Naunov. V. 6.. TEPLOFIZIKA
+WSOKIKH MERATUR. Vol 16. 1976. p 641.
+
+Akishev, Yu. 8.. Artmnov. A. V.. Naumov. V. 6.. Trushkin. N. 1.. shashkov.
+V. H.. ZHURNAL MENICHESKOY 1’12le. Vol 49. 1979. p 900.
+
+Artamonov. A. V.. Breyev. V. V.. Kukharenko. A. '1‘.. Samokhin, A. A.. "Trudy
+vcorogo Vsesoyuznogo aoveshchaniya po fizicheakim procsessam v gazovykh 0K "
+[Proceedings of Second All-Union Convention on Physical Processes in Gas
+Lasers]. Uzhgorod. 1978. '
+
+ho
+FOR OFFICIAL USE ONLY
+67.
+
+(08.
+
+1.8.
+
+50.
+
+51.
+52.
+53.
+54.
+56.
+
+57 .
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+61‘.
+
+65.
+
+66.
+
+Vedenov, A. A.. Vitshas, A. F., Dykhne. A. 14.. Myl'nikov, 6. 1).,
+Napartovich, A. P.. '"rrudy odinnadtutoy Mezhdunarodnoy konferentoii po
+ionizirovnnnyn gaze." [Proceedings of Eleventh International Conference on
+Ionized Gases]. Prague. 1973, ‘
+
+Baranov. V. Yu., Niz'yev, V. 6., Pigul'skiy, S. V.. PIZIIA PLAZHY. Vol 6,
+1978. p 858.
+
+Akishev. Yu. 8.. Paohkin, S. V.. TKPLOFIZIKA VYSOKIIH mum. V01 15.
+1977. P 703.
+
+Akishev, Yu. 8.. Pashkin. S. V., Soklov, N. A., FIZIKA PLAZMY, Vol lo, 1978,
+p 858 [816.].
+
+Eckbreth, A. C.. Davis, J. H” APPL. PHYS. LETTS, V01 21, 1972. p 25.
+Hill, A. 3., 1333 PAPER No 71-65.
+
+Gentle. K. w. et .11.. NI. , Vol 203. 1966, p 1369.
+
+Garosi. G. A. et 81., PHYS. FLUIDS. V01 13. 1970, p 2795.
+
+Galechan, G. R.. Pettosyan, S. 1.. ZHURNAL PRIKLADNOY HEKIANIKI I
+TEKHNICEESKOY FIZI‘KI. No 6. 1975, p 9.
+
+Eckbreth, A. C., Owen. P. 8.. REV. SCI. INS‘l'R. Vol 63, 1972, p 995.
+Heingard. W. J., Nighan, H. L., APPL. PHYS. LBTI'S, Vol 26. 1975. p 544.
+
+Polulyakh. V. P., Kiselev. V. 1., IZVESTIYA VYSSHIKH UCHEBNYKH ZAVBDBNIY:
+SBRIYA FIZIKA, No 5, 1977. p 125.
+
+Generelov. N. A., zimakov. V. P., Koaynkin, V. D., Rayzer. Yu. P.,
+Roytenburg, D. L, PIZIKA PLAN,-Vol 3. 1977. p 626.
+
+Dan'shchikov, Ye. V.. Golubev, V. 8., Lebedev, F. V.. "Trudy Chetvertoy
+konferentsii po fizike nizokotenperacurnoy plenty" [Proceedings of Fourth
+Conference on Low-Temperature Plasma Physics]. Kiev,l975.
+
+Rakhimov. T. V.. Rakhimov. A. ’1'., TEPLOFIZIKA VYSOKIKH TMBRATUR, V01 14.
+1976. p 1313.
+
+Rayzer, Yu. P.. Shapiro. G. 1., PIZIKA PLAZHY, Vol 6, 1978. p 850.
+
+Basov. N. 6.. Belenov, E. H., Danilychev, V. A., Suchkov, A. P.. USPEKIII
+FIZICHBSKIKB NAUK. V01 ”lo. 19714, p 213. .
+
+Velikhov. Ye. P., Golubev, S. A.. Kovelev, A. 8., Persiantsev, I. 6.,
+Pie'lncnnyy. V. D., Rakhinov, A. 1.. Rnkhinova, 1'. V., PIZIKA PLAZMY, Vol 1,
+1975. p 81.7.
+
+Babichev. V. N.. Golubev. S. A.. Kovalev, A. 8.. Pie'nnnyy. V. D..
+Rakhilov. A. T., FIZIKA PLAN, V01 6. 1980, p 195.
+
+hl
+FOR OFFICIAL USE ONLY
+67.
+
+68.
+69.
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+EUR Ufl'ltlﬂl; 08f— UI‘LI
+
+Artamonov. A. V.. Namv. V. 6.. Shachkin, L. V.. Shashkov. V. 11.. KVANTOVAYA
+ELEKTRONIKA. Vol 6. 1979. p 1442.
+
+Reilly. J. 11., APPL. PHYS” V01 43, 1972. p 3411.
+H111, 1!. 3., APPL. PHYS. LETTS, V01 12. 1973. p 570.
+
+Neparcovich. A. P., Neumov, V. G.. Shaehkov. V. 11.. PIZIKA PLAZHY, V01 1,
+1975. p 821.
+
+NaunIov, V. 6.. Shashkw. V. 11.. KVAN'NVAYA KLEKTRONIKA. Vol 4, 1977, p 2427‘.
+
+Generalov, N. A.. Zhukov. V. P.. Kosynkin. V. D.. Reyzer, Yu. P.. Roytenhurg,
+D. 1., PIS'HA V ZEURNAL rmxcazsm PIZIKI. Vol 1, 1975, p 431; FIZIKA
+PLAZMY, Vol 6. 1980. p 1152.
+
+Goykhman, V. Kh., Gol'dfarb. V. 11., ZHURNAL PRIWOY SPRTROSKOPII. V01 21.
+1974. p 456.
+
+Gavrilyuk, V. 1).. Glove. A. F.. Golubev, V. 8.. Lebedev. 1’. V.. KVAM'OVAYA
+ELEM'RONIKA. Vol 4. 1977, p 2034.
+
+Barkalov, A. D.. Gmilyuk. V. D.. Gledush. G. G.. Glova._A. P.. Golubev.
+V. S.. Lebedev. F. V.. TEPLOPIZIKA VYSOKIKH TEMPERATUR, Vol 16. 1978. p 265.
+
+Belikov. A. V.. Glove. A. P., Golubev, V. 8., Lebedev, P. V.. "Trudy pyatoy
+Vsesoyuznoy konferentaii po fizike nizokoteupetacurnoy plazuy" [Proceedings
+of Fifth All—Union Conference on Lov-Tenpereture Plasma Physics], K1ev,1979.
+
+Barkalov, A. 1)., Gladush, G. 6.. Glove, A. F.. Golubev. V. S.. Lebedev. P. V..
+TBPLOI-‘IZIKA VYSOKIKH TEMPERATUR. Vol 18. 1980. p 483.
+
+Glove, A. F.. Golubev. V. 8.. Lebedev. P. V.. TBPLOPIZIKA WSOKIKH mmm.
+V01 17. 1979. p 220.
+
+Shapiro. G. 1.. PIS'HA V ZHURNAL TWICHESKOY PIZIKI. Vol 2, No 10. 1976.
+p 451.
+
+Shapiro. G. 1.. PIS'MA V ZRURNAL TEKHNICHESKOY FIZIKI. Vol 4, No 7, 1978.
+p 393.
+
+Shapiro. G. I.. TKPLOPIZIKA VYSOKIKB TEMPERATUR, V01 18. 1980. p 40.
+
+Zhilinskiy. A. P.. Kuceyev, B. V.. Smirnov. A. 8.. Shevchenko, Yu. 1.,
+ZHURNAL TWICHESKOY FIZIKI, Vol 48. 1978. p 2260.
+
+KuceyGV. B. V.. Smirnov. A. 3., ZHURNAL MICHESKOY FIZIKI, V01 49, No 8,
+1979. p 1615.
+
+Antyukhov, V.. Bonderenko. A.. Glove, A. P., Kachurin. 0. R.. Kolesov, L. 1...
+Lebedev. Ye. A.. Lebedev, P. V.. Suelov. Yu. F.. Tinofeyev. V. A., KVANTOVAYA
+ELEKTRONIKA. Vol 8. 1981. p 2234.
+
+he
+FOR OFHGAL use ONLY
+85. Gavrilyuk, V. 1)., Glove. A. P.. Golubev, V. 3., Imam. A. 3., bebedev.
+F. V., Feofilaktov. V. A.. KVANTOVAYA ELEKIRONIKA. Vol 6, 1979. p 5‘8.
+
+86. Bondarenko. A. V.. Gavrilyuk, V. D.. Golubev. V. 8.. Lebodcv. P. V..
+Smakotin. H. M., KVANTOVAIA ELEKTRONIKA, Vol 7. 1980, p 775.
+
+COPYRIGHT:' Izdatel'stvo "Radio 1 svyaz'". "Kvantovaya olektronika". 1981
+
+6610
+C80: 1862/91
+
+ROR‘OFIICHil.lEﬂE(MVLY
+I‘vs‘ vs rah-nu van. Ul‘l—O
+
+UDC 621.373.826
+
+CHANGE IN RELAXATION RATE OF UPPER LASER LEVEL RITE PROLONGED OPERAIION 0? CH
+ELECTRON-BEAM-CONTROLLED C02 PROCESS LASER
+
+Moscow KVANTOVAYA ELEKTRONIKA in Russian Vol 8, No 12(114), Dec 81 (manuscript
+received 5 Jun 81) pp 2710-2712
+
+[Article by A. P. Averin, Ye. P. Glotov, V. A. Danilychev, N. N. Sazhina, A. H.
+Soroka and V. I. Yugov, Physics Institute imeni P. N. Lebedev, USSR Academy of
+Sciences, Moscow] -
+
+of an electroionization discharge and lasing efficiency in the
+course of prolonged continuous operation of a closed-cycle C02
+process laser with power of 10 k . It is shown that in the
+process of prolonged laser operation. there is a reduction not
+only in discharge current, but also in lasing efficiency as
+
+a result of impurity formation in the laser mixture, increasing
+the rate of relaxation of the upper laser level. '
+
+One of the Iain factors that determine economic efficiency of laser technology
+
+is the process of degradation of the laser mixture [Ref. 1]. It is known (Ref. 2]
+that the principal cause of reduced energy input during operation of electro-
+ionization lasers in the pulse-periodic mode is formation of nitrogen oxides in
+
+the laser mixture under the action of the electron beam. The oxide molecules
+
+have electron sticking cross sections more than 100 times those of oxygen mole-
+cules. In pulse-periodic electroionization lasers. the pumping power is usually
+considerably greater than the power of relaxation losses. and the formation of
+relatively low concentrations of N20 and N02 (10‘22) does not lead to any reduction
+of lasing efficiency within the limits of measurement error. In cw CO; electro-
+ionization lasers. the pumping power is commensurate with the power of relaxation
+losses. and therefore the presence of molecular gas impurities in the laser mixture
+may lead to an appreciable reduction of lasing efficiency as a result of a reduc-
+tion in the time of relaxation of the upper laser level 00°l.
+
+This paper is devoted to an experimental study of the characteristics of the elec-
+troionization discharge and lasing efficiency in the course of prolonged continu-
+ous operation of a closed-cycle electroionization process laser with emission
+power of 10 k" shown schematically in Fig. la.
+
+The laser mixture was ionized by triode electron gun I with thoriated tungsten
+cathode [Ref. 1]. The maximum working current density je* of the electron beam
+
+m.
+non omcw. use ONLY
+Fig. 1. Diagram of electroioniz'ation laser (a) and typical
+loop oscillogram of voltage U (Um-I 2:5 kV). discharge current
+I (1.“- loS A) and losing power (hm (M- 10 k") at electron
+beam current density 19- 12 aisles: and pressure of the laser
+mixture C03:N3:Be- 1:30:29 of p- 50 mm Hg (1:)
+
+in the cathode plane of the discharge chamber 2 as determined by superheating
+of the separative foil of the electron gun was 12 uA/cm’. Blower 3 provided a
+circulating rate of the laser nixture at the input to the discharge chnaber of
+up to 90 Isle. The laser mixture was cooled in tubular heat exchanger lo. keeping
+the gas temperature at the input to the active volume at 320 K.
+
+ 
+
+t min
+J/an' '
+4 2 1.2
+a at, c 9 “ ’
+w , A:
+J
+0 :, min “imam-Hg
+44,21,510!“
+d
+All]! Hg
+
+Fig. 2. Ratio of discharge current I to discharge current In
+in a "fresh" mixture (a) as a function of time of continuous
+
+laser operation without regsnerator (l) and with regenerator
+
+(2); lasing efficiency n as a function of pumping power (b)
+for a "fresh" mixture (1) and for a mixture with 2-minute de-
+
+pletion (2) at p- 50 In Hg; lasing efficiency as a function
+of pressure of the laser mixture (c) at constant normalized
+
+pumping power w/p- [.5 HUI! Hg (gas flowrate 9 n’ls) for
+"fresh" (1) and "stale" (2) mixtures; relative increase in rate
+
+of relaxation losses as a function of pressure (1) and average
+adjusted temperature of 'the laser mixture e-rav/ 300 I (2) ((1)
+
+FOR 0mg“. USE ONLY
+FOR OFFICIAL USE ONLY
+
+To determine the way that discharge current and lasing efficiency depend on the
+working time of the electroionization laser. current-photovoltage characteristics
+were taken at different instants. A typical loop oscillogram of these charac—
+teristics is shown in Fig. lb. To eliminate the possibility of additional accumu-
+lation of nitrogen oxides that might occur in breakdowns of the discharge gap.
+
+the working voltage in taking the current-photovoltage characteristics was not
+raised to the threshold value (B/p) corresponding to discharge contraction. Fig.
+2a shows curves for the discharge current density as a function of continuous
+laser operation time without regeneration of the laser mixture (curve 1) and with
+the use of a regenerator (2) (Ref. 1]. It can be seen that when catalytic regen-
+erator S (Fig. 1) is used, the rate of degredation of the laser mixture is consider-
+ably reduced. but the discharge current cannot be totally recovered.
+
+Fig. 2b shows curves for lasing efficiency as a function of pumping power for
+
+a cw CO; electroionization laser with “fresh" and "stale” (Z-minute depletion)
+mixtures of CO;:N2:Ee- 1:30:29. At first, with low pumping powers corresponding
+to low field strengths, the lasing efficiency on the "fresh" mixture is lower.
+This is due to the fact that in the first case the same pumping power w-IjE is
+realized at a lower normalized field strength (B/p)1- (B/p)232/11 =0.7S-(B/p)2,
+and accordingly at considerably lower efficiency of excitation of the upper laser
+level and vibrational levels of nitrogen nef whose value at low B/p rises sharply
+as the normalized field strength is increased [Ref. 3]. At high pumping powers
+corresponding to the range of working paraemters of the cw CO; electroionization
+laser, curve 2 is situated lower than curve I. This is due to the increase in
+relaxation rate of the upper laser level up as nitrogen oxides accumulate in the
+electroionization discharge.
+
+To determine the way that the change in relaxation rate during degradation of
+the laser mixture depends an excitation parameters. let us consider expressions
+for lasing efficiency [Ref. 4] of a "fresh" (1) and "stale" (2) laser mixture
+with constant energy input per unit of mass of the circulating gas: "
+
+m-naunpnanu.nw—m.nn0..(-)nl-.. ' (I)
+m"'ln-‘lp‘la'lemlw-ﬂh’anJﬂ’nP/(Ua'no). (2)
+
+where nKB and np are quantum efficiency and resonator efficiency; “d is the ef-
+ficiency of the discharge determined by electrode potential drops "ax(nd‘1-Uax/Uo);
+nw- l-W*m/w, H* is the threshold pumping energy at the end of the active volume,
+1. e. the energy carried off by the flow from the discharge chamber; wh-Iwip is the
+normalized pumping power; na-a/p is the normalized gas flowrate; Q“(w) IQ,‘(w)/p2
+is the normalized power of relaxation losses. At high field strengths, the exci-
+tation efficiency nef and discharge efficiency nd are weakly dependent on B/p.
+
+and the relation between the change in lasing efficiency and the change in relaxa-
+tion rate Avp is written as
+
+Manon-QuhdnAVp/(va'nh (3’
+
+where the dimensionless coefficient "sangqtaP/"a is determined from the dependence
+of efficiency on pressure shown in Pig. c. At low pressures. n increases with p.
+This is due to the reduction in the fraction of energy carried off from the active
+volume by the gas flow as a result of an increase in the rate of excitation transfer
+
+16
+FOR OFFICIAL USE ONLY
+from N: to 002, a; well as to the increase in nd caused by a reduction in the
+relative cathodic potential drop ”ax/”o as pressure rises [Ref. 5]. At high pres-
+sures. the pressure dependence of "d and n" ceases. and lasing efficiency with
+increasing p falls off linearly due to the increasing rate of relaxation losses.
+Experimental paints fit well on a straight line (see Fig. 2c) for which the tan-
+gent of the slope is
+
+tea-npan..(v)l-o-
+
+The product nxgn;nefndnu is determined by the point where this line extended in-
+tersects the axis of ordinates.
+
+Fig. 2d shows the pressure dependence of relative increase in rate of relaxation
+losses for a gas mixture after two minutes of depletion. It can be seen that
+
+the quantity Avp/vpo determined in this way does not depend on pressure within
+
+the Inuits of measurement error. and not only on the linear section of curve
+
+n(p), but at low p as well. The scatter of the experimental points enables us
+
+to estimate the relative error of measurements 6(Av/v) by the proposed technique.
+which in the given case does not exceed 10-151 (see Fig. 2c). Determining Avp/upo
+similarly for other values of specific energy input, we can plot the curve for
+
+the relative increase in relaxation rate of the upper laser level as a function
+
+of average gas temperature ZTav-To[l+w/(cpTom)l (see Fig. 2d). It is evident
+that the quantity Avp/vp increases with rising average gas temperature, i. e.
+
+the rate of relaxation of excited CO; molecules by nitrogen oxide impurities is a
+stronger function of temperature than for the main components of the laser mixture.
+This is indirect confirmation of the following mechanism of relaxation by impuri-
+ties: resonant transfer of excitation from the asymmetric level of 002 to the
+vibrational level of nitrogen oxides (most probably N20) and subsequent transfer
+to heat. which is the limiting factor for the entire process.
+
+REFERENCES
+
+l._ Basov, N. G., Babayev. I. K., Danilychev. V. A. et a1.. KVANTOVAYA ELEKTRONIKA,
+Vol 6, 1979. p 772. .
+
+2. Glotov, Ye. P., Danilychev. V. A., Zvorykin, V. D. et al., KVANTOVKYA
+ELEKTRONIKA. Vol 7, 1980. p 630.
+
+3. Lobanov, A. N., Orlov. V. K., Suchkov, A. F.. Urin. B. H., Preprint. Lehedev
+Physics Institute, No 199, Moscow. 1977.
+
+A. anov, N. 6., Glotov, Ye. P., Danilychev, V. A.. Soroka, A. H., KVANTOVAYA
+ELEKTRONIKA. Vol 7, 1980. p 1067.
+
+5. Aleksandrov. V. V., Koterov, V. N.. Soroks, A. M.. ZHURNAL VYCHISLlTEL'NOY
+MATEHATIKI I MATEHAIICHESKOY FIZIKI. V01 18, 1978. p 1214.
+
+COPYRIGHT: Izdatel'stvo "Radio 1 svyaz'". "Kvantovaya elektronika". 1981
+
+6610
+C80: 1862/91
+
+FOR OPHéZL USE ONLY
+FOR OFFIGAL USE ONLY
+
+OPI'ICS AND SPECTROSCOPY
+
+UDC 621. 373.826
+HOLDGRAPHIC W8
+
+Moscow GOLOGKAIICEBSKIYE IZHBRENIXA in Russian 1981 (signed to press 3 Aug 81)
+pp 2-5 , 295-296
+
+[Annotation, foreword and table of contents from book "Holographic Measurements",
+by Vera Hoiseyevna Ginsburg and Boris Hikhaylovich Stepanov, Izdatel'stvo
+"Radio 1 svysz'". 8000 copies, 296 pages]
+
+[Text] The theoretical fundamentals of holographometry are discussed, a descrip-
+tion is given of a holographic measuring complex of apparatus making it possible
+to record holograms and interferograms of stationary and dynamic entities, and
+algorithms for processing holographic information for obtaining quantitative
+measurement data are presented.
+
+For engineering and technical personnel using holographic measuring methods in
+their work.
+
+Foreword
+
+Holography is a new trend in applied physics which appeared relatively recently
+but has gained a wide reputation among specialists in various fields and even
+among the general public.
+
+The popularity of holography is the result of its enticing possibilities, making
+it possible to expand considerably the limits of man's knowledge of his natural
+environment, to create completely new graphic equipment and new more informative
+computers and recognition systems, and to accomplish nondestructive testing and
+make precise measurements of products in the production process, including where
+previously for these purposes only quantitative methods of evaluation were used
+or measurements and testing were impossible.
+
+After the appearance in print of the works of the founders of holography the
+number of publications has grown from year to year. Monographs and review books
+have been published in which the fundamentals of holography are discussed and
+examples are given of its application. In these publications and numerous articles
+questions relating to the application of holography as a new method of measuring
+
+and the metrological problems involved in this have practically not been eluci-
+dated. such as the requirements for holographic measuring equipment, the
+
+ks
+FOR omcm. use ONLY
+The question offthe use of methods of holography in metrology and of the develop-
+ment of measurEments as a division of metrology was posed by the authors for the
+first time in 1971 and has been partly reflected in monographs.
+
+At the present‘time holographic measurements (or holograpbometry) represent a
+relatively youaerapidly growing division of the science of the measurement of
+processes and physical quantities, uniting a combination of methods and facili-
+ties utilizing all kinds of measurements employed in holographic methods for the
+purpose of extracting complete and reliable quantitative information on a three-
+dimensional entity or process from a hologram on which is recorded the interference
+pattern between a diffracted wave coming from the entity or process and a homo-
+geneous coherent background.
+
+This book, devoted to the physical fundamentals of holographomstry, is based
+mainly on original work by the authors and their students performed in 1967—
+1980.
+
+The book has five chapters. In the first the objectives of practical holography
+as a new kind of measurement of processes and quantities are discussed, the key
+systems and methods used for measuring are described, general requirements for
+
+the structure of a holographic measuring complex and the objectives of metrological
+provision for holographic measurements are formulated, and the key specifications
+of facilities for testing holographic measuring equipment are discussed. A
+description is given of holographic measuring equipment series-produced in the
+USSR for recording holograms in the optical waveband; concise information is
+
+given on new holographic devices and apparatus in the development stage.
+
+In the second chapter the physical fundamentals of methods of holographic mea-
+surement and their key metrological characteristics are discussed, and the
+
+results are given of an analysis of the key elements of the holographic process
+from the viewpoint of determining sources of errors and substantiating requirements
+imposed on radiation sources and holographic systems and equipment designed for
+making holographic measurements of stationary and dynamic entities. Theoretical
+and practical aspects of the implementation of methods of holographic measurement
+in the optical and microwave bands are discussed.
+
+In the third chapter methods of processing holographic information are described:
+photogrammetric, machine and correlation. New methods of isolating the distinc-
+tivc features of an image are discussed, based on the use of certain data on
+
+the recognition of patterns by man, making it possible to construct optimized
+correlation systems of recognition. A brief description is given of multichannel
+holographic correlators ready for series production. A description is given of
+algorithms for the digital processing of holographic interferograms. the digital
+reconstruction of holograms obtained in the non-optical band, and the digital
+simulation of holographic processes and systems.
+
+1;
+FOR 061109“. USE ONLY
+FOR OFHCIAL USE ONLY
+
+In the fourth and fifth chapters applications of methods and equipment for
+holographic measurement for solving national economic problems are elucidated,
+including nondestructive control of the quality of optical waves; studies of
+processes in living cells; nondestructive control of the quality of crystals,
+including in the process of their growth; studying the process of the combustion
+of condensed matter; determining the continuity of multicomponent flows; studying
+the process of the fuel supply in diesels; determining optimum conditions for
+
+the storage of a monumental painting, etc.
+
+All figures whose numbers are mrked with asterisks are placed in the insertion
+at the end of the book.
+
+The authors hope that the book will prove helpful to a wide range of readers,
+including developers of methods and equipment for holography, scientific per-
+sonnel, engineers, biologists, physicians and restorers working in the field
+
+of holography and its applications.
+
+The authors are deeply grateful to the reviewers of the book, USSR Academy of
+Sciences Corresponding Member L.D. Bakhrakh and Doctor of Physical and Mathematical
+Sciences Professor Yu.A. Bykovskiy, for their valuable hints, which were taken
+
+into account in revising the manuscript.
+
+The authors wish to express their heartfelt thanks to Ya.A. Gabelev for his
+great help in preparing and editing the manuscript.
+
+CONTENTS Page
+Foreword 3
+Chapter 1. Holography as a Method of Measuring
+1.1. Kinds of holographic measurements and their features 6
+1.2. Key methods and areas of application of holographic measurements 10
+1.3. General requirements for the structure of a holographic measuring
+complex . 15
+1.4. Holographic measuring equipment 19
+l 5. Metrological problems in providing for holographic measurements 36
+
+Chapter 2. Physical Fundamentals of Methods of Holographic Measurement
+2.1. Relationship between visibility factor and parameters of interacting
+
+interference waves 41
+2.2. Limitations imposed on holographic measurements of dynamic entities
+
+by the Doppler effect and ways of overcoming them 55
+2.3. Holographic interference measurements of phase entities and their
+
+features 58
+2.4. Holographic measurements of the dispersed phase of multicomponent
+
+dynamic systems 70
+2.5. Holographic interference measurements of reflecting objects 73
+2.6. Methods of holographic measurement in the microwave band 90
+Chapter 3. Methods of Processing Holographic Information
+3.1. Photogrametric methods of measuring holographic images 120
+3.2. Solution to the inverse problem of determining the distribution of
+
+the refractive index of phase entities from masuring the optical path
+length or its derivative 126
+
+50
+FOR omcm. use ONLY
+3.3. Holographic correlation methods of measuring
+3.6. Processing optical images in the input and output of holographic
+correlators, computers and communication channels
+3.5. Defocusing as a means of isolating informative fragments and
+the visual-analyzer
+3.6. Dciocusing as a means of producing a generalized pattern of an image
+in the input of a holographic correlator
+3.7. Representation of optical images'in holographic correlators by
+teens singenetic functions
+3.8. Human—like "drawing" robot
+3.9. Use of defocusing for automating the process of inputing holographic
+images into a computer
+3.10. Use of defocusing for narrowing the transmission band of TV channels
+3.11. Compariko'n of the defocusing method with other human-like methods
+of pattern recognition
+3.12. Digital holography
+Chapter 4. Use of Holographic Methods of Measuring for Studying Stationary
+Objects and Slowly Occurring Processes
+. Study of plant cells
+Study of blood cells
+Study of crystals
+Nondestructive testing of optical fibers
+Measurement of the thickness of thin films
+Determination of optimum temperature and humidity conditions for
+storing frescoes
+6.7. Measurement of the relief of the surface of magnetic disks .
+4.8. Holographic nondestructive testing of products in the microwave band
+Chapter 5. Applications of Holographic Methods of Measuring for Studying
+Dynamic Objects and Rapidly Occurring Processes
+Measuring the continuity of two-phase flows
+Measuring distribution of velocities in a falling sheet of water
+Studying the process of combustion of condensed systems
+Studying fuses
+Studying discharge in flash lamps
+Studying the structure of dispersed annular flows
+. Studying the fuel line of automotive diesel engines
+5.8. Visualization of ultrasonic fields in optically transparent media
+Bibliography
+Subject Index
+
+§b§&~&&
+s o o o s o
+O‘UlbUNH
+
+.
+N¢U§wNH
+s o
+
+sees
+
+a
+e
+
+\IIWLIIU‘MU'IU
+
+COPYRIGHT: Izdatel'stvo "Radio 1 svyaz'", 1981
+
+8831
+C50: 1862/106
+
+1
+FOR owl-1am. USE ONLY
+
+153
+151.
+153
+166
+
+171
+177
+
+182
+186
+
+185
+189
+
+213
+215
+221
+230
+236
+
+241
+2&4
+
+268
+250
+253
+258
+265
+267
+269
+279
+282
+291
+I'UK UI'I'ILIAI. USE UNI-I
+
+UDC 535.3
+FEASIBILITY 0F CONTROLLING GAIN 0F ENTHALPY-STIMULAIBD LIGHT SCATTERING
+
+Moscow KVARTOVAYA ELEKTRONIKA in Russian Vol 8. No 12(116), Dec 81 (manuscript
+received 6 May 81) PP 2699-2702
+
+[Article by V. S. Zuyev, 0. Yu. Nosach and Ye. P. Orlov. Physics Institute imeni
+P. N. Lebedev. USSR Academy of Sciences, Moscow]
+
+[Text] An investigation is made of the influence that laser
+parameters have on the gain of enthalpy-stimulated light scat-
+tering by ultrasound in the active medium of iodine photodia-
+sociation lasers. It is shown that there is a range of inten-
+sities of stimulating laser radiation in which there is a sharp
+drop in the gain of stimulated scattering with increasing in-
+tensity. By varying the cross section of the laser transition,
+this range can be shifted, and the gain of stimulated scattering
+can be varied over wide limits. The results are hopeful from
+the standpoint of getting high directionality of powerful laser
+
+emission.
+
+It was shown in Ref. 1 that in thermodynamically nonequilibrium media in which
+the rates of internal processes taking place with release or absorption of energy
+depend on electromagnetic field intensity, a new kind of stimulated light scatter-
+ing may arise. Specifically. this stimulated scattering has been considered in
+the active medium of iodine photodissociation lasers: n-C3P71 vapor (0.01-0.05
+atm) and buffer gases such as SF; or CO; at pressure close to atmospheric.
+
+During pumping in the active region of the photodissociation laser, as a result
+of photolysis. n—CgF7 radicals and excited iodine atoms 1* are formed that make
+the transition to the ground state under the action of resonant laser emission
+(x- 1.3l5 um). Iodine atoms in the ground state I are chemically more active
+and therefore the rate of energy release during the exothermal recombination re-
+action n-C3F1+I-*n-ch7I is dependent on the intensity of laser radiation.
+
+During development of this kind of stimulated scattering. various partial oscil-
+lations of the medium may be excited. For example in Ref. 1 an examination was
+made of stimulated scattering by ultrasound, and in Ref. 2. scattering by tempera-
+ture waves was considered. since excitation of partial oscillations of the medium
+is mainly at the expense of enthalpy of the thermodynamically nonequilibrium medium
+we suggest that this kind of stimulated scattering might be called enthalpy-stimu-
+lated light scattering.
+
+S2
+FtﬂltﬂﬁWCJAL USEICNULY
+In Ref. 1, in considering enthalpy-stimulated scattering by ultrasonic waves it
+was assumed that the frequency of ultrasound may be greater than the probability ,
+with which iodine atoms and radicals enter into reactions, and much greater than
+the probability of induced transitions.
+
+In this paper, the limitation on the probability of induced transitions used in
+Ref. 1 is removed, enabling analysis of the influence that the intensity of the
+exciting laser radiation and the cross section of the laser transition have on
+the gain of enthalpy-stimulated scattering by ultrasonic waves.
+
+He will carry out this analysis assuming only that the frequency of ultrasound
+
+is much greater than the probability with which iodine atoms and radicals enter
+into chemical reactions. In iodine photodissociation lasers this condition is
+nearly always satisfied [Ref. 1]. In this connection, as implied by Ref. 1, of
+
+all the chemical reactions that occur in the active region of these lasers (Ref. 31
+it is sufficient to consider only the reaction Ri-In-RI, where R are n-Cng radi-
+cals for describing enthalpy-stimulated scattering by ultrasonic waves. Then
+
+the rate of energy release in a unit of volume Qeqld31R1lJl. where Q1 is the energy
+released in one act of recombination. 3!. is the rate constant of the reaction,
+
+[R] and [I] are the concentrations of radicals and unexcited iodine atoms respec-
+tively, the amplitude of oscillations of [R] in enthalpy-stimulated scattering
+
+by ultrasonic waves being much less than the amplitude of oscillations of [I].
+
+The linearized equation of hydrodynamics with consideration of energy release
+Q [Ref. lo] in our case takes the form
+
+3’ 6 l 0 A ‘ ‘
+737':— —v3.v’v-FTV’P'T('6§'). "3' ""1 “SW" "’
+
+where o is the density of the substance, vs; is the speed of sound, the term with
+I‘ describes absorption of sound, T is absolute temperature, 5 is entropy.
+
+The quantity [1] as a function of electromagnetic field intensity can be found
+from kinetic equations for [I] and the concentration of excited iodine atoms [1*]:
+
+an: n 11 ca!’
+
+—,,,—- «(U . ~35") .,. .L —or.mm. m
+a J. E.
+-—-L‘,, =wlNI—ou(l1'}--—2 Inf—sf? .L- (3)
+
+where w is the probability of photodissociation of n—63F11 molecules. [N] is their
+concentration, ay is the cross section of the laser transition, n is the ndex
+
+of refraction of the medimn, has], i the energy of a+1aser field quantum, is
+
+the overall field of the exciting %L and scattered Es waves.
+
+Let us consider the stationary problem. Let the fields Bx,=.‘/.IL(ELGXP(10Ll—Ikbt)+ comp.
+coan, Isa-.-I/,e8(55cxp(aosc_msr)+ comp. conj.) be linearly polarized plane waves, where
+|I:'_.,|' «£th In this case, the deviations of concentrations of excited and unex-
+cited iodine atoms [1*], and [I] from their values [I*]oand [no in the absence
+
+of stimulated scattering are small. Representing them in the form [1°].-
+
+- 'l,lJ"luMiW-mlqu-comp. conj. and |J)|=x/,u].,,(5m_.-qr)+ comp. conj..'where
+
+FOR 91-1-1331. USE ONLY
+FOR OFFICIAL USE ONLY
+
+9" wr—Us-salL-is- with the aid of (2) and (3) we get a system of equations for
+
+. ~
+
+[I] and [1*] which within the framework of the above-mentioned condition takes
+the form
+
+cold P MIELI’ ~ mete; .
+"ii—('- mﬁrm -(°~ m +‘°)“" =°'°°m'- ‘0
+MELE;
+
+8
+(£- o, %lé¥ +10) [TI —0- 53%;?7’31— ['3'] = dude—4min (5)
+
+where A.—[J-|.—% [J]. and for the sake of simplicity we have set q. 5:3. From
+this we find If] as a function of BL and BS:
+
+0 AoanLEsﬂaMoL
+
+m =W (6’
+
+Substituting uI-“1.1M,“ﬁexp(lm—lqt)+comp. conj.) with consideration of (5) in (1)
+
+and representing 9 in the form p.+('/$exp(im—l¢)+conp. conj.). we find 5. Then,
+using the shortened equation for £5
+
+%-—l-%(%)93'5m . (7)
+
+(c is read out along direction k5: c—n’ is permittivity), and the thermodynamic
+relations
+
+a: an —' 1; L 1». ___"3-'(_0L)
+(79—): ~47)» ( 0T )9 ' T ( as )9 94:9 01‘ a
+(c is specific heat), we represent the dependence of-IIE 2 on c in the form
+p S
+Howl" [Edi-ON'OWMQW;
+
+where
+
+ 
+
+__ 3
+5(9) " -' a or p“ on! X
+
+WW -I- (I + we.) 0 IL (92 - 9&3)
+
+X "19’ + (l mm)‘ (on?! l(°’ — Ra’s)i +95 ("I’l'l' 1“ (a)
+
+uns— u..|q|; IL-cnlEd'KauhoL) is the intensity of the stimulating radiation in
+quanta/(cm2 's). This formula is considerably simplified if we consider that
+the lmlf-width of thermal Handelstam-Brillouin scattering 250mm? (Ref. 5] is
+much less than 9113’ Then
+
+9 - is 0: ) 1mm 6. cur/9,43
+'( )~*'§?(W p Pip ' +((I +‘a‘t‘allllﬂua)g X
+09m; t (I + Mn) «MIL/9M3) (a :r on.) .
+
+x (G 4" 5,“ )i + (“as F :9)
+
+Here and below. the upper sign corresponds to the case n> 0. and the lower—to
+9(0. If o,I,,IQMs<I. then (9) is transformed to the relation found in Ref. 1.
+
+Ital ( 08) clxllRlalAO
+n
+
+1;
+FOR OFFIC‘?AL USE ONLY
+From (9) we can see that amplification is realized on both Stokes and anti-Stokes
+frequencies. The maximal gm) are reached at ‘
+
+a - £93; an” (M +(( + (.130 a. do“, i' |)/((‘l 1&- manual.)
+
+and are equal to ‘
+
+_ I. A x lRl 6. |
+~ e--- “5;- ( or), LL—m 'Wu‘ "
+x 0,11,10,43 ((I 4- (all!) “Ht/ans )'
+
+|+((I +1.1190779mﬁxl +(( +1420 op! ,4.) ‘ (W)
+
+From (10) we see that g reaches a higher value on the Stokes than on the anti-
+Stokes frequency.
+
+Let us consider the case of strong saturation of the laser transition, 1. e.
+
+IL>In-( (l+&/g1)ayrp)'1, where 1‘, is the time of non-radiative relaxation. Here
+oyILA. =w[N] and g on the Stokes frequency can be represented as
+
+l l ' I II )I-
+“‘7" VF-i-uiﬁmi—l 1+(7LI5n5‘ ' (II)
+
+where
+= .(a:) xRuN
+‘° “—5T, 09‘ mans'
+1 am
+
+If oyILw, then [R], [N] and consequently go are practically independent of IL
+(Ref. 2, 3]. Then the graph on the figure for g/go as a function of IL”)! in
+essence enables us to find g as a function of IL at different
+
+9/9: values of 0,. Let us emphasize once more that the figure
+
+shows the region IL’IH- To complete the picture, let us
+
+note that if I <I . then g is proportional to IL, 1. e.
+
+g+0 if IL+0 Re . l]. The intermediate case ILIIH re-
+
+quires separate consideration.
+
+It is evident from the figure that 3 does not depend on
+
+IL as long as IL/Iuﬂ. The conditions IL’IH and a L’"
+
+do not contradict the condition IL/Iud since the harac-
+teristic values ‘1“. u~lo‘s-l<0us~I0'-IO' rad/s [Raf. l,
+
+3. 6]. However. when I1, becomes much greater than IN, 3
+decreases as l/IL. This leads to an increase in the threshold of enthalpy-stimu-
+laced scattering by ultrasonic waves. which agrees with the experimental data of
+Ref. 7. in which the intensity of small-scale optical inhomogeneities in the ac-
+tive region of the laser was attenuated as the reflectivity of the output mirror
+of the optical cavity was increased, 1. s. with an increase in IL. The threshold
+should also be exceeded with a reduction in the pressure of buffer gases, since
+in the first place this increases attenuation of sound. and secondly it increases
+0,, met. 3]. leading to a reduction of IN¢1/0y. and °y can be varied over a wide
+
+    
+
+1194/.
+
+FOR 0mg]. USE ONLY
+rm; Uri-ICIAI. use our
+
+range. Apparently this explains the fact that (as far as we know) no small-scale
+optical inhomogeneities have been observed to arise in photodissociation lasers
+
+with pure n-03P11 without buffer gases.
+
+The results demonstrate how we can influence the gain of enthalpy-stimulated scat-
+
+tering by ultrasonic waves. and are encouraging from the standpoint of getting
+high radiation intensity from powerful lasers since arisal of small-scale optical
+inhomogeneities is quite detrimental to directionality of laser emission [Ref. 7].
+
+These results are also applicable in the case where the assmption about the fre-
+quency of ultrasound made in our analysis is not valid. However. this case is
+more complicated in a mathematical sense. and requires separate consideration.
+
+Let us note that the conclusions of this paper will apply to lasers of other types
+as well where the processes of energy release in the active region depend on the
+intensity of the laser field.
+
+REFERENCES _
+
+l. Basov, ll. 6.. Zuyev. V. 8.. Nosach. 0. Yu.. Orlov. Ye. P.. KVANTOVA‘IA
+ELEKTRONIKA. Vol 7. 1980. p 2614.
+
+2. Zuyev. V. s., Orlov. Ye. P.. Preprint. Lebedev Physics Institute. No 11.5.
+Moscow. 1981; KVANTOVAYA ELEKTRONIKA. Vol 8. 1981. p 1968.
+
+3. Borovich, B. I... Zuyev. V. 5.. Katulin. V. A.. Hikheyev. L. D.. Nikolayev.
+F. A. . Nosach. 0. Yu.. Rozanov. V. 3.. "Itogi nauki i tekhniki. Seriya radio-
+tekhnika" [Advances in Science and Engineering. Electronics Series]. Moscow.
+published by All-Union Institute of Scientific and Technical Information.
+Vol 15. 1978. PP 153-177.
+
+la. Zel'dovich. 3. Ya.. Sobel'man. I. I.. USPEKHI FIZICHESKIKH NAUK. Vol 101.
+1970. p 3.
+
+5. Landau, L. 0., Lifshits. Ye. H.. "Elektrodinanika sploshnykh sred" [Fluid
+Electrodynamics]. Moscow. GIFHL. 1959. p 501.
+
+6. Zuyev, V. 8.. Katulin. V. A.. Nossch, V. Yu.. Petrov. A. I... TRUDY FIZICHESKOGO
+INSTITUTE IHENI P. N. LEBEDEVA AKADEHII NAUK SSSR, Vol 125. 1980. p 46.
+
+7. Zuyev. V. 5.. Netemin. V. N” Nosach, 0. Yu.. KVANTOVAYA ELEKTRONIKA, Vol 6.
+1979. p 875.
+
+COPYRIGHT: Izdatel'stvo "Radio 1 svyaz'". "Kvantovaya elektronika". 1981
+
+6610
+(ISO: 1862/91
+
+63‘" '
+FOR om AL USE ONLY
+UDC 621.378.325
+CONVERSION OF OETICAL RADIAIION SPATIAL SPECTRUM IN PARAMETRIC PROCESSES
+
+Moscow KVANTOVAYA ELEKTRONIKA in Russian Vol 8, No 12(115), Dec 81 (manuscript
+received 15 Jan 81) pp 2690-2693
+
+[Article by R. A. Yeremeyeva. V. A. Kudryashov. I. N. Hatveyev and N. D. Ustinov]
+
+[Text] An investigation is made of transformation of the spa-
+tial spectrum of optical emission upon passage through a stimu-
+lated nonlinear medium. The paper gives the results of experi-
+ments that confirm re-radiation by the excited nonlinear medium
+of energy of the plane wave of the initial radiation under cer-
+tain conditions on spatial side frequencies whose spectrum cor-
+responds to the autocorrelation function of the spatial spectrum
+of pumping. Two models of parametric processes are given that
+explain the observed effect. It is demonstrated that this phe-
+nomenon can be used for observing spatially modulated radiation
+propagating through a phase-distorting medium.
+
+When optical emission passes thorugh a nonlinear medium. some physical effects
+
+are observed that are associated with a change in the spectral makeup of the emis-
+sion (generation of harmonics. sum and difference frequencies, stimulated Raman
+scattering. parametric luminescence and so on). Most of these effects are due
+
+to conversion of the frequency spectrum of the optical radiation; however, as
+
+the authors pointed out in Ref. 1. as a result of parametric processes we can
+
+also observe conversion of the spatial spectrum, which was later confirmed ex-
+perimentally in Ref. 2, 3.
+
+Fig. I. Diagram of ex-
+periment: l, 2--lenses
+with focal lengths f1. f2;
+3--nonlinear KDP element;
+a--filter of emission on
+frequency w;; 5--trans-
+potency; 6--foca1 plane
+of lens 1
+
+ 
+
+Pig. 1 shows a diagram of the experimental setup used to record the effect of
+transformation of only the spatial spectrum of optical radiation while retaining
+
+FOR OFFICE“. USE ONLY
+FOR OFFICIAL USE ONLY
+
+the frequency spectrum unchanged. Optical radiation with frequency u; passes
+through a nonlinear medium. and its spatial spectrum is recorded in focal plane 6.
+.When the nonlinear medium is stimulated by external pumping on frequency m2, ad-
+ditional components on frequency m; can be observed at the output from the non-
+linear medium. Special steps were taken to shape the spatial spectrum of the
+interacting waves in order to enable evaluation of changes in the spatial spectrum
+of the field re-radiated by the medium. Radiation with frequency u; had a plane
+front, so that the width of its spatial spectrum corresponded to the diffraction
+limit. Radiation with frequency u; had a pronounced spatial spectrum. A trans-
+parency mounted in the focal plane of lens 2 was used for this purpose.
+
+The typical appearance of spatial spectra of the initial emission m1. pumping
+radiation w; and the field of the emission m1 re-radiated by the nonlinear medium
+is shown in Fig. 2 [photos not reproduced]. From the results we conclude that
+
+in this experiment we have observed a previously unstudied effect of transforma-
+tion of the spatial spectrum of optical radiation upon passage through a nonlinear
+medium. This effect shows up as re-radiation of the energy of the plane wave
+
+by the stimulated nonlinear medium into spatial side frequencies whose spectrum
+corresponds to the autocorrelation function of the spatial pumping spectrum.
+
+We have suggested two models to explain the change in the spatial spectrum of
+the field re-radiated by the excited nonlinear medium on the frequency of the
+investigated radiation: four-photon interaction old-oz -(oz4-u1 and two-stage
+interaction m1+w2+w1nt; mint -m2+uu. Actually, if radiation w; is a plane
+wave BIoexp [3(w1t-k1r)], and the pumping radiation is a spatially modulated
+wave Eloexp [j(w;t-k2r)], then in the given-field approximation. the amplitude
+of the field re-radiated by the medium as a result of the first interaction will
+be determined by the expression 03E10l32(r)lzexp j(m1t-k z). and as a result
+
+of the second interaction-by the expression 03310I32(r)l exp j(m1t-k1z). where
+02, 03 are coefficients that characterize the efficiency of conversion on qua-
+dratic and cubic nonlinearities of the medium respectively.
+
+These expressions imply that in both cases the fields re—radiated by the nonlinear
+medium have the same form, and differ only in intensity; the spatial spectrun
+
+of the field re-radiated by the medium is the autocorrelation of the spectrum
+produced by amplitude modulation of the pumping field; phase modulation of the
+pumping field should have no effect on the spatial spectrum of the field that
+
+is re-radiated by the medium on the frequency of the investigated emission.
+
+Thus. both our models lead to the observed effect, and predominance of a given
+nonlinear process is determined by the ratio between effective values of quadratic
+and cubic nonlinearities of the medium. the power of the pumping radiation and
+
+so forth. In the experiment done by the authors, two-stage conversion predomi-
+nated; moreover, this arrangement enabled us to overcome the considerable technical
+difficulties associated with the necessity of separating the radiation on frequency
+m, transmitted through the medium from the emission on the same frequency re-
+radiated by the medium as a result of the nonlinear process. In this case it
+
+is possible to replace the simultaneous two-stage conversion with sequential con-
+version by separating the nonlinear medium into two different parts by a filter
+that transmits emission (oz and (“int' but does not pass radiation w; (see Fig. 3).
+The field of m1 at the output from the nonlinear medium in this arrangement con-
+tains only the component re-radiated by the medium as a result of the nonlinear
+
+58
+FOR omcm. use ONLY
+Fig. 3. Diagran of setup for
+
+observing spatially modulated
+
+radiation propagating through
+a phase-distorting mediun
+
+   
+
+EH!)
+
+1!.
+
+391%ng
+
+process. while the amplitude of this component has fallen to half. the simltane-
+ously achieved suppression of the initial radiation by a factor of 10‘ yields
+the necessary positive effect. Since then. several authors have managed to observe
+analogOus effects determined by four-frequency processes as well [Rah 4. 5].
+
+     
+
+The given effect opens up new and interesting possibilities in the investigation
+of parameters of laser emission. The spatial spectrum of radiation is formed
+
+due to modulation of both amplitude and phase (see for example Ref. 6). In the
+experiment considered above. the spatial spectrum of the field re-radiated by
+
+the medium is dependent only on amplitude modulation of the radiation that excites
+this medium.
+
+This property can be put to practical use for example where it is necessary to
+observe spatially modulated radiation propagating through a phase-distorting
+medium. A diagram of the corresponding experimental setup is shown in Fig. 3
+(all notation is the same as in Fig. 1). Radiation w1. as in the previously de-
+scribed experiment. is a plane wave. Radiation mg is amplitude-modulated by a
+transparency mounted in the focal plane of lens 7. and phaseﬁnodulated by phase-
+distorting plate 8 maunted in the plane of the intermediate pupil of lenses 7.
+In plane 9 we register the spatial spectrum of radiation u; modulated either with
+respect to amplitude only (when phase-distorting plate 8 is absent) (see Fig.
+
+2b [photo not reproduced]), or with respect to both amplitude and phase (Fig.
+
+6a [photo not reproduced]).
+
+The spatial spectrum of radiation u; at the output from the nonlinear medium is
+registered in plane 6, and is independent of whether the phase-distorting plate
+is present or absent (Fig. 2c and 4b [photos not reproduced]). The results con-
+firm the previously drawn conclusions about the possibility of using the investi-
+gated effect to eliminate the influence of phase distortions of a medium when
+observing amplitude-modulated radiation through this medium.
+
+A distinguishing feature of the investigated setup as compared with those based
+on the wavefront reversal effect [Ref. 7] is single rather than double passage
+of the radiation through the distorting medium, which is much more convenient
+for developing specific devices.
+
+It should be noted that although the above discussion was addressed primarily
+
+to spatially modulated fields. in accordance with the space-time analogies that
+occur in the theory of nonlinear interactions of modulated waves (see for example
+Ref. 8) it can be assumed that the given effect is suitable for separating com-
+ponents of laser radiation associated with amplitude and phase modulations in
+time as well. Use of a method of this kind for studying the frequency spectra
+
+59
+non omcut use ONLY
+FOR OFFICIAL USE ONLY
+
+of optical radiation can be expected to be most effective in the investigation
+of ultrashort pulses.
+
+1.
+
+REFERENCES
+
+Hatveyev. I. 11.. Kudryashov. V. A.. Yerneyeva. R. A.. "Tezisy dokladov sed'moy
+Vsesoyuznoy konferentsii po kogerentnoy i nelineynoy optike" [Abstracts of
+Papers at Seventh All—Union Conference on Coherent and Nonlinear Optics].
+Moscow, published by Hoscow State University. 1976. p 477.
+
+Ustinov, N. D., Hatveyev, 1. 11.. KVAN'IOVAYA RETRONIKA. Vol lo, 1977, p 2995.
+310m, D. H” Bjorklund. G. C., APPL. PHYS. LENS. V01 31, 1977, p 592.
+
+Voronin, E. 8.. Ivakhnik. V. V., Petnikova. V. M” Solonatin, V. 5.. Shuvalov,
+V. V., KVANTOVAYA ELEKTRONIKA, Vol 6, 1977, p 2009.
+
+Rytov, s. 14., "Vvedeniye v statisticheskuyu radiofiziku" [Introduction to
+Statistical Radio Physics], Moscow. Nauka, 1976. part 1.
+
+Zel'dovich, 8. 1a., Noaach, 0. Yu., Popovich. V. 1., Ragnl'skiy. V. V..
+Fayzulov, P. 8., VESTNIX HDSXDVSKOGO GOSUDARSTVENNOGO UNIVERSITETA, SERIYA III:
+PIZ‘LKA, ASTRONOHIYA, V01 19, No A. 1978. p 137.
+
+Akhmanov, S. A.. Chirkin, A. G.. "Statisticheskiye yavleniye v nelineynoy
+optike" [Statistical Phenomena in Nonlinear Optics]. Moscow. published by
+Moscow State University. 1971.
+
+COPYRIGHT: Izdatel'stvo "Radio 1 svyaz'". "Kvantovaya elektronika“, 1981
+
+6610
+
+C80:
+
+1862/9! END
+
+60
+FOR OFFICIAL USE ONLY

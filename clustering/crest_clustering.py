@@ -244,8 +244,8 @@ if not os.path.exists(path):
 			old = dst+'/'+os.path.basename(src)	# path to file in cluster
 			new = old[:len(old)-4]			# name without extension
 			new = new+'_CLOSEST_TO_CENTER.txt'	# new filename
-			print(old)
-			print(new)
+			#print(old)
+			#print(new)
 			os.rename(old,new)			# rename file
 		# Copy the file
 		src = dataset.filenames[idx]

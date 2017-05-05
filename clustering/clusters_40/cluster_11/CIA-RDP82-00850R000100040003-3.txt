@@ -1,0 +1,1524 @@
+APPROVED FOR RELEASE: 2007/02/08: ClA-RDPOZ-OOOBOROOO100040003-3
+
+3 “IL 1979 (Fill) 1/79)
+IMAGE EVALUATION
+resr wrest (MT-3)
+
+m m m. m m.
+mummummk u
+
+mum.
+FOR OFFICIAL USE ONLY
+
+JPRS U836?
+3 April 1979
+
+USSR AND EASTERN EUROPE SCIENTIFIC ABSTRACTS
+CYBERNETIcs, COMPUTERS AND AUTOMATION TECHNOLOGY
+(FIJI!) 1/79)
+
+U. S. JOINT PUBLICATIONS RESEARCH SERVICE
+
+FOR OFFICIAL USE (NLY
+NOTE
+
+JPls publications contain information primarily froa foreign
+newspapers. periodicals and books. but also from news agency
+trensuissions and brosdcssts. Materials fron foreign-language
+sources are translated; those from English-langusge sources
+are transcribed or reprinted. with the original phrasing and
+other characteristics retained.
+
+headlines, editorial reports, and laterial enclosed in brackets
+[I are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each iten. or following the
+last line of a brief. indicate how the original information was
+processed. where no processing indicator is given. the infor-
+mation wea sue-arised or extracted.
+
+Unfamiliar naaes rendered phonetically or trsnslitarated are
+enclosed in parentheses. Words or names preceded by a ques-
+tion Isrk and enclosed in parentheses were not clear in the
+original but have been supplied asappropriate in context.
+Other unattributed parenthetical notes within the body of an
+iten originate with the source. Tines within itenw are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.5. Govern-ent.
+
+COPYRIGH' [A95 AND REGUIA‘I'IONS GWERNING WNERSRIP OF
+MATERIALS REPRODUCED HERE!" REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED MOPFICIAL USE ONLY.
+'ihie aerial publication conteine abatracte of articlea and new ice-e
+from 1188!! and Beetern Europe ecientiiic and technical Journeie on the
+
+FOR OFFICIAL USE ONLY
+
+JPRS U836?
+3 April 1979
+
+USSR AND EASTERN EUROPE SCIENTIFIC ABSTRACTS
+
+CYBERNETICS. Concureas AND AurouATxou TECHNOLOGY
+
+(POUO 1/79)
+
+epecific eubjecte reflected in the table of contente.
+
+Photonproductione oi foreign-language eourcee may be obtained ho.
+the Photoduplication Service, Library of Congreee. Haahington, D. c.
+
+20560 .
+
+Requeete ehould provide adequate identification both ee to the
+eourco and the individual artic1e(e) deaired.
+
+Couteurs
+
+1. mm AID PRODUCTIOI OP commas AND WI. EQUIP“?
+
+A.
+B.
+Ce
+D.
+
+Unified System or Ryad Scrica .....
+"W": .OOOOOIOOOOOOOIOOOIOOOOOOOOOOIOOOCOOOOOOOOOO00....
+
+Proumn‘ ”Id somtl‘e eeoooeoeooeooeeeoeeeoeeeoeeeeeeeee
+
+other eeeaeaeeeeeeeeceoeeoeeecooooooeeceoeteOOooooaOooCeooe
+
+II. ECONOMIC APPLICATIONS
+
+A.
+8.
+Co
+D.
+8.
+
+Genera Tr..mnt .000I..OO'OOOOOOQOOOOOOOOOOI0.0..00....I.
+over-n1 lem *‘hm 0000.000000000000COOOOIOOOOOOOQOO
+Bcononic Control at Local Lovel............................
+thractivc Industries. Fishing ............................
+8m” sy.u. 0.000000000000000...00090000000000.0.000.000.
+
+V. INWRMATION SCIENCE
+
+A.
+
+InfomtiOn serwc” eeeeeeeeoeocooeeeeeoeoeoeeoeeeoooceoco
+
+Pee:
+
+muP
+
+22
+25 .
+
+27
+FOR ORIGIN. USE ONLY
+
+I. DBVBIDPMDIT AND PRODUCTION OF COMPUTERS AND CONTROL EGJIPHBNT
+A. Unified Systen or Wad Series
+
+uses one 681. 3.06
+monuc'riou m m mnom. SYSTEM or he come
+
+Moscow WEDBllIIB V 08 Yes mm in Russian, Statistika 1971, 119 pp, hﬁ
+
+[ma namxumy zuumt. wrowm. TBWMIKA 1 WCHISLITBL'NAYA
+mm No 1, 1978 Abstract No 1363: (8ynopsis)]
+
+PSBDOV, O. V. and RAYKOV, L. D.
+
+[Text] An oxanination is made of the conposition. vorking principles and
+functional possibilities of the 08 (Operational systen) Yes—the nost
+highly developed system in the software couple-eat of the Yes computers
+(M). The authors discuss such problens as asking a set of mnctions
+available to the user. adaptaticn to applications, Iultiprogrening mdes
+and so forth. Raphesis is placed on the controlling progrul of the open-
+tional system. The book is vritten for progre-ers who are beconing
+acquainted with the 08 Yes operational system. It may also be of use to
+
+specialists stuwing the problem of designing and using couputers and co.-
+puter software.
+
+ussa unc 658.012.011.56
+
+COMPARATIVE EVAUJATIOIS OF THE US 0? DIFFERENT PROGRAM“: WGUAOES FOR
+res COWS
+
+SBORIIIK RAUCHNYKH TRUDOV. 'rsacm'urr NAUCImo-ISSLEDOVATEL'ﬂIY 1 PRO!-
+mormmowcicmxir msrmrr ORGMIZATSII I mum: UPRAVLENIIA
+[Collected Scientific Transactions. Central Scientific Research Institute
+of Planning Technical Organization and Control Bouipaent] in Russian
+
+"0 “(26). 1975 PP 121-13)
+
+[Fran mammary 33mm. oncmmsm umvmm lo 3. 1978 Abstract
+no 3.67.157 by Yu. 9.1).]
+
+BBLGJmVA. L. I. nnd TISHKO, B. 1.
+
+[Text] The operational systeaa of the Yes coaputers (m) contain several
+different mgr-suing langusges: assedaler. 00m. PL/I. 1‘0er and so on.
+The principles of choosing a progra-ing language for the Yes 3W differ
+the those for choosing the corresponding languages for the Minsk-32
+
+1
+FOR ORIGIN. USE ONLY
+M OFFICIAL USE ONLY
+
+computers. This is caused by certain peculiarities of the operational
+systens of the Yes M: the Yes ”chine-oriented language (Assedaler) has
+such greater capabilities than YaBK for the Minsk-32. and the higher-level
+languages-«3080!. and PL/I-udo not have seam for input iron punched tape.
+Besides. the use of different specific control systass. such as real-time
+systems requires new criteria for choosing the progressing language. A
+table is presented that gives sons tine and voluse indices characterizing
+the use of applicable programing languages. All paraseters for setting up
+the statistics were chosen for program written by prograners of approxi-
+sately identical skill. Program in Assembler are written with the use of
+both nacrocouands of the disk operating systen (DOS) and special user micro-
+cousnds. In investigated problem 68 percent of the progress are written
+in COBOL. 31 percent in Assenbler and less than 1 percent in PL/I. The
+table presented allows cosparison of different programing languages with
+respect to the tine for writing the progress. the nusber of cards of
+original text. translation tine. nuisar of outputs per sachine up to con-
+plcte debugging of the progran and so on. To define cooperative estisates.
+an analysis was asde of the standard programs used in the data processing
+systems. Analogous prograss were written with the use of different pro-
+gra-ing languages for the nos/res. Analysis of the resultant data showed
+that the nos: widely used progressing languages are 0080!. and Assewler.
+Use of the hidier-lewel COBOL shortens the tine for writing progra- ot an
+economic nature by an average of 25 percent. signifies the introduction of
+changes needed in economic data processing. reduces losses of tile necessary
+for writing and debugging programs. and also increases the labor productiv-
+ity of the program". Colpatibility is ensured for programs written for
+the Yes disk operating syntax: and the Yes operational system. Use of the
+COBOL report coapiler enables autontion of such a difficult procedure in
+economic data processing as printout of various tabular infomtion. 00801.
+has convenient working facilities with a library of initial mdules (BASIS
+and GOP! operators). The PL]! universal programing language is superior
+in capabilities to the other programming languages. and offers a variety of
+possibilities for more productive use of modern data processing system
+such as handling program interruption. programing sepentation capability.
+selection of input/output sethod. and feasibility of comication with
+progra. written in other languages. with increasing comlication of asth-
+enatical calculations in econolics problens. there will be an increase in
+the use of PL/I. he Assedwler nachine-oriented progra-ing language
+requires progras cospilation on the machine-co-snd level. and because of
+this the progra-ing becoses laborious and presupposes considerable pro-
+gra-Ier experience. however. the presence of nacrofacilities in Assemler
+offers then-ogra-er the capability for writing ncrodefinitions. These
+facilities sillplify progras coding. reduce the hunter of errors in pro-
+granting and provide for the use of standard op'. 'ators for executing
+typical procedures in economic data processing.
+
+{a
+
+2
+roe OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+8 . Herdvere
+
+use}: we 658.012.011.56
+
+0" THE PROM OP CKOOSIIIO THE HARDHW COMPLEX P'OR All ANTED MAW
+SYSTEM
+
+Moscow MNIWIYE SWA 03W! 1”“)le [Technicel Pecilities
+for Dete Processing] in hussien 1976 pp 35-58
+
+[Pros mummy! ssomux. oawzm'sm mmm so 3. 1978 Abstrect
+No 3.67.162]
+
+KOWDROVSKAYA, I. A. and KWDROVSKIY. V. 0.
+
+[Tea-z] One of the subsystem of en eutouted management system (A80) is the
+hermere complex; in choosing this coeplex s nuier or interruleted end
+
+interdependent problem erise. The optinue choice or the herdsere complex
+on the level of the entire set or problem is e coupliceted Job in virtue of
+conputetionel end other difficulties. It nukes sense to solve such s prob-
+lee by stegss on the level or problem or different degrees of complexity
+end significence. lience the problel erises of hreehing don the entire set
+of problem of choosing the herduere coeplex into sweets end representing
+
+the by s multilevel hiererchicel when. This pepsr ettenpts to torselise
+the representetion or the set of problem of choosing the herdvsre couples
+
+or en A80 in the tors of e hiererchicel sultilevel scheme or problem end
+Jobs thet erise_ in plenning. eleboreting. ming end developing the herduere
+cosplex.
+
+usss unc 681.326.?
+on was paosum or Immune nu: cosmcxm or mamas or A com
+
+smws 888 WINK.“ MMIS WWﬁOOBSHCHﬂ‘IYA AKADMI "AUX
+ORUZIHSKOY 88!! in Russien Vol 86. No 3. 1977 pp 685-688
+
+[rm ”mummy 230mm. Amxn. warm 1 wwlsnrmmau
+TEKHNIKA no 1. 1918 Abstrect Ho .1322 by 1. P. Dvornikove]
+
+MIME. I. 8. end Imusmzz. 2'. A.
+
+[Text] The peper eerines e lethod or celculstim the preperednees or e
+computer vith the me of continuom herdvere error checking thet cen detect
+end correct errors thet hove erioen es s consequence of etesw-stete reil-
+
+ures end rendoe intereittent neli‘unctiom in individuel colputer sub-
+essesblies end devices. me possible ststes of the colputer ere shovn on
+
+3
+FOR 0"“:th USE ONLY
+FOR OWICIAI. USE ONLY
+
+n graph. Three vernionu are considered: 1) Continuoun checking is reli-
+able and is intended for detection of errors caused by steady-state fail-
+ures or random intermittent malfunctions; 2) Continuous checking is reli-
+able and is intended for correcting isolated errors and detecting double
+errors caused by dotble steamy-state failures or randon intermittent mal-
+functions; and 3) Continuum checking is not reliable and is intended for
+correcting an isolated error and detecting a double error caused by steady-
+state failures. In all versions considered it is seamed that the stream
+of failures and malfunction conform to Poisson law. In the case of a
+failure or malhmction. the mean time of recovery of a computer is deter-
+mined by Laplac~8tieltJes transforms with respect to known computer
+recovery tine distribution functions. A comparative estimate is given of
+the first and second versions of checking vith consideration of the ratio of
+the volumes of equipment needed for each version. Figures 1', references: 3.
+
+HARWARE FOR A FAMILY OF SMALL COMPUTERS
+
+TRUDY IUSTIMA BLEKTRONHYIOI UPRAVLYAMHCHIKH WI" [Proceedings of the
+Institute of Control Computers] in Rmsian no 56, 1976 pp 3-19
+
+[Fran scramnmr ZBURNAL. amm'rm, Emma I wcuxsum'uaxa
+Taoism No 1. 1978 Abstract lo 1.8171 by 'r. M. Kuznetaova]
+
+WLUBEV. B. P., mam. YU- D.. BOYCHRNKO. A. V.. mm, V. H.,
+KOIOSKOV, M. 5.. MARBV. H. II. and CHERNYSHOVA, S. A.
+
+[Text] Consideration is given to the considerable role of peripheral equip-
+ment in automated management system (ASU). As a result of analysis of
+
+the fields of application of small computers. principal forms of representa-
+tion of input and output data are defined, and classes and groups of exter-
+nal devices are differentiated in accordance vitn these form: external
+storage units. data input/output devices. units for co-unication betveen
+operator and computer. system for rennte processing of data. data prepara-
+tion devices.
+
+The technical characteristics of external devices are considered. The paper
+gives the results of analysis of non-Soviet peripheral equipment that can
+serve as a basis for developing methods of conparing and evaluating the
+
+technical level of Soviet computer equipaent no: existing and under develop-
+nent as compared vith non-Soviet analogs. Tables 1?.
+
+h
+POI OHICIIJ. USE ONLY
+ussn unc 681.327.6(088.8)
+A may nsvxcs um sm—cusaunc
+
+U38?! AUBROR"S CERTIFICATE 110 55513103, Division 0. tiled 27 Oct 75. published
+1 W 77
+
+[From REPERNHVNYY ZHURNAL. AWONNI'IKA TWIIQ I WWISLITEL'IAYA
+m1“ lo 1. 1978 Abstract ho lBBSSPj
+
+SLIPCHENKO, V. 6.. KORNEYCIIIK. V. 1., 333110". A. I. and MAY. GIDRUN (But
+Gen-mam). Kiev Polytechnieal Institute
+
+[Text] A memory device is now available with self-checking that contains
+acculmlators connected to their respective registers. checking units. MD
+and OR logic elements. The disadvantages of the device are large hardware
+expenditures and low reliability of the device. Among known devices the
+closest technical solution to this invention is a device that contains
+accumulators connected to an address register and to main and auxiliary vord
+registers. and also contains digit-by-digit check units with inputs con-
+nected to the outputs of the corresponding word registers. and has error-
+detection nodules with inputs connected to the outputs of the min vord
+registers, while the outputs are connected to the inputs or a control unit.
+and in addition this device contains MID elements of a first group. The
+first inputs of these AND lsments are connected to the outyuts o! the
+corresponding Iain word registers. and the outputs of the MID elements are
+connected through main OR elements to the inputs or an output register.
+The device contains main MD elements of a second group that are connected
+to the main word registers. A disadvantage of this device is that informa-
+tion output is impossible in the case where failures arise in like cells
+or the accumlators. This reduces the reliability of the device. The reli-
+ability oi' the device is increased by adding MD and on elements. Some of
+the inputs or the additional AND elements are connected to the outputs of
+the digit-by-digit check units. while the other inputs are connected to the
+control unit. Their outputs are connected to the inputs of the correspond-
+ing additional OR elements. whose outputs are connected to the second
+inputs or the Iain AND elements or the first group. Figures 1.
+
+5
+
+NR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+088:! UDC 68l.327.66h.|o
+
+A TECHNIQUE FOR ENGINEERING EVALUATIOII 01’ THE QUALITY OF D3810! OF THE
+FUNCTIONAL mums OP ACCLMJLA‘I'ORS ON CYLINDRICAL MAWIC Mlle
+
+TRUDY INSTITUI'A WON!!!” UPRAVLYAM‘ICKIKH WIN [Proceeding of the
+Institute of Control Conputers] in Russian No 59. 1976 pp 3-16
+
+[From RBFBRATIVNYY ZHURIIAL, AVTOMATIKA. mm I VYCHISLITBL'NAYA
+TWIKA No l. 1978 Abatth No 13368 by ‘1'. N. Kusnetsova]
+
+BOYARCHENKOV, M. A.. PADYLKOV, L. N. and RAM. V. K.
+
+[Text] An examination is made or the problem of rational design of micro-
+topology of a chip for storage units on cylindrical Iagnetic domains
+(T320). By chip is mesnt a domain-containing crystal carrying on its tur-
+i'ace the micmprinta of circuits for loving. recording, erasure. switching
+and readout of TSMD. Sons ways to evaluate the quality of design of chip
+structures are discussed. Calculations are done in application to the
+structure of a chip with internal decoding of the accumulator address
+register.
+
+Selection is substantiated for two types of structures: symmetric with
+peripheral location of two decoders specialized for recording and readout;
+and any-etric with a decoder that coshinea these functions. Informational.
+technological and generalized functional criteria are proposed for chip
+design. The results are given in graphic form for convenience or engineer-
+ing evaluations. Figures 5; references: 12.
+
+USSR UDC 681.327.6610.”
+PROBLEBS OF DESIOlIﬂG DATA READOUI‘ CRANKELS POR DOMAIN may DEV/HES
+
+mm Ius'rrruu mmunm upmvunusucmm mum [Proceedings of the
+Institute or Control oo-putoro] in Russian lie 59. 1917 pp 31.1.3
+
+[From mmmn ZHUMIAL, AVTOMATIKA, mm 1 vycmsmn'uan
+mrm No 1. 1978 Abstract No 1.3369 by '1'. H. Kusnetsova]
+
+KRASOVSKIY. V. YE. cud SMIRIIOV, S. N.
+
+[Text] The authors consider the problem or designing a data playback
+channel (TV!) based on magnetorenistive Permslloy microsensors. The basic
+TVI requirements are formulated that stem ”on the peculiarities of the
+
+output signal or the sensor and of interference signals; methods are
+investigated for realizing these requirements in M design based on the
+
+6
+FOR OFFICIAL USE ONLY
+'0! OFFICIAL USE ONLY
+
+example of a circuit developed for a cylindricel magnetit- domein (Tle)
+memory with a capacity of 256 lB-digit vords. The given TV! contains a
+bridge circuit thet includes both mein end compensetory sensors and e peir
+of resistors. preenplifier. plwback amplifier and a diode. The TVI is
+realised by means of stenderd semiconductor microcircuits. The regions of
+stable operation of the WI are determined as a function of the magnitude
+of the sensor supply currents, controlling fields and working frequencies.
+An effective vsy of increasing the interference immunity of the M is
+pointed out—plecing the amplifier in a magnetic nodule. Beceuse this
+method is not eppliceble to existing amplifiers due to their large overall
+
+dimensions. it is planned to develop specie]. hybrid playback amplifiers for
+cylindricel magnetic domein memories. Figures 6; references 3.
+
+USSR UDC 681.327.6610.):
+
+mVI‘iG CYLINDRICAL “AWE-TIC DOMAII‘S BY THE FIELD 01’ All ISOLATED HAMMER
+TR”
+
+mun! INSTIMA ammonium UPRAVLYAMHCBIIG! man [Proceedings of the
+Institute of Control Computerslin Rusien No 59, 1976 pp 78-90
+
+[mm scram-mm 231mm. ”roam“. mum I wmzsum'um
+mum No 1. 1918 Abstract llo 13370 by r. u. Kuznetsove]
+
+mm. V. K. end IOIODBIKOV. 6. Y3.
+
+[Text] An attemt is made to determine the region of stable operation (001!)
+of a domain-moving circuit. To do this. an exeminetion is made of anvement
+of cylindricel megnetic domains (mo) by the field of on isolated magneto-
+static trap thet does not chenge shspe with time. and also by a field vith
+uniform gradient. The region of stable operation is constructed on the
+
+basis of a complete stw of stability with e mﬂer of idea: Lung asst-p-
+tiom. News to construct a real OUR are pointed out. Figures 2;
+
+references 3.
+
+7
+
+FOR OFFICIAL USE ONLY
+POI OFFICIAL USE ONLY
+
+lBSR unc 681.321 .6610 .lo
+
+KNOBS 0? REGISTRATION OF SMALL-DIAMETER CYLINDRICAL mosaic NW8 3!
+EARS 0P ACOUSTIC HAYES
+
+nun! ms'rmm muomm mmumacumi mam [Proceedings of the
+Institute of Control Computers] in Russian Bio 99, 1976 pp ua-s'r
+
+[Prom RBPBRATIMY ZKURIIAL. AWOHATIKA. TWM I WWISle'IIAYA
+mm No l. 1978 Abstth Ito 13372 by '1'. M. Kusnetsova]
+
+YUROV. A. 8.
+
+[Text] An examination is made of the problem of detecting cylindrical
+magnetic domain (TsMD) with a diameter on the order or a few micrometers
+by using the properties of acoustic waves. A comparative analysis is made
+or different methods of registration of 1‘le: interaction of acoustic waves
+with a logistic field, with a magnetized medium and with charge carriers in
+semiconductors. It is concluded that the second and third methods have the
+best outlook, which can be attributed to the possibility of exact detection
+of TM) without increasing their dimension, and also to the low sensitivity
+to stray pickups from the controlling fields. Some quantitative evaluations
+are given on readout devices that use these methods. It is noted that one
+element is couson to all readout devicesnthe transducer for excitation of
+acoutic waves-which necessitates the development of effective structures
+that can effect this excitation in the system comprised of an epitaxial
+ferrite-garnet film and substrate. Technological procedures are discmsed
+for realization of these devices. Figures in references 15.
+
+USSR UDC 681321.663 .h
+
+EXPERIMENTAL GWSTICS OP CYLIIIIRICAL MAGETIC WHAIN SWITCHES FOR
+DOMAIN MRI DEVICES
+
+mun! ms'rmm man-mm wmmmxsuaum HASHIN [Proceedings of the
+Institute or Control Computers] in Russian Ho 99. 1916 pp 63-66
+
+[From nsnmnww muss». AVTOMATIKA. TWA!!!“ I wwismm'mm
+radium so 1, 1918 Abstract No 13373 by 'r. u. Kusnetsova]
+
+IVAIOV, IE. A.
+[Text] An analysis is made of the operation of cylindrical segnetic
+domin ('i'sm) switches controlled by a current-conductive overly that
+
+passes a current pulse at the instant of transfer of the 'i'sll) tron one
+register of the domain memory to another. Several switch mdels are
+
+8
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+studied with different configurations of the domain transfer elements: the
+element is located between registers and there is a current-conducting
+control line; the element is made in the torn of a rectangular overlw; the
+element is made in the form of a cross. The regions of stable operation or
+these switches are determined as well as the range or asplitudes of the
+control pulses. llote is taken or the inadequate econoqr or the switches.
+the need for large control currents and strict phuing oi' the current trans-
+mission times. Figures 3; references 3.
+
+W58 UDC 681.327.665.10
+
+CRAP" @8818le OF THE CYLINDRICAL name DOMAIN HEIDI?! mm TYPE
+’DONEN-l'
+
+TRUDY INSTITUTA mmmlm UPRAVLYAIUSHCHIW ”SKIN [Proceedings of the
+Institute or Control Computers] in Russian No 59. 1976 pp 17-21
+
+[Prom REFERATIWYY ZHURNAL. AV‘I‘OHATIKA. WWII“ I WWISLI'I‘E'IAYA
+TWIKA No 1. 1978 Abstract No 133130 by '1'. N. Kusnetsova]
+
+KARASEV, YE. V.. KRASOVSIGY, V. Y8. and POTAPOV, v.3.
+
+[Text] The paper describes the type "Donn-1" memory sodule based on
+mterials with a cylindrical magnetic domain (Tam diameter of the order
+or 100 [I m. Module dimensions are 50 x no 3: 10 . informtion capacity is
+610 bits. and maxim data; transmission rate is loo/kbits/s. A detailed
+description is given as well as the characteristics of the principal
+
+mdule elements; control coil; permanent magnets; keeper; comieation
+plate that contain a substrate with readout pickups and with generation
+and annihilation wires; substrate with domain-mowing circuit; nagnetic
+crystal. The selection of yttrius orthoterrite is Justified as the naterial
+for the recording sodium. The circuit is given for a codained Per-alloy
+generator that handles data input. The working ranges are given for the
+Tail) input device and the domain-saving circuit. A readout device is
+described that is based on a metomistive pickup of annular shape.
+Figures ’4; references 3.
+
+9
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+won one 6813273535
+All OPPICAL DISK A8 A 'WIFIED' DATA DEDIUM IN CONTROL SYSTEMS
+
+OWICIIESKIY DISK KAK 'rmmn' NOGITEL' Inmm'rsn v axe-rm
+UPMVLENIYA in Russien. Horldwide zlectrotcchnicel Congress. Moscow 21-25
+Jun 1017. Section 7. No log. '28 pp. unpublinhed
+
+[Fran REFERA'PIVIYY ZNUMAL. AWOMATIKA. TEWAIIKA X WOﬂlsblTBL’IAYA
+TWIKA "0 1. 1978 Abstract lIo 1350': by O. O. Meylskh]
+
+WRSHKOV. N. V. end Pmov. V. V.
+
+[Text] The euthore define end discus the eein require-ems for e ”unified”
+dete medium thet would find the most extensive possible sphere of epplice-
+tion. primarily in the externel stores of lerge control systems. in coeputer
+complexes. in system for collecting end processing information in the
+presence of lerge end veried inforsetion flows. end finelly. in coeputers
+of moderete end even low productivity. in dete preperetion system end for
+dete exchenae between cosputers of identicel end different productivity. A
+deteilcd exsminetion in mode of: the etetc of development of externel
+stores; requirements for the unified medias; the dete recording method; the
+externel devices beeed on the unified Iedium; the me of unified medie in
+control eyeteu. Figures 9; references 18.
+
+usn unc 681.321.66(088.8)
+A HECIIANICAL mm mm:
+
+USSR AUTNOR'S CERTIFICATE llo 525163. Division 0. filed 23 Jen 75. Plblished
+15 Feb 77
+
+[From mmmmx zuumz. AWOHA‘HKA mm 1 wmmmmm
+woman no 1. 1918 Abstrect llo lanai
+
+ﬂIKOLAYEV. V. A.. NOVOZKIIDV. L. I” PAVDOV. F. I. end PANIIC. V. 6.
+
+[Text] A mechenicel memory for e prop-em control device is sveileble thet
+conteins rotetin; eccuuletor slants. eech of which cerries nveble
+locetors thet perceive electromechenicelly trensnitted dete pulses vie the
+corresponding electromechenicel trensmission. Also eveileble is en electro-
+mechenicel memory thet conteins e drive kineeeticelly coupled to e sheft thet
+cerriee electrometic clutches end eels with lobes end switches. The
+
+eein disedvente‘e ofsuch devices is the presence of mechenicel coupling
+between the input/output dete units end the storece elements. which results
+
+10
+
+[OR OHICIAI. USE ONLY
+FOR OFFICIAL 083 ONLY
+
+in quickly worn components in these aemories. The closest in technical
+essence to the given invention is a mechanical auory that contains non-
+magnetic disks fastened to a shaft. the grooves in these disks carrying
+magnetic storage elemento, recording. readout and erasure units. The pres-
+ence in such a aemory of control electromagnets with flat poles that have
+slots and cover the disk with storage eleaente. as well as the presence of
+n photoelectric data readout systea, considerably coaplicates the design
+of the memory unit. particularly when it is necessary to develop a multi-
+cycle store for which the measly volume of the available device is
+inadequate. The aemory volume of the device is increased by making each
+storage element in the form of a iraae with a permanent magnet. The axle
+of the frane is held by spring plates accosanodated in the grooves of the
+disks. in whose plane of rotation is the erasure unit made in the form of
+an L-shaped profile stop. Installed on a pedestal in the cone of travel
+of the frame are the record unit and the readout unit. which are made in
+
+thr. tons of an electromegnet and nagnetically controlled contacts.
+Figures 2.
+
+was we 681.327(088.8)
+A mar wvtca
+
+USSR AUTHOR’S CMIPICA‘I'E No 551817. DiVision O. filed 1 MIC 75. published
+5 May 17
+
+[From ERMTIWYY ZIIURNAL. AMT!“ mm I WCIIISLITEL'IAYA
+MIRA [lo 1. 1978 Abstract No 135ij
+
+GUR‘I'OVI‘SEV. A. L. . Institute of Electronics and Computer Technology.
+Academy of Sciences of the Latvian 88!!
+
+[Text] There are existing memory devices where search for the recording
+zone on sagnetic media is accomplished by deteraining the diameter of the
+roll on the feed reel. Became of the nonlinear nature of the relation
+between tape roll diameter and the ntﬂer of a tone. the location of the
+tone in only roughly determined. The use of mechanical mean. (code disks.
+light source. lidtt sensor) for determining roll diameter increases the
+overall dimensions of the device. complicates manufacture and adjustment.
+and reduces reliability. The closest technical solution to this invention
+is a memory that contains an accumulator with tape medium. this accmlator
+being connected to a control unit and to the first input of an address
+comparison unit with the second and third inputs connected to channels for
+setting the final address and reading interval. while the fourth input and
+first output are connected to an error register. and the second output is
+connected to the first input of the control unit. The field of application
+
+11
+
+M OFFICIAL USE ONLY
+FOR OFFICIAL US! ONLY
+
+of the device is expended by including two perellel circuits. eech consisting
+of e dole: eleesnt end pulse generetor connected in series. end by sdding e
+Requency divider end on on gete. The inputs of the deltw ole-onto ere
+connected to the second end third outputs of the coeperison unit end to the
+second end third inputs of the control unit. Ite fourth input is connected
+to the frequency divider. which is connected by its firet input to the con-
+trolling output of the error register. end by its second input through the
+0R gete to the outputs of the pulse generetore. figures 1.
+
+NSF UDC 631327.22
+TRANSFERRAL OF INFORMATION DISPLAYED ON TH? 'vmwrou-aho' scam
+
+Moacov WSLYATSIYA INNRMATSII. VYVODIDDY NA mun mama 'VIDEUI'M-
+3100' in Ruesien. Institute of Atoeic Energ. IAE-2797. 1977. 6 pp. nieeo.
+
+[m- nsmunmr mu. nv'rom'm. nmmowm x vrcmsum'un
+mm No 1. 1978 Abetrect uo mmx (synopsisﬂ
+
+WOV, A. I.
+
+[Text] The euthor considers the feesibility of tremferring inforeetion dis-
+pleyed on the "Videoton-3h0” screen in cesee where it is neceesery to heve
+the seas infometion in territorielly sepereted points. or where the screen
+size Isust be naified. Severel nethods ere described for rebroedcesting
+infomtion depending on the distence of the video Ionitors fro- the bese
+displw.
+
+ussn unc 681.3
+
+"1031.96 0!" COIUTRWIIO A DISCRETE DATA TRANSMISSION "£190!“ FOR GENERAL
+USE
+
+Moscow INFORMA‘I‘BIYA ! IIIFOMSIOIIIM SET! [Infometion end Infometion
+letvorke. collection of works] in Rue-inn. nun. 1971 pp “(b-83
+
+[nos mmrmrr tum». nmm. mm I weaxsumvnu
+mm in menu: lo 1. 1918 Abetrect llo 13526]
+
+SHVAM‘SHAN, V. 0.
+
+[Text] Besed on customer requiremte for e discrete dete trens-iesion
+network (SPDI) the suthor comiders different eethotb of constructing such
+
+12
+
+FOR OFFICIAL US! ONLY
+FOR OPPICIAL 083 031.?
+
+netvorka, techniquee for detn tremnieeion over the network. conetruction of
+
+evitching centers end date trenenieeion equip-out. Piguree l; tnblee 1;
+references 6.
+
+0333 UDC 68l.327.2'8(088.8)(37)
+A DEVICE FOR DATA “W03
+
+USSR AUTHOR'S CERTIFICATE no 550631. Divilion 0. tiled 18 Her Th.
+published 2l Ru- 77
+
+[From mrmn WAD. AVTOHA'HKA. “WWII“ I VYCHISLITEL’NAYA
+TECHNIKA No l. l978 Abetrect No 135351,]
+
+DIDBIIKO. K. 1.. mm. K. 0.. mum. V. D... KOCHUR. YU. P. end
+summit. I. 8.. Specidl benign Office for Auto-eted Control Byeteue
+
+[Text] A device in propoeed for operation in e dete tremnieeion conplex
+end for orgenieing co-unicetion vith e coquter conplex. The device con-
+teine e progre- nodule. end repetition. decoding. co-anicetion. control.
+1/0. regieter end coding unite. Connection- ere nede between the input end
+
+output nodulee of the device to expend functionel cepebilitine. Figure. l;
+reterencee 2.
+
+man one 681.139.ih(088.8)
+A 83m cumn
+
+USSR “KNOWS MIHCATE No 535931, Dlvlllon 0. 11106 26 M 75.
+published 3 Her 77
+
+[Pron 32me 23mm. amm'm mm 1 waism'wnu
+mm lo 1. l978 Abetrect lo usha’]
+
+com. A. D.
+
+[Text] A selector chennel in now evnileble thet conteine e regleter of the
+meter of the pcripherel device, on input/output co-end regieter. e unit
+for coupling to en i-ediete-ecceee nc-ory. en operetion code regieter. e
+
+regieter or the current eddreee of dete, e current dete comter. e regieter
+or the eddreee of the controlling word. e byte counter. e dnte regieter. e
+
+13
+'0! OFFICIAL USE ONLY
+FOR OFFICIAL US! ONLY
+
+register for coupling vith the interface and a channel control unit. Thin
+channel hae inadequate reliability. A eelector channel in available that
+contains a eeriee circuit ccaprieed of a nodule for connecting the channel
+to the central proceeaor. a regieter of the addreee of the external device
+and a unit for connecting the channel to external devicee. a unit for con-
+necting the channel to the central inediate-acceee etore that ie connected
+to firat and eecond data regietere and to the control regieter. which ie
+connected in turn to an adder. 'l'he unite for connecting theee channele to
+external devicee ueuallv have hardware for einulating an external device
+when the channel in operated in the checking or debugging node. however.
+the I/O interface (huee; interface-coupling anplifiere. circuite for
+interfacing with external devicee) are not covered by cheching in the
+automaou node. The purpoee of thin invention in to inpnove the relinbil-
+ity of the eelector channel. For thie purpoee the channel additionally con-
+taine a firet byte regieter connected to a colparieon nodule. and also adde
+an nddreee-eetting unit and a aeriee circuit coaprieed of a aignal ahaper.
+a co-and ehaper and a eecond byte regieter that in connected to the con-
+parieon nodule. the first byte regieter. the addreee-eetting unit and the
+unit for connection to external devicee. Usually in data exchange vith
+external devicee the eelector channel operatee in a monopole node, and
+only one group of interface bueee ie needed for data traneniaeion (froa the
+external device to the channel or fro- the channel to the external device).
+when eetting the monopole node of data tram-ieeion in the propeed eclec-
+tor channel. the reveree group of intonation buee ie med for tranalitting
+control data. Tranoaiaaion of control data ie eynchroniaed by controlling
+ainale of the channel and of the external device. Figuree l.
+
+1!:
+
+M ONICMI. US! MY
+M Ol'ﬂctnl. US! ONLY
+c. Programing end Software
+
+088R UDO 681322.066
+m PABIAP 80mm 8181'!“ FOR CONTROLLING MINICOWERB
+
+POMAW WARM in Polish. Vol 7. lo 2. 1977 PD 165-1”
+
+[m- arrm'nmr mum». mom-nu. “warm I wcnxsnmmnm
+mm no 1. 1978 Ahstrsct llo 1.365 by A. o. Plitnen]
+
+WK! . JBRZY
+
+[Text] A sortvare system is ennined tor uni-control counters thet is
+oriented tavnrd probless or technologicsl process control. Control can be
+effected in the dislog node or in the pecksge node in 183 lengusge. 188
+
+(n r‘.ructurnl flowchert lensuase) is a hld’i-IOVOI problem-oriented language.
+The interpreter of this language works under the control oi‘ a stsndsrd
+operstionnl system. vhich enebles sinultsneous use or other progra-ing
+nthods as well in case of necessity. The paper describes the structure or
+the 183 interpreter. the proaasning technique and the progra- docusntetion
+systas. and also the possibilities for reconfigurstion of the systes. The
+given softvnre system is realized on linicosputers of the non-25 type.
+Pig-ares lb; tables 5; references 15.
+
+USR UDC 681.3.06:51
+
+CDL A3 A SYSTDI IWHION WWW MD Imamxou 0? 801mm
+8m FOR SCIMIFIC W. PART II
+
+Dubne. Report 210-10949 in English. Joint Institute of Iuclesr Reeeerch.
+1971. 9 pp. Iineo.
+
+[Fron REFEMTIVIYY lam». AMTIKA, WI“ 1 WWISLITBL'IAYA
+mm «o l. 1978 Ahatrsct lo 1311K (synopsisﬂ
+
+WINESCU, D. C.
+
+[Test] Cherecteristics are given on s special langusge thet is convenient
+for describing system program: trenslators, editor program. nonitors and
+so on. Its nnin syntectie comtructions are described as vell as the
+peculiarities of use. A tramlstor tron this lenguage has been introduced
+on type CDC-6560 caputers at the Joint Institute or Iuclesr Research.
+Methods of eccess to the given trenslator are described as veil as the pos-
+sibility of using the langusge on cuputers of other types.
+
+15
+M OWICIAI. US! ONLY
+FOR OFFICIAL "8! ONLY
+
+(BBB UDC 681.321.068
+comm FOR m KANT MICROPILMING DEVICE
+
+Novosibirsk PROGRAMME ommmm USTROYBTVA MIKROPIL'MIROVAIIYA KAN
+
+in Rueeien. Acedeev oi‘ Sciencee of the USSR. 8iherien Deperteent. Coeputing
+Center. Preprint No 60. 1977. 17 pp. eieeo.
+
+[MI REF'BMTIWYY ZRURIAL. AWTIKA, “WI“ I WCﬂISLITBL'NAYA
+mm No l. 1978 Abotrect No 1383! by Yu. V. Weeukov]
+
+WV, V. A. 0nd NATSOKII. A. M.
+
+[Text] The peper deecrihee eoftwere developed et the Computing Center of
+the Siberien Deperteent or the Acedeq of Sciencee or the USSR for the WT
+eicrarilning device connected to the emu-5 computer. The eyetee ie
+designed ee e euppleleut to the utheeeticel eoftwere or the 8:00 grephic
+devicee. end enehlee ulcrotiln output or ell 8'00 fecilitiee. The eoftwere
+providee for euch functions ee setting the bridxtneee, the dieeeter end
+exposure or the light been. on well u rte-e chenging, the use of video
+mnitoring equip-ent end proceduree for output of elphenueeric intoreetion
+ming e built-in eml generetor. The eoftwere of the NAT device eleo
+providee for creeting erchivee or tregeente end frenee in externel coeputer
+etorege with intonetion tor-uleted directly in the co-ende of the device.
+Th' infornetion on the eicrorilaing device that in neceeeery to the ueer ie
+
+t eented. Buppleeentea progre- tecilitiee ere deecrihed thet enehle lore
+e tective me of the WT device. Piguree 2; tehle l; referencee 3.
+
+uses one 681.322.068
+nu ommzzxno sxs'rzu non commas um umm comma CAPABILITIES
+
+TRUDY IIS‘I'IMA 121.9030"qu 'WRAVLYAYUSHCIIIIOI wall [Proceeding of the
+Inetitute of Control Coeputere] in Rueeien lo 56. 1976 pp 59-63:
+
+[PTOI ”WTIWYY WI“. AMTIM. “m1” I VYCHISLML'RAYA
+mum to l. 1918 Ahetrect lIo 1.390 hr T. . . Kueeeteove]
+
+maxovsxxr. A. I. end Romanov, V. V.
+
+[Text] The peper deecrihee the 08-80 orgenizing eyetee designed for reel-
+tiee eoftwere in coeputer operetion. The os-no eyet- in en eggregete of
+the following propel: initiel etert. mnitor. extrecodu eucutive routine.
+
+tine eervice. co-micetion with operetor. co-Inicetion with e hiuer-lewel
+coquter. input drivere (output. librery of etenderd euhprogre- end eyeten
+
+16
+
+M OHICIAL US! ONLY
+'08 OFFICIAL USE ONLY
+
+edeptetion nodule). The euthore give the nininun co-plonent of devicee
+neceeeery for functioning of the eyeten together with e deteiled deecrip-
+tion end the quentitetiwe cherecterietioe of the program lI'he following
+ere pointed out no the nein edwentegee of the 08-100 eyeten: feeeibility of
+develop-eat of the eyeten. eeee of neintenence. flexibility. weriety of
+men of epplicetion. end independence between ueer progre- end the
+phyeicel meter (eenpling code) of the device. The 0840 eyeten ie deeigned
+on the noduler principle. end in the nininun configuretion occupies 1.000
+worde of nonory. Figures 2; referencee 3.
+
+USER UN 681.322.068
+m; 'TRASBA' PROGRAM 'OR ‘1‘!!! “-500 COI'I'ROL comm cm
+
+TRUDY INSTITUI'A mm WVLYANSRCHDOI WI! [Proceedinge of the
+Inetitute of Control 0onputere] in Rueeien No 56. 1916 pp 65-68
+
+[Pro- mmzmr ZIIURNAL. 5mm. mm 1 mmnr ovum
+rennin lo 1. 1918 Abetrect lo 1391 by r. u. Kueneteowe]
+
+MOM” . M. A.
+
+[Text] An exelinetion ie nede of the problen of effective debugging of
+program on colputere. An enelyeie ie nede of "Prohruthe" or ”‘rreeee'
+prop-ell. which ere debugging fecilitiee thet operete on the level of
+objective codee end thet orgeniee work in the pechege node with dete output
+to e printer. the of progrne of the "Truee' type in the H00 control
+conuter coupler reducee nchine tine ee coepered with e etetic debugger.
+
+A cherecterietic feeture of orgenieetion of interection between the debug-
+ging end working progreuie thet efter execution of e co-end or group
+
+of co-nde of the working progren. control ie treneferred to the debugging
+progre- while theworhing page in protected frou deetruction. During en
+interruption. e pnogren of the "rreeee" type providee printout of intone-
+tion on the count! ofihe progre- being debugged tbet wee executed before
+
+the interruption. A flowchert of e "Treeee' type progre- ie preeented with
+en exeqle of printout. Piguree 2.
+
+l?
+M OHICIAI. US! ONLY
+F0! OFFICIAL USE ONLY
+
+£883 UDC 681.327.214.068
+
+80mm 05‘ THE TAPS RECORDER AND ORAPllIC DISPLAY FOR AN INFORMATION
+PROCESSING SYSTEM BASED 0!! THE 'NAIRI-2' comm
+
+Dubne PROGRAMME OBEPECHEIIIE WITOFONA I ORAFIGIEKOOO DISPLBYA DLYA
+318m OBRABUI'KI DIPORMA'IBII NA BAZE 3W mum-2' in Russlen. Joint
+Institute or Nucleer Reseereh. Report 11-10721. 197?. 2: pp. nieeo.
+
+[rm Winn 211mm. AVTONATIKA, mmmm 1 wemnmwm
+mm No 1. 1978 Abstrect No moon (re’su’e’n
+
+AKSB‘OVA. YE. K. end POLU’DRDIIIOVA. N. 1.
+
+[Text] The softwere is outlined for e dete processing systel developed on
+best: conputers with the use or e smell Neiri-2 counter. The results 01‘
+nunericel studies ere tremcrihed on the tepe recorders of the hesis con-
+puters (38816-6. CDC-5000) in the unified system node. The ini‘onsetion
+recorded on leanetic tepe is processed end represented in e given for. with
+
+the eid oi‘ the Kari-2 coeputer. The developed syst- of progress enehles
+derivetion or e predetereined dependence m. the totel volume of dete on
+the leanetic tepe. end gives e point curve on e srephic displw; the systee
+provides en service mdes or operetion with the leanetic tepe. The work
+with the progress systee is in A9 lenme with utilisetion or e nuer of
+new operetors introduced into the Neiri-Z colputer tremletor.
+
+USS! um 68). .322.05-52 :800 .92
+
+EXPANSIOII OF BASIC LANGUAGE All) INCORPORATIOI II‘I‘O 80mm OF T113 DISK
+
+OPERATING exam 0? HP CW8 SERIES 2100 All) M-6000 FOR DEBUOOINO
+EQUINE“? I]! m CAMAC STAIDARD
+
+Dunne RASSHIREIIYE YAZYKA BASIC I mmmxm \ .A‘MTICKEBKOYB 0838-
+PECIIHIYE DISKOVOY OPERATSIOINOY 31m EV“ HP SDII 2100 I “-6000 DLYA
+MI OBORUDOVAIIYA V STAIDARI'I W in Russien. Joint Institute of
+Nucleer Reseerch. report 11-10501. 1977. 15 pp. lileo.
+
+[Pros WIWYY MAL, AMI“. MAN!“ I "CHISLITBL'NAYA
+79.1mm ho l. 1978 Abstrect Ito lBllGK (Synopsisn
+
+vmun. K. end loam. P.
+
+[Text] The peper describes en expended BASIC interpoletor thet operetes
+under the control of e disk operetin; system. Tremcription of the supple-
+eentery pert enehles the use of disks for tile store‘s. By win; new
+
+18
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+conende BTDF. nene end GETDF. neee. etored or loeded prosrene in BASIC cen
+he proceeeed in the conventionel vey by eyetene progre- in the die): oper-
+ting eyeteea m, LIST. STORE. am. We procren peckegee eneble uee or
+the eervice (motions of the dick operetine eyeten in BASIC end dete
+exchenae with equipmnt in the cm etenderd. Subprogram ere reelieed
+for exchencina dete (in the fore of e einsle vord end e dete block). execu-
+tion of control conende. dete output to teletype. end eervice mnctione.
+
+USSR unc 681.323
+
+CURRBT STATE AID PATHS 0P nmmnm 0P ”CROPROCSSSORB AND MICRO-
+CMUTERS. PART II
+
+IMENIYA. KONTROL'. MMIZ. “Wit-W. ”F. 0.3. in Rueeien
+No 200) 1977 pp 55-65. 71
+
+[m- mmn 21mm. madam. mm 1 vrcmmrswm
+mm no 1. 1978 Abetrect lo 13110 by r. u. Kueneteove]
+
+MOISIWILI, I. V.
+
+[Text] An eneLyeie ie nede or the fectore reeponeible for the eppeerence
+of Iicroproceeeore end nicroproceeeor eyeteu end thoee thet determine the
+directione or develop-eat of theee eyeteu. Beeic cherecterietice ere
+given on 38 nodele of microconputere developed by verioue 0.8. coneniee:
+the typicel peculieritiee of eicroproceeeore end nicroproceeeor eyetm
+ere indiceted; the intertece etructure of nicroconputere is preeented.
+Principlee of nicroconputer eoftvere ere outlined together with deeign of
+the eyetee for nonitoring end controlling operetion. mare-ins croee
+eyeteee ere enelyzed. honoceneoue luped nultmcroproceeeor eyetele ere
+deecrihed (bend on the example oi’ the POPS! eyeten end e eyetee to: pro-
+ceeeins reder dete) ee vell ee dietributed controlling mltilicroproceeeor
+eyetene conetructed on the hiererchicel principle. Theoreticel principlee
+ere given for nicroprocre-ed control or eicroproceeeore. end the eein
+ereee of epplicetion of microprocessors end licrocOIputere ere defined. It
+ie eeeund thet in 1978-1960 there vill be e redicel rpexeeinetion or the
+erchitecture or coeputere in the direction or developing cheeper, enre
+relieble end lore productive nultinicroproceeeor eyetene with homeaeoue
+progenhle etructure. Piguree 3; tehlee l; referencee 9.
+
+19
+PO! OHICIAI. USE ONLY
+son omcm. uss om
+o. om:
+uses one 681.3):
+m "an Kano ammo com
+ammo“. I ammonia in Bulserien Vol 12. lo 2. 1917 p 69
+
+[hon WM” MAL. AWN, mm I WCKIBLI’I’RL‘IAYA
+mm "0 1. 1918 Abetrect No 13555 by A. D. Pint-en]
+
+020mm, V.
+
+[Text] The Mini 102114 is s smell hybrid conputer constructed on en up-to-
+dste intemted circuit hese. This is the first nechine of this kind in
+Bulzerie. The technicel chsrecteristics or the cosputer ere given: tine
+to: erriving et e solution 1 Is-20 s with recurrence rete of 0.001-10 o;
+eccurecy of lineer end nonlinesr nodules no worse then 0.1 end 0.2 percent;
+s-plitude or sneloa signels up to 10 V; digits}. sisnels correspond to m.
+logic levels; pover constnnption 10 VA. sees 10 k3. Figure l.
+
+ussn unc 681.325(088.8)
+A sum. morw. common comm
+
+uses mm mum's No 525099. Division a, tiled 11 Jen 15.
+ptblished 9 Dec 76
+
+[Fran “WWI“ WAD. AWN mmm I WCHIBLITBL'JAYA
+TEOIIIIKA lo 1, 1978 Abstrect llo 13201?
+
+PRAIIGISHVILI, I. V.. BABICIEVA. 13. V., vans. A. V., WV. YA. A.,
+MALYUGIII. V. 0., WV. D. V.. P300030“, 3. 6.. BOKODOV, V. V..
+USXACK. M. A. end W. A. 1.. Institute or Control Problem. Acsdew
+of Sciences USSR
+
+[1'0“] A digitel processor nov sveilehle hos e reed-only contend storsse
+unit. e co-end counter. s control nodule end en erith-etic-locic unit vith
+infomtion output connected to the first intorution inputs of the store‘s
+control unit end the 1/0 device. The ﬁrst intonation input or the
+erithnstic-logic unit is connected to the first informetion output or the
+storege control unit end to the second intornetion input of the I/O device.
+The second intonetion input is connected to the intonation output or the
+1/0 device end to the second infer-etion input of the storece control unit.
+the third. fourth. fifth end sixth infomtion inputs of this control unit
+being connected to the outputs of the i-ediste-eccess senor: end the first.
+
+20
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+
+second end third storsge registers respectively. The second informstion
+output of the storsge control unit is connected to the inputs of the
+inediete-eccess memory end the first. second end third storege registers.
+he first controlling input is connected to the first output of the co-end
+register. the first input of this register being connected to the first out-
+put of the reed-only progren store. To increese speed end improve the
+coefficient of utilisetion of equipsent. the erithmetic-logic unit is besed
+on e homogeneom reorgeniseble structure end the device incorporetes e con-
+trol nodule, edJustment module end e necro-co-end sheper vith output con-
+nected to the second controlling input of the storege control unit. while
+the input is connected to the second output of the consend register. the
+second input of this register being connected to the first output of the
+reed-only cousnd storege unit. the third output is connected to the first
+controlling input of the 1/0 device, the second informetion output of the
+I/O device being connected to the first input of the control unit. The
+second informetion input is connected to the first output of e check nodule
+thet hes its first input connected to the check output of the storege con-
+trol unit. while the second end third inputs ere connected respectively to
+the check output of the edJustment module end the first output of the con-
+trol unit. Figures 1.
+
+1.888 000 681.322.01
+comm OPTICAL COWS
+
+Iaeninyed mummy: OPPICIIBSKIYE WGHSLITEL'HYYB MABBINY in Rmsien.
+Meshinostroyendye. 1977. hbo pp
+
+[rm ssrsmrmr wanna. mom-1n, rmmmm I wwxsurwsm
+mum no 1. 1978 Abstrect no 132211: (synopsisu
+
+AKAYEV. A. A. end MAYOROV, 8. A.
+
+[Text] The book outlines the principles of design of coherent opticel coe-
+puters end the methods of dete processing on such nechines. A deteiled
+exeminetion is mode of problem in the theory of dete storege end process-
+ing; the principles of desiyling hologrephic nemry units ere presented;
+engineering nethods ere given for celculeting the infomtionel, phese end
+geometric pereeeters of hiﬁ-cepecity hologrephic memory units. Problems of
+opticel recognition ere elso considered. Considereble ettention is given to
+problem of efficiency end optimum utilizetion of hologrephic storege,
+coherent opticel recognition system. The book is intended for engineering-
+technicel workers involved with the theory end precticel development of
+
+coherent opticel cosputers end oemory devices. Figures 120; tebles 12;
+references 256
+
+21
+
+FOR OFFICIAL USE ONLY
+FOR 0!?!an USE ONLY
+11. masonic APPLICATIOIB
+A. General Treatnent
+
+uses one 658.012.011.56
+sous mom or name commas 1n muons!» nscxszou mum cnocsssss
+
+Barneul EKOROMIKA I oswxm'sns Paomons'rvn newsman summits!!!
+in Russian so 160. 1976 pp “1&9
+
+[Prom RBERNI'IWY‘I SBOR‘IK. ORGANIZATBIYA UPRAVLHIYA lo 3. 1978 AbstraCt
+lo 3.61.160]
+
+AROUDYAYBV. I. 0.
+
+[Tex'] Problems are considered of further improving the effectiveness of
+using colputers in enterprise management system as one of the pain was to
+improve the efficiency of business production activity of enterprises as a
+whole. A brief description is given of sons of the not important reasons
+for inadequacy in the effectiveness of computer influence on the find.
+results of activity of enterprises. end nain ereas are substentiated for
+improving their efficiency. A detailed examination is ads of the problem
+of using colputers in processes of making unegerial decisions, particularly
+under conditions of risk and indefiniteness. and the place and role of the
+counter in this process is smstantisted with consideration of the existing
+capabilities of colputers in the field of dsta processing and the presence
+of e persox. as a basic element in the system of enterprise unagenent. The
+use of computers in decision-asking processes under conditions of risk and
+indefiniteness is considered on the basis of the ample of using these for
+systenstic stw of causes of disruption of rhythm in production end losses
+of working tine. which will enable en appreciable ilprovensnt in the effec-
+tiveness of unagerial decisions ends in this area.
+
+22
+FOR OFFICIAL USE ONLY
+POI OFFICIAL USE ONLY
+
+ussn unc 658.012.011.56
+
+D8816! OP STAIDARD TECHNOLOGICAL ROUTES FOR RBALIZATIOR OF A comm OF
+PROBLEJB OP AUTOMATED ENTERPRISE "MAW SYSI'BIB In A COMPUTIIO m
+
+SBORNIK [MUM TRUDOV. TSBNI'RAL'IYY NMCHNO-IBSLEDOVATEL'BH! I PROMO-
+TEOINOLOOIOHBSCIY INSTIM ORGANIZATSII I mm UPRAVLHIIA [Collected
+
+Scientific Transaction. Central Scientific Research Institute of Planning
+Techgi-ggl Organisation and Control Equipment] in Russian lo M26), 1976.
+DP 7
+
+[From WW SBOMIK, ORGANIZATSIYA UPRAVLDIIYA IO 3, 1978 Abltl‘OCt
+Io 3.61.1610]
+
+ZLOBICﬂ, Y8. V.. MALBYBV, P. A. and WV, 0. P.
+
+[Text] The paper gives the essence and main principles of standardization
+of technological routing, data processing and distribution of Jobs of an
+automated enterprise management system (ASUP) . Standardisation prerequi-
+sites are formulated and examples are presented. A description is given of
+a standard technological flowchart as a basic technological document.
+
+ussa unc 658.012.011.56
+mmmnmoruammmmmm
+
+SNRNIK nwmm TRUDOV. TSMRAL'NYY “mo-ISWVAM'BKIY I
+mmmomlcmuY IIISTITU'I' ORGANIZATSII I mm UPRAMIYA
+[Collected Scientific Transactions. Central Scientific-Research and
+
+Planning and Technical Imtitute for Organization and Technological Manage-
+ment] in Russian lo M26), 1976 pp 36-Io1
+
+[From mmrmx ssoamc. oacmwsm mmzn lo 3. 1918 Abstract
+so 3.67.165]
+
+BOVDEY, A. K.. BOROVBKIY, L. 6., MILORADOV, V. V. and TRUMAN. I. 6.
+
+[Text] The paper gives the most general principles for construction or an
+automated sales control subsystem (APIB) and defines the main areas of
+development of en (ANS) based on third-generation computers. Complexes of
+problem that will be solved in the APUS are enuerated and the min
+requirements are formulated for the information has.
+
+23
+
+FOR OHICIAL USE ONLY
+FOR OFFICIAL US! ONLY
+
+088R 000 653.012 .011 .56
+
+0! m FBASIOILI‘I‘Y AND NECESBITY OF HIOIIIBERINO DESIGN OF A "OWNS
+NOEL OF A “MAW SYSTEM III M 818796 APPROACH TO CONSTRUCTIN 0?
+All AUTOMATED mums: MAW 9mm
+
+Berneui EKOIIOHIKA I onomzxrsm pnoxzvonervn maximum! mmmxr
+in Russian llo 1(56) pp 20-31
+
+[Fru‘RBnga‘l'IVNYY SBORNIK. ORGANIZATBIYA UPRAVLHIYA lo 3. 1978 Abntﬂct
+NO 3. 7.1
+
+SMIS. A. A.
+
+[Text] The poper describes on engineering npprooch to design or on ento-
+utn’. enterpriu unuenent eyem (A811?) which Ilka it possible to obtain
+nomtive outniutionn. inromtionn end nthaotionl model. of on A8”?
+boned on the node}. of the production system of on enterpriee end the
+requirement. node on the eyeten for control of cybernetic. and out.
+encineering. The uticle is written for developers of A80? end enterprise
+
+some-ant directore. And w mo be of use to etudente Morin; in the
+are. of «aiming ABUP.
+
+2':
+
+M OFFICIAL USE ONLY
+FOR OFFICIAL 08!! ONLY
+3. Over-n11 Planning Methods
+
+ussn one 658.012.011.56
+
+ANALYGIS MD SYNTHESIS 0? m mum: 0? ACTIVITY OF P33800131. WM
+COIIDITIOIS 0F PWI‘W) OP AWN WNW? 5mm
+
+Bus-nun ”(GIOKIKA I OBWIZA'I'BIYA PNIZVOWTVA Pmmnm PWMYATIX
+in must-n lo 1(56). 1976. PP 32-33
+
+[m- ammxmr swank. oamxzxram mmm no 3. 1978 Abetnct
+No 3.67.153]
+
+LIIKOV. A. 8 .
+
+[Text] A brief description in gtven of the method end dawn of otﬂctu
+
+in: cucuone {or muse-em personnel working under condition. or “touted
+
+enterprise Image-eat eyntene (ASUP). The sun upecte end etuee or
+plenum; ere enueroted.
+
+25
+NR OFFICIAL US! ONLY
+POI onncm 088 0001.!
+c. Scone-1c Control It boon Level
+
+0888 one 658 .012.011 . S6
+
+OROMIZATIM 0? mu m "MOW! 031m 10!! momma
+ECOI‘OIHC INFOMIOI FOR USE AS A mm. DEVI“ II lull-WEB
+
+830m): uucunmt mm. mm'm MUCMO-IBSWOVAM'BKI! I
+mommomotcnmn 1mm catamaran 1 mm WM!“
+[Concetta acimttﬂc "mutton. Contra Scientiﬁc Rama: Institute
+
+or Pinning ﬁchnicd Org-mutton «6 Control twp-m] in Miami no
+N26). 1916 pp 66-76
+
+[Pm ”EMTMYY MIX. ”WIMTSIYA WMIYA lo 3. 1978
+Abstract No 3.61.199]
+
+POX? :V8KIY. V. D. and HEW. 0. A.
+
+[Text] Jutlﬂcutton in given for the use or lav-capacity colputer mn-
+1t1¢s :- applied to «om-1c dut- pronoun; ”at... All exudation h
+Ind: or the principle. or ormmnc 6 load counter structure.
+
+26
+
+'0! OFFICIAL USE ONLY
+'Oli OPNCIAI. ”8! ONLY
+
+0. threctiwe Industries. I‘iehin;
+USSR unc 658.012.011.56
+
+MALYBIS OF TIE EMMO EMU/”888 0? mm mm FOR ”AW
+0? PROM!“ ASSOCIATIONS
+
+may ooeunmsmzlmooo memo-Kmmmomooo I lAUCllllo-IBWATEL’-
+axooo Iliﬂl'lMA P0 immmran UOOL'IIOY racmnmmx [Proceedinp of
+the Stete Deeicn. Fleming end Scientific Reeeerch Inetitute on detention
+of the Cool Indutry] in Rmeien No 23. 1971 pp 13-18
+
+[Fro- RBP‘ERATIVIYY SBORllIK. OROAIIZATBIYA UPRAVLIIIYA lo 3. 1978 Abetrect
+no 3.67.163]
+
+[No author 3i wen]
+
+[Text] rectore which determine the eti‘ectiveneee or eutoeeted eeneaeeent
+eyeteu (ASU) ere presented. 0n the beeie or fectuel end proJected dete.
+coefficiente of econou ere worked out on individual etuee of production
+coet with reepect to eech eunyetee. The enmeed projected indicee of
+effectiveneee of A80 reflect thie current level of development of herdwere
+end aortwere.
+
+uses one 658.012.011.56
+
+EXPERIENCE AID nouns OF pmwrm O? m AM MANAGED? era-m
+FOR THE COAL INNS?!“ OF EAST WY
+
+NM BEROBAUI'ECIU. in Ger-en Vol 7. lo 10. 1977 Pp 708-711
+
+{Fro- asnmmrr mania. unomwsxn umvmm lo 3. 1918 Aoetrect
+lo 3.67.111 by l. v. heeedxin]
+
+SHIELD, mm; 0808?”. JOACHIM; m2. HAWAII end POITIZ. mun
+
+[Text] Develop-eat of eutoeeted muuent eyete- (A80) for the cool
+indutry (A800?) hee required e lerce voluee of reeeerch. end the reeulte
+of thie reeeerch ere thorouyniy preeeoted in thie erticle. Deepite the
+epecifice of the A80. the prone. o! developent of the eyetee heve Inch
+in come with end on be repeeted in w other Aw. Therefore the euthore.
+honing their work on reeeerch reeulte. ehere their experience in develop-
+eent or en mm. The initiei concept or the eyetee ie pri-riu heeed on
+eutoeetin; inforeetion proceeeee thet ere intieeteu reieted to proceeeee
+or preperin; end mm decieiom. Theee proceeeee ere eeetmd to he
+elaorithnieehle. The etructure or the unto-ted enterpriee eeneaeeent
+
+27
+NR OFFICIAL USE ONLY
+'0! OFHCMI. I!" ONLY
+
+with developeent oi‘ the AMP wee lilited to the eecond euheyet- of the
+AM. The reeulte ehowed thet the introduction or en A80 will increeee
+
+en effective A80 uniiyiu different eluente o! the eyetce. The for-acted
+concept comieted in the rolloviu: the A80 conteine three nein ewmtm
+end ie structural: undivided into three levele in eccordence with the
+given level of orcenieetion of the enterpriee end the mat. The enh-
+eyeteee within the three indicated nein "bent- ere connected in etrict
+hiererchicel order. The centrel emeyeten ie the WP. To execute ite
+mnctione. thie eweyetee ie loceted on the functioned level. ‘l'he Job or
+the m et the lower level coneiete in operetionel control or the techno-
+
+concept on the eeotor ecele); developent or en m for the oomne or
+eector in eccordence with the elenent principle beginning with the nein ele-
+nente (“acute-)3 unity or ell eoientiete in veriom ereee; developent of
+
+the m requiree Inch are tine end none: then vee eetieeted in plenning
+the eyeten.
+
+28
+M ORIGIN. US! ONLY
+M omcm. {Ill ONLY
+3. supply sync-
+
+UOSI! 000 658 .012.011(B7)
+
+on m arm ”WU 1’0 mum OF A NW OF 813%!!!” “WHORE
+I! m mm “MAW arm (A80) 0' WAD 888R
+
+TRUDX NAUCIIIO-IBSWOVATEL'M IIBTIMA IKOIOMIKI I ORWIZATBII
+MATERIAL'IWICW OW!“ [Procudlnp of the Batonuuc
+
+Ito-ouch Imutmo or Scone-1c. Ind Ormiuuon of warm-1mm»:
+sunny] in mum lo 29. 1971 pp 120-123
+
+[msﬂijAﬂVIﬂ 83mm. OROMIZATBIYA UPMVLBCIYA lo 3. 1918 Abnrut.
+lo 3. 7.1
+
+lo tox‘.
+
+0883 "DC 658 .012.011.56
+
+PRIICIPLEB 0! MMbARDIZIIO mm somzons II m W W
+arm (A8”) 0? WA! 888R. BASIC comm AID mm 0" arm
+am 0? m WED mam mm
+
+nun! umno-xasnmovmvmooo nun-mm mum: I OROAIIIZATSII
+mmmmmxcnatooo ummzn [Pmcudxnp of the Scientiﬁc
+Router: III-um" or honed” Ind Granulation or hurtn-‘l‘cchucn
+supply] in 3mm lo 29. 1971
+
+[PM m‘rtwn MIX, OMUIUTSIYA WMIYA lo 3. 1918 mcmt
+Io 3.67.138]
+
+Io text
+
+29
+M 077101“. 03! MY
+FOR OWICIM. USE ONLY
+
+V. INFORMATION SCIENCE
+A. Infomtion services
+
+0355. 000 621.398:621.391.883.2
+
+CURRENT SITES AND MIDOK FOR mmmm OP FACILITIES FOR DATA
+TWMIOSKOI‘ MD men's PROCEBBINO. (A SURVEY OI" WVIST AND FOREIGN
+80011088
+
+Noncov Vlﬂ‘I madman. INPW. (All-Union Scientific Reseerch Institute oi‘
+Inter-trench Inroreetion) in Russien I977. 28 pp.
+
+[rm ESPERA'I‘IVII" znumm. swoon-rm. mm I walxsum'nn
+mum No 1. 1978 Abstrect to 1mm (ran-am
+
+[Ito author given]
+
+[Text] All eveluetion is giVen or the etete or minus. for dete trem-
+nission end reeote processing. These reciiities ere clusii‘ied end the
+corresponding tehlee or cherecteristics ere presented. It is noted thet
+there hes been e chenge in the neture or interection betveen the user end
+coeputer system. Perticuier equesis is given to the description or the
+iocei loops or the Yes computers (m). Bunnies ere given of ooeprehensive
+utilisetion of teciiities for dete trenseiseion end reeote processing in
+the Yes m systee. A torecest is given on developent or these i‘eciiities.
+
+0583 one 621.398(088.8)
+A nsvzcs non mama mnemonic» 11mm)!
+
+0858 AUNOR'S NIKON"; lo 53518). Division 0 in Rueeien. filed 21 Apr 75
+published 23 Feb 17
+
+(m: mrmrr 2mm. ammm mm x wcmmrm'sm
+mm lo 1. 1918 mam. lo mm)
+
+mum. A. A.. warming. ii. N.. DZIiAVADOV. A. A.. “MW, 1!. m.
+WV, 8. It. mmr'm. L. 1.. ALIYEV. A. 0. end W, 3. 0..
+Scientific-Resend. end Design Institute on urge-acne Auto-etion in the
+Petroleu end ch-icel Indutry
+
+[Text] There ere existing inforeetion-Iogic devices for processing tele-
+uchenicei dete thet contein detepconecting feciiities. en eritheetic unit.
+e sceiing nodule. synchronisetion units. code end ties converters. e dis-
+pisw end e prone-mg unit. In conventionei devices the sceiing nodules
+hendle only mtiplicetion end addition. The eccurecy of celculetion is
+0.5-1 percent. end 200 I en be required for perforling three-digit
+
+9
+M OFFICIAL USE ONLY
+POI! OFFICIAL "8! ONLY
+
+nultiplication of binary-decinsl nubers. With the increasing venue of
+tnlenochanicnl dntn being trnnnld tted and processed. such nodules have
+inadequute speed and processing accuracy, and their use linits the func-
+tional possibilities of the device. Because of linited possibilities such
+on the lack of a subtraction operation and the low speed of the scaling
+units. conparison operations are perforned by a special comparison nodule
+with adJmtnents. which conplicates the circuit of the device as a whole.
+In technical essence. the closest device to this invention is a unit for
+processing telenechanical intonation that contains an arithnetic unit with
+its first input connected to the first intonation input of the device.
+while the second input of the aritluetic unit is connected to the first out-
+put of a control nodule. and the third input of the arithnetic unit is con-
+nected to the output of a coefficient-settin‘ nodule. The input of an
+address noduleis connected to the address input of the device. and the first
+output of this nodule is connected to the first input of the coefficient-
+setting nodule. The second input of the address nodule is connected to the
+first input of the register unit. The first input of the control nodule
+
+is connected to the controlling input of the device. and the first output
+in connected to the first input of the display. The device also contains
+a checking nodule and a tiner with output connected to the second input of
+the register unit. The purpose of the invention is to increase the speed
+and accuracy of processing and to ilprove reliability and efficiency of
+operation of the device. To achieve this goal. the proposed device incor-
+porates an innediate-access aenory. a code co-utator. a node setter. a
+buffer nenory for condition tags and a fornulapsettins nodule. Figures 1.
+
+limit we 681.321.a.01
+on one APPROACH 70 mm tmrxrtos III A comm cmxcmos mom
+
+Moscow tsmmmsm l Inmmwrsxosmrs 3m [Intonation and lnforaation
+Networks. Collection of works] in amiss. latte. 1977 pp 181-195
+
+[m- nsmmvm zuumu. Amm. nmunm I wcuxstmwm
+mama he 1. 1918 Abstract no 1320 by u. v. Yevdohinenho]
+
+cxnzsuno. B. M.
+
+[Text] An investigation is nade of problans of network overload prevention
+with bunt comtation used for data exchaue bemoan geographically renote
+nultiple-user conputer centers (Wan). A nethod is proposed for adaptive
+and decentralized flow control. The total value of packets (81's?) is con-
+sidered as a criterion for effectiveness of operation of the network. This
+criterion is defined as the st. of the values g.) 0 of packets 'k trans-
+
+nitted over the networt in a unit of tine. It is assuned that the value of
+each burst is predeternined at the instant of entry into the network. The
+
+31
+
+M OFHCIAL ”SB 0'"
+'03 OFFICIAL 088 ONLY
+
+results or the study nhoved that the proposed algorithm given a Value 01‘
+this criterion that is close to the mini. attainable limit (enabling
+avoidance or network overload. and eneurina network operation of at leaot
+
+70-00 percent at the axiom attainable theoretical liait). Figures 3;
+references 5.
+
+080: 1%3 - END -
+
+i
+
+32
+POI OHICIM. US: ONLY
+APPROVED FOR RELEASE: 2007/02108: CIA-RDP82-00850R000100040003-3
+
+APPROVED FOR RELEASE: 2007/02/08: ClA-ROPOZ-00850R000100040003-3
+APPROVED FOR RELEASE: 2007/02/08: ClA-RDP82-00850R000100040003-3
+
+END 0!
+FICHE
+DATE Flll
+
+1. 2. 22
+
+APPROVED FOR RELEASE: 2007/02/08: ClA-RDP82-00850R000100040003-3

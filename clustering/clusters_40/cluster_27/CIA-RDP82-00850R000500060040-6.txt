@@ -1,0 +1,4243 @@
+FOR 0mClAL USE ONLY
+
+JPRS L/10527
+
+18 May 1982
+
+USSR Report
+
+BIOMEDICAL AND BEHAVIORAL SCIENCES
+(FOUO 3/82)
+
+FOREIGN BROADCAST INFORMATION SERVICE
+
+FOR OPTICAL USE ONLY
+NOTE
+
+JPRS publications contain information primarily from foreign
+newspapers. periodicals and books, but also from news agency
+transmissions and broadcasts. Materials from foreign-language
+sources are translated; those from English-language sources
+are transcribed or reprinted, with the original phrasing and
+other characteristics retained.
+
+Headlines, editorial reports, and laterial enclosed in brackets
+[] are supplied by JPRS. Processing indicators such as [Text]
+or [Excerpt] in the first line of each item, or following the
+last line of a brief, indicate how the original information was
+processed. "here no processing indicator is given, the infor-
+mation was summarized or extracted.
+
+Unfamiliar names rendered phonetically or transliterated are
+enclosed in parentheses. Hords or names preceded by a ques-
+tion mark and enclosed in parentheses were not clear in the
+original but have been supplied as appropriate in context.
+Other unattributed parenthetical notes within the body of an
+item originate with the source. Times within items are as
+given by source.
+
+The contents of this publication in no way represent the poli-
+cies, views or attitudes of the 0.3. Government.
+
+COPYRIGHT LAWS AND REGULATIONS GOVERNING ONNERSHIP OF
+MATERIALS REPRODUCED HEREIN REQUIRE THAT DISSEHINATION
+OF THIS PUBLICATION BE RESTRICTED FOR OFFICIAL USE ONLY.
+USSR REPORT
+LIFE SCIENCES
+BIOMEDICAL AND BEHAVIORAL SCIENCES
+
+(£000 3/82)
+
+CONTENTS
+
+810N103
+BiucoutIIC. of Insectﬂouuonn...uou..............u.unn
+
+Method for Teluetric Recording of Blood Pressure and
+Respiration of freely Sui-in; Dolphins.......................
+
+'BIOTBCHNOLOGY
+Routa Indue. U.“ To Identify Sn Pmmgogsssssosasosssss
+
+Seisnosensory System and Classification of Cottidas Pish
+(Myoxocephalime, Artedienime)ssseesoss'sesoseoooosoooosssoo
+
+MROWT
+
+Detersination and Quantitative Evaluation of Hutagsnic Factors
+of Anthropogenically Varying Habitat Using Bacterisl ‘rest
+
+swtmssso...so00000.000000000000000000000000'0sisvoooooooeos
+
+90$: and 1370s Accumulation by Sue Lover Plants in Vicinity
+of Beloyarskays Atonic Power Plant in the Urals. . . . . . . . . . . . . . .
+
+Collaboration of 11.8. and Soviet Scientists in Legal
+PrOtCCtion of the mromntoossvososoooossosooosoosooooossoo
+
+MEDICINE
+
+Loy-’requemy Acoustic vib'atiou in taut". s s s s s o s s s s o s s s s o s o
+
+- a - [III - USSR - 213
+
+POI! OFFICIAL USE ONLY
+
+12
+
+17
+
+23
+
+31
+63
+
+67
+
+56
+
+SST I
+HUMAN FACTORS
+
+Analysis and Optimization of Control Systems for Manned
+
+Aircrafts'soluse.00's.sIsCoos...0.0000000000000000000.000.0000
+
+PSYCHIATRY
+
+Joint Sylposiul on Biological Psychiatry of USSR Acsdeuy of
+Medical Sciences and Swedish Auday of Sciences. . . . . . . . . . . . . .
+
+Conference of Neuropathologists and Psychiatrists in Pern' ..... .
+
+‘b-
+
+FOR OFFICIAL USE ONLY
+
+60
+
+66
+69
+310N108
+
+UDC: 59l.582.591.185.5:595.7 .
+BIOACOUSTICS 0P INSECTS
+
+Moscow BIOAKUSTIKA NASEKOHYKB in Russian 1981 (signed to press 1b May 81) pp 2-8,
+217-226, 256
+
+[Introduction, article, conclusion and table of contents from book "Bioacoustics
+of Insects" by Rustem Devletovich Zhantiyev, Department of Entomology, Moscow
+State University. IzdateI'stvo Hoskovskogo universiteta, 1800 copies, 256 pages]
+
+[Text] This monograph submits the results of studying acoustic communication
+systems of insects. It describes the structure and functions of-acoustical organs,
+physical characteristics and adaptive properties of acoustical signals. The
+latest data are submitted on the structure and functions of hearing organs and
+mechanisms of processing acoustical information in the central nervous system of
+insects. Much attention is given to the problem of identifying acoustical signals
+and localizing the source of sound. There is discussion of the possibility of
+using sounds to control insect behavior. It is intended for workers, graduate
+
+and undergraduate students specializing in entomology, physiology, biophysics and
+bionics. References 445; figures 88. tables 12. appendix 6 tables.
+
+Introduction
+
+Bioacoustics is one of the new directions of research developing on the boundary
+of biological and physical sciences. It is usually defined as the science of
+acoustical signaling and orientation of animals. Both of these phenomena play
+an extremely important and diverse role in vital functions of most animals; for
+this reason, a wide spectrum of acoustical, mathematical and biological methods
+is used to study them. The results of bioacoustical studies are of first and
+foremost importance to the solution of many problems confronting such biological
+disciplines as systematics, ecology, ethology, neurophysiology and genetics.
+Some of the advances in bioacoustics are used for bionic studies and solving
+applied problems related primarily to the control of behavior of animals that
+are of economic importance.
+
+The conditions for inception of bioacoustics existed long ago, since studies in
+this direction were pursued for many decades; however, the First Bioscoustics
+Congress, which convened in the United States in 1956, is generally considered
+the official beginning of its existence.
+
+Of course, one can view insect bioacoustics as a part or section of general bio-
+acoustics. The goals and tasks of this direction are largely determined by the
+
+l
+
+ 
+
+l‘ﬂltﬂﬂﬂCIAl.lEﬂi(ﬂﬁLY— ———‘
+specifics of the insect class. In assessing it as the object of bioacoustic
+studies, one must take into consideration three circumstances. In the first
+place, insects do not use sound for active ranging (echoranging), while hetero-
+specific communication did not obtain significant development in them, so that
+researchers can concentrate mainly on the study of intraspecific communication
+systems. In the second place, these systems appear numerous times in insects
+and independently in different taxons; they are notable for remarkable diver-
+sity and, in spite of the conceptions that prevailed until recently, they are
+extremely widespread. In the third place, insects are the only group of
+terrestrial invertebrates in whom sonic signaling underwent rather significant
+development, and since its inception is apparently referable to the Permian
+period (Sharov, 1968), it can be assumed that acoustical communication systems
+reached considerable refinement in the course of prolonged evolution.
+
+0n the whole, this form of communication plays a very large part in vital func-
+tions of many insects; it is instrumental in encounters between specimens of
+the opposite sex, maintaining reproductive isolation of close species, regula-
+tion of intrapopulation and intrafamily relations. In addition, some insects
+use sounds as protection against enemies and for detection of prey.
+
+All of this circumstances determine the importance of bioacoustic studies and
+their intensive development in the last few decades. In order to gain an
+idea about the theoretical and practical implications of such work, it is
+enough to list the entomological and general biological problems, in work on
+which bioacoustical data play a considerable and, sometimes, deciding role.
+
+In this regard, it must be noted, first of all, that in the course of acoustical
+communication and orientation insects solve problems that are as difficult as
+those of vertebrate animals, but they do this on a different morphofunctional
+basis. For this reason, the results of studying their acoustical systems con-
+stitute necessary and interesting material for comparative studies in the
+
+fields of morphology, physiology, ethology and ecology of animals.
+
+The importance and place of bioacoustics in entomology are attributable chiefly
+to the fact that acoustic signaling is directly related to insect reproduction
+and intrspopulation relations. This explains the heightened interest of ecolo-
+gists and ethologista in acoustic studies. At the present time, it is growing
+increasingly obvious that the most important patterns of distribution of
+insects in biotopes, regulation of population density, dynamics of population
+size, migration, etc., could not be studied without consideration of acoustical
+communication systems. Knowledge of the "language," by means of which many
+insects communicate during contact or at considerable distances from one
+another, makes it possible to adopt a different approach to the study of their
+behavior during reproduction, competitive relations, establishment of rank
+(ranking), protection against predators, spatial orientation and other etholo-
+gical problems.
+
+Animal bioacoustics is equally important to the study of mechanisms of species
+formation, particularly in those for whom sonic signals serve as the main
+isolating factor. Species-specificity and stability of sonic signals makes it
+possible to use them as reliable taxonomic characters, which are needed to solve
+such complex problems as differentiation between twin-species, determination of
+
+2
+
+FORIOPFRJAI.USE(MVLY
+species status, degree of similarity of close taxons, etc. For this reason,
+some characteristics of sounds have found a firm foothold in systematics
+concerned with the study of insects with well-developed communication systems
+(Orthoptera, Cicadidae and others).
+
+The vast area of insect bioacoustics related to the study of processes of
+receiving and processing acoustical information is, in essence, a part of phy-
+siology of sensory systems. For this reason, the study of auditory analyzers of
+insects helps disclose mechanisms that permit identification of _conspecific
+signals and orientation in relation to the sound source, and it contributes
+
+many new elements to conceptions of rhythmic processes in the central nervous
+system, integrative functions of some parts of the brain, interactions of
+different analyzers, etc.
+
+ 
+
+ 
+
+Investigation of acoustical communication systems of insects is of both theo-
+retical and practical importance. Knowledge of the principles of organization
+
+of these systems enables us, on the one hand, to use the discovered patterns
+
+for development and refinement of technical systems (primarily acoustical, direction
+finding, radio measuring) and, on the other hand, to gain information about
+
+vital functions of harmful insects or actively influence their behavior. As a
+result of these studies, devices and equipment could be developed for the de-
+tection, estimation of number, diagnosis and monitoring the physiological state
+
+of pests, as well as acoustic repellents and attractants.
+
+There are very many articles and several surveys dealing with descriptions of
+various aspects of organization and function of different elements of acoustical
+communication systems of insects (Busnel, 1955,-ed.; Haskell, 1961; Busnel,
+1963, ed.; Alexander, 1967; Bennet-clark, 1975a; Eisner, Huber, 1973; Hichelsen,
+1976; Hichelsen, Nocke, 1976; Elsner, Popov, 1978, and others). No comprehensive
+description of these data could be offered in this book, nor was it included in
+our objective. At the same time, analysis of literature sources shows that most
+works dealing with bioacoustics converge on two main problems-orecognition and
+localization. The reason for the increased interest of many researchers in
+
+these problems is that insects solve essentially two main problems in the
+
+course of acoustical cosmunication and orientation: they recognize conspecific
+communication signals and determine the spatial position of the sound source.
+
+For this reason, we have tried to discuss in this book primarily material that
+enablesustm come as close as possible to understanding the mechanisms involved
+in recognition and localization of sonic signals. The second and third sec~
+tions are concerned with these problems. Section 1 describes the main components
+of acoustical communication systems. Data on some of them are submitted in a
+generalized form, but many aspects of their organisation are discussed in greater
+detail* in subsequent chapters.
+
+This book was based on the results of 15 years of studies pursued by this author
+in the department of entomology, 3101087 FOCUItY of Moscow State University.
+
+*He virtually fail to touch upon audio signaling of social insects in this book,
+
+since a summary of the literature on this subject is given in the monograph of
+Ye. K. Yes'kov (1979).
+
+FINIINHHCIAI.I§HE(HVLY
+This author expresses his profound gratitude for valuable advice and assistance
+to Prof G. A. Hazokhianorshnyakov, Prof N. P. Naumov, Prof S. N. thevkin, N. N.
+Dubrovin, I. N. Kalinkina, 0. S. Korsunovskaya, A. G. Chernyy and V. S. Chukanov,
+and expresses his appreciation to A. V. Popov, Prof F. Huber, Prof K. Kalmring,
+Dr. J. Rheinlaender, Dr. H.-G. Rehbein and Dr M. J. Samways who kindly furnished
+drawings from their works.
+
+Applied Problems of Insect Bioacoustics
+
+At the present time, it is difficult to determine when the idea of using acoustic
+vibrations to control harmful insects appeared. The first attempts to use
+acoustical methods to solve applied entomological problems yielded encouraging
+results. Thus, as far back as 1935, an instrument was designed in Germany to
+determine latent infestation of wood by the house longhorn beetle (Schwarz et al.,
+1935); in Canada, a device was developed and successfully tested for chasing
+
+the beet webworm away from crops (Belton, Kempster, 1962); acoustic mosquito
+
+traps were tested in Cuba (Kahm, Offenhsuaer, 1949), the "apidictor," an instru-
+ment for controlling bee swarming, was developed in England (Woods, 1959), etc.
+However, in the years that followed there was no further development of acoustical
+methods and there were virtually no practical applications thereof.
+
+As we analyze the causes of diminished attention to such studies, we must men-
+tion three circumstances: in the first place, this period was characterized by
+excessive enthusiasm for chemical methods of control; in the second place, acous-
+tical methods seemed to be unprofitable at that time, since they required the
+
+use of cumbersome and expensive electronic equipment and, in the third place,
+applied bioacoustics did not yet have the proper theoretical bass.
+
+By the end of the 1960's, the situation in this area of research began to change
+rapidly. The search for new methods of controlling pests that would not pollute
+the environment and appearance of relatively cheap and compact instruments
+
+again raised the question of developing acoustical methods and introducing them
+into agricultural practice. At the same time, the results of unceasing experi-
+mental studies revealed that insecrs have more complicated and refined acoustical
+communication systems that was previously assumed. For this reason, it became
+apparent to most researchers that applied problems can only be solved on the
+basis of comprehensive analysis of the principles of organisation of these sys-
+tems. A new approach to solving this problem has yielded the first practical
+results in the last few years, but apparently there is still a large amount of
+work to be done before acoustical methods will take a worthy place in the
+arsenal of modern means of regulating the number of economically important
+insect species.
+
+Hhat are the most promising directions in this area of research? Experience in
+studying acoustical communication systems shows, first of all, that acoustic
+signals are used by insects to solve many vital problems. For this reason,
+having learned to record and analyze these sounds, we can gain some very import-
+ant information about the epecies of interest to us. At the very least, it is
+possible even now to develop devices for detection of pests, determination of
+their species cwmpositiom, number, level of activity and distribution in agro-
+cenoses or reservoirs. It is desirable to gather all of this information by
+
+FOR‘OFF“JA1.USE(MVLY
+remote control, using diverse sensors, to process it on a computer and use it
+to forecast or control pests.
+
+Knowledge of the principles of organization of acoustic communication systems
+of insects arms us with yet another effective tool, the possibility of interven-
+ing in the process of transmission of acoustic signals and thereby exert the
+desired influence on insects or, in other words, controlling their behavior.
+Devices can be created for this purpose that disrupt in some way or other the
+normal communication and orientation of insects: those that attract them to
+traps, scare them away from protested objects, create interference in the
+communication channel, etc. Nor should one overlook the fact that sound and
+high-power ultrasound have a depressing effect on insects or lead to their
+death. Thus, the acoustical resources that we have at the present time enable
+us to perform three main types of tasks: 1) to obtain and analyze information
+about pests; 2) to control their behavior; 3) to exert a direct physical
+effect on them.
+
+Let us consider these questions in somewhat greater detail.
+Obtaining Acoustical Information
+
+Acoustical instruments could become irreplaceable tools for determining the
+latent infestation by insects of all sorts of materials, stock and even plants.
+Devices that are usually recommended for.this purpose include microphones or
+vibration detectors, amplifiers and recording elements, as well as filters that
+permit isolation of the useful signal from noise. with such instruments one
+can pick up both the communicating signals of insects and noise associated with
+various manifestations of their vital functions.
+
+A device of this type was first developed in Germany to determine infestation of
+wood by the Xylotrupes bajulus longhorn beetle (Schwara et a1., 1935). Sub-
+sequently similar instruments were developed in England, the United States and
+USSR. In 1953, an acoustical device was proposed for determining latent in-
+festation of grain (Adams et a1., 1953). This method was found to be quite
+effective and gained practical use in several countries (Zakladnoy et al., 1970;
+Zakladnoy, Snyurina, 1977).
+
+Acoustical methods of detecting soil pests appear to be less promising. however,
+the results of studies in this direction warrant the belief that such methods
+could be used, at least in experimental research (mainly under laboratory
+conditions).
+
+If the sounds emitted by insectsareloud enough, one can determine from their
+intensity not only the location of pests. but their number. True, to obtain
+satisfactory results, one must adhere to certain conditions, in particular,
+
+one should place the pickups at a specific distance from the object, take into
+consideration the noise level, etc., but theoretically they do not impose
+appreciable limitations on use of the method. The use of acoustical methods
+
+is desirable, not only to keep a record of number of invisible insects, but
+
+in cases where other recording methods are ineffective for some reason or other.
+
+Since the sounds of most insects can be well-distinguished by their time and/or
+frequency parameters, it is theoretically possible to develop methods of
+
+5
+
+IN)! CWWWCIAI.I£SE¢(HVLY
+I‘Uﬁ VI llkll‘h Du.- v.1...
+
+identifying the species of pests. One can use for this purpose both communica-
+tion signals and sounds that are made when insects move or feed. In the former
+case, tables or atlases and acoustic instruments can be developed even now that
+permit identification of Orthoptera and Cicadidae in the field. It is harder to
+develop equipment to record the sounds of small and concealed species. The
+efforts made in this direction do not always yield positive results. For example,
+Uojcik (1968, 1969), who used very complicated equipment, was unable to record
+the communication signals of several pests of stored products, including
+Cryptolestes pusillus, which has stridulation organs, and two species of Pyra-
+loidea, Bphestia kuehniella and Cadra cautella. However, this does not mean
+
+that these insects do not emit sounds, since precopulation signals have been
+recorded in another borer species, Corcyra cephalonica (F. coro, verbal
+communication). Experience in such studies indicates that, in addition to a
+meticulous choice of acoustical equipment, one must have comprehensive knowledge
+about the biology of the species under study.
+
+All of these difficulties grow significantly in the study of noncommunicative
+sounds, which have less marked species-specific features, but progress in the
+field of analysis of diverse industrial noises may facilitate substantially
+the solution of this problem.
+
+As noted previously, special acoustical equipment permits not only detection
+and identification of insects, but obtaining information about various aspects
+of their vital functions and, first of all, the nature of their activity. The
+most elementary devices of this type, which include a microphone, amplifier and
+automatic recorders, are used with success to study the circadian rhythms of
+insects (see, for example, Hedioni, 1966). Analogous devices can be used in
+the field to gain information about changes in level of pest activity in the
+course of a day or season. At the present time, there is an opportunity to
+introduce acoustical methods to monitor insect cultures and, in particular, for
+automatic regulation of their upkeep conditions. The interest of beekeepers
+
+in such control methods is not waning either. Hany types of bee activity are
+associated with certain sounds; for this reason, analysis of the acoustical
+background in the hive yields important information about the condition of
+
+the bee family or changes occurring in it. The data accumulated to date make
+it possible to design and refine devices similar to the "apidictor" we mentioned
+before (Woods, 1959; Schauff, 1975; Yes'kov, 1979).
+
+Control of Insect Behavior
+
+Studies in this branch of insect bioacoustics are being pursued in three main
+directions: development of acoustic attractants, repellents and interference in
+communication systems (a. Frings, H. Frings, 1965).
+
+Attractants: To attract insects to sound sources, it is expedient to use
+calling, assembling signals or flight sounds, i.e., signals that have an
+attractive effect on insects in their natural habitat. By reproducing such
+sounds or models thereof one can virtually always attract or detect a certain
+number of specimens of the desired insect species that are situated in the
+vicinity. For example, Spooner (1968b) proposed the use of simulated response
+signals of females to trap male Phaneropterinae crickets, and in the above-
+mentioned experiments with mosquitoes, it was possible to attract some males
+
+6
+FOR OFFICIAL USE ONLY
+to female sounds (Kahn, Offenhauser, 1949). however, these methods must have
+immeasurablc greater efficacy for them to gain practical use. Efforts made at
+insect attraction on a mass scale to sound have usually failed. In our opinion,
+the causes of these failures are attributable to the following factors.
+
+In the first place, it is not always possible to use adequate stimuli to attract
+insects. For example, the sound of female mosquitoes in flight recorded on tape
+do not attract males if two conditions are not met: the intensity of the sound
+exceeds 60-70 dB and its source (usually a loudspeaker) is too large (preventing
+formation of spherical waves). In the second place, many insects have a settled
+life style and do not migrate beyond a certain range. In the third place, insects
+are distracted from acoustic traps by natural sound sources, i.e., sounds
+
+emitted by specimens of the same species.
+
+To eliminate the first of these obstacles, it is necessary to make a comprehen-
+sive study of signals and acoustical environment. And, as we have seen, it is
+sometimes not enough to know the frequency and time parameters of sounds, and
+
+one has to take into consideration their intensity, emitter radiation pattern
+
+and other parameters. At the same time, having information about the informative
+elements of the signal, we should not necessarily strive to reproduce it exactly.
+As noted previously, time and, occasionally, frequency parameters of signals
+
+are markedly dependent on temperature. For this reason, use of tape recordings
+to attract insects does not appear to be too promising. In our opinion, one
+
+must use for this purpose special generators of model signals, which automatically
+adjust their characteristics with change in temperature. The complexity of such
+generators (and their cost) depend, of course, on the complexity of the simulated
+signal. For this reason, in developing the scheme of an instrument, we should
+provide for reproduction of only the signal elements that determine its attrac-
+tion to insects.
+
+As for the second of the above-mentioned difficulties, to eliminate it acoustical
+attractants must be used during periods (which are sometimes quite lengthy)
+
+when insects migrate. Hole crickets and many grasshopper species are a good
+example in this respect. One can increase the number.of traps per unit area and
+the power of emitters to attenuate the distracting influence of natural sound
+sources. However, it is not always desirable to amplify the sound, since such
+signals have a repellent effect on some insects. All of these statements can
+
+be illustrated on the example of the acoustic traps we developed for mole
+crickets.
+
+As noted previously, the first experiments on attracting mole crickets of the
+genus Scapteriscus to sounds were conducted in the United States (Ulagaraj,
+Walker, 1973, 1975). In these experiments, tapes of model signals were used.
+
+0n the basis of the data we obtained from studies of the acoustical communica-
+tion systems of mole crickets (Zhantiyev, Korsunovskaya, 1973), we developed
+
+and constructed. together with V. S. Chukanov and D. A. Yusipov, an acoustical
+system to attract and collect two mole cricket species. Gryllotalpa unispina and
+G. gryllotalpa. The main element in this system is an electronic unit that
+generates pulses corresponding to the calling signals of the male mole cricket
+in time and frequency parameters. After amplification, these pulses are fed to
+lo-H dynamicloudspeakersinstalled in cone-shaped plastic traps (l m in diameter).
+
+FOR‘OFFNJAL.USE(NVLY
+A container with fixing liquid is attached to the tapered end of the trap. The
+trap is buried in the ground to its top edge. As mentioned previously, the
+
+pulse repetition frequency in insect sounds is usually a linear function of
+ambient temperature. For this reason, a thermistor is connected in the generator
+circuit that automatically regulates pulse repetition‘frequency in accordance
+with the results of prior acoustic readings.
+
+The acoustic traps were tested for two seasons in Turkmenia (Baba-Durmaz station).
+Hole crickets (G. unispina) start to fly with onset of darkness and stop at 0200
+hours. The insects flew to the trap mainly from the leeward side and fell into
+the funnel or descendedatsome distance from the trap, traveling the remaining
+distance on the ground. Even under adverse weather conditions (relatively low
+temperature, wind), up to 50 mole crickets were caught in the trap in l h, and
+952 were females.
+
+The results of these tests revealed that raising sonic pressure beyond the
+levels inherent in the natural calling signal had no repellent effect; on the
+contrary, it increased the attraction of the signal for mole crickets. For
+
+this reason, by increasing the power of the emitter one can broaden appreciably
+the area covered and improve the efficacy of the traps. Analogous data were
+obtained previously from experiments with two Scapteriscus species (Ulsgara),
+Walker, 1973, 1975). Moreover, we established in preliminary experiments that
+the shape of the pulse envelope does not affect insect reactions. This enabled
+us to subsequently use square-wave acoustic signals and simplify appreciably
+
+the circuitry of the generator.
+
+Repellents: Development of acoustic repellents is one of the most promising
+but little-elaborated directions of research. Theoretically, such repellents
+could be used against all insects that have receptors forsonic vibrations or
+oscillations. In order to elicit negative phototaxis, one can apparently use
+
+two types of sounds: biologically important signals (or an imitation thereof),
+which have a repelling effect under natural conditions, and oscillations at
+frequencies that elicit discomfort.
+
+The most vivid manifestation of negative phonotaxis is observed in nocturnal
+Lepidoptera subject to attacks by bats. For this reason, it is not surprising
+that in the first tests related to development of acoustic repellents ultra-
+sounds simulating the echoranging signals of these animals were used (Belton,
+Kempster, 1962). The results of field trials revealed that exposure of corn
+fields to ultrasound (50 ms duration, 50 kHz frequency) lowered by 501 infesta-
+tion thereof by the beet webworm. Analogous results were later obtained on
+cabbage and lettuce fields. Use of 20 kHz ultrasounds lowered plant infesta-
+tion by Trichoplusia ni moths by 661 (Payne, Shorey, 1968). However, trials
+
+of this method to control the Heliothis zea moth on corn and cotton did not
+yield positive results (Agee, Webb, 1969a; Shorey et a1., 1972). The authors
+consider the cause to be that insects perhaps become accustomed to continuously
+pulsating ultrasound, while large plants prevent propagation thereof. These
+explanations do not appear quite convincing, since they are in contradiction
+with the results of the aboveqmentioned tests.
+
+In general,’experience with ultrasound to scare off moths and Pyraloidea has
+shown that acoustic repellents could become an effective means of control of
+
+8
+
+FOR OFFICIAL USE ONLY
+many posts of the order Lepidoptera. But to develop such methods, it is neces—
+sary to conduct special studies of the life style and behavior of each species.
+There are grounds to believe that it is expedient to use analogous methods for
+protection of both crops and stored products.
+
+In time, acoustic repellents may find applications not only in agriculture, but
+in the control of blood-sucking Diptera. This question has been repeatedly dis-
+cussed in the scientific literature. Some foreign firms produce devices for
+personal protection against mosquitoes, of the "mosquito repeller" type, which
+consist of portable sound generators. However, tests conducted in our country
+(Rasnitsyn et al., l97é) and abroad (Kutz, 1974) showed them to be entirely in-
+effective. A search for sonic oscillations that elicit negative phonotaxis in
+mosquitoes is being pursued in many laboratories. And, although the desired
+results have not yet been obtained, this does not mean that there are some
+
+basic difficulties that prevent development of such repellents.
+
+Eradication of Insects
+
+Eradication of insects with sound is more a technical than a biological problem,
+so that we shall not deal with it here. Let us merely mention that, according
+to data obtained to date, ultrasound and sound of sufficiently high power have
+a depressing effect on insects. For example, there are reports that sounds at
+frequencies of 0.2-2 kHz inhibit development of Plodia interpunctella moths
+(Kirkpatrick, Harein, 1965), while powerful ultrasound (0.2—4 H/cmz) has a
+devastating effect on Drosophila pupae (Pay at al., 1978).
+
+Apparently sources of sonic and ultrasonic oscillations will be used to destroy
+insects in stocked or stored materials; however, it is unlikely that they will
+be used in the field (H. Frings, M. Frings, 1965).
+
+Conclusion
+
+In assessing our knowledge on sonic communication and orientation of insects, it
+must be noted that the results of intensive experimental research conducted for
+the last two decades had a deciding influence on forming current conceptions of
+the principles of organization of their acoustical communication systems.
+
+The greatest progress was made in the study of mechanisms of sound emission,
+
+the auditory system and some forms of acoustic behavior. For this reason. we now
+have a rather complete idea about the neuromuscular system of acoustic organs,
+acoustical properties of sound-emitting and sound-receiving structures, ultra-
+structure of auditory receptors, morphofunctional organization of auditory organs
+and physical characteristics of acoustic signals. Use of combined methods of
+research made it possible to obtain important data on the functional distinctions
+of the auditory system in the course of identification and localization of
+communicative acoustic signals. However, in spite of the efforts of many re-
+searchers, we have rather limited information as yet concerning processing of
+acoustic information in the central parts of the auditory analyzers, and we know
+virtually nothing about the connections between auditory interneurons and other
+parts of the central nervous system. As for the neurophysiological mechanisms
+involved in recognition of conspecific signals, the data available to us enable
+us to develop only preliminary hypotheses or conceptual models.
+
+9
+
+F03¢Hﬂﬂ€1Al.USE(NVLY
+IV“ V. I I‘r.l|~ snug. 0"...
+
+In view of these circumstances, we can be sure that most researchers will con-
+centrate in the near future. as they did before, on the problem of recognition
+
+and certain other problems of basic importance. But we can also expect further
+widening of the circle of objects studied and increase in number of comparative
+bioacoustic studies that will help demonstrate the adaptive distinctions of
+ac0ustical communication systems and the patterns of their inception and evolution.
+
+The following main tasks will have to be done in the course of future neuro-
+physiological studies: study of morphofunctional organization of acoustic centers,
+l.e., neuronal nets implementing the function of diverse acoustic organs of in-
+sects; completion of investigation of peripheral and central parts of the audi-
+tory analyzers; trace the functional connections between auditory interneurons
+and associative centers and effector systems. The main results of these studies,
+which will have been obtained in acute experiments, should then be checked in
+chronic experiments on mobile insects. Perhaps only such combined studies will
+enable us to form a definitive idea about the mechanisms of recognition of
+communicative signals and localization of sound sources.
+
+In the near future, we should expect further development of ethological studies,
+including not only laboratory experiments to test functional hypotheses and
+models, but observations in the field, which permit analysis of complex forms
+of acoustic behavior of insects.
+
+There is still quite a lot to be done with regard to investigation of acoustic
+signals of insects, particularly their variability. transformation in the course
+of species formation and adaptive distinctions.
+
+Genetic studies aimed at determination of patterns of inheritance of species-
+specific distinctions of various elements of acoustical communication systems
+should yield much interesting and important information.
+
+The results of all these investigations will not only help form a general con-
+ception about the principles of organization of insects' acoustical communication
+systems, but will serve as the basis for developing new and effective methods
+
+of controlling the behavior of economically important species.
+
+CONTENTS Page
+Introduction 5
+Part 1. Acoustic Communication Systems in Insects
+Chapter 1. Sound-Producing Mechanisms 9
+Chapter 2. Physical Characteristics of Acoustic Signals 19
+Chapter 3. Auditory Organs 30
+Structure of the auditory organs 31
+Fine structure and functional characteristics of the auditory
+receptors (chordotonal sensilla) 36
+Functional organization of the auditory organs 41
+Tympanal organs 41
+Johnston's organs 61
+10
+
+FOR OFF-10M. USE ONLY
+Chapter 4. Central Parts of the Auditory System
+Auditory interneurons
+Connections between the auditory system and effector systems
+Descending neurons in the cervical connectives of crickets
+Descending neurons in the abdominal nerve cord of orthopteran
+insects
+Chapter 5. Acoustic Behavior
+Types of acoustic signals
+Reactions of insects to acoustic signals
+
+Part II. Recognition of Acoustic Signals
+Chapter 6. Comparative Analysis of Acoustic Signals of Sympatric
+Species
+Chapter 7. Reactions of Insects to Acoustic Signals and Their Models
+Informative parameters of acoustic signals
+Noiseproof factor of acoustic communication systems
+Chapter 8. Features of Functions of the Auditory System during
+Recognition of Acoustic Signals
+Recognition of the intraspecific signals
+Functions of the auditory organs
+Functions of the central auditory neurons
+Recognition of the conspecific calling songs
+Functions of the auditory organs
+Functions of the central auditory neurons
+Chapter 9. Mechanisms of Recognition of Acoustic Signals in Insects
+
+Part III. Sound Source Localization
+Chapter 10. Adaptive Features of Acoustic Signals and Conditions
+for Acoustic Orientation
+Comparative analysis of acoustic signals
+Experimental data
+Chapter 11. Acoustic orientation
+Acoustic orientation during flight
+Reactions of flying insects to terrestrial sound source
+Acoustic orientation in terrestrial environments
+Chapter 12. Directional Hearing
+Functions of the auditory organs
+Functions of the central auditory neurons
+
+Applied Aspects of Insect Bioacoustics
+References
+
+COPYRIGHT: Izdatel'stvo Hoskovskogo universiteta. 1981
+
+10,657
+CSO: 1840/121
+
+11
+
+FOI‘OFFKJAI.USB(M9LY
+
+63
+63
+87
+
+92
+94
+96
+99
+
+106
+121
+122
+135
+
+138
+139
+139
+142
+148
+149
+151
+156
+
+166
+167
+168
+176
+176
+178
+180
+186
+186
+202
+
+217
+227
+eves va.a~a..~ ~~— veto-a.
+
+UDC: 612.14.08
+
+METHOD FOR TELEHETRIC RECORDING OF BLOOD PRESSURE AND RESPIRATION OP PRBELY
+SHIHHING DOLPHINS
+
+Leningrad FIZIOLDGICHESKIY ZHURNAL SSS! IMENI I. M. SECHENOVA in Russian Vol 67,
+No 11, Nov 81 (manuscript received 4 Dec 78) pp l7bb-l768
+
+[Article by V. G. Dargol'ts, Ye.V% Romanenko,Ye. A. Yumatov and V. G. Yanov,
+Laboratory of Morphology and Ecology of Higher Vertebrates (headed by V. Ye.
+Sokolov); Laboratory of Bioacoustics (headed by Ye. V. Romanenko), Institute
+of Evolutionary Morphology and Ecology of Animals imeni A. N. Severtsov, USSR
+Academy of Sciences; Department of Normal Physiology (headed by K. V. Sudakov),
+First Moscow Medical Institute imeni I. M. Sechenov, Moscow]
+
+[Text] At the present time, various techniques have been developed to study
+cardiovascular and respiratory functions of terrestrial animals, which permit
+recording arterial pressure, the electrocardiogram, volumetric and linear blood
+flow, pneumogras, etc., in different states of an organism, including un-
+restrained animsls [1, 2].
+
+At the same time, there is also a need for such studies on aquatic animals,
+for example, dolphins, when their behavior is unrestricted. In particular,
+
+it is interesting to make a comparative analysis of cardiovascular and respi-
+ratory functions during emotional reactions of animals situated in different
+environments. A need also arose to examine regulation of arterial pressure
+and respiration in delphinids in connection with problems of hydrodynamics and
+bioacoustics.
+
+However, there are a number of technical difficulties involved in recording
+these functions on freely swimming animals. It is necessary to deveIOp a
+sealed telemetry device for this purpose, with its own power pack that would
+pick up useful information and transmit it from the aquatic environment to
+receiving equipment. He describe here an instrument that meets these require-
+menu‘s
+
+The functional flowchart of a radiotelemetry instrument, which we designed
+
+and constructed to measure blood pressure, as well as air pressure in the res-
+piratory system of the bottlenosed dolphin, swimming freely in a restricted
+body of water (tank, marine pen), is illustrated in Figure 1.
+
+An Eleme-Schonander (EMT-34) type ensor 1 served as the device that picked
+up pressure directly, and its wor ing chamber was connected to a blood vessel
+
+12
+
+IIHIGDFI1CIAI.UEI:(HVLY
+or tested part of the dolphin's respiratory system by means of a catheter 1.5-2 mm
+in diameter. To measure blood pressure, the working chamber of the sensor and
+catheter were first filled with saline, which transmitted blood pressure to the
+sensitive element of the sensor. Output voltage which changes slowly is the
+information signal, whose amplitude is proportional to excess pressure, in
+relation to atmospheric, from the symmetrical output of the sensor, and it was
+fed to converter 2. In the converter, the clock pulses coming from the clock
+pulse generator with a repetition frequency P - 2 kHz 3, are submitted to pulse-
+amplitude modulation by the information signa . The same pulses divided into
+four frequencies, 4, 5, served as the calibration signal. We determined the
+necessary correlation between level of calibration signal and pulse-amplitude
+modulated information signal by means of two dividers, Rl-Ra and Rz-Ra.
+
+The overall signal then passed from adder 7 to the generator with frequency modu-
+lator 8, where it modulated the carrier frequency which had a frequency of
+31 kHz in the "silent" mode. After the amplifier 9, the signal was emitted into
+
+salt water. He used narrow-band frequency modulation with a modulation index of
+m ' 0.4.
+
+Transmission of information about pressure coded in this manner was effected
+via an underwater radio channel.
+
+The generated power of the transmitter constituted 50 m" on a resistance of 7 9,
+which provided for a range of certain reception of up to 8-10 m. This range
+makes it possible to receive a signal distinctly over the entire volume of the
+
+pen or closed tank. The construction of the transmitting and receiving antennas
+is described in [3].
+
+And now a few words about the choice of coding method. In view of the fact that
+a signal with slowly changing frequency has a rather small amplitude with actual
+values of blood pressure and air pressure in the dolphin's respiratory system.
+it was found expedient to use a subcarrier frequency (in the form of clock
+pulses), amplitude modulated by the useful signal, and subsequently work with
+this subcarrier frequency signal. The concurrent presence of a clock signal
+makes it possible to form a calibration signal required for absolute readings
+that is a multiple thereof in frequency.
+
+Reception of radiotransmitter signals is effected by means of a specially developed
+receiver of frequencquodulated signals, which consisted of two functional units
+[block units]: the unit of selective amplifiers 10 (with central tuning
+
+frequency f - 31 kHz and band of 2 bf I 8 kHz) and demodulation unit 11. The
+carrier frequency was demodulated and overall signal, which consisted of the
+pulse-amplitude modulated information signal at a frequency of 2 kHz containing
+information about pressure and calibration signal of 500 Hz was isolated in the
+receiver. This overall signal after the necessary division 12 was recorded on
+
+one of the channels of an Elektronika-loo type tape recorder 13, while the
+explanatory text was recorded on another channel from microphone 14.
+
+In the course of processing the recorded results, the overall signal was repro-
+duced on the same tape recorder and fed to two filters: band filter with central
+frequency of 2 kHz and band of 2Af- 650 Hz 15 and a filter for lower frequencies
+with cut-off frequency of 1020 Hz 16. The band filter served to isolate the
+intermediate frequency of 2 kHz with pulse-amplitude modulated information sig-
+nal, while the lower frequency filter served to isolate the calibration signal.
+
+13
+l!”l(lﬂﬂ€1Al.USE10NLN
+_———‘-————--—_——————— ———--————
+
+O u anormatiou signal(l$) U o - - .
+i C: , c H"_\ «cs-cm
+l ‘ 4 .
+
+U
+
+   
+      
+   
+   
+
+ﬁght; - ’ - ,
+
+8 en
+
+,- _________________ ﬂ . ”' n m A" Is
+I Receiver schaignaqu-I l /
+
+s
+I. 1:}
+
+\
+
+     
+
+7
+
+“Record" '"Reproduce" / ‘
+Em: A
+f
+
+sachzawnwhz
+Figure 1. Functional flowchart_
+a-Schonander (sum-34) 7) adder 14) nicroph
+sure sensor 8) generator with frequency modulator 15) hand f1
+arter 9) power amplifier 16) lower f
+k pulse generator 10) selective amplifier unit 17) Bruel a
+uency dividers ll) demodulation unit record:
+rnation and calibra- 12) divider l8) Gz-lOZA
+
+signal dividers 13) Blektronika-lOO tape recorder general
+The coefficients of transmission of the band filter at a frequency of 2 kHz and
+lower frequency filter at a frequency of 500 Hz equaled 1. Then, the information
+and calibration signals divided by frequency were recorded alternately on
+
+paper of a Bruel and Kjxder 2305A recorder. The scales of recorder levels were
+calibrated at the beginning and end of each tracing with the signal from an
+external type 62-102 generator 18.
+
+w a
+gm
+5
+on
+|———l
+”'3
+.b
+:3
+i 1
+3
+3 .
+—A=L_
+‘ I.__J
+1.0:
+
+Figure 2. Samples of pressure tracings
+
+a) blood pressure in vessels of tail fin
+
+b) air pressure in main nasal passage during emission of echoranging series
+1) pressure curve
+
+2) echoranging tine
+
+If one knows the pressure to which corresponded the constant amplitude of the
+calibration signal and graduation characteristics of the pressure sensor, one
+could estimate absolute pressure in blood vessels or airway system of the
+dolphin at each point in time.
+
+The transmitting equipment 1 together with pressure sensor 2 were attached to
+the dorsal fin of the dolphin. A flexible catheter, 1.5-2 am in diameter,
+filled with saline and heparin (to prevent blood clotting) was introduced into
+one of the arteries of the dorsal or tail fin and connected to the pressure
+sensor. Before taking each reading the catheter was flushed with the same
+solution. Access to the artery was provided by cutting off a 2-3 cm and of
+the fin. To measure air pressure in the respiratory tract of the dolphin, the
+air-filled catheter was introduced into the choanae or'blowhole above them and
+attached with a suction cup near the entrance into the blowhole.
+
+15
+
+FOR¢0FFKJAI.USE(NVLY
+Figure Za is a sample of a tracing of blood pressure in vessels of the tail.
+Blood pressure in vessels of the tail fin of a free-swimming dolphin is of
+
+the order of 60-80 mm Hg. It should be noted that the dolphin did not submerge
+to any depth during this time. Blood pressure in vessels of the dorsal fin is
+1.5-2 times higher, and this is apparently related to the closeness of dorsal
+fin vessels to great arteries, their larger diameters, as compared to vessels
+of the tail. In addition, it was possible to introduce the catheter deeper
+into vessels of the dorsal fin than into the smaller vessels of the tail.
+
+Air pressure was recorded in the region of the main nasal meatus (blowhole),
+between the external sphincter and muscle plug shutting entry into the choanaecPig-
+ureZb). Pressure curve 1 iicorrelatedtoeChoranging time 2. Typically,
+
+the echoranging process is always associated by approximately 30-50 mm Hg in-
+increase in pressure in the blowhole, whereas pressure in the choana does not
+change.
+
+It should be noted that we set the pressure sensor to zero at the start of
+
+each experiment. For this purpose, we equalized pressure in the working chamber
+of the sensor with atmospheric pressure. The sensor was then adjusted for a
+minimal output signal in the absence of excess pressure in the catheter. The
+remaining dysbalance signal at the output of the sensor was recorded on tape,
+and its value served as the zero reference point.
+
+This technique permits satisfactory reading of both blood pressure in blood
+vessels and air pressure in the dolphin's respiratory tract when the animal
+swims on the surface without subaerging. Artefacts were found in the course
+of recording blood pressure, which were related to submersion of the animals,
+and with measurement of pressure in the caudal artery with movement of the
+flukes while swimming.
+
+with submersion, the distance between the sensor and reading site has an
+effect. This occurs because of the flexibility of the walls of the long cathe-
+ter (1.0-1.5 m), which transmit water pressure and distort the true pressure
+of both blood and air in the respiratory tract. To rule out such artefacts,
+
+we placed the sensor as close as possible to the measurement site on the dorsal
+fin, thus also reducing the length of the catheter to a minimum.
+
+BIBLIOGRAPHY
+
+i. Tkachenko, B. 1. (ed.), "Hethods for Testing Circulation," Isd. "Nauka",
+Leningrad, 1976, pp 1-278.
+
+2. Skotselyas, Yu. 6., Ivanova, L. I. and Yumatov, Ye. A., "Dynamic Recording
+of Rat Arterial Pressure in Chronic Experiments and Hith Unrestrsined
+Behavior," PIZIOL. 2H. SSSR, 63, 1, 1977, pp 154-155.
+
+3. Yanov, V. G. and Romanenko, Ye. V., "Radiotelemetry System for Measuring
+Hydrodynamic Parameters of Dolphins in a Confined Hater Area," Izd.
+"Bionika", Kiev, 6, 1972, pp 92-99.
+
+COPYRIGHT: Izdatel'stvo "Nauka" Piziologicheskiy zhurnal im. 1. M. Sechenova,
+1981
+
+10,657
+
+C30: 1860/117
+
+16
+
+IIIICHHHC1A1.USE(NVLY
+BIOTECHNOLOGY
+
+UDC: 543.544:547.996.02
+KOVATS INDEXES USED TO IDENTIFY SEX PHEROHONES
+
+Tashkent KHIHIYA PRIRODNYKB SOYBDINBBIY in Russian No b, Jul-Aug 81 (manuscript
+received 19 Jan 81) pp 501-505
+
+[Article by S. F. Nedopekina, B. G. Kovalev and A. N. Kostf, All-Union Scientific
+Research Institute of Biological Methods of Plant Protection, Kishinev; Moscow
+"Order of Lenin}'"0rder of the October Revolution" and ”Order of Red Banner of
+Labor" State University imeni M. V. Lomonosov]
+
+[Text] In View of the development of new methods of protecting plants, which
+are safe to the environment, there is special interest in substances of natural
+origin-sex pheromones of insects-use of which is considered quite promising [1].
+
+Isolation and identification of the structure of natural pheromones involve a
+number of difficulties, due chiefly to the small amounts of this substance con-
+tained in insect glands (nanogram range). Hence the need to use highly sensitive
+physical and physicochemical methods, as well as combinations thereof with chemical
+identification.
+
+The pheromones of Lepidoptera identified to date consist mainly of unsaturated
+aliphatic alcohols, their acetates. aldehydes, esters and apoxides containing 10-18
+atoms of carbon [2].
+
+Identification of a natural pheromone involves determination of the length of
+the molecule's carbon chain, quantity, position and configuration of dual bonds,
+as well as the nature of other functional groups'it contains.
+
+Relative gees-chromatographic retention level is often used to describe functional
+groups of analyzed compounds [3]. Kovats [4] proposed the use of the difference
+between indexes of compound retention in two phases of different polarity A112 as
+a characteristic parameter:
+
+Mn = I.—l,. ' _ (1)
+
+where I; and I; are the retention index on stationary liquid phases 1 and 2, res-
+pectively. A112 is the characteristic of the functional group; it depends on the
+nature of the stationary phase and depends little on column temperature. Experi-
+mental determination of the value of 61;; makes it possible to relate the ana-
+lyzed compound to a specific class, provided the values of All; have been tabulated
+for a large number of known substances.
+
+17
+
+FOI1OFFKJA1.USI(NNLY
+The retention index of a compound is the sum of the retention index of the carbon
+shell and increments corresponding to functional groups. This makes it possible
+to determine the retention index of the carbon shell, if the contribution of the
+functional grOup and length of the carbon chain are known, bearing in mind that
+the contribution of the methylene group is 100 units.
+
+Our objective here was to construct tables of retention indexes for unsaturated
+aliphatic alcohols, their acetates and some epoxides. The practical usefulness
+of the tabulated data is demonscrated on the example of identification of natural
+pheromones of female cabbage (Mamestra brassicae) and tomato (Hamestra oleracia)
+moths.
+
+He used n-alkanes (Cnﬂzn+o, where n - 12-17, 19, 20, 23, 24) as standards for
+determination of I. We calculated I using the following equation [5]:
+
+_ l 1,—1 1
+I. —IOO.Ill # 100(43—115) 1%. (2)
+
+where n, and n; are the number of atoms of carbon in the corresponding rralkanes,
+lnl, Zn, and z: are distances on the chromatogram from introduction of sample to
+height of corresponding peak (in millimeters), and
+
+1,. > z,> I...
+
+The increments of functional groups for each type of phase were calculated as
+follows:
+
+51.: 1“"L —l00-n.
+
+AI, = I""°—100-n.
+
+where I‘”H /""’is the retention index of the compound at the (3)
+corresponding phase;
+a is the legnth of the carbon chain.
+
+The difference between retention indexes of the compound on polar and nonpdlar
+phases was determined using the formula:
+
+at. = I"-‘°—Im. ' ' (a)
+
+All of the obtained values are listed in Tables 1-4.
+
+The tables show that use of the difference between retention indexes on polar
+
+and nonpolar phases (Alia) makes it possible to identify rather accurately
+ethylene alcohols (A112 - 371-429 units), their acetates (A11; - 286-345 units)
+
+and saturated epoxides (A112 - 264-276 units). However, we see that there is
+
+some overlapping of values of 6112 (Table 4) for ethylene acetates (286-345 units)
+and saturated alcohols (337-364 units), as well as saturated acetates (260-299
+units) and epoxides (264-276 units). In this case, for exact identification one
+
+18
+
+FOR OFFICIAL USE ONLY
+should use the increments of functional groups for each type of phase (Ah. Ala,
+Table 11), which differ substantially.
+
+Table l. Retention indexes for ethylene acetates with the general fornula
+
+cis
+R-CH- “(cum-011: and sole saturated acetates
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c 11..c11=c11—c11 01: 1336 333 1621 621 2116
+c111 .,c11=c11(c11.1.011 1330 310 1616 616 233
+1: 11..c-.=c11(c119.0: s; 1311 311 1626 1126 312
+C91 1:11-c11 C11 11: - 1331 331 1611 611 301
+c.11;c11=c11 C11, 1316 316 11131 1151 3011
+CIBHnOAC 1359 359 '6” 626 267
+c, 11 ..r:11-c11(c119. 1.11: 1520 320 11131 631 311
+d11.".c11-c11 c119 01: o 15_21 3m 1311 611 311
+c..=111:11-c11( 9.6.1: 1; 1633 333 1610 611 , 3111
+c§.11 C11-c11(c11.1..11: 1510 310 | 1366 I606 326
+(5.- -.0111 1562 362 1m 122 I 261
+I
+
+c.11..=c11-c11éc11,3o1:' 1119 319 2011 616 I 321
+c'11.1.11=c11 1:81 1131 331 2013 613 332
+c.11'.'-'11=c11(C11.1.01: ._ 1131 331 2011 611 331
+c.11.c11- c11 (1.119.011: ' 1113 313 2063 m 315
+c..11.o.1: 1151 351 20112 652 295
+c.11..c11-c11(c119.r11: 192-1 325 2261 661 | 312
+c.11..c11-c11(c119.01: o 1929 329 2212 6:2 313
+c.11.c11-c11 (01.1.1111: a 1936 3211 22111 678 312
+c.11c11- c11(c11;1..o.\: 1931 331 2261 669 335
+
+c..1I..01: l 1260 360 225' | 651'.) 299
+
+Table 2. Retention indexes of ethylene alcohols with general formula
+c s
+R-CH - c11(c11.),, 0!! and some saturated alcohols
+
+Compound
+
+Inc [in l .11. 1:11-10 | 11.
+
+       
+     
+     
+    
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+   
+
+ 
+
+ 
+
+c 11..c111.c 1—c11.o11 1221 221 - '606
+c-. 1..c11-c11(c.19,011 ._ 1213 213 1611
+c.1111..o11 1213 233 1.190
+c.11..c11.c11(c119.o11 1119 219 I 1621
+c111. c11-c11(c11.1.o11 o 1119 219 13211
+11.611=cr1(c11,11111 : 1150 2110 11161
+c..'11,, 111 1153 213 1301
+1: .11. .c11.- c11(c11,10 1 1626
+1"11c11- -c 1 11:11 9.0" 1629
+cI1'c11= -c11(c11_ 1.1011 3 11151
+cuﬂnou [M
+c.11c11=c;1(c11 .011
+c.‘.1?.,o11"' I I
+
+19
+
+FOROFFICIALISEONLY
+I'UI \Il f.\-lﬂ~ was; \Il‘bl
+
+Table 3. Retention indexes of °PQE§QF§."1th the general formula
+
+ 
+
+n.-cn—cu-—R=
+\w/
+0
+Compound | ’55" I-Vn‘ 13;" l “2 l "n
+
+ 
+
+Eﬁﬁcmcng. cu—cn—mh:
+
+ 
+
+/
+\0
+cu .. .
+Chi>cmcu=x {l—/CH—C.H.. me 98 2212 312 214
+0
+cu ..
+00‘3"“: ,),c{1_}:nu-c...u.. was 96 2160 360 264
+o
+53: Cli(CH:).Cl'l—CH—C...H,. mo so 2266 366 216
+‘\ 2’
+o
+
+ 
+
+Table 6. Increments of retention indexes for functional groups
+
+“"9““ | u. u. 61..
+
+ 
+
+R-CH-CH (CH3, CH 213-37 “—086 37I—429
+R—CH-CH (CPL-)n OAc 3M4$6 616-688 286—345
+
+c, amp" _ 253—262 690—626 —364
+c, ammo.“ 357-362 622—659 299
+mum—c1441= 90—93 36‘JL—372 —276
+\ / -
+0
+
+Within a specific class of compounds, the value of the retention index (I) at
+a given phase permits determination of the length of the carbon chain provided
+we know the contribution of the functional group at this phase (AI..AI;):
+
+n Ayah—-TL-M . (5)
+
+For all of the tested alcohols and acetates, the value of I is an overall one,
+including the contribution of the alcohol or acetate group and unsaturated bond.
+If the retention indexes of saturated compounds are known. one can assess the
+contribution of the multiple bond.
+
+The value of A112 is determined primarily by dipole-dipole interaction between the
+dissolved substance and stationary phase. With increase in polarity of the mole-
+
+cule, there is increase in value of AI):, and this is evident on the example of
+the compounds studied:
+
+20
+
+lili‘OFIlCJAI.lEﬂE(NNLY
+A1,, (CRH,,+,0H)-;~ A1,,(c,H,,+,0At-\> All, (R.-'cH—/<:H-R,). as well as
+o
+
+3],, (R—CH = CH (cu-1,), OH) > 51,,(canm, om m
+Alum—CH = CH (GHQ. om > AI" (c,H,,,+,0Ac).
+
+The existing scatter of values of I and AI for each class of compounds is attri-
+butable to the influence of the length of the molecular chain and position of
+multiple bond, a change in which alters the mutual influence of functional groups,
+which affects general polarity of the molecule.
+
+The obtained retention indexes were used to identify the sex pheromones of female
+cabbage and tomato moths.
+
+We determined the retention index of the chromatographic peaks on two columns
+of different polarity. corresponding to the length of the chain and functionality
+of pheromones to determine these parameters.
+
+Female extract consists of a mixture of substances. In order to refer a specific
+peak on the chromatogram to a pheromone, preparative selection of 1-minute extract
+fractions was made, followed by electroantennographic testing, as described in
+[6]. He then identified peaks contained in fractions, on which male antennae
+showed maximum responses. It should be noted that, in View of the small amount of
+active substance contained in insect glands, the pheromone peak is not traced on
+the chromatogram, whereas the antennae respond to the corresponding fraction. In
+this case, it is quite helpful to use Kovats indexes that can be calculated
+
+from the time of appearance of the fraction that yields the maximum response of
+male antennae.
+
+The pheromone of female cabbage moths consists of one main component II with
+retention indexes I} - 1936. I; - 2278 and AI}2 - 342. The pheromone of the
+tomato moth has two components (III, 1111), and the retention indexes are
+I}! - 1833, 1;! - 2253, AI}; - 620. 1§II - 1936, 1§II - 227a, AI{§I - 342.
+
+If we compare the values of AI]; of natural pheromones to the tabulated data
+(Tables 1, 2, 4) it is easy to see that the II, IIn (AI‘z - 342 units) peaks
+fall into the range of ethylene acetates, while the 111 peak is in the range
+
+of ethylene alcohols (All; - #20 units). The coincidence of retention indexes
+on nonpolar and polar phases of natural pheromones with hexadecenol and hexa-
+duaﬂauuuemﬂhluuusthcmduMnmutMlughdtucuMn
+chain of the compounds to be identified is 16. In the general case. one should
+use formula (5) to determine chain length.
+
+Experimental Section
+
+The retention indexes were determined on a Khrom—bZ chromatograph with flame-
+ionization detector. The glass columns are 2.SX3 mm in size. The carrier gas is
+extra pure nitrogen. He used N-AH-HHDS 60/80—mesh chromaton as the solid carrier.
+
+Apiezon L (8!) served as the nonpolar phase and XE-60 nitrile silicone rubber (15%)
+as the polar phase.
+
+21
+
+FOI10FFHJA1.USE(MNLY
+av“ Va al\ u..- w-oa. \la‘I-I
+
+Conclusions
+
+Determination was made of retention indexes of a series of unsaturated alcohols,
+acetates and saturated epoxides on two columns of different polarity. The
+
+obtained tabulated data were used to determine chain length and functionality of
+pheromones of two moth species. '
+
+l.
+
+2.
+
+3.
+4.
+5.
+
+6.
+
+BIBLIOGRAPHY
+Jacobson, 11., ”Sex Pheromones of Insects," Hoscow, 1976.
+
+Hinyaylo, V. A. and Kovalev, B. 6., "Advances in Science and Technology," Ento-
+mology Series, Moscow, 2, 1973.
+
+Reynolds, H. 0., "Gas chromatographic Retention Data," Evanston, 1966.
+Kovats, 8., HELV. CHIN. ACTA, 101, 1915, 1958.
+Idem, ADVANCES CHROMATOGR., 1, 229, 1966.
+
+Kovalev, B. 0., Nedopekina, S. P., Lebedeva, K. V. and Kost, A. N., HOORGAN.
+IGIIMIYA, 5, 912, 1979.
+
+COPYRIGHT: Izdatel'stvo "FAN" 112883, 1981
+
+10,657
+080: 1840/103
+
+22
+
+FOR OFFICIAL USE ONLY
+UDC: S97:585:59l:488.9:47l.3+59l.9(26l,265,266)
+
+SEISHOSENSORY SYSTEM AND CLASSIFICATION OF COTTIDAE FISH (HYOXOCBPHALINAB,
+ARTEDIBLLINAB)
+
+Leningrad SEYSHOSENSORNAYA SISTEHA I KLASSIPIKATSIYA KERCHAKOVYKH RYB (COTTIDAE:
+MYOXOCEPHALINAE, ARTEDIELLINAE) in Russian 1979 (signed to press 28 Aug 79)
+pp 2-7, 207-208
+
+(Annotation, introduction and table of contents from book "Seisnosensory System
+
+and Classification of Cottidae Fish (Hyoxocephalinae, Artediellinae)" by Aleksey
+Vadimovich Neyelov, approved by the Zoological Institute of the USSR Academy of
+
+Sciences, Izdatel'stvo "Nauka", 1100 copies, 208 pages]
+
+[Text] This monograph deals with a comparative morphology of the seismosensory
+system of 54 species and subspecies of Cottidae. Original studies are preceded
+
+by analysis of the worldwide literature on morphology of the seismosensory system
+of Anamnia vertebrates, different aspects of function, nature of variability
+
+and use in systematics and phylogenesis. A classification of both subfamilies
+studied is validated on the basis of the structure of various systems of organs.
+Characteristics and identification of various taxons through subspecies levels
+are submitted. There is discussion of the nature and patterns of evolutionary
+transformations of different elements of the seismosensory system and phylogenetic
+relations and evolution of Cottidae. References 642, illustrations 85.
+
+Introduction
+
+The Cottidae family is the largest group of fish, with regard to number of species,
+in the ichthyofauna of the USSR and adjacent waters. Bxpreasly the Cottidae con-
+stitute the most substantial element of the fauna of our northern and far eastern
+seas. Thus, Andriyashev (1939b) reports 297 fish species in the Bering Sea,
+
+65 of which are Cottidae, i.e., over one-fifth (21.92) of its entire ichthyofauna.
+
+Cotfidae are represented by 10 speciesin the Kara and Chukotsk seas of the 56 and
+&4 species of fish, respectively, known in these seas (Andriyashev, 1954). Schmidt
+(1950) cites about 50 species of Cottidae for the Sea of Okhotsk, or almost one-
+fifth of the entire fish fauna. Hilimovsky (1964) stresses in particular that
+
+45 out of the 140 species of fish incoasta1.regions of the Aleutian Archipelago,
+or almost one-third, consist of bullheads of the Cottidae family, and no other
+
+families can compete with them in this regard. Cottidae play an exceptionally
+large part in the fauna of Lake Baykal; all 26 hullhead species are endemic
+to this lake (Taliyev, 1955).
+
+As yet, very little has been done with regard to working out the morphological
+bases of the system of the Cottidae family and particularly with respect to
+
+23
+FOR OFFICLA1.lEﬂ!(”‘LY
+I VI\ VA I l‘vla'lh was. Vanna
+
+cVolutionary relations between the taxons it includes. In this respect, the
+uaykal bullheads were the "luckiest," since comprehensive studies thereof resulted
+in the excellent monograph by Taliyev (1955). In this work, the author devoted
+several pages to evolution of bullheads of the Cottidae family in connection with
+the origin and formation of endemic bullhead fauna of Lake Bayksl. Current con-
+ceptions of the scope and relations within Cottidse and families close to it
+
+are based on the rather concise, but morphologically validated work of Tarsnets
+(1941), "Classification and Origin of Bullheads of the Cottidae Family."
+
+A large group of father-lasher bullheads. which Taranets (1961) placed in the
+Hyoxocephalinae subfamily numbering 16 genera with 48 species, according to Taranets,
+occupies the central position in this family. Schmidt (1950), Taliyev (1955) and
+Bolin (1967b) stressed the leading role of Hyoxocephalinae among the Cottidae.
+
+Not only are the species of this subfamily numerous, but they are extremely
+
+diverse. Father-lasher bullheads are among the most common elements of the
+
+benthic ichthyofauna of all our northern and far eastern seas. Moreover, they
+
+are quite numerous within the range of their habitat, inhabiting seas from the
+littoral zone to depths of about 2000 m, .e., they are also among the deepest
+
+water fish in the Cottidae family. Some species form concentrations of commercial
+magnitude. Thus, in 1970, 2653tons of bullheadswerecaught in the Northeast Atlantic
+(Statistical Information on USSR Fishing in the Northeast Atlantic ...,l97lb),
+
+and 1283 tons were caught in the Baltic Sea (Statistical Information ...,_ 1971a).
+
+The Cottidae species studied are very important to work on zoogeography and origin
+of ichthyofauna of different bodies of water.
+
+The foregoing explains, to some extent, the reason for the increased interest of
+ichthyologists all over the world in bullheads of this group and Cottidae in
+general. Hence it is understandable that this book, which has some prior history,
+was the logical development of the interest of Russian ichthyologists in this
+group of fish.
+
+Originally, the work was planned as a study on the "Fauna of the USSR," where
+attention would have been focused on osteological and external morphological
+distinctions of structure, which are generally used extensively and constantly in
+studies of fish. However, in the course of this work, I consistently encountered
+instances where the status of the species was quite vague and the range diffuse,
+i.e., it was impossible to offer a clearcut description of the species and, quite
+often, of the genus as well. It was necessary to find some morphological criteria,
+which had not been discovered before (if they existed at all) that would permit
+demonstration of rather distinct species—specific differences in the group under
+study.
+
+As a result of comprehensive studies of the morphology of different systems, in-
+cluding osteology and external morphology of many species of the Hyoxocephalinae
+s. l. subspecies, it was found that the species and entire groups of species
+
+are quite distinguishable, primarily according to quantity, structure and,
+
+first of all, topography of integumental canals and pores of the seismosensory
+system of the head and body. Bxpressly the structural distinctions of the seismo-
+sensory system or, as it is usually inaccurately, but commonly called the"lateral
+line organs.“ enabled us to comprehend, to a certain degree of course, the sys-
+tematic correlations in the Hyoxocephalinaes.L subfamily. Having some degree
+
+of species specificity, the general structural plan of the seismosensory system
+
+26
+F‘MRCNWNCIAI.IEHECNVL¥
+turned out to be profoundly different in the two tribes with the most species-
+Hyoxocephalini and Artediellini, subfamily Hyoxocephalinae(in the scope adopted
+
+by Taranets, 1941). Structural differences in the seismosensory system of
+hooked-horn bullheads (Artediellini of Taranets) and all other representatives of
+this subfamily made it possible to validate the independence of the hook-horns
+
+in a separate subfamily (Artediellinae), along with the use of other morphological
+structural distinctions. Its species-specificity made it possible to clearly
+distinguish within these two subfamilies lower taxons through species. This,
+
+in turn, made it possible to make broader use of the distinctions of external mor-
+
+phology, which it had been sometimes impossible to detect before exact differ-
+entiation between species.
+
+in the course of our work, we ecountered a number of methodological difficulties.
+The main one was the absence of developed terminology to designate the numerous
+canals and pores of the seismosensory system of the fish head. Usually, no atten-
+tion was paid to such structural distinctions of the peripheral branches of the
+seismosensory system when it was studied. since it was essentially the route and
+nature of the canals that were studied. Apparently, this is why insufficient de-
+tails were provided about the peripheral branches of the seismosensory system and
+it is the reason for absence of conventional terminology for them (Hakushok, 1958,
+i961c; Jskubowski, 1965; Cowan, 1970, 1971). It was necessary to not only find a
+convenient method to study the system proper and stock material, but primarily
+
+to systematize the large quantity of pores and cutaneous canals which appeared,
+
+at first glance, to be quite disorderly in arrangement. After this, it was
+necessary to develop a system of designations, with which it would be convenient,
+to some extent, of course, to work in describing the structural distinctions of
+the fish sense organs under study. Since this is, to some extent, the first
+attempt at a comprehensive description of the morphology of the peripheral
+branches of the seismosensory system, this author realizes that it is far from
+perfect, and would be very appreciative of all critical comments and additions
+that would improve it.
+
+Comprehensive studies of the topography of the seismosensory system as applied
+to systematics was largely instrumental in developing the conceptions submitted
+in this book concerning the validity of different taxons and their systematic
+
+rank, which led to development of conceptions concerning the evolutionary relations
+of the fish species studied.
+
+The large number of species and their considerable morphological variety made it
+possible to trace on vast (in the sense of species) and moreover related material
+the following: in the first place, the diversity of structure, primarily the
+topography of peripheral branches (canals and pores) of the seismosensory system
+of closely related forms with the same general structural plan thereof; in the
+second place, the significant differences in structure of central parts of the
+seismosensory system (morphology of canals) and communication with the environment
+and, in the third place, which is the main point, this diversity enabled us to
+demonstrate and trace the direction and sequence of evolutionary changes in struc-
+ture of the seismosensory system of species of the same genus, different genera
+and similar genera. As a result, we fOund instances of morphological parallelism,
+where species formed homologous series in the meaning of Vavilov (1967) and
+ecological parallels in the meaning of Berg (1935). As a result, all this made
+
+it possible to propose. of course with the use of the entire set of studied
+morphological structural distinctions. a system of subfamilies, their position
+
+25
+
+IND! OFFIC1A1.USE(NVLY
+among Cottidae and to submit a scheme of probable phylogenetic relations between
+taxons in this group. It is expressly on the basis of comprehensive morphologi-
+cal analysis of structural distinctions of the seismosensory system of all repre-
+sentatives of the Hyoxocephalinae and Artediellinae subfamilies that 1 demonstrated
+(Neyelov, 1967a, 1967b, 1971a. 1971b, 1973a, 1976, 1977) that simplification of
+structure of peripheral branches-oligomerization according to DogeIL-should be
+considered one of the main directions of evolutionary transformations of this
+system of sense organs in bullheads and sculpins.
+
+In working out the system of subfamilies, we also used some of the osteological
+distinctions of structure of the skull and axial skeleton (mainly for substantia-
+tion and characterization of subfamilies). For characteristics of various taxons,
+extensive use was made of external morphological structural features, which are
+generally used in systematizing and identifying Cottidae (along with new or pre-
+viously insufficiently used morphological structures). This enables us to make
+use oftheabundant factual material already accumulated from all previous studies
+and to include in the identifications and determination tables external morpholo-
+gical structures that can be reaoily seen with the most cursory examination of
+fish and could always be compared to already existing descriptions.
+
+Such synthesis of morphological structures which were used for the first time and
+external morphological distinctions used previously was instrumental in more
+accurate utilization of these features and made it possible to_describe more
+
+fully a given taxon within tHe form of a brief diagnosis. It is expressly because
+of these considerations that I resisted the temptation of constructing identi-
+fication tables and offering taxon diagnoses solely on the basis of the dis-
+tinctions of the seismosensory system, although this could have been done (as,
+
+for example, was done by Illick, 1956 and Nelson. 1972).
+
+in View of the foregoing, it was necessary to alter the initial direction of
+research, devoting more attention to morphology than fauna proper.
+
+This book consists of an introduction and five chapters. The first chapter deals
+with the history of research on the seismosensory system, general conception of
+its structure, function and use of its morphological distinctions in systematics
+and phylogenesis.’ The second chapter is concerned with morphology of the seismo-
+sensory system of cottoid bullheads and sculpins and contains the following:
+information about the volume of material studied, terminology for peripheral
+branches (canals and pores) of the seismosensory system which was developed and
+
+is proposed for Cottidse, general morphological description of this system in
+
+both subfamilies, description of genera and species with reference to seismo-
+sensory system, and it is illustrated with original drawings. The third chapter
+contains a morphological validation of the independence of Hyoxocephalinae and
+Artediellinae subfamilies and lower ranking taxons. Chapter 4 has information
+about the scope of the subfamilies under study and changes in the system of these
+fish, as compared to the classification of Taranets. This chapter includes identi-
+fication tables for all taxons through the subspecies, characteristics of sub-
+families, tribes and genera, and diagnoses for all lower taxons. The diagnoses
+are listed in the identification tables in the form of an expanded thesis or
+antithesis. There too is brief information about the distribution and habitat
+depth. After the description of each genus, its scope is indicated--list of
+species and the main synonyms. The synonyms are provided in full for taxons
+
+FOI‘OFFHJAI.USE(NVLY
+from the genus level up. Since the complete validated name, with its author, is
+given for all of the species studied, the author's name is omitted in the rest of
+the book where only their Latin names are given. The Latin name of all other
+mentioned species is given along with its author.
+
+adopted a decision to consider 1814 the year of publication of "Zoographis
+Rosso-Asiatica" by Pallas (Vol 3, Fishes) (Svetovidov. 1976), unlike the previously
+used year of 1811. this change is taken into consideration in indicating the year
+of description of the relevant Pallasisn species.
+
+The book concludes with Chapter 5, in which there is discussion of direction of
+specialization of the seismosensory system, its evolution as a system of sense
+organs that implement direct contact between the organism and habitat, questions
+of evolution of the systematic groups studied and offers a scheme of phylogenetic
+relations within the Hyoxocephalinae and Artediellinae subfamilies.
+
+This work constitutes an attempt at systematiastion of morphological details of
+strucrure of the seismosensory system and to use this system of sense organs for
+
+the purpose of classification and identification of taxons on the subspecies-
+subfamily rank.
+
+This work was done in the laboratory of ichthyology of the Zoological Institute,
+USSR Academy of Sciences. I wish to express my profound appreciation to the
+management of this institute and laboratory for granting me the opportunity to work
+in that laboratory and make use of its rich fish collection. I wish to express my
+sincere appreciation and profound gratitude to A. P. Andriyashev, corresponding
+member of the USSR Academy of Sciences, for his considerate and attentive attitude
+throughout my work on the monograph and for taking on the Job of editing the
+manuscript. The advice and constant aid of Anatoliy Petrovich were largely
+instrumental in following the adopted direction of research. I am also profoundly
+grateful to the never to be forgotten c. U. Lindberg for his constant interest
+
+in my work, valuable advice and availability for consultation whenever necessary,
+as well as the opportunity to use the abundant bullhead catches of the Kuril-
+Sakhalin expedition. I am sincerely grateful to V. M. Hakushok, who unintentionally
+was the inspiration for the chosen direction of investigation for his advice in
+making the morphological drawings. To all of the laboratory staff, my friends
+
+and coworkers and particularly senior laboratory technicians A. A. Korovkina,
+
+H. S. Morozova and V. R Prirodina I am profoundly grateful, and I thank all of
+them for their constant assistance in everyday work and support, without which
+
+the book would hardly have been completed. I offer my sincere gratitude to
+
+the staff of the Zoological Institute library, and particularly to the bright me-
+mory of Ivan Georgiyevich Husatov, for their constant aid in bibliographic work.
+without this library and its sharp staff our work would have been simply incon-
+ceivable. Hy sincere gratitude goes to all conrades and friends who were in-
+volved in some way or other in this work. I an profoandly grateful to artists
+
+H. H. Zharenkov and N. D. Ogloblina for rendering in India ink the author's
+original morphological drawings and diagrams sketched in pencil. I take this
+opportunity to express my appreciation to V. V. Fedorov,a L. S. Kodolov, V. P.
+Shuntov on the staff of TINRO [Pacific Ocean Scientific Research Institute of
+Fisheries and Oceanography], 0. G. Kusakin, V. H. Hatyushin and V. I. Pinchuk on
+the staff of the Soil Biology Institute of DVNTs [Far East Research Center?] of the
+Siberian Department of the USSR Academy of Sciences, as well as all other comrades
+
+27
+INNRCHWWCJAI.USE(NVLV
+for placing at my disposal the Cottidae caught in the basin of the Pacific Ocean.
+1 am deeply grateful to doctors D. M. Cohen (U. S. N. H.) and J. Nielsen (Univ.
+2001. Museum, Copenhagen) for granting the opportunity of examining bullhead
+specimens lacking in our collections, which they were kind enough to send me.
+Finally, I wish to thank with all my heart my Polish colleague, Doctor H. I.
+Jakubowski, who was kind enough, during his visit to the Zoological Institute,
+to help me learn to use the original techniques he developed for examining
+organs of the seismosensory system.
+
+FOOTNOTES
+
+1. The Russian name for fish of the Cottidae family—-"ksrchakovyye" or
+"rogatkovyye" [father-lashers or horned fish] (Bass, Lindberg, 1971) does
+not always apply well to all species, so that in addition to these names,
+this author has also used the name, "bullheads," which is old and has been
+in wide use for a long time, and currently used to refer only to the Gobiidae
+family; the name, "sculpins," is used for freshdwater species of this family.
+
+2. Tohisprofound regret, the author was unable to make use here of the excellent
+
+monograph by Disler, published in 1977, dealing with morphology and develop-
+ment of seismosensory system organs of Euselachiae, or for reasons beyond his
+control to make use of the interesting works of Cowan (1970, 1971, 1972a,
+1972b, 1973) and Kartavtsev (1975) dealing with species of the genus Myoxo-
+cephalus in the discussion of his own findings (chapter 5).
+
+3. Presently a scientist in the laboratory of ichthyology of the Zoological
+Institute, USSR Academy of Sciences.
+
+CONTENTS Page
+Introduction 3
+Chapter 1. Seismosensory System of Fish and Methods of Studying It 8
+1. Historical survey 8
+a. Morphology 8
+b. Function 15
+2. Use of distinctions of seismosensory system in systematics and
+phylogenesis 21
+a. History of the question and its present status 21
+b. Use of distinctions of seismosensory system in systematics and
+phylogenesis of Cottoidei 27
+c. Some aspects of variability of morphology of seismosensory
+system organs 30
+d. Free neuromasts 32
+Chapter 2. Morphology of Seismosensory System of Bullheads
+(Hyoxocephalinae) and horned fish (Artediellinae) 36
+1. Material and methods 34
+2. Terminology and designations of elements of seismosensory system 35
+a. General theses 35
+b. Designations for canals and pores 37
+3. Description of Myoxocephalinae and Artediellinae subfamilies with
+reference to seismosensory system 42
+General information #2
+28
+
+F0l1MﬂﬂCUULlEEZONLY
+Subfamily Hyoxocephalinae
+Hyoxocephslini tribe
+Genus Hyoxocephalus
+Genus Megalocottus
+Genus Triglopsis
+Microcottini tribe
+Genus Hicrocottus
+Genus Porocottus
+Genus Argyrocottus
+Taurocottini tribe
+Genus Taurocottus
+Genus Tricbocottus
+Enophryini tribe
+Genus EnOphrys
+Genus Aspicottus
+Genus Taurulus
+Genus Micrenophrys
+Subfanily Artediellinae
+Genus Artediellus
+Genus Artedielloides
+Genus Artediellichthys
+Genus Artediellina
+Genus Zesticelua
+Genus Cottiusculus
+Chapter 3. Morphological Validation of Subfamilies Hyoxocephalinae and
+Artediellinae, and Their Place in the System
+1. History of the question and classification of A. Ya. Taranets
+2. Seisnosensory system
+3. Skull
+a. Sensory canals of cranial bones and structure of frontal bones
+b. Myodone
+c. Some other distinctions of cranial morphology
+4. Thoracic cingulum and axial skeleton
+5. External morphology .
+a. Structure of some visceral bones of the head
+b. Fins
+c. Nasal and preopercular spines
+d. Granulation of membrane bones
+e. Osseous investment of the bead and trunk, and appendages of
+
+the skin
+6. Coloration
+7. Biology
+
+Chapter 6. System of Hyoxocephalinae and Artediellinae
+Main changes made in the system
+Table for identifying subfamilies
+I. Subfalily Hyoxocephalinae
+Table for identifying tribes
+l. Hyoxocephaliui tribe
+Table for identifying genera
+l. Genus Hyoxocephslus
+Table for identifying species
+2. Genus Hegalocottus
+3. Genus Triglopais
+
+29
+
+FOI1DFFNJA1.USE(HVLY
+2. Hicrocottini tribe
+
+Table for identifying genera
+
+1. Genus Hicrocottus
+2. Genus Porocottus
+
+Table for identifying subgenera, species and subspecies
+
+3. Genus Argyrocottus
+3. Tsurocottini tribe
+
+Table for identifying genera
+
+l. Genus Taurocottus
+2. Genus Trichocottus
+6. Bnophryini tribe
+
+Table for identifying genera
+
+1. Genus Enophrys
+2. Genus Aspicottus
+
+Table for identifying species
+
+1. Genus Tsurulus
+2. Genus Hicrenophrys
+11. Subfamily Artediellinse
+
+Table for identifying genera
+
+l. Genus Artediellus
+
+Table for identifying subgenera, species and subspecies
+
+2. Genus Artedielloides
+
+3. Genus Artediellichthys
+
+6. Genus Artediellins
+‘ 5. Genus Zesticelus
+
+Table for identifying species
+
+1. Genus Cottiusculus
+
+Table for identifying species
+
+Chapter 5. Main Directions of Evolution of Seisnosensory Systes and
+Phylogenetic Relations in Subfanilies Hyoxocephalinae and Artediellinae
+
+Bibliography
+Index of Latin Names
+
+COPYRIGHT: Izdstel'stvo "Nauka". 1979
+
+10,657
+cso: 1860/101
+
+30
+
+FOI1HHHCJAJ.USE(INLY
+
+133
+133
+136
+135
+137
+161
+162
+162
+162
+163
+163
+166
+165
+167
+168
+169
+169
+150
+152
+153
+155
+159
+159
+160
+160
+161
+
+'161
+
+162
+
+166
+
+181
+201
+ENVIRONMENT
+
+uoc S75+S77 . 4
+
+Sverdlovsk EKOLOGIYA in Russian No 6, Nov-Dec 81 (manuscript received 21 Apr 81)
+pp 72-81
+
+[Article by R. A. Pshenichnov and Yu. V. Pashin. Institute of Ecology of Plants
+
+and Animals, Ural Scientific Center, USSR Acadeuv of Sciences; and Institute of
+General Genetics, USSR Acadsnv of Sciences]
+
+next] Basing themselves on a review of the literature and
+observation results, the authors describe the optima variants
+of bacterial test systems and validate their suitability.
+ecumy and promise as a scans for screening environmental
+mutagens. wservation results are presented. and the future
+directions of research and possible li-itations of. the nethod
+
+are noted.
+
+The spectrum of chemicals in the environnent having genetic effects changed signi-
+ficantly in recent years as a result of swift developaent of the scientific-technical
+revolution. throughout its long evolution the hunan population has been exposed to
+natural nutagens: in recent decades, however. the effects of artificially synthesised
+conpounds-wnes which the hunt: body as well as animals, plants and microorganisms
+had not encountered formerly-have assured dominance. merefore evaluation of the
+effect of mutagenic factors in the environment is acquiring imortant significance.
+and the need has arisen for developing and introducing test systaus that would per-
+unit us to reveal. among many new compounds, those which are genetically active. for
+
+determining their nutagenic potential and for predicting their effects (2).
+
+M009 dozens 0f test Objecu used to register mutagenicity, microorganisms—bacteria
+primarily-are the most sensitive and sufficiently representative. m reasons for
+this are:
+
+l) Microorganism are a constant comment of all ecosystems, and their diversity,
+abundance and contribution to the cycling of matter and energy in nature are ex-
+trenely great. Oorrespondingly a study of their gene pool and heterogenicity, as
+formed by the habitat, must become an object of constant attention and supervision.
+
+2) Microorganism have a minimum reproductive period (measured in minutes and
+hours) , and change in genotypes may be registered within a short time.
+
+31
+
+FOR OFFICIAL USE ONLY
+I'UI UI‘I'ILIAL hél‘s URL.
+
+3) Bacteria have a haploid set of chromosones, and disturbance of the genotype is
+followed ianediately by its phenotypic expression. The methods of determining
+
+change in phenotype are rather diverse. As a rule they are sisple and practicable.
+
+4) Many years of experience in testing hundreds of diverse chemical mutagens have
+revealed a high degree of correlation in their action upon ma preparations and
+
+upon genetic structures in cultured cells, plants, animals, man and microorganisms
+(7,8,17) .
+
+It should be noted that the principal achievements of modern solecular genetics have
+involved microorganisms . and primarily bacteria: therefore all data on genetic events
+occurring in bacteria contain a large amount of information.
+
+Moreover bacterial tests are relatively inexpensive to run, they can be carried out
+in large mmbers, and therefore they may be used extensively in various screening
+programs. 'mey can be used to detect gene mutations, owing to which rare events
+can be revealed in large populations within a short testing time. Point or gene
+mutations that significantly influence the sire of the so-called "genetic load“
+affect only a small part of a gene (about one or two pairs of a total of about
+1,000 pairs of bases raking up a gene). Substitution, addition or deletion of bases
+is what usually occurs. Point mutations are usually registered in bacteria as re-
+verse mutations, in which case a specific mutant allele say be reverted by substi-
+tuting one pair of bases by another, while a mutation associated with shifting of the
+“reading framemrk" may be reverted by shifting the “reading framework.“ M types
+of similar cells are used in mutagenicity tests: 1) cells with a normal nus repair
+mechanism and 2) cells in which one or several steps of the damaged DNA restoration
+pathway are absent.
+
+The simplest classical test is performed in Petri dishes seeded with test cultures
+of Escherichia coli (44) or Salmonella typhimurlum (12, 14). no substance to be
+tested is applied to the center of each of these dishes, thus creating a gradient
+
+in its concentration from the center to the rim. If the substance turns out to be
+nutagenic a ring of induced mutants forms about it. In this case predominant death
+of strains with a defective repair mechanism would indicate that a reaction had
+occurred with cellular sun, and consequently that the given substance is genetically
+active. An important prerequisite of these tests is that the substance to be tested
+must be able to diffuse in agar. If it does not diffuse, the indicator straixp say
+be processed with different concentrations of suspensions of the substance. For
+practical purposes no difficulties arise with water-soluble eoapounde.
+
+since Ames' first works were published. test strains have undergone continual im-
+provement through the introduction of additional mutations (for maple ones which
+can reveal defects in the polysaccharide mesbrane of a cell that increase its per-
+meability, and defects in the repair system) and through introduction of episomes.
+use of lysogenic cultures and so on, making them more sensitive than wild strains.
+my over 40 strains of S. typhimuriun. 40 of E. coli and about 10 of Bacillus
+subtilis are used for genetic screening: however, only the 20 or so strains shown
+in the table below have practical significance.
+
+32
+
+FOR OFFICIAL USE ONLY
+General Characteristics of Bacterial Strains Used Most often in Genetic
+Screening (Brusick et al., 1976; 7, 8, 52, etc_.2'
+
+  
+ 
+     
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+“amuse (2) 11:32,“. Beams-HI m:
+upraulna more
+u ocuoauol "Mill ”canteens
+nynuuu (We)
+Salmonella TA- ISM (llys om) uvr B R — FS
+lyphimun'um TA- I530 R — BPS
+(hys' — hys') IA~I535 (by: Go.) Ila. uvr B R— BPS
+muses R — FS
+114538 (by: 0w) rl’a. an 8 R— FS
+TA-l960 (bye O.) my 8 R — BPS
+TA-Iw R - BPS
+11-98 R -- FS
+Escherichia pol A-
+rala' WP. R - BPS
+llr)" —arg ’) WP; on A' R — BPS
+("E-‘3'Z'l KI: ’80, us FM
+CM“. R — BPS
+CM“: R - BPS
+wane/Pam ER
+Bacillus Hl7 Rec' l Hnmdepoeauae
+sublilis . $45 Rec (5) pocn
+
+ 
+
+ 
+
+‘Synbols: hys—histidine: try-ntryptophan;
+arguarginine; rfawnutation increasing cell
+wall permeability due to defects in the poly-
+saccharide layer: uvr—Iutations causing dis-
+turbance of excisional repair; R-reverse
+mutation; BPS-«base pair substitution; P8-
+"reading framework” shift: lib-forward nuta-
+tions; BR—excisional repair; mc’ureocnbina-
+tion insufficiency.
+
+Key:
+1. Organism and principal mutation 4. Revealed type of Iutational change
+2. Strain (effect)
+3. Additional mutation 5. Growth inhibition
+
+Because of the high specificity of the test strains. cases may occur in vhich mutagens
+are incapable of inducing detectable types of reversions, and therefore the need for
+
+constantly seeking and expanding the set of strains with different mtation mechanism:
+is obvious.
+
+In contrast to nutagenic factors such as ionizing radiation and ultraviolet eniesions.
+
+chenical coapounds undergo complex metabolic biodegradation on entering the organism.
+In this case nutagens nay transforn into inactive cowounds, while on the other hand
+
+genetically inactive Substances (indirect nutagens) may acquire nutagenic properties.
+'me metabolic pathways of xenobiotic substances may vary in some ways, but the Iain
+
+role in their biological transformation is played by cytochrome P450, an element of
+
+33
+
+FOROFFICIALUSBONLY
+I'UK Ul’l'l‘ IAI. USE. URL!
+
+the mono-oxygenase system associated with intracellular membranes. This system can
+
+be found in a number of microbial species, insects, amphibians, fish, reptiles, higher
+plants, birds and manuals.
+
+Grin and Goldberger (l) erphasized the biochemical universality of the operation of
+this system, which is responsible for oxidation of lipid-soluble xenobiotic substances
+and for their conversion into readily excreted hydrophilic compounds. It is an im-
+
+portant component of more-general systems responsible for inmmnochemical homeostasis
+(3). Therefore metabolic activation of the tested substance, which may be done
+
+in viva or in vitm, is a mandatory stage of genetic testing. In the former case the
+
+would be the recipient media method), after which it acts upon test microorganisms
+injected into the abdominal cavity, circulatory system or testicles of the recipient.
+Indicator cells processed in this fashion are removed and analyzed by a particular
+method. Indicator microorganisms have alsobeen found useful for revealing the ways
+of penetration, dissemination and elimination of mutagens with biological fluids—
+the urine and blood of animals processed by premutagens. However, the latter
+
+The "recipient medium" method is not'broadly accepted owing to the need for admini-
+
+stering large doses of the tested substances, its expensiveness and other reasons
+such as nonuniform distribution of the active substance in the body and tissue-specific
+activation or deactivation of the mutagen. An infectious process may arise in manuals
+given a significant number of test strain bacteria when the recipient is sick, and
+so on. But even if the recipient remains outwardly healthy. in this case the bacterial
+
+test strains would be subjected to the strong influence of the host's protective
+mechanisms.
+
+The method of metabolic activation by microsomal enzymes in vim has enjoyed the
+
+broadest acceptance. Considering the biological universality of the mono-oxygenase
+system in relation to metabolism of xenobiotic substances, the appropriate enzymatic
+
+preparation may be obtained from the tissues of mice, rabbits, rats, Chinese hamsters,
+dogs, guinea pigs, rhesus monkeys, baboons and man (32,36). Although mono-oxygenase
+activity is typical of most organs rich in epithelial cells (stomach, intestine,
+kidneys, lungs, skin) , the comenly accepted and proven source of enzyme preparation
+is liver tissue, which is responsible for more than 90 percent of xenobiotic meta-
+bolism. Liver tissue from sexually mature Histar line male rats is used most often
+for this purpose.
+
+Although microsomal enzymatic activity is inherent to all healthy organisms, it may
+be subjected to additional induction and activation by chemical substances present
+in food and the environment or introduced into the organism by artificial means. It
+increases when a large nuber of drugs, food additives, salts of heavy metals, poly-
+cyclic hydrocarbons, pesticides and other compounds enter the body. For practical
+purposes microsomal oxygenases may be induced successfully with sodium phenobarbital,
+arokhlor, luminal, diazepam and other substances, which are administered intraperi-
+toneally or per 08 for 3-5 days prior to dissection of the animals (18, 31, etc.).
+
+Sampled liver tissue is homogenized at a temperature close to 0', and the obtained
+preparation is used within the first 2 hours.
+
+34
+
+FOR OFFICIAL USE ONLY
+Substances to be tested may be metabolically activated by imobilizing the microsomal
+preparation and the necessary cofactors in agar, or by processing the test strains
+with a suspension of the substance to be tested (13,33). There may also be cases
+
+in which a mutagen cannot be detected (for exasple a chemical substance may be
+metabolized not by liver enzymes but by intestinal microflora: the active metabolite
+may be too unstable to achieve an effective concentration: there may be strongly
+
+study most representatives of all classes of chemical cospounds. They have been
+found to be convenient and effective in revealing the genetic activity of hydro-
+carbons, their derivatives, drugs, nitro derivatives, nitrogenous bases, nucleotides.
+nucleosides, salts of heavy metals, inorganic substances, steroids, low molecular
+weight organic substances, pesticides, herbicides, defoliants, complex mutagens,
+natural physical factors and so on. may include widespread and rarely encountered
+compounds, and comnonly accepted and 'exotic" substances-~foodstuffs, food additives,
+cosmetic dyes, meat curing fluids, fungal toxins, meadow grass extracts, alcohols,
+
+waste water, tobacco smoke components, narcotics, and even the combustion products
+of labdanum and church incense.
+
+We may assert from an analysis of 1,015 works that authors have used the following
+models with increasing frequency for genetic control: Cytogenic tests in man, tests
+run on blood cells, experiments with plants, primary and transplanted animal cell
+cultures, DNA preparations and microorganisms, correspondingly in 5.9, 6.4, 7.5,
+15.2, 16.4, 17.2 and 31.3 percent of the works.‘
+
+The authors selected microbial test systems from practically a third of all of these
+works in order to evaluate their genetic effect, and owing to their simplicity,
+practicability and quickness they were able to evaluate 34, 101, 465 and 855 different
+compounds in comparable observations within a short period of time (30,50,43,3S).
+
+A tremendous amount of facts were accumulated, facts which can and must become the
+basis for making the corresponding conclusions and recon-endations on the most
+suitable use of bacterial tests and for imposing limitations on the use of these
+methods. These issues were discussed specially in 1978 in Arlington (USA) and
+Dortmund (PRC), in May 1979 in Banbury (USA), in November 1980 in Ottawa (Canada)
+and elsewhere. The resulting recommendations have already found their way into some
+national programs (19,24,49,SS). -
+
+The International Commission on Protection from Environmental Mutagens and Carcinogens
+(ICPEMC) and the Environmental mtagen Information Center (ERIC), created in 1977,
+
+are making a major contribution to the creation and standardization of quick screening
+test systems. In all recomendations and adopted programs, evaluation of the muta-
+
+municity of chemical compounds using bacterial test systems is the first and mandatory
+stage of analysis. The following are also reccumended:
+
+ 
+
+"these percentages are the result of an analysis of the principal Soviet and
+foreign publications of 1979-1980, including those in the abstract card index
+
+'Mutagenic Effects of Chemical Factors“ published by the Biology Division of
+the All-Union Institute of Scientific and 'Dechnical Information.
+
+35
+
+FOR OFFICIAL USE ONLY
+I‘UK UDI'llJAL bar. UNLI
+
+i) using a single set of test strains--TA-1535, TIA-1537, Tit-1538, TA-98, Tit-100 and
+Sulntmella typhimriun. and periodically verifying their genotype;
+
+2) working with bacterial cultures undergoing logarithmic growth at a density of
+1-2-10" cells/ml;
+
+3) using the 5-9 microsomal fraction from the liver of activated rats, preparing
+fresh preparation each time or developing reliable methods of stabilizing prepara-
+tions;
+
+4) testing the spontaneous Instability of test strains and performing control tests
+with known direct and potential mutagensz
+
+S) considering the toxicity of the substance to be tested;
+0) determining the dose-effect curve;
+
+7) in the concluding stage it would also be desirable to document the results in a
+computer program, which would be the formal recording unit and the basis for the
+
+program of further tests (21).
+
+It should be noted that most of these recomendations were taken into account in the
+methodological directives "A Test System for Evaluating the Hutagenic Activity of
+Environmental Contaminants Using Salmonella" (8). Timely publication of these
+directives played a major role in standardization and development of work in the
+Soviet Union. The following may be regarded as unsolved problems hindering intro-
+duction of bacterial test systems:
+
+the need for creating a single collection of lyophilized test strain cultures:
+development and industrial production of dry microsomal fraction preparations;
+
+production of a single standardized outfit containing everything needed for control
+of substances using bacterial test systems.
+
+The first of these tasks is being worked on by the Institute of Ecology of Plants
+and Animals of the USSR Academy of Sciences Ural Scientific Center, which has
+developed the processes and created a collection of lyophilized Salmonella typhi-
+muriun cultures suited to long-term storage, transportation and use anywhere. It
+has been demonstrated that lyophilization promotes long—term (more than a year)
+preservation of the properties of indicator strains.
+
+Researchers have traveled different paths in their search for a stable microsomal
+fraction. The possibility for long-term storage of this fraction at supeer temper-
+atures on the order of —l93’C has been demonstrated (16). However, such long storage
+and transportation of the preparation were associated with certain difficulties,
+
+and thus this approach has not enjoyed widespread acceptance. me Institute of
+Ecology of Plants and Animals of the USSR Academy of Sciences Ural Scientific Center
+has developed a semi-industrial method of making lyophilized capsulated microsomal
+fraction preparation not imposing special requirements on storage and transportation
+and maintaining its enzymatic activity for more than a year (the time of observation).
+Industrial production of the preparation is planned to begin in 1982.
+
+36
+
+FOR OFFICIAL USE ONLY
+Hence we arrive at a possibility for creating a single cosplex which would include,
+besides lyophilized indicator cultures of test bacteria and dry microsomal prepara-
+tion, a complete set of reagents and standard mutagens necessary for positive con-
+trol. Creation of such a preparation outfit and broad introduction of bacterial
+test systems are among the priority tasks of the genetic control service.
+
+There are other problems requiring immediate solution as well. As of today more
+than 3.5 million different chemical compounds are known, and each year up to 80,000
+more are synthesized, Of which 30.000 are produced on an industrial scale. A
+selective study has shown that about 20 percent of them exhibit some level of
+
+genetic activity (2,54). Naturally we could hardly expect testing of all of them
+in the foreseeable future.
+
+We also know that in natural conditions these substances act upon the bodies of man
+and animals, plants and microorganisms not in isolation but as various combinations,
+with the ingredients present in different concentrations. This means that oo-muta-
+genic action (activation of potential mutagens by nonmtagenic substances) and the
+effects of summation, amplification or attenuation are possible (15,25,27,37,4S,56).
+A large number of observations have shown that temperature fluctuations, the action
+of electric and magnetic fields, light-induced activation, and the composition of
+the medium in which mixtures act have a certain influence on the end effect of
+mutagens (20,22,26,34,4l).
+
+Hence arises a new and great ilportant problem-development of ways for determining
+the cumulative action of mutagens in the three principal environments (air, soil,
+water). This would allow us to adopt a new, more sensible approach to organizing
+the genetic control service--primary mapping by means of smational tests, revela-
+tion of zones of high genetic danger and subsequent determination of the concrete
+causes behind this danger. For the moment we can cite only a limited number of
+studies based on this approach. They include an evaluation of the total mutagenic
+activity of soil water in the Surgut petroletm-gas region and of the waters of the
+Mississippi. and mapping of mutagens in the atmosphere above Norway (4,11). A
+similar approach would also be sensible for analyzing the possible mutagenic danger
+of multiple-ingredient local mixtures-~industrial wastes, gas exhausts and so on.
+
+In the opinion of specialists, as reflected in recomndations of a symposium of the
+Canadian Society of Geneticists, determination and quantitative evaluation of the
+action of individual mutagens or their combinations is not yet enough to allow pre-
+diction of the end results of change in the gene pool of ham, animal, plant and
+microorganism populations within the limits of a closed ecosystem, and all the more
+so an open ecosystem. We would have to agree with the opinion that the influence
+of mutagens upon a population should be evaluated on the basis of the size of the
+genetic load and the frequency of arisal of hereditary pathology (38). This is why
+increasingly greater significance has been attached in recent years to developing
+a system of genetic monitoring or surveillance of the dynamics of the genetic load
+in human, animal and plant populations inspace and in time (9,10,28,29,39,48,51).
+
+In the Soviet Union. the Interdepartmental Scientific-Technical Council on Complex
+Problems of Environmental Protection and Sensible Use of Natural Resources has fore-
+
+seen development of genetic monitoring of human populations (the Institute of General
+Genetics) and a similar system for natural bacterial populations (the Institute of
+
+37
+
+FOR OFFICIAL USE ONLY
+Ecology of Plants and Animals of the USSR Academy of Sciences Ural Scientific Center).
+The object of the observations is the ubiquitous indicator species E. 0011: came.
+Research is embracing all of the basic units of the species' natural circulation
+(healthy people, drinking water, domestic wastes, open—air water basins) and groups
+of clones isolated from industrial wastes containing a high concentration of chemical
+
+mutagens, from the cooling ponds of atomic electric power plants and from patients
+subjected to intensive antibiotic and chemotherapy.
+
+The system used to describe the gene pool of natural populations includes the
+following genetically determined and ecologically significant characteristics:
+
+a) prototrophism, or auxotrophy, with the type of trophic dependence being stated;
+b) reproduction dynamics on solid and liquid media, with Kr, td, Mm, Xm, tm and
+
+Y3 recorded; c) the possibility of utilizing basic carbohydrates and alcohols for
+development: 6) antagonism in relation to accompanying bacterial flora: e) sensi-
+tivity to bacteriocins produced by satellite microbes; f) resistance to the principal
+antibiotics, activated chlorine, ultraviolet light and so on. The obtained results
+are subjected to biometric treatment. systems analysis and computer comparison. In
+this case E. coli conmme is the indicator microbial species, and periodic analysis
+of the gene pool of its natural populations would obviously allow us to evaluate the
+
+. resulting action of anthropogenically changing natural factors and of regulatory
+mechanisms within populations (6).
+
+Summing up the published data and the results of our own observations, we should note
+at the same time that bacterial test systems, as with any other method, have their
+
+limitations. Some researchers (40,42,47) feel it ilpossible to use this approach to
+reveal all genetic damage, to test all antimicrobial agents and to reveal carcinogens
+activated by other means, apart from liver microsomes. Pull quantitative correlation
+is not always revealed in experiments using bacterial and other more-complex systems.
+
+But this does not in any way reduce the value of bacterial test systems, which are
+
+a mandatory stage of screening and the simplest, most convenient and fastest model,
+and when combined with selective tests run on animal cell cultures (5,23), they allow
+us to reveal and quantitatively evaluate the genetic effect of all substances, their
+mixtures and other environmental factors. This system has already received inter—
+national recognition, and it will enjoy even broader acceptance in the future.
+
+BIBLIOGRAPHY
+
+l. Grin, D. and Goldberger, R., "Holekulyarnyye aspekty zhizni" ['me Molecular
+Aspects of Life], Moscow, 1968.
+
+.3. Dubinin, N. P. and Pashin, Yu. V., ”Mutagenez i okruzhayushchaya sreda"
+[Mutagenesis and the Environment], Moscow, Nauka, 1978, 128 pp.
+
+3. Kovalev, 1. ‘le. and Malenkov, A. G., "the Flow of Foreign Substances: The
+Effect on Mankind,“ PRIRODA, No 9 (781), 1980, pp 90-101.
+
+4. Kolotov, V. 14., Nikolayev, A. G. and Pshenichnov, R. A., "Geomikrobiologiya
+poiska i razrabotka neftyanykh mestorozhdeniy" ['me Geomicrobiology of Exploring
+and Developing Oil Deposits], Sverdlovsk, UN'l‘s AN SSSR, 1979, pp 138-140.
+
+38
+
+FOR OFHCIAL USE ONLY
+6.
+
+7.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+Pashin, Yu. V. . 'Practicability of Modern Test Systems for Evaluating the
+Mutagcnhity of Environmental Factors," in ”Geneticheskiye posledstviya :agrya-
+
+zneniya okruzhayushchey sredy" (Genetic Consequences of Environmental Pollution],
+Moscow, 2d Edition, 1977, pp 85-88.
+
+Pshenichnov, R. A. and Maslov, Yu. 8., “Study of the Heterogenicity of Natural
+E. colt Populations as the First stage of Biological Monitoring,“ in ”Voproay
+genetiki i selektsii na Urale i v Zaural'ye (inform. naterialy)" [Problems of
+
+Genetics and Selection in the Urals and Transurals (Information Materials”,
+Sverdlovsk, Me AN SSSR, 1979, pp 22-23.
+
+Ponshteyn, L. 14., Revazova, Yu. A., and Vinkler, G. 1]., '0 nekotorykh podkhodakh
+k otscnke mtaqennoy aktivncsti lekarstvennykh preparatov' [Some Approaches to
+
+Evaluating the Mutagenic Activity of medicinal Preparations], Moscow, Nauka,
+1977, pp 42-47.
+
+Ponshteyn, 1.. PL, Kalinina, L. H., Polukhina, G. N., Abilev, S. x. and Shapiro,
+A. A. , “Test-sistena otsenki mutagennoy aktivnosti zagryazniteley sredy na sal-
+monellakh' [A Test System for Evaluating the Hutagenic Activity of Environmental
+Contaminants Using Salmonella], Moscow, VINITI, 1977, 52 pp.
+
+Khil'chevskaya, R. 1., “Possibilities of Using Morbidity Data and a Number of
+Demographic Population characteristics for the Purposes of. Genetic Monitoring,”
+in "Materialy zasedaniya Sektsii geneticheskikh aspektov v problems 'Chelovek i
+biosfera" [Proceedings of a Meeting of the Section for Genetic Aspects of the
+'Man and Biosphere“ Problem], Yerevan, 1979, pp 54-57.
+
+shirinyan, G. 5., Batikyan, G. G. and Arutyunyan, R. #1., "Principles of Popula-
+tion Monitoring for the Intensity of daemical Mutagenesis in the Armenian ssa,‘
+in ”Voprosy mlekulyarnoy kletochnoy biologii. Heterialy nauch. kont." [Pro-
+blems of Molecular Cell Biology. Scientific Conference Proceedings], Yerevan,
+1979, pp 81-82.
+
+Alfheim, I. and Holler, UL, "Mtagenicity of wig-Range Transported Atnospheric
+Aerosols,” SCI. TOTAL mach, Vol 1 , No 3, 1979, pp 275-278.
+
+Mes, B. N., "The Detection of Chemical Hutaqens With Bnteric Bacteria" in
+ltollaendor, A. (Editor), "anemicel Mutagens, Principles and Methods for Their
+Detection,” N.Y., Plenun Press, Vol 1, 1971, pp 267-282.
+
+tunes, 3. N., Durston, w. 3., Yamsaki, B. and Lee, E. D., 'Carcinogens are
+Mutagens. A simple Test Combining Liver Homogenates for Activation and Bacteria
+for Detection,” PROC. NAT. ACAD. SCI. USA, Vol 70, 1973, pp 2,281-2,285.
+
+Amos, 8. N., meann, Y. and Yanasaki, 3., ”Methods for Detecting Carcinogens
+and Mutagens with the Salmonella/mamlian-Hicroaone Hutaqenicity Test,“
+MUTATION RES., Vol 31, 1975, pp 347-364.
+
+Arisawa, Nikio, Fujiu, Moria, Suhara, Yasuji and Matuyama, Hircmi 3., “Differen-
+
+tial Hutagenicity of Reaction Products of Various Pyrazolones With Nitrite,“
+MUTATION 835., Vol 57, No 3, 1978, pp 287-296.
+
+39
+
+FOR OFFICIAL USE ONLY
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+26.
+
+27.
+
+28.
+
+Ashwood-Smith, M. J., ”Stability of Frozen Microsone Preparations for Use in the
+Anes Salmonella Mutagenicity Assay," muons 1285., V01 69, N0 1, 1980, pp 199-200.
+
+Bartelness, A., "chenical Hutagenesis in Manuals and Han," Heidelberg, Springer
+Verlag, 1970, pp 69-78.
+
+Beije, 8., Jenssen, D., Arrhenius, E. and Zetterqvist, M. A., “Isolated Liver
+
+Perfusion-a 'Dool Hutagenicity 'Desting for theEvaluation of Carcinogens," CHEM.
+BIOL. INTERACT" V01 27, No 1, 1979, pp 41-57.
+
+Braun, R. and Schoneich, J., "The nitagenicity Testing System Used in the
+German Democratic Republic,” in "Eval. Embryotoxicity, Mutagen and Carcinogen
+
+Risks in New Drugs. Proc. 3d Syrp. 'noxicol. Test. Safety New Drugs (Prague,
+1976)," Prague, 1979, pp 253-256.
+
+Chrisman, C. L. and Baumgartner, A. P., “Micronuclei in Bone-Harrow Cells of
+Mice Subjected to Hyperthernia," MUTATION £25., Vol 77, No 1, 1980, pp 95-97.
+
+Claxton, Larry and Baxter, Richard, “The Cmputer Assisted Bacterial Test for
+Nutagenesis,“ KEATION 835., V01 53, No 3, 1978, pp 345-350.
+
+Comoner, Barry, Vithayathil, Antony J., Dolara, Piero, et al., “formation of
+Huragens in Beef and Beef Extract During Cooking," SCIBNG, Vol 201, No 4359,
+1978, pp 913-916.
+
+Hollstein, lbnica, McCann, Joyce, Angelosanto, Frank A. and Nichols, Warren N.,
+“Short-mm 'Dests for Carcinogens and Hutagens," MUTATION £38., Vol 65, No 13,
+1979, pp 133-226.
+
+Ilsie, Abraham IL, O'Neill, J. Patrick and McElheny, victor K., ”Quantitative
+Hamlian Cell Hutagenesis and Hutagen Screening. A Report on Banbury
+Conference 11.," MUTATION 1135., Vol 64, No 6, 1979, pp 437-440.
+
+Ishizawa, it, Utsunomiya, T., Kinoshita, N. and ando, 1%., “Formation of Methyl-
+nitrosocyananide Prom Methquuanidine and Sodium Nitrite in simlated Gastric
+Juice and in Stonachs of Rats: Quantitative Estimation by a antagonicity Assay,"
+J. NAT. CW]! INST., V01 62, No 1, 1979, pp 71-77.
+
+Kada, Tsuneo, Morita, Kaziyoshil and Inoue, 'radashi, “Anti-mtagenic Action
+of Vegetable Factor (8) on the nitagenic Principle of Tryptophan Pyrolysate,“
+MWATION 1135., Vol 53, No 3, 1978, pp 351-353.
+
+Kada, 'l‘suneo and Kanematsu, Nobutake, ”Reduction of N-Hethyl-N'-Nitro-N—Nitro-
+soquanidine Induced Mutations by Cobalt chloride in Escherichia coli. ," ch.
+JAP. ACAD., V01 854, No S, 1978, pp 234-237.
+
+Kale, P. Y. and Baum, J. w., ”Sensitivity of Dmsophila melanogaater to Low
+Concentrations of Gaseous Hutagens," MUTATION 1238., V01 68, No l, 1979, pp 59-68.
+
+Klekowski, E. J. Jr., “Screening Aquatic Ecosystems for mtagens with Fern
+Bioassays," ENVIRON. HEALTH PBRSPBCT., Vol 28, 1978, pp 99-102.
+
+40
+
+FOR OFFICIAL USE ONLY
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+d2.
+
+43.
+
+Lijinsky, w. and Andrews, A. H., ”The Mutagenicity of Nitrosanides in Salumtella
+typhimamlun." MUTATION 1135., Vol 68, No 1, 1979, pp 1-8.
+
+Magnusson, J., Hallstron, I. and Basel, C., 'Metabolic Activation of vinyl
+Chloride in Drosophila melmogaater After Pretreatment with Inducers of Micro-
+sonal Detoxication anynes,‘ MON 165., Vol 64, No 2, 1979, pp 138-139.
+
+Haier, P., Philphot, R. it, Mohn, G. R. and Malling, H. V., ”Influence of Sub—
+cellular Fractions of Illa-alien Rates on the mtagenic Activity of Nitrofurans
+
+mward Escherichia coli. Presence of a Co-mtagen-Like Pactor,‘ mnou 1135.,
+V01 63, No 2, 1979, pp 223-243.
+
+Malling. H. V., “Comparison Between in vim and in viva Activation,‘I in “In
+vitm Metabl. Act. Hutagenesis 'nest. Proc. Sylp.," 1978, pp 143-156.
+
+McCoy, E. C., Hyman, J. and nosenkranz, H. 5., “Conversion of Environ-ental
+Pollutant to Mutagens by Visible Light," BIOCHBH. MD BIOPHYS. RES. mm”
+V01 89, No 2, 1979, pp 729-734.
+
+McMahon, Robert 8., Cline, John C. and Moon, Christine, 2., 'Assay of
+855 Test Chemical in Ten ’nester Strains Using a New Modification of the Apes
+Test for Bacterial Hutagens,“ CANCER 123., Vol 39, No 3, 1979, pp 682-693.
+
+Muller, D., Nelles, J., Deparade, B. and Arni, 9., “Studies or the Activity of
+S9-Liver Fractions Prom Various Species in the Muse mast," MTIOOI 335., Vol 64,
+No 2, 1979, pp 104-105.
+
+Nagao, Minako, Yahagi, Takie and Sugimira, Takashi, “Differences in Effects
+of Narharlan with Various Classes of Chemical mtagens and Amounts of 5-9,"
+BIOCHEM. AND BIOPHYS. RES. comm” V01 83, No 2, 1978, pp 373-378.
+
+Newcome, Howard 8., I'Problems of Assessing the Genetic Impact of nutagens on
+Man," CAN. J. 6883?. AND C2101... Vol 20, No 4, 1978, pp 459-470.
+
+Nilan, R. A., ”Potential of Plant Genetic System for Monitoring and Screening
+Hutsgens,“ BNVIIDN. mm! PERS'ECT” Vol 27, 1979, pp 181-196.
+
+Pini, L. A., Fabio, U. and Della, Cass 6., 'Considerzioni critiche e valuta-
+zione di un test nicrobiologico quale netodo di screening per sostanze poten-
+zialmente cancerogeno,” SECURITAS, Vol 63, No 5, 1978, pp 257—272.
+
+Pool, B. L., 'Nachweis der mutagegen wirkung von S-Methoxypsoralen (Bergapten),“
+ARZTL. KOSHB‘NL” Vol 9, No 6, 1979, pp 349-350, 352, 355.
+
+Rinkus, s. and Legator, M. , "Deficiencies in the Microbial Activation System for
+Mutagenic-Carcinogenic Screening,“ manor: 335., Vol 53, No 2, 1978, p 254.
+
+Rinkus, St. L. and Legator, M. 5., ”Chemical Characterization of 465 Known or
+Suspected Carcinogens and Their Correlation With Mutagenic Activity in the
+Salmonella typhimm‘un System,“ CANCER 135., Vol 39. No 9, 1979, pp 3,289—3,318.
+
+101
+
+FOR OFHCIAL USE ONLY
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+Rosonkranz, H. S., “Bacteriological Detection of Carcinogens," UHSCEIAU, Vol 74,
+1974, pp 745-747.
+
+Rosin, M. P. and Stich, H. r., “Inhibitory Effect of Reducing Agents on
+N—Acetoxy- and N-Hydroxy-Z-Acetylaninotluorens-Induced Hutagenesis,‘ (NIGER 385.,
+Vol 38, No 5. 1978, pp 1,307-1,310.
+
+Sadaie, v. and Kada. 'r., “Mapping of nee-Genes in Bacillus aubtilia,“ mu. m.
+NATL. ms'r. GENE?” Vol 23, 1972, pp 74-75.
+
+Serres, Frederik, J. de., “Strength and Weaknesses of. Microbial ‘l‘est insults for
+Predicting Human ksponse," J. mvmou. PATROL. AND IOXICOL., V01 1, No 2, 1977,
+pp 43-48.
+
+Serres, Frederik, J. de., “Introduction to Utilization of Higher Plant Systems
+as Monitors of Environmental Hutagens," mm. HEAL!!! PBRSPECT., Vol 27, 1978,
+pp 3-6.
+
+Serrcs, Frederik, J. de. and Shelby, Michael, 0., 'mcouendations on Data
+production and Analysis Using the Salmonella/Micron“: Hutagenicity Assay,"
+MUTATION RES., Vol 64, No 3, 1979, pp 159-165.
+
+sin-on, V. E. , "In Vitro Mutagenicity Assays of. Chemical Carcinogens and Related
+
+Cospounds With Salmonella typhimim," 3. NM. cancsn INST” Vol 62, No 4,
+1979, pp 893-899.
+
+Stan, R. J. and Kulesov, N. P., 'Monitorovani genetic1ych ucinku factori zivotuiho
+prostzedi v lidske populaci,” BIOL. LISTY, Vol 44, No 2, 1979, pp 81-103.
+
+Tazina, ‘l., Kada, '1'. and Murakami, A., "magenicity of Nitrofuran Derivatives
+Including Purylfuranide, a Pood Preservative,‘ mines 1235., Vol 32, 1975,
+pp 55-80.
+
+"The Foundation of the International Comission for Protection Against Environ-
+mental Mutagens and Carcinogens,‘ 8101.. ZBL., Vol 96, No 6, 1977, pp 735-736.
+
+Verschaeve, L., "Problenen van nutagenese,‘ TIJDSCHR. Gama” Vol 35, No 20,
+1979. PP 1,289-1,295.
+
+Wiekranasinghe, R. H., ”Short-mean antagonicity 'nest Systems for Detecting
+Carcinogens. Report of an International Synposiun in Dortmund," IND. ARCH.
+OCCUP. AND ENVIRON. HEALTH, Vol 44, No l, 1979, pp 61-64.
+
+Yoshida, D., Hatsumoto, 'J'. and okanoto, 8., "Interaction Between Anino-l-Carholine
+and, Amino-y-Carboline on mtagenicity in Salmonella typhimiun," mum.
+835., Vol 68, No 2, 1979, pp 175-178.
+
+COPYRIGHT: Izdatel'stvo “Nauka”, 'Bkologiya", 1981
+
+11004
+
+CSO:
+
+1840/90
+
+42
+
+FOR Ol-‘ﬁCIAL USE ONLY
+00C 581. 5+577. 391
+
+[Article by n. G. Nitantova and N. v. rulikov, Institute of Ecology of Plants
+and Animals, Ural Scientific Center, USSR Academy of Sciences]
+
+[Text] Considering the future of atomic power, the laws governing migration and
+accmulation of artificial radionuclides in oouponsnts of natural ecosystems at the
+
+locations of industrial atomic electric power plants (ass) are an namely important
+object of study. Such components say include the lover plants, representatives of
+
+which (the lichens for crawls) are capable of greater accumlation of radioactive
+and stable nuclides (3,4,8).
+
+his paper presents data on the concentration of 9 °Sr and 137Ce in the thalluses of
+the leafy epiphytic lichen Hypogynnia physodes (1..) uyl. and in a nuke: of widespread
+species of edible fungi growing in forested areas of the health protection zone of
+the Beloyarskaya m in the Central Urals: agaric-dihssula cymtha (Schm) Pr.,
+
+birch mushroom-ism soabmn (PL) 5. 9. Gray, pepper mam-Lecterns residue
+Pr., and the valuy [transliterationlnﬁuseula fastens (ha) Fr.
+
+1979. Then the material was dried and reduced to ash at ASO-SO'C. 9 08: was deter-
+mined' radiocheniteny by the presence of daughter 9 "v, and 137C: was determined
+with an AI-lZB-Z scintillation gam-spectroneter with an BOXBO Ill Kall'l‘l) crystal
+and a 24X40 In socket. The statistical error of the analyses did not exceed 10-15
+percent.
+
+*1‘he authors express t eir deep gratefulness to S. Kh. Pakhrutdinova and S. I.
+Rossolcnko for their assistance in radiometric processing of the preparations.
+
+63
+
+FOR OFFICIAL USE ONLY
+I‘M UI'I'II 0AA. Uw’l’. \ll‘I-I
+
+their concentration in the substrates. The latter indirectly confirms that the
+
+principal source of. 9°81: and 127(is taken up by epiphytic lichens is not the substrate
+upon which they grow but atmospheric precipitation and water draining trom tree
+crowns. enriched by radionuclide: to a certain degree.
+
+       
+
+316/
+§
+s2
+m.- a“)?
+14/
+I
+062212.
+
+   
+
+     
+
+Izsoso
+
+Figure 1. Concentration of 90$: (aapty Colt-Ins) and 137Cs (Cross-Hatched
+
+Columns) in Thalluses of Hypogynnia physodee and Substrates:
+1-3--lichens (1--from birch, Z—Irom pine, 3--£rom brushwood):
+
+4-6--substrates (4--birch, 5--pine, Gubrushwood)
+
+Key:
+1. Concentration, nanocuriee/kg dry weight
+
+The concentration of radionuclides in edible mushrooms was about an order of magnitude
+lower than in lichens (Figure 2), which is explained mainly by the life span of the
+objects studied. Bpiphytic lichens usually live several decades, and consequently
+they accumulate radionuclides in their thalluses for many years. The life span of the
+fruiting bodies of mushrooms is limited to several days (5). Moreover, as was noted
+above, lichens accumulate radionuclides from atmospheric precipitation and from water
+draining off of tree crowns: the principal source of radioactive products in the
+fungal mycelim is the substrate itself--that is, soil andlitter, in which" 0s: and
+Wes exist predominantly in a bound form with low mobility (2). Figure 2 also
+shows that these radionuclide: are not readily available to the fruiting bodies of
+mushrooms. He can see that the concentration of radionuclides in fungi is signifi-
+cantly lower than in the substrate. In this case the acouulation coefficients
+
+are only 0.07-0.09 for 9 0Sr and 0.18-0.22 for ‘37Cs. Consequently, given uptake
+
+oE both nuclides by the fruiting bodies of mushrooms, they are noticeably enriched
+by radioactive cesium in comparison with 9°Sr. The concentration of 9 051' and
+
+H7Cs in the caps of the fruiting bodies of some mushroom species is somewhat
+
+higher than in the stems (Figure 3). But on the whole the concentration of these
+isotopes in edible mushrooms living in the health protection zone or the Be-loyarskaya
+mas does not exceed amounts explainable by worldwide radioactive fallout, inasmuch
+as the same concentrations of radionuclides were noted for mushrooms in the Lithu-
+anian SSR (l), the m (6) and a number of other countries (7).
+
+64
+
+FOR OFFICIAL USE ONLY
+\\\W:
+
+ 
+
+g
+5
+z
+z
+z
+I
+z
+I
+I
+I
+I
+I
+I
+z
+z
+a
+z
+z
+I
+z
+I
+I
+I
+z
+I
+I
+I
+z
+I
+I
+g
+2
+
+\\\\\\\\\\\\\\\\\\\‘€
+.\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\‘:
+\\\\\\\\\\\\\\\\\\\
+
+I 2 3 ll .7
+
+Figure 2. Concentration of 9 081' (mpty Columns) and 137Cs (Cross-Hatched
+Columns) in Fruiting Bodies of Ageric Mushrooms and in Sub-
+
+strate: 1--Russula cymtha; 2-Lccc£man scabrun; 3—Lactarius
+mailman 4--I?ussula foam; 5—soi1
+
+         
+
+Key:
+1. Concentration, nsnocuries/kg dry weight
+0
+#2.
+s
+$15
+(1 z
+’312 E g
+a I §
+an: s e a
+a I 9 5
+g I I I
+ah I I I
+z x g
+g a 5 ,
+a . 4 4 4.
+I 2 3 I 2 J
+Figure 3. Concentration of 9 Os: and 137Cs in the Caps (Empty Columns) and
+Stems (Cross-notched Colums) of Mushroom Fruiting Bodies:
+J--Ruseula fastens; anRuaaula cymtha: 3--Lactartus new
+Key:
+
+1. Concentration, lNHW’C‘“?:LW/kg dry weight
+
+«'05
+
+Iron omcm. use ONLY
+I'U. UI'I'ILII‘I. DJI- Vi‘hl
+
+Thus the data presented here permit the assumption that the concentration of 908:
+
+and
+
+l”Cs in epiphytic lichens and edible agaric lushrocus in the vicinity of the
+
+Beloyarskaya ABS does not exceed the background concentration of these radionuclide:
+typical of similar plants from other habitats outside the possible influence of the
+
+ABS.
+
+7.
+
+8.
+
+BIBLIOGRAPHY
+
+mshauskene-Duzh, R. F. and Urbonas, V. A., "Migration of 2109b and 9°51: in
+Terrestrial Ecosystems,” BKOIDGIYA, No 5, 1978, pp 97-100.
+
+Kulikov, N. V. and Molchanova, I. V., "Kontinental'naya radioekelogiya"
+[Continental Radioecoloqyl. Moscow. Nauka, 1975. 184 pp.
+
+Moiseyev, A. A. ”Id Ramsayev, 9. V., “Teeny-137 v biosfere' [Cesium-137 in the
+Biosphere], lbsco'd, Amadet, 1975, pp 152-166.
+
+Nifontova, H. G. and Kulikov, N. V., "Accmulation of Strontiun-90 and
+Cesium-137 by Lichens in Nature,“ BKOIDGIYA, No 3, 1977, pp 93-96.
+
+Serzhanina. G. I. and Znitrovich, I. 1., 'Makronitsety" [lacronycetes], Minsk,
+Vysheyshaya shkola, 1978, 190 pp.
+
+Grueter, 8., "Product 13"'Cs in Mushrooms in w. Germany airing 1963-70,’ HEALTH
+PHYS.. Vol 20, No 6, 1971, pp 655-656.
+
+Haselwandter, K., ”Accumulation of the Radioactive Nuclide 137C: in Fruiting
+Bodies of Basidiouycetes," EBALTB PHYS», Vol 34, No 6, 1978, pp 713-715.
+
+Hattsson, 5., 'Radionuclides in Lichen, Reindeer and Han," Lund., 1972, 48 pp.
+
+COPYRIGHT: Izdatel'stvo 'Nauka". "Bkologiya', 1981
+
+11004
+
+CSO :
+
+1840/ 90
+
+106
+
+FOR OFFICIAL USE ONLY
+COLLABORATION OF 0.8. AND SOVIET SCIENTISTS IN LEGAL PROTECTIOQ
+OF THE ENVIRONHENT
+
+Moscow VESTNIK AKADEMII NAUK SSSR in Russian 80 8, Aug 81 (signed to press 4 Aug
+81) pp 102-109
+
+[Article by O. S. Kolbasov and H. I. Koayr', doctors of law]
+
+[Text] In the second half of the 20th century,environmental protection has
+become one of the most serious global problems, the solution of which requires
+coordinated effort on the part of all countries of the sorld.
+
+Enormous and valuable knowhow has been accumulated in the Soviet Union in the
+area of environmental protection; relevant laws have been elaborated and
+successfully implemented. The communist party and Soviet government attribute
+much importance to further intensification of measures for protection of the
+environment and devote their constant attention to this matter.
+
+Article 18 of the USSR Constitution states: "In the interests of the present
+and future generations, the necessary steps are being taken in the USSR to
+protect and make wise use, with scientific validation, of the land and its
+mineral resources, water resources, the plant and animal kingdom, to preserve
+the purity of air and water, implement reproduction of natural resources and
+improve man's environment." There is a special section in "The Main Directions
+of Economic and Social Development of the USSR in 1981-1985 and for the Period
+up to 1990," which were approved at the 26th CPSU Congress, concerning environ-
+mental protection, and in the section listing the main objectives of economic
+and social development of our nation for the future period it is stated: "There
+must be intensification of protection of nature, the land and its mineral re-
+sources, atmospheric air, water reservoirs, animal and plant kingdom. Hise
+
+use and reproduction of natural resources must be implemented."
+
+The Soviet Union is actively in favor of continued development and deepening
+of international collaboration in the area of environmental protection. Con-
+
+structive proposals on this subject are constantly offered at party congresses,
+sessions of the USSR Supreme Soviet, in speeches of Soviet representatives in
+
+various international forums.
+
+Much work on environmental protection is being pursued in the United States of
+America; considerable knowhow has been accumulated there, particularly with re-
+gard to refinement of laws and management in this area.
+
+67
+FOR'OFFKJAI.USE(HVLY
+In view of the enormous Importance and acuity of the problem, as well as the
+need to combine forces for.environmental protection, the governments of the
+USSR and United States signed an agreement on collaboration in the area of
+environmental protection on 23 Hay 1972, in Moscow.
+
+Soviet-American collaboration is directed at solving the main aspects of the
+problem of the environment and developing bases for regulating the effects of
+human endeavor on nature with, of course, consideration of the differences in
+socioeconomic and political systems of these two countries. The main aspects
+of this collaboration are: prevention of air and water (including the marine
+environment) pollution; protection of the environment against the adverse
+effects of agriculture and other industries, improvement of the ecological en-
+vironment of cities, organization of reservations, forecasting earthquakes,
+study of biological and genetic consequences of environmental pollution,
+regulation of the effects of human endeavor on climate, investigation of the
+distinctions of arctic and subarctic ecological systems, analysis of various
+legal and administrative measures to preserve the quality of the environment.
+
+One or several joint projects and collaborating organizations were assigned
+for each of the above problems. The forms of work were defined: exchange of
+scientists, specialists and trainees, as well as scientific and technical
+information, documentation and results of research, holding joint symposiums,
+conferences and meetings of experts, joint development of specific scientific
+programs, etc. The plans for such work are approved at annual meetings of
+the Soviet-American commission, which isjointly headed by the chairman of
+
+the USSR State Committee for Hydrometeorology and Control of the Environment
+and director of the Environmental Protection Agency (EPA) of the United
+States.
+
+In view of the fact that work on legal and administrative measures for environ-
+mental protection touches upon many common problems of government and law, the
+institute of Government and Law, USSR Academy of Sciences, was named as the
+chief organization for the Soviet side (since 1972, there has been a sector
+
+at this institute working on legal problems of environmental protection).
+
+The Council on Environmental Quality under the U. S. president is the chief
+organization on the American side.
+
+Since this collaboration started, there have been five 2-week conferences of
+experts (in 1973, 1976 and 1980 in the United States; in 1976 and 1978 in the
+USSR); two American specialists spent 5 months in the Soviet Union in training,
+there was regular exchange of literature and information on legislation and
+practical use thereof, consultations were offered on different questions of
+law and management in the area of environmental protection, assistance was
+given in establishing direct contact between public environment protection
+organizations of the USSR and the United States. Of course, personal meetings
+of specialists and expert conferences were also very important.
+
+At the meetings of specialists, there was discussion of such important topics
+as the correlation between international and national law in environmental
+protection, correlation between law and management on different levels (all-
+Union--fedcral, republic--state, etc., down to the level of individual enter-
+prises); legal forms of participation of the USSR and United States community
+in environmental protection.
+
+68
+
+IN)! (INHCJAI.INSEZ(NHLV
+Exchange of opinions, knowhow and information on these pressing problems,
+joint work on theoretical conceptions in the area of law and administration
+are instrumental in mutual enrichment of theory and practice on both sides,
+dissemination over the entire world of knowhow in environmental protection of
+the two large industrial countries, strengthening the spirit of mutual under-
+standing of the Soviet and American peoples.
+
+While visiting the country in which a meeting of experts is convened, the
+scientists of the other side have the opportunity to learn about environmental
+protection in the host country, the nature of activities of environment pro-
+tection organizations, the work of reservations and national parks.
+
+Thus, American specialists, who came to the Soviet Union in 1974 and 1978
+learned about the work of state agencies and public organizations concerned
+with environmental protection in Hoscow and Moscow Oblsst, Kazakh SSR, Kiev,
+Baku, Tashkent, Vladimirskaya and Rostovskaya Oblssts. In particular, they
+visited the Botanical Garden of the Institute of Botany imeni V. L. Komarov,
+Azerbaijan Academy of Sciences, the Kanevskiy Preserve and marine oil wells in
+Baku. They talked with the staff of the Presidium of the USSR Supreme Soviet,
+chairman of the Commission for Environmental Protection of the RSPSR Supreme
+Soviet and members of the Presidium of the Supreme Soviet of Azerbaijan SSR,
+representatives of the USSR Supreme Court, USSR Ministry of Justice, RSPSR
+Ministry of Agriculture, Vladmirskaya and Rostovskaya oblispolkoms, agencies
+for protection of fish reserves and supervision of hunting, administrators of
+the All-Russian and Kazakh environmental protection societies, as well as
+Rostovskaya Oblast organization of the All-Russian Society for Environmental
+Protection, etc. In 1978, an agreement was made for establishment of direct
+contact between the Ali-Russian Society for Environmental Protection and the
+American Sierra Club, and in accordance with this agreement, American public
+figures concerned with environmental protection made their first visit to the
+USSR in 1979.
+
+American specialists and public figures who visited the USSR praised the work
+conducted in our country in the area of environmental protection. Such a
+rating was reflected in the speech of (J. A- Basterud), a member of the
+Council on Environmental Quality, at the Internal Expo-76 exhibition
+
+in Spokane. Prof T.(Shoenbaum), who studied for several months the organiza-
+tional and legal measures for the protection of reserves in our country,
+published an article entitled "Protected Preserve Regions in the Soviet Union
+and United States. Comparative Aspect,“ in the AMERICAN JOURNAL OF COMPARATIVE
+LA", in 1976, where he shed light on our achievements in this area and re-
+commended that some elements of Soviet knowhow in legal regulation of protec-
+tion of reserves be used in the United States. Representatives of American
+public organizations who visited the USSR in 1979 gave a high rating to the
+statutes in the USSR Constitution pertaining to environmental protection.
+
+In turn, Soviet specialists had the opportunity of learning about organization
+and content of the work of the Council on Environmental Quality, EPA
+
+and some of its peripheral departments, the work of the U. S. congress perman-
+cni commissions, the Departments of Justice, The Interior, Agriculture, the
+Atomic Energy Commission, the U. S. Supreme Court and certain other regional and
+state courts, environmental protection organizations in Washington, New York,
+
+49
+
+Fill(ﬂﬂﬂCJAl.USE(NVLY
+Boston, San Francisco and Los Angeles. They visited Grand Ieton, Yellowstone
+and Grand Canyon National Parks, learned about the work on redeveloping land
+in the coal mines of the (Deker) Mine Company (Montana), protection of water
+and atmospheric air at the Kennecott Copper copper and molybdenum enterprise
+(Utah), and participated in seminars in Denver (Colorado) and Salt Lake City
+(Utah).
+
+The fifth conference of Soviet and American specialists on legal and adminis-
+trative aspects of environmental protection was held in December 1980, in the
+United States (Washington, Miami, Atlanta and New York). The American delega-
+tion was headed by F. Knight, who performed the duties of the chief jurist of the
+host organization, the Council on Quality Environmental. The delegation coa-
+sisted of prominent specialists: N. Yost, director of the president's working
+team for preparation of a global ecological forecast up to the year 2000, J.
+Hoorman, head of the Land and Natural Resources Division, U. S. Department of
+Justice, 0. (Widman), deputy director of the juridical service of the Dept.
+
+of the Interior, E. Greenberg, head of the juridical service of the National
+Oceanic and Atmospheric Admin. of the Dept. of Comerce, (V. Smith), chief
+economist of the EPA. N. Robinson. member of the board of directors of the
+Sierra Club, 0. Hook, vice-president of the National Wildlife Federation,
+
+(V. Futrell), president of the Institute of Environmental Law. members of
+
+different departments and agencies, K. (Hall), 3. (Bramble). G. (Osherenko)
+and D. (Shay) .
+
+The Soviet delegation included 0. S. Kolbasov (head), H. I. Kozyr', Yu. S.
+Shemshuchenko, A. M. Kaverin and Yu. A. Starikov.
+
+in his opening remarks at the conference, E. Knight stressed the fact that
+collaboration of the United States and the USSR on a very difficult problem
+affecting the interests of all countries of the world-~environmental protection--
+was quite fruitful.
+
+0. S. Kolbasov noted the importance of Soviet-American collaboration in the
+area of environmental protection, indicating its place and role in the system
+of measures to preserve peace, improve the general political climate, as well
+as living conditions. He informed the audience of measures implemented in
+recent years in the USSR to protect the environment and stressed that a very
+important place is given to environmental protection in the draft of the "Main
+Directions of Economic and Social Development of the USSR in 1981-1985 and
+
+for the Period up to 1990."
+
+During the meeting, Soviet and American specialists discussed issues related to
+the need and mandatory nature of considering ecological aspects and questions
+pertaining to the environment in elaborating construction plans, with analysis
+of the role in this process of the U. 3. EPA and analogOus state organizations.
+In particular, determination was made of the extent to which this agency takes
+into consideration economic factors in making decisions related to environmental
+protection. We sensed a concern on the part of the agency with the fact that
+the supposedly strict laws, as well as EPA rules for environmental protection,
+which supposedly held back development of the economy were submitted to ex-
+cessive criticism during the period of the pre-election campaign in the United
+
+50
+
+FOR OFFICIAL USE ONLY
+Status in l980, and the opinion was voiced that it was necessary to strictly
+
+“straighten out" the EPA officials and reduce expenses for environmental
+proteCtlon.
+
+During the meeting there was also comprehensive discussion of global environmental
+prorection, international mechanisms of assessing the environment and problems
+of environmental protection in the entire world.
+
+American specialists acquainted the Soviet scientists with an abstract published
+
+in July 1980 of a report to the president of the United States, which contained
+an ecological forecast for the year 2000.
+
+In the opinion of the authors of the report, in the year 2000 earth's
+population will be 6.35 billion, and 901 of the population growth will
+occur in developing countries. By that time, foodstuff production
+will almost double; however, the increase per capita will be less
+
+than isz. There will be an even greater discrepancy between the
+economic welfare of the people of developed and developing countries:
+industrially developed countries (one-quarter of the world's popula-
+tion) will, as before, consume three-quarters of the worldwide
+
+mineral resources. A water shortage will increase in some parts of
+the world. There will be a 50% decrease (per capita) in stock of
+growing timber of commercial size; in developing countries, about 40%
+of the remaining forests will be removed. In view of the serious
+changes in living conditions, perhaps up to 201 of the existing species
+of animals and plants will disappear forever. It is expected that the
+atmospheric concentration of nitrogen dioxide and other chemicals that
+destroy ozone will increase at such a rate that they will alter appre-
+ciably earth's climate by the year 2050. In spite of the fact that
+an increasing effort is being applied at the present time to protect
+the environment, in the opinion of the authors of this report this
+
+is obviously insufficient and cannot alter the negative ecological
+trends. At the same time, the authors did not take into considera-
+tion the real economic and political difficulties that prevent people
+from forming their relations with nature more wisely, and this in-
+creases even more the seriousness of the looming problems.
+
+No concrete plan of actions was advanced in this report to correct the ecologi-
+cal situation (work ls not yet finished on the third volume thereof, which
+contains recommendations on models of behavior of U. 8. management in implementa-
+tion of ecological policies). It merely offers general recommendations: to
+display more initiative in solving ecological problems, elaborate global
+complex and long-term programstafenvironmental protection that should "inaugurate
+an era of unprecedented collaboration andselflesaness" of all peoples of the
+world. The authors of this report maintain that, at the present time, all
+
+of the opportunities are available, as well as weighty grounds for the United
+States to become a world leader in the movement for environmental protection.
+
+Soviet specialists found the report quite interesting and considered that its
+material merited careful investigation. At the same time, they stressed the
+fact that so long as there is a real threat of thermonuclear war because of
+
+51
+
+FOR OFFICIAL USE ONLY
+thusr who oppose detente, and there is intensification of the arms race, it is
+difficult and unrealistic to speakabout"unprecedented international collabora-
+tion" in the area of environmental protection. As for leadership of the
+United States in the international environmental protection movement, it could
+be accepted by the international community only if it is implemented with no
+detriment to and not at the expense ofother nations, if it becomes a leader-
+ship through good examples and assistance to needy nations.
+
+The scientific papers delivered by members of the Soviet delegation offered in-
+depth and comprehensive analysis of different aspects of existing Soviet
+legislation for environmental protection, including preventive measures, and
+
+it was noted that questions of environmental protection are taken into compre-
+hensive consideration in our country in preparing construction plans, and that
+a thorough ecological expert evaluation is made of such plans. The speakers
+gave detailed information on the content of new Soviet laws on protection of at-
+mospheric air, protection and use of the animal kingdom; they told about the
+procedures for planning wise use of natural resources and environmental protec—
+tion in the area of agriculture, the juridical guarantees for land protec-
+tion and improvement of soil fertility.
+
+The American participants displayed much interest in the information about deve-
+lopment and use of laws for environmental protection in the USSR, and voiced
+their interest in strengthening Soviet-American collaboration in the area of
+environmental protection.
+
+During their stay in the United States, the Soviet specialists had comprehensive
+talks with American specialists dealing with legal and administrative problems
+
+of environmental protection in the USSR and United States, the EPA, U.S. Depart-
+ments of The Interior, Commerce and Justice, as well as at the Kennan Institute
+and Institute of Environmental Law in Washington. They discussed with M. (Hilkie),
+a member of the Federal Court of Appeals of the District of Columbia, the question
+of the role of U. S. courts in the area of environmental law. They had talks
+
+with government officials of several states and some local agencies on the
+effectiveness of using federal and state laws, rules and procedures for environ-
+mental protection, with representatives of U. 5. public organizations concerned
+with environmental protection, in particular, with activists of the Sierra Club
+and National Wildlife Federation, as well as prominent practicing
+
+juriSts concerned with legal problems of environmental protection and professors
+on the faculty of law at Pace University.
+
+The members of the Soviet delegation visited the national Everglades preserve,
+a farm near Miami (Florida), a heat and electric power plant and regional
+department of the EPA in Atlanta, the department for environmental protection
+of the state of New York, a gas plant near Calvert Cliffs (Maryland) and were
+received the Mayor of Greenburg, New York.
+
+During these meetings, American figures in the area of environmental protection
+displayed much interest in Soviet knowhow and praised it highly. Thus, J. H.
+Moorman, assistant attorney general; Land and Natural Resources Division, Dept.
+
+of Justice, voiced his admiration to Soviet specialists for setting up well the job
+of protecting the environment in the USSR; in several of his speeches Prof
+
+52
+
+FOR OFFICIAL USE ONLY
+N.A. Robinson rated highly the collaboration between the Soviet Union and the United
+
+States. with reference to legal and administrative problems of environmental
+protection, repeatedly citing articles 18 and S8 of the USSR Constitution as a
+model of responsible attitude toward environmental protection, calling for
+further expansion of collaboration in this area. The major American special-
+ists, N. Yost and 0. Hook, made similar statements.
+
+How can one assess the current status of American law and government, and their
+role in environmental protection?
+
+in the opinion of Soviet specialists, some progress in legal protection of
+atmospheric air and coastal zones of adjacent seas has been made in the United
+States in the last decade (in previous years, there were mainly measures to
+protect waters and regulate land use on the basis of territorial zoning).
+
+Worthy of especially careful study is. in our opinion. the effective use in the
+United States of a new legal institution. "Declarations on Effects on the
+Environment," referable to construction of various industrial projects and
+facilities (gas and pipe lines. dams. hydroelectric power stations. irriga-
+tion canals, etc.). which is a rather powerful means of preventive control
+[inspection] that American specialists believe helped increase significantly
+the ecological validation of management decisions avoid mistakes and improve
+effectiveness of environmental protection. The American specialists recomend
+the use of this form by other countries, as wall as in international relations.
+
+This system of preliminary ecological control is implemented in industry in
+accordance with the Law on National Policy in the Area of Environmental
+Protection (January 1970) and analogous laws in certain states. The
+
+laws stipulate that, at specific times prior to construction and remodeling of
+enterprises and other economic facilities, the entrepreneurs and state agencies
+must make a public "declaration on effects on the environment" of these instal-
+lations. The contenaaof the declaration are analyzed for a specific time by
+state inspection [control] agencies, public organizations and the local public,
+who can voice objections for ecological reasons against a particular project
+
+as a whole, propose alternative variants or corrections to the plan. Entre-
+preneurs and state agencies must examine the corrections and, within a specific
+time, annoance whether they are accepted or rejected. If the authors of the
+comments and proposals are not satisfied with the results of this examination.
+they can file suit to force implementation of their suggestions. To date,
+several tens of thousands of declarations on effects on the environment have
+been examined on different levels of the American governmental structure; up to
+52 of them have been disputed in the courts.
+
+However, by far not all of the important aspects of legal environmental protec-
+tion in the United States could be studied during the years of collaboration.
+There is still a need for deeper investigation of the system, functions and
+interaction in environmental protection of American state agencies, which
+include, in particular, the U. S. Department of Justice, Council on Environmental
+Quality under the U. S. president and the Environmental Protection
+
+Agency.
+
+The system of preventive environmental protective measures in U. S. agriculture,
+as well as the adverse effect of industrialization and particularly use of
+
+53
+
+FOR OFFICIAL USE ONLY
+chemistry in agriculture on the environment have not been adequately studied
+either.
+
+it is of great interest to Soviet jurists-~scientists and practitionera-to
+study the practice of examining environmental protection cases in the American
+courts and to analyze measures of liability [as to property] for the detriment
+to the environment (for example, fines of $25,000 for each day of violation).
+
+international environmental protection measures of the United States, their
+
+place in the general policy of this state, as it applies to different parts of
+the world as a whole, but particularly as it relates to food aid for develop-
+ing countries, also merits investigation. Finally, we must also study the as-
+
+pects of American theory and practice that are related to development of inter-
+national environmental laws.
+
+As for assessment of the current status of Soviet-American collaboration in
+law and administrative problems of environmental protection, it was formulated
+as follows in the summary minutes of the meeting: "Both sides observed that
+the fifth meeting was successful and that there was satisfactory exchange of
+information and knowhow. The specialists conceded that there is a need to
+continue with the exchange of opinions, information and documents, and observed
+that collaboration on environmental issues on a worldwide scale is very
+important and merits increasing attention."
+
+The minutes also formulated the main directions of collaboration in 1981-1982.
+As before, there will be continued exchange of information and opinions concern-
+ing elaboration and use of legislation on environmental protection in the USSR
+and United States. There will be continued exchange of information about
+research and evaluation of effects on the environment, both within each nation
+and on earth as a whole, abOut comparison of economic factors to environmental
+factors, implementation of laws pertaining to the environment. Exchange of
+scientists and students concerned with legal and administrative aspects of
+environmental protection will be continued.
+
+It was also decided to examine the question of the means of future collaboration
+of the USSR and United States in the area of long-term problems of environmental
+protection and wise use of natural resources on an international scale.
+
+It is planned to discuss all these problems at the sixth meeting of Soviet and
+American specialists, which is to be held in the USSR in 1982.
+
+The participants at the meeting agreed to explore the possibility of joint
+preparation and publication in both countries of a collection of articles
+dealing with evaluation of environmental protection on the national and inter-
+national levels, use of legislation, as well as analysis of administrative
+measures in the area of environmental protection that are being implemented
+
+in the USSR and United States.
+
+With reference to the results of 9-year Soviet-American collaboration on legal
+and administrative problems of environmental protection, it should be noted
+that the main achievement was deeper knowledge of theory and practice of legal
+regulation in the area of environmental protection, in both countries and in
+the system of international law.
+
+56
+
+FOR OFFICIAL USE ONLY
+Aside from its direct professional usefulness. collaboration was instrumental
+in maintaining a spirit of trust and mutual understanding betueen the Soviet
+and American people.
+
+COPYRIGHT: Izdatel'stvo "Nauka", "Veatnik Akadenii nsuk SSSR”, 1981
+
+10,657
+CSO: 1840/120
+
+55
+
+FOI‘OFINCJAI.USE(NVLY
+MEDICINE
+
+UDC: 613.644
+LOU-FREQUENCY ACOUSTIC VIBRATIONS IN INDUSTRY
+
+Hoscow HIZKDCHASTOTHYYE AKUSTICHESKIYE KOLEBAHIYA HA PROIZVODSTVE in Russian
+1981 (signed to press 22 Aug 80) pp 2-5, 190-191
+
+[Annotation,, introduction and table of contents from book "Low—Frequency
+Acoustic Vibrations in Industry“ by Nadezhda Ivanovna Karpova and Eduard
+Hikolayevich Halyshev, Izdatel'stvo "Heditsina", 1266 copies, 192 pages]
+
+[Text] This monograph is concerned with hygienic evaluation of infrasonic
+
+waves in industry, their biological effects on man and animals, and prevention
+
+of their deleterious effects. For the first time, information is systematised
+concerning the physical nature and distinctions of infrasonic waves. Techniques
+are described for measurement and estimation of infrasound in industry. Hethoda
+are discussed for conducting tests on man and experiments on animals to study
+reactions to low-frequency vibrations. The authors' own data, as well as
+
+those of the staff of the Department of Industrial Hygiene, Leningrad Hedical
+Institute of Sanitation and Hygiene, obtained using modern investigative
+
+methods, which describe the influence of industrial parameters of subsonic
+vibration on the subjective state of man and functional changes occurring in
+
+the central nervous, cardiovascular and respiratory systems, as well as analyzers
+and viscera are presented. Special attention is given to the approach to setting
+standards of subsonic vibrations in industry. In conclusion, measures are listed
+for the prevention of the deleterious effects of industrial infrasonic waves of
+specific parameters and medical preventive measures. This aonograph fills a gap in
+the literature, since there are no such works either in our country or abroad. It
+is intended for industrial hygienists, occupational pathologists, industrial
+health inspectors [physicians], engineering and technical workers, as well as
+other specialists concerned with the study of industrial noise, control of noise
+and infrasonic waves.
+
+Introduction
+
+The decisions of the 25th CPSU Congress provide for further improvement of work-
+ing conditions that would be instrumental in lowering morbidity and increasing
+labor productivity in all sectors of industry.
+
+Intensive scientific and technological progress is leading to development of
+high-power equipment and sachines. However, operation of such equipment is
+not infrequently associated with considerable noise. Infrasound, which did
+not attract the attention of scientists for a long time, is a constant companion
+
+of noise.
+
+S6
+
+F‘ll(ﬂﬂﬁC1Al.lEﬂi(MVLY
+Infrasound varying in intensity and frequency is always present in our environ-
+ment, particularly in large cities with well-developed industry and intensive
+
+transportation. Han may be exposed to low-frequency sonic vibrations at work
+and at rest.
+
+There are natural sources of infrasound. Many natural phenomena, such as earth-
+quakes. eruptions of volcanoes, thunder, landslides, hurricanes, storms at see,
+large waterfalls, aurora borealis, generate infrasonic waves. In addition to
+natural sources, more and more often man is exposed to increasing levels of
+
+infrasound occurring in industry and transportation as a concomitant factor of
+technological processes.
+
+lnfrasonic waves are formed during operation of compressors, turbines, diesel
+engines, electric locomotives, air-conditioning systems, commercial fans and
+other large machines and equipment.
+
+with the development of technology. machines are appearing that are large in
+size, operating at high speed and high power, whose function is associated with
+excitation of intensive lowarequency sonic waves. Modern technology is
+
+increasing the noise background in industry, which has a broad spectrum and
+increasing intensity.
+
+Various forms of transportation are also artificial sources of infrasound:
+seafaring. railroad, aviation, including jet aircraft and the high-power
+engines used in space flights (R. H. Stephens, 1969, 1974; H. Tempest, 1971).
+Men's exploration of space generates noise during launchings that has maximum
+energy in the low-frequency part of the spectrum, in the range_of l to 100 Hz.
+lnfrasonic vibrations are not only a component, but in many cases the pre-
+vaillng part of spectra of industrial noises. At the present time, the effects
+
+of industrial noise in the acoustic range of frequencies on man have been studied
+rather well.
+
+There is extremely little information in the Soviet and foreign literature about
+the biological effects of low-frequency vibrations. The data in the literature
+are disparate and often contradictory. There are few sources with systematized
+data on the biological effects of infrasound.
+
+Studies have revealed that man is sensitive to low-frequency vibrations and
+compel us to admit that the problem of studying the effect of infrasound on
+man merits the very closest attention.
+
+Infrusound may be one of the deleterious factors of the industrial environment.
+Curtain levelsofinfrasound may be deleterious to human health. It affects
+the entire human body, man's health and work capacity.
+
+Most workers in modern industry and transportation are exposed to such a little-
+studied factor as infrasound. This puts to industrial hygienists the task of
+comprehensive investigation of the distinctions of its biological action in order
+to determine the degree of harm of low-frequency sonic vibrations, set hygienic
+standards and elaborate measures to eliminate the deleterious effects of some
+parameters of low-frequency vibrations on workers.
+
+57
+
+Ftﬂl(lﬂﬂ(1Al.U881MNLY
+Because of the distinctions of propagation of infrasonic waves and their dif-
+ference from audible vibrations, the study of biological effects of infrasound
+requires new methodological approaches to set the scientifically substantiated
+rungc of permissible levels of infrasonic pressure and develop optimum amelio-
+rativc measures. It is very important to determine the threshold intensity of
+infrasound with acute and chronic exposure to it, as well as to demonstrate the
+physiological mechanisms of the body's reactions to infrasound.
+
+The objective of this book is to acquaint the reader with infrasound as a dele-
+terious factor of the industrial environment; as well as experimental data
+from studies of biological effects of infrasound of industrial parameters on
+animals and man.
+
+This work summarizes the knowhow of Soviet and foreign authors in the area of
+studying the biological effects of low—frequency vibrations, as well as the
+results of studies conducted by the authors and staff members of the Department of
+Industrial Hygiene of the Leningrad Medical Institute of Sanitation and Hygiene
+and Department of Industrial Safety of the Leningrad Institute of Railroad
+Engineers.
+
+It is imperative to widen the front of scientific research in this interesting
+branch of science.
+
+CONTENTS Page
+Introduction 3
+Chapter 1. Physical Characteristics and Distinctions of Low-Frequency
+Acoustic Vibrations 6
+Concept of infrasound 6
+Mechanism of formation of infrasonic vibrations 8
+Physical characteristics of infrasound 10
+Distinctions of propagation of infrasonic vibrations 12
+Rate of propagation of infrasOund 15
+Chapter 2. Methods for Measuring and Evaluating Low-Frequency
+Acoustic Vibrations in Industry 17
+Analysis of existing methods of measuring noise and possible use
+thereof to record noise in the infrasonic range of frequencies 17
+Equipment and methods of measuring noise in the infrasonic range 19
+Chapter 3. Hygienic characteristics of Industrial Sources of
+lnfrasonic Haves 27
+Investigation of infrasonic waves in industry 27
+Evaluation of infrasonic vibration of compressors 33
+Evaluation of infrasound of vibrating surfaces 38
+lnfrasonic vibration of transportation vehicles 42
+Chapter 4. Biological Effects of Low-Frequency Vibrations in the
+lnfrasonic Range 68
+Chapter 5. Generation of lnfrasonic Waves Under Experimental
+Conditions 63
+Chapter 6. Methodological Bases of Conducting Research for the
+Study of Effects of Industrial Infrasonic Vibrations 72
+Experimental complex for biological studies and simulation of
+infrasonic field occurring in industrial premises 72
+Methods of studying the biological effects of infrasound 75
+58
+
+FOR OFFICIAL USE ONLY
+Chapter 7. Investigation of Effects of Infrasonic Vibrations on
+Experimental Animals
+Behavioral reactions of animals
+Investigation of functional state of cells of the central nervous
+system and viscera by the method of intravital tissue stain
+Investigation of functional state of the rabbit's central nervous
+and cardiovascular systems
+Investigation of microcirculation in the pie mater of white rats
+Amounts and distribution of nucleic acids in receptor cells of
+
+Corti's organ
+Investigation of enzymatic and metabolic changes in experimental
+
+animals
+Chapter 8. Histological and Electron Microscopic changes in Various
+Organs and Systems Under the Influence of Infrasound
+Morphological changes in viscera
+Reactive changes in brain cells
+Investigation of effects of infrasonic vibrations on biological
+objects
+Chapter 9. Investigation of Effects of Infrasonic Vibrations on
+Human Physiological Functions
+Subjective perception of infrasonic vibrations
+Effect of infrasonic vibrations on functional state of the
+central nervous system
+Effect of intrasonic vibrations on the cardiovascular system
+Effect of infrasonic vibrations on the respiratory system
+Condition of some analyzer systems
+Changes in the auditory analyzer
+
+Changes in the vestibular analyzer
+Changes in skin's sensitivity to vibration and temperature
+
+Physiological study of the effects of infrasound in industry
+Investigation of effects of infrasonic vibrations on man
+
+Maximum permissible levels of infrasound
+Chapter 10. Means of Prevention of Deleterious Effects of Low-
+
+Frequency Acoustic Vibrations on the Organism
+
+Medical preventive measures
+Technical methods of controlling low-frequency sonic vibrations
+
+Absorption of infrasound
+Ultrasonic insultation
+Low—frequency dampers for attenuation of infraaonic waves
+
+generated by aerodynamic processes in industrial installations
+Design proposals for reduction of noise from vibrating surfaces
+
+Bib] iography
+COPYRIGHT: Izdatel'stvo "Meditsina", Hoskva, 1981
+
+10,657
+cso: 1840/119
+
+59
+
+FIIICHHNCJA1.UEI2(HULY
+HUMAN FACTORS
+
+"DC: 629.7.05
+ANALYSIS AND OPTIMIZATION OF CONTROL SYSTEMS FOR HANNED AIRCRAFT
+
+Moscow ANALIZ I OPTIMIZATSIYA SISTER UPRAVLERIYA PILOTIRUYEHYKH LETATBL'NYKH
+APPARAIOV in Russian 1981 (signed to press 2 Jun 81) pp 2-8, 200
+
+[Annotation, introduction and table of contents from book "Analysis and
+Optimization of Control Systems for ﬂanned Aircraft", by Grigoriy Illarionovich
+Ryl'skiy, Isdatel'stvo "Hashinostroyeniye", 1260 copies, 200 pages, illus-
+trated]
+
+[Text] This book analyzes the performance of Operators in control systems (CS)
+of manned aircraft, as well as the possibility of describing it mathematically.
+A classification is proposed and analysis made of modern mathematical models
+that describe certain forms of human work in aircraft control systems. The
+advantages are shown of models that make use of queueing theory, and new
+engineering methods were developed on the basis of these models for demon-
+strating the characteristics of human operators. This book is intended for
+engineers involved with the design and operation of a broad class of man-
+machine control systems.
+
+Introduction
+
+The cybernetic problem of refining control of various systems (engineering,
+biological, economic, management [organization], man-machine, etc.) is a
+rather pressing one. The most important element of this problem is to find
+optimum variants of organization of structure and processes of control in
+
+such systems. The concept of system emerged as a result of development of en-
+gineering disciplines, since it is expressly the increasing complexity of
+various technical systems that made it necessary to elaborate methodology that
+would help integrate all parts of such systems. At the present time, there
+are quite a few definitions of system. However, there is still no conven-
+tional [generally used] definition. Each researcher gives this concept his
+own special content and singles out essentially the element of the system that
+he submits to investigation (see, for example, the works of foreign [2, 58,
+79, 92, 101, 107, 117, 121, 129, 135, 136] and Soviet [7, 43, 77, 78, 109, 113,
+119, 125, 130, 166, 107] authors).
+
+In this book, system is used to refer to the aggregate of elements that are
+interlinked into a specific structure. Hith such an approach, industrial,
+educational and research organizations, man-machine systems, equipment, etc.,
+can be considered to be a system.
+
+60
+
+FOR‘OFFHJA1.USE(NQLY
+Systems with infinite diversity can be classified according to a number of
+features: purpose, complexity, level of automation and others.
+
+Control systems (cs) are an extremely important class of systems. which are used
+to control other systems (aircraft, plant, etc.). Consequently, such systems
+must have the purpose of functioning and, BOVOOVGY. IMO: hlVB the capacity
+
+to alter the parameters (characteristics) and structures of elements and of the
+entire system in accordance to this functioning purpose. Control systems, in
+which man is an element, are called automated, ergatic, anthrOpotechnical, or-
+ganizational systems or man—equipment (man-machine) systems. It must be noted
+that all of these definitions refer chiefly to man-machine control systems
+(HHCS), i.e., in which man (or a group) interacts with technical systems and
+devices in the control process. He are not dealing here with control of social
+
+and economic processes, in which man does not necessarily interact with tech-
+nical systems.
+
+In modern CS of manned flight vehicles [aircraft] (HFV). whose complexity and cost
+are constantly rising, man's role is increasing more and more and his duties
+are growing more and more complex. However, because of the limited psycho-
+physiological and intellectual capabilities of man, he is often unable to per-
+form all of the necessary functions for the control of complex systems and
+thereby lowers drastically the efficiency of these systems. Thus, according to
+the data of American specialists, of the total number of malfunctions occurring
+in the control of complex systus, 60: in the rocket industry, 63.61 in the
+navy and up to 702 in aviation occur because of errors made by a human operator
+(H0) while controlling these systems [90]. For this reason, when developing and
+operating modern man-machine control systems, there is a pressing need to con-
+sider human factors. In this respect, aircraft and particularly MPV cs are the
+first and foremost objects of scientific work on ergonomic problems of design,
+development and operation of MHCS.
+
+Thus, analysis of Soviet and foreign-experience in the time that has elapsed
+since the start of space exploration [55, 59, 1101 enables us to derive the
+following conclusions from the standpoint of ergonomics: man can not only live
+in space for a long time, but perform efficiently a large volume of diversified
+work; the crew of manned spacecraft must participate actively in implementing
+the space flight program, assuring structural redundancy Pf onboard systems,
+and play the role of the adapting element in the general circuit of onboard 08;
+it is desirable to use man in cases where his presence aboard the spacecraft
+provides more effective solution of the target (multitarget) problem, as com—
+pared to machines, aids in maintaining spacecraft function on a high level of
+reliability and successful performance of the program as a whole, lowers the
+cost of running these programs, as compared to entirely automatic spacecraft
+(with equal effectiveness of problem solving); the designs of spacecraft and
+their onboard systems are such as to aid in making utmost use of man's capa-
+bilities, using the rich knowhow accumulated by aviation; the scope and import-
+ance of tasks put to man are increasing constantly, and special ergonomic
+studies must be pursued for them to be performed well.
+
+There are rather detailed but often far from complete data on many traits and
+characteristics of the H0, which can be considered in developing various
+elements and equipment of MMCS. Rather extensive recommendations have been
+
+61
+
+FORIOFIIClAl.lEﬂE(HVLY
+elaborated for designing information display systems (IDS), indicators and
+signals; development of control levers, consoles and stations; development of
+life support systems and systems to maintain high levels of work capacity.
+
+Use of already existing results of research in the fields of physiology, medi-
+cine, psychology, cybernetics, engineering psychology and ergonomics makes it
+possible to drastically improve the efficiency of HHCS and objects of control,
+often without any special industrial and economic expenditures. For example,
+according to 0. K. Antonov [8], use of the ergonomic approach to designing
+aircraft cockpits, as compared to previously developed ones, resulted in 20-
+40: reduction of work load for the crew with regard to equipment and improved
+distribution thereof among crew members; it increased by 30-60: the relative
+tine available to the crew for piloting the aircraft and scanning the surround-
+ings [outside the aircraft], with concurrent improvement of conditions (visi-
+bility, force applied to stick, etc.); it reduced the probability of mistakes
+and increased reliability of work done by the crew to correct accident
+[emergency] situations (AS) in flight; it increased by 15-20% the operation-
+ality, readiness of the aircraft for flight by reducing the time required for
+the crew to make preparations and taxi to the take-off position.
+
+In our opinion, all HMCS can be arbitrarily divided into three types (unlike
+the four types of operator work proposed in [54]), according to nature and
+degree of man's involvement in the control process. The first type refers to
+systems, in which man performs his functions directly, observing the object
+(process) of control and affecting it by his motor organs or using the most
+elementary equipment. In such systems (which are often called monoergatic-
+with one person), man's functions can be called technological and the operator
+could be called the technologist (according to V. P. Zinchenko [54]) or
+executor (according to Yu. G. Fokin [133]). The second type refers to HHCS,
+in which the work done by a man (or group) to control an object (process) '
+is performed by means of controls and other means on the basis of using
+information models. In such systems (often called polyergatic-with several
+operators) the man's (group's) work is called operator work and the man is
+called an operator (according to B. F. Lomov [83]). We can list as this
+
+type of human work the functions of an operator-observer and operator-
+researcher according to the classification proposed in [54]. The third type
+refers to systems, in which a team of people participates in the control pro-
+cess, some of whom, called administrators [supervisors], do not directly
+interact with equipment, but are concerned with organizing operator work. Such
+systems are usually called organizational. In this book, we shall deal with
+problems referable to uses of only these three types.
+
+The complexity of modern systems and, first of all, systems of purposeful con-
+trol made it necessary to use the so-called systems approach and general
+theory of systems (018) to develop them.
+
+According to current conceptions (see, for example, [78]), GTS refers to the
+scientific direction related to elaboration of the aggregate of philosophical,
+
+methodological, concretely scientific and applied problems of analysis and
+synthesis of complex systems of an arbitrary nature. GTS inherently strives
+
+62
+
+FOR OFFICIAL USE ONLY
+toward being interdisciplinary on the basis of creating a single scientific
+platform. This unity can be achieved by means of analogy (isomorphism) of pro-
+cesses taking place in various (engineering, biological and other) systems.
+Strictly demonstrative isomorphism of systems differing in nature permits
+“transfer" of knowledge from one discipline to another. Moreover, GTS as an
+area of scientific knowledge implies that it is possible to study the behavior,
+including purposeful behavior, of systems whatever their complexity and
+purpose.
+
+The formal organization of 618 is diverse, just as the object of its study,
+systems. For example, the following have been developed and used in a number of
+Soviet works for mathematical descriptions of real complex systems: machine-
+algebraic methods (V. H. Glushkov [37]), test theory (8. V. Yablonskiy [147]),
+operator algorithms (A. P. Yershov [55]), causal networks (A. A. Markov [86]),
+growing machines (Ye. M. Barsdin' [9]), theory of aggregate systems and
+computer modeling methods (N. P. Buslenko, I. N. Kovalenko [21]), algorithmic,
+information and network [critical-path?) methods (G. s. Pospelov, V. A.
+
+Irikov [109]).
+
+A. I. Kukhtenko [77, 78], who analyzed works dealing with mathematics and GT3,
+proposed the following classification of levels of abstract description of
+different systems: symbolic or linguistic (semiotics); theoretical-set ["multiple"];
+abstract-algebraic; topological; logical-mathematical; theoretical-informa-
+tional; dynamic; heuristic. Each of these levels has its own definition of
+system. Thus, according to H. Hesarovich [92], on the symbolic or linguistic
+level of abstract description, system refers to a set of correct statements,
+whereas on the theoretical-set level system is the reflection Szx-sY of abstract
+set x in abstract set Y, where x and Y are set of inputs and set of outputs,
+respectively. According to N. Burbaki [18], on the theoretical-set level,
+system refers to the set made up of elements that have certain properties and
+certain relations with one another and with elements of other sets.
+
+V. V. Chavchanidze, who pointed to the ineffectiveness of the proposed software
+and absence of really common elements in the approaches of different authors,
+proposed a new approach [137] to the choice of a language that would describe
+the most fully systems and structures of arbitrary complexity. Analyzing the
+concepts developed in theory of artificial intelligence (AI) and using the
+principle of potential isomorphism of the world and cognitive intelligence, he
+proposed that a description be chosen in the form of concept-models directed
+
+at man and completely simulating the process of formation of concepts by a
+natural intelligence. Studies of the mechanism of information storage in the
+brain, which are presently being conducted under the guidance of V. V.
+Chavchanidze, revealed [138] that there are special forms of information
+storage by means of elements of neuron ensembles ("memorons"). This form makes
+it possible to issue information in the form of pictures, including some that
+were not presented in the learning process. Several of the works of V. V.
+Chavchanidze deal with validation of the need and desirability of the conceptual
+approach to development of GT8 [139-161].
+
+At the present time, there is a considerable number of mathematical methods for
+analysis and optimization (according to different criteria) of control systems
+
+63
+
+IIII(MHWC1AI.USE(NVLY
+m use v..as..... ~._ you...
+
+and processes, and a rather comprehensive analysis of their current status was
+made in, for example, (36, 72, 89, 95, 96]. In these methods, the first and
+foremost objective of the researcher was to completely formalize the problem.
+and then only to choose a criterion and develop methods of optimizing the con-
+trol system or processes.
+
+Analysis of man's performance in cs shows that the current level of development
+of GTS and various special mathematical methods, as well as the inadequate know-
+ledge of psychophysiological and intellectual characteristics, and behavioral
+motivations of man during such activity, do not permit proposing a universal
+method of formalization at the present time, that would adequately describe all
+of these processes in the work of HO. However, the need to consider human fac-
+tors led to the use for formalization of different forms of no activity in CS,
+at first known methods (for example, automatic control, information theories),
+and then new and modified mathematical methods (theories of queueing-QT,
+reliability, etc.). with these methods, which make use of certain anthropometric
+data and psychophysiological characteristics of man, a number of ergonomic prob-
+lems were solved with regard to developing controls, information display systems
+and even some problems of optimum distribution of functions between man and
+equipment. In particular, determination has been made of optimum form and
+arrangement of controls and consoles, illumination characteristics, form,hloca-
+tion. means of presenting and coding information on information display systems
+for individual and-group uSe, etc.
+
+It is known that the objective of optimizing any piece of equipment is to find
+its parameters (analysis) and structure (synthesis) that will,provide the given
+quality (or efficiency). As it applies to MMCS, one of the main purposes of
+optimization is wise (or best possible) distribution of functions between 80 '
+and equipment assuring maximum (or close to it) efficiency of the entire cs. A
+unified formalized apparatus is needed, which could be used to describe the
+main properties of an HHCS for quantitative analysis and optimization of this
+
+system.
+
+In this book, analysis is made, on the basis of consideration of some types of
+no activity in modern HHCS, of the possibility of formalizing this activity
+
+by means of mathematical and cybernetic methods. In view of the relative
+simplicity of obtaining base information and running algorithms of mathematical
+description of H0 function using QT methods, an engineering method has been
+proposed and developed for defining the characteristics of an HO in the case of
+his performance with and without mistakes.
+
+Since all HMCS parameters (including no characteristics) can, in most cases, be
+divided into additive, multiplicative and logical, we have proposed here the
+choice of a "global" criterion of optimization in both a determined and stochas-
+tic formulation. Quantitative methods and algorithms for comparative analysis
+and optimization of a wide class of HHCS are offered, which are based on the
+use of mathematical (dynamic, linear and nonlinear) programming methods.
+
+The main purpose of this book was to offer engineering methods and equipment for
+optimizing uses, which could increase their efficiency and improve (accelerate
+and lower the cost) processes of designing, developing and operating them.
+
+64
+
+FOR OFFICIAL USE ONLY
+The author expresses his sincere gratitude to 8. Ya. Kuritskiy, I. Yu. Yusupov,
+A. N. Maksimenko and V. S. Cherkes, whose assistance was largely instrumental
+in writing this book, as well as to V. F. Vende for examining the manuscript
+and offering valuable comments.
+
+CONTENTS Page
+Introduction 3
+Chapter 1. Activity and Its Formalization 9
+1.1. Some definitions and concepts 9
+1.2. Possibility of formalizing activity . 12
+1.3. Methods of theory of automatic control and purposeful mechanics 18
+1.4. Methods of information and probability theories 32
+1.5. Queueing theory methods 47
+1.6. Algorithmic methods 59
+1.7. Methods of graph, net and vector optimization theories 73
+1.3. Heuristic programming and simulation of MMCS 79
+1.9. Methods of image recognition theory, artificial intelligence
+and mathematical programming 91
+Chapter 2. Formalizstion of Operator Activity by Queueing Theory Methods 105
+2.1. H0 characteristics when working without mistakes 105
+2.2. H0 characteristics with consideration of mistakes in the
+control process 115
+2.3. Engineering method of analysis of H5 performance in MMCS 126
+2.4. Example of quantitative evaluation of operatory performance '
+in a special control system 137
+Chapter 3. Optimization of Man-Machine Control Systems [MMCS] 156
+3.1. General comments and choice of special function 156
+3.2. Analysis 159
+3.3. Synthesis 164
+Chapter 4. Optimization of MMCS in Critical Situations 170
+4.1. Distinctions of H0 behavior in critical and irregular
+situations 170
+4.2. Simulation of H0 performance in critical situations 176
+4.3. Means of eliminating critical situations and criteria for
+evaluation thereof . 182
+4.4. Choice of structure of HMCS with occurrence of critical
+situation 189
+Bibliography 194
+
+COPYRIGHT: Izdatel'stvo "Mashinostroyeniye", 1981
+
+10,657
+CSO: 1840/106
+
+65
+
+FOR OFFICIAL USE ONLY
+PSYCHIATRY
+
+UDC: 616.89:06l.3](47+57)+(685)"l981"
+
+JOINT SYMPOSIUM ON BIOLOGICAL PSYCHIATRY 0F USSR ACADEMY OF MEDICAL SCIENCES
+AND SWEDISH ACADEMY OF SCIENCES
+
+Moscow ZHURNAL NEVROPATOLOCII I PSIKHIATRII IMBNI S. S. KORSAKOVA in Russian
+Vol 81, No 11, Nov 81 pp 1749-1750
+
+[Article by A. V. Vetoshkin, Moscow]
+
+[Text] The symposium of the USSR Academy of Medical Sciences and Swedish Royal
+Academy of Sciences dealing with biological psychiatry convened in Moscow from 5
+to 7 May 1981. Prominent specialists in different branches of science-psychia-
+trists, psychopharlacologists, biochemists, biophysicistsamd physiologists-
+were among its participants.
+
+In the 3 days that the symposium was at work, a total of 15 papers were delivered
+and discussed, in which Soviet and Swedish scientists submitted the results of
+basic research in the area of physiology and pathology of the brain, and introduc-
+tion thereof into clinical psychiatry.
+
+The opening remarks were delivered by S. S. Debov, vice-president of the USSR
+Academy of Medical Sciences. L. Wetterberg (head of the department of psychiatry,
+Karolinska Institute, Stockholm), head of the Swedish delegation, relayed the
+regards of the Swedish Royal Academy of Sciences to the participants and guests
+at the symposium.
+
+The program of the symposium listed discussion of the following problems: biolo-
+gically active substances of nerve tissue, in particular, neuropeptides, and
+function of receptors and membranes (lst day of the symposium); neurophysiological
+and genetic aspects of psychiatry (2d day); role of biological research in clinical
+psychiatry (3d day); in addition, questions of experimental and clinical psycho-
+pharmacology were discussed at each session.
+
+The first session began with the overview paper by Sedwall (Sweden), which des-
+cribed new methodological approaches and methods for examining spinal fluid in
+cases of diverse mental diseases. A significant part of this paper dealt with
+metabolism of neuropeptides in the presence of mental disorders. Various aspects
+of the problem of biologically active substances of nerve tissue were discussed
+
+in the papers of Academician Ye. I. Chazov (USSR), "Some Aspects of Neuropeptide
+Action," Terenius (Sweden), "Bndorphins in the Presence of Mental and Neurological
+Disorders," and A. V. Val'dmsn (USSR), "Neurotrophic Effects of Taftcin." The
+paper of Ye. I. Chazov summed up data obtained by several research teams in our
+country pertaining to the effects of neuropeptides on a number of vital functions,
+
+66
+FOR OFFICIAL USE ONLY
+including the functional state of the cardiovascular system. L. Terenius, who
+proceeded from the results of his own experimental research, offered an analysis
+of the literature pertaining to changes in endorphins in the presence of pathology
+of the nervous system and shed light on approaches (including methods) to deter-
+mination of their role in function of the central nervous system and mechanisms
+
+of action. A. V. Val'dman submitted experimental data on the effects of taftcin,
+
+a tetrapentide that is the product of immunoglobulin proteolysis. He reported
+
+the results of studies having a bearing on the question of correlation between
+
+the nervous and immune systems, routes of reciprocal regulation thereof, a problem
+that is quite important, not only to psychiatry, but many other branches of theore-
+tlcal and clinical medicine.
+
+Questions of physiology and pathology of receptors and membranes were reflected
+in two papers: "Function of Central Nervous System Receptors," by S. Ross (Sweden)
+and "Peroxidation of Lipids--0ne of the Factors in Damage to Biological Membranes
+in Schizophrenics," by L. L. Prilipko, R. R. Lideman and A. A. Zozulya (USSR).
+
+Neurophysiological aspects of brain function were discussed in the following
+papers: "Cerebral Organization of Human Emotions," by N. P. Bekhtereva, V. P.
+Smirnov and D. K. Kambarova (USSR); “Clinical and Neurophysiological Study of
+Depressive Patients," by Perris (Sweden) and K. K. Honakhov (USSR); "Experimental
+Models of Pathology of Caudate Nuclei. Neurophysiological and Neurochemical
+Mechanisms," by G. N. Kryzhanovskiy (USSR).
+
+There was broad and comprehensive discussion at the symposium of questions of
+genetics of psychoses. Hetterberg (Sweden), in a paper entitled "Genetic and
+Biochemical Aspects of Schizophrenia," Submitted the results of his many-year
+observations of a number of families burdened with schizophrenia, which were
+examined thoroughly, not only psychiatrically but for a number of biological
+parameters. I. V. Shakhmatova, V. H. Gindilis and V. D. Hoakalenko submitted the
+results of mathematical processing of numerous clinical and laboratory data ob-
+tained from examining patients and their relatives, in a paper entitled "Genetic
+Variance Analysis of Familial and Twin Data in the Presence of Schizophrenia."
+Relevant comparisons were made of different clinical classifications of schizo-
+phrenia. Eberhard (Sweden) described in detail the state of the problem of
+psychosis in twins and his own observations.
+
+SeVeral papers delivered by Swedish researchers dealt with important questions
+
+of use, interaction and metabolism of a number of psychotropic pharmacological
+agents, their possible role in regulating behavioral reactions and therapy of
+psychiatric and neurological disorders: “Pharmacology of Behavior and Psychotropic
+Agents" (Ungersredt), "Experimental Therapy of Zymelidinoma” (3. Ross) and
+"Treatment of Schizophrenia" (Bjerkenstedt).
+
+0n the last day of the symposium, there was a round table discussion chaired by
+Sedwall (Sweden) and M. Ye. Vartanyan (USSR) of two questions: the coatribution of
+biological studies to clinical psychiatry; biological factors and heterogeneity of
+mental diseases. In addition, there was broad discussion of all topics of the
+symposium, its achievements and value of basic biological research to clinical
+psychiatry.
+
+The active participation of scientists representing the USSR Academy of Medical
+Sciences--Ye. I. Chazov, A. P. Avtsyn, N. P. Bekhtereva, S. S. Debov, H. D.
+
+67
+
+IKMICHHNCJAL.USE(NNLY
+Hashkovskiy, A. V. Snezhnevskiy and A. V. Val'dman-uss largely instrumental in
+the success of this symposium.
+
+In their closing remarks, H. Ye. Vartanyan and Hetterberg.head of the Swedish
+delegation, commented on the high scientific and methodological level of the
+papers, the good organization of the symposium and all its measures, and they
+expressed the hope that this meeting would aid in further development of colla-
+boration between scientists of both countries.
+
+COPYRIchT: "Zhurnsl nevropatologii i psikhiatrii imeni S. S. Korsakova", 1981
+
+10,657
+C80: 18401102
+
+68
+
+FOR‘OFFKJAI.USE(NVLY
+UDC: 616.8+616.89]:061.3(67+57)"198l"
+CONFERENCE 0F NEUROPATHOLOGISTS AND PSYCHIATRISTS IN PERM'
+
+Moscow ZHURNAL NEVROPATOLOGII I PSIKMIATRII IMENI S. S. KORSAKOVA in Russian
+Vol 81, No 11, Nov 81 pp 1750-1751
+
+[Article by A. A. Shutov, Perm']
+
+[Text] An interoblast scientific and practical conference dealing with symptoma-
+tolosY. diagnosis and therapy of neurogenic somatic diseases was held in Perm'
+
+on 30 April to 1 July [sic] 1981. A total of 128 scientists and practicing phy-
+sicians from 35 cities of the Russian Federation, Ukraine, Kazakhstan, Uzbekistan,
+and Kirghizia participated in the work of the conference. More than 1.00 practicing
+physicians of Permskaya Oblast were also assembled there. The participants in-
+cluded neurosurgeons, cardiologists, internists, endocrinologists, otolaryngolo-
+gists and other specialists, due to the "synthetic” program of the conference.
+
+A large place was occupied by papers disclosing the pathogenesis, essence and
+nature of somatic disturbances in patients with neuroses and individuals with
+borderline states. Key issues concerning neurosomatic, psychosomatic relations and
+mechanisms of formation of psychovegetative syndromes were raised for discussion
+
+in the papers of A. M. Veyn (Moscow), Ye. M. Panchenko et al. (Voroshilovgrad),
+
+V. A. Karlov et al. (Moscow), T. D. Bol'shakova et al. (Moscow) and others. There
+was broad discussion of the problem of vegetovascular dystonia. The papers of
+
+Ye. M. Burtsev et a1. (Irkutsk), 0. A. Kolosova (Moscow), D. D. Sosontova (Perm'),
+L. A. Nifontova (Moscow), L. V. Pustokhanova (Perm') and others submitted data on
+the neurosomatic basis of the symptom complex of vegetovascular dystonia. neuro-
+humoral and neuroendocrine changes in patients with autonomic paroxysms, syncopic
+states and arterial hypotension.
+
+A special meeting was devoted to neurogenic and other mechanisms of formation of
+arterial hypertension and ischemic heart disease. The papers of Z. A. Skudarnova
+et al. (Smolensk), A. V. Thyev et a1. (Perm'), V. F. Vinogradov (Kalinin), V. S.
+Movsesov et al. (Sverdlovsk), Ye. V. Vladimirskiy (Perm'), V. V. Solozhenkin
+(Frunze) and others disclosed concrete pathogenetic factors in formation of cardio-
+vascular pathology. Distinctions of psychovegetative organisation of patients
+
+who had suffered myocardial infarction and the role of the psychological factor in
+the process of rehabilitation following ischemic heart disease were the topics of
+A. R. Rakhlmdzhanov et al. (Tashkent), A. A. Glaurov (Si-feropol'). M. B. Lantsberg
+et al. (Perm'). The papers of A. D. Solov'yeva (Moscow), N. S. Tsimnerman et al.
+(Pern'), L. Ye. Snirnova (Kalinin), B. I. Kamenetskaya et al. (Moscow) and others
+dealt with cerebral (psychogenic) factors and mechanisms of breakdown of mediator
+systems in development of essential hypertension and peptic ulcer.
+
+69
+
+FOR(MHW(JAI.USE(NVLY
+New data were reported at the conference on the pathogenesis of somatic distur-
+bances associated with organic brain disease. On the basis of the results of
+stereotactic operations and pathohistological (morphometric in particular)
+studies, cerebral mechanisms of integration of autonomic functions, autonomic and
+somatic effects of therapeutic destruction of different brain structures. changes
+in the neurosecretory system of the hypothalamus and role of the limbic-reticular
+complex in expression of somatic pathology were demonstrated in a series of
+
+papers delivered by the staff ofthe Kuybyshev Clinic of Neurological Diseases and
+Neurosurgery (L. N. Nesterov et al.; N. N. Solovykh et al.; V. V. Skupchenko et
+al.; Yu. I. Kravtsov), as sell as A. Yu. Hakarov et a1. (Leningrad). The nature
+of somatic disturbances was described comprehensively in the presence of brain
+tumors (0. V. Grinkevich et al., Sverdlovsk), epilepsy (V. I. Okladnikov, Irkutsk;
+V. A. Gusev, Ryazan',and others), cerebrocranial trauma and ischemic attack
+
+(B. V. Zapadnyuk, Kiev; P. V. Voloshin et al., Kharikov,and others), hereditary
+ataxia (V. N. Klyuchikov et al., Yaroslavl'), syringomyelia (Ye. N. Leksin et al.,
+Saransk) and tick—borne encephalitis (A. P. Iyerusalimskiy, Novosibirsk).
+
+immunological, allergological problems of epilepsy, parkinsonism and a number of
+other pathological states were the topics of I. G. Shabalina (Omsk), N. F. Garishina
+ct al. (Perm') and s. K. Yevtuahenko (Donetsk). Neuroendocrine aspects of cerebra-
+cranial trauma,epileps» cerebral accidents and muscular diseases were discussed
+
+in the papers of A. A. Shutov et al. (Perm') and A. A. Skoromets (Leningrad). The
+paper of A. Yu. Ratner et al. (Kazan') called attention to the incidence and role
+
+of natal injury to the nervous system in development of somatic diseases in
+
+children and adults. There was also discussion of neurogenic mechanisms and clinical
+manifestations of gastrointestinal disorders (L. G. Yerokhina et al., Moscow; A. I.
+Loktionova, Aatrakhan'), bronchopulmonary pathology (Yu. A. Kulakov, Tomak), sclero-
+dermia (G. Ya. Vysotskiy, Semipalatinsk), sporadic goiter (H. N. Krasil’nikova,
+Ufa), some rare neuropathological syndromes (V. Ye. Grechko et al., Moscow; 1. V.
+Borzenkov et al., Perm'; T. S. Osintseva, Izhevsk) and other diseases.
+
+This conference demonstrated the increasing interest of physicians in all specialties
+in the problem of neurosomatic and psychosomatic pathology. It reflected a certain
+stage of investigation of neurosomatic correlations. The adopted resolution outlined
+future plans for investigation of the role of the nervous system in the genesis of
+somatic diseases. It was stressed that a complex approach must be used to study
+neurogenic somatic pathology, paying attention to cerebral (neurogenic, psychogenic),
+vegetoviscerai, neurohumoral and neuroendocrine, as well as other mechanisms of
+
+its formation. Attention was called to the desirability of expanding, deepening
+
+and coordinating research on neurogenic somatic pathology, particularly in the
+
+area of developing new methods of treating neurosomatic disturbances. It was pro-
+posed that a unifiedmethodologicalapproach be elaborated, which could be used to
+conduct research on the problem in question, as well as to standardize the termino-
+logy, which is quite confused at the present time.
+
+A collection of summaries of delivered papers was published, which reflected all
+of the material presented at the conference.
+
+COPYRIGHT: ”Zhurnal nevropatologii i psikhiatrii imeni S. S. Korsakova", 1981
+
+10,657
+C50: 1860/102 .. m -
+
+70
+
+FOI‘OFFKJAI.USEGDNLY
