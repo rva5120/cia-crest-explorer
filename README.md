@@ -18,7 +18,7 @@ Run this script for more specific instructions about each of the tools described
 
 2. clustering/
 
-In this folder you will find the 'crest_clustering.py' script that allows you to run a machine learning clustering algorithm to group the dataset documents in clusters. The clustering occurs by weighted term frequency. In this folder you can also see a sample output 'clusters_40/', which is a sample run of the clustering script with a number of clusters set to 40. This can be modified in the script.
+In this folder you will find the `crest_clustering.py` script that allows you to run a machine learning clustering algorithm to group the dataset documents in clusters. The clustering occurs by weighted term frequency. In this folder you can also see a sample output `clusters_40/`, which is a sample run of the clustering script with a number of clusters set to 40. This can be modified in the script.
 If you are unsure of the number of clusters to choose, you may try to use the Silhoutte Method described [here](http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html#sphx-glr-auto-examples-cluster-plot-kmeans-silhouette-analysis-py).
 
 3. dataset/
