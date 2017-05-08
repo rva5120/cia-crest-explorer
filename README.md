@@ -25,10 +25,13 @@ If you are unsure of the number of clusters to choose, you may try to use the Si
 
 Inside of the dataset folder you can find ~1000 text files. These are files that contain the text extracted from the original PDFs on the CIA CREST Archive. Inside of the folder, you can find subfolders that break down the documents by the collection they belong to. For more information on the available collections, please refer to the CREST Archive website noted above.
 
+Note: If you are interested in crawling the entire dataset, consider taking a look at this tool: https://github.com/skydome20/crawler_CIA_CREST
+
 4. **tools/**
 
 The tools folder contains three scripts to OCR, create XML files to be fed to a Solr search engine, and a [simple implementation of a generative machine learning model](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) to run with the CREST Archive documents.
 To OCR a folder with documents, please refer to the `ocr_tool/convert_all.sh` script. Or you may simply run the `get_text.py` script. Note that *this script takes in an input file as an argument*. The OCR tool we are using here is [doc2text](https://github.com/jlsutherland/doc2text).
+
 
 ## 3. Contact Information
 [Raquel Alvarez](rva5120@cse.psu.edu)
